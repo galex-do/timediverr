@@ -1,0 +1,1016 @@
+{
+  "description": "Dataset with 53 events covering 408–1439 AD",
+  "events": [
+    {
+      "date": "01.05.0408",
+      "era": "AD",
+      "name": "Theodosius II — A Child Leads the Eastern Empire",
+      "name_ru": "Феодосий II — ребёнок во главе Восточного Рима",
+      "description": "Arcadius dies leaving his seven-year-old son Theodosius II as Emperor of the East, with a regency council led by the Praetorian Prefect Anthemius governing in his name. His forty-two-year reign — the longest of any Roman or Byzantine emperor — proves decisive for the survival of the eastern state: stable finances, no catastrophic civil wars, and the coming construction of Constantinople's great walls give the east the structural durability the west fatally lacks. His elder sister Pulcheria effectively runs the court for much of his youth, achieving the rank of Augusta and wielding imperial authority unprecedented for a woman.",
+      "description_ru": "Аркадий умирает, оставляя семилетнего сына Феодосия II императором Востока; регентский совет во главе с префектом претория Анфемием правит от его имени. Его сорокадвухлетнее правление — самое долгое в истории римских и Byzantine императоров — окажется решающим: стабильные финансы, отсутствие гражданских войн и строительство великих стен Константинополя дадут Востоку ту структурную прочность, которой фатально не хватает Западу. Его старшая сестра Пульхерия фактически управляет двором большую часть его юности, добившись сана Августы.",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "source": "https://en.wikipedia.org/wiki/Theodosius_II",
+      "tags": [
+        "Byzantine",
+        "Emperor",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0413",
+      "era": "AD",
+      "name": "Theodosian Walls Built — Constantinople Becomes Impregnable",
+      "name_ru": "Стены Феодосия — Константинополь становится неприступным",
+      "description": "The great land walls of Constantinople are constructed under Praetorian Prefect Anthemius — a triple line of defences: an outer moat, a low outer wall, and a massive inner wall eighteen metres high with towers every fifty-five metres, stretching six kilometres from the Sea of Marmara to the Golden Horn. The Theodosian Walls are among the most formidable fortifications ever built: they repel every attacker for over a thousand years, from Attila the Hun to Murad II, making Constantinople effectively unconquerable by any force short of betrayal or overwhelming artillery. They are the single most important physical reason for the Byzantine Empire's longevity.",
+      "description_ru": "Великие сухопутные стены Константинополя возводятся под руководством префекта претория Анфемия — тройная линия обороны: внешний ров, низкая внешняя стена и массивная внутренняя стена высотой восемнадцать метров с башнями через каждые пятьдесят пять метров, протянувшаяся шесть километров. Стены Феодосия отражают каждого нападающего на протяжении более тысячи лет — от Аттилы до Мурада II. Они являются важнейшей физической причиной долголетия Byzantine Empire.",
+      "latitude": 41.0128,
+      "longitude": 28.9497,
+      "source": "https://en.wikipedia.org/wiki/Walls_of_Constantinople",
+      "tags": [
+        "Byzantine",
+        "Architecture",
+        "Engineering ⚙️",
+        "Fortification"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "22.06.0431",
+      "era": "AD",
+      "name": "Council of Ephesus — Nestorius Condemned, Church Fractures",
+      "name_ru": "Эфесский собор — Несторий осуждён, Церковь раскалывается",
+      "description": "The Third Ecumenical Council convenes at Ephesus to adjudicate the controversy over Patriarch Nestorius of Constantinople, who argued that Mary should be called 'Christotokos' (Christ-bearer) rather than 'Theotokos' (God-bearer), implying a problematic separation of Christ's divine and human natures. Cyril of Alexandria outmanoeuvres Nestorius, secures his condemnation and exile, and establishes Theotokos as binding doctrine before the eastern Syrian delegation even arrives. The Council fractures the church permanently: supporters of Nestorius establish the Church of the East, which carries Christianity through Persia, Central Asia, and as far as Tang Dynasty China — entirely outside Byzantine control.",
+      "description_ru": "Третий Вселенский Собор созывается в Эфесе для разрешения спора о Константинопольском патриархе Нестории, утверждавшем, что Марию следует называть «Христотокос», а не «Богородицей». Кирилл Александрийский добивается осуждения и ссылки Нестория и утверждает Theotokos обязательной доктриной. Собор навсегда раскалывает церковь: сторонники Нестория основывают Церковь Востока, распространившую христианство через Персию, Центральную Азию и Китай.",
+      "latitude": 37.94,
+      "longitude": 27.34,
+      "source": "https://en.wikipedia.org/wiki/First_Council_of_Ephesus",
+      "tags": [
+        "Byzantine",
+        "Christian",
+        "Council",
+        "Theology",
+        "Schism"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "15.02.0438",
+      "era": "AD",
+      "name": "Codex Theodosianus — Roman Law Compiled for the First Time",
+      "name_ru": "Кодекс Феодосия — первая систематизация римского права",
+      "description": "The Codex Theodosianus — sixteen books of systematically organised imperial edicts from Constantine I through Theodosius II — is simultaneously adopted as law in both the Eastern and Western empires, the last moment of genuine legal unity between the two halves of Rome. It is the first comprehensive attempt to organise accumulated imperial legislation since Diocletian's earlier codification, and its method of organising laws thematically provides the direct model for Justinian's far more ambitious Corpus Juris Civilis ninety years later. Its promulgation is celebrated with public readings in the Senate houses of both Rome and Constantinople.",
+      "description_ru": "Codex Theodosianus — шестнадцать книг систематически упорядоченных имперских эдиктов от Константина I до Феодосия II — одновременно принят законом в обеих империях — последний момент подлинного правового единства двух половин Рима. Это первая всеобъемлющая попытка упорядочить накопленное имперское законодательство, и его метод тематической организации служит образцом для Corpus Juris Civilis Юстиниана девяносто лет спустя. Его обнародование отмечается публичными чтениями в Сенате Рима и Константинополя.",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "source": "https://en.wikipedia.org/wiki/Codex_Theodosianus",
+      "tags": [
+        "Byzantine",
+        "Law",
+        "Reform",
+        "Administration"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0447",
+      "era": "AD",
+      "name": "Attila Ravages the Balkans, Constantinople Pays Tribute",
+      "name_ru": "Аттила опустошает Балканы — Константинополь платит дань",
+      "description": "Attila leads the most devastating Hunnic invasion of Byzantine territory, crossing the Danube and systematically destroying over seventy cities — including Naissus, the birthplace of Constantine the Great — before advancing to within a day's march of Constantinople. The newly-repaired Theodosian Walls hold, but the Eastern Empire is forced to sign the humiliating Treaty of Anatolius, paying 6,000 pounds of gold in back tribute and 2,100 pounds annually thereafter. The campaign demonstrates both the empire's military vulnerability in the open field and the priceless strategic value of Constantinople's walls.",
+      "description_ru": "Аттила ведёт наиболее опустошительное гуннское вторжение на Byzantine территорию, пересекая Дунай и систематически разрушая более семидесяти городов, включая Наисс — родину Константина Великого, — прежде чем продвинуться в однодневный переход от Константинополя. Стены Феодосия выстоят, но Восточная империя вынуждена подписать унизительный Анатолиев договор с огромными выплатами золота. Кампания демонстрирует как военную уязвимость империи в открытом поле, так и бесценную ценность константинопольских стен.",
+      "latitude": 43.32,
+      "longitude": 21.9,
+      "source": "https://en.wikipedia.org/wiki/Hunnic_invasions_of_the_Balkans",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Crisis",
+        "Huns",
+        "Decline"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "08.10.0451",
+      "era": "AD",
+      "name": "Council of Chalcedon — Two Natures of Christ, the Church Divides",
+      "name_ru": "Халкидонский собор — два естества Христа, Церковь раскалывается",
+      "description": "The Fourth Ecumenical Council convenes across the Bosphorus from Constantinople and defines the Chalcedonian formula: Christ is fully divine and fully human, two complete natures in one person without confusion or separation. Egypt, Syria, and large parts of the Eastern Church reject this as crypto-Nestorianism, embracing instead Miaphysitism, and break away permanently to form the Coptic, Ethiopian, Armenian, and Syrian Orthodox churches. The schism irrevocably alienates the empire's richest provinces — a theological fissure that the Arab conquests exploit two centuries later, as Miaphysite Syrians and Egyptians find Muslim rulers more tolerable than Byzantine religious enforcement.",
+      "description_ru": "Четвёртый Вселенский Собор формулирует Халкидонское определение: Христос полностью божественен и полностью человечен, два полных естества в одном лице. Египет, Сирия и значительная часть восточной церкви отвергают это как скрытое несторианство и навсегда отделяются, образуя Коптскую, Эфиопскую, Армянскую и Сирийскую православные церкви. Раскол безвозвратно отчуждает богатейшие провинции империи — уязвимость, которую арабские завоевания эксплуатируют два столетия спустя.",
+      "latitude": 40.99,
+      "longitude": 29.03,
+      "source": "https://en.wikipedia.org/wiki/Council_of_Chalcedon",
+      "tags": [
+        "Byzantine",
+        "Christian",
+        "Council",
+        "Theology",
+        "Schism"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "04.09.0476",
+      "era": "AD",
+      "name": "Western Rome Falls — Byzantium Becomes the Sole Rome",
+      "name_ru": "Западный Рим падает — Byzantия становится единственным Римом",
+      "description": "The Germanic chieftain Odoacer deposes Romulus Augustulus and sends the western imperial regalia to Constantinople rather than proclaiming a new western ruler, symbolically acknowledging Emperor Zeno as the sole legitimate Roman sovereign. The Eastern Empire does not mourn the west but absorbs its legacy: Byzantine emperors will continue styling themselves 'Emperor of the Romans,' maintain Roman law, and claim sovereignty over the entire former Roman world. The fall of the west, far from weakening Byzantium, concentrates its identity as the authentic continuation of Rome — a claim it will maintain for nearly a thousand years more.",
+      "description_ru": "Германский вождь Одоакр низлагает Ромула Августула и отправляет западные имперские регалии в Константинополь, символически признавая императора Зенона единственным законным римским сувереном. Восточная империя впитывает наследие запада: Byzantine императоры продолжают именовать себя «Императорами римлян», поддерживать римское право и претендовать на суверенитет над всем бывшим римским миром. Падение Запада, далеко не ослабив Byzantию, концентрирует её идентичность как подлинного продолжения Рима.",
+      "latitude": 44.42,
+      "longitude": 12.2,
+      "source": "https://en.wikipedia.org/wiki/Romulus_Augustulus",
+      "tags": [
+        "Byzantine",
+        "Roman",
+        "Political",
+        "Decline"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "11.04.0491",
+      "era": "AD",
+      "name": "Anastasius I's Reforms Stabilize the Byzantine Economy",
+      "name_ru": "Реформы Анастасия I стабилизируют экономику Byzantии",
+      "description": "Emperor Anastasius I undertakes a sweeping overhaul of the Byzantine monetary system, most crucially introducing the follis — a large standardised bronze coin that restores confidence in everyday commerce — while abolishing the hated chrysargyron tax on merchants levied every four years. He also introduces more efficient tax collection through professional officials, leaving the treasury so full that he bequeaths 320,000 pounds of gold to his successor Justin I. This financial stability directly enables Justinian I's massively expensive reconquest campaigns two decades later, making Anastasius the unsung architect of Byzantium's sixth-century apogee.",
+      "description_ru": "Император Анастасий I предпринимает масштабный пересмотр Byzantine денежной системы, прежде всего вводя фоллис — крупную стандартизированную бронзовую монету, восстанавливающую доверие к повседневной торговле, — и упраздняя ненавистный хрисаргирон. Он также вводит более эффективный сбор налогов, оставив казну настолько полной, что завещает преемнику 320 000 фунтов золота. Эта финансовая стабильность непосредственно обеспечивает дорогостоящие завоевательные кампании Юстиниана I, делая Анастасия незаметным архитектором апогея Byzantии VI века.",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "source": "https://en.wikipedia.org/wiki/Anastasius_I_Dicorus",
+      "tags": [
+        "Byzantine",
+        "Reform",
+        "Administration",
+        "Economic"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.08.0527",
+      "era": "AD",
+      "name": "Justinian I Becomes Emperor — Theodora Rules Alongside Him",
+      "name_ru": "Юстиниан I становится императором — Феодора правит рядом с ним",
+      "description": "Justinian I accedes to the throne with his wife Theodora — formerly an actress and daughter of a Hippodrome bear-keeper, elevated through intelligence and force of personality to the rank of Augusta and co-ruler. Their partnership transforms the empire: Justinian provides the administrative and legal vision; Theodora the political ruthlessness and populist instinct. Their reign (527–565) represents the last coherent attempt to reconstitute the full Roman Empire, producing lasting achievements in law, architecture, and theology that define Byzantine civilisation for centuries.",
+      "description_ru": "Юстиниан I восходит на трон вместе со своей женой Феодорой — бывшей актрисой и дочерью смотрителя медведей на ипподроме, возвысившейся до ранга Августы и соправительницы. Их партнёрство преобразует империю: Юстиниан обеспечивает административное и правовое видение; Феодора — политическую беспощадность. Их правление (527–565 гг.) является последней последовательной попыткой воссоздать полную Римскую империю, создав достижения, определяющие Byzantine цивилизацию на столетия.",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "source": "https://en.wikipedia.org/wiki/Justinian_I",
+      "tags": [
+        "Byzantine",
+        "Emperor",
+        "Political",
+        "Reform"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "07.04.0529",
+      "era": "AD",
+      "name": "Corpus Juris Civilis — Roman Law Codified for All Time",
+      "name_ru": "Corpus Juris Civilis — римское право кодифицировано навсегда",
+      "description": "The Corpus Juris Civilis — commissioned by Justinian and compiled under the jurist Tribonian — is issued in successive parts: the Codex collects imperial legislation; the Digest systematises classical juristic writings; the Institutes provides a student textbook; and the Novels record Justinian's own new legislation. Together they represent the most influential legal document in Western history, forming the basis of the legal systems of virtually every European country and many of their former colonies. When Roman law was rediscovered in medieval Bologna, it was Justinian's Corpus that was studied — making Byzantine scholarship the direct foundation of modern European law.",
+      "description_ru": "Corpus Juris Civilis — заказанный Юстинианом и составленный юристом Трибонианом — издаётся последовательными частями: Кодекс собирает имперское законодательство, Дигесты систематизируют труды классических юристов, Институции дают студенческий учебник, а Новеллы фиксируют новое законодательство Юстиниана. Вместе они представляют наиболее влиятельный правовой документ в западной истории. Когда римское право было заново открыто в средневековой Болонье, именно Corpus Юстиниана стал предметом изучения.",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "source": "https://en.wikipedia.org/wiki/Corpus_Juris_Civilis",
+      "tags": [
+        "Byzantine",
+        "Law",
+        "Reform",
+        "Administration"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "11.01.0532",
+      "era": "AD",
+      "name": "Nika Riots — Constantinople Burns, Theodora Saves the Throne",
+      "name_ru": "Восстание Ника — Константинополь в огне, Феодора спасает трон",
+      "description": "The Nika Riots begin when the rival Blue and Green chariot-racing factions unite in the Hippodrome against Justinian, burning large sections of Constantinople including the original Hagia Sophia and the Senate, and proclaiming a rival emperor. Justinian is on the verge of fleeing the city when Theodora delivers her famous speech — 'Purple is the finest shroud' — and refuses to abandon the throne. The general Belisarius is sent into the Hippodrome with troops; approximately 30,000 rioters are massacred in a single day. The burned ruins clear the ground for Justinian's great building programme, including the new Hagia Sophia.",
+      "description_ru": "Восстание Ника начинается, когда соперничающие фракции Blues и Greens объединяются на ипподроме против Юстиниана, сжигая значительную часть Константинополя и провозглашая соперника-императора. Юстиниан готов бежать из города, когда Феодора произносит знаменитую речь: «Порфира — лучший саван». Велисарий отправлен с войсками на ипподром; около 30 000 бунтовщиков убито за один день. Выжженные руины расчищают место для великой строительной программы Юстиниана.",
+      "latitude": 41.0055,
+      "longitude": 28.9762,
+      "source": "https://en.wikipedia.org/wiki/Nika_riots",
+      "tags": [
+        "Byzantine",
+        "Crisis",
+        "Civil War",
+        "Emperor"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "15.09.0533",
+      "era": "AD",
+      "name": "Belisarius Reconquers North Africa from the Vandals",
+      "name_ru": "Велисарий отвоёвывает Северную Африку у вандалов",
+      "description": "The brilliant general Belisarius lands in North Africa with only 15,000 men and defeats the Vandal kingdom in two decisive battles — Decimum and Tricamarum — within four months, capturing the Vandal king Gelimer and sending him in chains to Constantinople for a triumph, the first staged in the capital for centuries. The reconquest of the grain-rich African provinces is strategically vital: Africa supplies much of the empire's grain and tax revenue, and its recovery seems to confirm that the full reconstitution of the Roman Empire is achievable. Within a decade Justinian will attempt the same in Italy, with far more costly and ultimately futile results.",
+      "description_ru": "Блестящий полководец Велисарий высаживается в Северной Африке всего с 15 000 воинов и за четыре месяца разбивает Вандальское королевство в двух решающих сражениях, захватив вандальского короля Гелимера и отправив его в цепях на триумф — первый в столице за несколько веков. Отвоевание богатых зерном африканских провинций жизненно важно: Африка поставляет значительную часть зерна и налоговых доходов. В течение десяти лет Юстиниан предпримет то же самое в Италии — с несравнимо большими потерями.",
+      "latitude": 36.85,
+      "longitude": 10.33,
+      "source": "https://en.wikipedia.org/wiki/Vandalic_War",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Battle",
+        "Reconquest",
+        "Expansion"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0535",
+      "era": "AD",
+      "name": "Gothic Wars — Byzantium Reconquers Italy at Ruinous Cost",
+      "name_ru": "Готские войны — Byzantия отвоёвывает Италию ценой разорения",
+      "description": "Justinian launches the invasion of Italy to overthrow the Ostrogothic Kingdom, commissioning Belisarius and later the eunuch general Narses to reclaim Rome. What begins as a swift reconquest turns into a twenty-year war of attrition: Rome changes hands five times, its population collapses from perhaps 300,000 to 30,000, and the old senatorial aristocracy is virtually extinguished. The war is ultimately won at Busta Gallorum and Mons Lactarius, but the Italy that emerges is so devastated that the Lombards, arriving from the north thirteen years later, overrun most of it almost unopposed.",
+      "description_ru": "Юстиниан начинает вторжение в Италию, поручив Велисарию, а позже евнуху-полководцу Нарсесу свергнуть Остготское королевство. То, что начинается как стремительное отвоевание, превращается в двадцатилетнюю войну на истощение: Рим переходит из рук в руки пять раз, население сокращается с, возможно, 300 000 до 30 000. Война выиграна, но Италия настолько опустошена, что лангобарды, пришедшие тринадцать лет спустя, захватывают бо́льшую её часть почти без сопротивления.",
+      "latitude": 41.89,
+      "longitude": 12.49,
+      "source": "https://en.wikipedia.org/wiki/Gothic_War_(535%E2%80%93554)",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Reconquest",
+        "Expansion",
+        "Crisis"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "27.12.0537",
+      "era": "AD",
+      "name": "Hagia Sophia Consecrated — The Greatest Church in the World",
+      "name_ru": "Освящение Святой Софии — величайшая церковь мира",
+      "description": "The new Church of the Holy Wisdom (Hagia Sophia) is consecrated in Constantinople — its dome 31 metres in diameter rising 55 metres above the floor on a ring of 40 windows that makes it appear to float on light, built in just five years by teams of 10,000 workers under the mathematicians Anthemius of Tralles and Isidore of Miletus. It is the largest interior space in the world for nearly a thousand years and the theological heart of the Byzantine world. At the dedication Justinian reportedly exclaimed 'Solomon, I have surpassed thee!' — an invocation of the Temple in Jerusalem that defines the building's civilisational ambition.",
+      "description_ru": "Новая Церковь Святой Премудрости освящается в Константинополе — её купол диаметром 31 метр возвышается на 55 метров на кольце из 40 окон, создающих ощущение, что он парит на свету, построенный за пять лет 10 000 рабочими. Она является крупнейшим внутренним пространством в мире почти тысячу лет и теологическим сердцем Byzantine мира. При посвящении Юстиниан воскликнул: «Соломон, я превзошёл тебя!» — призыв Храма в Иерусалиме, определяющий цивилизационные амбиции здания.",
+      "latitude": 41.0086,
+      "longitude": 28.9802,
+      "source": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+      "tags": [
+        "Byzantine",
+        "Architecture",
+        "Engineering ⚙️",
+        "Christian",
+        "Temple"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0541",
+      "era": "AD",
+      "name": "Plague of Justinian — First Bubonic Plague Pandemic Strikes",
+      "name_ru": "Чума Юстиниана — первая пандемия бубонной чумы поражает империю",
+      "description": "The Plague of Justinian — the first reliably documented outbreak of bubonic plague (Yersinia pestis) in history — arrives from Egypt through grain shipments and spreads rapidly throughout the Byzantine world, killing perhaps 25–50 million people across the Mediterranean over the following two centuries of recurring outbreaks. In Constantinople at its peak, the historian Procopius records ten thousand dying per day; Justinian himself contracts the disease but survives. The pandemic devastates tax revenues, empties villages, weakens the army, and undermines the overextended reconquest — arguably the decisive structural cause of the empire's seventh-century crisis, arriving precisely when the empire is at maximum extension and minimum reserve.",
+      "description_ru": "Чума Юстиниана — первая достоверно задокументированная вспышка бубонной чумы в истории — прибывает из Египта и стремительно распространяется, убив, возможно, 25–50 миллионов человек по всему Средиземноморью за следующие два века повторяющихся вспышек. Прокопий фиксирует десять тысяч смертей в день в Константинополе; сам Юстиниан заболел, но выжил. Пандемия опустошает налоговые доходы, ослабляет армию и подрывает перегруженное завоевание — вероятно, решающая структурная причина кризиса VII века.",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "source": "https://en.wikipedia.org/wiki/Plague_of_Justinian",
+      "tags": [
+        "Byzantine",
+        "Plague",
+        "Crisis",
+        "Disaster"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "14.11.0565",
+      "era": "AD",
+      "name": "Justinian Dies, Leaving a Brilliant but Exhausted Empire",
+      "name_ru": "Смерть Юстиниана — блестящая, но истощённая империя",
+      "description": "Justinian I dies aged around eighty-three, leaving an empire stretching from Spain to Mesopotamia — the largest Byzantine territory ever — but financially ruined, militarily overstretched, and demographically devastated by plague. His legal and architectural legacy is permanent: the Corpus Juris Civilis and Hagia Sophia outlast the empire by centuries. His strategic legacy is more ambiguous: the western reconquests begin unravelling within years as Lombards take Italy, and the resources spent on reconquest leave the eastern frontiers fatally underfunded for the coming Sassanid and Arab onslaught.",
+      "description_ru": "Юстиниан I умирает в возрасте около восьмидесяти трёх лет, оставляя империю, простирающуюся от Испании до Месопотамии — крупнейшую из когда-либо существовавших Byzantine территорий, — но финансово разорённую, военно перегруженную и демографически опустошённую чумой. Его правовое и архитектурное наследие неизменно: Corpus Juris Civilis и Святая София переживут империю на века. Западные завоевания начинают рассыпаться в течение нескольких лет, а восточные рубежи остаются фатально недофинансированными.",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "source": "https://en.wikipedia.org/wiki/Justinian_I",
+      "tags": [
+        "Byzantine",
+        "Emperor",
+        "Death",
+        "Decline"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.04.0568",
+      "era": "AD",
+      "name": "Lombards Invade Italy, Undoing Justinian's Reconquest",
+      "name_ru": "Лангобарды вторгаются в Италию — завоевание Юстиниана рассыпается",
+      "description": "King Alboin leads the Lombard people from Pannonia into northeastern Italy, capturing most of the peninsula within three years and leaving Byzantium clinging to Ravenna, Rome, Naples, and the Venetian lagoon islands. The invasion permanently ends Justinian's dream of a unified Mediterranean Roman Empire: Italy will never again be under a single ruler until the nineteenth century, and Byzantine Italy becomes an exarchate rather than the heart of empire. The loss of Italy's agricultural and tax resources accelerates the Byzantine retreat from the western Mediterranean.",
+      "description_ru": "Король Альбоин ведёт лангобардов из Паннонии в Северо-Восточную Италию, захватывая большинство полуострова за три года и оставляя Byzantию удерживать лишь Равенну, Рим, Неаполь и лагунные острова. Вторжение навсегда завершает мечту Юстиниана о единой средиземноморской Римской империи: Италия не будет под властью единого правителя до XIX века. Потеря Italian сельскохозяйственных и налоговых ресурсов ускоряет Byzantine отступление из западного Средиземноморья.",
+      "latitude": 45.47,
+      "longitude": 9.19,
+      "source": "https://en.wikipedia.org/wiki/Lombards",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Decline",
+        "Conquest"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "05.10.0610",
+      "era": "AD",
+      "name": "Heraclius Overthrows the Tyrant Phocas, Empire on the Brink",
+      "name_ru": "Ираклий свергает тирана Фоку — империя на краю пропасти",
+      "description": "The general Heraclius sails from Carthage with a fleet to Constantinople, overthrows and executes the brutal usurper Phocas — who had murdered Emperor Maurice in 602 and whose chaotic reign invited simultaneous Sassanid and Avar invasions that stripped the Balkans and pushed to within fifty kilometres of Constantinople. Heraclius inherits an empire in catastrophic condition: the treasury is empty, the army shattered, the Sassanids advancing through Syria into Egypt, and the Avar Khaganate occupying most of the Balkans. His subsequent transformation of this disaster into one of the most improbable military recoveries in history makes his reign one of the most consequential in Byzantine history.",
+      "description_ru": "Полководец Ираклий плывёт из Карфагена с флотом в Константинополь, свергает и казнит жестокого узурпатора Фоку — убившего в 602 г. императора Маврикия с сыновьями, чьё хаотичное правление вызвало одновременные сасанидское и аварское вторжения. Ираклий принимает в наследство империю в катастрофическом состоянии: казна пуста, армия разбита, сасаниды наступают через Сирию в Египет. Его превращение этой катастрофы в одно из наиболее невероятных военных восстановлений в истории делает его правление одним из важнейших в Byzantine истории.",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "source": "https://en.wikipedia.org/wiki/Heraclius",
+      "tags": [
+        "Byzantine",
+        "Emperor",
+        "Civil War",
+        "Crisis"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "05.05.0614",
+      "era": "AD",
+      "name": "Sassanids Sack Jerusalem, Carry Off the True Cross",
+      "name_ru": "Сасаниды разграбляют Иерусалим, захватывают Крест Господень",
+      "description": "The Sassanid Persian army under Shahrbaraz captures Jerusalem after a brief siege, massacring perhaps 57,000 inhabitants, enslaving survivors, and carrying off the most sacred relic of Christendom — the True Cross — to Ctesiphon. The Church of the Holy Sepulchre is burned and the city's Christian population largely extinguished or enslaved. Combined with the Persian conquests of Syria, Palestine, and the coming seizure of Egypt, the disaster reduces the empire to Anatolia and Constantinople; Heraclius's recovery of Jerusalem and the True Cross will define his career as the supreme military achievement of his age.",
+      "description_ru": "Сасанидская армия под командованием Шахрбараза захватывает Иерусалим, убив, возможно, 57 000 жителей и уведя в плен самую священную реликвию христианства — Крест Господень. Церковь Гроба Господня сожжена, большая часть христианского населения уничтожена или порабощена. В совокупности с завоеванием Сирии, Палестины и Египта катастрофа сводит империю к Анатолии и Константинополю. Возвращение Иерусалима и Креста Ираклием определит его карьеру.",
+      "latitude": 31.778,
+      "longitude": 35.235,
+      "source": "https://en.wikipedia.org/wiki/Sasanian_conquest_of_Jerusalem",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Battle",
+        "Persian",
+        "Sassanid",
+        "Crisis",
+        "Christian"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "29.06.0626",
+      "era": "AD",
+      "name": "Avar-Persian Siege of Constantinople — The City Holds by a Miracle",
+      "name_ru": "Аварско-персидская осада Константинополя — город держится чудом",
+      "description": "While Heraclius is deep inside Persian territory on his great counteroffensive, an Avar Khaganate army of perhaps 80,000 appears before the Theodosian Walls while a Sassanid force waits across the Bosphorus for a coordinated assault. The Persians cannot cross — their fleet is destroyed by the Byzantine navy; the Avars batter the land walls without success and withdraw after ten days of failure. The Byzantines attribute the miraculous defence to the direct intervention of the Virgin Mary, and the Akathist Hymn is composed in thanksgiving, remaining central to Orthodox liturgy to this day.",
+      "description_ru": "Пока Ираклий глубоко на персидской территории, армия Аварского Хаганата, возможно 80 000 воинов, появляется перед Стенами Феодосия, пока сасанидские силы ждут через Босфор для скоординированного удара. Персы не могут переправиться — их флот уничтожен. Авары безуспешно штурмуют стены и отступают через десять дней. Byzantийцы приписывают чудесную защиту вмешательству Богородицы; в благодарность составлен Акафист, остающийся центральным в православной литургии по сей день.",
+      "latitude": 41.0128,
+      "longitude": 28.9497,
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Constantinople_(626)",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Siege",
+        "Crisis",
+        "Christian",
+        "Persian",
+        "Sassanid"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "12.12.0627",
+      "era": "AD",
+      "name": "Battle of Nineveh — Heraclius Defeats Persia, Recovers the True Cross",
+      "name_ru": "Битва при Ниневии — Ираклий побеждает Персию, возвращает Крест Господень",
+      "description": "Heraclius leads his army in a decisive battle near the ruins of ancient Nineveh, routing the main Sassanid army and killing its general Rhahzadh; he then marches on Ctesiphon, which Khusrow II flees. Khusrow is overthrown and executed by his own son; the new Persian king signs a humiliating peace, returning all Byzantine territory including Syria, Palestine, and Egypt, and surrendering the True Cross. Heraclius restores the Cross to Jerusalem in a ceremony of extraordinary symbolic power — and this campaign, the most spectacular Byzantine military achievement in history, exhausts the armies that must face the Arab onslaught within a decade.",
+      "description_ru": "Ираклий ведёт армию в решающую битву близ руин древней Ниневии, разгромив главную сасанидскую армию; он затем марширует на Ктесифон, откуда бежит Хосров II. Хосров свергнут и казнён собственным сыном; новый персидский царь подписывает унизительный мир, возвращая все Byzantine территории и Крест Господень. Ираклий возвращает Крест в Иерусалим в торжестве необычайной символической силы — и эта кампания, наиболее зрелищное Byzantine военное достижение, исчерпывает армии, которым предстоит встретить арабское нашествие в течение десятилетия.",
+      "latitude": 36.36,
+      "longitude": 43.16,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Nineveh_(627)",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Battle",
+        "Persian",
+        "Sassanid",
+        "Reconquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "20.08.0636",
+      "era": "AD",
+      "name": "Battle of Yarmouk — Arab Armies Conquer Syria Permanently",
+      "name_ru": "Битва при Ярмуке — арабские армии навсегда завоёвывают Сирию",
+      "description": "A Byzantine army under Vahan is destroyed by a smaller but more motivated Arab-Islamic force under Khalid ibn al-Walid at the Yarmouk River over six days of fighting, ending Byzantine control of Syria permanently. Heraclius, learning of the disaster, reportedly cries 'Farewell, O Syria!' as he sails away from Antioch for the last time. The battle reflects not only Arab military superiority but the Chalcedonian religious alienation of Syria's Miaphysite population, who find the Muslim conquerors more religiously tolerant than their Byzantine enforcers — within four years, Palestine and Egypt follow, and the empire loses half its territory and two-thirds of its revenue.",
+      "description_ru": "Byzantine армия под командованием Вахана уничтожена меньшей, но более мотивированной арабской силой Халида ибн аль-Валида на реке Ярмук в шестидневном сражении. Ираклий, узнав о катастрофе, восклицает: «Прощай, Сирия!» Победа отражает и арабское военное превосходство, и халкидонское религиозное отчуждение сирийского монофизитского населения. За четыре года Палестина и Египет последуют за Сирией — Byzantия теряет половину территории и две трети доходов.",
+      "latitude": 32.84,
+      "longitude": 36.06,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Yarmouk",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Battle",
+        "Arab",
+        "Islamic",
+        "Defeat",
+        "Decline"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0641",
+      "era": "AD",
+      "name": "Arabs Conquer Egypt, Severing the Ancient Grain Supply",
+      "name_ru": "Арабы завоёвывают Египет — разрыв с древним зерновым регионом",
+      "description": "Arab forces under Amr ibn al-As complete the conquest of Egypt, capturing Alexandria and extinguishing the last remnant of Byzantine control over Africa east of Carthage; the ancient patriarchate of Alexandria falls under Islamic rule. Egypt was the empire's richest province — supplier of grain, papyrus, and tax revenue — and its loss is economically catastrophic, reducing Byzantine revenues by perhaps half. The conquest also marks the end of the ancient Mediterranean as a Roman-dominated economic system: for the first time since the Punic Wars, a non-Roman power controls both shores of the eastern Mediterranean.",
+      "description_ru": "Арабские силы под командованием Амра ибн аль-Аса завершают завоевание Египта, захватив Александрию и уничтожив последние остатки Byzantine контроля над Африкой к востоку от Карфагена. Египет был богатейшей провинцией империи — поставщиком зерна, папируса и налогов — и его потеря экономически катастрофична, единым ударом сокращая Byzantine доходы примерно вдвое. Завоевание знаменует конец древнего Средиземноморья как управляемой Римом экономической системы.",
+      "latitude": 31.2,
+      "longitude": 29.92,
+      "source": "https://en.wikipedia.org/wiki/Muslim_conquest_of_Egypt",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Arab",
+        "Islamic",
+        "Defeat",
+        "Decline",
+        "Egypt"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0674",
+      "era": "AD",
+      "name": "First Arab Siege of Constantinople — Greek Fire Saves the Empire",
+      "name_ru": "Первая арабская осада Константинополя — греческий огонь спасает империю",
+      "description": "The Arab Umayyad Caliphate launches a sustained four-year naval blockade of Constantinople, maintaining a fleet opposite the city and making repeated assault attempts; Byzantium's answer is Greek Fire — a napalm-like incendiary substance that burns on water and cannot be extinguished by water, projected through siphon tubes onto Arab warships. The Arab fleet is destroyed and a retreating land army decimated; the Caliphate is forced to sign a thirty-year truce and pay annual tribute to Byzantium. Greek Fire, whose exact composition remains unknown to this day, is the most important Byzantine military secret and the decisive technological advantage that keeps Constantinople in Byzantine hands for another eight centuries.",
+      "description_ru": "Арабский Омейядский халифат предпринимает устойчивую четырёхлетнюю морскую блокаду Константинополя; ответом Byzantии является греческий огонь — напалмоподобное зажигательное вещество, горящее на воде, подаваемое на арабские корабли через сифонные трубки. Арабский флот уничтожен; халифат вынужден подписать тридцатилетнее перемирие и платить ежегодную дань. Греческий огонь, точный состав которого по сей день неизвестен, является важнейшим Byzantine военным секретом и решающим технологическим преимуществом.",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "source": "https://en.wikipedia.org/wiki/Arab%E2%80%93Byzantine_wars",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Siege",
+        "Arab",
+        "Islamic"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0679",
+      "era": "AD",
+      "name": "First Bulgarian Empire Established at the Danube",
+      "name_ru": "Первое Болгарское царство основано у Дуная",
+      "description": "The Bulgar Khan Asparuh crosses the Danube with his nomadic warriors and defeats Emperor Constantine IV at the Battle of Ongal, forcing Byzantium to sign a humiliating treaty recognising a permanent Bulgarian state in former Byzantine Moesia and to pay annual tribute. The establishment of a powerful, permanently hostile state on the empire's north-western frontier is a strategic catastrophe that will occupy Byzantine energy for the next three and a half centuries. The Bulgars rapidly integrate with the Slavic population already settled in the Balkans, creating the Bulgarian people and establishing Pliska as their first capital.",
+      "description_ru": "Болгарский хан Аспарух пересекает Дунай и разбивает императора Константина IV в битве при Онгале, вынуждая Byzantию подписать унизительный договор, признающий постоянное Болгарское государство на бывшей Byzantine Мёзии и выплачивать ежегодную дань. Создание мощного постоянно враждебного государства на северо-западной границе является стратегической катастрофой, поглощающей Byzantine силы на три с половиной столетия. Болгары быстро интегрируются со славянским населением, создавая болгарский народ.",
+      "latitude": 43.39,
+      "longitude": 27.13,
+      "source": "https://en.wikipedia.org/wiki/First_Bulgarian_Empire",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Bulgar",
+        "Bulgarian",
+        "Decline"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "15.08.0717",
+      "era": "AD",
+      "name": "Second Arab Siege of Constantinople — Leo III Turns the Tide",
+      "name_ru": "Вторая арабская осада Константинополя — Лев III останавливает арабов",
+      "description": "The Umayyad Caliphate launches its greatest assault on Constantinople: a combined land-and-sea operation involving over 100,000 soldiers and 1,800 ships besieges the city for thirteen months in the most ambitious Arab military operation in history. Emperor Leo III deploys Greek Fire devastatingly against the Arab fleet; a Bulgarian force attacks the Arab land army from the rear; and a catastrophic winter kills thousands of the besieging army unprepared for the Balkan cold. The Arab failure is as decisive as Yarmouk had been in the opposite direction: the Caliphate never again seriously threatens Constantinople, and the Arab wave of conquest reaches its eastern high-water mark.",
+      "description_ru": "Омейядский халифат предпринимает величайший штурм Константинополя: операция с более чем 100 000 солдат и 1800 кораблями осаждает город тринадцать месяцев. Лев III опустошительно применяет греческий огонь против арабского флота; болгарские силы атакуют с тыла; катастрофическая зима уносит тысячи осаждающих. Арабская неудача столь же решительна, сколь Ярмук был в обратном направлении: халифат больше никогда серьёзно не угрожает Константинополю.",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Constantinople_(717%E2%80%93718)",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Siege",
+        "Arab",
+        "Islamic"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0726",
+      "era": "AD",
+      "name": "Leo III Bans Religious Images — Iconoclasm Tears the Empire Apart",
+      "name_ru": "Лев III запрещает религиозные образы — иконоборчество раскалывает империю",
+      "description": "Emperor Leo III orders the removal and destruction of religious images (icons) throughout the empire, launching the Iconoclasm controversy that will divide the Byzantine church and state for over a century. Leo argues that veneration of icons is idolatry forbidden by the Old Testament, and offers military-theological justifications — the Arab and Avar victories are God's punishment for idol worship. Pope Gregory II of Rome refuses to comply, deepening the estrangement between Rome and Constantinople; in the east, monks and entire populations resist violently, and the systematic theological defence of icons by John of Damascus lays the groundwork for the eventual reversal.",
+      "description_ru": "Лев III приказывает снять и уничтожить религиозные образы по всей империи, начиная иконоборческий спор, который будет раздирать Byzantine церковь и государство более столетия. Лев утверждает, что почитание икон — идолопоклонство, запрещённое Ветхим Заветом. Папа Григорий II отказывается подчиниться, углубляя отчуждение между Римом и Константинополем; на востоке монахи и население оказывают яростное сопротивление.",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "source": "https://en.wikipedia.org/wiki/Byzantine_Iconoclasm",
+      "tags": [
+        "Byzantine",
+        "Iconoclasm",
+        "Religion",
+        "Christian",
+        "Crisis"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "10.02.0754",
+      "era": "AD",
+      "name": "Council of Hieria Condemns All Icons as Heresy",
+      "name_ru": "Иерийский собор осуждает все иконы как ересь",
+      "description": "Emperor Constantine V convenes a church council of 338 bishops at the palace of Hieria near Constantinople, which formally declares icon veneration to be heresy. Constantine V pursues iconoclasm with particular violence: forcing monks to marry, publicly humiliating clergy, and executing those who resist, creating a generation of martyrs whose veneration strengthens the icon-venerating cause. The council's severity achieves a paradox: it generates the systematic theological defence of icons by John of Damascus that will prove decisive at the Second Council of Nicaea thirty years later.",
+      "description_ru": "Константин V созывает церковный собор из 338 епископов во дворце Иерия, официально объявляющий иконопочитание ересью. Константин V преследует иконоборчество с особым ожесточением: принуждает монахов к браку, публично унижает духовенство и казнит сопротивляющихся, создавая поколение мучеников. Жёсткость собора достигает парадокса: она порождает систематическую богословскую защиту иконопочитания Иоанном Дамаскиным, оказавшуюся решающей тридцать лет спустя.",
+      "latitude": 40.96,
+      "longitude": 29.05,
+      "source": "https://en.wikipedia.org/wiki/Council_of_Hieria",
+      "tags": [
+        "Byzantine",
+        "Iconoclasm",
+        "Council",
+        "Religion",
+        "Christian"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "24.09.0787",
+      "era": "AD",
+      "name": "Second Council of Nicaea — Icons Restored, Orthodoxy Defined",
+      "name_ru": "Второй Никейский собор — иконы восстановлены, Православие определено",
+      "description": "The Empress Irene, acting as regent for her son Constantine VI, convenes the Seventh Ecumenical Council at Nicaea, which formally reverses iconoclasm and establishes the crucial theological distinction between 'latreia' (worship, due only to God) and 'proskynesis' (veneration, permissible for icons and saints). The council is the last Ecumenical Council recognised by both the Eastern Orthodox and Western Catholic churches, and its decrees on icon veneration define Orthodox liturgical practice to the present day. Pope Adrian I supports the council, temporarily reducing the strain between Rome and Constantinople.",
+      "description_ru": "Императрица Ирина, действующая как регент Константина VI, созывает Седьмой Вселенский Собор в Никее, официально отменяющий иконоборчество и устанавливающий решающее богословское различие между «латрейей» (поклонением, причитающимся только Богу) и «проскинесисом» (почитанием, допустимым для икон). Собор — последний Вселенский Собор, признанный обеими, Православной и Католической, церквами, и его решения определяют православную литургическую практику по сей день.",
+      "latitude": 40.43,
+      "longitude": 29.72,
+      "source": "https://en.wikipedia.org/wiki/Second_Council_of_Nicaea",
+      "tags": [
+        "Byzantine",
+        "Christian",
+        "Council",
+        "Iconoclasm",
+        "Religion"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "26.07.0811",
+      "era": "AD",
+      "name": "Battle of Pliska — Emperor Nikephoros I Killed by the Bulgarians",
+      "name_ru": "Битва при Плиске — болгары убивают императора Никифора I",
+      "description": "Emperor Nikephoros I leads a large Byzantine army deep into Bulgaria, sacks the capital Pliska, and apparently assumes victory — but Khan Krum ambushes the army in mountain passes during the retreat, in the worst Byzantine defeat since Adrianople. Nikephoros I is killed — the first Byzantine emperor to die in battle against a foreign enemy since Valens in 378 — and much of the officer class perishes with him; Khan Krum reportedly has the emperor's skull lined with silver and drinks from it at feasts. The disaster inaugurates a generation of Bulgarian-Byzantine conflict and forces humiliating treaties with the advancing Bulgarian state.",
+      "description_ru": "Никифор I ведёт крупную армию вглубь Болгарии, разграбляет столицу Плиску и, по всей видимости, считает победу достигнутой — но хан Крум устраивает засаду в горных проходах при отступлении. Никифор I убит — первый Byzantine император, погибший в сражении с иноземным врагом со времён Валента в 378 г.; хан Крум велит оправить череп императора в серебро и пьёт из него на пирах. Катастрофа открывает поколение Byzantine-болгарского противостояния.",
+      "latitude": 43.39,
+      "longitude": 27.13,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Pliska",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Battle",
+        "Bulgar",
+        "Bulgarian",
+        "Death",
+        "Crisis"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "11.03.0843",
+      "era": "AD",
+      "name": "Triumph of Orthodoxy — Iconoclasm Ended Forever",
+      "name_ru": "Торжество Православия — иконоборчество окончено навсегда",
+      "description": "The Empress-Regent Theodora, ruling for her young son Michael III, convenes a council that permanently restores icon veneration and condemns iconoclasm as heresy, ending the century-long controversy that has divided the Byzantine church, alienated Rome, and persecuted thousands of monks. The restoration is celebrated on the first Sunday of Lent with a great procession of icons through Constantinople — an event commemorated as the 'Triumph of Orthodoxy' and still celebrated by Orthodox Christians worldwide on the first Sunday of Lent every year. The end of Iconoclasm allows reconciliation with the monastic movement and consolidates the Byzantine cultural and theological identity that will define Orthodox civilisation.",
+      "description_ru": "Императрица-регент Феодора созывает собор, навсегда восстанавливающий иконопочитание и осуждающий иконоборчество как ересь. Восстановление отмечается в первое воскресенье Великого поста великим шествием с иконами по Константинополю — событие, именуемое «Торжество Православия» и по сей день отмечаемое православными христианами по всему миру. Окончание иконоборчества позволяет примириться с монашеским движением и укрепляет Byzantine культурную идентичность.",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "source": "https://en.wikipedia.org/wiki/Triumph_of_Orthodoxy",
+      "tags": [
+        "Byzantine",
+        "Christian",
+        "Iconoclasm",
+        "Religion",
+        "Orthodox"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.0863",
+      "era": "AD",
+      "name": "Cyril and Methodius Create the Slavic Alphabet, Begin Mass Conversion",
+      "name_ru": "Кирилл и Мефодий создают slavянский алфавит — начало массового обращения",
+      "description": "The brothers Cyril and Methodius, Greek scholars from Thessalonica dispatched by Emperor Michael III on a missionary mission to Moravia, invent the Glagolitic alphabet to transcribe the Slavic language and translate the Bible and liturgy — making it the first Slavic literary language in history. The Cyrillic alphabet that descends from their work becomes the script of dozens of Slavic peoples — more than a billion people today. The Byzantine decision to allow liturgy in vernacular Slavic languages, unlike Rome's insistence on Latin, proves decisive in making Orthodox Christianity the dominant religion of the Slavic world.",
+      "description_ru": "Братья Кирилл и Мефодий, греческие учёные из Фессалоники, направленные с миссией в Моравию, изобретают глаголический алфавит для записи славянского языка и переводят Библию и богослужение — создавая первый slavянский литературный язык в истории. Кириллица, происходящая от их работы, становится письменностью десятков slavянских народов — более миллиарда человек сегодня. Byzantine решение допустить богослужение на народных slavянских языках оказывается решающим в распространении православия.",
+      "latitude": 41.12,
+      "longitude": 23,
+      "source": "https://en.wikipedia.org/wiki/Saints_Cyril_and_Methodius",
+      "tags": [
+        "Byzantine",
+        "Slavic",
+        "Christian",
+        "Orthodox",
+        "Missionary"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0864",
+      "era": "AD",
+      "name": "Boris I of Bulgaria Converts to Orthodoxy, Slavic World Shifts",
+      "name_ru": "Борис I Болгарский принимает православие — slavянский мир меняется",
+      "description": "Khan Boris I of Bulgaria is baptised by Byzantine clergy, taking the Christian name Michael in honour of his Byzantine godfather Emperor Michael III, and begins the systematic Christianisation of Bulgaria. The conversion is a watershed in Balkan history: Bulgaria becomes the first major Slavic state to adopt Orthodox Christianity, and the subsequent Bulgarian literary tradition using the Cyrillic script creates the foundation of Slavic Orthodox culture. Boris's choice of Constantinople over Rome — after deliberately playing both sides for political leverage — aligns Bulgaria with the Byzantine patriarchate permanently, creating the civilisational fault line between Eastern and Western Christianity in the Balkans that persists to this day.",
+      "description_ru": "Хан Борис I Болгарский крестится у Byzantine духовенства, принимая христианское имя Михаил в честь крёстного отца — императора Михаила III, и начинает систематическую христианизацию Болгарии. Обращение является переломным моментом в истории Балкан: Болгария становится первым крупным slavянским государством, принявшим православие. Выбор Борисом Константинополя вместо Рима создаёт цивилизационный разлом между Восточным и Западным христианством, сохраняющийся по сей день.",
+      "latitude": 43.39,
+      "longitude": 27.13,
+      "source": "https://en.wikipedia.org/wiki/Boris_I_of_Bulgaria",
+      "tags": [
+        "Byzantine",
+        "Bulgar",
+        "Bulgarian",
+        "Christian",
+        "Orthodox",
+        "Slavic"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "24.09.0867",
+      "era": "AD",
+      "name": "Basil I Founds the Macedonian Dynasty — The Golden Age Begins",
+      "name_ru": "Василий I основывает Македонскую династию — начало золотого века",
+      "description": "Basil I, a Macedonian peasant who rose through military service to become co-emperor and then murdered Emperor Michael III to seize sole power, founds the Macedonian dynasty that rules Byzantium for nearly two centuries and presides over its greatest territorial recovery and cultural flowering. Despite his brutal rise, Basil proves an excellent administrator who consolidates the legal system, rebuilds the army, and launches the campaign of expansion his successors complete. The Macedonian dynasty (867–1056) spans Byzantium's political apogee, including the reconquest of Crete and Antioch, the subjugation of Bulgaria, and the Christianisation of Russia.",
+      "description_ru": "Василий I, македонский крестьянин, поднявшийся до соправителя, а затем убивший Михаила III, основывает Македонскую династию, правящую Byzantией почти два столетия и председательствующую над её величайшим территориальным восстановлением и культурным расцветом. Несмотря на жестокое восшествие, Василий оказывается превосходным администратором. Македонская династия (867–1056 гг.) охватывает политический апогей Byzantии.",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "source": "https://en.wikipedia.org/wiki/Basil_I",
+      "tags": [
+        "Byzantine",
+        "Emperor",
+        "Political",
+        "Reform"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "06.03.0961",
+      "era": "AD",
+      "name": "Nikephoros Phokas Reconquers Crete, Ending Arab Piracy in the Aegean",
+      "name_ru": "Никифор Фока отвоёвывает Крит — арабское пиратство в Эгейском море закончено",
+      "description": "The general Nikephoros Phokas leads the largest Byzantine amphibious operation in centuries, landing 77,000 troops on Crete and systematically reducing the Arab Emirate of Crete — which had menaced the Aegean for 135 years as a base for slave raids that depopulated the Greek islands. The capital Chandax (modern Heraklion) falls after an eight-month siege; the Arab emirate is exterminated. The reconquest of Crete secures the Aegean for Byzantine commerce and inaugurates the great reconquest decade of the 960s in which Syria, Cilicia, and Antioch are also recovered.",
+      "description_ru": "Полководец Никифор Фока ведёт крупнейшую Byzantine амфибийную операцию за несколько веков, высаживая 77 000 воинов на Крит и сокращая Арабский эмират Крит, terrorизировавший Эгей 135 лет. Столица Хандак (совр. Ираклион) падает после восьмимесячной осады. Отвоевание Крита открывает Эгейское море для Byzantine торговли и открывает великое десятилетие отвоевания 960-х гг.",
+      "latitude": 35.34,
+      "longitude": 25.13,
+      "source": "https://en.wikipedia.org/wiki/Byzantine_reconquest_of_Crete",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Battle",
+        "Reconquest",
+        "Arab"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "28.10.0969",
+      "era": "AD",
+      "name": "Byzantium Reconquers Antioch After Three Centuries of Arab Rule",
+      "name_ru": "Byzantия отвоёвывает Антиохию спустя три века арабского владычества",
+      "description": "Byzantine forces capture Antioch — once the third city of the Roman Empire and the city where followers of Jesus were first called 'Christians' — ending three centuries of Arab rule. The reconquest of Syria in the 960s under Nikephoros II Phokas and John I Tzimiskes brings Byzantine armies within sight of Jerusalem and represents the empire's maximum eastern territorial recovery since Heraclius. The emperors choose not to reconquer Jerusalem, preferring to extract tribute from the Fatimid caliph — a decision that frustrates Byzantine subjects and later provides context for the appeal to the Crusades.",
+      "description_ru": "Byzantine силы захватывают Антиохию — некогда третий город Римской империи, город, где последователей Иисуса впервые назвали «христианами», — завершая три столетия арабского правления. Отвоевание Сирии приводит Byzantine армии в пределах видимости Иерусалима. Императоры предпочитают не отвоёвывать Иерусалим, довольствуясь данью с Фатимидского халифа — решение, создающее контекст для крестовых походов.",
+      "latitude": 36.2,
+      "longitude": 36.16,
+      "source": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Arab_Wars",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Reconquest",
+        "Arab"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0988",
+      "era": "AD",
+      "name": "Vladimir of Rus Baptized — Orthodox Christianity Comes to Russia",
+      "name_ru": "Крещение Руси — православное христианство приходит на Русь",
+      "description": "Prince Vladimir I of Kievan Rus is baptised in the Byzantine city of Chersonesus in Crimea after negotiating an extraordinary arrangement: Byzantium provides Princess Anna, sister of Emperor Basil II, as his wife — an unprecedented concession, since imperial princesses were normally never allowed to marry foreign rulers — in exchange for Vladimir's baptism and military support. Vladimir imposes Christianity on his realm with mass baptisms in the Dnieper River at Kiev, permanently aligning the vast Rus lands with Byzantine Orthodox civilisation. The Christianisation of Rus is the single greatest geographical extension of Byzantine cultural influence in history, ultimately producing Russian, Ukrainian, and Belarusian Orthodox Christianity.",
+      "description_ru": "Князь Владимир I Киевской Руси крестится в Byzantine городе Херсонесе (Крым) после договора: Byzantия предоставляет принцессу Анну, сестру Василия II, в качестве жены — беспрецедентная уступка — в обмен на крещение и военную поддержку. Владимир насаждает христианство с массовыми крещениями в Днепре. Крещение Руси является наибольшим географическим распространением Byzantine культурного влияния, произведя русское, украинское и белорусское православие.",
+      "latitude": 50.45,
+      "longitude": 30.52,
+      "source": "https://en.wikipedia.org/wiki/Christianization_of_Kievan_Rus%27",
+      "tags": [
+        "Byzantine",
+        "Christian",
+        "Orthodox",
+        "Slavic",
+        "Missionary"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "29.07.1014",
+      "era": "AD",
+      "name": "Basil II Blinds 15,000 Bulgarian Prisoners — The Bulgar-Slayer",
+      "name_ru": "Василий II ослепляет 15 000 болгарских пленников — Болгаробойца",
+      "description": "After his decisive victory at the Battle of Kleidion in the Belasitsa mountains, Emperor Basil II captures approximately 15,000 Bulgarian soldiers and orders them blinded — leaving one eye to every hundredth man to lead the others home — and sends them back to Tsar Samuel. Samuel dies of shock two days after seeing his blinded army return. Basil formally annexes Bulgaria in 1018, adding the entire Balkan peninsula to the empire for the first time since the founding of the Bulgarian state; the brutal act exemplifies both the effectiveness and the moral cost of Basil II's reconquest policy.",
+      "description_ru": "После решительной победы в битве при Клейдионе Василий II захватывает около 15 000 болгарских солдат и приказывает их ослепить — оставляя один глаз каждому сотому, чтобы тот мог вести остальных домой — и отправляет обратно к царю Самуилу. Самуил умирает от шока через два дня, увидев ослеплённую армию. В 1018 г. Василий формально аннексирует Болгарию, добавив весь Балканский полуостров к империи.",
+      "latitude": 41.36,
+      "longitude": 23.02,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Kleidion",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Battle",
+        "Bulgar",
+        "Bulgarian",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "16.07.1054",
+      "era": "AD",
+      "name": "Great Schism — Rome and Constantinople Excommunicate Each Other",
+      "name_ru": "Великий раскол — Рим и Константинополь отлучают друг друга",
+      "description": "Papal legate Cardinal Humbert places a bull of excommunication on the altar of Hagia Sophia against Patriarch Michael Keroularios of Constantinople, who responds by anathematising the legates in return. The mutual excommunications formalise a century-long rupture over papal supremacy, the Filioque (whether the Holy Spirit proceeds from the Father alone or also from the Son), clerical celibacy, and liturgical differences. The Great Schism divides Christendom into the Roman Catholic and Eastern Orthodox churches permanently — the mutual excommunications are formally lifted only in 1964 by Pope Paul VI and Patriarch Athenagoras.",
+      "description_ru": "Папский легат кардинал Гумберт кладёт буллу об отлучении на алтарь Святой Софии против патриарха Михаила Керулария, который отвечает анафемой легатам. Взаимные отлучения фиксируют вековой разрыв по вопросам папского верховенства, Filioque, безбрачия духовенства и литургических различий. Великий раскол навсегда делит христианство на Римско-Католическую и Восточную Православную церкви — взаимные отлучения формально сняты лишь в 1964 г.",
+      "latitude": 41.0086,
+      "longitude": 28.9802,
+      "source": "https://en.wikipedia.org/wiki/East%E2%80%93West_Schism",
+      "tags": [
+        "Byzantine",
+        "Christian",
+        "Schism",
+        "Religion",
+        "Council"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "16.04.1071",
+      "era": "AD",
+      "name": "Normans Capture Bari — Last Byzantine Foothold in Italy Gone",
+      "name_ru": "Норманны захватывают Бари — последний опорный пункт Byzantии в Италии исчезает",
+      "description": "Robert Guiscard's Norman forces capture Bari — seat of the Byzantine Catepanate of Italy and the last Byzantine-held city on the Italian mainland — after a three-year siege, ending over five centuries of continuous Roman and Byzantine presence in southern Italy. The loss of Bari, coming in the same year as Manzikert, symbolises the simultaneous collapse of Byzantine strategic power in both west and east. The Norman kingdom of Sicily that emerges will remain a persistent threat to Byzantine interests in the western Balkans and eventually contributes to the circumstances that produce the Fourth Crusade.",
+      "description_ru": "Силы Роберта Гвискара захватывают Бари — резиденцию Byzantine катепаната Италии и последний удерживаемый Byzantией город на итальянском материке — после трёхлетней осады, завершая более пяти столетий непрерывного Roman и Byzantine присутствия в Южной Италии. Потеря Бари в тот же год, что и Манцикерт, символизирует одновременное крушение Byzantine стратегической власти как на западе, так и на востоке.",
+      "latitude": 41.12,
+      "longitude": 16.87,
+      "source": "https://en.wikipedia.org/wiki/Bari",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Decline",
+        "Defeat"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "26.08.1071",
+      "era": "AD",
+      "name": "Battle of Manzikert — Anatolia Lost to the Seljuk Turks",
+      "name_ru": "Битва при Манцикерте — Анатолия потеряна сельджукам",
+      "description": "Emperor Romanos IV Diogenes leads the Byzantine field army against Seljuk Sultan Alp Arslan in eastern Anatolia and is defeated and captured in a catastrophic ambush — the first Byzantine emperor taken prisoner in battle since Valerian's capture by the Sassanids in 260 AD. Alp Arslan treats Romanos with chivalrous respect and releases him for ransom, but back in Constantinople Romanos is overthrown, blinded, and left to die. The strategic consequence is total: with the army destroyed and the civil wars that follow, Anatolia — the empire's heartland and primary source of soldiers and grain for four centuries — is rapidly overrun by Turkic nomads, transforming Asia Minor from the backbone of Byzantium into the Turkish homeland.",
+      "description_ru": "Роман IV Диоген ведёт Byzantine полевую армию против сельджукского Sultan Алп-Арслана и разбит в катастрофической засаде — первый Byzantine император, взятый в плен с захвата Валериана сасанидами в 260 г. н. э. Алп-Арслан обращается с Романом рыцарственно, но в Константинополе Роман свергнут и ослеплён. Анатолия — сердце империи и основной источник солдат и зерна четыре столетия — стремительно захватывается тюркскими кочевниками.",
+      "latitude": 38.94,
+      "longitude": 42.53,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Manzikert",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Battle",
+        "Turkish",
+        "Defeat",
+        "Decline",
+        "Crisis"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "27.11.1095",
+      "era": "AD",
+      "name": "Alexios I Appeals for Help — Pope Urban II Calls the First Crusade",
+      "name_ru": "Алексий I просит помощи — Папа Урбан II объявляет Первый крестовый поход",
+      "description": "Emperor Alexios I Komnenos, having stabilised the empire after Manzikert through diplomatic genius and military reform, sends envoys to Pope Urban II requesting mercenary soldiers to help recover Anatolia from the Seljuk Turks. Urban II transforms the request at the Council of Clermont into a call for an armed pilgrimage to liberate Jerusalem, promising spiritual rewards to participants. The response vastly exceeds what Alexios requested — hundreds of thousands answer the call — and the relationship between Byzantium and the Crusading movement, begun in mutual need and ending in the catastrophe of 1204, defines Byzantine foreign policy for the next century.",
+      "description_ru": "Алексий I Комнин, стабилизировавший империю после Манцикерта, направляет посланников к Папе Урбану II с просьбой о наёмных солдатах для возвращения Анатолии у сельджуков. Урбан II преобразовывает просьбу на Клермонском соборе в призыв к вооружённому паломничеству для освобождения Иерусалима. Отношения между Byzantием и крестоносным движением — начавшиеся во взаимной нужде и закончившиеся катастрофой 1204 г. — определяют Byzantine внешнюю политику на следующее столетие.",
+      "latitude": 45.78,
+      "longitude": 3.08,
+      "source": "https://en.wikipedia.org/wiki/First_Crusade",
+      "tags": [
+        "Byzantine",
+        "Crusade",
+        "Christian",
+        "Political"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "12.03.1171",
+      "era": "AD",
+      "name": "Manuel I Arrests All Venetians, Shattering the Alliance",
+      "name_ru": "Мануил I арестовывает всех венецианцев, разрывая союз",
+      "description": "Emperor Manuel I Komnenos orders the simultaneous arrest of all Venetian merchants throughout the empire — estimated at 10,000 people in Constantinople alone — and the confiscation of all their goods and ships, eliminating a commercially privileged class whose advantages he resented and accumulating enormous wealth. The action is a catastrophic strategic miscalculation: Venice was Byzantium's most important naval ally, and the rupture poisons Byzantine-Venetian relations for generations. Thirty-three years later, the Doge Enrico Dandolo (who had personally been in Constantinople during the arrests) redirects the Fourth Crusade to sack the city.",
+      "description_ru": "Мануил I Комнин приказывает одновременно арестовать всех венецианских купцов по всей империи — по оценкам, 10 000 человек только в Константинополе — и конфисковать их имущество. Это действие является катастрофическим стратегическим просчётом: Венеция была важнейшим военно-морским союзником Byzantии. Тридцать три года спустя Дож Энрико Дандоло перенаправит Четвёртый крестовый поход на разграбление Константинополя.",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "source": "https://en.wikipedia.org/wiki/Manuel_I_Komnenos",
+      "tags": [
+        "Byzantine",
+        "Political",
+        "Decline",
+        "Crisis"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "17.09.1176",
+      "era": "AD",
+      "name": "Battle of Myriokephalon — Byzantine Recovery of Anatolia Forfeited",
+      "name_ru": "Битва при Мириокефале — Byzantine возврат Анатолии окончательно исключён",
+      "description": "Emperor Manuel I Komnenos leads a massive Byzantine army into the Anatolian interior to decisively defeat the Seljuk Sultanate of Rum and restore the pre-Manzikert frontier, but his column is ambushed and destroyed in the Phrygian mountain passes by Sultan Kilij Arslan II. Manuel himself compares the defeat to Manzikert in a letter to the Holy Roman Emperor. The battle permanently forecloses any Byzantine recovery of Anatolia: the Komnenian military machine is shattered, and within a generation the empire loses its last coherent strategic direction, leaving Constantinople vulnerable to the disaster of 1204.",
+      "description_ru": "Мануил I Комнин ведёт огромную Byzantine армию в глубь Анатолии, чтобы разгромить Сельджукский султанат Рума, но его колонна попадает в засаду в Фригийских горных проходах Sultan Кылыч-Арслана II. Мануил сам сравнивает поражение с Манцикертом в письме императору Священной Римской империи. Битва навсегда исключает Byzantine возврат Анатолии; Byzantine военная машина разбита.",
+      "latitude": 38.2,
+      "longitude": 29.5,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Myriokephalon",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Battle",
+        "Turkish",
+        "Defeat",
+        "Decline"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "12.04.1204",
+      "era": "AD",
+      "name": "Fourth Crusade Sacks Constantinople — The Latin Empire Established",
+      "name_ru": "Четвёртый крестовый поход разграбляет Константинополь — Латинская империя",
+      "description": "Crusaders en route to Egypt, rerouted by Venetian debt and Doge Enrico Dandolo's manipulation, storm Constantinople's seawall and sack the city in a three-day orgy of violence — desecrating Hagia Sophia, melting sacred artworks, and looting the accumulated treasures of nine centuries. The city that had withstood Persians, Arabs, Bulgarians, and Rus for over nine centuries falls to fellow Christians. A Latin Empire of Constantinople is proclaimed under Baldwin of Flanders; the sack permanently weakens the Byzantine state and channels an enormous cultural wealth to the West, including the four bronze horses of San Marco and dozens of sacred relics.",
+      "description_ru": "Крестоносцы, перенаправленные венецианским долгом и манипуляцией Дожа Дандоло, штурмуют Константинополь в трёхдневной оргии насилия — оскверняя Святую Софию, переплавляя священные произведения искусства, грабя сокровища девяти столетий. Город, простоявший против персов, арабов, болгар и русов, падает перед единоверцами-христианами. Провозглашена Латинская империя Константинополя под властью Балдуина Фландрского; разграбление навсегда ослабляет Byzantine государство.",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "source": "https://en.wikipedia.org/wiki/Sack_of_Constantinople_(1204)",
+      "tags": [
+        "Byzantine",
+        "Crusade",
+        "Latin",
+        "Siege",
+        "Disaster",
+        "Decline"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1205",
+      "era": "AD",
+      "name": "Empire of Nicaea — Byzantium in Exile, Preserving the Flame",
+      "name_ru": "Никейская империя — Byzantия в изгнании, хранящая традицию",
+      "description": "Theodore I Laskaris establishes the Empire of Nicaea as the primary Byzantine successor state in Anatolia, creating the government in exile that preserves Byzantine institutions, law, court culture, and Orthodox Christianity through the Latin occupation. Of the three Byzantine successor states (Nicaea, the Despotate of Epirus, and the Empire of Trebizond), Nicaea proves most strategically situated and best governed, reconquering western Anatolia and positioning itself to retake Constantinople when the Latin Empire weakens. The fifty-seven years of the Nicaean empire constitute one of the most remarkable exercises in political resilience in medieval history.",
+      "description_ru": "Феодор I Ласкарь учреждает Никейскую империю как основное Byzantine государство-преемник в Анатолии, создавая правительство в изгнании, сохраняющее Byzantine институты, право, придворную культуру и православие. Из трёх Byzantine государств-преемников Никея оказывается наиболее стратегически выгодно расположенной и лучше управляемой. Пятьдесят семь лет Никейской империи представляют собой одно из наиболее замечательных проявлений политической стойкости в средневековой истории.",
+      "latitude": 40.43,
+      "longitude": 29.72,
+      "source": "https://en.wikipedia.org/wiki/Empire_of_Nicaea",
+      "tags": [
+        "Byzantine",
+        "Emperor",
+        "Political",
+        "Decline"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "25.07.1261",
+      "era": "AD",
+      "name": "Michael VIII Palaiologos Recaptures Constantinople — Byzantium Restored",
+      "name_ru": "Михаил VIII Палеолог возвращает Константинополь — Byzantия восстановлена",
+      "description": "A Nicaean force under the general Alexios Strategopoulos opportunistically enters Constantinople through an unguarded gate while the Latin garrison is occupied elsewhere, restoring Byzantine control after fifty-seven years of Latin occupation. Emperor Michael VIII Palaiologos enters the city in triumph, walking barefoot to Hagia Sophia as a sign of humility, and is crowned in the great church. The restoration is real but precarious: Constantinople's population has collapsed from perhaps 400,000 to 35,000, its infrastructure is ruined, and the restored empire — truncated to Constantinople, parts of Greece, and coastal Anatolia — faces Ottoman beyliks in the east and a hostile Latin west simultaneously.",
+      "description_ru": "Никейские силы под командованием Алексея Стратигопула проникают в Константинополь через незащищённые ворота, восстанавливая Byzantine контроль после пятидесяти семи лет латинской оккупации. Михаил VIII Палеолог входит в город с триумфом, идя босиком к Святой Софии в знак смирения. Восстановление реально, но шатко: население Константинополя сократилось с, возможно, 400 000 до 35 000; империя — усечённая до Константинополя, части Греции и прибрежной Анатолии — окружена угрозами.",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "source": "https://en.wikipedia.org/wiki/Michael_VIII_Palaiologos",
+      "tags": [
+        "Byzantine",
+        "Emperor",
+        "Political",
+        "Reconquest"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "27.07.1302",
+      "era": "AD",
+      "name": "Battle of Bapheus — The Ottomans Win Their First Major Victory",
+      "name_ru": "Битва при Вафее — первая крупная победа Османов над Byzantией",
+      "description": "A Byzantine army is defeated by the forces of the Ottoman bey Osman I at the Battle of Bapheus near Nicomedia, the first major Ottoman battlefield victory against Byzantium. The defeat opens the remaining Byzantine territories in Bithynia to Ottoman raiding and forces the Byzantine population to evacuate into Constantinople, permanently surrendering the empire's last Anatolian agricultural heartland. Osman I's victory establishes the momentum that carries the Ottoman state from a minor frontier principality to the eventual conqueror of the Byzantine Empire within 150 years.",
+      "description_ru": "Byzantine армия разбита силами Османа I в битве при Вафее близ Никомедии — первой крупной победе Osmanlı над Byzantией на поле боя. Поражение открывает оставшиеся Byzantine территории в Вифинии для Ottoman набегов и вынуждает Byzantine население эвакуироваться в Константинополь. Победа Osmanа I устанавливает тот импульс, который за 150 лет перенесёт Osmanское государство до завоевателя Byzantийской империи.",
+      "latitude": 40.75,
+      "longitude": 29.92,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Bapheus",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Battle",
+        "Ottoman",
+        "Turkish",
+        "Decline",
+        "Defeat"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "02.03.1354",
+      "era": "AD",
+      "name": "Ottomans Cross into Europe at Gallipoli — A New World Order Begins",
+      "name_ru": "Osmanы переправляются в Европу через Галлиполи — новый миропорядок",
+      "description": "Ottoman forces permanently occupy the Gallipoli peninsula after an earthquake destroys its walls, establishing the first permanent Ottoman foothold in Europe and transforming the Ottoman state from a regional Anatolian power into a European one. The crossing is strategically decisive: the Ottomans now threaten Thrace and the remaining Byzantine territories from both east and west simultaneously, and can cut Constantinople off from any potential Balkan ally. Within four years Edirne (Adrianople) falls and becomes the Ottoman European capital, providing a base for the systematic conquest of the Balkans over the following decades.",
+      "description_ru": "Ottoman силы навсегда занимают Галлиполийский полуостров после землетрясения, разрушившего его стены, учреждая первый постоянный Ottoman плацдарм в Европе. Переправа стратегически решительна: теперь Osmanы угрожают Фракии одновременно с востока и запада и могут отрезать Константинополь от потенциальных союзников. За четыре года падёт Эдирне (Адрианополь), становясь Ottoman европейской столицей.",
+      "latitude": 40.4,
+      "longitude": 26.68,
+      "source": "https://en.wikipedia.org/wiki/Ottoman_Empire#Expansion_into_the_Balkans",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Ottoman",
+        "Turkish",
+        "Decline",
+        "Expansion"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "28.06.1389",
+      "era": "AD",
+      "name": "Battle of Kosovo — Ottoman Supremacy in the Balkans Sealed",
+      "name_ru": "Битва на Косовом поле — Ottoman господство на Балканах закреплено",
+      "description": "Sultan Murad I leads the Ottoman army against a Balkan coalition under Serbian Prince Lazar at Kosovo Polje, where both the sultan and the Serbian prince are killed — Murad assassinated by the Serbian knight Miloš Obilić during or after the battle. Despite losing its sultan, the Ottoman army under the new Sultan Bayezid I wins decisively, and Serbia becomes an Ottoman vassal. The battle effectively ends meaningful Christian Balkan resistance to Ottoman expansion; within a generation, Bulgaria is fully incorporated and Constantinople stands as an isolated island surrounded by Ottoman territory on all sides.",
+      "description_ru": "Sultan Мурад I ведёт Ottoman армию против балканской коалиции на Косовом поле, где убиты и Sultan, и сербский князь Лазарь — Мурад заколот рыцарем Милошем Обиличем. Несмотря на потерю Sultan, Ottoman армия под командованием Баязида I победоносна; Сербия становится Ottoman вассалом. Битва фактически завершает значимое балканское сопротивление Ottoman экспансии; вскоре Константинополь оказывается изолированным островом среди Ottoman территорий.",
+      "latitude": 42.7,
+      "longitude": 21.09,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Kosovo",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Battle",
+        "Ottoman",
+        "Turkish",
+        "Decline"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "25.09.1396",
+      "era": "AD",
+      "name": "Battle of Nicopolis — The Last Great Crusade Fails to Save Byzantium",
+      "name_ru": "Битва при Никополе — последний крупный крестовый поход терпит крах",
+      "description": "A large multinational crusading force — French, Hungarian, Wallachian, and other knights — led by King Sigismund of Hungary advances along the Danube to relieve pressure on Byzantium, but is annihilated by Sultan Bayezid I at Nicopolis after the French cavalry charges impetuously without coordinating with the Hungarian infantry. The Battle of Nicopolis is the last serious Western attempt to militarily defend Byzantium against the Ottomans; its failure leaves Emperor Manuel II reduced to personally touring Western courts begging for help that never comes, while Bayezid tightens his siege of Constantinople.",
+      "description_ru": "Крупные многонациональные крестоносные силы под командованием короля Венгрии Сигизмунда наступают вдоль Дуная, но уничтожены Баязидом I при Никополе после опрометчивой атаки французской кавалерии. Битва при Никополе — последняя серьёзная западная попытка военной защиты Byzantии; её крах оставляет Мануила II лично объезжать западные дворы с мольбами о помощи, которая так и не приходит.",
+      "latitude": 43.7,
+      "longitude": 24.9,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Nicopolis",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Battle",
+        "Crusade",
+        "Ottoman",
+        "Turkish",
+        "Defeat"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "28.07.1402",
+      "era": "AD",
+      "name": "Timur Defeats the Ottomans at Ankara — Byzantium's Last Reprieve",
+      "name_ru": "Тимур разбивает Osmanов при Анкаре — последняя передышка Byzantии",
+      "description": "The Mongol-Timurid conqueror Timur (Tamerlane) defeats and captures Sultan Bayezid I at the Battle of Ankara — displaying the sultan in a golden cage, according to tradition — shattering the Ottoman state into competing successor principalities for a decade. The battle gives Byzantium perhaps fifty years of unexpected reprieve: Bayezid's siege of Constantinople is lifted, and the Ottoman succession crisis allows Byzantine diplomacy to survive by playing rival claimants against each other. Emperor Manuel II uses this gift of time to consolidate what remains of the empire, but cannot reconstitute the Byzantine military capacity destroyed across the preceding centuries.",
+      "description_ru": "Завоеватель Тимур (Тамерлан) разбивает и захватывает Sultan Баязида I при Анкаре — по преданию, выставляя Sultan в золотой клетке, — сокрушая Osmanское государство на десятилетие. Битва даёт Byzantии около пятидесяти лет неожиданной передышки: осада Константинополя снята, Ottoman кризис преемства позволяет Byzantine дипломатии выжить. Мануил II использует это время для консолидации оставшейся империи, но восстановить военный потенциал не может.",
+      "latitude": 39.92,
+      "longitude": 32.86,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Ankara",
+      "tags": [
+        "Byzantine",
+        "War",
+        "Battle",
+        "Ottoman",
+        "Turkish"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "06.07.1439",
+      "era": "AD",
+      "name": "Council of Florence — Desperate Union with Rome for Western Help",
+      "name_ru": "Флорентийский собор — отчаянная уния с Римом ради западной помощи",
+      "description": "Emperor John VIII Palaiologos personally travels to Italy and signs the Act of Union between the Orthodox and Catholic churches at the Council of Florence — accepting papal primacy, the Filioque, and Catholic doctrine — in exchange for a promise of Western military assistance against the Ottomans. The union is a diplomatic achievement but a political disaster: the Byzantine clergy and population overwhelmingly reject it (the Grand Duke Loukas Notaras reportedly declares he would rather see Turkish turbans in Constantinople than the Latin mitre), Western military help remains minimal, and the union is repudiated after John VIII's death. The Council demonstrates the empire's utter isolation in its final years.",
+      "description_ru": "Иоанн VIII Палеолог лично приезжает в Италию и подписывает Акт унии между Православной и Католической церквами на Флорентийском соборе — принимая папское первенство и Filioque — в обмен на обещание западной военной помощи против Osmanlı. Уния является дипломатическим достижением, но политической катастрофой: Byzantine духовенство и население в подавляющем большинстве её отвергают (мегадука Лука Нотара предположительно заявляет, что предпочтёт Ottoman тюрбаны латинской митре). Западная помощь остаётся минимальной.",
+      "latitude": 43.77,
+      "longitude": 11.26,
+      "source": "https://en.wikipedia.org/wiki/Council_of_Florence",
+      "tags": [
+        "Byzantine",
+        "Christian",
+        "Council",
+        "Schism",
+        "Political",
+        "Decline"
+      ],
+      "type": "religious"
+    }
+  ]
+}
