@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 80 events",
+  "description": "Dataset imported with 93 events",
   "events": [
     {
       "date": "01.01.4100",
@@ -882,7 +882,7 @@
       "type": "military"
     },
     {
-      "date": "01.01.0117",
+      "date": "01.10.0117",
       "description": "Hadrian restores Armenia's vassal status, as he understands that holding such vast and remote territories as Armenia and Mesopotamia is physically impossible without the risk of collapse of the economy and army. A representative of the Parthian family, Vologases I, loyal to Rome, is placed on the Armenian throne, and Armenia again become a buffer state between Rome and Parthia.",
       "description_ru": "Адриан возвращает вассальный статус Армении, поскольку понимает, что удерживать такие огромные и удаленные территории, как Армения и Месопотамия, физически невозможно без риска развала экономики и армии. На армянский престол посажен лояльный Риму представитель парфянского рода — Вагарш I, Армения снова становится буферным государством между Римом и Парфией",
       "era": "AD",
@@ -1035,6 +1035,7 @@
         "Assassination",
         "Conquest",
         "Sassanid",
+        "Shapur I 👑",
         "Zoroastrian"
       ],
       "type": "military"
@@ -1118,6 +1119,7 @@
         "War",
         "Diplomacy",
         "Peace",
+        "Sassanid",
         "Treaty"
       ],
       "type": "political"
@@ -1222,16 +1224,17 @@
       "type": "religious"
     },
     {
-      "date": "01.01.0325",
+      "date": "20.06.0325",
       "description": "Armenia sends Bishop Aristaces (son of Gregory the Illuminator) to the Council of Nicaea — the first ecumenical council of the Christian Church convened by Emperor Constantine I. Aristaces brings back the Nicene Creed and the canonical decisions to Armenia. This participation establishes the Armenian Church as part of the universal Christian community from its very beginnings. Armenia is among the few nations represented at Nicaea that predates the Roman Empire's own official adoption of Christianity",
       "description_ru": "Армения направляет епископа Аристакеса (сына Григория Просветителя) на Никейский собор — первый вселенский собор христианской Церкви, созванный императором Константином I. Аристакес привозит Никейский символ веры и канонические решения в Армению. Участие устанавливает Армянскую Церковь как часть вселенского христианского сообщества с самого начала. Армения — одна из немногих наций на Никейском соборе, чьё принятие христианства предшествует официальному обращению самой Римской империи",
       "era": "AD",
-      "latitude": 40.253,
-      "longitude": 29.975,
+      "latitude": 40.43166097,
+      "longitude": 29.70926285,
       "name": "Armenia at Nicaea",
       "name_ru": "Армения на Никейском соборе",
       "source": "https://en.wikipedia.org/wiki/First_Council_of_Nicaea",
       "tags": [
+        "Roman",
         "Armenian",
         "Diplomacy",
         "Christian",
@@ -1374,7 +1377,7 @@
     {
       "date": "01.07.0363",
       "description": "Following the failed campaign of Julian the Apostate, the Byzantine Emperor Jovian signed a shameful peace with the Persian King Shapur. Byzantium ceded five border regions to Persia and formally pledged not to assist Armenia in the event of a Persian attack, thus abandoning the Armenians to their fate.",
-      "description_ru": "Византийский император Иовиан после неудачного похода Юлиана Отступника подписал с персидским царем Шапухом позорный мир. Византия отдавала Персии пять пограничных областей и официально обязалась не помогать Армении в случае нападения персов, таким образом оставляя армян на произвол судьбы.",
+      "description_ru": "Византийский император Иовиан после неудачного похода Юлиана Отступника подписал с персидским царем Шапуром позорный мир. Византия отдавала Персии пять пограничных областей и официально обязалась не помогать Армении в случае нападения персов, таким образом оставляя армян на произвол судьбы.",
       "era": "AD",
       "latitude": 37.0764,
       "longitude": 41.2149,

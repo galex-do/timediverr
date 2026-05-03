@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 66 events",
+  "description": "Dataset imported with 68 events",
   "events": [
     {
       "date": "01.01.1500",
@@ -171,6 +171,25 @@
       "type": "cultural"
     },
     {
+      "date": "01.01.0970",
+      "description": "Since ancient times, the Tadmor Oasis (Palmyra) has been the only reliable source of water in the vast Syrian Desert. The oasis boasted the Efqa Spring, a sulfur spring that fed the city and its gardens. Its strategic location made it an important logistical hub, where caravans stopped, guards were hired, and numerous trade routes passed.\n\nThe Book of Chronicles (2 Chronicles 8:4) says that Solomon \"built\" Tadmor. In those days, this meant constructing fortifications—massive walls and towers—to protect the oasis from raids by desert tribes. Huge government warehouses for grain, wine, oil, and fodder were built in Palmyra, allowing caravans not only to drink water but also to fully replenish their provisions.",
+      "description_ru": "Оазис Тадмор (Пальмира) был с древних времен единственным надежным источником воды посреди огромной Сирийской пустыни. В оазисе находился источник Эфка — серный источник, который питал город и его сады. Его стратегическое положение сделало его важным логистическим узлом, где останавливались караваны, нанимали охрану, и где проходило множество торговых путей.\n\nВ «Книге Паралипоменон» (2 Пар. 8:4) сказано, что Соломон «обстроил» Тадмор. В те времена это означало возведение фортификаций — мощных стен и башен, чтобы защитить оазис от набегов пустынных племен. В Пальмире были возведены огромные по тем временам государственные склады для зерна, вина, масла и фуража. Это позволяло караванам не просто пить воду, но и полностью пополнять провизию.",
+      "era": "BC",
+      "latitude": 34.55,
+      "longitude": 38.27,
+      "name": "Solomon Founds Palmyra",
+      "name_ru": "Соломон основывает Пальмиру",
+      "source": "https://en.wikipedia.org/wiki/Palmyra",
+      "tags": [
+        "Judaic",
+        "Israel",
+        "City",
+        "Fortification",
+        "Trade"
+      ],
+      "type": "historic"
+    },
+    {
       "date": "01.01.0969",
       "description": "King Hiram I of Tyre forms lucrative alliance with King Solomon of Israel, providing cedars and craftsmen for Temple of Solomon in Jerusalem",
       "description_ru": "Царь Хирам I Тирский заключает выгодный союз с царем Соломоном Израильским, поставляя кедры и мастеров для строительства Храма Соломона в Иерусалиме",
@@ -186,7 +205,6 @@
         "Israel",
         "Alliance",
         "Temple",
-        "Temple of Solomon",
         "Tyre"
       ],
       "type": "political"
@@ -419,22 +437,6 @@
     },
     {
       "date": "01.01.0600",
-      "description": "Phoenician monopoly on rare purple dye extracted from murex snails reaches apex, with Tyrian purple becoming most valuable commodity in ancient world",
-      "description_ru": "Финикийская монополия на редкий пурпурный краситель из раковин мурекса достигает апогея; тирский пурпур становится самым ценным товаром древнего мира",
-      "era": "BC",
-      "latitude": 33.271,
-      "longitude": 35.204,
-      "name": "Tyrian Purple Dye Trade Peak",
-      "name_ru": "Пик торговли тирским пурпуром",
-      "source": "https://www.metmuseum.org/toah/hd/phoe/hd_phoe.htm",
-      "tags": [
-        "Trade",
-        "Tyre"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.0600",
       "description": "Sidonian artisans perfect transparent glass production by adding antimony, establishing Phoenician dominance in luxury glassware exported across ancient world",
       "description_ru": "Сидонские мастера совершенствуют производство прозрачного стекла, добавляя сурьму, устанавливая финикийское господство в производстве роскошной стеклянной посуды, экспортируемой по всему древнему миру",
       "era": "BC",
@@ -453,6 +455,22 @@
         "Trade"
       ],
       "type": "scientific"
+    },
+    {
+      "date": "01.01.0600",
+      "description": "Phoenician monopoly on rare purple dye extracted from murex snails reaches apex, with Tyrian purple becoming most valuable commodity in ancient world",
+      "description_ru": "Финикийская монополия на редкий пурпурный краситель из раковин мурекса достигает апогея; тирский пурпур становится самым ценным товаром древнего мира",
+      "era": "BC",
+      "latitude": 33.271,
+      "longitude": 35.204,
+      "name": "Tyrian Purple Dye Trade Peak",
+      "name_ru": "Пик торговли тирским пурпуром",
+      "source": "https://www.metmuseum.org/toah/hd/phoe/hd_phoe.htm",
+      "tags": [
+        "Trade",
+        "Tyre"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.0586",

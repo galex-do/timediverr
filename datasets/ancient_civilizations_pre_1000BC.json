@@ -838,9 +838,9 @@
       "tags": [
         "Jōmon",
         "Fishing",
-        "Japan",
         "Maritime",
-        "Technology"
+        "Technology",
+        "Japanese"
       ],
       "type": "scientific"
     },
@@ -1409,9 +1409,9 @@
       "tags": [
         "Jōmon",
         "Building 🏠",
-        "Japan",
         "Megalithic",
-        "Stone Circle"
+        "Stone Circle",
+        "Japanese"
       ],
       "type": "cultural"
     },
@@ -2893,8 +2893,8 @@
       "tags": [
         "Jōmon",
         "Climate Crisis",
-        "Japan",
-        "Trade"
+        "Trade",
+        "Japanese"
       ],
       "type": "historic"
     }

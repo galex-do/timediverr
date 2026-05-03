@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 196 events",
+  "description": "Dataset imported with 252 events",
   "events": [
     {
       "date": "01.01.1900",
@@ -1622,7 +1622,6 @@
         "Colonization",
         "Expansion",
         "Italy",
-        "Law",
         "Locrian",
         "Magna Graecia"
       ],

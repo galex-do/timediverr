@@ -169,16 +169,16 @@
       "era": "AD",
       "latitude": 37.87,
       "longitude": 112.55,
-      "name": "Liu Yuan Proclaims Han Zhao — The Five Barbarians Enter",
-      "name_ru": "Лю Юань провозглашает Хань Чжао — вход пяти варваров",
+      "name": "The Five Barbarians' Revolt in China",
+      "name_ru": "Смута пяти варваров в Китае",
       "source": "https://en.wikipedia.org/wiki/Uprising_of_the_Five_Barbarians",
       "tags": [
         "Chinese",
+        "War",
         "Dynasty",
-        "Jin",
-        "Warfare"
+        "Huns"
       ],
-      "type": "political"
+      "type": "military"
     },
     {
       "date": "01.01.0311",

@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 22 events",
+  "description": "Dataset imported with 28 events",
   "events": [
     {
       "date": "01.01.0326",
@@ -307,8 +307,8 @@
       "description": "Prusias II sought to demonstrate his absolute loyalty to Rome and secure its support. After the Roman victory over Macedonia, he appeared before the Senate dressed as a freed slave, wearing a felt cap called a pilos. He prostrated himself before the senators, calling them gods and saviors. Although Rome extended the alliance, the king's actions in the Senate drew scorn.",
       "description_ru": "Прусий II стремился показать свою абсолютную преданность Риму и заручиться его поддержкой. После победы римлян над Македонией он явился в Сенат в одежде вольноотпущенника (освобожденного раба) — в войлочной шапке-пилосе. Он пал ниц перед сенаторами, называя их богами-спасителями. Хотя Рим продлил действие союза, действия царя в Сенате вызвали презрение.",
       "era": "BC",
-      "latitude": 41.89239445,
-      "longitude": 12.484079,
+      "latitude": 41.89318911,
+      "longitude": 12.48506606,
       "name": "The King of Bithynia congratulates Rome",
       "name_ru": "Царь Вифинии поздравляет Рим с победой",
       "tags": [

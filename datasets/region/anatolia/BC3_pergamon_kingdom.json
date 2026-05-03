@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 26 events",
+  "description": "Dataset imported with 30 events",
   "events": [
     {
       "date": "01.01.0301",
@@ -373,8 +373,8 @@
       "description": "Eumenes II joins Rome's Third Macedonian War against Perseus of Macedon. On his way back from a meeting with the Roman Senate, he is assassinated in Delphi—huge stones are thrown from a cliff, nearly killing him. He survives with serious injuries. Ancient sources differ on who ordered the attack: Perseus or Rome itself, which had begun to fear the growing power of Pergamon.",
       "description_ru": "Эвмен II Пергамский присоединяется к Третьей Македонской войне Рима против Персея Македонского. На обратном пути после встречи с римским Сенатом на него совершают покушение в Дельфах — со скалы сбрасывают огромные камни, едва не убив его. Он выживает с тяжёлыми травмами. Античные источники расходятся в том, кто заказал нападение: Персей или сам Рим, начавший опасаться растущей мощи Пергама.",
       "era": "BC",
-      "latitude": 38.48244,
-      "longitude": 22.50088,
+      "latitude": 38.4825,
+      "longitude": 22.5011,
       "name": "Assassination Attempt on Eumenes II at Delphi",
       "name_ru": "Покушение на Эвмена II в Дельфах",
       "source": "https://en.wikipedia.org/wiki/Eumenes_II",
@@ -403,7 +403,7 @@
         "Roman",
         "Pergamon",
         "Culture",
-        "Literature"
+        "Education"
       ],
       "type": "cultural"
     },

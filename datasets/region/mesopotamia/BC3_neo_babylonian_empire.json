@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 36 events",
+  "description": "Dataset imported with 30 events",
   "events": [
     {
       "date": "01.01.0620",
@@ -242,10 +242,10 @@
         "Jerusalem",
         "War",
         "City",
+        "Ancient Wonders",
         "Destruction",
         "Nebuchadnezzar II 👑",
-        "Temple",
-        "Temple of Solomon"
+        "Temple"
       ],
       "type": "military"
     },

@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 70 events",
+  "description": "Dataset imported with 66 events",
   "events": [
     {
       "date": "01.09.0238",
@@ -742,8 +742,8 @@
         "Armenian",
         "Parthian",
         "Arsacid",
-        "Nero 👑",
-        "Peace"
+        "Peace",
+        "Treaty"
       ],
       "type": "political"
     },
@@ -754,8 +754,8 @@
       "era": "AD",
       "latitude": 41.89296549,
       "longitude": 12.48539865,
-      "name": "Tiridates Crowned in Rome",
-      "name_ru": "Коронация Тиридата в Риме",
+      "name": "Tiridates I of Armenia Crowned in Rome",
+      "name_ru": "Коронация Тиридата I Армянского в Риме",
       "source": "https://en.wikipedia.org/wiki/Tiridates_I_of_Armenia",
       "tags": [
         "Roman",
@@ -781,7 +781,7 @@
         "Babylonian",
         "Judaic",
         "Parthian",
-        "Jewish",
+        "Migration",
         "Religious"
       ],
       "type": "religious"
@@ -924,13 +924,13 @@
       "latitude": 33.094,
       "longitude": 44.581,
       "name": "Revolts Force Roman Withdrawal",
-      "name_ru": "Римляне отступают из Месопотамии",
+      "name_ru": "Римляне уходят из Месопотамии",
       "source": "https://en.wikipedia.org/wiki/Trajan%27s_Parthian_campaign",
       "tags": [
         "Roman",
+        "Judaic",
         "Parthian",
         "Hadrian 👑",
-        "Jewish",
         "Rebellion",
         "Retreat",
         "Trajan 👑"

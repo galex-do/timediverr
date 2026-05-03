@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 223 events",
+  "description": "Dataset imported with 224 events",
   "events": [
     {
       "date": "01.01.0800",
@@ -766,8 +766,8 @@
       "era": "BC",
       "latitude": 41.89318911,
       "longitude": 12.48506606,
-      "name": "Lex Canuleia",
-      "name_ru": "Закон Канулея",
+      "name": "Marriage between patricians and plebeians was permitted in Rome",
+      "name_ru": "Разрешен брак между патрицием и плебеем в Риме",
       "source": "https://en.wikipedia.org/wiki/Lex_Canuleia",
       "tags": [
         "Roman",
@@ -994,8 +994,8 @@
       "era": "BC",
       "latitude": 41.89318911,
       "longitude": 12.48506606,
-      "name": "Licinian-Sextian Laws",
-      "name_ru": "Законы Лициния и Секстия",
+      "name": "One of the two Roman consuls must be a plebeian",
+      "name_ru": "Один римский консул из двух - плебей",
       "source": "https://en.wikipedia.org/wiki/Lex_Licinia_Sextia",
       "tags": [
         "Roman",
@@ -2119,8 +2119,8 @@
       "description": "The Great Mother (Cybele), a black meteorite from Phrygia, was brought to Rome because a prophecy declared it essential for defeating Hannibal. The Romans persuaded the King of Pergamon to hand over the relic, citing their affiliation with Troy and its deities. The cult of a foreign goddess with her eunuch priests and ecstatic rituals disturbs the Romans, but becomes officially Roman.",
       "description_ru": "Великая Мать (Кибела), чёрный метеорит из Фригии, привезена в Рим, поскольку пророчество объявило её необходимой для победы над Ганнибалом. Римляне уговорили Пергамского царя отдать святыню, используя аргумент своей принадлежности к Трое и её божествам. Культ иноземной богини с её жрецами-евнухами и экстатическими ритуалами тревожит римлян, но становится официально римским.",
       "era": "BC",
-      "latitude": 41.8892,
-      "longitude": 12.4875,
+      "latitude": 41.88952722,
+      "longitude": 12.48497486,
       "name": "Magna Mater Comes to Rome",
       "name_ru": "Великая Мать прибывает в Рим",
       "source": "https://en.wikipedia.org/wiki/Magna_Mater",
@@ -4290,6 +4290,7 @@
       "source": "https://en.wikipedia.org/wiki/Augustus",
       "tags": [
         "Roman",
+        "Emperor",
         "Empire",
         "Foundation",
         "Octavian 👑",

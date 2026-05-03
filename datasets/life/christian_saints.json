@@ -18,7 +18,8 @@
         "Legend",
         "Christian",
         "Holy Site",
-        "Jesus Christ 👤"
+        "Jesus Christ 👤",
+        "Turning Point"
       ],
       "type": "cultural"
     },
@@ -317,7 +318,7 @@
       "type": "historic"
     },
     {
-      "date": "01.01.0064",
+      "date": "01.09.0064",
       "description": "Following the Great Fire of Rome in 64 AD, the Emperor Nero requires a scapegoat and selects the Christian community of Rome — a small group concentrated in the Trastevere neighbourhood and among the slaves and freedpersons of wealthy households. Tacitus (Annals 15.44) records that 'an immense multitude' of Christians were arrested, condemned 'not so much on the count of arson as for hatred of the human race,' and executed by burning, crucifixion, and being thrown to animals in Nero's stadium. Among those executed are the two most prominent leaders of the early church: Simon Peter (the first leader of the Jerusalem community, martyred by crucifixion — tradition records that he requested to be crucified upside down, considering himself unworthy to die in the same manner as Jesus) and Paul of Tarsus (executed by beheading, his Roman citizenship sparing him crucifixion).\n\nThe locations of both martyrdoms are identified by early Christian tradition: Peter's tomb beneath what is now Saint Peter's Basilica in the Vatican, and Paul's burial at the Basilica of Saint Paul Outside the Walls. Excavations under Saint Peter's Basilica in the 1940s–1960s uncovered a 2nd-century shrine, human bones, and a Greek inscription reading 'Peter is within' — interpreted by the Vatican as confirming the burial site.",
       "description_ru": "После Великого пожара Рима император Нерон нуждается в козле отпущения и выбирает христианскую общину Рима. Тацит (Анналы 15.44) сообщает, что «огромное множество» христиан было арестовано, осуждено «не столько за поджог, сколько за ненависть к роду человеческому» и казнено сожжением, распятием и брошением зверям. Среди казнённых — два наиболее видных лидера ранней Церкви: Симон Пётр (распят — традиция сообщает, что он просил распять его вниз головой) и Павел из Тарса (обезглавлен, римское гражданство избавило его от распятия).\n\nМеста обоих мученических убийств определены раннехристианской традицией: гробница Петра под нынешней базиликой Святого Петра в Ватикане и захоронение Павла в базилике Святого Павла за стенами. Раскопки под базиликой Святого Петра в 1940-х–1960-х годах обнаружили святилище II века, человеческие кости и греческую надпись «Петр внутри», которую Ватикан интерпретировал как подтверждение места захоронения.",
       "era": "AD",
@@ -414,9 +415,9 @@
       "tags": [
         "Roman",
         "Celtic",
+        "Baptism",
         "British",
         "Christian",
-        "Holy Site",
         "Irish",
         "Religious",
         "Saint"
@@ -506,7 +507,7 @@
         "Martyr",
         "Saint"
       ],
-      "type": "historic"
+      "type": "military"
     }
   ],
   "filename": "christian_saints.json"
