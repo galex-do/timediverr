@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 69 events",
+  "description": "Dataset imported with 66 events",
   "events": [
     {
       "date": "01.01.0322",
@@ -398,6 +398,7 @@
         "Egypt",
         "Ptolemaic",
         "Anatomy",
+        "Education",
         "Medicine",
         "Science"
       ],

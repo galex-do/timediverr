@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 27 events",
+  "description": "Dataset imported with 30 events",
   "events": [
     {
       "date": "01.01.0100",
@@ -346,6 +346,7 @@
       "name_ru": "Прибытие Девяти святых в Аксум",
       "source": "https://en.wikipedia.org/wiki/Nine_Saints",
       "tags": [
+        "Roman",
         "Christian",
         "Education",
         "Ethiopian",

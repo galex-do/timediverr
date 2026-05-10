@@ -565,8 +565,8 @@
       "description": "The murder of the last Severan emperor Alexander Severus by mutinous soldiers on the Rhine frontier near Mainz — cut down in his tent along with his mother Julia Mamaea after his troops decided that bribing rather than fighting the Germanic Alamanni was unworthy of command — opens the fifty-year catastrophe known as the Crisis of the Third Century. Over the next five decades the imperial throne changes hands roughly fifty times through assassination, usurpation, and civil war; the currency is debased to near worthlessness; the Rhine and Danube frontiers are repeatedly breached; and the empire fragments into three simultaneous states — the Gallic Empire in the west, the Palmyrene Empire in the east, and the rump Roman Empire between them. What distinguishes this crisis from all previous ones is that it cannot be resolved by any single reform: it can only be ended by the comprehensive reimagining of imperial government that Diocletian will eventually undertake.",
       "description_ru": "Убийство последнего северянского императора Александра Севера взбунтовавшимися солдатами на рейнской границе близ Майнца — зарублен в своей палатке вместе с матерью Юлией Мамеей после того, как войска решили, что предпочтение взяток боям с германскими алеманнами недостойно командующего — открывает пятидесятилетнюю катастрофу, известную как Кризис III века. На протяжении следующих пяти десятилетий императорский трон сменяет владельцев около пятидесяти раз через убийства, узурпации и гражданские войны; валюта обесценивается; рейнская и дунайская границы неоднократно прорываются; империя распадается на три одновременных государства. Кризис может быть завершён лишь комплексным переосмыслением имперского управления, которое предпримет Диоклетиан.",
       "era": "AD",
-      "latitude": 41.89,
-      "longitude": 12.49,
+      "latitude": 41.89296549,
+      "longitude": 12.48539865,
       "name": "Crisis of the Third Century in Rome",
       "name_ru": "Кризис III века в Риме",
       "source": "https://en.wikipedia.org/wiki/Crisis_of_the_Third_Century",
@@ -811,6 +811,22 @@
       "type": "political"
     },
     {
+      "date": "01.01.0286",
+      "description": "Emperor Diocletian made the decision when he divided the empire's governance among four rulers (creating the Tetrarchy). He appointed his co-emperor, Maximian, as Emperor of the West, and Maximian chose Milan as his seat. Milan stood at the crossroads of the most important roads linking Italy, Gaul (France), and Pannonia (the Balkans). It was an ideal logistical hub for the movement of legions.\n\nDiocletian and his successors transformed the empire into a rigid military monarchy. The old Roman aristocracy, with its traditions and Senate, only hindered this, so the emperors preferred to rule from \"field headquarters,\" which became Milan, Trier, and Nicomedia.",
+      "description_ru": "Решение принял император Диоклетиан, когда разделил управление империей между четырьмя правителями (создал Тетрархию). Он назначил своего соправителя Максимиана императором Запада, и тот выбрал своей резиденцией Медиолан. Медиолан стоял на пересечении важнейших дорог, связывавших Италию, Галлию (Францию) и Паннонию (Балканы). Это был идеальный логистический центр для переброски легионов.\n\nДиоклетиан и его преемники превращали империю в жесткую военную монархию. Старая римская аристократия с её традициями и Сенатом только мешала, поэтому императоры предпочитали править из «полевых ставок», которыми и стали Медиолан, Трир и Никомедия.",
+      "era": "AD",
+      "latitude": 45.46483373,
+      "longitude": 9.18060064,
+      "name": "Mediolanum - western capital of the Roman Empire",
+      "name_ru": "Медиолан - западная столица Римской империи",
+      "source": "https://en.wikipedia.org/wiki/Mediolanum",
+      "tags": [
+        "Roman",
+        "Capital"
+      ],
+      "type": "historic"
+    },
+    {
       "date": "01.03.0293",
       "description": "Diocletian establishes the Tetrarchy (rule of four) in 293 AD: two senior emperors (Augusti — Diocletian in the east, Maximian in the west) each adopt a junior colleague (Caesar — Galerius and Constantius I) to govern the empire in four geographic quadrants, with the Caesars designated as successors to their respective Augusti. The system is an elegant solution to the empire's logistical problem of governing a vast territory from a single centre with slow communications: each tetrarch lives near his sector's main crisis zone (Nicomedia, Milan, Sirmium, Trier) rather than in Rome. It functions brilliantly under Diocletian but collapses into civil war immediately after his abdication.",
       "description_ru": "Диоклетиан устанавливает тетрархию (власть четырёх) в 293 г. н. э.: два старших императора (Августа — Диоклетиан на востоке, Максимиан на западе) усыновляют по младшему коллеге (Цезарю — Галерию и Констанцию I) для управления империей в четырёх географических квадрантах. \n\nСистема — элегантное решение логистической проблемы управления обширной территорией из единого центра. Она блестяще функционирует при Диоклетиане, но немедленно рассыпается в гражданскую войну после его отречения. Сам Диоклетиан после ввода тетрархии правит из Никомедии",
@@ -933,8 +949,8 @@
       "description": "Constantine and his co-emperor Licinius issue the Edict of Milan granting religious freedom to all inhabitants of the empire — not specifically Christianity but all religions — and ordering the return of property previously confiscated from Christian communities. It does not make Christianity the state religion (that comes later) but ends the legal persecution that has intermittently afflicted the church for 250 years. The Edict of Milan is a foundational document of Western religious liberty: the principle that the state has no right to compel a particular religion, enshrined here for the first time, will be formative for the Western legal tradition on freedom of conscience.",
       "description_ru": "Константин и его соправитель Лициний издают Миланский эдикт, предоставляя свободу вероисповедания всем жителям империи и приказывая вернуть имущество, ранее конфискованное у христианских общин. Он не провозглашает христианство государственной религией, но прекращает юридическое преследование, периодически терзавшее церковь 250 лет. \n\nМиланский эдикт — основополагающий документ западной религиозной свободы: принцип отсутствия у государства права принуждать к определённой религии впервые закреплён здесь.",
       "era": "AD",
-      "latitude": 45.46,
-      "longitude": 9.19,
+      "latitude": 45.46483373,
+      "longitude": 9.18060064,
       "name": "Edict of Milan, Christianity Granted Toleration",
       "name_ru": "Миланский эдикт — свобода вероисповедания в Риме",
       "source": "https://en.wikipedia.org/wiki/Edict_of_Milan",
@@ -956,8 +972,8 @@
       "description": "Constantine defeats his last remaining co-emperor Licinius at the Battle of Chrysopolis, becoming the sole ruler of the entire Roman Empire for the first time since Diocletian. Licinius surrenders, is exiled, and executed within a year. Constantine's sole rule is what makes the decisive events of his later career possible: only a single undivided imperial authority can summon an ecumenical church council (Nicaea, 325), commission an entirely new capital (Constantinople, 330), and reshape the religious identity of the empire as comprehensively as he does. The Edict of Milan had been issued jointly with Licinius; it is now Constantine alone who shapes the Roman world.",
       "description_ru": "Константин разбивает последнего соправителя по тетрархии Лициния в битве при Хрисополе, становясь единоличным правителем всей Римской империи впервые со времён Диоклетиана. Лициний сдаётся, отправляется в ссылку и казнён в течение года. Единоличная власть Константина делает возможными решающие события его позднейшей карьеры: только единая неразделённая императорская власть может созвать вселенский собор (Никея, 325 г.), строить новую столицу (Константинополь, 330 г.) и столь масштабно преобразовывать религиозную идентичность империи.",
       "era": "AD",
-      "latitude": 41.01,
-      "longitude": 29.03,
+      "latitude": 41.02511086,
+      "longitude": 29.01823997,
       "name": "Constantine becomes sole ruler of Rome",
       "name_ru": "Константин становится единоличным правителем Рима",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Chrysopolis",
@@ -1082,8 +1098,9 @@
         "Byzantine",
         "Crisis",
         "Gothic",
-        "Huns",
-        "Migration"
+        "Invasions",
+        "Migration",
+        "Visigoth"
       ],
       "type": "historic"
     },
@@ -1102,9 +1119,12 @@
         "War",
         "Battle",
         "Byzantine",
-        "Gothic"
+        "Death",
+        "Emperor",
+        "Gothic",
+        "Visigoth"
       ],
-      "type": "historic"
+      "type": "military"
     },
     {
       "date": "27.02.0380",
@@ -1118,14 +1138,38 @@
       "source": "https://en.wikipedia.org/wiki/Edict_of_Thessalonica",
       "tags": [
         "Roman",
+        "Dynasty",
         "Adoption",
         "Christian",
         "Empire",
         "Law",
         "Religious",
-        "Theodosius I 👑"
+        "Theodosian"
       ],
-      "type": "historic"
+      "type": "religious"
+    },
+    {
+      "date": "01.01.0387",
+      "description": "After their victory at the Allia, the Gauls entered Rome virtually unopposed. The inhabitants fled, and the most capable defenders holed up on the Capitoline Hill. According to legend, the Gauls attempted to secretly climb the Capitol at night, but their movements were heard by the sacred geese at the Temple of Juno. Their cackling awakened the guards, and the assault was repelled.\n\nThe city was besieged for seven months until the Romans agreed to pay a ransom in gold. When they began arguing about the accuracy of the scales, Brennus threw his heavy sword onto the scales, declaring, \"Woe to the vanquished!\"",
+      "description_ru": "После победы при Аллии галлы вошли в Рим практически без сопротивления. Жители бежали, а наиболее боеспособные защитники заперлись на Капитолийском холме. По легенде, галлы пытались ночью тайно взобраться на Капитолий, но их передвижение услышали священные гуси при храме Юноны. Их гогот разбудил охрану, и штурм был отбит.\n\nГород был в осаде 7 месяцев, пока римляне не согласились выплатить выкуп золотом. Когда они начали спорить о точности весов, Бренн бросил на чашу свой тяжелый меч со словами «Горе побежденным»",
+      "era": "AD",
+      "latitude": 41.89296549,
+      "longitude": 12.48539865,
+      "name": "The Gauls sacked Rome",
+      "name_ru": "Галлы разграбляют Рим",
+      "source": "https://en.wikipedia.org/wiki/Sack_of_Rome_(390_BC)",
+      "tags": [
+        "Roman",
+        "Celtic",
+        "Gallic",
+        "War",
+        "Legend",
+        "Crisis",
+        "Invasions",
+        "Plundering",
+        "Siege"
+      ],
+      "type": "military"
     },
     {
       "date": "24.02.0391",
@@ -1139,12 +1183,13 @@
       "source": "https://en.wikipedia.org/wiki/Theodosian_decrees",
       "tags": [
         "Roman",
+        "Dynasty",
         "Christian",
         "Law",
         "Religious",
-        "Theodosius I 👑"
+        "Theodosian"
       ],
-      "type": "historic"
+      "type": "religious"
     },
     {
       "date": "01.08.0391",
@@ -1177,10 +1222,12 @@
       "source": "https://en.wikipedia.org/wiki/Ancient_Olympic_Games",
       "tags": [
         "Roman",
+        "Dynasty",
         "Christian",
         "Destruction",
         "Law",
-        "Religious"
+        "Religious",
+        "Theodosian"
       ],
       "type": "historic"
     },
@@ -1197,8 +1244,10 @@
       "tags": [
         "Greek",
         "Roman",
+        "Dynasty",
         "Christian",
-        "Destruction"
+        "Destruction",
+        "Theodosian"
       ],
       "type": "cultural"
     },
@@ -1216,9 +1265,10 @@
         "Roman",
         "Civil War",
         "Battle",
+        "Dynasty",
         "Christian",
         "Religious",
-        "Theodosius I 👑"
+        "Theodosian"
       ],
       "type": "military"
     },
@@ -1227,18 +1277,19 @@
       "description": "Theodosius I dies on January 17, 395 AD, leaving the empire to his two sons: Arcadius (East, ruled from Constantinople) and Honorius (West, ruled initially from Milan, later Ravenna) — a division that has been made before on a temporary basis but this time is permanent. The Eastern Empire survives as the Byzantine Empire for another 1,058 years until 1453 AD; the Western Empire collapses within 81 years, its last emperor Romulus Augustulus deposed by the Germanic chieftain Odoacer in 476 AD. The date of 395 AD marks the conventional end of the unified Roman Empire, though contemporaries do not recognise it as permanent — the idea of a single Roman Empire remains a legal fiction maintained by both halves until the very end.",
       "description_ru": "Феодосий I умирает 17 января 395 г. н. э., оставляя империю двум сыновьям: Аркадию (Восток, управляемый из Константинополя) и Гонорию (Запад, управляемый поначалу из Милана). Восточная империя выживает как Византийская ещё 1058 лет до 1453 г.; Западная рухнет через 81 год — её последний император Ромул Августул низложен Одоакром в 476 г. \n\nДата 395 г. маркирует условный конец единой Римской империи, хотя современники не воспринимают разделение как постоянное.",
       "era": "AD",
-      "latitude": 41.89,
-      "longitude": 12.49,
+      "latitude": 45.46483373,
+      "longitude": 9.18060064,
       "name": "Division of the Roman Empire into East and West",
       "name_ru": "Разделение Римской империи",
       "source": "https://en.wikipedia.org/wiki/Division_of_the_Roman_Empire",
       "tags": [
         "Roman",
+        "Dynasty",
         "Byzantine",
         "Death",
         "Empire",
         "Foundation",
-        "Theodosius I 👑",
+        "Theodosian",
         "Turning Point"
       ],
       "type": "historic"

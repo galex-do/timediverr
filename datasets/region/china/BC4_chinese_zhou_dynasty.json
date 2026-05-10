@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 22 events",
+  "description": "Dataset imported with 21 events",
   "events": [
     {
       "date": "01.01.1500",
@@ -332,6 +332,7 @@
       "tags": [
         "Chinese",
         "Culture",
+        "Education",
         "Holy Site",
         "Library",
         "Philosophy",

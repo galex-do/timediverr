@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 35 events",
+  "description": "Dataset imported with 42 events",
   "events": [
     {
       "date": "01.01.3000",
@@ -761,7 +761,7 @@
         "Religious",
         "Siege"
       ],
-      "type": "historic"
+      "type": "religious"
     },
     {
       "date": "01.01.0400",

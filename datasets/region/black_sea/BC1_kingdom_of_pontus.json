@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 28 events",
+  "description": "Dataset imported with 52 events",
   "events": [
     {
       "date": "01.01.0302",
@@ -901,7 +901,7 @@
       "latitude": 40.1366,
       "longitude": 38.1477,
       "name": "Battle of the Lycus River",
-      "name_ru": "Битва у реки Лик",
+      "name_ru": "Помпей громит понтийцев у реки Лик",
       "source": "https://en.wikipedia.org/wiki/Battle_of_the_Lycus",
       "tags": [
         "Greek",
