@@ -1,0 +1,829 @@
+{
+  "description": "Dataset with 43 events covering 226–651 AD",
+  "events": [
+    {
+      "date": "01.04.0226",
+      "era": "AD",
+      "name": "Ardashir I Crowned at Ctesiphon — the Sassanid Empire Is Born",
+      "name_ru": "Ардашир I коронован в Ктесифоне — рождение Сасанидской империи",
+      "description": "Having crushed the last Parthian king at Hormozdgan and seized their capital Ctesiphon, Ardashir I is formally crowned Shahanshah — King of Kings — in a ceremony that deliberately recalls the Achaemenid monarchs Cyrus and Darius. He claims descent from Sassan, keeper of the sacred Zoroastrian fire at Istakhr, and presents the new dynasty as a restoration of authentic Persian sovereignty after five centuries of Parthian and Hellenistic rule.\n\nThe empire he founds endures four hundred years as the most powerful state between Rome and China, defining Persian civilisation in law, art, religion, and administration and bequeathing to Islam an administrative and artistic tradition that shapes the medieval Middle East for a millennium.",
+      "description_ru": "Разгромив последнего парфянского царя при Хормоздгане и захватив их столицу Ктесифон, Ардашир I торжественно коронован шаханшахом — Царём царей — в церемонии, намеренно воссоздающей образы ахеменидских правителей Кира и Дария. Он заявляет о происхождении от Сасана, хранителя священного зороастрийского огня в Истахре, и представляет новую династию как восстановление подлинного персидского суверенитета после пяти столетий парфянского и эллинистического господства.\n\nОснованная им империя просуществует четыреста лет как наиболее мощное государство между Римом и Китаем, определяя персидскую цивилизацию в праве, искусстве, религии и управлении и передавая исламу административную и художественную традицию, формирующую средневековый Ближний Восток на тысячелетие вперёд.",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/Ardashir_I",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Emperor",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0228",
+      "era": "AD",
+      "name": "Zoroastrianism Becomes the State Religion of the Sassanid Empire",
+      "name_ru": "Зороастризм становится государственной религией Сасанидской империи",
+      "description": "Ardashir I establishes the Zoroastrian priesthood — the Magi — as a formal arm of the state, appointing the high priest Tansar to standardise doctrine, collect sacred texts, and subordinate local cults to the authority of Ahura Mazda. Sacred fires are maintained at three great temples corresponding to the three social orders: Adur Gushnasp for warriors, Adur Farnbag for priests, and Adur Burzen-Mihr for farmers. The state and the faith are declared inseparable: kingship and religion are 'twin brothers, born of one womb.'\n\nThis union of throne and altar becomes the defining characteristic of Sassanid statecraft and a direct model for both subsequent Islamic caliphates and Byzantine Christian governance. The Zoroastrian calendar, the Nowruz festival, and the system of sacred fires survive the Islamic conquest and persist in Persian culture to the present day.",
+      "description_ru": "Ардашир I учреждает зороастрийское жречество — магов — в качестве официальной ветви государственного аппарата, назначая верховного жреца Тансара систематизировать вероучение, собирать священные тексты и подчинять местные культы власти Ахура Мазды. Священные огни поддерживаются в трёх великих храмах, соответствующих трём общественным сословиям: Адур Гушнасп — для воинов, Адур Фарнбаг — для жрецов, Адур Бурзен-Михр — для земледельцев. Государство и вера объявлены неразделимыми: «царская власть и религия — близнецы, рождённые из одного чрева».\n\nЭтот союз трона и алтаря становится определяющей чертой сасанидского государственного искусства и прямым образцом как для последующих исламских халифатов, так и для Византийского христианского управления. Зороастрийский календарь, праздник Навруз и система священных огней переживут исламское завоевание и сохранятся в персидской культуре по сей день.",
+      "latitude": 29.89,
+      "longitude": 52.87,
+      "source": "https://en.wikipedia.org/wiki/Zoroastrianism",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Zoroastrian",
+        "Religion",
+        "Reform"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.0240",
+      "era": "AD",
+      "name": "Mani Receives His Divine Revelation — Manichaeism Is Founded",
+      "name_ru": "Мани получает божественное откровение — основание манихейства",
+      "description": "The young Mani — born into a Jewish-Christian baptismal community in Babylonia and raised in a household already blending multiple religious traditions — receives a vision from his heavenly twin commanding him to proclaim a new universal religion. Mani presents himself as the final prophet, synthesising elements of Zoroastrianism, Christianity, and Buddhism into a dualistic theology of Light and Darkness that offers a cosmological explanation for evil unmatched in systematic ambition by anything in the ancient world.\n\nManichaeism spreads with extraordinary speed along the Silk Road: within a century it reaches Roman North Africa, where Augustine of Hippo is a Manichaean for nine years, and Tang Dynasty China, where Manichaean monasteries survive into the fourteenth century. No other religion founded in the Sassanid period achieves comparable geographical reach, making Mani — persecuted within Persia and martyred there — arguably the most globally influential Persian thinker of antiquity.",
+      "description_ru": "Молодой Мани — рождённый в иудео-христианской крещальной общине Вавилонии и выросший в доме, где уже смешивались различные религиозные традиции, — получает видение своего небесного двойника, повелевающего возвестить новую вселенскую религию. Мани представляет себя последним пророком, синтезируя элементы зороастризма, христианства и буддизма в дуалистическую теологию Света и Тьмы, предлагающую объяснение природы зла, не имеющее равных по систематической амбиции в античном мире.\n\nМанихейство распространяется с поразительной быстротой по Шёлковому пути: в течение столетия оно достигает римской Северной Африки, где Августин Гиппонский исповедует его девять лет, и Танского Китая, где манихейские монастыри просуществуют до XIV века. Ни одна другая религия, основанная в сасанидский период, не достигает сопоставимого географического охвата, делая Мани — преследуемого внутри Персии и там же принявшего мученическую смерть — возможно, наиболее глобально значимым персидским мыслителем античности.",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/Mani_(prophet)",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Religion",
+        "Zoroastrian"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "09.04.0241",
+      "era": "AD",
+      "name": "Shapur I Becomes Shahanshah — the Great Warrior King",
+      "name_ru": "Шапур I становится шаханшахом — великий царь-воитель",
+      "description": "On the death of Ardashir I, his son Shapur I inherits a consolidated Sassanid state and immediately embarks on a generation of military expansion that brings the empire to its first peak of power. Shapur is a ruler of exceptional intelligence: military commander, religious patron, and builder of cities, he commissions the first Sassanid rock reliefs, establishes the framework of Sassanid court ceremony, and maintains simultaneous correspondences with Roman emperors, the Kushan court, and Arabia.\n\nHis reign sees three separate wars with Rome — more sustained military pressure on a superpower than any Iranian king since Darius — and his title in his own inscriptions, 'King of Kings of Iran and non-Iran', formally claims sovereignty over both the Iranian world and those beyond its borders. The Sassanid imperial claim is universal from its inception.",
+      "description_ru": "После смерти Ардашира I его сын Шапур I наследует консолидированное Сасанидское государство и немедленно приступает к поколению военной экспансии, выводящей империю на первый пик могущества. Шапур — правитель исключительного ума: военный командир, покровитель религии и строитель городов, он заказывает первые сасанидские наскальные рельефы, закладывает основы придворного церемониала и поддерживает переписку с римскими императорами, кушанским двором и Аравией.\n\nЕго правление ознаменовано тремя отдельными войнами с Римом — более длительным военным давлением на сверхдержаву, чем у любого иранского царя со времён Дария. Его титул в собственных надписях — «Царь царей Ирана и не-Ирана» — официально притязает на суверенитет как над иранским миром, так и над теми, кто за его пределами. Сасанидская имперская претензия носит универсальный характер с самого начала.",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/Shapur_I",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Emperor",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.02.0244",
+      "era": "AD",
+      "name": "Battle of Misiche — Philip the Arab Pays Tribute to Sassanid Persia",
+      "name_ru": "Битва при Мисихе — Филипп Аравийский выплачивает дань Сасанидской Персии",
+      "description": "Shapur I defeats the Roman emperor Gordian III at the Battle of Misiche on the Euphrates — Gordian dying in the engagement, probably killed by his own soldiers — and then compels his successor Philip the Arab to pay an enormous indemnity of 500,000 gold denarii and cede Armenia and Mesopotamia to Sassanid suzerainty. Shapur celebrates the victory in a rock relief at Naqsh-e Rostam depicting Philip kneeling before him and renames the site 'Peroz-Shapur' — Shapur is Victorious.\n\nThe battle establishes the fundamental dynamic of the next four centuries of Roman-Sassanid relations: neither empire can destroy the other, but Persia can extract enormous concessions, and the Armenian buffer kingdom will oscillate between the two powers for generations. Shapur's use of Roman prisoners as skilled slave labour on his building projects — including the Shushtar hydraulic system — demonstrates a sophisticated understanding of human capital that the empire will continue to exploit.",
+      "description_ru": "Шапур I разбивает римского императора Гордиана III в битве при Мисихе на Евфрате — Гордиан погибает в сражении, по всей видимости убитый собственными солдатами, — а затем принуждает его преемника Филиппа Аравийского выплатить огромную контрибуцию в 500 000 золотых денариев и уступить Армению и Месопотамию под сасанидский сюзеренитет. Шапур отмечает победу наскальным рельефом в Накш-э Рустаме, изображающим Филиппа, преклонившего колени перед ним, и переименовывает место в «Пероз-Шапур» — Шапур победоносен.\n\nБитва устанавливает фундаментальную динамику следующих четырёх столетий римско-сасанидских отношений: ни одна из империй не может уничтожить другую, но Персия способна извлекать огромные уступки, а Армения будет на протяжении поколений служить буфером между двумя державами. Использование Шапуром римских пленников в качестве квалифицированного рабского труда демонстрирует изощрённое понимание человеческого капитала.",
+      "latitude": 33.35,
+      "longitude": 43.78,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Misiche",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "War",
+        "Battle",
+        "Roman"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0262",
+      "era": "AD",
+      "name": "Ka'ba-ye Zartosht Inscription — the Empire Defines Itself in Three Languages",
+      "name_ru": "Надпись на Каабе Зардушта — империя определяет себя на трёх языках",
+      "description": "Inscribed in Middle Persian, Parthian, and Greek on the walls of the ancient tower known as the Ka'ba-ye Zartosht near Persepolis, Shapur I's great inscription is the most important document in early Sassanid history. It catalogues thirty-six imperial provinces, three Roman wars, the capture of Valerian, and great triumphs at Misiche, Barbalissos, and Edessa — then lists, with equal care, the Zoroastrian, Manichaean, and other religious communities the king has endowed with fire temples and pious foundations.\n\nThe inscription reveals a ruler of vast ambition who nonetheless patronises multiple faiths simultaneously: Mani is present at court, Christians are permitted in the territory, and the king personally funds religious services for the souls of his nobles and soldiers. This ecumenical generosity within a Zoroastrian framework — tolerance subsidised by imperial resources — defines Sassanid religious policy at its most confident and becomes the measure against which later persecutions are judged.",
+      "description_ru": "Высеченная на среднеперсидском, парфянском и греческом языках на стенах древней башни, известной как Кааба Зардушта близ Персеполя, великая надпись Шапура I является важнейшим документом ранней сасанидской истории. Она перечисляет тридцать шесть имперских провинций, три войны с Римом, пленение Валериана и великие триумфы при Мисихе, Барбалиссе и Эдессе — а затем с не меньшей тщательностью перечисляет зороастрийские, манихейские и другие религиозные общины, которых царь одарил огненными храмами и благочестивыми фондами.\n\nНадпись раскрывает правителя огромных амбиций, при этом одновременно покровительствующего нескольким вероисповеданиям: Мани присутствует при дворе, христиане допускаются на территорию империи, а сам царь лично финансирует богослужения за души своих вельмож и воинов. Эта экуменическая щедрость в зороастрийском обрамлении — терпимость, субсидируемая имперскими ресурсами — определяет сасанидскую религиозную политику в пору наибольшей уверенности.",
+      "latitude": 29.89,
+      "longitude": 52.87,
+      "source": "https://en.wikipedia.org/wiki/Ka%27ba-ye_Zartosht",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Zoroastrian",
+        "Religion",
+        "Political"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0266",
+      "era": "AD",
+      "name": "City of Bishapur Founded — Roman Prisoners Build a Persian Capital",
+      "name_ru": "Основание Бишапура — римские пленники строят персидскую столицу",
+      "description": "Shapur I founds the city of Bishapur in the Fars province, employing Roman prisoners of war — trained engineers and artisans captured after Valerian's defeat — to construct its colonnaded streets, mosaic pavements, and monumental palace. The city is a deliberate fusion: its grid plan and mosaic techniques are entirely Roman, while its fire temple, royal palace, and adjacent rock reliefs are unmistakably Sassanid. Roman craftsmen carving Persian iconography is the visual embodiment of Shapur's imperial project.\n\nAdjacent to the city, Shapur commissions six monumental rock reliefs at Tang-e Chogan depicting his victories over Roman emperors: Gordian dying underfoot, Philip kneeling in submission, Valerian seized by the wrist. These are among the largest and most detailed royal reliefs in Iranian history and serve as the primary visual propaganda of his reign, read by travellers on the road between Persepolis and the Persian Gulf for centuries.",
+      "description_ru": "Шапур I основывает город Бишапур в провинции Фарс, используя римских военнопленных — обученных инженеров и ремесленников, захваченных после разгрома Валериана, — для строительства его колоннадных улиц, мозаичных покрытий и монументального дворца. Город — намеренный синтез: его регулярный план и техника мозаики целиком Рима, тогда как храм огня, царский дворец и соседние наскальные рельефы — безошибочно сасанидские. Римские мастера, высекающие персидскую иконографию, — зримое воплощение имперского замысла Шапура.\n\nВблизи города Шапур заказывает шесть монументальных наскальных рельефов в Танг-э Чоган, изображающих его победы над римскими императорами: Гордиан, попранный ногами, Филипп, склонившийся в покорности, Валериан, схваченный за запястье. Это одни из крупнейших и наиболее детализированных царских рельефов в иранской истории.",
+      "latitude": 29.78,
+      "longitude": 51.56,
+      "source": "https://en.wikipedia.org/wiki/Bishapur",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Architecture",
+        "Engineering ⚙️",
+        "Roman"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0271",
+      "era": "AD",
+      "name": "Gundeshapur Founded — Seed of the World's First Teaching Hospital",
+      "name_ru": "Основание Гундешапура — зерно первой в мире учебной больницы",
+      "description": "Shapur I founds the city of Gundeshapur in Khuzestan, resettling there the population of the Syrian city of Antioch captured in his second Roman war. Over two centuries, Gundeshapur develops into the most important centre of learning in the ancient world: its hospital — the first institution in history to combine a teaching hospital, medical school, pharmacy, and library under one roof — attracts Greek physicians expelled from Byzantium after Justinian closes the Athenian Academy, Indian physicians from the subcontinent, and Syriac scholars translating Greek texts into Pahlavi.\n\nThe medical knowledge concentrated at Gundeshapur flows directly into early Islamic medicine: when Baghdad is founded, the Abbasid caliphs hire Gundeshapur physicians for their hospitals, and the great Islamic encyclopaedists Ibn Sina and al-Razi build on the Gundeshapur synthesis of Greek, Persian, and Indian medicine. Modern concepts of the hospital, the distinction between physician and pharmacist, and the idea of a medical curriculum all carry traces of this Sassanid institution.",
+      "description_ru": "Шапур I основывает город Гундешапур в Хузестане, переселив туда население сирийской Антиохии, захваченной в его второй войне с Римом. На протяжении двух столетий Гундешапур превращается в важнейший центр учёности в античном мире: его больница — первое учреждение в истории, объединяющее учебный госпиталь, медицинскую школу, аптеку и библиотеку под единой крышей, — привлекает греческих врачей, изгнанных из Byzantии после закрытия Юстинианом Афинской академии, индийских врачей с субконтинента и сирийских учёных, переводящих греческие тексты на пехлеви.\n\nМедицинские знания, сосредоточенные в Гундешапуре, вливаются непосредственно в раннюю исламскую медицину: когда основывается Багдад, аббасидские халифы нанимают гундешапурских врачей для своих больниц, а великие исламские энциклопедисты Ибн Сина и ар-Рази строятся на гундешапурском синтезе греческой, персидской и индийской медицины. Современные представления о больнице и медицинском образовании несут следы этого сасанидского учреждения.",
+      "latitude": 32.4,
+      "longitude": 48.09,
+      "source": "https://en.wikipedia.org/wiki/Gundeshapur",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Engineering ⚙️",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.03.0274",
+      "era": "AD",
+      "name": "Mani Executed — Manichaeism Banned but Already Unstoppable",
+      "name_ru": "Казнь Мани — манихейство запрещено, но уже неостановимо",
+      "description": "Under pressure from the Zoroastrian high priest Kartir and having lost his protector Shapur I, Mani is arrested under King Bahram I, executed, and — reportedly — flayed, his stuffed skin hung at the city gate of Gundeshapur as a warning. The Zoroastrian establishment had resented Mani's success in converting members of the royal family and nobility; Bahram I, unlike the ecumenical Shapur, is willing to use violence to enforce religious orthodoxy.\n\nThe execution marks the beginning of intermittent Sassanid persecution of Manichaeans, Christians, Buddhists, and other minorities at clerical instigation — a pattern that recurs whenever the mowbadan mowbad gains ascendancy over the court. Yet Manichaeism's decentralised structure, its travelling merchant-missionaries, and its extraordinary textual tradition mean that persecution only spreads the faith further: communities survive underground in Persia for centuries, and globally Mani's influence outlasts Shapur's empire by a thousand years.",
+      "description_ru": "Под давлением зороастрийского верховного жреца Картира и лишившись своего покровителя Шапура I, Мани арестован при царе Бахраме I, казнён и, по преданию, освежёван — его набитая кожа вывешена у городских ворот Гундешапура как предупреждение. Зороастрийское духовенство давно негодовало на успех Мани в обращении членов царской семьи и знати; Бахрам I, в отличие от экуменического Шапура, готов применять насилие для насаждения религиозной ортодоксии.\n\nКазнь знаменует начало периодических сасанидских гонений на манихеев, христиан, буддистов и другие меньшинства по клерикальному наущению — закономерность, повторяющаяся всякий раз, когда мобедан мобед приобретает преобладающее влияние при дворе. Однако децентрализованная структура манихейства и его необычайная текстовая традиция означают, что гонения лишь распространяют веру дальше: общины выживают в подполье столетиями, и во всём мире влияние Мани переживает его империю на тысячу лет.",
+      "latitude": 32.4,
+      "longitude": 48.09,
+      "source": "https://en.wikipedia.org/wiki/Mani_(prophet)",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Religion",
+        "Death",
+        "Zoroastrian"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.0279",
+      "era": "AD",
+      "name": "Kartir's Inscriptions — the Zoroastrian Church Establishes Its Power",
+      "name_ru": "Надписи Картира — зороастрийская церковь утверждает своё могущество",
+      "description": "The high priest Kartir, who served under four Sassanid kings and rose to unprecedented power under Bahram I and II, commissions rock inscriptions at Naqsh-e Rostam and Naqsh-e Rajab describing his religious career, his persecution of non-Zoroastrian faiths, and his personal vision of paradise — the first first-person religious narrative in Iranian history. Kartir claims to have established fire temples across the empire, suppressed Manichaeans, Christians, Jews, Buddhists, and Brahmins, and personally experienced a soul's journey through the afterlife.\n\nKartir's inscriptions mark the moment when the Zoroastrian clergy crystallises as an institution parallel to — and competing with — royal authority. The mowbadan mowbad (chief of priests) becomes a constitutionally recognised office with its own income from fire-temple revenues, its own judicial functions, and its own corps of clergy. This institutional church — the first in Iranian history — will repeatedly clash with kings who favour tolerance or reform, most dramatically in its confrontation with the Mazdakite movement two centuries later.",
+      "description_ru": "Верховный жрец Картир, служивший при четырёх сасанидских царях и достигший беспрецедентного влияния при Бахраме I и II, заказывает наскальные надписи в Накш-э Рустаме и Накш-э Раджабе, описывающие его религиозную карьеру, преследование незороастрийских вероисповеданий и личное видение рая — первое повествование от первого лица в иранской религиозной истории. Картир утверждает, что основал огненные храмы по всей империи, подавил манихеев, христиан, иудеев, буддистов и брахманов и лично пережил путешествие души через загробный мир.\n\nНадписи Картира знаменуют момент, когда зороастрийское духовенство кристаллизуется как институт, параллельный — и конкурирующий с — царской властью. Мобедан мобед (глава жрецов) становится конституционно признанной должностью с собственными доходами от огненных храмов, судебными функциями и корпусом духовенства. Эта институциональная церковь — первая в иранской истории — будет неоднократно сталкиваться с царями, благоволящими к веротерпимости или реформам.",
+      "latitude": 29.89,
+      "longitude": 52.87,
+      "source": "https://en.wikipedia.org/wiki/Kartir",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Zoroastrian",
+        "Religion",
+        "Political"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.0309",
+      "era": "AD",
+      "name": "Shapur II — the King Crowned in the Womb",
+      "name_ru": "Шапур II — царь, коронованный в чреве матери",
+      "description": "When Hormizd II dies without a clear adult successor, the Sassanid nobles kill, blind, or imprison the existing princes and place the crown on the pregnant belly of the king's favourite wife — crowning the unborn child as Shapur II in a ceremony without parallel in world history. The nobles expect to control a child king indefinitely; they are mistaken. Shapur grows into one of the most formidable Sassanid rulers, reigning seventy years — the longest reign in Iranian history — directing three major campaigns against Rome, suppressing internal rebellions, and pushing the empire's frontiers in every direction.\n\nHis extraordinary longevity allows him to accumulate institutional knowledge that younger rivals cannot match: he remembers every treaty and its violation, every enemy and their weakness, pursuing strategic objectives with patience that repeatedly outwits Roman commanders who rotate in and out of the eastern command. His reign spans the entire Constantinian dynasty and the deaths of three emperors on the eastern frontier.",
+      "description_ru": "Когда Хормизд II умирает, не оставив явного взрослого преемника, сасанидская знать убивает, ослепляет или заключает в темницу существующих принцев и возлагает корону на беременный живот любимой жены царя — коронуя нерождённого ребёнка как Шапура II в церемонии, не имеющей аналогов в мировой истории. Вельможи рассчитывают бессрочно управлять малолетним царём; они ошибаются. Шапур вырастает в одного из наиболее грозных сасанидских правителей, царствуя семьдесят лет — дольший срок правления в иранской истории, — руководя тремя крупными кампаниями против Рима и раздвигая границы империи в каждом направлении.\n\nЕго исключительное долголетие позволяет ему накопить институциональные знания, недостижимые для более молодых соперников: он помнит каждый договор и его нарушение, каждого врага и его слабость, преследуя стратегические цели с терпением, которое раз за разом переигрывает сменяющих друг друга командующих восточными силами Рима.",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/Shapur_II",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Emperor",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0337",
+      "era": "AD",
+      "name": "Shapur II's Roman Wars Begin — Three Decades of Siege and Counter-Siege",
+      "name_ru": "Начало великих римских войн Шапура II — три десятилетия осад и контросад",
+      "description": "Immediately upon the death of Constantine I — who had been preparing a major eastern campaign — Shapur II launches the first of his three major offensives against Roman Mesopotamia, initiating a cycle of annual campaigns focused on the fortress city of Nisibis, which guards the road from Mesopotamia into Syria. Over twenty-six years, Sassanid and Roman armies fight a war less about pitched battles than about sieges, fortifications, and strategic corridors — a contest of engineering as much as arms.\n\nShapur develops innovative siege techniques: torsion artillery, mine tunnelling, and the deliberate flooding of siege lines by diverting the Mygdonius river are all deployed against Nisibis. Roman sources record three great sieges of the city — all repelled by its defenders and its bishop Ephrem the Syrian, who leads civilian morale. The wars define the career of the emperor Constantius II and establish the Mesopotamian frontier as the central strategic problem of the late Roman east for a century to come.",
+      "description_ru": "Сразу после смерти Константина I — готовившего крупный восточный поход — Шапур II начинает первое из своих трёх крупных наступлений на римскую Месопотамию, открывая цикл ежегодных кампаний, сосредоточенных на крепостном городе Нисибис, стерегущем дорогу из Месопотамии в Сирию. На протяжении двадцати шести лет сасанидские и римские армии ведут войну, которая в меньшей степени является войной полевых сражений и в большей — осад, укреплений и борьбы за стратегические коридоры: состязание инженерного искусства не меньше, чем оружия.\n\nШапур разрабатывает новаторские осадные техники: торсионная артиллерия, минные тоннели и намеренное затопление осадных позиций путём отведения реки Мигдоний применяются против Нисибиса. Римские источники фиксируют три великие осады города — все отражённые его защитниками и епископом Ефремом Сирином, поддерживающим боевой дух мирного населения.",
+      "latitude": 37.07,
+      "longitude": 41.22,
+      "source": "https://en.wikipedia.org/wiki/Roman%E2%80%93Sasanian_Wars",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "War",
+        "Siege",
+        "Roman"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0340",
+      "era": "AD",
+      "name": "Shapur II Persecutes Christians — Forty Years of Martyrdom",
+      "name_ru": "Шапур II преследует христиан — сорок лет мученичества",
+      "description": "Shapur II orders the systematic persecution of Christian communities in his empire — partly at clerical instigation, partly as a political calculation after Constantine I made Christianity the favoured religion of Rome: Persian Christians are now suspected of sympathy with the enemy. The persecution lasts approximately forty years and produces thousands of martyrs recorded in Syriac hagiographies, including Bishop Symeon bar Sabbae and the Forty Martyrs of Persia.\n\nThe persecution reveals a tension running through all of Sassanid history: the Zoroastrian state religion versus the cosmopolitan multiconfessional empire that Sassanid commerce and conquest require. Christians, Jews, Manichaeans, and Buddhists are economically vital — urban craftsmen, merchants, physicians, translators — and repeated persecutions damage the economic fabric that sustains imperial ambition. Later kings who reverse course achieve consistently greater prosperity, precisely because they manage this tension more pragmatically.",
+      "description_ru": "Шапур II отдаёт приказ о систематическом преследовании христианских общин в своей империи — отчасти по клерикальному наущению, отчасти как политический расчёт после того, как Константин I сделал христианство привилегированной религией Рима: персидские христиане теперь подозреваются в симпатиях к врагу. Преследование продолжается около сорока лет и порождает тысячи мучеников, записанных в сирийских агиографиях, включая епископа Симеона бар Саббае и Сорок мучеников Персии.\n\nПреследование обнажает противоречие, пронизывающее всю сасанидскую историю: зороастрийская государственная религия против многоконфессиональной империи, которую требуют торговля и завоевания. Христиане, иудеи, манихеи и буддисты экономически жизненно важны — городские ремесленники, купцы, врачи, переводчики, — и повторяющиеся гонения разрушают экономическую ткань, поддерживающую имперские амбиции.",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/Persecution_of_Christians_in_the_Sasanian_Empire",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Christian",
+        "Religion",
+        "Crisis"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.0360",
+      "era": "AD",
+      "name": "The Avesta Codified — Zoroastrian Scripture Fixed for All Time",
+      "name_ru": "Кодификация Авесты — зороастрийское писание закреплено навсегда",
+      "description": "The Zoroastrian high priest Adurbad-i Mahraspandan, under royal authority, completes the first systematic written codification of the Avesta — the sacred texts of Zoroastrianism — in the Avestan language, written in a script specially created for this purpose with forty-eight characters designed to capture the phonetics of an archaic religious language that no longer exists as a spoken tongue. Prior to this the Avesta had been transmitted entirely orally by priests trained in extraordinary mnemonic disciplines; the written version is deliberately restricted to trained clergy.\n\nThe canon established at this time — the twenty-one nasks (books), of which only a fraction survives today — becomes the foundational text of all subsequent Zoroastrian communities. The Parsis who carried it to India after the Islamic conquest, and whose descendants still recite these texts in modern Mumbai, preserve a direct living connection to the religious world that Ardashir I declared the foundation of his empire more than eight hundred years before their arrival in India.",
+      "description_ru": "Зороастрийский верховный жрец Адурбад-и Махраспандан, действуя по царскому повелению, завершает первую систематическую письменную кодификацию Авесты — священных текстов зороастризма — на авестийском языке, записанном шрифтом, специально созданным для этой цели: сорок восемь знаков, призванных передать фонетику архаичного религиозного языка, уже не существующего как разговорный. До этого Авеста передавалась исключительно устно жрецами, обученными чрезвычайным мнемоническим дисциплинам; письменная версия намеренно ограничивается подготовленным духовенством.\n\nКанон, установленный в это время, — двадцать одна наска (книга), из которых до наших дней сохранилась лишь малая часть, — становится основополагающим текстом всех последующих зороастрийских общин. Парсы, принёсшие его в Индию после исламского завоевания и чьи потомки по сей день читают эти тексты в современном Мумбаи, сохраняют живую прямую связь с религиозным миром, который Ардашир I объявил фундаментом своей империи.",
+      "latitude": 29.89,
+      "longitude": 52.87,
+      "source": "https://en.wikipedia.org/wiki/Avesta",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Zoroastrian",
+        "Religion",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0379",
+      "era": "AD",
+      "name": "Death of Shapur II — Seventy Years, the Longest Sassanid Reign",
+      "name_ru": "Смерть Шапура II — семьдесят лет, долгейшее правление в истории Сасанидов",
+      "description": "Shapur II dies after a reign of seventy years — crowned before birth and dying as an old man who had outlasted every rival — leaving an empire at its greatest territorial extent and internal coherence since Ardashir I. He had recovered Nisibis and five trans-Tigridian provinces from Rome in the Peace of 363, re-established Sassanid dominance in Armenia, crushed the Kushans on the eastern frontier, and codified the Zoroastrian sacred texts. No subsequent Sassanid king approaches his combination of military success and administrative longevity.\n\nHis death inaugurates a period of dynastic instability: short reigns follow in rapid succession as the noble families subordinated under Shapur II's iron hand reassert their power. The paradox of Sassanid dynastic politics — that a long reign produces stability, and stability produces the preconditions for noble revolt against a weaker successor — begins here and will repeat at every transition for the next two centuries.",
+      "description_ru": "Шапур II умирает после семидесятилетнего правления — коронованный ещё до рождения и умирающий стариком, пережившим каждого соперника, — оставляя империю на наибольшей территориальной протяжённости и внутренней сплочённости со времён Ардашира I. Он вернул Нисибис и пять провинций за Тигром у Рима по миру 363 года, восстановил сасанидское господство в Армении, подавил кушан на восточной границе и кодифицировал зороастрийские священные тексты. Ни один последующий сасанидский царь не приближается к его сочетанию военных успехов и административного долголетия.\n\nЕго смерть открывает период династической нестабильности: короткие правления следуют в быстрой последовательности, пока знатные роды, подчинённые железной рукой Шапура II, заново утверждают свою власть. Парадокс сасанидской династической политики — долгое правление порождает стабильность, а стабильность создаёт предпосылки для восстания знати против более слабого преемника — начинается здесь.",
+      "latitude": 29.89,
+      "longitude": 52.87,
+      "source": "https://en.wikipedia.org/wiki/Shapur_II",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Emperor",
+        "Death",
+        "Political"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0399",
+      "era": "AD",
+      "name": "Yazdegerd I 'The Sinner' — Tolerance as Royal Policy",
+      "name_ru": "Йездигерд I «Грешник» — веротерпимость как государственная политика",
+      "description": "Yazdegerd I, condemned as 'The Sinner' by the Zoroastrian clergy precisely because he rejects their domineering agenda, opens the empire to unprecedented religious tolerance: he permits Christian councils to meet in Persia, allows reconstruction of destroyed churches, enters friendly correspondence with the eastern Roman court, and ceases state persecution of Manichaeans and Jews. Christian sources call him 'the Peace-maker.'\n\nThe Persian-Babylonian Jewish academies of Sura and Pumbedita flourish under his reign, and the great project of compiling the Babylonian Talmud accelerates in the relative security he provides. Yazdegerd's reign illustrates the recurring dynamic in Sassanid history: kings who align with the Zoroastrian establishment gain clerical legitimacy at the cost of economic vitality; kings who override the clergy gain vitality at the cost of posthumous condemnation by the very literate priests who write the historical record.",
+      "description_ru": "Йездигерд I, осуждённый как «Грешник» зороастрийским духовенством именно за то, что отвергает его властную политику, открывает империю для беспрецедентной религиозной терпимости: он разрешает христианским соборам собираться в Персии, позволяет восстанавливать разрушенные церкви, вступает в дружескую переписку с восточным Rome двором и прекращает государственное преследование манихеев и иудеев. Христианские источники называют его «Миротворцем».\n\nПерсидско-вавилонские еврейские академии Суры и Пумбедиты процветают в годы его правления, а великий проект составления Вавилонского Талмуда ускоряется в условиях относительной безопасности, которую он обеспечивает. Правление Йездигерда показывает повторяющуюся закономерность сасанидской истории: цари, сближающиеся с зороастрийским духовенством, получают клерикальную легитимность ценой экономической жизнеспособности, а цари, преодолевающие сопротивление духовенства, получают жизнеспособность ценой посмертного осуждения теми же грамотными жрецами, которые пишут исторические записи.",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/Yazdegerd_I",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Emperor",
+        "Religion",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0415",
+      "era": "AD",
+      "name": "Babylonian Talmud Compiled Under Sassanid Rule",
+      "name_ru": "Вавилонский Талмуд составляется под властью Сасанидов",
+      "description": "The great Jewish academies of Babylonia — Sura, Pumbedita, and Nehardea — operating within the Sassanid Empire under successive generations of Amoraic teachers, compile the Babylonian Talmud: the most comprehensive legal, theological, and narrative commentary on the Hebrew Bible ever produced and the foundational text of rabbinic Judaism, authoritative for the vast majority of Jewish communities worldwide to this day. The compilation spans three centuries but reaches its mature form in the Sassanid period.\n\nThe Jews of Mesopotamia — descendants of the Babylonian exile of 586 BC — are subjects of the Sassanid Empire for its entire duration, making Persia the political context within which the central text of modern Judaism is composed. The relative tolerance of most Sassanid rulers allows the academies to function as the intellectual centre of world Jewry. The Babylonian Talmud is arguably the Sassanid Empire's most globally enduring cultural legacy — a text still studied daily in the twenty-first century composed within the political and administrative framework Ardashir I created.",
+      "description_ru": "Великие еврейские академии Вавилонии — Суры, Пумбедиты и Нехардеи, — действующие в пределах Сасанидской империи под руководством сменяющих друг друга поколений амораев, составляют Вавилонский Талмуд: наиболее всеобъемлющий правовой, богословский и повествовательный комментарий к еврейской Библии из когда-либо созданных и основополагающий текст раввинского иудаизма, авторитетный для подавляющего большинства еврейских общин всего мира по сей день. Составление охватывает три столетия, но достигает зрелой формы в сасанидский период.\n\nЕвреи Месопотамии — потомки вавилонского изгнания 586 г. до н. э. — являются подданными Сасанидской империи на протяжении всего её существования, делая Персию политическим контекстом, в котором создаётся центральный текст современного иудаизма. Относительная терпимость большинства сасанидских правителей позволяет академиям функционировать как интеллектуальный центр мирового еврейства. Вавилонский Талмуд — возможно, наиболее глобально долговечное культурное наследие Сасанидской империи.",
+      "latitude": 32.54,
+      "longitude": 45.33,
+      "source": "https://en.wikipedia.org/wiki/Babylonian_Talmud",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Religion",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0420",
+      "era": "AD",
+      "name": "Bahram Gur — the Hunter King Who Became a Persian Legend",
+      "name_ru": "Бахрам Гур — царь-охотник, ставший персидской легендой",
+      "description": "Bahram V, called Bahram Gur ('the Wild Ass') for his legendary skill in hunting onagers — who had spent his youth at the Arab court of the Lakhmids in al-Hira, learning Arabic, music, and the arts of the hunt — seizes the Sassanid throne against noble wishes by personally killing two lions placed to guard the crown, then reigns eighteen years that become in Persian literary tradition the archetype of the ideal warrior-king. His military achievements include campaigns against the Hephthalites and a brief war with Byzantium, but his lasting significance is cultural: his court in al-Hira becomes the model of refined Arab-Persian aristocratic culture.\n\nBahram Gur's life generates an enormous literary tradition: he is the protagonist of Nizami Ganjavi's 'Haft Paykar' (Seven Beauties); he appears in Ferdowsi's Shahnameh as the ideal Persian knight; and stories of his hunting prowess, his love affairs, and his disguising himself as a commoner to learn the truth from his subjects enter the universal repertoire of Persian and Arabic storytelling. No other Sassanid king is as beloved in subsequent culture.",
+      "description_ru": "Бахрам V, прозванный Бахрам Гур («Дикий осёл») за легендарное искусство охоты на онагров — проведший юность при арабском дворе Лахмидов в аль-Хире, обучившись арабскому языку, музыке и охотничьему искусству, — захватывает сасанидский трон вопреки воле знати, лично убив двух львов, поставленных охранять корону, и правит восемнадцать лет, которые в персидской литературной традиции становятся архетипом идеального царя-воителя. Его военные достижения включают походы против эфталитов и краткую войну с Византией, но непреходящее его значение — культурное: его двор в аль-Хире становится образцом утончённой арабо-персидской аристократической культуры.\n\nЖизнь Бахрама Гура порождает огромную литературную традицию: он — герой «Хафт пейкара» («Семи красавиц») Низами Гянджеви; он появляется в «Шахнаме» Фирдоуси как идеальный персидский рыцарь; истории о его охотничьей доблести, любовных похождениях и переодевании простолюдином входят в общее достояние персидского и арабского повествовательного искусства. Ни один другой сасанидский царь не столь любим в последующей культуре.",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/Bahram_V",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Emperor",
+        "Culture",
+        "Political"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0438",
+      "era": "AD",
+      "name": "Yazdegerd II Enforces Zoroastrianism — Tolerance Reversed",
+      "name_ru": "Йездигерд II насаждает зороастризм — веротерпимость отменена",
+      "description": "Yazdegerd II reverses his father Yazdegerd I's policy of tolerance and, under the direction of the restored Zoroastrian establishment, launches sustained persecution of Christian communities in Persia and Armenia — requiring conversion under threat of death, destroying churches, and executing clergy. In Armenia, his demand that the Armenians abandon Christianity for Zoroastrianism provokes the armed resistance that culminates in the Battle of Avarayr and ultimately the Treaty of Nvarsak.\n\nThe persecution under Yazdegerd II demonstrates how completely the Zoroastrian clergy had recovered the ground lost under his father: the institutional church, with its fire-temple revenues, judicial authority, and access to royal appointments, has become a structural power that individual tolerant kings cannot permanently override. Only kings of exceptional force of character — Khosrow I, Kavadh I in his second reign — manage to keep the clergy in check; in periods of weak kingship, clerical conservatism consistently prevails.",
+      "description_ru": "Йездигерд II отменяет политику терпимости своего отца и под руководством восстановившего силы зороастрийского духовенства начинает устойчивое преследование христианских общин в Персии и Армении — требуя перехода в зороастризм под угрозой смерти, разрушая церкви и казня духовенство. В Армении его требование отречься от христианства в пользу зороастризма провоцирует вооружённое сопротивление, достигающее кульминации в битве при Аварайре.\n\nПреследования при Йездигерде II показывают, насколько полно зороастрийское духовенство возместило позиции, утраченные при его отце: институциональная церковь с доходами от огненных храмов, судебными полномочиями и доступом к царским назначениям превратилась в структурную силу, которую отдельные терпимые цари не могут постоянно преодолевать. Лишь цари исключительно сильного характера — Хосров I, Кавад I во втором правлении — удерживают духовенство в узде; в периоды слабого царствования клерикальный консерватизм неизменно берёт верх.",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/Yazdegerd_II",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Religion",
+        "Zoroastrian",
+        "Crisis",
+        "Christian"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.0484",
+      "era": "AD",
+      "name": "Battle of Herat — Peroz I Killed by the Hephthalites",
+      "name_ru": "Битва при Герате — Пероз I убит эфталитами",
+      "description": "King Peroz I, having already been captured twice by the Hephthalite confederation controlling Central Asia east of the Oxus, leads a third campaign against them — reportedly having promised never to fight them again — and is annihilated at the Battle of Herat: Peroz himself is killed along with most of his army and court nobility, the greatest military disaster in Sassanid history. The Hephthalites exact an enormous tribute from the prostrate empire, and Peroz's successors spend decades paying this humiliating indemnity.\n\nThe battle has profound consequences: the destruction of the old Sassanid military aristocracy in a single engagement creates a power vacuum that Kavadh I and the radical Mazdakite movement will exploit; the loss of Sassanid prestige in Central Asia allows the Turks to eventually displace the Hephthalites without meaningful Persian involvement; and the tributes paid drain resources that could have maintained the western frontier. An empire that had seemed invincible under Shapur II appears suddenly fragile.",
+      "description_ru": "Царь Пероз I, будучи уже дважды захвачен в плен эфталитским союзом, контролирующим Центральную Азию к востоку от Оксуса, ведёт третий поход против них — по преданию, дав клятву никогда больше с ними не воевать, — и уничтожен в битве при Герате: сам Пероз гибнет вместе с большей частью армии и придворной знати, что является величайшей военной катастрофой в сасанидской истории. Эфталиты налагают огромную дань на поверженную империю, и преемники Пероза проводят десятилетия, выплачивая это унизительное возмещение.\n\nБитва имеет глубокие последствия: уничтожение старой сасанидской военной аристократии в одном сражении создаёт вакуум власти, которым воспользуются Кавад I и радикальное маздакитское движение; потеря сасанидского престижа в Центральной Азии позволит тюркам вытеснить эфталитов без значимого персидского участия; а дань истощает ресурсы, которые могли бы поддержать западную границу. Империя, казавшаяся непобедимой при Шапуре II, вдруг кажется хрупкой.",
+      "latitude": 34.33,
+      "longitude": 62.2,
+      "source": "https://en.wikipedia.org/wiki/Peroz_I",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "War",
+        "Battle",
+        "Crisis",
+        "Death",
+        "Hephthalite"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0496",
+      "era": "AD",
+      "name": "Mazdak's Revolution — Proto-Communist Upheaval in Sassanid Persia",
+      "name_ru": "Революция Маздака — прокоммунистический переворот в Сасанидской Персии",
+      "description": "Mazdak, a Zoroastrian reformer whose teachings radicalise the dualistic tradition of Mani into a social programme, gains the support of King Kavadh I for a movement demanding the redistribution of wealth, food, and women from the rich to the poor — on the theological grounds that inequality is a form of the cosmic principle of Darkness violating the equality ordained by the Light. Kavadh uses Mazdakism as a weapon against the Zoroastrian clergy and the noble families who had grown too powerful; Mazdak uses royal support to organise the lower classes into communities that collectively own property.\n\nThe Mazdakite movement is the most radical social upheaval in pre-Islamic Iranian history: the opening of noble granaries to the hungry, the collective access to noble households, and the redistribution of land are documented with horror by aristocratic sources and with wonder by later Islamic historians. Whether Mazdak intended a genuine social revolution or primarily served as a political instrument for Kavadh remains debated; what is certain is that the movement terrified the Sassanid establishment sufficiently to produce Kavadh's first deposition.",
+      "description_ru": "Маздак, зороастрийский реформатор, чьи учения радикализируют дуалистическую традицию Мани до социальной программы, получает поддержку царя Кавада I для движения, требующего перераспределения богатств, продовольствия и женщин от богатых к бедным — по богословскому основанию, что неравенство есть форма космического принципа Тьмы, нарушающей равенство, установленное Светом. Кавад использует маздакизм как оружие против зороастрийского духовенства и знатных родов, ставших слишком могущественными; Маздак использует царскую поддержку для организации низших классов в общины с коллективной собственностью.\n\nМаздакитское движение — наиболее радикальный социальный переворот в доисламской иранской истории: открытие знатных зернохранилищ для голодающих, коллективный доступ к имуществу знати и перераспределение земли документируются с ужасом аристократическими источниками и с изумлением поздними исламскими историками. Было ли движение Маздака подлинной социальной революцией или лишь политическим инструментом Кавада — вопрос остаётся открытым; несомненно лишь то, что оно достаточно напугало сасанидский истеблишмент, чтобы вызвать первое низложение Кавада.",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/Mazdak",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Political",
+        "Religion",
+        "Crisis",
+        "Reform"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0499",
+      "era": "AD",
+      "name": "Kavadh I Deposed and Flees to the Hephthalites — and Returns",
+      "name_ru": "Кавад I свергнут, бежит к эфталитам — и возвращается",
+      "description": "The Zoroastrian clergy and the great nobility, alarmed by Kavadh I's patronage of the Mazdakite social revolution, arrest the king, imprison him in the 'Castle of Oblivion' from which no one has ever escaped, and place his brother Jamasp on the throne. Kavadh escapes through the ingenuity of his loyal wife, flees to the Hephthalite court — with whom Persia has a treaty since Peroz's defeat — and returns two years later at the head of a Hephthalite army, overthrowing Jamasp and reclaiming the throne.\n\nKavadh's return with foreign troops illustrates the structural weakness of Sassanid kingship: the king nominally holds absolute power but is in practice dependent on the consent of a noble-clerical coalition that can remove him at any time. His solution — cultivating alternative power bases, including the Mazdakites initially and then his son Khosrow — anticipates the administrative reforms that his second reign makes possible. His return is the precondition for everything Khosrow I will achieve.",
+      "description_ru": "Зороастрийское духовенство и высшая знать, встревоженные покровительством Кавада I маздакитской социальной революции, арестовывают царя, заключают в «Замок забвения», из которого, по преданию, никто никогда не выходил, и возводят на трон его брата Джамаспа. Кавад бежит благодаря изобретательности своей верной жены, спасается ко двору эфталитов — с которыми Персия связана договором со времён поражения Пероза — и возвращается через два года во главе эфталитской армии, свергает Джамаспа и возвращает себе трон.\n\nВозвращение Кавада с иноземными войсками показывает структурную слабость сасанидской царской власти: царь номинально обладает абсолютной властью, но на практике зависит от согласия знатно-клерикальной коалиции, способной в любой момент его отстранить. Его решение — опираться на альтернативные источники поддержки — предвосхищает административные реформы, которые его второе правление делает возможными. Возвращение Кавада — необходимое условие всего, чего достигнет Хосров I.",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/Kavad_I",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Emperor",
+        "Political",
+        "Crisis"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0503",
+      "era": "AD",
+      "name": "Kavadh I's War with Anastasios — Amida Captured, Byzantium Pays",
+      "name_ru": "Война Кавада I с Анастасием — захват Амиды, Византия платит",
+      "description": "Kavadh I, needing funds to repay the Hephthalites and consolidate his restored power, launches war against the Byzantine Empire and captures the major fortress of Amida (modern Diyarbakir) after a three-month siege. The fall of Amida — held by Byzantium for a century — is a major strategic setback, and Emperor Anastasius is forced to pay an annual subsidy to ransom the city back, diplomatically framed as payment for 'defence of the Caucasus passes' rather than tribute. The war ends with a seven-year peace.\n\nThe Anastasianic War establishes the diplomatic template governing Byzantine-Sassanid relations for the next century: Byzantium pays Persia an annual subsidy in exchange for Sassanid commitment to defend the Caucasus passes against nomadic raids — a mutually beneficial arrangement framing Persian military service as hired protection, preserving Byzantine pride while satisfying Persian treasury needs. Khosrow I will renegotiate this arrangement to Persia's enormous advantage.",
+      "description_ru": "Кавад I, нуждаясь в средствах для выплаты долга эфталитам и консолидации восстановленной власти, начинает войну с Византии империей и захватывает крупную крепость Амиду (совр. Диярбакыр) после трёхмесячной осады. Падение Амиды — удерживавшейся Byzantией столетие — является крупным стратегическим поражением, и Анастасий вынужден выплачивать ежегодную субсидию за выкуп города, дипломатически представленную как плата за «охрану кавказских перевалов». Война завершается семилетним миром.\n\nАнастасиева война устанавливает дипломатический шаблон, определяющий Византии-сасанидские отношения на следующее столетие: Byzantия выплачивает Персии ежегодную субсидию в обмен на сасанидское обязательство защищать кавказские перевалы от кочевых набегов — взаимовыгодное соглашение, представляющее персидскую военную службу как оплачиваемую охрану. Хосров I переговорит это соглашение с огромной выгодой для Персии.",
+      "latitude": 37.91,
+      "longitude": 40.23,
+      "source": "https://en.wikipedia.org/wiki/Anastasian_War",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "War",
+        "Siege",
+        "Byzantine"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.09.0528",
+      "era": "AD",
+      "name": "Mazdak Executed — Crown Prince Khosrow Ends the Social Revolution",
+      "name_ru": "Казнь Маздака — наследный принц Хосров завершает социальную революцию",
+      "description": "Crown Prince Khosrow, with the tacit approval of his ageing father Kavadh I, invites Mazdak and the leaders of his movement to a great disputation at the royal court — and then arrests them all, ordering a mass execution reportedly carried out by burying the Mazdakites upside-down in a garden, heads in the earth and feet protruding, before Mazdak himself is hanged. Mazdakite communities are suppressed throughout the empire, their communal property redistributed, and their texts burned.\n\nThe execution of Mazdak is a turning point in Sassanid social history: the most radical challenge to the propertied order is destroyed, the Zoroastrian clergy is satisfied, and Khosrow consolidates his position as heir with simultaneous backing of clergy, nobility, and his father. Critically, Khosrow takes from the Mazdakite experience the lesson that both the great nobility and the clergy are as dangerous as any foreign enemy, and designs his administrative reforms to weaken both simultaneously.",
+      "description_ru": "Наследный принц Хосров, при молчаливом согласии своего состарившегося отца Кавада I, приглашает Маздака и лидеров его движения на великий диспут при царском дворе — а затем арестовывает всех, приказывая провести массовую казнь: по преданию, маздакитов закапывают вниз головой в саду — головами в землю, ногами вверх, — после чего сам Маздак вздёрнут на виселицу. Маздакитские общины подавлены по всей империи, их коллективная собственность перераспределена, тексты сожжены.\n\nКазнь Маздака — поворотный момент в сасанидской социальной истории: наиболее радикальный вызов имущественному строю уничтожен, зороастрийское духовенство удовлетворено, а Хосров закрепляет своё положение наследника при одновременной поддержке духовенства, знати и отца. Из маздакитского опыта Хосров извлекает урок, что и великая знать, и духовенство столь же опасны, как любой иноземный враг, и выстраивает административные реформы, ослабляющие обе силы одновременно.",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/Mazdak",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Political",
+        "Death",
+        "Religion",
+        "Reform"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "13.09.0531",
+      "era": "AD",
+      "name": "Khosrow I 'Anushirvan' Crowned — the Greatest Sassanid King",
+      "name_ru": "Коронация Хосрова I «Ануширвана» — величайший сасанидский царь",
+      "description": "Khosrow I — whose epithet 'Anushirvan' means 'of Immortal Soul' — accedes to the throne as arguably the greatest Sassanid ruler, combining military prowess, administrative genius, and genuine intellectual curiosity. Within months he launches a comprehensive tax and military reform: replacing irregular tribute-based taxation with a regular land survey and per-capita assessment, creating four military district commands (spahbods) subordinate to the king rather than to great noble families, and establishing a professional bureaucracy selected by merit.\n\nKhosrow's court becomes the great cultural crossroads of the sixth-century world: Greek philosophers expelled from Athens by Justinian's closure of the Academy find refuge there; Indian scholars bring chess, mathematics, and the Panchatantra fable collection; Syriac translators render Greek medicine and philosophy into Pahlavi; and Khosrow himself reportedly participates in intellectual discussions and commissions translations personally. He is remembered in both Persian and Arabic tradition as the ideal monarch — 'Kisra' in Arabic, a word that becomes the general title for 'king of Persia.'",
+      "description_ru": "Хосров I — чей эпитет «Ануширван» означает «бессмертной души» — восходит на трон как, пожалуй, наиболее великий сасанидский правитель, сочетающий военное мастерство, административный гений и подлинную интеллектуальную любознательность. В течение нескольких месяцев он начинает всестороннюю налоговую и военную реформу: заменяет нерегулярную подушную систему регулярной поземельной описью, создаёт четыре военных округа — спахбодства, — подчинённых царю, а не великим знатным родам, и учреждает профессиональную бюрократию, отбираемую по заслугам.\n\nДвор Хосрова становится великим культурным перекрёстком мира VI века: греческие философы, изгнанные из Афин закрытием Академии Юстинианом, находят здесь убежище; индийские учёные привозят шахматы, математику и сборник басен «Панчатантра»; сирийские переводчики переносят греческую медицину и философию на пехлеви; а сам Хосров, по преданию, лично участвует в интеллектуальных дискуссиях. В персидской и арабской традиции он запомнился как идеальный монарх — «Кисра» по-арабски, слово, ставшее общим титулом «царь Персии».",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/Khosrow_I",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Emperor",
+        "Reform",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0532",
+      "era": "AD",
+      "name": "The 'Endless Peace' with Justinian — Byzantium Pays Persia to Fight the West",
+      "name_ru": "«Вечный мир» с Юстинианом — Byzantия платит Персии, чтобы воевать на Западе",
+      "description": "Khosrow I and the Byzantine emperor Justinian I sign the 'Endless Peace' — a formal treaty in which Byzantium agrees to pay Persia 11,000 pounds of gold and cede several Caucasian fortresses in exchange for Sassanid recognition of Byzantine sovereignty over disputed territories. Justinian needs peace in the east because he is launching his ambitious western reconquest of Africa and Italy; Khosrow recognises this and extracts maximum financial concessions in exchange for a strategic favour that costs him nothing.\n\nThe 'Endless Peace' lasts less than a decade before Khosrow breaks it in 540 — but its terms are instructive about the underlying power balance: Byzantium pays, Persia receives. The annual 'Caucasus defence subsidy' that the treaty formalises becomes a structural feature of Byzantine-Sassanid relations — a permanent transfer of Byzantine tax revenue to the Sassanid treasury. When Khosrow tears up the treaty, he does so at the moment of maximum Byzantine overextension, having waited precisely until Justinian's armies are committed in Italy and Africa.",
+      "description_ru": "Хосров I и Византийский Юстиниан I подписывают «Вечный мир» — официальный договор, по которому Byzantия соглашается выплатить Персии 11 000 фунтов золота и уступить ряд кавказских крепостей в обмен на сасанидское признание Византийского суверенитета над спорными территориями. Юстиниану нужен мир на востоке, так как он начинает амбициозное западное завоевание Африки и Италии; Хосров распознаёт это и извлекает максимальные финансовые уступки в обмен на стратегическую услугу, ничего ему не стоящую.\n\n«Вечный мир» просуществует менее десятилетия — Хосров разорвёт его в 540 году, — но его условия красноречиво говорят о реальном балансе сил: Byzantия платит, Персия получает. Ежегодная «субсидия за охрану Кавказа», которую договор закрепляет, становится структурной чертой отношений между двумя державами. Хосров разрывает договор в момент максимального Византийского перенапряжения, выждав именно тот миг, когда армии Юстиниана скованы в Италии и Африке.",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/Eternal_Peace_(532)",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Byzantine",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.06.0540",
+      "era": "AD",
+      "name": "Khosrow I Sacks Antioch — the Greatest City of the Roman East Burns",
+      "name_ru": "Хосров I берёт Антиохию — величайший город римского Востока сожжён",
+      "description": "Khosrow I tears up the 'Endless Peace', sweeps through Syria, and takes Antioch — the third largest city of the Byzantine world and ancient capital of the Roman east — sacking it comprehensively and carrying off its entire population to a new city built near Ctesiphon and named 'Veh Antiok Khusro' ('Better-than-Antioch, Khosrow's'). He reportedly attends the chariot races in Antioch's famous hippodrome before ordering the burning of the city, acting as emperor of his conquest.\n\nKhosrow's treatment of the Antiochene captives reveals a consistent Sassanid approach: rather than enslaving them, he resettles them as a functioning urban community with their own local government, churches, and customs — using Byzantine skilled artisans exactly as Shapur I had used Roman prisoners at Bishapur three centuries before. The new city near Ctesiphon becomes a centre of Greek scholarship and Syrian Christianity within the Sassanid heartland, a living library of captured civilisation.",
+      "description_ru": "Хосров I разрывает «Вечный мир», стремительно проходит через Сирию и берёт Антиохию — третий по величине город Византийский мира и древнюю столицу римского Востока, — основательно разграбив её и уведя всё население в новый город, построенный близ Ктесифона и названный «Вех Антиок Хусро» («Лучший-чем-Антиохия, Хосрова»). По преданию, он присутствует на состязаниях колесниц на знаменитом ипподроме Антиохии перед тем, как приказать сжечь город, выступая как государь своего завоевания.\n\nОбращение Хосрова с антиохийскими пленниками раскрывает устойчивый сасанидский подход: вместо того чтобы обратить их в рабство, он переселяет их как функционирующую городскую общину с собственным местным самоуправлением, церквами и обычаями — используя Византийских мастеров точно так же, как Шапур I использовал римских пленников в Бишапуре три столетия назад.",
+      "latitude": 36.2,
+      "longitude": 36.16,
+      "source": "https://en.wikipedia.org/wiki/Khosrow_I",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "War",
+        "Siege",
+        "Byzantine",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0550",
+      "era": "AD",
+      "name": "Chess Arrives from India — Persia Transforms It into an Art Form",
+      "name_ru": "Шахматы приходят из Индии — Персия превращает их в искусство",
+      "description": "An Indian embassy brings the game of chaturanga (chatrang in Pahlavi, shatranj in Arabic) to the court of Khosrow I, where his chief minister Wuzurgmihr reportedly deduces the rules from observation alone — outplaying the Indian ambassador — and then creates the counter-game of nard (backgammon) and sends it back to India as a reciprocal challenge. The exchange illustrates the Sassanid court's self-conception as the intellectual centre of the world, engaged in civilised competition with India in the east and Byzantium in the west.\n\nFrom the Sassanid court, chess spreads through the Arab conquest into the Islamic world — where it is theorised and systematised — and then to medieval Europe. The entire vocabulary of the modern game is Persian: 'chess' from 'shāh' (king), 'checkmate' from 'shāh māt' (the king is dead), 'rook' from 'rokh' (chariot), 'pawn' from 'piyāda' (foot soldier). The world plays Sassanid chess — a cultural export that outlasted the empire by fourteen centuries.",
+      "description_ru": "Индийское посольство доставляет ко двору Хосрова I игру в чатурангу (чатранг на пехлеви, шатрандж по-арабски), где его главный министр Вузургмихр, по преданию, по одному наблюдению угадывает правила — побивает индийского посла, — а затем создаёт ответную игру нарды и отправляет её обратно в Индию как встречный вызов. Этот обмен отражает самовосприятие сасанидского двора как интеллектуального центра мира, ведущего состязание с Индией на востоке и Byzantией на западе.\n\nС двора Сасанидов шахматы через арабское завоевание проникают в исламский мир — где теоретизируются и систематизируются, — а затем в средневековую Европу. Весь словарь современной игры — персидский: слово chess от «шах» (царь), checkmate от «шах мат» (царь мёртв), rook от «рох» (колесница), pawn от «пийаде» (пехотинец). Весь мир играет в сасанидские шахматы — культурный экспорт, переживший империю на четырнадцать столетий.",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/History_of_chess",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0555",
+      "era": "AD",
+      "name": "Khosrow I's Tax and Military Reforms — the Divan System Created",
+      "name_ru": "Налоговые и военные реформы Хосрова I — создание системы диванов",
+      "description": "Khosrow I completes his systematic administrative reorganisation, creating the 'divan' system of government bureaux — separate chancelleries for finance, military affairs, the royal seal, correspondence, and intelligence — each staffed by literate scribes and administered by the wuzurg framadar (grand vizier) as chief executive below the king. Tax collection is regularised through a fixed land survey, replacing the chaos of earlier variable assessment systems with predictable annual revenues.\n\nThe military reforms are equally far-reaching: Khosrow creates a standing professional cavalry — the savaran, heavy armoured knights — paid from the royal treasury rather than dependent on noble patronage, reducing the empire's fatal dependence on the great landed families that had made Sassanid armies unreliable in crisis. These reforms make Khosrow's Persia the most effectively administered state in the sixth-century world. When the Arab armies conquer Persia a century later, they inherit these institutions almost wholesale, and the divan system becomes the administrative backbone of the Abbasid caliphate.",
+      "description_ru": "Хосров I завершает систематическую административную реорганизацию, создавая систему «диванов» — раздельных правительственных канцелярий финансов, военных дел, царской печати, переписки и разведки, — каждая укомплектована грамотными писцами и управляется «вузург-фрамадаром» (великим визирем) как главным исполнительным должностным лицом ниже царя. Сбор налогов упорядочен через фиксированную поземельную опись, заменяющую хаос прежних переменных систем обложения предсказуемыми ежегодными доходами.\n\nВоенные реформы не менее масштабны: Хосров создаёт постоянную профессиональную конницу — саваранов, тяжеловооружённых рыцарей, — оплачиваемых из царской казны, а не зависящих от знатного покровительства, снижая роковую зависимость от великих землевладельческих семей. Когда арабские армии завоёвывают Персию через столетие, они наследуют эти институты практически целиком, и система диванов становится административным хребтом Аббасидского халифата.",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/Khosrow_I",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Reform",
+        "Administration",
+        "Political"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0557",
+      "era": "AD",
+      "name": "Alliance with the Western Turks Destroys the Hephthalite Empire",
+      "name_ru": "Союз с западными тюрками уничтожает Эфталитскую державу",
+      "description": "Khosrow I and the Western Turkic Khaganate under Istämi forge an alliance — cemented by a marriage between Khosrow and an Istämi princess — and launch coordinated attacks from east and west against the Hephthalite Empire, which has dominated Central Asia and humiliated Persia for most of the previous century. The Hephthalites are crushed: their confederation disintegrates, their territory is divided along the Oxus river, and the threat that had cost Peroz I his life is eliminated.\n\nThe destruction of the Hephthalites is one of the most consequential geopolitical events of the sixth century: it opens direct Turkic-Sassanid contact along the entire Central Asian frontier; it establishes the Oxus as the boundary that defines the Islamic world's eastern limits for centuries; and it releases the former Hephthalite subjects — including the ancestors of the Pashtun people — into the political vacuum that subsequent empires will dispute. Persia and the Turks, who collaborate perfectly here, will eventually meet as adversaries when the Sassanid Empire falls.",
+      "description_ru": "Хосров I и Западный тюркский каганат под руководством Истеми заключают союз — скреплённый браком Хосрова с принцессой Истеми — и наносят скоординированные удары с востока и запада по Эфталитской державе, доминировавшей в Центральной Азии и унижавшей Персию большую часть предыдущего столетия. Эфталиты сокрушены: их конфедерация распадается, территория делится по реке Окс, и угроза, стоившая Перозу I жизни, устранена.\n\nУничтожение эфталитов — одно из наиболее судьбоносных геополитических событий VI века: оно открывает прямой тюркско-сасанидский контакт вдоль всей центральноазиатской границы; устанавливает Окс в качестве рубежа, определяющего восточные пределы исламского мира на века; и высвобождает бывших эфталитских подданных — включая предков пуштунского народа — в политический вакуум, за который будут спорить последующие империи.",
+      "latitude": 37.54,
+      "longitude": 67.8,
+      "source": "https://en.wikipedia.org/wiki/Hephthalite",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "War",
+        "Battle",
+        "Expansion",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0562",
+      "era": "AD",
+      "name": "The Fifty-Year Peace — Persia Recognised as Rome's Equal",
+      "name_ru": "Пятидесятилетний мир — Персия признана равной Риму",
+      "description": "Khosrow I and the Byzantine emperor Justinian I sign the Treaty of 562 — a fifty-year peace defining the Caucasian border, establishing regulated merchant crossing points, and requiring Byzantium to pay Persia an annual subsidy of 500 pounds of gold for the 'defence of the Caucasus passes'. The treaty is notable for its formal diplomatic equality: for the first time in Roman diplomatic history, a non-Roman power is treated as an equal sovereign rather than a subordinate client or barbarian enemy.\n\nThe term 'Two Eyes of the World' — applied to the two empires in later sources — captures this moment of equilibrium. The peace lasts less than forty years: the assassination of Maurice by Phocas in 602 gives Khosrow II the pretext — and the opportunity — to end the balance permanently. But in 562 the world has two poles of civilisation, one centred in Constantinople, one in Ctesiphon, and both would have seemed equally likely to outlast the other.",
+      "description_ru": "Хосров I и Византийский Юстиниан I подписывают договор 562 года — пятидесятилетний мир, определяющий кавказскую границу, устанавливающий регулируемые торговые переходы и обязывающий Byzantию выплачивать Персии ежегодную субсидию в 500 фунтов золота за «охрану кавказских перевалов». Договор примечателен формальным дипломатическим равенством: впервые в римской дипломатической истории неримская держава рассматривается как равный суверен, а не подчинённый вассал или варварский враг.\n\nВыражение «Два ока мира» — применённое к двум империям в позднейших источниках — отражает этот момент равновесия. Мир продержится менее сорока лет: убийство Маврикия Фокой в 602 году даст Хосрову II повод — и возможность — навсегда нарушить этот баланс. Но в 562 году мир имеет два полюса цивилизации — в Константинополе и в Ктесифоне, — и оба казались одинаково способными пережить другой.",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Sasanian_War_of_572%E2%80%93591",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Byzantine",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0579",
+      "era": "AD",
+      "name": "Death of Khosrow I Anushirvan — Persia's Greatest King Passes",
+      "name_ru": "Смерть Хосрова I Ануширвана — уходит величайший царь Персии",
+      "description": "Khosrow I dies after forty-eight years of reign, having transformed the Sassanid Empire from a state recovering from Hephthalite disasters and Mazdakite upheaval into the most powerful and sophisticated polity in the world. He leaves behind a codified legal system, a professional army, a reformed tax structure, a functioning civil bureaucracy, a thriving academy at Gundeshapur, and a treasury of Greek and Indian philosophical texts translated into Pahlavi.\n\nThe Islamic tradition holds him in extraordinary regard: the Prophet Muhammad is reported to have said he was 'born in the time of the just king', referring to Khosrow I; classical Arabic literature consistently portrays him as the archetype of ideal kingship; and the Abbasid caliphs explicitly modelled their court on his. His administrative legacy outlives his dynasty by centuries in the structures of the Islamic caliphate — a Persian king's governing system running the Arab empire that destroyed his dynasty.",
+      "description_ru": "Хосров I умирает после сорока восьми лет правления, превратив Сасанидскую империю из государства, оправлявшегося от эфталитских катастроф и маздакитских потрясений, в наиболее мощную и утончённую державу мира. Он оставляет после себя кодифицированную правовую систему, профессиональную армию, реформированную налоговую структуру, функционирующую гражданскую бюрократию, процветающую академию в Гундешапуре и сокровищницу греческих и индийских философских текстов, переведённых на пехлеви.\n\nИсламская традиция относится к нему с необычайным уважением: по преданию, Пророк Мухаммад говорил, что «родился во времена справедливого царя», имея в виду Хосрова I; классическая арабская литература неизменно изображает его архетипом идеального царствования; Аббасидские халифы прямо строили свой двор по его образцу. Его административное наследие переживает его династию на столетия в структурах исламского халифата — система управления персидского царя функционирует в арабской империи, уничтожившей его династию.",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/Khosrow_I",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Emperor",
+        "Death",
+        "Culture"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0590",
+      "era": "AD",
+      "name": "Bahram Chobin's Revolt — a General Seizes the Sassanid Throne",
+      "name_ru": "Восстание Бахрама Чобина — полководец захватывает сасанидский трон",
+      "description": "The general Bahram Chobin, of the great Mihranid noble family, mutinies after being humiliated by King Hormizd IV for a battlefield defeat he considers unjust, leads his army against the capital, and — after Hormizd is overthrown and blinded by his own son Khosrow II in a palace coup — refuses to accept Khosrow either, proclaims himself Bahram VI, and defeats the young king in battle, forcing him to flee into Byzantine territory to seek the help of Emperor Maurice.\n\nBahram Chobin's usurpation is unique in Sassanid history: he is the first and only non-Sassanid to hold the throne, and his claim — based on alleged descent from Arsacid Parthian kings — represents an attempt to revive Parthian legitimacy against the Sassanid dynasty. His reign lasts only a year before Khosrow returns with Byzantine troops and defeats him. The episode reveals how brittle Sassanid royal authority had become without a dominant king and plants the seed of the civil wars that will eventually bring the dynasty down.",
+      "description_ru": "Полководец Бахрам Чобин из великого михранидского знатного рода поднимает мятеж после унижения, нанесённого ему царём Хормиздом IV за поражение на поле боя, которое он считает несправедливым, ведёт армию на столицу — и после того как Хормизд свергнут и ослеплён собственным сыном Хосровом II в дворцовом перевороте — отказывается принять и Хосрова, провозглашает себя Бахрамом VI и разбивает молодого царя в бою, вынуждая его бежать на Византийскую территорию в поисках помощи у Маврикия.\n\nУзурпация Бахрама Чобина уникальна в сасанидской истории: он — первый и единственный несасанидец, занявший трон; его притязание, основанное на предполагаемом арсакидском происхождении, представляет попытку возродить парфянскую легитимность против сасанидской династии. Его правление длится лишь год. Этот эпизод обнажает хрупкость сасанидской царской власти в отсутствие сильного царя и сеет семена гражданских войн, которые в конечном счёте погубят династию.",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/Bahram_Chobin",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Civil War",
+        "Political",
+        "Crisis",
+        "Emperor"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0591",
+      "era": "AD",
+      "name": "Khosrow II Restored by Byzantine Arms — the Debts That Doom an Empire",
+      "name_ru": "Хосров II восстановлен с помощью Byzantии — долги, которые погубят империю",
+      "description": "Emperor Maurice of Byzantium provides Khosrow II with an army that defeats Bahram Chobin and restores the Sassanid throne, in exchange for enormous territorial concessions: Khosrow cedes all of Persian Armenia, Iberia (Georgia), and parts of Mesopotamia — the greatest territorial concession in Sassanid history, reversing decades of gains. Khosrow describes Maurice as his 'father' in letters and apparently feels genuine gratitude and loyalty to the man who saved him.\n\nThe restoration creates a web of obligations and sentiments that directly causes the great war of 602–628. When Phocas murders Maurice eleven years later, Khosrow II interprets it as a personal outrage requiring revenge, and uses it as the pretext for the most ambitious military campaign in Sassanid history. The thirty-year war that follows comes astonishingly close to eliminating the Byzantine Empire; it also exhausts Persia so completely that when the Arab armies arrive fifteen years after the war's end, neither empire has the strength to resist them.",
+      "description_ru": "Византийский Маврикий предоставляет Хосрову II армию, разбивающую Бахрама Чобина и восстанавливающую его на сасанидском троне, в обмен на огромные территориальные уступки: Хосров отдаёт всю Персидскую Армению, Иберию (Грузию) и части Месопотамии — наибольшая территориальная уступка в сасанидской истории, обращающая вспять десятилетия завоеваний. Хосров называет Маврикия своим «отцом» в письмах и, по всей видимости, испытывает подлинные благодарность и преданность к человеку, спасшему его.\n\nВосстановление создаёт паутину обязательств и чувств, напрямую вызывающую великую войну 602–628 годов. Когда Фока убивает Маврикия одиннадцать лет спустя, Хосров II воспринимает это как личное оскорбление, требующее мести, и использует как повод для наиболее амбициозной военной кампании в сасанидской истории. Тридцатилетняя война поразительно близко подходит к уничтожению Византийской империи; она также истощает Персию настолько полностью, что ни одна из держав не имеет сил сопротивляться арабским армиям.",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/Khosrow_II",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Byzantine",
+        "Political",
+        "War",
+        "Emperor"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0602",
+      "era": "AD",
+      "name": "Khosrow II Launches the Great War — the Last Persian Imperial Gamble",
+      "name_ru": "Хосров II начинает Великую войну — последняя имперская ставка Персии",
+      "description": "When Phocas murders Emperor Maurice and seizes the Byzantine throne, Khosrow II declares war in the name of avenging his patron — an ideologically powerful justification resonating both with his court and the eastern Byzantine populations who also regarded Phocas as a usurper. The real motivation is territorial opportunity: Byzantium is in chaos, its eastern armies leaderless, its treasury depleted, and its provincial administration collapsing. Khosrow's generals advance simultaneously on multiple fronts across the Byzantine east.\n\nWhat begins as a punitive expedition becomes an existential war: Sassanid armies under Shahrbaraz and Shahin advance into Syria, Palestine, and Egypt with a speed not seen since Alexander the Great. By the war's peak, the Sassanid Empire controls more formerly Roman territory than at any point since the Achaemenid era. Khosrow II is at the height of his power — and utterly unprepared for what Heraclius's counteroffensive will do to his overstretched armies.",
+      "description_ru": "Когда Фока убивает Маврикия и захватывает Византийский трон, Хосров II объявляет войну во имя мести своему покровителю — идеологически мощное обоснование, находящее отклик как при его дворе, так и среди восточных Византийских народов, тоже считавших Фоку узурпатором. Реальная мотивация — территориальные возможности: Byzantия в хаосе, её восточные армии без командиров, казна истощена, провинциальное управление рушится. Полководцы Хосрова наступают одновременно на нескольких фронтах.\n\nТо, что начинается как карательная экспедиция, превращается в экзистенциальную войну: сасанидские армии под командованием Шахрбараза и Шахина наступают на Сирию, Палестину и Египет со скоростью, невиданной со времён Александра Великого. На пике войны Сасанидская империя контролирует больше бывшей Римской территории, чем в любой момент со времён ахеменидской эпохи. Хосров II на вершине могущества — и совершенно не готов к тому, что контрнаступление Ираклия сделает с его перегруженными армиями.",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Sasanian_War_of_602%E2%80%93628",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Byzantine",
+        "War",
+        "Expansion"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0611",
+      "era": "AD",
+      "name": "Sassanids Take Syria and Antioch — the Roman East Collapses",
+      "name_ru": "Сасаниды берут Сирию и Антиохию — римский Восток рушится",
+      "description": "Sassanid armies under Shahrbaraz sweep through Syria in a lightning campaign, capturing Antioch, Apamea, and Emesa in rapid succession — cities falling in weeks rather than the months or years that previous Sassanid campaigns had required. The Byzantine eastern field army is shattered and withdraws to Anatolia. The Miaphysite Christian populations of Syria — alienated by Chalcedonian Byzantine religious enforcement — offer limited resistance and in some cases active assistance to the Sassanid advance.\n\nThe loss of Syria is more than territorial: it removes the recruiting ground for the Byzantine eastern army, the tax base for eastern defence, and the religious legitimacy of the patriarchates of Antioch and Jerusalem. For the first time since the Roman conquest of the Seleucid Empire in 63 BC, the entire Levant is under Iranian control — and the Iranian power holding it is at its maximum territorial extent, administrative sophistication, and military reach.",
+      "description_ru": "Сасанидские армии под командованием Шахрбараза стремительно проходят через Сирию, захватывая Антиохию, Апамею и Эмесу (Хомс) в быстрой последовательности — города падают за недели. Византийская восточная полевая армия разбита и отступает в Анатолию. Миафизитское христианское население Сирии — отчуждённое халкидонским Византийским религиозным принуждением — оказывает ограниченное сопротивление и в некоторых случаях активно содействует сасанидскому продвижению.\n\nПотеря Сирии — нечто большее, чем территориальная: она лишает Byzantию рекрутской базы для восточной армии и налоговой базы для восточной обороны. Впервые со времён Римского завоевания государства Селевкидов в 63 г. до н. э. весь Левант находится под иранским контролем — и иранская держава, удерживающая его, достигла максимальной территориальной протяжённости, административного совершенства и военного могущества.",
+      "latitude": 36.2,
+      "longitude": 36.16,
+      "source": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Sasanian_War_of_602%E2%80%93628",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "War",
+        "Conquest",
+        "Byzantine"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0619",
+      "era": "AD",
+      "name": "Sassanids Conquer Egypt — the Achaemenid Empire Reconstituted",
+      "name_ru": "Сасаниды завоёвывают Египет — Ахеменидская империя воссоздана",
+      "description": "Sassanid forces under Shahrbaraz complete the conquest of Egypt — the richest province in the former Roman world — overrunning the Nile Delta and taking Alexandria, cutting off Byzantine access to Egyptian grain and papyrus. The Sassanid Empire now controls approximately the same territory as the Achaemenid Empire at its maximum extent under Darius and Xerxes: from the Nile in the west through Syria, Palestine, Mesopotamia, Persia, and into Central Asia. Khosrow II reportedly celebrates by wearing the crown of the Pharaohs in a ceremony in Egypt.\n\nThe strategic position is extraordinary — and unsustainable. Overrunning an empire is far easier than governing it: the Sassanid administrative machine, designed for a territory roughly half this size, is stretched beyond its capacity. Tax collection in Syria and Egypt requires local bureaucracies that have not existed under Sassanid rule, and garrison troops are spread across thousands of kilometres of new frontier. When Heraclius launches his counteroffensive by sea, the Sassanid strategic overextension is already terminal.",
+      "description_ru": "Сасанидские силы под командованием Шахрбараза завершают завоевание Египта — богатейшей провинции бывшего Римский мира, — захватив дельту Нила и Александрию и лишив Byzantию доступа к египетскому зерну и папирусу. Сасанидская империя теперь контролирует приблизительно ту же территорию, что и Ахеменидская держава на максимальной протяжённости при Дарии и Ксерксе: от Нила на западе через Сирию, Палестину, Месопотамию, Персию и до Центральной Азии. По преданию, Хосров II торжествует, надевая корону фараонов в египетской церемонии.\n\nСтратегическое положение исключительно — и неустойчиво. Завоевать империю значительно легче, чем управлять ею: сасанидская административная машина, рассчитанная на территорию вдвое меньшей площади, перегружена сверх своих возможностей. Когда Ираклий начинает контрнаступление морем, сасанидское стратегическое перенапряжение уже является смертельным.",
+      "latitude": 31.2,
+      "longitude": 29.92,
+      "source": "https://en.wikipedia.org/wiki/Sasanian_conquest_of_Egypt",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "War",
+        "Conquest",
+        "Expansion"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "25.02.0628",
+      "era": "AD",
+      "name": "Khosrow II Overthrown and Killed — His Own Son Ends His Reign",
+      "name_ru": "Хосров II свергнут и убит — его собственный сын кладёт конец его правлению",
+      "description": "After the catastrophic reversal of Heraclius's counteroffensives — the loss of all territories gained in twenty years of war, the death of Persia's best generals — Khosrow II refuses to make peace, continuing to demand total Byzantine capitulation even as his armies are destroyed. His nobles and generals have had enough: they arrest the king and place his son Kavad II (Sheroe) on the throne. Kavad II reportedly visits his imprisoned father in the dungeon and has him shot with arrows over several days — a slow, deliberate death.\n\nKhosrow II's death closes the last great chapter of Sassanid history: the king who had come closest to reconstituting the Achaemenid empire is killed by his own family, surrounded by the ruins of his ambition. Kavad II immediately signs peace with Heraclius, returning all conquered territories and surrendering the True Cross — effectively nullifying thirty years of war and reversing every Sassanid gain. He then dies of plague after a reign of eight months, opening the catastrophic succession crisis that will leave the empire defenceless against the Arab conquest.",
+      "description_ru": "После катастрофического разворота, вызванного контрнаступлениями Ираклия, — потери всех территорий, завоёванных за двадцать лет войны, гибели лучших персидских полководцев, — Хосров II отказывается заключать мир, продолжая требовать полной Византийской капитуляции, пока его армии уничтожаются. Его вельможи и полководцы устали: они арестовывают царя и возводят на трон его сына Кавада II (Широе). По преданию, Кавад II навещает заключённого отца в темнице и приказывает расстрелять его из луков в течение нескольких дней — медленная, намеренная смерть.\n\nСмерть Хосрова II закрывает последнюю великую главу сасанидской истории: царь, приблизившийся ближе всего к воссозданию Ахеменидской державы, убит собственной семьёй в окружении руин своих амбиций. Кавад II немедленно подписывает мир с Ираклием, возвращая все завоёванные территории и Животворящий Крест — обнуляя тридцать лет войны. Затем он умирает от чумы после восьмимесячного правления, открывая катастрофический кризис преемства.",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/Khosrow_II",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Emperor",
+        "Death",
+        "Civil War",
+        "Crisis"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0629",
+      "era": "AD",
+      "name": "Purandokht — the First Reigning Queen of Sassanid Persia",
+      "name_ru": "Пурандохт — первая царствующая царица Сасанидской Персии",
+      "description": "In the chaos following Kavad II's death — with multiple claimants, army factions, and noble conspiracies producing a succession of short-lived kings — the Sassanid noble council elevates Purandokht, daughter of Khosrow II, to the throne as the first ruling queen in Sassanid history. Her reign of approximately eighteen months is characterised by administrative moderation: she confirms the peace with Heraclius, arranges the return of the True Cross to Jerusalem, reduces oppressive taxes, and attempts to stabilise the imperial currency.\n\nPurandokht is succeeded by another daughter of Khosrow II, Azarmidokht, who reigns briefly before being murdered. Between the death of Khosrow II and the Arab conquest of Ctesiphon less than a decade later, fourteen different rulers hold the Sassanid throne — an average of under a year each. The empire that Khosrow I had made into the world's most sophisticated state has been consumed by the wars and civil conflicts his successors could not manage.",
+      "description_ru": "В хаосе после смерти Кавада II — с множеством претендентов, армейскими группировками и знатными заговорами, порождающими вереницу недолговечных царей, — сасанидский совет знати возводит на трон Пурандохт, дочь Хосрова II, как первую царствующую царицу в сасанидской истории. Её правление продолжительностью около восемнадцати месяцев отличается административной умеренностью: она подтверждает мир с Ираклием, договаривается о возвращении Животворящего Креста в Иерусалим, снижает притеснительные налоги и пытается стабилизировать имперскую монету.\n\nПурандохт сменяет другая дочь Хосрова II, Азармидохт, недолго правящая до своего убийства. Между смертью Хосрова II и арабским завоеванием Ктесифона менее чем через десятилетие четырнадцать разных правителей занимают сасанидский трон — в среднем менее года каждый. Империя, которую Хосров I превратил в наиболее совершенное государство мира, уничтожена войнами и гражданскими конфликтами, которые его преемники не смогли обуздать.",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/Purandokht",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Emperor",
+        "Crisis",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "16.06.0636",
+      "era": "AD",
+      "name": "Battle of al-Qadisiyya — the Arab Armies Shatter Sassanid Power",
+      "name_ru": "Битва при Кадисии — арабские армии сокрушают сасанидскую мощь",
+      "description": "The Arab-Islamic army under Sa'd ibn Abi Waqqas confronts the last coherent Sassanid field force under the general Rustam Farrokhzad at al-Qadisiyya near the Euphrates in a three-day battle ending with the complete destruction of the Persian army and the death of Rustam. The Sassanid battle elephant corps — which had defined Persian military superiority in western campaigns for centuries — causes initial panic among the Arab infantry but is eventually turned by targeted archery against the elephants' drivers and eyes, after which the panicked animals trample their own side.\n\nThe Battle of al-Qadisiyya is not simply a military defeat: it is the moment when the exhausted Sassanid state — its treasury depleted, its army destroyed in twenty-six years of war with Byzantium, its civil institutions collapsed — meets a fresh, highly motivated force energised by a new universalist faith. The Arabs do not conquer a vital empire; they sweep through its ruins.",
+      "description_ru": "Арабо-исламская армия под командованием Саада ибн Абу Ваккаса встречает последнюю боеспособную сасанидскую полевую силу под командованием Рустама Фаррохзада при Кадисии близ Евфрата в трёхдневной битве, завершившейся полным уничтожением персидской армии и гибелью Рустама. Корпус боевых слонов Сасанидов — определявший персидское военное превосходство в западных кампаниях столетиями — поначалу вызывает панику в рядах арабской пехоты, но в итоге переломлён прицельной стрельбой по погонщикам и глазам слонов, после чего обезумевшие животные топчут собственные ряды.\n\nБитва при Кадисии — не просто военное поражение: это момент, когда истощённое сасанидское государство — с опустошённой казной, уничтоженной двадцатишестилетней войной с Byzantией армией, рухнувшими гражданскими институтами — встречает свежую, высокомотивированную силу, воодушевлённую новой универсалистской верой. Арабы завоёвывают не могущественную империю; они проходят через её руины.",
+      "latitude": 32,
+      "longitude": 44.8,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_al-Qadisiyya",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "War",
+        "Battle",
+        "Arab",
+        "Islamic",
+        "Defeat"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0637",
+      "era": "AD",
+      "name": "Ctesiphon Falls to the Arabs — the Sassanid Capital Taken",
+      "name_ru": "Ктесифон взят арабами — падение сасанидской столицы",
+      "description": "Arab forces under Sa'd ibn Abi Waqqas enter Ctesiphon — the great Sassanid capital, seat of the empire for four centuries, and one of the largest cities in the world — almost without resistance, as the young king Yazdegerd III and his court have already fled eastward. The Arabs find the treasury largely intact: the fabulous wealth of Khosrow II's court — gold, silver, silks, jewels, and the legendary 'Spring of Khosrow' carpet reportedly the size of a garden and encrusted with gems — is distributed among the Muslim warriors and sent to Caliph Umar in Medina.\n\nThe great audience hall of Ctesiphon — the Taq Kasra, the largest brick arch in the world — still stands in modern Iraq, the most visible remnant of the Sassanid world. The Abbasid capital Baghdad, founded a century later just kilometres away, is the direct heir of Ctesiphon in geography, administration, and cultural identity. Persia's capital does not die; it transforms.",
+      "description_ru": "Арабские силы под командованием Саада ибн Абу Ваккаса входят в Ктесифон — великую сасанидскую столицу, резиденцию империи четыре столетия и один из крупнейших городов мира — практически без сопротивления: молодой царь Йездигерд III и его двор уже бежали на восток. Арабы находят сокровищницу в основном нетронутой: баснословные богатства двора Хосрова II — золото, серебро, шёлк, драгоценные камни и легендарный ковёр «Весна Хосрова», по преданию размером с сад и усыпанный самоцветами, — распределены среди воинов и отправлены халифу Омару в Медину.\n\nВеликий тронный зал Ктесифона — Так Касра, наибольшая кирпичная арка в мире — по сей день стоит в современном Ираке, наиболее зримый остаток сасанидского мира. Аббасидский Багдад, основанный столетием позже в нескольких километрах, является прямым преемником Ктесифона в географии, управлении и культурной идентичности. Столица Персии не умирает — она преображается.",
+      "latitude": 33.09,
+      "longitude": 44.58,
+      "source": "https://en.wikipedia.org/wiki/Ctesiphon",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "War",
+        "Arab",
+        "Islamic",
+        "Defeat"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.12.0642",
+      "era": "AD",
+      "name": "Battle of Nahavand — 'Victory of Victories' and the Final Defeat",
+      "name_ru": "Битва при Нихавенде — «Победа побед» и окончательное поражение",
+      "description": "The last large Sassanid army — assembled by Yazdegerd III from the Iranian plateau and commanded by his general Mardanshah — is destroyed by the Arab army near Nahavand in the Zagros mountains, in the final major engagement of the Arab conquest of Persia. The Arabs call the battle 'Fath al-Futuh' — the Victory of Victories. Yazdegerd III, having watched army after army fail to halt the Arab advance, flees eastward through Khorasan, seeking help from the Turks and the Tang Chinese court, neither of which materialises.\n\nThe Battle of Nahavand ends Sassanid organised military resistance as a coherent force and opens the Iranian plateau to Arab settlement and governance. Yet the conquest of Persia is qualitatively different from the conquest of Syria and Egypt: the Arabs absorb a civilisation as sophisticated as their own, with a bureaucratic, literary, and philosophical tradition that immediately begins transforming Islam from a regional religion into a world civilisation. Persia conquers its conquerors culturally while yielding to them politically — the most consequential cultural exchange in medieval history.",
+      "description_ru": "Последняя крупная сасанидская армия — собранная Йездигердом III с Иранского нагорья и возглавляемая полководцем Марданшахом — уничтожена арабской армией близ Нихавенда в горах Загрос в последнем крупном сражении арабского завоевания Персии. Арабы называют битву «Фатх аль-Футух» — Победа побед. Йездигерд III, наблюдавший, как армия за армией не может остановить арабское наступление, бежит на восток через Хорасан, ища помощи у тюрков и китайского двора Тан — ни те ни другие не оказывают её.\n\nБитва при Нихавенде завершает организованное сасанидское военное сопротивление как единую силу и открывает Иранское нагорье для арабского заселения. Однако завоевание Персии качественно отличается от завоевания Сирии и Египта: арабы поглощают цивилизацию, столь же изощрённую, как и их собственная. Персия завоёвывает своих завоевателей культурно, политически покоряясь им, — наиболее значимый культурный обмен в средневековой истории.",
+      "latitude": 34.2,
+      "longitude": 48.37,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Nahavand",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "War",
+        "Battle",
+        "Arab",
+        "Islamic",
+        "Defeat"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0651",
+      "era": "AD",
+      "name": "Yazdegerd III Murdered at Merv — the Last Sassanid King",
+      "name_ru": "Убийство Йездигерда III в Мерве — последний сасанидский царь",
+      "description": "Yazdegerd III, the last Sassanid king, is murdered by a miller near Merv — reportedly for his gold, by a man who did not recognise him — after years of wandering through the eastern provinces seeking allies who never came. The Tang Chinese court acknowledged his embassy but sent no soldiers; the Western Turks offered temporary refuge but no army; the local Iranian nobles, calculating that cooperation with the Arabs was more profitable than loyalty to a fugitive king, one by one submitted to the new power. Yazdegerd's death is ignoble but eloquent: the last representative of a four-hundred-year dynasty is killed by a peasant for pocket change.\n\nWith Yazdegerd's death the Sassanid Empire formally ends — though the Zoroastrian faith, the Persian language, Persian literary and administrative culture, and the memory of the empire persist and transform their conquerors. The Zoroastrian priests who fled to India establish the Parsi community preserving the sacred texts to this day. The Sassanid legacy — in architecture, literature, administration, chess, music, and theology — is the most direct foundation of the Islamic golden age that follows.",
+      "description_ru": "Йездигерд III, последний сасанидский царь, убит мельником близ Мерва — по преданию, ради золота, человеком, не признавшим его, — после многолетних скитаний по восточным провинциям в поисках союзников, которых так и не нашлось. Китайский двор Тан признал его посольство, но не прислал солдат; западные тюрки предложили временное убежище, но не армию; местные иранские вельможи, сочтя сотрудничество с арабами выгоднее верности царю-беглецу, один за другим покорились новой власти. Гибель Йездигерда бесславна, но красноречива: последний представитель четырёхсотлетней династии убит крестьянином ради мелкой монеты.\n\nСо смертью Йездигерда Сасанидская империя формально прекращает существование — хотя зороастрийская вера, персидский язык, персидская литературная и административная культура и память об империи сохраняются и преобразуют своих завоевателей. Зороастрийские жрецы, бежавшие в Индию, основывают парсийскую общину, хранящую священные тексты по сей день. Сасанидское наследие — в архитектуре, литературе, управлении, шахматах, музыке и богословии — является наиболее прямым фундаментом последовавшего исламского золотого века.",
+      "latitude": 37.63,
+      "longitude": 62.18,
+      "source": "https://en.wikipedia.org/wiki/Yazdegerd_III",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Emperor",
+        "Death",
+        "Arab",
+        "Islamic",
+        "Decline"
+      ],
+      "type": "historic"
+    }
+  ]
+}
