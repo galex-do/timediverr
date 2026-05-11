@@ -17,7 +17,7 @@
       </div>
 
       <div class="event_detail_content">
-        <div class="event_date">{{ formatEventDisplayDate(event.event_date, event.era) }}</div>
+        <div class="event_date">{{ formatEventDisplayDateLong(event.event_date, event.era) }}</div>
         <div v-if="event.description" class="event_description">{{ event.description }}</div>
         <div v-if="event.tags && event.tags.length > 0" class="event_tags">
           <span
@@ -203,7 +203,7 @@ export default {
   },
   emits: ['close', 'focus-event', 'tag-clicked', 'select-event', 'edit-event', 'back'],
   setup(props, { emit }) {
-    const { t, formatEventDisplayDate } = useLocale()
+    const { t, formatEventDisplayDate, formatEventDisplayDateLong } = useLocale()
     const { canEditEvents } = useAuth()
     const previouslyFocusedElement = ref(null)
 
@@ -313,6 +313,7 @@ export default {
     return {
       t,
       formatEventDisplayDate,
+      formatEventDisplayDateLong,
       getEventEmoji,
       getContrastColor,
       getTagStyle,
@@ -433,9 +434,9 @@ export default {
 }
 
 .event_date {
-  font-size: 0.8rem;
+  font-size: 0.85rem;
   font-weight: 500;
-  color: #94a3b8;
+  color: #64748b;
   margin-bottom: 0.75rem;
 }
 

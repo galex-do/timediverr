@@ -50,7 +50,7 @@
     
     <!-- Date below -->
     <div class="event_date_line">
-      {{ formatEventDisplayDate(event.event_date, event.era) }}
+      {{ formatEventDisplayDateLong(event.event_date, event.era) }}
     </div>
   </div>
 </template>
@@ -74,10 +74,11 @@ export default {
   },
   emits: ['focus-event', 'highlight-event', 'tag-clicked', 'show-detail'],
   setup() {
-    const { formatEventDisplayDate, t } = useLocale()
+    const { formatEventDisplayDate, formatEventDisplayDateLong, t } = useLocale()
     
     return {
       formatEventDisplayDate,
+      formatEventDisplayDateLong,
       t
     }
   },
@@ -191,9 +192,9 @@ export default {
 }
 
 .event_date_line {
-  font-size: 0.7rem;
-  color: #94a3b8;
+  font-size: 0.75rem;
+  color: #64748b;
   margin-top: 0.25rem;
-  font-weight: 400;
+  font-weight: 500;
 }
 </style>

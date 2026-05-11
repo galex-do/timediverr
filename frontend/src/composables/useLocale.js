@@ -198,6 +198,7 @@ const UI_TRANSLATIONS = {
     // Era Labels
     eraBC: 'BC',
     eraAD: 'AD',
+    yearLabel: 'year',
     
     // Admin Datasets Page
     adminDatasetsTitle: 'Event Datasets',
@@ -535,6 +536,7 @@ const UI_TRANSLATIONS = {
     // Era Labels
     eraBC: 'до н.э.',
     eraAD: 'н.э.',
+    yearLabel: 'год',
     
     // Admin Datasets Page
     adminDatasetsTitle: 'Датасеты событий',
@@ -825,6 +827,34 @@ export function useLocale() {
 
     return `${paddedDay}.${paddedMonth}.${year}${eraSuffix}`
   }
+
+  // Same as formatEventDisplayDate but adds the localized "year" word for
+  // year-only AD dates (e.g. "year 200" / "200 год"). For dates with a
+  // specific day/month or for BC dates the result is identical to the
+  // standard formatter.
+  const formatEventDisplayDateLong = (isoDateString, era) => {
+    if (!isoDateString) return ''
+
+    let year, month, day
+    if (isoDateString.startsWith('-')) {
+      const parts = isoDateString.substring(1).split('T')[0].split('-')
+      year = parseInt(parts[0], 10)
+      month = parseInt(parts[1], 10)
+      day = parseInt(parts[2], 10)
+    } else {
+      const parts = isoDateString.split('T')[0].split('-')
+      year = parseInt(parts[0], 10)
+      month = parseInt(parts[1], 10)
+      day = parseInt(parts[2], 10)
+    }
+
+    const isYearOnly = month === 1 && day === 1
+    if (isYearOnly && era !== 'BC') {
+      const word = t('yearLabel')
+      return locale.value === 'ru' ? `${year} ${word}` : `${word} ${year}`
+    }
+    return formatEventDisplayDate(isoDateString, era)
+  }
   
   return {
     locale: computed(() => locale.value),
@@ -836,6 +866,7 @@ export function useLocale() {
     addLocaleToUrl,
     formatLocalizedDate,
     formatDayMonth,
-    formatEventDisplayDate
+    formatEventDisplayDate,
+    formatEventDisplayDateLong
   }
 }
