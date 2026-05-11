@@ -78,7 +78,7 @@
                   ></span>
                 </template>
                 <template v-if="showDetails && yearGroup.dateGroups[0].events[0].description">
-                  {{ ' — ' }}<span class="event_description_text">{{ yearGroup.dateGroups[0].events[0].description.trim() }}</span>
+                  <div class="event_description_text">{{ yearGroup.dateGroups[0].events[0].description.trim() }}</div>
                 </template>
                 <template v-if="showDetails && yearGroup.dateGroups[0].events[0].tags && yearGroup.dateGroups[0].events[0].tags.length > 0">
                   {{ ' ' }}
@@ -143,7 +143,7 @@
                           ></span>
                         </template>
                         <template v-if="showDetails && dateGroup.events[0].description">
-                          {{ ' — ' }}<span class="event_description_text">{{ dateGroup.events[0].description.trim() }}</span>
+                          <div class="event_description_text">{{ dateGroup.events[0].description.trim() }}</div>
                         </template>
                         <template v-if="showDetails && dateGroup.events[0].tags && dateGroup.events[0].tags.length > 0">
                           {{ ' ' }}
@@ -205,7 +205,7 @@
                           ></span>
                         </template>
                         <template v-if="showDetails && event.description">
-                          {{ ' — ' }}<span class="event_description_text">{{ event.description.trim() }}</span>
+                          <div class="event_description_text">{{ event.description.trim() }}</div>
                         </template>
                         <template v-if="showDetails && event.tags && event.tags.length > 0">
                           {{ ' ' }}

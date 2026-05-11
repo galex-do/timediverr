@@ -64,7 +64,9 @@
 }
 
 .event_description_text {
+  display: block;
   white-space: pre-line;
+  margin-top: 0.25rem;
 }
 
 .timeline_single_text .timeline_date_inline {

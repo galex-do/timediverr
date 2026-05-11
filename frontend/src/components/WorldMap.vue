@@ -86,7 +86,7 @@
                     ></span>
                   </template>
                   <template v-if="location_show_details && yearGroup.dateGroups[0].events[0].description">
-                    {{ ' — ' }}<span class="event_description_text">{{ format_description_inline(yearGroup.dateGroups[0].events[0].description) }}</span>
+                    <div class="event_description_text">{{ format_description_inline(yearGroup.dateGroups[0].events[0].description) }}</div>
                   </template>
                   <template v-if="location_show_details && yearGroup.dateGroups[0].events[0].tags && yearGroup.dateGroups[0].events[0].tags.length > 0">
                     {{ ' ' }}
@@ -152,7 +152,7 @@
                             ></span>
                           </template>
                           <template v-if="location_show_details && dateGroup.events[0].description">
-                            {{ ' — ' }}<span class="event_description_text">{{ format_description_inline(dateGroup.events[0].description) }}</span>
+                            <div class="event_description_text">{{ format_description_inline(dateGroup.events[0].description) }}</div>
                           </template>
                           <template v-if="location_show_details && dateGroup.events[0].tags && dateGroup.events[0].tags.length > 0">
                             {{ ' ' }}
@@ -215,7 +215,7 @@
                             ></span>
                           </template>
                           <template v-if="location_show_details && event.description">
-                            {{ ' — ' }}<span class="event_description_text">{{ format_description_inline(event.description) }}</span>
+                            <div class="event_description_text">{{ format_description_inline(event.description) }}</div>
                           </template>
                           <template v-if="location_show_details && event.tags && event.tags.length > 0">
                             {{ ' ' }}
