@@ -1,0 +1,428 @@
+{
+  "description": "Dataset imported with 20 events",
+  "events": [
+    {
+      "date": "24.01.0661",
+      "description": "Ali ibn Abi Talib, the fourth Rashidun Caliph and the Prophet's cousin and son-in-law, is struck by a poisoned sword while leading the dawn prayer at the Great Mosque of Kufa by the Kharijite Abd al-Rahman ibn Muljam, who considers Ali's acceptance of arbitration at Siffin a sin deserving death. Ali lingers two days and dies on 26 January, reportedly instructing his sons to treat his assassin humanely — give him one meal, one drink, and then kill him by a single blow, as the Prophet forbade mutilation.\n\nAli's death closes the era of the Rashidun and triggers the permanent institutional division of Islam. Shia Muslims regard him as the rightful and first legitimate Imam; his tomb in Najaf becomes the holiest site in Shia Islam, drawing pilgrims for 1,400 years. For Sunnis his caliphate represents the last of the four rightly-guided caliphs and the last government modelled on the Prophet's example before dynastic rule replaced the elective principle. The two hours at the Saqifah after the Prophet's death and the sword at the mosque of Kufa together produce the theological fracture that no subsequent caliph, reformer, or warrior has ever healed.",
+      "description_ru": "Али ибн Абу Талиб, четвёртый праведный халиф и двоюродный брат и зять Пророка, получает удар отравленным мечом во время утренней молитвы в Большой мечети Куфы от хариджита Абд ар-Рахмана ибн Мулджама, считающего принятие Али арбитража при Сиффине грехом, заслуживающим смерти. Али проживёт ещё два дня и умрёт 26 января, по преданию наказав сыновьям обращаться с убийцей гуманно: одна еда, одна вода — и казнить одним ударом, ибо Пророк запретил мучения.\n\nСмерть Али закрывает эпоху Праведного халифата и запускает постоянный институциональный раскол ислама. Шиитские мусульмане считают его первым законным Имамом; его гробница в Наджафе становится святейшим местом шиитского ислама, привлекая паломников на протяжении 1400 лет.",
+      "era": "AD",
+      "latitude": 32.0336,
+      "longitude": 44.3356,
+      "name": "Ali ibn Abi Talib Assassinated at Kufa",
+      "name_ru": "Убийство Али ибн Абу Талиба в Куфе",
+      "source": "https://en.wikipedia.org/wiki/Ali",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Caliph",
+        "Death",
+        "Murder",
+        "Civil War",
+        "Schism",
+        "Kharijite",
+        "Rashidun Caliphate"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "28.07.0661",
+      "description": "With Ali dead and his son Hasan having negotiated a settlement that ceded power in exchange for a pension and the safety of the Alid family, Muawiyah ibn Abi Sufyan — the long-serving governor of Syria, builder of the Islamic navy, and scion of the Umayyad clan of the Quraysh — enters Kufa and is acclaimed as sole Caliph of the Islamic world. He establishes his capital at Damascus, the old Roman-Byzantine provincial capital of Syria, and begins building an administration modelled more on the Sasanian and Byzantine empires than on the austere precedents of the Rashidun.\n\nThe Umayyad Caliphate that Muawiyah founds is a radically new kind of Islamic state: centralised, bureaucratic, court-centred, and hereditary. For the first time the caliph is not elected by a shura of companions or tribal consensus but simply designated by his predecessor — a model every subsequent Islamic dynasty will follow. Critics from Medina call it 'mulk' ('mere kingship') rather than proper Islamic government; supporters argue that only strong central authority can hold together an empire stretching from Khorasan to Libya. Both sides are right.",
+      "description_ru": "После гибели Али и заключённого его сыном Хасаном соглашения об отречении Муавия ибн Аби Суфьян — многолетний наместник Сирии, создатель исламского флота и отпрыск умайядского клана курайшитов — въезжает в Куфу и провозглашается единственным халифом исламского мира. Он переносит столицу в Дамаск — старую римско-Византийскую провинциальную столицу Сирии — и строит администрацию, смоделированную скорее по образцу сасанидской и Византийской империй, нежели аскетичных прецедентов Праведного халифата.\n\nОснованный Муавией Умайядский халифат — радикально новый тип исламского государства: централизованный, бюрократический, дворцовый и наследственный. Впервые халиф назначается не выборным советом сподвижников, а просто своим предшественником — модель, которой последует каждая последующая исламская династия.",
+      "era": "AD",
+      "latitude": 33.5138,
+      "longitude": 36.2765,
+      "name": "Muawiyah I Founds the Umayyad Caliphate in Damascus",
+      "name_ru": "Муавия I основывает Умайядский халифат в Дамаске",
+      "source": "https://en.wikipedia.org/wiki/Muawiyah_I",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Caliph",
+        "Dynasty",
+        "Political",
+        "Foundation",
+        "Umayyad Caliphate"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0674",
+      "description": "Muawiyah I commits the full resources of the Umayyad Caliphate to the most ambitious military operation in Islamic history to date: a sustained naval and land assault on Constantinople, the capital of the Byzantine Empire. An Arab fleet occupies the peninsula of Cyzicus on the Sea of Marmara as a forward base; Arab forces attack the city's massive Theodosian Walls from the land while the fleet attempts to close the Bosphorus. The siege lasts four years and fails on both fronts: the land walls prove impenetrable, and the Byzantine navy deploys Greek Fire — a newly developed incendiary weapon that burns on water — with devastating effect against the Arab fleet, reportedly destroying it almost entirely in 678.\n\nThe failure of the First Arab Siege of Constantinople saves the Byzantine Empire and, arguably, Christian Europe: Constantinople will not fall for another 775 years. It also reveals the limits of Umayyad power: the caliphate can overwhelm armies in open battle across deserts and plains, but Byzantine naval technology and fortification engineering represent an entirely different class of military problem that Arab advantages in cavalry and infantry cannot solve.",
+      "description_ru": "Муавия I бросает все ресурсы Умайядского халифата на самую грандиозную военную операцию в истории ислама того времени: длительный морской и сухопутный штурм Константинополя, столицы Византийской империи. Арабский флот захватывает полуостров Кизик в Мраморном море как передовую базу; арабские войска атакуют с суши, пока флот пытается перекрыть Босфор. Осада длится четыре года и терпит неудачу: стены Феодосия неприступны, а Византийский флот применяет греческий огонь — новое зажигательное оружие, горящее на воде, — с опустошительным эффектом против арабских кораблей.\n\nПровал Первой арабской осады Константинополя спасает Византийскую империю: Константинополь не падёт ещё 775 лет. Это также обнажает пределы умайядской мощи: халифат может сокрушать армии в открытом бою, но Византийские военно-морские технологии и фортификационная инженерия представляют совершенно иной класс военных задач.",
+      "era": "AD",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "name": "First Arab Siege of Constantinople Fails",
+      "name_ru": "Первая арабская осада Константинополя терпит неудачу",
+      "source": "https://en.wikipedia.org/wiki/Arab%E2%80%93Byzantine_wars",
+      "tags": [
+        "Arabian",
+        "Byzantine",
+        "Islamic",
+        "Siege",
+        "War",
+        "Naval",
+        "Umayyad Caliphate"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.04.0680",
+      "description": "As his health fails, Muawiyah I formally designates his son Yazid ibn Muawiyah as heir and demands bay'a (allegiance) from the Islamic community — the first time a Muslim ruler has converted the caliphate into a hereditary monarchy within a single family. Most of the empire acquiesces; but in Medina, Husayn ibn Ali (grandson of the Prophet, son of Ali) and Abdullah ibn al-Zubayr refuse on principle: a man of such openly dissolute reputation and the son of Muawiyah cannot be the legitimate leader of the Muslim community. These refusals will ignite the Second Fitna within months of Yazid's accession.",
+      "description_ru": "По мере ухудшения здоровья Муавия I официально назначает своего сына Язида ибн Муавию наследником и требует байя (клятву верности) от исламской общины — впервые мусульманский правитель превращает халифат в наследственную монархию внутри одной семьи. Большинство империи подчиняется; но в Медине Хусайн ибн Али (внук Пророка, сын Али) и Абдаллах ибн аз-Зубайр отказываются из принципиальных соображений: человек столь открыто распутной репутации и сын Муавии не может быть законным лидером мусульманской общины. Эти отказы разожгут Вторую Фитну в течение нескольких месяцев после воцарения Язида.",
+      "era": "AD",
+      "latitude": 33.5138,
+      "longitude": 36.2765,
+      "name": "Muawiyah Designates Yazid — Caliphate Becomes Hereditary",
+      "name_ru": "Муавия назначает Язида: халифат становится наследственным",
+      "source": "https://en.wikipedia.org/wiki/Yazid_I",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Caliph",
+        "Dynasty",
+        "Political",
+        "Crisis",
+        "Umayyad Caliphate"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "10.10.0680",
+      "description": "Husayn ibn Ali — the Prophet's grandson, the most revered living member of the Prophet's family, and the man whom thousands of Kufans had invited in letters to come and lead them in revolt against Yazid — arrives on the plain of Karbala in southern Iraq with a small party of seventy-two fighters and family members, only to find that the Kufan support has evaporated: the governor Ubaydallah ibn Ziyad has intimidated or arrested Husayn's Kufan contacts, and an Umayyad army of four thousand surrounds the party and cuts off their water supply from the Euphrates for three days.\n\nOn the morning of the tenth of Muharram (Ashura), Husayn refuses Ubaydallah's demand of unconditional surrender and charges with his tiny force into the vastly superior Umayyad army. Every male member of the party except Husayn's infant son Ali is killed; Husayn himself fights until cut down, and his head is taken to Damascus. The women and children are taken prisoner and paraded through Kufa and Damascus.\n\nKarbala is the foundational tragedy of Shia Islam: the annual commemoration of Ashura becomes the emotional and liturgical centre of Shia religious life, the site a pilgrimage destination second only to Mecca and Medina. But Karbala is also a permanent indictment of the Umayyad dynasty: even many Sunnis regarded the massacre of the Prophet's family as an act of impiety that delegitimised Yazid's caliphate from the first day of its existence.",
+      "description_ru": "Хусайн ибн Али — внук Пророка, наиболее почитаемый живой член семьи Пророка — прибывает на равнину Карбалы в южном Ираке с небольшим отрядом из семидесяти двух бойцов и членов семьи, лишь чтобы обнаружить, что поддержка куфийцев испарилась: наместник Убайдаллах ибн Зийад запугал или арестовал кuфийские контакты Хусайна, и умайядская армия в четыре тысячи человек окружает отряд и отрезает его от воды из Евфрата на три дня.\n\nУтром десятого мухаррама (Ашура) Хусайн отвергает требование о безоговорочной капитуляции и бросается с крошечным отрядом на многократно превосходящую умайядскую армию. Все мужчины, кроме младенца сына Хусайна Али, убиты; сам Хусайн сражается до последнего и обезглавлен — его голову отправляют в Дамаск. Женщин и детей берут в плен и проводят по улицам Куфы и Дамаска.\n\nКарбала — основополагающая трагедия шиитского ислама: ежегодное поминовение Ашуры становится эмоциональным и литургическим центром шиитской религиозной жизни. Карбала — также постоянное обвинение умайядской династии: даже многие сунниты рассматривали резню семьи Пророка как акт нечестия.",
+      "era": "AD",
+      "latitude": 32.6166,
+      "longitude": 44.0249,
+      "name": "The Massacre of Husayn ibn Ali at Karbala",
+      "name_ru": "Гибель Хусайна ибн Али в Карбале",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Karbala",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Battle",
+        "Death",
+        "Schism",
+        "Civil War",
+        "Religious",
+        "Persecution",
+        "Umayyad Caliphate"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0683",
+      "description": "The death of Muawiyah in 680 and the outrage over Karbala trigger the Second Fitna — a decade-long civil war that nearly destroys the Umayyad dynasty. In Medina, the population revolts against Yazid; an Umayyad army sacks the city in the Battle of al-Harrah (683), an atrocity that shocks the Islamic world as the Prophet's own city is plundered by Muslim soldiers for the first time. Yazid then besieges Mecca to crush the rival caliphate of Abdullah ibn al-Zubayr; Umayyad catapults damage the Kaaba and the sacred Black Stone is cracked by fire. Yazid dies during the siege, leaving the caliphate in chaos: three caliphs die in quick succession, the empire fragments into regional powers, and it is only the military genius and iron will of Abd al-Malik ibn Marwan who will reunite it — at enormous cost — between 685 and 692.",
+      "description_ru": "Смерть Муавии в 680 году и возмущение Карбалой запускают Вторую Фитну — десятилетнюю гражданскую войну, едва не уничтожившую умайядскую династию. В Медине население восстаёт против Язида; умайядская армия разграбляет город в битве при аль-Харре (683) — зверство, потрясшее исламский мир, когда собственный город Пророка впервые разграблен мусульманскими солдатами. Затем Язид осаждает Мекку, чтобы сокрушить соперничающий халифат Абдаллаха ибн аз-Зубайра; умайядские катапульты повреждают Каабу, Чёрный камень трескается от огня. Язид умирает во время осады, погружая халифат в хаос.",
+      "era": "AD",
+      "latitude": 24.47,
+      "longitude": 39.61,
+      "name": "The Second Fitna Tears the Caliphate Apart",
+      "name_ru": "Вторая Фитна раздирает халифат",
+      "source": "https://en.wikipedia.org/wiki/Second_Fitna",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Civil War",
+        "Crisis",
+        "Rebellion",
+        "Umayyad Caliphate",
+        "Holy Site"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "09.10.0691",
+      "description": "Abd al-Malik ibn Marwan, the fifth Umayyad Caliph who reunified the caliphate after the Second Fitna, completes construction of the Dome of the Rock on the Temple Mount in Jerusalem — the oldest surviving Islamic monument in the world and one of the most architecturally sophisticated buildings of its era. The octagonal structure with its golden dome is built over the rock from which the Prophet ascended to heaven during the Night Journey, and its inscriptions — running 240 metres around the interior — are the oldest preserved Quranic texts in existence, predating the oldest surviving complete Quran manuscripts by centuries.\n\nThe Dome of the Rock is simultaneously a religious monument, a political statement, and an architectural masterpiece. Its placement on the site of the Jewish Temple and directly opposite the Church of the Holy Sepulchre announces Islam's claim to supersede both Judaism and Christianity. Its sheer magnificence — rivalling and intentionally surpassing the Church of the Holy Sepulchre — signals that the Umayyad Caliphate is not a transient desert power but a civilisation capable of building for eternity. The building has been continuously maintained and venerated for 1,300 years and remains the visual symbol of Jerusalem.",
+      "description_ru": "Абд аль-Малик ибн Марван, пятый умайядский халиф, воссоединивший халифат после Второй Фитны, завершает строительство Купола Скалы на Храмовой горе в Иерусалиме — старейшего сохранившегося исламского памятника и одного из архитектурно наиболее сложных зданий своей эпохи. Восьмиугольная структура с золотым куполом возведена над скалой, с которой Пророк вознёсся на небеса во время Ночного путешествия, а её надписи — протяжённостью 240 метров по интерьеру — являются старейшими сохранившимися кораническими текстами в существовании.\n\nКупол Скалы одновременно является религиозным памятником, политическим заявлением и архитектурным шедевром. Его расположение на месте Иерусалимского храма и прямо напротив Храма Гроба Господня провозглашает претензии ислама на замену иудаизма и христианства.",
+      "era": "AD",
+      "latitude": 31.778,
+      "longitude": 35.2354,
+      "name": "The Dome of the Rock Completed in Jerusalem",
+      "name_ru": "Завершение Купола Скалы в Иерусалиме",
+      "source": "https://en.wikipedia.org/wiki/Dome_of_the_Rock",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Architecture",
+        "Religious",
+        "Holy Site",
+        "Jerusalem",
+        "Culture",
+        "Umayyad Caliphate"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0692",
+      "description": "Abd al-Malik ibn Marwan issues a sweeping administrative reform that transforms the Umayyad Caliphate from a loose federation of former Byzantine and Sasanian provinces — each still functioning largely in its old language and administrative tradition — into a unified Arabic-language state. Greek and Pahlavi (Middle Persian) are replaced by Arabic as the sole language of government records, taxation, and official correspondence in all provinces. A new Islamic coinage replaces Byzantine gold solidi and Sasanian silver dirhams: the new gold dinar and silver dirham bear Quranic inscriptions rather than images of rulers, establishing the principle of aniconic Islamic currency that will persist for centuries.\n\nThis administrative Arabisation is one of the most consequential acts in the history of the Arabic language: it begins the process by which Arabic replaces Aramaic, Coptic, Greek, and Pahlavi as the everyday language of the Middle East's urban populations over the following two centuries, producing the Arabic-speaking world that exists today.",
+      "description_ru": "Абд аль-Малик ибн Марван проводит масштабную административную реформу, преобразующую Умайядский халифат из рыхлой федерации бывших Византийских и Сасанидских провинций — каждая из которых по-прежнему функционирует в основном на своём старом языке — в единое арабоязычное государство. Греческий и пехлевийский заменяются арабским как единственным языком государственных документов, налогообложения и официальной переписки во всех провинциях. Новая исламская монета заменяет Византийские золотые солиды и Сасанидские серебряные дирхемы: новые золотой динар и серебряный дирхем несут коранические надписи вместо изображений правителей.\n\nЭта административная арабизация — одно из самых значимых действий в истории арабского языка: она начинает процесс, посредством которого арабский язык за последующие два века вытесняет арамейский, коптский, греческий и пехлевийский как повседневный язык городского населения Ближнего Востока.",
+      "era": "AD",
+      "latitude": 33.5138,
+      "longitude": 36.2765,
+      "name": "Arabic Becomes the Official Language of the Caliphate",
+      "name_ru": "Арабский становится официальным языком халифата",
+      "source": "https://en.wikipedia.org/wiki/Abd_al-Malik_ibn_Marwan",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Reform",
+        "Culture",
+        "Language",
+        "Political",
+        "Standardization",
+        "Umayyad Caliphate"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0698",
+      "description": "An Arab army under Hassan ibn al-Nu'man captures and destroys Carthage — the ancient city near modern Tunis that had been a major Roman, then Vandal, then Byzantine city for a thousand years — completing the Muslim conquest of the North African coast and extinguishing Byzantine power in Africa permanently. The fall of Carthage is a civilisational watershed: the last city of the classical western Mediterranean world outside of Constantinople and Rome passes from Christian to Muslim rule. The Byzantine fleet retakes the city briefly in 698 but is driven out; Hassan rebuilds the nearby city of Tunis as the new Arab administrative capital and the construction of the Great Mosque of Kairouan — already begun in 670 — continues as the symbol of Islamic North Africa.\n\nWith North Africa secured, the Strait of Gibraltar becomes the next frontier: only the narrow channel of the Mediterranean separates the Umayyad Caliphate from the Visigothic Kingdom of Hispania, and the internal politics of that kingdom will soon provide the invitation to cross.",
+      "description_ru": "Арабская армия под командованием Хасана ибн ан-Нуумана захватывает и разрушает Карфаген — древний город близ современного Туниса, бывший крупным римским, затем вандальским, затем Византийским городом на протяжении тысячи лет, — завершая мусульманское завоевание побережья Северной Африки и навсегда уничтожая Византийскую власть в Африке. Падение Карфагена — цивилизационный рубеж: последний город классического западного Средиземноморья вне Константинополя и Рима переходит от христианского к мусульманскому правлению.\n\nС установлением контроля над Северной Африкой Гибралтарский пролив становится следующим рубежом: лишь узкий морской канал отделяет Умайядский халифат от Вестготского королевства Испании.",
+      "era": "AD",
+      "latitude": 36.8539,
+      "longitude": 10.3241,
+      "name": "Carthage Falls — Byzantine Africa Ends",
+      "name_ru": "Падение Карфагена — конец Византийской Африки",
+      "source": "https://en.wikipedia.org/wiki/Muslim_conquest_of_the_Maghreb",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Byzantine",
+        "Conquest",
+        "War",
+        "Battle",
+        "Umayyad Caliphate"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0705",
+      "description": "Al-Walid ibn Abd al-Malik, the sixth Umayyad Caliph, begins the demolition of the existing church-mosque hybrid structure of the Mosque of the Prophet in Medina and the Church of St. John the Baptist in Damascus to build two of the greatest mosques of the medieval world. The Great Mosque of Damascus — completed in 715 — is built with Byzantine craftsmen and materials, its interior covered with the largest mosaic programme in history: 4,000 square metres of gilded glass and coloured stone depicting paradise gardens, riverscapes, and Damascene architecture, with no human or animal figures. It will influence mosque architecture for a thousand years.\n\nAl-Walid's reign (705–715) is widely regarded as the Umayyad golden age: the frontiers are expanded simultaneously in Spain, Central Asia, and the Indus Valley; a vast road network with rest-houses (khans) is built; and the administration reaches its peak of efficiency. This is the caliphate at its largest territorial extent and cultural confidence.",
+      "description_ru": "Аль-Валид ибн Абд аль-Малик, шестой умайядский халиф, приступает к строительству двух величайших мечетей средневекового мира — в Дамаске и Медине. Большая мечеть Дамаска, завершённая в 715 году, возводится Византийскими мастерами и из Византийских материалов; её интерьер украшен крупнейшей мозаичной программой в истории — 4000 квадратных метров золочёного стекла и цветного камня, изображающих райские сады и дамасские пейзажи без единой человеческой или животной фигуры. Она будет влиять на архитектуру мечетей тысячу лет.\n\nПравление аль-Валида (705–715) широко считается золотым веком Умайядского халифата: границы одновременно расширяются в Испании, Средней Азии и долине Инда; строится обширная дорожная сеть с постоялыми дворами.",
+      "era": "AD",
+      "latitude": 33.5116,
+      "longitude": 36.3064,
+      "name": "Al-Walid I Builds the Great Mosque of Damascus",
+      "name_ru": "Аль-Валид I строит Большую мечеть Дамаска",
+      "source": "https://en.wikipedia.org/wiki/Umayyad_Mosque",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Architecture",
+        "Religious",
+        "Culture",
+        "Holy Site",
+        "Umayyad Caliphate"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0711",
+      "description": "Muhammad ibn Qasim, a teenage Umayyad general, leads an army of six thousand Arab and Syrian troops and six thousand camels through Makran along the desert coast of modern Pakistan to the Indus Delta, where he defeats Dahir, the Hindu raja of Sindh, at the Battle of the Indus, killing him and taking his capital Debal (near modern Karachi). Within two years, Ibn Qasim conquers the entire Sindh and parts of southern Punjab, reaching Multan — the northernmost point of Umayyad expansion in the subcontinent.\n\nThe conquest of Sindh is the beginning of Islam in South Asia: it introduces Arabic administration, coinage, and merchants to the subcontinent, establishes the first Muslim communities in what is now Pakistan, and begins the centuries-long process of Islamisation that will eventually produce the largest Muslim population of any region in the world. Ibn Qasim's relatively tolerant treatment of the Hindu and Buddhist population — granting them dhimmi status and allowing their temples and practices to continue — sets an early precedent for Muslim governance in the subcontinent.",
+      "description_ru": "Мухаммад ибн Касим, юный умайядский полководец, ведёт армию из шести тысяч арабских и сирийских солдат через Макран вдоль пустынного побережья современного Пакистана к дельте Инда, где побеждает Дахира, индуистского раджу Синда, убивая его и захватывая его столицу Дайбул (близ современного Карачи). Менее чем за два года Ибн Касим завоёвывает весь Синд и части Южного Пенджаба, достигая Мултана.\n\nЗавоевание Синда — начало ислама в Южной Азии: оно вводит арабское управление, монеты и торговцев на субконтинент, основывает первые мусульманские общины на территории современного Пакистана и начинает многовековой процесс исламизации, который в конечном счёте породит крупнейшее мусульманское население любого региона мира.",
+      "era": "AD",
+      "latitude": 24.8607,
+      "longitude": 67.0104,
+      "name": "Arab Conquest of Sindh — Islam Reaches South Asia",
+      "name_ru": "Арабское завоевание Синда — ислам достигает Южной Азии",
+      "source": "https://en.wikipedia.org/wiki/Muhammad_bin_Qasim",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Conquest",
+        "War",
+        "Battle",
+        "Foundation",
+        "Umayyad Caliphate"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "19.07.0711",
+      "description": "Tariq ibn Ziyad, a Berber general serving the Umayyad governor of North Africa Musa ibn Nusayr, crosses the Strait of Gibraltar with seven thousand troops — mostly Berber converts to Islam — lands beneath the great rock that will bear his name (Jabal Tariq, Gibraltar) and defeats the Visigothic King Roderic at the Battle of Guadalete. Roderic is killed in the battle; the Visigothic kingdom, weakened by internal dynastic disputes and aristocratic defection, collapses with startling speed. Within three years, Tariq and the reinforcements brought by Musa ibn Nusayr conquer virtually the entire Iberian Peninsula, reaching the Pyrenees.\n\nThe conquest of Hispania — known to Arabs as al-Andalus — is one of the most rapid and consequential conquests in world history. A peninsula that had been Christian for three hundred years becomes Muslim within a decade. Al-Andalus will remain partly or wholly under Muslim rule for 781 years, producing a civilisation of extraordinary intellectual and artistic achievement — Averroes, Maimonides, and the Alhambra all emerge from the Muslim Iberia that Tariq's crossing inaugurates.",
+      "description_ru": "Тарик ибн Зийад, берберский полководец на службе умайядского наместника Северной Африки Мусы ибн Нусайра, переправляется через Гибралтарский пролив с семью тысячами войск — преимущественно берберских новообращённых мусульман — высаживается у великой скалы, которая будет носить его имя (Джабаль Тарик, Гибралтар), и разбивает вестготского короля Родерика в битве при Гвадалете. Родерик погибает в битве; Вестготское королевство, ослабленное внутренними династическими распрями и дефекцией аристократии, рушится с поразительной быстротой. Менее чем за три года Тарик и подкрепления Мусы ибн Нусайра завоёвывают практически весь Иберийский полуостров.\n\nАль-Андалус будет оставаться частично или полностью под мусульманским управлением 781 год, породив цивилизацию выдающихся интеллектуальных и художественных достижений.",
+      "era": "AD",
+      "latitude": 36.1408,
+      "longitude": -5.3536,
+      "name": "Tariq ibn Ziyad Crosses into Spain — Conquest of Al-Andalus",
+      "name_ru": "Тарик ибн Зийад переходит в Испанию — завоевание Аль-Андалуса",
+      "source": "https://en.wikipedia.org/wiki/Umayyad_conquest_of_Hispania",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Conquest",
+        "War",
+        "Battle",
+        "Foundation",
+        "Umayyad Caliphate"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0712",
+      "description": "Qutayba ibn Muslim, the Umayyad governor of Khorasan, completes the conquest of Transoxiana — the region beyond the Oxus River (modern Amu Darya) encompassing modern Uzbekistan, Tajikistan, and parts of Kazakhstan — capturing the great Silk Road cities of Bukhara and Samarkand. These are among the wealthiest and most cultured cities in the world: Samarkand is an ancient crossroads of Chinese, Indian, Persian, and Hellenistic civilisations, and Bukhara a major centre of Zoroastrian learning and trade.\n\nThe conquest of Transoxiana brings the Umayyad Caliphate into direct contact — and eventually military confrontation — with the Tang Dynasty of China. At the Battle of Talas in 751, an Arab-Tibetan coalition will defeat a Tang army, fixing the western boundary of Chinese imperial power and preserving the Islamisation of Central Asia. The region Qutayba conquers will later produce some of the greatest scholars of the Islamic golden age: al-Bukhari, Ibn Sina (Avicenna), and al-Biruni all come from this Transoxianan world.",
+      "description_ru": "Кутайба ибн Муслим, умайядский наместник Хорасана, завершает завоевание Трансоксианы — области за Амударьёй, охватывающей современный Узбекистан, Таджикистан и части Казахстана, — захватывая великие города Шёлкового пути Бухару и Самарканд. Это одни из богатейших и наиболее культурных городов мира: Самарканд — древний перекрёсток китайской, индийской, персидской и эллинистической цивилизаций.\n\nЗавоевание Трансоксианы ставит Умайядский халифат в прямой контакт с династией Тан Китая. Регион, завоёванный Кутайбой, позднее породит великих учёных исламского золотого века: аль-Бухари, Ибн Сину (Авиценну) и аль-Бируни.",
+      "era": "AD",
+      "latitude": 39.6542,
+      "longitude": 66.9597,
+      "name": "Arab Conquest of Samarkand and Bukhara",
+      "name_ru": "Арабское завоевание Самарканда и Бухары",
+      "source": "https://en.wikipedia.org/wiki/Qutayba_ibn_Muslim",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Conquest",
+        "War",
+        "Umayyad Caliphate"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "15.08.0717",
+      "description": "The Umayyad Caliph Sulayman ibn Abd al-Malik launches the largest Arab military operation ever assembled against Constantinople: a land army reportedly of eighty thousand under his brother Maslama besieges the city from the European side, while a fleet of over a thousand ships closes the Bosphorus and Sea of Marmara. The siege lasts one year. Byzantine Emperor Leo III holds the Theodosian Walls; the Greek Fire destroys the Arab fleet a second time; a Bulgarian relief army attacks the Arab rear; and a catastrophic winter kills much of the Arab land force. In August 718, the surviving Arab forces withdraw — having lost the majority of their army and almost their entire fleet.\n\nThe failed Second Arab Siege of Constantinople is one of the decisive battles of world history: it ensures Byzantine survival for another seven centuries, prevents Islam from overwhelming Eastern Europe, and allows the Frankish kingdoms of Western Europe to develop behind the shield of Byzantine resistance. Many historians argue it is as consequential as any battle of the medieval period. Within the caliphate, the enormous losses accelerate the fiscal and political strain that will eventually enable the Abbasid revolution.",
+      "description_ru": "Умайядский халиф Сулейман ибн Абд аль-Малик начинает крупнейшую арабскую военную операцию против Константинополя: сухопутная армия численностью предположительно восемьдесят тысяч человек под командованием его брата Масламы осаждает город с европейской стороны, пока флот из более тысячи кораблей блокирует Босфор. Осада длится год. Греческий огонь вторично уничтожает арабский флот; болгарская армия атакует арабский тыл; катастрофическая зима выкашивает большую часть арабских сухопутных сил.\n\nПровальная Вторая арабская осада Константинополя — одно из решающих сражений мировой истории: она обеспечивает выживание Byzantine на ещё семь столетий и предотвращает исламское поглощение Восточной Европы.",
+      "era": "AD",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "name": "Second Arab Siege of Constantinople Fails",
+      "name_ru": "Вторая арабская осада Константинополя терпит поражение",
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Constantinople_(717%E2%80%93718)",
+      "tags": [
+        "Arabian",
+        "Byzantine",
+        "Islamic",
+        "Siege",
+        "War",
+        "Naval",
+        "Battle",
+        "Umayyad Caliphate"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0717",
+      "description": "Umar ibn Abd al-Aziz — known to history as Umar II — becomes the eighth Umayyad Caliph and immediately begins an extraordinary experiment in Islamic governance: a comprehensive attempt to run the caliphate according to strict Islamic principles rather than Umayyad dynastic interest. He reduces his own salary to that of a common soldier, forbids the practice of cursing Ali ibn Abi Talib in Friday sermons (a custom established by Muawiyah as a political humiliation of the Alid faction), abolishes discriminatory taxes on non-Arab converts (mawali) who had been required to continue paying the jizya after converting to Islam, and launches a programme of governance reform intended to make the caliphate resemble the Rashidun ideal.\n\nUmar II reigns for only two and a half years before dying (poisoned, some traditions say, by Umayyad relatives whose privileges he threatened), but he becomes the only Umayyad Caliph universally venerated by both Sunni and Shia Muslims as an example of righteous rule — the single Umayyad whose legitimacy none questioned.",
+      "description_ru": "Умар ибн Абд аль-Азиз — известный в истории как Умар II — становится восьмым умайядским халифом и немедленно начинает необычный эксперимент: всестороннюю попытку управлять халифатом согласно строгим исламским принципам, а не умайядским династическим интересам. Он сокращает собственное жалованье до уровня рядового солдата, запрещает практику проклятия Али ибн Абу Талиба в пятничных проповедях, отменяет дискриминационные налоги для неарабских новообращённых и начинает программу реформ.\n\nУмар II правит лишь два с половиной года — единственный умайядский халиф, всеобще почитаемый как суннитами, так и шиитами как образец праведного правления.",
+      "era": "AD",
+      "latitude": 33.5138,
+      "longitude": 36.2765,
+      "name": "Umar II — the Righteous Umayyad",
+      "name_ru": "Умар II — праведный халиф из Умайядов",
+      "source": "https://en.wikipedia.org/wiki/Umar_II",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Caliph",
+        "Reform",
+        "Political",
+        "Religious",
+        "Umayyad Caliphate"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "10.10.0732",
+      "description": "A large Umayyad army under Abd al-Rahman al-Ghafiqi, the governor of al-Andalus, crosses the Pyrenees and advances deep into the Frankish kingdom, sacking Bordeaux and reaching Tours — approximately 200 kilometres from Paris — before being met by the Frankish mayor of the palace Charles (later known as Martel, 'The Hammer') at an unidentified location between Tours and Poitiers. After six days of skirmishing, a full battle is joined; Abd al-Rahman is killed and the Arab-Berber army, though not routed, withdraws south of the Pyrenees and does not seriously attempt to invade Frankish territory again.\n\nThe Battle of Tours (or Poitiers) has generated enormous historical controversy about its true significance: Arab sources barely mention it; some modern historians argue the Arab force was a large raid rather than a conquest army; others regard it as a genuine turning point that saved Western Europe. What is not in dispute is its symbolic weight: it marks the northernmost penetration of Arab armies into Western Europe and the beginning of the long Frankish-Carolingian resistance that will eventually produce the Reconquista. Charles Martel's victory establishes the military and political credibility of the Carolingian dynasty.",
+      "description_ru": "Крупная умайядская армия под командованием Абд ар-Рахмана аль-Гафики, наместника Аль-Андалуса, пересекает Пиренеи и продвигается вглубь Франкского королевства, разграбив Бордо и достигнув Тура — примерно в 200 километрах от Парижа, — где её встречает Карл, майордом Франкского королевства (впоследствии прозванный Мартеллом, «Молотом»). После шести дней стычек даётся генеральное сражение; Абд ар-Рахман убит, и арабо-берберская армия отступает на юг от Пиренеев и более не делает серьёзных попыток вторгнуться на Франкскую территорию.\n\nБитва при Туре — спорная в историографии, но символически решающая: она отмечает самое северное проникновение арабских армий в Западную Европу и начало Каролингского сопротивления.",
+      "era": "AD",
+      "latitude": 46.9,
+      "longitude": 0.55,
+      "name": "The Battle of Tours Halts Arab Expansion into Europe",
+      "name_ru": "Битва при Туре останавливает арабскую экспансию в Европу",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Tours",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Battle",
+        "War",
+        "Umayyad Caliphate"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0740",
+      "description": "The later Umayyad caliphs face simultaneous crises from every direction: in North Africa, the Berber revolt of 740 — triggered by Arab discrimination against non-Arab Muslim converts who were denied equal shares of booty and forced to pay the jizya despite their conversion — destroys three Arab armies and reduces Umayyad control to coastal cities; in Iraq and Persia, the mawali (non-Arab converts) produce a deepening resentment of Arab supremacism within the caliphate; in Syria itself, tribal rivalries between the northern Qays and southern Yaman factions of the Arab garrison produce regular violence. The caliphate that Muawiyah had built on the formula of Arab tribal solidarity is dissolving because its own success — converting millions of non-Arabs to Islam — has undermined that solidarity by creating a vast class of Muslims who are equally devout but permanently excluded from the privileges of Arab birth.",
+      "description_ru": "Поздние умайядские халифы сталкиваются с одновременными кризисами со всех сторон: в Северной Африке берберское восстание 740 года — спровоцированное арабской дискриминацией неарабских мусульманских новообращённых, которым отказывали в равной доле военной добычи и заставляли платить джизью несмотря на принятие ислама, — уничтожает три арабские армии; в Ираке и Персии маула (неарабские новообращённые) питают нарастающую обиду на арабский супремасизм; в самой Сирии племенные распри между северными Кайсами и южными Йаманами производят регулярное насилие.\n\nХалифат, построенный Муавией на формуле арабской племенной солидарности, разрушается, потому что его собственный успех — обращение миллионов неарабов в ислам — подорвал эту солидарность.",
+      "era": "AD",
+      "latitude": 33.5138,
+      "longitude": 36.2765,
+      "name": "The Late Umayyad Crisis — Empire Under Strain",
+      "name_ru": "Кризис позднего Умайядского халифата",
+      "source": "https://en.wikipedia.org/wiki/Umayyad_Caliphate",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Crisis",
+        "Rebellion",
+        "Civil War",
+        "Political",
+        "Umayyad Caliphate"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0747",
+      "description": "Abu Muslim, a mysterious figure of possibly Persian origin, raises the black banners of revolt in Khorasan (modern Iran/Afghanistan border region) in the name of the 'House of the Prophet' — deliberately vague enough to attract Shia partisans of the Alid family, Sunni reformers disgusted with Umayyad corruption, and non-Arab Muslims resentful of Arab privilege. The movement that has been organising secretly in the Abbasid family's network for two decades now erupts into open war. Within two years, Abu Muslim's armies control Khorasan, Iraq falls, and the Umayyad Caliph Marwan II flees westward with Abu al-Abbas al-Saffah — the first Abbasid Caliph — proclaimed in Kufa.\n\nThe Abbasid Revolution is not merely a change of dynasty: it is a social revolution that transfers the centre of gravity of the Islamic world from the Arab tribal aristocracy of Syria to the Persian-influenced, cosmopolitan, multi-ethnic administrative class of Iraq and Khorasan. The revolution that promises equality for all Muslims regardless of ethnic origin inaugurates the Islamic Golden Age — centred on Baghdad, which the Abbasids build from scratch — but it also drowns the Umayyads in blood.",
+      "description_ru": "Абу Муслим, загадочная фигура предположительно персидского происхождения, поднимает чёрные знамёна восстания в Хорасане от имени «Дома Пророка» — намеренно расплывчатый лозунг, привлекающий шиитских сторонников Алидов, суннитских реформаторов, возмущённых умайядской коррупцией, и неарабских мусульман, обиженных арабскими привилегиями. Менее чем за два года армии Абу Муслима контролируют Хорасан, Ирак падёт, и умайядский халиф Марван II бежит на запад.\n\nАббасидская революция — не просто смена династии: это социальная революция, переносящая центр тяжести исламского мира от арабской племенной аристократии Сирии к персидско-ориентированному, космополитическому, многоэтническому административному классу Ирака и Хорасана.",
+      "era": "AD",
+      "latitude": 36.28,
+      "longitude": 59.61,
+      "name": "The Abbasid Revolution Begins in Khorasan",
+      "name_ru": "Аббасидская революция начинается в Хорасане",
+      "source": "https://en.wikipedia.org/wiki/Abbasid_Revolution",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Rebellion",
+        "Civil War",
+        "Revolution",
+        "Political",
+        "Umayyad Caliphate"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "25.01.0750",
+      "description": "The last Umayyad Caliph, Marwan II — an experienced general who had held the crumbling empire together through a decade of civil war — makes his final stand against the Abbasid armies at the Battle of the Great Zab River in northern Iraq. Despite his military reputation, his army is outgeneralled and destroyed; Marwan flees to Egypt, where he is hunted down and killed in August 750 at a church in the Nile Delta village of Busir, his head and royal insignia sent to the new Abbasid Caliph al-Saffah in Kufa.\n\nThe Umayyad Caliphate ceases to exist after 89 years of rule over the largest contiguous empire in world history at the time of its maximum extent. The new Abbasid dynasty consolidates power through a systematic massacre of the Umayyad family: princes are hunted down across the empire, killed, and buried — in some accounts beneath a banquet table where the Abbasid leadership celebrated over their still-living bodies. Only one Umayyad prince escapes the massacre.",
+      "description_ru": "Последний умайядский халиф Марван II — опытный полководец, удерживавший разваливающуюся империю десять лет гражданской войны — принимает последний бой против аббасидских армий при реке Большой Заб в северном Ираке. Его армия разбита; Марван бежит в Египет, где пойман и убит в августе 750 года — его голова и королевские регалии отправляются новому аббасидскому халифу аль-Саффаху в Куфу.\n\nУмайядский халифат прекращает существование после 89 лет правления над крупнейшей единой империей своего времени. Новая Аббасидская династия закрепляет власть систематической резнёй умайядской семьи: принцев разыскивают по всей империи и убивают. Лишь один умайядский принц спасается.",
+      "era": "AD",
+      "latitude": 36.85,
+      "longitude": 43.25,
+      "name": "Battle of the Zab — Fall of the Umayyad Caliphate",
+      "name_ru": "Битва при Забе — падение Умайядского халифата",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_the_Zab",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Battle",
+        "War",
+        "Civil War",
+        "Death",
+        "Caliph",
+        "Umayyad Caliphate"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "15.05.0756",
+      "description": "Abd al-Rahman ibn Muawiyah, a grandson of Caliph Hisham who survived the Abbasid massacre by swimming the Euphrates while Abbasid soldiers killed his younger brother on the opposite bank, spends five years as a fugitive crossing North Africa, gathering Berber and Umayyad loyalist support, before crossing into Spain in 755 and defeating the Abbasid-aligned governor Yusuf ibn Abd al-Rahman al-Fihri at the Battle of the Almanzora River. He enters Córdoba and declares himself Emir of al-Andalus — not Caliph, deliberately avoiding the title to prevent direct confrontation with the Abbasid empire.\n\nAbd al-Rahman I's emirate at Córdoba becomes one of the most remarkable political resurrections in history. The Umayyad dynasty, annihilated in the east, survives in the west and eventually flourishes: his descendants will rule al-Andalus for nearly 250 more years, declare a rival caliphate in 929, and preside over a civilisation that produces the Great Mosque of Córdoba, the palace-city of Medina Azahara, and the intellectual culture that transmits Greek philosophy back to a Europe that had forgotten it — making Córdoba, for a moment in the tenth century, the most sophisticated city in the western world.",
+      "description_ru": "Абд ар-Рахман ибн Муавия, внук халифа Хишама, переживший аббасидскую резню, пять лет скитается по Северной Африке, собирая берберских и умайядских сторонников, затем переправляется в Испанию в 755 году и побеждает аббасидски ориентированного наместника Юсуфа ибн Абд ар-Рахмана аль-Фихри. Он входит в Кордову и провозглашает себя эмиром Аль-Андалуса — не халифом, намеренно избегая этого титула, чтобы не провоцировать прямую конфронтацию с Аббасидской империей.\n\nЭмират Абд ар-Рахмана I в Кордове становится одним из самых замечательных политических возрождений в истории. Умайядская династия, уничтоженная на востоке, выживает на западе: его потомки будут править Аль-Андалусом ещё почти 250 лет и создадут цивилизацию, породившую Великую мечеть Кордовы и культуру, передавшую греческую философию забывшей её Европе.",
+      "era": "AD",
+      "latitude": 37.8882,
+      "longitude": -4.7794,
+      "name": "Abd al-Rahman I Establishes the Umayyad Emirate of Córdoba",
+      "name_ru": "Абд ар-Рахман I основывает Умайядский эмират Кордовы",
+      "source": "https://en.wikipedia.org/wiki/Abd_al-Rahman_I",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Foundation",
+        "Dynasty",
+        "Political",
+        "Umayyad Caliphate"
+      ],
+      "type": "political"
+    }
+  ]
+}
