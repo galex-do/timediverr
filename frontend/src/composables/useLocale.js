@@ -248,9 +248,11 @@ const UI_TRANSLATIONS = {
     
     // Related Events
     aroundSameTime: 'Around the same time',
-    sameTimeAndRegion: 'Same time and region',
+    samePlace: 'Same place',
     nearByKind: 'Near by kind',
     refreshRelated: 'Refresh',
+    expandRelated: 'Show more',
+    collapseRelated: 'Show less',
     
     // Datasets Table
     columnFilename: 'Filename',
@@ -583,9 +585,11 @@ const UI_TRANSLATIONS = {
     
     // Related Events
     aroundSameTime: 'Примерно в то же время',
-    sameTimeAndRegion: 'То же время и регион',
+    samePlace: 'То же место',
     nearByKind: 'Похожие события',
     refreshRelated: 'Обновить',
+    expandRelated: 'Показать больше',
+    collapseRelated: 'Скрыть',
     
     // Datasets Table
     columnFilename: 'Имя файла',

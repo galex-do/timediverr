@@ -2,7 +2,7 @@ import { ref, watch } from 'vue'
 
 const YEARS_RANGE = 3
 const DISTANCE_KM = 100
-const MAX_RESULTS = 3
+const MAX_RESULTS = 10
 
 const getDistanceKm = (lat1, lon1, lat2, lon2) => {
   const R = 6371
@@ -53,12 +53,6 @@ const shuffleArray = (array) => {
   return result
 }
 
-const hasSharedTag = (event1, event2) => {
-  if (!event1.tags?.length || !event2.tags?.length) return false
-  const tagIds1 = new Set(event1.tags.map(t => t.id))
-  return event2.tags.some(t => tagIds1.has(t.id))
-}
-
 const countSharedTags = (event1, event2) => {
   if (!event1.tags?.length || !event2.tags?.length) return 0
   const tagIds1 = new Set(event1.tags.map(t => t.id))
@@ -73,16 +67,22 @@ const sortByDate = (events) => {
   })
 }
 
+const sortByProximity = (events, current) => {
+  return [...events].sort((a, b) => {
+    return getTimeDifferenceYears(current, a) - getTimeDifferenceYears(current, b)
+  })
+}
+
 export function useRelatedEvents(currentEvent, allEvents) {
   const aroundSameTime = ref([])
-  const sameTimeRegion = ref([])
+  const samePlace = ref([])
   const nearByKind = ref([])
   const isComputed = ref(false)
 
   const computeRelatedEvents = () => {
     if (!currentEvent.value?.id || !allEvents.value?.length) {
       aroundSameTime.value = []
-      sameTimeRegion.value = []
+      samePlace.value = []
       nearByKind.value = []
       isComputed.value = false
       return
@@ -92,31 +92,29 @@ export function useRelatedEvents(currentEvent, allEvents) {
     const currentLat = parseFloat(current.latitude)
     const currentLon = parseFloat(current.longitude)
     const currentId = String(current.id)
-    
-    // Track used IDs to prevent duplicates, starting with current event
-    const usedIds = new Set([currentId])
-    
-    const candidates = allEvents.value.filter(e => {
-      const eventId = String(e.id)
-      // Skip current event and already seen events
-      if (usedIds.has(eventId)) return false
-      const yearDiff = getTimeDifferenceYears(current, e)
-      return yearDiff <= YEARS_RANGE
-    })
 
-    const regionCandidates = candidates.filter(e => {
+    const usedIds = new Set([currentId])
+
+    const placeCandidates = allEvents.value.filter(e => {
+      const eventId = String(e.id)
+      if (usedIds.has(eventId)) return false
       const lat = parseFloat(e.latitude)
       const lon = parseFloat(e.longitude)
       if (isNaN(lat) || isNaN(lon) || isNaN(currentLat) || isNaN(currentLon)) return false
       const distance = getDistanceKm(currentLat, currentLon, lat, lon)
       return distance <= DISTANCE_KM
     })
-    
-    const shuffledRegion = shuffleArray(regionCandidates).slice(0, MAX_RESULTS)
-    sameTimeRegion.value = sortByDate(shuffledRegion)
-    shuffledRegion.forEach(e => usedIds.add(String(e.id)))
 
-    const timeCandidates = candidates.filter(e => !usedIds.has(String(e.id)))
+    const sortedPlace = sortByProximity(placeCandidates, current).slice(0, MAX_RESULTS)
+    samePlace.value = sortedPlace
+    sortedPlace.forEach(e => usedIds.add(String(e.id)))
+
+    const timeCandidates = allEvents.value.filter(e => {
+      const eventId = String(e.id)
+      if (usedIds.has(eventId)) return false
+      const yearDiff = getTimeDifferenceYears(current, e)
+      return yearDiff <= YEARS_RANGE
+    })
     const shuffledTime = shuffleArray(timeCandidates).slice(0, MAX_RESULTS)
     aroundSameTime.value = sortByDate(shuffledTime)
     shuffledTime.forEach(e => usedIds.add(String(e.id)))
@@ -137,7 +135,7 @@ export function useRelatedEvents(currentEvent, allEvents) {
       })
       .slice(0, MAX_RESULTS)
       .map(item => item.event)
-    
+
     nearByKind.value = sortByDate(tagCandidates)
 
     isComputed.value = true
@@ -153,7 +151,7 @@ export function useRelatedEvents(currentEvent, allEvents) {
 
   return {
     aroundSameTime,
-    sameTimeRegion,
+    samePlace,
     nearByKind,
     isComputed,
     refresh

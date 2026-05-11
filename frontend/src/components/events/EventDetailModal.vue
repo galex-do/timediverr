@@ -31,15 +31,21 @@
         </div>
 
         <div v-if="hasRelatedEvents" class="related_events_section">
-          <div v-if="sameTimeRegion.length > 0" class="related_category">
+          <div v-if="samePlace.length > 0" class="related_category">
             <div class="related_category_header">
               <span class="related_icon">📍</span>
-              <span class="related_title">{{ t('sameTimeAndRegion') }}</span>
+              <span class="related_title">{{ t('samePlace') }}</span>
               <button class="refresh_related_btn" @click="refreshRelated" :title="t('refreshRelated')">↻</button>
+              <button
+                v-if="samePlace.length > collapsedLimit"
+                class="refresh_related_btn expand_related_btn"
+                @click="toggleSection('samePlace')"
+                :title="expandedSections.samePlace ? t('collapseRelated') : t('expandRelated')"
+              >{{ expandedSections.samePlace ? '−' : '⋯' }}</button>
             </div>
             <div class="related_list">
-              <div 
-                v-for="relEvent in sameTimeRegion" 
+              <div
+                v-for="relEvent in visibleSamePlace"
                 :key="relEvent.id"
                 class="related_item"
               >
@@ -55,10 +61,16 @@
               <span class="related_icon">🗓️</span>
               <span class="related_title">{{ t('aroundSameTime') }}</span>
               <button class="refresh_related_btn" @click="refreshRelated" :title="t('refreshRelated')">↻</button>
+              <button
+                v-if="aroundSameTime.length > collapsedLimit"
+                class="refresh_related_btn expand_related_btn"
+                @click="toggleSection('aroundSameTime')"
+                :title="expandedSections.aroundSameTime ? t('collapseRelated') : t('expandRelated')"
+              >{{ expandedSections.aroundSameTime ? '−' : '⋯' }}</button>
             </div>
             <div class="related_list">
-              <div 
-                v-for="relEvent in aroundSameTime" 
+              <div
+                v-for="relEvent in visibleAroundSameTime"
                 :key="relEvent.id"
                 class="related_item"
               >
@@ -74,10 +86,16 @@
               <span class="related_icon">🏷️</span>
               <span class="related_title">{{ t('nearByKind') }}</span>
               <button class="refresh_related_btn" @click="refreshRelated" :title="t('refreshRelated')">↻</button>
+              <button
+                v-if="nearByKind.length > collapsedLimit"
+                class="refresh_related_btn expand_related_btn"
+                @click="toggleSection('nearByKind')"
+                :title="expandedSections.nearByKind ? t('collapseRelated') : t('expandRelated')"
+              >{{ expandedSections.nearByKind ? '−' : '⋯' }}</button>
             </div>
             <div class="related_list">
-              <div 
-                v-for="relEvent in nearByKind" 
+              <div
+                v-for="relEvent in visibleNearByKind"
                 :key="relEvent.id"
                 class="related_item"
               >
@@ -165,11 +183,39 @@ export default {
     const eventRef = toRef(props, 'event')
     const allEventsRef = toRef(props, 'allEvents')
 
-    const { aroundSameTime, sameTimeRegion, nearByKind, refresh: refreshRelated } = useRelatedEvents(eventRef, allEventsRef)
+    const { aroundSameTime, samePlace, nearByKind, refresh: refreshRelatedRaw } = useRelatedEvents(eventRef, allEventsRef)
+
+    const COLLAPSED_LIMIT = 3
+    const collapsedLimit = COLLAPSED_LIMIT
+
+    const expandedSections = ref({
+      samePlace: false,
+      aroundSameTime: false,
+      nearByKind: false
+    })
+
+    const toggleSection = (key) => {
+      expandedSections.value[key] = !expandedSections.value[key]
+    }
+
+    const limitFor = (key) => expandedSections.value[key] ? Infinity : COLLAPSED_LIMIT
+
+    const visibleSamePlace = computed(() => samePlace.value.slice(0, limitFor('samePlace')))
+    const visibleAroundSameTime = computed(() => aroundSameTime.value.slice(0, limitFor('aroundSameTime')))
+    const visibleNearByKind = computed(() => nearByKind.value.slice(0, limitFor('nearByKind')))
+
+    const refreshRelated = () => {
+      expandedSections.value = { samePlace: false, aroundSameTime: false, nearByKind: false }
+      refreshRelatedRaw()
+    }
+
+    watch(() => props.event?.id, () => {
+      expandedSections.value = { samePlace: false, aroundSameTime: false, nearByKind: false }
+    })
 
     const hasRelatedEvents = computed(() => {
-      return aroundSameTime.value.length > 0 || 
-             sameTimeRegion.value.length > 0 || 
+      return aroundSameTime.value.length > 0 ||
+             samePlace.value.length > 0 ||
              nearByKind.value.length > 0
     })
 
@@ -242,8 +288,14 @@ export default {
       handleEditEvent,
       handleBack,
       aroundSameTime,
-      sameTimeRegion,
+      samePlace,
       nearByKind,
+      visibleSamePlace,
+      visibleAroundSameTime,
+      visibleNearByKind,
+      expandedSections,
+      collapsedLimit,
+      toggleSection,
       hasRelatedEvents,
       refreshRelated
     }
@@ -390,6 +442,12 @@ export default {
 
 .refresh_related_btn:hover {
   color: #4f46e5;
+}
+
+.expand_related_btn {
+  font-size: 1rem;
+  margin-left: 0.125rem;
+  letter-spacing: 0.05em;
 }
 
 .related_category {
