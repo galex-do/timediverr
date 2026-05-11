@@ -48,10 +48,19 @@
                 v-for="relEvent in visibleSamePlace"
                 :key="relEvent.id"
                 class="related_item"
+                :class="{ related_item_current: relEvent.id === event.id }"
               >
-                <span class="related_date">{{ formatEventDisplayDate(relEvent.event_date, relEvent.era) }}</span>
+                <span class="related_date">{{ relEvent.id === event.id ? '*' : formatEventDisplayDate(relEvent.event_date, relEvent.era) }}</span>
                 <span class="related_separator">—</span>
-                <span class="related_name" @click="handleRelatedClick(relEvent)">{{ relEvent.name }}</span>
+                <span
+                  v-if="relEvent.id === event.id"
+                  class="related_name_current"
+                >{{ relEvent.name }}</span>
+                <span
+                  v-else
+                  class="related_name"
+                  @click="handleRelatedClick(relEvent)"
+                >{{ relEvent.name }}</span>
               </div>
             </div>
           </div>
@@ -73,10 +82,19 @@
                 v-for="relEvent in visibleAroundSameTime"
                 :key="relEvent.id"
                 class="related_item"
+                :class="{ related_item_current: relEvent.id === event.id }"
               >
-                <span class="related_date">{{ formatEventDisplayDate(relEvent.event_date, relEvent.era) }}</span>
+                <span class="related_date">{{ relEvent.id === event.id ? '*' : formatEventDisplayDate(relEvent.event_date, relEvent.era) }}</span>
                 <span class="related_separator">—</span>
-                <span class="related_name" @click="handleRelatedClick(relEvent)">{{ relEvent.name }}</span>
+                <span
+                  v-if="relEvent.id === event.id"
+                  class="related_name_current"
+                >{{ relEvent.name }}</span>
+                <span
+                  v-else
+                  class="related_name"
+                  @click="handleRelatedClick(relEvent)"
+                >{{ relEvent.name }}</span>
               </div>
             </div>
           </div>
@@ -98,10 +116,19 @@
                 v-for="relEvent in visibleNearByKind"
                 :key="relEvent.id"
                 class="related_item"
+                :class="{ related_item_current: relEvent.id === event.id }"
               >
-                <span class="related_date">{{ formatEventDisplayDate(relEvent.event_date, relEvent.era) }}</span>
+                <span class="related_date">{{ relEvent.id === event.id ? '*' : formatEventDisplayDate(relEvent.event_date, relEvent.era) }}</span>
                 <span class="related_separator">—</span>
-                <span class="related_name" @click="handleRelatedClick(relEvent)">{{ relEvent.name }}</span>
+                <span
+                  v-if="relEvent.id === event.id"
+                  class="related_name_current"
+                >{{ relEvent.name }}</span>
+                <span
+                  v-else
+                  class="related_name"
+                  @click="handleRelatedClick(relEvent)"
+                >{{ relEvent.name }}</span>
               </div>
             </div>
           </div>
@@ -149,7 +176,7 @@
 <script>
 import { watch, ref, computed, toRef, onMounted, onUnmounted } from 'vue'
 import { useLocale } from '@/composables/useLocale.js'
-import { useRelatedEvents } from '@/composables/useRelatedEvents.js'
+import { useRelatedEvents, getChronologicalValue } from '@/composables/useRelatedEvents.js'
 import { useAuth } from '@/composables/useAuth.js'
 import { getEventEmoji } from '@/utils/event-utils.js'
 import { getContrastColor, getTagStyle } from '@/utils/color-utils.js'
@@ -200,9 +227,18 @@ export default {
 
     const limitFor = (key) => expandedSections.value[key] ? Infinity : COLLAPSED_LIMIT
 
-    const visibleSamePlace = computed(() => samePlace.value.slice(0, limitFor('samePlace')))
-    const visibleAroundSameTime = computed(() => aroundSameTime.value.slice(0, limitFor('aroundSameTime')))
-    const visibleNearByKind = computed(() => nearByKind.value.slice(0, limitFor('nearByKind')))
+    const buildVisible = (list, key) => {
+      const limited = list.slice(0, limitFor(key))
+      if (!expandedSections.value[key] || !props.event?.id) return limited
+      const merged = [...limited, props.event]
+      return merged.sort((a, b) => {
+        return getChronologicalValue(a.event_date, a.era) - getChronologicalValue(b.event_date, b.era)
+      })
+    }
+
+    const visibleSamePlace = computed(() => buildVisible(samePlace.value, 'samePlace'))
+    const visibleAroundSameTime = computed(() => buildVisible(aroundSameTime.value, 'aroundSameTime'))
+    const visibleNearByKind = computed(() => buildVisible(nearByKind.value, 'nearByKind'))
 
     const refreshRelated = () => {
       expandedSections.value = { samePlace: false, aroundSameTime: false, nearByKind: false }
@@ -514,6 +550,17 @@ export default {
 
 .related_name:hover {
   text-decoration: underline;
+}
+
+.related_item_current .related_date {
+  color: #4f46e5;
+  font-weight: 700;
+}
+
+.related_name_current {
+  color: #475569;
+  font-weight: 600;
+  word-break: break-word;
 }
 
 .event_detail_footer {

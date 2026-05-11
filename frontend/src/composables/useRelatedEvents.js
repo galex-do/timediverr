@@ -16,7 +16,7 @@ const getDistanceKm = (lat1, lon1, lat2, lon2) => {
   return R * c
 }
 
-const getChronologicalValue = (dateString, era) => {
+export const getChronologicalValue = (dateString, era) => {
   let year, month, day
   
   if (dateString.startsWith('-')) {
