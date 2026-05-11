@@ -250,7 +250,7 @@ const UI_TRANSLATIONS = {
     // Related Events
     aroundSameTime: 'Around the same time',
     samePlace: 'Same place',
-    nearByKind: 'Near by kind',
+    nearByKind: 'Found by tags',
     refreshRelated: 'Refresh',
     expandRelated: 'Show more',
     collapseRelated: 'Show less',
@@ -588,7 +588,7 @@ const UI_TRANSLATIONS = {
     // Related Events
     aroundSameTime: 'Примерно в то же время',
     samePlace: 'То же место',
-    nearByKind: 'Похожие события',
+    nearByKind: 'Найдено по тегам',
     refreshRelated: 'Обновить',
     expandRelated: 'Показать больше',
     collapseRelated: 'Скрыть',
