@@ -853,7 +853,10 @@ export function useLocale() {
       const word = t('yearLabel')
       return locale.value === 'ru' ? `${year} ${word}` : `${word} ${year}`
     }
-    return formatEventDisplayDate(isoDateString, era)
+    if (isYearOnly) {
+      return formatEventDisplayDate(isoDateString, era)
+    }
+    return formatLocalizedDate(isoDateString, era)
   }
 
   // Smart formatter for inline event dates in map / timeline views.

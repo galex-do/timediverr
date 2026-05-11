@@ -49,7 +49,7 @@
                 class="related_item"
                 :class="{ related_item_current: relEvent.id === event.id }"
               >
-                <span class="related_date">{{ relEvent.id === event.id ? '*' : formatEventDisplayDate(relEvent.event_date, relEvent.era) }}</span>
+                <span class="related_date">{{ relEvent.id === event.id ? '*' : formatEventDisplaySmart(relEvent.event_date, relEvent.era) }}</span>
                 <span class="related_separator">—</span>
                 <span
                   v-if="relEvent.id === event.id"
@@ -82,7 +82,7 @@
                 class="related_item"
                 :class="{ related_item_current: relEvent.id === event.id }"
               >
-                <span class="related_date">{{ relEvent.id === event.id ? '*' : formatEventDisplayDate(relEvent.event_date, relEvent.era) }}</span>
+                <span class="related_date">{{ relEvent.id === event.id ? '*' : formatEventDisplaySmart(relEvent.event_date, relEvent.era) }}</span>
                 <span class="related_separator">—</span>
                 <span
                   v-if="relEvent.id === event.id"
@@ -115,7 +115,7 @@
                 class="related_item"
                 :class="{ related_item_current: relEvent.id === event.id }"
               >
-                <span class="related_date">{{ relEvent.id === event.id ? '*' : formatEventDisplayDate(relEvent.event_date, relEvent.era) }}</span>
+                <span class="related_date">{{ relEvent.id === event.id ? '*' : formatEventDisplaySmart(relEvent.event_date, relEvent.era) }}</span>
                 <span class="related_separator">—</span>
                 <span
                   v-if="relEvent.id === event.id"
@@ -200,7 +200,7 @@ export default {
   },
   emits: ['close', 'focus-event', 'tag-clicked', 'select-event', 'edit-event', 'back'],
   setup(props, { emit }) {
-    const { t, formatEventDisplayDate, formatEventDisplayDateLong } = useLocale()
+    const { t, formatEventDisplayDate, formatEventDisplayDateLong, formatEventDisplaySmart } = useLocale()
     const { canEditEvents } = useAuth()
     const previouslyFocusedElement = ref(null)
 
@@ -306,6 +306,7 @@ export default {
       t,
       formatEventDisplayDate,
       formatEventDisplayDateLong,
+      formatEventDisplaySmart,
       getEventEmoji,
       getContrastColor,
       getTagStyle,
