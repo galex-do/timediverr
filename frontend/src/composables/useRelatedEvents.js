@@ -44,15 +44,6 @@ const getTimeDifferenceYears = (event1, event2) => {
   return Math.abs(val1 - val2)
 }
 
-const shuffleArray = (array) => {
-  const result = [...array]
-  for (let i = result.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1))
-    ;[result[i], result[j]] = [result[j], result[i]]
-  }
-  return result
-}
-
 const countSharedTags = (event1, event2) => {
   if (!event1.tags?.length || !event2.tags?.length) return 0
   const tagIds1 = new Set(event1.tags.map(t => t.id))
@@ -115,9 +106,9 @@ export function useRelatedEvents(currentEvent, allEvents) {
       const yearDiff = getTimeDifferenceYears(current, e)
       return yearDiff <= YEARS_RANGE
     })
-    const shuffledTime = shuffleArray(timeCandidates).slice(0, MAX_RESULTS)
-    aroundSameTime.value = sortByDate(shuffledTime)
-    shuffledTime.forEach(e => usedIds.add(String(e.id)))
+    const sortedTime = sortByProximity(timeCandidates, current).slice(0, MAX_RESULTS)
+    aroundSameTime.value = sortByDate(sortedTime)
+    sortedTime.forEach(e => usedIds.add(String(e.id)))
 
     const tagCandidates = allEvents.value
       .filter(e => {
@@ -145,15 +136,10 @@ export function useRelatedEvents(currentEvent, allEvents) {
     computeRelatedEvents()
   }, { immediate: true, deep: false })
 
-  const refresh = () => {
-    computeRelatedEvents()
-  }
-
   return {
     aroundSameTime,
     samePlace,
     nearByKind,
-    isComputed,
-    refresh
+    isComputed
   }
 }

@@ -35,7 +35,6 @@
             <div class="related_category_header">
               <span class="related_icon">📍</span>
               <span class="related_title">{{ t('samePlace') }}</span>
-              <button class="refresh_related_btn" @click="refreshRelated" :title="t('refreshRelated')">↻</button>
               <button
                 v-if="samePlace.length > collapsedLimit"
                 class="refresh_related_btn expand_related_btn"
@@ -69,7 +68,6 @@
             <div class="related_category_header">
               <span class="related_icon">🗓️</span>
               <span class="related_title">{{ t('aroundSameTime') }}</span>
-              <button class="refresh_related_btn" @click="refreshRelated" :title="t('refreshRelated')">↻</button>
               <button
                 v-if="aroundSameTime.length > collapsedLimit"
                 class="refresh_related_btn expand_related_btn"
@@ -103,7 +101,6 @@
             <div class="related_category_header">
               <span class="related_icon">🏷️</span>
               <span class="related_title">{{ t('nearByKind') }}</span>
-              <button class="refresh_related_btn" @click="refreshRelated" :title="t('refreshRelated')">↻</button>
               <button
                 v-if="nearByKind.length > collapsedLimit"
                 class="refresh_related_btn expand_related_btn"
@@ -210,7 +207,7 @@ export default {
     const eventRef = toRef(props, 'event')
     const allEventsRef = toRef(props, 'allEvents')
 
-    const { aroundSameTime, samePlace, nearByKind, refresh: refreshRelatedRaw } = useRelatedEvents(eventRef, allEventsRef)
+    const { aroundSameTime, samePlace, nearByKind } = useRelatedEvents(eventRef, allEventsRef)
 
     const COLLAPSED_LIMIT = 3
     const collapsedLimit = COLLAPSED_LIMIT
@@ -239,11 +236,6 @@ export default {
     const visibleSamePlace = computed(() => buildVisible(samePlace.value, 'samePlace'))
     const visibleAroundSameTime = computed(() => buildVisible(aroundSameTime.value, 'aroundSameTime'))
     const visibleNearByKind = computed(() => buildVisible(nearByKind.value, 'nearByKind'))
-
-    const refreshRelated = () => {
-      expandedSections.value = { samePlace: false, aroundSameTime: false, nearByKind: false }
-      refreshRelatedRaw()
-    }
 
     watch(() => props.event?.id, () => {
       expandedSections.value = { samePlace: false, aroundSameTime: false, nearByKind: false }
@@ -333,8 +325,7 @@ export default {
       expandedSections,
       collapsedLimit,
       toggleSection,
-      hasRelatedEvents,
-      refreshRelated
+      hasRelatedEvents
     }
   }
 }
