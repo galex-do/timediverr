@@ -276,6 +276,7 @@ import apiService from '@/services/api.js'
 import authService from '@/services/authService.js'
 import { useEvents } from '@/composables/useEvents.js'
 import { useLocale } from '@/composables/useLocale.js'
+import { useTags } from '@/composables/useTags.js'
 import TablePagination from '@/components/TablePagination.vue'
 
 export default {
@@ -285,6 +286,7 @@ export default {
   },
   setup() {
     const { t } = useLocale()
+    const { refreshTags } = useTags()
     const datasets = ref([])
     const localLoading = ref(false)
     const localError = ref(null)
@@ -489,6 +491,7 @@ export default {
 
         await fetchDatasets()
         await fetchEvents()
+        await refreshTags()
 
         clearSelection()
 

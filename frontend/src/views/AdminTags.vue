@@ -335,7 +335,7 @@ export default {
   setup() {
     const router = useRouter()
     const { canAccessAdmin } = useAuth()
-    const { allTags, loadTags, createTag } = useTags()
+    const { allTags, loadTags, refreshTags, createTag } = useTags()
     const { events } = useEvents()
     const { t } = useLocale()
     
@@ -583,10 +583,11 @@ export default {
       showEmojiPicker.value = false
     }
 
-    // Load initial data
+    // Load initial data — always fetch fresh so tags created during a dataset
+    // import are visible immediately after navigating here.
     onMounted(async () => {
       try {
-        await loadTags()
+        await refreshTags()
       } catch (err) {
         console.error('Error loading tags:', err)
         localError.value = 'Failed to load tags'

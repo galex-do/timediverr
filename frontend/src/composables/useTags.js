@@ -4,39 +4,53 @@ import api from '../services/api.js'
 const allTags = ref([])
 const isLoadingTags = ref(false)
 const tagsError = ref(null)
+let _loadingPromise = null
 
 export function useTags() {
-  // Load all available tags
+  // Load all available tags.
+  // Concurrent calls share the same in-flight request so they all get the
+  // same fresh result rather than the second caller silently returning with
+  // stale data.
   const loadTags = async () => {
-    if (isLoadingTags.value) return
-    
-    isLoadingTags.value = true
-    tagsError.value = null
-    
-    try {
-      console.log('Loading tags from API...')
-      const response = await api.getTags()
-      
-      if (response) {
-        // Handle both direct array and wrapped data response formats
-        const tagsData = response.data || response
-        if (Array.isArray(tagsData)) {
-          allTags.value = tagsData
-          console.log(`Loaded ${tagsData.length} tags`)
+    if (_loadingPromise) return _loadingPromise
+
+    _loadingPromise = (async () => {
+      isLoadingTags.value = true
+      tagsError.value = null
+
+      try {
+        const response = await api.getTags()
+
+        if (response) {
+          const tagsData = response.data || response
+          if (Array.isArray(tagsData)) {
+            allTags.value = tagsData
+          } else {
+            console.error('Invalid tags response:', response)
+            tagsError.value = 'Invalid response format'
+          }
         } else {
           console.error('Invalid tags response:', response)
           tagsError.value = 'Invalid response format'
         }
-      } else {
-        console.error('Invalid tags response:', response)
-        tagsError.value = 'Invalid response format'
+      } catch (error) {
+        console.error('Error loading tags:', error)
+        tagsError.value = error.message || 'Failed to load tags'
+      } finally {
+        isLoadingTags.value = false
+        _loadingPromise = null
       }
-    } catch (error) {
-      console.error('Error loading tags:', error)
-      tagsError.value = error.message || 'Failed to load tags'
-    } finally {
-      isLoadingTags.value = false
-    }
+    })()
+
+    return _loadingPromise
+  }
+
+  // Force a fresh fetch regardless of any in-flight request.
+  // Use this after operations that create/delete tags (e.g. dataset import)
+  // to ensure the caller always sees up-to-date data.
+  const refreshTags = async () => {
+    _loadingPromise = null
+    return loadTags()
   }
 
   // Create a new tag
@@ -116,6 +130,7 @@ export function useTags() {
     
     // Actions
     loadTags,
+    refreshTags,
     createTag,
     updateTag,
     deleteTag,

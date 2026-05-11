@@ -666,6 +666,7 @@ func (h *EventHandler) ImportEvents(w http.ResponseWriter, r *http.Request) {
                                                 Name:        tagName,
                                                 Description: fmt.Sprintf("Auto-generated tag for %s", tagName),
                                                 Color:       h.generateRandomColor(),
+                                                Weight:      1,
                                         }
                                         
                                         createdTag, err := h.tagRepo.CreateTag(tag)

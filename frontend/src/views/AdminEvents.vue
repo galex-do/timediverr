@@ -222,7 +222,7 @@ export default {
   setup() {
     const route = useRoute()
     const { canAccessAdmin } = useAuth()
-    const { allTags, loadTags, createTag, setEventTags, getTagsByIds } = useTags()
+    const { allTags, loadTags, refreshTags, createTag, setEventTags, getTagsByIds } = useTags()
     const { events, fetchEvents, loading, error, handleEventDeleted } = useEvents()
     const { t, formatLocalizedDate } = useLocale()
     
