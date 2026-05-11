@@ -1,0 +1,381 @@
+{
+  "description": "Dataset imported with 18 events",
+  "events": [
+    {
+      "date": "19.08.0750",
+      "description": "Abu al-Abbas Abdullah ibn Muhammad al-Saffah ('the Blood-Shedder') is proclaimed Caliph of the Islamic world in the mosque of Kufa, ending the Umayyad dynasty and inaugurating the Abbasid. The new dynasty's legitimacy rests on descent from al-Abbas ibn Abd al-Muttalib, the Prophet's uncle — a claim considered superior to the Umayyads' connection through the Quraysh but not through the Prophet's immediate family. To eliminate the Umayyad threat permanently, Abbasid agents hunt down and kill surviving Umayyad princes across the empire; reports describe a banquet at which the Abbasid leadership dined over the still-living bodies of Umayyad princes buried beneath the carpets.\n\nThe Abbasid revolution changes the centre of gravity of the Islamic world irreversibly. Power shifts from Syrian Arab tribal aristocracy to a cosmopolitan coalition of Arab Islamists, Persian administrators, and Central Asian military men — all united by the promise that Islam, not Arab ethnicity, determines one's place in the caliphate. The capital will move to Iraq, the administrative language absorbs Persian bureaucratic traditions, and the intellectual culture of the new dynasty will draw on the entire heritage of the ancient world from Greek philosophy to Indian mathematics.",
+      "description_ru": "Абу аль-Аббас Абдаллах ибн Мухаммад ас-Саффах («Проливающий кровь») провозглашается халифом исламского мира в мечети Куфы, завершая умайядскую династию и открывая эпоху Аббасидов. Легитимность новой династии основывается на происхождении от аль-Аббаса ибн Абд аль-Мутталиба, дяди Пророка. Чтобы навсегда устранить умайядскую угрозу, аббасидские агенты охотятся на оставшихся в живых умайядских принцев по всей империи.\n\nАббасидская революция необратимо смещает центр тяжести исламского мира. Власть переходит от сирийской арабской племенной аристократии к космополитической коалиции арабских исламистов, персидских администраторов и центральноазиатских военных — всех объединяет обещание, что ислам, а не арабское происхождение, определяет место человека в халифате.",
+      "era": "AD",
+      "latitude": 32.0336,
+      "longitude": 44.3356,
+      "name": "Abu al-Abbas al-Saffah Founds the Abbasid Caliphate",
+      "name_ru": "Абу аль-Аббас ас-Саффах основывает Аббасидский халифат",
+      "source": "https://en.wikipedia.org/wiki/Al-Saffah",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Caliph",
+        "Dynasty",
+        "Foundation",
+        "Political",
+        "Abbasid Caliphate"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.07.0751",
+      "description": "An Arab-Tibetan alliance under the Abbasid governor of Khorasan, Ziyad ibn Salih, defeats a Tang Chinese army advancing westward in the Talas River valley (modern Kazakhstan-Kyrgyzstan border), halting Tang imperial expansion into Central Asia. The battle is a minor engagement by the standards of either empire — the Arab force is largely composed of Qarluq Turk allies who defect from the Tang side mid-battle — but its consequences prove enormous.\n\nAmong the Tang prisoners taken at Talas are craftsmen who know the Chinese secret of papermaking. Within decades, the first paper mills in the Islamic world are operating in Samarkand (751) and Baghdad (794), replacing the expensive papyrus and parchment that had previously limited book production. The democratisation of writing material — paper is orders of magnitude cheaper than vellum — is a direct prerequisite for the explosion of scholarship, book production, and intellectual life that defines the Abbasid Golden Age. The Battle of Talas thus indirectly enables Avicenna, al-Khwarizmi, and the House of Wisdom.",
+      "description_ru": "Арабо-тибетский союз под командованием аббасидского наместника Хорасана Зийада ибн Салиха разбивает наступающую танскую китайскую армию в долине реки Талас (современная граница Казахстана и Кыргызстана), остановив танскую имперскую экспансию в Центральную Азию. Среди танских пленных, взятых при Таласе, оказываются мастера, знающие китайский секрет производства бумаги. В течение десятилетий первые бумажные мельницы исламского мира заработают в Самарканде и Багдаде, заменив дорогостоящий папирус и пергамент.\n\nДемократизация письменного материала — бумага несравнимо дешевле пергамента — становится непосредственной предпосылкой взрыва научной деятельности и производства книг, определяющего аббасидский золотой век.",
+      "era": "AD",
+      "latitude": 42.52,
+      "longitude": 72.23,
+      "name": "Battle of Talas — Paper-Making Reaches the Islamic World",
+      "name_ru": "Битва при Таласе — производство бумаги достигает исламского мира",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Talas",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Battle",
+        "War",
+        "Culture",
+        "Abbasid Caliphate"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.08.0762",
+      "description": "The second Abbasid Caliph al-Mansur breaks ground on a new capital city on the west bank of the Tigris River in central Iraq, on a site chosen for its strategic position between the Euphrates and Tigris rivers, its temperate climate, and its position at the crossroads of trade routes connecting Arabia, Persia, Central Asia, and the Mediterranean. The city — officially named Madinat al-Salam ('City of Peace') but universally known as Baghdad, from a pre-existing Persian village — is built in the perfect circle design of Persian imperial tradition, with the caliph's palace and great mosque at the centre, surrounded by concentric rings of administrative buildings, markets, and residential quarters.\n\nBaghdad grows faster than any city in history: within fifty years of its founding, it has a population of over a million — making it the largest city in the world outside of Tang China — drawing merchants, scholars, craftsmen, and administrators from every corner of the known world. The city that al-Mansur plants on the Tigris becomes the intellectual capital of the medieval world and the site of the most extraordinary flowering of science, mathematics, medicine, philosophy, and literature between classical Athens and the European Renaissance.",
+      "description_ru": "Второй аббасидский халиф аль-Мансур закладывает фундамент новой столицы на западном берегу Тигра в центральном Ираке — на месте, выбранном за его стратегическое положение между Евфратом и Тигром. Официально именованный Мадинат ас-Салям («Город мира»), но повсеместно известный как Багдад, город строится в форме идеального круга персидской имперской традиции с дворцом халифа и Большой мечетью в центре.\n\nБагдад растёт быстрее любого города в истории: менее чем за пятьдесят лет после основания его население превышает миллион человек — это крупнейший город мира за пределами Танского Китая. Город, посаженный аль-Мансуром на Тигре, становится интеллектуальной столицей средневекового мира.",
+      "era": "AD",
+      "latitude": 33.3152,
+      "longitude": 44.3661,
+      "name": "Al-Mansur Founds Baghdad",
+      "name_ru": "Аль-Мансур основывает Багдад",
+      "source": "https://en.wikipedia.org/wiki/Baghdad",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Foundation",
+        "Architecture",
+        "Political",
+        "Culture",
+        "Abbasid Caliphate"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0786",
+      "description": "Harun al-Rashid — the fifth Abbasid Caliph, twenty-one years old at his accession — begins the reign that will become the defining image of Abbasid civilisation and enter world literature through the Thousand and One Nights. His court at Baghdad is the most brilliant in the world: astronomers, mathematicians, physicians, poets, musicians, and theologians from across the Islamic world compete for patronage and position. He corresponds as an equal with Charlemagne, to whom he reportedly sends an elephant named Abul-Abbas, a water-clock, and the keys to Jerusalem. He funds translations of Greek philosophical and scientific texts into Arabic on an unprecedented scale.\n\nHarun's reign (786–809) represents the Abbasid Caliphate at its maximum power and cultural confidence: the treasury holds an amount of gold and silver that later historians struggle to make credible; military campaigns against Byzantium bring tribute and prisoners; and Baghdad's population reaches perhaps 1.5 million. It is the moment when, if any medieval observer could have predicted which civilisation would dominate the next thousand years, the rational answer would have been the Islamic world — a prediction that only the Mongols and the Black Death will definitively refute.",
+      "description_ru": "Харун ар-Рашид — пятый аббасидский халиф, которому при восшествии на престол двадцать один год, — начинает правление, ставшее определяющим образом аббасидской цивилизации и вошедшее в мировую литературу через «Тысячу и одну ночь». Его двор в Багдаде — блистательнейший в мире: астрономы, математики, врачи, поэты, музыканты и богословы со всего исламского мира соперничают за покровительство. Он переписывается как равный с Карлом Великим, которому предположительно посылает слона, водяные часы и ключи от Иерусалима.\n\nПравление Харуна (786–809) представляет Аббасидский халифат на пике могущества и культурной уверенности: казна содержит богатства, которые позднейшие историки затрудняются сделать правдоподобными; население Багдада достигает, возможно, 1,5 миллиона человек.",
+      "era": "AD",
+      "latitude": 33.3152,
+      "longitude": 44.3661,
+      "name": "Harun al-Rashid — The Golden Age of Baghdad",
+      "name_ru": "Харун ар-Рашид — Золотой век Багдада",
+      "source": "https://en.wikipedia.org/wiki/Harun_al-Rashid",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Caliph",
+        "Culture",
+        "Political",
+        "Abbasid Caliphate"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0830",
+      "description": "The Caliph al-Ma'mun — who defeated his brother al-Amin in a devastating civil war to take power — establishes the Bayt al-Hikma ('House of Wisdom') in Baghdad as a formal institution for the translation of Greek, Persian, Indian, and Syriac scientific and philosophical texts into Arabic, and for original research. The institution employs the greatest scholars of the age: Hunayn ibn Ishaq translates the complete works of Galen and Hippocrates; the Banu Musa brothers advance geometry and mechanics; al-Khwarizmi develops algebra and introduces the Hindu-Arabic numeral system that the entire modern world now uses; al-Kindi applies Greek logic to Islamic theology.\n\nThe translation movement centred on the House of Wisdom is one of the most consequential intellectual projects in human history. It preserves Greek scientific and philosophical knowledge that would otherwise be lost to Europe's Dark Ages — the works of Aristotle, Euclid, Archimedes, Ptolemy, and Galen survive to the present day largely because Arab translators copied and commented on them in this period. When European scholars begin the Renaissance, it is primarily through Latin translations of these Arabic versions that the classical world is recovered.",
+      "description_ru": "Халиф аль-Маmун основывает Байт аль-Хикма («Дом мудрости») в Багдаде как официальное учреждение для перевода греческих, персидских, индийских и сирийских научных и философских текстов на арабский язык и для оригинальных исследований. Учреждение привлекает величайших учёных эпохи: Хунайн ибн Исхак переводит полные труды Галена и Гиппократа; аль-Хорезми разрабатывает алгебру и вводит индо-арабскую систему счисления, которой пользуется весь современный мир.\n\nПереводческое движение, сосредоточенное в Доме мудрости, — одно из наиболее значимых интеллектуальных предприятий в истории человечества. Оно сохраняет греческое научное и философское знание, которое иначе было бы утрачено в европейские тёмные века.",
+      "era": "AD",
+      "latitude": 33.3152,
+      "longitude": 44.3661,
+      "name": "The House of Wisdom Transforms Human Knowledge",
+      "name_ru": "Дом мудрости преобразует человеческое знание",
+      "source": "https://en.wikipedia.org/wiki/House_of_Wisdom",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Culture",
+        "Science",
+        "Text",
+        "Reform",
+        "Abbasid Caliphate"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0833",
+      "description": "The Caliph al-Mu'tasim, recognising that the Arab and Khorasanian troops who form the caliphal army have become politically unreliable — having supported rival factions in the recent civil war — systematically recruits and purchases Turkish slave-soldiers (ghulam, later known as mamluks) from Central Asia as the core of a new imperial guard. Within a generation, these professional Turkish soldiers, disciplined, highly trained, and personally loyal to whoever pays them, displace Arab and Persian troops entirely from the centre of Abbasid military power.\n\nThe introduction of Turkish military slaves is the single most consequential structural decision in Abbasid history — and one of the most consequential in all of Islamic history. The soldiers who are bought as the caliph's tools become within decades the caliph's masters: Turkish commanders begin appointing and deposing caliphs at will, reduce the caliph to a religious figurehead with no independent military power, and eventually establish regional dynasties of their own. The Seljuks, the Mamluks, and the Ottomans are all descendants — institutional if not always biological — of the Turkish soldier-slaves that al-Mu'tasim introduced in 833.",
+      "description_ru": "Халиф аль-Мутасим, убедившись, что арабские и хорасанские войска, составляющие халифскую армию, стали политически ненадёжными, систематически вербует и покупает турецких солдат-рабов (гулям, позднее известных как мамлюки) из Средней Азии в качестве ядра новой императорской гвардии.\n\nВведение турецких военных рабов — наиболее значимое структурное решение в аббасидской истории. Солдаты, купленные как орудие халифа, в течение десятилетий становятся его хозяевами: турецкие командиры начинают назначать и свергать халифов по своему усмотрению, сводят халифа к религиозной фигуре без самостоятельной военной власти. Сельджуки, мамлюки и османы — все институциональные потомки турецких солдат-рабов, введённых аль-Мутасимом.",
+      "era": "AD",
+      "latitude": 33.3152,
+      "longitude": 44.3661,
+      "name": "Al-Mu'tasim Introduces Turkish Slave Soldiers — Seeds of Decline",
+      "name_ru": "Аль-Мутасим вводит турецких солдат-рабов — семена упадка",
+      "source": "https://en.wikipedia.org/wiki/Al-Mu%27tasim",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Reform",
+        "Political",
+        "Military",
+        "Abbasid Caliphate"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0836",
+      "description": "The Caliph al-Mu'tasim abandons Baghdad — the city his ancestor al-Mansur built 74 years earlier as the eternal capital of the caliphate — and builds a new capital 130 kilometres north on the Tigris at Samarra, largely to house his growing Turkish military establishment away from a Baghdad population that resents and violently clashes with the foreign soldiers. Samarra is built at extraordinary speed and scale: at its peak it stretches 40 kilometres along the Tigris, housing the caliphal palace complexes, the Turkish military cantonments, and a population of perhaps 200,000.\n\nThe move to Samarra symptomises the caliphate's changing nature: the caliph is increasingly dependent on his Turkish guard, needs to be physically separated from his own people to maintain order, and can no longer draw on the organic political legitimacy that comes from ruling from the founding city. The 56 years of Samarran caliphate (836–892) are defined by the 'Anarchy at Samarra' — a period in which Turkish military commanders murder four caliphs in succession, installing and deposing rulers at will while fighting each other for control of the regency.",
+      "description_ru": "Халиф аль-Мутасим покидает Багдад — город, который его предок аль-Мансур построил 74 года назад как вечную столицу халифата, — и строит новую столицу в 130 километрах к северу на Тигре в Самарре, преимущественно для размещения своей растущей турецкой военной установки подальше от населения Багдада, враждебного иностранным солдатам.\n\n56 лет Саммарского халифата (836–892) определяет «Самаррская анархия» — период, в который турецкие военные командиры убивают четырёх халифов подряд, назначая и свергая правителей по своей прихоти.",
+      "era": "AD",
+      "latitude": 34.2,
+      "longitude": 43.8767,
+      "name": "The Abbasid Capital Moves to Samarra",
+      "name_ru": "Аббасидская столица переносится в Самарру",
+      "source": "https://en.wikipedia.org/wiki/Samarra",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Political",
+        "Crisis",
+        "Architecture",
+        "Abbasid Caliphate"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0869",
+      "description": "The largest slave revolt in Islamic history erupts in the Sawad — the rich agricultural lowlands of southern Iraq — when Ali ibn Muhammad, a poet and agitator who claims descent from the Prophet, mobilises hundreds of thousands of African slaves (the Zanj — people from East Africa) who are employed in the back-breaking work of draining the salt marshes of the lower Tigris and Euphrates. The Zanj rebels seize and burn Basra, the second city of Iraq, massacre its population, and for fifteen years control a large territory in southern Iraq, building their own capital city al-Mukhtara.\n\nThe Zanj Rebellion (869–883) devastates the agricultural economy of southern Iraq — the heartland of Abbasid revenue — and permanently damages the infrastructure of the Sawad, whose soil salinity problems were already reducing crop yields. The caliphate eventually suppresses the revolt at enormous military cost under the regent al-Muwaffaq, but southern Iraq never recovers its former agricultural productivity. The demographic and economic damage contributes directly to the fiscal weakness that allows the Buyid takeover of the caliphate in the following century.",
+      "description_ru": "Крупнейшее восстание рабов в исламской истории вспыхивает в Савадe — богатых сельскохозяйственных низменностях южного Ирака, — когда Али ибн Мухаммад, поэт и агитатор, мобилизует сотни тысяч африканских рабов (зандж — выходцев из Восточной Африки), занятых изнурительным осушением солончаковых болот нижнего Тигра и Евфрата. Восставшие зандж захватывают и сжигают Басру, вырезают её население и на протяжении пятнадцати лет контролируют большую территорию в южном Ираке.\n\nВосстание зандж опустошает сельскохозяйственную экономику южного Ирака — сердцевину аббасидских доходов. Южный Ирак так и не восстанавливает прежнюю сельскохозяйственную производительность.",
+      "era": "AD",
+      "latitude": 30.508,
+      "longitude": 47.783,
+      "name": "The Zanj Rebellion Devastates Southern Iraq",
+      "name_ru": "Восстание зандж опустошает южный Ирак",
+      "source": "https://en.wikipedia.org/wiki/Zanj_rebellion",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Rebellion",
+        "Civil War",
+        "Crisis",
+        "Abbasid Caliphate"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "05.01.0909",
+      "description": "Ubaydallah al-Mahdi, claiming descent from the Prophet's daughter Fatima through the Ismaili Shia line, is proclaimed Caliph in Raqqada (near Kairouan, Tunisia) — establishing the Fatimid Caliphate, the first direct challenge to Abbasid religious authority since the dynasty's founding. The Fatimid state, built by Ismaili missionaries (da'is) who had worked for decades converting the Berber tribes of North Africa, expands rapidly: by 969 the Fatimids will conquer Egypt and found Cairo (al-Qahira, 'The Victorious'), establishing the Fatimid Caliphate as a rival court that rules from the Atlantic to the Red Sea.\n\nFor a century, the Islamic world has three simultaneous caliphs: the Abbasid in Baghdad (Sunni), the Fatimid in Cairo (Ismaili Shia), and the Umayyad in Córdoba (Sunni). The fragmentation of Islamic political authority that began with the First Fitna in 656 is now complete and institutionalised: there will never again be a single universally recognised caliph over the Islamic world.",
+      "description_ru": "Убайдаллах аль-Махди, претендующий на происхождение от дочери Пророка Фатимы через исмаилитскую шиитскую линию, провозглашается халифом в Раккаде (близ Кайруана, Тунис) — основывая Фатимидский халифат, первое прямое оспаривание аббасидского религиозного авторитета. К 969 году Фатимиды завоюют Египет и основают Каир, установив Фатимидский халифат как соперничающий двор.\n\nНа протяжении века исламский мир имеет трёх одновременных халифов: Аббасидского в Багдаде (суннитского), Фатимидского в Каире (исмаилитско-шиитского) и Умайядского в Кордове (суннитского). Фрагментация исламской политической власти теперь завершена и институционализирована.",
+      "era": "AD",
+      "latitude": 35.67,
+      "longitude": 10.1,
+      "name": "The Fatimid Caliphate Proclaimed — Islam Now Has Three Caliphs",
+      "name_ru": "Провозглашение Фатимидского халифата — у ислама теперь три халифа",
+      "source": "https://en.wikipedia.org/wiki/Fatimid_Caliphate",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Caliph",
+        "Dynasty",
+        "Foundation",
+        "Schism",
+        "Political",
+        "Abbasid Caliphate"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "11.12.0945",
+      "description": "Ahmad ibn Buya, the Shia Daylamite warlord who has conquered western Persia and Iraq with his two brothers, enters Baghdad with his army and forces the Abbasid Caliph al-Mustakfi to grant him the title 'Mu'izz al-Dawla' ('Strengthener of the State') — becoming the first amir al-umara ('Commander of Commanders'), the effective ruler of the caliphate while the caliph retains only his religious title and functions. When al-Mustakfi protests, the Buyids gouge out his eyes and replace him with a more compliant caliph.\n\nThe Buyid takeover of 945 reduces the Abbasid Caliphate to a purely ceremonial institution for the next century: the caliphs are Sunni Muslims ruled by Shia military commanders who regard them with a mixture of religious reverence, political contempt, and practical usefulness. They keep the caliphs alive because the caliph's name on coins and in Friday prayers is the mark of legitimate Islamic authority that the Buyids themselves lack. The paradox — a Shia dynasty propping up a Sunni institution it despises for political legitimacy — illustrates how completely the caliphate has been emptied of real power.",
+      "description_ru": "Ахмад ибн Буя, шиитский дейламитский военачальник, завоевавший западную Персию и Ирак вместе с двумя братьями, входит в Багдад и вынуждает аббасидского халифа аль-Мустакфи пожаловать ему титул «Муизз ад-Даула» («Укрепляющий государство») — становясь первым амир аль-умара («Главнокомандующим»), фактическим правителем халифата, тогда как халиф сохраняет лишь религиозный титул. Когда аль-Мустакфи протестует, Буиды выкалывают ему глаза.\n\nПоглощение халифата Буидами в 945 году сводит Аббасидский халифат к чисто церемониальному институту на следующее столетие: халифы — мусульмане-сунниты под управлением шиитских военных командиров, считающих их политически удобными, но религиозно чуждыми фигурами.",
+      "era": "AD",
+      "latitude": 33.3152,
+      "longitude": 44.3661,
+      "name": "The Buyids Seize Baghdad — Caliphs Become Figureheads",
+      "name_ru": "Буиды захватывают Багдад — халифы становятся марионетками",
+      "source": "https://en.wikipedia.org/wiki/Buyid_dynasty",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Persian",
+        "Caliph",
+        "Crisis",
+        "Political",
+        "Abbasid Caliphate"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1055",
+      "description": "Tughril, the Seljuk sultan who has swept across Khorasan and Persia destroying Buyid power, enters Baghdad — welcomed by the Sunni Abbasid Caliph al-Qa'im as a liberator from Shia Buyid domination. Tughril is invested with the titles 'King of the East and West' and 'Sultan' — the first time this latter title is used for a secular Muslim ruler — and the caliph gives him his daughter in marriage, acknowledging Seljuk supremacy while retaining spiritual authority.\n\nThe Seljuk takeover replaces Shia Buyid masters with Sunni Turkic masters, which the caliphs prefer religiously but which changes nothing structurally: the caliph remains a figurehead with no army, no independent revenue, and no real political power. The Seljuks, however, are genuinely devoted Sunni Muslims who revitalise Sunni religious institutions, build madrasas (the Nizamiyya system founded by the vizier Nizam al-Mulk), and will shortly launch the first truly coordinated Islamic military response to the Crusades. The great vizier Nizam al-Mulk and his student al-Ghazali — one of the most influential Islamic theologians ever — both flourish under Seljuk patronage.",
+      "description_ru": "Тугрил, сельджукский султан, сметший Буидскую власть по всему Хорасану и Персии, вступает в Багдад — встреченный суннитским аббасидским халифом аль-Каимом как освободитель от шиитского буидского господства. Тугрилу жалуются титулы «Царя Востока и Запада» и «Султана» — первое применение последнего титула к светскому мусульманскому правителю.\n\nСельджуки подлинно преданные мусульмане-сунниты, возрождающие суннитские религиозные институты, строящие медресе (система Низамийя), и в скором времени организующие первый по-настоящему скоординированный исламский военный ответ на Крестовые походы.",
+      "era": "AD",
+      "latitude": 33.3152,
+      "longitude": 44.3661,
+      "name": "Seljuk Turks Capture Baghdad",
+      "name_ru": "Сельджукские турки захватывают Багдад",
+      "source": "https://en.wikipedia.org/wiki/Tughril",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Political",
+        "Caliph",
+        "Dynasty",
+        "Abbasid Caliphate"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "15.07.0999",
+      "description": "Abu Ali al-Husayn ibn Sina — known to medieval Europe as Avicenna — begins writing the Canon of Medicine (al-Qanun fi al-Tibb) in Hamadan (western Persia), completing it around 1025. The Canon is a five-volume encyclopaedia systematising all Greek, Arabic, and Persian medical knowledge: anatomy, physiology, pathology, pharmacology, and surgery, organised with a clarity and comprehensiveness that no previous medical text had achieved. It describes over 760 drugs, establishes quarantine as a public health principle, argues that tuberculosis is contagious, and provides clinical descriptions of meningitis, diabetes, and heart conditions.\n\nThe Canon of Medicine is translated into Latin in the 12th century and used as the primary medical textbook in European universities until the 17th century — longer than any other medical text in history. Ibn Sina also writes the Book of Healing (Kitab al-Shifa), a philosophical encyclopaedia covering logic, mathematics, physics, and metaphysics that introduces Aristotle to medieval Islamic and Christian scholasticism. He is simultaneously the greatest physician and one of the greatest philosophers of the medieval world.",
+      "description_ru": "Абу Али аль-Хусайн ибн Сина — известный средневековой Европе как Авиценна — приступает к написанию «Канона врачебной науки» (аль-Канун фи ат-Тибб) в Хамадане (западная Персия), завершая его около 1025 года. «Канон» — пятитомная энциклопедия, систематизирующая все греческие, арабские и персидские медицинские знания. Он описывает более 760 лекарственных средств, устанавливает карантин как принцип общественного здравоохранения и содержит клинические описания менингита, диабета и болезней сердца.\n\n«Канон» переводится на латынь в XII веке и используется как основной медицинский учебник в европейских университетах вплоть до XVII века — дольше, чем любой другой медицинский текст в истории.",
+      "era": "AD",
+      "latitude": 34.799,
+      "longitude": 48.515,
+      "name": "Avicenna Writes the Canon of Medicine",
+      "name_ru": "Авиценна пишет «Канон врачебной науки»",
+      "source": "https://en.wikipedia.org/wiki/The_Canon_of_Medicine",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Persian",
+        "Science",
+        "Culture",
+        "Text",
+        "Abbasid Caliphate"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "15.07.1099",
+      "description": "The army of the First Crusade, having besieged Jerusalem for five weeks, breaches the walls on 15 July 1099 and massacres the city's Muslim and Jewish inhabitants in scenes that shock even contemporary Christian accounts. The crusaders establish four Crusader states: the Kingdom of Jerusalem, the County of Tripoli, the Principality of Antioch, and the County of Edessa — a chain of Latin Christian political entities inserted into the heart of the Islamic world.\n\nThe fall of Jerusalem to the Crusaders exposes the complete political impotence of the Abbasid Caliphate: the caliph in Baghdad cannot raise an army, cannot coordinate a response, and can only issue proclamations lamenting the loss of the third holiest city in Islam. The Islamic world is so fragmented — Abbasids in Baghdad, Fatimids in Cairo (who had actually lost Jerusalem to the Crusaders just before the siege, having taken it from the Seljuks weeks earlier), Seljuk successor states fighting each other in Syria — that no unified military response is possible for nearly a century, until Saladin creates the unified state that makes reconquest possible.",
+      "description_ru": "Армия Первого крестового похода, пробив стены Иерусалима 15 июля 1099 года, учиняет резню мусульманского и еврейского населения города. Крестоносцы основывают четыре государства крестоносцев, вклинившихся в самое сердце исламского мира.\n\nПадение Иерусалима перед крестоносцами обнажает полную политическую беспомощность Аббасидского халифата: халиф в Багдаде не может собрать армию, скоординировать ответ и способен лишь издавать прокламации, оплакивающие утрату третьего священнейшего города ислама. Исламский мир настолько раздроблен, что скоординированный военный ответ невозможен почти столетие — до тех пор, пока Саладин не создаст единое государство.",
+      "era": "AD",
+      "latitude": 31.778,
+      "longitude": 35.235,
+      "name": "Crusaders Capture Jerusalem — Caliphate Cannot Respond",
+      "name_ru": "Крестоносцы захватывают Иерусалим — халифат не может ответить",
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1099)",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Battle",
+        "War",
+        "Conquest",
+        "Jerusalem",
+        "Holy Site",
+        "Crisis",
+        "Abbasid Caliphate"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "02.10.1187",
+      "description": "Salah ad-Din Yusuf ibn Ayyub — Saladin — the Kurdish general who united Egypt and Syria under a single Sunni sultanate, defeats the crusader Kingdom of Jerusalem at the Battle of Hattin (4 July 1187), captures the True Cross, and enters Jerusalem on 2 October, the anniversary of the Prophet's Night Journey to the city. Unlike the crusaders in 1099, Saladin prohibits massacre and pillage: the population is allowed to ransom themselves and leave in safety, and Christian holy sites are left intact, earning him the admiration of many European contemporaries.\n\nSaladin's reconquest of Jerusalem is the greatest military and moral triumph of the Islamic medieval world: it restores the third holiest city of Islam, discredits the political fragmentation that had made the crusader states possible, and demonstrates that a unified Islamic state under capable leadership can match and defeat Western European military power. It also triggers the Third Crusade (1189–1192), led by Richard I of England, Philip II of France, and Frederick I of Germany — the greatest military expedition in European history — which fails to retake Jerusalem but establishes a rump crusader presence in coastal cities for another century.",
+      "description_ru": "Салах ад-Дин Юсуф ибн Айюб — Саладин, — курдский полководец, объединивший Египет и Сирию под единым суннитским султанатом, разбивает крестоносное Иерусалимское королевство в битве при Хаттине (4 июля 1187 года) и входит в Иерусалим 2 октября, в годовщину Ночного путешествия Пророка в этот город. В отличие от крестоносцев в 1099 году, Саладин запрещает резню и мародёрство: населению позволено выкупиться и покинуть город в безопасности.\n\nОтвоевание Иерусалима Саладином — величайший военный и моральный триумф исламского средневекового мира. Оно провоцирует Третий крестовый поход (1189–1192), который не может вернуть Иерусалим, но создаёт остаточное присутствие крестоносцев в прибрежных городах ещё на столетие.",
+      "era": "AD",
+      "latitude": 31.778,
+      "longitude": 35.235,
+      "name": "Saladin Retakes Jerusalem from the Crusaders",
+      "name_ru": "Саладин отвоёвывает Иерусалим у крестоносцев",
+      "source": "https://en.wikipedia.org/wiki/Saladin",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Battle",
+        "War",
+        "Conquest",
+        "Jerusalem",
+        "Holy Site",
+        "Abbasid Caliphate"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1206",
+      "description": "A kurultai (grand assembly) of Mongol tribal chiefs on the banks of the Onon River in Mongolia formally recognises Temüjin as Genghis Khan — 'Universal Ruler' — uniting the Mongol and Turkic steppe tribes under a single military leadership for the first time. Within 25 years, the Mongol Empire will be the largest contiguous land empire in history, stretching from the Pacific coast of China to the Caspian Sea. The campaigns of Genghis and his successors kill an estimated 40 million people — perhaps 10% of the world's population — and depopulate entire regions of Central Asia, Persia, and Iraq that had been continuously inhabited for thousands of years.\n\nFor the Islamic world — and specifically for the Abbasid Caliphate — the rise of Genghis Khan sets in motion an unstoppable force. His grandson Hulagu will complete what Genghis began: the systematic destruction of every major centre of Islamic civilisation east of Egypt, culminating in the obliteration of Baghdad.",
+      "description_ru": "Курултай монгольских племенных вождей на берегах реки Онон в Монголии официально признаёт Тэмуджина Чингисханом — «Всемирным правителем», — объединяя монгольские и тюркские степные племена под единым военным руководством впервые в истории. В течение 25 лет Монгольская империя станет крупнейшей в истории единой сухопутной империей.\n\nДля исламского мира — и в особенности для Аббасидского халифата — возвышение Чингисхана запускает неудержимую силу. Его внук Хулагу завершит начатое: систематическое уничтожение каждого крупного центра исламской цивилизации к востоку от Египта, завершившееся уничтожением Багдада.",
+      "era": "AD",
+      "latitude": 48.95,
+      "longitude": 111.0,
+      "name": "Genghis Khan Unites the Mongols — The Coming Storm",
+      "name_ru": "Чингисхан объединяет монголов — надвигающаяся буря",
+      "source": "https://en.wikipedia.org/wiki/Genghis_Khan",
+      "tags": [
+        "Mongol",
+        "War",
+        "Conquest",
+        "Political",
+        "Dynasty",
+        "Foundation",
+        "Abbasid Caliphate"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "13.02.1258",
+      "description": "Hulagu Khan, grandson of Genghis Khan, enters Baghdad with his Mongol army after a twelve-day siege, captures the last Abbasid Caliph al-Musta'sim, and carries out the most catastrophic single act of destruction in the history of Islamic civilisation. The city of a million people — the intellectual capital of the medieval world for five centuries — is systematically looted and burned for forty days. The Tigris River runs black with ink from the thousands of books thrown into it from the House of Wisdom and the great libraries of Baghdad, then red with the blood of the city's population: estimates of the dead range from 200,000 to 800,000.\n\nAl-Musta'sim is executed on 20 February, reportedly by being wrapped in felt and trampled by horses so that royal blood would not touch the earth. The Abbasid Caliphate, which had ruled the Islamic world — in declining degrees of real power — for 508 years, ceases to exist. The House of Wisdom and its irreplaceable manuscripts are destroyed, wiping out a century of original scientific work that cannot be reconstructed. The agricultural infrastructure of Iraq, already weakened by the Zanj Rebellion, is demolished when the Mongols destroy the ancient qanat irrigation systems; the land depopulates and does not recover for six centuries.",
+      "description_ru": "Хулагу-хан, внук Чингисхана, входит в Багдад с монгольской армией после двенадцатидневной осады, захватывает последнего аббасидского халифа аль-Мустасима и осуществляет наиболее катастрофический единичный акт разрушения в истории исламской цивилизации. Город с миллионным населением — интеллектуальная столица средневекового мира на протяжении пяти столетий — систематически разграбляется и сжигается сорок дней. Тигр чернеет от чернил тысяч книг, брошенных в него из Дома мудрости, затем краснеет от крови жителей города.\n\nАль-Мустасим казнён, по преданию, завёрнутым в войлок и затоптанным лошадьми. Аббасидский халифат, правивший исламским миром 508 лет, прекращает существование. Дом мудрости и его бесценные рукописи уничтожены, стерев столетие оригинальных научных трудов, которые не могут быть восстановлены.",
+      "era": "AD",
+      "latitude": 33.3152,
+      "longitude": 44.3661,
+      "name": "Mongols Sack Baghdad — The Abbasid Caliphate Ends",
+      "name_ru": "Монголы разграбляют Багдад — конец Аббасидского халифата",
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Baghdad_(1258)",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Mongol",
+        "Battle",
+        "War",
+        "Death",
+        "Caliph",
+        "Crisis",
+        "Abbasid Caliphate"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "13.06.1260",
+      "description": "At the Battle of Ain Jalut ('Spring of Goliath') in the Jezreel Valley of Palestine, the Mamluk Sultanate of Egypt under Sultan Qutuz and his general Baybars defeats a Mongol army — the first significant military defeat of the Mongols by a Muslim force, and one of the most consequential battles in world history. The Mongol advance, which had destroyed Baghdad, Aleppo, and Damascus and appeared unstoppable, is halted permanently at the borders of Egypt. The Mamluks pursue the retreating Mongols and liberate Syria.\n\nAin Jalut saves the Islamic world from complete Mongol domination: Egypt, the Hejaz, and the western Islamic world survive intact. Within months, Baybars murders Qutuz, seizes the Mamluk sultanate, and begins the most effective resistance to both Mongols and Crusaders in Islamic history — destroying the remaining crusader states over the following decades and repelling every subsequent Mongol invasion of Syria. It is also Baybars who establishes a shadow Abbasid Caliphate in Cairo, preserving the symbolic lineage of the institution even after its power is gone.",
+      "description_ru": "В битве при Айн-Джалуте («Источник Голиафа») в долине Изреель в Палестине мамлюкский султанат Египта под командованием султана Кутуза и его полководца Бейбарса разбивает монгольскую армию — первое значительное военное поражение монголов от мусульманских сил и одна из наиболее значимых битв в мировой истории. Монгольское наступление, уничтожившее Багдад, Алеппо и Дамаск и казавшееся неостановимым, навсегда останавливается у границ Египта.\n\nАйн-Джалут спасает исламский мир от полного монгольского господства. Именно Бейбарс учреждает теневой Аббасидский халифат в Каире, сохраняя символическую преемственность института даже после исчезновения его власти.",
+      "era": "AD",
+      "latitude": 32.5614,
+      "longitude": 35.3626,
+      "name": "Battle of Ain Jalut — Mamluks Stop the Mongols",
+      "name_ru": "Битва при Айн-Джалуте — мамлюки останавливают монголов",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Ain_Jalut",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Mongol",
+        "Battle",
+        "War",
+        "Abbasid Caliphate"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1261",
+      "description": "The Mamluk Sultan Baybars installs a surviving member of the Abbasid family, al-Mustansir II, as a shadow Caliph in Cairo under Mamluk military protection — reviving the Abbasid Caliphate as a purely ceremonial institution with no territory, no army, and no real authority beyond lending Islamic legitimacy to Mamluk rule. The Cairo-based Abbasid line continues until 1517, when the Ottoman Sultan Selim I conquers Egypt and — according to later (and contested) Ottoman tradition — the last shadow Caliph transfers the title to the Ottoman dynasty.\n\nThe Cairo shadow caliphate illustrates what the institution has been reduced to: a prestigious religious brand name that successive military powers purchase by hosting its claimant. The real power of the Mamluk state requires no caliphal endorsement to function; but the endorsement is still valuable enough that Baybars considers it worth the cost of maintaining an Abbasid pensioner in Cairo. The symbolic weight of the caliphate — the idea of a single leader of all Muslims — will outlast the institution itself, recurring in Islamic political thought whenever a reformer, empire-builder, or revolutionary needs a framework for universal Muslim unity.",
+      "description_ru": "Мамлюкский султан Бейбарс устанавливает выжившего члена Аббасидской семьи, аль-Мустансира II, в качестве теневого халифа в Каире под мамлюкской военной защитой — возрождая Аббасидский халифат как чисто церемониальный институт без территории, армии и реальной власти, помимо предоставления исламской легитимности мамлюкскому правлению. Каирская Аббасидская линия продолжается до 1517 года, когда османский султан Селим I завоёвывает Египет.\n\nКаирский теневой халифат иллюстрирует, до чего свёлся этот институт: престижное религиозное имя бренда, которое последовательные военные державы приобретают, размещая у себя его претендента.",
+      "era": "AD",
+      "latitude": 30.0626,
+      "longitude": 31.2497,
+      "name": "The Shadow Abbasid Caliphate Established in Cairo",
+      "name_ru": "Теневой Аббасидский халифат учреждается в Каире",
+      "source": "https://en.wikipedia.org/wiki/Abbasid_Caliphate_in_Cairo",
+      "tags": [
+        "Arabian",
+        "Islamic",
+        "Caliph",
+        "Dynasty",
+        "Political",
+        "Abbasid Caliphate"
+      ],
+      "type": "political"
+    }
+  ]
+}
