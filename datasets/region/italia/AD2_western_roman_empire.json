@@ -175,14 +175,15 @@
         "Abandonment",
         "Britain",
         "Crisis",
-        "Political"
+        "Political",
+        "Usurpation"
       ],
       "type": "political"
     },
     {
       "date": "22.08.0408",
       "description": "Emperor Honorius, alarmed by court intrigues and the anti-Stilicho faction's accusations that the general planned to put his own son on the eastern throne, orders the arrest and execution of Stilicho at Ravenna. Stilicho surrenders without resistance, refusing to allow his Barbarian troops to fight for him and accepting death with a dignity that astonishes contemporaries. With him die the last coherent military strategy and the last capable leader of the Western army; the troops subsequently massacre the families of Stilicho's Barbarian soldiers, driving tens of thousands of armed Goths directly into Alaric's service.",
-      "description_ru": "Гонорий, встревоженный интригами двора, приказывает арестовать и казнить Стилихона в Равенне. Стилихон сдаётся без сопротивления, отказываясь позволить своим варварским войскам сражаться за него. С ним гибнут последняя последовательная военная стратегия и последний способный командующий западной армией; войска впоследствии вырезают семьи варварских солдат Стилихона, что гонит десятки тысяч вооружённых готов прямо в армию Алариха.",
+      "description_ru": "Гонорий, встревоженный интригами двора, приказывает арестовать и казнить Стилихона в Равенне. Стилихон сдаётся без сопротивления, отказываясь позволить своим варварским войскам сражаться за него. С ним гибнут последняя последовательная военная стратегия и последний способный командующий западной армией; войска впоследствии вырезают семьи варварских солдат Стилихона, что гонит десятки тысяч вооружённых готов прямо в армию Алариха. Эти же готы осадят Рим через пару месяцев.",
       "era": "AD",
       "latitude": 44.4154173,
       "longitude": 12.19696999,
@@ -195,6 +196,7 @@
         "Crisis",
         "Death",
         "Execution",
+        "Gothic",
         "Stilicho 👤"
       ],
       "type": "political"
@@ -740,6 +742,7 @@
         "Emperor",
         "Overthrow",
         "Political",
+        "Usurpation",
         "Visigoth"
       ],
       "type": "political"

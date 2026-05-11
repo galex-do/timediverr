@@ -462,8 +462,8 @@
     },
     {
       "date": "01.01.0570",
-      "description": "Abraha, the Christian king of Yemen, marched on Mecca, planning to destroy the Kaaba and make Sana'a the only place of pilgrimage in Arabia. He brought war elephants to Mecca, which the Arabs had never seen. However, the march through the Hejaz Mountains was difficult, an epidemic broke out in the army, and the campaign failed. Mecca stood firm.",
-      "description_ru": "Абраха, христианский царь Йемена, идет с походом на Мекку, планируя разрушить Каабу и сделать Сану единственным местом паломничества в Аравии. Он привел на Мекку боевых слонов, которых арабы никогда не видели. Однако поход через горы Хиджаз был трудным, в армии началась эпидемия - и поход провалился. Мекка устояла",
+      "description": "Abraha, the Christian king of Yemen, marched on Mecca, planning to destroy the Kaaba and make Sana'a the only place of pilgrimage in Arabia. He brought war elephants to Mecca, which the Arabs had never seen. However, the march through the Hejaz Mountains was difficult, an epidemic broke out in the army, and the campaign failed. Mecca stood firm.\n\nThe Year of the Elephant, as the Arabs call it, becomes a stable chronological reference point for pre-Islamic Arabia—and the miraculous rescue of the Kaaba dramatically enhances the prestige of the Quraysh tribe as guardians of Arabia's holiest site. The episode also marks the end of Aksumite influence in Arabia and the beginning of the Sassanid Persian century of dominance over Yemen, shaping the geopolitical environment into which Muhammad was born.",
+      "description_ru": "Абраха, христианский царь Йемена, идет с походом на Мекку, планируя разрушить Каабу и сделать Сану единственным местом паломничества в Аравии. Он привел на Мекку боевых слонов, которых арабы никогда не видели. Однако поход через горы Хиджаз был трудным, в армии началась эпидемия - и поход провалился. Мекка устояла\n\nГод Слона, как называют его арабы, становится устойчивой хронологической точкой отсчёта доисламской Аравии — а чудесное спасение Каабы резко повышает престиж курайшитского племени как стражей священнейшего места Аравии. Эпизод также знаменует конец аксумского влияния в Аравии и начало сасанидского персидского столетия господства над Йеменом, формируя геополитическую обстановку, в которую рождается Мухаммад.\n",
       "era": "AD",
       "latitude": 21.35461822,
       "longitude": 39.84054565,
@@ -471,6 +471,7 @@
       "name_ru": "Год слона",
       "source": "https://en.wikipedia.org/wiki/Year_of_the_Elephant",
       "tags": [
+        "Arabian",
         "War",
         "Legend",
         "Arabia",
@@ -478,6 +479,7 @@
         "Elephants",
         "Islamic",
         "Plague",
+        "Qurayshite",
         "Religious",
         "Aksumite"
       ],
@@ -515,18 +517,18 @@
       "tags": [
         "Persian",
         "War",
+        "Conquest",
         "Decline",
-        "Defeat",
         "Himyarite",
         "Sassanid",
         "Aksumite"
       ],
-      "type": "political"
+      "type": "military"
     },
     {
       "date": "01.01.0615",
-      "description": "Aksumite King Armah grants asylum to the first Muslim refugees — followers of Prophet Muhammad fleeing persecution in Mecca. Known as the First Hijra, this marks the earliest contact between Aksum and Islam. According to Islamic tradition, Armah (the 'Negus') refused to hand over the refugees to Meccan envoys, impressed by their monotheism and parallels with Christianity. Muhammad later instructed his followers to 'leave the Ethiopians alone' — a respect that briefly shielded Aksum from early Arab expansion",
-      "description_ru": "Аксумский царь Армах предоставляет убежище первым мусульманским беженцам — последователям пророка Мухаммеда, бежавшим от гонений в Мекке. Известная как Первая хиджра, это самый ранний контакт между Аксумом и исламом. По исламской традиции, Армах («Негус») отказался выдать беженцев мекканским посланникам, впечатлённый их монотеизмом и параллелями с христианством. Мухаммед впоследствии наказал своим последователям «оставить эфиопов в покое» — уважение, ненадолго защитившее Аксум от ранней арабской экспансии",
+      "description": "Aksumite King Armah grants asylum to the first Muslim refugees — followers of Prophet Muhammad fleeing persecution in Mecca. Known as the First Hijra, this marks the earliest contact between Aksum and Islam. According to Islamic tradition, Armah (the 'Negus') refused to hand over the refugees to Meccan envoys, impressed by their monotheism and parallels with Christianity. \n\nThe first hijra to Abyssinia is a formative episode in the self-definition of Islam: it establishes Islam as a faith capable of coexistence with Christians, demonstrates that the Muslim community will preserve itself through migration rather than submission, and sets a precedent for the hijra to Medina seven years later. The Aksumite refuge also helps explain the warm early relations between the Muslim state and the Christian kingdom. Muhammad instructed his followers to \"leave the Ethiopians alone\"—a respect that briefly protected Aksum from early Arab expansion.",
+      "description_ru": "Аксумский царь Армах предоставляет убежище первым мусульманским беженцам — последователям пророка Мухаммеда, бежавшим от гонений в Мекке. Известная как Первая хиджра, это самый ранний контакт между Аксумом и исламом. По исламской традиции, Армах («Негус») отказался выдать беженцев мекканским посланникам, впечатлённый их монотеизмом и параллелями с христианством. \n\nПервая хиджра в Абиссинию — формообразующий эпизод в самоопределении ислама: она устанавливает ислам как веру, способную сосуществовать с христианами, демонстрирует, что мусульманская община будет сохранять себя через переселение, а не через покорность, и создаёт прецедент для хиджры в Медину семью годами позже. Аксумское убежище также помогает объяснить тёплые ранние отношения между мусульманским государством и христианским царством. Мухаммед наказал своим последователям «оставить эфиопов в покое» — уважение, ненадолго защитившее Аксум от ранней арабской экспансии",
       "era": "AD",
       "latitude": 14.1211,
       "longitude": 38.7234,
@@ -535,13 +537,14 @@
       "source": "https://en.wikipedia.org/wiki/Migration_to_Abyssinia",
       "tags": [
         "Diplomacy",
+        "Christian",
         "Islamic",
         "Persecution",
         "Religious",
         "Tolerance",
         "Aksumite"
       ],
-      "type": "historic"
+      "type": "religious"
     },
     {
       "date": "01.01.0641",
@@ -558,6 +561,7 @@
         "Arabia",
         "Decline",
         "Destruction",
+        "Rashidun Caliphate",
         "Trade",
         "Aksumite"
       ],

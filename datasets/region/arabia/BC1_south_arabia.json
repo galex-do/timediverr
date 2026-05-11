@@ -641,12 +641,13 @@
       "name_ru": "Римская экспедиция Элия Галла — осада Мариба",
       "source": "https://en.wikipedia.org/wiki/Aelius_Gallus",
       "tags": [
+        "Roman",
         "War",
-        "Defeat",
         "Defense",
+        "Failure",
         "Sabaean"
       ],
-      "type": "battle"
+      "type": "military"
     },
     {
       "date": "01.01.0050",

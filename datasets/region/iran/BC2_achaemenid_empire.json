@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 93 events",
+  "description": "Dataset imported with 97 events",
   "events": [
     {
       "date": "01.01.0645",
@@ -495,8 +495,8 @@
       "description": "After the assassination of the impostor, the conspirators decided that Darius would become the new king. He was crowned the new King of Kings. Darius's rise to power was not peaceful. Many provinces that had not recognized him rebelled.\n",
       "description_ru": "После убийства самозванца заговорщики решили, что новым царем станет Дарий. Он был коронован как новый Царь Царей. Приход Дария к власти не был мирным. Многие провинции, не признавшие его, восстали.",
       "era": "BC",
-      "latitude": 32.1895,
-      "longitude": 48.2544,
+      "latitude": 32.1897,
+      "longitude": 48.2583,
       "name": "Darius - King of Persia",
       "name_ru": "Дарий - царь Персии",
       "tags": [
@@ -551,8 +551,8 @@
       "description": "Susa, devastated by Assyria, was located at the crossroads of important trade routes and was geographically conveniently situated between Mesopotamia and the Iranian plateau. Darius I restored and rebuilt the city, making it one of his main capitals, along with Persepolis and Babylon.",
       "description_ru": "Разоренные Ассирией Сузы находились на пересечении важных торговых путей и были географически удобно расположены между Месопотамией и Иранским нагорьем. Дарий I восстановил и перестроил город, сделав его одной из своих главных, наряду с Персеполем и Вавилоном, столиц.",
       "era": "BC",
-      "latitude": 32.1895,
-      "longitude": 48.2544,
+      "latitude": 32.1897,
+      "longitude": 48.2583,
       "name": "Persian restoration of Susa",
       "name_ru": "Персидская реставрация Суз",
       "tags": [

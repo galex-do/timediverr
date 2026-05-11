@@ -1320,16 +1320,15 @@
       "era": "BC",
       "latitude": 41.30731013,
       "longitude": 13.28933716,
-      "name": "Battle of Lautulae",
-      "name_ru": "Битва при Лавтулах",
+      "name": "Samnites defeat the Romans at Lautulae",
+      "name_ru": "Самниты бьют римлян при Лавтулах",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Lautulae",
       "tags": [
         "Roman",
         "Italian",
         "Second",
         "War",
-        "Battle",
-        "Defeat"
+        "Battle"
       ],
       "type": "military"
     },
@@ -3645,8 +3644,8 @@
       "era": "BC",
       "latitude": 41.617,
       "longitude": 0.621,
-      "name": "Battle of Ilerda",
-      "name_ru": "Битва при Илерде",
+      "name": "Caesar's victory in Spain",
+      "name_ru": "Победа Цезаря в Испании",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Ilerda",
       "tags": [
         "Roman",

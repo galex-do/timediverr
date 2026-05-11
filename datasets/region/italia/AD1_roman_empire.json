@@ -254,6 +254,8 @@
       "tags": [
         "Roman",
         "Judaic",
+        "Israel",
+        "Jerusalem",
         "War",
         "Destruction",
         "Siege"
@@ -292,7 +294,8 @@
         "Building 🏠",
         "Ancient Wonders",
         "Architecture",
-        "Engineering ⚙️"
+        "Engineering ⚙️",
+        "Entertainment"
       ],
       "type": "cultural"
     },
@@ -424,6 +427,7 @@
       "tags": [
         "Roman",
         "Judaic",
+        "Jerusalem",
         "City",
         "Foundation",
         "Hadrian 👑"
@@ -480,7 +484,6 @@
       "tags": [
         "Roman",
         "Emperor",
-        "Marcus Aurelius 👑",
         "Philosophy",
         "Political"
       ],
@@ -900,7 +903,8 @@
         "Crisis",
         "Emperor",
         "Palace",
-        "Political"
+        "Political",
+        "Abdication"
       ],
       "type": "political"
     },
@@ -1079,7 +1083,8 @@
         "War",
         "Death",
         "Emperor",
-        "Sassanid"
+        "Sassanid",
+        "Shapur II 👑"
       ],
       "type": "military"
     },
@@ -1226,6 +1231,7 @@
         "Christian",
         "Destruction",
         "Law",
+        "Olympic",
         "Religious",
         "Theodosian"
       ],

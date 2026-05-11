@@ -47,9 +47,9 @@
       "name_ru": "Пик средней культуры Дзёмон",
       "source": "https://en.wikipedia.org/wiki/J%C5%8Dmon_period",
       "tags": [
+        "Japanese",
         "Jōmon",
         "Culture",
-        "Japan",
         "Pottery"
       ],
       "type": "cultural"
@@ -450,8 +450,7 @@
         "Civilization",
         "Culture",
         "Fishing",
-        "Peruan",
-        "Pre-ceramic"
+        "Peruan"
       ],
       "type": "cultural"
     },
@@ -465,10 +464,10 @@
       "name": "Jōmon Ritual Art Develops",
       "name_ru": "Развитие ритуального искусства Дзёмон",
       "tags": [
+        "Japanese",
         "Jōmon",
         "Art",
-        "Culture",
-        "Japan"
+        "Culture"
       ],
       "type": "cultural"
     },
@@ -689,8 +688,8 @@
     },
     {
       "date": "01.01.2600",
-      "description": "First historically verified Mesopotamian king, defeated Elam and built temple of Enlil in Nippur",
-      "description_ru": "Эн-ме-барагеси из Киша, первый исторически подтвержденный месопотамский царь, победивший Элам и построивший храм Энлиля в Ниппуре",
+      "description": "Enme-baragesi of Kish, the first historically attested Mesopotamian king, who defeated Elam and built the temple of Enlil in Nippur. Enme-baragesi's reign marked the beginning of the transition from theocratic rule (priests) to military might (lugali) in the Sumerian city-states.",
+      "description_ru": "Эн-ме-барагеси из Киша, первый исторически подтвержденный месопотамский царь, победивший Элам и построивший храм Энлиля в Ниппуре. Эпоха Эн-ме-барагеси ознаменовала начало перехода от теократического правления (жрецов) к военной мощи (лугали) в шумерских городах-государствах",
       "era": "BC",
       "latitude": 32.776,
       "longitude": 44.949,
@@ -698,9 +697,9 @@
       "name_ru": "Первый месопотамский царь",
       "tags": [
         "Elamites",
+        "Sumerian",
         "King",
-        "Mesopotamia",
-        "Victory"
+        "Mesopotamia"
       ],
       "type": "political"
     },
@@ -836,11 +835,11 @@
       "name": "Jōmon Maritime Technology",
       "name_ru": "Морские технологии Дзёмон",
       "tags": [
+        "Japanese",
         "Jōmon",
         "Fishing",
         "Maritime",
-        "Technology",
-        "Japanese"
+        "Technology"
       ],
       "type": "scientific"
     },
@@ -1407,11 +1406,11 @@
       "name_ru": "Каменные круги Ою",
       "source": "https://jomon-japan.jp/en/jomon-sites/oyu/",
       "tags": [
+        "Japanese",
         "Jōmon",
         "Building 🏠",
         "Megalithic",
-        "Stone Circle",
-        "Japanese"
+        "Stone Circle"
       ],
       "type": "cultural"
     },
@@ -2891,10 +2890,10 @@
       "name": "Late Jōmon Climate Adaptation",
       "name_ru": "Похолодание в Японии",
       "tags": [
+        "Japanese",
         "Jōmon",
         "Climate Crisis",
-        "Trade",
-        "Japanese"
+        "Trade"
       ],
       "type": "historic"
     }

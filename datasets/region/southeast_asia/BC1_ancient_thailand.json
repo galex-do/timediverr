@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 44 events",
+  "description": "Dataset imported with 33 events",
   "events": [
     {
       "date": "01.01.9900",
@@ -29,7 +29,6 @@
       "source": "https://en.wikipedia.org/wiki/Hoabinhian",
       "tags": [
         "Agriculture",
-        "Archaeology",
         "Hoabinhian",
         "Thai"
       ],

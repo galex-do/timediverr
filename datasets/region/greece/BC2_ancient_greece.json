@@ -2953,6 +2953,7 @@
         "Greek",
         "Ancient Wonders",
         "Art",
+        "Olympic",
         "Religious",
         "Sculpture",
         "Temple"
@@ -4585,8 +4586,8 @@
       "description": "Mass wedding at Susa where Alexander and 80 officers marry Persian noblewomen to unite Greek and Persian aristocracy; Alexander takes Darius's daughter Stateira II as second wife",
       "description_ru": "Массовая свадьба в Сузах, где Александр и его диадохи женятся на знатных женщинах Персии (дочерях императоров и сатрапов) для объединения греческой и персидской аристократии; Александр берет дочь Дария Статиру II как вторую жену",
       "era": "BC",
-      "latitude": 32.1877,
-      "longitude": 48.2526,
+      "latitude": 32.1897,
+      "longitude": 48.2583,
       "name": "Greek Weddings at Susa",
       "name_ru": "Греческие свадьбы в Сузах",
       "source": "https://en.wikipedia.org/wiki/Susa_weddings",
