@@ -282,7 +282,7 @@ export default {
   setup() {
     const { canCreateEvents, canEditEvents, isGuest } = useAuth()
     const { allTags, loadTags } = useTags()
-    const { formatEventDisplayDate, formatDayMonth, t } = useLocale()
+    const { formatEventDisplayDate, formatEventDisplaySmart, formatDayMonth, t } = useLocale()
     return {
       canCreateEvents,
       canEditEvents,
@@ -291,6 +291,7 @@ export default {
       t,
       loadTags,
       formatEventDisplayDate,
+      formatEventDisplaySmart,
       formatDayMonth
     }
   },
@@ -515,7 +516,7 @@ export default {
           }
           dateMap.get(eventDate).events.push({
             ...event,
-            _formattedDate: this.formatEventDisplayDate(event.event_date, event.era)
+            _formattedDate: this.formatEventDisplaySmart(event.event_date, event.era)
           })
         })
 

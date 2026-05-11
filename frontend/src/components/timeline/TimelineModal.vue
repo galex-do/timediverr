@@ -295,7 +295,7 @@ export default {
   },
   emits: ['close', 'focus-event', 'tag-clicked', 'remove-tag', 'show-detail', 'expand-date-range'],
   setup(props, { emit }) {
-    const { t, formatEventDisplayDate, formatDayMonth, currentLocale } = useLocale()
+    const { t, formatEventDisplayDate, formatEventDisplaySmart, formatDayMonth, currentLocale } = useLocale()
     const previouslyFocusedElement = ref(null)
     const scrollContainer = ref(null)
     
@@ -471,7 +471,7 @@ export default {
           }
           dateMap.get(eventDate).events.push({
             ...event,
-            _formattedDate: formatEventDisplayDate(event.event_date, event.era)
+            _formattedDate: formatEventDisplaySmart(event.event_date, event.era)
           })
         })
 

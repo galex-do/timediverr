@@ -855,6 +855,25 @@ export function useLocale() {
     }
     return formatEventDisplayDate(isoDateString, era)
   }
+
+  // Smart formatter for inline event dates in map / timeline views.
+  // Year-only dates (Jan 1 placeholder) keep the compact "200" / "200 BC" form,
+  // while day/month dates render as a readable "1 March 293" / "1 марта 293".
+  const formatEventDisplaySmart = (isoDateString, era) => {
+    if (!isoDateString) return ''
+
+    const datePart = isoDateString.startsWith('-')
+      ? isoDateString.substring(1).split('T')[0]
+      : isoDateString.split('T')[0]
+    const parts = datePart.split('-')
+    const month = parseInt(parts[1], 10)
+    const day = parseInt(parts[2], 10)
+
+    if (month === 1 && day === 1) {
+      return formatEventDisplayDate(isoDateString, era)
+    }
+    return formatLocalizedDate(isoDateString, era)
+  }
   
   return {
     locale: computed(() => locale.value),
@@ -867,6 +886,7 @@ export function useLocale() {
     formatLocalizedDate,
     formatDayMonth,
     formatEventDisplayDate,
-    formatEventDisplayDateLong
+    formatEventDisplayDateLong,
+    formatEventDisplaySmart
   }
 }
