@@ -474,8 +474,10 @@ export default {
         } else {
           year = parseInt(isoDateString.split('T')[0].split('-')[0], 10)
         }
-        const eraLabel = era === 'BC' ? this.t('eraBC') : this.t('eraAD')
-        return `${year} ${eraLabel}`
+        if (era === 'BC') {
+          return `${year} ${this.t('eraBC')}`
+        }
+        return `${year}`
       }
 
       const isJanFirst = (isoDateString) => {

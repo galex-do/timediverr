@@ -754,9 +754,11 @@ export function useLocale() {
     }
     
     const monthName = t(monthKeys[month])
-    const eraLabel = era === 'BC' ? t('eraBC') : t('eraAD')
-    
-    return `${day} ${monthName} ${year} ${eraLabel}`
+
+    if (era === 'BC') {
+      return `${day} ${monthName} ${year} ${t('eraBC')}`
+    }
+    return `${day} ${monthName} ${year}`
   }
 
   // Format day and month only (no year), using full localized month names
@@ -811,16 +813,17 @@ export function useLocale() {
       day = parseInt(parts[2], 10)
     }
     
-    const eraLabel = era === 'BC' ? t('eraBC') : t('eraAD')
-    
+    const isBC = era === 'BC'
+    const eraSuffix = isBC ? ` ${t('eraBC')}` : ''
+
     if (month === 1 && day === 1) {
-      return `${year} ${eraLabel}`
+      return `${year}${eraSuffix}`
     }
-    
+
     const paddedDay = String(day).padStart(2, '0')
     const paddedMonth = String(month).padStart(2, '0')
-    
-    return `${paddedDay}.${paddedMonth}.${year} ${eraLabel}`
+
+    return `${paddedDay}.${paddedMonth}.${year}${eraSuffix}`
   }
   
   return {

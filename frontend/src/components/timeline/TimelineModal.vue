@@ -340,7 +340,7 @@ export default {
       if (!dateStr) return ''
       return dateStr
         .replace(/\bBC\b/, t('eraBC'))
-        .replace(/\bAD\b/, t('eraAD'))
+        .replace(/\s*\bAD\b/, '')
     }
 
     const titleElement = ref(null)
@@ -419,8 +419,10 @@ export default {
       } else {
         year = parseInt(isoDateString.split('T')[0].split('-')[0], 10)
       }
-      const eraLabel = era === 'BC' ? t('eraBC') : t('eraAD')
-      return `${year} ${eraLabel}`
+      if (era === 'BC') {
+        return `${year} ${t('eraBC')}`
+      }
+      return `${year}`
     }
 
     const isJanFirst = (isoDateString) => {
