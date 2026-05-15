@@ -398,7 +398,7 @@
         "Crisis",
         "Elections",
         "Islamic",
-        "Rashidun Caliphate",
+        "Rashidun",
         "Religious"
       ],
       "type": "political"
@@ -420,7 +420,7 @@
         "Crisis",
         "Islamic",
         "Political",
-        "Rashidun Caliphate",
+        "Rashidun",
         "Rebellion",
         "Schism",
         "Unification"
@@ -446,7 +446,7 @@
         "Islamic",
         "Palestine",
         "Qurayshite",
-        "Rashidun Caliphate"
+        "Rashidun"
       ],
       "type": "military"
     },
@@ -465,7 +465,7 @@
         "Caliph",
         "Islamic",
         "Political",
-        "Rashidun Caliphate",
+        "Rashidun",
         "Sunni"
       ],
       "type": "political"
@@ -486,7 +486,7 @@
         "Expansion",
         "Fortification",
         "Islamic",
-        "Rashidun Caliphate"
+        "Rashidun"
       ],
       "type": "historic"
     },
@@ -507,7 +507,7 @@
         "Infrastructure",
         "Islamic",
         "Political",
-        "Rashidun Caliphate"
+        "Rashidun"
       ],
       "type": "political"
     },
@@ -528,7 +528,7 @@
         "Christian",
         "Islamic",
         "Political",
-        "Rashidun Caliphate",
+        "Rashidun",
         "Tolerance",
         "Turning Point"
       ],
@@ -539,8 +539,8 @@
       "description": "The city was founded on the banks of the Euphrates. Caliph Umar set a condition: find a place where the soil was \"clean\" (free from rot and insects), and where there were no rivers or bridges between Medina and the camp, so that the couriers could ride unhindered. According to legend, Kufa was built on the site where Noah (Nuh) once began building his ark.",
       "description_ru": "Город заложили на берегу Евфрата. Халиф Умар поставил условие: найти место, где почва была бы «чистой» (без гнили и насекомых), а между Мединой и лагерем не было бы рек или мостов, чтобы гонцы могли доскакать беспрепятственно. Согласно преданиям, Куфа была построена на месте, где когда-то Ной (Нух) начал строить свой ковчег.",
       "era": "AD",
-      "latitude": 32.02940789,
-      "longitude": 44.39987183,
+      "latitude": 32.02925323,
+      "longitude": 44.40078914,
       "name": "Foundation of Kufa",
       "name_ru": "Основание Куфы Исламским халифатом",
       "source": "https://en.wikipedia.org/wiki/Kufa",
@@ -550,7 +550,7 @@
         "Legend",
         "Expansion",
         "Islamic",
-        "Rashidun Caliphate"
+        "Rashidun"
       ],
       "type": "historic"
     },
@@ -571,7 +571,7 @@
         "Calendar",
         "Islamic",
         "Political",
-        "Rashidun Caliphate"
+        "Rashidun"
       ],
       "type": "political"
     },
@@ -582,8 +582,8 @@
       "era": "AD",
       "latitude": 24.47,
       "longitude": 39.61,
-      "name": "Umar ibn al-Khattab Is Assassinated in the Mosque of Medina",
-      "name_ru": "Умар ибн аль-Хаттаб убит в мечети Медины",
+      "name": "Caliph Umar Is Assassinated in the Mosque of Medina",
+      "name_ru": "Халиф Умар убит в мечети Медины",
       "source": "https://en.wikipedia.org/wiki/Umar",
       "tags": [
         "Arabian",
@@ -591,7 +591,7 @@
         "Death",
         "Islamic",
         "Political",
-        "Rashidun Caliphate"
+        "Rashidun"
       ],
       "type": "historic"
     },
@@ -612,7 +612,7 @@
         "Islamic",
         "Political",
         "Qurayshite",
-        "Rashidun Caliphate"
+        "Rashidun"
       ],
       "type": "political"
     },
@@ -630,7 +630,7 @@
         "Arabian",
         "Culture",
         "Islamic",
-        "Rashidun Caliphate",
+        "Rashidun",
         "Religious",
         "Standardization",
         "Text"
@@ -654,7 +654,7 @@
         "Battle",
         "Byzantine",
         "Naval",
-        "Rashidun Caliphate"
+        "Rashidun"
       ],
       "type": "military"
     },
@@ -665,8 +665,8 @@
       "era": "AD",
       "latitude": 24.47,
       "longitude": 39.61,
-      "name": "Uthman ibn Affan was killed by rebel soldiers",
-      "name_ru": "Усман ибн Аффан убит мятежными солдатами",
+      "name": "Caliph Uthman is killed by rebel soldiers",
+      "name_ru": "Халиф Усман убит мятежными солдатами",
       "source": "https://en.wikipedia.org/wiki/Uthman",
       "tags": [
         "Arabian",
@@ -678,7 +678,7 @@
         "Murder",
         "Mutiny",
         "Political",
-        "Rashidun Caliphate"
+        "Rashidun"
       ],
       "type": "political"
     },
@@ -699,7 +699,7 @@
         "Crisis",
         "Islamic",
         "Political",
-        "Rashidun Caliphate",
+        "Rashidun",
         "Religious"
       ],
       "type": "political"
@@ -719,7 +719,7 @@
         "Civil War",
         "Battle",
         "Islamic",
-        "Rashidun Caliphate"
+        "Rashidun"
       ],
       "type": "military"
     },
@@ -738,7 +738,7 @@
         "Civil War",
         "Battle",
         "Islamic",
-        "Rashidun Caliphate",
+        "Rashidun",
         "Religious"
       ],
       "type": "military"
@@ -758,10 +758,9 @@
         "Civil War",
         "Islamic",
         "Radicalism",
-        "Rashidun Caliphate",
+        "Rashidun",
         "Religious",
-        "Schism",
-        "Sect"
+        "Schism"
       ],
       "type": "religious"
     },
@@ -781,7 +780,7 @@
         "Battle",
         "Crisis",
         "Islamic",
-        "Rashidun Caliphate",
+        "Rashidun",
         "Religious"
       ],
       "type": "military"
@@ -803,7 +802,7 @@
         "Death",
         "Islamic",
         "Political",
-        "Rashidun Caliphate",
+        "Rashidun",
         "Religious",
         "Shia",
         "Sunni"
@@ -815,20 +814,21 @@
       "description": "Ali's elder son Hasan is acclaimed caliph in Kufa immediately after his father's death, but his Kufan army quickly proves unreliable — soldiers begin deserting, and there is an assassination attempt on Hasan himself — while Muawiyah marches north with the full military resources of Syria, Egypt, and the former Sassanid territories. After negotiating terms that guarantee his safety, generous financial provisions, and the principle that Hasan's brother Husayn will succeed Muawiyah if he outlives him, Hasan formally abdicates at the 'Year of Unity' (Am al-Jama'a). Muawiyah is universally recognised as caliph from Medina to the Persian frontier.\n\nThe abdication of Hasan and the accession of Muawiyah closes the Rashidun period and opens the Umayyad dynasty — a transformation with the most far-reaching consequences in Islamic history. The caliphate is now explicitly hereditary (Muawiyah designates his son Yazid as heir, the first dynastic succession in Islam), the capital moves from Medina to Damascus (transforming the Islamic state from an Arabian polity to a Syrian-based Mediterranean empire), and the prophetic family — the Ahl al-Bayt — is marginalised from power in a way that will eventually produce the catastrophe of Karbala and the permanent institutional Sunni-Shia split.",
       "description_ru": "Старший сын Али, Хасан, провозглашается халифом в Куфе немедленно после гибели отца, однако его армия быстро оказывается ненадёжной — солдаты дезертируют, совершается покушение на самого Хасана, — тогда как Муавия движется с севера с полными военными ресурсами Сирии, Египта и бывших Сасанидских территорий. Договорившись об условиях, гарантирующих ему безопасность и щедрые финансовые средства, Хасан официально отрекается от власти в «Год Единства» (Ам аль-Джамаа). Муавия повсеместно признаётся халифом от Медины до Персидской границы.\n\nОтречение Хасана и воцарение Муавии закрывает период Праведного халифата и открывает Умайядскую династию. Халифат становится явно наследственным, столица переносится из Медины в Дамаск, превращая исламское государство из аравийского в средиземноморскую империю, а семья Пророка отстраняется от власти",
       "era": "AD",
-      "latitude": 33.51,
-      "longitude": 36.29,
+      "latitude": 33.5138,
+      "longitude": 36.2765,
       "name": "Muawiyah Founds the Umayyad Caliphate",
       "name_ru": "Муавия основывает Умайядский халифат",
       "source": "https://en.wikipedia.org/wiki/Hasan%E2%80%93Muawiya_treaty",
       "tags": [
         "Arabian",
+        "Umayyad",
         "Civil War",
+        "Caliph",
         "Capital",
         "Crisis",
         "Foundation",
         "Islamic",
-        "Political",
-        "Umayyad Caliphate"
+        "Political"
       ],
       "type": "political"
     }

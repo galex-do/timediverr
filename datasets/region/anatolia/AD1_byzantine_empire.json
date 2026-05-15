@@ -233,8 +233,8 @@
       "description": "The brilliant general Belisarius lands in North Africa with only 15,000 men and defeats the Vandal kingdom in two decisive battles — Decimum and Tricamarum — within four months, capturing the Vandal king Gelimer and sending him in chains to Constantinople for a triumph, the first staged in the capital for centuries. The reconquest of the grain-rich African provinces is strategically vital: Africa supplies much of the empire's grain and tax revenue, and its recovery seems to confirm that the full reconstitution of the Roman Empire is achievable. Within a decade Justinian will attempt the same in Italy, with far more costly and ultimately futile results.",
       "description_ru": "Блестящий полководец Велисарий высаживается в Северной Африке всего с 15 000 воинов и за четыре месяца разбивает Вандальское королевство в двух решающих сражениях, захватив вандальского короля Гелимера и отправив его в цепях на триумф — первый в столице за несколько веков. Отвоевание богатых зерном африканских провинций жизненно важно: Африка поставляет значительную часть зерна и налоговых доходов.",
       "era": "AD",
-      "latitude": 36.85,
-      "longitude": 10.33,
+      "latitude": 36.853,
+      "longitude": 10.323,
       "name": "Byzantine Empire Reconquers North Africa from the Vandals",
       "name_ru": "Византия отвоёвывает Северную Африку у вандалов",
       "source": "https://en.wikipedia.org/wiki/Vandalic_War",
@@ -499,7 +499,7 @@
         "Byzantine",
         "Decline",
         "Islamic",
-        "Rashidun Caliphate"
+        "Rashidun"
       ],
       "type": "military"
     },
@@ -521,7 +521,7 @@
         "Byzantine",
         "Conquest",
         "Islamic",
-        "Rashidun Caliphate"
+        "Rashidun"
       ],
       "type": "military"
     },
@@ -538,12 +538,12 @@
       "tags": [
         "Arabian",
         "Roman",
+        "Umayyad",
         "War",
         "Byzantine",
         "Innovation",
         "Islamic",
         "Siege",
-        "Umayyad Caliphate",
         "Weapon"
       ],
       "type": "military"
@@ -582,11 +582,11 @@
       "tags": [
         "Arabian",
         "Roman",
+        "Umayyad",
         "War",
         "Byzantine",
         "Islamic",
         "Siege",
-        "Umayyad Caliphate",
         "Bulgarian"
       ],
       "type": "military"
@@ -800,6 +800,7 @@
         "War",
         "Byzantine",
         "Conquest",
+        "Shia",
         "Syria"
       ],
       "type": "military"
@@ -910,8 +911,8 @@
         "Crisis",
         "Decline",
         "Failure",
-        "Seljuk",
-        "Turkish"
+        "Oguz",
+        "Turkic"
       ],
       "type": "military"
     },
@@ -927,6 +928,7 @@
       "source": "https://en.wikipedia.org/wiki/First_Crusade",
       "tags": [
         "Roman",
+        "First",
         "Byzantine",
         "Christian",
         "Political",
@@ -972,8 +974,8 @@
         "Ambush",
         "Byzantine",
         "Decline",
-        "Seljuk",
-        "Turkish"
+        "Oguz",
+        "Turkic"
       ],
       "type": "military"
     },
@@ -995,6 +997,7 @@
         "Christian",
         "Decline",
         "Destruction",
+        "Fourth",
         "Plundering",
         "Siege",
         "Venice",
@@ -1056,8 +1059,9 @@
         "Battle",
         "Byzantine",
         "Decline",
-        "Ottoman",
-        "Turkish"
+        "Oguz",
+        "Turkic",
+        "Ottoman"
       ],
       "type": "military"
     },
@@ -1077,8 +1081,9 @@
         "Byzantine",
         "Decline",
         "Expansion",
-        "Ottoman",
-        "Turkish"
+        "Oguz",
+        "Turkic",
+        "Ottoman"
       ],
       "type": "historic"
     },
@@ -1099,10 +1104,11 @@
         "Byzantine",
         "Decline",
         "Expansion",
+        "Oguz",
         "Serbian",
+        "Turkic",
         "Ottoman",
-        "Slavic",
-        "Turkish"
+        "Slavic"
       ],
       "type": "military"
     },
@@ -1126,10 +1132,11 @@
         "Genoa",
         "Holy Roman Empire",
         "Hungary",
+        "Oguz",
+        "Turkic",
         "Venice",
         "Crusade",
-        "Ottoman",
-        "Turkish"
+        "Ottoman"
       ],
       "type": "military"
     },
@@ -1148,9 +1155,10 @@
         "Battle",
         "Byzantine",
         "Mongolian",
+        "Oguz",
         "Tamerlane 👤",
-        "Ottoman",
-        "Turkish"
+        "Turkic",
+        "Ottoman"
       ],
       "type": "military"
     }
