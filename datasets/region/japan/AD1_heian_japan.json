@@ -12,10 +12,10 @@
       "name_ru": "Ссылка Сугавара-но Митидзанэ в Дадзайфу",
       "source": "https://en.wikipedia.org/wiki/Sugawara_no_Michizane",
       "tags": [
+        "Japanese",
         "Exile",
         "Political",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -30,11 +30,11 @@
       "name_ru": "Смерть Митидзанэ и рождение культа Тэндзин",
       "source": "https://en.wikipedia.org/wiki/Tenjin_(kami)",
       "tags": [
+        "Japanese",
         "Animism",
         "Crisis",
         "Shintoism",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -49,11 +49,11 @@
       "name_ru": "Кокинсю — первая японская антология вака",
       "source": "https://en.wikipedia.org/wiki/Kokinsh%C5%AB",
       "tags": [
+        "Japanese",
         "Literature",
         "Poetry",
         "Text",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -68,12 +68,12 @@
       "name_ru": "Обожествление Тэндзин",
       "source": "https://en.wikipedia.org/wiki/Tenjin_(kami)",
       "tags": [
+        "Japanese",
         "Animism",
         "Deification",
         "Religious",
         "Shintoism",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -88,13 +88,13 @@
       "name_ru": "«Энгисики» — административный кодекс Японии",
       "source": "https://en.wikipedia.org/wiki/Engishiki",
       "tags": [
+        "Japanese",
         "Administration",
         "Bureaucracy",
         "Code",
         "Law",
         "Shintoism",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -109,9 +109,9 @@
       "name_ru": "«Тоса никки» — дневник морского путешествия в Киото",
       "source": "https://en.wikipedia.org/wiki/Tosa_Diary",
       "tags": [
+        "Japanese",
         "Literature",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -126,11 +126,11 @@
       "name_ru": "Восстание Тайра-но Масакадо на равнине Канто",
       "source": "https://en.wikipedia.org/wiki/Taira_no_Masakado",
       "tags": [
+        "Japanese",
         "Civil War",
         "Battle",
         "Rebellion",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -145,14 +145,14 @@
       "name_ru": "Морской мятеж Фудзивара-но Сумитомо",
       "source": "https://en.wikipedia.org/wiki/Fujiwara_no_Sumitomo",
       "tags": [
+        "Japanese",
         "Civil War",
         "Fujiwara",
         "Minamoto",
         "Piracy",
         "Rebellion",
         "Taira",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -167,11 +167,11 @@
       "name_ru": "Основание святилища Китано Тэнман-гу",
       "source": "https://en.wikipedia.org/wiki/Kitano_Tenman-g%C5%AB",
       "tags": [
+        "Japanese",
         "Holy Site",
         "Religious",
         "Shintoism",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -186,12 +186,12 @@
       "name_ru": "Закрепление регентства Фудзивара",
       "source": "https://en.wikipedia.org/wiki/Anna_Incident",
       "tags": [
+        "Japanese",
         "Crisis",
         "Fujiwara",
         "Political",
         "Regency",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -206,11 +206,11 @@
       "name_ru": "Гион Мацури - праздник очищения",
       "source": "https://en.wikipedia.org/wiki/Gion_Festival",
       "tags": [
+        "Japanese",
         "Holidays",
         "Holy Site",
         "Shintoism",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -225,9 +225,9 @@
       "name_ru": "«Кагэро никки» — дневник аристократки Фудзивара",
       "source": "https://en.wikipedia.org/wiki/Kager%C5%8D_Nikki",
       "tags": [
+        "Japanese",
         "Literature",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -242,11 +242,11 @@
       "name_ru": "«Одзёёсю» Гэнсина распространяет учение Чистой земли",
       "source": "https://en.wikipedia.org/wiki/%C5%8Cj%C5%8Dy%C5%8Dsh%C5%AB",
       "tags": [
+        "Japanese",
         "Religious",
         "Text",
         "Buddhism",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -261,10 +261,10 @@
       "name_ru": "Абэ-но Сэймэй — мастер-оммёдзи хэйанского двора",
       "source": "https://en.wikipedia.org/wiki/Abe_no_Seimei",
       "tags": [
+        "Japanese",
         "Political",
         "Shintoism",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -279,11 +279,11 @@
       "name_ru": "Фудзивара-но Митинага правит в Японии",
       "source": "https://en.wikipedia.org/wiki/Fujiwara_no_Michinaga",
       "tags": [
+        "Japanese",
         "Fujiwara",
         "Political",
         "Regency",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -298,10 +298,10 @@
       "name_ru": "Сэй Сёнагон пишет «Записки у изголовья»",
       "source": "https://en.wikipedia.org/wiki/The_Pillow_Book",
       "tags": [
+        "Japanese",
         "Innovation",
         "Literature",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -316,10 +316,10 @@
       "name_ru": "«Повесть о Гэндзи» — первый роман в мире",
       "source": "https://en.wikipedia.org/wiki/The_Tale_of_Genji",
       "tags": [
+        "Japanese",
         "Literature",
         "Psychology",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -334,11 +334,11 @@
       "name_ru": "Монахи-воины сōхэй терроризируют Киото",
       "source": "https://en.wikipedia.org/wiki/S%C5%8Dhei",
       "tags": [
+        "Japanese",
         "Civil War",
         "Crisis",
         "Buddhism",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -353,10 +353,10 @@
       "name_ru": "Частные поместья сёэн захватывают земли Японии",
       "source": "https://en.wikipedia.org/wiki/Sh%C5%8Den_(Japan)",
       "tags": [
+        "Japanese",
         "Reform",
         "Law",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -371,10 +371,10 @@
       "name_ru": "Начало эпохи Маппō в Японии",
       "source": "https://en.wikipedia.org/wiki/Mapp%C5%8D",
       "tags": [
+        "Japanese",
         "Decline",
         "Buddhism",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -389,12 +389,12 @@
       "name_ru": "Строительство зала Феникса Бёдōин в Удзи",
       "source": "https://en.wikipedia.org/wiki/By%C5%8Dd%C5%8D-in",
       "tags": [
+        "Japanese",
         "Architecture",
         "Holy Site",
         "Temple",
         "Buddhism",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -409,12 +409,12 @@
       "name_ru": "Император Го-Сандзō подрывает власть Фудзивара",
       "source": "https://en.wikipedia.org/wiki/Emperor_Go-Sanjo",
       "tags": [
+        "Japanese",
         "Reform",
         "Crisis",
         "Fujiwara",
         "Political",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -429,12 +429,12 @@
       "name_ru": "Паломнические пути Кумано",
       "source": "https://en.wikipedia.org/wiki/Kumano_Kod%C5%8D",
       "tags": [
+        "Japanese",
         "Pilgrimage",
         "Religious",
         "Shintoism",
         "Buddhism",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -449,11 +449,11 @@
       "name_ru": "Северные Фудзивара основывают столицу в Хираидзуми",
       "source": "https://en.wikipedia.org/wiki/Northern_Fujiwara",
       "tags": [
+        "Japanese",
         "Capital",
         "Fujiwara",
         "Buddhism",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -468,12 +468,12 @@
       "name_ru": "Формирование сословия самураев",
       "source": "https://en.wikipedia.org/wiki/Samurai",
       "tags": [
+        "Japanese",
         "Aristocracy",
         "Military",
         "Minamoto",
         "Taira",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -488,11 +488,11 @@
       "name_ru": "Поход монахов-воинов сōхэй на Киото",
       "source": "https://en.wikipedia.org/wiki/S%C5%8Dhei",
       "tags": [
+        "Japanese",
         "Crisis",
         "Rebellion",
         "Buddhism",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -507,12 +507,12 @@
       "name_ru": "«Гэндзи-моногатари Эмаки» — старейший иллюстрированный свиток Японии",
       "source": "https://en.wikipedia.org/wiki/Emakimono",
       "tags": [
+        "Japanese",
         "Architecture",
         "Art",
         "Culture",
         "Literature",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -527,12 +527,12 @@
       "name_ru": "Кондзики-дō Тюсондзи — Золотой зал в Хираидзуми",
       "source": "https://en.wikipedia.org/wiki/Konjikid%C5%8D",
       "tags": [
+        "Japanese",
         "Architecture",
         "Holy Site",
         "Temple",
         "Buddhism",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -547,11 +547,11 @@
       "name_ru": "Сад Чистой земли Мōцудзи в Хираидзуми",
       "source": "https://en.wikipedia.org/wiki/M%C5%8Dts%C5%ABji",
       "tags": [
+        "Japanese",
         "Architecture",
         "Holy Site",
         "Buddhism",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -566,10 +566,10 @@
       "name_ru": "Мятеж Хōгэн",
       "source": "https://en.wikipedia.org/wiki/H%C5%8Dgen_rebellion",
       "tags": [
+        "Japanese",
         "Civil War",
         "Rebellion",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -584,10 +584,10 @@
       "name_ru": "Мятеж Хэйдзи — клан Тайра побеждает Минамото",
       "source": "https://en.wikipedia.org/wiki/Heiji_rebellion",
       "tags": [
+        "Japanese",
         "Civil War",
         "Rebellion",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -602,13 +602,13 @@
       "name_ru": "Минамото-но-Ёритомо сослан на Идзу",
       "source": "https://en.wikipedia.org/wiki/Minamoto_no_Yoritomo",
       "tags": [
+        "Japanese",
         "Civil War",
         "Exile",
         "Genpei",
         "Minamoto",
         "Political",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -623,10 +623,10 @@
       "name_ru": "Тайра-но Киёмори — Дайдзō-дайдзин",
       "source": "https://en.wikipedia.org/wiki/Taira_no_Kiyomori",
       "tags": [
+        "Japanese",
         "Political",
         "Taira",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "political"
     },
@@ -641,12 +641,12 @@
       "name_ru": "Кийомори отстраивает святилище Ицукусима",
       "source": "https://en.wikipedia.org/wiki/Itsukushima_Shrine",
       "tags": [
+        "Japanese",
         "Architecture",
         "Holy Site",
         "Shintoism",
         "Taira",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -661,10 +661,10 @@
       "name_ru": "Пожар уничтожает половину Киото",
       "source": "https://en.wikipedia.org/wiki/H%C5%8Dj%C5%8Dki",
       "tags": [
+        "Japanese",
         "Crisis",
         "Disaster",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -679,12 +679,12 @@
       "name_ru": "Провал заговора против Тайра",
       "source": "https://en.wikipedia.org/wiki/Shishigatani_incident",
       "tags": [
+        "Japanese",
         "Conspiracy",
         "Crisis",
         "Political",
         "Taira",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -699,13 +699,13 @@
       "name_ru": "Военный переворот Тайра-но Киёмори в Японии",
       "source": "https://en.wikipedia.org/wiki/Taira_no_Kiyomori",
       "tags": [
+        "Japanese",
         "Civil War",
         "Crisis",
         "Overthrow",
         "Political",
         "Taira",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "political"
     },
@@ -720,12 +720,12 @@
       "name_ru": "Призыв принца Мотихито к восстанию против Тайра",
       "source": "https://en.wikipedia.org/wiki/Mochihito-ō",
       "tags": [
+        "Japanese",
         "Civil War",
         "Genpei",
         "Rebellion",
         "Taira",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -740,12 +740,12 @@
       "name_ru": "Киёмори переносит столицу в Фукухара",
       "source": "https://en.wikipedia.org/wiki/Fukuhara-ky%C5%8D",
       "tags": [
+        "Japanese",
         "Capital",
         "Crisis",
         "Political",
         "Taira",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -760,11 +760,11 @@
       "name_ru": "Минамото-но Ёритомо поднимает армию на Канто",
       "source": "https://en.wikipedia.org/wiki/Minamoto_no_Yoritomo",
       "tags": [
+        "Japanese",
         "Civil War",
         "Genpei",
         "Minamoto",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -779,13 +779,13 @@
       "name_ru": "Минамото разбивает Тайра у Фудзи",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Fujigawa",
       "tags": [
+        "Japanese",
         "Civil War",
         "Battle",
         "Genpei",
         "Minamoto",
         "Taira",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "military"
     },
@@ -800,12 +800,12 @@
       "name_ru": "Смерть Тайра-но Киёмори",
       "source": "https://en.wikipedia.org/wiki/Taira_no_Kiyomori",
       "tags": [
+        "Japanese",
         "Crisis",
         "Death",
         "Political",
         "Taira",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -820,11 +820,11 @@
       "name_ru": "Голод годов Ёва-Дзюэй опустошает Японию",
       "source": "https://en.wikipedia.org/wiki/Y%C5%8Dwa-Juei_Famine",
       "tags": [
+        "Japanese",
         "Climate Crisis",
         "Crisis",
         "Famine",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -839,13 +839,13 @@
       "name_ru": "Минамото-но Ёсинака входит в Киото",
       "source": "https://en.wikipedia.org/wiki/Minamoto_no_Yoshinaka",
       "tags": [
+        "Japanese",
         "Civil War",
         "Battle",
         "Genpei",
         "Minamoto",
         "Taira",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "military"
     },
@@ -860,12 +860,12 @@
       "name_ru": "Минамото-но Ёсинака гибнет в бою против братьев",
       "source": "https://en.wikipedia.org/wiki/Minamoto_no_Yoshinaka",
       "tags": [
+        "Japanese",
         "Civil War",
         "Battle",
         "Genpei",
         "Minamoto",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "military"
     },
@@ -880,13 +880,13 @@
       "name_ru": "Победа Минамото при Итинотани",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Ichi-no-Tani",
       "tags": [
+        "Japanese",
         "Civil War",
         "Battle",
         "Genpei",
         "Minamoto",
         "Taira",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "military"
     },
@@ -901,13 +901,13 @@
       "name_ru": "Битва при Ясима — Тайра изгнаны с Сикоку",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Yashima",
       "tags": [
+        "Japanese",
         "Civil War",
         "Battle",
         "Genpei",
         "Minamoto",
         "Taira",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "military"
     },
@@ -922,14 +922,14 @@
       "name_ru": "Битва при Данноура — уничтожение клана Тайра",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Dan-no-ura",
       "tags": [
+        "Japanese",
         "Civil War",
         "Battle",
         "Genpei",
         "Minamoto",
         "Naval",
         "Taira",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "military"
     },
@@ -944,12 +944,12 @@
       "name_ru": "Сюго-дзито — институционализация военного правительства",
       "source": "https://en.wikipedia.org/wiki/Kamakura_shogunate",
       "tags": [
+        "Japanese",
         "Reform",
         "Administration",
         "Bureaucracy",
         "Kamakura",
-        "Law",
-        "Japanese"
+        "Law"
       ],
       "type": "political"
     },
@@ -964,12 +964,13 @@
       "name_ru": "«Хэйкэ-моногатари» — великая устная эпическая традиция Японии",
       "source": "https://en.wikipedia.org/wiki/The_Tale_of_the_Heike",
       "tags": [
+        "Japanese",
         "Civil War",
         "Literature",
         "Music",
+        "Oral Tradition",
         "Poetry",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -984,12 +985,12 @@
       "name_ru": "Ёритомо становится первым сёгуном Камакура",
       "source": "https://en.wikipedia.org/wiki/Minamoto_no_Yoritomo",
       "tags": [
+        "Japanese",
         "Genpei",
         "Kamakura",
         "Minamoto",
         "Political",
-        "Shogun",
-        "Japanese"
+        "Shogun"
       ],
       "type": "political"
     }

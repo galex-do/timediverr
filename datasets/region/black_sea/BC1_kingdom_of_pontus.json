@@ -492,6 +492,7 @@
       "tags": [
         "Greek",
         "Pontus",
+        "Caucasian",
         "Colchis",
         "Vassalage",
         "Wood"
@@ -894,6 +895,26 @@
       "type": "historic"
     },
     {
+      "date": "17.12.0066",
+      "description": "Plutarch writes that Pompey, pursuing Mithridates of Pontus, wintered in the Kura River valley. The king of Caucasian Albania, Orozos, attacked the Roman camp during the festival of Saturnalia, but Pompey unraveled the leader's plan and defeated him.",
+      "description_ru": "Плутарх пишет, что Помпей, преследуя Митридата Понтийского, остановился на зиму в долине реки Кура. Царь Кавказской Албании Оройз напал на римский лагерь во время праздника Сатурналий, однако Помпей разгадал план вождя и нанес ему поражение.",
+      "era": "BC",
+      "latitude": 41.08973902,
+      "longitude": 45.35516739,
+      "name": "Pompey's Battle in the Kura Valley",
+      "name_ru": "Сражение Помпея в долине Кура",
+      "tags": [
+        "Roman",
+        "Mithridatic",
+        "War",
+        "Battle",
+        "Caucasian",
+        "Expedition",
+        "Pompey the Great 👤"
+      ],
+      "type": "military"
+    },
+    {
       "date": "01.08.0066",
       "description": "Pompey the Great overtakes Mithridates at the Lycus River in Lesser Armenia. Pompey attacks at night, the moon is behind the Romans - Pontic soldiers in the darkness throw darts into the long shadows of the legionaries. The Pontic army was defeated. Mithridates flees with 800 horsemen and rides north through Colchis to the Black Sea. Pompey founded the city of Nicopolis (\"City of Victory\") on the site of his victory.",
       "description_ru": "Помпей Великий настигает Митридата у реки Лик в Малой Армении. Помпей атакует ночью, луна за спиной у римлян — понтийские солдаты в темноте метают дротики в длинные тени легионеров. Понтийская армия разгромлена. Митридат бежит с 800 всадниками и скачет на север через Колхиду к Чёрному морю. Помпей основал город Никополь («Город Победы») на месте своей победы.",
@@ -966,29 +987,12 @@
         "Roman",
         "Mithridatic",
         "War",
+        "Caucasian",
         "Colchis",
         "Expedition",
         "Pompey the Great 👤"
       ],
       "type": "historic"
-    },
-    {
-      "date": "01.01.0065",
-      "description": "Plutarch writes that Pompey, pursuing Mithridates of Pontus, wintered in the Kura River valley. The king of Caucasian Albania, Orozos, attacked the Roman camp during the festival of Saturnalia, but Pompey unraveled the leader's plan and defeated him.",
-      "description_ru": "Плутарх пишет, что Помпей, преследуя Митридата Понтийского, остановился на зиму в долине реки Кура. Царь Кавказской Албании Оройз напал на римский лагерь во время праздника Сатурналий, однако Помпей разгадал план вождя и нанес ему поражение.",
-      "era": "BC",
-      "latitude": 41.08973902,
-      "longitude": 45.35516739,
-      "name": "Pompey's campaign in the Caucasus",
-      "name_ru": "Поход Помпея на Кавказ",
-      "tags": [
-        "Roman",
-        "Mithridatic",
-        "War",
-        "Expedition",
-        "Pompey the Great 👤"
-      ],
-      "type": "military"
     },
     {
       "date": "01.01.0064",

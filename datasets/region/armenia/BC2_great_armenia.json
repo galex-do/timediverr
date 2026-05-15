@@ -326,13 +326,13 @@
     },
     {
       "date": "01.01.0090",
-      "description": "Tigranes took advantage of the internal instability in Iberia, overthrew the pro-Parthian government, and installed his relative as governor in Caucasian Iberia. Otherwise, Tigranes left Iberia sufficient autonomy to make them his long-term allies.",
-      "description_ru": "Тигран воспользовался внутренней нестабильностью в Иберии, снес пропарфянскую власть и посадил в Кавказской Иберии наместником своего родича. В остальном Тигран оставил Иберии достаточную автономию, чтобы сделать их своими долгосрочными союзниками.",
+      "description": "Tigranes took advantage of the internal instability in Kartli, overthrew the pro-Parthian government, and installed his relative as governor in Caucasian Iberia. Otherwise, Tigranes left Iberia sufficient autonomy to make them his long-term allies.",
+      "description_ru": "Тигран воспользовался внутренней нестабильностью в Картли, снес пропарфянскую власть и посадил в Кавказской Иберии наместником своего родича. В остальном Тигран оставил царству достаточную автономию, чтобы сделать их своими долгосрочными союзниками. Эти отношения сохранялись 24 года, до капитуляции Тиграна перед Помпеем",
       "era": "BC",
       "latitude": 41.82685121,
       "longitude": 44.68178272,
-      "name": "Armenia subjugates Iberia",
-      "name_ru": "Армения подчиняет Иберию",
+      "name": "Armenia subjugates Kartli",
+      "name_ru": "Армения подчиняет Картли",
       "source": "https://en.wikipedia.org/wiki/Tigranes_the_Great",
       "tags": [
         "Armenian",
@@ -340,7 +340,8 @@
         "Artaxiad",
         "Caucasian",
         "Tigranes the Great 👤",
-        "Vassalage"
+        "Vassalage",
+        "Kartli"
       ],
       "type": "military"
     },
