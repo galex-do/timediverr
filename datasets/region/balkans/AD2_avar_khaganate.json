@@ -1,0 +1,351 @@
+{
+  "description": "Dataset imported with 16 events",
+  "events": [
+    {
+      "date": "01.01.0552",
+      "description": "In 552 AD, the Göktürk ('Blue Turk') confederation under Bumin Qaghan destroyed the Rouran Khaganate — the dominant nomadic empire of the Mongolian steppe — in a series of battles that ended Rouran political power within a single campaign season. The Rouran had ruled the steppe for over a century; their destruction was sudden, complete, and accompanied by the systematic execution of the Rouran royal clan. The remnant Rouran population either submitted to Göktürk authority or fled westward. A western group — almost certainly the ancestors of the European Avars, though the exact identification remains debated among historians — crossed the Kazakh steppe and the Volga into the Pontic steppe, carrying with them the political traditions, military organization, and court ceremonial of the defunct Rouran empire.\n\nThe Göktürk expansion was one of the pivotal events of sixth-century Eurasian history. By destroying the Rouran and establishing control from Manchuria to the Aral Sea, the Göktürks created a single political authority across the entire northern steppe — and simultaneously generated the refugee waves that would reshape Europe. The proto-Avars were one fragment; the Kutrigur and Utigur Bulgars, also displaced by Göktürk pressure, were others. The steppe refugee crisis of the 550s–560s set in motion a chain of population movements that would end with the Lombards in Italy, the Avars in Pannonia, and the Slavs across the entire Balkan peninsula — a restructuring of European ethnography that persists to the present day.",
+      "description_ru": "В 552 году н.э. Тюркский каганат под командованием Бумин-кагана уничтожил Жужаньский каганат — господствующую кочевую империю Монгольской степи — в серии сражений, покончивших с жужаньской политической властью за один сезон. Остаток жужаньского населения либо подчинился тюркам, либо бежал на запад. Западная группа — почти наверняка предки европейских авар, хотя точная идентификация остаётся предметом дискуссий среди историков, — пересекла Казахскую степь и Волгу в Понтийскую степь, неся с собой политические традиции, военную организацию и придворный церемониал погибшей Жужаньской империи.\n\nЭкспансия Тюркского каганата стала одним из ключевых событий евразийской истории VI века. Уничтожив жужаней и установив контроль от Маньчжурии до Аральского моря, тюрки создали единую политическую власть на всей северной степи — и одновременно породили волны беженцев, которые преобразили Европу. Прото-авары были одним фрагментом; Кутригурские и Утигурские булгары, также вытесненные тюркским давлением, — другими. Степной кризис беженцев 550-х–560-х годов запустил цепь переселений, которая завершилась появлением лангобардов в Италии, авар в Паннонии и славян по всему Балканскому полуострову.",
+      "era": "AD",
+      "latitude": 47.0,
+      "longitude": 106.0,
+      "name": "Göktürks Destroy the Rouran — The Avars Are Set in Motion",
+      "name_ru": "Тюрки уничтожают жужаней — авары пускаются в путь",
+      "source": "https://en.wikipedia.org/wiki/Rouran_Khaganate",
+      "tags": [
+        "Pannonian Avars",
+        "Steppe",
+        "Nomad",
+        "Migration",
+        "Collapse"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0558",
+      "description": "In 558 AD, an Avar embassy arrived at Constantinople seeking an audience with Emperor Justinian I. The envoys, led by a man named Kandikh, presented themselves as a powerful people recently arrived in the Pontic steppe and proposed an alliance: the Avars would serve as Byzantine auxiliaries against the empire's enemies in exchange for annual gold payments, land, and diplomatic recognition. Justinian, who had spent his reign trying to maintain the balance of power on the steppe by playing nomadic confederations against each other, recognized immediately the military potential of this new people and welcomed the embassy warmly. The Byzantine court historian Menander the Guardsman recorded that the Avar envoys wore their hair in elaborate long braids — a prestigious style among steppe aristocracies — and that Justinian sent them gifts of gold, silver, and silk.\n\nThe Avar-Byzantine alliance that followed was transactional and mutually exploitative from the beginning. Justinian used the Avars to destroy the Utigur Bulgars and Sabir Huns who had been raiding the empire; the Avars used the Byzantine gold and the intelligence network of the empire to understand the political landscape they were entering. Over the following decade, the Avars systematically absorbed or destroyed the nomadic peoples of the Pontic and Pannonian steppe — the Antes Slavs, the Kutrigur Bulgars, the Gepids — with Byzantine encouragement when it suited imperial interests and Byzantine alarm when it did not. The pattern of nomadic expansion through a combination of military superiority and shrewd exploitation of sedentary states' rivalries was one the Byzantines recognized from the Huns; they were reproducing the same relationship, with the same eventual consequences.",
+      "description_ru": "В 558 году н.э. аварское посольство прибыло в Константинополь для аудиенции у императора Юстиниана I. Послы, возглавляемые неким Кандихом, представились как могущественный народ, недавно появившийся в Понтийской степи, и предложили союз: авары будут служить византийскими вспомогательными войсками против врагов империи в обмен на ежегодные золотые выплаты, земли и дипломатическое признание. Юстиниан немедленно распознал военный потенциал нового народа и тепло встретил посольство. Византийский придворный историк Менандр Протиктор записал, что аварские послы носили волосы в длинных сложных косах — престижный стиль среди степных аристократий.\n\nАваро-византийский союз, последовавший за этим, с самого начала носил взаимовыгодный и взаимоэксплуататорский характер. Юстиниан использовал авар для уничтожения утигурских булгар и сабирских гуннов, набегавших на империю; авары использовали византийское золото и разведывательную сеть империи для понимания политического ландшафта, в который они входили. На протяжении следующего десятилетия авары систематически поглощали или уничтожали кочевые народы Понтийской и Паннонской степи — антских славян, кутригурских булгар, гепидов. Схема кочевой экспансии через сочетание военного превосходства и умелой эксплуатации соперничества оседлых государств была хорошо знакома Византии по гуннам.",
+      "era": "AD",
+      "latitude": 41.01,
+      "longitude": 28.96,
+      "name": "Avars Send Embassy to Justinian I — The Alliance That Opened Europe",
+      "name_ru": "Авары направляют посольство к Юстиниану I — союз, открывший Европу",
+      "source": "https://en.wikipedia.org/wiki/Avar_Khaganate",
+      "tags": [
+        "Pannonian Avars",
+        "Steppe",
+        "Nomad",
+        "Byzantine",
+        "Roman",
+        "Diplomacy",
+        "Political",
+        "Migration"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0567",
+      "description": "In 567 AD, the Avar Khagan Bayan I concluded an alliance with the Lombard king Alboin against the Gepid Kingdom — the Germanic state that occupied the eastern Pannonian basin (modern Vojvodina and northern Serbia), controlling the strategic city of Sirmium and the middle Danube crossing. The Gepids and Lombards had been at war intermittently for decades; Alboin wanted Gepid territory and offered the Avars the Gepid lands east of the Tisza in exchange for military support. In the battle that followed, the Gepid king Cunimund was killed — Alboin reportedly made a drinking cup from his skull — and the Gepid kingdom was annihilated as a political entity. It was one of the most complete destructions of a Germanic state in the Migration Period.\n\nThe destruction of the Gepids removed the last obstacle to Avar occupation of the Pannonian plain. The basin between the Danube and the Tisza, stretching from the Alps to the Carpathians and from the Danube to the Sava, was one of the great grassland environments of Europe — capable of supporting large horse herds and ideally suited to the nomadic military economy the Avars had brought from the steppe. Bayan had identified it from intelligence provided partly by Byzantine diplomats and partly by his own reconnaissance. The Gepid war was not an opportunistic raid but a planned seizure of precisely the territory the Avars needed: a Pannonian base equivalent to the Hungarian plain that the Huns had occupied a century and a half earlier and from which a steppe confederation could project military power across the entire central European theatre.",
+      "description_ru": "В 567 году н.э. Аварский каган Баян I заключил союз с лангобардским королём Альбоином против Гепидского королевства — германского государства, занимавшего восточный Паннонский бассейн, контролировавшего стратегический город Сирмий и среднедунайскую переправу. Гепидский король Кунимунд был убит — Альбоин, по преданию, сделал из его черепа чашу для питья, — и Гепидское королевство было уничтожено как политическое образование. Это было одно из наиболее полных уничтожений германского государства в эпоху Великого переселения народов.\n\nУничтожение гепидов устранило последнее препятствие для аварской оккупации Паннонской равнины. Бассейн между Дунаем и Тисой, простирающийся от Альп до Карпат и от Дуная до Савы, был одной из великих степных сред Европы — способной прокормить крупные конские табуны и идеально подходящей для кочевой военной экономики, которую авары принесли из степи. Баян идентифицировал её с помощью разведданных, частично предоставленных византийскими дипломатами. Война с гепидами была не случайным набегом, а спланированным захватом именно той территории, которая была нужна аварам: Паннонской базы, равнозначной той, которую гунны занимали полтора столетия назад.",
+      "era": "AD",
+      "latitude": 45.30,
+      "longitude": 19.90,
+      "name": "Avars and Lombards Annihilate the Gepid Kingdom",
+      "name_ru": "Авары и лангобарды уничтожают Гепидское королевство",
+      "source": "https://en.wikipedia.org/wiki/Gepids",
+      "tags": [
+        "Pannonian Avars",
+        "Steppe",
+        "Nomad",
+        "Lombard",
+        "Gepid",
+        "Germanic",
+        "War",
+        "Battle",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0568",
+      "description": "In 568 AD, the Lombard king Alboin led his entire people — men, women, children, cattle, household goods — across the Julian Alps into northeastern Italy, abandoning Pannonia permanently in exchange for the conquest of the Italian peninsula that had been destabilizing under Byzantine tax pressure and plague. The departure was pre-negotiated with Bayan I: the Lombards received Italy, the Avars received Pannonia and the right to resettle the Lombards' former territory. Bayan reportedly told Alboin that if the Lombards ever needed to return, Pannonia would be held for them for two hundred years. Alboin's people never returned; they became the ancestors of modern Lombardy.\n\nWith the Lombard departure, the entire Pannonian basin — the modern territory of Hungary, with adjacent portions of Austria, Slovakia, Croatia, and Serbia — fell to the Avars without further fighting. Bayan moved his headquarters into the plain and began constructing the system of earthwork enclosures (called hrings or rings in Frankish sources) that would serve as the Avar capital, treasury, and ritual centre for the next two centuries. The Avar Ring — described by Frankish sources as a series of nine concentric circles of earthwork and timber, each large enough to contain a settlement — was built near the junction of the Danube and Tisza rivers, in the geographic heart of the Pannonian basin. The Avars had replicated, in Europe, the classic steppe pattern: a nomadic confederation occupying a single great grassland basin and using it as the base for military projection across the surrounding sedentary world.",
+      "description_ru": "В 568 году н.э. лангобардский король Альбоин повёл свой народ через Юлийские Альпы в Северо-Восточную Италию, навсегда покинув Паннонию в обмен на завоевание Апеннинского полуострова. Отступление было предварительно согласовано с Баяном I: лангобарды получали Италию, авары — Паннонию. Баян, по преданию, сказал Альбоину, что если лангобарды когда-нибудь захотят вернуться, Паннония будет удерживаться за ними двести лет. Народ Альбоина не вернулся никогда; он стал предком жителей современной Ломбардии.\n\nС уходом лангобардов весь Паннонский бассейн — современная территория Венгрии с прилегающими частями Австрии, Словакии, Хорватии и Сербии — достался аварам без дальнейших боёв. Баян перенёс свою штаб-квартиру на равнину и приступил к строительству системы земляных укреплений (называемых хрингами или кольцами в франкских источниках), которая служила аварской столицей, казначейством и ритуальным центром на протяжении двух следующих столетий. Авары воспроизвели в Европе классическую степную схему: кочевая конфедерация занимает единый великий степной бассейн и использует его как базу для военного давления на окружающий оседлый мир.",
+      "era": "AD",
+      "latitude": 47.50,
+      "longitude": 19.00,
+      "name": "Lombards Depart for Italy — Avars Inherit Pannonia",
+      "name_ru": "Лангобарды уходят в Италию — авары наследуют Паннонию",
+      "source": "https://en.wikipedia.org/wiki/Lombards",
+      "tags": [
+        "Pannonian Avars",
+        "Steppe",
+        "Nomad",
+        "Lombard",
+        "Germanic",
+        "Migration",
+        "Political",
+        "Foundation"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0570",
+      "description": "Khagan Bayan I — who ruled the Avar Khaganate from its founding through approximately 602 AD — was one of the most consequential military commanders of the sixth century, and his army one of the most formidable forces in Europe. The Avar military system combined three distinct elements: the Avar heavy cavalry, armoured in lamellar plate or scale armour and equipped with lance, sabre, and composite bow; Avar and allied steppe light cavalry for scouting, screening, and pursuit; and Slavic infantry allies who provided the siege expertise, river-crossing capabilities, and numerical mass the Avars lacked. The combination gave the Avar army a flexibility that neither Byzantine nor Frankish forces possessed — capable of long-range raiding, pitched battle, and systematic siege warfare simultaneously.\n\nThe most transformative Avar military technology was the stirrup. While the origin of the European stirrup remains debated, it is broadly accepted that rigid paired metal stirrups — enabling a rider to stand in the saddle, transfer body weight into a lance charge, and fight with a sword without being unhorsed — were introduced to central and western Europe by the Avars in the late sixth century. The military historian Lynn White Jr. argued in 1962 that the Frankish adoption of the stirrup from the Avars was the technological precondition for the development of armoured cavalry — and therefore of the feudal social order built around equipping and maintaining it. Whether or not that causal chain holds in full, the Avar military system was copied across Europe: Frankish, Lombard, and Byzantine cavalry adopted Avar equipment, armour styles, and tactical concepts within a generation of first contact.",
+      "description_ru": "Каган Баян I — правивший Аварским каганатом с момента его основания примерно до 602 года н.э. — был одним из наиболее значимых военных командиров VI века, а его армия — одной из наиболее грозных сил в Европе. Аварская военная система сочетала три различных элемента: аварскую тяжёлую конницу, облачённую в ламеллярный или чешуйчатый доспех и вооружённую копьём, саблей и составным луком; лёгкую конницу для разведки, заслона и преследования; и союзную славянскую пехоту, обеспечивавшую осадные знания, способность к переправе через реки и численную массу. Сочетание давало аварской армии гибкость, которой не обладали ни Byzantия, ни франки.\n\nНаиболее преобразующей аварской военной технологией было стремя. Хотя происхождение европейского стремени остаётся предметом дискуссий, в целом принято считать, что жёсткие парные металлические стремена — позволявшие всаднику вставать в седле, вкладывать вес тела в удар копьём и биться мечом, не падая, — были введены в Центральной и Западной Европе аварами в конце VI века. Историк военного дела Линн Уайт-мл. в 1962 году утверждал, что франкское усвоение стремени от авар было технологическим предварительным условием развития бронированной конницы и, следовательно, феодального социального порядка. Аварская военная система копировалась по всей Европе: франкская, лангобардская и byzantийская конница переняла аварское снаряжение, стили доспехов и тактические концепции в течение одного поколения после первого контакта.",
+      "era": "AD",
+      "latitude": 47.50,
+      "longitude": 19.00,
+      "name": "Bayan I and the Avar War Machine — The Stirrup Reaches Europe",
+      "name_ru": "Баян I и аварская военная машина — стремя приходит в Европу",
+      "source": "https://en.wikipedia.org/wiki/Bayan_I",
+      "tags": [
+        "Pannonian Avars",
+        "Steppe",
+        "Nomad",
+        "Military",
+        "Culture"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0582",
+      "description": "Sirmium (modern Sremska Mitrovica, Serbia) was the most strategically significant city in the western Balkans: it stood at the junction of the Pannonian plain and the Balkan mountain passes, controlling the principal road from the Danube to Constantinople and the river crossing at the confluence of the Sava and the Danube. It had been one of the four capitals of the late Roman Empire; it remained the administrative centre of the Illyricum prefecture and the gateway through which any Pannonian power could project force southward into Roman territory. In 579, Bayan began demanding its surrender from Emperor Tiberius II; refused, he besieged it. The city held for three years before surrendering due to famine in 582.\n\nThe fall of Sirmium was the opening of the Balkan catastrophe that would consume the next four decades. With Sirmium in Avar hands, Byzantine defensive strategy in the Balkans had no secure anchor point west of Singidunum (Belgrade). Bayan immediately exploited the breach: Avar and Slavic raiding parties penetrated deep into Thrace, Moesia, and Macedonia, wintering south of the Danube and returning to Pannonia only when resistance stiffened. The towns and agricultural communities of the Balkans — which had survived two centuries of Gothic and Hunnic raiding through the protection of walled cities — found that neither their walls nor their garrison were adequate against coordinated Avar siegecraft combined with the numbers the Slavic allies brought. Entire provincial populations began withdrawing into fortified hilltops or coastal cities; the agricultural land of the interior was progressively abandoned.",
+      "description_ru": "Сирмий (совр. Сремска-Митровица, Сербия) был наиболее стратегически значимым городом Западных Балкан: он стоял на стыке Паннонской равнины и балканских горных перевалов, контролируя главную дорогу от Дуная до Константинополя. Он был одной из четырёх столиц Поздней Римской империи. В 579 году Баян начал требовать его сдачи от императора Тиберия II; получив отказ, осадил его. Город держался три года прежде, чем сдался из-за голода в 582 году.\n\nПадение Сирмия открыло балканскую катастрофу, которая поглотила следующие четыре десятилетия. Получив Сирмий, Баян немедленно использовал пробоину: аварские и славянские набеговые отряды проникали вглубь Фракии, Мезии и Македонии, зимуя к югу от Дуная и возвращаясь в Паннонию лишь когда сопротивление усиливалось. Города и сельские общины Балкан обнаружили, что ни их стены, ни гарнизоны не достаточны против скоординированного аварского осадного искусства в сочетании с численностью, которую приносили славянские союзники. Целые провинциальные населения начали отступать в укреплённые высоты или прибрежные города; сельскохозяйственные земли внутренних районов прогрессивно забрасывались.",
+      "era": "AD",
+      "latitude": 44.97,
+      "longitude": 19.62,
+      "name": "Sack of Sirmium — The Byzantine Balkans Begin to Fall",
+      "name_ru": "Падение Сирмия — начало краха Балканской Byzantии",
+      "source": "https://en.wikipedia.org/wiki/Sirmium",
+      "tags": [
+        "Pannonian Avars",
+        "Steppe",
+        "Nomad",
+        "Byzantine",
+        "Roman",
+        "War",
+        "Siege",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0586",
+      "description": "Thessaloniki — the second city of the Byzantine Empire, controlling the Aegean coast and the principal road from the Danube to the southern Balkans — was besieged by a combined Avar-Slavic army in 586 AD (some sources date a second major siege to 597 or 618). The city was protected by massive Theodosian-era walls and its garrison was reinforced by the fleet, which the Avars could not interdict. But the size of the besieging force — described by eyewitness accounts compiled in the Miracles of Saint Demetrius as unprecedented — and the sophistication of the siege equipment deployed (including wheeled siege towers, tortoise formations, and incendiary projectiles) demonstrated that the Avars had acquired substantial engineering expertise, likely from captured Byzantine artisans and defectors.\n\nThe city survived, and the Byzantine sources attribute its salvation to the miraculous intervention of its patron, Saint Demetrius, who was seen walking the walls during the critical moments of the assault. The Miracles of Saint Demetrius — a collection of accounts of divine interventions protecting the city compiled by its bishops over the following century — is simultaneously a hagiographic text and an invaluable historical source for the Avar-Slavic military operations of the period. The failure to take Thessaloniki was strategically significant: it preserved Byzantine communications with the Aegean coast and prevented the Avars from controlling the Via Egnatia, the great road connecting the Adriatic with Constantinople. But the siege demonstrated that no city in the Balkans, short of Constantinople itself, could be considered permanently safe behind its walls.",
+      "description_ru": "Фессалоника — второй город Byzantийской империи, контролировавший побережье Эгейского моря и главную дорогу от Дуная на южные Балканы, — была осаждена объединённой аваро-славянской армией в 586 году н.э. Город был защищён мощными феодосиевскими стенами и его гарнизон усиливался флотом, который авары не могли пресечь. Но масштаб осаждающего войска и сложность применявшегося осадного оборудования — включая колёсные осадные башни, черепашьи построения и зажигательные снаряды — продемонстрировали, что авары приобрели значительные инженерные знания, вероятно от захваченных byzantийских мастеров и перебежчиков.\n\nГород выстоял, и byzantийские источники приписывают его спасение чудесному вмешательству святого покровителя Димитрия Солунского, которого видели идущим по стенам в критические моменты штурма. «Чудеса святого Димитрия» — собрание свидетельств о чудесных вмешательствах, защитивших город, составленное его епископами на протяжении следующего столетия, — является одновременно агиографическим текстом и неоценимым историческим источником по аваро-славянским военным операциям периода. Провал под Фессалоникой имел стратегическое значение: он сохранил byzantийские коммуникации с Эгейским побережьем.",
+      "era": "AD",
+      "latitude": 40.64,
+      "longitude": 22.94,
+      "name": "Avars Besiege Thessaloniki — The Miracle of Saint Demetrius",
+      "name_ru": "Авары осаждают Фессалонику — чудо святого Димитрия",
+      "source": "https://en.wikipedia.org/wiki/Miracles_of_Saint_Demetrius",
+      "tags": [
+        "Pannonian Avars",
+        "Steppe",
+        "Nomad",
+        "Slavic",
+        "Byzantine",
+        "Roman",
+        "War",
+        "Siege",
+        "Christian",
+        "Religious"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0593",
+      "description": "Emperor Maurice (reigned 582–602 AD) was the last Byzantine emperor to seriously attempt to recover the Balkans from Avar and Slavic encroachment through sustained offensive operations. Beginning in 592, his general Priscus conducted campaigns across the Danube into Avar-controlled territory, winning a series of engagements and demonstrating that Byzantine field armies, when properly supplied and led, could defeat Avar forces in pitched battle. Maurice controversially ordered the army to winter north of the Danube rather than retreat to warmer quarters south of the river — a logistically demanding order intended to maintain permanent pressure on the Avars and deny their Slavic clients the annual raiding window.\n\nThe Danube campaigns ultimately failed politically rather than militarily. In 602, the army mutinied against the wintering order, elevated a junior officer named Phocas as emperor, and marched on Constantinople. Maurice was captured, forced to watch the execution of his sons, and then killed himself. Phocas's subsequent misrule — brutal, incompetent, and consumed by dynastic purges — destroyed the military machine Maurice had rebuilt and simultaneously provoked the Sassanid Persian invasion that would occupy Byzantine attention for the next quarter century. The collapse of the Danube defence after 602 opened the floodgates: Slavic groups settled permanently south of the river en masse, and the Avars extended their tribute demands to encompass territory from the Rhine to the Black Sea. Maurice had been the last emperor with both the will and the means to contest Avar dominance of the Balkans; after 602, no one tried seriously for nearly two centuries.",
+      "description_ru": "Император Маврикий (правил в 582–602 гг.) был последним byzantийским императором, всерьёз пытавшимся вернуть Балканы из-под аварского и славянского давления путём систематических наступательных операций. Начиная с 592 года его полководец Приск проводил кампании за Дунаем, выигрывая ряд сражений и демонстрируя, что byzantийские полевые армии, при надлежащем снабжении и командовании, могут побеждать аварские войска в открытом бою. Маврикий спорно приказал армии зимовать к северу от Дуная, а не отступать на юг — требование, призванное поддерживать постоянное давление на авар.\n\nДунайские кампании в конечном счёте потерпели поражение не военное, а политическое. В 602 году армия взбунтовалась, возвела в императоры некоего Фоку и двинулась на Константинополь. Маврикий был захвачен, принуждён наблюдать казнь своих сыновей и затем убит. Последовавшее дурное правление Фоки уничтожило военную машину, которую Маврикий восстановил, и одновременно спровоцировало сасанидское персидское вторжение. Крах Дунайской обороны после 602 года открыл шлюзы: славянские группы осели постоянно к югу от реки массово, а авары расширили свои данные требования на территорию от Рейна до Чёрного моря.",
+      "era": "AD",
+      "latitude": 43.80,
+      "longitude": 25.90,
+      "name": "Emperor Maurice's Danube Campaigns — The Last Byzantine Counteroffensive",
+      "name_ru": "Дунайские кампании императора Маврикия — последнее byzantийское контрнаступление",
+      "source": "https://en.wikipedia.org/wiki/Maurice_(emperor)",
+      "tags": [
+        "Pannonian Avars",
+        "Steppe",
+        "Nomad",
+        "Byzantine",
+        "Roman",
+        "War",
+        "Military",
+        "Political"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0600",
+      "description": "The Avar-Slavic raids on the Balkans between approximately 580 and 620 AD produced one of the most dramatic demographic transformations in European history. The provinces of Moesia, Dacia, Pannonia Secunda, Illyricum, Macedonia, and Thessaly — which had been Romanized agricultural territories with significant urban populations, Latin or Greek-speaking, Christian, and integrated into the late antique Mediterranean economy — were effectively emptied of their former populations and resettled by Slavic agricultural communities moving southward under Avar political suzerainty. By 620 AD, Slavic speakers occupied most of the territory of modern Slovenia, Croatia, Bosnia, Serbia, Bulgaria, North Macedonia, and northern Greece.\n\nThe mechanism was not a single military conquest but a progressive abandonment: farmers fled raids into fortified cities or across the sea; cities that could not be held were evacuated to coastal enclaves or to Constantinople; the agricultural hinterland, untended, reverted to forest and scrub. Slavic families — who came as colonists following the Avar military umbrella, not as conquerors themselves — occupied the emptied land. The process was invisible in military terms because it involved no decisive battles; it was a slow ecological succession accelerated by violence. The result was the Slavicization of the Balkans, which created the ethnic and linguistic map that, with modifications, persists today: the South Slavic languages (Slovenian, Croatian, Bosnian, Serbian, Bulgarian, Macedonian) are the direct legacy of this sixth-to-seventh-century settlement, which itself would not have occurred without the Avar military umbrella that made the migration possible and safe.",
+      "description_ru": "Аваро-славянские набеги на Балканы приблизительно между 580 и 620 годами н.э. произвели одну из наиболее драматических демографических трансформаций в европейской истории. Провинции Мезии, Дакии, Второй Паннонии, Иллирика, Македонии и Фессалии — романизированные сельскохозяйственные территории со значительным городским населением, христианским, говорящим по-латыни или по-гречески и интегрированным в позднеантичную средиземноморскую экономику — были фактически обезлюдены и заселены славянскими земледельческими общинами, двигавшимися на юг под аварским политическим суверенитетом. К 620 году н.э. славяноязычные народы заняли большую часть территории современных Словении, Хорватии, Боснии, Сербии, Болгарии, Северной Македонии и Северной Греции.\n\nМеханизм был не единым военным завоеванием, а прогрессивным оставлением: крестьяне бежали от набегов в укреплённые города или за море; города, которые не удавалось удержать, эвакуировались в прибрежные анклавы или Константинополь; необрабатываемые сельскохозяйственные угодья зарастали лесом. Славянские семьи — приходившие как колонисты под аварским военным зонтом, а не как завоеватели — занимали опустевшие земли. Результатом стала славянизация Балкан, создавшая этническую и языковую карту, которая с модификациями сохраняется сегодня: южнославянские языки являются прямым наследием этого заселения VI–VII веков.",
+      "era": "AD",
+      "latitude": 42.00,
+      "longitude": 22.00,
+      "name": "Avars and Slavs Redraw the Balkans — The Slavicization of Europe",
+      "name_ru": "Авары и славяне перекраивают Балканы — славянизация Европы",
+      "source": "https://en.wikipedia.org/wiki/Slavic_settlement_of_the_Eastern_Alps",
+      "tags": [
+        "Pannonian Avars",
+        "Steppe",
+        "Nomad",
+        "Slavic",
+        "Byzantine",
+        "Roman",
+        "Migration",
+        "Historic"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0605",
+      "description": "At the centre of the Pannonian basin, between the Danube and Tisza rivers, the Avars constructed their capital and treasury: a system of great circular earthwork enclosures that Frankish and Latin sources call the Ring or Rings (hring in Old High German, avarium in Latin). Carolingian annalists who described the Ring after its capture in 796 AD portrayed it as a concentric series of earthen ramparts — some sources say nine rings, others fewer — each enclosing a defended space large enough to contain settlements, pasture for horse herds, and warehouses. The innermost ring contained the khagan's residence and, crucially, the accumulated tribute of two centuries: gold and silver plate, silk textiles, Byzantine coin, and luxury goods extracted from both the Eastern and Western empires.\n\nThe Ring was not simply a capital city in the Roman or Byzantine sense. It was a mobile concept made permanent: the circular earthwork enclosure derives from the Eurasian steppe tradition of the wagon-laager, the defensive ring of carts that nomadic armies drew around their camps. The Avar Ring was a laager that had grown in place for two centuries, its earth walls replacing the wagon perimeter but preserving the circular form and the concept of a protected interior enclosing livestock and valuables. When Charlemagne's forces captured it in 795–796 AD, they found a wealth that stunned the Frankish court: fifteen cartloads of gold, silver, and precious textiles were sent to Aachen, and the distribution of Avar treasure to Charlemagne's allies is recorded as one of the most significant single transfers of wealth in the early medieval period. The source of this wealth was straightforward: annual tribute from the Byzantine and Frankish empires, accumulated across two hundred years of military extortion.",
+      "description_ru": "В центре Паннонского бассейна, между Дунаем и Тисой, авары возвели свою столицу и казначейство: систему огромных круговых земляных укреплений, которые франкские и латинские источники называют Кольцом или Кольцами. Каролингские анналисты, описывавшие Кольцо после его захвата в 796 году н.э., изображали его как концентрическую серию земляных валов — некоторые источники говорят о девяти кольцах, другие — о меньшем числе, — каждое из которых охватывало защищённое пространство, достаточно большое для поселений, пастбищ для конных табунов и складов. Самое внутреннее кольцо содержало резиденцию кагана и, что важнее всего, накопленную за два столетия дань: золотую и серебряную посуду, шёлковые ткани, byzantийские монеты и предметы роскоши, изъятые у обеих империй.\n\nКогда силы Карла Великого захватили его в 795–796 годах н.э., они обнаружили богатство, поразившее франкский двор: пятнадцать повозок с золотом, серебром и драгоценными тканями были отправлены в Ахен, и распределение аварской добычи среди союзников Карла зафиксировано как один из наиболее значительных единовременных переводов богатства в раннесредневековый период. Источник этого богатства был прост: ежегодная дань с Byzantийской и Франкской империй, накопленная за двести лет военного вымогательства.",
+      "era": "AD",
+      "latitude": 47.30,
+      "longitude": 20.00,
+      "name": "The Avar Ring — Treasury of Two Empires",
+      "name_ru": "Аварское Кольцо — казначейство двух империй",
+      "source": "https://en.wikipedia.org/wiki/Ring_of_the_Avars",
+      "tags": [
+        "Pannonian Avars",
+        "Steppe",
+        "Nomad",
+        "Culture",
+        "Architecture",
+        "Kingdom",
+        "Political"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0623",
+      "description": "Around 623 AD, a Frankish merchant named Samo — presumably a trader in weapons or luxury goods who had been doing business in central Europe — became the war leader of Slavic groups in Bohemia and Moravia who were in rebellion against their Avar overlords. The Slavs had been subordinate to the Avars since the late sixth century, serving as infantry in Avar campaigns and providing agricultural surplus as tribute; the relationship, according to Byzantine and Frankish sources, was exploitative to the point of systematic abuse. Samo organized the Slavic resistance, led them to a series of military victories against Avar raiding forces, and established the first recorded Slavic political entity in central European history — known to historians as Samo's Empire — which survived until his death around 658 AD.\n\nSamo's rebellion was the first serious indication that the Avar political model — military dominance over Slavic agricultural subjects — was reaching its limits of sustainability. The Avars' core population was small; the Slavic subject peoples were far more numerous; the system worked as long as the Avars' military superiority was unchallengeable and their organizational capacity remained intact. When Samo demonstrated that a Slavic force, properly led, could defeat Avar cavalry, the psychological foundation of Avar dominance was permanently damaged. The Frankish king Dagobert I, who had been raided by Samo's Slavs, attempted to reassert Frankish authority by attacking Samo's state in 631; his forces were decisively defeated at the fortress of Wogastisburg — demonstrating that Samo's state could hold its own against both Avar and Frankish military power simultaneously. The rebellion did not destroy the Avar Khaganate, but it removed the Bohemian and Moravian territories from Avar control permanently and established the principle that Slavic political organization was possible and viable.",
+      "description_ru": "Около 623 года н.э. франкский купец по имени Само — по всей видимости, торговец оружием или предметами роскоши, ведший дела в Центральной Европе, — стал военным вождём славянских групп в Богемии и Моравии, восставших против своих аварских повелителей. Само организовал славянское сопротивление, привёл их к серии военных побед над аварскими набеговыми силами и основал первое зафиксированное славянское политическое образование в истории Центральной Европы — известное историкам как «держава Само», — просуществовавшее до его смерти около 658 года н.э.\n\nВосстание Само было первым серьёзным признаком того, что аварская политическая модель — военное господство над славянскими земледельческими подданными — достигает пределов устойчивости. Коренное население авар было невелико; число славянских подчинённых народов было несравнимо большим; система работала, пока военное превосходство авар оставалось неоспоримым. Когда Само продемонстрировал, что славянское войско при надлежащем командовании способно побеждать аварскую конницу, психологическая основа аварского господства была необратимо подорвана. Восстание не уничтожило Аварский каганат, но навсегда вывело из-под аварского контроля богемские и моравские территории.",
+      "era": "AD",
+      "latitude": 49.80,
+      "longitude": 15.50,
+      "name": "Samo's Slavic Rebellion — The First Cracks in the Avar Empire",
+      "name_ru": "Восстание Само — первые трещины в Аварской империи",
+      "source": "https://en.wikipedia.org/wiki/Samo%27s_Empire",
+      "tags": [
+        "Pannonian Avars",
+        "Steppe",
+        "Nomad",
+        "Slavic",
+        "War",
+        "Battle",
+        "Political",
+        "Foundation"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0680",
+      "description": "The establishment of the First Bulgarian Empire on the lower Danube in 679–681 AD — the result of Khan Asparuh's Bulgars crossing the Danube and defeating Emperor Constantine IV — created a new political pressure on the eastern flank of the Avar Khaganate. The Bulgarians and Avars were not simply neighbours but rivals for the allegiance of the Slavic peoples between them and competitors for the tribute that those peoples could provide. Throughout the late seventh and eighth centuries, Avar-Bulgarian relations oscillated between uneasy accommodation and open conflict; the Bulgarian state's steady expansion westward along the Danube progressively reduced the Avar-controlled zone in the eastern Pannonian plain.\n\nThe Bulgarian pressure from the east, combined with Frankish pressure from the west and Slavic rebellions from within, defined the structural crisis that would eventually destroy the Khaganate. In the 790s, a civil war broke out within the Avar ruling elite — a succession dispute that reportedly produced multiple khagans in quick succession and destroyed the military coordination that had been the Khaganate's core strength. The civil war did not cause the Frankish attack; Charlemagne had been planning a systematic campaign against the Avars since 788 or earlier. But it meant that when Charlemagne struck in 791, the Khaganate's response was fatally fragmented. The conjunction of internal collapse, external military pressure from two directions, and the loss of the tributary income that had funded the entire political structure produced a collapse as sudden and complete as any in medieval history.",
+      "description_ru": "Основание Первого Болгарского царства на нижнем Дунае в 679–681 годах н.э. — результат перехода булгар хана Аспаруха через Дунай и поражения императора Константина IV — создало новое политическое давление на восточный фланг Аварского каганата. Болгары и авары были не просто соседями, но соперниками за лояльность славянских народов между ними и конкурентами за дань, которую те народы могли поставлять. На протяжении конца VII и VIII веков аваро-болгарские отношения колебались между неудобным сосуществованием и открытым конфликтом; неуклонное расширение болгарского государства на запад вдоль Дуная прогрессивно сокращало аварскую зону контроля.\n\nБолгарское давление с востока в сочетании с франкским давлением с запада и славянскими восстаниями изнутри определили структурный кризис, который в конечном счёте уничтожит каганат. В 790-х годах внутри аварской правящей элиты вспыхнула гражданская война — наследственный спор, предположительно породивший несколько каганов в быстрой последовательности и разрушивший военную координацию, бывшую основой силы каганата. Совокупность внутреннего краха, внешнего военного давления с двух направлений и потери данного дохода, финансировавшего всю политическую структуру, произвела крушение, столь же внезапное и полное, как любое в средневековой истории.",
+      "era": "AD",
+      "latitude": 44.50,
+      "longitude": 25.50,
+      "name": "Bulgarian State Rises — Avar Eastern Flank Under Pressure",
+      "name_ru": "Болгарское государство поднимается — восточный фланг авар под давлением",
+      "source": "https://en.wikipedia.org/wiki/Avar%E2%80%93Bulgarian_wars",
+      "tags": [
+        "Pannonian Avars",
+        "Steppe",
+        "Nomad",
+        "Bulgarian",
+        "Slavic",
+        "Political",
+        "War",
+        "Military"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0791",
+      "description": "In 791 AD, Charlemagne launched the first of three major military campaigns against the Avar Khaganate — the most systematically planned offensive against a steppe power in European history to that point. The Avar threat had been building for decades: Avar raids into Bavaria had intensified after 788, when the Bavarian duke Tassilo III was deposed and Bavarian territory came under direct Carolingian control, bringing the Frankish frontier directly against the Avar March. Charlemagne organized a three-pronged advance: his own army advanced along the Danube from the west, while a second Frankish force moved through Pannonia from the north, and Lombard allies advanced from Italy in the south. The campaign drove as far as the Rab River in modern western Hungary before epidemic disease in the horse herds forced a withdrawal.\n\nThe 791 campaign was decisive not in what it destroyed but in what it revealed: the Avars, despite their fearsome reputation, could not face Carolingian combined-arms forces in open battle and withdrew into their ring system rather than fighting. Charlemagne's logistics — the systematic river supply lines he had developed for his Saxon campaigns — allowed his army to advance further into Pannonia than any western force since the late Roman period. The withdrawal was temporary; Charlemagne returned in 795 and again in 803, by which point the civil war within the Avar ruling elite had done much of the destructive work for him. But the 791 campaign established the Carolingian strategic concept: methodical advance on multiple axes, systematic destruction of Avar territory, and seizure of the Ring as the ultimate objective.",
+      "description_ru": "В 791 году н.э. Карл Великий начал первую из трёх крупных военных кампаний против Аварского каганата — наиболее систематически спланированное наступление против степной державы в европейской истории к тому моменту. Аварская угроза нарастала десятилетиями: аварские набеги на Баварию усилилась после 788 года. Карл Великий организовал трёхстороннее наступление: его собственная армия продвигалась вдоль Дуная с запада, вторая франкская сила — через Паннонию с севера, лангобардские союзники — из Италии с юга. Кампания продвинулась до реки Раб в современной Западной Венгрии, прежде чем эпидемическая болезнь в конских табунах вынудила к отступлению.\n\nКампания 791 года была решающей не тем, что разрушила, а тем, что обнажила: авары, несмотря на свою грозную репутацию, не могли противостоять каролингским войскам в открытом бою и отступали в свою кольцевую систему, а не сражались. Логистика Карла — систематические речные линии снабжения, разработанные им для Саксонских кампаний, — позволяла его армии продвигаться в Паннонию дальше, чем любая западная сила со времён Поздней Римской империи. Кампания 791 года утвердила каролингскую стратегическую концепцию: методичное наступление по нескольким осям и захват Кольца как конечная цель.",
+      "era": "AD",
+      "latitude": 48.00,
+      "longitude": 16.40,
+      "name": "Charlemagne's First Avar Campaign — The Reckoning Begins",
+      "name_ru": "Первая кампания Карла Великого против авар — начало расплаты",
+      "source": "https://en.wikipedia.org/wiki/Charlemagne%27s_campaigns_against_the_Avars",
+      "tags": [
+        "Pannonian Avars",
+        "Steppe",
+        "Nomad",
+        "Frankish",
+        "War",
+        "Military",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0796",
+      "description": "In 795–796 AD, Charlemagne's son Pepin of Italy led the decisive Frankish campaign into the heart of the Avar Khaganate. The Avar civil war had by this point eliminated most of the competent leadership: the reigning khagan had been killed by a rival, the successor killed by the Bulgarians, and the third successor voluntarily submitted to Frankish authority, bringing his family and a portion of his following to Charlemagne's court at Aachen as Christian converts. With political resistance fragmented, Pepin advanced to the Avar Ring and captured it. What his forces found inside was described by Einhard, Charlemagne's biographer, with unconcealed astonishment: treasure accumulated over two centuries of tribute from the Byzantine and Frankish empires, comprising gold and silver plate, silk textiles, and coined money in quantities that had not been seen in the west since the late Roman period.\n\nThe treasure was loaded onto fifteen wagons and transported to Aachen, where Charlemagne distributed it to his allies, the church, and his own treasury. Einhard wrote that the Franks had previously been poor in gold; after the Avar treasure, they were rich. The distribution funded Carolingian political patronage for a generation. The Ring itself was destroyed — its earthworks leveled, its timber structures burned. The physical destruction of the Ring was not merely military but symbolic: it erased the central monument of a political system that had dominated central Europe for two and a half centuries. Without the Ring and its accumulated treasure, the Khaganate had no economic base, no prestige symbol, and no organizational centre. What had taken two hundred years to accumulate was gone in a single campaign.",
+      "description_ru": "В 795–796 годах н.э. сын Карла Великого Пипин Итальянский провёл решающую франкскую кампанию в сердце Аварского каганата. Аварская гражданская война к этому времени устранила большую часть компетентного руководства: действующий каган был убит соперником, преемник — болгарами, а третий преемник добровольно подчинился франкской власти. С фрагментированным политическим сопротивлением Пипин продвинулся к Аварскому кольцу и захватил его. То, что обнаружили внутри его силы, было описано биографом Карла Великого Эйнхардом с неприкрытым изумлением: сокровища, накопленные за два столетия трибутов от Byzantийской и Франкской империй.\n\nСокровище было нагружено на пятнадцать повозок и доставлено в Ахен, где Карл Великий распределил его между союзниками, церковью и собственной казной. Эйнхард писал, что прежде франки были бедны золотом; после аварского сокровища они стали богаты. Само Кольцо было уничтожено — его земляные валы срыты, деревянные постройки сожжены. Физическое уничтожение Кольца было не просто военным, но символическим: оно стёрло центральный памятник политической системы, господствовавшей в Центральной Европе два с половиной столетия. Без Кольца и его накопленных сокровищ каганат не имел ни экономической базы, ни символа престижа, ни организационного центра.",
+      "era": "AD",
+      "latitude": 47.30,
+      "longitude": 20.00,
+      "name": "Pepin Captures the Avar Ring — The Treasure of Two Centuries Seized",
+      "name_ru": "Пипин захватывает Аварское Кольцо — сокровища двух столетий взяты",
+      "source": "https://en.wikipedia.org/wiki/Ring_of_the_Avars",
+      "tags": [
+        "Pannonian Avars",
+        "Steppe",
+        "Nomad",
+        "Frankish",
+        "War",
+        "Battle",
+        "Conquest",
+        "Plundering",
+        "Collapse"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0803",
+      "description": "In 803 AD, the last independent Avar khagan — a leader converted to Christianity and bearing the Latin name Theodore — appeared at Charlemagne's court and formally submitted to Carolingian authority. Charlemagne accepted the submission, arranged for Theodore's baptism, and incorporated the remaining Avar population into the Carolingian system as subordinate federates in a march territory between the Enns River and the Raab River in what is now eastern Austria. The Avar March, as the Carolingians called it, was administered by Frankish counts and populated by a mix of surviving Avars, Bavarian settlers, and Slavic communities. Christian missionaries were sent into the territory; the Avar nobility who accepted baptism were integrated into the lower ranks of Carolingian aristocracy.\n\nThe Christianization and political absorption of the Avars was presented by Carolingian sources as a triumph of civilization over barbarism and of Christianity over paganism — a framing that was politically useful but historically partial. The deeper reality was that the Avar Khaganate had been hollowed out by its own internal dynamics before Charlemagne struck: the civil war of the 790s, the Bulgarian attacks from the east, the Slavic detachments of subjects who no longer needed Avar protection, and the loss of Byzantine tributary income had all preceded and enabled the Carolingian conquest. Charlemagne did not so much destroy the Avars as consolidate the wreckage of a self-destructing system. The Avar people survived, as a recognizable group, for perhaps another two decades; after 822, when they last appear in the Annales Regni Francorum sending envoys to a Frankish assembly, they disappear from the historical record entirely.",
+      "description_ru": "В 803 году н.э. последний независимый аварский каган — обращённый в христианство лидер, носивший латинское имя Теодор, — явился ко двору Карла Великого и официально подчинился каролингской власти. Карл Великий принял подчинение, организовал крещение Теодора и включил оставшееся аварское население в каролингскую систему как подчинённых федератов на марковой территории между реками Эннс и Раб в современной восточной Австрии. В эту территорию были направлены христианские миссионеры; аварская знать, принявшая крещение, была интегрирована в низшие ряды каролингской аристократии.\n\nХристианизация и политическое поглощение авар подавались каролингскими источниками как триумф цивилизации над варварством. Более глубокая реальность состояла в том, что Аварский каганат был опустошён собственной внутренней динамикой до удара Карла: гражданская война 790-х годов, болгарские атаки с востока, отпадение славянских подданных и потеря byzantийского данного дохода — всё это предшествовало каролингскому завоеванию и сделало его возможным. Карл Великий не столько уничтожил авар, сколько консолидировал обломки самоуничтожающейся системы. Аварский народ выжил как идентифицируемая группа ещё, вероятно, на два десятилетия; после 822 года, когда они в последний раз упоминаются в летописях, они полностью исчезают из исторических записей.",
+      "era": "AD",
+      "latitude": 50.77,
+      "longitude": 6.09,
+      "name": "Final Avar Submission to Charlemagne — The Khaganate Ends",
+      "name_ru": "Окончательная капитуляция авар перед Карлом Великим — каганат прекращает существование",
+      "source": "https://en.wikipedia.org/wiki/Avar_Khaganate#End_of_the_khaganate",
+      "tags": [
+        "Pannonian Avars",
+        "Steppe",
+        "Nomad",
+        "Frankish",
+        "Christian",
+        "Religious",
+        "Political",
+        "Collapse"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0822",
+      "description": "The entry in the Annales Regni Francorum for 822 AD records, almost in passing, that representatives of the Avars attended the general assembly convened by Louis the Pious at Frankfurt alongside envoys of the Obodrites, Sorbs, Wilzi, Bohemians, Moravians, and Predecenti — listed as one barbarian people among several on the Carolingian frontier. This is the last unambiguous mention of the Avars as a distinct political or ethnic group in any primary source. After 822, silence. A people that had dominated central Europe for two and a half centuries, that had simultaneously held the Byzantine and Frankish empires to ransom, that had reshaped the demographics of the Balkans and introduced the stirrup to European warfare, had vanished so completely that contemporaries wrote almost nothing about their disappearance.\n\nThe mechanism of that disappearance was absorption rather than extermination. The surviving Avar population — reduced by warfare, epidemic disease, emigration, and the collapse of the tribute economy that had sustained their social structure — merged with the Bavarian, Slavic, and Bulgarian populations around them. Genetic studies of archaeological populations from early medieval Pannonia confirm the presence of steppe-ancestry individuals who were progressively absorbed into locally dominant gene pools across the ninth century. The word 'Avar' survived in Slavic languages not as an ethnic designation but as a common noun: the Old Church Slavonic 'obr', meaning 'giant' or 'tyrant', preserved the memory of Avar domination as a synonym for oppression. The poet who wrote into the Primary Chronicle of Kiev around 1113 the famous phrase — 'The Obri (Avars) perished, and not a one of them remains' — was recording not a massacre but a disappearance so complete that its very completeness had become proverbial.",
+      "description_ru": "Запись в «Франкских королевских анналах» за 822 год н.э. фиксирует, почти вскользь, что представители авар присутствовали на общем собрании, созванном Людовиком Благочестивым во Франкфурте, — перечисленные как один из нескольких варварских народов на каролингской границе. Это последнее недвусмысленное упоминание авар как самостоятельной политической или этнической группы в каком-либо первоисточнике. После 822 года — молчание. Народ, господствовавший в Центральной Европе два с половиной столетия, одновременно удерживавший Byzantийскую и Франкскую империи за выкуп, преобразивший демографию Балкан и введший стремя в европейскую войну, исчез настолько полно, что современники почти ничего не написали о его исчезновении.\n\nМеханизм этого исчезновения был поглощением, а не истреблением. Уцелевшее аварское население — сокращённое войной, эпидемическими болезнями, эмиграцией и крахом данной экономики — слилось с окружавшими его баварским, славянским и болгарским населением. Слово «авар» сохранилось в славянских языках не как этническое обозначение, а как нарицательное существительное: церковнославянское «обр», означающее «великан» или «тиран», сохраняло память об аварском господстве как синоним угнетения. Поэт, вписавший около 1113 года в Киевскую начальную летопись знаменитую фразу — «Погибоша аки обре, их же несть ни племени, ни наследка» — фиксировал не резню, а исчезновение столь полное, что его полнота вошла в пословицу.",
+      "era": "AD",
+      "latitude": 47.50,
+      "longitude": 19.00,
+      "name": "The Avars Vanish — One of History's Most Complete Erasures",
+      "name_ru": "Авары исчезают — одно из наиболее полных исчезновений в истории",
+      "source": "https://en.wikipedia.org/wiki/Avar_Khaganate#Legacy",
+      "tags": [
+        "Pannonian Avars",
+        "Steppe",
+        "Nomad",
+        "Frankish",
+        "Collapse",
+        "Historic"
+      ],
+      "type": "historic"
+    }
+  ]
+}
