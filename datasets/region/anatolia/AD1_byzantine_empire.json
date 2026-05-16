@@ -84,13 +84,13 @@
     },
     {
       "date": "01.01.0447",
-      "description": "Attila leads the most devastating Hunnic invasion of Byzantine territory, crossing the Danube and systematically destroying over seventy cities — including Naissus, the birthplace of Constantine the Great — before advancing to within a day's march of Constantinople. The newly-repaired Theodosian Walls hold, but the Eastern Empire is forced to sign the humiliating Treaty of Anatolius, paying 6,000 pounds of gold in back tribute and 2,100 pounds annually thereafter. The campaign demonstrates both the empire's military vulnerability in the open field and the priceless strategic value of Constantinople's walls.",
-      "description_ru": "Аттила ведёт опустошительное гуннское вторжение на византийские территории, пересекая Дунай и систематически разрушая более семидесяти городов, включая Наисс — родину Константина Великого. Стены Феодосия защитят Константинополь, но Восточная империя вынуждена подписать унизительный Анатолиев договор с огромными выплатами золота.",
+      "description": "Attila led a devastating Hunnic invasion of Byzantine territory, crossing the Danube and systematically destroying more than seventy cities. The Huns utterly defeated the Byzantine army in a massive battle on the Utus River. Attila's hordes rolled as far south as Greece (reaching Thermopylae) and finally turned the Balkans into a scorched \"buffer zone\" between his empire and Constantinople. The Theodosian Walls protected Constantinople, but the Eastern Empire was forced to sign the humiliating Treaty of Anatolia, requiring massive payments in gold.",
+      "description_ru": "Аттила ведёт опустошительное гуннское вторжение на византийские территории, пересекая Дунай и систематически разрушая более семидесяти городов. Гунны наголову разбили византийскую армию в масштабной битве на реке Утус. Орды Аттилы докатились на юг до самой Греции (дойдя до Фермопил) и окончательно превратили Балканы в выжженную «буферную зону» между своей империей и Константинополем. Стены Феодосия защитили Константинополь, но Восточная империя вынуждена подписать унизительный Анатолиев договор с огромными выплатами золота.",
       "era": "AD",
-      "latitude": 43.32,
-      "longitude": 21.9,
+      "latitude": 43.63408732,
+      "longitude": 24.70001221,
       "name": "Attila Ravages the Balkans",
-      "name_ru": "Вторжение Аттилы на Балканы",
+      "name_ru": "Аттила разоряет Балканы",
       "source": "https://en.wikipedia.org/wiki/History_of_the_Huns",
       "tags": [
         "Roman",
