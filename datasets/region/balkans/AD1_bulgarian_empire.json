@@ -1,0 +1,431 @@
+{
+  "description": "Dataset imported with 20 events",
+  "events": [
+    {
+      "date": "01.01.0632",
+      "description": "Around 632 AD, a Bulgar khan named Kubrat united the Onogur-Bulgar tribal confederation in the Pontic steppe north of the Black Sea and the Azov Sea, establishing what Byzantine and later Bulgarian sources call Great Bulgaria (Magna Bulgaria). The Bulgars were descended from the western Hunnic confederation that had fragmented after Attila's death in 453; the Onogurs were a related Turkic-speaking group that had dominated the Azov steppe for the previous century. Kubrat himself had been raised in Constantinople as a political hostage and educated at the Byzantine imperial court, receiving the rank of patrician from Emperor Heraclius — a relationship that gave Great Bulgaria a formal diplomatic status no previous steppe confederation north of the Black Sea had possessed.\n\nKubrat's state occupied the fertile grasslands between the Don and the Dnieper, with its centre near Phanagoria on the Taman Peninsula. This position made it both a military buffer for Byzantium against the expanding Khazar Khaganate to the east and a trading node connecting the Byzantine world with the fur-and-slave networks of the northern forest zone. Great Bulgaria was not a nomadic raiding confederation but a sedentary-adjacent state with administrative pretensions — Kubrat issued metal seals in the Byzantine manner, maintained a court, and held the loyalty of multiple tribal groups through a combination of military prowess and Byzantine prestige. Its existence was brief but its consequences were enormous: when Kubrat died and the confederation split under Khazar pressure, each fragment carried the Bulgarian identity, political tradition, and Onogur tribal memory into a different part of Eurasia.",
+      "description_ru": "Около 632 года н.э. булгарский хан Кубрат объединил онгуро-булгарскую племенную конфедерацию в Понтийской степи к северу от Чёрного и Азовского морей, основав то, что византийские и позднейшие болгарские источники называют Великой Болгарией (Magna Bulgaria). Булгары происходили от западной гуннской конфедерации, распавшейся после смерти Аттилы в 453 году; онгуры — родственная тюркоязычная группа, господствовавшая в Азовской степи на протяжении предыдущего столетия. Сам Кубрат был воспитан в Константинополе в качестве политического заложника при византийском императорском дворе и получил титул патрикия от императора Ираклия — отношения, давшие Великой Болгарии официальный дипломатический статус, которого не имела ни одна предыдущая степная конфедерация.\n\nГосударство Кубрата занимало плодородные степи между Доном и Днепром, с центром близ Фанагории на Таманском полуострове. Эта позиция делала его одновременно военным буфером для Византии против расширяющегося Хазарского каганата на востоке и торговым узлом, соединявшим византийский мир с меховыми и невольничьими сетями северной лесной зоны. Великая Болгария была не кочевой набеговой конфедерацией, а государством с административными претензиями. Когда Кубрат умер и конфедерация распалась под хазарским давлением, каждый её фрагмент унёс с собой болгарскую идентичность, политическую традицию и онгурскую племенную память в разные части Евразии.",
+      "era": "AD",
+      "latitude": 47.13,
+      "longitude": 38.90,
+      "name": "Great Bulgaria — Kubrat Unites the Bulgar Tribes",
+      "name_ru": "Великая Болгария — Кубрат объединяет булгарские племена",
+      "source": "https://en.wikipedia.org/wiki/Old_Great_Bulgaria",
+      "tags": [
+        "Bulgarian",
+        "Steppe",
+        "Nomad",
+        "Byzantine",
+        "Foundation",
+        "Kingdom",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0651",
+      "description": "Upon Kubrat's death around 651 AD, the Khazar Khaganate — the dominant power of the Pontic-Caspian steppe — expanded westward and subjected Great Bulgaria to its authority. According to a later Bulgarian tradition preserved in the text known as the Nominalia of the Bulgarian khans and in the chronicle of the monk Paisius, Kubrat left each of his five sons a bundle of sticks with the instruction that they could not be broken together but could be broken one by one — a parable about the necessity of unity that none of them heeded. Bat-Bayan, the eldest, submitted to the Khazars and remained on the ancestral steppe. Kotrag led a group northward across the Don toward the Volga and the Kama, where his descendants would eventually establish Volga Bulgaria. Asparuh — the third son — led the largest group westward toward the Danube delta, where Byzantine territory offered a potential refuge from Khazar power.\n\nTwo other sons led smaller groups: one toward the Italian peninsula (the Bulgars of Benevento, who appear briefly in Lombard sources), another eastward where they were absorbed. The dispersal of Great Bulgaria was thus the origin of at least two distinct medieval states: the First Bulgarian Empire on the Danube (established 679 AD) and the Volga Bulgarian state in the Volga-Kama basin. Both preserved the name, the ruling dynasty, and the political traditions of the Onogur-Bulgar confederation; both would survive for centuries; and both would ultimately be destroyed by the Mongols, the former in 1393, the latter in 1236. The story of the Bulgars is one of the most remarkable instances in medieval history of a single nomadic people generating multiple independent states across thousands of kilometres.",
+      "description_ru": "После смерти Кубрата около 651 года н.э. Хазарский каганат расширился на запад и подчинил Великую Болгарию своей власти. Согласно позднейшей болгарской традиции, Кубрат завещал каждому из пяти сыновей по связке прутьев с наставлением, что их нельзя сломать вместе, но можно переломить по одному — притча о необходимости единства, которой никто из них не последовал. Старший сын Бат-Баян подчинился хазарам. Котраг повёл свою группу на север — к Волге и Каме, где его потомки основали Волжскую Булгарию. Аспарух — третий сын — повёл крупнейшую группу на запад к дельте Дуная.\n\nДва других сына увели меньшие группы: один — к Апеннинскому полуострову (булгары Беневента, мелькающие в лангобардских источниках), другой — на восток, где были поглощены. Рассеяние Великой Болгарии стало, таким образом, истоком по меньшей мере двух самостоятельных средневековых государств: Первого Болгарского царства на Дунае (основано в 679 году) и Волжской Булгарии в бассейне Волги-Камы. Оба сохранили имя, правящую династию и политические традиции онгуро-булгарской конфедерации; оба просуществовали столетиями; и оба в итоге были уничтожены монголами.",
+      "era": "AD",
+      "latitude": 47.13,
+      "longitude": 38.90,
+      "name": "Five Sons of Kubrat — the Great Bulgar Dispersal",
+      "name_ru": "Пять сыновей Кубрата — великое рассеяние булгар",
+      "source": "https://en.wikipedia.org/wiki/Kubrat",
+      "tags": [
+        "Bulgarian",
+        "Steppe",
+        "Nomad",
+        "Khazar",
+        "Migration",
+        "Political",
+        "Dynasty"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0705",
+      "description": "In 705 AD, the deposed Byzantine Emperor Justinian II — who had been exiled to Crimea after having his nose cut off (earning the nickname Rhinotmetos, 'the Slit-Nosed') — formed an alliance with the Bulgarian Khan Tervel and marched on Constantinople with a combined Bulgar and Slav army. The city refused to open its gates, but Justinian and a small party entered through an ancient aqueduct tunnel and seized the palace by surprise, retaking the throne after a nine-year exile. In gratitude, Justinian awarded Tervel the title of Caesar — the second-highest rank in the Byzantine court and an honour previously reserved for imperial family members — and ceded a strip of territory called the Zagore between the Balkan mountains and the Danube.\n\nThe treaty established several precedents that would define Bulgarian-Byzantine relations for the next three centuries. Bulgaria was recognized as a legitimate political entity with a defined territorial boundary, the Bulgars received the right to trade in Constantinople, and the khan held a Byzantine court title that gave him formal standing in the imperial hierarchy. Tervel exploited this standing when the Arabs besieged Constantinople in 717–718 AD, bringing a Bulgar army that attacked the Arab rear and contributed materially to lifting the siege — cementing Bulgaria's strategic value to the empire. The Justinian episode also illustrated the chronic instability of Byzantine imperial politics, which the Bulgars learned to exploit through selective intervention: supporting pretenders in exchange for territorial and commercial concessions became a recurring Bulgarian strategy across the following century.",
+      "description_ru": "В 705 году н.э. низложенный византийский император Юстиниан II — сосланный в Крым после отрезания носа (получивший прозвище Ринотмет, «Урезанный нос») — заключил союз с булгарским ханом Тервелем и выступил на Константинополь с объединённым булгаро-славянским войском. Город отказался открыть ворота, но Юстиниан с небольшим отрядом проник через древний водопроводный туннель и захватил дворец врасплох, вернув трон после девяти лет изгнания. В знак благодарности Юстиниан присвоил Тервелю титул кесаря — второй по значимости в византийском дворе, прежде предназначавшийся исключительно членам императорской семьи, — и уступил полосу территории Загоре между Балканскими горами и Дунаем.\n\nДоговор установил несколько прецедентов, определивших болгаро-византийские отношения на три последующих века. Болгария была признана законным политическим образованием с определёнными территориальными границами, булгары получили право торговли в Константинополе, а хан занял официальное положение в имперской иерархии. Юстиниановский эпизод также наглядно показал хроническую нестабильность византийской имперской политики, которую болгары научились использовать: поддержка претендентов в обмен на территориальные и торговые уступки стала повторяющейся болгарской стратегией в следующем столетии.",
+      "era": "AD",
+      "latitude": 43.22,
+      "longitude": 27.88,
+      "name": "Khan Tervel Restores Justinian II — Bulgaria's First Treaty",
+      "name_ru": "Хан Тервел восстанавливает Юстиниана II — первый договор Болгарии",
+      "source": "https://en.wikipedia.org/wiki/Tervel_of_Bulgaria",
+      "tags": [
+        "Bulgarian",
+        "Byzantine",
+        "Roman",
+        "Diplomacy",
+        "Political",
+        "Treaty"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0710",
+      "description": "Carved into a sheer sandstone cliff at Madara in northeastern Bulgaria during the reign of Khan Tervel (c. 700–721 AD), the Madara Horseman is a monumental rock relief approximately 23 metres above ground level depicting a life-size rider on horseback driving a spear into a lion prostrate beneath the horse's hooves, with an eagle flying before him and a dog following behind. Three inscriptions in Greek — added by subsequent khans Tervel, Kormesiy, and Omurtag over the following century — record military victories, diplomatic negotiations, and tribute arrangements with Byzantium, making the site the primary epigraphic record of early Bulgarian history. It is the only example of a medieval rock relief in Europe and was inscribed on the UNESCO World Heritage List in 1979.\n\nThe iconography of the relief draws on multiple traditions simultaneously. The mounted victor over a prostrate beast is a standard image of royal power across the ancient world — found in Sassanid, Byzantine, and steppe royal art — but the specific composition, with the lion representing conquered enemies and the eagle representing divine favour, translates steppe royal symbolism into a monumental permanent form that claims permanence of possession over the land. The Madara cliff, which rises above a spring that was sacred in Thracian religion, was already a cult site before the Bulgars arrived: by carving their dynastic monument here, the Bulgarian khans were asserting continuity with the pre-Slavic, pre-Bulgarian past of the land they now ruled, a political claim in stone that no subsequent Byzantine reconquest could easily erase.",
+      "description_ru": "Вырезанный в отвесной песчаниковой скале у Мадары в Северо-Восточной Болгарии в период правления хана Тервела (ок. 700–721 гг. н.э.), Мадарский всадник — монументальный наскальный рельеф примерно в 23 метрах над землёй, изображающий всадника в натуральную величину, поражающего копьём льва под копытами коня, с орлом впереди и собакой позади. Три надписи на греческом языке, добавленные последующими ханами — Тервелем, Кормесием и Омуртагом на протяжении следующего столетия, — фиксируют военные победы, дипломатические переговоры и соглашения о дании с Византией, делая это место главным эпиграфическим памятником ранней болгарской истории. Это единственный образец средневекового наскального рельефа в Европе, включённый в список Всемирного наследия ЮНЕСКО в 1979 году.\n\nИконография рельефа опирается одновременно на несколько традиций. Образ конного победителя над поверженным зверем — стандартный образ царской власти в древнем мире — воплощает здесь степную королевскую символику в монументальной постоянной форме, заявляющей о постоянстве владения землёй. Мадарская скала, возвышающаяся над источником, священным в фракийской религии, была культовым местом ещё до прихода булгар: высекая здесь свой династический памятник, болгарские ханы заявляли о преемственности с дославянским и добулгарским прошлым земли, которой они теперь правили.",
+      "era": "AD",
+      "latitude": 43.28,
+      "longitude": 27.11,
+      "name": "The Madara Horseman — Bulgaria's Monumental Declaration",
+      "name_ru": "Мадарский всадник — монументальное заявление Болгарии",
+      "source": "https://en.wikipedia.org/wiki/Madara_Rider",
+      "tags": [
+        "Bulgarian",
+        "Slavic",
+        "Culture",
+        "Art",
+        "Political",
+        "Kingdom"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0813",
+      "description": "Following his victory over Emperor Nikephoros I at the Battle of Pliska in 811 — the first killing of a Roman emperor in battle since Valens at Adrianople in 378 — Khan Krum of Bulgaria pressed his advantage with a campaign of systematic destruction across the Eastern Balkans that represented the most serious threat Constantinople had faced since the Arab siege of 717–718. In 812 he captured Mesembria (modern Nesebar) on the Black Sea coast, seizing a substantial store of Greek fire and siege equipment that had been deposited there. In 813 he advanced to the walls of Constantinople itself with an army described in Byzantine sources as immense, burning the suburbs and demanding a formal treaty that would double Bulgarian territory. Emperor Leo V the Armenian met Krum for negotiations outside the city walls and then, treacherously, ordered archers to kill him during the parley. Krum escaped unwounded.\n\nIn retaliation, Krum returned with his full force, burned the imperial palace at Blachernae outside the walls, and turned south to sack Adrianople (modern Edirne), the most important city in Thrace. He then deported the entire population of Adrianople — reportedly 50,000 people — north across the Danube into Bulgarian territory, where they were settled as captive labourers and artisans. The deportation was strategically significant: Krum was transplanting Byzantine administrative and craft expertise directly into Bulgaria, accelerating the development of Bulgarian urban culture and state organization. He died in 814 while reportedly preparing an even larger assault on Constantinople, reportedly of a ruptured blood vessel. The campaign marked Bulgaria's emergence as an empire-scale power capable of threatening the survival of Byzantium itself.",
+      "description_ru": "Следуя своей победе над императором Никифором I в Битве при Плиске в 811 году — первом убийстве римского императора в бою со времён Валента при Адрианополе в 378 году, — хан Крум Болгарский развил успех кампанией систематического опустошения Восточных Балкан, представлявшей наиболее серьёзную угрозу Константинополю со времён арабской осады 717–718 годов. В 812 году он захватил Месемврию (совр. Несебр) на черноморском побережье. В 813-м подошёл со своей армией к стенам самого Константинополя, сжигая пригороды. Император Лев V Армянин встретился с Крумом для переговоров за стенами города, а затем вероломно приказал лучникам убить его на переговорах. Крум избежал гибели.\n\nВ ответ Крум вернулся с полным войском, сжёг императорский дворец в Влахернах и двинулся на юг, чтобы разграбить Адрианополь (совр. Эдирне), важнейший город Фракии. Затем он депортировал всё население Адрианополя — предположительно 50 000 человек — за Дунай на болгарскую территорию, где их расселили как плен-рабочих и ремесленников. Депортация имела стратегическое значение: Крум пересаживал византийские административные и ремесленные знания прямо в Болгарию, ускоряя развитие болгарской городской культуры. Он умер в 814 году, предположительно готовя ещё более крупный штурм Константинополя.",
+      "era": "AD",
+      "latitude": 41.68,
+      "longitude": 26.56,
+      "name": "Khan Krum Besieges Constantinople and Sacks Adrianople",
+      "name_ru": "Хан Крум осаждает Константинополь и разрушает Адрианополь",
+      "source": "https://en.wikipedia.org/wiki/Krum",
+      "tags": [
+        "Bulgarian",
+        "Byzantine",
+        "Roman",
+        "War",
+        "Siege",
+        "Battle",
+        "Plundering",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0816",
+      "description": "Among Krum's legacies was a legal code — the first formal system of law promulgated by a Bulgarian ruler — described in summary by Byzantine sources that presumably preserved excerpts obtained from the deportees of Adrianople or other Byzantine captives in Bulgarian service. The code addressed property disputes, treatment of the poor, penalties for bearing false witness, alcohol regulation (Krum reportedly ordered all vineyards in Bulgaria destroyed after observing that drunkenness weakened military discipline), and the obligations of the nobility. The promulgation of a law code was a significant act of state-building: it implied a sedentary population subject to consistent rules, a judiciary capable of applying them, and a concept of the state as something more than the personal property of the khan.\n\nThe Bulgarian legal tradition represented by Krum's code was part of a broader transformation of the Bulgarian state in the early ninth century. The permanent capital at Pliska — a large planned settlement with a stone palace complex, audience hall, pagan temple, and workshops, covering roughly 23 square kilometres within its outer earthwork defences — was already the largest planned settlement north of the Balkans. The Bulgars had arrived on the Danube as nomadic horse-warriors and had within 150 years built a state with a capital, a law code, a diplomatic correspondence, and a military capable of defeating the Eastern Roman Empire in open battle. The mechanism was the one that had operated since Modu Chanyu: the absorption of the technical and administrative expertise of conquered or allied sedentary peoples — here, Thracians, Slavs, and Byzantines — into a framework of nomadic military power.",
+      "description_ru": "Среди наследия Крума — правовой кодекс, первая формальная система законов, провозглашённая болгарским правителем, описанная в кратком изложении византийских источников. Кодекс регулировал имущественные споры, обращение с бедными, наказания за лжесвидетельство, употребление алкоголя (Крум предположительно приказал уничтожить все виноградники в Болгарии, заметив, что пьянство подрывает воинскую дисциплину), а также обязанности знати. Провозглашение свода законов было значительным государственным актом: оно подразумевало оседлое население, подчинённое единым правилам, судебный аппарат, способный их применять, и концепцию государства как чего-то большего, чем личная собственность хана.\n\nСтолица в Плиске — крупное спланированное поселение с каменным дворцовым комплексом, залом для аудиенций, языческим храмом и мастерскими, занимавшее около 23 квадратных километров в пределах внешних земляных укреплений, — была уже крупнейшим спланированным поселением к северу от Балкан. Булгары пришли на Дунай кочевыми конными воинами и за 150 лет построили государство со столицей, кодексом законов, дипломатической перепиской и армией, способной побеждать Восточную Римскую империю в открытом бою.",
+      "era": "AD",
+      "latitude": 43.20,
+      "longitude": 27.86,
+      "name": "Khan Krum's Legal Code — Bulgaria Becomes a State",
+      "name_ru": "Правовой кодекс хана Крума — Болгария становится государством",
+      "source": "https://en.wikipedia.org/wiki/Krum#Domestic_policy",
+      "tags": [
+        "Bulgarian",
+        "Slavic",
+        "Political",
+        "Culture",
+        "Law",
+        "Dynasty"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0886",
+      "description": "In 886 AD, the disciples of Saints Cyril and Methodius — primarily Clement, Naum, and Angelarius — arrived in Bulgaria after being expelled from Great Moravia by the German clergy following Methodius's death. Khan Boris I, who had converted to Orthodox Christianity in 864, welcomed them and gave Clement charge of the literary school at Ohrid (in present-day North Macedonia) and Naum the school at Pliska. Their mission was to create a literate clergy that could serve in the Slavonic language rather than Greek, and to translate the liturgical and scriptural literature the Bulgarian church required.\n\nThe Glagolitic script created by Cyril and Methodius was phonetically precise but graphically complex. At the Ohrid and Pliska schools, Clement and Naum developed — or completed the development of — the Cyrillic script, a simplified alphabet built on Greek uncial letterforms with additional characters for Slavonic sounds not found in Greek. The Cyrillic alphabet, named for the sainted missionary Cyril though largely designed by his disciples in Bulgaria, became the writing system of the Bulgarian church, spread throughout the Orthodox Slavic world with Bulgarian missionaries and books, and today serves as the alphabet of over 250 million people across more than 50 languages. The Bulgarian literary school at Ohrid was thus the direct institutional origin of one of the world's three great writing traditions, alongside the Latin and Arabic alphabets.",
+      "description_ru": "В 886 году н.э. ученики святых Кирилла и Мефодия — прежде всего Климент, Наум и Ангеларий — прибыли в Болгарию после изгнания из Великой Моравии немецким духовенством после смерти Мефодия. Хан Борис I, принявший православие в 864 году, принял их и поставил Климента во главе литературной школы в Охриде, а Наума — в школе при Плиске. Их миссия состояла в создании образованного духовенства, способного служить на славянском языке, и в переводе литургической и богослужебной литературы.\n\nГлаголица, созданная Кириллом и Мефодием, была фонетически точна, но графически сложна. В охридской и плисковской школах Климент и Наум разработали — или завершили разработку — кириллицы, упрощённого алфавита, построенного на основе греческих унциальных букв с добавлением знаков для славянских звуков. Кириллица, названная в честь святого миссионера Кирилла, хотя в значительной мере созданная его учениками в Болгарии, стала письменностью болгарской церкви, распространилась по всему православному славянскому миру и сегодня служит алфавитом для более чем 250 миллионов человек на 50 языках. Болгарская литературная школа в Охриде была, таким образом, прямым институциональным истоком одной из трёх великих письменных традиций мира.",
+      "era": "AD",
+      "latitude": 41.12,
+      "longitude": 20.80,
+      "name": "Clement of Ohrid — The Cyrillic Alphabet Born in Bulgaria",
+      "name_ru": "Климент Охридский — кириллица рождается в Болгарии",
+      "source": "https://en.wikipedia.org/wiki/Clement_of_Ohrid",
+      "tags": [
+        "Bulgarian",
+        "Slavic",
+        "Christian",
+        "Orthodox",
+        "Culture",
+        "Writing",
+        "Religious"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0893",
+      "description": "In 893 AD, a church council convened at the new Bulgarian capital of Preslav under the auspices of the young Tsar Simeon I enacted three decisions that fundamentally transformed Bulgarian civilization. First, the Greek language was replaced by Slavonic (Church Slavonic, written in the newly developed Cyrillic script) in all Bulgarian church services and official documents. Second, the Greek clergy who had dominated the Bulgarian church since the conversion of 864 were expelled and replaced by Bulgarian-trained clergy educated at the Ohrid and Pliska literary schools. Third, the capital was formally moved from Pliska to the newly enlarged and embellished Preslav, which Simeon was developing into a city intended to rival Constantinople in architectural scale and cultural prestige.\n\nThe Preslav Council was the institutional birth of the Bulgarian literary language and the Bulgarian Orthodox Church as independent cultural forces. By replacing Greek with Slavonic, Bulgaria created the first national church liturgy in the Slavic world, a precedent that would be followed by the Serbian, Russian, and other Orthodox churches. Preslav itself became the centre of a remarkable literary and artistic flowering: the Preslav Literary School produced translations of Greek theological, historical, and philosophical texts; developed an original tradition of Bulgarian religious poetry and hagiography; and created the Preslav ceramic ware — a distinctive style of polychrome glazed tiles and vessel decoration that represented one of the most accomplished ceramic artistic traditions of medieval Europe. The combination of a state church, a native literary language, and a planned imperial capital made Bulgaria under Simeon I the dominant cultural power of the Slavic world.",
+      "description_ru": "В 893 году н.э. церковный собор, созванный в новой болгарской столице Преславе под эгидой молодого царя Симеона I, принял три решения, коренным образом преобразовавших болгарскую цивилизацию. Во-первых, греческий язык был заменён славянским (церковнославянским, написанным новоразработанной кириллицей) во всех болгарских церковных службах и официальных документах. Во-вторых, греческое духовенство, господствовавшее в болгарской церкви со времени обращения 864 года, было изгнано и заменено болгарскими священнослужителями. В-третьих, столица была официально перенесена из Плиски в расширенный и украшенный Преслав.\n\nПреславский собор стал институциональным рождением болгарского литературного языка и Болгарской православной церкви как самостоятельных культурных сил. Заменив греческий на славянский, Болгария создала первую национальную церковную литургию в славянском мире — прецедент, которому последовали сербская, русская и другие православные церкви. Преслав стал центром замечательного литературного и художественного расцвета: преславская литературная школа производила переводы греческих богословских, исторических и философских текстов; развивала самобытную традицию болгарской религиозной поэзии и агиографии; и создала преславскую керамику — самобытный стиль полихромной глазурованной плитки, представлявший одну из наиболее совершенных керамических художественных традиций средневековой Европы.",
+      "era": "AD",
+      "latitude": 43.18,
+      "longitude": 26.82,
+      "name": "Preslav Council — Slavonic Replaces Greek, Bulgaria's Golden Age Begins",
+      "name_ru": "Преславский собор — славянский язык вытесняет греческий, начинается золотой век Болгарии",
+      "source": "https://en.wikipedia.org/wiki/Preslav_Literary_School",
+      "tags": [
+        "Bulgarian",
+        "Slavic",
+        "Christian",
+        "Orthodox",
+        "Culture",
+        "Writing",
+        "Religious",
+        "Political"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0913",
+      "description": "Simeon I of Bulgaria (reigned 893–927 AD) was the most formidable Bulgarian ruler of the medieval period and one of the most consequential monarchs of early medieval Europe. Educated in Constantinople and deeply versed in Greek theology and rhetoric — the Byzantine sources call him 'half-Greek' — he spent virtually his entire reign at war with Byzantium, driven by a sustained and apparently sincere ambition to become emperor of both Bulgarians and Romans. After defeating successive Byzantine armies in the battles of Boulgarophygon (896) and Anchialos (917) — the latter described by contemporaries as the bloodiest battle in Byzantine history — he advanced to Constantinople in 913 and 924, surrounding the city but lacking the naval power to breach its sea walls.\n\nSimeon resolved the imperial title problem through the church rather than the sword. In 919, the Bulgarian church elevated its head to the rank of patriarch — equal in status to the Patriarchs of Constantinople, Alexandria, Antioch, and Jerusalem — and simultaneously recognized Simeon as Tsar (an Old Church Slavonic rendering of Caesar), a title that claimed equivalence with the Byzantine emperor rather than subordination to him. When Simeon died in 927, the peace treaty he had been negotiating was concluded by his son Peter I: Byzantium formally recognized the Bulgarian imperial title and the Bulgarian patriarchate, ending sixty years of almost continuous war. At its maximum extent under Simeon, Bulgaria stretched from the Black Sea to the Adriatic, from the Danube to the Aegean — the largest state in Europe outside Byzantium.",
+      "description_ru": "Симеон I Болгарский (правил в 893–927 гг.) был наиболее грозным болгарским правителем средневекового периода и одним из наиболее значимых монархов раннесредневековой Европы. Образованный в Константинополе и глубоко сведущий в греческом богословии и риторике — византийские источники называют его «полугреком», — он провёл практически всё своё правление в войнах с Византией, движимый устойчивым и по всей видимости искренним стремлением стать императором болгар и ромеев. Разбив сменявшие друг друга византийские армии в битвах при Булгарофигоне (896) и Анхиале (917) — последняя описывается современниками как кровопролитнейшее сражение в истории Византии, — он подходил к Константинополю в 913 и 924 годах, окружая город, но не имея морской силы для прорыва морских стен.\n\nПроблему императорского титула Симеон решил через церковь. В 919 году болгарская церковь возвела своего главу в ранг патриарха, одновременно признав Симеона царём. Когда Симеон умер в 927 году, мирный договор был заключён его сыном Петром I: Византия официально признала болгарский императорский титул и болгарский патриархат. В период наибольшего расцвета при Симеоне Болгария простиралась от Чёрного моря до Адриатики, от Дуная до Эгейского моря — крупнейшее государство Европы после Византии.",
+      "era": "AD",
+      "latitude": 43.18,
+      "longitude": 26.82,
+      "name": "Simeon I — Tsar of Bulgarians and Romans, Bulgaria at Its Peak",
+      "name_ru": "Симеон I — царь болгар и ромеев, Болгария на пике могущества",
+      "source": "https://en.wikipedia.org/wiki/Simeon_I_of_Bulgaria",
+      "tags": [
+        "Bulgarian",
+        "Byzantine",
+        "Roman",
+        "Slavic",
+        "War",
+        "Dynasty",
+        "Kingdom",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0940",
+      "description": "Around 940 AD, a priest named Bogomil ('Dear to God') began preaching a dualist religious doctrine in the Bulgarian countryside that held that the visible material world had been created not by the good God of the New Testament but by the evil God of the Old Testament — identified with Satan or his son — who had imprisoned divine souls in material bodies. Salvation lay in rejecting the material world entirely: refusing meat, wine, marriage, and procreation; rejecting the Orthodox sacraments, clergy, and church as institutions of the evil demiurge; and returning to what Bogomil presented as the original pure Christianity of the Sermon on the Mount, uncontaminated by institutional religion. The movement spread rapidly among the Bulgarian peasantry, who found in its rejection of authority — earthly and ecclesiastical — a compelling response to the fiscal and social pressures of the Bulgarian state.\n\nBogomilism is one of the most significant Bulgarian contributions to the history of world religion, not because it succeeded in Bulgaria — it was suppressed there as heresy — but because it spread westward through Byzantine trade and pilgrimage networks into the Rhineland and southern France, where its dualist theology reappeared in the 11th and 12th centuries as Catharism (also called Albigensianism). The Cathar heresy that provoked the Albigensian Crusade of 1209 and reshaped the religious and political landscape of southern France was the direct doctrinal descendant of the teaching of a Bulgarian village priest from the tenth century. Bogomilism also survives in folklore across the Balkans and in the carved stone tomb monuments (stećci) of medieval Bosnia, whose religious affiliation with a dualist Bosnian Church remained controversial into the twentieth century.",
+      "description_ru": "Около 940 года н.э. священник по имени Богомил («Дорогой Богу») начал проповедовать дуалистическое религиозное учение в болгарской деревне: видимый материальный мир был создан не добрым Богом Нового Завета, а злым богом Ветхого Завета, заточившим божественные души в материальных телах. Спасение состояло в полном отречении от материального мира: отказе от мяса, вина, брака и деторождения; отвержении православных таинств, духовенства и церкви как институтов злого демиурга. Движение быстро распространилось среди болгарского крестьянства, нашедшего в его отвержении власти убедительный ответ на налоговое и социальное давление болгарского государства.\n\nБогомильство — одно из наиболее значительных болгарских вкладов в историю мировой религии, не потому что оно преуспело в Болгарии — там оно было подавлено как ересь, — но потому что распространилось на запад через Byzantine торговые и паломнические сети в Рейнскую область и Южную Францию, где в XI–XII веках возродилось как катаризм (альбигойство). Катарская ересь, спровоцировавшая Альбигойский крестовый поход 1209 года и преобразившая религиозно-политический ландшафт Южной Франции, была прямым доктринальным потомком учения болгарского деревенского священника X века.",
+      "era": "AD",
+      "latitude": 42.14,
+      "longitude": 24.75,
+      "name": "Bogomilism — Bulgaria's Heresy That Conquered Medieval Europe",
+      "name_ru": "Богомильство — болгарская ересь, завоевавшая средневековую Европу",
+      "source": "https://en.wikipedia.org/wiki/Bogomilism",
+      "tags": [
+        "Bulgarian",
+        "Slavic",
+        "Christian",
+        "Religious",
+        "Heresy",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0997",
+      "description": "Samuel came to power in Bulgaria in the 970s as one of four brothers who led the Bulgarian resistance after the Byzantine Emperor John I Tzimiskes conquered the eastern Bulgarian territories and captured the last Tsar of the legitimate dynasty in 971. By 997, having outlived or eliminated his brothers, Samuel had declared himself Tsar of Bulgaria and rebuilt the empire's military power to its greatest territorial extent since Simeon I. His capital at Ohrid — in the western Bulgarian territories that Tzimiskes had not conquered — became the centre of a revived Bulgarian state stretching from the Adriatic coast through Macedonia and Thrace to the Black Sea coast, incorporating modern Bulgaria, North Macedonia, Albania, and parts of Serbia, Greece, and Romania.\n\nSamuel's most enduring institutional legacy was the Patriarchate of Ohrid. When John Tzimiskes had conquered eastern Bulgaria in 971, he had abolished the Bulgarian patriarchate established by Simeon. Samuel re-established it in the west under his direct patronage, with Ohrid as the patriarchal see. After Samuel's eventual defeat and death following the Battle of Kleidion in 1014, Basil II allowed the Ohrid church to continue functioning — reduced from patriarchate to archbishopric, but preserving jurisdictional authority over the Bulgarian and Macedonian territories. The Archbishopric of Ohrid survived the Bulgarian state by four and a half centuries, maintaining Bulgarian ecclesiastical identity through Byzantine domination and the Second Empire alike, and was only abolished by the Ottoman authorities in 1767.",
+      "description_ru": "Самуил пришёл к власти в Болгарии в 970-х годах как один из четырёх братьев, руководивших болгарским сопротивлением после того, как византийский император Иоанн I Цимисхий завоевал восточные болгарские территории в 971 году. К 997 году, пережив или устранив братьев, Самуил провозгласил себя царём Болгарии и восстановил военную мощь империи до наибольших территориальных пределов со времён Симеона I. Его столица в Охриде стала центром возрождённого болгарского государства, охватывавшего современные Болгарию, Северную Македонию, Албанию и части Сербии, Греции и Румынии.\n\nНаиболее долговечным институциональным наследием Самуила стал Охридский патриархат. После поражения Самуила и его смерти вслед за Битвой при Ключах в 1014 году Василий II позволил охридской церкви продолжать функционировать — пониженной с патриархата до архиепископства, но сохранившей юрисдикционную власть над болгарскими и македонскими территориями. Охридское архиепископство пережило болгарское государство на четыре с половиной века, поддерживая болгарскую церковную идентичность сквозь византийское господство и Второе царство, и было упразднено османскими властями лишь в 1767 году.",
+      "era": "AD",
+      "latitude": 41.12,
+      "longitude": 20.80,
+      "name": "Samuel's Bulgaria — Tsar of Ohrid, Second Peak of the First Empire",
+      "name_ru": "Болгария Самуила — царь Охридский, второй пик Первого царства",
+      "source": "https://en.wikipedia.org/wiki/Samuel_of_Bulgaria",
+      "tags": [
+        "Bulgarian",
+        "Slavic",
+        "Christian",
+        "Orthodox",
+        "Byzantine",
+        "War",
+        "Kingdom",
+        "Dynasty",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0900",
+      "description": "The northern branch of the Bulgarian diaspora — the descendants of Kubrat's son Kotrag, who had moved toward the Volga after the breakup of Great Bulgaria — gradually established themselves at the confluence of the Volga and Kama rivers in the region of present-day Tatarstan, Russia, during the eighth and ninth centuries. The Volga Bulgars occupied an exceptionally strategic position: they sat at the junction of the great river highway connecting the Caspian Sea (and through it, the Islamic world of Persia and Central Asia) with the forests of northern Russia (source of furs, wax, honey, amber, and slaves), controlling the point where Scandinavian merchants descending the Volga from the Baltic met the caravans of Central Asian Islamic merchants coming north from Khwarezm and Khorasan.\n\nVolga Bulgaria was thus a trading state before it was a conquest state, and its urbanization reflected this: the capital Bolgar (Bulgar-on-the-Volga), founded in the ninth or tenth century on the Volga's left bank, was a planned city with stone mosques, public baths, caravanserais, and workshops producing metalwork traded across half of Eurasia. The Volga Bulgars issued their own coinage, maintained a literate bureaucracy (initially in Arabic after their Islamicization, then in a local Turkic literary language), and attracted scholars, merchants, and ambassadors from the Islamic world, Byzantium, and the Norse world simultaneously. At its peak in the twelfth century the Volga Bulgarian state was home to a population estimated at 1.5 to 2 million people and represented the northernmost outpost of Islamic urban civilization.",
+      "description_ru": "Северная ветвь болгарской диаспоры — потомки Котрага, сына Кубрата, двинувшегося к Волге после распада Великой Болгарии, — постепенно обосновалась в месте слияния Волги и Камы в районе современного Татарстана в VIII–IX веках. Волжские булгары занимали исключительно выгодное стратегическое положение: они находились на стыке великого речного пути, соединявшего Каспийское море (а через него — исламский мир Персии и Средней Азии) с лесами Северной России (источником мехов, воска, мёда, янтаря и рабов), контролируя точку встречи скандинавских купцов, спускавшихся по Волге с Балтики, с центральноазиатскими исламскими торговцами.\n\nВолжская Булгария была торговым государством прежде, чем завоевательным, и её урбанизация отражала это: столица Болгар (Булгар-на-Волге), основанная в IX–X веках на левом берегу Волги, была спланированным городом с каменными мечетями, банями, постоялыми дворами и мастерскими, производившими металлические изделия, торговавшиеся по половине Евразии. На пике своего развития в XII веке Волжское булгарское государство насчитывало население в 1,5–2 миллиона человек и представляло самый северный форпост исламской городской цивилизации.",
+      "era": "AD",
+      "latitude": 55.78,
+      "longitude": 49.12,
+      "name": "Volga Bulgaria — The Northern Bulgar State on the Silk Road",
+      "name_ru": "Волжская Булгария — северное булгарское государство на Шёлковом пути",
+      "source": "https://en.wikipedia.org/wiki/Volga_Bulgaria",
+      "tags": [
+        "Bulgarian",
+        "Steppe",
+        "Nomad",
+        "Islamic",
+        "Trade",
+        "Foundation",
+        "Kingdom"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.05.0922",
+      "description": "In May 922 AD, an Arab diplomat named Ahmad ibn Fadlan arrived at the court of the Volga Bulgarian king Almish ibn Yiltawar, having traveled from Baghdad as part of a formal embassy sent by the Abbasid Caliph al-Muqtadir in response to Almish's request for religious scholars, jurists, and architects to help consolidate Islam in his kingdom. Almish had formally adopted Islam as the state religion, seeking thereby a connection with the prestige and legal sophistication of the Abbasid caliphate and a counterweight to the Khazar Khaganate — which was Jewish — to the south. Ibn Fadlan's written account of the journey (the Risala) is one of the most vivid documents of early medieval Eurasia and the primary source for tenth-century Volga Bulgaria.\n\nIbn Fadlan describes in detail the Bulgars' appearance, customs, legal practices, and religious life; he notes that the Bulgars had already been nominally Muslim before the embassy arrived but with considerable admixture of older steppe practices. He also describes, in the most famous section of the Risala, a Viking (Rus) ship burial he witnessed on the Volga — a detailed account of the funeral of a Rus chieftain that includes human sacrifice and is the primary literary source for Norse funerary practices. The fact that this record exists is itself testimony to Volga Bulgaria's position as a crossroads: a Baghdadi Arab, a Norse Viking, and a Turkic Bulgar khan were all present at the same riverbank in the same month, transacting the business of three different civilizations. The Volga Bulgars' conversion to Islam in 922 connected them permanently to the Islamic world and distinguished them definitively from their Danubian Bulgarian cousins, who had become Orthodox Christian in 864.",
+      "description_ru": "В мае 922 года н.э. арабский дипломат по имени Ахмад ибн Фадлан прибыл ко двору волжскобулгарского царя Алмуша ибн Йылтавара, совершив путешествие из Багдада в составе официального посольства, направленного Аббасидским халифом ал-Муктадиром в ответ на просьбу Алмуша о богословах, правоведах и архитекторах для укрепления ислама в его царстве. Алмуш официально принял ислам в качестве государственной религии, стремясь тем самым приобщиться к престижу и юридической утончённости Аббасидского халифата. Письменный отчёт ибн Фадлана о путешествии (Рисала) — один из наиболее живых документов раннесредневековой Евразии.\n\nИбн Фадлан описывает внешность, обычаи, правовые практики и религиозную жизнь булгар. В наиболее знаменитой части Рисалы он описывает увиденные на Волге похороны варяга (русского) — подробный рассказ о погребении русского вождя, включающий человеческое жертвоприношение и являющийся главным литературным источником по скандинавским погребальным обрядам. Сам факт существования этого рассказа свидетельствует о положении Волжской Булгарии как перекрёстка цивилизаций: арабский багдадец, скандинавский викинг и тюркский булгарский хан присутствовали на одном берегу реки в один и тот же месяц.",
+      "era": "AD",
+      "latitude": 55.04,
+      "longitude": 50.20,
+      "name": "Ibn Fadlan Visits Volga Bulgaria — Islam Adopted on the Volga",
+      "name_ru": "Ибн Фадлан посещает Волжскую Булгарию — ислам принят на Волге",
+      "source": "https://en.wikipedia.org/wiki/Ibn_Fadlan",
+      "tags": [
+        "Bulgarian",
+        "Islamic",
+        "Steppe",
+        "Trade",
+        "Religious",
+        "Diplomacy",
+        "Culture"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1100",
+      "description": "Bilyar — known in contemporary Islamic sources as the Great City (al-Madina al-Kabira) — was the largest city of the Volga Bulgarian state and, at its twelfth-century peak, one of the largest cities in eastern Europe. Located on the Cheremshan River, a tributary of the Kama, approximately 150 kilometres southeast of modern Kazan, Bilyar covered an area of roughly 5 square kilometres within its triple defensive ring of earthen ramparts and palisades, with an inner citadel containing the palace, mosque, and administrative buildings. Population estimates for its peak period range from 50,000 to 100,000 inhabitants. Archaeological excavation since the 1950s has recovered evidence of specialized craft production (iron, bronze, jewelry, bone and leather working), large-scale grain storage, and imported luxury goods from the Islamic world, Byzantium, and Scandinavia.\n\nBilyar was a manufacturing city as much as a trading city: its workshops produced iron tools and weapons, copper and silver jewelry, and leather goods that were distributed across the Eurasian trade networks. The city's mosque and madrasa complex, constructed in brick in the Central Asian architectural tradition, made it a centre of Islamic scholarship for the northern peoples. The Volga Bulgarian state produced its own literary tradition in a Turkic language written in Arabic script — chronicles, religious texts, and court poetry — of which only fragments survived the Mongol destruction of 1236. The destruction of Bilyar in that year was one of the most complete annihilations of an urban civilization in the medieval period: the city was never rebuilt, and the ruins remained essentially untouched until modern archaeological investigation.",
+      "description_ru": "Биляр — известный в современных исламских источниках как Великий город (ал-Мадина ал-Кабира) — был крупнейшим городом Волжского булгарского государства и в период своего расцвета в XII веке — одним из крупнейших городов Восточной Европы. Расположенный на реке Черемшан, в притоке Камы, примерно в 150 километрах к юго-востоку от современной Казани, Биляр занимал площадь около 5 квадратных километров в пределах тройного защитного кольца земляных валов и частоколов, с внутренней цитаделью, содержавшей дворец, мечеть и административные здания. Оценки численности населения в период расцвета варьируются от 50 000 до 100 000 жителей.\n\nБиляр был в такой же мере производственным городом, как и торговым: его мастерские производили железные инструменты и оружие, медные и серебряные украшения, кожаные изделия. Мечетно-медресейный комплекс города, выстроенный в кирпиче в среднеазиатской архитектурной традиции, делал его центром исламской учёности для северных народов. Уничтожение Биляра в 1236 году было одним из наиболее полных разрушений городской цивилизации в средневековый период: город так и не был отстроен заново, а руины оставались нетронутыми вплоть до современных археологических исследований.",
+      "era": "AD",
+      "latitude": 54.96,
+      "longitude": 50.38,
+      "name": "Bilyar — The Great City of Volga Bulgaria",
+      "name_ru": "Биляр — Великий город Волжской Булгарии",
+      "source": "https://en.wikipedia.org/wiki/Bilyar",
+      "tags": [
+        "Bulgarian",
+        "Islamic",
+        "Steppe",
+        "Trade",
+        "Culture",
+        "Architecture",
+        "Kingdom"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1185",
+      "description": "In 1185, two Bulgarian nobles from the Tarnovo region — brothers Asen (also called Asen I) and Peter — led a rebellion against Byzantine rule that had suppressed Bulgarian political independence for 167 years, since Basil II's final conquest of 1018. The immediate trigger was a tax increase imposed to fund the Byzantine campaign against the Normans, which the Bulgarian nobility refused to accept. The brothers petitioned Emperor Isaac II Angelos for the right to retain revenues from a church they intended to build near Tarnovo dedicated to Saint Demetrius, the patron saint of the Byzantine city of Thessaloniki — a deliberately provocative choice, since claiming Thessaloniki's patron as a Bulgarian protector was a direct assertion of political independence. When Isaac refused and humiliated them publicly, they raised the standard of revolt.\n\nThe rebellion succeeded with remarkable speed. The brothers appealed to the Cumans of the northern steppe for military support, and Cuman cavalry gave the insurgency an immediate military weight that Byzantine forces could not easily counter in the Bulgarian terrain. Within a year the Byzantines had been driven from most of the Bulgarian territories north of the Balkans; within a decade the new state — the Second Bulgarian Empire — had established Tarnovo as its capital and the brothers' family (the Asen dynasty) as its ruling house. The Second Empire would endure, with interruptions, until the Ottoman conquest of 1393, producing a second golden age of Bulgarian culture under Ivan Asen II and leaving Tarnovo as the most significant monument of medieval Bulgarian civilization.",
+      "description_ru": "В 1185 году два болгарских вельможи из Тырновского района — братья Асень (также известный как Асень I) и Пётр — подняли восстание против byzantийского господства, подавлявшего болгарскую политическую независимость 167 лет со времени окончательного завоевания Василием II в 1018 году. Непосредственным поводом послужило повышение налогов для финансирования byzantийской кампании против норманнов. Братья обратились к императору Исааку II Ангелу с просьбой о праве сохранить доходы от церкви, которую намеревались построить близ Тырнова во имя святого Димитрия, покровителя byzantийских Фессалоник — намеренно провокационный выбор. Когда Исаак отказал и публично унизил их, они подняли знамя восстания.\n\nВосстание удалось с замечательной быстротой. Братья обратились к куманам Северной степи за военной поддержкой, и куманская конница придала восстанию немедленный военный вес, которому byzantийские силы не могли легко противостоять на болгарском рельефе. В течение года byzantийцы были вытеснены с большей части болгарских территорий к северу от Балкан; в течение десятилетия новое государство — Второе Болгарское царство — утвердило Тырново своей столицей и семью братьев (династию Асенидов) — правящим домом.",
+      "era": "AD",
+      "latitude": 43.08,
+      "longitude": 25.65,
+      "name": "The Asen-Peter Uprising — Second Bulgarian Empire Born",
+      "name_ru": "Восстание Асеня и Петра — рождение Второго Болгарского царства",
+      "source": "https://en.wikipedia.org/wiki/Asen_and_Peter%27s_uprising",
+      "tags": [
+        "Bulgarian",
+        "Slavic",
+        "Byzantine",
+        "War",
+        "Foundation",
+        "Kingdom",
+        "Dynasty",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "14.04.1205",
+      "description": "In the spring of 1205, the newly crowned Latin Emperor Baldwin I — who had just seized Constantinople during the Fourth Crusade (1204) and was now attempting to expand Latin authority over the Balkans — confronted the Bulgarian Tsar Kaloyan (younger brother of Asen and Peter) outside Adrianople, whose population had risen in revolt against the heavy-handed Latin occupation. On April 14, 1205, the Bulgarian-Cuman army ambushed and annihilated the Latin cavalry force outside the city walls. Baldwin I himself was captured in the fighting; he was taken to Kaloyan's capital at Tarnovo, where he died in captivity within the year — the circumstances of his death, whether execution or natural causes, remain disputed in the sources.\n\nThe Battle of Adrianople in 1205 was one of the most decisive reversals in medieval Balkan history. The Latin Empire, which had expected to easily subjugate the indigenous Balkan populations, instead found itself fighting for survival. Kaloyan, who had been denied the royal crown he sought by Pope Innocent III (receiving instead the lesser title of 'King' rather than 'Emperor'), now styled himself 'Slayer of Romans' in deliberate parallel with the Byzantine title 'Bulgar-Slayer' that Basil II had borne two centuries earlier. The battle preserved Bulgarian independence against the Crusader states at a moment when it might otherwise have been extinguished, and demonstrated once again that the Second Bulgarian Empire — though rebuilt from nothing twenty years earlier — was a military power capable of destroying any European army that entered the Balkans unprepared.",
+      "description_ru": "Весной 1205 года новокоронованный латинский император Балдуин I — только что захвативший Константинополь в ходе Четвёртого крестового похода (1204) и теперь стремившийся распространить латинскую власть на Балканы — столкнулся с болгарским царём Калояном (младшим братом Асеня и Петра) под Адрианополем, население которого восстало против тяжёлой латинской оккупации. 14 апреля 1205 года болгаро-куманская армия заманила в засаду и уничтожила латинскую кавалерийскую силу под стенами города. Сам Балдуин I был захвачен в плен и доставлен в тырновскую столицу Калояна, где скончался в течение года.\n\nБитва при Адрианополе 1205 года стала одним из наиболее решительных переломов в средневековой балканской истории. Латинская империя, ожидавшая легко подчинить коренное балканское население, вместо этого оказалась в борьбе за выживание. Калоян, которому Папа Иннокентий III отказал в царском венце (предоставив лишь более скромный титул «короля»), теперь именовал себя «Убийцей ромеев» в намеренной параллели с byzantийским титулом «Убийцы болгар», носимым Василием II два столетия назад. Битва сохранила болгарскую независимость перед лицом Крестоносных государств в момент, когда она могла быть уничтожена.",
+      "era": "AD",
+      "latitude": 41.68,
+      "longitude": 26.56,
+      "name": "Kaloyan Destroys the Latin Empire at Adrianople — Baldwin I Captured",
+      "name_ru": "Калоян разбивает Латинскую империю под Адрианополем — Балдуин I в плену",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Adrianople_(1205)",
+      "tags": [
+        "Bulgarian",
+        "Slavic",
+        "Byzantine",
+        "War",
+        "Battle",
+        "Conquest",
+        "Dynasty",
+        "Crusade"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "09.03.1230",
+      "description": "On March 9, 1230, Ivan Asen II of Bulgaria defeated the Epirus Despot Theodore Komnenos Doukas — who had recently crowned himself Emperor of the Romans at Thessaloniki and controlled most of the former Byzantine territory in the Balkans — at the Battle of Klokotnitsa near the Maritsa River. Theodore's entire army was captured or destroyed; Theodore himself was blinded and imprisoned. The victory gave Ivan Asen II control of Macedonia, Thrace, Albania, and the Adriatic coast, making Bulgaria the dominant state of the Balkan peninsula and extending its territory from the Black Sea to the Adriatic and from the Danube to the Aegean — effectively the same borders as Simeon I three centuries earlier, but achieved in a single afternoon.\n\nIvan Asen II (reigned 1218–1241) was the most capable ruler of the Second Bulgarian Empire and one of the significant statesmen of thirteenth-century Europe. His reign combined military dominance with cultural patronage and diplomatic sophistication: he maintained good relations with the Latin Empire, the Kingdom of Hungary, the Nicaean Empire, and the Papacy simultaneously, playing each against the others to preserve Bulgarian independence. Tarnovo under his rule became a city of monumental churches, painted in a distinctive style that art historians call the Tarnovo School — characterized by naturalistic portraiture, rich colour, and narrative complexity that represents one of the highest achievements of medieval Orthodox art. The forty-column church of the Forty Martyrs in Tarnovo, built to commemorate the Klokotnitsa victory, survives and contains the inscribed columns that are among the primary documentary sources for early Bulgarian history.",
+      "description_ru": "9 марта 1230 года Иван Асень II Болгарский разгромил Фессалоникийского деспота Феодора Комнина Дуку — недавно провозгласившего себя императором ромеев в Фессалониках и контролировавшего большую часть бывших byzantийских территорий на Балканах — в Битве при Клокотнице у реки Марицы. Всё войско Феодора было захвачено или уничтожено; сам Феодор был ослеплён и заключён в темницу. Победа дала Ивану Асеню II контроль над Македонией, Фракией, Албанией и адриатическим побережьем, сделав Болгарию доминирующим государством Балканского полуострова.\n\nИван Асень II (правил в 1218–1241 гг.) был наиболее способным правителем Второго Болгарского царства и одним из значительных государственных деятелей Европы XIII века. Его правление сочетало военное господство с культурным меценатством и дипломатической утончённостью. Тырново в годы его правления стало городом монументальных церквей, расписанных в самобытном стиле, который искусствоведы называют Тырновской школой, — отличающейся натуралистическим портретом, богатым колоритом и повествовательной сложностью, представляющей одно из высших достижений средневекового православного искусства.",
+      "era": "AD",
+      "latitude": 41.62,
+      "longitude": 26.03,
+      "name": "Battle of Klokotnitsa — Ivan Asen II Dominates the Balkans",
+      "name_ru": "Битва при Клокотнице — Иван Асень II господствует на Балканах",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Klokotnitsa",
+      "tags": [
+        "Bulgarian",
+        "Slavic",
+        "Byzantine",
+        "War",
+        "Battle",
+        "Conquest",
+        "Kingdom",
+        "Dynasty"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1235",
+      "description": "In 1235, at a church council convened with the Patriarch of Nicaea and the other Orthodox patriarchs, Ivan Asen II secured the restoration of an independent Bulgarian Patriarchate with its see at Tarnovo — the first recognition of the Bulgarian church's autocephalous (self-governing) status since Basil II had abolished the patriarchate two centuries earlier. The restoration was the culmination of Ivan Asen's ecclesiastical policy: in exchange for recognizing the Nicaean emperor John III Doukas Vatatzes as the senior Orthodox ruler (ahead of the Latin Emperor of Constantinople), Ivan Asen received full ecclesiastical independence for the Bulgarian church. Tarnovo thus became the seat of the fourth Orthodox patriarchate in the world, alongside Constantinople, Alexandria, and Antioch.\n\nThe restored patriarchate was housed in the church complex on the fortified hill of Tsarevets in Tarnovo — a site that had been developed since the founding of the Second Empire into one of the most elaborate fortified citadels in medieval Europe, combining royal palace, patriarchal cathedral, churches, and residential buildings within a single defensive perimeter on a loop of the Yantra River. The Tsarevets complex, which survives in substantial ruins, was the physical and symbolic centre of the Second Bulgarian Empire: a Bulgarian Constantinople, constructed on a river-looped hill as Constantinople sat on a sea-flanked promontory, crowned with an Orthodox patriarchate as Constantinople was crowned with the Ecumenical Patriarchate. The deliberate mirroring of Constantinople's topography and institutions was the most explicit statement of Bulgaria's imperial ambitions in stone and mortar.",
+      "description_ru": "В 1235 году на церковном соборе, созванном с участием Никейского патриарха и других православных патриархов, Иван Асень II добился восстановления самостоятельного Болгарского патриархата с кафедрой в Тырнове — первого признания автокефального статуса болгарской церкви со времени упразднения патриархата Василием II два столетия назад. Восстановление стало кульминацией церковной политики Ивана Асеня: в обмен на признание Никейского императора Иоанна III Дуки Ватаца старшим православным правителем Иван Асень получил полную церковную независимость для болгарской церкви. Тырново, таким образом, стало кафедрой четвёртого православного патриархата в мире.\n\nВосстановленный патриархат разместился в церковном комплексе на укреплённом холме Царевец в Тырнове — месте, развивавшемся со времени основания Второго царства в один из наиболее сложных укреплённых цитаделей средневековой Европы: королевский дворец, патриаршеский собор, церкви и жилые здания в пределах единого оборонительного периметра на излучине реки Янтра. Комплекс Царевец — болгарский Константинополь, намеренно воспроизводящий константинопольские топографию и институции, — был наиболее явным выражением имперских притязаний Болгарии в камне.",
+      "era": "AD",
+      "latitude": 43.08,
+      "longitude": 25.65,
+      "name": "Bulgarian Patriarchate Restored at Tarnovo — Ivan Asen II's Triumph",
+      "name_ru": "Болгарский патриархат восстановлен в Тырнове — триумф Ивана Асеня II",
+      "source": "https://en.wikipedia.org/wiki/Bulgarian_Patriarchate",
+      "tags": [
+        "Bulgarian",
+        "Slavic",
+        "Christian",
+        "Orthodox",
+        "Religious",
+        "Political",
+        "Kingdom",
+        "Dynasty"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.1236",
+      "description": "In 1236, the western wing of the Mongol conquest army under Batu Khan and the general Subutai began the campaign that would sweep across Russia and eastern Europe. Volga Bulgaria was the first major state encountered. The Bulgars had already defeated a Mongol reconnaissance force in 1223, luring it into an ambush after a feigned retreat — a reversal of the Mongols' own standard tactic — and had used the intervening thirteen years to strengthen their defenses and gather intelligence about Mongol methods. None of it was sufficient. Batu's army, hardened by the conquest of the Kipchak steppe, systematically reduced the Bulgarian cities one by one; Bilyar and the capital Bolgar were taken, sacked, and burned. The population was massacred, enslaved, or fled north into the forests. The Volga Bulgarian state as a political entity ceased to exist in 1236–1237.\n\nThe destruction of Volga Bulgaria was thorough and nearly total. The city of Bolgar was eventually resettled under Mongol-Tatar rule and functioned for another century as a minor administrative centre, but Bilyar was never rebuilt. The literary and scholarly tradition of the Volga Bulgars was destroyed with their cities: of the chronicles, court poetry, legal texts, and religious literature that constituted twelve centuries of accumulated Bulgar culture, almost nothing survived. The Muslim population that had distinguished Volga Bulgaria as the northernmost outpost of Islamic civilization was killed, scattered, or absorbed into the new Mongol-Tatar order. The Volga Bulgars' descendants eventually merged with the Kipchak-speaking Tatars to form the Kazan Tatars — a Turkic Muslim people who have inhabited the Volga-Kama region continuously to the present day.",
+      "description_ru": "В 1236 году западное крыло монгольской завоевательной армии под командованием Батухана и полководца Субэдэя начало кампанию, прокатившуюся по России и Восточной Европе. Волжская Булгария стала первым крупным государством на её пути. Булгары уже разгромили монгольский разведывательный отряд в 1223 году, заманив его в засаду после притворного отступления — перевернув стандартную тактику самих монголов, — и использовали тринадцать промежуточных лет для укрепления обороны. Ничего из этого не оказалось достаточным. Армия Батухана систематически брала болгарские города один за другим; Биляр и столица Болгар были взяты, разграблены и сожжены.\n\nУничтожение Волжской Булгарии было тотальным. Литературная и учёная традиция волжских булгар была уничтожена вместе с их городами: из хроник, придворной поэзии, правовых текстов и религиозной литературы, составлявших двенадцать веков накопленной булгарской культуры, почти ничего не уцелело. Мусульманское население, делавшее Волжскую Булгарию самым северным форпостом исламской цивилизации, было убито, рассеяно или поглощено новым монголо-татарским порядком. Потомки волжских булгар в итоге слились с кыпчакоязычными татарами, образовав казанских татар.",
+      "era": "AD",
+      "latitude": 55.04,
+      "longitude": 50.20,
+      "name": "Mongols Destroy Volga Bulgaria — A Civilization Erased",
+      "name_ru": "Монголы уничтожают Волжскую Булгарию — цивилизация стёрта с лица земли",
+      "source": "https://en.wikipedia.org/wiki/Mongol_invasion_of_Volga_Bulgaria",
+      "tags": [
+        "Bulgarian",
+        "Islamic",
+        "Steppe",
+        "Mongol",
+        "War",
+        "Conquest",
+        "Destruction",
+        "Collapse"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1241",
+      "description": "Following the destruction of Russia and Poland in 1240–1241, the Mongol armies under Batu Khan crossed the Danube in the winter of 1241–1242 and invaded northeastern Bulgaria and the Cumanian territories. Ivan Asen II had died in the summer of 1241, leaving his seven-year-old son Koloman I on the throne under a regency — the worst possible moment for a leadership vacuum. The Mongol forces devastated the northeastern Bulgarian territories and Thrace, sacking towns and monasteries and withdrawing only after extracting submission and tribute from the Bulgarian court. Bulgaria thus became a tributary state of the Mongol Golden Horde — the vast Mongol successor state that dominated the Pontic-Caspian steppe — paying annual tribute and providing military contingents on demand for the rest of the century.\n\nThe Mongol invasion and the subsequent Golden Horde suzerainty ended the era of Bulgarian imperial dominance in the Balkans. The Second Bulgarian Empire survived as a political entity but was permanently weakened: the Mongol tribute drained resources, the nobility fragmented into competing magnates during the succession crises that followed Ivan Asen II's death, and the empire never recovered the territorial extent of the Klokotnitsa period. The Cumans who had provided Bulgarian military power since the founding of the Second Empire were themselves subjects of the Golden Horde; Bulgaria's strategic position was fundamentally altered. The period from 1241 to the Ottoman conquest of 1393 was one of gradual fragmentation, interrupted by occasional revivals, in which the Second Bulgarian Empire progressively lost ground to its neighbours — Byzantium, Serbia, and eventually the Ottomans — until the last Bulgarian Tsar Ivan Shishman surrendered Tarnovo and Bulgarian independence was extinguished for nearly five centuries.",
+      "description_ru": "Следуя за уничтожением России и Польши в 1240–1241 годах, монгольские армии под командованием Батухана перешли Дунай зимой 1241–1242 годов и вторглись в Северо-Восточную Болгарию. Иван Асень II скончался летом 1241 года, оставив на троне семилетнего сына Коломана I под регентством — худший момент для вакуума власти. Монгольские силы опустошили северо-восточные болгарские территории и Фракию, разграбив города и монастыри и отступив лишь после получения покорности и изъятия дании. Болгария, таким образом, стала данническим государством Монгольской Золотой Орды.\n\nМонгольское нашествие и последовавший золотоордынский сюзеренитет положили конец эпохе болгарского имперского господства на Балканах. Второе Болгарское царство выжило как политическое образование, но было необратимо ослаблено: монгольская дань истощала ресурсы, знать распалась на соперничающих магнатов в ходе кризисов преемственности, последовавших за смертью Ивана Асеня II, и империя так и не восстановила территориальные пределы клокотницкого периода. Период с 1241 года до османского завоевания 1393 года был периодом постепенной фрагментации, в ходе которой Второе Болгарское царство прогрессивно уступало позиции соседям — Byzantии, Сербии и в конечном счёте османам — до тех пор, пока последний болгарский царь Иван Шишман не сдал Тырново и болгарская независимость не была погашена почти на пять столетий.",
+      "era": "AD",
+      "latitude": 43.50,
+      "longitude": 26.00,
+      "name": "Mongols Invade Bulgaria — End of the Golden Age",
+      "name_ru": "Монголы вторгаются в Болгарию — конец золотого века",
+      "source": "https://en.wikipedia.org/wiki/Mongol_invasion_of_Bulgaria",
+      "tags": [
+        "Bulgarian",
+        "Slavic",
+        "Mongol",
+        "War",
+        "Conquest",
+        "Collapse",
+        "Political"
+      ],
+      "type": "military"
+    }
+  ]
+}
