@@ -3,24 +3,6 @@
   "events": [
     {
       "date": "01.01.0800",
-      "description": "The Nuragic civilization of Sardinia creates the Mont'e Prama statues — monumental stone warriors standing over 2 meters tall. These are the oldest large-scale stone sculptures in the western Mediterranean after Egypt. The statues depict boxers, archers, and warriors with round shields. Buried and rediscovered in 1974, they remain among Sardinia's greatest archaeological treasures.",
-      "description_ru": "Нурагическая цивилизация Сардинии создаёт статуи Монте-Прама — каменных воинов высотой более 2 метров. Это древнейшие крупные каменные скульптуры в западном Средиземноморье после Египта. Статуи изображают боксёров, лучников и воинов с круглыми щитами. Погребённые и переоткрытые в 1974 году, они остаются одним из величайших археологических сокровищ Сардинии.",
-      "era": "BC",
-      "latitude": 39.9458,
-      "longitude": 8.4581,
-      "name": "Mont'e Prama Giant Statues",
-      "name_ru": "Гиганты Монте-Прама",
-      "source": "https://en.wikipedia.org/wiki/Giants_of_Mont%27e_Prama",
-      "tags": [
-        "Sardinian",
-        "Art",
-        "Culture",
-        "Sculpture"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.0800",
       "description": "The oldest known Phoenician inscription in the western Mediterranean, is erected at Nora in southern Sardinia. This stone monument marks the establishment of one of the earliest Phoenician trading posts on the island. Phoenician merchants from Tyre and Sidon trade peacefully with the Nuragic civilization, exchanging eastern goods for Sardinia's rich copper, lead, and silver resources.",
       "description_ru": "Древнейшая известная финикийская надпись в западном Средиземноморье. Этот каменный памятник знаменует основание одного из первых финикийских торговых постов на острове. Финикийские купцы из Тира и Сидона мирно торгуют с нурагической цивилизацией, обменивая восточные товары на медь, свинец и серебро с Сардинии.",
       "era": "BC",
@@ -39,6 +21,24 @@
         "Tyre"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.01.0800",
+      "description": "The Nuragic civilization of Sardinia creates the Mont'e Prama statues — monumental stone warriors standing over 2 meters tall. These are the oldest large-scale stone sculptures in the western Mediterranean after Egypt. The statues depict boxers, archers, and warriors with round shields. Buried and rediscovered in 1974, they remain among Sardinia's greatest archaeological treasures.",
+      "description_ru": "Нурагическая цивилизация Сардинии создаёт статуи Монте-Прама — каменных воинов высотой более 2 метров. Это древнейшие крупные каменные скульптуры в западном Средиземноморье после Египта. Статуи изображают боксёров, лучников и воинов с круглыми щитами. Погребённые и переоткрытые в 1974 году, они остаются одним из величайших археологических сокровищ Сардинии.",
+      "era": "BC",
+      "latitude": 39.9458,
+      "longitude": 8.4581,
+      "name": "Mont'e Prama Giant Statues",
+      "name_ru": "Гиганты Монте-Прама",
+      "source": "https://en.wikipedia.org/wiki/Giants_of_Mont%27e_Prama",
+      "tags": [
+        "Sardinian",
+        "Art",
+        "Culture",
+        "Sculpture"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0770",
@@ -2136,6 +2136,25 @@
     },
     {
       "date": "01.01.0200",
+      "description": "After encountering Celtiberian swords during the Punic Wars, Rome adopts the gladius Hispaniensis as standard legionary weapon. This short, double-edged sword (45-65 cm blade) excels at both thrusting and cutting in tight formations. Combined with the large scutum shield, it makes the Roman legionary the deadliest close-combat soldier in the ancient world.",
+      "description_ru": "Встретив кельтиберийские мечи во время Пунических войн, Рим принимает gladius Hispaniensis как стандартное оружие легионера. Этот короткий обоюдоострый меч (клинок 45-65 см) превосходен для уколов и рубки в тесном строю. В сочетании с большим щитом скутум он делает римского легионера смертоноснейшим воином ближнего боя античного мира.",
+      "era": "BC",
+      "latitude": 41.89931442,
+      "longitude": 12.47670293,
+      "name": "Adoption of the Gladius Hispaniensis",
+      "name_ru": "Испанский гладиус в Риме",
+      "source": "https://en.wikipedia.org/wiki/Gladius",
+      "tags": [
+        "Roman",
+        "War",
+        "Innovation",
+        "Spanish",
+        "Weapon"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0200",
       "description": "Romans master the structural arch, perfecting the voussoir (wedge-shaped stones) with keystone technique. Unlike post-and-lintel construction, arches distribute weight outward, enabling unprecedented spans for bridges, aqueducts, and buildings. Combined with Roman concrete, arch technology enables the construction of structures that will stand for millennia.",
       "description_ru": "Римляне осваивают конструкционную арку, совершенствуя технику клинчатых камней (вуссуаров) с замковым камнем. В отличие от стоечно-балочной конструкции, арки распределяют нагрузку наружу, позволяя создавать небывалые пролёты для мостов, акведуков и зданий. В сочетании с римским бетоном арочная технология позволяет строить сооружения, которые простоят тысячелетия.",
       "era": "BC",
@@ -2153,25 +2172,6 @@
         "Science"
       ],
       "type": "scientific"
-    },
-    {
-      "date": "01.01.0200",
-      "description": "After encountering Celtiberian swords during the Punic Wars, Rome adopts the gladius Hispaniensis as standard legionary weapon. This short, double-edged sword (45-65 cm blade) excels at both thrusting and cutting in tight formations. Combined with the large scutum shield, it makes the Roman legionary the deadliest close-combat soldier in the ancient world.",
-      "description_ru": "Встретив кельтиберийские мечи во время Пунических войн, Рим принимает gladius Hispaniensis как стандартное оружие легионера. Этот короткий обоюдоострый меч (клинок 45-65 см) превосходен для уколов и рубки в тесном строю. В сочетании с большим щитом скутум он делает римского легионера смертоноснейшим воином ближнего боя античного мира.",
-      "era": "BC",
-      "latitude": 41.89931442,
-      "longitude": 12.47670293,
-      "name": "Adoption of the Gladius Hispaniensis",
-      "name_ru": "Испанский гладиус в Риме",
-      "source": "https://en.wikipedia.org/wiki/Gladius",
-      "tags": [
-        "Roman",
-        "War",
-        "Innovation",
-        "Spanish",
-        "Weapon"
-      ],
-      "type": "historic"
     },
     {
       "date": "01.01.0200",
@@ -2474,6 +2474,23 @@
         "Culture",
         "Philosophy",
         "Rhetoric"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0152",
+      "description": "The official founder of the city of Córdoba (under the Roman name Corduba) is considered to be the Roman general and consul Marcus Claudius Marcellus, who founded a permanent settlement here. In 206 BC, the Romans recaptured this territory from Carthage. Several decades later, Marcellus founded a Roman colony near the Iberian city. The city quickly grew and became the capital of the vast Roman province of Hispania Ulterior.",
+      "description_ru": "Официальным основателем города Кордова (под римским названием Кордуба) считается римский полководец и консул Марк Клавдий Марцелл, который заложил здесь постоянное поселение. В 206 году до н. э. римляне отвоевали эту территорию у Карфагена. Спустя несколько десятилетий Марцелл основал рядом с иберийским городом римскую колонию. Город быстро вырос и стал столицей огромной римской провинции Дальняя Испания",
+      "era": "BC",
+      "latitude": 37.88507881,
+      "longitude": -4.78496432,
+      "name": "The founding of Roman Corduba",
+      "name_ru": "Основание римской Кордубы",
+      "source": "https://en.wikipedia.org/wiki/C%C3%B3rdoba,_Spain",
+      "tags": [
+        "Roman",
+        "City",
+        "Colonization"
       ],
       "type": "historic"
     },
@@ -2829,26 +2846,6 @@
     },
     {
       "date": "01.01.0100",
-      "description": "Tribune Saturninus proposes radical land reforms for Marius's veterans, using violence to pass legislation. When Saturninus murders a political rival, Marius reluctantly enforces the senatus consultum ultimum against his own ally, who is killed by a mob.",
-      "description_ru": "Политический кризис усиливается. Трибун Сатурнин предлагает радикальные реформы для ветеранов Мария, применяя насилие для принятия законов. Когда люди Сатурнина убивают на выборах кандидата от оппозиции, Марий неохотно исполняет чрезвычайный указ Сената, арестовывая Сатурнина. Марию не удается скрыть своего союзника от толпы, и Сатурнина забивают камнями",
-      "era": "BC",
-      "latitude": 41.89318911,
-      "longitude": 12.48506606,
-      "name": "Violence of Saturninus",
-      "name_ru": "Насилие трибуна Сатурнина",
-      "source": "https://en.wikipedia.org/wiki/Lucius_Appuleius_Saturninus",
-      "tags": [
-        "Roman",
-        "Crisis",
-        "Marius 👤",
-        "Murder",
-        "Outrage",
-        "Political"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.0100",
       "description": "The scorpio becomes a standard Roman precision weapon — a smaller ballista operated by 1-2 men, accurate at 100 meters and deadly at 400 meters parabolic fire. Each legion deploys 60 scorpiones, one per century. Caesar praises its 'terrifying precision' at the siege of Avaricum. It serves as ancient Rome's 'sniper rifle.'",
       "description_ru": "Скорпион, унаследованный от греков, становится стандартом дальнего боя в армии Рима — уменьшенная баллиста под управлением 1-2 человек, точная на 100 метров и смертельная на 400 метрах навесного огня. Каждый легион имеет 60 скорпионов, по одному на центурию. Это античная 'снайперская винтовка' Рима.",
       "era": "BC",
@@ -2886,6 +2883,26 @@
         "Trade"
       ],
       "type": "religious"
+    },
+    {
+      "date": "01.01.0100",
+      "description": "Tribune Saturninus proposes radical land reforms for Marius's veterans, using violence to pass legislation. When Saturninus murders a political rival, Marius reluctantly enforces the senatus consultum ultimum against his own ally, who is killed by a mob.",
+      "description_ru": "Политический кризис усиливается. Трибун Сатурнин предлагает радикальные реформы для ветеранов Мария, применяя насилие для принятия законов. Когда люди Сатурнина убивают на выборах кандидата от оппозиции, Марий неохотно исполняет чрезвычайный указ Сената, арестовывая Сатурнина. Марию не удается скрыть своего союзника от толпы, и Сатурнина забивают камнями",
+      "era": "BC",
+      "latitude": 41.89318911,
+      "longitude": 12.48506606,
+      "name": "Violence of Saturninus",
+      "name_ru": "Насилие трибуна Сатурнина",
+      "source": "https://en.wikipedia.org/wiki/Lucius_Appuleius_Saturninus",
+      "tags": [
+        "Roman",
+        "Crisis",
+        "Marius 👤",
+        "Murder",
+        "Outrage",
+        "Political"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.0093",
@@ -3563,27 +3580,6 @@
     },
     {
       "date": "01.01.0052",
-      "description": "Clodius is murdered by Milo's gang on the Via Appia. Pompey is appointed sole consul — unprecedented — to restore order, marking his drift from Caesar toward the Senate.",
-      "description_ru": "Клодий убит бандой Милона на Аппиевой дороге. Помпей назначен единственным консулом для восстановления порядка (в республике никогда не было одного консула). Помпей и Цезарь оказались по разные стороны баррикад",
-      "era": "BC",
-      "latitude": 41.85,
-      "longitude": 12.5,
-      "name": "Murder of Clodius",
-      "name_ru": "Убийство трибуна Клодия",
-      "source": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher",
-      "tags": [
-        "Roman",
-        "Claudii",
-        "Crisis",
-        "Death",
-        "Murder",
-        "Political",
-        "Pompey the Great 👤"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.0052",
       "description": "The Gallic chieftain Vercingetorix unites the tribes in a massive revolt against Rome. After initial successes, he is besieged at Alesia where Caesar builds two rings of fortifications — one facing in, one facing out against a relief army of 250,000. Vercingetorix surrenders and is later executed in Rome.",
       "description_ru": "Галльский вождь Верцингеториг объединяет племена в массовом восстании против Рима. После первоначальных успехов он осаждён в Алезии, где Цезарь строит два кольца укреплений — одно внутрь, одно наружу против галльской армии поддержки. Верцингеториг сдаётся и позже казнён в Риме.",
       "era": "BC",
@@ -3602,6 +3598,27 @@
         "Siege"
       ],
       "type": "military"
+    },
+    {
+      "date": "01.01.0052",
+      "description": "Clodius is murdered by Milo's gang on the Via Appia. Pompey is appointed sole consul — unprecedented — to restore order, marking his drift from Caesar toward the Senate.",
+      "description_ru": "Клодий убит бандой Милона на Аппиевой дороге. Помпей назначен единственным консулом для восстановления порядка (в республике никогда не было одного консула). Помпей и Цезарь оказались по разные стороны баррикад",
+      "era": "BC",
+      "latitude": 41.85,
+      "longitude": 12.5,
+      "name": "Murder of Clodius",
+      "name_ru": "Убийство трибуна Клодия",
+      "source": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher",
+      "tags": [
+        "Roman",
+        "Claudii",
+        "Crisis",
+        "Death",
+        "Murder",
+        "Political",
+        "Pompey the Great 👤"
+      ],
+      "type": "political"
     },
     {
       "date": "01.07.0050",

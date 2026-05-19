@@ -57,6 +57,22 @@
       "type": "cultural"
     },
     {
+      "date": "01.01.0004",
+      "description": "The Stoic philosopher Lucius Annaeus Seneca was born in Cordoba to a wealthy equestrian family. He went down in history as a philosopher, playwright, statesman, and mentor to Rome's most brutal emperor, Nero. Seneca is one of the leading exponents of late Stoicism. He translated Greek philosophy into a practical language accessible to everyone. His philosophy is a guide to survival in times of chaos, stress, and injustice.",
+      "description_ru": "Философ-стоик Луций Анней Сенека родился в Кордове в богатой семье всадников. Он вошел в историю как философ, драматург, государственный деятель и наставник самого жестокого римского императора Нерона. Сенека — один из крупнейших представителей позднего стоицизма. Он перевел греческую философию на практический язык, понятный каждому. Его философия — это руководство по выживанию в условиях хаоса, стресса и несправедливости.",
+      "era": "BC",
+      "latitude": 37.8806882,
+      "longitude": -4.7842294,
+      "name": "Birth of Lucius Annaeus Seneca",
+      "name_ru": "Рождение Луция Аннея Сенеки",
+      "tags": [
+        "Roman",
+        "Birth",
+        "Philosophy"
+      ],
+      "type": "cultural"
+    },
+    {
       "date": "09.09.0009",
       "description": "Germanic chieftain Arminius lures the Roman governor Publius Quinctilius Varus and his three legions (XVII, XVIII, XIX — roughly 20,000 men) into an ambush in the forests of northwestern Germany, annihilating them almost entirely over three days of fighting. The defeat is the worst Rome suffers in a century and permanently ends Augustus's programme of extending Roman rule to the Elbe; the Rhine becomes the permanent northeast frontier of the empire. Suetonius records that Augustus was so devastated he let his beard and hair grow uncut for months, wandering the palace at night crying 'Varus, give me back my legions!'",
       "description_ru": "Германский вождь Арминий заманивает римского наместника Публия Квинтилия Вара с тремя легионами (XVII, XVIII, XIX — около 20 000 человек) в засаду в лесах Северо-Западной Германии, практически полностью уничтожая их в трёхдневном сражении. Это поражение — худшее для Рима за столетие — навсегда прекращает программу Августа по распространению римского владычества до Эльбы; Рейн становится постоянной северо-восточной границей империи. По словам Светония, убитый горем Август бродил ночью по дворцу, восклицая: «Вар, верни мне мои легионы!»",
@@ -292,10 +308,11 @@
       "tags": [
         "Roman",
         "Building 🏠",
-        "Ancient Wonders",
+        "Ancient",
         "Architecture",
         "Engineering ⚙️",
-        "Entertainment"
+        "Entertainment",
+        "Wonders"
       ],
       "type": "cultural"
     },

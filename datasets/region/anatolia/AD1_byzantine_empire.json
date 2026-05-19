@@ -34,12 +34,13 @@
       "tags": [
         "Roman",
         "Dynasty",
-        "Ancient Wonders",
         "Architecture",
         "Byzantine",
         "Engineering ⚙️",
         "Fortification",
-        "Theodosian"
+        "Medieval",
+        "Theodosian",
+        "Wonders"
       ],
       "type": "historic"
     },
@@ -283,13 +284,14 @@
       "tags": [
         "Roman",
         "Building 🏠",
-        "Ancient Wonders",
         "Architecture",
         "Byzantine",
         "Christian",
         "Engineering ⚙️",
         "Holy Site",
-        "Temple"
+        "Medieval",
+        "Temple",
+        "Wonders"
       ],
       "type": "cultural"
     },

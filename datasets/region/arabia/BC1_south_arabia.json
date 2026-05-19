@@ -236,9 +236,10 @@
       "tags": [
         "Building 🏠",
         "Agriculture",
-        "Ancient Wonders",
+        "Ancient",
         "Engineering ⚙️",
         "Water",
+        "Wonders",
         "Sabaean"
       ],
       "type": "historic"
@@ -698,10 +699,11 @@
       "source": "https://en.wikipedia.org/wiki/Ghumdan_Palace",
       "tags": [
         "Building 🏠",
-        "Ancient Wonders",
+        "Ancient",
         "Architecture",
         "Engineering ⚙️",
         "Palace",
+        "Wonders",
         "Sabaean"
       ],
       "type": "cultural"

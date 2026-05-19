@@ -2154,11 +2154,12 @@
       "tags": [
         "Greek",
         "Building 🏠",
-        "Ancient Wonders",
+        "Ancient",
         "Architecture",
         "Culture",
         "Religious",
-        "Temple"
+        "Temple",
+        "Wonders"
       ],
       "type": "religious"
     },
@@ -2814,10 +2815,11 @@
         "Greek",
         "Athens",
         "Building 🏠",
-        "Ancient Wonders",
+        "Ancient",
         "Architecture",
         "Art",
-        "Temple"
+        "Temple",
+        "Wonders"
       ],
       "type": "historic"
     },
@@ -2912,11 +2914,12 @@
       "tags": [
         "Greek",
         "Athens",
-        "Ancient Wonders",
+        "Ancient",
         "Architecture",
         "Art",
         "Religious",
-        "Temple"
+        "Temple",
+        "Wonders"
       ],
       "type": "religious"
     },
@@ -2953,12 +2956,13 @@
       "source": "https://en.wikipedia.org/wiki/Statue_of_Zeus_at_Olympia",
       "tags": [
         "Greek",
-        "Ancient Wonders",
+        "Ancient",
         "Art",
         "Olympic",
         "Religious",
         "Sculpture",
-        "Temple"
+        "Temple",
+        "Wonders"
       ],
       "type": "cultural"
     },
@@ -3752,11 +3756,12 @@
         "Greek",
         "Building 🏠",
         "Anatolia",
-        "Ancient Wonders",
+        "Ancient",
         "Architecture",
         "Culture",
         "Religious",
-        "Temple"
+        "Temple",
+        "Wonders"
       ],
       "type": "historic"
     },
@@ -4006,10 +4011,12 @@
       "name_ru": "Герострат сжигает храм Артемиды",
       "source": "https://en.wikipedia.org/wiki/Temple_of_Artemis",
       "tags": [
+        "Greek",
         "Legend",
-        "Ancient Wonders",
+        "Ancient",
         "Destruction",
-        "Temple"
+        "Temple",
+        "Wonders"
       ],
       "type": "historic"
     },
@@ -4626,23 +4633,24 @@
       "type": "historic"
     },
     {
-      "date": "01.01.0322",
-      "description": "Wars of the Diadochi begin as Alexander's generals fight over his empire; Perdiccas, Ptolemy, Seleucus, Antigonus, and Lysimachus carve up territories, destroying Alexander's unified legacy",
-      "description_ru": "Начинаются войны диадохов - полководцы Александра сражаются за его империю; Пердикка, Птолемей, Селевк, Антигон и Лисимах делят территории, разрушая единое наследие Александра",
+      "date": "01.01.0323",
+      "description": "Residents of Ephesus and other Greek cities donated their gold and silver jewelry en masse for the restoration of the temple. These donations financed the work and building materials for the restoration. To protect the new temple from the dampness of the marshes and future floods, the architect Cheirocrates raised the building's foundation. Furthermore, the marshy soil beneath the temple was used as a shock absorber: a foundation of coal, hides, and wool allowed the temple, rebuilt with greater splendor than before, to stand for another six centuries.",
+      "description_ru": "Жители Эфеса и других греческих городов массово жертвовали свои золотые и серебряные украшения на восстановление храма. На эти пожертвования финансировались работы и строительные материалы для восстановления. Чтобы защитить новый храм от влаги болот и будущих наводнений, архитектор Хейрократ поднял основание здания; кроме того, болотистые почвы под храмом использовались в качестве амортизатора: фундамент из угля, кож и шерсти позволил храму, отстроенному с большим великолепием, чем прежде, простоять еще 6 веков",
       "era": "BC",
-      "latitude": 32.543,
-      "longitude": 44.421,
-      "name": "Wars of the Diadochi Begin",
-      "name_ru": "Начало войн диадохов",
-      "source": "https://en.wikipedia.org/wiki/Wars_of_the_Diadochi",
+      "latitude": 37.94977292,
+      "longitude": 27.36371398,
+      "name": "Restoration of the Temple of Artemis",
+      "name_ru": "Реставрация храма Артемиды",
       "tags": [
         "Greek",
-        "Macedonian",
-        "Diadochi",
-        "War",
-        "Alexander the Great 👤"
+        "Building 🏠",
+        "Ancient",
+        "Crowdfunding",
+        "Restoration",
+        "Temple",
+        "Wonders"
       ],
-      "type": "military"
+      "type": "historic"
     },
     {
       "date": "01.01.0322",
@@ -4663,6 +4671,25 @@
         "Philosophy"
       ],
       "type": "cultural"
+    },
+    {
+      "date": "01.01.0322",
+      "description": "Wars of the Diadochi begin as Alexander's generals fight over his empire; Perdiccas, Ptolemy, Seleucus, Antigonus, and Lysimachus carve up territories, destroying Alexander's unified legacy",
+      "description_ru": "Начинаются войны диадохов - полководцы Александра сражаются за его империю; Пердикка, Птолемей, Селевк, Антигон и Лисимах делят территории, разрушая единое наследие Александра",
+      "era": "BC",
+      "latitude": 32.543,
+      "longitude": 44.421,
+      "name": "Wars of the Diadochi Begin",
+      "name_ru": "Начало войн диадохов",
+      "source": "https://en.wikipedia.org/wiki/Wars_of_the_Diadochi",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Diadochi",
+        "War",
+        "Alexander the Great 👤"
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.0321",
@@ -4777,9 +4804,10 @@
       "source": "https://en.wikipedia.org/wiki/Colossus_of_Rhodes",
       "tags": [
         "Greek",
-        "Ancient Wonders",
+        "Ancient",
         "Bronze",
-        "Sculpture"
+        "Sculpture",
+        "Wonders"
       ],
       "type": "historic"
     },

@@ -118,10 +118,11 @@
         "Greek",
         "Egypt",
         "Ptolemaic",
-        "Ancient Wonders",
+        "Ancient",
         "Culture",
         "Library",
-        "Science"
+        "Science",
+        "Wonders"
       ],
       "type": "cultural"
     },
@@ -199,8 +200,9 @@
         "Egypt",
         "Ptolemaic",
         "Building 🏠",
-        "Ancient Wonders",
-        "Architecture"
+        "Ancient",
+        "Architecture",
+        "Wonders"
       ],
       "type": "cultural"
     },
@@ -257,8 +259,9 @@
         "Egypt",
         "Ptolemaic",
         "Building 🏠",
-        "Ancient Wonders",
-        "Architecture"
+        "Ancient",
+        "Architecture",
+        "Wonders"
       ],
       "type": "cultural"
     },

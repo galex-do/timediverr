@@ -85,12 +85,13 @@
         "Umayyad",
         "Jerusalem",
         "Building 🏠",
-        "Ancient Wonders",
         "Architecture",
         "Culture",
         "Holy Site",
         "Islamic",
-        "Religious"
+        "Medieval",
+        "Religious",
+        "Wonders"
       ],
       "type": "cultural"
     },
@@ -155,14 +156,15 @@
         "Arabian",
         "Umayyad",
         "Building 🏠",
-        "Ancient Wonders",
         "Architecture",
         "Art",
         "Culture",
         "Holy Site",
         "Islamic",
+        "Medieval",
         "Religious",
-        "Temple"
+        "Temple",
+        "Wonders"
       ],
       "type": "cultural"
     },
@@ -200,6 +202,7 @@
       "name_ru": "Омейяды приходят на Иберию",
       "source": "https://en.wikipedia.org/wiki/Umayyad_conquest_of_Hispania",
       "tags": [
+        "Arabian",
         "Umayyad",
         "War",
         "Battle",
@@ -346,8 +349,8 @@
       "description": "Abd al-Rahman ibn Muawiyah, a grandson of Caliph Hisham who survived the Abbasid massacre by swimming the Euphrates while Abbasid soldiers killed his younger brother on the opposite bank, spends five years as a fugitive crossing North Africa, gathering Berber and Umayyad loyalist support, before crossing into Spain in 755 and defeating the Abbasid-aligned governor Yusuf ibn Abd al-Rahman al-Fihri at the Battle of the Almanzora River. He enters Córdoba and declares himself Emir of al-Andalus — not Caliph, deliberately avoiding the title to prevent direct confrontation with the Abbasid empire.\n\nAbd al-Rahman I's emirate at Córdoba becomes one of the most remarkable political resurrections in history. The Umayyad dynasty, annihilated in the east, survives in the west and eventually flourishes: his descendants will rule al-Andalus for nearly 250 more years, declare a rival caliphate in 929, and preside over a civilisation that produces the Great Mosque of Córdoba, the palace-city of Medina Azahara, and the intellectual culture that transmits Greek philosophy back to a Europe that had forgotten it — making Córdoba, for a moment in the tenth century, the most sophisticated city in the western world.",
       "description_ru": "Абд ар-Рахман ибн Муавия, внук халифа Хишама, переживший аббасидскую резню, пять лет скитается по Северной Африке, собирая берберских и умайядских сторонников, затем переправляется в Испанию в 755 году, побеждает аббасидски ориентированного наместника Юсуфа ибн Абд ар-Рахмана аль-Фихри. Он входит в Кордову и провозглашает себя эмиром Аль-Андалуса — не халифом, намеренно избегая этого титула, чтобы не провоцировать прямую конфронтацию с Аббасидской империей.\n\nЭмират Абд ар-Рахмана I в Кордове становится одним из самых замечательных политических возрождений в истории. Умайядская династия, уничтоженная на востоке, выживает на западе: его потомки будут править Аль-Андалусом ещё почти 250 лет и создадут цивилизацию, породившую Великую мечеть Кордовы и культуру, передавшую греческую философию забывшей её Европе.",
       "era": "AD",
-      "latitude": 37.8882,
-      "longitude": -4.7794,
+      "latitude": 37.88507881,
+      "longitude": -4.78496432,
       "name": "Emirate of Córdoba Established",
       "name_ru": "Основание эмирата Кордовы",
       "source": "https://en.wikipedia.org/wiki/Abd_al-Rahman_I",
@@ -355,7 +358,8 @@
         "Arabian",
         "Umayyad",
         "Dynasty",
-        "Emirate of Cordoba",
+        "Capital",
+        "Cordoba",
         "Foundation",
         "Islamic",
         "Political"

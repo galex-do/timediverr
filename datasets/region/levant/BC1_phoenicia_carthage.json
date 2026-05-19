@@ -224,10 +224,11 @@
         "Phoenician",
         "Israel",
         "Jerusalem",
-        "Ancient Wonders",
+        "Ancient",
         "Holy Site",
         "Temple",
-        "Tyre"
+        "Tyre",
+        "Wonders"
       ],
       "type": "cultural"
     },
@@ -929,6 +930,7 @@
         "Conquest",
         "Expansion",
         "Iberia",
+        "Mining",
         "Silver"
       ],
       "type": "military"
