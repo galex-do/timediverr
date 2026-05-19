@@ -17,6 +17,7 @@
         "Birth",
         "Buddha 👤",
         "Holy Site",
+        "Religious",
         "Buddhism"
       ],
       "type": "historic"
@@ -265,13 +266,13 @@
       "name_ru": "Школа Лотосовой Сутры в Японии",
       "source": "https://en.wikipedia.org/wiki/Enryaku-ji",
       "tags": [
+        "Japanese",
         "Expansion",
         "Holy Site",
         "Monastery",
         "Philosophy",
         "Zen",
         "Buddhism",
-        "Japanese",
         "Mahayana"
       ],
       "type": "cultural"
@@ -287,11 +288,11 @@
       "name_ru": "Основание буддийской школы Сингон в Японии",
       "source": "https://en.wikipedia.org/wiki/K%C5%ABkai",
       "tags": [
+        "Japanese",
         "Legend",
         "Holy Site",
         "Writing",
         "Buddhism",
-        "Japanese",
         "Mahayana"
       ],
       "type": "cultural"
@@ -345,10 +346,10 @@
       "name_ru": "Буддизм Чистой Земли",
       "source": "https://en.wikipedia.org/wiki/H%C5%8Dnen",
       "tags": [
+        "Japanese",
         "Philosophy",
         "Buddhism",
         "Heian",
-        "Japanese",
         "Mahayana"
       ],
       "type": "cultural"
@@ -364,10 +365,10 @@
       "name_ru": "Дзёдо Синсю — чужая сила и всеобщее спасение",
       "source": "https://en.wikipedia.org/wiki/Shinran",
       "tags": [
+        "Japanese",
         "Culture",
         "Buddhism",
         "Heian",
-        "Japanese",
         "Mahayana"
       ],
       "type": "cultural"
@@ -383,12 +384,12 @@
       "name_ru": "Основание буддийской школы Сото в Японии",
       "source": "https://en.wikipedia.org/wiki/D%C5%8Dgen",
       "tags": [
+        "Japanese",
         "Holy Site",
         "Philosophy",
         "Text",
         "Zen",
-        "Buddhism",
-        "Japanese"
+        "Buddhism"
       ],
       "type": "cultural"
     },
@@ -403,9 +404,9 @@
       "name_ru": "Радикальный буддизм Нитирэн в Японии",
       "source": "https://en.wikipedia.org/wiki/Nichiren",
       "tags": [
+        "Japanese",
         "Radicalism",
         "Buddhism",
-        "Japanese",
         "Mahayana"
       ],
       "type": "cultural"

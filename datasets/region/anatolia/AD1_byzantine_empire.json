@@ -349,7 +349,8 @@
         "Byzantine",
         "Conquest",
         "Decline",
-        "Germanic"
+        "Germanic",
+        "Invasions"
       ],
       "type": "military"
     },
@@ -571,8 +572,8 @@
     },
     {
       "date": "15.08.0717",
-      "description": "The Umayyad Caliphate launches its greatest assault on Constantinople: a combined land-and-sea operation involving over 100,000 soldiers and 1,800 ships besieges the city for thirteen months in the most ambitious Arab military operation in history. Emperor Leo III deploys Greek Fire devastatingly against the Arab fleet; a Bulgarian force attacks the Arab land army from the rear; and a catastrophic winter kills thousands of the besieging army unprepared for the Balkan cold. The Arab failure is as decisive as Yarmouk had been in the opposite direction: the Caliphate never again seriously threatens Constantinople, and the Arab wave of conquest reaches its eastern high-water mark.",
-      "description_ru": "Омейядский халифат предпринимает величайший штурм Константинополя: операция с более чем 100 000 солдат и 1800 кораблями осаждает город тринадцать месяцев c моря. С тыла осаду держат болгарские силы. Лев III сжигает арабский флот греческим огнем; катастрофическая зима уносит тысячи осаждающих. После второй провальной осады халифат больше никогда серьёзно не угрожает Константинополю.",
+      "description": "The Umayyad Caliphate launches its greatest assault on Constantinople: an operation with over 100,000 soldiers and 1,800 ships besieges the city from the sea for thirteen months. Bulgarian troops defend the Byzantine rear. Leo III burns the Arab fleet with Greek fire; a catastrophic winter kills thousands of besiegers, trapped between the walls of Theodosius and the Bulgarian cavalry. After the second failed siege, the Caliphate never again seriously threatens Constantinople.",
+      "description_ru": "Омейядский халифат предпринимает величайший штурм Константинополя: операция с более чем 100 000 солдат и 1800 кораблями осаждает город тринадцать месяцев c моря. Византийский тыл защищают болгарские войска. Лев III сжигает арабский флот греческим огнем; катастрофическая зима уносит тысячи осаждающих, зажатых между стенами Феодосия и болгарской конницей. После второй провальной осады халифат больше никогда серьёзно не угрожает Константинополю.",
       "era": "AD",
       "latitude": 41.01915336,
       "longitude": 28.92399788,
@@ -587,7 +588,8 @@
         "Byzantine",
         "Islamic",
         "Siege",
-        "Bulgarian"
+        "Bulgarian",
+        "Slavic"
       ],
       "type": "military"
     },
@@ -608,7 +610,6 @@
         "Crisis",
         "Decline",
         "Religious",
-        "Turning Point",
         "Iconoclasm"
       ],
       "type": "religious"
@@ -699,13 +700,13 @@
     },
     {
       "date": "01.01.0863",
-      "description": "The brothers Cyril and Methodius, Greek scholars from Thessalonica sent on a mission to Moravia, invented the Glagolitic alphabet for writing the Slavic language and translated the Bible and liturgical texts, creating the first Slavic literary language in history.\n\nThe Cyrillic alphabet, derived from their work, became the written language of dozens of Slavic peoples—over a billion people today. The Byzantine decision to allow liturgical services in the Slavic vernaculars proved decisive in the spread of Orthodoxy.",
-      "description_ru": "Братья Кирилл и Мефодий, греческие учёные из Фессалоники, направленные с миссией в Моравию, изобретают глаголический алфавит для записи славянского языка и переводят Библию и богослужение — создавая первый славянский литературный язык в истории. \n\nКириллица, происходящая от их работы, становится письменностью десятков славянских народов — более миллиарда человек сегодня. Византийское решение допустить богослужение на народных славянских языках оказывается решающим в распространении православия.",
+      "description": "The brothers Cyril and Methodius, Greek scholars from Thessalonica, sent on a mission to Moravia, invented the Glagolitic alphabet for writing the Slavic language and translated the Bible and liturgical texts, creating the first Slavic literary language in history.\n\nCyrillic, developed from Glagolitic by the disciples of Cyril and Methodius, became the written language of dozens of Slavic peoples—over a billion people today. The Byzantine decision to allow liturgical services in the Slavic vernaculars proved decisive in the spread of Orthodoxy.",
+      "description_ru": "Братья Кирилл и Мефодий, греческие учёные из Фессалоники, направленные с миссией в Моравию, изобретают глаголический алфавит для записи славянского языка и переводят Библию и богослужение — создавая первый славянский литературный язык в истории. \n\nКириллица, которая развивается из глаголицы учениками Кирилла и Мефодия, становится письменностью десятков славянских народов — более миллиарда человек сегодня. Византийское решение допустить богослужение на народных славянских языках оказывается решающим в распространении православия.",
       "era": "AD",
       "latitude": 48.31151456,
       "longitude": 18.08486938,
-      "name": "The creation of the Cyrillic alphabet and the spread of Orthodoxy",
-      "name_ru": "Создание кириллицы и распространение православия",
+      "name": "The creation of the Glagolitic alphabet and the spread of Orthodoxy",
+      "name_ru": "Создание глаголицы и распространение православия",
       "source": "https://en.wikipedia.org/wiki/Saints_Cyril_and_Methodius",
       "tags": [
         "Greek",
@@ -821,7 +822,7 @@
         "Adoption",
         "Byzantine",
         "Christian",
-        "Russian",
+        "Rus",
         "Orthodox",
         "Slavic"
       ],
@@ -841,6 +842,7 @@
         "Roman",
         "War",
         "Battle",
+        "Annexation",
         "Byzantine",
         "Conquest",
         "Cruelty",
@@ -933,6 +935,7 @@
         "Christian",
         "Political",
         "Pope",
+        "Turning Point",
         "Crusade"
       ],
       "type": "historic"
@@ -1000,6 +1003,7 @@
         "Fourth",
         "Plundering",
         "Siege",
+        "Turning Point",
         "Venice",
         "Crusade"
       ],

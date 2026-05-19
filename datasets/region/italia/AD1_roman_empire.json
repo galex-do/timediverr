@@ -930,6 +930,26 @@
       "type": "political"
     },
     {
+      "date": "26.10.0306",
+      "description": "Emperor Maximian appointed Demetrius proconsul of the Thessaloniki region. The young commander's primary mission was to defend the city from barbarians and exterminate Christians. However, Demetrius, secretly raised as a Christian by his parents, instead of carrying out executions, began openly converting the city's inhabitants to Christianity and eradicating pagan customs. Returning from a military campaign, Maximian personally arrived in Thessalonica to investigate the rumors. Demetrius did not hide his beliefs, for which he was imprisoned and later executed.",
+      "description_ru": "Император Максимиан назначил Димитрия проконсулом Фессалоникийской области. Главной задачей молодого военачальника было защищать город от варваров и истреблять христиан. Однако Димитрий, тайно воспитанный родителями в христианской вере, вместо казней начал открыто обращать жителей города в христианство и искоренять языческие обычаи. Возвращаясь из военного похода, Максимиан лично прибыл в Фессалоники, чтобы проверить слухи. Димитрий не стал скрывать свои убеждения, за что был посажен в темницу, а затем казнен.",
+      "era": "AD",
+      "latitude": 40.63875974,
+      "longitude": 22.9478699,
+      "name": "Execution of Proconsul Demetrius in Thessalonica",
+      "name_ru": "Казнь проконсула Димитрия в Фессалониках",
+      "source": "https://en.wikipedia.org/wiki/Demetrius_of_Thessaloniki",
+      "tags": [
+        "Greek",
+        "Roman",
+        "Christian",
+        "Martyr",
+        "Persecution",
+        "Saint"
+      ],
+      "type": "religious"
+    },
+    {
       "date": "28.10.0312",
       "description": "Constantine defeats his co-emperor Maxentius at the Battle of Milvian Bridge on October 28, 312 AD — Maxentius drowns in the Tiber when the bridge of boats he has laid collapses under the retreating army. Before the battle, according to later accounts by Lactantius and Eusebius, Constantine sees a vision or dream in which he is told to mark his soldiers' shields with the Chi-Rho (☧) symbol of Christ. Whether the story is true, embellished, or invented, Constantine's subsequent patronage of Christianity and his own eventual conversion make the Battle of Milvian Bridge one of the most consequential moments in Western history — the point at which the Roman Empire ceases to persecute Christianity and begins to sponsor it.",
       "description_ru": "Константин разбивает соправителя Максенция у Мильвийского моста 28 октября 312 г. н. э. — Максенций тонет в Тибре. Перед битвой, согласно более поздним источникам, Константин видит видение или сон, в котором ему велено нанести на щиты солдат монограмму Хи-Ро (☧). Независимо от достоверности рассказа, последующее покровительство Константина христианству делает битву у Мильвийского моста одним из наиболее значимых моментов западной истории — точкой, в которой Римская империя перестаёт преследовать христианство и начинает его спонсировать.",
@@ -1136,8 +1156,8 @@
       "description": "Emperor Theodosius I issues the Edict of Thessalonica (Cunctos populos) on February 27, 380 AD, declaring Nicene Christianity — specifically as defined by the Council of Nicaea (325 AD) — the sole official religion of the Roman Empire. Non-Nicene Christians are branded heretics; pagans and Jews, while not immediately targeted, are progressively stripped of legal protections over the following decade. The Edict of Thessalonica is the foundational legal act by which Rome becomes a Christian empire, transforming a faith that had survived as a persecuted minority religion for 300 years into the enforced ideological framework of the world's greatest power.",
       "description_ru": "Император Феодосий I издаёт Фессалоникийский эдикт (Cunctos populos) 27 февраля 380 г. н. э., объявляя никейское христианство — именно в том виде, каким оно определено Никейским собором (325 г.) — единственной официальной религией Римской империи. Не-никейские христиане клеймятся еретиками. \n\nФессалоникийский эдикт — основополагающий правовой акт, посредством которого Рим становится христианской империей, превращая веру, три столетия выжившую в качестве преследуемого меньшинства, в принудительную идеологическую основу величайшей мировой державы.",
       "era": "AD",
-      "latitude": 40.64,
-      "longitude": 22.94,
+      "latitude": 40.63610967,
+      "longitude": 22.94437766,
       "name": "Christianity Becomes State Religion of Rome",
       "name_ru": "Христианство становится государственной религией Рима",
       "source": "https://en.wikipedia.org/wiki/Edict_of_Thessalonica",

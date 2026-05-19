@@ -110,7 +110,8 @@
         "Determinism",
         "Fatalism",
         "Philosophy",
-        "Religious"
+        "Religious",
+        "Sect"
       ],
       "type": "religious"
     },
@@ -148,6 +149,7 @@
         "Legend",
         "Buddha 👤",
         "Religious",
+        "Turning Point",
         "Buddhism"
       ],
       "type": "religious"

@@ -431,6 +431,7 @@
         "Death",
         "Failure",
         "Hephthalites",
+        "Huns",
         "Sassanid",
         "Tribute"
       ],
@@ -475,6 +476,7 @@
         "Crisis",
         "Emperor",
         "Hephthalites",
+        "Huns",
         "Overthrow",
         "Political",
         "Sassanid"
@@ -656,11 +658,31 @@
         "Conquest",
         "Expansion",
         "Hephthalites",
+        "Huns",
         "Khosrov I 👑",
         "Sassanid",
-        "Turkish"
+        "Turkic"
       ],
       "type": "military"
+    },
+    {
+      "date": "01.01.0562",
+      "description": "The Derbent Pass — a narrow coastal corridor approximately three kilometers wide between the Caspian Sea and the southern foothills of the Caucasus—was the only practical invasion route connecting the Arab south with the Khazar north. The Sassanid Persians understood this geography well: in the 5th and 6th centuries, they built a powerful defensive system along this corridor, including the city and fortress of Derbent (Darband in Persian, Bab al-Abwab—\"Gate of Gates\" in Arabic) and a series of walls extending from the Caspian shore into the mountains, designed to block Hunnic and steppe cavalry from raiding south. Originally built of adobe, the fortress was rebuilt under Khosrow from hewn red limestone.",
+      "description_ru": "Дербентский проход — узкий прибрежный коридор шириной примерно три километра между Каспийским морем и южными предгорьями Кавказа — был единственным практически пригодным маршрутом вторжения, соединявшим арабский юг с хазарским севером. Сасанидские персы прекрасно понимали эту географию: в V–VI веках они построили мощную оборонительную систему вдоль этого коридора, включая город и крепость Дербент (Дарбанд по-персидски, Баб аль-Абваб — «Врата ворот» по-арабски) и ряд стен от каспийского берега в горы, призванных блокировать гуннскую и степную конницу от набегов на юг. Изначально возведенная из сырца, при Хосрове крепость была перестроена из тесаного красного известняка.",
+      "era": "AD",
+      "latitude": 42.05267051,
+      "longitude": 48.27431202,
+      "name": "Construction of the Darband Fortress",
+      "name_ru": "Возведение крепости Дарбанд",
+      "source": "https://en.wikipedia.org/wiki/Derbent",
+      "tags": [
+        "Persian",
+        "City",
+        "Defense",
+        "Fortification",
+        "Sassanid"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.0562",
@@ -871,7 +893,7 @@
         "War",
         "Battle",
         "Islamic",
-        "Rashidun Caliphate",
+        "Rashidun",
         "Sassanid"
       ],
       "type": "military"
@@ -892,7 +914,7 @@
         "War",
         "Fall",
         "Islamic",
-        "Rashidun Caliphate",
+        "Rashidun",
         "Sassanid"
       ],
       "type": "military"
@@ -913,7 +935,7 @@
         "War",
         "Battle",
         "Islamic",
-        "Rashidun Caliphate",
+        "Rashidun",
         "Sassanid"
       ],
       "type": "military"

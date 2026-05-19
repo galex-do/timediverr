@@ -370,7 +370,8 @@
         "City",
         "Abbasid",
         "Conquest",
-        "Fatimid"
+        "Fatimid",
+        "Turkic"
       ],
       "type": "historic"
     },
@@ -429,8 +430,8 @@
       "era": "AD",
       "latitude": 36.4450374,
       "longitude": 50.58380127,
-      "name": "Hasan-i-Sabbah creates the Principality of the Assassins",
-      "name_ru": "Хасан-и-Саббах создает княжество ассасинов",
+      "name": "Hasan-i-Sabbah creates the Order of the Assassins",
+      "name_ru": "Хасан-и-Саббах создает орден ассасинов",
       "source": "https://en.wikipedia.org/wiki/Assassins",
       "tags": [
         "Arabian",
@@ -440,6 +441,8 @@
         "Foundation",
         "Islamic",
         "Nizari",
+        "Order",
+        "Sect",
         "Shia"
       ],
       "type": "political"
@@ -556,6 +559,7 @@
         "Political",
         "Temüjin 👤",
         "Turkic",
+        "Turning Point",
         "Unification"
       ],
       "type": "political"

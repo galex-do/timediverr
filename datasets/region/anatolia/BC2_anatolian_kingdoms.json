@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 82 events",
+  "description": "Dataset imported with 81 events",
   "events": [
     {
       "date": "01.01.1300",
@@ -661,6 +661,7 @@
       "source": "https://en.wikipedia.org/wiki/Phrygia",
       "tags": [
         "Phrygian",
+        "Collapse",
         "Decline"
       ],
       "type": "political"

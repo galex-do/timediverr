@@ -1283,8 +1283,8 @@
       "description": "Poet Hesiod writes Theogony and Works and Days; Theogony systematizes Greek mythology with genealogy of gods, while Works and Days provides practical farming advice and moral instruction\n\nIn his Theogony, Hesiod describes how Earth (Gaia), Heaven (Uranus), and Tartarus emerged from Chaos; how the Titans overthrew the primeval gods, and how the Olympians, led by Zeus, overthrew the Titans. This is a fundamental reference work on Greek mythology, upon which all subsequent ancient authors based their work.",
       "description_ru": "Поэт Гесиод пишет Теогонию и Труды и дни; Теогония систематизирует греческую мифологию с генеалогией богов, в то время как Труды и дни дают практические советы по земледелию и нравственные наставления.\n\nГесиод в Теогонии описывает, как из Хаоса возникли Земля (Гея), Небо (Уран) и Тартар; как титаны свергли первоначальных богов, а олимпийцы во главе с Зевсом — титанов. Это фундаментальный справочник по греческой мифологии, на который потом опирались все античные авторы",
       "era": "BC",
-      "latitude": 38.4,
-      "longitude": 23.1,
+      "latitude": 38.36265674,
+      "longitude": 22.84297943,
       "name": "Hesiod's Theogony and Works",
       "name_ru": "Теогония и Труды Гесиода",
       "source": "https://en.wikipedia.org/wiki/Hesiod",
@@ -3990,7 +3990,8 @@
         "Dynasty",
         "Legend",
         "Alexander the Great 👤",
-        "Birth"
+        "Birth",
+        "Turning Point"
       ],
       "type": "historic"
     },
