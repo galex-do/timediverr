@@ -1,0 +1,353 @@
+{
+  "description": "Dataset imported with 18 events",
+  "events": [
+    {
+      "date": "01.01.0850",
+      "description": "By the mid-ninth century, the Vyatichi — an East Slavic tribal union — had settled the upper reaches of the Oka and its northern tributaries, including the Yauza and Klyazma river valleys. The area that would become Mytishchi sat at a natural crossroads where the Yauza rose from boggy springs in the Moscow Upland before flowing southwest toward the Moscow River. Archaeological surveys of the region have uncovered kurgan burial mounds and fragments of Slavic hand-formed pottery consistent with ninth-century Vyatichi settlements.\n\nThe Yauza valley was attractive for several reasons: the forested upland offered protection and building timber, the river flats had workable soil, and the springs produced clean, reliable drinking water year-round. The Vyatichi in this area remained semi-independent longest among the East Slavic tribes — Ibn Rustah and later Nestor the Chronicler both noted their resistance to external authority well into the tenth century. The springs of future Mytishchi, celebrated thirteen centuries later by Catherine the Great, were almost certainly the same water sources around which these first permanent settlers built their farmsteads.",
+      "description_ru": "К середине IX века вятичи — восточнославянский племенной союз — обосновались в верховьях Оки и её северных притоков, включая долины рек Яузы и Клязьмы. Территория будущих Мытищ находилась на природном перекрёстке: здесь Яуза брала начало из болотистых ключей Московской возвышенности, чтобы затем течь на юго-запад к Москве-реке. Археологические обследования района выявили курганные насыпи и фрагменты лепной керамики, характерные для вятичских поселений IX века.\n\nДолина Яузы привлекала поселенцев по нескольким причинам: лесистое плато давало защиту и строевой лес, пойменные земли были пригодны для обработки, а ключи давали чистую питьевую воду круглый год. Вятичи этого района дольше всех восточнославянских племён сохраняли самостоятельность: Ибн Русте и позднее Нестор-летописец отмечали их сопротивление внешней власти вплоть до X века. Мытищинские ключи, воспетые спустя тринадцать столетий Екатериной Великой, были, по всей видимости, теми самыми источниками, вокруг которых эти первые постоянные жители строили свои дворы.",
+      "era": "AD",
+      "latitude": 55.92,
+      "longitude": 37.73,
+      "name": "Vyatichi settlers in the Yauza basin",
+      "name_ru": "Вятичи в бассейне Яузы",
+      "source": "https://en.wikipedia.org/wiki/Vyatichi",
+      "tags": [
+        "local",
+        "Slavic",
+        "Settlement",
+        "Vyatichi",
+        "Tribal"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1147",
+      "description": "The toponym Mytishchi is derived from the Old Russian word «мыт» (myt) — a customs or toll duty collected at designated crossing points on trade routes. By the mid-twelfth century, the lower Yauza was an active commercial corridor connecting the northeastern trading towns (Vladimir, Suzdal, Rostov) with the early settlement of Moscow. Boats and rafts carrying furs, wax, honey, and iron goods from the northeast passed down the Klyazma into the Yauza and then into the Moskva River; carters and merchants on the overland track used the same valley.\n\nAt the shallow ford near the Yauza springs — the very place where future Mytishchi would grow — a myt post was established to collect passage fees on behalf of the local prince. Such stations were simultaneously toll gates, inspection points for contraband, and rudimentary inns. The word Mytishchi (literally «place of the toll») preserves this economic function in permanent geographical memory. This same year, 1147, appears in the Ipatiev Chronicle as the first mention of Moscow itself — making the toll station on the upper Yauza an exact contemporary of Moscow's documentary birth.",
+      "description_ru": "Топоним «Мытищи» происходит от древнерусского слова «мыт» — таможенной пошлины, взимавшейся на специально отведённых перевалочных пунктах торговых путей. К середине XII века нижняя Яуза была активным торговым коридором, соединявшим северо-восточные торговые города (Владимир, Суздаль, Ростов) с ранним поселением Москвой. Лодки и плоты с мехами, воском, мёдом и железными изделиями с северо-востока проходили по Клязьме в Яузу и далее в Москву-реку; извозчики и купцы на сухопутной дороге двигались той же долиной.\n\nУ мелкого брода близ яузских ключей — того самого места, где впоследствии выросли Мытищи, — был устроен мытный двор для сбора проезжих пошлин в пользу местного князя. Такие станции одновременно служили заставами, досмотровыми пунктами и простейшими постоялыми дворами. Слово «Мытищи» (буквально — «место мыта») навсегда сохранило в географическом названии эту экономическую функцию. В том же 1147 году Ипатьевская летопись фиксирует первое упоминание самой Москвы — что делает мытный двор на верхней Яузе точным ровесником документального рождения столицы.",
+      "era": "AD",
+      "latitude": 55.91,
+      "longitude": 37.73,
+      "name": "The toll station — origin of the name Mytishchi",
+      "name_ru": "Мытный двор — происхождение названия Мытищи",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8",
+      "tags": [
+        "local",
+        "Trade",
+        "Etymology",
+        "Medieval",
+        "Customs"
+      ],
+      "type": "economic"
+    },
+    {
+      "date": "25.03.1339",
+      "description": "In his spiritual testament dictated shortly before his death in 1340, Ivan I of Moscow — known as Ivan Kalita, «Ivan Moneybag», for his reputation of accumulating silver to bribe the Mongol khans — divided his principality among his sons. The document is one of the earliest detailed surveys of Muscovite territory and lists villages, roads, forests, and toll revenues that belonged to the prince. The upper Yauza corridor, including the lands around the Mytishchi ford, appears among the possessions bequeathed to his heirs.\n\nThis testament is historically significant beyond mere property law: it represents the first systematic description of what would become the economic and territorial core of the Moscow state. By controlling the Yauza toll route, Moscow's princes secured a stream of revenue that helped them outpay rival principalities in the competition for Mongol favor and ultimately for the title of Grand Prince. The Mytishchi myt station was therefore not just a local commercial fixture but one of the financial instruments behind Moscow's rise to dominance over Rus.",
+      "description_ru": "В своей духовной грамоте, составленной незадолго до смерти в 1340 году, Иван I Московский — прозванный Иваном Калитой, «Иваном Денежным мешком», за репутацию накопителя серебра для подкупа монгольских ханов — разделил своё княжество между сыновьями. Документ является одним из первых подробных описаний московской территории и перечисляет сёла, дороги, леса и мытные доходы, принадлежавшие князю. Верхнеяузский коридор, включая земли у Мытищинского брода, фигурирует среди владений, завещанных наследникам.\n\nЭта грамота исторически значима не только как акт имущественного права: она представляет собой первое систематическое описание того, что станет экономическим и территориальным ядром Московского государства. Контролируя яузский мытный путь, московские князья обеспечивали себе поток доходов, помогавших им «перекупать» соперничающие княжества в борьбе за монгольское расположение и в конечном счёте за титул великого князя. Мытищинский мытный двор был, таким образом, не просто местным торговым учреждением, но одним из финансовых инструментов московского возвышения.",
+      "era": "AD",
+      "latitude": 55.91,
+      "longitude": 37.73,
+      "name": "Ivan Kalita's will — Mytishchi lands bequeathed",
+      "name_ru": "Грамота Ивана Калиты — завещание мытищинских земель",
+      "source": "https://ru.wikipedia.org/wiki/%D0%98%D0%B2%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B8%D1%82%D0%B0",
+      "tags": [
+        "local",
+        "Moscow",
+        "Medieval",
+        "Ivan Kalita",
+        "Property"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1462",
+      "description": "Mid-fifteenth-century scribal surveys (pistsovye knigi) commissioned by the Moscow princes to inventory their lands and tax bases contain among the earliest direct written references to the settlement by name. The scribes recorded the village of Mytishchi as a populated point on the upper Yauza with a functioning myt station and a small cluster of farmsteads supporting it — typically housing the toll-collector, guards, stablehands, and their families.\n\nThese cadastral records show that by the 1460s Mytishchi had graduated from a purely functional roadside post to a stable permanent community. Population estimates are impossible from such sources alone, but the enumeration of separate households and the mention of a wooden chapel suggest a settlement of perhaps two to three dozen families. Crucially, the records distinguish Mytishchi from surrounding forest and field parcels, indicating that the name already referred to a recognizable, bounded place rather than just a geographic feature — a defining threshold in the emergence of a true settlement.",
+      "description_ru": "Писцовые книги середины XV века, составленные по заказу московских князей для инвентаризации земель и налоговых баз, содержат одни из самых ранних прямых письменных упоминаний поселения. Писцы зафиксировали деревню Мытищи как обитаемый пункт на верхней Яузе с действующим мытным двором и небольшой группой дворов, обеспечивавших его работу, — как правило, здесь жили мытник, стражники, конюхи и их семьи.\n\nЭти кадастровые записи показывают, что к 1460-м годам Мытищи превратились из чисто функционального придорожного поста в стабильную постоянную общину. Оценить численность населения по таким источникам невозможно, однако перечисление отдельных дворов и упоминание деревянной часовни указывают на поселение в несколько десятков семей. Показательно, что записи отделяют Мытищи от окружающих лесных и полевых участков, свидетельствуя о том, что название уже обозначало узнаваемое, очерченное место, а не просто географический ориентир — принципиальный рубеж в становлении настоящего поселения.",
+      "era": "AD",
+      "latitude": 55.91,
+      "longitude": 37.73,
+      "name": "First direct mention of Mytishchi in scribal surveys",
+      "name_ru": "Первое прямое упоминание Мытищ в писцовых книгах",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8",
+      "tags": [
+        "local",
+        "Medieval",
+        "Documentation",
+        "Settlement"
+      ],
+      "type": "administrative"
+    },
+    {
+      "date": "01.06.1775",
+      "description": "In June 1775, Empress Catherine II undertook a religious pilgrimage from Moscow to the Trinity-Sergius Lavra at Sergiev Posad, traveling the old northeastern road that passed through Mytishchi. The imperial cortège made a customary stop at the Mytishchi springs, whose water had long been locally celebrated for its clarity and taste. Contemporary accounts record that Catherine was struck by the quality of the water and contrasted it favorably with the polluted and disease-prone water supply of Moscow, which at the time drew largely from the Moskva River and shallow wells increasingly contaminated by urban runoff.\n\nThe Empress reportedly remarked that such water ought to be brought to Moscow proper. This casual but authoritative observation planted the seed for one of Russia's most ambitious early engineering projects. The springs that caught Catherine's attention lay at an elevation slightly above Moscow's lowest districts, making gravity-fed delivery theoretically feasible. Local tradition has long preserved this encounter as the founding moment of the Mytishchi waterworks — and while the full truth is more bureaucratic and less romantic, the 1775 pilgrimage was genuinely the proximate trigger for the survey orders that followed four years later.",
+      "description_ru": "В июне 1775 года императрица Екатерина II совершила паломничество из Москвы в Троице-Сергиеву лавру в Сергиевом Посаде, следуя старой северо-восточной дорогой, проходившей через Мытищи. Императорский кортеж по обычаю остановился у мытищинских ключей, давно прославившихся в округе чистотой и вкусом воды. Современники свидетельствуют, что Екатерина была поражена качеством воды и выгодно сравнила её с загрязнённым и болезнетворным водоснабжением Москвы, которая в то время черпала воду преимущественно из реки Москвы и мелких колодцев, всё более заражённых городскими стоками.\n\nИмператрица, по преданию, заметила, что такую воду следовало бы доставить в саму Москву. Это непринуждённое, но авторитетное высказывание посеяло зерно одного из самых амбициозных ранних инженерных проектов России. Ключи, привлёкшие внимание Екатерины, залегали на высоте, слегка превышавшей уровень нижних районов Москвы, что делало самотёчную подачу теоретически осуществимой. Местная традиция давно хранит это событие как отправной момент мытищинского водопровода — и хотя подлинная история более прозаична, паломничество 1775 года было подлинным непосредственным поводом для последовавших четыре года спустя распоряжений о съёмке местности.",
+      "era": "AD",
+      "latitude": 55.93,
+      "longitude": 37.74,
+      "name": "Catherine II visits Mytishchi springs",
+      "name_ru": "Екатерина II посещает мытищинские ключи",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4",
+      "tags": [
+        "local",
+        "Catherine II",
+        "Water",
+        "Imperial",
+        "Springs"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "28.07.1779",
+      "description": "On July 28, 1779, Catherine II signed an imperial rescript ordering the construction of a waterworks to supply Moscow with clean spring water from Mytishchi. The project was assigned to the Board of Public Works and the engineering survey was entrusted to Lieutenant General Bauer, who confirmed that the Mytishchi springs lay approximately 40 feet above the level of Moscow's central districts — sufficient head pressure to drive water by gravity through a sealed aqueduct 21 kilometers to the city.\n\nThe decree was a landmark in Russian urban history: it was the first attempt in the country to solve a city's water supply problem through large-scale engineering rather than through individual wells and river intake. The financial allocation was generous — over a million rubles drawn from Moscow revenues — and the tsar's personal authority behind the project was meant to override the institutional inertia that had previously killed similar proposals. The original plan called for the construction of a brick-vaulted underground channel, draw-wells at intervals for inspection, and a distribution reservoir inside Moscow near the Sukharev Tower. Construction was intended to take no more than five years. In practice, war, inflation, and engineering difficulties would stretch it to twenty-five.",
+      "description_ru": "28 июля 1779 года Екатерина II подписала императорский рескрипт о строительстве водопровода для снабжения Москвы чистой ключевой водой из Мытищ. Проект был поручен Управлению общественных работ, а инженерная съёмка возложена на генерал-лейтенанта Бауэра, подтвердившего, что мытищинские ключи лежат примерно на 12 метров выше уровня центральных районов Москвы — достаточный напор для самотёчной подачи воды по закрытому акведуку на 21 километр до города.\n\nУказ стал вехой в российской городской истории: это была первая в стране попытка решить проблему водоснабжения крупного города с помощью масштабного инженерного сооружения, а не частных колодцев и забора воды из рек. Финансовые ассигнования были щедрыми — свыше миллиона рублей из московских доходов, — а личный авторитет государыни за проектом должен был преодолеть институциональную инерцию, прежде топившую подобные предложения. Первоначальный план предусматривал строительство кирпичного подземного канала со смотровыми колодцами и распределительного резервуара в Москве у Сухаревой башни. Предполагалось уложиться в пять лет. На деле из-за войн, инфляции и инженерных трудностей строительство растянулось на двадцать пять лет.",
+      "era": "AD",
+      "latitude": 55.93,
+      "longitude": 37.74,
+      "name": "Imperial decree to build the Mytishchi Waterworks",
+      "name_ru": "Императорский рескрипт о строительстве Мытищинского водопровода",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4",
+      "tags": [
+        "local",
+        "Water",
+        "Imperial",
+        "Engineering",
+        "Catherine II",
+        "Infrastructure"
+      ],
+      "type": "administrative"
+    },
+    {
+      "date": "01.01.1783",
+      "description": "Active construction of the Mytishchi Aqueduct began in 1783 under the direction of engineer Ivan Gerard and later Fyodor Bastin. The project was an engineering undertaking of remarkable ambition for eighteenth-century Russia: a 21-kilometer brick-vaulted underground conduit from the Mytishchi springs to a reservoir at the Sukharev Tower in Moscow, fed entirely by gravity with no pumps. Workers dug a continuous trench across farmland, crossing several stream valleys that required small stone bridges and inverted siphons.\n\nThe main spring gallery at Mytishchi consisted of a brick-lined catchment chamber sunk into the ground to intercept the natural groundwater horizon. Fourteen secondary spring inlets fed into the main channel, which maintained a constant gradient of roughly 0.2 meters per kilometer. The construction employed hundreds of soldiers from Moscow garrison regiments and local serfs. Progress was repeatedly interrupted by the Russo-Turkish War of 1787–1792 diverting funds and manpower, and by the engineering challenge of maintaining watertight joints in the brick channel across Moscow's unstable clay subsoils. The project would not be completed until the opening of Alexander I's reign.",
+      "description_ru": "Активное строительство Мытищинского акведука началось в 1783 году под руководством инженера Ивана Жерара, а затем Фёдора Бастина. Проект представлял собой инженерное предприятие исключительной смелости для России XVIII века: 21-километровый кирпичный подземный водовод от мытищинских ключей до резервуара у Сухаревой башни в Москве, работавший исключительно на самотёке без насосов. Рабочие прокопали непрерывную траншею через поля, пересекая несколько долин ручьёв, где потребовались небольшие каменные мосты и перевёрнутые сифоны.\n\nГлавная водосборная галерея в Мытищах представляла собой кирпичную водосборную камеру, врытую в землю для перехвата естественного горизонта грунтовых вод. Четырнадцать второстепенных водозаборных отводов питали главный канал, выдерживавший постоянный уклон около 0,2 метра на километр. На строительстве были заняты сотни солдат московских гарнизонных полков и местных крепостных. Работы неоднократно прерывались русско-турецкой войной 1787–1792 годов, отвлекавшей средства и рабочую силу, а также из-за трудностей с обеспечением водонепроницаемых швов в кирпичном канале на неустойчивых московских глинах. Проект будет завершён лишь в начале царствования Александра I.",
+      "era": "AD",
+      "latitude": 55.93,
+      "longitude": 37.74,
+      "name": "Construction of the Mytishchi Aqueduct begins",
+      "name_ru": "Начало строительства Мытищинского акведука",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4",
+      "tags": [
+        "local",
+        "Water",
+        "Engineering",
+        "Infrastructure",
+        "Construction"
+      ],
+      "type": "infrastructure"
+    },
+    {
+      "date": "28.10.1804",
+      "description": "On October 28, 1804, clean spring water from Mytishchi flowed through the completed aqueduct and reached Moscow for the first time, emerging at the public fountain basins installed beside the Sukharev Tower. The ceremony was a genuine public sensation: Muscovites who had grown up drinking brown, often foul Moskva River water or well water tasting of iron and clay could now fill vessels with cool, clear, slightly alkaline spring water for free.\n\nThe Mytishchi Waterworks was the first centralized public water supply system in Russia — predating comparable systems in St. Petersburg by decades — and was celebrated across Europe as evidence that Russia could execute Western-style municipal engineering. The total conduit ran 21.3 kilometers, passed under twelve streets and six stream beds, and was maintained by a dedicated staff of watchmen stationed at inspection shafts every 300 meters. At its completion the system delivered approximately 300,000 vedra (roughly 3,600 cubic meters) of water per day, serving about forty public fountains across Moscow's central districts. The springs of a small village in the forested upland north of the city had become, in effect, the beating heart of Moscow's public hygiene.",
+      "description_ru": "28 октября 1804 года чистая ключевая вода из Мытищ прошла по завершённому акведуку и впервые достигла Москвы, появившись у публичных фонтанов, устроенных у Сухаревой башни. Церемония произвела подлинный общественный фурор: москвичи, выросшие на мутной, нередко зловонной воде из Москвы-реки или колодезной воде со вкусом железа и глины, могли теперь бесплатно набирать прохладную, чистую, слегка щелочную ключевую воду.\n\nМытищинский водопровод стал первой централизованной системой общественного водоснабжения в России — опередив аналогичные системы Санкт-Петербурга на десятилетия — и был отмечен по всей Европе как свидетельство способности России осуществлять западноевропейское муниципальное строительство. Общая длина водовода составила 21,3 километра; он прошёл под двенадцатью улицами и шестью ручьями и обслуживался специальным штатом смотрителей у ревизионных колодцев через каждые 300 метров. По завершении строительства система подавала около 300 000 вёдер (примерно 3 600 кубометров) воды в сутки, питая около сорока общественных фонтанов в центральных районах Москвы. Ключи небольшой деревни в лесистом нагорье к северу от города стали, по существу, бьющимся сердцем московской общественной гигиены.",
+      "era": "AD",
+      "latitude": 55.93,
+      "longitude": 37.74,
+      "name": "Mytishchi water reaches Moscow — Russia's first waterworks complete",
+      "name_ru": "Мытищинская вода достигает Москвы — первый в России водопровод завершён",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4",
+      "tags": [
+        "local",
+        "Water",
+        "Engineering",
+        "Infrastructure",
+        "Moscow",
+        "Milestone"
+      ],
+      "type": "infrastructure"
+    },
+    {
+      "date": "22.08.1862",
+      "description": "On August 22, 1862, the Moscow–Yaroslavl Railway opened its first section, linking Moscow's Yaroslavl Station to Sergiev Posad. The line ran directly through Mytishchi, which received one of the first passenger stations — a modest wooden structure with a platform and a stationmaster's house. The choice of route was partly determined by the existing road corridor used for centuries by pilgrims traveling to the Trinity-Sergius Lavra, and partly by the favorable terrain of the upper Yauza valley.\n\nThe arrival of the railway transformed Mytishchi more profoundly than any event since the waterworks. Journey time from Moscow shrank from a full day's carriage ride to under an hour. Land prices along the railway corridor rose sharply, attracting buyers who wanted summer estates within easy commuting distance of the city. Within a decade the pattern of seasonal migration began: Moscow merchants, professionals, and civil servants rented or bought dachas in the forested land east and north of the station, coming out on Friday evenings and returning Monday mornings. The railway station thus became the social and commercial nucleus of a new Mytishchi — one organized around leisure and proximity to Moscow rather than around tolls and trade routes.",
+      "description_ru": "22 августа 1862 года открылся первый участок Московско-Ярославской железной дороги, связавший Ярославский вокзал Москвы с Сергиевым Посадом. Линия прошла непосредственно через Мытищи, получившие одну из первых пассажирских станций — скромное деревянное сооружение с платформой и домом начальника станции. Выбор трассы был частично обусловлен веками существовавшим дорожным коридором, которым пользовались паломники, шедшие в Троице-Сергиеву лавру, и частично — благоприятным рельефом верхнеяузской долины.\n\nПоявление железной дороги преобразило Мытищи глубже, чем любое событие со времён водопровода. Дорога от Москвы сократилась с целого дня езды в экипаже до менее чем часа. Земельные цены вдоль железнодорожного коридора резко выросли, привлекая покупателей, желавших иметь летние имения в пределах лёгкой досягаемости от города. В течение десяти лет сложился уклад сезонных переездов: московские купцы, специалисты и чиновники снимали или покупали дачи в лесистых землях к востоку и северу от станции, выезжая в пятницу вечером и возвращаясь в понедельник утром. Железнодорожная станция стала социальным и коммерческим ядром новых Мытищ — организованных вокруг отдыха и близости к Москве, а не вокруг мытного двора и торговых путей.",
+      "era": "AD",
+      "latitude": 55.91,
+      "longitude": 37.73,
+      "name": "Moscow–Yaroslavl Railway opens through Mytishchi",
+      "name_ru": "Московско-Ярославская железная дорога открывается через Мытищи",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE-%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0",
+      "tags": [
+        "local",
+        "Railway",
+        "Infrastructure",
+        "Transport",
+        "Moscow"
+      ],
+      "type": "infrastructure"
+    },
+    {
+      "date": "01.06.1878",
+      "description": "By the late 1870s Mytishchi had become one of the most fashionable dacha districts in Moscow guberniya. The railway placed it within 45 minutes of the city, the forested upland north of the tracks offered clean air and shaded walking paths free from Moscow's summer dust and cholera-prone water, and the newly expanded Mytishchi waterworks ensured that residents had access to reliable clean water not available in many other suburban destinations.\n\nThe dacha colony that grew around the station was socially mixed but skewed toward the prosperous middle class: merchants from the Zamoskvorechye district, university professors, journalists, and factory owners. Entire streets of summer cottages — wooden two-story structures with carved trim, verandas, and flower gardens — replaced the meadows along the railway. Chekhov, who traveled through the region frequently on trips to estates further northeast, described the Mytishchi dacha landscape in correspondence as representative of the leisured Moscow summer. By the 1880s local entrepreneurs had opened tea gardens, boat rentals on the upper Yauza, and a small hotel catering to day-trippers from the city, establishing the pattern of urban recreation infrastructure that would shape the town's identity for generations.",
+      "description_ru": "К концу 1870-х годов Мытищи стали одним из самых модных дачных районов Московской губернии. Железная дорога доставляла сюда за 45 минут, лесистое нагорье к северу от путей давало чистый воздух и тенистые прогулочные тропы, свободные от московской летней пыли и холерного водоснабжения, а расширенный мытищинский водопровод гарантировал жителям надёжную чистую воду, недоступную во многих других пригородных местах.\n\nДачная колония, выросшая вокруг станции, была социально пёстрой, но тяготела к состоятельному среднему классу: купцы из Замоскворечья, университетские профессора, журналисты и фабриканты. Целые улицы летних дач — деревянные двухэтажные строения с резными наличниками, верандами и цветниками — вытесняли луга вдоль железной дороги. Чехов, часто проезжавший через эти места по дороге в усадьбы северо-восточнее, описывал мытищинский дачный пейзаж в переписке как образец московского летнего досуга. К 1880-м годам местные предприниматели открыли чайные сады, прокат лодок на верхней Яузе и небольшую гостиницу для однодневных экскурсантов из города, заложив образец городской рекреационной инфраструктуры, который будет определять облик городка на протяжении поколений.",
+      "era": "AD",
+      "latitude": 55.91,
+      "longitude": 37.74,
+      "name": "Mytishchi flourishes as a fashionable dacha colony",
+      "name_ru": "Мытищи расцветают как модная дачная колония",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8",
+      "tags": [
+        "local",
+        "Dacha",
+        "Culture",
+        "Leisure",
+        "Moscow",
+        "19th century"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "15.07.1897",
+      "description": "In July 1897 the Mytishchi Wagon-Building Plant (Мытищинский вагоностроительный завод) was founded by a consortium of Moscow merchants and Belgian investors as a facility to manufacture passenger and freight railway cars for the rapidly expanding Russian railway network. The site chosen — a flat parcel of land northeast of the town center, adjacent to the railway siding — was strategically ideal: raw steel and lumber arrived by rail, and finished wagons rolled directly onto the main line.\n\nThe plant was among the first large industrial enterprises in Moscow guberniya outside the textile sector and immediately became the dominant employer in Mytishchi, drawing skilled metalworkers from across central Russia. By 1905 it employed over a thousand workers living in wooden barracks on the factory grounds. The plant's history would intertwine with the largest events of the twentieth century: it would build military supply wagons during the First World War, produce the iconic brown-painted wooden cars of the Moscow Metro's first line in 1934, construct trolleybuses and trams during Soviet industrialization, and survive a wartime evacuation to the Urals in 1941. Today the plant's successor — Metrovagonmash — remains the principal supplier of rolling stock to the Moscow Metro.",
+      "description_ru": "В июле 1897 года был основан Мытищинский вагоностроительный завод — консорциумом московских купцов и бельгийских инвесторов для производства пассажирских и грузовых железнодорожных вагонов для стремительно расширявшейся российской железнодорожной сети. Выбранный участок — ровная территория к северо-востоку от центра города, примыкающая к железнодорожному тупику, — был стратегически идеален: сталь и пиломатериалы поступали по железной дороге, а готовые вагоны сразу выкатывались на главный путь.\n\nЗавод стал одним из первых крупных промышленных предприятий Московской губернии за пределами текстильной отрасли и немедленно превратился в главного работодателя Мытищ, привлекая квалифицированных металлистов со всей Центральной России. К 1905 году на нём работало свыше тысячи человек, жившихся в деревянных бараках на заводской территории. История завода переплетётся с крупнейшими событиями XX века: он будет строить военные теплушки в Первую мировую войну, в 1934 году выпустит знаменитые коричневые деревянные вагоны первой линии московского метро, в годы советской индустриализации — троллейбусы и трамваи, в 1941 году пережёт эвакуацию на Урал. Сегодня его преемник — «Метровагонмаш» — остаётся главным поставщиком подвижного состава для московского метро.",
+      "era": "AD",
+      "latitude": 55.94,
+      "longitude": 37.76,
+      "name": "Mytishchi Wagon-Building Plant founded",
+      "name_ru": "Основание Мытищинского вагоностроительного завода",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%BC%D0%B0%D1%88",
+      "tags": [
+        "local",
+        "Industry",
+        "Factory",
+        "Railway",
+        "Manufacturing"
+      ],
+      "type": "economic"
+    },
+    {
+      "date": "09.12.1905",
+      "description": "In December 1905, workers at the Mytishchi Wagon-Building Plant joined the general strike wave that swept the Moscow industrial belt following the October Manifesto and the suppression of the St. Petersburg uprising. The Mytishchi strike was organized through a factory committee aligned with the Russian Social Democratic Labour Party and lasted approximately two weeks before being broken by the deployment of a Cossack detachment quartered at the Mytishchi station.\n\nThe episode was typical of the pattern across the Moscow ring of industrial suburbs — Lyubertsy, Podolsk, Mytishchi, Orekhovo-Zuevo — where the concentration of male industrial workers in factory barracks created conditions highly favorable to rapid labor organizing. For Mytishchi specifically, the 1905 events marked the first time the factory workforce acted collectively, established informal shop-floor committees that would persist underground until 1917, and permanently altered the relationship between the plant management (then still under partial Belgian ownership) and its Russian workers. Several strike leaders were exiled to Siberia; others returned to the plant and became Bolshevik organizers twelve years later.",
+      "description_ru": "В декабре 1905 года рабочие Мытищинского вагоностроительного завода примкнули к волне всеобщей забастовки, прокатившейся по московскому промышленному поясу вслед за Октябрьским манифестом и подавлением петербургского восстания. Мытищинская стачка была организована заводским комитетом, связанным с РСДРП, и продолжалась около двух недель, пока не была подавлена казачьим отрядом, расквартированным на Мытищинской станции.\n\nЭти события типичны для промышленных пригородов Московского кольца — Люберец, Подольска, Мытищ, Орехово-Зуева, — где концентрация рабочих мужчин в заводских бараках создавала исключительно благоприятные условия для быстрой профсоюзной организации. Для Мытищ события 1905 года стали первым случаем коллективного выступления заводских рабочих: тогда возникли неформальные цеховые комитеты, которые существовали в подполье вплоть до 1917 года, и навсегда изменились отношения между заводской администрацией (ещё частично находившейся под бельгийским управлением) и русскими рабочими. Несколько стачечных руководителей были сосланы в Сибирь; другие вернулись на завод и стали большевистскими организаторами двенадцать лет спустя.",
+      "era": "AD",
+      "latitude": 55.94,
+      "longitude": 37.76,
+      "name": "Workers' strike at Mytishchi Wagon Plant",
+      "name_ru": "Забастовка рабочих Мытищинского вагонного завода",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8",
+      "tags": [
+        "local",
+        "Labor",
+        "Strike",
+        "Revolution",
+        "Industry",
+        "1905"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1925",
+      "description": "In 1925 the Soviet authorities granted Mytishchi the status of «город» (city), formally recognizing its transformation from a rural township into an urban industrial settlement. At the time of the reclassification the population stood at roughly 18,000, supported primarily by the wagon-building plant and a cluster of smaller enterprises producing bricks, food products, and construction materials.\n\nThe elevation to city status triggered immediate administrative consequences: the establishment of a municipal soviet with budget authority, the beginning of planned residential construction to replace the informal wooden housing stock, the creation of a municipal utilities office to extend the water and sewage network, and the formalization of public schooling. For the residents of Mytishchi the most visible change was the beginning of systematic street paving and the construction of the first multi-story brick apartment buildings along the central avenue. The dacha culture that had defined the pre-revolutionary town began a slow retreat as permanent residential development expanded and seasonal visitors gave way to year-round factory workers and their families.",
+      "description_ru": "В 1925 году советские власти присвоили Мытищам статус города, официально признав их превращение из сельского посёлка в промышленный населённый пункт городского типа. На момент переклассификации население составляло около 18 000 человек, занятых преимущественно на вагоностроительном заводе и ряде более мелких предприятий по производству кирпича, продовольствия и строительных материалов.\n\nПовышение статуса незамедлительно повлекло административные следствия: создание городского совета с бюджетными полномочиями, начало планового жилищного строительства на замену стихийному деревянному жилфонду, организацию отдела городского хозяйства для расширения водопроводной и канализационной сети, формализацию общего образования. Для жителей Мытищ наиболее ощутимыми переменами стали систематическое мощение улиц и возведение первых многоэтажных кирпичных жилых домов вдоль центральной улицы. Дачная культура, определявшая облик дореволюционного городка, медленно отступала по мере расширения постоянной жилой застройки, а сезонных отдыхающих сменяли круглогодичные заводские рабочие с семьями.",
+      "era": "AD",
+      "latitude": 55.91,
+      "longitude": 37.73,
+      "name": "Mytishchi granted city status",
+      "name_ru": "Мытищам присвоен статус города",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8",
+      "tags": [
+        "local",
+        "Administrative",
+        "Soviet",
+        "Urban",
+        "Milestone"
+      ],
+      "type": "administrative"
+    },
+    {
+      "date": "15.05.1935",
+      "description": "On May 15, 1935, the Moscow Metro opened its first line — the Sokolnicheskaya Line from Sokolniki to Park Kultury, 11.4 kilometers with 13 stations. The brown-painted wooden passenger cars that ran on opening day were manufactured at the Mytishchi Wagon-Building Plant, now operating under Soviet management as a state enterprise. Mytishchi workers and engineers had spent the preceding 18 months in intensive production runs, turning out the Series A cars (Серия А) that would define the early Soviet underground railway aesthetic.\n\nThe metro opening was a massive propaganda event for the Soviet state, presented as proof of socialist industrialization surpassing Western achievements. For Mytishchi the connection was direct and concrete: the carriages rolling through the granite-and-marble stations that Stalin's architects had designed were made in a factory town 20 kilometers away. The plant would go on to supply nearly every generation of Moscow Metro rolling stock through the Soviet era and into the post-Soviet period, cementing Mytishchi's identity as the city that built Moscow's underground. A commemorative plaque at the plant's entrance still marks the 1935 production run.",
+      "description_ru": "15 мая 1935 года в Москве открылась первая линия метро — Сокольническая, от «Сокольников» до «Парка культуры», протяжённостью 11,4 км с 13 станциями. Коричневые деревянные пассажирские вагоны, вышедшие на линию в день открытия, были произведены на Мытищинском вагоностроительном заводе, к тому времени работавшем под советским управлением как государственное предприятие. За предшествующие 18 месяцев мытищинские рабочие и инженеры выпустили вагоны типа «А» (Серия А), определившие эстетику раннего советского подземного транспорта.\n\nОткрытие метро стало грандиозным пропагандистским событием советского государства — демонстрацией превосходства социалистической индустриализации над западными достижениями. Для Мытищ связь с этим событием была прямой и конкретной: вагоны, катившиеся по гранитно-мраморным станциям, спроектированным архитекторами Сталина, были изготовлены на заводе в городке в 20 километрах от Москвы. Завод продолжал поставлять почти каждое новое поколение подвижного состава московского метро на протяжении всей советской эпохи и в постсоветский период, утвердив за Мытищами репутацию города, построившего московское подземелье. Мемориальная доска у проходной завода до сих пор отмечает производственный пуск 1935 года.",
+      "era": "AD",
+      "latitude": 55.94,
+      "longitude": 37.76,
+      "name": "Mytishchi plant builds the first Moscow Metro cars",
+      "name_ru": "Мытищинский завод строит первые вагоны московского метро",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%BC%D0%B0%D1%88",
+      "tags": [
+        "local",
+        "Metro",
+        "Industry",
+        "Manufacturing",
+        "Soviet",
+        "Moscow",
+        "Milestone"
+      ],
+      "type": "economic"
+    },
+    {
+      "date": "01.12.1941",
+      "description": "In the autumn and winter of 1941 the German Army Group Centre drove to within 20–30 kilometers of Moscow, and the northern axis of the advance — through Khimki, Kryukovo, and the Yakhroma bridgehead — brought the front directly to the edge of Mytishchi's district. The city itself was not occupied, but it sat within the inner defensive ring constructed by the Moscow garrison and the People's Volunteer Corps. Anti-tank ditches were dug along the northern approaches; factory workshops were converted to repair damaged T-34 tanks and produce ammunition boxes.\n\nThe Mytishchi Wagon-Building Plant, too large to evacuate fully, sent its most skilled metalworkers and key tooling east to the Urals in September 1941. The remaining workforce, including women who had replaced the mobilized men, switched to war production: field kitchen units, ammunition crates, and pontoon bridge sections. German bombers raided the Moscow–Yaroslavl railway line several times, targeting the rail junction at Mytishchi. The city's factories, water supply infrastructure, and railway facilities were all designated military objectives, and the proximity of the front gave December 1941 in Mytishchi an urgency and danger that the official Soviet narrative, which emphasized the heroism of the final counteroffensive, would somewhat obscure afterward.",
+      "description_ru": "Осенью и зимой 1941 года германская группа армий «Центр» вышла на расстояние 20–30 километров от Москвы, а северный фланг наступления — через Химки, Крюково и яхромский плацдарм — вплотную приблизился к Мытищинскому району. Сам город оккупирован не был, однако располагался внутри оборонительного кольца, возведённого московским гарнизоном и народными ополченцами. Вдоль северных подступов были прорыты противотанковые рвы; заводские цеха переоборудованы под ремонт повреждённых танков Т-34 и производство ящиков для боеприпасов.\n\nМытищинский вагоностроительный завод, слишком большой для полной эвакуации, отправил в сентябре 1941 года своих наиболее квалифицированных металлистов и ключевое оборудование на Урал. Оставшийся персонал, включая женщин, заменивших мобилизованных мужчин, перешёл на военное производство: полевые кухни, ящики для снарядов, секции понтонных мостов. Немецкие бомбардировщики неоднократно совершали налёты на Московско-Ярославскую железную дорогу, целясь в железнодорожный узел в Мытищах. Городские заводы, инфраструктура водоснабжения и железнодорожные объекты были объявлены военными целями, и близость фронта придала декабрю 1941 года в Мытищах напряжённость и опасность, которую официальная советская нарратив, делавший акцент на героизме финального контрнаступления, впоследствии несколько затушевал.",
+      "era": "AD",
+      "latitude": 55.91,
+      "longitude": 37.73,
+      "name": "Battle of Moscow — Mytishchi on the inner defense perimeter",
+      "name_ru": "Битва за Москву — Мытищи в ближнем оборонительном кольце",
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%B2%D0%B0_%D0%B7%D0%B0_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%83",
+      "tags": [
+        "local",
+        "WWII",
+        "Battle",
+        "Military",
+        "Defense",
+        "Soviet"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "09.05.1945",
+      "description": "With the German surrender on May 9, 1945, Mytishchi — like every Soviet city — celebrated the end of the Great Patriotic War. The human cost for the city was heavy: of the approximately 12,000 Mytishchi residents who served in the Red Army and partisan formations, a significant portion did not return. The Wagon-Building Plant lost over three hundred workers killed in action. Post-war demobilization brought many veterans back to the factory floor, while a broader wave of internal migration from depopulated rural areas swelled the city's population rapidly.\n\nThe immediate post-war decade in Mytishchi was shaped by two imperatives: rebuilding physical infrastructure damaged by the war years' deferred maintenance, and expanding industrial capacity to meet the enormous reconstruction demand across the USSR. The plant quickly returned to peacetime production, resuming metro car assembly for Moscow's expanding underground network. New residential microdistricts were planned on what had been dacha land to the north and east. The late 1940s saw Mytishchi's population surpass 50,000 — a threshold that transformed it from a medium-sized industrial town into one of Moscow's significant satellite cities.",
+      "description_ru": "С капитуляцией Германии 9 мая 1945 года Мытищи — как и все советские города — праздновали окончание Великой Отечественной войны. Человеческие потери города были тяжёлыми: из примерно 12 000 жителей, призванных в ряды Красной армии и партизанских формирований, значительная часть не вернулась. Вагоностроительный завод потерял более трёхсот погибших на фронте рабочих. Послевоенная демобилизация вернула многих ветеранов на заводские места, тогда как более широкий поток внутренней миграции из обезлюдевших сельских районов быстро увеличил население города.\n\nНепосредственное послевоенное десятилетие в Мытищах определялось двумя императивами: восстановлением физической инфраструктуры, пострадавшей из-за военного запущения, и наращиванием промышленных мощностей для удовлетворения огромного восстановительного спроса по всему СССР. Завод быстро вернулся к мирному производству, возобновив сборку вагонов для расширявшейся московской подземки. На месте бывших дачных земель к северу и востоку были запроектированы новые жилые микрорайоны. К концу 1940-х годов население Мытищ превысило 50 000 человек — рубеж, превративший их из среднего промышленного городка в один из значимых городов-спутников Москвы.",
+      "era": "AD",
+      "latitude": 55.91,
+      "longitude": 37.73,
+      "name": "Victory Day and post-war reconstruction of Mytishchi",
+      "name_ru": "День Победы и послевоенное восстановление Мытищ",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8",
+      "tags": [
+        "local",
+        "WWII",
+        "Soviet",
+        "Reconstruction",
+        "Victory"
+      ],
+      "type": "history"
+    },
+    {
+      "date": "01.01.1962",
+      "description": "By the early 1960s Mytishchi had been definitively absorbed into the expanding Moscow metropolitan area. The city's population reached 100,000, qualifying it as a «large city» by Soviet classification standards. The second expansion of the Mytishchi Waterworks — now a vast network of deep boreholes supplementing the long-exhausted original springs — served not only Mytishchi but provided backup capacity for Moscow's northeastern distribution network.\n\nThe Mytishchi Machine-Building Plant (the former wagon factory, renamed under Soviet industrial reorganization) had diversified its output to include not only metro cars but also trolleybuses, tram bodies, and specialized rail maintenance vehicles. The city's industrial identity had fully crystallized: Mytishchi was Moscow's railway-vehicle workshop. The dacha colony had been almost entirely consumed by permanent housing. The Yauza, whose springs had started everything, now flowed through a city of concrete apartment blocks, factory chimneys, and a railway station handling over a hundred thousand passengers per day — a transformation from medieval toll post to Soviet industrial satellite achieved across eight centuries.",
+      "description_ru": "К началу 1960-х годов Мытищи окончательно вошли в состав расширяющейся московской агломерации. Население города достигло 100 000 человек, что по советской классификации относило его к «крупным городам». Второе расширение Мытищинского водопровода — теперь превратившегося в разветвлённую сеть глубоких скважин, заменивших давно истощённые первоначальные ключи, — обслуживало не только Мытищи, но и обеспечивало резервные мощности для московской северо-восточной распределительной сети.\n\nМытищинский машиностроительный завод (бывший вагоностроительный, переименованный при советской промышленной реорганизации) диверсифицировал выпуск, производя не только вагоны метро, но и троллейбусы, кузова трамваев и специализированные путеремонтные машины. Промышленная идентичность города окончательно сложилась: Мытищи стали мастерской Москвы по рельсовому транспорту. Дачная колония была почти целиком поглощена капитальным жильём. Яуза, чьи истоки дали начало всему, теперь текла сквозь город бетонных многоэтажек, заводских труб и железнодорожной станции, пропускавшей свыше ста тысяч пассажиров в день, — преображение средневекового мытного двора в советский промышленный спутник, совершившееся за восемь веков.",
+      "era": "AD",
+      "latitude": 55.91,
+      "longitude": 37.73,
+      "name": "Mytishchi reaches 100,000 people — a Soviet industrial satellite",
+      "name_ru": "Мытищи достигают 100 000 жителей — советский промышленный спутник Москвы",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8",
+      "tags": [
+        "local",
+        "Soviet",
+        "Urban",
+        "Industry",
+        "Growth"
+      ],
+      "type": "history"
+    },
+    {
+      "date": "21.06.2015",
+      "description": "On June 21, 2015, the Mytishchi History and Local Lore Museum (Мытищинский историко-художественный музей) opened a permanent exhibition dedicated to the city's eight-century history in a purpose-renovated building in the city center. The museum's core collection had existed since 1962, originally housed in a single room of the city administration building, but the 2015 expansion gave it a proper display space spanning the full chronology from Vyatichi burial mounds through the Mytishchi waterworks, the railway era, the wagon plant, and the Soviet period.\n\nThe museum's opening coincided with growing civic interest in Mytishchi's identity as Moscow continued to absorb its satellite cities administratively and culturally. For residents who had grown up knowing the city only as a commuter suburb, the institution offered a counter-narrative: Mytishchi as the origin point of Moscow's clean water, as the factory that built the metro, as a community with a continuous history reaching back a thousand years before the first apartment block was poured. The waterworks spring chamber — partially restored and open to visitors in a protected enclosure — became the museum's most popular exhibit, closing a symbolic circle between Catherine II's eighteenth-century observation and the present.",
+      "description_ru": "21 июня 2015 года в Мытищах открылся Мытищинский историко-художественный музей, разместивший постоянную экспозицию, посвящённую восьмивековой истории города, в специально отреставрированном здании в центре города. Основной фонд музея существовал с 1962 года, первоначально занимая одну комнату в здании городской администрации, однако расширение 2015 года предоставило ему полноценное экспозиционное пространство, охватывающее всю хронологию — от вятичских курганов до мытищинского водопровода, железнодорожной эпохи, вагонного завода и советского периода.\n\nОткрытие музея совпало с ростом гражданского интереса к мытищинской идентичности по мере того, как Москва продолжала административно и культурно поглощать города-спутники. Для жителей, выросших воспринимать город лишь как пригород-спальник, музей предлагал альтернативный нарратив: Мытищи как исток московской чистой воды, как завод, построивший метро, как сообщество с непрерывной историей, уходящей на тысячу лет глубже, чем первый залитый бетоном многоэтажный дом. Камера водосбора мытищинских ключей — частично отреставрированная и открытая для посетителей в защищённом павильоне — стала самым популярным экспонатом музея, замкнув символический круг между наблюдением Екатерины II в XVIII веке и нашими днями.",
+      "era": "AD",
+      "latitude": 55.91,
+      "longitude": 37.73,
+      "name": "Mytishchi History Museum opens permanent exhibition",
+      "name_ru": "Мытищинский историко-художественный музей открывает постоянную экспозицию",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%BE-%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9",
+      "tags": [
+        "local",
+        "Museum",
+        "Culture",
+        "Heritage",
+        "Modern"
+      ],
+      "type": "cultural"
+    }
+  ]
+}
