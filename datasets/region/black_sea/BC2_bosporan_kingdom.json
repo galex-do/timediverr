@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 20 events",
+  "description": "Dataset imported with 28 events",
   "events": [
     {
       "date": "01.01.0480",
@@ -109,7 +109,7 @@
         "Greek",
         "War",
         "Bosporan",
-        "Caucasian",
+        "Circassian",
         "Expansion",
         "Guerilla"
       ],
@@ -148,7 +148,7 @@
         "War",
         "Diplomacy",
         "Bosporan",
-        "Caucasian",
+        "Circassian",
         "Peace",
         "Treaty"
       ],
@@ -187,7 +187,7 @@
         "Greek",
         "War",
         "Bosporan",
-        "Caucasian",
+        "Circassian",
         "Conquest",
         "Expansion"
       ],

@@ -492,10 +492,10 @@
       "tags": [
         "Greek",
         "Pontus",
-        "Caucasian",
         "Colchis",
         "Vassalage",
-        "Wood"
+        "Wood",
+        "Georgian"
       ],
       "type": "political"
     },
@@ -908,7 +908,7 @@
         "Mithridatic",
         "War",
         "Battle",
-        "Caucasian",
+        "Caucasian Albania",
         "Expedition",
         "Pompey the Great 👤"
       ],
@@ -987,10 +987,10 @@
         "Roman",
         "Mithridatic",
         "War",
-        "Caucasian",
         "Colchis",
         "Expedition",
-        "Pompey the Great 👤"
+        "Pompey the Great 👤",
+        "Georgian"
       ],
       "type": "historic"
     },
