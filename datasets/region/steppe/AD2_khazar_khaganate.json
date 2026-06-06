@@ -23,12 +23,32 @@
       "type": "political"
     },
     {
+      "date": "01.01.0669",
+      "description": "Сразу после смерти болгарского хана Кубрата и распада его государства в таманский регион пришли хазары. Старший сын Кубрата, хан Батбаян и его брат Аспарух приняли удар хазарской армии и оказали яростное сопротивление, однако силы были неравны. Хазарская конница разгромила болгарское войско; Аспарух был вынужден бежать, а Батбаян - принять суверенитет Хазарии. Поскольку народы были родственными, хазары не разорили болгарское царство, а интегрировали его в свою империю.",
+      "description_ru": "Сразу после смерти болгарского хана Кубрата и распада его государства в таманский регион пришли хазары. Старший сын Кубрата, хан Батбаян и его брат Аспарух приняли удар хазарской армии и оказали яростное сопротивление, однако силы были неравны. Хазарская конница разгромила болгарское войско; Аспарух был вынужден бежать, а Батбаян - принять суверенитет Хазарии. Поскольку народы были родственными, хазары не разорили болгарское царство, а интегрировали его в свою империю.",
+      "era": "AD",
+      "latitude": 45.2769,
+      "longitude": 36.9661,
+      "name": "The Khazars capture Taman",
+      "name_ru": "Хазары захватывают Тамань",
+      "source": "https://golubitskoefoundation.com/longreads/archaeology_of_tamagne",
+      "tags": [
+        "Conquest",
+        "Nomads",
+        "Turkic",
+        "Vassalage",
+        "Bulgarian",
+        "Khazar"
+      ],
+      "type": "military"
+    },
+    {
       "date": "01.01.0732",
       "description": "The Byzantine Emperor Constantine V—later known as \"Copronymus\" for his iconoclastic theological positions—married a Khazar princess known by the Turkic name Çiçek and the Christian name Irene. The marriage was a strategic alliance: Byzantium needed an ally in the northeast to counteract Umayyad pressure from the south, while the Khazars gained a dynastic connection to the most prestigious Christian empire in the world.\n\nThe son of Constantine and Çiçek became Leo IV. He was called \"Leo of the Khazars\" by his contemporaries—a nickname that acknowledged his maternal lineage and the visible influence of Khazar court connections on his personal style. The dynastic marriage was a concrete expression of how deeply the Khazar Khaganate was integrated into the high politics of the early medieval Mediterranean.",
       "description_ru": "Византийский император Константин V — впоследствии ставший печально известным как «Копроним» за свои иконоборческие богословские позиции — женился на хазарской принцессе, известной под тюркским именем Чичек и христианским именем Ирина. Брак был стратегическим союзом: Византии была нужен был союзник на северо-востоке для балансирования омейядского давления с юга, а хазары получали династическую связь с наиболее престижной христианской империей мира. \n\nСын Константина и Чичек стал Львом IV. Его называли «Лев Хазар» современники — прозвище, признававшее его материнское происхождение и видимое влияние хазарских придворных связей на его личный стиль. Династический брак был конкретным выражением того, насколько глубоко Хазарский каганат был интегрирован в высокую политику раннесредневекового Средиземноморья",
       "era": "AD",
-      "latitude": 41.01,
-      "longitude": 28.96,
+      "latitude": 41.0082,
+      "longitude": 28.9784,
       "name": "The Khazar-Byzantine Dynastic Alliance",
       "name_ru": "Хазаро-византийский династический союз",
       "source": "https://en.wikipedia.org/wiki/Leo_IV_the_Khazar",
@@ -44,27 +64,6 @@
         "Khazar"
       ],
       "type": "political"
-    },
-    {
-      "date": "01.01.0750",
-      "description": "The Khazar capital of Itil (also Atil or Atil) was located in the Volga Delta—a place with exceptional trade advantages at the junction of the Volga river system and the overland routes to the Caucasus, the Pontic Steppe, and through it to Byzantium and the Danube.\n\nItil was built primarily of wood, reeds, and felt—steppe building materials suitable for a city whose ruling class retained its nomadic habits of seasonal migration. The khagan and his court retreated to summer pastures north of the city during the warmer months, returning to Itil for the winter. The city itself, spread across two islands and the eastern bank of the Volga Delta, contained separate residential quarters for Muslims, Christians, Jews, and pagans. The markets were filled with goods from all points of the Eurasian trade network: Chinese silk, Byzantine glass and fabrics, Russian furs, amber and slaves, Persian metal goods, and Arab silver dirhams.",
-      "description_ru": "Хазарская столица Итиль (также Атиль или Атил) располагалась в дельте Волги — место с исключительными торговыми преимуществами на стыке волжской речной системы и сухопутных маршрутов к Кавказу, Понтийской степи и через неё к Византии и Дунаю.\n\nИтиль был построен преимущественно из дерева, камыша и войлока — степных строительных материалов, подходящих для города, чей правящий класс сохранял кочевую привычку к сезонным перемещениям. Каган и двор уходили на летние пастбища к северу от города в тёплые месяцы, возвращаясь в Итиль на зиму. Сам город, раскинувшийся на двух островах и восточном берегу волжской дельты, содержал отдельные жилые кварталы для мусульман, христиан, евреев и язычников. Рынки были заполнены товарами со всех точек евразийской торговой сети: китайским шёлком, византийскими стеклом и тканями, русскими мехами, янтарём и рабами, персидскими металлическими изделиями, арабскими серебряными дирхемами.",
-      "era": "AD",
-      "latitude": 46.16208801,
-      "longitude": 48.22905779,
-      "name": "Itil — The Khazar capital on Volga",
-      "name_ru": "Итиль — столица Хазарии",
-      "source": "https://en.wikipedia.org/wiki/Atil",
-      "tags": [
-        "Architecture",
-        "Capital",
-        "Culture",
-        "Political",
-        "Trade",
-        "Turkic",
-        "Khazar"
-      ],
-      "type": "historic"
     },
     {
       "date": "01.01.0750",
@@ -88,6 +87,27 @@
         "Khazar"
       ],
       "type": "cultural"
+    },
+    {
+      "date": "01.01.0750",
+      "description": "The Khazar capital of Itil (also Atil or Atil) was located in the Volga Delta—a place with exceptional trade advantages at the junction of the Volga river system and the overland routes to the Caucasus, the Pontic Steppe, and through it to Byzantium and the Danube.\n\nItil was built primarily of wood, reeds, and felt—steppe building materials suitable for a city whose ruling class retained its nomadic habits of seasonal migration. The khagan and his court retreated to summer pastures north of the city during the warmer months, returning to Itil for the winter. The city itself, spread across two islands and the eastern bank of the Volga Delta, contained separate residential quarters for Muslims, Christians, Jews, and pagans. The markets were filled with goods from all points of the Eurasian trade network: Chinese silk, Byzantine glass and fabrics, Russian furs, amber and slaves, Persian metal goods, and Arab silver dirhams.",
+      "description_ru": "Хазарская столица Итиль (также Атиль или Атил) располагалась в дельте Волги — место с исключительными торговыми преимуществами на стыке волжской речной системы и сухопутных маршрутов к Кавказу, Понтийской степи и через неё к Византии и Дунаю.\n\nИтиль был построен преимущественно из дерева, камыша и войлока — степных строительных материалов, подходящих для города, чей правящий класс сохранял кочевую привычку к сезонным перемещениям. Каган и двор уходили на летние пастбища к северу от города в тёплые месяцы, возвращаясь в Итиль на зиму. Сам город, раскинувшийся на двух островах и восточном берегу волжской дельты, содержал отдельные жилые кварталы для мусульман, христиан, евреев и язычников. Рынки были заполнены товарами со всех точек евразийской торговой сети: китайским шёлком, византийскими стеклом и тканями, русскими мехами, янтарём и рабами, персидскими металлическими изделиями, арабскими серебряными дирхемами.",
+      "era": "AD",
+      "latitude": 46.16208801,
+      "longitude": 48.22905779,
+      "name": "Itil — The Khazar capital on Volga",
+      "name_ru": "Итиль — столица Хазарии",
+      "source": "https://en.wikipedia.org/wiki/Atil",
+      "tags": [
+        "Architecture",
+        "Capital",
+        "Culture",
+        "Political",
+        "Trade",
+        "Turkic",
+        "Khazar"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.0790",
@@ -153,11 +173,11 @@
     },
     {
       "date": "01.01.0840",
-      "description": "The Polyane (around Kyiv), the Severians (north of the Black Sea), the Radimichi, and the Vyatichi paid annual tribute to the Khazar Khaganate in the 8th and 9th centuries. The Kievan Primary Chronicle, compiled by the monk Nestor around 1113, describes this relationship as follows: when Khazar tax collectors came to the Polyane tribe and demanded tribute, the Polyane brought them swords—double-edged weapons. The Khazar elders, after examining the swords, warned their leaders: \"This is an unkind tribute; we collect tribute with a sabre, a weapon sharpened on one edge, while these have a weapon sharp on both sides—a sword. They will be tributaries to us and to other countries.\" In reality, the Khazars collected tribute from the Slavs, usually in the form of furs or slaves.",
-      "description_ru": "Поляне (вокруг Киева), северяне (к северу от Чёрного моря), радимичи и вятичи — платили ежегодную дань Хазарскому каганату в VIII–IX веках. Киевская начальная летопись, составленная монахом Нестором около 1113 года, описывает эти данные отношения так: когда хазарские сборщики налогов пришли к племени полян и потребовали дань, поляне принесли им мечи — обоюдоострое оружие. Хазарские старейшины, осмотрев мечи, предупредили своих вождей: «Недобрая дань эта; мы добываем дань саблею, оружием, наточенным с одного края, а у этих оружие острое с обеих сторон — меч; будут они данники нам и другим странам». В реальности хазары взимали со славян дань, как правило, в виде меха или рабов.",
+      "description": "The Polyane (around Kyiv), the Severians (north of the Black Sea), the Radimichi, and the Vyatichi paid annual tribute to the Khazar Khaganate in the 8th and 9th centuries. The Kievan Primary Chronicle, compiled by the monk Nestor around 1113, describes this relationship as follows: when Khazar tax collectors came to the Polyane tribe and demanded tribute, the Polyane brought them swords—double-edged weapons. The Khazar elders, after examining the swords, warned their leaders: \"This is an unkind tribute; we collect tribute with a sabre, a weapon sharpened on one edge, while these have a weapon sharp on both sides — a sword. They will be tributaries to us and to other countries.\" In reality, the Khazars collected tribute from the Slavs, usually in the form of furs or slaves.",
+      "description_ru": "Поляне (вокруг Киева), северяне (к северу от Чёрного моря), радимичи и вятичи — платили ежегодную дань Хазарскому каганату в VIII–IX веках. Киевская начальная летопись, составленная монахом Нестором около 1113 года, описывает эти данные отношения так: когда хазарские сборщики налогов пришли к племени полян и потребовали дань, поляне принесли им мечи — обоюдоострое оружие. Хазарские старейшины, осмотрев мечи, предупредили своих вождей: «Недобрая дань эта; мы добываем дань саблею, оружием, наточенным с одного края, а у этих оружие острое с обеих сторон — меч; будут они брать дань с нас и других». Хазары взимали со славян дань, как правило, в виде меха или рабов.",
       "era": "AD",
-      "latitude": 50.45,
-      "longitude": 30.52,
+      "latitude": 50.45826903,
+      "longitude": 30.5160284,
       "name": "The Sword Tribute — Eastern Slavic Tribes Under Khazar Suzerainty",
       "name_ru": "Восточнославянские племена платят дань Хазарии",
       "source": "https://en.wikipedia.org/wiki/Khazars#Relations_with_the_Slavs",
@@ -227,6 +247,7 @@
       "tags": [
         "Battle",
         "Islamic",
+        "Kyiv",
         "Norman",
         "Plundering",
         "Rus",
@@ -236,7 +257,7 @@
       "type": "military"
     },
     {
-      "date": "01.01.0965",
+      "date": "01.01.0964",
       "description": "The Kievan Prince Svyatoslav I launched a military campaign against the Khazar Khaganate, seeking to destroy the infrastructure of Khazar commercial and territorial control. Svyatoslav's army — a combined force of Russian warriors, Pecheneg allies, and Turkic auxiliaries—destroyed Sarkel and replaced it with the Russian settlement of Belaya Vezha (the direct translation of \"Sarkel\"). With the fall of Sarkel, Khazar control over the Don-Volga corridor was broken.",
       "description_ru": "Киевский князь Святослав I начал военную кампанию против Хазарского каганата, стремясь разрушить инфраструктуру хазарского коммерческого и территориального контроля. Армия Святослава — объединённые силы русских воинов, печенежских союзников и тюркских вспомогательных войск — разрушила Саркел и заменила его русским поселением Белая Вежа (прямой перевод «Саркела»). С падением Саркела хазарский контроль над донско-волжским коридором был сломлен.",
       "era": "AD",
@@ -250,6 +271,7 @@
         "Battle",
         "Collapse",
         "Conquest",
+        "Kyiv",
         "Rus",
         "Turkic",
         "Khazar",
@@ -258,7 +280,7 @@
       "type": "military"
     },
     {
-      "date": "01.01.0968",
+      "date": "01.01.0965",
       "description": "The forces of the Russian Prince Svyatoslav reached Itil in the Volga Delta and destroyed it. The Arab geographer Ibn Hawqal, writing shortly after the destruction, wrote with stern brevity: \"Khazaran, Samandar, and Itil are no more; their grapes and raisins have vanished, their wealth has vanished. This was done by the Rus.\" The destruction of Itil marked the end of the Khazar Khaganate as a functioning political entity.\n\nThe Khazars levied a hefty tax (tithe) on every merchant vessel sailing from Rus' to the rich lands of the East and back. By destroying Itil, Svyatoslav lifted this \"customs blockade\" and opened direct, duty-free trade with the East for Russian merchants.",
       "description_ru": "Силы русского князя Святослава достигли Итиля в дельте Волги и уничтожили его. Арабский географ ибн Хаукаль, писавший вскоре после уничтожения, записал с суровой краткостью: «Хазарана, Самандара и Итиля больше нет; их виноград и изюм исчезли, их богатство исчезло. Это сделали русы». Уничтожение Итиля положило конец Хазарскому каганату как функционирующему политическому образованию.\n\nХазары брали огромный налог (десятину) с каждого купеческого судна, шедшего из Руси в богатые страны Востока и обратно.  Разрушив Итиль, Святослав ликвидировал эту «таможенную блокаду» и открыл для русских купцов прямую беспошлинную торговлю с Востоком.",
       "era": "AD",
@@ -272,6 +294,7 @@
         "Collapse",
         "Conquest",
         "Destruction",
+        "Kyiv",
         "Rus",
         "Turkic",
         "Khazar",

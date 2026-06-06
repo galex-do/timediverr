@@ -687,26 +687,6 @@
       "type": "historic"
     },
     {
-      "date": "01.01.0513",
-      "description": "Darius campaigns against Scythian nomads beyond Danube River; despite crossing into Europe, Persian army unable to force decisive battle against mobile steppe warriors",
-      "description_ru": "Дарий ведет кампанию против скифских кочевников за Дунаем; армия Персии доходит до Европы, но не может навязать решающее сражение степным племенам",
-      "era": "BC",
-      "latitude": 45.2,
-      "longitude": 28.8,
-      "name": "Scythian Campaign",
-      "name_ru": "Скифская кампания Дария",
-      "source": "https://en.wikipedia.org/wiki/European_Scythian_campaign_of_Darius_I",
-      "tags": [
-        "Persian",
-        "Achaemenid",
-        "Scythian",
-        "War",
-        "Darius I 👑",
-        "Expansion"
-      ],
-      "type": "military"
-    },
-    {
       "date": "01.01.0512",
       "description": "Darius conquers Thrace and Macedonia, extending Persian control into southeastern Europe and establishing empire's westernmost satrapy",
       "description_ru": "Дарий завоевывает Фракию и Македонию и создает сатрапию на юго-востоке Европы",

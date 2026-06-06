@@ -546,19 +546,17 @@
       "description": "A kurultai (grand assembly) of Mongol tribal chiefs on the banks of the Onon River in Mongolia formally recognises Temüjin as Genghis Khan — 'Universal Ruler' — uniting the Mongol and Turkic steppe tribes under a single military leadership for the first time. Within 25 years, the Mongol Empire will be the largest contiguous land empire in history. The campaigns of Genghis and his successors kill an estimated 40 million people — perhaps 10% of the world's population — and depopulate entire regions of Central Asia, Persia, and Iraq that had been continuously inhabited for thousands of years.",
       "description_ru": "Курултай (великое собрание) вождей монгольских племен на берегах реки Онон в Монголии официально признает Темуджина Чингисханом — «Всемирным правителем» — впервые объединив монгольские и тюркские степные племена под единым военным руководством. В течение 25 лет Монгольская империя станет крупнейшей в истории империей, занимающей обширную территорию. По оценкам, в результате военных походов Чингисхана и его преемников погибло около 40 миллионов человек — возможно, 10% населения мира — и были обезлюдены целые регионы Центральной Азии, Персии и Ирака, которые непрерывно населялись на протяжении тысячелетий.",
       "era": "AD",
-      "latitude": 48.95,
-      "longitude": 111,
+      "latitude": 48.86652154,
+      "longitude": 110.31921387,
       "name": "Genghis Khan Unites the Mongols",
       "name_ru": "Чингисхан объединяет монголов",
       "source": "https://en.wikipedia.org/wiki/Genghis_Khan",
       "tags": [
         "Dynasty",
         "Foundation",
-        "Kypchak",
         "Mongolian",
         "Political",
         "Temüjin 👤",
-        "Turkic",
         "Turning Point",
         "Unification"
       ],
@@ -580,9 +578,7 @@
         "Conquest",
         "Crisis",
         "Islamic",
-        "Kypchak",
-        "Mongolian",
-        "Turkic"
+        "Mongolian"
       ],
       "type": "military"
     },
@@ -602,10 +598,8 @@
         "Conquest",
         "Destruction",
         "Islamic",
-        "Kypchak",
         "Mongolian",
-        "Shia",
-        "Turkic"
+        "Shia"
       ],
       "type": "military"
     },
@@ -628,10 +622,8 @@
         "End",
         "Fall",
         "Islamic",
-        "Kypchak",
         "Massacre",
-        "Mongolian",
-        "Turkic"
+        "Mongolian"
       ],
       "type": "military"
     },
@@ -651,10 +643,8 @@
         "War",
         "Battle",
         "Islamic",
-        "Kypchak",
         "Mamluk",
-        "Mongolian",
-        "Turkic"
+        "Mongolian"
       ],
       "type": "military"
     },
@@ -676,10 +666,8 @@
         "Caliph",
         "Foundation",
         "Islamic",
-        "Kypchak",
         "Mamluk",
-        "Political",
-        "Turkic"
+        "Political"
       ],
       "type": "political"
     }

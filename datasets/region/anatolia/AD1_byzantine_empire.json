@@ -315,6 +315,26 @@
       "type": "historic"
     },
     {
+      "date": "01.01.0550",
+      "description": "After the fall of the Hunnic Empire, the Byzantine Empire decided to regain control of the strategic Kerch Strait. The Byzantines established a foothold in Hermonasso (Tamatarchus) and Panticapaeum (Bosporus), erecting powerful fortifications there, building Christian basilicas, and began converting the local Goths, Huns, and others, thus making them vassals of the empire. The Byzantines restored the ports and transformed the cities into trade and customs hubs between the northern steppes and Byzantium. The Bosporus fortress became the residence of the Byzantine dux - the local representative of imperial authority.",
+      "description_ru": "После падения империи гуннов Византийская империя решила вернуть контроль над стратегическим Керченским проливом. Византийцы закрепились в Гермонассе (Таматархе) и Пантикапее (Боспоре), возвели там мощные фортификации, построили христианские базилики и стали обращать местных готов, гуннов и прочих, таким образом делая их вассалами империи. Византийцы восстановили порты и превратили города в торговые и таможенные узлы между северными степями и Византией. Боспорская крепость стала резиденцией византийского дукса - местного представителя имперской власти.",
+      "era": "AD",
+      "latitude": 45.35099544,
+      "longitude": 36.46861732,
+      "name": "Byzantine restoration of the northern Black Sea region",
+      "name_ru": "Византийское восстановление северного Причерноморья",
+      "tags": [
+        "Roman",
+        "Byzantine",
+        "Christian",
+        "Expansion",
+        "Fortification",
+        "Restoration",
+        "Trade"
+      ],
+      "type": "historic"
+    },
+    {
       "date": "14.11.0565",
       "description": "Justinian I dies aged around eighty-three, leaving an empire stretching from Spain to Mesopotamia — the largest Byzantine territory ever — but financially ruined, militarily overstretched, and demographically devastated by plague. His legal and architectural legacy is permanent: the Corpus Juris Civilis and Hagia Sophia outlast the empire by centuries. His strategic legacy is more ambiguous: the western reconquests begin unravelling within years as Lombards take Italy, and the resources spent on reconquest leave the eastern frontiers fatally underfunded for the coming Sassanid and Arab onslaught.",
       "description_ru": "Юстиниан I умирает в возрасте около восьмидесяти трёх лет, оставляя империю, простирающуюся от Испании до Месопотамии — крупнейшую из когда-либо существовавших Византийских территорий, — но финансово разорённую, военно перегруженную и демографически опустошённую чумой. Его правовое и архитектурное наследие неизменно: Corpus Juris Civilis и Святая София переживут империю на века. Западные завоевания Византии начинают рассыпаться в течение нескольких лет, а восточные рубежи остаются фатально недофинансированными.",
@@ -457,6 +477,7 @@
         "War",
         "Byzantine",
         "Christian",
+        "Mongolian",
         "Pannonian Avars",
         "Sassanid",
         "Siege"
@@ -810,8 +831,8 @@
     },
     {
       "date": "01.01.0988",
-      "description": "Prince Vladimir I of Kievan Rus is baptised in the Byzantine city of Chersonesus in Crimea after negotiating an extraordinary arrangement: Byzantium provides Princess Anna, sister of Emperor Basil II, as his wife — an unprecedented concession, since imperial princesses were normally never allowed to marry foreign rulers — in exchange for Vladimir's baptism and military support. Vladimir imposes Christianity on his realm with mass baptisms in the Dnieper River at Kiev, permanently aligning the vast Rus lands with Byzantine Orthodox civilisation. The Christianisation of Rus is the single greatest geographical extension of Byzantine cultural influence in history, ultimately producing Russian, Ukrainian, and Belarusian Orthodox Christianity.",
-      "description_ru": "Князь Владимир I Киевской Руси крестится в Византийском городе Херсонесе (Крым), заключив договор: Византия предоставляет принцессу Анну, сестру Василия II, в качестве жены — беспрецедентная уступка — в обмен на крещение и военную поддержку. \n\nВладимир насаждает христианство с массовыми крещениями в Днепре. Крещение Руси является наибольшим географическим распространением Византийского культурного влияния, произведя русское, украинское и белорусское православие.",
+      "description": "The core of this historical event is the Byzantine political crisis: the leaders Bardas Skleros and Bardas Phocas rebelled, and Emperor Basil II appealed to Vladimir for help. Vladimir sent an army, whose participation proved critical at Chrysopolis (989). In exchange, Basil promised his daughter Anna Porphyrogenita. The condition was that Vladimir convert to Christianity. Prince Vladimir I of Kievan Rus' was baptized and married Anna in the Byzantine city of Chersonesos (Crimea).\n\nReturning to Kyiv, Vladimir ordered Perun to be drowned in the Dnieper and the people baptized in the river. The people gathered at the Dnieper, entered the water, and priests performed the baptisms from the banks.",
+      "description_ru": "Ядро исторического события — византийский политический кризис: вожди Варда Склир и Варда Фока подняли мятеж, и император Василий II обратился к Владимиру за помощью. Тот послал войско, чье участие оказалось критически значимым при Хрисополе (989 год). Взамен Василий обещал дочь Анну Порфирородную. Условие — Владимир должен принять христианство. Князь Владимир I Киевской Руси крестится и венчается с Анной в Византийском городе Херсонесе (Крым)\n\nВернувшись в Киев, Владимир велел утопить Перуна в Днепре и крестить народ в реке. Люди собрались у Днепра, вошли в воду, священники совершили крещение с берегов.",
       "era": "AD",
       "latitude": 44.6137812,
       "longitude": 33.49554956,
@@ -819,13 +840,14 @@
       "name_ru": "Крещение Руси в православие",
       "source": "https://en.wikipedia.org/wiki/Christianization_of_Kievan_Rus%27",
       "tags": [
+        "Roman",
         "Diplomacy",
         "Marriage",
         "Adoption",
         "Byzantine",
         "Christian",
+        "Kyiv",
         "Rus",
-        "Orthodox",
         "Slavic"
       ],
       "type": "religious"
@@ -1042,6 +1064,7 @@
       "name_ru": "Михаил VIII Палеолог возвращает Константинополь",
       "source": "https://en.wikipedia.org/wiki/Michael_VIII_Palaiologos",
       "tags": [
+        "Greek",
         "Byzantine",
         "Emperor",
         "Political",

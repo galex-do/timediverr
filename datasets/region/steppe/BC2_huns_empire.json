@@ -109,6 +109,27 @@
       "type": "military"
     },
     {
+      "date": "01.01.0378",
+      "description": "The Hunnic raids reduced the lands of the Bosporan Kingdom to ruins. The Huns had no use for either the Greek fleet or a developed economy. Panticapaeum was stormed and plundered. Theodosia was razed to the ground. The Huns destroyed magnificent public buildings, basilicas, and residential areas. After this blow, the ancient civilization in the Northern Black Sea region ceased to exist, save for a few settlements that miraculously survived the steppe raids.",
+      "description_ru": "Гуннские набеги превратили земли Боспорского царства в руины. Гуннам не нужны были ни греческий флот, ни развитая экономика. Пантикапей был взят штурмом и разорен. Феодосия была стерта с лица земли. Гунны уничтожили великолепные общественные здания, базилики и жилые кварталы. После этого удара античная цивилизация в Северном Причерноморье перестала существовать, остались редкие поселения, чудом уцелевшие после набегов степняков.",
+      "era": "AD",
+      "latitude": 45.35099544,
+      "longitude": 36.46861732,
+      "name": "The Huns destroy the Bosporan Kingdom",
+      "name_ru": "Гунны уничтожают Боспорское царство",
+      "tags": [
+        "Greek",
+        "Roman",
+        "Bosporan",
+        "Destruction",
+        "Huns",
+        "Invasions",
+        "Nomads",
+        "Plundering"
+      ],
+      "type": "military"
+    },
+    {
       "date": "01.01.0408",
       "description": "In accordance with the Roman diplomatic practice of exchanging hostages as a guarantee of alliance, the young Aetius—the son of a Roman military commander—was sent to live among the Huns for several years. He learned the Hunnic language, rode with their cavalry, and established personal relationships with the Hunnic nobility, which he exploited throughout his career.",
       "description_ru": "В соответствии с римской дипломатической практикой обмена заложниками как гарантией союзничества молодой Аэций — сын римского военного командира — отправлен жить среди гуннов на несколько лет. Он выучил гуннский язык, ездил с их конницей и завязал личные отношения с гуннской знатью, которые использовал на протяжении всей карьеры.",

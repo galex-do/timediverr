@@ -45,7 +45,7 @@
       "latitude": 41.90614181,
       "longitude": 12.47551203,
       "name": "Monument to the Augustan Peace",
-      "name_ru": "Освящение Алтаря мира ",
+      "name_ru": "Освящение Алтаря мира в Риме",
       "source": "https://en.wikipedia.org/wiki/Ara_Pacis",
       "tags": [
         "Roman",
@@ -598,6 +598,27 @@
         "Political"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.01.0240",
+      "description": "The Bosporan Kingdom was Rome's closest military and political ally and protectorate in the 3rd century. Roman garrisons were stationed in Gorgippia, and the Bosporan kings helped the empire hold back the barbarians. The Ostrogoths, arriving from the north, plundered, burned, and razed cities to the ground, destroying their enemy's outposts. Among the cities destroyed by the Goths were Gorgippia and Tanais.",
+      "description_ru": "Боспорское царство в III веке было ближайшим военно-политическим союзником и протекторатом Рима. В Горгиппии стояли римские гарнизоны, а боспорские цари помогали империи сдерживать варваров. Остготы, прибывшие сюда с севера, разграбляли, сжигали и разрушали города до основания, уничтожая форпосты своего врага. В числе полностью уничтоженных готами городов были Горгиппия и Танаис.  ",
+      "era": "AD",
+      "latitude": 44.89601561,
+      "longitude": 37.30988145,
+      "name": "The Goths ravage the Northern Black Sea region",
+      "name_ru": "Готы разоряют Северное Причерноморье",
+      "tags": [
+        "Greek",
+        "Roman",
+        "Bosporan",
+        "Destruction",
+        "Gothic",
+        "Invasions",
+        "Ostrogoth",
+        "Plundering"
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.0249",

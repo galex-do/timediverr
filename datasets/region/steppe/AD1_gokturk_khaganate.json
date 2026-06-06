@@ -89,8 +89,8 @@
       "description": "In 568 AD, the Göktürk yabghu Istämi dispatched a mission to Constantinople led by a Sogdian merchant-diplomat named Maniakh. The embassy carried gifts of raw silk and a proposal: the Göktürks and the Byzantine Empire should conclude a formal trade and military alliance against their common enemy, the Sassanid Persian Empire. The Sassanids controlled the southern Silk Road through Iran and charged exorbitant transit taxes; they had also recently refused to purchase Göktürk silk at any price, burning the merchandise to deny the Göktürks revenue. Istämi's plan was to route silk trade north of the Caspian and across the Black Sea to Constantinople, bypassing the Sassanid corridor entirely — and simultaneously to coordinate military pressure on the Sassanids from both the Göktürk east and the Byzantine west.\n\nThe Byzantine Emperor Justin II received Maniakh's embassy warmly and sent a counter-embassy to the Göktürk court under the diplomat Zemarchus of Cilicia. Zemarchus traveled to Istämi's camp in the Altai region — the most distant point ever reached by a Byzantine official mission — and his account of the journey, preserved by Menander the Guardsman, is the most detailed Byzantine description of a steppe court: the felt tents, the gold-inlaid furniture, the ritual drinking ceremonies, and the Göktürk shamans who purified the Byzantine visitors with fire before they entered the Qaghan's presence. The Göktürk-Byzantine alliance that resulted was one of the most geographically remarkable diplomatic partnerships of the early medieval world: two states separated by 5,000 kilometres, neither of which could communicate except through the very Silk Road merchants whose interests they were jointly protecting, coordinating grand strategy against a common adversary. It was maintained, with interruptions, for over a century.",
       "description_ru": "Гёктюркский ябгу Истэми отправил миссию в Константинополь под руководством согдийского купца-дипломата по имени Маниах. Посольство несло подарки из сырого шёлка и предложение союза против Сасанидской Персии, которая была конкурентом тюрков на Шелковом пути. Византийский император Юстин II тепло принял посольство и направил ответную миссию ко двору гёктюрков под руководством дипломата Земарха Киликийского. Земарх путешествовал в лагерь Истэми в районе Алтая — самую удалённую точку, когда-либо достигнутую официальной византийской миссией, — и его рассказ о путешествии, сохранённый Менандром Протиктором, является наиболее подробным описанием степного двора: войлочные шатры, мебель с золотой инкрустацией, ритуальные питейные церемонии, шаманы, очищавшие гостей огнём, прежде чем те входили к кагану.",
       "era": "AD",
-      "latitude": 41.01,
-      "longitude": 28.96,
+      "latitude": 41.0082,
+      "longitude": 28.9784,
       "name": "First Göktürk Embassy to Constantinople",
       "name_ru": "Посольство гёктюрков в Константинополь",
       "source": "https://en.wikipedia.org/wiki/Zemarchos",
@@ -161,6 +161,7 @@
         "Civil War",
         "Collapse",
         "Crisis",
+        "Fragmentation",
         "Nomads",
         "Political",
         "Turkic"
