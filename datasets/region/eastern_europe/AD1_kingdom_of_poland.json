@@ -1,0 +1,277 @@
+{
+  "description": "Dataset imported with 15 events",
+  "events": [
+    {
+      "date": "01.01.0650",
+      "description": "During the early medieval Slavic westward expansion, the Polans — «people of the open fields» — settled the Warta and Noteć river lowlands of the western Polish plain, filling territory vacated by retreating Germanic tribes. The open loess terrain of Wielkopolska favored permanent agriculture, dense village networks, and surplus accumulation — the material conditions for political centralization. Fortified strongholds (grody) appeared at river crossings; local chieftains consolidated control over neighboring communities. Adjacent territories were occupied by related Slavic groups: Masovians to the east, Lędzians and Vislans to the south, Silesians to the southwest. The Polans were not demographically dominant, but their central position in Wielkopolska, relative agricultural wealth, and access to the amber trade routes from the Baltic gave them structural advantages for absorbing neighbors. This settlement ecology directly determined that the first Polish capital would be built at Gniezno, in the Warta basin, and that the Piast dynasty emerging there would be the one to unify the Polish tribes.",
+      "description_ru": "В ходе раннесредневекового западного расселения славян поляне — «люди открытых полей» — заняли бассейны рек Варта и Нотець в польской низменности, заполнив территорию, оставленную отступившими германскими племенами. Открытый лёссовый рельеф Великой Польши (Великополыпи) благоприятствовал постоянному земледелию, плотным сельским сетям и накоплению прибавочного продукта — материальным условиям политической централизации. На речных переправах возникали укреплённые грады; местные вожди подчиняли соседние общины. Смежные территории занимали родственные славянские группы: мазовшане на востоке, лендзяне и вислане на юге, силезцы на юго-западе. Поляне не были демографически преобладающими, однако центральное положение в Великой Польше, относительное сельскохозяйственное богатство и доступ к янтарным торговым путям с Балтики давали им структурные преимущества для поглощения соседей. Именно эта экология расселения предопределила, что первая польская столица будет построена в Гнезно, в бассейне Варты, и что именно пястовская династия, возникшая там, объединит польские племена.",
+      "era": "AD",
+      "latitude": 52.1,
+      "longitude": 17.2,
+      "name": "Polans settle Wielkopolska — the cradle of Poland",
+      "name_ru": "Поляне заселяют Великую Польшу — колыбель Польши",
+      "source": "https://en.wikipedia.org/wiki/Polans_(western)",
+      "tags": [
+        "Polish",
+        "Slavic",
+        "Settlement",
+        "Polans",
+        "Tribal"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0860",
+      "description": "The founding legend of the Piast dynasty, preserved in Gallus Anonymus's twelfth-century chronicle, describes Piast the Wheelwright — a humble craftsman at Gniezno who received divine favor when two mysterious strangers, refused entry by the reigning Prince Popiel, were welcomed at his modest gate. Piast's hospitality produced miraculous abundance; Popiel's cruelty was punished by mice that devoured him. Piast's son Siemowit was proclaimed prince, beginning a dynasty that would rule Poland without interruption until 1370. The legend's political function was transparent: it grounded Piast legitimacy not in noble blood but in personal virtue and divine endorsement, which was useful precisely because the dynasty was consolidating power over competing clans that could rival its lineage claims. Siemowit and his successors Leszek and Siemomysł are archaeological shadows with no external documentation; the first historically attested Piast is Mieszko I, Siemomysł's son. The legend nonetheless shaped how Polish dynasticism understood itself — as merit-based and divinely sanctioned rather than merely hereditary — an ideology with long echoes in Polish political culture.",
+      "description_ru": "Основополагающая легенда о Пястовской династии, сохранённая в хронике Галла Анонима XII века, рассказывает о Пясте-колесничем — скромном мастере из Гнезна, удостоившемся Божьей благодати, когда двое таинственных странников, отвергнутых правящим князем Попелем, были с радушием приняты у его двери. Гостеприимство Пяста обернулось чудесным изобилием; жестокость Попеля была наказана мышами, которые его пожрали. Сын Пяста Семовит был провозглашён князем, дав начало династии, правившей Польшей без перерыва до 1370 года. Политическая функция легенды очевидна: она укоренила пястовскую легитимность не в знатной крови, а в личной добродетели и Божьем избранничестве, что было весьма удобно для династии, консолидировавшей власть над конкурирующими кланами, способными соперничать с ней по родовитости. Семовит и его преемники Лешек и Семомысл — исторические тени без внешних документальных свидетельств; первый исторически засвидетельствованный Пяст — Мешко I, сын Семомысла. Легенда, однако, сформировала самосознание польского династизма — как основанного на заслуге и Божьем избранничестве, а не просто на наследовании, — идеология с долгим эхом в польской политической культуре.",
+      "era": "AD",
+      "latitude": 52.53,
+      "longitude": 17.6,
+      "name": "The Piast dynasty — Siemowit and the founding legend",
+      "name_ru": "Пястовская династия — Семовит и основополагающая легенда",
+      "source": "https://en.wikipedia.org/wiki/Piast_dynasty",
+      "tags": [
+        "Polish",
+        "Piast",
+        "Dynasty",
+        "Legend",
+        "Gniezno"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0960",
+      "description": "Mieszko I, ruling from approximately 960, was the first historically documented Polish prince and the builder of a territorial state from the Polans tribal coalition. He maintained a standing professional military force (drużyna) of several thousand warriors financed through tribute and trade revenues — the first Polish institution that was permanent rather than seasonal or tribal. He extended Piast authority over the Masovians, Kuyavians, and the Pomeranian corridor to the Baltic, producing a state comparable in territory to late Carolingian France. Byzantine and German sources register him as a significant northern ruler by the early 960s, placing Poland on the diplomatic map before the baptism that is usually treated as its founding act. Mieszko also controlled the amber and slave trade routes from the Baltic to Bohemia, giving the Piast court revenues independent of purely agricultural tribute. The organizational depth he created — professional army, tribute network, controlled trade routes — was the precondition that made the 966 baptism a strategic choice rather than an act of submission: Poland was large enough and organized enough for Christianity to be a tool of state-building rather than a sign of dependence.",
+      "description_ru": "Мешко I, правивший приблизительно с 960 года, был первым исторически задокументированным польским князем и строителем территориального государства из союза племён полян. Он содержал постоянную профессиональную дружину в несколько тысяч воинов, финансируемую за счёт дани и торговых доходов, — первый польский институт, существовавший постоянно, а не сезонно или по-племенному. Он распространил пястовскую власть на мазовшан, куявян и поморский коридор к Балтике, создав государство, сопоставимое по территории с поздней Каролингской Францией. Византийские и немецкие источники фиксируют его как крупного северного правителя уже в начале 960-х годов, ставя Польшу на дипломатическую карту ещё до крещения, которое обычно считается её основополагающим актом. Мешко также контролировал торговые пути янтарём и рабами с Балтики в Богемию, обеспечивая пястовскому двору доходы сверх сельскохозяйственной ренты. Созданная им организационная глубина — профессиональное войско, сеть данников, контроль над торговыми путями — была предпосылкой, превратившей крещение 966 года в стратегический выбор, а не в акт подчинения: Польша была достаточно велика и организована, чтобы христианство служило инструментом государственного строительства, а не знаком зависимости.",
+      "era": "AD",
+      "latitude": 52.53,
+      "longitude": 17.6,
+      "name": "Mieszko I builds the Piast state",
+      "name_ru": "Мешко I строит Пястовское государство",
+      "source": "https://en.wikipedia.org/wiki/Mieszko_I_of_Poland",
+      "tags": [
+        "Polish",
+        "Piast",
+        "Mieszko I",
+        "State",
+        "Military"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "14.04.0966",
+      "description": "On April 14, 966, Mieszko I accepted Christian baptism together with his court, having married the Bohemian princess Dobrawa the previous year. The baptism was administered through the Bohemian church — a deliberate routing that bypassed the German Magdeburg archbishopric, which would have placed Poland in its ecclesiastical jurisdiction and created a precedent for imperial political claims. Poland received its own bishop at Poznań, Jordan, directly subordinate to Rome. The decision locked Poland into the Latin West at the exact moment the Slavic world was dividing between the Roman and Byzantine ecclesiastical poles — a civilizational choice with permanent consequences for Polish alphabet (Latin), legal tradition (Roman canon law), and diplomatic orientation (toward Western Europe rather than Constantinople). Within a generation, Latin literacy entered the court, church-organized infrastructure appeared across the major strongholds, and the Piast prince acquired the ideological tool of Christian kingship that elevated him above tribal chieftaincy. The date 966 remains the conventional birth year of the Polish state in national historiography.",
+      "description_ru": "14 апреля 966 года Мешко I принял христианское крещение вместе со своим двором — год спустя после женитьбы на богемской принцессе Добраве. Крещение было осуществлено через богемскую церковь — намеренный обход Магдебургского архиепископства, подчинение которому создало бы прецедент имперских политических претензий к Польше. Польша получила собственного епископа в Познани — Иордана, напрямую подчинённого Риму. Это решение прочно вписало Польшу в латинский Запад в тот самый момент, когда славянский мир делился между римским и византийским церковными полюсами, — цивилизационный выбор с постоянными последствиями для польского алфавита (латинского), правовой традиции (римского канонического права) и дипломатической ориентации (в сторону Западной Европы, а не Константинополя). В течение поколения латинская грамотность проникла ко двору, церковная инфраструктура появилась в крупных городах, а пястовский князь обрёл идеологический инструмент христианского царствования, возвышавший его над племенным вождеством. Дата 966 года остаётся условным годом рождения польского государства в национальной историографии.",
+      "era": "AD",
+      "latitude": 52.41,
+      "longitude": 16.93,
+      "name": "Baptism of Poland — Mieszko I accepts Christianity",
+      "name_ru": "Крещение Польши — Мешко I принимает христианство",
+      "source": "https://en.wikipedia.org/wiki/Baptism_of_Poland",
+      "tags": [
+        "Polish",
+        "Piast",
+        "Mieszko I",
+        "Christianity",
+        "Church",
+        "Baptism"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.0990",
+      "description": "Around 990, Mieszko I issued the document known as Dagome Iudex — a summary of which survives in a twelfth-century papal register — placing the territory of his realm under the direct protection of the Holy See, described as «the state of Gniezno» with defined borders. By making Poland a papal fief, Mieszko shielded it from absorption into the Holy Roman Empire's doctrine of suzerainty over all Christian rulers in the Germanic orbit, and established a direct relationship with Rome that bypassed the German ecclesiastical hierarchy. The document is simultaneously the earliest surviving approximate description of Poland's borders and the first assertion of Polish diplomatic independence from imperial claims. The strategy it established — appealing to papal authority as a counterweight to German pressure — became a recurring instrument of Piast foreign policy and persisted through multiple subsequent conflicts with the empire. Dagome Iudex is the legal foundation of Poland's claim to sovereign status under international Christian law as it existed in the medieval order.",
+      "description_ru": "Около 990 года Мешко I издал документ, известный как «Dagome iudex» — краткое изложение которого сохранилось в папском реестре XII века, — передав своё государство под непосредственное покровительство Святого Престола, описанное как «государство Гнезно» с очерченными границами. Сделав Польшу папским леном, Мешко защитил её от поглощения доктриной сюзеренитета Священной Римской империи над всеми христианскими правителями в германской орбите и установил прямые отношения с Римом, минуя германскую церковную иерархию. Документ одновременно является древнейшим сохранившимся приблизительным описанием польских границ и первым утверждением польской дипломатической независимости от имперских претензий. Выработанная в нём стратегия — апелляция к папскому авторитету как противовесу германскому давлению — стала повторяющимся инструментом пястовской внешней политики и сохранялась на протяжении многих последующих конфликтов с империей. «Dagome iudex» является правовой основой претензии Польши на суверенный статус в рамках международного христианского права в том виде, в каком оно существовало в средневековом миропорядке.",
+      "era": "AD",
+      "latitude": 52.53,
+      "longitude": 17.6,
+      "name": "Dagome Iudex — Poland placed under papal protection",
+      "name_ru": "Dagome Iudex — Польша переходит под покровительство Папы",
+      "source": "https://en.wikipedia.org/wiki/Dagome_iudex",
+      "tags": [
+        "Polish",
+        "Piast",
+        "Mieszko I",
+        "Papacy",
+        "Diplomacy"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.03.1000",
+      "description": "In March 1000, Holy Roman Emperor Otto III traveled to Gniezno on pilgrimage to the tomb of the martyred Bishop Wojciech (Adalbert of Prague), killed on mission to the Prussians in 997 and ransomed by Bolesław I for his weight in gold. Otto III, pursuing his «Renovatio Imperii Romanorum» vision of a universal Christian empire, received Bolesław I not as a subordinate but as «brother and partner of the empire», placed his imperial diadem on Bolesław's head, and granted Poland an independent ecclesiastical province with Gniezno elevated to an archbishopric and suffragan sees at Kraków, Wrocław, and Kołobrzeg. The creation of the Polish ecclesiastical province independent of Magdeburg was the Congress's most structurally significant outcome: it gave Polish Christianity the institutional autonomy that prevented German ecclesiastical jurisdiction from becoming a vehicle for political claims, insulating the Polish church from Magdeburg pressure for generations. The Congress of Gniezno is the moment Poland was formally recognized by the leading power of Latin Christendom as a co-equal participant in the European political order.",
+      "description_ru": "В марте 1000 года император Священной Римской империи Оттон III совершил паломничество в Гнезно к гробнице мученика епископа Войцеха (Адальберта Пражского), убитого на миссии к пруссам в 997 году и выкупленного Болеславом I за его вес в золоте. Оттон III, воплощавший идею «Renovatio Imperii Romanorum» — вселенской христианской империи, — принял Болеслава I не как подданного, а как «брата и соучастника империи», возложил на его голову императорский венец и даровал Польше самостоятельную церковную провинцию: Гнезно было возведено в архиепископство, суффраганными кафедрами стали Краков, Вроцлав и Колобжег. Создание польской церковной провинции, независимой от Магдебурга, было наиболее структурно значимым итогом Съезда: оно обеспечило польскому христианству институциональную самостоятельность, не позволившую германской церковной юрисдикции стать инструментом политических претензий, и ограждало польскую церковь от давления Магдебурга на протяжении поколений. Гнезненский съезд — момент, когда Польша была официально признана ведущей державой латинского христианства равноправным участником европейского политического порядка.",
+      "era": "AD",
+      "latitude": 52.53,
+      "longitude": 17.6,
+      "name": "Congress of Gniezno — Poland enters the European order",
+      "name_ru": "Гнезненский съезд — Польша входит в европейский порядок",
+      "source": "https://en.wikipedia.org/wiki/Congress_of_Gniezno",
+      "tags": [
+        "Polish",
+        "Piast",
+        "Bolesław I",
+        "Gniezno",
+        "Church",
+        "Holy Roman Empire"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "30.01.1018",
+      "description": "The Peace of Bautzen, signed between Bolesław I and Holy Roman Emperor Henry II on January 30, 1018, ended seventeen years of intermittent warfare over Lusatia, Meissen, and the Bohemian succession. Bolesław retained Lusatia and Meissen as imperial fiefs, recognized Henry's nominal suzerainty over them, and freed his eastern flank for the Kievan campaign later that year. The settlement acknowledged Polish territorial gains on the western frontier while preserving the empire's formal pretensions — an early iteration of the pattern of German-Polish border compromises that would recur across the medieval period. Bautzen also demonstrated that Poland had developed sufficient military depth and administrative coherence to fight the most powerful state in Western Europe to a standstill over nearly two decades and negotiate from a position of strength. The western border established at Bautzen remained broadly stable for a generation, and the diplomatic method it represented — using military credibility to extract territorial recognition from the empire — became a template for subsequent Piast rulers.",
+      "description_ru": "Баутценский мир, подписанный 30 января 1018 года между Болеславом I и императором Священной Римской империи Генрихом II, положил конец семнадцатилетней войне за Лужицу, Мейсен и богемское наследство. Болеслав удержал Лужицу и Мейсен в качестве имперских ленов, формально признал сюзеренитет Генриха над ними и высвободил свой восточный фланг для похода на Киев позднее в том же году. Соглашение закрепляло польские территориальные приобретения на западном рубеже, сохраняя при этом формальные претензии империи, — первый вариант модели германо-польских пограничных компромиссов, повторявшейся на протяжении Средневековья. Баутцен также продемонстрировал, что Польша выработала достаточную военную глубину и административную цельность, чтобы почти два десятилетия противостоять сильнейшему государству Западной Европы и вести переговоры с позиции силы. Западная граница, установленная в Баутцене, оставалась в целом стабильной на протяжении поколения, а дипломатический метод, который она воплощала, — использование военного авторитета для получения территориального признания со стороны империи — стал образцом для последующих пястовских правителей.",
+      "era": "AD",
+      "latitude": 51.18,
+      "longitude": 14.43,
+      "name": "Peace of Bautzen — Poland stabilizes the western frontier",
+      "name_ru": "Баутценский мир — Польша стабилизирует западный рубеж",
+      "source": "https://en.wikipedia.org/wiki/Peace_of_Bautzen_(1018)",
+      "tags": [
+        "Polish",
+        "Piast",
+        "Bolesław I",
+        "Holy Roman Empire",
+        "Diplomacy",
+        "Treaty"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "18.04.1025",
+      "description": "On April 18, 1025, weeks before his death, Bolesław I was crowned King of Poland by the Archbishop of Gniezno — the first Polish monarch to hold a royal title recognized by Rome. The coronation had been blocked for years by Henry II, who opposed elevating a Piast prince to royal dignity co-equal with the emperor. Henry's death in 1024 removed the obstacle; Bolesław moved immediately. The distinction between a duke (dux) and a king mattered in medieval political theology: a king held his authority directly from God and the pope, while a prince was theoretically subordinate within the imperial hierarchy. The royal title thus affected treaty protocols, church appointment rights, and the standing of Polish envoys at European courts. The title lapsed immediately on Bolesław's death and was not reclaimed for fifty years — his successors could not sustain the political conditions that had made it possible. But the coronation established the precedent and institutional memory that drove subsequent Piast royal politics and provided the legal template for Bolesław II's coronation in 1076 and ultimately for the continuous Polish monarchy restored by Władysław I Łokietek in 1320.",
+      "description_ru": "18 апреля 1025 года, за несколько недель до своей смерти, Болеслав I был коронован королём Польши архиепископом Гнезно — первым польским монархом, носившим королевский титул, признанный Римом. Коронации препятствовал годами Генрих II, противившийся возведению пястовского князя в королевское достоинство, равное императорскому. Смерть Генриха в 1024 году устранила препятствие; Болеслав действовал незамедлительно. В средневековой политической теологии различие между герцогом (dux) и королём имело принципиальное значение: король получал власть непосредственно от Бога и папы, тогда как князь теоретически был подчинён имперской иерархии. Королевский титул, таким образом, влиял на дипломатические протоколы, права на церковные назначения и положение польских послов при европейских дворах. Титул немедленно угас со смертью Болеслава и не возобновлялся пятьдесят лет — его преемники не могли поддержать политические условия, сделавшие его возможным. Однако коронация установила прецедент и институциональную память, питавшие последующую пястовскую королевскую политику, а также дала правовой образец для коронации Болеслава II в 1076 году и в конечном счёте для непрерывной польской монархии, восстановленной Владиславом I Локетком в 1320 году.",
+      "era": "AD",
+      "latitude": 52.53,
+      "longitude": 17.6,
+      "name": "Bolesław I crowned first King of Poland",
+      "name_ru": "Болеслав I коронован первым королём Польши",
+      "source": "https://en.wikipedia.org/wiki/Boles%C5%82aw_I_the_Brave",
+      "tags": [
+        "Polish",
+        "Piast",
+        "Bolesław I",
+        "Coronation",
+        "Milestone"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1034",
+      "description": "Following the death of Mieszko II in 1034, Poland experienced a violent upheaval: church buildings were burned, clergy were murdered or expelled, nobles with Latin educations were killed or fled, and the ecclesiastical network built since 966 was largely destroyed across the country. Bohemia's Duke Břetislav I exploited the chaos to devastate Gniezno in 1038, removing the relics of St. Adalbert — a symbolic humiliation — and detaching Silesia. The precise social content of the revolt is debated: it may have been a genuine pagan resurgence, a noble reaction against church land accumulation, or a peasant uprising against tribute burdens — likely all three simultaneously. Its consequences were unambiguous: the Poznań bishopric was abandoned, the archiepiscopal see was vacated, and Poland's position as a coherent territorial state temporarily collapsed. The reaction exposed the shallow penetration of Christian institutions beyond court and major towns: the countryside had been christianized administratively but not culturally. The task of rebuilding — physically reconstructing churches, recalling clergy, re-establishing the ecclesiastical province — fell entirely to Casimir I, who returned from monastic life in Germany and France to salvage the Piast state.",
+      "description_ru": "После смерти Мешко II в 1034 году Польша пережила жестокое потрясение: церкви сжигались, духовенство убивали или изгоняли, знать с латинским образованием гибла или бежала, а церковная сеть, созданная с 966 года, была в основном уничтожена по всей стране. Богемский герцог Бржетислав I воспользовался хаосом, чтобы разграбить Гнезно в 1038 году, вывезя мощи св. Войцеха — символическое унижение, — и отделив Силезию. Точное социальное содержание восстания дискуссионно: это могло быть подлинным языческим возрождением, реакцией знати против накопления земли церковью или крестьянским восстанием против данничества — вероятно, всем тремя одновременно. Его последствия неоспоримы: Познанская епархия была заброшена, архиепископская кафедра упразднена, а положение Польши как цельного территориального государства временно рухнуло. Реакция обнажила поверхностное проникновение христианских институтов за пределы двора и крупных городов: сельская местность была христианизирована административно, но не культурно. Задача возрождения — физического восстановления церквей, возвращения духовенства, восстановления церковной провинции — целиком легла на Казимира I, вернувшегося из монашеской жизни в Германии и Франции, чтобы спасти пястовское государство.",
+      "era": "AD",
+      "latitude": 52.53,
+      "longitude": 17.6,
+      "name": "The Pagan Reaction — Poland's institutional collapse",
+      "name_ru": "Языческая реакция — институциональный крах Польши",
+      "source": "https://en.wikipedia.org/wiki/Pagan_reaction_in_Poland",
+      "tags": [
+        "Polish",
+        "Piast",
+        "Paganism",
+        "Crisis",
+        "Church"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.1039",
+      "description": "Casimir I — recalled from a monastery in France and Germany after the chaos of the pagan reaction — rebuilt the Polish state between 1039 and his death in 1058. His most durable single decision was relocating the royal seat from devastated Gniezno to Kraków, at the foot of the Carpathians on Wawel Hill above the Vistula. Kraków's advantages were strategic: a naturally defensible acropolis, proximity to the east-west trade corridor connecting Bohemia to Rus, distance from the exposed northern frontiers that had enabled the Bohemian sack of Gniezno, and access to the fertile agricultural lands of Lesser Poland. The shift moved Poland's political center of gravity southward and eastward, reorienting its expansion axis away from the exposed Baltic plain and toward the Vistula basin and Carpathian approaches. Kraków remained the royal capital until Sigismund III moved the court to Warsaw in 1596 — Casimir's choice defined 550 years of Polish court geography, ecclesiastical precedence, and urban culture, and the Wawel Cathedral became the burial place of Polish kings and national heroes in a tradition continuous to the twentieth century.",
+      "description_ru": "Казимир I — вызванный из монастыря во Франции и Германии после хаоса языческой реакции — восстановил польское государство между 1039 и 1058 годами. Его наиболее долговечным единственным решением стал перенос королевской резиденции из разорённого Гнезна в Краков, у подножия Карпат на Вавельском холме над Вислой. Стратегические преимущества Кракова были очевидны: естественно защищённый акрополь, близость к торговому коридору восток-запад, соединявшему Богемию с Русью, удалённость от незащищённых северных рубежей, позволивших богемянам разграбить Гнезно, и доступ к плодородным сельскохозяйственным землям Малой Польши. Перенос сдвинул политический центр тяжести Польши к югу и востоку, переориентировав ось её расширения с открытой Балтийской равнины на Вислинский бассейн и Карпатские подступы. Краков оставался королевской столицей до тех пор, пока Сигизмунд III не перенёс двор в Варшаву в 1596 году — выбор Казимира I определял 550 лет польской придворной географии, церковного первенства и городской культуры, а Вавельский собор стал усыпальницей польских королей и национальных героев в традиции, непрерывной вплоть до XX века.",
+      "era": "AD",
+      "latitude": 50.06,
+      "longitude": 19.94,
+      "name": "Casimir I the Restorer moves the capital to Kraków",
+      "name_ru": "Казимир I Восстановитель переносит столицу в Краков",
+      "source": "https://en.wikipedia.org/wiki/Casimir_I_the_Restorer",
+      "tags": [
+        "Polish",
+        "Piast",
+        "Casimir I",
+        "Kraków",
+        "Capital",
+        "Restoration"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "25.12.1076",
+      "description": "On Christmas Day 1076, Bolesław II was crowned King of Poland by the Archbishop of Gniezno — restoring the royal title that had lapsed with Bolesław I's death in 1025. The timing was calculated: Pope Gregory VII and Holy Roman Emperor Henry IV were locked in the Investiture Controversy, and Gregory had been actively cultivating Bolesław as a political ally against the emperor. The papal sanction for the coronation was Gregory's reward for that alignment. The episode illustrates the Piast strategic pattern with unusual clarity: the dynasty consistently exploited fractures in the German-papal relationship to advance Polish state interests, using the papacy as a lever against imperial pressure and offering military or political support to Rome in exchange for institutional concessions. Bolesław II's restored crown coincided with his most aggressive territorial expansion — into Rus, Hungary, and Silesia — producing a brief decade of Polish dominance in east-central Europe. The reign ended catastrophically, but the restored royal title and the ecclesiastical precedents attached to it survived the collapse, underpinning the aspirations of every subsequent Piast ruler toward kingly dignity.",
+      "description_ru": "В Рождество 1076 года Болеслав II был коронован королём Польши архиепископом Гнезно — восстановив королевский титул, угасший со смертью Болеслава I в 1025 году. Момент был выверен: папа Григорий VII и император Священной Римской империи Генрих IV были в разгаре спора об инвеститурах, и Григорий активно культивировал Болеслава как политического союзника против императора. Папская санкция на коронацию была наградой Григория за эту поддержку. Эпизод с редкой ясностью иллюстрирует пястовский стратегический pattern: династия неизменно использовала трещины в германо-папских отношениях для продвижения польских государственных интересов, используя папство как рычаг против имперского давления и предлагая Риму военную или политическую поддержку в обмен на институциональные уступки. Восстановление короны Болеслава II совпало с его самой агрессивной территориальной экспансией — в Русь, Венгрию и Силезию, — породив краткое десятилетие польского доминирования в центрально-восточной Европе. Царствование завершилось катастрофой, однако восстановленный королевский титул и прикреплённые к нему церковные прецеденты пережили крах, питая стремления каждого последующего пястовского правителя к королевскому достоинству.",
+      "era": "AD",
+      "latitude": 52.53,
+      "longitude": 17.6,
+      "name": "Bolesław II restores the Polish royal crown",
+      "name_ru": "Болеслав II восстанавливает польскую королевскую корону",
+      "source": "https://en.wikipedia.org/wiki/Boles%C5%82aw_II_the_Bold",
+      "tags": [
+        "Polish",
+        "Piast",
+        "Bolesław II",
+        "Coronation",
+        "Papacy"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "11.04.1079",
+      "description": "On April 11, 1079, King Bolesław II was directly implicated in the murder of Stanisław of Szczepanów, Bishop of Kraków, during or immediately after a church service at the Church of St. Michael on Skałka hill. Whether the bishop had excommunicated Bolesław for his brutal treatment of nobles, was in treasonous contact with the king's enemies, or both simultaneously remains disputed across the sources. The political fallout was immediate: Bolesław was forced into permanent exile in Hungary, and the royal title was not reclaimed for nearly two centuries. The murdered bishop was canonized in 1253 and became the patron saint of Poland; his cult framed the killing as a martyrdom of episcopal authority against royal tyranny, providing a durable template for Polish church-state conflict in which the bishop who challenges a sinful king is the hero and the king who kills him is cursed. This narrative gave the Polish church an unusually strong ideological basis for political resistance to royal authority — a posture that shaped ecclesiastical politics through the medieval and early modern periods and was invoked explicitly during later confrontations between Polish bishops and secular power.",
+      "description_ru": "11 апреля 1079 года король Болеслав II был непосредственно причастен к убийству Станислава из Щепанова, епископа Краковского, во время или сразу после церковной службы в костёле св. Михаила на Скалке. Был ли епископ отлучён Болеславом от церкви за жестокое обращение с вельможами, поддерживал ли изменнические связи с врагами короля, или и то и другое — источники расходятся. Политические последствия были немедленными: Болеслав был вынужден навсегда эмигрировать в Венгрию, а королевский титул не возобновлялся почти два столетия. Убитый епископ был канонизирован в 1253 году и стал небесным покровителем Польши; его культ представлял убийство как мученичество епископской власти перед королевской тиранией, создавая устойчивый образец польского церковно-государственного конфликта, в котором епископ, бросающий вызов грешному королю, — герой, а убивший его король — проклят. Этот нарратив дал польской церкви исключительно прочную идеологическую основу для политического противостояния королевской власти — позицию, формировавшую церковную политику на протяжении Средневековья и раннего Нового времени и прямо цитировавшуюся при последующих столкновениях польских епископов со светской властью.",
+      "era": "AD",
+      "latitude": 50.05,
+      "longitude": 19.93,
+      "name": "Murder of Bishop Stanisław — the church against the crown",
+      "name_ru": "Убийство епископа Станислава — церковь против короны",
+      "source": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_of_Szczep%C3%B3w",
+      "tags": [
+        "Polish",
+        "Piast",
+        "Bolesław II",
+        "Church",
+        "Stanisław",
+        "Kraków"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "24.08.1109",
+      "description": "In August 1109, Holy Roman Emperor Henry V invaded Poland to enforce the claims of Zbigniew, the exiled half-brother of Duke Bolesław III Wrymouth. The campaign ended in Polish victory: the German army failed to take Głogów — whose garrison reportedly tied children to the walls to deter assault — and was defeated in a skirmish at Hundsfeld near Wrocław on August 24. Henry V withdrew after his supply lines collapsed in the autumn. The immediate outcome was the stabilization of Poland's western frontier and Henry's abandonment of Zbigniew's cause; Bolesław III subsequently blinded and killed his half-brother, removing the pretext for future German intervention. In Polish historical memory Hundsfeld became a founding myth of national military self-defense against the empire — the moment a unified Polish force held the natural frontier of the Oder-Nysa system. Gallus Anonymus, composing his chronicle within years of the battle, used the campaign as the rhetorical climax of the Piast achievement, framing it as proof that the Polish state had reached full defensive maturity against the western imperial threat.",
+      "description_ru": "В августе 1109 года император Священной Римской империи Генрих V вторгся в Польшу, чтобы отстоять права Збигнева — изгнанного сводного брата герцога Болеслава III Кривоустого. Поход завершился польской победой: немецкой армии не удалось взять Глогув — защитники которого, по преданию, привязали детей к стенам, чтобы предотвратить штурм, — 24 августа она была разбита в стычке под Хундсфельдом близ Вроцлава и отступила после того, как осенью рухнули её коммуникации. Непосредственным итогом стала стабилизация западной границы Польши и отказ Генриха V от поддержки притязаний Збигнева; Болеслав III впоследствии ослепил и убил сводного брата, устранив повод для будущего германского вмешательства. В польской исторической памяти Хундсфельд стал основополагающим мифом национальной военной самообороны против империи — моментом, когда объединённое польское войско удержало естественный рубеж по Одеру и Нейсе. Галл Аноним, составлявший свою хронику в годы, последовавшие за битвой, использовал этот поход как риторическую кульминацию пястовских достижений, представив его доказательством того, что польское государство достигло полной оборонительной зрелости перед лицом западной имперской угрозы.",
+      "era": "AD",
+      "latitude": 51.1,
+      "longitude": 17.03,
+      "name": "Battle of Hundsfeld — Bolesław III repels Henry V",
+      "name_ru": "Битва при Хундсфельде — Болеслав III отражает Генриха V",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Hundsfeld",
+      "tags": [
+        "Polish",
+        "Piast",
+        "Bolesław III",
+        "Holy Roman Empire",
+        "Battle",
+        "Defense"
+      ],
+      "type": "battle"
+    },
+    {
+      "date": "28.10.1138",
+      "description": "Before his death on October 28, 1138, Bolesław III Wrymouth issued a succession statute dividing the Polish realm among his four sons. Poland was split into five principalities — Greater Poland, Lesser Poland (with the senioral seat at Kraków), Silesia, Masovia, and Kujawy — with the senior prince at Kraków nominally presiding over the others. Bolesław's intention was to prevent the fratricidal violence that had destroyed his own reign when he blinded and killed his half-brother Zbigniew. The actual effect was the opposite: within two generations the principalities fragmented further under subdivision between grandchildren, the principle of seniority collapsed into armed competition, and Poland entered a period of feudal disunion that lasted until Władysław I Łokietek's reunification in 1320. The testament dismantled in a single document the centralized state that the Piasts had built over 170 years since Mieszko I. The fragmented principalities proved unable to mount coordinated responses to the Teutonic Knights in the north, the Mongol invasion of 1241, or Bohemian and German encroachment from the west and south. The reunification of 1320 would be explicitly framed as a restoration of what Bolesław III's testament had undone.",
+      "description_ru": "Перед смертью 28 октября 1138 года Болеслав III Кривоустый издал статут о наследии, разделив польские земли между четырьмя сыновьями. Польша была разделена на пять княжеств — Великую Польшу, Малую Польшу (с сеньоральным престолом в Кракове), Силезию, Мазовию и Куявию, — при этом старший князь в Кракове номинально стоял над остальными. Намерением Болеслава было предотвратить братоубийственные раздоры, уничтожившие его собственное правление, когда он ослепил и убил сводного брата Збигнева. Реальный эффект оказался противоположным: в течение двух поколений княжества раздробились ещё больше — при разделе между внуками, принцип старшинства рухнул под напором вооружённого соперничества, и Польша вступила в период феодальной раздробленности, продолжавшейся до воссоединения Владислава I Локетка в 1320 году. Завещание уничтожило единым документом централизованное государство, которое Пясты строили 170 лет, начиная с Мешко I. Раздробленные княжества оказались неспособны к скоординированному ответу на угрозы Тевтонского ордена на севере, монгольское нашествие 1241 года, богемскую и германскую экспансию с запада и юга. Воссоединение 1320 года будет прямо представлено как восстановление того, что завещание Болеслава III уничтожило.",
+      "era": "AD",
+      "latitude": 50.06,
+      "longitude": 19.94,
+      "name": "Testament of Bolesław III — feudal fragmentation begins",
+      "name_ru": "Завещание Болеслава III — начало феодальной раздробленности",
+      "source": "https://en.wikipedia.org/wiki/Testament_of_Boles%C5%82aw_III_Wrymouth",
+      "tags": [
+        "Polish",
+        "Piast",
+        "Bolesław III",
+        "Fragmentation",
+        "Succession"
+      ],
+      "type": "political"
+    }
+  ]
+}
