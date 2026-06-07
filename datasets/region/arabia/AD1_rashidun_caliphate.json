@@ -536,6 +536,27 @@
     },
     {
       "date": "01.01.0638",
+      "description": "As the Islamic state expands beyond Arabia to encompass Syria, Iraq, and Persia, Umar ibn al-Khattab builds the administrative infrastructure required to govern a multi-ethnic, multi-religious empire: the diwan (state register) records the pension entitlements of all Muslim fighters and their families, funded from the revenues of conquered territories; the amsar (garrison cities) of Basra, Kufa, Fustat (Cairo), and later others serve as administrative capitals and military bases in conquered provinces; and the jizya (poll tax) on non-Muslim subjects (dhimmis) creates a fiscal system that simultaneously funds the state and incentivises conversion.\n\nUmar also formally adopts the Islamic Hijri lunar calendar — counting from the year of the Hijra to Medina — giving the Islamic world a shared chronological framework independent of Roman or Persian imperial time. His personal style of governance — austere, accessible, and physically active (he is said to have patrolled Medina at night to check on his subjects) — becomes the ideal of the 'just caliph' that all subsequent Islamic political theory measures rulers against. The administrative framework he builds outlasts the Rashidun Caliphate by centuries, persisting in the Umayyad and Abbasid systems.",
+      "description_ru": "По мере того как исламское государство расширяется за пределы Аравии, охватывая Сирию, Ирак и Персию, Умар ибн аль-Хаттаб строит административную инфраструктуру, необходимую для управления многонациональной, многоконфессиональной империей: диван (государственный реестр) фиксирует права на пенсии всех мусульманских воинов и их семей, финансируемые из доходов завоёванных территорий; города-гарнизоны (амсар) Басра, Куфа, Фустат (Каир) служат административными столицами и военными базами в завоёванных провинциях; джизья (подушная подать) с немусульманских подданных (зимми) создаёт фискальную систему.\n\nУмар также официально принимает исламский хиджрийский лунный календарь — отсчёт от года хиджры в Медину, — давая исламскому миру общую хронологическую систему, независимую от Римского или Персидского имперского времени.",
+      "era": "AD",
+      "latitude": 24.47,
+      "longitude": 39.61,
+      "name": "Administrative Reforms of the Islamic State",
+      "name_ru": "Административные реформы исламского государства",
+      "source": "https://en.wikipedia.org/wiki/Umar",
+      "tags": [
+        "Arabian",
+        "Reform",
+        "Administration",
+        "Calendar",
+        "Islamic",
+        "Political",
+        "Rashidun"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0638",
       "description": "The city was founded on the banks of the Euphrates. Caliph Umar set a condition: find a place where the soil was \"clean\" (free from rot and insects), and where there were no rivers or bridges between Medina and the camp, so that the couriers could ride unhindered. According to legend, Kufa was built on the site where Noah (Nuh) once began building his ark.",
       "description_ru": "Город заложили на берегу Евфрата. Халиф Умар поставил условие: найти место, где почва была бы «чистой» (без гнили и насекомых), а между Мединой и лагерем не было бы рек или мостов, чтобы гонцы могли доскакать беспрепятственно. Согласно преданиям, Куфа была построена на месте, где когда-то Ной (Нух) начал строить свой ковчег.",
       "era": "AD",
@@ -555,25 +576,25 @@
       "type": "historic"
     },
     {
-      "date": "01.01.0638",
-      "description": "As the Islamic state expands beyond Arabia to encompass Syria, Iraq, and Persia, Umar ibn al-Khattab builds the administrative infrastructure required to govern a multi-ethnic, multi-religious empire: the diwan (state register) records the pension entitlements of all Muslim fighters and their families, funded from the revenues of conquered territories; the amsar (garrison cities) of Basra, Kufa, Fustat (Cairo), and later others serve as administrative capitals and military bases in conquered provinces; and the jizya (poll tax) on non-Muslim subjects (dhimmis) creates a fiscal system that simultaneously funds the state and incentivises conversion.\n\nUmar also formally adopts the Islamic Hijri lunar calendar — counting from the year of the Hijra to Medina — giving the Islamic world a shared chronological framework independent of Roman or Persian imperial time. His personal style of governance — austere, accessible, and physically active (he is said to have patrolled Medina at night to check on his subjects) — becomes the ideal of the 'just caliph' that all subsequent Islamic political theory measures rulers against. The administrative framework he builds outlasts the Rashidun Caliphate by centuries, persisting in the Umayyad and Abbasid systems.",
-      "description_ru": "По мере того как исламское государство расширяется за пределы Аравии, охватывая Сирию, Ирак и Персию, Умар ибн аль-Хаттаб строит административную инфраструктуру, необходимую для управления многонациональной, многоконфессиональной империей: диван (государственный реестр) фиксирует права на пенсии всех мусульманских воинов и их семей, финансируемые из доходов завоёванных территорий; города-гарнизоны (амсар) Басра, Куфа, Фустат (Каир) служат административными столицами и военными базами в завоёванных провинциях; джизья (подушная подать) с немусульманских подданных (зимми) создаёт фискальную систему.\n\nУмар также официально принимает исламский хиджрийский лунный календарь — отсчёт от года хиджры в Медину, — давая исламскому миру общую хронологическую систему, независимую от Римского или Персидского имперского времени.",
+      "date": "06.10.0640",
+      "description": "Dvin was one of the richest cities in the Middle East and a crucial hub on the Silk Road. Six major trade routes converged here, linking Byzantium, Persia, the Mediterranean, and India. For the young Arab empire, capturing such a center meant enormous booty. According to historians (including Sebeos), the Arabs plundered the city of tons of gold, silver, precious fabrics, and handicrafts, and carried off thousands of people into slavery. The weakened Sassanid and Byzantine empires were powerless to counter this.",
+      "description_ru": "Двин являлся одним из богатейших городов Ближнего Востока и важнейшим узлом Великого шелкового пути. Здесь сходились шесть крупнейших торговых маршрутов, связывавших Византию, Персию, Средиземноморье и Индию. Для молодой арабской империи захват такого центра означал получение огромной добычи. По свидетельствам историков (включая Себеоса), арабы забрали из города тонны золота, серебра, дорогих тканей и ремесленных изделий, тысячи людей угнали в рабство. Ослабевшие Сасанидская и Византийская империи ничего не смогли сделать. ",
       "era": "AD",
-      "latitude": 24.47,
-      "longitude": 39.61,
-      "name": "Administrative Reforms of the Islamic State",
-      "name_ru": "Административные реформы исламского государства",
-      "source": "https://en.wikipedia.org/wiki/Umar",
+      "latitude": 40.00472649,
+      "longitude": 44.57918823,
+      "name": "Arabs Destroy Armenian Dvin",
+      "name_ru": "Арабы разоряют армянский Двин",
+      "source": "https://en.wikipedia.org/wiki/Dvin_(ancient_city)",
       "tags": [
         "Arabian",
-        "Reform",
-        "Administration",
-        "Calendar",
+        "Armenian",
+        "War",
+        "Destruction",
         "Islamic",
-        "Political",
-        "Rashidun"
+        "Rashidun",
+        "Siege"
       ],
-      "type": "political"
+      "type": "military"
     },
     {
       "date": "23.03.0644",

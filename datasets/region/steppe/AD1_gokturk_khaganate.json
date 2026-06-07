@@ -249,7 +249,7 @@
     {
       "date": "01.01.0642",
       "description": "The Arab conquest of Persia brought the armies of the Umayyad Caliphate to the southern edge of the Caucasus and the shores of the Caspian Sea. The Derbent Pass — a narrow corridor between the Caspian Sea and the Caucasus Mountains, controlled by a fortress the Arabs called the Iron Gates — was the only viable invasion route between the Arab south and the Khazar north. Beginning in 642–643, the Arabs made repeated attempts to breach the Caucasian barrier. The Khazars stopped them each time.\n\nThe Arab-Khazar conflict lasted nearly a century. A major Arab defeat in 730 at Ardabil gave way to a massive counter-campaign by the Arab commander Marwan ibn Muhammad in 737. Marwan led the largest Arab army ever assembled for a northern campaign deep into the Khazar heartland, presumably reaching the middle Volga. The Khazars retreated, refusing open battle, and Marwan was ultimately forced to retreat due to running out of supplies, having conquered nothing. The Caucasus line held. Islamic expansion northward into the Eurasian Steppe was blocked by the Khazars.",
-      "description_ru": "Арабское завоевание Персии принесло армии Омейядского халифата к южному краю Кавказа и берегам Каспийского моря. Дербентский проход — узкий коридор между Каспийским морем и Кавказскими горами, контролируемый крепостью, которую арабы называли Железными воротами, — был единственным пригодным маршрутом вторжения между арабским югом и хазарским севером. Начиная с 642–643 годов, арабы предпринимали неоднократные попытки пробить кавказский барьер. Хазары останавливали их каждый раз.\n\nАрабо-хазарский конфликт длился почти столетие. Крупное арабское поражение в 730 году при Ардебиле сменилось массированной ответной кампанией арабского полководца Марвана ибн Мухаммада в 737 году: Марван повёл крупнейшую арабскую армию, когда-либо собранную для северного похода, вглубь хазарского сердца, предположительно достигнув средней Волги. Хазары отступили, отказались от открытого боя, и Марван в итоге был вынужден отступить из-за исчерпания снабжения, не завоевав ничего. Кавказская линия выстояла. Исламская экспансия на север в Евразийскую степь блокировалась хазарами.",
+      "description_ru": "Арабское завоевание Персии принесло армии халифата к южному краю Кавказа и берегам Каспийского моря. Дербентский проход — узкий коридор между Каспийским морем и Кавказскими горами, контролируемый крепостью, которую арабы называли Железными воротами, — был единственным пригодным маршрутом вторжения между арабским югом и хазарским севером. Начиная с 642–643 годов, арабы предпринимали неоднократные попытки пробить кавказский барьер. Хазары останавливали их каждый раз.\n\nАрабо-хазарский конфликт длился почти столетие. Крупное арабское поражение в 730 году при Ардебиле сменилось массированной ответной кампанией арабского полководца Марвана ибн Мухаммада в 737 году: Марван повёл крупнейшую арабскую армию, когда-либо собранную для северного похода, вглубь хазарского сердца, предположительно достигнув средней Волги. Хазары отступили, отказались от открытого боя, и Марван в итоге был вынужден отступить из-за исчерпания снабжения, не завоевав ничего. Кавказская линия выстояла. Исламская экспансия на север в Евразийскую степь блокировалась хазарами.",
       "era": "AD",
       "latitude": 42.05267051,
       "longitude": 48.27431202,
@@ -258,11 +258,11 @@
       "source": "https://en.wikipedia.org/wiki/Arab%E2%80%93Khazar_wars",
       "tags": [
         "Arabian",
-        "Umayyad",
         "War",
         "Battle",
         "Islamic",
         "Nomads",
+        "Rashidun",
         "Turkic",
         "Khazar"
       ],

@@ -143,6 +143,24 @@
       "type": "military"
     },
     {
+      "date": "01.01.0701",
+      "description": "Under the Umayyads, Armenia lost its autonomy and became a province of the Caliphate. A permanent Caliph's viceroy, the ostikan, was established in Dvin, wielding unlimited military, judicial, and financial authority. Tax exemptions were abolished. Many Armenian aristocrats were executed. Muslim quarters and Arab garrisons appeared in the cities. However, the Armenians also gained access to the vast Umayyad market, and the Arabs brought new technologies to the region. By weakening the warlike Mamikonian family, the Umayyads allowed the Bagratuni dynasty to grow stronger, which played a significant role in the country's subsequent history.",
+      "description_ru": "При Омейядах Армения утратила автономию и стала провинцией халифата. В Двине сел постоянный наместник халифа — остикан, обладавший неограниченной военной, судебной и финансовой властью. Налоговые льготы были отменены. Многие армянские аристократы были казнены. В городах появились мусульманские кварталы и арабские гарнизоны. Однако, помимо этого, армяне получили обширный рынок Омейядов и с арабами в регион пришли новые технологии. Ослабив воинственный род Мамиконянов, Омейяды позволили усилиться династии Багратуни, что сыграло в роль в дальнейшей истории страны.",
+      "era": "AD",
+      "latitude": 40.01814959,
+      "longitude": 44.52827454,
+      "name": "The Emirate of Armenia under the Umayyads",
+      "name_ru": "Эмират Армения под властью Омейядов",
+      "source": "https://en.wikipedia.org/wiki/Arminiya",
+      "tags": [
+        "Arabian",
+        "Armenian",
+        "Umayyad",
+        "Kingdom"
+      ],
+      "type": "historic"
+    },
+    {
       "date": "01.01.0705",
       "description": "Al-Walid ibn Abd al-Malik, the sixth Umayyad Caliph, begins the demolition of the existing church-mosque hybrid structure of the Mosque of the Prophet in Medina and the Church of St. John the Baptist in Damascus to build two of the greatest mosques of the medieval world. The Great Mosque of Damascus — completed in 715 — is built with Byzantine craftsmen and materials, its interior covered with the largest mosaic programme in history: 4,000 square metres of gilded glass and coloured stone depicting paradise gardens, riverscapes, and Damascene architecture, with no human or animal figures. It will influence mosque architecture for a thousand years.",
       "description_ru": "Аль-Валид ибн Абд аль-Малик, шестой умайядский халиф, приступает к строительству двух величайших мечетей средневекового мира — в Дамаске и Медине. Большая мечеть Дамаска, завершённая в 715 году, возводится Византийскими мастерами и из Византийских материалов; её интерьер украшен крупнейшей мозаичной программой в истории — 4000 квадратных метров золочёного стекла и цветного камня, изображающих райские сады и дамасские пейзажи без единой человеческой или животной фигуры. Она будет влиять на архитектуру мечетей тысячу лет.",
@@ -315,6 +333,7 @@
         "Persian",
         "Umayyad",
         "Civil War",
+        "Abbasid",
         "Islamic",
         "Political",
         "Rebellion",
