@@ -1,0 +1,1004 @@
+{
+  "description": "Dataset imported with 50 events",
+  "events": [
+    {
+      "date": "01.01.0700",
+      "era": "AD",
+      "latitude": 59.5,
+      "longitude": 5.5,
+      "name": "The Norse longship perfected — vessel that opened the Viking Age",
+      "name_ru": "Норманнская ладья усовершенствована — судно, открывшее эпоху викингов",
+      "description": "Norse shipbuilders perfected the clinker-built longship: overlapping planks nailed to flexible frames around a shallow keel. Drawing half a metre of water, it could beach on any shore, sail upriver, and be portaged overland. Square-rigged for downwind ocean crossings, oar-driven in calm water, it was equally suited to crossing the North Atlantic and navigating the Thames estuary. The design had no precedent in European naval engineering. Every Viking raid, settlement, and Atlantic exploration of the next three centuries depended on this vessel.",
+      "description_ru": "Норманнские корабелы усовершенствовали клинкерную ладью: внахлёст уложенные доски, скреплённые с гибкими шпангоутами вокруг мелкого киля. Осадка в полметра позволяла причаливать к любому берегу, ходить вверх по рекам и перетаскивать судно волоком. Прямое парусное вооружение обеспечивало океанские переходы с попутным ветром, вёсла — мелководье и реки. Конструкция не имела прецедента в европейском судостроении. Каждый набег, каждое поселение и каждая атлантическая экспедиция следующих трёх столетий зависели от этого судна.",
+      "source": "https://en.wikipedia.org/wiki/Viking_ships",
+      "tags": [
+        "Norman",
+        "Norway",
+        "Longship",
+        "Technology",
+        "Seafaring"
+      ],
+      "type": "scientific"
+    },
+    {
+      "date": "01.01.0750",
+      "era": "AD",
+      "latitude": 62.0,
+      "longitude": -5.0,
+      "name": "Norse navigation — sun stone, stars, and reading the North Atlantic",
+      "name_ru": "Норманнская навигация — солнечный камень, звёзды и чтение Северной Атлантики",
+      "description": "Norse navigators crossed open ocean without charts or instruments. The sólarsteinn — optical calcite (Icelandic spar) — located the sun through polarized light under full cloud cover; modern experiments confirm accuracy within a few degrees. Solar compasses calibrated direction from shadow. Latitude was held by maintaining the North Star at a fixed elevation above the horizon. Sea temperature, currents, bird species and flight direction, whale distribution, and swell rhythm confirmed position. These methods were sufficient for repeated reliable crossings of the North Atlantic — one of the world's most dangerous ocean passages.",
+      "description_ru": "Норманнские мореходы пересекали открытый океан без карт и инструментов. Сóларстейн — оптический кальцит (исландский шпат) — обнаруживал солнце через поляризованный свет при полной облачности; современные эксперименты подтвердили точность в несколько градусов. Солнечные компасы определяли направление по тени гномона. Широта выдерживалась по неизменному углу Полярной звезды над горизонтом. Температура воды, течения, виды птиц и направление их полёта, распределение китов и ритм зыби подтверждали местоположение. Этих методов было достаточно для надёжного пересечения Северной Атлантики — одного из опаснейших морей мира.",
+      "source": "https://en.wikipedia.org/wiki/Norse_navigation",
+      "tags": [
+        "Norman",
+        "Navigation",
+        "Seafaring",
+        "Technology",
+        "Scandinavia"
+      ],
+      "type": "scientific"
+    },
+    {
+      "date": "08.06.0793",
+      "era": "AD",
+      "latitude": 55.67,
+      "longitude": -1.8,
+      "name": "Sack of Lindisfarne — the opening blow of the Viking Age",
+      "name_ru": "Разграбление Линдисфарна — первый удар эпохи викингов",
+      "description": "On June 8, 793, Norse raiders sacked the monastery of Lindisfarne off the Northumbrian coast — the wealthiest and most venerated monastery in Britain, custodian of St. Cuthbert's relics and associated with the Lindisfarne Gospels. They killed monks, enslaved others, and stripped the church. Alcuin of York called it an unprecedented catastrophe. Historians date the Viking Age from this raid; in practice Norse attacks preceded it, but Lindisfarne was famous enough to give this one the force to define an era. The community was not permanently abandoned until 875, when monks fled inland carrying Cuthbert's coffin.",
+      "description_ru": "8 июня 793 года норманнские налётчики разграбили монастырь Линдисфарн у берегов Нортумбрии — богатейший и наиболее почитаемый монастырь Британии, хранитель мощей св. Кутберта и связанный с Линдисфарнскими Евангелиями. Они убили монахов, других взяли в рабство и опустошили церковь. Алкуин Йоркский назвал произошедшее беспрецедентной катастрофой. Историки датируют эпоху викингов этим набегом; на практике норманнские нападения предшествовали ему, но известность Линдисфарна придала именно этому событию силу, определяющую целую эпоху. Монастырь не был окончательно покинут до 875 года.",
+      "source": "https://en.wikipedia.org/wiki/Raid_on_Lindisfarne",
+      "tags": [
+        "Norman",
+        "England",
+        "Raid",
+        "Monastery",
+        "Lindisfarne"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0795",
+      "era": "AD",
+      "latitude": 55.3,
+      "longitude": -6.2,
+      "name": "First Norse raids on Ireland and Iona — the western arc of expansion begins",
+      "name_ru": "Первые набеги норманнов на Ирландию и Иону — начало западной дуги экспансии",
+      "description": "In 795, Norse ships raided Rathlin Island and the monastery of Iona — founded by St. Columba in 563, burial place of Irish kings, and the most sacred site in the British Isles after Canterbury. Iona was struck repeatedly (795, 802, 806, 825); the 806 attack killed 68 monks. The community transferred Columba's relics to Kells in Ireland, where the Book of Kells was completed in relative safety. Ireland's fractured political landscape and densely distributed monastic wealth made it the primary target of sustained Norse activity throughout the ninth century.",
+      "description_ru": "В 795 году норманнские суда совершили набег на остров Рафлин и монастырь Иона — основанный св. Колумбой в 563 году, место погребения ирландских королей, наиболее почитаемый на Британских островах после Кентербери. Иону атаковали неоднократно (795, 802, 806, 825); нападение 806 года унесло жизни 68 монахов. Братия перевезла мощи Колумбы в Келлс в Ирландии, где была завершена Книга Келлса. Раздробленный политический ландшафт Ирландии и плотная концентрация монастырских богатств сделали её главной целью норманнских набегов на протяжении всего IX века.",
+      "source": "https://en.wikipedia.org/wiki/Viking_raids_on_Ireland",
+      "tags": [
+        "Norman",
+        "Ireland",
+        "Scotland",
+        "Iona",
+        "Raid",
+        "Monastery"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0799",
+      "era": "AD",
+      "latitude": 46.99,
+      "longitude": -2.26,
+      "name": "First Norse raid on the Frankish coast — rivers of Francia opened to Viking access",
+      "name_ru": "Первый норманнский набег на франкское побережье — реки Франции открыты для викингов",
+      "description": "In 799, Norse raiders struck the island monastery of Noirmoutier at the Loire mouth — the first documented attack on the Carolingian Empire. Charlemagne ordered construction of a coastal defence fleet and shore watch stations; the measures slowed but could not stop Norse penetration. The Carolingian Empire lacked a naval tradition capable of engaging Norse ships in tidal waters and river estuaries. As Carolingian political unity fragmented after 840, the rivers of Francia — Loire, Seine, Garonne, Scheldt — became open highways into the continent's wealthiest cities and monasteries.",
+      "description_ru": "В 799 году норманнские налётчики ударили по островному монастырю Нуармутье в устье Луары — первое задокументированное нападение на Каролингскую империю. Карл Великий приказал построить прибрежный флот и дозорные посты; меры замедлили, но не остановили норманнское проникновение. Каролингская империя не располагала военно-морской традицией, способной противостоять норманнским судам в приливных водах и речных устьях. По мере распада каролингского единства после 840 года реки Франции — Луара, Сена, Гаронна, Шельда — превратились в открытые пути вглубь богатейших городов и монастырей континента.",
+      "source": "https://en.wikipedia.org/wiki/Viking_raids_and_invasions_of_France",
+      "tags": [
+        "Norman",
+        "Frankish",
+        "Francia",
+        "Raid",
+        "Noirmoutier",
+        "Carolingian"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0800",
+      "era": "AD",
+      "latitude": 59.91,
+      "longitude": 10.75,
+      "name": "The Norse Thing — the assembly tradition that gave the world its oldest parliaments",
+      "name_ru": "Норманнский тинг — традиция собраний, давшая миру древнейшие парламенты",
+      "description": "The Thing (þing) was the foundational Norse institution: an outdoor assembly of free men convened at fixed intervals and recognized sites, with feuds suspended for its duration. Law-speakers recited the legal code from memory; judgments were enforced by collective ostracism rather than state power. Any free man could speak. Iceland's Althing, founded 930, met continuously — suspended only in 1800 by Danish colonial authorities, restored in 1845. The Norse Thing is the direct ancestor of the Norwegian Storting, Icelandic Alþingi, Faroese Løgting, and the Manx Tynwald — the world's oldest continuous parliament.",
+      "description_ru": "Тинг (þing) был основополагающим институтом норманнского общества: открытое собрание свободных людей в фиксированные сроки на признанных местах, с приостановлением распрей. Законоговорители воспроизводили правовой свод по памяти; приговоры исполнялись посредством коллективного остракизма. Любой свободный мужчина мог высказаться. Исландский Альтинг, учреждённый в 930 году, заседал непрерывно — приостановлен лишь в 1800 году датскими колониальными властями, восстановлен в 1845-м. Норманнский тинг — прямой предок норвежского Стортинга, Исландского альтинга, Фарерского лёгтинга и Мэнского Тинвальда — древнейшего действующего парламента мира.",
+      "source": "https://en.wikipedia.org/wiki/Thing_(assembly)",
+      "tags": [
+        "Norman",
+        "Scandinavia",
+        "Law",
+        "Assembly",
+        "Thing",
+        "Democracy"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0801",
+      "era": "AD",
+      "latitude": 59.86,
+      "longitude": 17.63,
+      "name": "The Norse pantheon — Odin, Thor, Valhalla, and the certainty of Ragnarök",
+      "name_ru": "Норманнский пантеон — Один, Тор, Вальхалла и неизбежность Рагнарёка",
+      "description": "The Norse pantheon centred on tension and doom: Odin — god of wisdom, war, death, and poetry — hung himself on Yggdrasil nine days to gain the runes and traded an eye for knowledge; Thor protected humanity from giants with his hammer Mjölnir. Freya received half the battle-dead in Fólkvangr; Odin the other half in Valhöll, where warriors trained daily for Ragnarök — the gods' inevitable twilight. Uniquely, the Norse cosmos accepted doom: catastrophe was certain and faced, not feared. The mythology was preserved through the Icelandic Prose and Poetic Eddas, compiled in writing around 1220.",
+      "description_ru": "Норманнский пантеон был сосредоточен на противостоянии и гибели: Один — бог мудрости, войны, смерти и поэзии — провисел девять дней на Иггдрасиле ради обретения рун, отдал глаз за знание; Тор защищал человечество от великанов Мьёльниром. Фрейя принимала половину павших в бою в Фолькванге; Один — другую половину в Вальхалле, где воины ежедневно готовились к Рагнарёку — неизбежным сумеркам богов. Уникально: норманнский космос принимал гибель — она была неизбежна и встречалась лицом к лицу, а не воспринималась как угроза. Мифология сохранилась в исландских «Прозаической» и «Поэтической» Эддах, записанных около 1220 года.",
+      "source": "https://en.wikipedia.org/wiki/Norse_mythology",
+      "tags": [
+        "Norman",
+        "Scandinavia",
+        "Mythology",
+        "Religion",
+        "Odin",
+        "Thor",
+        "Valhalla"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.0802",
+      "era": "AD",
+      "latitude": 60.0,
+      "longitude": 8.0,
+      "name": "Skaldic poetry — the literary art of the Viking courts",
+      "name_ru": "Скальдическая поэзия — литературное искусство при дворах викингов",
+      "description": "Skaldic poetry was the professional art form of Norse courts: more metrically and phonetically constrained than any other European literary tradition, requiring precise patterns of alliteration, internal rhyme, and fixed syllable count. Skalds composed verses chronicling military deeds and genealogies — simultaneously political flattery and historical record. Their central device, the kenning, compressed mythological reference into two-word compounds: the sea was the whale-road; gold was fire-of-the-river; a warrior was feeder-of-ravens. The Icelandic saga tradition, written down in the thirteenth century, preserved skaldic verse alongside prose narrative of unparalleled medieval richness.",
+      "description_ru": "Скальдическая поэзия была профессиональным искусством норманнских дворов: метрически и фонетически ограниченная строже любой другой европейской литературной традиции — требовала точных схем аллитерации, внутренней рифмы и фиксированного числа слогов. Скальды слагали стихи, фиксировавшие военные подвиги и генеалогии — политическую лесть и исторический документ одновременно. Их центральный приём — кеннинг — сжимал мифологические отсылки в двусловные сложения: море было «дорогой китов»; золото — «огнём реки»; воин — «кормильцем воронов». Исландская традиция саг, записанная в XIII веке, сохранила скальдическую поэзию наряду с прозаическим нарративом, не имеющим равных в средневековой Европе.",
+      "source": "https://en.wikipedia.org/wiki/Skaldic_poetry",
+      "tags": [
+        "Norman",
+        "Scandinavia",
+        "Skald",
+        "Poetry",
+        "Literature",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0803",
+      "era": "AD",
+      "latitude": 59.86,
+      "longitude": 17.63,
+      "name": "Runestones — the Norse memorial tradition carved in stone",
+      "name_ru": "Рунические камни — норманнская традиция поминовения, высеченная в камне",
+      "description": "Over three thousand runestones survive in Scandinavia, the majority in Sweden concentrated around Uppsala. Most carry a memorial formula: X raised this stone for Y, who died doing Z — concise, in Old Norse, placed at roads, bridges, and Thing sites where people passed, and often brightly painted. The Ingvar Runestones — twenty-five stones raised in the 1040s for men who died on an expedition east — document a single failed Viking campaign with no other written record. Unlike Latin-language memorials, runestones required no clerical intermediary: any family with resources could enter the permanent record.",
+      "description_ru": "Более трёх тысяч рунических камней сохранилось в Скандинавии, большинство в Швеции вокруг Уппсалы. Большинство несут поминальную формулу: «X воздвиг этот камень для Y, умершего при Z» — лаконичную, на древнескандинавском; их ставили у дорог, мостов и мест тинга и нередко ярко раскрашивали. Рунические камни Ингвара — двадцать пять камней 1040-х годов в память людей, погибших в восточной экспедиции — документируют единственную провалившуюся викингскую кампанию без иных письменных свидетельств. В отличие от латиноязычных памятников, рунические камни не требовали клерикального посредничества: любая семья с ресурсами могла войти в постоянную летопись.",
+      "source": "https://en.wikipedia.org/wiki/Runestone",
+      "tags": [
+        "Norman",
+        "Sweden",
+        "Runestone",
+        "Runes",
+        "Memorial",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0804",
+      "era": "AD",
+      "latitude": 60.0,
+      "longitude": 8.0,
+      "name": "Berserkers — warriors of battle-fury under Odin's patronage",
+      "name_ru": "Берсерки — воины боевого исступления под покровительством Одина",
+      "description": "Berserkers (berserkir) fought in a state of altered consciousness described in sagas as superhuman strength, immunity to pain, biting of shields, and inability to distinguish friend from enemy. The state was induced deliberately through ritual preparation; Amanita muscaria and hyperventilation have been proposed. Norse kings maintained berserkers as household shock troops: twelve accompany Harald Fairhair in saga accounts. Saga literature eventually reframes them as outlaws, incompatible with settled Christian society. The berserker represents the extreme of the Norse warrior cult: battle fury as a sacred state under Odin's direct patronage, distinct from ordinary courage.",
+      "description_ru": "Берсерки (berserkir) сражались в изменённом состоянии сознания — в сагах описывается нечеловеческая сила, нечувствительность к боли, укусы щитов, неспособность отличить друга от врага. Состояние намеренно вызывалось ритуальной подготовкой; предложены Amanita muscaria и гипервентиляция. Норманнские конунги содержали берсерков как отборные ударные дружины: двенадцать сопровождают Харальда Прекрасноволосого по сагам. Литература саг в итоге переосмысляет их как изгоев, несовместимых с оседлым христианским обществом. Берсерк воплощает крайность норманнского воинского культа: боевое исступление как сакральное состояние под непосредственным покровительством Одина.",
+      "source": "https://en.wikipedia.org/wiki/Berserker",
+      "tags": [
+        "Norman",
+        "Scandinavia",
+        "Berserker",
+        "Warriors",
+        "Culture",
+        "Odin"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0805",
+      "era": "AD",
+      "latitude": 54.76,
+      "longitude": 9.56,
+      "name": "Hedeby — the great Norse trading emporium of northern Europe",
+      "name_ru": "Хедебю — великий норманнский торговый центр Северной Европы",
+      "description": "The Norse trading emporium at Hedeby (Haithabu) in southern Jutland — where the Schlei fjord approaches the North Sea — was by the ninth century the largest town in Scandinavia and one of the most important in northern Europe. Excavations reveal a planned town with craft quarters for comb-makers, glass bead workers, bronze casters, and textile producers. Arab silver dirhams, Frankish swords, Rhineland glass, Frisian cloth, and Baltic amber all circulated here. Hedeby linked the Baltic and North Sea trade networks. It was burned by Harald Hardrada in 1049 and destroyed by Slavic Obodrites in 1050.",
+      "description_ru": "Норманнский торговый центр Хедебю (Хайтабу) в южной Ютландии — где фьорд Шлей подходит ближе всего к Северному морю — был к IX веку крупнейшим городом Скандинавии и одним из главных в Северной Европе. Раскопки обнаруживают спланированный город с ремесленными кварталами изготовителей гребней, мастеров стеклянных бус, бронзолитейщиков и ткачей. Арабские серебряные дирхемы, франкские мечи, рейнландское стекло, фризское сукно и балтийский янтарь обращались здесь. Хедебю соединял балтийскую и северноморскую торговые сети. Сожжён Харальдом Хардрада в 1049 году и уничтожен ободритами в 1050-м.",
+      "source": "https://en.wikipedia.org/wiki/Hedeby",
+      "tags": [
+        "Norman",
+        "Denmark",
+        "Hedeby",
+        "Trade",
+        "Commerce",
+        "Emporium"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0820",
+      "era": "AD",
+      "latitude": 46.99,
+      "longitude": -2.26,
+      "name": "Noirmoutier — the first Viking winter base and birth of the longphort",
+      "name_ru": "Нуармутье — первая зимняя база викингов и рождение лонгпорта",
+      "description": "Around 820, Norse raiders established a permanent base on the island of Noirmoutier in the Loire estuary — the first documented case of Vikings overwintering on a raided shore rather than returning home. The longphort model — a fortified ship-harbour combining naval base, slave market, and seasonal residence — spread rapidly to Ireland, England, and Scotland. It represented the shift from seasonal raiding to sustained territorial presence: once established, raiders had a supply base, accumulated cargo for export, and could extort tribute from surrounding communities. The transition from raid to rule was incremental, with the longphort as its primary instrument.",
+      "description_ru": "Около 820 года норманнские налётчики основали постоянную базу на острове Нуармутье в устье Луары — первый задокументированный случай зимовки викингов на разграбленном берегу вместо возвращения домой. Модель лонгпорта — укреплённой корабельной гавани, совмещавшей военно-морскую базу, рынок рабов и сезонное жильё — быстро распространилась на Ирландию, Англию и Шотландию. Она воплощала сдвиг от сезонных набегов к устойчивому территориальному присутствию: с установлением лонгпорта налётчики получали базу снабжения, накапливали товары и выбивали дань с окрестных общин. Переход от набега к господству был постепенным, а лонгпорт — его главным инструментом.",
+      "source": "https://en.wikipedia.org/wiki/Norse_activity_in_the_British_Isles",
+      "tags": [
+        "Norman",
+        "Francia",
+        "Longphort",
+        "Settlement",
+        "Noirmoutier"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0825",
+      "era": "AD",
+      "latitude": 62.0,
+      "longitude": -6.79,
+      "name": "Faroe Islands settled — the Norse Atlantic frontier begins",
+      "name_ru": "Заселение Фарерских островов — начало норманнской атлантической границы",
+      "description": "Norse settlers reached the Faroe Islands around 825, displacing a small Irish monastic community (papar). The eighteen volcanic islands midway between Norway and Iceland offered rich fishing, seabird colonies, and sheep pasture; Færeyjar means sheep islands. They formed a critical staging post on the North Atlantic route: Bergen to Faroe to Iceland to Greenland, with no leg more than a few days from land in good conditions. The Faroese language — closest living language to Old Norse — and the Faroese Løgting, direct descendant of the original Norse assembly, survive as unbroken continuities from the ninth-century settlement.",
+      "description_ru": "Норманнские поселенцы достигли Фарерских островов около 825 года, вытеснив небольшую ирландскую монастырскую общину (папар). Восемнадцать вулканических островов на полпути между Норвегией и Исландией предлагали богатые рыбные угодья, птичьи базары и овечьи пастбища; Færeyjar означает «острова овец». Они стали критически важным промежуточным пунктом на североатлантическом маршруте: Берген — Фарерские — Исландия — Гренландия, без перехода длиннее нескольких дней от суши. Фарерский язык — ближайший к древнескандинавскому из живых языков — и Лёгтинг, прямой потомок первоначального норманнского собрания, сохраняются с поселения IX века.",
+      "source": "https://en.wikipedia.org/wiki/History_of_the_Faroe_Islands",
+      "tags": [
+        "Norman",
+        "Faroe Islands",
+        "Settlement",
+        "Atlantic",
+        "Expansion"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0834",
+      "era": "AD",
+      "latitude": 59.35,
+      "longitude": 10.52,
+      "name": "Oseberg ship burial — the most magnificent tomb of the Viking Age",
+      "name_ru": "Корабельное захоронение в Усеберге — самое великолепное погребение эпохи викингов",
+      "description": "The Oseberg ship burial, excavated in Norway in 1904, contained the most elaborate Viking Age burial ever found: a coastal longship built around 820 with two women interred amid extraordinary wealth — a cart, four sledges, fifteen horses, six dogs, kitchen equipment, and carved wooden furnishings in the Oseberg style — the earliest fully documented Norse artistic idiom. The identity of the women remains debated; the elder is often identified as a high-ranked seeress (völva). Ship burial was the highest-status Norse funerary tradition. The ship is displayed in Oslo's Viking Ship Museum and has been visited by over twenty million people.",
+      "description_ru": "Корабельное захоронение в Усеберге, раскопанное в Норвегии в 1904 году, содержало самое богатое погребение эпохи викингов: каботажную ладью, построенную около 820 года, с двумя погребёнными женщинами среди исключительного богатства — повозки, четырёх саней, пятнадцати лошадей, шести собак, кухонного инвентаря и резных предметов в усебергском стиле — древнейшем полностью задокументированном норманнском художественном идиоме. Личность женщин оспаривается; старшую нередко отождествляют с высокопоставленной вёльвой (провидицей). Корабельное захоронение было нормандской погребальной традицией наивысшего статуса. Ладья экспонируется в Музее кораблей викингов в Осло.",
+      "source": "https://en.wikipedia.org/wiki/Oseberg_ship",
+      "tags": [
+        "Norman",
+        "Norway",
+        "Oseberg",
+        "Ship Burial",
+        "Archaeology",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0841",
+      "era": "AD",
+      "latitude": 53.33,
+      "longitude": -6.25,
+      "name": "Dublin founded as Norse longphort — seat of Scandinavian power in Ireland",
+      "name_ru": "Дублин основан как норманнский лонгпорт — центр скандинавской власти в Ирландии",
+      "description": "Around 841, Norse raiders established a longphort at the mouth of the River Liffey — modern Dublin — the first permanent Scandinavian settlement in Ireland. It rapidly became the most important Norse base in the western Atlantic: a slave-trading hub, fleet station, and commercial port. Irish slaves constituted the primary export, traded into the wider Norse world and Arab markets. Norse Dublin operated as a quasi-independent kingdom until the Battle of Clontarf (1014). The city's Norse-origin street grid, harbour layout, and commercial law outlasted its Norse political phase; the city Norsemen founded is the capital of modern Ireland.",
+      "description_ru": "Около 841 года норманнские налётчики основали лонгпорт в устье реки Лиффи — современный Дублин, первое постоянное скандинавское поселение в Ирландии. Он быстро стал важнейшей норманнской базой в западной Атлантике: центром работорговли, корабельной стоянкой и торговым портом. Ирландские рабы были главным экспортным товаром, продававшимся в норманнский мир и на арабские рынки. Норманнский Дублин функционировал как квазинезависимое королевство вплоть до битвы при Клонтарфе (1014). Уличная сеть, гавань и коммерческое право норманнского происхождения пережили норманнский политический период; город, основанный норманнами, является столицей современной Ирландии.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Dublin",
+      "tags": [
+        "Norman",
+        "Ireland",
+        "Dublin",
+        "Longphort",
+        "Settlement",
+        "Slaves"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0844",
+      "era": "AD",
+      "latitude": 37.39,
+      "longitude": -5.99,
+      "name": "Viking raid on Seville — Norse ships reach the Muslim world",
+      "name_ru": "Набег викингов на Севилью — норманнские корабли достигают мусульманского мира",
+      "description": "In 844, a Norse fleet raided Lisbon, Cádiz, and Seville — the first documented Viking attack on the Iberian Peninsula. The raiders penetrated up the Guadalquivir and held Seville for a week before Abd al-Rahman II's forces inflicted a heavy defeat. Arab chroniclers called the attackers al-Majus (fire-worshippers). In 859, Björn Ironside and Hastein returned with sixty-two ships, raiding Morocco's Atlantic coast, the Balearic Islands, Provence, and Tuscany — reaching Pisa before returning three years later with a fraction of their original force. The raids demonstrated that Viking reach extended to the southern limits of the known world.",
+      "description_ru": "В 844 году норманнский флот совершил набег на Лиссабон, Кадис и Севилью — первое задокументированное нападение викингов на Пиренейский полуостров. Налётчики поднялись по Гвадалквивиру и удерживали Севилью неделю, прежде чем силы Абд ар-Рахмана II нанесли им тяжёлое поражение. Арабские хронисты называли нападавших аль-Маджус (огнепоклонниками). В 859 году Бьёрн Железнобокий и Хастейн вернулись с шестьюдесятью двумя кораблями, совершив набеги на Марокко, Балеарские острова, Прованс и Тоскану — достигнув Пизы прежде чем вернуться три года спустя. Рейды показали, что дальность викингов достигает южных пределов известного мира.",
+      "source": "https://en.wikipedia.org/wiki/Viking_raids_on_the_Iberian_Peninsula",
+      "tags": [
+        "Norman",
+        "Seville",
+        "Iberia",
+        "Mediterranean",
+        "Raid",
+        "Björn Ironside"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0845",
+      "era": "AD",
+      "latitude": 48.86,
+      "longitude": 2.35,
+      "name": "Ragnar's siege of Paris — 7,000 pounds of silver and the legend of Ragnar Lothbrok",
+      "name_ru": "Осада Парижа Рагнаром — 7000 фунтов серебра и легенда о Рагнаре Лотброке",
+      "description": "In 845, a Norse fleet of 120 ships commanded by a leader the Frankish sources call Ragnar sailed up the Seine, defeated a Frankish army, hanged 111 prisoners on a riverside island as a ritual sacrifice to Odin, sacked Paris, and withdrew for 7,000 pounds of silver — the largest Danegeld recorded in Francia. Charles the Bald paid. Ragnar is identified by saga tradition with Ragnar Lothbrok, father of Ivar the Boneless and Björn Ironside; historicity remains disputed. Paris was sacked again in 856 and besieged in 885. Charles's payment established that French rivers were extractable resources.",
+      "description_ru": "В 845 году норманнский флот из 120 кораблей под командованием вождя, которого франкские источники называют Рагнаром, поднялся по Сене, разбил франкскую армию, повесил 111 пленников на речном острове как ритуальное жертвоприношение Одину, разграбил Париж и отступил за 7000 фунтов серебра — крупнейший данегельд во Франции. Карл Лысый заплатил. Традиция саг отождествляет Рагнара с Рагнаром Лотброком, отцом Ивара Бескостного и Бьёрна Железнобокого; историчность оспаривается. Париж был снова разграблен в 856-м и осаждён в 885-м. Выплата Карла установила, что французские реки суть извлекаемые ресурсы.",
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Paris_(845)",
+      "tags": [
+        "Norman",
+        "France",
+        "Paris",
+        "Ragnar Lothbrok",
+        "Siege",
+        "Danegeld"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0858",
+      "era": "AD",
+      "latitude": 43.72,
+      "longitude": 10.4,
+      "name": "Björn Ironside raids the Mediterranean — Norse ships reach Pisa and Morocco",
+      "name_ru": "Бьёрн Железнобокий совершает набеги в Средиземноморье — норманнские корабли у Пизы и Марокко",
+      "description": "Around 858, Björn Ironside and Hastein led sixty ships from the Loire south through the Strait of Gibraltar into the Mediterranean — the most wide-ranging Viking raid in the historical record. They attacked Morocco, the Balearic Islands, the Rhône delta, Provence, and the Ligurian coast; Hastein reportedly mistook Luna (Luni, Tuscany) for Rome. The fleet wintered in the Camargue and spent three years in the Mediterranean before returning with perhaps twenty ships. The raid reached populations with no prior knowledge of Norse existence, introducing the Viking presence to the western Mediterranean for the first time.",
+      "description_ru": "Около 858 года Бьёрн Железнобокий и Хастейн повели шестьдесят кораблей от Луары на юг через Гибралтарский пролив в Средиземное море — наиболее далёкий набег в источниках эпохи викингов. Они атаковали Марокко, Балеарские острова, дельту Роны, Прованс и Лигурийское побережье; Хастейн предположительно принял Луни (Тоскана) за Рим. Флот перезимовал в Камарге, провёл три года в Средиземноморье и вернулся примерно с двадцатью кораблями. Набег достиг народов, прежде не знавших о существовании норманнов, впервые представив викингов западному Средиземноморью.",
+      "source": "https://en.wikipedia.org/wiki/Bj%C3%B6rn_Ironside",
+      "tags": [
+        "Norman",
+        "Mediterranean",
+        "Björn Ironside",
+        "Hastein",
+        "Raid",
+        "Morocco"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0860",
+      "era": "AD",
+      "latitude": 64.15,
+      "longitude": -21.94,
+      "name": "Discovery of Iceland — Norse sailors find the first land beyond the Faroe horizon",
+      "name_ru": "Открытие Исландии — норманнские мореходы находят первую землю за фарерским горизонтом",
+      "description": "Around 860, Norse sailors — primarily Naddoðr and Garðar Svávarsson — discovered Iceland while blown off course on the Faroe route. Naddoðr named it Snæland; Garðar circumnavigated the island. A third explorer, Flóki Vilgerðarson, gave it the name Ísland (Iceland) after observing ice-filled fjords; he failed to make adequate hay for his livestock and departed. The island was uninhabited except for Irish monks (papar) who left at Norse arrival. Volcanic, treeless, geothermally active, and rich in fish and seabirds, Iceland would within seventy years produce the most sophisticated legal and literary culture of the medieval Norse world.",
+      "description_ru": "Около 860 года норманнские мореходы — преимущественно Наддодд и Гардар Сваварссон — открыли Исландию, сбитые с курса на фарерском маршруте. Наддодд назвал её Снэланд; Гардар обошёл остров вокруг. Третий исследователь, Флоки Вильгердарссон, дал ему название Исландия (Ísland) по ледяным фьордам; не заготовив сена для скота, он уехал. Остров был необитаем, если не считать ирландских монахов (папар), покинувших его при появлении норманнов. Вулканическая, безлесная, геотермально активная, богатая рыбой и морскими птицами, Исландия в течение семидесяти лет породила наиболее изощрённую правовую и литературную культуру средневекового норманнского мира.",
+      "source": "https://en.wikipedia.org/wiki/Settlement_of_Iceland",
+      "tags": [
+        "Norman",
+        "Iceland",
+        "Discovery",
+        "Exploration",
+        "Atlantic"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0865",
+      "era": "AD",
+      "latitude": 52.5,
+      "longitude": 1.7,
+      "name": "The Great Heathen Army — Norse conquest of Anglo-Saxon England begins",
+      "name_ru": "Великая языческая армия — начало норманнского завоевания англосаксонской Англии",
+      "description": "In 865, a large organized Norse force — the mycel hæðen here (Great Heathen Army) — landed in East Anglia and launched a campaign of conquest rather than raiding. Its commanders — Ivar the Boneless, Halfdan Ragnarsson, and Ubba — are identified by saga tradition as sons of Ragnar Lothbrok. Within three years the army had conquered Northumbria, East Anglia, and most of Mercia, destroying three of England's four kingdoms. It was capable of sustained logistics, siege operations, and political negotiation — extracting tribute, installing compliant English sub-kings, and moving between theatres with strategic coordination. By 878, only Alfred's Wessex remained unconquered.",
+      "description_ru": "В 865 году крупная организованная норманнская сила — mycel hæðen here (Великая языческая армия) — высадилась в Восточной Англии, развернув кампанию завоевания, а не грабежа. Её командиры — Ивар Бескостный, Хальфдан Рагнарссон и Уббе — идентифицируются традицией саг как сыновья Рагнара Лотброка. За три года армия завоевала Нортумбрию, Восточную Англию и большую часть Мерсии, уничтожив три из четырёх английских королевств. Она была способна к устойчивой логистике, осадным операциям и политическим переговорам — выбивала дань, ставила подкоролей и перемещалась между театрами стратегически. К 878 году лишь Уэссекс Альфреда оставался незавоёванным.",
+      "source": "https://en.wikipedia.org/wiki/Great_Heathen_Army",
+      "tags": [
+        "Norman",
+        "England",
+        "Great Heathen Army",
+        "Ivar the Boneless",
+        "Invasion",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.11.0866",
+      "era": "AD",
+      "latitude": 53.96,
+      "longitude": -1.09,
+      "name": "York (Jorvik) captured — Norse kingdom of England established",
+      "name_ru": "Захват Йорка (Йорвика) — норманнское королевство в Англии установлено",
+      "description": "In November 866, the Great Heathen Army captured Eoforwic — Roman and Anglo-Saxon capital of Northumbria — renaming it Jórvík (York). Two rival Northumbrian kings, Ælla and Osberht, were both killed; saga tradition describes Ælla's death as a ritual blood eagle execution in vengeance for killing Ragnar Lothbrok. Norse Jorvik became one of northern Europe's most prosperous cities, with an estimated population of 10,000–15,000 and an economy built on craft production and long-distance trade. Archaeological excavations at Coppergate in the 1970s–80s preserved the city's ninth-century physical fabric in extraordinary detail. The Norse kingdom of York endured until 954.",
+      "description_ru": "В ноябре 866 года Великая языческая армия захватила Эофорвик — римскую и англосаксонскую столицу Нортумбрии — переименовав его в Йорвик (Йорк). Два соперничавших нортумбрийских короля, Элла и Осберт, оба были убиты; традиция саг описывает смерть Эллы как ритуальную казнь «кровавый орёл» в отмщение за гибель Рагнара Лотброка. Норманнский Йорвик стал одним из наиболее процветающих городов Северной Европы с населением 10–15 тысяч человек и экономикой, основанной на ремесленном производстве и международной торговле. Раскопки на Копперейт в 1970–80-х годах сохранили физическую ткань города IX века в исключительных деталях. Норманнское королевство Йорка просуществовало до 954 года.",
+      "source": "https://en.wikipedia.org/wiki/Kingdom_of_Northumbria",
+      "tags": [
+        "Norman",
+        "England",
+        "York",
+        "Jorvik",
+        "Kingdom",
+        "Conquest"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0869",
+      "era": "AD",
+      "latitude": 52.35,
+      "longitude": 1.18,
+      "name": "Martyrdom of King Edmund — England's patron saint made by Viking execution",
+      "name_ru": "Мученичество короля Эдмунда — покровитель Англии, созданный казнью викингов",
+      "description": "In 869, King Edmund of East Anglia was captured by the Great Heathen Army and executed after refusing to share his kingdom with Ivar the Boneless or renounce Christianity. Sources describe him tied to a tree, flogged, shot full of arrows, and beheaded. Edmund was proclaimed a martyr almost immediately; his cult centred on Bury St Edmunds, named for him. Pope John XV canonized him in 995; he was venerated as patron saint of England before St. George. His martyrdom is the most complete documentation of a Viking execution of a Christian king in the historical record.",
+      "description_ru": "В 869 году король Восточной Англии Эдмунд был захвачен Великой языческой армией и казнён, отказавшись разделить своё королевство с Иваром Бескостным или отречься от христианства. Источники описывают его привязанным к дереву, выпоротым, утыканным стрелами и обезглавленным. Эдмунд был почти немедленно провозглашён мучеником; его культ сосредоточился в Бери-Сент-Эдмундс, названном в его честь. Папа Иоанн XV канонизировал его в 995 году; он почитался покровителем Англии до появления св. Георгия. Его мученичество — наиболее полная документация казни викингами христианского короля в исторических источниках.",
+      "source": "https://en.wikipedia.org/wiki/Edmund_the_Martyr",
+      "tags": [
+        "Norman",
+        "England",
+        "Edmund",
+        "Martyrdom",
+        "Great Heathen Army",
+        "Christianity"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "08.01.0871",
+      "era": "AD",
+      "latitude": 51.5,
+      "longitude": -1.4,
+      "name": "Battle of Ashdown — Alfred the Great's first victory against the Danish tide",
+      "name_ru": "Битва при Эшдауне — первая победа Альфреда Великого против датской волны",
+      "description": "At Ashdown in January 871, West Saxon forces under Alfred — his brother King Æthelred was still at prayer — defeated a Danish army, killing King Bagsecg and five earls: the first significant English victory over the Great Heathen Army. Æthelred died of wounds that year; Alfred became king and was reduced to guerrilla warfare from the Somerset marshes before defeating Guthrum at Edington in 878. Alfred the Great is the only English king styled the Great. His resistance to Danish conquest, administrative reforms, and law codification defined the survival of English identity under Norse military pressure.",
+      "description_ru": "В битве при Эшдауне в январе 871 года силы Уэссекса под командованием Альфреда — его брат-король Этельред ещё молился — разгромили датскую армию, убив конунга Бэгсека и пятерых ярлов: первая значимая английская победа над Великой языческой армией. Этельред скончался от ран в том же году; Альфред стал королём и был вынужден вести партизанскую войну из болот Сомерсета, прежде чем разгромить Гутрума при Эдингтоне в 878-м. Альфред Великий — единственный английский король, именуемый «Великим». Его сопротивление датскому завоеванию, реформы и кодификация законов определили выживание английской идентичности.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Ashdown",
+      "tags": [
+        "Norman",
+        "England",
+        "Alfred the Great",
+        "Battle",
+        "Ashdown",
+        "Danelaw"
+      ],
+      "type": "battle"
+    },
+    {
+      "date": "01.01.0872",
+      "era": "AD",
+      "latitude": 58.97,
+      "longitude": 5.73,
+      "name": "Battle of Hafrsfjord — Harald Fairhair unifies Norway",
+      "name_ru": "Битва при Хаврсфьорде — Харальд Прекрасноволосый объединяет Норвегию",
+      "description": "Around 872, Harald Fairhair (Hárfagri) defeated a coalition of Norwegian petty kings at the naval Battle of Hafrsfjord near Stavanger — completing the unification of Norway and becoming its first king. The precise date is debated between 872 and 900. Saga tradition frames the campaign romantically; the practical motivation was control of Norway's coastal trade. An indirect consequence: dispossessed Norwegian nobles rather than submit to Harald emigrated — to Iceland, Orkney, Faroe Islands, and Ireland — accelerating Atlantic settlement already underway. The Hafrsfjord victory is the political origin of the modern Kingdom of Norway.",
+      "description_ru": "Около 872 года Харальд Прекрасноволосый (Hárfagri) разгромил коалицию норвежских мелких конунгов в морской битве при Хаврсфьорде близ Ставангера — завершив объединение Норвегии и став её первым королём. Точная дата оспаривается — 872 или 900 год. Традиция саг обрамляет кампанию романтически; практическая мотивация — контроль над прибрежной торговлей Норвегии. Косвенное следствие: лишённые имущества норвежские знатные, нежелая подчиняться Харальду, эмигрировали в Исландию, Оркни, Фарерские острова и Ирландию, ускорив уже идущее атлантическое заселение. Битва при Хаврсфьорде — политический исток современного Королевства Норвегия.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Hafrsfjord",
+      "tags": [
+        "Norman",
+        "Norway",
+        "Harald Fairhair",
+        "Unification",
+        "Battle",
+        "Kingdom"
+      ],
+      "type": "battle"
+    },
+    {
+      "date": "01.01.0878",
+      "era": "AD",
+      "latitude": 51.23,
+      "longitude": -2.83,
+      "name": "Treaty of Wedmore — the Danelaw established, Norse vocabulary enters English forever",
+      "name_ru": "Договор в Уэдморе — установление Денло, норманнский язык входит в английский навсегда",
+      "description": "In May 878, Alfred defeated Guthrum at Edington after a desperate winter guerrilla campaign from the Somerset marshes. Guthrum accepted baptism — Alfred stood as godfather — and the Treaty of Wedmore divided England between a West Saxon south and the Danish-controlled Danelaw in north and east. The place-name evidence endures: hundreds of English settlements ending in -by, -thorpe, -thwaite, -toft are Norse in origin. Modern English carries Norse vocabulary throughout: window, husband, knife, skill, law, egg, sky — all Norse loans that entered through the Danelaw's bilingual population.",
+      "description_ru": "В мае 878 года Альфред разгромил Гутрума при Эдингтоне после отчаянной зимней партизанской кампании из болот Сомерсета. Гутрум принял крещение — Альфред стал крёстным отцом, — а договор в Уэдморе разделил Англию между западносаксонским югом и датским Денло на севере и востоке. Топонимические следы сохраняются: сотни английских поселений с окончаниями -by, -thorpe, -thwaite, -toft норманнского происхождения. Современный английский несёт норманнский словарный запас повсюду: window, husband, knife, skill, law, egg, sky — все заимствования из древнескандинавского, вошедшие через двуязычное население Денло.",
+      "source": "https://en.wikipedia.org/wiki/Treaty_of_Wedmore",
+      "tags": [
+        "Norman",
+        "England",
+        "Danelaw",
+        "Alfred the Great",
+        "Guthrum",
+        "Treaty"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0874",
+      "era": "AD",
+      "latitude": 64.15,
+      "longitude": -21.94,
+      "name": "Ingólfr Arnarson settles Iceland — the Norse Atlantic colony established",
+      "name_ru": "Ингольф Арнарссон заселяет Исландию — норманнская атлантическая колония основана",
+      "description": "Around 874, Ingólfr Arnarson and his blood-brother Hjörleifr sailed from Norway with household, livestock, and equipment and established the first permanent Norse settlement in Iceland. Ingólfr threw his high-seat pillars overboard as a ritual divination; his slaves found them washed ashore at a bay he named Reykjavík (Smoky Bay) for its geothermal steam. Hjörleifr was killed by Irish thralls in the first winter; Ingólfr killed the thralls and settled at Reykjavík. Iceland's settlement (landnám) is documented in the Landnámabók — recording names, genealogies, and landclaims of over 400 original settlers — a source without parallel in early medieval colonization history.",
+      "description_ru": "Около 874 года Ингольф Арнарссон и его побратим Хьёрлейф отплыли из Норвегии с домочадцами, скотом и снаряжением, основав первое постоянное норманнское поселение в Исландии. Ингольф бросил за борт столбы почётного сиденья как ритуальное гадание; его рабы нашли их у бухты, которую он назвал Рейкьявик (Дымная бухта) по геотермальным испарениям. Хьёрлейф был убит ирландскими рабами в первую зиму; Ингольф убил рабов и обосновался в Рейкьявике. Исландское заселение (ланднам) задокументировано в «Книге о заселении» — с именами, родословными и земельными претензиями более 400 первоначальных поселенцев — источник, не имеющий аналогов в истории раннесредневековой колонизации.",
+      "source": "https://en.wikipedia.org/wiki/Ing%C3%B3lfr_Arnarson",
+      "tags": [
+        "Norman",
+        "Iceland",
+        "Settlement",
+        "Ingólfr",
+        "Landnám",
+        "Reykjavik"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0885",
+      "era": "AD",
+      "latitude": 48.86,
+      "longitude": 2.35,
+      "name": "Great Siege of Paris 885–886 — the Norse assault that made a French dynasty",
+      "name_ru": "Великая осада Парижа 885–886 — норманнский штурм, создавший французскую династию",
+      "description": "In autumn 885, a Norse fleet besieged Paris for nearly a year. Count Odo of Paris and Bishop Goslin defended the bridges across the Seine with roughly 200 men — the bridges were the strategic target, blocking Norse access upstream. The garrison held. Emperor Charles the Fat eventually paid 700 pounds of silver and allowed the Norse to pass upstream to raid Burgundy. Charles was deposed in 888; Odo of Paris was elected king of France in his place. Odo's descendant Hugh Capet founded the Capetian dynasty — the men who held the bridges became the progenitors of French royalty.",
+      "description_ru": "Осенью 885 года норманнский флот осаждал Париж почти год. Граф Одо Парижский и епископ Гозлен защищали мосты через Сену примерно с 200 людьми — мосты были стратегической целью, блокировавшей норманнский доступ вверх по реке. Гарнизон их удержал. Император Карл Толстый выплатил 700 фунтов серебра и позволил норманнам пройти грабить Бургундию. Карл был свергнут в 888 году; Одо Парижский избран королём Франции вместо него. Потомок Одо Гуго Капет основал династию Капетингов — защитники мостов стали родоначальниками французской королевской власти.",
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Paris_(885%E2%80%93886)",
+      "tags": [
+        "Norman",
+        "France",
+        "Paris",
+        "Siege",
+        "Odo",
+        "Carolingian"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0911",
+      "era": "AD",
+      "latitude": 49.44,
+      "longitude": 1.1,
+      "name": "Treaty of Saint-Clair-sur-Epte — Rollo founds Normandy",
+      "name_ru": "Договор в Сен-Клер-сюр-Эпт — Роллон основывает Нормандию",
+      "description": "In 911, Frankish King Charles the Simple granted the Norse leader Rollo the territory around Rouen — the future Normandy — in exchange for baptism, homage, and defence of the Seine from other Norse raiders. Within two generations the Norse settlers adopted French as their language while retaining Norse legal traditions and martial culture. Normandy's Norse origin underpinned its eleventh-century achievement: William the Conqueror — Rollo's descendant — conquered England in 1066; other Normans took southern Italy, Sicily, and Crusader principalities. The entire Norman achievement of the eleventh century rests on the 911 land grant to a Viking warlord.",
+      "description_ru": "В 911 году франкский король Карл Простоватый пожаловал норманнскому вождю Роллону территорию вокруг Руана — будущую Нормандию — в обмен на крещение, оммаж и защиту Сены от других норманнских налётчиков. В течение двух поколений норманнские поселенцы приняли французский язык, сохранив норманнские правовые традиции и воинскую культуру. Норманнское происхождение Нормандии стало основой достижений XI века: Вильгельм Завоеватель — потомок Роллона — завоевал Англию в 1066-м; другие нормандцы взяли Южную Италию, Сицилию и государства крестоносцев. Всё нормандское достижение XI века покоится на земельном пожаловании 911 года викингскому военачальнику.",
+      "source": "https://en.wikipedia.org/wiki/Treaty_of_Saint-Clair-sur-Epte",
+      "tags": [
+        "Norman",
+        "Normandy",
+        "Rollo",
+        "France",
+        "Treaty",
+        "Duchy"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0930",
+      "era": "AD",
+      "latitude": 64.25,
+      "longitude": -20.22,
+      "name": "Althing founded at Þingvellir — the world's oldest continuing parliament",
+      "name_ru": "Альтинг основан в Тингведлире — древнейший действующий парламент мира",
+      "description": "In 930, Icelandic settlers established the Althing (Alþing) at Þingvellir — a broad lava plain with a natural rock face from which the law-speaker recited — as the national assembly of Iceland. Every free man could attend; 36 chieftains (goðar) collectively held legislative and judicial authority. The law-speaker, elected for three years, recited one-third of the legal code from memory each year. Iceland had no king; the Althing operated by consensus and the threat of outlawry. Modern Iceland's parliament retains the name Alþingi and claims continuous institutional descent from 930 — the world's oldest surviving parliament.",
+      "description_ru": "В 930 году исландские поселенцы учредили Альтинг (Alþing) в Тингведлире — на широкой лавовой равнине с естественной скальной стеной, с которой законоговоритель произносил законы нараспев — как национальное собрание Исландии. Любой свободный мужчина мог присутствовать; 36 вождей (годи) совместно осуществляли законодательную и судебную власть. Законоговоритель, избиравшийся на три года, ежегодно воспроизводил треть правового свода по памяти. В Исландии не было конунга; Альтинг функционировал на основе консенсуса и угрозы объявления вне закона. Современный парламент Исландии носит название Alþingi и претендует на непрерывную преемственность с 930 года — древнейший действующий парламент мира.",
+      "source": "https://en.wikipedia.org/wiki/Althing",
+      "tags": [
+        "Norman",
+        "Iceland",
+        "Althing",
+        "Parliament",
+        "Law",
+        "Democracy"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0935",
+      "era": "AD",
+      "latitude": 64.15,
+      "longitude": -21.94,
+      "name": "Egill Skallagrímsson — farmer, warrior, and the greatest Viking poet",
+      "name_ru": "Эгиль Скаллагримссон — земледелец, воин и величайший поэт викингов",
+      "description": "Egill Skallagrímsson — Icelandic farmer, raider, mercenary, and the greatest skald of the Viking Age — composed his first verse at three, killed his first man at six, fought for King Æthelstan at Brunanburh (937), and became the enemy of Norse York's king Eirik Bloodaxe. Captured in York, he composed the Höfuðlausn (Head-Ransom) overnight and recited it at dawn to secure his release. His Sonatorrek — written after the deaths of his sons — addresses Odin directly, demanding justice or war and receiving neither. It is among the most emotionally powerful elegies in any medieval language. The Egils saga is attributed to Snorri Sturluson.",
+      "description_ru": "Эгиль Скаллагримссон — исландский земледелец, налётчик, наёмник и величайший скальд эпохи викингов — сочинил первый стих в три года, убил первого человека в шесть, сражался за короля Этельстана при Брунанбурге (937) и стал врагом конунга норманнского Йорка Эйрика Кровавая Секира. Захваченный в Йорке, он сочинил «Выкуп головы» (Höfuðlausn) за ночь и прочитал его на рассвете, добившись освобождения. Его «Утрата сыновей» (Sonatorrek), написанная после гибели сыновей, напрямую обращается к Одину, требуя справедливости или войны и не получая ни того ни другого — одна из наиболее эмоционально мощных элегий на любом средневековом языке. «Сага об Эгиле» приписывается Снорри Стурлусону.",
+      "source": "https://en.wikipedia.org/wiki/Egill_Skallagr%C3%ADmsson",
+      "tags": [
+        "Norman",
+        "Iceland",
+        "Skald",
+        "Egill",
+        "Poetry",
+        "Culture",
+        "Warrior"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0960",
+      "era": "AD",
+      "latitude": 55.76,
+      "longitude": 9.42,
+      "name": "Harald Bluetooth converts Denmark — the Jelling Stone and birth certificate of Denmark",
+      "name_ru": "Харальд Синезубый крестит Данию — Еллингский камень и свидетельство о рождении Дании",
+      "description": "Around 960, Harald Bluetooth, King of Denmark, converted to Christianity — commemorated on the larger Jelling Stone: Harald who won for himself all Denmark and Norway and made the Danes Christians. The conversion was politically calculated: Harald needed Christian legitimacy to resist Holy Roman Empire pressure. The Jelling complex — two burial mounds, a church, and two runestones — is a UNESCO World Heritage Site and the most significant physical monument of the Viking Age. Harald was deposed and killed around 986 by his son Sweyn Forkbeard. The Bluetooth wireless protocol is named for Harald as a symbol of unifying communication standards.",
+      "description_ru": "Около 960 года Харальд Синезубый, король Дании, принял христианство — увековеченное на большом Еллингском камне: «Харальд, который завоевал для себя всю Данию и Норвегию и сделал датчан христианами». Обращение было политически просчитанным: Харальду требовалась христианская легитимность для противостояния давлению Священной Римской империи. Еллингский комплекс — два кургана, церковь и два рунических камня — объект Всемирного наследия ЮНЕСКО и наиболее значимый физический памятник эпохи викингов. Харальд был свергнут и убит около 986 года сыном Свейном Вилобородым. Беспроводной протокол Bluetooth назван в честь Харальда как символ объединения стандартов.",
+      "source": "https://en.wikipedia.org/wiki/Harald_Bluetooth",
+      "tags": [
+        "Norman",
+        "Denmark",
+        "Harald Bluetooth",
+        "Christianity",
+        "Jelling",
+        "Conversion"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.0982",
+      "era": "AD",
+      "latitude": 61.0,
+      "longitude": -45.0,
+      "name": "Erik the Red discovers and names Greenland",
+      "name_ru": "Эйрик Рыжий открывает и называет Гренландию",
+      "description": "In 982, Erik the Red — exiled from Iceland for three years following a manslaughter conviction — sailed west and discovered Greenland. He named it deliberately: he said the land would be more attractive to people if it had a good name. The name was not dishonest — the fjords of southwestern Greenland, warmed by the Irminger Current, support grass, birch scrub, and Norse farming. Erik explored the coastline for three years identifying habitable fjord systems before returning to Iceland. The Norse Greenland settlements he founded endured approximately five centuries before collapsing around 1408 under climate cooling and the southward advance of Thule Inuit.",
+      "description_ru": "В 982 году Эйрик Рыжий — изгнанный из Исландии на три года по приговору за убийство — отплыл на запад и открыл Гренландию. Он назвал её намеренно: «он сказал, что земля будет притягательнее для людей, если у неё будет хорошее имя». Название не было ложным — фьорды юго-западной Гренландии, согретые Ирмингерским течением, поддерживают траву, берёзовый кустарник и норманнское земледелие. Эйрик исследовал береговую линию три года, выявляя пригодные для жизни фьорды, прежде чем вернуться в Исландию. Основанные им поселения просуществовали около пяти столетий, рухнув около 1408 года под похолодание климата и натиск народа Туле с севера.",
+      "source": "https://en.wikipedia.org/wiki/Erik_the_Red",
+      "tags": [
+        "Norman",
+        "Greenland",
+        "Erik the Red",
+        "Discovery",
+        "Exploration",
+        "Atlantic"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0985",
+      "era": "AD",
+      "latitude": 61.0,
+      "longitude": -45.0,
+      "name": "Greenland colonized — westernmost Norse settlement at the edge of the world",
+      "name_ru": "Гренландия заселена — крайнее западное норманнское поселение на краю света",
+      "description": "In 985–986, Erik the Red led a colonizing fleet from Iceland establishing the Eastern Settlement (Eystribyggð) and Western Settlement (Vestribyggð) in Greenland's southwestern fjords. At their eleventh-century peak the colonies held 3,000–5,000 people in roughly 400 farms. Walrus ivory — the primary export — was the main European source of ivory for church sculpture and decorative arts before African elephant ivory supply expanded in the thirteenth century. Twelve stone churches survive archaeologically in the Eastern Settlement. The colonies are the westernmost permanent European occupation of the pre-Columbian era and the departure point for the voyage to North America.",
+      "description_ru": "В 985–986 годах Эйрик Рыжий возглавил колонизационный флот из Исландии, основав Восточное поселение (Eystribyggð) и Западное поселение (Vestribyggð) в юго-западных фьордах Гренландии. На пике в XI веке колонии насчитывали 3000–5000 человек примерно в 400 хозяйствах. Моржовый бивень — главный экспортный товар — был основным европейским источником кости для церковной скульптуры и декоративных искусств до расширения торговли африканской слоновой костью в XIII веке. Двенадцать каменных церквей сохранились археологически в Восточном поселении. Колонии — наиболее западная постоянная европейская оккупация доколумбовой эпохи и точка отправления к Северной Америке.",
+      "source": "https://en.wikipedia.org/wiki/Norse_colonization_of_the_Americas",
+      "tags": [
+        "Norman",
+        "Greenland",
+        "Erik the Red",
+        "Settlement",
+        "Colony",
+        "Atlantic"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0995",
+      "era": "AD",
+      "latitude": 59.91,
+      "longitude": 10.75,
+      "name": "Olaf Tryggvason — Norway's Christianization by sword and fire",
+      "name_ru": "Олаф Трюггвасон — христианизация Норвегии огнём и мечом",
+      "description": "Olaf Tryggvason became King of Norway in 995 and imposed Christianity with military consistency: chieftains who refused baptism were killed, mutilated, or exiled; pagan temples were destroyed; priests installed by royal command. He extended the programme to Iceland, Greenland, Faroe Islands, and Orkney — Christianizing the entire Norse Atlantic world. His methods were brutal enough that Norwegian tradition preserves ambivalent memories. He died at the Battle of Svöldr in 1000 fighting a Danish-Swedish coalition. The Christianity he compelled was permanent: Norway never reverted to paganism after Olaf Tryggvason, though integration of Christian forms with Norse pre-Christian culture took generations.",
+      "description_ru": "Олаф Трюггвасон стал королём Норвегии в 995 году и насаждал христианство с последовательностью военной кампании: вождей, отказывавших в крещении, убивали, калечили или изгоняли; языческие храмы уничтожались; священники назначались по королевскому приказу. Он распространил программу на Исландию, Гренландию, Фарерские острова и Оркни — христианизируя весь норманнский атлантический мир. Его методы были достаточно жестоки, чтобы норвежская традиция сохраняла о нём двойственную память. Он погиб в битве при Свёльде в 1000 году. Насаждённое им христианство было необратимым: Норвегия никогда не вернулась к язычеству после Олафа Трюггвасона.",
+      "source": "https://en.wikipedia.org/wiki/Olaf_Tryggvason",
+      "tags": [
+        "Norman",
+        "Norway",
+        "Olaf Tryggvason",
+        "Christianity",
+        "Conversion",
+        "Religion"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.1000",
+      "era": "AD",
+      "latitude": 64.25,
+      "longitude": -20.22,
+      "name": "Iceland adopts Christianity — Þorgeirr's peaceful conversion at the Althing",
+      "name_ru": "Исландия принимает христианство — мирное обращение Торгейра на Альтинге",
+      "description": "The Althing of 999 or 1000 adopted Christianity as Iceland's official religion by consensus. The law-speaker Þorgeirr Ljósvetningagoði — himself a pagan — was appointed to arbitrate between the factions. He withdrew under his cloak for a day and a night, then announced that Iceland would be Christian, while private pagan practice, consumption of horse meat, and infant exposure would remain permitted. The decision averted civil conflict through legal compromise — the most peaceful and legally sophisticated conversion of any Viking Age society, achieved through the existing Althing institution rather than royal compulsion, reflecting Iceland's distinctive political culture of law over force.",
+      "description_ru": "Альтинг 999 или 1000 года принял христианство в качестве официальной религии Исландии путём консенсуса. Законоговоритель Торгейр Льёсветнингагоди — сам язычник — был назначен арбитром между фракциями. Он удалился под плащ на день и ночь, затем объявил, что Исландия будет христианской, тогда как частные языческие обряды, употребление конины и подкидывание младенцев останутся дозволенными. Решение предотвратило гражданский конфликт через правовой компромисс — наиболее мирное и юридически изощрённое обращение любого общества эпохи викингов, достигнутое через Альтинг, а не через королевское принуждение, — отражение самобытной исландской политической культуры, ставящей закон выше силы.",
+      "source": "https://en.wikipedia.org/wiki/Christianization_of_Iceland",
+      "tags": [
+        "Norman",
+        "Iceland",
+        "Christianity",
+        "Althing",
+        "Conversion",
+        "Law"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.1001",
+      "era": "AD",
+      "latitude": 51.6,
+      "longitude": -55.52,
+      "name": "Leif Erikson reaches Vinland — the Norse discovery of North America",
+      "name_ru": "Лейф Эрикссон достигает Винланда — норманнское открытие Северной Америки",
+      "description": "Around 1000, Leif Erikson — son of Erik the Red, departing from Greenland — sailed west and landed on a coastline he called Vínland (Wineland), almost certainly the northern tip of Newfoundland. L'Anse aux Meadows, excavated from 1961 by Helge and Anne Stine Ingstad, preserves the only confirmed Norse settlement in North America: eight turf buildings, iron-working slag, a Norse bronze cloak pin, and butternuts (a species growing no farther north than New Brunswick). Leif's voyage preceded Columbus's Caribbean landing by 492 years. The Norse discovery had no lasting demographic consequences. L'Anse aux Meadows is a UNESCO World Heritage Site.",
+      "description_ru": "Около 1000 года Лейф Эрикссон — сын Эйрика Рыжего, отплывший из Гренландии — высадился на берегу, который назвал Винланд (Страна вина), почти наверняка на северной оконечности Ньюфаундленда. Л'Анс-о-Медоуз, раскопанный с 1961 года Хельге и Анне-Стине Ингстад, — единственное подтверждённое норманнское поселение в Северной Америке: восемь торфяных строений, железообрабатывающий шлак, норманнская бронзовая застёжка плаща и орехи масличного ореха (не растущего севернее Нью-Брансуика). Плавание Лейфа предшествовало высадке Колумба на 492 года. Норманнское открытие не имело долгосрочных демографических последствий. Л'Анс-о-Медоуз — объект Всемирного наследия ЮНЕСКО.",
+      "source": "https://en.wikipedia.org/wiki/Leif_Erikson",
+      "tags": [
+        "Norman",
+        "Vinland",
+        "Leif Erikson",
+        "North America",
+        "Exploration",
+        "Discovery"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "09.09.1000",
+      "era": "AD",
+      "latitude": 54.61,
+      "longitude": 9.87,
+      "name": "Battle of Svöldr — Olaf Tryggvason leaps overboard rather than be taken",
+      "name_ru": "Битва при Свёльде — Олаф Трюггвасон прыгает за борт, лишь бы не попасть в плен",
+      "description": "On September 9, 1000, Olaf Tryggvason was defeated and killed at the naval Battle of Svöldr — somewhere in the Baltic — by a coalition of Sweyn Forkbeard of Denmark, King Olaf of Sweden, and Norwegian Earl Eirik Hákonarson. Olaf's fleet of eleven ships was surrounded and boarded; he jumped overboard rather than surrender, his body never recovered. The battle ended the political structure Olaf had assembled and restored Danish-Norwegian balance. Svöldr is celebrated in multiple skaldic poems; Olaf's death by voluntary drowning rather than capture is the most celebrated single act of Norse warrior honour in the historical record.",
+      "description_ru": "9 сентября 1000 года Олаф Трюггвасон был разгромлен и погиб в морской битве при Свёльде — где-то в Балтийском море — под ударами коалиции Свейна Вилобородого, короля Швеции Олафа и норвежского ярла Эйрика Хаконарссона. Флот Олафа из одиннадцати кораблей был окружён и взят на абордаж; он прыгнул за борт, лишь бы не сдаться, — тело так и не нашли. Битва завершила политическую структуру, собранную Олафом, и восстановила датско-норвежский баланс. Свёльд воспет во многих скальдических поэмах; добровольное утопление Олафа — наиболее прославленный акт норманнской воинской чести в исторических источниках.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Svolder",
+      "tags": [
+        "Norman",
+        "Norway",
+        "Denmark",
+        "Olaf Tryggvason",
+        "Battle",
+        "Sea Battle"
+      ],
+      "type": "battle"
+    },
+    {
+      "date": "13.11.1002",
+      "era": "AD",
+      "latitude": 51.75,
+      "longitude": -1.25,
+      "name": "St. Brice's Day Massacre — Æthelred's fateful order that caused the conquest of England",
+      "name_ru": "Резня в день св. Брикция — роковой приказ Этельреда, повлёкший завоевание Англии",
+      "description": "On November 13, 1002, King Æthelred II ordered the killing of all Danes living in England in response to intelligence of a Danish plot against his life. In Oxford, Danes who took refuge in St. Frideswide's church were burned alive inside it. Among the dead was Gunhild, sister of Sweyn Forkbeard, King of Denmark. Sweyn's response was the systematic conquest of England across the next decade, ending with England accepting him as king in 1013. Æthelred triggered the very conquest he had been paying Danegeld to prevent. His epithet Unready renders Unræd — ill-counselled — a pun on his name Æthelred, noble counsel.",
+      "description_ru": "13 ноября 1002 года король Этельред II приказал убить всех датчан в Англии в ответ на разведывательные данные о заговоре. В Оксфорде датчане, укрывшиеся в церкви св. Фридесвиды, были сожжены заживо внутри неё. Среди жертв оказалась Гунхильд, сестра Свейна Вилобородого. Ответом Свейна стало систематическое завоевание Англии, завершившееся принятием его королём в 1013 году. Этельред спровоцировал именно то завоевание, которое пытался предотвратить данегельдом. Прозвище «Неразумный» передаёт Unræd — «дурно посоветованный» — игра слов с его именем Æthelred, «благородный совет».",
+      "source": "https://en.wikipedia.org/wiki/St._Brice%27s_Day_massacre",
+      "tags": [
+        "Norman",
+        "England",
+        "Massacre",
+        "Æthelred",
+        "Denmark",
+        "Danes"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1004",
+      "era": "AD",
+      "latitude": 51.6,
+      "longitude": -55.52,
+      "name": "Thorvald Erikson in Vinland — the first European killed by indigenous Americans",
+      "name_ru": "Торвальд Эрикссон в Винланде — первый европеец, убитый коренными американцами",
+      "description": "Around 1004, Thorvald Erikson — Leif's brother — led the second Norse expedition to Vinland, spending two winters on the Newfoundland coast. On the second summer, his men killed a group of Skrælings (indigenous people) sleeping under their canoes. The Skrælings returned in force; Thorvald was struck by an arrow under his armpit — through a gap in his armour — and killed. His crew buried him on a Vinland headland as he requested and returned to Greenland. Thorvald Erikson is the first documented European killed in combat by indigenous Americans.",
+      "description_ru": "Около 1004 года Торвальд Эрикссон — брат Лейфа — возглавил вторую норманнскую экспедицию в Винланд, проведя две зимы на ньюфаундлендском побережье. Во второе лето его люди убили группу скрелингов (коренного населения), спавших под лодками. Скрелинги вернулись большими силами; Торвальд был поражён стрелой под подмышку — в зазор в доспехе — и погиб. Его команда похоронила его на мысу по его просьбе и вернулась в Гренландию. Торвальд Эрикссон — первый задокументированный европеец, убитый в бою коренными американцами.",
+      "source": "https://en.wikipedia.org/wiki/Thorvald_Eiriksson",
+      "tags": [
+        "Norman",
+        "Vinland",
+        "Thorvald",
+        "North America",
+        "Skrælings",
+        "Exploration"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1010",
+      "era": "AD",
+      "latitude": 51.6,
+      "longitude": -55.52,
+      "name": "Thorfinn Karlsefni's Vinland colony — the largest Norse attempt to settle North America",
+      "name_ru": "Винландская колония Торфинна Карлсефни — крупнейшая норманнская попытка заселить Северную Америку",
+      "description": "Around 1010, Thorfinn Karlsefni led the largest Norse attempt to establish a permanent Vinland colony: approximately 160 settlers with livestock, including Snorri Þorfinnsson — the first European child born in North America. The settlement lasted two or three years before sustained Skræling hostility forced withdrawal. The Norse had no immunity advantage over the indigenous population, no disease differential, and no demographic mass to sustain a prolonged conflict. Thorfinn returned to Iceland and died wealthy. His story, preserved in the Saga of the Greenlanders and Eirik's Saga, provides the primary narrative source for Norse Vinland activity.",
+      "description_ru": "Около 1010 года Торфинн Карлсефни возглавил крупнейшую норманнскую попытку основать постоянную Винландскую колонию: примерно 160 поселенцев со скотом, включая Снорри Торфиннссона — первого европейского ребёнка, рождённого в Северной Америке. Поселение просуществовало два-три года, прежде чем устойчивая враждебность скрелингов вынудила к отступлению. У норманнов не было иммунного преимущества перед коренным населением, разницы в переносе болезней и демографической массы для поддержания конфликта. Торфинн вернулся в Исландию и умер зажиточным. Его история, сохранённая в «Саге о гренландцах» и «Саге об Эйрике», — основной нарративный источник по норманнской деятельности в Винланде.",
+      "source": "https://en.wikipedia.org/wiki/Thorfinn_Karlsefni",
+      "tags": [
+        "Norman",
+        "Vinland",
+        "Thorfinn Karlsefni",
+        "North America",
+        "Colony",
+        "Exploration"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1013",
+      "era": "AD",
+      "latitude": 53.4,
+      "longitude": -0.77,
+      "name": "Sweyn Forkbeard conquers England — Denmark becomes master of the English throne",
+      "name_ru": "Свейн Вилобородый завоёвывает Англию — Дания становится хозяйкой английского трона",
+      "description": "In 1013, Sweyn Forkbeard, King of Denmark, led the systematic conquest of England — partly in revenge for the St. Brice's Day Massacre, partly continuing the logic of extracting wealth from a kingdom that had been paying Danegeld for twenty years. Within months nearly all of England submitted; Æthelred fled to Normandy. Sweyn became the first Danish king of all England. He died five weeks after the submission of London in February 1014, before coronation. His son Cnut then fought a two-year war against Edmund Ironside, ending with England partitioned and then unified under Cnut in 1016.",
+      "description_ru": "В 1013 году Свейн Вилобородый, король Дании, предпринял систематическое завоевание Англии — отчасти в отмщение за резню в день св. Брикция, отчасти продолжая логику выкачивания богатств из королевства, двадцать лет выплачивавшего данегельд. В течение нескольких месяцев почти вся Англия покорилась; Этельред бежал в Нормандию. Свейн стал первым датским королём всей Англии. Он умер через пять недель после покорения Лондона в феврале 1014 года, так и не будучи коронован. Его сын Кнут затем вёл двухлетнюю войну против Эдмунда Железнобокого, завершившуюся объединением Англии под властью Кнута в 1016 году.",
+      "source": "https://en.wikipedia.org/wiki/Sweyn_Forkbeard",
+      "tags": [
+        "Norman",
+        "England",
+        "Denmark",
+        "Sweyn Forkbeard",
+        "Conquest",
+        "Danegeld"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "23.04.1014",
+      "era": "AD",
+      "latitude": 53.36,
+      "longitude": -6.19,
+      "name": "Battle of Clontarf — the end of Norse territorial ambition in Ireland",
+      "name_ru": "Битва при Клонтарфе — конец норманнских территориальных притязаний в Ирландии",
+      "description": "On Good Friday 1014, High King Brian Boru defeated the Dublin Norse under King Sigtrygg Silkbeard and their Leinster allies at Clontarf outside Dublin. Brian was killed in his tent by a fleeing Norse warrior after the battle — making Clontarf simultaneously the greatest Irish military victory over the Norse and the death of the man who won it. Norse Dublin survived as a commercial city under Hiberno-Norse rulers until the Anglo-Norman invasion of 1169. Clontarf ended Norse territorial ambition in Ireland without expelling the Norse urban population whose commercial infrastructure shaped Irish coastal cities for generations.",
+      "description_ru": "В Страстную пятницу 1014 года Верховный король Ирландии Бриан Бору разгромил дублинских норманнов под командованием конунга Ситрика Шёлковая Борода и лейнстерских союзников при Клонтарфе под Дублином. Бриан был убит в шатре бегущим норманнским воином после битвы — что сделало Клонтарф одновременно величайшей ирландской победой над норманнами и смертью человека, её одержавшего. Норманнский Дублин пережил битву как торговый город под властью гибернонорманнских конунгов вплоть до англо-нормандского вторжения 1169 года. Клонтарф завершил норманнские территориальные притязания в Ирландии, не изгнав норманнского городского населения.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Clontarf",
+      "tags": [
+        "Norman",
+        "Ireland",
+        "Dublin",
+        "Brian Boru",
+        "Battle",
+        "Clontarf"
+      ],
+      "type": "battle"
+    },
+    {
+      "date": "01.01.1016",
+      "era": "AD",
+      "latitude": 51.5,
+      "longitude": -0.1,
+      "name": "Cnut the Great becomes King of England — Viking rule at its political zenith",
+      "name_ru": "Кнут Великий становится королём Англии — правление викингов на политическом пике",
+      "description": "In 1016, Cnut became King of England after the death of Edmund Ironside — with whom he had partitioned England — within months of their settlement. Cnut killed or exiled most of the English nobility, married Emma of Normandy (Æthelred's widow), and ruled England for nineteen years with remarkable legal competence, issuing law codes in the Anglo-Saxon tradition. English contemporaries described him as a good king. His reign ended the military phase of the Viking Age in England and began the assimilation of Danish lordship into English political culture. The famous episode of Cnut commanding the tide to halt was recorded as a demonstration of humility before God, not vanity.",
+      "description_ru": "В 1016 году Кнут стал королём Англии после смерти Эдмунда Железнобокого — с которым он разделил Англию — вскоре после их урегулирования. Кнут убил или изгнал большую часть английской знати, женился на Эмме Нормандской (вдове Этельреда) и правил Англией девятнадцать лет с замечательной правовой компетентностью, издавая законодательные своды в англосаксонской традиции. Современники-англичане описывали его как хорошего короля. Его правление завершило военную фазу эпохи викингов в Англии. Знаменитый эпизод с Кнутом, повелевающим морским волнам остановиться, записан как демонстрация смирения перед Богом, а не тщеславия.",
+      "source": "https://en.wikipedia.org/wiki/Cnut_the_Great",
+      "tags": [
+        "Norman",
+        "England",
+        "Denmark",
+        "Cnut",
+        "Kingdom",
+        "Viking Rule"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "26.03.1027",
+      "era": "AD",
+      "latitude": 41.9,
+      "longitude": 12.49,
+      "name": "Cnut's pilgrimage to Rome — Viking king at the summit of Christian Europe",
+      "name_ru": "Паломничество Кнута в Рим — конунг викингов на вершине христианской Европы",
+      "description": "In 1027, Cnut attended the coronation of Holy Roman Emperor Conrad II in Rome — the first Norse king to participate in an imperial coronation — demonstrating that a converted Viking ruler could operate at the summit of European Christian politics. He negotiated with Pope John XIX for reduced fees for English pilgrims and archbishops receiving their palliums in Rome, and wrote a public letter to his English subjects describing the journey. The letter is one of the earliest royal documents in English history and the first to use the language of Christian kingship: Cnut presents himself as a ruler accountable to God for his people's welfare.",
+      "description_ru": "В 1027 году Кнут присутствовал на коронации императора Священной Римской империи Конрада II в Риме — первый норманнский конунг, участвовавший в имперской коронации — продемонстрировав, что обращённый правитель-викинг способен действовать на вершине европейской христианской политики. Он договорился с папой Иоанном XIX о снижении сборов для английских паломников и написал своим английским подданным открытое письмо с описанием путешествия. Это письмо — один из древнейших королевских документов в истории Англии и первый, использующий язык христианского правления: Кнут представляет себя правителем, ответственным перед Богом за благополучие народа.",
+      "source": "https://en.wikipedia.org/wiki/Cnut_the_Great",
+      "tags": [
+        "Norman",
+        "England",
+        "Denmark",
+        "Cnut",
+        "Rome",
+        "Pilgrimage",
+        "Christianity"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.1028",
+      "era": "AD",
+      "latitude": 56.0,
+      "longitude": 10.0,
+      "name": "Cnut's North Sea Empire — the Viking Age at its greatest political extent",
+      "name_ru": "Северо-морская держава Кнута — эпоха викингов на пике политического охвата",
+      "description": "By 1028, Cnut controlled England, Denmark, and Norway — a North Sea empire making him the dominant political figure in northern Europe. He had driven Norwegian king Olaf Haraldsson into exile and installed his own son Sweyn as regent of Norway. The empire was a personal union held together by Cnut's authority rather than an integrated administrative state: it dissolved immediately after his death in 1035. No successor managed to reassemble it. Cnut's decade of North Sea hegemony was the closest the Viking Age came to a durable Norse political superstructure over the Atlantic and Baltic world.",
+      "description_ru": "К 1028 году Кнут контролировал Англию, Данию и Норвегию — Северо-морскую державу, сделавшую его доминирующей политической фигурой в Северной Европе. Он вынудил норвежского короля Олафа Харальдссона к эмиграции и поставил своего сына Свейна регентом Норвегии. Держава была личной унией, удерживаемой авторитетом Кнута, а не интегрированным административным государством: она немедленно распалась после его смерти в 1035 году. Ни одному преемнику не удалось воссоздать её. Десятилетие северо-морской гегемонии Кнута — наибольшее приближение эпохи викингов к устойчивой норманнской политической надстройке над атлантическим и балтийским миром.",
+      "source": "https://en.wikipedia.org/wiki/Cnut_the_Great",
+      "tags": [
+        "Norman",
+        "England",
+        "Denmark",
+        "Norway",
+        "Cnut",
+        "Empire",
+        "North Sea"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1015",
+      "era": "AD",
+      "latitude": 59.91,
+      "longitude": 10.75,
+      "name": "Olaf Haraldsson — St. Olaf and the completion of Norway's Christianization",
+      "name_ru": "Олаф Харальдссон — св. Олаф и завершение христианизации Норвегии",
+      "description": "Olaf Haraldsson became King of Norway in 1015 after years of raiding across England, Normandy, and Spain, having been baptized in Rouen around 1013. He Christianized Norway more systematically than Olaf Tryggvason — building churches, establishing episcopal organization, and codifying Christian law — using diplomacy alongside coercion. Driven from Norway by Cnut in 1028, he returned in 1030 and was killed at Stiklestad. He was canonized in 1031 — the fastest canonization in medieval Christian history — and became Norway's patron saint. His feast day, July 29 (Olsok), was the most important religious date in medieval Norway and the predecessor of the modern national day.",
+      "description_ru": "Олаф Харальдссон стал королём Норвегии в 1015 году после многолетних набегов по Англии, Нормандии и Испании, крестившись в Руане около 1013 года. Он христианизировал Норвегию систематичнее, чем Олаф Трюггвасон — строя церкви, формируя епископальную организацию и кодифицируя христианское право, применяя дипломатию наряду с принуждением. Изгнанный из Норвегии Кнутом в 1028 году, он вернулся в 1030-м и был убит при Стикластадире. Канонизирован в 1031 году — наиболее быстрая канонизация в средневековой христианской истории — и стал покровителем Норвегии. Его праздник, 29 июля (Олсок), был наиважнейшей религиозной датой в средневековой Норвегии и предшественником современного государственного праздника.",
+      "source": "https://en.wikipedia.org/wiki/Olaf_II_of_Norway",
+      "tags": [
+        "Norman",
+        "Norway",
+        "Olaf Haraldsson",
+        "St. Olaf",
+        "Christianity",
+        "Patron Saint"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "29.07.1030",
+      "era": "AD",
+      "latitude": 63.86,
+      "longitude": 11.55,
+      "name": "Battle of Stiklestad — St. Olaf dies, a military defeat becomes a national foundation",
+      "name_ru": "Битва при Стикластадире — гибель св. Олафа, военное поражение становится национальным основанием",
+      "description": "On July 29, 1030, Olaf Haraldsson returned from exile in Kievan Rus and was killed at the Battle of Stiklestad fighting Norwegian forces aligned with Cnut's regency — massively outnumbered. Miracles were reported at his tomb within weeks; he was canonized in 1031 — the fastest canonization in medieval Christian history. The cult of St. Olaf became the most powerful religious movement in medieval Norway, making Nidaros Cathedral (Trondheim) the primary pilgrimage destination of Scandinavia. July 29 is still Olsok, a national commemoration. His death transformed a military defeat into a permanent religious and national foundation.",
+      "description_ru": "29 июля 1030 года Олаф Харальдссон вернулся из изгнания в Киевской Руси и был убит в битве при Стикластадире в бою с норвежскими силами, перешедшими на сторону регентства Кнута — при значительном численном превосходстве противника. У его гробницы в течение нескольких недель стали сообщать о чудесах; он был канонизирован в 1031 году — наиболее быстрая канонизация в средневековой христианской истории. Культ св. Олафа стал наиболее мощным религиозным движением средневековой Норвегии, сделав Нидаросский собор (Тронхейм) главным местом паломничества Скандинавии. Его гибель превратила военное поражение в постоянный религиозный и национальный фундамент.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Stiklestad",
+      "tags": [
+        "Norman",
+        "Norway",
+        "Olaf Haraldsson",
+        "St. Olaf",
+        "Battle",
+        "Stiklestad",
+        "Christianity"
+      ],
+      "type": "battle"
+    },
+    {
+      "date": "12.11.1035",
+      "era": "AD",
+      "latitude": 51.06,
+      "longitude": -1.08,
+      "name": "Death of Cnut — the North Sea Empire dissolves, the Viking Age begins its end",
+      "name_ru": "Смерть Кнута — Северо-морская держава распадается, эпоха викингов клонится к концу",
+      "description": "Cnut died at Shaftesbury on November 12, 1035, aged approximately 40, leaving his North Sea Empire to sons who immediately began fighting over it. Harold Harefoot took England; Sweyn held Norway briefly before being expelled by Magnus of Norway; Harthacnut took Denmark. The empire dissolved within months. Harold died in 1040, Harthacnut in 1042 — childless — ending the Danish royal line in England. Edward the Confessor, son of Æthelred, was recalled from Normandy to restore the Anglo-Saxon line. His death without clear heir in 1066 triggered the succession crisis that would end the Viking Age at Stamford Bridge and Hastings.",
+      "description_ru": "Кнут умер в Шафтсбери 12 ноября 1035 года в возрасте примерно 40 лет, оставив Северо-морскую державу сыновьям, немедленно вступившим в борьбу за неё. Харальд Заячья Лапа взял Англию; Свейн ненадолго удержал Норвегию, прежде чем быть изгнанным Магнусом Норвежским; Хардакнут взял Данию. Держава распалась в течение нескольких месяцев. Харальд умер в 1040-м, Хардакнут в 1042-м — бездетными, — прекратив датскую королевскую линию в Англии. Эдуард Исповедник, сын Этельреда, был отозван из Нормандии для восстановления англосаксонской линии. Его смерть без чёткого наследника в 1066 году спровоцировала кризис преемства, завершивший эпоху викингов при Стамфорд-Бридже и Гастингсе.",
+      "source": "https://en.wikipedia.org/wiki/Cnut_the_Great",
+      "tags": [
+        "Norman",
+        "England",
+        "Denmark",
+        "Cnut",
+        "Empire",
+        "Death"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "25.09.1066",
+      "era": "AD",
+      "latitude": 53.97,
+      "longitude": -0.91,
+      "name": "Battle of Stamford Bridge — the last Viking invasion of England defeated",
+      "name_ru": "Битва при Стамфорд-Бридже — последнее вторжение викингов в Англию отражено",
+      "description": "On September 25, 1066, Harald Hardrada — King of Norway and claimant to the English throne — was defeated and killed at Stamford Bridge in Yorkshire by King Harold Godwinson. Harald was one of the most celebrated warriors in Europe; his death ended the Norwegian claim to England and removed the last figure capable of reviving the Norse North Sea empire. Harold Godwinson then force-marched his army south to meet William the Conqueror's Norman landing — 300 miles in four days — arriving at Hastings exhausted. Stamford Bridge is the conventional end date of the Viking Age.",
+      "description_ru": "25 сентября 1066 года Харальд Хардрада — король Норвегии и претендент на английский трон — был разгромлен и убит при Стамфорд-Бридже в Йоркшире королём Гарольдом Годвинссоном. Харальд был одним из наиболее прославленных воинов Европы; его гибель завершила норвежские притязания на Англию и устранила последнюю фигуру, способную возродить Северо-морскую державу. Гарольд Годвинссон затем совершил форсированный марш на юг навстречу нормандской высадке Вильгельма Завоевателя — 300 миль за четыре дня — прибыв к Гастингсу в состоянии истощения. Стамфорд-Бридж — общепринятая конечная дата эпохи викингов.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Stamford_Bridge",
+      "tags": [
+        "Norman",
+        "England",
+        "Norway",
+        "Harald Hardrada",
+        "Battle",
+        "Stamford Bridge"
+      ],
+      "type": "battle"
+    },
+    {
+      "date": "14.10.1066",
+      "era": "AD",
+      "latitude": 50.91,
+      "longitude": 0.57,
+      "name": "Battle of Hastings — Rollo's descendants conquer England",
+      "name_ru": "Битва при Гастингсе — потомки Роллона завоёвывают Англию",
+      "description": "On October 14, 1066, William, Duke of Normandy — descendant of the Norse Viking Rollo through five generations — defeated and killed King Harold at Hastings, conquering England. The Normans who won were Norse in origin but French in language, culture, and feudal organization. The conquest transformed English language (introducing approximately 10,000 French words still present in modern English), law, architecture, and social structure. William's Domesday Book (1086) remains the most comprehensive survey of any medieval European kingdom. The Norman Conquest is the last successful invasion of England — accomplished by descendants of the Vikings who had settled Normandy 155 years before.",
+      "description_ru": "14 октября 1066 года Вильгельм, герцог Нормандский — потомок норманнского викинга Роллона в пяти поколениях — разгромил и убил короля Гарольда при Гастингсе, завоевав Англию. Нормандцы, победившие при Гастингсе, были норманнского происхождения, но французскими по языку, культуре и феодальной организации. Завоевание преобразило английский язык (введя около 10 000 французских слов, по сей день присутствующих в современном английском), право, архитектуру и социальную структуру. «Книга Страшного суда» Вильгельма (1086) — наиболее полное исследование любого средневекового европейского королевства. Нормандское завоевание — последнее успешное вторжение в Англию, осуществлённое потомками викингов, заселивших Нормандию за 155 лет до того.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Hastings",
+      "tags": [
+        "Norman",
+        "England",
+        "Normandy",
+        "William the Conqueror",
+        "Battle",
+        "Hastings"
+      ],
+      "type": "battle"
+    }
+  ]
+}
