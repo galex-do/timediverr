@@ -135,6 +135,7 @@
         "Christian",
         "Execution",
         "Martyr",
+        "Religious",
         "Saint",
         "Apostle"
       ],
@@ -183,7 +184,8 @@
         "Execution",
         "Holy Site",
         "Jesus Christ 👤",
-        "Martyr"
+        "Martyr",
+        "Religious"
       ],
       "type": "historic"
     },
@@ -226,6 +228,7 @@
         "Execution",
         "Martyr",
         "Persecution",
+        "Religious",
         "Saint"
       ],
       "type": "religious"
@@ -269,6 +272,7 @@
         "Execution",
         "Martyr",
         "Persecution",
+        "Religious",
         "Saint",
         "Apostle"
       ],
@@ -336,6 +340,7 @@
         "Martyr",
         "Nero 👑",
         "Persecution",
+        "Religious",
         "Saint",
         "Tomb",
         "Apostle"
