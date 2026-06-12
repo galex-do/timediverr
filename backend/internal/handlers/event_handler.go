@@ -534,7 +534,6 @@ func (h *EventHandler) ImportEvents(w http.ResponseWriter, r *http.Request) {
                 "cultural":   true,
                 "religious":  true,
                 "scientific": true,
-                "battle":     true,
         }
 
         importedCount := 0

@@ -71,7 +71,7 @@
         "Saxon",
         "Battle"
       ],
-      "type": "battle"
+      "type": "military"
     },
     {
       "date": "02.02.0962",
@@ -269,7 +269,7 @@
         "Italian",
         "Battle"
       ],
-      "type": "battle"
+      "type": "military"
     },
     {
       "date": "25.06.1183",
@@ -377,7 +377,7 @@
         "Frankish",
         "Battle"
       ],
-      "type": "battle"
+      "type": "military"
     },
     {
       "date": "22.11.1220",
@@ -467,7 +467,7 @@
         "Mongolian",
         "Battle"
       ],
-      "type": "battle"
+      "type": "military"
     },
     {
       "date": "13.12.1250",
@@ -539,7 +539,7 @@
         "Habsburg",
         "Battle"
       ],
-      "type": "battle"
+      "type": "military"
     },
     {
       "date": "05.06.1288",
@@ -557,7 +557,7 @@
         "Battle",
         "Political"
       ],
-      "type": "battle"
+      "type": "military"
     },
     {
       "date": "01.05.1308",
@@ -593,7 +593,7 @@
         "Habsburg",
         "Battle"
       ],
-      "type": "battle"
+      "type": "military"
     },
     {
       "date": "28.09.1322",
@@ -611,7 +611,7 @@
         "Habsburg",
         "Battle"
       ],
-      "type": "battle"
+      "type": "military"
     },
     {
       "date": "01.01.1324",
@@ -773,7 +773,7 @@
         "Battle",
         "Religious"
       ],
-      "type": "battle"
+      "type": "military"
     },
     {
       "date": "14.08.1431",
@@ -791,7 +791,7 @@
         "Battle",
         "Crusade"
       ],
-      "type": "battle"
+      "type": "military"
     },
     {
       "date": "05.07.1436",
@@ -845,7 +845,7 @@
         "Habsburg",
         "Battle"
       ],
-      "type": "battle"
+      "type": "military"
     },
     {
       "date": "19.08.1477",

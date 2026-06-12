@@ -1,0 +1,1 @@
+- [Valid event lens types](valid-event-types.md) — only 6 types accepted: historic, political, military, cultural, religious, scientific. `battle` is invalid; use `military` for all battle events.
