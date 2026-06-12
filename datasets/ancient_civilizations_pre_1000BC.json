@@ -1676,7 +1676,7 @@
         "Egypt",
         "Canaanite",
         "Hyksos",
-        "Invasions",
+        "Invasion",
         "New Kingdom"
       ],
       "type": "military"
@@ -1764,7 +1764,7 @@
         "Hittite",
         "War",
         "Conquest",
-        "Plundering"
+        "Pillage"
       ],
       "type": "military"
     },
@@ -2094,7 +2094,7 @@
         "War",
         "Battle",
         "Innovation",
-        "Invasions",
+        "Invasion",
         "New Kingdom",
         "Tactics",
         "Thutmose III 👑",
@@ -2268,8 +2268,8 @@
         "Legend",
         "Canaanite",
         "Conquest",
-        "Religious",
-        "Turning Point"
+        "Milestone",
+        "Religious"
       ],
       "type": "historic"
     },
@@ -2626,7 +2626,7 @@
       "name": "Sea Peoples' First Raids",
       "name_ru": "Первые набеги народов моря",
       "tags": [
-        "Invasions",
+        "Invasion",
         "Mediterranean",
         "Mystery"
       ],
@@ -2776,7 +2776,8 @@
         "Colonization",
         "Fiji",
         "Lapita",
-        "Polynesia"
+        "Polynesia",
+        "Seamen"
       ],
       "type": "historic"
     },

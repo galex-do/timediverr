@@ -19,7 +19,7 @@
         "Christian",
         "Holy Site",
         "Jesus Christ 👤",
-        "Turning Point"
+        "Milestone"
       ],
       "type": "cultural"
     },
@@ -369,6 +369,26 @@
       "type": "cultural"
     },
     {
+      "date": "23.04.0303",
+      "description": "Saint George the Victorious is a Christian saint from Cappadocia who lived at the turn of the 3rd and 4th centuries. He is venerated by both Catholics and Orthodox Christians, and is also deeply respected in the Islamic tradition under the name al-Khidr.\n\nHe enlisted in the Roman army and, thanks to his intelligence, courage, and physical strength, quickly rose through the ranks. By the age of 20, he had become a thousand commander and praetorian guard under the Roman Emperor Diocletian. When Diocletian began a brutal persecution of Christians, George openly declared himself a Christian, distributed his property to the poor, and accused the emperor of injustice. He was subjected to horrific eight-day torture (breaking on the wheel, being buried in quicklime, and wearing iron boots with nails), but, according to his life, God healed him each time. Witnessing his steadfastness, many witnesses came to believe in Christ, including the emperor's wife, Alexandra.",
+      "description_ru": "Святой Георгий Победоносец — христианский святой родом из Каппадокии, живший на рубеже III и IV веков. Он почитается и католиками, и православными, а также глубоко уважаем в исламской традиции под именем аль-Хидр.\n\nОн поступил на службу в римскую армию и благодаря уму, храбрости и физической силе быстро продвинулся по службе. К 20 годам он стал тысяченачальником и преторианцем римского императора Диоклетиана. Когда Диоклетиан начал жестокие гонения на христиан, Георгий открыто объявил себя христианином, раздал свое имущество бедным и обвинил императора в несправедливости. Его подвергли ужасным восьмидневным пыткам (колесованию, засыпанию негашеной известью, железным сапогам с гвоздями), но, согласно житию, Бог каждый раз исцелял его. Видя его стойкость, в Христа поверило множество свидетелей, включая жену императора — Александру.",
+      "era": "AD",
+      "latitude": 38.72117754,
+      "longitude": 35.4893589,
+      "name": "The Martyr of St. George the Victorious",
+      "name_ru": "Мученичество Георгия Победоносца",
+      "source": "https://en.wikipedia.org/wiki/Saint_George",
+      "tags": [
+        "Greek",
+        "Roman",
+        "Legend",
+        "Christian",
+        "Martyr",
+        "Saint"
+      ],
+      "type": "religious"
+    },
+    {
       "date": "01.01.0306",
       "description": "Nicholas (Νικόλαος, 'victory of the people'), Bishop of Myra (Μύρα, modern Demre in Turkey) in the province of Lycia, is the historical figure behind the legend of Santa Claus. A 4th-century bishop of the early post-Constantinian church, he is one of the most venerated saints in both Eastern and Western Christianity, though the biographical details are largely drawn from hagiographical accounts written centuries after his death. The most famous tradition concerns his secret provision of dowries (bags of gold thrown through the window at night) to three daughters of an impoverished man to prevent their being sold into slavery — the origin of the three gold balls symbol associated with pawnbrokers, and of the tradition of gift-giving attributed to Saint Nicholas.\n\nNicholas is attested as participating in the Council of Nicaea (325 AD) in some later sources, though his name does not appear in the earliest conciliar lists. He died c. 343 AD and was buried in Myra; in 1087 his relics were transported by Italian sailors to Bari, where the Basilica di San Nicola was built to house them and became a major pilgrimage destination. The transformation of the historical Nicholas into the Dutch Sinterklaas and eventually the modern Santa Claus occurred through the interaction of medieval Catholic feast-day traditions with Dutch Reformation culture and 19th-century American popular literature.",
       "description_ru": "Николай (Νικόλαος, «победа народа»), епископ Миры (Μύρα, совр. Демре в Турции) в провинции Ликия, — историческая фигура, стоящая за легендой о Санта-Клаусе. Один из наиболее почитаемых святых в восточном и западном христианстве, хотя биографические подробности почерпнуты из агиографических источников, написанных столетия спустя. Самая известная традиция связана с тем, что он тайно передавал приданое (мешки с золотом, бросаемые в окно ночью) трем дочерям бедняка, чтобы предотвратить их продажу в рабство — отсюда и происхождение символа трех золотых шаров, связанного с ростовщиками, и традиции дарения подарков, приписываемой святому Николаю.\n\nВ 1087 году его мощи были перевезены итальянскими моряками в Бари, где для их хранения возвели базилику Сан-Никола, ставшую важным местом паломничества.",
@@ -384,6 +404,7 @@
         "Legend",
         "Christian",
         "Holy Site",
+        "Patron",
         "Saint"
       ],
       "type": "cultural"
@@ -425,6 +446,7 @@
         "British",
         "Christian",
         "Irish",
+        "Patron",
         "Religious",
         "Saint"
       ],
@@ -512,6 +534,7 @@
         "French",
         "Hundred Years",
         "Martyr",
+        "Patron",
         "Saint"
       ],
       "type": "military"

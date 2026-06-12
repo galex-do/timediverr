@@ -131,6 +131,7 @@
         "Holidays",
         "Holy Site",
         "Martyr",
+        "Patron",
         "Přemyslid",
         "Saint",
         "Slavic"
@@ -240,7 +241,7 @@
         "Christian",
         "Czech",
         "Expedition",
-        "Plundering",
+        "Pillage",
         "Polish",
         "Religious",
         "Slavic"
@@ -305,7 +306,6 @@
         "Czech",
         "Holy Roman Empire",
         "Kingdom",
-        "Přemysl Otakar I",
         "Přemyslid",
         "Slavic"
       ],
@@ -393,7 +393,6 @@
         "Mining",
         "Přemyslid",
         "Silver",
-        "Wenceslas II",
         "Slavic"
       ],
       "type": "scientific"

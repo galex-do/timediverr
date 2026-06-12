@@ -51,7 +51,6 @@
       "tags": [
         "Dynasty",
         "Legend",
-        "Gniezno",
         "Meritocracy",
         "Piast",
         "Polish",
@@ -74,7 +73,7 @@
         "King",
         "Capital",
         "Kingdom",
-        "Mieszko I",
+        "Mieszko I 👑",
         "Piast",
         "Polish"
       ],
@@ -93,7 +92,7 @@
       "tags": [
         "Adoption",
         "Christian",
-        "Mieszko I",
+        "Mieszko I 👑",
         "Piast",
         "Polish",
         "Religious",
@@ -134,7 +133,7 @@
       "tags": [
         "Diplomacy",
         "Christian",
-        "Mieszko I",
+        "Mieszko I 👑",
         "Piast",
         "Polish",
         "Pope",
@@ -155,7 +154,7 @@
       "tags": [
         "Currency",
         "Economic",
-        "Mieszko I",
+        "Mieszko I 👑",
         "Piast",
         "Polish",
         "Silver",
@@ -176,7 +175,7 @@
       "source": "https://en.wikipedia.org/wiki/Congress_of_Gniezno",
       "tags": [
         "Alliance",
-        "Bolesław I",
+        "Bolesław I 👑",
         "Christian",
         "Holy Roman Empire",
         "Holy Site",
@@ -199,7 +198,7 @@
       "source": "https://en.wikipedia.org/wiki/Five_Brothers_Martyrs",
       "tags": [
         "Italian",
-        "Bolesław I",
+        "Bolesław I 👑",
         "Christian",
         "Martyr",
         "Piast",
@@ -222,7 +221,7 @@
       "tags": [
         "War",
         "Diplomacy",
-        "Bolesław I",
+        "Bolesław I 👑",
         "Germanic",
         "Holy Roman Empire",
         "Peace",
@@ -245,8 +244,7 @@
       "source": "https://en.wikipedia.org/wiki/Boles%C5%82aw_I_the_Brave",
       "tags": [
         "King",
-        "Bolesław I",
-        "Milestone",
+        "Bolesław I 👑",
         "Piast",
         "Polish",
         "Slavic"
@@ -286,8 +284,8 @@
       "name_ru": "Казимир I Восстановитель переносит столицу в Краков",
       "source": "https://en.wikipedia.org/wiki/Casimir_I_the_Restorer",
       "tags": [
+        "Dynasty",
         "Capital",
-        "Casimir I",
         "Piast",
         "Polish",
         "Slavic"
@@ -331,7 +329,7 @@
       "source": "https://en.wikipedia.org/wiki/Boles%C5%82aw_II_the_Bold",
       "tags": [
         "King",
-        "Bolesław II",
+        "Bolesław II 👑",
         "Piast",
         "Polish",
         "Pope",
@@ -350,7 +348,7 @@
       "name_ru": "Убийство епископа Станислава в Польше",
       "source": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_of_Szczep%C3%B3w",
       "tags": [
-        "Bolesław II",
+        "Bolesław II 👑",
         "Christian",
         "Crisis",
         "Martyr",
@@ -364,23 +362,22 @@
     },
     {
       "date": "24.08.1109",
-      "description": "In August 1109, Holy Roman Emperor Henry V invaded Poland to enforce the claims of Zbigniew, the exiled half-brother of Duke Bolesław III Wrymouth. The campaign ended in Polish victory: the German army failed to take Głogów — whose garrison reportedly tied children to the walls to deter assault — and was defeated at Hundsfeld near Wrocław on August 24. Henry V withdrew after his supply lines collapsed in autumn. Poland's western frontier was stabilized and Henry abandoned Zbigniew's cause; Bolesław III subsequently blinded and killed his half-brother, removing the pretext for future German intervention. In Polish historical memory Hundsfeld became a founding myth of national self-defense against the empire — the moment a unified Polish force held the natural frontier of the Oder-Nysa system. Gallus Anonymus, composing his chronicle within years of the battle, used the campaign as the rhetorical climax of the Piast achievement, framing it as proof that the Polish state had reached full defensive maturity.",
-      "description_ru": "В августе 1109 года император Генрих V вторгся в Польшу, чтобы отстоять права Збигнева — изгнанного сводного брата герцога Болеслава III Кривоустого. Поход завершился польской победой: немецкой армии не удалось взять Глогув — защитники которого, по преданию, привязали детей к стенам, — 24 августа она была разбита под Хундсфельдом близ Вроцлава и отступила. Западная граница Польши была стабилизирована; Болеслав III впоследствии ослепил и убил сводного брата, устранив повод для будущего германского вмешательства. В польской исторической памяти Хундсфельд стал основополагающим мифом национальной самообороны против империи — моментом, когда объединённое польское войско удержало рубеж по Одеру и Нейсе. Галл Аноним, составлявший хронику в годы, последовавшие за битвой, использовал этот поход как риторическую кульминацию пястовских достижений.",
+      "description": "Emperor Henry V invaded Poland to defend the rights of Zbigniew, the exiled half-brother of Duke Bolesław III Wrymouth. The campaign ended in a Polish victory: the German army failed to take Głogów—whose defenders, according to legend, tied children to the walls—and was defeated at Hundsfeld near Wrocław on August 24 and retreated. Poland's western border was stabilized; Bolesław III subsequently blinded and killed his half-brother, removing the pretext for future German intervention.\n\nIn Polish historical memory, Hundsfeld became the founding myth of national self-defense against the empire—the moment when a united Polish army held the line along the Oder and Neisse. Gallus Anonymus, who compiled a chronicle in the years following the battle, used the campaign as a rhetorical culmination of Piast achievements.",
+      "description_ru": "Император Генрих V вторгся в Польшу, чтобы отстоять права Збигнева — изгнанного сводного брата герцога Болеслава III Кривоустого. Поход завершился польской победой: немецкой армии не удалось взять Глогув — защитники которого, по преданию, привязали детей к стенам, — 24 августа она была разбита под Хундсфельдом близ Вроцлава и отступила. Западная граница Польши была стабилизирована; Болеслав III впоследствии ослепил и убил сводного брата, устранив повод для будущего германского вмешательства. \n\nВ польской исторической памяти Хундсфельд стал основополагающим мифом национальной самообороны против империи — моментом, когда объединённое польское войско удержало рубеж по Одеру и Нейсе. Галл Аноним, составлявший хронику в годы, последовавшие за битвой, использовал этот поход как риторическую кульминацию пястовских достижений.",
       "era": "AD",
       "latitude": 51.1,
       "longitude": 17.03,
-      "name": "Battle of Hundsfeld — Bolesław III repels Henry V",
-      "name_ru": "Битва при Хундсфельде — Болеслав III отражает Генриха V",
+      "name": "Battle of Hundsfeld",
+      "name_ru": "Битва при Хундсфельде",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Hundsfeld",
       "tags": [
+        "War",
         "Battle",
-        "Bolesław III",
-        "Defense",
         "Holy Roman Empire",
         "Piast",
         "Polish"
       ],
-      "type": "battle"
+      "type": "military"
     },
     {
       "date": "01.01.1112",

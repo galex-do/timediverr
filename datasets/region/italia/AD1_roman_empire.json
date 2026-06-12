@@ -170,8 +170,8 @@
       "description": "In 43 AD, Emperor Claudius dispatches four legions under Aulus Plautius to invade Britain. Within weeks the Romans cross the Thames and Claudius himself briefly visits to accept the submission of eleven British kings in person. The conquest of southern Britain creates the province of Britannia and opens a resource-rich territory to Roman commerce, culture, and infrastructure (Londinium is founded shortly after). Britain will remain a Roman province for nearly four centuries and the cultural encounter between Roman and Celtic civilisations will leave permanent marks on British language, law, and urban geography.",
       "description_ru": "В 43 г. н. э. император Клавдий направляет четыре легиона под командованием Авла Плавция для вторжения в Британию. В течение нескольких недель римляне форсируют Темзу, а сам Клавдий ненадолго прибывает, чтобы лично принять подчинение одиннадцати британских царей. Завоевание южной Британии создаёт провинцию Британния; вскоре основывается Лондиний. Британия останется римской провинцией почти четыре столетия.",
       "era": "AD",
-      "latitude": 51.51,
-      "longitude": -0.09,
+      "latitude": 51.51557645,
+      "longitude": -0.09208024,
       "name": "Rome Invades Britain",
       "name_ru": "Рим вторгается в Британию ",
       "source": "https://en.wikipedia.org/wiki/Roman_conquest_of_Britain",
@@ -181,6 +181,83 @@
         "Britain",
         "Conquest",
         "Expansion"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.03.0043",
+      "description": "Immediately after his invasion of Britain, Emperor Claudius captured the Celtic settlement of Camulodunum. On its site, legionaries built the first fortified military camp in Britain. As Roman troops advanced further west, the fortress was converted into an official settlement for retired veteran soldiers. The city was named Colonia Claudia Victricensis (although the old name Camulodunum continued to be used), and it became the very first capital of the Roman province of Britannia.",
+      "description_ru": "Сразу после вторжения в Британию император Клавдий захватил кельтское поселение Камулодунон. На его месте легионеры построили первый в Британии укрепленный военный лагерь. Когда римские войска продвинулись дальше на запад, крепость преобразовали в официальное поселение для отставных солдат-ветеранов. Город назвали Colonia Claudia Victricensis (хотя старое название Камулодунум также продолжали использовать), и он стал самой первой столицей римской провинции Британия",
+      "era": "AD",
+      "latitude": 51.883518,
+      "longitude": 0.89904428,
+      "name": "The Roman fortress of Camulodunum in Britain",
+      "name_ru": "Римская крепость Камулодунум в Британии",
+      "source": "https://en.wikipedia.org/wiki/Camulodunum",
+      "tags": [
+        "Roman",
+        "Celtic",
+        "War",
+        "British",
+        "Conquest",
+        "Fortification"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.06.0043",
+      "description": "The Celtic tribes, the Iceni, having assessed the strength of the Roman legions, voluntarily enter into an alliance with Rome, recognizing its supreme authority, but retaining their autonomy, their lands and their own kings. The kingdom became a \"client\" (buffer) state in eastern Britain",
+      "description_ru": "Кельтские племена, ицены, оценив силу римских легионов, добровольно заключают союз с Римом, признавая его верховную власть, но сохраняя автономию, свои земли и собственных царей. Королевство становится «клиентским» (буферным) государством на востоке Британии.",
+      "era": "AD",
+      "latitude": 52.41121554,
+      "longitude": 0.75382948,
+      "name": "The Iceni form an alliance with Rome",
+      "name_ru": "Ицены заключают союз с Римом",
+      "source": "https://en.wikipedia.org/wiki/Iceni",
+      "tags": [
+        "Roman",
+        "Celtic",
+        "Alliance",
+        "British",
+        "Expansion",
+        "Tribal"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0047",
+      "description": "The Romans chose a site on the Thames where the riverbed was narrow enough to build a bridge but deep enough for large merchant ships to enter. The city was initially built as a trading port. It developed so rapidly that by the end of the century, it had replaced Colchester (Camulodunum) and become the official capital of the province of Britannia. On the site of today's London Bridge, the Romans built the first wooden crossing, which also gave a powerful boost to trade.",
+      "description_ru": "Римляне выбрали место на Темзе, где русло было достаточно узким для строительства моста, но достаточно глубоким для захода крупных торговых кораблей. Изначально город строился как торговый порт. Он развивался так стремительно, что уже к концу века заменил Колчестер (Camulodunum) и стал официальной столицей провинции Британия. На месте современного Лондонского моста (London Bridge) римляне возвели первую деревянную переправу, которая также дала мощный толчок развитию торговли.",
+      "era": "AD",
+      "latitude": 51.51557645,
+      "longitude": -0.09208024,
+      "name": "The founding of Roman Londinium",
+      "name_ru": "Основание римского Лондиниума",
+      "source": "https://en.wikipedia.org/wiki/Londinium",
+      "tags": [
+        "Roman",
+        "City",
+        "British",
+        "Expansion",
+        "Trade"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0047",
+      "description": "The new Roman governor, Publius Ostorius Scapula, orders the disarmament of all British tribes in the territories under his control, including allies. The Iceni perceive this as an insult and a violation of the treaty. They revolt, but their hastily assembled militia is defeated by the disciplined legions. The Romans pardon the Iceni but severely limit their autonomy. King Prasutagus, Boudicca's future husband, assumes power (presumably as a Roman protégé).",
+      "description_ru": "Новый римский наместник Публий Осторий Скапула приказывает разоружить все бриттские племена на подконтрольных территориях, включая союзников. Ицены воспринимают это как оскорбление и нарушение договора. Они поднимают восстание, но их наспех собранное ополчение терпит поражение от дисциплинированных легионов. Римляне прощают иценов, но жестко ограничивают их автономию. К власти (предположительно, как ставленник Рима) приходит царь Прасутаг — будущий муж Боудикки.",
+      "era": "AD",
+      "latitude": 52.41121554,
+      "longitude": 0.75382948,
+      "name": "Disarmament of the Iceni by Rome",
+      "name_ru": "Разоружение иценов Римом",
+      "tags": [
+        "Roman",
+        "Celtic",
+        "Battle",
+        "British",
+        "Rebellion"
       ],
       "type": "military"
     },
@@ -200,6 +277,127 @@
         "Nero 👑"
       ],
       "type": "political"
+    },
+    {
+      "date": "01.01.0060",
+      "description": "Prasutagus rules the Iceni, grows rich, and attempts to integrate into the Roman world. Roman moneylenders (including the philosopher Seneca) begin issuing enormous loans to the Celtic nobility at exorbitant interest rates. The Iceni find themselves in debt.\n\nIn 60 CE, Prasutagus writes a will before his death, dividing the kingdom between his daughters and the Roman Emperor Nero, hoping to save his family. After his death, the Roman procurator, Catus Decianus, declares the will illegal. Roman centurions and tax collectors invade the Iceni lands. They plunder the nobles' homes, seize their lands, demand immediate repayment of all loans, and enslave the king's relatives.\n\nQueen Boudicca protests. In response, the Romans publicly whip her in the square and rape her daughters.",
+      "description_ru": "Прасутаг правит иценами, богатеет и пытается интегрироваться в римский мир. Римские ростовщики (включая философа Сенеку) начинают выдавать кельтской знати огромные принудительные кредиты под грабительские проценты. Ицены оказываются в долгах. \n\nВ 60-м году Прасутаг перед смертью пишет завещание, деля королевство между своими дочерьми и римским императором Нероном, надеясь спасти семью. После его смерти Римский прокуратор Кат Дециан объявляет завещание незаконным. Римские центурионы и сборщики налогов вторгаются на земли иценов. Они грабят дома знати, забирают земли, требуют немедленного возврата всех кредитов и обращают родственников царя в рабство.\n\nКоролева Боудикка выступает с протестом. В ответ римляне публично секут её плетьми на площади, а её дочерей насилуют.",
+      "era": "AD",
+      "latitude": 52.41121554,
+      "longitude": 0.75382948,
+      "name": "Testament of the Iceni king Prasutagus",
+      "name_ru": "Завещание царя иценов Прасутага",
+      "source": "https://en.wikipedia.org/wiki/Boudica",
+      "tags": [
+        "Roman",
+        "Celtic",
+        "British",
+        "Crisis",
+        "Political",
+        "Rebellion"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0061",
+      "description": "The island of Mona became the main refuge for all those resisting the Roman advance from all over Britain. The Romans suppressed rebellions on the island for years; the leaders of the defeated clans simply boarded boats, sailed to Mona, and took refuge there under the protection of the Druids. The governor, Suetonius Paulinus, raised the majority of the combat-ready British legions and led them to storm the island.\n\nThe disciplined legions routed the Celtic militia. The Romans displayed brutality: they burned the Druids themselves in their sacrificial fires, cut down all the sacred oak groves where human sacrifices had been performed for centuries, and razed the altars to the ground.",
+      "description_ru": "Остров Мона превратился в главное убежище для всех сопротивляющихся движению Рима со всей Британии. Римляне годами подавляли восстания на острове; вожди разбитых кланов просто садились в лодки, уплывали на Мону и укрывались там под защитой друидов. Наместник Светоний Паулин поднял большую часть боеспособных британских легионов и отправился с ними на штурм острова.\n\nДисциплинированные легионы разгромили кельтское ополчение. Римляне проявили жестокость: они сожгли самих друидов в их же жертвенных огнях, вырубили все священные дубовые рощи, где веками совершались человеческие жертвоприношения, и сровняли алтари с землей.",
+      "era": "AD",
+      "latitude": 53.21970473,
+      "longitude": -4.16296005,
+      "name": "Rome storms the Celtic sacred island of Mona",
+      "name_ru": "Рим штурмует кельтский священный остров Мона",
+      "source": "https://en.wikipedia.org/wiki/Anglesey",
+      "tags": [
+        "Roman",
+        "Celtic",
+        "War",
+        "Battle",
+        "British",
+        "Cruelty",
+        "Paganism"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.04.0061",
+      "description": "While the Roman governor led his army west into the Welsh mountains to suppress the Druids on the island of Mona, the insulted Queen Boudicca of the Iceni formed a secret alliance with the neighboring Trinovati tribe and launched a rebellion. Boudicca launched her first attack on the first Roman capital, Camulodunum. The city was poorly defended; the inhabitants took refuge in the Temple of Claudius. After a few days of siege, the Britons burned the temple and massacred the population.",
+      "description_ru": "Пока римский наместник увел армию на запад в горы Уэльса, чтобы подавить друидов на острове Мона, оскорбленная царица иценов Боудикка заключает тайный союз с соседним племенем триноватов и поднимает восстание. Первый удар Боудикка обрушивает на первую римскую столицу, Камулодунум. Город слабо защищен; жители укрываются в храме Клавдия. Через пару дней осады бритты сжигают храм, а население вырезают. ",
+      "era": "AD",
+      "latitude": 51.883518,
+      "longitude": 0.89904428,
+      "name": "Boudicca's Celts burn Camulodunum",
+      "name_ru": "Кельты Боудикки сжигают Камулодунум",
+      "source": "https://en.wikipedia.org/wiki/Boudican_revolt",
+      "tags": [
+        "Roman",
+        "Celtic",
+        "War",
+        "British",
+        "Destruction",
+        "Massacre",
+        "Rebellion"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.05.0061",
+      "description": "Upon learning of the massacre, Quintus Petillius Cerialis hastily marched from Lindum to Camulodunum's aid at the head of the Ninth Legion (Legio IX Hispana). The Britons had set an ambush on the road; the legionaries caught in it were unprepared for battle in such rugged terrain. Thousands of trained soldiers (the entire legion's infantry) perished. Cerialis, with a handful of cavalry, miraculously escaped and holed up in a fortified camp. Although the legion's strength was not fully deployed and defeated, it was a severe blow to its reputation and to Rome's power in the region.",
+      "description_ru": "Узнав о резне, на помощь Камулодунуму из Линдума спешно выдвинулся Квинт Петиллий Цериал во главе Девятого легиона (Legio IX Hispana). Бритты устроили на дороге засаду; попавшие в нее легионеры оказались не готовы к бою на пересеченной местности. Погибли тысячи обученных солдат (вся пехота легиона). Цериал с горсткой кавалерии чудом сбежал и заперся в укрепленном лагере. Хотя легион отправился и был разбит не в полном составе, это стало тяжелым ударом для репутации легиона и для силы Рима в регионе.",
+      "era": "AD",
+      "latitude": 52.15413575,
+      "longitude": 0.42434692,
+      "name": "The Celts defeat Rome's Ninth Legion",
+      "name_ru": "Кельты разбивают Девятый легион Рима",
+      "source": "https://en.wikipedia.org/wiki/Boudican_revolt",
+      "tags": [
+        "Roman",
+        "Celtic",
+        "War",
+        "Battle",
+        "Ambush",
+        "British"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.06.0061",
+      "description": "The governor of Britain, Suetonius Paulinus, learning of the disaster, abandoned Wales and, with a small group of horsemen, broke through the rebellious country to Londinium. Assessing the size of Boudicca's approaching army and the shortage of his own soldiers, he made a cruel decision: abandon the city.\n\nThe city's plebs and merchants were allowed to leave with the army. Those who remained (the elderly, women, the sick, or those who regretted abandoning their homes) were massacred by the Celtic horde. London was burned.",
+      "description_ru": "Наместник Британии Светоний Паулин, узнав о катастрофе, бросает Уэльс и с небольшой группой всадников прорывается сквозь охваченную бунтом страну в Лондиниум. Оценив масштаб надвигающейся армии Боудикки и нехватку своих солдат, принял жестокое решение: оставить город.\n\nГородскому плебсу и купцам разрешили уходить вместе с армией. Те, кто остался (старики, женщины, больные или те, кто пожалел бросать свои дома), были уничтожены ордой кельтов. Лондон был сожжен",
+      "era": "AD",
+      "latitude": 51.51557645,
+      "longitude": -0.09208024,
+      "name": "Celts burn Roman Londinium",
+      "name_ru": "Кельты сжигают римский Лондиниум",
+      "source": "https://en.wikipedia.org/wiki/Boudican_revolt",
+      "tags": [
+        "Roman",
+        "Celtic",
+        "War",
+        "British",
+        "Destruction",
+        "Rebellion"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "14.08.0061",
+      "description": "Suetonius Paulinus retreated north, gathering the scattered garrisons. He managed to gather around 10,000 soldiers (the 14th Legion and veterans of the 20th). He chose an ideal battlefield in a narrow gorge, where the flanks and rear were protected by dense forest. The Celts outnumbered them many times over, but the narrow battlefield negated their advantage – the Roman legions systematically pressed the Celtic army in the narrow pass until they were routed. Boudicca's rebellion was crushed.\n\nBoudicca, returning to her homeland and realizing her defeat, took poison to avoid returning to the Roman rack. The Iceni Kingdom ceased to exist.",
+      "description_ru": "Светоний Паулин отступил на север, собирая разрозненные гарнизоны. Ему удалось собрать около 10 000 воинов (14-й легион и ветераны 20-го). Он выбрал идеальное поле боя в узком ущелье, где фланги и тыл защищал густой лес. Кельтов было кратно больше, но узкое пространство боя свело их преимущество на нет - римские легионы планомерно давили кельтское войско в узком проходе, пока не обратили его в бегство. Восстание Боудикки было разгромлено.\n\nБоудикка, вернувшись в родные земли и осознав крах, приняла яд, чтобы не возвращаться на римскую дыбу. Королевство иценов перестало существовать  ",
+      "era": "AD",
+      "latitude": 52.23074343,
+      "longitude": -1.0253334,
+      "name": "The Battle of Watling Street",
+      "name_ru": "Битва на Уотлинг-Стрит",
+      "source": "https://en.wikipedia.org/wiki/Boudican_revolt",
+      "tags": [
+        "Roman",
+        "Celtic",
+        "War",
+        "Battle",
+        "British"
+      ],
+      "type": "military"
     },
     {
       "date": "18.07.0064",
@@ -277,6 +475,25 @@
         "Siege"
       ],
       "type": "military"
+    },
+    {
+      "date": "01.01.0071",
+      "description": "The Roman Ninth Legion (Legio IX Hispana), led by Quintus Petillius Cerialis, built a wooden (and later stone) fortress to control the warlike local Brigantes. Eboracum gradually became an important strategic hub and the capital of the province of Britannia Inferior. From here, the Roman emperors governed their northern territories.",
+      "description_ru": "Римский Девятый легион (Legio IX Hispana) под предводительством Квинта Петиллия Цериала построил деревянную (а позже каменную) крепость для контроля над воинственным местным племенем бригантов.  Эборакум постепенно стал важным стратегическим узлом и превратился в столицу провинции Нижняя Британия. Отсюда римские императоры управляли своими северными территориями.",
+      "era": "AD",
+      "latitude": 53.96297865,
+      "longitude": -1.08233571,
+      "name": "The founding of the Roman fortress of Eboracum in Britain",
+      "name_ru": "Основание римской крепости Эборакум в Британии",
+      "source": "https://en.wikipedia.org/wiki/Eboracum",
+      "tags": [
+        "Roman",
+        "City",
+        "British",
+        "Expansion",
+        "Fortification"
+      ],
+      "type": "historic"
     },
     {
       "date": "24.08.0079",
@@ -614,9 +831,9 @@
         "Bosporan",
         "Destruction",
         "Gothic",
-        "Invasions",
+        "Invasion",
         "Ostrogoth",
-        "Plundering"
+        "Pillage"
       ],
       "type": "military"
     },
@@ -656,7 +873,7 @@
         "Battle",
         "Conquest",
         "Crisis",
-        "Plundering",
+        "Pillage",
         "Sassanid",
         "Shapur I 👑"
       ],
@@ -951,8 +1168,8 @@
       "description": "Constantius I dies at Eboracum (York) returning from a campaign against the Picts in northern Britain. His troops immediately acclaim his son Constantine as Augustus — bypassing the Tetrarchic succession protocol entirely. Galerius refuses to recognise him as more than a junior Caesar, but he cannot dislodge him. Simultaneously in Rome, Maxentius — son of the retired emperor Maximian — seizes power with Praetorian Guard support, declaring himself emperor. Within months, the careful Tetrarchic structure has produced not a smooth succession but four to six simultaneous claimants, launching two decades of civil war that only Constantine's victory at the Milvian Bridge will eventually resolve.",
       "description_ru": "Констанций I умирает в Эбораке (Йорк), возвращаясь из похода против пиктов в северной Британии. Его войска немедленно провозглашают сына Константина Августом — полностью обходя протокол тетрархического преемства. Галерий отказывается признавать его более чем младшим цезарем. Одновременно в Риме Максенций — сын удалившегося на покой Максимиана — захватывает власть при поддержке преторианской гвардии. В течение нескольких месяцев тетрархическая структура порождает не мирное преемство, а четыре-шесть одновременных претендентов.",
       "era": "AD",
-      "latitude": 53.96,
-      "longitude": -1.08,
+      "latitude": 53.96297865,
+      "longitude": -1.08233571,
       "name": "Constantine Proclaimed Emperor at York",
       "name_ru": "Константин провозглашён императором в Йорке",
       "source": "https://en.wikipedia.org/wiki/Constantine_the_Great",
@@ -969,8 +1186,8 @@
     },
     {
       "date": "26.10.0306",
-      "description": "Emperor Maximian appointed Demetrius proconsul of the Thessaloniki region. The young commander's primary mission was to defend the city from barbarians and exterminate Christians. However, Demetrius, secretly raised as a Christian by his parents, instead of carrying out executions, began openly converting the city's inhabitants to Christianity and eradicating pagan customs. Returning from a military campaign, Maximian personally arrived in Thessalonica to investigate the rumors. Demetrius did not hide his beliefs, for which he was imprisoned and later executed.",
-      "description_ru": "Император Максимиан назначил Димитрия проконсулом Фессалоникийской области. Главной задачей молодого военачальника было защищать город от варваров и истреблять христиан. Однако Димитрий, тайно воспитанный родителями в христианской вере, вместо казней начал открыто обращать жителей города в христианство и искоренять языческие обычаи. Возвращаясь из военного похода, Максимиан лично прибыл в Фессалоники, чтобы проверить слухи. Димитрий не стал скрывать свои убеждения, за что был посажен в темницу, а затем казнен.",
+      "description": "Emperor Maximian appointed Demetrius proconsul of the Thessaloniki region. The young commander's primary mission was to defend the city from barbarians and exterminate Christians. However, Demetrius, secretly raised as a Christian by his parents, instead of carrying out executions, began openly converting the city's inhabitants to Christianity and eradicating pagan customs. Returning from a military campaign, Maximian personally arrived in Thessalonica to investigate the rumors. Demetrius did not hide his beliefs, for which he was imprisoned and later executed.\n\nIn religious tradition, he is known as Saint Demetrius of Thessaloniki, a protector from invasions, patron of the military and a symbol of courage.",
+      "description_ru": "Император Максимиан назначил Димитрия проконсулом Фессалоникийской области. Главной задачей молодого военачальника было защищать город от варваров и истреблять христиан. Однако Димитрий, тайно воспитанный родителями в христианской вере, вместо казней начал открыто обращать жителей города в христианство и искоренять языческие обычаи. Возвращаясь из военного похода, Максимиан лично прибыл в Фессалоники, чтобы проверить слухи. Димитрий не стал скрывать свои убеждения, за что был посажен в темницу, а затем казнен.\n\nВ религиозной традиции известен как святой Дмитрий Солунский, защитник от нашествий, покровитель военных и символ мужества",
       "era": "AD",
       "latitude": 40.63875974,
       "longitude": 22.9478699,
@@ -982,6 +1199,7 @@
         "Roman",
         "Christian",
         "Martyr",
+        "Patron",
         "Persecution",
         "Saint"
       ],
@@ -1161,7 +1379,7 @@
         "Byzantine",
         "Crisis",
         "Gothic",
-        "Invasions",
+        "Invasion",
         "Migration",
         "Visigoth"
       ],
@@ -1206,6 +1424,7 @@
         "Christian",
         "Empire",
         "Law",
+        "Milestone",
         "Religious",
         "Theodosian"
       ],
@@ -1330,8 +1549,8 @@
         "Death",
         "Empire",
         "Foundation",
-        "Theodosian",
-        "Turning Point"
+        "Milestone",
+        "Theodosian"
       ],
       "type": "historic"
     }

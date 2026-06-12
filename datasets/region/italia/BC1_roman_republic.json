@@ -53,6 +53,7 @@
       "tags": [
         "Phoenician",
         "Colonization",
+        "Seamen",
         "Settlement",
         "Trade"
       ],
@@ -946,8 +947,8 @@
         "Battle",
         "Legend",
         "Destruction",
-        "Invasions",
-        "Plundering"
+        "Invasion",
+        "Pillage"
       ],
       "type": "military"
     },
@@ -2136,20 +2137,19 @@
     },
     {
       "date": "01.01.0200",
-      "description": "After encountering Celtiberian swords during the Punic Wars, Rome adopts the gladius Hispaniensis as standard legionary weapon. This short, double-edged sword (45-65 cm blade) excels at both thrusting and cutting in tight formations. Combined with the large scutum shield, it makes the Roman legionary the deadliest close-combat soldier in the ancient world.",
-      "description_ru": "Встретив кельтиберийские мечи во время Пунических войн, Рим принимает gladius Hispaniensis как стандартное оружие легионера. Этот короткий обоюдоострый меч (клинок 45-65 см) превосходен для уколов и рубки в тесном строю. В сочетании с большим щитом скутум он делает римского легионера смертоноснейшим воином ближнего боя античного мира.",
+      "description": "Quintus Fabius Pictor writes the first history of Rome in Greek, aimed at explaining Rome to the Greek world after the Second Punic War. His lost work established the traditional founding date of 753 BC and shaped all later Roman historiography.",
+      "description_ru": "Квинт Фабий Пиктор пишет первую историю Рима на греческом языке, с целью объяснить Рим греческому миру после Второй Пунической войны. Его утраченный труд установил традиционную дату основания 753 г. до н.э. и сформировал всю последующую римскую историографию.",
       "era": "BC",
-      "latitude": 41.89931442,
-      "longitude": 12.47670293,
-      "name": "Adoption of the Gladius Hispaniensis",
-      "name_ru": "Испанский гладиус в Риме",
-      "source": "https://en.wikipedia.org/wiki/Gladius",
+      "latitude": 41.89318911,
+      "longitude": 12.48506606,
+      "name": "First Roman History Written",
+      "name_ru": "Первая римская история",
+      "source": "https://en.wikipedia.org/wiki/Quintus_Fabius_Pictor",
       "tags": [
+        "Greek",
         "Roman",
-        "War",
-        "Innovation",
-        "Spanish",
-        "Weapon"
+        "Culture",
+        "History"
       ],
       "type": "historic"
     },
@@ -2175,19 +2175,20 @@
     },
     {
       "date": "01.01.0200",
-      "description": "Quintus Fabius Pictor writes the first history of Rome in Greek, aimed at explaining Rome to the Greek world after the Second Punic War. His lost work established the traditional founding date of 753 BC and shaped all later Roman historiography.",
-      "description_ru": "Квинт Фабий Пиктор пишет первую историю Рима на греческом языке, с целью объяснить Рим греческому миру после Второй Пунической войны. Его утраченный труд установил традиционную дату основания 753 г. до н.э. и сформировал всю последующую римскую историографию.",
+      "description": "After encountering Celtiberian swords during the Punic Wars, Rome adopts the gladius Hispaniensis as standard legionary weapon. This short, double-edged sword (45-65 cm blade) excels at both thrusting and cutting in tight formations. Combined with the large scutum shield, it makes the Roman legionary the deadliest close-combat soldier in the ancient world.",
+      "description_ru": "Встретив кельтиберийские мечи во время Пунических войн, Рим принимает gladius Hispaniensis как стандартное оружие легионера. Этот короткий обоюдоострый меч (клинок 45-65 см) превосходен для уколов и рубки в тесном строю. В сочетании с большим щитом скутум он делает римского легионера смертоноснейшим воином ближнего боя античного мира.",
       "era": "BC",
-      "latitude": 41.89318911,
-      "longitude": 12.48506606,
-      "name": "First Roman History Written",
-      "name_ru": "Первая римская история",
-      "source": "https://en.wikipedia.org/wiki/Quintus_Fabius_Pictor",
+      "latitude": 41.89931442,
+      "longitude": 12.47670293,
+      "name": "Adoption of the Gladius Hispaniensis",
+      "name_ru": "Испанский гладиус в Риме",
+      "source": "https://en.wikipedia.org/wiki/Gladius",
       "tags": [
-        "Greek",
         "Roman",
-        "Culture",
-        "History"
+        "War",
+        "Innovation",
+        "Spanish",
+        "Weapon"
       ],
       "type": "historic"
     },
@@ -2345,6 +2346,23 @@
     },
     {
       "date": "01.01.0177",
+      "description": "The Romans founded the military fortress of Luni to combat the local Ligurian tribes. The city was founded at the mouth of the Magra River. In ancient times, it stood directly on the coast of the Ligurian Sea and was a powerful seaport, but over time, the sea receded. The famous snow-white Carrara marble (then known as Lunian marble) from the neighboring Apuan Alps was exported to Rome and other regions of the Empire through the port of Luni.",
+      "description_ru": "Римляне заложили военную крепость Луни для борьбы с местными племенами лигуров. Город был основан в устье реки Магра. В древности он стоял прямо на побережье Лигурийского моря и был мощным морским портом, но со временем море отступило. Через порт Луни в Рим и другие регионы Империи вывозили знаменитый белоснежный каррарский мрамор из соседних Апуанских Альп (тогда его называли лунийским мрамором)",
+      "era": "BC",
+      "latitude": 44.06402996,
+      "longitude": 10.0169456,
+      "name": "The founding of the Roman fortress of Luni",
+      "name_ru": "Основание римской крепости Луни",
+      "tags": [
+        "Roman",
+        "City",
+        "Expansion",
+        "Fortification"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0177",
       "description": "Consul Tiberius Sempronius Gracchus leads two legions in a brutal two-year campaign against the Ilienses and Balari tribes in Sardinia's mountainous interior. According to Livy, 80,000 Sardinians are killed or enslaved, with captives sold so cheaply they create the proverb 'Sardi venales' (Sardinians for sale). Despite the devastation, the Barbagia highlands tribes are never fully subjugated",
       "description_ru": "Консул Тиберий Семпроний Гракх ведёт два легиона в жестокую двухлетнюю кампанию против племён илиенсов и балари в горах Сардинии. По Ливию, 80 тысяч сардинцев убиты или обращены в рабство, пленники проданы так дёшево, что породили поговорку 'Sardi venales' (сардинцы на продажу). Несмотря на опустошение, племена нагорья Барбаджия так и не покорены полностью",
       "era": "BC",
@@ -2403,25 +2421,6 @@
     },
     {
       "date": "01.01.0167",
-      "description": "Rome abolishes the tributum, direct tax on Roman citizens, paid for by the wealth flowing from conquered territories and provinces. Citizens would not pay direct taxes again until the crisis of the Empire three centuries later.",
-      "description_ru": "Рим отменяет tributum, прямой налог на римских граждан. Казна была переполнена военной добычей после ряда военных побед, а поступления от провинций полностью покрывали расходы республики. Это решение подчеркивало статус римлян как привилегированного класса ",
-      "era": "BC",
-      "latitude": 41.89318911,
-      "longitude": 12.48506606,
-      "name": "Direct Citizen Tax Abolished",
-      "name_ru": "Отмена прямого налога на граждан",
-      "source": "https://en.wikipedia.org/wiki/Tributum",
-      "tags": [
-        "Roman",
-        "Administration",
-        "Political",
-        "Taxes",
-        "Wealth"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.0167",
       "description": "Following their victory over Macedonia, the Romans transferred the island of Delos to Athenian control and declared it a tax-free zone (atelia). All merchants from Phoenicia, Egypt, and Italy, who had previously paid tolls at the Rhodes harbor, immediately transferred their ships to Delos.",
       "description_ru": "Римляне по итогу победы над Македонией передали остров Делос под управление Афин и объявили его зоной, свободной от налогов (ателия). Все купцы из Финикии, Египта и Италии, которые раньше платили пошлину в гавани Родоса, мгновенно перевели свои корабли на Делос.",
       "era": "BC",
@@ -2436,6 +2435,25 @@
         "Maritime",
         "Taxes",
         "Trade"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0167",
+      "description": "Rome abolishes the tributum, direct tax on Roman citizens, paid for by the wealth flowing from conquered territories and provinces. Citizens would not pay direct taxes again until the crisis of the Empire three centuries later.",
+      "description_ru": "Рим отменяет tributum, прямой налог на римских граждан. Казна была переполнена военной добычей после ряда военных побед, а поступления от провинций полностью покрывали расходы республики. Это решение подчеркивало статус римлян как привилегированного класса ",
+      "era": "BC",
+      "latitude": 41.89318911,
+      "longitude": 12.48506606,
+      "name": "Direct Citizen Tax Abolished",
+      "name_ru": "Отмена прямого налога на граждан",
+      "source": "https://en.wikipedia.org/wiki/Tributum",
+      "tags": [
+        "Roman",
+        "Administration",
+        "Political",
+        "Taxes",
+        "Wealth"
       ],
       "type": "political"
     },
@@ -2669,23 +2687,6 @@
     },
     {
       "date": "01.01.0123",
-      "description": "Quintus Caecilius Metellus conquered the island, exterminating the pirates. The cities of Palma and Pollentia (modern Alcudia) were founded. The Romans brought olives and grapes to the island and gradually replaced the Talaiotic culture that originally existed on the island.",
-      "description_ru": "Квинт Цецилий Метелл завоевал остров, истребив пиратов. Были основаны города Пальма и Полленция (современная Алькудия). Римляне привезли на остров оливы и виноград, и постепенно заместили изначально существовавшую на острове талайотскую культуру",
-      "era": "BC",
-      "latitude": 39.58029027,
-      "longitude": 2.64358521,
-      "name": "The capture of Mallorca by Rome",
-      "name_ru": "Захват Майорки Римом",
-      "tags": [
-        "Roman",
-        "Conquest",
-        "Expansion",
-        "Piracy"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.01.0123",
       "description": "Gaius Gracchus, brother of Tiberius, becomes tribune and enacts sweeping reforms: subsidized grain for Romans, jury reform to break senatorial corruption, road building, and colonial foundations. After two terms, he is declared a public enemy and killed with 3,000 supporters.",
       "description_ru": "Гай Гракх, брат Тиберия, становится трибуном и проводит еще более радикальные реформы, чем брат: субсидированное зерно для римлян, судебная реформа для борьбы с сенаторской коррупцией, строительство дорог и основание колоний. Его работа подрывала влияние Сената и аристократии. После двух сроков Гая и тысячи его последователей объявили врагами государства и стали их убивать без суда.",
       "era": "BC",
@@ -2705,6 +2706,23 @@
         "Senate"
       ],
       "type": "political"
+    },
+    {
+      "date": "01.01.0123",
+      "description": "Quintus Caecilius Metellus conquered the island, exterminating the pirates. The cities of Palma and Pollentia (modern Alcudia) were founded. The Romans brought olives and grapes to the island and gradually replaced the Talaiotic culture that originally existed on the island.",
+      "description_ru": "Квинт Цецилий Метелл завоевал остров, истребив пиратов. Были основаны города Пальма и Полленция (современная Алькудия). Римляне привезли на остров оливы и виноград, и постепенно заместили изначально существовавшую на острове талайотскую культуру",
+      "era": "BC",
+      "latitude": 39.58029027,
+      "longitude": 2.64358521,
+      "name": "The capture of Mallorca by Rome",
+      "name_ru": "Захват Майорки Римом",
+      "tags": [
+        "Roman",
+        "Conquest",
+        "Expansion",
+        "Piracy"
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.0121",
@@ -2846,6 +2864,25 @@
     },
     {
       "date": "01.01.0100",
+      "description": "The Temple of Portunus is built at the Forum Boarium near the Tiber, dedicated to Portunus, god of keys, doors, and harbors. Its elegant Ionic columns and exceptional preservation make it one of the best-surviving examples of Republican temple architecture. Later converted to a church, which saved it from destruction.",
+      "description_ru": "Храм Портуна построен на Бычьем форуме близ Тибра, посвящённый Портуну, богу ключей, дверей и гаваней. Его элегантные ионические колонны и исключительная сохранность делают его одним из лучших примеров республиканской храмовой архитектуры. Позже обращён в церковь, что спасло его от разрушения.",
+      "era": "BC",
+      "latitude": 41.88922771,
+      "longitude": 12.48090863,
+      "name": "Temple of Portunus in Rome",
+      "name_ru": "Храм Портуна в Риме",
+      "source": "https://en.wikipedia.org/wiki/Temple_of_Portunus",
+      "tags": [
+        "Roman",
+        "Architecture",
+        "Religious",
+        "Temple",
+        "Trade"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.0100",
       "description": "The scorpio becomes a standard Roman precision weapon — a smaller ballista operated by 1-2 men, accurate at 100 meters and deadly at 400 meters parabolic fire. Each legion deploys 60 scorpiones, one per century. Caesar praises its 'terrifying precision' at the siege of Avaricum. It serves as ancient Rome's 'sniper rifle.'",
       "description_ru": "Скорпион, унаследованный от греков, становится стандартом дальнего боя в армии Рима — уменьшенная баллиста под управлением 1-2 человек, точная на 100 метров и смертельная на 400 метрах навесного огня. Каждый легион имеет 60 скорпионов, по одному на центурию. Это античная 'снайперская винтовка' Рима.",
       "era": "BC",
@@ -2864,25 +2901,6 @@
         "Tactics"
       ],
       "type": "historic"
-    },
-    {
-      "date": "01.01.0100",
-      "description": "The Temple of Portunus is built at the Forum Boarium near the Tiber, dedicated to Portunus, god of keys, doors, and harbors. Its elegant Ionic columns and exceptional preservation make it one of the best-surviving examples of Republican temple architecture. Later converted to a church, which saved it from destruction.",
-      "description_ru": "Храм Портуна построен на Бычьем форуме близ Тибра, посвящённый Портуну, богу ключей, дверей и гаваней. Его элегантные ионические колонны и исключительная сохранность делают его одним из лучших примеров республиканской храмовой архитектуры. Позже обращён в церковь, что спасло его от разрушения.",
-      "era": "BC",
-      "latitude": 41.88922771,
-      "longitude": 12.48090863,
-      "name": "Temple of Portunus in Rome",
-      "name_ru": "Храм Портуна в Риме",
-      "source": "https://en.wikipedia.org/wiki/Temple_of_Portunus",
-      "tags": [
-        "Roman",
-        "Architecture",
-        "Religious",
-        "Temple",
-        "Trade"
-      ],
-      "type": "religious"
     },
     {
       "date": "01.01.0100",
@@ -3477,7 +3495,7 @@
         "Celtic",
         "Britain",
         "Exploration",
-        "Invasions",
+        "Invasion",
         "Julius Caesar 👤"
       ],
       "type": "military"
@@ -3535,7 +3553,7 @@
         "Celtic",
         "Britain",
         "Exploration",
-        "Invasions",
+        "Invasion",
         "Julius Caesar 👤"
       ],
       "type": "military"
@@ -3580,27 +3598,6 @@
     },
     {
       "date": "01.01.0052",
-      "description": "The Gallic chieftain Vercingetorix unites the tribes in a massive revolt against Rome. After initial successes, he is besieged at Alesia where Caesar builds two rings of fortifications — one facing in, one facing out against a relief army of 250,000. Vercingetorix surrenders and is later executed in Rome.",
-      "description_ru": "Галльский вождь Верцингеториг объединяет племена в массовом восстании против Рима. После первоначальных успехов он осаждён в Алезии, где Цезарь строит два кольца укреплений — одно внутрь, одно наружу против галльской армии поддержки. Верцингеториг сдаётся и позже казнён в Риме.",
-      "era": "BC",
-      "latitude": 47.5361,
-      "longitude": 4.5022,
-      "name": "Siege of Alesia",
-      "name_ru": "Осада Цезарем Алезии",
-      "source": "https://en.wikipedia.org/wiki/Battle_of_Alesia",
-      "tags": [
-        "Roman",
-        "Gallic",
-        "War",
-        "Julius Caesar 👤",
-        "Mark Antony 👤",
-        "Rebellion",
-        "Siege"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.01.0052",
       "description": "Clodius is murdered by Milo's gang on the Via Appia. Pompey is appointed sole consul — unprecedented — to restore order, marking his drift from Caesar toward the Senate.",
       "description_ru": "Клодий убит бандой Милона на Аппиевой дороге. Помпей назначен единственным консулом для восстановления порядка (в республике никогда не было одного консула). Помпей и Цезарь оказались по разные стороны баррикад",
       "era": "BC",
@@ -3619,6 +3616,27 @@
         "Pompey the Great 👤"
       ],
       "type": "political"
+    },
+    {
+      "date": "01.01.0052",
+      "description": "The Gallic chieftain Vercingetorix unites the tribes in a massive revolt against Rome. After initial successes, he is besieged at Alesia where Caesar builds two rings of fortifications — one facing in, one facing out against a relief army of 250,000. Vercingetorix surrenders and is later executed in Rome.",
+      "description_ru": "Галльский вождь Верцингеториг объединяет племена в массовом восстании против Рима. После первоначальных успехов он осаждён в Алезии, где Цезарь строит два кольца укреплений — одно внутрь, одно наружу против галльской армии поддержки. Верцингеториг сдаётся и позже казнён в Риме.",
+      "era": "BC",
+      "latitude": 47.5361,
+      "longitude": 4.5022,
+      "name": "Siege of Alesia",
+      "name_ru": "Осада Цезарем Алезии",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Alesia",
+      "tags": [
+        "Roman",
+        "Gallic",
+        "War",
+        "Julius Caesar 👤",
+        "Mark Antony 👤",
+        "Rebellion",
+        "Siege"
+      ],
+      "type": "military"
     },
     {
       "date": "01.07.0050",
@@ -3726,8 +3744,8 @@
         "Crisis",
         "Julius Caesar 👤",
         "Mark Antony 👤",
-        "Political",
-        "Turning Point"
+        "Milestone",
+        "Political"
       ],
       "type": "political"
     },
@@ -4310,9 +4328,9 @@
         "Emperor",
         "Empire",
         "Foundation",
+        "Milestone",
         "Octavian 👑",
-        "Political",
-        "Turning Point"
+        "Political"
       ],
       "type": "political"
     },

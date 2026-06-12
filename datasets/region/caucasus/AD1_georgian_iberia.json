@@ -19,6 +19,7 @@
         "Colchis",
         "Colonization",
         "Culture",
+        "Seamen",
         "Trade"
       ],
       "type": "cultural"
@@ -66,8 +67,8 @@
     },
     {
       "date": "01.01.0337",
-      "description": "King Mirian III of Kartli was baptized, making Kartli one of the first states in the world to adopt Christianity as a state religion. The conversion is attributed to Nino, a captive from Cappadocia who performed healings at the Iberian court. She cured Queen Nana of a serious illness, and Mirian himself was converted after, while hunting in the forest, receiving no response from his pagan gods, he called upon the god Nino and was led out of the thicket.\n\nThe adoption of Christianity became a crucial defining factor of Georgian identity for centuries, distinguishing Georgians culturally and politically from their Persian, Arab, and Turkic neighbors. Nino's cross—made of grapevine and tied with her own hair—is kept in Mtskheta's Svetitskhoveli Cathedral and is a symbol of the Georgian Church. The Georgian Orthodox Church has canonized Mirian III and Queen Nana.",
-      "description_ru": "Царь Картли Мириан III крестился, сделав Картли одним из первых в мире государств, принявших христианство в качестве государственной религии. Обращение приписывается Нино, пленнице из Каппадокии, совершавшей исцеления при иберийском дворе. Она вылечила царицу Нану от тяжёлой болезни, а сам Мириан обратился после того, как во время охоты в лесу, не получив ответа от своих языческих богов, воззвал к Богу Нино и был выведен из чащи.\n\nПринятие христианства стало важнейшим определяющим фактором грузинской идентичности на протяжении веков, отделяя грузин культурно и политически от персидских, арабских и тюркских соседей. Крест Нино — из виноградной лозы, перевязанный её собственными волосами, — хранится в Мцхетском соборе Светицховели и является символом Грузинской церкви. Грузинская православная церковь причислила Мириана III и царицу Нану к лику святых.",
+      "description": "King Mirian III of Kartli was baptized, making Kartli one of the first states in the world to adopt Christianity as a state religion. The conversion is attributed to Nino, a captive from Cappadocia who performed healings at the Iberian court. She cured Queen Nana of a serious illness, and Mirian himself was converted after, while hunting in the forest, receiving no response from his pagan gods, he called upon the god Nino and was led out of the thicket.\n\nThe adoption of Christianity became a crucial defining factor of Georgian identity for centuries, distinguishing Georgians culturally and politically from their Persian, Arab, and Turkic neighbors. Nino's cross—made of grapevine and tied with her own hair—is kept in Mtskheta's Svetitskhoveli Cathedral and is a symbol of the Georgian Church. The Georgian Orthodox Church has canonized Mirian III and Queen Nana.\n\nAccording to legend, Saint Nino was Saint George's paternal cousin. Saints Nino and George are considered the country's patron saints.",
+      "description_ru": "Царь Картли Мириан III крестился, сделав Картли одним из первых в мире государств, принявших христианство в качестве государственной религии. Обращение приписывается Нино, пленнице из Каппадокии, совершавшей исцеления при иберийском дворе. Она вылечила царицу Нану от тяжёлой болезни, а сам Мириан обратился после того, как во время охоты в лесу, не получив ответа от своих языческих богов, воззвал к Богу Нино и был выведен из чащи.\n\nПринятие христианства стало важнейшим определяющим фактором грузинской идентичности на протяжении веков, отделяя грузин культурно и политически от персидских, арабских и тюркских соседей. Крест Нино — из виноградной лозы, перевязанный её собственными волосами, — хранится в Мцхетском соборе Светицховели и является символом Грузинской церкви. Грузинская православная церковь причислила Мириана III и царицу Нану к лику святых.\n\nСвятая Нино, по легенде, приходилась Святому Георгию Победоносцу двоюродной сестрой по отцовской линии. Святые Нино и Георгий считаются небесными покровителями страны.",
       "era": "AD",
       "latitude": 41.84227519,
       "longitude": 44.72099125,
@@ -76,10 +77,13 @@
       "source": "https://en.wikipedia.org/wiki/Mirian_III_of_Iberia",
       "tags": [
         "King",
+        "Legend",
         "Adoption",
         "Christian",
+        "Patron",
         "Political",
         "Religious",
+        "Saint",
         "Georgian",
         "Kartli"
       ],
@@ -215,7 +219,7 @@
         "Islamic",
         "Martyr",
         "Massacre",
-        "Plundering",
+        "Pillage",
         "Georgian",
         "Kartli"
       ],
@@ -298,9 +302,9 @@
       "tags": [
         "War",
         "Destruction",
-        "Invasions",
+        "Invasion",
         "Oguz",
-        "Plundering",
+        "Pillage",
         "Turkic",
         "Georgian",
         "Kartli"
@@ -510,7 +514,7 @@
       "tags": [
         "War",
         "Battle",
-        "Invasions",
+        "Invasion",
         "Mongolian",
         "Bagratid",
         "Georgian"
@@ -532,7 +536,7 @@
         "Conquest",
         "Destruction",
         "Mongolian",
-        "Plundering",
+        "Pillage",
         "Vassalage",
         "Bagratid",
         "Georgian"

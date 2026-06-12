@@ -34,7 +34,7 @@
         "War",
         "Battle",
         "Gothic",
-        "Invasions",
+        "Invasion",
         "Visigoth"
       ],
       "type": "military"
@@ -133,7 +133,7 @@
         "Battle",
         "Gothic",
         "Huns",
-        "Invasions",
+        "Invasion",
         "Migration",
         "Stilicho 👤"
       ],
@@ -154,7 +154,7 @@
         "War",
         "Alan",
         "Crisis",
-        "Invasions",
+        "Invasion",
         "Migration",
         "Vandal"
       ],
@@ -165,8 +165,8 @@
       "description": "Troops in Britain, alarmed by the crossing of the Rhine and the chaos in Gaul, proclaim their commander, Constantine III, emperor. He crosses to the continent and quickly consolidates his position in Gaul and Spain, opposing Emperor Honorius. Britain, no longer defended by Roman legions, is left to fend for itself.",
       "description_ru": "Войска в Британии, встревоженные переходом Рейна и хаосом в Галлии, провозглашают своего командира Константина III императором; он переправляется на континент и быстро закрепляется в Галлии и Испании, выступая против императора Гонория. Британия, больше никогда не защищаемая римскими легионами, предоставлена самой себе. ",
       "era": "AD",
-      "latitude": 53.96,
-      "longitude": -1.08,
+      "latitude": 51.51557645,
+      "longitude": -0.09208024,
       "name": "Roman Empire leaves Britain",
       "name_ru": "Рим покидает Британию",
       "source": "https://en.wikipedia.org/wiki/Constantine_III_(Western_Roman_Emperor)",
@@ -238,7 +238,7 @@
         "War",
         "Crisis",
         "Gothic",
-        "Plundering",
+        "Pillage",
         "Visigoth"
       ],
       "type": "military"
@@ -413,7 +413,7 @@
         "Roman",
         "War",
         "Decline",
-        "Invasions",
+        "Invasion",
         "Migration",
         "Vandal"
       ],
@@ -434,7 +434,7 @@
         "Christian",
         "Culture",
         "Death",
-        "Invasions",
+        "Invasion",
         "Religious",
         "Saint",
         "Vandal"
@@ -498,7 +498,7 @@
         "War",
         "Conquest",
         "Decline",
-        "Invasions",
+        "Invasion",
         "Vandal"
       ],
       "type": "military"
@@ -517,8 +517,8 @@
         "Roman",
         "War",
         "Decline",
+        "Pillage",
         "Piracy",
-        "Plundering",
         "Vandal"
       ],
       "type": "military"
@@ -556,11 +556,12 @@
       "source": "https://en.wikipedia.org/wiki/Anglo-Saxon_settlement_of_Britain",
       "tags": [
         "Roman",
-        "Britain",
         "Crisis",
+        "English",
         "Germanic",
         "Mercenaries",
-        "Migration"
+        "Migration",
+        "Saxon"
       ],
       "type": "historic"
     },
@@ -627,7 +628,7 @@
         "Crisis",
         "Destruction",
         "Huns",
-        "Invasions"
+        "Invasion"
       ],
       "type": "military"
     },
@@ -723,8 +724,8 @@
         "Roman",
         "War",
         "Crisis",
-        "Invasions",
-        "Plundering",
+        "Invasion",
+        "Pillage",
         "Vandal"
       ],
       "type": "military"
@@ -863,7 +864,7 @@
         "Roman",
         "Civil War",
         "Crisis",
-        "Plundering",
+        "Pillage",
         "Political"
       ],
       "type": "military"

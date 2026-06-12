@@ -109,9 +109,11 @@
       "tags": [
         "Phoenician",
         "Sidon",
+        "City",
         "Colonization",
         "Copper",
-        "Cyprus"
+        "Cyprus",
+        "Seamen"
       ],
       "type": "historic"
     },
@@ -130,6 +132,7 @@
         "Phoenician",
         "City",
         "Colonization",
+        "Seamen",
         "Trade"
       ],
       "type": "historic"
@@ -149,6 +152,7 @@
         "City",
         "Colonization",
         "Maritime",
+        "Seamen",
         "Tyre"
       ],
       "type": "historic"
@@ -246,6 +250,7 @@
         "Phoenician",
         "Expansion",
         "Maritime",
+        "Seamen",
         "Trade"
       ],
       "type": "historic"
@@ -303,6 +308,7 @@
         "City",
         "Colonization",
         "Foundation",
+        "Seamen",
         "Tyre"
       ],
       "type": "historic"
@@ -321,7 +327,8 @@
         "Phoenician",
         "Colonization",
         "Expansion",
-        "Maritime"
+        "Maritime",
+        "Seamen"
       ],
       "type": "historic"
     },
@@ -340,6 +347,7 @@
         "Colonization",
         "Fortification",
         "Maritime",
+        "Seamen",
         "Sicily"
       ],
       "type": "historic"
@@ -358,14 +366,15 @@
         "Phoenician",
         "City",
         "Colonization",
+        "Seamen",
         "Sicily"
       ],
       "type": "historic"
     },
     {
       "date": "01.01.0701",
-      "description": "Phoenicians perfect bireme warship design with two banks of oars, revolutionizing naval warfare and establishing dominance in Mediterranean sea battles",
-      "description_ru": "Финикийцы совершенствуют конструкцию боевого корабля - биремы, с двумя рядами весел. Бирема поможет финикийцам установить господство над Средиземным морем.",
+      "description": "The Phoenicians perfected the design of the bireme, a warship with two rows of oars. This was the first specialized two-deck warship in history. The bireme revolutionized naval warfare by solving the key engineering dilemma of the time: how to increase a ship's speed and power without lengthening its hull. Now, twice as many oarsmen could be accommodated on one side, significantly improving the ship's speed and maneuverability despite its compact length. The bireme would help the Phoenicians establish dominance over the Mediterranean.",
+      "description_ru": "Финикийцы совершенствуют конструкцию боевого корабля - биремы, с двумя рядами весел. Это первый в истории специализированный двухпалубный боевой корабль. Создание биремы совершило революцию в военно-морском деле за счет решения главной инженерной дилеммы того времени: как увеличить скорость и мощь корабля, не удлиняя его корпус. Теперь на одном борту могло уместиться вдвое больше гребцов, что значимо улучшало скорость и маневренность судна при небольшой длине. Бирема поможет финикийцам установить господство над Средиземным морем.",
       "era": "BC",
       "latitude": 33.894,
       "longitude": 35.501,
@@ -374,10 +383,12 @@
       "source": "https://www.worldhistory.org/phoenicia/",
       "tags": [
         "Phoenician",
+        "Engineering ⚙️",
         "Maritime",
         "Military",
         "Naval",
         "Science",
+        "Seamen",
         "Technology"
       ],
       "type": "military"
@@ -432,7 +443,8 @@
         "Egypt",
         "Phoenician",
         "Exploration",
-        "Maritime"
+        "Maritime",
+        "Seamen"
       ],
       "type": "scientific"
     },
@@ -548,7 +560,8 @@
         "Phoenician",
         "Sidon",
         "Maritime",
-        "Naval"
+        "Naval",
+        "Seamen"
       ],
       "type": "military"
     },
@@ -609,7 +622,8 @@
         "Phoenician",
         "War",
         "Maritime",
-        "Naval"
+        "Naval",
+        "Seamen"
       ],
       "type": "military"
     },
@@ -769,7 +783,7 @@
         "Greek",
         "Carthage",
         "War",
-        "Invasions",
+        "Invasion",
         "Sicily"
       ],
       "type": "military"
@@ -825,7 +839,7 @@
         "Greek",
         "Carthage",
         "War",
-        "Invasions",
+        "Invasion",
         "Pyrrhus 👤",
         "Sicily"
       ],
@@ -1247,7 +1261,7 @@
         "Second",
         "Punic",
         "War",
-        "Invasions",
+        "Invasion",
         "Scipio 👤"
       ],
       "type": "military"

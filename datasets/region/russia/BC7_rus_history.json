@@ -222,6 +222,7 @@
       "source": "https://en.wikipedia.org/wiki/Staraya_Ladoga",
       "tags": [
         "City",
+        "Finno-Ugric",
         "Norman",
         "Settlement",
         "Trade",
@@ -327,7 +328,7 @@
         "War",
         "Byzantine",
         "Norman",
-        "Plundering",
+        "Pillage",
         "Rus",
         "Slavic"
       ],
@@ -795,7 +796,7 @@
       "name_ru": "Возвращение Владимира в Русь",
       "tags": [
         "Civil War",
-        "Invasions",
+        "Invasion",
         "Mercenaries",
         "Norman",
         "Novgorod",
@@ -1171,7 +1172,7 @@
       "source": "https://en.wikipedia.org/wiki/Thietmar_of_Merseburg",
       "tags": [
         "War",
-        "Bolesław I",
+        "Bolesław I 👑",
         "Germanic",
         "Mercenaries",
         "Pecheneg",
@@ -1193,7 +1194,7 @@
       "name_ru": "Мир между Польшей и Русью",
       "tags": [
         "Marriage",
-        "Bolesław I",
+        "Bolesław I 👑",
         "Peace",
         "Polish",
         "Rus",
@@ -1356,7 +1357,7 @@
       "tags": [
         "Civil War",
         "Battle",
-        "Bolesław I",
+        "Bolesław I 👑",
         "Germanic",
         "Kyiv",
         "Novgorod",
@@ -1379,7 +1380,7 @@
       "source": "https://en.wikipedia.org/wiki/Boles%C5%82aw_I%27s_intervention_in_the_Kievan_succession_crisis",
       "tags": [
         "Civil War",
-        "Bolesław I",
+        "Bolesław I 👑",
         "Conquest",
         "Crisis",
         "Kyiv",
@@ -1423,7 +1424,7 @@
       "source": "https://en.wikipedia.org/wiki/Boles%C5%82aw_I%27s_intervention_in_the_Kievan_succession_crisis",
       "tags": [
         "Civil War",
-        "Bolesław I",
+        "Bolesław I 👑",
         "Crisis",
         "Kyiv",
         "Polish",
@@ -2422,7 +2423,7 @@
         "Conquest",
         "Decline",
         "Kyiv",
-        "Plundering",
+        "Pillage",
         "Rus",
         "Vladimir-Suzdal",
         "Slavic"
@@ -2598,7 +2599,7 @@
         "Battle",
         "Cuman",
         "Galicia",
-        "Invasions",
+        "Invasion",
         "Kipchak",
         "Mongolian",
         "Rus",
@@ -2621,7 +2622,7 @@
         "War",
         "Batu 👤",
         "Crisis",
-        "Invasions",
+        "Invasion",
         "Mongolian",
         "Political"
       ],
@@ -2643,7 +2644,7 @@
         "Legend",
         "Batu 👤",
         "Destruction",
-        "Invasions",
+        "Invasion",
         "Mongolian",
         "Rus",
         "Ryazan",
@@ -2667,7 +2668,7 @@
         "Batu 👤",
         "Cruelty",
         "Destruction",
-        "Invasions",
+        "Invasion",
         "Mongolian",
         "Rus",
         "Vladimir-Suzdal"
@@ -2686,7 +2687,7 @@
       "source": "https://ru.wikipedia.org/wiki/%D0%98%D0%B3%D0%BD%D0%B0%D1%87_%D0%9A%D1%80%D0%B5%D1%81%D1%82",
       "tags": [
         "Batu 👤",
-        "Invasions",
+        "Invasion",
         "Mongolian",
         "Novgorod",
         "Rus",
@@ -2709,7 +2710,7 @@
         "Chernigov",
         "Destruction",
         "Galicia",
-        "Invasions",
+        "Invasion",
         "Mongolian",
         "Rus",
         "Slavic"
@@ -2729,7 +2730,7 @@
       "tags": [
         "War",
         "Battle",
-        "Alexander Nevsky",
+        "Alexander Nevsky 👤",
         "Catholic",
         "Christian",
         "Novgorod",
@@ -2754,7 +2755,7 @@
         "Batu 👤",
         "Destruction",
         "Fall",
-        "Invasions",
+        "Invasion",
         "Kyiv",
         "Mongolian",
         "Rus",
@@ -2777,7 +2778,7 @@
         "Battle",
         "Batu 👤",
         "Germanic",
-        "Invasions",
+        "Invasion",
         "Mongolian",
         "Polish"
       ],
@@ -2796,7 +2797,7 @@
       "tags": [
         "War",
         "Battle",
-        "Alexander Nevsky",
+        "Alexander Nevsky 👤",
         "Catholic",
         "Christian",
         "Germanic",
@@ -2886,7 +2887,7 @@
       "name_ru": "Путешествие Александра Невского в Каракорум",
       "source": "https://en.wikipedia.org/wiki/Alexander_Nevsky#Relations_with_the_Mongols",
       "tags": [
-        "Alexander Nevsky",
+        "Alexander Nevsky 👤",
         "Golden Horde",
         "Mongolian",
         "Political",
@@ -2926,7 +2927,7 @@
       "name_ru": "Александр Невский отказывается от предложения Папы Римского",
       "tags": [
         "Diplomacy",
-        "Alexander Nevsky",
+        "Alexander Nevsky 👤",
         "Catholic",
         "Christian",
         "Novgorod",
@@ -2947,7 +2948,7 @@
       "source": "https://en.wikipedia.org/wiki/Alexander_Nevsky",
       "tags": [
         "King",
-        "Alexander Nevsky",
+        "Alexander Nevsky 👤",
         "Golden Horde",
         "Mongolian",
         "Political",
@@ -2989,7 +2990,7 @@
       "name_ru": "Монгольская перепись населения в Новгороде",
       "source": "https://en.wikipedia.org/wiki/Alexander_Nevsky#Relations_with_the_Mongols",
       "tags": [
-        "Alexander Nevsky",
+        "Alexander Nevsky 👤",
         "Crisis",
         "Golden Horde",
         "Mongolian",
@@ -3036,7 +3037,7 @@
       "source": "https://en.wikipedia.org/wiki/Alexander_Nevsky#Death_and_canonization",
       "tags": [
         "Dynasty",
-        "Alexander Nevsky",
+        "Alexander Nevsky 👤",
         "Christian",
         "Death",
         "Golden Horde",

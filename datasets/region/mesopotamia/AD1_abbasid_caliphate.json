@@ -126,7 +126,7 @@
         "Abbasid",
         "Caliph",
         "Islamic",
-        "Plundering",
+        "Pillage",
         "Siege"
       ],
       "type": "military"
@@ -324,7 +324,7 @@
         "Holy Site",
         "Islamic",
         "Massacre",
-        "Plundering",
+        "Pillage",
         "Schism"
       ],
       "type": "military"
@@ -491,6 +491,7 @@
         "Conquest",
         "Islamic",
         "Massacre",
+        "Milestone",
         "Crusade"
       ],
       "type": "military"
@@ -554,10 +555,10 @@
       "tags": [
         "Dynasty",
         "Foundation",
+        "Milestone",
         "Mongolian",
         "Political",
         "Temüjin 👤",
-        "Turning Point",
         "Unification"
       ],
       "type": "political"

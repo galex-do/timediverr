@@ -100,7 +100,7 @@
         "Byzantine",
         "Crisis",
         "Huns",
-        "Invasions",
+        "Invasion",
         "Tribute"
       ],
       "type": "military"
@@ -144,7 +144,7 @@
         "Collapse",
         "Decline",
         "End",
-        "Turning Point"
+        "Milestone"
       ],
       "type": "historic"
     },
@@ -372,7 +372,7 @@
         "Conquest",
         "Decline",
         "Germanic",
-        "Invasions"
+        "Invasion"
       ],
       "type": "military"
     },
@@ -456,7 +456,7 @@
         "Blasphemy",
         "Byzantine",
         "Christian",
-        "Plundering",
+        "Pillage",
         "Sassanid"
       ],
       "type": "military"
@@ -805,7 +805,6 @@
         "Battle",
         "Byzantine",
         "Conquest",
-        "Crete",
         "Innovation",
         "Siege",
         "Tactics"
@@ -896,6 +895,7 @@
         "Christian",
         "Council",
         "Crisis",
+        "Milestone",
         "Religious",
         "Schism",
         "Orthodox"
@@ -918,6 +918,7 @@
         "Byzantine",
         "Decline",
         "Norman",
+        "Normandy",
         "Siege"
       ],
       "type": "military"
@@ -961,9 +962,9 @@
         "First",
         "Byzantine",
         "Christian",
+        "Milestone",
         "Political",
         "Pope",
-        "Turning Point",
         "Crusade"
       ],
       "type": "historic"
@@ -1029,9 +1030,9 @@
         "Decline",
         "Destruction",
         "Fourth",
-        "Plundering",
+        "Milestone",
+        "Pillage",
         "Siege",
-        "Turning Point",
         "Venice",
         "Crusade"
       ],
