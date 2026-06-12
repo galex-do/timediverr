@@ -1,0 +1,725 @@
+{
+  "description": "Dataset covering the Republic of Venice from its lagoon origins to the Fourth Crusade — 42 events spanning 452–1203 AD, tracing the city-state's founding, naval rise, trading empire, and constitutional uniqueness.",
+  "events": [
+    {
+      "date": "15.06.0452",
+      "era": "AD",
+      "name": "Attila's Invasion Drives Refugees into the Venetian Lagoon",
+      "name_ru": "Вторжение Аттилы гонит беженцев в Венецианскую лагуну",
+      "description": "In June 452, the Hunnic army of Attila sacked Aquileia — then one of the largest cities in the western empire — and proceeded to ravage Padua, Vicenza, Verona, and Brescia. Populations of the northeastern Italian mainland fled into the shallow lagoon islands at the head of the Adriatic, where horses could not follow and warships could not easily navigate. These refugees built temporary settlements on islands such as Torcello, Grado, and Malamocco. Though the migration was initially seasonal, the security of the lagoon environment made many settlers permanent. The episode is the traditional origin of the Venetian population.",
+      "description_ru": "В июне 452 года гуннское войско Аттилы разграбило Аквилею — один из крупнейших городов западной империи — и опустошило Падую, Виченцу, Верону и Брешию. Население северо-востока италийского материка бежало на мелководные лагунные острова у вершины Адриатики, куда не могла добраться конница и куда с трудом проникали военные суда. Беженцы возводили временные поселения на островах Торчелло, Градо и Маламокко. Хотя миграция поначалу носила сезонный характер, безопасность лагунной среды удержала многих поселенцев навсегда. Этот эпизод считается традиционным истоком венецианского населения.",
+      "latitude": 45.77,
+      "longitude": 13.37,
+      "source": "https://en.wikipedia.org/wiki/Aquileia",
+      "tags": [
+        "Venice",
+        "Italian",
+        "Migration",
+        "Crisis"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0568",
+      "era": "AD",
+      "name": "Lombard Invasion — Second Wave of Lagoon Settlement",
+      "name_ru": "Вторжение лангобардов — вторая волна заселения лагуны",
+      "description": "The Lombard invasion of northern Italy in 568 under King Alboin drove a second, larger wave of refugees into the Venetian lagoon. Unlike the Huns, the Lombards intended permanent settlement of the Italian peninsula, eliminating any prospect of return for those who had fled. The bishop of Aquileia and many of its citizens relocated to Grado; the inhabitants of Padua moved in large numbers to the lagoon island of Malamocco. This wave transformed the lagoon communities from temporary refuges into permanent towns with institutions, clergy, and administrative structures inherited from the cities they had left.",
+      "description_ru": "Вторжение лангобардов в Северную Италию в 568 году под предводительством короля Альбоина погнало в Венецианскую лагуну вторую, более многочисленную волну беженцев. В отличие от гуннов, лангобарды намеревались постоянно заселить Италийский полуостров, исключая возможность возвращения для бежавших. Епископ Аквилеи и многие горожане переселились в Градо; жители Падуи в большом числе перебрались на лагунный остров Маламокко. Эта волна превратила лагунные поселения из временных убежищ в постоянные города с институтами, духовенством и административными структурами, унаследованными от покинутых городов.",
+      "latitude": 45.44,
+      "longitude": 12.33,
+      "source": "https://en.wikipedia.org/wiki/Lombard_invasion_of_Italy",
+      "tags": [
+        "Venice",
+        "Italian",
+        "Migration",
+        "Foundation"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0584",
+      "era": "AD",
+      "name": "Venice Under the Byzantine Exarchate of Ravenna",
+      "name_ru": "Венеция под управлением Византийского экзархата Равенны",
+      "description": "After the Lombard invasion, the Byzantine Empire retained control of coastal and lagoon territories in northeastern Italy through the Exarchate of Ravenna, established in 584. The lagoon communities nominally fell under Byzantine authority, administered by tribunes appointed in individual islands. This relationship gave early Venice access to Byzantine trade networks, legal traditions, and political culture while shielding it from Lombard domination. The connection with Constantinople shaped Venetian architecture, commerce, and statecraft. Byzantine suzerainty, however, was always loose — the lagoon communities gradually developed autonomous institutions that the empire was too distant to suppress.",
+      "description_ru": "После вторжения лангобардов Византийская империя сохранила контроль над прибрежными и лагунными территориями северо-восточной Италии через Равеннский экзархат, учреждённый в 584 году. Лагунные общины номинально находились под властью Византии, управляемые трибунами, назначавшимися на отдельных островах. Эти отношения открыли ранней Венеции доступ к Byzantine торговым сетям, правовым традициям и политической культуре, одновременно защищая её от лангобардского господства. Связь с Константинополем определила венецианскую архитектуру, торговлю и государственное искусство. Однако византийский сюзеренитет всегда оставался слабым — лагунные общины постепенно создавали автономные институты, которые империя была слишком далека, чтобы подавить.",
+      "latitude": 44.42,
+      "longitude": 12.2,
+      "source": "https://en.wikipedia.org/wiki/Exarchate_of_Ravenna",
+      "tags": [
+        "Venice",
+        "Byzantine",
+        "Italian",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0697",
+      "era": "AD",
+      "name": "First Doge of Venice Elected",
+      "name_ru": "Избран первый дож Венеции",
+      "description": "According to tradition, in 697 the lagoon communities elected Paoluccio Anafesto as the first Doge — from the Latin dux, meaning leader — of Venice. The office unified the previously fractious island tribunes under a single elected magistrate, creating the constitutional foundation of the Venetian Republic. The Doge was elected for life but was not a hereditary monarch; the office remained elective throughout the republic's existence. Early doges held broad powers, but over centuries the constitution progressively constrained them with councils and committees, producing the most elaborate system of checks against tyranny in medieval Europe.",
+      "description_ru": "По преданию, в 697 году лагунные общины избрали Паолуччо Анафесто первым дожем — от латинского dux, вождь — Венеции. Должность объединила прежде своевольных островных трибунов под единым избранным магистратом, заложив конституционную основу Венецианской республики. Дож избирался пожизненно, но не был наследственным монархом; должность оставалась выборной на протяжении всего существования республики. Ранние дожи обладали широкими полномочиями, однако на протяжении столетий конституция всё более ограничивала их советами и комитетами, создав наиболее изощрённую систему сдержек против тирании в средневековой Европе.",
+      "latitude": 45.44,
+      "longitude": 12.33,
+      "source": "https://en.wikipedia.org/wiki/Doge_of_Venice",
+      "tags": [
+        "Venice",
+        "Italian",
+        "Foundation",
+        "Reform"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0726",
+      "era": "AD",
+      "name": "Venice Defies Byzantine Iconoclasm",
+      "name_ru": "Венеция отвергает византийское иконоборчество",
+      "description": "When Byzantine Emperor Leo III issued his iconoclast decrees in 726, ordering the destruction of religious images, Venice refused to comply. The lagoon communities deposed the Byzantine-appointed governor, elected their own doge, and aligned with the Pope against imperial religious policy. This was Venice's first clear assertion of de facto independence from Constantinople. The episode demonstrated that the lagoon's geographical remoteness made Byzantine enforcement practically impossible. Venice retained its formal nominal allegiance to the empire for another century while developing independent political, ecclesiastical, and commercial institutions entirely on its own terms.",
+      "description_ru": "Когда византийский император Лев III издал в 726 году иконоборческие указы, предписывавшие уничтожение религиозных изображений, Венеция отказалась подчиниться. Лагунные общины свергли назначенного Византией наместника, избрали собственного дожа и примкнули к папе против имперской религиозной политики. Это стало первым явным утверждением Венецией де-факто независимости от Константинополя. Эпизод показал, что географическая удалённость лагуны делала принудительное исполнение приказов Byzantia практически невозможным. Венеция сохраняла формальную номинальную лояльность империи ещё столетие, одновременно развивая самостоятельные политические, церковные и коммерческие институты.",
+      "latitude": 45.44,
+      "longitude": 12.33,
+      "source": "https://en.wikipedia.org/wiki/Byzantine_Iconoclasm",
+      "tags": [
+        "Venice",
+        "Byzantine",
+        "Religious",
+        "Reform"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0810",
+      "era": "AD",
+      "name": "Pepin of Italy's Attack Repelled in the Lagoon",
+      "name_ru": "Атака Пипина Итальянского отражена в лагуне",
+      "description": "In 810, Pepin of Italy — son of Charlemagne — attacked the Venetian lagoon with a Frankish fleet seeking to bring Venice under Carolingian control. The Venetian defenders retreated from the outer islands and lured the Frankish ships into the shallow, twisting channels near the Rialto islands, where deep-drafted warships ran aground and became easy targets. Pepin's forces were repulsed after several months; disease and the hostile environment completed their destruction. The failed attack proved that the lagoon's geography was Venice's most powerful military asset — navigable only by those with intimate local knowledge.",
+      "description_ru": "В 810 году Пипин Итальянский — сын Карла Великого — атаковал Венецианскую лагуну с Франкским флотом, стремясь подчинить Венецию Каролингской власти. Венецианские защитники отошли с внешних островов и заманили Франкские суда в мелкие извилистые каналы близ островов Риальто, где суда с глубокой осадкой садились на мель и становились лёгкими мишенями. Силы Пипина были отражены после нескольких месяцев; болезни и враждебная среда довершили их разгром. Провалившаяся атака доказала, что география лагуны является мощнейшим военным активом Венеции — доступной для навигации лишь тем, кто имеет исчерпывающее местное знание.",
+      "latitude": 45.44,
+      "longitude": 12.33,
+      "source": "https://en.wikipedia.org/wiki/Pepin_of_Italy",
+      "tags": [
+        "Venice",
+        "Frankish",
+        "War",
+        "Maritime"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0811",
+      "era": "AD",
+      "name": "Rialto Established as Permanent Capital of Venice",
+      "name_ru": "Риальто становится постоянной столицей Венеции",
+      "description": "Following the Frankish attack of 810, the Venetian seat of government was permanently transferred to the Rialto island cluster at the centre of the lagoon — the deepest, most defensible, and best-connected group of islands. Rialto offered the deepest anchorages in the lagoon, access to the main channel, and natural defensive moats. The decision was the founding act of Venice as a unified city rather than a scatter of island communities. The Grand Canal — the main waterway dividing the Rialto islands — became the spine of the city's commercial and civic life and remains so today.",
+      "description_ru": "После Франкского нападения 810 года резиденция венецианского правительства была окончательно перенесена на островной кластер Риальто в центре лагуны — наиболее глубокую, удобную для обороны и связанную группу островов. Риальто предлагал наибольшие глубины для стоянки судов в лагуне, выход к главному фарватеру и естественные защитные рвы. Это решение стало основополагающим актом создания Венеции как единого города, а не рассредоточенных островных общин. Большой канал — главный водный путь, разделяющий острова Риальто, — стал хребтом коммерческой и гражданской жизни города и остаётся таковым по сей день.",
+      "latitude": 45.44,
+      "longitude": 12.34,
+      "source": "https://en.wikipedia.org/wiki/History_of_Venice",
+      "tags": [
+        "Venice",
+        "Italian",
+        "Capital",
+        "Foundation"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0814",
+      "era": "AD",
+      "name": "Pax Nicephori — Venice Recognized as Autonomous Between East and West",
+      "name_ru": "Мир Никифора — Венеция признана автономной между Востоком и Западом",
+      "description": "The Pax Nicephori of 814, negotiated between Charlemagne and the Byzantine Emperor Nicephorus I, settled the political status of Venice as a nominally Byzantine territory exempt from Frankish authority. Charlemagne renounced his claim to the lagoon in exchange for Byzantine recognition of his imperial title. Venice emerged from the agreement as a practical buffer state between the two empires — paying symbolic tribute to Constantinople while enjoying de facto self-governance and freedom to trade with both sides. The treaty's ambiguity became Venice's strategic advantage, allowing it to play East against West for centuries.",
+      "description_ru": "Мир Никифора 814 года, заключённый между Карлом Великим и византийским императором Никифором I, урегулировал политический статус Венеции как номинально Byzantine территории, изъятой из Франкской власти. Карл Великий отказался от претензий на лагуну в обмен на Byzantийское признание своего императорского титула. Венеция вышла из соглашения практическим государством-буфером между двумя империями — выплачивая символическую дань Константинополю, пользуясь де-факто самоуправлением и свободой торговли с обеими сторонами. Двусмысленность договора стала стратегическим преимуществом Венеции, позволявшим ей противопоставлять Восток Западу на протяжении столетий.",
+      "latitude": 45.44,
+      "longitude": 12.33,
+      "source": "https://en.wikipedia.org/wiki/Pax_Nicephori",
+      "tags": [
+        "Venice",
+        "Frankish",
+        "Byzantine",
+        "Treaty"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0828",
+      "era": "AD",
+      "name": "Venetian Merchants Steal the Relics of Saint Mark from Alexandria",
+      "name_ru": "Венецианские купцы похищают мощи святого Марка из Александрии",
+      "description": "In 828, two Venetian merchants — Buono da Malamocco and Rustico da Torcello — bribed the custodians of the tomb of Saint Mark the Evangelist in Alexandria and smuggled the relics out of the city concealed beneath layers of pork and cabbage to deter inspection by Muslim customs officials. The relics arrived in Venice and were greeted as a supreme sacred acquisition. Saint Mark replaced the Byzantine-imposed Saint Theodore as the patron of Venice, and the winged lion of Mark became the city's emblem. The theft was a deliberate act of civic identity-building, giving Venice apostolic prestige independent of Rome or Constantinople.",
+      "description_ru": "В 828 году двое венецианских купцов — Буоно да Маламокко и Рустико да Торчелло — подкупили хранителей гробницы апостола Марка в Александрии и вывезли мощи из города, спрятав под слоями свинины и капусты, чтобы избежать досмотра мусульманскими таможенниками. Мощи прибыли в Венецию и были встречены как высочайшее священное обретение. Святой Марк сменил навязанного Byzantiej святого Феодора в качестве покровителя Венеции, а крылатый лев Марка стал гербом города. Кража была намеренным актом создания городской идентичности, придавшим Венеции апостольский престиж независимо от Рима или Константинополя.",
+      "latitude": 31.2,
+      "longitude": 29.92,
+      "source": "https://en.wikipedia.org/wiki/Relics_of_Saint_Mark",
+      "tags": [
+        "Venice",
+        "Italian",
+        "Saint",
+        "Trade"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.0829",
+      "era": "AD",
+      "name": "Construction of the First St. Mark's Basilica Begins",
+      "name_ru": "Начало строительства первой базилики Святого Марка",
+      "description": "In 829, Doge Giustiniano Partecipazio ordered construction of a chapel adjacent to the Doge's Palace to house the newly arrived relics of Saint Mark. The original structure was a relatively modest building; it burned during the popular uprising of 976. The current basilica — begun in 1063 in the form that survives — is the third building on the site. Even in its original form, the choice to build a ducal chapel rather than a cathedral signalled that St. Mark's was a monument of Venetian state power as much as religious devotion. The relationship between the basilica and the Doge's Palace, facing each other across the Piazza, defined the civic geography of Venice.",
+      "description_ru": "В 829 году дож Джустиниано Партечипацио повелел возвести часовню рядом с Дворцом дожей для хранения только что прибывших мощей святого Марка. Первоначальное сооружение было сравнительно скромным; оно сгорело во время народного восстания 976 года. Нынешняя базилика — заложенная в 1063 году в сохранившемся виде — является третьим зданием на этом месте. Даже в первоначальном облике выбор в пользу герцогской часовни, а не собора, свидетельствовал, что Сан-Марко является памятником государственной власти Венеции в той же мере, что и религиозным памятником. Соотношение базилики и Дворца дожей, обращённых друг к другу через Пьяццу, определило гражданскую географию Венеции.",
+      "latitude": 45.43,
+      "longitude": 12.34,
+      "source": "https://en.wikipedia.org/wiki/St_Mark%27s_Basilica",
+      "tags": [
+        "Venice",
+        "Italian",
+        "Saint",
+        "Building 🏠"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0840",
+      "era": "AD",
+      "name": "Pactum Lotharii — Venice Secures Western Trade Guarantees",
+      "name_ru": "Пакт Лотаря — Венеция закрепляет западные торговые гарантии",
+      "description": "The Pactum Lotharii of 840, concluded between Venice and Carolingian Emperor Lothair I, was Venice's first comprehensive western trade treaty. It guaranteed Venetian merchants the right to trade freely throughout the Frankish kingdom without paying internal tolls, confirmed Venetian property rights in Frankish ports, and established mutual legal protections. In exchange, Venice promised to patrol the Adriatic against pirates and refrain from providing ships to Frankish enemies. The pact formalized Venice's role as the commercial gateway between the Carolingian west and the Byzantine-Mediterranean world — a position it would exploit for the next four centuries.",
+      "description_ru": "Пакт Лотаря 840 года, заключённый между Венецией и Каролингским императором Лотарем I, стал первым всеобъемлющим западным торговым договором Венеции. Он гарантировал венецианским купцам право свободной торговли по всему Франкскому королевству без уплаты внутренних пошлин, подтверждал имущественные права Венеции в Франкских портах и устанавливал взаимную правовую защиту. В обмен Венеция обязалась патрулировать Адриатику против пиратов и воздерживаться от предоставления кораблей врагам Франков. Пакт закрепил роль Венеции в качестве торговых ворот между Каролингским Западом и Визант.-Средиземноморским миром.",
+      "latitude": 45.44,
+      "longitude": 12.33,
+      "source": "https://en.wikipedia.org/wiki/Pactum_Lotharii",
+      "tags": [
+        "Venice",
+        "Frankish",
+        "Trade",
+        "Treaty"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0864",
+      "era": "AD",
+      "name": "Venice Establishes Salt Trade Dominance in the Po Valley",
+      "name_ru": "Венеция устанавливает господство в торговле солью в долине По",
+      "description": "By the mid-ninth century, Venice had established a near-monopoly on the production and distribution of salt throughout the Po valley and much of northern Italy. The shallow lagoon margins were ideal for salt-pan evaporation, and Venice controlled the main waterway access to inland markets. Salt was essential for food preservation and commanded high prices; Venice used its geographic monopoly to extract tolls, suppress competition, and accumulate the capital that funded subsequent maritime ventures. The salt trade was the original engine of Venetian wealth — predating by centuries the spice trade and crusader commerce that later defined the city's reputation.",
+      "description_ru": "К середине IX века Венеция установила почти полную монополию на производство и распределение соли по всей долине По и большей части Северной Италии. Мелководные края лагуны идеально подходили для соляных испарительных прудов, а Венеция контролировала главные водные пути к внутренним рынкам. Соль была незаменима для хранения продуктов и стоила дорого; Венеция использовала свою географическую монополию для взимания пошлин, подавления конкуренции и накопления капитала, финансировавшего последующие морские предприятия. Торговля солью была исходным двигателем венецианского богатства — она предшествовала на столетия пряностям и крестоносной торговле, которые впоследствии определили репутацию города.",
+      "latitude": 45.44,
+      "longitude": 12.33,
+      "source": "https://en.wikipedia.org/wiki/History_of_Venice",
+      "tags": [
+        "Venice",
+        "Italian",
+        "Trade",
+        "Economic"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0976",
+      "era": "AD",
+      "name": "Doge Pietro IV Candiano Killed — Constitutional Crisis and Reform",
+      "name_ru": "Дож Пьетро IV Кандиано убит — конституционный кризис и реформа",
+      "description": "In 976, Doge Pietro IV Candiano was killed in a popular uprising. He had ruled autocratically, accumulated vast personal wealth, introduced foreign mercenaries, and attempted to make the dogeship hereditary. Rioters burned the Doge's Palace and the first St. Mark's Basilica. The crisis triggered a fundamental reorientation of Venetian governance: the new doge was required to govern with councils, and the principle that the doge was a servant of the commune rather than a personal ruler was reaffirmed. The episode was the first of several moments in which Venetians violently defended their republican constitution against ducal overreach.",
+      "description_ru": "В 976 году дож Пьетро IV Кандиано был убит в ходе народного восстания. Он правил самовластно, накопил огромное личное состояние, ввёл иностранных наёмников и пытался сделать должность дожа наследственной. Бунтовщики сожгли Дворец дожей и первую базилику Святого Марка. Кризис повлёк коренную переориентацию венецианского управления: новый дож обязан был управлять совместно с советами, и принцип о том, что дож является слугой коммуны, а не личным правителем, был подтверждён. Этот эпизод стал первым из нескольких моментов, когда венецианцы силой защищали свою республиканскую конституцию от превышения полномочий дожем.",
+      "latitude": 45.44,
+      "longitude": 12.33,
+      "source": "https://en.wikipedia.org/wiki/Pietro_IV_Candiano",
+      "tags": [
+        "Venice",
+        "Italian",
+        "Crisis",
+        "Reform"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0991",
+      "era": "AD",
+      "name": "Doge Pietro II Orseolo Opens the Adriatic and Byzantine Trade",
+      "name_ru": "Дож Пьетро II Орсеоло открывает Адриатику и торговлю с Византией",
+      "description": "Doge Pietro II Orseolo, ruling from 991 to 1008, transformed Venice from a regional lagoon power into a serious Adriatic commercial force. He negotiated new trading privileges with the Byzantine Empire, reducing duties on Venetian merchants throughout Byzantine ports, and concluded commercial agreements with Arab rulers in Egypt and Syria. He sent a fleet to clear Croatian pirates from the Dalmatian coast, opening safe passage for Venetian shipping. His diplomatic acumen — playing Byzantine, Frankish, and Islamic rulers against each other while committing Venice to none — became the template for Venetian foreign policy for the next three centuries.",
+      "description_ru": "Дож Пьетро II Орсеоло, правивший с 991 по 1008 год, превратил Венецию из региональной лагунной державы в серьёзную адриатическую торговую силу. Он договорился о новых торговых привилегиях с Byzantийской империей, снизив пошлины для венецианских купцов по всем Byzantийским портам, и заключил торговые соглашения с арабскими правителями Египта и Сирии. Он отправил флот для очищения Далматинского побережья от хорватских пиратов, открыв безопасный путь для венецианского судоходства. Его дипломатическое искусство — противопоставление Byzantийских, Франкских и Исламских правителей друг другу при сохранении нейтралитета Венеции — стало образцом венецианской внешней политики на следующие три столетия.",
+      "latitude": 45.44,
+      "longitude": 12.33,
+      "source": "https://en.wikipedia.org/wiki/Pietro_II_Orseolo",
+      "tags": [
+        "Venice",
+        "Byzantine",
+        "Trade",
+        "Diplomacy"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "09.05.1000",
+      "era": "AD",
+      "name": "Orseolo Defeats the Dalmatian Pirates — Origins of the Marriage to the Sea",
+      "name_ru": "Орсеоло разбивает далматинских пиратов — истоки праздника Обручения с морем",
+      "description": "On Ascension Day 1000, Doge Pietro II Orseolo led a Venetian fleet down the Dalmatian coast, defeating the Croatian pirates who had preyed on Adriatic shipping and receiving the submission of Zadar, Split, and other coastal towns. Venice assumed the title Duke of Dalmatia. The expedition established Venetian dominance over the Adriatic and initiated the annual Ascension Day ceremony in which the doge sailed into the Adriatic aboard the ceremonial galley Bucentaur and cast a gold ring into the sea — the Sposalizio del Mare, or Marriage to the Sea — symbolising Venice's sovereign claim over the Adriatic as its own domain. The ceremony continued annually until the fall of the republic in 1797.",
+      "description_ru": "В День Вознесения 1000 года дож Пьетро II Орсеоло повёл венецианский флот вдоль Далматинского побережья, разгромив хорватских пиратов, нападавших на адриатическое судоходство, и приняв покорность Задара, Сплита и других прибрежных городов. Венеция приняла титул герцога Далмации. Экспедиция утвердила венецианское господство над Адриатикой и положила начало ежегодной церемонии в День Вознесения, когда дож выходил в Адриатику на торжественной галере Буцентавр и бросал в море золотое кольцо — Sposalizio del Mare, или Обручение с морем, — символизируя суверенные претензии Венеции на Адриатику как собственный домен. Церемония продолжалась ежегодно вплоть до падения республики в 1797 году.",
+      "latitude": 44.12,
+      "longitude": 15.23,
+      "source": "https://en.wikipedia.org/wiki/Sposalizio_del_Mare",
+      "tags": [
+        "Venice",
+        "Maritime",
+        "Conquest",
+        "Seamen"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1063",
+      "era": "AD",
+      "name": "New St. Mark's Basilica Built in Byzantine Imperial Style",
+      "name_ru": "Новая базилика Святого Марка построена в Byzantийском имперском стиле",
+      "description": "Construction of the current St. Mark's Basilica began in 1063 under Doge Domenico Contarini. Modelled on the Church of the Holy Apostles in Constantinople, the new building was a deliberate statement of Venetian ambition: a building equal in grandeur to imperial Byzantine architecture, financed by a prosperous merchant republic. The Greek-cross plan with five domes, the lavish gold mosaic interiors, and the incorporation of columns and trophies looted from across the Mediterranean reflected Venice's role as a commercial empire claiming Byzantine cultural prestige. Each crusade and trading expedition brought back new treasures to adorn the building.",
+      "description_ru": "Строительство нынешней базилики Святого Марка началось в 1063 году при доже Доменико Контарини. Построенная по образцу Церкви Святых Апостолов в Константинополе, новое здание стало намеренным заявлением венецианских амбиций: сооружение, равное по величию имперской Byzantийской архитектуре, финансированное процветающей купеческой республикой. Греческий крест в плане с пятью куполами, роскошные мозаики с золотым фоном и инкорпорирование колонн и трофеев, привезённых со всего Средиземноморья, отражали роль Венеции как торговой империи, претендующей на Byzantийский культурный престиж.",
+      "latitude": 45.43,
+      "longitude": 12.34,
+      "source": "https://en.wikipedia.org/wiki/St_Mark%27s_Basilica",
+      "tags": [
+        "Venice",
+        "Byzantine",
+        "Building 🏠",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.05.1082",
+      "era": "AD",
+      "name": "Chrysobull of Alexios I — Venice Wins Free Trade Across the Byzantine Empire",
+      "name_ru": "Хрисовул Алексея I — Венеция получает свободную торговлю по всей Byzantийской империи",
+      "description": "In May 1082, Byzantine Emperor Alexios I Komnenos issued the Chrysobull of 1082 granting Venice extraordinarily broad trading privileges: exemption from all customs duties throughout the Byzantine Empire, possession of a trading quarter in Constantinople, and commercial rights in ports from the Black Sea to the Aegean. The concession was payment for Venetian naval assistance against the Norman invasion of Robert Guiscard. It gave Venetian merchants a structural commercial advantage over Byzantine Greeks themselves — they paid no duties while locals did. The Chrysobull made Venice the dominant commercial power in the eastern Mediterranean and is considered the foundation of the Venetian trading empire.",
+      "description_ru": "В мае 1082 года Byzantийский император Алексей I Комнин издал Хрисовул 1082 года, предоставив Венеции исключительно широкие торговые привилегии: освобождение от всех таможенных пошлин по всей Byzantийской империи, владение торговым кварталом в Константинополе и коммерческие права в портах от Чёрного моря до Эгейского. Уступка стала платой за венецианскую военно-морскую помощь против нормандского вторжения Роберта Гвискара. Она давала венецианским купцам структурное коммерческое преимущество перед самими Byzantийскими греками — они не платили пошлин, тогда как местные жители платили. Хрисовул сделал Венецию доминирующей торговой силой Восточного Средиземноморья.",
+      "latitude": 41.01,
+      "longitude": 28.98,
+      "source": "https://en.wikipedia.org/wiki/Chrysobull_of_1082",
+      "tags": [
+        "Venice",
+        "Byzantine",
+        "Trade",
+        "Expansion"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1084",
+      "era": "AD",
+      "name": "Venice Defeats the Norman Fleet of Robert Guiscard",
+      "name_ru": "Венеция разбивает нормандский флот Роберта Гвискара",
+      "description": "In 1084, a Venetian fleet engaged and defeated the Norman fleet of Robert Guiscard off Corfu in two naval engagements, relieving the Byzantine city of Dyrrachium. The Normans had invaded Byzantine Epirus and threatened to advance on Constantinople. Venice's intervention preserved Byzantine territorial integrity in the western Balkans and secured the Chrysobull trading concessions that Alexios I had granted in 1082. The campaign demonstrated Venice's capacity to project naval power across the Adriatic and into the Ionian Sea — a strategic reach that transformed the city from a lagoon state into a Mediterranean naval power.",
+      "description_ru": "В 1084 году венецианский флот вступил в бой и разбил нормандский флот Роберта Гвискара у Корфу в двух морских сражениях, деблокировав Byzantийский Диррахий. Нормандцы вторглись в Byzantийский Эпир и угрожали двинуться на Константинополь. Вмешательство Венеции сохранило Byzantийскую территориальную целостность на западных Балканах и закрепило торговые концессии Хрисовула, предоставленные Алексеем I в 1082 году. Кампания продемонстрировала способность Венеции проецировать военно-морскую мощь через Адриатику и в Ионическое море — стратегический охват, преобразовавший город из лагунного государства в Средиземноморскую военно-морскую державу.",
+      "latitude": 39.62,
+      "longitude": 19.92,
+      "source": "https://en.wikipedia.org/wiki/Robert_Guiscard",
+      "tags": [
+        "Venice",
+        "Norman",
+        "Maritime",
+        "Seamen"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "27.11.1095",
+      "era": "AD",
+      "name": "First Crusade Proclaimed — Venice Positions for Commercial Advantage",
+      "name_ru": "Провозглашён Первый крестовый поход — Венеция занимает позицию для торговой выгоды",
+      "description": "When Pope Urban II proclaimed the First Crusade at Clermont in 1095, Venice's response was characteristically calculated. The city was initially cautious — its established trade relations with Muslim Egypt and Syria made religious war commercially inconvenient. Venice ultimately sent a fleet to the Holy Land in 1099, arriving after Jerusalem had fallen, but positioned itself to secure trading privileges from the newly founded Crusader states. Unlike other Italian cities that joined from religious enthusiasm, Venice treated the crusade as a business opportunity: every military contribution was negotiated against specific commercial concessions.",
+      "description_ru": "Когда папа Урбан II провозгласил Первый крестовый поход в Клермоне в 1095 году, реакция Венеции была характерно расчётливой. Город поначалу проявлял осторожность — устоявшиеся торговые отношения с мусульманским Египтом и Сирией делали религиозную войну коммерчески неудобной. В итоге Венеция отправила флот на Святую землю в 1099 году, прибыв уже после падения Иерусалима, однако заняла позицию для получения торговых привилегий от новообразованных государств крестоносцев. В отличие от других итальянских городов, примкнувших из религиозного рвения, Венеция рассматривала крестовый поход как деловую возможность.",
+      "latitude": 45.44,
+      "longitude": 12.33,
+      "source": "https://en.wikipedia.org/wiki/First_Crusade",
+      "tags": [
+        "Venice",
+        "Crusade",
+        "Trade",
+        "Italian"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.06.1099",
+      "era": "AD",
+      "name": "Venetian Fleet Arrives at Jaffa to Aid the First Crusade",
+      "name_ru": "Венецианский флот прибывает в Яффу на помощь Первому крестовому походу",
+      "description": "In June 1099, a Venetian fleet of some 200 vessels arrived at Jaffa shortly before the fall of Jerusalem. The fleet carried timber and siege engineers who contributed critical materials for the siege equipment used to take Jerusalem on 15 July 1099. In return, Venice negotiated from Godfrey of Bouillon the right to a church, a market, and a court in every city of the Crusader kingdom where Venice provided assistance. This template — military support exchanged for commercial enclaves — became the model for all subsequent Venetian involvement in crusader affairs.",
+      "description_ru": "В июне 1099 года венецианский флот из около 200 судов прибыл в Яффу незадолго до падения Иерусалима. Флот доставил лесоматериалы и военных инженеров, обеспечивших критически важные материалы для осадного снаряжения, применявшегося при взятии Иерусалима 15 июля 1099 года. В обмен Венеция договорилась с Готфридом Бульонским о праве на церковь, рынок и суд в каждом городе Крестоносного королевства, где Венеция оказывала помощь. Этот шаблон — военная поддержка в обмен на торговые анклавы — стал образцом всего последующего участия Венеции в делах крестоносцев.",
+      "latitude": 32.05,
+      "longitude": 34.75,
+      "source": "https://en.wikipedia.org/wiki/Venetian_Crusade",
+      "tags": [
+        "Venice",
+        "Crusade",
+        "Maritime",
+        "Trade"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1100",
+      "era": "AD",
+      "name": "Venice Receives Trading Quarter and Privileges in Jerusalem",
+      "name_ru": "Венеция получает торговый квартал и привилегии в Иерусалиме",
+      "description": "In 1100, the newly crowned King Baldwin I of Jerusalem formally granted Venice a trading quarter in Jerusalem, a market in Acre, and freedom from commercial duties in all ports of the Kingdom of Jerusalem. The grant established Venice's template for colonial commerce: a self-administered enclave — the Venetian quarter — in a foreign city, with its own church, court, warehouse, and market exempt from local taxation. Over the following century Venice replicated this model in dozens of cities from Acre to Constantinople to Alexandria. The Venetian quarter was not merely a trading post but a miniature republic — an extraterritorial extension of the Venetian legal and commercial system.",
+      "description_ru": "В 1100 году только что коронованный король Иерусалима Балдуин I официально предоставил Венеции торговый квартал в Иерусалиме, рынок в Акре и свободу от торговых пошлин во всех портах Иерусалимского королевства. Дар установил венецианский шаблон колониальной торговли: самоуправляемый анклав — Венецианский квартал — в чужом городе с собственной церковью, судом, складом и рынком, освобождёнными от местного налогообложения. На протяжении следующего столетия Венеция тиражировала эту модель в десятках городов от Акры до Константинополя и Александрии. Венецианский квартал был не просто торговым постом, а миниатюрной республикой.",
+      "latitude": 31.78,
+      "longitude": 35.22,
+      "source": "https://en.wikipedia.org/wiki/County_of_Jaffa_and_Ascalon",
+      "tags": [
+        "Venice",
+        "Crusade",
+        "Trade",
+        "Expansion"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1104",
+      "era": "AD",
+      "name": "The Arsenal of Venice Founded — First Industrial Complex in Europe",
+      "name_ru": "Основан Венецианский Арсенал — первый промышленный комплекс в Европе",
+      "description": "In 1104, Venice established the Arsenale — a state-owned shipyard and armaments complex on the eastern edge of the city. Unlike private shipyards that built vessels individually, the Arsenale operated as a systematic production facility with standardized parts, specialised workers, and sequential assembly. By the thirteenth century it could launch a fully equipped warship in a single day using an early assembly-line method. At its peak, the Arsenale employed up to 16,000 workers — the Arsenalotti — making it the largest industrial enterprise in medieval Europe. Its methods anticipated factory production by five centuries and became one of the most studied organizational innovations of the pre-industrial world.",
+      "description_ru": "В 1104 году Венеция основала Арсенал — государственную верфь и оружейный комплекс на восточной окраине города. В отличие от частных верфей, строивших суда поодиночке, Арсенал функционировал как систематическое производственное предприятие со стандартизированными деталями, специализированными рабочими и последовательной сборкой. К XIII веку он мог спустить на воду полностью оснащённый военный корабль за один день, используя раннюю поточную сборку. В пике Арсенал нанимал до 16 000 рабочих — арсенальщиков, — будучи крупнейшим промышленным предприятием средневековой Европы. Его методы предвосхищали фабричное производство на пять столетий.",
+      "latitude": 45.43,
+      "longitude": 12.35,
+      "source": "https://en.wikipedia.org/wiki/Venetian_Arsenal",
+      "tags": [
+        "Venice",
+        "Venetian",
+        "Maritime",
+        "Foundation"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1110",
+      "era": "AD",
+      "name": "Venice Captures Sidon in the Holy Land",
+      "name_ru": "Венеция захватывает Сидон на Святой земле",
+      "description": "In 1110, a Venetian fleet cooperated with the Norwegian King Sigurd I — then returning from his own crusading expedition — and King Baldwin I of Jerusalem to capture the port city of Sidon from its Fatimid garrison. The operation was a joint amphibious assault in which Venetian naval strength and the Norwegian contingent provided the decisive force. Venice received extensive trading privileges in Sidon as reward. The capture extended crusader control over the Lebanese coastline and deepened Venice's commercial stake in the Levant. The alliance with a Scandinavian king illustrated the pan-European network that Venetian trade diplomacy could mobilise.",
+      "description_ru": "В 1110 году венецианский флот совместно с норвежским королём Сигурдом I — возвращавшимся из собственного крестоносного похода — и королём Иерусалима Балдуином I захватил портовый город Сидон у Фатимидского гарнизона. Операция представляла собой совместный морской десант, в котором венецианская морская мощь и норвежский контингент обеспечили решающую силу. За это Венеция получила широкие торговые привилегии в Сидоне. Захват распространил контроль крестоносцев на Ливанское побережье и углубил коммерческие интересы Венеции в Леванте. Союз со Скандинавским королём проиллюстрировал общеевропейскую сеть, которую могла мобилизовать венецианская торговая дипломатия.",
+      "latitude": 33.56,
+      "longitude": 35.37,
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Sidon_(1110)",
+      "tags": [
+        "Venice",
+        "Crusade",
+        "Maritime",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1122",
+      "era": "AD",
+      "name": "Venetian Crusade — Doge Domenico Michiel Leads Fleet to the East",
+      "name_ru": "Венецианский крестовый поход — дож Доменико Микьель ведёт флот на восток",
+      "description": "In 1122, Doge Domenico Michiel personally led a large Venetian fleet to the Levant after Byzantine Emperor John II Komnenos refused to renew Venetian trading privileges. The fleet ravaged Byzantine islands including Rhodes, Chios, and Samos as punitive action, then turned to aid the Crusader states. The dual mission — commercial pressure on Byzantium and military support for the crusaders — typified Venice's capacity to pursue multiple strategic objectives simultaneously. The expedition resulted in major territorial and commercial gains and demonstrated that Venice was now capable of independent military-commercial projection across the entire eastern Mediterranean.",
+      "description_ru": "В 1122 году дож Доменико Микьель лично возглавил крупный венецианский флот в Левант после того, как Byzantийский император Иоанн II Комнин отказался возобновить венецианские торговые привилегии. Флот опустошил Byzantийские острова, в том числе Родос, Хиос и Самос в качестве карательной меры, затем обратился на помощь государствам крестоносцев. Двойная миссия — коммерческое давление на Byzantию и военная поддержка крестоносцев — олицетворяла способность Венеции одновременно преследовать несколько стратегических целей. Экспедиция принесла крупные территориальные и коммерческие приобретения.",
+      "latitude": 45.44,
+      "longitude": 12.33,
+      "source": "https://en.wikipedia.org/wiki/Venetian_Crusade",
+      "tags": [
+        "Venice",
+        "Crusade",
+        "Maritime",
+        "Seamen"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "25.05.1123",
+      "era": "AD",
+      "name": "Battle of Ascalon — Venice Destroys the Fatimid Fleet",
+      "name_ru": "Битва при Аскалоне — Венеция уничтожает Фатимидский флот",
+      "description": "On 25 May 1123, the Venetian fleet under Doge Domenico Michiel destroyed the Fatimid Egyptian navy near Ascalon in the largest naval engagement in the eastern Mediterranean since late antiquity. The Egyptian fleet had sortied from Ascalon to intercept the Venetians; Michiel feigned retreat, drew the Egyptians out of formation, then turned and attacked. The Fatimid fleet was annihilated. The victory eliminated Egyptian naval power as a threat to Crusader coastal cities and established Venetian naval supremacy in the eastern Mediterranean for a generation. It is considered the most significant Venetian naval victory of the twelfth century.",
+      "description_ru": "25 мая 1123 года венецианский флот под командованием дожа Доменико Микьеля уничтожил Фатимидский Египетский флот у Аскалона в крупнейшем морском сражении в Восточном Средиземноморье со времён поздней Античности. Египетский флот вышел из Аскалона для перехвата венецианцев; Микьель симулировал отступление, выманил египтян из строя, затем развернулся и атаковал. Фатимидский флот был уничтожен. Победа устранила египетскую военно-морскую мощь как угрозу прибрежным городам крестоносцев и установила венецианское военно-морское превосходство в Восточном Средиземноморье на целое поколение.",
+      "latitude": 31.67,
+      "longitude": 34.56,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Ascalon_(1123)",
+      "tags": [
+        "Venice",
+        "Islamic",
+        "Seamen",
+        "Maritime"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "07.07.1124",
+      "era": "AD",
+      "name": "Venice Captures Tyre — Key Levantine Port Secured",
+      "name_ru": "Венеция захватывает Тир — ключевой левантийский порт",
+      "description": "On 7 July 1124, the Venetian fleet captured Tyre — the most important remaining Muslim-held port city on the Levantine coast — after a siege of several months. The city had resisted earlier crusader assaults; the Venetians succeeded through a naval blockade that starved the garrison. In exchange for the capture, Venice received one-third of the city, full exemption from tolls, and the right to use its own weights and measures — making Tyre a partially Venetian-administered city. The capture of Tyre completed Venetian domination of the major Levantine port cities and gave Venice's trade network direct access to the caravan routes from Mesopotamia and Persia.",
+      "description_ru": "7 июля 1124 года венецианский флот захватил Тир — важнейший из остававшихся в мусульманских руках портовых городов Левантийского побережья — после осады длиной в несколько месяцев. Город выдержал предыдущие штурмы крестоносцев; венецианцам удалось взять его через морскую блокаду, морившую гарнизон голодом. В обмен на захват Венеция получила треть города, полное освобождение от пошлин и право использовать собственные меры и весы — превратив Тир в частично венецианско-управляемый город. Захват Тира завершил венецианское господство над главными левантийскими портами.",
+      "latitude": 33.27,
+      "longitude": 35.2,
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Tyre_(1124)",
+      "tags": [
+        "Venice",
+        "Crusade",
+        "Conquest",
+        "Maritime"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1143",
+      "era": "AD",
+      "name": "Great Council of Venice Established",
+      "name_ru": "Учреждён Большой совет Венеции",
+      "description": "Around 1143, Venice formalized the Great Council — the Maggior Consiglio — as the supreme deliberative body of the republic, composed of male members of the noble families enrolled in its membership. The council's creation redistributed power away from the doge and towards the broader patrician class, reflecting a conscious republican principle: that governance required the consent of the governing class rather than the will of one man. Over the following centuries the council's membership became closed — the Serrata of 1297 fixed it to hereditary noble families — creating the stable oligarchic structure that sustained the Venetian Republic for six hundred years.",
+      "description_ru": "Около 1143 года Венеция формализовала Большой совет — Maggior Consiglio — как высший совещательный орган республики, состоящий из мужчин благородных семей, включённых в его состав. Создание совета перераспределило власть от дожа к более широкому патрицианскому классу, отражая осознанный республиканский принцип: управление требует согласия правящего класса, а не воли одного человека. На протяжении следующих столетий членство в совете стало закрытым — Серрата 1297 года закрепила его за наследственными благородными семьями, — создав стабильную олигархическую структуру, поддерживавшую Венецианскую республику шестьсот лет.",
+      "latitude": 45.44,
+      "longitude": 12.33,
+      "source": "https://en.wikipedia.org/wiki/Great_Council_of_Venice",
+      "tags": [
+        "Venice",
+        "Venetian",
+        "Reform",
+        "Law"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1148",
+      "era": "AD",
+      "name": "Venice and Byzantium Field Joint Fleet Against Norman Sicily",
+      "name_ru": "Венеция и Byzantия выставляют совместный флот против Нормандской Сицилии",
+      "description": "In 1148, Venice contributed a fleet to a joint Byzantine-Venetian naval campaign against the Norman King Roger II of Sicily, who had raided Byzantine Greece and sacked Corinth and Thebes. The partnership demonstrated that Venice's military relationship with the Byzantine Empire was reciprocal — Venice received trading privileges; Constantinople received naval assistance it could not provide from its own depleted fleet. The joint operations in the Ionian and Aegean cemented Venice's strategic position as the Byzantine Empire's essential naval contractor, a role that gave Venice enormous leverage in future trade negotiations with Constantinople.",
+      "description_ru": "В 1148 году Венеция выделила флот для совместной Byzantийско-Венецианской морской кампании против Нормандского короля Сицилии Роджера II, совершавшего набеги на Byzantийскую Грецию и разграбившего Коринф и Фивы. Партнёрство показало, что военные отношения Венеции с Byzantийской империей были взаимными — Венеция получала торговые привилегии; Константинополь получал военно-морскую помощь, которую не мог обеспечить собственным истощённым флотом. Совместные операции в Ионическом и Эгейском морях закрепили стратегическое положение Венеции в качестве незаменимого военно-морского подрядчика Byzantийской империи.",
+      "latitude": 39.62,
+      "longitude": 19.92,
+      "source": "https://en.wikipedia.org/wiki/Roger_II_of_Sicily",
+      "tags": [
+        "Venice",
+        "Byzantine",
+        "Norman",
+        "Maritime"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1155",
+      "era": "AD",
+      "name": "Venetian Glassmaking Craft Codified on the Islands",
+      "name_ru": "Венецианское стеклоделие кодифицировано на островах",
+      "description": "By the mid-twelfth century, Venetian glassmakers — concentrated on the lagoon islands and later moved to Murano — had developed techniques producing glass of quality and variety unmatched anywhere in Europe. The city formalised the glass trade through guild regulations, protecting trade secrets under penalty of death for artisans who revealed techniques to foreigners. Venetian glass combined Byzantine, Islamic, and local innovation: cristallo — perfectly clear colourless glass — millefiori, lattimo, and eventually aventurine. The glass industry became one of Venice's most important export trades, with finished luxury goods commanding premium prices across Europe and the Islamic world. Murano glassmakers held extraordinary legal privileges reflecting their economic importance.",
+      "description_ru": "К середине XII века венецианские стеклодувы — сосредоточенные на лагунных островах, а впоследствии переведённые на Мурано, — разработали техники, производившие стекло, по качеству и разнообразию не имеющее равных нигде в Европе. Город формализовал стекольную торговлю через цеховые правила, охраняя производственные секреты под страхом смерти для мастеров, открывших технологии иностранцам. Венецианское стекло сочетало Byzantийские, Исламские и местные инновации: кристалло — идеально прозрачное бесцветное стекло, — миллефиори, латтимо и в итоге авантюрин. Стекольная промышленность стала одной из важнейших экспортных отраслей Венеции.",
+      "latitude": 45.45,
+      "longitude": 12.35,
+      "source": "https://en.wikipedia.org/wiki/Murano_glass",
+      "tags": [
+        "Venice",
+        "Venetian",
+        "Trade",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1167",
+      "era": "AD",
+      "name": "Venice Joins the Lombard League Against Barbarossa",
+      "name_ru": "Венеция вступает в Ломбардскую лигу против Барбароссы",
+      "description": "In 1167, Venice joined the Lombard League — the coalition of northern Italian communes resisting Frederick Barbarossa's effort to reimpose imperial authority over Italian cities. Venice's membership was pragmatic: Barbarossa's success would have subordinated the Po valley trade routes that fed Venice's commercial hinterland and threatened the autonomy on which its merchant republic depended. Venice contributed financial resources and naval logistics while avoiding the direct land warfare fought by Milan and its allies. The league's victory at Legnano in 1176, in which Venice played a supporting role, preserved the communal autonomy of northern Italy — and Venice's own commercial independence — for another generation.",
+      "description_ru": "В 1167 году Венеция примкнула к Ломбардской лиге — коалиции северо-итальянских коммун, сопротивлявшихся попытке Фридриха Барбароссы восстановить имперскую власть над итальянскими городами. Членство Венеции было прагматичным: успех Барбароссы подчинил бы торговые пути долины По, питавшие коммерческий хинтерланд Венеции, и угрожал автономии, от которой зависела её купеческая республика. Венеция вносила финансовые ресурсы и морскую логистику, избегая прямых сухопутных боёв, которые вели Милан и его союзники. Победа лиги при Леньяно в 1176 году, в которой Венеция сыграла вспомогательную роль, сохранила коммунальную автономию Северной Италии.",
+      "latitude": 45.44,
+      "longitude": 12.33,
+      "source": "https://en.wikipedia.org/wiki/Lombard_League",
+      "tags": [
+        "Venice",
+        "Italian",
+        "Alliance",
+        "War"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "28.05.1172",
+      "era": "AD",
+      "name": "Doge Vitale II Michiel Assassinated — Venice Reforms Ducal Elections",
+      "name_ru": "Дож Витале II Микьель убит — Венеция реформирует выборы дожа",
+      "description": "In May 1172, Doge Vitale II Michiel was stabbed by an assassin as he attempted to flee an angry crowd following a disastrous expedition against Byzantium. Emperor Manuel I had arrested all Venetians in the Byzantine Empire in 1171, and Michiel's military response — a fleet sent east — was devastated by plague. His death triggered a constitutional reform: rather than election by popular acclamation, future doges would be chosen through an elaborate multi-stage process combining sortition and election by committee, specifically designed to prevent factionalism and manipulation. This system — the most complex electoral procedure ever devised — remained in use until 1797.",
+      "description_ru": "В мае 1172 года дож Витале II Микьель был заколот убийцей при попытке бежать от разгневанной толпы после провальной экспедиции против Byzantии. В 1171 году император Мануил I арестовал всех венецианцев в Byzantийской империи, а военный ответ Микьеля — отправленный на восток флот — был опустошён чумой. Его гибель повлекла конституционную реформу: вместо избрания всеобщим возгласом будущих дожей предстояло выбирать через сложный многоэтапный процесс, сочетающий жеребьёвку и голосование комитета, специально созданный для предотвращения фракционности и манипуляций. Эта система — самая сложная избирательная процедура из когда-либо разработанных — применялась вплоть до 1797 года.",
+      "latitude": 45.44,
+      "longitude": 12.33,
+      "source": "https://en.wikipedia.org/wiki/Doge_of_Venice",
+      "tags": [
+        "Venice",
+        "Venetian",
+        "Reform",
+        "Crisis"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.08.1177",
+      "era": "AD",
+      "name": "Peace of Venice — Venice Mediates Between Pope and Barbarossa",
+      "name_ru": "Венецианский мир — Венеция выступает посредником между папой и Барбароссой",
+      "description": "In 1177, Frederick Barbarossa and Pope Alexander III met in Venice to conclude peace after eighteen years of conflict. Venice hosted and mediated the negotiations, with Doge Sebastiano Ziani orchestrating the agreement in the Piazza San Marco. Barbarossa performed public submission to the pope in the basilica; the resulting Peace of Venice formally recognized papal authority and the autonomy of the Lombard communes. Venice's role as the stage for this reconciliation was a deliberate act of political theatre: the city presented itself as the neutral, indispensable broker between the two greatest powers of Latin Christendom, vastly enhancing its prestige.",
+      "description_ru": "В 1177 году Фридрих Барбаросса и папа Александр III встретились в Венеции для заключения мира после восемнадцати лет конфликта. Венеция принимала и направляла переговоры: дож Себастьяно Дзиани организовывал соглашение на площади Сан-Марко. Барбаросса публично покорился папе в базилике; последовавший Венецианский мир официально признал папскую власть и автономию ломбардских коммун. Роль Венеции как сцены для этого примирения была намеренным актом политического театра: город представлял себя нейтральным, незаменимым посредником между двумя величайшими державами латинского христианства, колоссально укрепив свой престиж.",
+      "latitude": 45.44,
+      "longitude": 12.33,
+      "source": "https://en.wikipedia.org/wiki/Peace_of_Venice_(1177)",
+      "tags": [
+        "Venice",
+        "Italian",
+        "Diplomacy",
+        "Treaty"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.05.1182",
+      "era": "AD",
+      "name": "Latin Massacre in Constantinople — Venetians Killed and Expelled",
+      "name_ru": "Резня латинян в Константинополе — венецианцы убиты и изгнаны",
+      "description": "In April-May 1182, Byzantine mobs massacred the Latin population of Constantinople — primarily Venetians, Genoese, and Pisans — in a wave of anti-western violence orchestrated with the support of Andronikos Komnenos. Thousands of Venetians resident in Constantinople were killed; churches, houses, and warehouses were burned; women and children were sold into slavery to the Turks. The survivors fled or were imprisoned. The pogrom arose from deep popular resentment of the commercial privileges that Venetians enjoyed at Greek expense. It permanently poisoned Venetian-Byzantine relations and provided the emotional context for the Venetian role in the Fourth Crusade twenty years later.",
+      "description_ru": "В апреле–мае 1182 года Byzantийские толпы устроили резню латинского населения Константинополя — прежде всего венецианцев, генуэзцев и пизанцев — в волне антизападного насилия, инспирированной при поддержке Андроника Комнина. Тысячи венецианцев, проживавших в Константинополе, были убиты; церкви, дома и склады сожжены; женщины и дети проданы в рабство туркам. Выжившие бежали или были заключены под стражу. Погром возник из глубокого народного негодования коммерческими привилегиями, которыми венецианцы пользовались за счёт греков. Он навсегда отравил Венецианско-Byzantийские отношения и дал эмоциональный контекст для венецианской роли в Четвёртом крестовом походе двадцать лет спустя.",
+      "latitude": 41.01,
+      "longitude": 28.98,
+      "source": "https://en.wikipedia.org/wiki/Massacre_of_the_Latins",
+      "tags": [
+        "Venice",
+        "Byzantine",
+        "Crisis",
+        "War"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "02.10.1187",
+      "era": "AD",
+      "name": "Saladin Captures Jerusalem — Venice Loses Its Levantine Foothold",
+      "name_ru": "Саладин захватывает Иерусалим — Венеция теряет Левантийский плацдарм",
+      "description": "Saladin's capture of Jerusalem on 2 October 1187 following the Battle of Hattin destroyed the Venetian trading network in the Holy Land. Venice lost its quarter in Jerusalem, its exemptions throughout the Kingdom, and the commercial infrastructure built over eighty years. The loss was a serious setback, though Venice retained its position in Acre and Tyre. The catastrophe created enormous pressure across Europe for a new crusade — pressure that Venice would exploit with extraordinary ruthlessness fifteen years later when it redirected the Fourth Crusade to advance Venetian commercial interests rather than recover the Holy Land.",
+      "description_ru": "Захват Иерусалима Саладином 2 октября 1187 года вслед за битвой при Хаттине уничтожил венецианскую торговую сеть на Святой земле. Венеция лишилась квартала в Иерусалиме, освобождений от пошлин по всему Королевству и коммерческой инфраструктуры, выстроенной за восемьдесят лет. Потеря стала серьёзным ударом, хотя Венеция сохранила позиции в Акре и Тире. Катастрофа создала огромное давление по всей Европе в пользу нового крестового похода — давление, которое Венеция использует с исключительной беспощадностью пятнадцать лет спустя, перенаправив Четвёртый крестовый поход в интересах венецианской коммерции.",
+      "latitude": 31.78,
+      "longitude": 35.22,
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1187)",
+      "tags": [
+        "Venice",
+        "Crusade",
+        "Islamic",
+        "Trade"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1192",
+      "era": "AD",
+      "name": "Enrico Dandolo Elected Doge — Blind, Aged, and Formidable",
+      "name_ru": "Энрико Дандоло избран дожем — слепой, старый и грозный",
+      "description": "In 1192, Venice elected Enrico Dandolo as Doge at approximately 85 years of age, nearly or wholly blind. Dandolo had served as ambassador to Constantinople and had personally witnessed or experienced the Latin Massacre of 1182 — some accounts claim he was blinded there by Byzantine authorities. Despite his age and disability, Dandolo proved the most consequential Venetian leader of the medieval period. His decade as doge oversaw the negotiation and execution of the Fourth Crusade, the diversion to Zara, the sack of Constantinople, and the acquisition of Venice's colonial empire across the Aegean and Adriatic. He died in Constantinople in 1205, aged over 90.",
+      "description_ru": "В 1192 году Венеция избрала Энрико Дандоло дожем в возрасте около 85 лет, практически или полностью слепым. Дандоло служил послом в Константинополе и лично был свидетелем или жертвой резни латинян 1182 года — по некоторым свидетельствам, там его ослепили Byzantийские власти. Несмотря на возраст и физический недуг, Дандоло оказался наиболее значимым венецианским лидером Средневековья. За десятилетие дожества он осуществил переговоры и проведение Четвёртого крестового похода, отклонение к Задару, разграбление Константинополя и приобретение колониальной империи Венеции на Эгейском и Адриатическом морях. Он умер в Константинополе в 1205 году в возрасте свыше 90 лет.",
+      "latitude": 45.44,
+      "longitude": 12.33,
+      "source": "https://en.wikipedia.org/wiki/Enrico_Dandolo",
+      "tags": [
+        "Venice",
+        "Italian",
+        "Venetian",
+        "Diplomacy"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1201",
+      "era": "AD",
+      "name": "Venice Signs the Fourth Crusade Transport Contract",
+      "name_ru": "Венеция подписывает договор о перевозке Четвёртого крестового похода",
+      "description": "In April 1201, crusade envoys headed by Geoffroy de Villehardouin arrived in Venice to negotiate transport for the Fourth Crusade. Doge Dandolo offered to provide 4,500 horses, 9,000 squires, 4,500 knights, and 20,000 footsoldiers, with provisions for nine months — in return for 85,000 silver marks, plus half of all conquests. Venice halted its own commercial activities for over a year to build the required fleet, committing the entire republic's resources and workforce to the project. The terms were the largest single commercial contract in medieval European history. The scale of Venice's commitment made the subsequent redirection of the crusade not merely a political manoeuvre but a financial necessity.",
+      "description_ru": "В апреле 1201 года послы крестового похода во главе с Жоффруа де Виллардуэном прибыли в Венецию для переговоров о перевозке Четвёртого крестового похода. Дож Дандоло предложил предоставить 4500 лошадей, 9000 конюхов, 4500 рыцарей и 20 000 пехотинцев с провизией на девять месяцев — в обмен на 85 000 серебряных марок и половину всех завоеваний. Венеция остановила собственную коммерческую деятельность более чем на год для строительства требуемого флота, задействовав все ресурсы и рабочую силу республики. Условия стали крупнейшим единым коммерческим контрактом в средневековой европейской истории. Масштаб обязательств Венеции сделал последующее перенаправление крестового похода не просто политическим манёвром, но финансовой необходимостью.",
+      "latitude": 45.44,
+      "longitude": 12.33,
+      "source": "https://en.wikipedia.org/wiki/Fourth_Crusade",
+      "tags": [
+        "Venice",
+        "Crusade",
+        "Trade",
+        "Maritime"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1202",
+      "era": "AD",
+      "name": "Venice Mints the Silver Grosso — First Large Silver Coin of Medieval Europe",
+      "name_ru": "Венеция чеканит серебряное гроссо — первую крупную серебряную монету Средневековой Европы",
+      "description": "Around 1202, Venice introduced the grosso — a large, high-quality silver coin worth 24 denarii — the first significant silver denomination issued in western Europe since the Roman empire. Venetian trade had exposed the city to the Byzantine hyperpyron and Islamic dirham; Venetian merchants recognised that the tiny, debased denarius was inadequate for large commercial transactions. The grosso became the standard for international trade across the Mediterranean and was imitated across Europe within a generation. It preceded the gold ducat introduced in 1284. The Venetian monetary innovation — producing reliable, standardized coinage — was as important to European commerce as any physical trade route.",
+      "description_ru": "Около 1202 года Венеция ввела гроссо — крупную, высококачественную серебряную монету достоинством 24 денария, — первое значительное серебряное наименование, выпущенное в Западной Европе со времён Римской империи. Венецианская торговля познакомила город с Byzantийским гиперпироном и Исламским дирхамом; венецианские купцы признали, что крошечный обесцененный денарий неадекватен для крупных коммерческих сделок. Гроссо стало стандартом международной торговли по всему Средиземноморью и было воспроизведено по всей Европе в течение одного поколения. Оно предшествовало золотому дукату, введённому в 1284 году. Венецианская денежная инновация — производство надёжных, стандартизированных монет — имела для европейской торговли не меньшее значение, чем любой физический торговый путь.",
+      "latitude": 45.44,
+      "longitude": 12.33,
+      "source": "https://en.wikipedia.org/wiki/Venetian_grosso",
+      "tags": [
+        "Venice",
+        "Venetian",
+        "Trade",
+        "Economic"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "24.11.1202",
+      "era": "AD",
+      "name": "Crusaders Besiege Zara — Venice Redirects the Fourth Crusade",
+      "name_ru": "Крестоносцы осаждают Задар — Венеция перенаправляет Четвёртый крестовый поход",
+      "description": "When the crusader army that assembled in Venice in 1202 could not pay the contracted 85,000 marks, Doge Dandolo proposed a compromise: the crusaders would capture Zara (Zadar) — a Christian city on the Dalmatian coast that had defected from Venetian authority to Hungary — in lieu of payment. Pope Innocent III forbade the attack and threatened excommunication. The crusaders attacked anyway; Zara fell on 24 November 1202. Both crusaders and Venetians were promptly excommunicated. The diversion established the pattern for what followed: the expedition's financial dependency on Venice gave Venice the power to set its objectives. The pope eventually lifted the excommunication to preserve the crusade.",
+      "description_ru": "Когда крестоносное войско, собравшееся в Венеции в 1202 году, не смогло выплатить договорные 85 000 марок, дож Дандоло предложил компромисс: крестоносцы захватят Задар — христианский город на Далматинском побережье, переметнувшийся от венецианской власти к Венгрии, — в счёт оплаты. Папа Иннокентий III запретил нападение и пригрозил отлучением. Крестоносцы всё равно напали; Задар пал 24 ноября 1202 года. Крестоносцы и венецианцы были немедленно отлучены. Отклонение установило схему того, что последовало: финансовая зависимость экспедиции от Венеции давала Венеции власть устанавливать её цели.",
+      "latitude": 44.12,
+      "longitude": 15.23,
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Zara",
+      "tags": [
+        "Venice",
+        "Crusade",
+        "Conquest",
+        "Maritime"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "23.06.1203",
+      "era": "AD",
+      "name": "First Siege of Constantinople — Crusaders Restore Alexios IV",
+      "name_ru": "Первая осада Константинополя — крестоносцы восстанавливают Алексея IV",
+      "description": "In June-July 1203, the combined Venetian-crusader fleet entered the Bosphorus and besieged Constantinople. Doge Dandolo personally commanded the Venetian galleys; at 85-90 years old and blind, he reportedly stood at the prow of his galley under fire as the fleet stormed the sea walls. The deposed Byzantine prince Alexios promised that if restored he would reunite the Greek church with Rome, pay 200,000 silver marks — enough to repay Venice and fund the crusade — and provide military support. Alexios IV was enthroned on 1 August 1203. His inability to deliver on his promises to either the crusaders or his own subjects set the stage for the catastrophic sack of the following year.",
+      "description_ru": "В июне–июле 1203 года объединённый Венецианско-Крестоносный флот вошёл в Босфор и осадил Константинополь. Дож Дандоло лично командовал Венецианскими галерами; в возрасте 85–90 лет и слепым, он, по преданию, стоял на носу галеры под огнём, пока флот штурмовал морские стены. Низложенный Byzantийский принц Алексей пообещал, что в случае восстановления воссоединит Греческую церковь с Римом, выплатит 200 000 серебряных марок — достаточно для погашения долга Венеции и финансирования крестового похода — и обеспечит военную поддержку. 1 августа 1203 года Алексей IV был возведён на престол. Его неспособность выполнить обещания ни крестоносцам, ни собственным подданным подготовила сцену катастрофического разграбления в следующем году.",
+      "latitude": 41.01,
+      "longitude": 28.98,
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Constantinople_(1203)",
+      "tags": [
+        "Venice",
+        "Byzantine",
+        "Crusade",
+        "Siege"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.12.1203",
+      "era": "AD",
+      "name": "Alexios IV Fails to Pay — Collapse of the Byzantine Agreement",
+      "name_ru": "Алексей IV не может заплатить — крах Byzantийского соглашения",
+      "description": "By late 1203, the newly restored Emperor Alexios IV of Byzantium had failed to deliver the promised 200,000 silver marks to Venice and the crusaders. He had raised taxes sharply, melted down church treasures, and antagonized his own court and population — but could pay only a fraction of what was owed. Dandolo refused to extend the debt further without full payment; the crusaders refused to leave without it. Alexios IV was deposed and murdered by Alexios Doukas Mourtzouphlos in early 1204, who repudiated all obligations to the crusaders. The breakdown of the agreement made the full sack of Constantinople — and Venice's acquisition of its empire — almost inevitable.",
+      "description_ru": "К концу 1203 года только что восстановленный на престоле Byzantийский император Алексей IV не выплатил обещанные 200 000 серебряных марок Венеции и крестоносцам. Он резко поднял налоги, переплавил церковные сокровища и восстановил против себя двор и население — однако смог выплатить лишь малую часть долга. Дандоло отказался продлевать долг без полной выплаты; крестоносцы отказались уйти без неё. Алексей IV был низложен и убит Алексеем Дукой Мурцуфлом в начале 1204 года, отказавшимся от каких-либо обязательств перед крестоносцами. Срыв соглашения сделал полное разграбление Константинополя — и приобретение Венецией его империи — практически неизбежным.",
+      "latitude": 41.01,
+      "longitude": 28.98,
+      "source": "https://en.wikipedia.org/wiki/Alexios_IV_Angelos",
+      "tags": [
+        "Venice",
+        "Byzantine",
+        "Crisis",
+        "Crusade"
+      ],
+      "type": "political"
+    }
+  ]
+}
