@@ -144,7 +144,7 @@
         "Collapse",
         "Decline",
         "End",
-        "Milestone"
+        "Milestone ⭐️"
       ],
       "type": "historic"
     },
@@ -550,6 +550,26 @@
       "type": "military"
     },
     {
+      "date": "01.01.0650",
+      "description": "The inhabitants of Corfu were forced to abandon their old flatland city due to devastating raids by the Goths and Vandals. Byzantine engineers chose a rocky promontory jutting deep into the Ionian Sea for their new fortification (today known as Palaio Frourio). The fortress was surrounded on three sides by sheer cliffs and water, completely eliminating the possibility of a traditional assault or undermining. The only approach was from land, blocked by a powerful wall and a deep moat. On two rocky peaks of the island, the Byzantines built fortified towers with citadels. If the enemy breached the outer wall, the defenders took refuge on the two isolated cliffs and fired downwards.\n\nThe city between them was named Corypho (from the Greek for \"on the summit\"), which later gave rise to the Italian name Corfu. The island acquired strategic importance and served as Byzantium's main western outpost, keeping all movements in the Adriatic and Ionian Sea under the empire's control.",
+      "description_ru": "Жителям Корфу пришлось бросить старый равнинный город из-за разрушительных набегов готов и вандалов. Византийские инженеры для нового укрепления (сегодня известного как Палео Фрурио) выбрали скалистый мыс, глубоко вдающийся в Ионическое море. С трех сторон крепость окружали отвесные скалы и вода, что полностью исключало возможность классического штурма или подкопа. Единственный подход оставался с суши, и его перекрыли мощной стеной и глубоким рвом. На двух скалистых вершинах острова византийцы построили по укрепленной башне с цитаделью. Если враг прорывал внешнюю стену, защитники укрывались на двух изолированных скалах и вели перекрестный огонь сверху вниз. \n\nГород между ними получил название Корифо (от греческого «на вершине»), от которого позже и произошло итальянское название Корфу. Остров приобрел стратегическое значение и служил главным западным форпостом Византии, держа под контролем империи любые движения в Адриатике и Ионическом море.",
+      "era": "AD",
+      "latitude": 39.62340828,
+      "longitude": 19.92737532,
+      "name": "Construction of a Byzantine fortress in Corfu",
+      "name_ru": "Возведение византийской крепости в Корфу",
+      "source": "https://en.wikipedia.org/wiki/Old_Fortress,_Corfu",
+      "tags": [
+        "Greek",
+        "Roman",
+        "Architecture",
+        "Byzantine",
+        "Engineering ⚙️",
+        "Fortification"
+      ],
+      "type": "historic"
+    },
+    {
       "date": "01.01.0674",
       "description": "The Arab Umayyad Caliphate launches a sustained four-year naval blockade of Constantinople, maintaining a fleet opposite the city and making repeated assault attempts; Byzantium's answer is Greek Fire — a napalm-like incendiary substance that burns on water and cannot be extinguished by water, projected through siphon tubes onto Arab warships. The Arab fleet is destroyed and a retreating land army decimated; the Caliphate is forced to sign a thirty-year truce and pay annual tribute to Byzantium. Greek Fire, whose exact composition remains unknown to this day, is the most important Byzantine military secret and the decisive technological advantage that keeps Constantinople in Byzantine hands for another eight centuries.",
       "description_ru": "Арабский Омейядский халифат четыре года держит Константинополь в морской блокаде; ответом Византии является греческий огонь — напалмоподобное зажигательное вещество, горящее на воде, забрасываемое на арабские корабли через сифонные трубки. Арабский флот уничтожен; халифат вынужден подписать тридцатилетнее перемирие и платить ежегодную дань. Греческий огонь, точный состав которого по сей день неизвестен, является важнейшим Византийским военным секретом и решающим технологическим преимуществом.",
@@ -588,8 +608,8 @@
         "Capital",
         "Foundation",
         "Kingdom",
-        "Bulgarian",
-        "Slavic"
+        "Slavic",
+        "Bulgarian"
       ],
       "type": "historic"
     },
@@ -611,8 +631,8 @@
         "Byzantine",
         "Islamic",
         "Siege",
-        "Bulgarian",
-        "Slavic"
+        "Slavic",
+        "Bulgarian"
       ],
       "type": "military"
     },
@@ -695,8 +715,8 @@
         "Battle",
         "Byzantine",
         "Death",
-        "Bulgarian",
-        "Slavic"
+        "Slavic",
+        "Bulgarian"
       ],
       "type": "military"
     },
@@ -740,10 +760,10 @@
         "Language",
         "Methodius 👤",
         "Moravian",
+        "Slavic",
         "Translation",
         "Writing",
-        "Orthodox",
-        "Slavic"
+        "Orthodox"
       ],
       "type": "cultural"
     },
@@ -761,9 +781,9 @@
         "Adoption",
         "Byzantine",
         "Christian",
+        "Slavic",
         "Bulgarian",
-        "Orthodox",
-        "Slavic"
+        "Orthodox"
       ],
       "type": "religious"
     },
@@ -895,7 +915,7 @@
         "Christian",
         "Council",
         "Crisis",
-        "Milestone",
+        "Milestone ⭐️",
         "Religious",
         "Schism",
         "Orthodox"
@@ -919,6 +939,7 @@
         "Decline",
         "Norman",
         "Normandy",
+        "Robert Guiscard",
         "Siege"
       ],
       "type": "military"
@@ -948,6 +969,52 @@
       "type": "military"
     },
     {
+      "date": "04.04.1081",
+      "description": "Byzantium was on the brink of disaster: the Seljuks had captured almost all of Asia Minor, the empire's main breadbasket and source of recruits. The Normans, led by Robert Guiscard, were advancing on the empire from the west, while the Pechenegs were raiding from the north. Currency had completely devalued, the treasury was empty, and there was no way to pay officials and the army. Meanwhile, the civilian elites were in conflict with the military—the noble brothers and military leaders Alexius and Isaac Comnenus were threatened with blindness or death in Constantinople.\n\nIn February 1081, the brothers fled Constantinople for Thrace, where they raised an army of supporters and mercenaries. The troops unanimously elected Alexius emperor, after which his elder brother Isaac voluntarily ceded the throne to him, investing him with the imperial insignia. Alexius led the army to Constantinople. Storming the walls of Theodosius would have been suicide, but the Comneni bribed the commander of the German mercenaries guarding the gates of the Life-Giving Spring. On Maundy Thursday, April 1, 1081, the Germans opened the gates, and the rebels stormed the capital. For three days, Constantinople was brutally sacked. Soldiers plundered houses, raped women, and desecrated churches. Alexius himself was horrified, but he could not stop his own army. Alexius's daughter, Anna Comnena, would later write candidly in the \"Alexiad\" that this was an indelible shame for their family.\n\nOn April 4, 1081 (Easter Day), Alexius Comnenus was officially crowned king, ushering in over a century of rule by the Comneni dynasty.",
+      "description_ru": "Византия находилась на грани катастрофы: сельджуки захватили почти всю Малую Азию — главную житницу и источник рекрутов для империи. С запада на империю наступали норманны под предводительством Роберта Гвискара, а с севера совершали набеги печенеги. Деньги полностью обесценились, казна была пуста, а чиновникам и армии нечем было платить. При этом гражданские элиты были в конфликте с военными - знатным братьям-военачальникам Алексею и Исааку Комниным в Константинополе грозило ослепление или смерть.\n \nВ феврале 1081 года братья бежали из Константинополя во Фракию, где собрали армию из сторонников и наемников. Войска единогласно выбрали Алексея императором, после чего его старший брат Исаак добровольно уступил ему престол, возложив на него императорские знаки отличия. Алексей повел армию на Константинополь. Штурмовать стены Феодосия было бы самоубийством, но Комнины подкупили командира немецких наемников, которые охраняли ворота Живоносного Источника. В Страстной четверг, 1 апреля 1081 года, немцы открыли ворота, и мятежники ворвались в столицу. Три дня Константинополь подвергался жестокому разграблению. Солдаты грабили дома, насиловали женщин и оскверняли церкви. Сам Алексей был в ужасе, но не мог остановить свою же армию. Дочь Алексея, Анна Комнина, позже честно напишет в «Алексиаде», что это был несмываемый позор для их семьи.\n\n4 апреля 1081 года (в день Пасхи) Алексей Комнин был официально венчан на царство, положив начало более чем столетнему правлению династии Комнинов.",
+      "era": "AD",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "name": "Military coup in Byzantium",
+      "name_ru": "Военный переворот в Византии",
+      "source": "https://en.wikipedia.org/wiki/Alexios_I_Komnenos",
+      "tags": [
+        "Greek",
+        "Roman",
+        "Aristocracy",
+        "Byzantine",
+        "Crisis",
+        "Emperor",
+        "Military",
+        "Mutiny",
+        "Overthrow",
+        "Pillage",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "18.10.1081",
+      "description": "A land battle during the Norman-Byzantine War, in which the army of Emperor Alexios I Comnenus attempted to relieve the strategic fortress of Dyrrhachium, besieged by the Normans, and was defeated. The Byzantine army, fighting against the Norman knights of Robert Guiscard, included the Varangian Guard, Seljuk Turks, Franks, and Armenians. Although the Varangians initially broke Guiscard's line and partially routed him, they became separated from the main army during the battle and were routed. Guiscard then launched a strike against the Byzantine mercenaries with his heavily armored cavalry, and the outcome of the battle was decided in favor of the Normans. The young and vain emperor miraculously escaped the battlefield and fled to Constantinople.",
+      "description_ru": "Сухопутное сражение норманно-византийской войны, в котором армия императора Алексея I Комнина попыталась деблокировать осажденную норманнами стратегическую крепость Диррахий и потерпела поражение. Против норманнских рыцарей Роберта Гвискара в составе византийского войска воевала  Варяжская гвардия, турки-сельджуки, франки и армяне. Хотя изначально варяги сломали строй войска Гвискара и частично обратили его в бегство, в ходе сражения они отделились от основного войска и были разбиты. После этого Гвискар нанес удар тяжелобронированной кавалерией по наемным войскам византийцев, и исход сражения был решен в пользу норманнов. Молодой и тщеславный император чудом спасается с поля боя и бежит в Константинополь.",
+      "era": "AD",
+      "latitude": 41.33196688,
+      "longitude": 19.47704315,
+      "name": "The Battle of Dyrrhachium",
+      "name_ru": "Битва при Диррахии",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Dyrrhachium_(1081)",
+      "tags": [
+        "Roman",
+        "War",
+        "Battle",
+        "Byzantine",
+        "Norman",
+        "Normandy",
+        "Robert Guiscard"
+      ],
+      "type": "military"
+    },
+    {
       "date": "27.11.1095",
       "description": "Emperor Alexios I Comnenus, who had stabilized the empire after Manzikert, sent envoys to Pope Urban II asking for mercenary soldiers to recapture Anatolia from the Seljuks. Urban II transformed the request at the Council of Clermont into a call for an armed pilgrimage to liberate Jerusalem.",
       "description_ru": "Император Алексий I Комнин, стабилизировавший империю после Манцикерта, направляет посланников к Папе Урбану II с просьбой о наёмных солдатах для возвращения Анатолии у сельджуков. Урбан II преобразовывает просьбу на Клермонском соборе в призыв к вооружённому паломничеству для освобождения Иерусалима.",
@@ -962,20 +1029,60 @@
         "First",
         "Byzantine",
         "Christian",
-        "Milestone",
+        "Milestone ⭐️",
+        "Papacy",
         "Political",
-        "Pope",
         "Crusade"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.01.1118",
+      "description": "In 1118, the young and decisive Emperor John II Komnenos ascended the Byzantine throne. John was the legitimate son and heir of Emperor Alexios I Komnenos. However, his own family—his mother (Empress Irene Doukina) and his older sister, the famous and ambitious Princess Anna Comnena — opposed him. When the aged Alexios I died in August 1118, Anna and her mother begged him to disinherit John and transfer the crown to Anna's husband, the noble military commander Nicephorus Bryennios. The emperor refused.\n\nRealizing that he could not delay, John secretly entered his dying father's chambers, removed the imperial signet ring from his finger, rode off to the Great Palace, and, with the help of his loyal guards, declared himself emperor. Emperor John II Komnenos is considered by historians to be one of the greatest rulers of the Byzantine Empire. For his nobility, justice and gentle disposition, his contemporaries nicknamed him Kaloianos (Beautiful John), and historians call him \"Marcus Aurelius of Constantinople.\"",
+      "description_ru": "В 1118 году на византийский престол взошел молодой и решительный император Иоанн II Комнин. Иоанн был законным сыном и наследником императора Алексея I Комнина. Однако против него выступила собственная семья — мать (императрица Ирина Дукиня) и старшая сестра — знаменитая, амбициозная принцесса Анна Комнина. Когда престарелый Алексей I умирал в августе 1118 года, Анна и мать умоляли его лишить Иоанна наследства и передать корону мужу Анны — знатному военачальнику Никифору Вриеннию. Император отказал.\n\nПонимая, что медлить нельзя, Иоанн тайно пробрался в покои умирающего отца, снял с его пальца императорский перстень с печатью, ускакал в Большой дворец и с помощью верных гвардейцев объявил себя императором. Император Иоанн II Комнин считается историками одним из величайших правителей Византии. За его благородство, справедливость и кроткий нрав современники прозвали его Калоиоанн (Прекрасный Иоанн), а историки называют его «Марком Аврелием Константинополя».",
+      "era": "AD",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "name": "John II Komnenos, Emperor of Byzantium",
+      "name_ru": "Иоанн II Комнин — император Византии",
+      "source": "https://en.wikipedia.org/wiki/John_II_Komnenos",
+      "tags": [
+        "Greek",
+        "Roman",
+        "Byzantine",
+        "Emperor"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.03.1118",
+      "description": "Emperor John II Comnenus discovered that, under the 1082 treaty (signed by his father for his assistance against the Normans), Venetian merchants had the right to trade throughout the empire without paying duties at all. This left the Byzantine treasury empty, and local Greek merchants were going bankrupt, unable to withstand the competition. As soon as Venetian ambassadors arrived in Constantinople for the traditional renewal of the treaty, John II responded with a categorical refusal.\n\nHe officially revoked all tax-exempt privileges granted to Venice and ordered the Venetians to pay taxes equally with all foreigners. Moreover, to sting Venice, he demonstratively expanded the trading rights of their main competitors—merchants from Pisa and Genoa. This decision caused shock and outrage in Venice. The Republic was losing millions.",
+      "description_ru": "Император Иоанн II Комнин обнаружил, что венецианские купцы по договору от 1082 года (который подписал его отец за помощь против норманнов) имеют право торговать по всей империи вообще без уплаты пошлин. Из-за этого византийская казна пустовала, а местные греческие купцы разорялись, не выдерживая конкуренции. Как только венецианские послы прибыли в Константинополь для традиционного продления договора на новый срок, Иоанн II ответил категорическим отказом. \n\nОн официально отменил все безналоговые привилегии Венеции и приказал венецианцам платить налоги наравне со всеми иностранцами. Более того, чтобы уязвить Венецию, он демонстративно расширил торговые права их главных конкурентов — купцов из Пизы и Генуи. В Венеции это решение вызвало шок и ярость. Республика теряла миллионы.",
+      "era": "AD",
+      "latitude": 41.0164294,
+      "longitude": 28.97040009,
+      "name": "The abolition of Venetian trade concessions in Byzantium",
+      "name_ru": "Отмена венецианских торговых послаблений в Византии",
+      "tags": [
+        "Roman",
+        "Byzantine",
+        "Crisis",
+        "Economic",
+        "Genoa",
+        "Pisa",
+        "Taxes",
+        "Trade",
+        "Venice"
+      ],
+      "type": "political"
     },
     {
       "date": "12.03.1171",
       "description": "Manuel I Comnenus ordered the simultaneous arrest of all Venetian merchants throughout the empire—an estimated 10,000 in Constantinople alone—and the confiscation of their property. The formal pretext was that the Venetians had attacked and virtually destroyed the Genoese quarter of Constantinople. In reality, Manuel sought to undermine the economic dominance of the Venetians, who enjoyed the right to duty-free trade.\n\nThis action proved a disastrous strategic miscalculation: Venice was Byzantium's most important naval ally. Thirty-three years later, Doge Enrico Dandolo would redirect the Fourth Crusade to the sack of Constantinople.",
       "description_ru": "Мануил I Комнин приказывает одновременно арестовать всех венецианских купцов по всей империи — по оценкам, 10 000 человек только в Константинополе — и конфисковать их имущество. Формальным поводом послужило то, что венецианцы напали на генуэзский квартал в Константинополе и практически уничтожили его. Фактически Мануил стремился подорвать экономическое доминирование венецианцев, обладающих правом беспошлинной торговли.\n\nЭто действие оказалось катастрофическим стратегическим просчётом: Венеция была важнейшим военно-морским союзником Византии. Тридцать три года спустя Дож Энрико Дандоло перенаправит Четвёртый крестовый поход на разграбление Константинополя.",
       "era": "AD",
-      "latitude": 41.0082,
-      "longitude": 28.9784,
+      "latitude": 41.0164294,
+      "longitude": 28.97040009,
       "name": "Manuel I Arrests All Venetian merchants",
       "name_ru": "Мануил I арестовывает венецианских купцов",
       "source": "https://en.wikipedia.org/wiki/Manuel_I_Komnenos",
@@ -985,6 +1092,7 @@
         "Byzantine",
         "Crisis",
         "Decline",
+        "Genoa",
         "Political",
         "Venice"
       ],
@@ -1012,12 +1120,72 @@
       "type": "military"
     },
     {
-      "date": "12.04.1204",
-      "description": "The Fourth Crusade, heading for Egypt, found itself at the walls of Constantinople as a result of the manipulation of the Venetian Doge Dandolo and at the request of the Byzantine Tsarevich Alexios IV Angelos, who promised to help the knights pay off their debts to Venice. The Crusaders brought Alexios to power in Constantinople, where he discovered the treasury was empty and he had no means to pay the knights. Alexios began plundering churches and raising taxes, which quickly led to a rebellion and his assassination.\n\nDeprived of the promised funds, the Crusaders stormed Constantinople and sacked it for three days—desecrating Hagia Sophia, melting down sacred works of art, and plundering nine centuries of treasure. The city, which had stood firm against the Persians, Arabs, Bulgarians, and Rus', fell to its fellow Christians. The Latin Empire of Constantinople was proclaimed under the rule of Baldwin of Flanders.",
-      "description_ru": "Четвертый Крестовый поход, направляющийся в Египет, оказался под стенами Константинополя в результате манипуляции венецианского Дожа Дандоло и по просьбе византийского царевича Алексея IV Ангела, обещавшего рыцарям помочь расплатиться с долгами перед Венецией. Крестоносцы привели Алексея к власти в Константинополе, где он обнаружил, что казна пуста, и с рыцарями ему расплачиваться нечем. Алексей начал грабить храмы и поднимать налоги, что быстро привело к бунту и его убийству.\n\nОставшись без обещанных денег, крестоносцы берут Константинополь штурмом и разграбляют в течение трех дней — оскверняя Святую Софию, переплавляя священные произведения искусства, грабя сокровища девяти столетий. Город, простоявший против персов, арабов, болгар и русов, падает перед единоверцами-христианами. Провозглашена Латинская империя Константинополя под властью Балдуина Фландрского.",
+      "date": "01.09.1180",
+      "description": "Maria of Antioch became the de facto head (regent) of the Byzantine Empire immediately after the death of her husband, Emperor Manuel I Comnenus. Upon his death, Emperor Manuel I left the throne to their only son, 11-year-old Alexius II. Since the boy was too young to rule independently, Manuel officially appointed Maria as regent (ruler-guardian) until her son came of age.\n\nThe appointment of a Latin (foreigner) to such a position was a rare and risky move for Byzantium. Maria and her favorite, Archbishop Alexius Comnenus, openly patronized Italian merchants, which quickly sparked popular discontent and led to a political crisis.",
+      "description_ru": "Мария Антиохийская стала фактической главой (регентом) Византийской империи сразу после смерти своего мужа, императора Мануила I Комнина. Умирая, император Мануил I оставил трон их единственному сыну — 11-летнему Алексею II. Поскольку мальчик был слишком мал для самостоятельного правления, Мануил официально назначил Марию регентом (правительницей-опекуншей) до совершеннолетия сына. \n\nНазначение латинянки (иностранки) на такой пост было редким и рискованным шагом для Византии. Мария и ее фаворит протосеваст Алексей Комнин открыто покровительствовали итальянским купцам, что довольно быстро стало вызывать народное недовольство и привело к политическому кризису. ",
       "era": "AD",
-      "latitude": 41.01915336,
-      "longitude": 28.92399788,
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "name": "The Regency of Maria of Antioch in Byzantium",
+      "name_ru": "Регентство Марии Антиохийской в Византии",
+      "source": "https://en.wikipedia.org/wiki/Maria_of_Antioch",
+      "tags": [
+        "Roman",
+        "Byzantine",
+        "Crisis",
+        "Death",
+        "Emperor",
+        "Political",
+        "Regency"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.03.1182",
+      "description": "In September 1180, upon learning of the death of Manuel I and the appointment of Maria of Antioch as regent, 61-year-old Andronikos, the late Emperor Manuel's cousin and a military leader, was in honorable exile, governing the province of Pontus on the Black Sea. He immediately launched a massive propaganda campaign, writing letters to the patriarch, officials, and guild leaders lamenting the \"captivity\" of the young Emperor Alexius II by the Latins and vowing to \"free\" the boy and \"purify\" the empire.\n\nIn March 1182, Andronikos launched an open rebellion and marched on the capital through Asia Minor. The regents along the way largely defected to his side, having been promised amnesty. Andronikos approached Constantinople from Asia and, although he had no navy, provoked pogroms in Constantinople.",
+      "description_ru": "В сентябре 1180, узнав о смерти Мануила I и назначении Марии Антиохийской регентом, 61-летний Андроник, двоюродный брат покойного императора Мануила и полководец, находился в почетной ссылке — он управлял провинцией Понт на Черном море. Он сразу развернул масштабную пропагандистскую кампанию; писал письма патриарху, чиновникам и лидерам гильдий, где сокрушался о «пленении» юного императора Алексея II латинянами и клялся «освободить» мальчика и «очистить» империю.\n\nВ марте 1182 Андроник поднял открытый мятеж и двинулся на столицу через Малую Азию. Регенты на пути в основном переходили на его сторону, поскольку им была обещана амнистия. Андроник подошел к Константинополю из Азии и, хотя не имел флота, спровоцировал погромы в Константинополе.",
+      "era": "AD",
+      "latitude": 41.02511086,
+      "longitude": 29.01823997,
+      "name": "March of Andronikos Komnenos to Constantinople",
+      "name_ru": "Марш Андроника Комнина на Константинополь",
+      "source": "https://en.wikipedia.org/wiki/Andronikos_I_Komnenos",
+      "tags": [
+        "Roman",
+        "Civil War",
+        "Byzantine",
+        "Crisis",
+        "Rebellion"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.05.1182",
+      "description": "When the Latin Quarter was burned and the regents' potential support base (foreign mercenaries and merchants) was destroyed by the mob, Andronikos, supported by the Byzantine fleet, triumphantly crossed the Bosphorus. He positioned himself as a \"peacemaker\" who had arrived to stop the chaos.\n\nAndronikos formally swore allegiance to the young emperor, but from his first day in power, he began systematically eliminating all those who had a legitimate claim to the throne or who might organize resistance. At the end of the year, Maria of Antioch was executed. By manipulating the mood of the masses and the church, Andronikos secured his coronation as co-emperor in 1183 to protect the empire. Weeks later, the young Emperor Alexius was also executed.",
+      "description_ru": "Когда латинский квартал был сожжен, а потенциальная опора регентов (иностранные наемники и купцы) уничтожена руками толпы, Андроник при поддержке византийского флота торжественно переправился через Босфор. Он позиционировал себя как «миротворец», прибывший остановить хаос. \n\nФормально Андроник присягнул на верность малолетнему императору, но с первого дня у власти начал последовательно уничтожать всех, кто имел законные права на трон или мог организовать сопротивление. В конце года Мария Антиохийская была казнена. Манипулируя настроениями масс и церкви, Андроник обеспечил свою коронацию соправителем в 1183 году, чтобы защитить империю. Через недели после этого был казнен и малолетний император Алексей.",
+      "era": "AD",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "name": "Andronikos Komnenos usurps the throne of Byzantium",
+      "name_ru": "Андроник Комнин узурпирует власть в Византии",
+      "source": "https://en.wikipedia.org/wiki/Andronikos_I_Komnenos",
+      "tags": [
+        "Roman",
+        "Byzantine",
+        "Crisis",
+        "Overthrow",
+        "Political",
+        "Usurpation"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "12.04.1204",
+      "description": "Since Alexios IV failed to repay his debt to the Crusaders and Venetians, the Crusaders stormed Constantinople and sacked the capital of Eastern Rome for three days — desecrating Hagia Sophia, melting down sacred works of art, and plundering nine centuries' worth of treasures. The city, which had stood firm against the Persians, Arabs, Bulgarians, and Rus', fell to its fellow Christians.\n\nAfter the fall of Byzantium, the Latin Empire was founded with Baldwin of Flanders, and Dandolo received the title of despot. He did not return to Venice, remaining to oversee the division of Byzantine lands and the consolidation of Venetian dominion in the region. A year later, Doge Dandolo died and was solemnly buried in the city's main cathedral, Hagia Sophia, in the women's gallery on the second tier. He became the only person buried inside this great church.",
+      "description_ru": "Поскольку Алексей IV не сумел выплатить долг крестоносцам и венецианцам, крестоносцы берут Константинополь штурмом и разграбляют столицу Восточного Рима в течение трех дней — оскверняя Святую Софию, переплавляя священные произведения искусства, грабя сокровища девяти столетий. Город, простоявший против персов, арабов, болгар и русов, падает перед единоверцами-христианами. \n\nПосле падения Византии была основана Латинская империя с Балдуином Фландрским, а Дандоло получил титул деспота. Возвращаться в Венецию в он не стал, оставшись руководить разделом византийских земель и закреплением венецианского господства в регионе. Спустя год дож Дандоло скончался и был торжественно похоронен в главном соборе города — Святой Софии, на женской галерее второго яруса. Он стал единственным человеком, погребенным внутри этого великого храма",
+      "era": "AD",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
       "name": "Fourth Crusade Sacks Constantinople",
       "name_ru": "Крестоносцы разоряют Константинополь",
       "source": "https://en.wikipedia.org/wiki/Sack_of_Constantinople_(1204)",
@@ -1030,7 +1198,7 @@
         "Decline",
         "Destruction",
         "Fourth",
-        "Milestone",
+        "Milestone ⭐️",
         "Pillage",
         "Siege",
         "Venice",
@@ -1140,9 +1308,9 @@
         "Expansion",
         "Oguz",
         "Serbian",
+        "Slavic",
         "Turkic",
-        "Ottoman",
-        "Slavic"
+        "Ottoman"
       ],
       "type": "military"
     },
@@ -1158,13 +1326,13 @@
       "source": "https://en.wikipedia.org/wiki/Battle_of_Nicopolis",
       "tags": [
         "Roman",
+        "Holy Roman Empire",
         "War",
         "Battle",
         "Byzantine",
         "Croatia",
         "France",
         "Genoa",
-        "Holy Roman Empire",
         "Hungary",
         "Oguz",
         "Turkic",

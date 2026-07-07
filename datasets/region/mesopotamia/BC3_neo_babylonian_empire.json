@@ -255,8 +255,8 @@
     },
     {
       "date": "01.01.0580",
-      "description": "Nebuchadnezzar II completes Etemenanki ziggurat in Babylon, seven-story temple tower dedicated to Marduk, believed inspiration for biblical Tower of Babel",
-      "description_ru": "Навуходоносор II завершает зиккурат Этеменанки в Вавилоне, семиэтажную храмовую башню, посвящённую Мардуку, считающуюся прообразом библейской Вавилонской башни",
+      "description": "Nebuchadnezzar II completed the Etemenanki ziggurat (translated from Sumerian as \"House of the Foundation of Heaven and Earth\") in honor of the supreme god Marduk in Babylon. It was a seven-story temple tower dedicated to Marduk, considered the prototype of the biblical Tower of Babel. It was a step pyramid with a square base. The tower consisted of seven tiers, each painted a sacred color (black, red, white, etc.). A monumental triple staircase led to the top.\n\nThe top, seventh tier, was a shining temple faced with blue glazed brick. There were no statues inside—only a gilded couch and table. The Babylonians believed that the god Marduk personally descended there at night to rest.",
+      "description_ru": "Навуходоносор II завершает зиккурат Этеменанки (в переводе с шумерского — «Дом основания неба и земли») в честь верховного бога Мардука в Вавилоне, семиэтажную храмовую башню, посвящённую Мардуку, считающуюся прообразом библейской Вавилонской башни. Это была ступенчатая пирамида с квадратным основанием.  Башня состояла из 7 ярусов, каждый из которых был окрашен в свой сакральный цвет (черный, красный, белый и т.д.). На вершину вела монументальная тройная лестница.\n\nВерхний, седьмой ярус представлял собой сияющий храм, облицованный голубым глазурованным кирпичом. Внутри не было статуй — там стояли лишь золоченое ложе и стол. Вавилоняне верили, что бог Мардук лично спускался туда ночью для отдыха.",
       "era": "BC",
       "latitude": 32.543,
       "longitude": 44.421,
@@ -270,6 +270,7 @@
         "Legend",
         "Architecture",
         "Nebuchadnezzar II 👑",
+        "Pagan",
         "Temple"
       ],
       "type": "cultural"
@@ -329,6 +330,7 @@
         "Building 🏠",
         "Architecture",
         "Nebuchadnezzar II 👑",
+        "Pagan",
         "Religious",
         "Temple"
       ],
@@ -399,13 +401,14 @@
       "era": "BC",
       "latitude": 32.543,
       "longitude": 44.421,
-      "name": "Reign of Amel-Marduk",
-      "name_ru": "Амель-Мардук - царь Вавилона",
+      "name": "Reign of Amel-Marduk in Babylon",
+      "name_ru": "Амель-Мардук — царь Вавилона",
       "source": "https://en.wikipedia.org/wiki/Amel-Marduk",
       "tags": [
         "Babylonian",
         "Judaic",
         "Chaldean",
+        "Dynasty",
         "King"
       ],
       "type": "political"
@@ -456,8 +459,8 @@
       "era": "BC",
       "latitude": 32.543,
       "longitude": 44.421,
-      "name": "Nabonidus Becomes King",
-      "name_ru": "Набонид - последний царь Вавилона",
+      "name": "Nabonidus Becomes King of Babylon",
+      "name_ru": "Набонид — последний царь Вавилона",
       "source": "https://en.wikipedia.org/wiki/Nabonidus",
       "tags": [
         "Babylonian",
@@ -499,6 +502,7 @@
         "Babylonian",
         "Blasphemy",
         "Nabonidus 👑",
+        "Pagan",
         "Religious"
       ],
       "type": "religious"
@@ -553,7 +557,9 @@
         "Babylonian",
         "Blasphemy",
         "Nabonidus 👑",
-        "Religious"
+        "Pagan",
+        "Religious",
+        "Restoration"
       ],
       "type": "religious"
     },

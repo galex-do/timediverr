@@ -159,8 +159,8 @@
       "era": "BC",
       "latitude": 41.89189929,
       "longitude": 12.48642862,
-      "name": "Tullus Hostilius Becomes King",
-      "name_ru": "Тулл Гостилий - царь Рима",
+      "name": "Tullus Hostilius Becomes King of Rome",
+      "name_ru": "Тулл Гостилий — царь Рима",
       "source": "https://en.wikipedia.org/wiki/Tullus_Hostilius",
       "tags": [
         "Roman",
@@ -467,8 +467,10 @@
       "source": "https://en.wikipedia.org/wiki/Temple_of_Jupiter_Optimus_Maximus",
       "tags": [
         "Roman",
+        "Building 🏠",
         "Architecture",
         "Holy Site",
+        "Pagan",
         "Religious",
         "Temple"
       ],
@@ -546,7 +548,9 @@
       "source": "https://en.wikipedia.org/wiki/Temple_of_Saturn",
       "tags": [
         "Roman",
+        "Building 🏠",
         "Architecture",
+        "Pagan",
         "Religious",
         "Temple",
         "Treasure"
@@ -680,6 +684,7 @@
         "Building 🏠",
         "Legend",
         "Architecture",
+        "Pagan",
         "Religious",
         "Temple"
       ],
@@ -2130,6 +2135,7 @@
         "Punic",
         "War",
         "Mother of God",
+        "Pagan",
         "Religious",
         "Troy"
       ],
@@ -2281,6 +2287,7 @@
       "source": "https://en.wikipedia.org/wiki/Senatus_consultum_de_Bacchanalibus",
       "tags": [
         "Roman",
+        "Pagan",
         "Persecution",
         "Political",
         "Purge",
@@ -2758,6 +2765,7 @@
         "Greek",
         "Roman",
         "Architecture",
+        "Pagan",
         "Religious",
         "Temple",
         "Trade"
@@ -2875,6 +2883,7 @@
       "tags": [
         "Roman",
         "Architecture",
+        "Pagan",
         "Religious",
         "Temple",
         "Trade"
@@ -3744,7 +3753,7 @@
         "Crisis",
         "Julius Caesar 👤",
         "Mark Antony 👤",
-        "Milestone",
+        "Milestone ⭐️",
         "Political"
       ],
       "type": "political"
@@ -4328,7 +4337,7 @@
         "Emperor",
         "Empire",
         "Foundation",
-        "Milestone",
+        "Milestone ⭐️",
         "Octavian 👑",
         "Political"
       ],

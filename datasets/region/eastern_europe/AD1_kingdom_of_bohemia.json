@@ -15,8 +15,8 @@
         "Bohemia",
         "Czech",
         "Settlement",
-        "Tribal",
-        "Slavic"
+        "Slavic",
+        "Tribal"
       ],
       "type": "cultural"
     },
@@ -60,8 +60,8 @@
         "Culture",
         "Czech",
         "Hop",
-        "Trade",
-        "Slavic"
+        "Slavic",
+        "Trade"
       ],
       "type": "scientific"
     },
@@ -170,10 +170,10 @@
       "name_ru": "Основание Пражского епископства",
       "source": "https://en.wikipedia.org/wiki/Bishopric_of_Prague",
       "tags": [
+        "Holy Roman Empire",
         "Bohemia",
         "Christian",
         "Czech",
-        "Holy Roman Empire",
         "Přemyslid",
         "Religious",
         "Slavic"
@@ -263,8 +263,8 @@
         "Czech",
         "History",
         "Přemyslid",
-        "Text",
-        "Slavic"
+        "Slavic",
+        "Text"
       ],
       "type": "cultural"
     },
@@ -301,10 +301,10 @@
       "name_ru": "Богемия становится наследственным королевством",
       "source": "https://en.wikipedia.org/wiki/Golden_Bull_of_Sicily_(1212)",
       "tags": [
+        "Holy Roman Empire",
         "Bohemia",
         "Constitution",
         "Czech",
-        "Holy Roman Empire",
         "Kingdom",
         "Přemyslid",
         "Slavic"
@@ -360,10 +360,12 @@
       "era": "AD",
       "latitude": 48.32,
       "longitude": 16.85,
-      "name": "The Habsburgs defeat Přemysl Otakar II on the Moravian Field",
-      "name_ru": "Габсбурги разбивают Пржемысла Отакара II на Моравском поле",
+      "name": "Batlle on the Marchfeld",
+      "name_ru": "Сражение на Моравском поле",
       "source": "https://en.wikipedia.org/wiki/Battle_on_the_Marchfeld",
       "tags": [
+        "German",
+        "Holy Roman Empire",
         "War",
         "Battle",
         "Czech",

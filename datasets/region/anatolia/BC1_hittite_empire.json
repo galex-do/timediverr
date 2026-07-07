@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 51 events",
+  "description": "Dataset imported with 49 events",
   "events": [
     {
       "date": "01.01.1680",
@@ -71,7 +71,7 @@
         "War",
         "Battle",
         "Defense",
-        "Invasions"
+        "Invasion"
       ],
       "type": "military"
     },
@@ -90,7 +90,7 @@
         "War",
         "Destruction",
         "Expansion",
-        "Plundering"
+        "Pillage"
       ],
       "type": "military"
     },
@@ -179,7 +179,7 @@
       "tags": [
         "Hittite",
         "Crisis",
-        "Invasions",
+        "Invasion",
         "Kaska"
       ],
       "type": "military"
@@ -225,12 +225,12 @@
     {
       "date": "01.01.1400",
       "description": "King Tudhaliya III leads the empire in a period of decline. Enemies are on all sides: the Kaska to the north, the Arzawa to the west, and the Azzini and Hayasa to the east.",
-      "description_ru": "царь Тудхалия III возглавляет империю в период упадка. Враги со всех сторон: на севере - каска, на западе - Арцава, на востоке Ацци и Хайясы",
+      "description_ru": "Царь Тудхалия III возглавляет империю в период упадка. Враги со всех сторон: на севере - каска, на западе - Арцава, на востоке Ацци и Хайясы",
       "era": "BC",
       "latitude": 40,
       "longitude": 34.6,
       "name": "Tudhaliya III is king of Hatti",
-      "name_ru": "Тудхалия III - царь хеттов",
+      "name_ru": "Тудхалия III — царь хеттов",
       "source": "https://en.wikipedia.org/wiki/Tud%E1%B8%ABaliya_III",
       "tags": [
         "Hittite",
@@ -272,7 +272,7 @@
         "Hittite",
         "Destruction",
         "Kaska",
-        "Plundering"
+        "Pillage"
       ],
       "type": "military"
     },
@@ -283,8 +283,8 @@
       "era": "BC",
       "latitude": 40,
       "longitude": 34.6,
-      "name": "Reign of Suppiluliuma I Begins",
-      "name_ru": "Суппилулиума I - царь хеттов",
+      "name": "Reign of Suppiluliuma I Begins in Hattusa",
+      "name_ru": "Суппилулиума I — царь хеттов",
       "source": "https://www.britannica.com/biography/Suppiluliumas-I",
       "tags": [
         "Hittite",
@@ -394,8 +394,8 @@
       "era": "BC",
       "latitude": 40,
       "longitude": 34.6,
-      "name": "Accession of Mursili II",
-      "name_ru": "Мурсили II - царь хеттов",
+      "name": "Accession of Mursili II in Hattusa",
+      "name_ru": "Мурсили II — царь хеттов",
       "source": "https://en.wikipedia.org/wiki/Mursili_II",
       "tags": [
         "Hittite",
@@ -486,8 +486,8 @@
       "era": "BC",
       "latitude": 40,
       "longitude": 34.6,
-      "name": "Accession of Muwatalli II",
-      "name_ru": "Муваталли II - царь хеттов",
+      "name": "Accession of Muwatalli II in Hattusa",
+      "name_ru": "Муваталли II — царь хеттов",
       "source": "https://en.wikipedia.org/wiki/Muwatalli_II",
       "tags": [
         "Hittite",
@@ -538,7 +538,7 @@
       "era": "BC",
       "latitude": 40,
       "longitude": 34.6,
-      "name": "Usurpation by Hattusili III",
+      "name": "Usurpation of Hattusa by Hattusili III",
       "name_ru": "Узурпация престола Хаттусили III",
       "source": "https://en.wikipedia.org/wiki/Hattusili_III",
       "tags": [
@@ -595,8 +595,8 @@
       "era": "BC",
       "latitude": 40,
       "longitude": 34.6,
-      "name": "Accession of Tudhaliya IV",
-      "name_ru": "Тудхалия IV - царь хеттов",
+      "name": "Accession of Tudhaliya IV in Hatti",
+      "name_ru": "Тудхалия IV — царь хеттов",
       "source": "https://en.wikipedia.org/wiki/Tudhaliya_IV",
       "tags": [
         "Hittite",
@@ -626,7 +626,7 @@
     {
       "date": "01.01.1240",
       "description": "Tudhaliya IV constructs Yazilikaya rock sanctuary near Hattusa with elaborate relief carvings depicting Hittite pantheon and royal processions",
-      "description_ru": "Тудхалия IV строит скальное святилище Язылыкая близ Хаттусы с детальными рельефными изображениями хеттского пантеона и королевских процессий",
+      "description_ru": "Тудхалия IV строит скальное святилище Язылыкая близ Хаттусы с детальными рельефными изображениями хеттского пантеона и королевских процессий. Храм устроен прямо внутри естественного скального массива, где известняковые скалы образовали естественные галереи без крыши. \n\nХотя храм строили хеттские цари, почти все боги на скалах подписаны хурритскими иероглифами и имеют хурритские имена (Тешуб, Хепат, Шарумма). Хетты полностью интегрировали религию завоеванного ими хурритского населения в свою культуру.",
       "era": "BC",
       "latitude": 40.0394,
       "longitude": 34.6217,
@@ -639,7 +639,9 @@
         "Anatolia",
         "Architecture",
         "Art",
+        "Pagan",
         "Religious",
+        "Syncretism",
         "Temple"
       ],
       "type": "cultural"
@@ -671,7 +673,7 @@
       "latitude": 40,
       "longitude": 34.6,
       "name": "Last Hittite King Crowned",
-      "name_ru": "Суппилулиума II - последний царь хеттов",
+      "name_ru": "Суппилулиума II — последний царь хеттов",
       "source": "https://en.wikipedia.org/wiki/Suppiluliuma_II",
       "tags": [
         "Hittite",
@@ -713,7 +715,7 @@
       "tags": [
         "Hittite",
         "Cilicia",
-        "Invasions",
+        "Invasion",
         "Mediterranean"
       ],
       "type": "military"
@@ -749,7 +751,7 @@
       "tags": [
         "Hittite",
         "Phrygian",
-        "Invasions",
+        "Invasion",
         "Migration"
       ],
       "type": "military"
@@ -766,7 +768,7 @@
       "source": "https://en.wikipedia.org/wiki/Kaskians",
       "tags": [
         "Hittite",
-        "Invasions",
+        "Invasion",
         "Kaska"
       ],
       "type": "military"
@@ -825,7 +827,7 @@
         "Collapse",
         "Empire",
         "End",
-        "Invasions"
+        "Invasion"
       ],
       "type": "historic"
     },

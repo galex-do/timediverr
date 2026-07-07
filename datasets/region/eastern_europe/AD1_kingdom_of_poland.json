@@ -14,8 +14,8 @@
       "tags": [
         "Polish",
         "Settlement",
-        "Tribal",
-        "Slavic"
+        "Slavic",
+        "Tribal"
       ],
       "type": "cultural"
     },
@@ -32,7 +32,7 @@
       "tags": [
         "Customs",
         "Holidays",
-        "Paganism",
+        "Pagan",
         "Polish",
         "Slavic"
       ],
@@ -75,7 +75,8 @@
         "Kingdom",
         "Mieszko I 👑",
         "Piast",
-        "Polish"
+        "Polish",
+        "Slavic"
       ],
       "type": "political"
     },
@@ -134,9 +135,9 @@
         "Diplomacy",
         "Christian",
         "Mieszko I 👑",
+        "Papacy",
         "Piast",
         "Polish",
-        "Pope",
         "Slavic"
       ],
       "type": "political"
@@ -158,8 +159,8 @@
         "Piast",
         "Polish",
         "Silver",
-        "Trade",
-        "Slavic"
+        "Slavic",
+        "Trade"
       ],
       "type": "scientific"
     },
@@ -174,10 +175,10 @@
       "name_ru": "Гнезненский съезд",
       "source": "https://en.wikipedia.org/wiki/Congress_of_Gniezno",
       "tags": [
+        "Holy Roman Empire",
         "Alliance",
         "Bolesław I 👑",
         "Christian",
-        "Holy Roman Empire",
         "Holy Site",
         "Piast",
         "Pilgrimage",
@@ -219,16 +220,16 @@
       "name_ru": "Баутценский мир",
       "source": "https://en.wikipedia.org/wiki/Peace_of_Bautzen_(1018)",
       "tags": [
+        "Holy Roman Empire",
         "War",
         "Diplomacy",
         "Bolesław I 👑",
         "Germanic",
-        "Holy Roman Empire",
         "Peace",
         "Piast",
         "Polish",
-        "Treaty",
-        "Slavic"
+        "Slavic",
+        "Treaty"
       ],
       "type": "political"
     },
@@ -243,6 +244,7 @@
       "name_ru": "Болеслав I коронован первым королём Польши",
       "source": "https://en.wikipedia.org/wiki/Boles%C5%82aw_I_the_Brave",
       "tags": [
+        "Dynasty",
         "King",
         "Bolesław I 👑",
         "Piast",
@@ -265,7 +267,7 @@
         "Civil War",
         "Christian",
         "Crisis",
-        "Paganism",
+        "Pagan",
         "Piast",
         "Polish",
         "Religious",
@@ -328,11 +330,12 @@
       "name_ru": "Болеслав II — король Польши",
       "source": "https://en.wikipedia.org/wiki/Boles%C5%82aw_II_the_Bold",
       "tags": [
+        "Dynasty",
         "King",
         "Bolesław II 👑",
+        "Papacy",
         "Piast",
         "Polish",
-        "Pope",
         "Slavic"
       ],
       "type": "political"
@@ -367,15 +370,17 @@
       "era": "AD",
       "latitude": 51.1,
       "longitude": 17.03,
-      "name": "Battle of Hundsfeld",
-      "name_ru": "Битва при Хундсфельде",
+      "name": "Poland repels the invasion of the Holy Roman Empire",
+      "name_ru": "Польша отражает вторжение Священной Римской Империи",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Hundsfeld",
       "tags": [
+        "German",
+        "Holy Roman Empire",
         "War",
         "Battle",
-        "Holy Roman Empire",
         "Piast",
-        "Polish"
+        "Polish",
+        "Slavic"
       ],
       "type": "military"
     },
@@ -413,8 +418,8 @@
         "Piast",
         "Polish",
         "Political",
-        "Succession",
-        "Slavic"
+        "Slavic",
+        "Succession"
       ],
       "type": "political"
     }

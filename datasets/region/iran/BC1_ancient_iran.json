@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 39 events",
+  "description": "Dataset imported with 42 events",
   "events": [
     {
       "date": "01.01.2000",
@@ -52,7 +52,7 @@
         "Conquest",
         "Destruction",
         "Mesopotamia",
-        "Plundering"
+        "Pillage"
       ],
       "type": "military"
     },
@@ -76,8 +76,8 @@
     },
     {
       "date": "01.01.1250",
-      "description": "Elamite King Untash-Napirisha founds holy city of Dur Untash (Chogha Zanbil) with five-story ziggurat dedicated to god Inshushinak, demonstrating Elamite architectural mastery",
-      "description_ru": "Эламский царь Унташ-Напириша основывает священный город Дур-Унташ (Чога-Занбиль) с пятиярусным зиккуратом, посвященным богу Иншушинаку",
+      "description": "Elamite King Untash-Napirisha founds holy city of Dur Untash (Chogha Zanbil) with five-story ziggurat dedicated to god Inshushinak, demonstrating Elamite architectural mastery\n\nInshushinak is one of the main gods of the Elamite pantheon, whose name is believed to translate from Sumerian as \"lord of Susa\" (the capital of ancient Elam). In mythology, he was revered as the supreme patron of the city, the god of oaths, and the ruler of the underworld.",
+      "description_ru": "Эламский царь Унташ-Напириша основывает священный город Дур-Унташ (Чога-Занбиль) с пятиярусным зиккуратом, посвященным богу Иншушинаку. \n\nИншушинак — один из главных богов эламского пантеона, чье имя предположительно переводится с шумерского как «владыка Суз» (столицы древнего Элама). В мифологии он почитался как верховный покровитель города, бог клятвы, а также владыка царства мёртвых.",
       "era": "BC",
       "latitude": 32.0086,
       "longitude": 48.5217,
@@ -89,6 +89,7 @@
         "Building 🏠",
         "City",
         "Architecture",
+        "Patron",
         "Religious",
         "Temple"
       ],
@@ -109,7 +110,7 @@
         "Elamites",
         "War",
         "Conquest",
-        "Plundering"
+        "Pillage"
       ],
       "type": "military"
     },
@@ -304,11 +305,13 @@
       "longitude": 48.63321304,
       "name": "Median religious traditions",
       "name_ru": "Мидийские религиозные традиции",
+      "source": "https://en.wikipedia.org/wiki/Magi",
       "tags": [
         "Medes",
         "Building 🏠",
         "Customs",
         "Dualism",
+        "Pagan",
         "Religious",
         "Temple"
       ],
@@ -403,7 +406,7 @@
       "tags": [
         "Cimmerian",
         "Mannai",
-        "Invasions"
+        "Invasion"
       ],
       "type": "military"
     },
@@ -422,7 +425,7 @@
         "Cavalry",
         "Cultural Continuity",
         "Culture",
-        "Invasions"
+        "Invasion"
       ],
       "type": "military"
     },
@@ -588,7 +591,7 @@
         "Mannai",
         "Scythian",
         "Destruction",
-        "Invasions"
+        "Invasion"
       ],
       "type": "military"
     },
@@ -699,7 +702,7 @@
       "latitude": 29.6142,
       "longitude": 52.5388,
       "name": "Persian Vassalage to Media",
-      "name_ru": "Парсумаш - вассал Мидии",
+      "name_ru": "Парсумаш — вассал Мидии",
       "source": "https://en.wikipedia.org/wiki/Achaemenid_Empire",
       "tags": [
         "Persian",
@@ -735,7 +738,7 @@
       "latitude": 34.7982,
       "longitude": 48.5148,
       "name": "Astyages Becomes Median King",
-      "name_ru": "Астиаг - царь Мидии",
+      "name_ru": "Астиаг — царь Мидии",
       "source": "https://en.wikipedia.org/wiki/Astyages",
       "tags": [
         "Medes",

@@ -55,8 +55,8 @@
     },
     {
       "date": "01.01.1950",
-      "description": "Assyrians establish major trading colony at Kanesh (Kültepe) in Anatolia, creating hub for extensive trade network that will dominate Near Eastern commerce",
-      "description_ru": "Ассирийцы основывают крупную торговую колонию в Канеше (Кюльтепе) в Анатолии, создавая центр обширной торговой сети, которая будет доминировать в ближневосточной коммерции",
+      "description": "The Assyrians established a large trading colony at Kanesh (Kültepe) in Anatolia, creating the center of a vast trade network that would dominate Middle Eastern commerce. The city lay at the intersection of the region's main natural routes. Routes from Mesopotamia and Syria converged here, and from there they diverged to all corners of Asia Minor, reaching the metal deposits.",
+      "description_ru": "Ассирийцы основывают крупную торговую колонию в Канеше (Кюльтепе) в Анатолии, создавая центр обширной торговой сети, которая будет доминировать в ближневосточной коммерции. Город лежал на пересечении главных естественных дорог региона. Сюда сходились тропы из Месопотамии и Сирии, а отсюда они расходились во все концы Малой Азии к месторождениям металлов.",
       "era": "BC",
       "latitude": 38.85080448,
       "longitude": 35.63516378,
@@ -68,6 +68,7 @@
         "City",
         "Anatolia",
         "Colonization",
+        "Emporium",
         "Trade"
       ],
       "type": "historic"
@@ -294,11 +295,12 @@
       "era": "BC",
       "latitude": 35.4583,
       "longitude": 43.2611,
-      "name": "Reign of Tiglath-Pileser I Begins",
-      "name_ru": "Тиглатпаласар I - царь Ассирии",
+      "name": "Reign of Tiglath-Pileser I Begins in Assyria",
+      "name_ru": "Тиглатпаласар I — царь Ассирии",
       "source": "https://en.wikipedia.org/wiki/Tiglath-Pileser_I",
       "tags": [
         "Assyrian",
+        "Dynasty",
         "King",
         "Expansion"
       ],
@@ -437,12 +439,13 @@
       "era": "BC",
       "latitude": 35.4583,
       "longitude": 43.2611,
-      "name": "Tiglath-Pileser III Ascends Throne",
-      "name_ru": "Тиглатпаласар III восходит на трон",
+      "name": "Tiglath-Pileser III Ascends Assyrian Throne",
+      "name_ru": "Тиглатпаласар III восходит на трон Ассирии",
       "source": "https://en.wikipedia.org/wiki/Tiglath-Pileser_III",
       "tags": [
         "Assyrian",
         "Reform",
+        "Dynasty",
         "King",
         "Political",
         "Tiglath-Pileser III 👑"
@@ -643,7 +646,7 @@
         "War",
         "Battle",
         "Holy Site",
-        "Plundering",
+        "Pillage",
         "Sargon II 👑"
       ],
       "type": "military"
@@ -762,7 +765,7 @@
         "Jerusalem",
         "War",
         "Conquest",
-        "Invasions",
+        "Invasion",
         "Siege"
       ],
       "type": "military"
@@ -933,7 +936,7 @@
         "Ashurbanipal 👑",
         "Destruction",
         "Fall",
-        "Plundering"
+        "Pillage"
       ],
       "type": "military"
     },

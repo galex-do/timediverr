@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 48 events",
+  "description": "Dataset imported with 41 events",
   "events": [
     {
       "date": "01.01.9900",
@@ -137,6 +137,7 @@
       "tags": [
         "Animism",
         "Culture",
+        "Pagan",
         "Religious",
         "Khmer",
         "Vietnamese"
@@ -191,6 +192,8 @@
       "source": "https://en.wikipedia.org/wiki/Lac_Long_Quan",
       "tags": [
         "Legend",
+        "Animalism",
+        "Pagan",
         "Religious",
         "Vietnamese",
         "Văn Lang"
@@ -545,6 +548,7 @@
       "tags": [
         "Cosmology",
         "Culture",
+        "Pagan",
         "Religious",
         "Vietnamese",
         "Văn Lang"

@@ -161,8 +161,8 @@
       "era": "BC",
       "latitude": 40.12806449,
       "longitude": 43.6634016,
-      "name": "Artaxias I - King of independent Armenia",
-      "name_ru": "Арташес I - царь независимой Армении",
+      "name": "Artaxias I — King of independent Armenia",
+      "name_ru": "Арташес I — царь независимой Армении",
       "source": "https://en.wikipedia.org/wiki/Artaxias_I",
       "tags": [
         "Armenian",
@@ -241,6 +241,7 @@
         "Armenian",
         "Culture",
         "Mother of God",
+        "Pagan",
         "Religious",
         "Syncretism",
         "Temple"
@@ -254,8 +255,8 @@
       "era": "BC",
       "latitude": 39.87916461,
       "longitude": 44.57530439,
-      "name": "Tigranes the Great Enthroned",
-      "name_ru": "Восшествие Тиграна Великого",
+      "name": "Tigran the Great - King of Armenia",
+      "name_ru": "Тигран Великий - царь Армении",
       "source": "https://en.wikipedia.org/wiki/Tigranes_the_Great",
       "tags": [
         "Armenian",
@@ -597,6 +598,7 @@
         "Building 🏠",
         "Anatolia",
         "Architecture",
+        "Pagan",
         "Religious",
         "Syncretism",
         "Temple",
@@ -674,7 +676,7 @@
       "latitude": 39.87916461,
       "longitude": 44.57530439,
       "name": "Tigranes IV, King of Armenia",
-      "name_ru": "Тигран IV - царь Армении",
+      "name_ru": "Тигран IV — царь Армении",
       "source": "https://en.wikipedia.org/wiki/Tigranes_IV",
       "tags": [
         "Roman",
@@ -819,6 +821,7 @@
         "Arsacid",
         "Building 🏠",
         "Architecture",
+        "Pagan",
         "Religious",
         "Temple"
       ],
@@ -1078,6 +1081,7 @@
         "Blasphemy",
         "Christian",
         "Martyr",
+        "Pagan",
         "Religious"
       ],
       "type": "religious"

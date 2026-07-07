@@ -15,8 +15,8 @@
         "Christian",
         "Expansion",
         "Moravian",
-        "Frankish",
-        "Slavic"
+        "Slavic",
+        "Frankish"
       ],
       "type": "religious"
     },
@@ -36,8 +36,8 @@
         "Conquest",
         "Great Moravia",
         "Moravian",
-        "Unification",
-        "Slavic"
+        "Slavic",
+        "Unification"
       ],
       "type": "political"
     },
@@ -121,7 +121,7 @@
         "Christian",
         "Great Moravia",
         "Methodius 👤",
-        "Milestone",
+        "Milestone ⭐️",
         "Moravian",
         "Political",
         "Slavic"
@@ -166,8 +166,7 @@
         "Great Moravia",
         "Methodius 👤",
         "Moravian",
-        "Papal States",
-        "Pope",
+        "Papacy",
         "Religious",
         "Slavic"
       ],
@@ -191,8 +190,8 @@
         "Overthrow",
         "Religious",
         "Saint",
-        "Frankish",
-        "Slavic"
+        "Slavic",
+        "Frankish"
       ],
       "type": "political"
     },
@@ -211,7 +210,7 @@
         "Great Moravia",
         "Methodius 👤",
         "Moravian",
-        "Pope",
+        "Papacy",
         "Prisoner",
         "Frankish"
       ],
@@ -232,8 +231,7 @@
         "Great Moravia",
         "Methodius 👤",
         "Moravian",
-        "Papal States",
-        "Pope",
+        "Papacy",
         "Religious",
         "Slavic"
       ],
@@ -296,8 +294,8 @@
         "Fragmentation",
         "Great Moravia",
         "Moravian",
-        "Succession",
-        "Slavic"
+        "Slavic",
+        "Succession"
       ],
       "type": "political"
     },

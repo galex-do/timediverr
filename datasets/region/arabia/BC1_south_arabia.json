@@ -51,6 +51,7 @@
       "tags": [
         "Culture",
         "Customs",
+        "Pagan",
         "Religious",
         "Sabaean"
       ],
@@ -146,6 +147,7 @@
       "tags": [
         "Building 🏠",
         "Architecture",
+        "Pagan",
         "Religious",
         "Temple",
         "Sabaean"
@@ -258,6 +260,7 @@
         "Culture",
         "Customs",
         "Holidays",
+        "Pagan",
         "Religious",
         "Sabaean"
       ],
@@ -276,6 +279,7 @@
       "tags": [
         "Building 🏠",
         "Architecture",
+        "Pagan",
         "Religious",
         "Temple",
         "Sabaean"
@@ -315,6 +319,8 @@
         "Building 🏠",
         "King",
         "Architecture",
+        "Pagan",
+        "Religious",
         "Temple",
         "Sabaean"
       ],
@@ -354,6 +360,7 @@
       "tags": [
         "Art",
         "Culture",
+        "Pagan",
         "Religious",
         "Sculpture",
         "Sabaean"
@@ -451,7 +458,9 @@
       "name_ru": "Покаянные надписи в сабейских храмах",
       "source": "https://en.wikipedia.org/wiki/Temple_of_Awwam",
       "tags": [
+        "Culture",
         "Customs",
+        "Pagan",
         "Religious",
         "Writing",
         "Sabaean"

@@ -40,7 +40,7 @@
         "Capital",
         "Holy Site",
         "Norman",
-        "Paganism",
+        "Pagan",
         "Swedish"
       ],
       "type": "historic"
@@ -62,7 +62,7 @@
         "Danish",
         "Norman",
         "Norse",
-        "Paganism",
+        "Pagan",
         "Religious",
         "Swedish"
       ],
@@ -109,6 +109,23 @@
     },
     {
       "date": "01.01.0750",
+      "description": "The Vikings disdained classic naval combat with its maneuvers. For them, the sea was simply an arena for hand-to-hand combat. When approaching an enemy fleet, the Vikings would tie their longships together with ropes, side by side. This created a huge wooden island that moved as a single unit. On this \"platform\" they would build a shield wall and conduct their battles just as they would in a traditional land battle.",
+      "description_ru": "Викинги не признавали классический морской бой с маневрами. Для них море было просто ареной, где нужно сойтись врукопашную. Сближаясь с вражеским флотом, викинги связывали свои драккары канатами борт к борту. Получался огромный деревянный остров, который двигался как единое целое. На этой «платформе» они выстраивали стену из щитов и вели себя так же, как в обычной битве на суше.",
+      "era": "AD",
+      "latitude": 59.35473206,
+      "longitude": 5.29227734,
+      "name": "Norman naval tactics",
+      "name_ru": "Норманнские морские тактики",
+      "tags": [
+        "Naval",
+        "Norman",
+        "Seamen",
+        "Tactics"
+      ],
+      "type": "scientific"
+    },
+    {
+      "date": "01.01.0750",
       "description": "Norse navigators crossed open ocean without charts or instruments. The sólarsteinn — optical calcite (Icelandic spar) — located the sun through polarized light under full cloud cover; modern experiments confirm accuracy within a few degrees. Solar compasses calibrated direction from shadow. Latitude was held by maintaining the North Star at a fixed elevation above the horizon. Sea temperature, currents, bird species and flight direction, whale distribution, and swell rhythm confirmed position. These methods were sufficient for repeated reliable crossings of the North Atlantic — one of the world's most dangerous ocean passages.",
       "description_ru": "Норманнские мореходы пересекали открытый океан без карт и инструментов. Сóларстейн — оптический кальцит (исландский шпат) — обнаруживал солнце через поляризованный свет при полной облачности; современные эксперименты подтвердили точность в несколько градусов. Солнечные компасы определяли направление по тени гномона. Широта выдерживалась по неизменному углу Полярной звезды над горизонтом. Температура воды, течения, виды птиц и направление их полёта, распределение китов и ритм зыби подтверждали местоположение. Этих методов оказалось достаточно для пересечения Северной Атлантики — одного из опаснейших морей мира.",
       "era": "AD",
@@ -137,6 +154,7 @@
       "source": "https://en.wikipedia.org/wiki/Birka",
       "tags": [
         "City",
+        "Emporium",
         "Expansion",
         "Norman",
         "Swedish",
@@ -208,6 +226,45 @@
     },
     {
       "date": "01.01.0800",
+      "description": "Skaldic poetry was the professional art form of Norse courts: more metrically and phonetically constrained than any other European literary tradition, requiring precise patterns of alliteration, internal rhyme, and fixed syllable count. Skalds composed verses chronicling military deeds and genealogies — simultaneously political flattery and historical record. Their central device, the kenning, compressed mythological reference into two-word compounds: the sea was the whale-road; gold was fire-of-the-river; a warrior was feeder-of-ravens.",
+      "description_ru": "Скальдическая поэзия была профессиональным искусством норманнских дворов: метрически и фонетически ограниченная строже любой другой европейской литературной традиции — требовала точных схем аллитерации, внутренней рифмы и фиксированного числа слогов. Скальды слагали стихи, фиксировавшие военные подвиги и генеалогии — политическую лесть и исторический документ одновременно. Их центральный приём — кеннинг — сжимал мифологические отсылки в двусловные сложения: море было «дорогой китов»; золото — «огнём реки»; воин — «кормильцем воронов».",
+      "era": "AD",
+      "latitude": 59.35473206,
+      "longitude": 5.29227734,
+      "name": "Skaldic poetry of the Viking courts",
+      "name_ru": "Скальдическая поэзия норманнов",
+      "source": "https://en.wikipedia.org/wiki/Skaldic_poetry",
+      "tags": [
+        "Culture",
+        "Danish",
+        "Literature",
+        "Norman",
+        "Norse",
+        "Poetry",
+        "Swedish"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0800",
+      "description": "Over three thousand runestones survive in Scandinavia, the majority in Sweden concentrated around Uppsala. Most carry a memorial formula: X raised this stone for Y, who died doing Z — concise, in Old Norse, placed at roads, bridges, and Thing sites where people passed, and often brightly painted. The Ingvar Runestones — twenty-five stones raised in the 1040s for men who died on an expedition east — document a single failed Viking campaign with no other written record. Unlike Latin-language memorials, runestones required no clerical intermediary: any family with resources could enter the permanent record.",
+      "description_ru": "Более трёх тысяч рунических камней сохранилось в Скандинавии. Большинство несут поминальную формулу: «X воздвиг этот камень для Y, умершего при Z» — лаконичную, на древнескандинавском; их ставили у дорог, мостов и мест тинга и нередко ярко раскрашивали. Рунические камни Ингвара — двадцать пять камней 1040-х годов в память людей, погибших в восточной экспедиции — документируют единственную провалившуюся викингскую кампанию без иных письменных свидетельств. В отличие от латиноязычных памятников, рунические камни не требовали клерикального посредничества: любая семья с ресурсами могла войти в постоянную летопись.",
+      "era": "AD",
+      "latitude": 59.85801667,
+      "longitude": 17.63047636,
+      "name": "Runestones of Scandinavia",
+      "name_ru": "Рунические камни Скандинавии",
+      "source": "https://en.wikipedia.org/wiki/Runestone",
+      "tags": [
+        "Culture",
+        "Norman",
+        "Swedish",
+        "Writing"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0800",
       "description": "Berserkers (berserkir, bearskin) inducing an altered state of consciousness—the sagas describe superhuman strength, insensitivity to pain, and the inability to distinguish between friend and foe. This state was deliberately induced through ritual preparation—the warrior would breathe heavily, growl, and gnaw on a wooden shield to provoke an adrenaline rush. Norse kings maintained berserkers as elite shock troops. These bestial, snarling, unarmored warriors inspired superstitious terror in those who opposed them.\n\nSaga literature later reimagines them as outcasts, incompatible with settled Christian society. The berserker embodies the extreme of Norse warrior worship: martial frenzy as a sacred state under the patronage of Odin.",
       "description_ru": "Берсерки (berserkir, медвежья шкура) вводили себя в измененное состояние сознания — в сагах описывается нечеловеческая сила, нечувствительность к боли, неспособность различать друга и врага. Берсерки Состояние намеренно вызывалось ритуальной подготовкой — воин тяжело дышал, рычал, грыз деревянный щит, чтобы спровоцировать выброс адреналина. Норманнские конунги содержали берсерков как отборные ударные дружины. Звероподобные рычащие воины без брони наводили суеверный ужас на тех, кто противостоял им.\n\nЛитература саг позднее переосмысляет их как изгоев, несовместимых с оседлым христианским обществом. Берсерк воплощает крайность норманнского воинского культа: боевое исступление как сакральное состояние под покровительством Одина.",
       "era": "AD",
@@ -241,6 +298,7 @@
       "source": "https://en.wikipedia.org/wiki/Kaupang",
       "tags": [
         "City",
+        "Emporium",
         "Expansion",
         "Iron",
         "Norman",
@@ -249,45 +307,6 @@
         "Wood"
       ],
       "type": "historic"
-    },
-    {
-      "date": "01.01.0800",
-      "description": "Over three thousand runestones survive in Scandinavia, the majority in Sweden concentrated around Uppsala. Most carry a memorial formula: X raised this stone for Y, who died doing Z — concise, in Old Norse, placed at roads, bridges, and Thing sites where people passed, and often brightly painted. The Ingvar Runestones — twenty-five stones raised in the 1040s for men who died on an expedition east — document a single failed Viking campaign with no other written record. Unlike Latin-language memorials, runestones required no clerical intermediary: any family with resources could enter the permanent record.",
-      "description_ru": "Более трёх тысяч рунических камней сохранилось в Скандинавии. Большинство несут поминальную формулу: «X воздвиг этот камень для Y, умершего при Z» — лаконичную, на древнескандинавском; их ставили у дорог, мостов и мест тинга и нередко ярко раскрашивали. Рунические камни Ингвара — двадцать пять камней 1040-х годов в память людей, погибших в восточной экспедиции — документируют единственную провалившуюся викингскую кампанию без иных письменных свидетельств. В отличие от латиноязычных памятников, рунические камни не требовали клерикального посредничества: любая семья с ресурсами могла войти в постоянную летопись.",
-      "era": "AD",
-      "latitude": 59.85801667,
-      "longitude": 17.63047636,
-      "name": "Runestones of Scandinavia",
-      "name_ru": "Рунические камни Скандинавии",
-      "source": "https://en.wikipedia.org/wiki/Runestone",
-      "tags": [
-        "Culture",
-        "Norman",
-        "Swedish",
-        "Writing"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.0800",
-      "description": "Skaldic poetry was the professional art form of Norse courts: more metrically and phonetically constrained than any other European literary tradition, requiring precise patterns of alliteration, internal rhyme, and fixed syllable count. Skalds composed verses chronicling military deeds and genealogies — simultaneously political flattery and historical record. Their central device, the kenning, compressed mythological reference into two-word compounds: the sea was the whale-road; gold was fire-of-the-river; a warrior was feeder-of-ravens.",
-      "description_ru": "Скальдическая поэзия была профессиональным искусством норманнских дворов: метрически и фонетически ограниченная строже любой другой европейской литературной традиции — требовала точных схем аллитерации, внутренней рифмы и фиксированного числа слогов. Скальды слагали стихи, фиксировавшие военные подвиги и генеалогии — политическую лесть и исторический документ одновременно. Их центральный приём — кеннинг — сжимал мифологические отсылки в двусловные сложения: море было «дорогой китов»; золото — «огнём реки»; воин — «кормильцем воронов».",
-      "era": "AD",
-      "latitude": 59.35473206,
-      "longitude": 5.29227734,
-      "name": "Skaldic poetry of the Viking courts",
-      "name_ru": "Скальдическая поэзия норманнов",
-      "source": "https://en.wikipedia.org/wiki/Skaldic_poetry",
-      "tags": [
-        "Culture",
-        "Danish",
-        "Literature",
-        "Norman",
-        "Norse",
-        "Poetry",
-        "Swedish"
-      ],
-      "type": "cultural"
     },
     {
       "date": "01.01.0805",
@@ -301,6 +320,7 @@
       "source": "https://en.wikipedia.org/wiki/Hedeby",
       "tags": [
         "Danish",
+        "Emporium",
         "Expansion",
         "Norman",
         "Settlement",
@@ -476,6 +496,25 @@
     },
     {
       "date": "01.01.0860",
+      "description": "Norse sailors — Naddoðr and Garðar Svávarsson — discovered Iceland while blown off course on the Faroe route. Naddoðr named it Snæland; Garðar circumnavigated the island. A third explorer, Flóki Vilgerðarson, gave it the name Ísland (Iceland) after observing ice-filled fjords; he failed to make adequate hay for his livestock and departed. The island was uninhabited except for Irish monks (papar) who left at Norse arrival. Volcanic, treeless, geothermally active, and rich in fish and seabirds, Iceland would within seventy years produce the most sophisticated legal and literary culture of the medieval Norse world.",
+      "description_ru": "Норманнские мореходы — Наддодд и Гардар Сваварссон — открыли Исландию, сбитые с курса на фарерском маршруте. Наддодд назвал её Снэланд; Гардар обошёл остров вокруг. Третий исследователь, Флоки Вильгердарссон, дал ему название Исландия (Ísland) по ледяным фьордам; не заготовив сена для скота, он уехал. Остров был необитаем, если не считать ирландских монахов (папар), покинувших его при появлении норманнов. Вулканическая, безлесная, геотермально активная, богатая рыбой и морскими птицами, Исландия в течение семидесяти лет породила наиболее изощрённую правовую и литературную культуру средневекового норманнского мира.",
+      "era": "AD",
+      "latitude": 64.15,
+      "longitude": -21.94,
+      "name": "Discovery of Iceland by Vikings",
+      "name_ru": "Открытие викингами Исландии",
+      "source": "https://en.wikipedia.org/wiki/Settlement_of_Iceland",
+      "tags": [
+        "Expansion",
+        "Exploration",
+        "Icelandic",
+        "Norman",
+        "Seamen"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0860",
       "description": "In 859, Björn Ironside and Hastein returned to the Mediterranean with sixty-two ships. The Vikings sailed to Necor (North Africa), where they sacked the city and captured the local inhabitants (the \"blue men,\" as the Scandinavians called the Moors). The local Berber army attempted to block their advance, but the Scandinavians, superior in heavy weapons and close combat, quickly overwhelmed their defenses.",
       "description_ru": "В 859 году Бьёрн Железнобокий и Хастейн вернулись в Средиземное море с шестьюдесятью двумя кораблями. Викинги доплыли до Некора (север Африки), где разграбили город и захватили в плен местных жителей («синих людей», как скандинавы называли мавров). Местное берберское войско попыталось заблокировать их продвижение, но скандинавы, превосходившие их в тяжелом вооружении и ближнем бою, быстро смяли оборону.",
       "era": "AD",
@@ -494,25 +533,6 @@
         "Seamen"
       ],
       "type": "military"
-    },
-    {
-      "date": "01.01.0860",
-      "description": "Norse sailors — Naddoðr and Garðar Svávarsson — discovered Iceland while blown off course on the Faroe route. Naddoðr named it Snæland; Garðar circumnavigated the island. A third explorer, Flóki Vilgerðarson, gave it the name Ísland (Iceland) after observing ice-filled fjords; he failed to make adequate hay for his livestock and departed. The island was uninhabited except for Irish monks (papar) who left at Norse arrival. Volcanic, treeless, geothermally active, and rich in fish and seabirds, Iceland would within seventy years produce the most sophisticated legal and literary culture of the medieval Norse world.",
-      "description_ru": "Норманнские мореходы — Наддодд и Гардар Сваварссон — открыли Исландию, сбитые с курса на фарерском маршруте. Наддодд назвал её Снэланд; Гардар обошёл остров вокруг. Третий исследователь, Флоки Вильгердарссон, дал ему название Исландия (Ísland) по ледяным фьордам; не заготовив сена для скота, он уехал. Остров был необитаем, если не считать ирландских монахов (папар), покинувших его при появлении норманнов. Вулканическая, безлесная, геотермально активная, богатая рыбой и морскими птицами, Исландия в течение семидесяти лет породила наиболее изощрённую правовую и литературную культуру средневекового норманнского мира.",
-      "era": "AD",
-      "latitude": 64.15,
-      "longitude": -21.94,
-      "name": "Discovery of Iceland by Vikings",
-      "name_ru": "Открытие викингами Исландии",
-      "source": "https://en.wikipedia.org/wiki/Settlement_of_Iceland",
-      "tags": [
-        "Expansion",
-        "Exploration",
-        "Icelandic",
-        "Norman",
-        "Seamen"
-      ],
-      "type": "cultural"
     },
     {
       "date": "01.04.0860",
@@ -774,8 +794,8 @@
       "era": "AD",
       "latitude": 49.4403139,
       "longitude": 1.09481871,
-      "name": "The founding of Normandy",
-      "name_ru": "Основание Нормандии",
+      "name": "Foundation of the Duchy of Normandy",
+      "name_ru": "Основание герцогства Нормандия",
       "source": "https://en.wikipedia.org/wiki/Treaty_of_Saint-Clair-sur-Epte",
       "tags": [
         "Duchy",
@@ -901,7 +921,7 @@
         "Danish",
         "Norman",
         "Overthrow",
-        "Paganism",
+        "Pagan",
         "Rebellion",
         "Religious"
       ],
@@ -1141,6 +1161,7 @@
         "King",
         "Cnut the Great 👑",
         "Danish",
+        "England",
         "English",
         "Kingdom",
         "Norman"
@@ -1152,21 +1173,21 @@
       "description": "In 1027, Cnut attended the coronation of Holy Roman Emperor Conrad II in Rome—the first Norman king to participate in an imperial coronation—demonstrating that a converted Viking ruler was capable of operating at the pinnacle of European Christian politics. He negotiated with Pope John XIX a reduction in fees for English pilgrims and wrote an open letter to his English subjects describing his journey. This letter is one of the oldest royal documents in English history and the first to use the language of Christian governance: Cnut presents himself as a ruler responsible to God for the well-being of the people.",
       "description_ru": "В 1027 году Кнут присутствовал на коронации императора Священной Римской империи Конрада II в Риме — первый норманнский конунг, участвовавший в имперской коронации — продемонстрировав, что обращённый правитель-викинг способен действовать на вершине европейской христианской политики. Он договорился с папой Иоанном XIX о снижении сборов для английских паломников и написал своим английским подданным открытое письмо с описанием путешествия. Это письмо — один из древнейших королевских документов в истории Англии и первый, использующий язык христианского правления: Кнут представляет себя правителем, ответственным перед Богом за благополучие народа.",
       "era": "AD",
-      "latitude": 41.9,
-      "longitude": 12.49,
+      "latitude": 41.90216525,
+      "longitude": 12.45367348,
       "name": "Cnut's pilgrimage to Rome",
       "name_ru": "Паломничество Кнута в Рим",
       "source": "https://en.wikipedia.org/wiki/Cnut_the_Great",
       "tags": [
+        "Holy Roman Empire",
         "Diplomacy",
         "Christian",
         "Cnut the Great 👑",
         "Danish",
         "English",
-        "Holy Roman Empire",
         "Norman",
-        "Pilgrimage",
-        "Pope"
+        "Papacy",
+        "Pilgrimage"
       ],
       "type": "religious"
     },
@@ -1266,6 +1287,7 @@
         "War",
         "Battle",
         "Conquest",
+        "England",
         "English",
         "Norman",
         "Normandy",

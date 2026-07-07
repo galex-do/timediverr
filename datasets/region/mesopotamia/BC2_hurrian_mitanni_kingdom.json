@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 43 events",
+  "description": "Dataset imported with 42 events",
   "events": [
     {
       "date": "01.01.1580",
@@ -28,7 +28,7 @@
       "latitude": 36.85,
       "longitude": 40.5,
       "name": "Reign of King Kirta in Mitanni",
-      "name_ru": "Кирта - первый царь Митанни",
+      "name_ru": "Кирта — первый царь Митанни",
       "source": "https://www.britannica.com/place/Mitanni",
       "tags": [
         "Mitanni",
@@ -47,8 +47,8 @@
       "era": "BC",
       "latitude": 36.85,
       "longitude": 40.5,
-      "name": "Accession of Shuttarna I",
-      "name_ru": "Шуттарна I - царь Митанни",
+      "name": "Accession of Shuttarna I in Mitanni",
+      "name_ru": "Шуттарна I — царь Митанни",
       "source": "https://www.historyfiles.co.uk/KingListsMiddEast/AnatoliaHurrianMitanni.htm",
       "tags": [
         "Mitanni",
@@ -218,6 +218,7 @@
       "source": "https://www.worldhistory.org/Hurrians/",
       "tags": [
         "Hurrian",
+        "Pagan",
         "Religious",
         "Text"
       ],
@@ -286,8 +287,8 @@
       "era": "BC",
       "latitude": 36.85,
       "longitude": 40.5,
-      "name": "Accession of Shuttarna II",
-      "name_ru": "Шуттарна II - царь Митанни",
+      "name": "Accession of Shuttarna II in Mitanni",
+      "name_ru": "Шуттарна II — царь Митанни",
       "source": "https://www.britannica.com/place/Mitanni",
       "tags": [
         "Mitanni",
@@ -357,8 +358,8 @@
       "era": "BC",
       "latitude": 36.85,
       "longitude": 40.5,
-      "name": "Accession of King Tushratta",
-      "name_ru": "Тушратта - последний царь Митанни",
+      "name": "Accession of King Tushratta in Mitanni ",
+      "name_ru": "Тушратта — последний царь Митанни",
       "source": "https://www.britannica.com/place/Mitanni",
       "tags": [
         "Mitanni",
@@ -381,7 +382,7 @@
         "Mitanni",
         "Hittite",
         "War",
-        "Invasions",
+        "Invasion",
         "Syria"
       ],
       "type": "military"
@@ -440,7 +441,7 @@
         "Hittite",
         "War",
         "Destruction",
-        "Plundering"
+        "Pillage"
       ],
       "type": "military"
     },
@@ -548,7 +549,7 @@
         "Assyrian",
         "Hittite",
         "War",
-        "Invasions"
+        "Invasion"
       ],
       "type": "military"
     },
@@ -744,6 +745,7 @@
         "Assyrian",
         "Hittite",
         "Hurrian",
+        "Pagan",
         "Religious",
         "Syncretism"
       ],

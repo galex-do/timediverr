@@ -48,8 +48,8 @@
       "era": "BC",
       "latitude": 45.35099544,
       "longitude": 36.46861732,
-      "name": "Satyrus I - King of Bosporus",
-      "name_ru": "Сатир I - царь Боспора",
+      "name": "Satyrus I — King of Bosporus",
+      "name_ru": "Сатир I — царь Боспора",
       "source": "https://en.wikipedia.org/wiki/Satyrus_I",
       "tags": [
         "Greek",
@@ -122,14 +122,15 @@
       "era": "BC",
       "latitude": 45.35099544,
       "longitude": 36.46861732,
-      "name": "Leucon and Gorgippus - kings of Bosporus",
-      "name_ru": "Левкон и Горгипп - цари Боспора",
+      "name": "Leucon and Gorgippus — brothers-kings of Bosporus",
+      "name_ru": "Левкон и Горгипп — братья-цари Боспора",
       "source": "https://en.wikipedia.org/wiki/Leucon_I",
       "tags": [
         "Greek",
         "Dynasty",
         "King",
         "Bosporan",
+        "Brotherhood",
         "Spartocid"
       ],
       "type": "political"
@@ -214,19 +215,20 @@
     },
     {
       "date": "01.01.0349",
-      "description": "The sons of Leucon inherit the kingdom after his death.",
-      "description_ru": "Сыновья Левкона наследуют царство после его смерти.",
+      "description": "Leucon's sons inherited the kingdom after his death. The elder brother, Spartocus II, assumed the throne in the capital (Panticapaeum), while the younger, Paerisades I, received control of the most important trade hub, Theodosia. In all decrees and international treaties (for example, with Athens), they were referred to together as \"archons of the Bosporus and Theodosia.\"",
+      "description_ru": "Сыновья Левкона наследуют царство после его смерти. Старший брат, Спарток II, занял престол в столице (Пантикапее), а младший, Перисад I, получил в управление важнейший торговый узел — Феодосию. Во всех декретах и международных договорах (например, с Афинами) они упоминались вместе как «архонты Боспора и Феодосии»",
       "era": "BC",
       "latitude": 45.35099544,
       "longitude": 36.46861732,
-      "name": "Spartocus II and Paerisades - kings of the Bosporus",
-      "name_ru": "Спарток II и Перисад - цари Боспора",
+      "name": "Spartocus II and Paerisades — kings of the Bosporus",
+      "name_ru": "Спарток II и Перисад — цари Боспора",
       "source": "https://en.wikipedia.org/wiki/Spartocid_dynasty",
       "tags": [
         "Greek",
         "Dynasty",
         "King",
         "Bosporan",
+        "Brotherhood",
         "Spartocid"
       ],
       "type": "political"
@@ -297,8 +299,8 @@
       "era": "BC",
       "latitude": 45.35099544,
       "longitude": 36.46861732,
-      "name": "Eumelus - King of the Bosporus",
-      "name_ru": "Эвмел - царь Боспора",
+      "name": "Eumelus — King of the Bosporus",
+      "name_ru": "Эвмел — царь Боспора",
       "source": "https://en.wikipedia.org/wiki/Eumelus_of_Bosporus",
       "tags": [
         "Greek",
@@ -317,8 +319,8 @@
       "era": "BC",
       "latitude": 45.35099544,
       "longitude": 36.46861732,
-      "name": "Spartocus III - King of Bosporus",
-      "name_ru": "Спарток III - царь Боспора",
+      "name": "Spartocus III — King of Bosporus",
+      "name_ru": "Спарток III — царь Боспора",
       "source": "https://en.wikipedia.org/wiki/Spartocus_III",
       "tags": [
         "Greek",
@@ -337,8 +339,8 @@
       "era": "BC",
       "latitude": 45.35099544,
       "longitude": 36.46861732,
-      "name": "Paerisades II - King of the Bosporus",
-      "name_ru": "Перисад II - царь Боспора",
+      "name": "Paerisades II — King of the Bosporus",
+      "name_ru": "Перисад II — царь Боспора",
       "tags": [
         "Greek",
         "Dynasty",
@@ -365,7 +367,9 @@
         "City",
         "Bosporan",
         "Colonization",
-        "Expansion"
+        "Emporium",
+        "Expansion",
+        "Trade"
       ],
       "type": "historic"
     },
@@ -475,8 +479,8 @@
       "era": "BC",
       "latitude": 45.35099544,
       "longitude": 36.46861732,
-      "name": "Asander - King of Bosporus and consort",
-      "name_ru": "Асандр - царь Боспора и консорт",
+      "name": "Asander — King of Bosporus and consort",
+      "name_ru": "Асандр — царь Боспора и консорт",
       "tags": [
         "Greek",
         "Roman",
@@ -539,8 +543,8 @@
       "era": "BC",
       "latitude": 45.35099544,
       "longitude": 36.46861732,
-      "name": "Aspurgus - the king of Bosporus",
-      "name_ru": "Аспург - царь Боспора",
+      "name": "Aspurgus — the king of Bosporus",
+      "name_ru": "Аспург — царь Боспора",
       "source": "https://en.wikipedia.org/wiki/Aspurgus",
       "tags": [
         "Greek",

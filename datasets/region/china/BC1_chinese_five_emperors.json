@@ -53,7 +53,9 @@
       "tags": [
         "Chinese",
         "Legend",
+        "Animalism",
         "Cosmology",
+        "Pagan",
         "Religious",
         "Yellow River"
       ],
@@ -73,8 +75,8 @@
         "Chinese",
         "Legend",
         "Han",
-        "Five Emperors",
-        "Yellow Emperor"
+        "Yellow Emperor 👑",
+        "Five Emperors"
       ],
       "type": "historic"
     },
@@ -92,8 +94,8 @@
         "Chinese",
         "Battle",
         "Legend",
-        "Five Emperors",
-        "Yellow Emperor"
+        "Yellow Emperor 👑",
+        "Five Emperors"
       ],
       "type": "historic"
     },
@@ -112,9 +114,9 @@
         "Legend",
         "Compass",
         "Navigation",
+        "Yellow Emperor 👑",
         "Five Emperors",
-        "Invention",
-        "Yellow Emperor"
+        "Invention"
       ],
       "type": "scientific"
     },
@@ -132,8 +134,8 @@
         "Chinese",
         "Battle",
         "Legend",
-        "Five Emperors",
-        "Yellow Emperor"
+        "Yellow Emperor 👑",
+        "Five Emperors"
       ],
       "type": "historic"
     },
@@ -152,8 +154,8 @@
         "Legend",
         "Innovation",
         "Writing",
-        "Five Emperors",
-        "Yellow Emperor"
+        "Yellow Emperor 👑",
+        "Five Emperors"
       ],
       "type": "cultural"
     },
@@ -174,8 +176,8 @@
         "Innovation",
         "Silk",
         "Textile",
-        "Five Emperors",
-        "Yellow Emperor"
+        "Yellow Emperor 👑",
+        "Five Emperors"
       ],
       "type": "cultural"
     },
@@ -194,8 +196,8 @@
         "Legend",
         "Astronomy",
         "Calendar",
-        "Five Emperors",
-        "Yellow Emperor"
+        "Yellow Emperor 👑",
+        "Five Emperors"
       ],
       "type": "scientific"
     },
@@ -213,8 +215,8 @@
         "Chinese",
         "Legend",
         "Medicine",
-        "Five Emperors",
-        "Yellow Emperor"
+        "Yellow Emperor 👑",
+        "Five Emperors"
       ],
       "type": "scientific"
     },
@@ -233,8 +235,8 @@
         "Legend",
         "Culture",
         "Music",
-        "Five Emperors",
-        "Yellow Emperor"
+        "Yellow Emperor 👑",
+        "Five Emperors"
       ],
       "type": "cultural"
     },
@@ -253,8 +255,8 @@
         "Legend",
         "Holy Site",
         "Religious",
-        "Five Emperors",
-        "Yellow Emperor"
+        "Yellow Emperor 👑",
+        "Five Emperors"
       ],
       "type": "religious"
     },
@@ -271,7 +273,9 @@
       "tags": [
         "Chinese",
         "Legend",
+        "Animism",
         "Culture",
+        "Pagan",
         "Religious",
         "Five Emperors"
       ],
@@ -310,6 +314,7 @@
         "Chinese",
         "Legend",
         "Cosmology",
+        "Pagan",
         "Religious",
         "Five Emperors",
         "Flood"

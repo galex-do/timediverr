@@ -60,8 +60,8 @@
       "era": "BC",
       "latitude": 37.1061,
       "longitude": 58.5094,
-      "name": "Reign of Arsaces II Begins",
-      "name_ru": "Аршак II - царь Парфии",
+      "name": "Reign of Arsaces II Begins in Parthia",
+      "name_ru": "Аршак II — царь Парфии",
       "source": "https://en.wikipedia.org/wiki/Arsaces_II_of_Parthia",
       "tags": [
         "Parthian",
@@ -96,8 +96,8 @@
       "era": "BC",
       "latitude": 35.9511,
       "longitude": 54.1128,
-      "name": "Reign of Priapatius",
-      "name_ru": "Приапат - царь Парфии",
+      "name": "Reign of Priapatius in Parthia",
+      "name_ru": "Приапат — царь Парфии",
       "source": "https://en.wikipedia.org/wiki/Priapatius",
       "tags": [
         "Parthian",
@@ -114,8 +114,8 @@
       "era": "BC",
       "latitude": 35.9511,
       "longitude": 54.1128,
-      "name": "Reign of Phraates I",
-      "name_ru": "Фраат I - царь Парфии",
+      "name": "Reign of Phraates I in Parthia",
+      "name_ru": "Фраат I — царь Парфии",
       "source": "https://en.wikipedia.org/wiki/Phraates_I",
       "tags": [
         "Parthian",
@@ -133,8 +133,8 @@
       "era": "BC",
       "latitude": 35.9511,
       "longitude": 54.1128,
-      "name": "Reign of Mithridates I the Great",
-      "name_ru": "Митридат I - царь Парфии",
+      "name": "Reign of Mithridates I the Great in Parthia",
+      "name_ru": "Митридат I — царь Парфии",
       "source": "https://en.wikipedia.org/wiki/Mithridates_I_of_Parthia",
       "tags": [
         "Parthian",
@@ -213,8 +213,8 @@
       "era": "BC",
       "latitude": 35.9511,
       "longitude": 54.1128,
-      "name": "Reign of Phraates II",
-      "name_ru": "Фраат II - царь Парфии",
+      "name": "Reign of Phraates II in Parthia",
+      "name_ru": "Фраат II — царь Парфии",
       "source": "https://en.wikipedia.org/wiki/Phraates_II",
       "tags": [
         "Parthian",
@@ -269,8 +269,8 @@
       "era": "BC",
       "latitude": 35.9511,
       "longitude": 54.1128,
-      "name": "Reign and Death of Artabanus I",
-      "name_ru": "Артабан I - царь Парфии",
+      "name": "Reign and Death of Artabanus I of Parthia",
+      "name_ru": "Артабан I — царь Парфии",
       "source": "https://en.wikipedia.org/wiki/Artabanus_I_of_Parthia",
       "tags": [
         "Parthian",
@@ -303,8 +303,8 @@
       "era": "BC",
       "latitude": 37.9513,
       "longitude": 58.211,
-      "name": "Reign of Mithridates II the Great",
-      "name_ru": "Митридат II - царь Парфии",
+      "name": "Reign of Mithridates II the Great of Parthia",
+      "name_ru": "Митридат II — царь Парфии",
       "source": "https://en.wikipedia.org/wiki/Mithridates_II_of_Parthia",
       "tags": [
         "Parthian",
@@ -400,8 +400,8 @@
       "era": "BC",
       "latitude": 33.1,
       "longitude": 44.5333,
-      "name": "Reign of Orodes II",
-      "name_ru": "Ород II - царь Парфии",
+      "name": "Reign of Orodes II in Parthia",
+      "name_ru": "Ород II — царь Парфии",
       "source": "https://en.wikipedia.org/wiki/Orodes_II",
       "tags": [
         "Greek",
@@ -504,7 +504,7 @@
         "Parthian",
         "War",
         "Conquest",
-        "Invasions",
+        "Invasion",
         "Syria"
       ],
       "type": "military"
@@ -544,7 +544,7 @@
         "Parthian",
         "War",
         "Failure",
-        "Invasions",
+        "Invasion",
         "Mark Antony 👤"
       ],
       "type": "military"
@@ -596,14 +596,15 @@
       "era": "AD",
       "latitude": 33.1,
       "longitude": 44.5333,
-      "name": "Vonones I Becomes King",
-      "name_ru": "Вонон I - заложник Рима и царь Парфии",
+      "name": "Vonones I Becomes King of Parthia",
+      "name_ru": "Вонон I — заложник Рима и царь Парфии",
       "source": "https://en.wikipedia.org/wiki/Vonones_I",
       "tags": [
         "Roman",
         "Parthian",
         "Arsacid",
         "Civil War",
+        "Dynasty",
         "King",
         "Hostage"
       ],
@@ -656,12 +657,13 @@
       "era": "AD",
       "latitude": 33.094,
       "longitude": 44.581,
-      "name": "Reign of Vologases I",
-      "name_ru": "Вологез I - царь Парфии",
+      "name": "Reign of Vologases I in Parthia",
+      "name_ru": "Вологез I — царь Парфии",
       "source": "https://en.wikipedia.org/wiki/Vologases_I_of_Parthia",
       "tags": [
         "Parthian",
         "Arsacid",
+        "Dynasty",
         "King"
       ],
       "type": "political"
@@ -703,7 +705,7 @@
         "Parthian",
         "War",
         "Destruction",
-        "Invasions"
+        "Invasion"
       ],
       "type": "military"
     },
@@ -813,12 +815,13 @@
       "era": "AD",
       "latitude": 33.094,
       "longitude": 44.581,
-      "name": "Death of Vologases I",
+      "name": "Death of Vologases I of Parthia",
       "name_ru": "Смерть Вологеза I Парфянского",
       "source": "https://en.wikipedia.org/wiki/Vologases_I_of_Parthia",
       "tags": [
         "Parthian",
         "Arsacid",
+        "Dynasty",
         "Death"
       ],
       "type": "political"
@@ -849,12 +852,13 @@
       "era": "AD",
       "latitude": 33.094,
       "longitude": 44.581,
-      "name": "Reign of Osroes I",
-      "name_ru": "Осрой I - царь Парфии",
+      "name": "Reign of Osroes I in Parthia",
+      "name_ru": "Осрой I — царь Парфии",
       "source": "https://en.wikipedia.org/wiki/Osroes_I",
       "tags": [
         "Parthian",
         "Arsacid",
+        "Dynasty",
         "King"
       ],
       "type": "political"
@@ -872,7 +876,7 @@
       "tags": [
         "Roman",
         "Parthian",
-        "Invasions",
+        "Invasion",
         "Mesopotamia",
         "Trajan 👑"
       ],
@@ -963,8 +967,8 @@
       "era": "AD",
       "latitude": 33.094,
       "longitude": 44.581,
-      "name": "Reign of Vologases IV",
-      "name_ru": "Вологез IV - царь Парфии",
+      "name": "Reign of Vologases IV in Parthia",
+      "name_ru": "Вологез IV — царь Парфии",
       "source": "https://en.wikipedia.org/wiki/Vologases_IV_of_Parthia",
       "tags": [
         "Parthian",
@@ -1007,7 +1011,7 @@
         "Armenian",
         "Parthian",
         "War",
-        "Invasions"
+        "Invasion"
       ],
       "type": "military"
     },
@@ -1043,8 +1047,8 @@
         "Parthian",
         "War",
         "Destruction",
-        "Plague",
-        "Plundering"
+        "Pillage",
+        "Plague"
       ],
       "type": "military"
     },
@@ -1072,13 +1076,14 @@
       "era": "AD",
       "latitude": 33.094,
       "longitude": 44.581,
-      "name": "Reign of Vologases V",
-      "name_ru": "Вологез V - царь Парфии",
+      "name": "Reign of Vologases V in Parthia",
+      "name_ru": "Вологез V — царь Парфии",
       "source": "https://en.wikipedia.org/wiki/Vologases_V",
       "tags": [
         "Parthian",
         "Arsacid",
         "Civil War",
+        "Dynasty",
         "King",
         "Decline"
       ],
@@ -1098,7 +1103,7 @@
         "Roman",
         "Parthian",
         "War",
-        "Plundering",
+        "Pillage",
         "Septimius Severus 👑"
       ],
       "type": "military"
@@ -1157,7 +1162,7 @@
         "War",
         "Blasphemy",
         "Caracalla 👑",
-        "Invasions"
+        "Invasion"
       ],
       "type": "military"
     },

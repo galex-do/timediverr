@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 29 events",
+  "description": "Dataset imported with 28 events",
   "events": [
     {
       "date": "11.08.3114",
@@ -13,6 +13,7 @@
       "tags": [
         "Cosmology",
         "Olmec",
+        "Pagan",
         "Religious"
       ],
       "type": "historic"
@@ -51,6 +52,7 @@
         "Holy Site",
         "Mesoamerica",
         "Olmec",
+        "Pagan",
         "Religious"
       ],
       "type": "religious"
@@ -90,6 +92,7 @@
         "Customs",
         "Mesoamerica",
         "Olmec",
+        "Pagan",
         "Religious",
         "Rubber",
         "Sport"
@@ -184,6 +187,7 @@
         "Culture",
         "Mesoamerica",
         "Olmec",
+        "Pagan",
         "Religious"
       ],
       "type": "religious"
@@ -203,6 +207,7 @@
         "Culture",
         "Mesoamerica",
         "Olmec",
+        "Pagan",
         "Religious"
       ],
       "type": "religious"
@@ -299,6 +304,7 @@
         "Mesoamerica",
         "Mystery",
         "Olmec",
+        "Pagan",
         "Religious"
       ],
       "type": "religious"
@@ -317,7 +323,9 @@
         "Cosmology",
         "Mesoamerica",
         "Olmec",
-        "Religious"
+        "Pagan",
+        "Religious",
+        "Sacrifice"
       ],
       "type": "religious"
     },
@@ -336,6 +344,7 @@
         "Jade",
         "Mesoamerica",
         "Olmec",
+        "Pagan",
         "Religious",
         "Trade"
       ],
@@ -354,6 +363,7 @@
       "tags": [
         "Mesoamerica",
         "Olmec",
+        "Pagan",
         "Political",
         "Religious"
       ],
@@ -373,6 +383,7 @@
         "Architecture",
         "Mesoamerica",
         "Olmec",
+        "Pagan",
         "Religious"
       ],
       "type": "cultural"
@@ -393,6 +404,7 @@
         "Divination",
         "Mesoamerica",
         "Olmec",
+        "Pagan",
         "Religious"
       ],
       "type": "religious"
@@ -430,6 +442,7 @@
         "Culture",
         "Mesoamerica",
         "Olmec",
+        "Pagan",
         "Religious"
       ],
       "type": "religious"
@@ -445,9 +458,11 @@
       "name_ru": "Фигура из Лас-Лимас",
       "source": "https://en.wikipedia.org/wiki/Las_Limas_Monument_1",
       "tags": [
+        "Animalism",
         "Culture",
         "Mesoamerica",
         "Olmec",
+        "Pagan",
         "Religious"
       ],
       "type": "religious"

@@ -1434,14 +1434,15 @@
     },
     {
       "date": "01.01.2000",
-      "description": "Abraham migrates from Ur to Canaan according to biblical tradition",
-      "description_ru": "Авраам мигрирует из Ура в Ханаан согласно библейской традиции",
+      "description": "Abraham was born and lived in the wealthy Mesopotamian city of Ur (in the south of modern-day Iraq). At the behest of his father, Terah, the family moved northwest, along the Euphrates River. The family settled in the city of Harran. Here, Terah died, and Abraham became the head of the clan.\n\nAt the age of 75, Abraham received a direct command from God: \"Get out of your country, from your kindred, and from your father's house... to the land that I will show you.\" Abraham took his wife Sarah, his nephew Lot, all his possessions, and servants, and departed south, to the land of Canaan.",
+      "description_ru": "Авраам родился и жил в богатом месопотамском городе Ур (юг современного Ирака). По велению отца Фарры семья двинулась на северо-запад, вдоль русла реки Евфрат. Семья обосновалась в городе Харран. Здесь Фарра умер, и Авраам стал главой клана.\n\nВ возрасте 75 лет Авраам получает прямой приказ от Бога: «Пойди из земли твоей, от родства твоего и из дома отца твоего... в землю, которую Я укажу тебе». Авраам берет жену Сару, племянника Лота, все имущество, слуг и уходит на юг, в земли Ханаана ",
       "era": "BC",
       "latitude": 31.769,
       "longitude": 35.234,
       "name": "Abraham's Migration",
       "name_ru": "Миграция Авраама в Ханаан",
       "tags": [
+        "Judaic",
         "Legend",
         "Migration",
         "Religious"
@@ -1496,6 +1497,7 @@
         "Egypt",
         "Legend",
         "Holy Site",
+        "Pagan",
         "Religious"
       ],
       "type": "religious"
@@ -1631,16 +1633,18 @@
     },
     {
       "date": "01.01.1792",
-      "description": "Hammurabi becomes king of Babylon and begins his 43-year reign",
-      "description_ru": "Хаммурапи становится царем Вавилона и начинает свое 43-летнее правление",
+      "description": "Hammurabi becomes king of Babylon and begins his 43-year reign. Hammurabi is remembered in history as a meticulous ruler and administrator, a conqueror, and as a lawmaker who compiled the Babylonian code.",
+      "description_ru": "Хаммурапи становится царем Вавилона и начинает свое 43-летнее правление. В историю Хаммурапи вошел как дотошный правитель и администратор, завоеватель, и как царь-законотворец, составивший свод законов Вавилона",
       "era": "BC",
       "latitude": 32.543,
       "longitude": 44.421,
-      "name": "Hammurabi Becomes King",
-      "name_ru": "Хаммурапи - царь Вавилона",
+      "name": "Hammurabi Becomes King of Babylon",
+      "name_ru": "Хаммурапи — царь Вавилона",
       "tags": [
         "Babylonian",
-        "King"
+        "Dynasty",
+        "King",
+        "Amorite"
       ],
       "type": "historic"
     },
@@ -1822,20 +1826,21 @@
     },
     {
       "date": "01.01.1500",
-      "description": "Mesopotamians invent the seeder plow, revolutionizing agriculture and food production",
-      "description_ru": "Месопотамцы изобретают сеялочный плуг, революционизируя сельское хозяйство и производство пищи",
+      "description": "Nok culture develops on the Jos Plateau in Nigeria, creating elaborate terracotta sculptures and advanced iron-working techniques",
+      "description_ru": "Культура Нок развивается на плато Джос в Нигерии. Культура знаменита терракотовыми скульптурами и передовыми техниками обработки железа",
       "era": "BC",
-      "latitude": 33.312,
-      "longitude": 44.644,
-      "name": "Seeder Plow Invented",
-      "name_ru": "Изобретение сеялочного плуга",
+      "latitude": 9.928,
+      "longitude": 8.893,
+      "name": "Nok Culture Begins",
+      "name_ru": "Нигерийская культура Нок",
+      "source": "https://www.britishmuseum.org/collection/term/x68551",
       "tags": [
-        "Agriculture",
-        "Food",
-        "Innovation",
-        "Science"
+        "Culture",
+        "Iron",
+        "Nok",
+        "Sculpture"
       ],
-      "type": "scientific"
+      "type": "cultural"
     },
     {
       "date": "01.01.1500",
@@ -1855,21 +1860,20 @@
     },
     {
       "date": "01.01.1500",
-      "description": "Nok culture develops on the Jos Plateau in Nigeria, creating elaborate terracotta sculptures and advanced iron-working techniques",
-      "description_ru": "Культура Нок развивается на плато Джос в Нигерии. Культура знаменита терракотовыми скульптурами и передовыми техниками обработки железа",
+      "description": "Mesopotamians invent the seeder plow, revolutionizing agriculture and food production",
+      "description_ru": "Месопотамцы изобретают сеялочный плуг, революционизируя сельское хозяйство и производство пищи",
       "era": "BC",
-      "latitude": 9.928,
-      "longitude": 8.893,
-      "name": "Nok Culture Begins",
-      "name_ru": "Нигерийская культура Нок",
-      "source": "https://www.britishmuseum.org/collection/term/x68551",
+      "latitude": 33.312,
+      "longitude": 44.644,
+      "name": "Seeder Plow Invented",
+      "name_ru": "Изобретение сеялочного плуга",
       "tags": [
-        "Culture",
-        "Iron",
-        "Nok",
-        "Sculpture"
+        "Agriculture",
+        "Food",
+        "Innovation",
+        "Science"
       ],
-      "type": "cultural"
+      "type": "scientific"
     },
     {
       "date": "01.01.1479",
@@ -1879,7 +1883,7 @@
       "latitude": 25.731,
       "longitude": 32.639,
       "name": "Hatshepsut Becomes Pharaoh of Egypt",
-      "name_ru": "Хатшепсут - фараон Египта",
+      "name_ru": "Хатшепсут — фараон Египта",
       "source": "https://en.wikipedia.org/wiki/Hatshepsut",
       "tags": [
         "Egypt",
@@ -2143,24 +2147,6 @@
     },
     {
       "date": "01.01.1446",
-      "description": "Egyptian forces raid Nukhashshe region in Syria, maintaining pressure on semi-nomadic populations",
-      "description_ru": "Египетские силы совершают рейд в регион Нухашше в Сирии, поддерживая давление на полукочевое население",
-      "era": "BC",
-      "latitude": 35.5,
-      "longitude": 36.8,
-      "name": "9th Thutmose III Campaign - Nukhashshe Raid",
-      "name_ru": "9-й поход Тутмоса III на Нухашше",
-      "tags": [
-        "Egypt",
-        "Expedition",
-        "New Kingdom",
-        "Syria",
-        "Thutmose III 👑"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.01.1446",
       "description": "According to some accounts, during the construction of Tanis under Ramses II, or earlier during the expulsion of the Hyksos, after nine terrible plagues, the Pharaoh released the Jews, and they left Egypt for Canaan under the leadership of Moses.",
       "description_ru": "По одним свидетельствам, во время строительства Таниса при Рамзесе II, либо ранее во время изгнания гиксосов, после девяти ужасных бедствий фараон отпустил евреев, и они отправились из Египта в Ханаан под предводительством Моисея. ",
       "era": "BC",
@@ -2176,6 +2162,24 @@
         "Uncertain"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.01.1446",
+      "description": "Egyptian forces raid Nukhashshe region in Syria, maintaining pressure on semi-nomadic populations",
+      "description_ru": "Египетские силы совершают рейд в регион Нухашше в Сирии, поддерживая давление на полукочевое население",
+      "era": "BC",
+      "latitude": 35.5,
+      "longitude": 36.8,
+      "name": "9th Thutmose III Campaign - Nukhashshe Raid",
+      "name_ru": "9-й поход Тутмоса III на Нухашше",
+      "tags": [
+        "Egypt",
+        "Expedition",
+        "New Kingdom",
+        "Syria",
+        "Thutmose III 👑"
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.1441",
@@ -2268,26 +2272,8 @@
         "Legend",
         "Canaanite",
         "Conquest",
-        "Milestone",
+        "Milestone ⭐️",
         "Religious"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.1400",
-      "description": "After the fall of Jericho, Joshua divided the territory of Canaan among the 12 tribes of Israel (descendants of Jacob's sons). Despite this, many Canaanite cities (including the future Jerusalem!) remained impregnable enclaves for hundreds of years. The period of the Judges began—a time when the Jews had no king, and each tribe lived independently. The Judges were charismatic leaders around whom the people rallied during periods of instability.",
-      "description_ru": "После падения Иерихона Иисус Навин разделил территорию Ханаана между 12 коленами Израилевыми (потомками сыновей Иакова). Несмотря на это, многие ханаанские города (включая будущий Иерусалим!) оставались неприступными анклавами еще сотни лет. Начался период Судей — время, когда у евреев не было царя, и каждое племя жило само по себе. Судьи были харизматичными лидерами, вокруг которых народ собирался в периоды нестабильности.",
-      "era": "BC",
-      "latitude": 31.85598098,
-      "longitude": 35.46215057,
-      "name": "The Age of Judges in Canaan",
-      "name_ru": "Эпоха Судей в Ханаане",
-      "source": "https://en.wikipedia.org/wiki/Hebrew_Bible_judges",
-      "tags": [
-        "Judaic",
-        "Israel",
-        "Canaanite",
-        "Political"
       ],
       "type": "historic"
     },
@@ -2308,6 +2294,24 @@
         "Nubia"
       ],
       "type": "military"
+    },
+    {
+      "date": "01.01.1400",
+      "description": "After the fall of Jericho, Joshua divided the territory of Canaan among the 12 tribes of Israel (descendants of Jacob's sons). Despite this, many Canaanite cities (including the future Jerusalem!) remained impregnable enclaves for hundreds of years. The period of the Judges began—a time when the Jews had no king, and each tribe lived independently. The Judges were charismatic leaders around whom the people rallied during periods of instability.",
+      "description_ru": "После падения Иерихона Иисус Навин разделил территорию Ханаана между 12 коленами Израилевыми (потомками сыновей Иакова). Несмотря на это, многие ханаанские города (включая будущий Иерусалим!) оставались неприступными анклавами еще сотни лет. Начался период Судей — время, когда у евреев не было царя, и каждое племя жило само по себе. Судьи были харизматичными лидерами, вокруг которых народ собирался в периоды нестабильности.",
+      "era": "BC",
+      "latitude": 31.85598098,
+      "longitude": 35.46215057,
+      "name": "The Age of Judges in Canaan",
+      "name_ru": "Эпоха Судей в Ханаане",
+      "source": "https://en.wikipedia.org/wiki/Hebrew_Bible_judges",
+      "tags": [
+        "Judaic",
+        "Israel",
+        "Canaanite",
+        "Political"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.1391",
@@ -2340,6 +2344,7 @@
         "Egypt",
         "Building 🏠",
         "Architecture",
+        "Holidays",
         "Temple"
       ],
       "type": "historic"
@@ -2372,6 +2377,7 @@
       "tags": [
         "Egypt",
         "New Kingdom",
+        "Pagan",
         "Religious",
         "Revolution"
       ],
@@ -2479,22 +2485,6 @@
     },
     {
       "date": "01.01.1300",
-      "description": "Talepakemalai site established in Mussau Islands as the largest early Lapita settlement, featuring stilt houses and extensive pottery assemblages",
-      "description_ru": "Поселение Талепакемалаи основано на островах Муссау как крупнейшее раннее поселение Лапита со свайными домами и обширными керамическими коллекциями",
-      "era": "BC",
-      "latitude": -1.533,
-      "longitude": 149.633,
-      "name": "Talepakemalai Settlement",
-      "name_ru": "Поселение Лапита Талепакемалаи",
-      "tags": [
-        "City",
-        "Colonization",
-        "Lapita"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.1300",
       "description": "The last major Indus Valley cities are abandoned, marking the end of one of the world's earliest urban civilizations",
       "description_ru": "Последние крупные города долины Инда покинуты. Это знаменует конец одной из древнейших городских цивилизаций мира",
       "era": "BC",
@@ -2510,6 +2500,22 @@
         "Indus Valley"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.01.1300",
+      "description": "Talepakemalai site established in Mussau Islands as the largest early Lapita settlement, featuring stilt houses and extensive pottery assemblages",
+      "description_ru": "Поселение Талепакемалаи основано на островах Муссау как крупнейшее раннее поселение Лапита со свайными домами и обширными керамическими коллекциями",
+      "era": "BC",
+      "latitude": -1.533,
+      "longitude": 149.633,
+      "name": "Talepakemalai Settlement",
+      "name_ru": "Поселение Лапита Талепакемалаи",
+      "tags": [
+        "City",
+        "Colonization",
+        "Lapita"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.1295",
@@ -2665,23 +2671,6 @@
     },
     {
       "date": "01.01.1200",
-      "description": "Civilizations across the Eastern Mediterranean begin to collapse mysteriously",
-      "description_ru": "Цивилизации по всему Восточному Средиземноморью начинают загадочно рушиться",
-      "era": "BC",
-      "latitude": 35,
-      "longitude": 30,
-      "name": "Bronze Age Collapse Begins",
-      "name_ru": "Начало коллапса бронзового века",
-      "source": "https://www.worldhistory.org/Bronze_Age_Collapse/",
-      "tags": [
-        "Civilization",
-        "Collapse",
-        "Mystery"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.1200",
       "description": "The important trading city of Ugarit is destroyed, marking the Bronze Age collapse",
       "description_ru": "Важный торговый город Угарит разрушается, отмечая коллапс бронзового века",
       "era": "BC",
@@ -2696,6 +2685,23 @@
         "Trade"
       ],
       "type": "military"
+    },
+    {
+      "date": "01.01.1200",
+      "description": "Civilizations across the Eastern Mediterranean begin to collapse mysteriously",
+      "description_ru": "Цивилизации по всему Восточному Средиземноморью начинают загадочно рушиться",
+      "era": "BC",
+      "latitude": 35,
+      "longitude": 30,
+      "name": "Bronze Age Collapse Begins",
+      "name_ru": "Начало коллапса бронзового века",
+      "source": "https://www.worldhistory.org/Bronze_Age_Collapse/",
+      "tags": [
+        "Civilization",
+        "Collapse",
+        "Mystery"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.1175",
@@ -2834,18 +2840,18 @@
     },
     {
       "date": "01.01.1000",
-      "description": "Lapita culture reaches Tonga and Samoa in Western Polynesia, completing a 4000 km maritime expansion and establishing ancestral Polynesian culture",
-      "description_ru": "Культура Лапита достигает Тонга и Самоа в Западной Полинезии, завершая 4000-километровую морскую экспансию и устанавливая предковую полинезийскую культуру",
+      "description": "Late Jōmon period in Japan sees population decline due to climate cooling, but maritime trade networks continue across the archipelago",
+      "description_ru": "В поздний период Дзёмон в Японии климат становится холоднее, население уменьшается; однако морские торговые сети по прежнему опутывают архипелаг",
       "era": "BC",
-      "latitude": -21.179,
-      "longitude": -175.198,
-      "name": "Western Polynesia Reached",
-      "name_ru": "Достижение Западной Полинезии Лапита",
+      "latitude": 35.6762,
+      "longitude": 139.6503,
+      "name": "Late Jōmon Climate Adaptation",
+      "name_ru": "Похолодание в Японии",
       "tags": [
-        "Lapita",
-        "Polynesia",
-        "Samoa",
-        "Tonga"
+        "Japanese",
+        "Jōmon",
+        "Climate Crisis",
+        "Trade"
       ],
       "type": "historic"
     },
@@ -2869,6 +2875,23 @@
     },
     {
       "date": "01.01.1000",
+      "description": "Lapita culture reaches Tonga and Samoa in Western Polynesia, completing a 4000 km maritime expansion and establishing ancestral Polynesian culture",
+      "description_ru": "Культура Лапита достигает Тонга и Самоа в Западной Полинезии, завершая 4000-километровую морскую экспансию и устанавливая предковую полинезийскую культуру",
+      "era": "BC",
+      "latitude": -21.179,
+      "longitude": -175.198,
+      "name": "Western Polynesia Reached",
+      "name_ru": "Достижение Западной Полинезии Лапита",
+      "tags": [
+        "Lapita",
+        "Polynesia",
+        "Samoa",
+        "Tonga"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1000",
       "description": "Teouma cemetery established in Vanuatu with elaborate burial rituals including skull removal and shell ring placement, revealing complex social hierarchy",
       "description_ru": "Кладбище Теума основано на Вануату со сложными погребальными ритуалами, включая удаление черепов и размещение ракушечных колец, раскрывая сложную социальную иерархию",
       "era": "BC",
@@ -2884,21 +2907,26 @@
       "type": "cultural"
     },
     {
-      "date": "01.01.1000",
-      "description": "Late Jōmon period in Japan sees population decline due to climate cooling, but maritime trade networks continue across the archipelago",
-      "description_ru": "В поздний период Дзёмон в Японии климат становится холоднее, население уменьшается; однако морские торговые сети по прежнему опутывают архипелаг",
+      "date": "01.01.0525",
+      "description": "On Elephantine Island, which guarded Egypt's southern border, there was a fortress with a military garrison. This garrison was largely made up of Jewish mercenaries. The Jewish Temple was built \"in the days of the kings of Egypt\" next to the temple of the Egyptian ram god Khnum. Jews presumably arrived there in the seventh century BCE, during the reign of King Manasseh.\n\nThe religion of the Jews on Elephantine was strikingly different from modern Judaism: Yahweh (whom they called Yaho) was the main god, but not the only one. Other deities were worshiped alongside him, including Anat-Yahu (the goddess Anat, who served as Yahweh's consort), as well as Bethel and Ishim.",
+      "description_ru": "На острове Элефантина, охранявшем южную границу Египта, располагалась крепость с военным гарнизоном. Основу этого гарнизона составляли еврейские наемники. Иудейский храм был построен «во дни царей Египта» рядом с храмом египетского бога-барана Хнума. Предположительно, иудеи прибыли туда в VII веке до н.э. при царе Манассии.\n\nРелигия иудеев на Элефантине разительно отличалась от современного иудаизма: Яхве (которого они называли Яхо) был главным богом, но не единственным. Рядом с ним почитались другие божества, в частности Анат-Яху (богиня Анат, выступавшая в роли супруги Яхве), а также Бетель и Ишим",
       "era": "BC",
-      "latitude": 35.6762,
-      "longitude": 139.6503,
-      "name": "Late Jōmon Climate Adaptation",
-      "name_ru": "Похолодание в Японии",
+      "latitude": 24.0889,
+      "longitude": 32.8989,
+      "name": "Elephantine Temple Built",
+      "name_ru": "Построен храм Яхве в Элефантине",
+      "source": "https://en.wikipedia.org/wiki/Elephantine",
       "tags": [
-        "Japanese",
-        "Jōmon",
-        "Climate Crisis",
-        "Trade"
+        "Persian",
+        "Egypt",
+        "Judaic",
+        "Achaemenid",
+        "Pagan",
+        "Religious",
+        "Temple",
+        "Tolerance"
       ],
-      "type": "historic"
+      "type": "religious"
     }
   ],
   "filename": "ancient_civilizations_pre_1000BC.json"

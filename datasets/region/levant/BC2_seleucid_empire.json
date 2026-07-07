@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 59 events",
+  "description": "Dataset imported with 58 events",
   "events": [
     {
       "date": "01.10.0312",
@@ -183,7 +183,7 @@
       "latitude": 36.2034,
       "longitude": 36.1639,
       "name": "Reign of Antiochus I Soter Begins",
-      "name_ru": "Антиох I Сотер - царь Селевкидов",
+      "name_ru": "Антиох I Сотер — царь Селевкидов",
       "source": "https://en.wikipedia.org/wiki/Antiochus_I_Soter",
       "tags": [
         "Greek",
@@ -811,7 +811,7 @@
         "Antiochus III 👑",
         "Death",
         "Murder",
-        "Plundering"
+        "Pillage"
       ],
       "type": "political"
     },
@@ -848,7 +848,7 @@
         "Ptolemaic",
         "Seleucid",
         "War",
-        "Invasions",
+        "Invasion",
         "Syrian Wars"
       ],
       "type": "military"
@@ -1210,7 +1210,8 @@
         "Annexation",
         "Capital",
         "Conquest",
-        "Pompey the Great 👤"
+        "Pompey the Great 👤",
+        "Syria"
       ],
       "type": "political"
     }

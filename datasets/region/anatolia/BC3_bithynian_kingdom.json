@@ -291,8 +291,9 @@
       "era": "BC",
       "latitude": 40.7667,
       "longitude": 29.9167,
-      "name": "Prusias II - King of Bithynia",
-      "name_ru": "Прусий II - царь Вифинии",
+      "name": "Prusias II — King of Bithynia",
+      "name_ru": "Прусий II — царь Вифинии",
+      "source": "https://en.wikipedia.org/wiki/Prusias_I_of_Bithynia",
       "tags": [
         "Bithynian",
         "King",
@@ -384,8 +385,8 @@
       "era": "BC",
       "latitude": 40.7667,
       "longitude": 29.9167,
-      "name": "Nicomedes III - King of Bithynia",
-      "name_ru": "Никомед III - царь Вифинии",
+      "name": "Nicomedes III — King of Bithynia",
+      "name_ru": "Никомед III — царь Вифинии",
       "tags": [
         "Roman",
         "Bithynian",

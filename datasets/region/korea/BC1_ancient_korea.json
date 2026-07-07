@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 37 events",
+  "description": "Dataset imported with 35 events",
   "events": [
     {
       "date": "01.01.8000",
@@ -52,7 +52,9 @@
       "tags": [
         "Korean",
         "Animism",
+        "Burial",
         "Culture",
+        "Pagan",
         "Religious"
       ],
       "type": "religious"
@@ -70,6 +72,8 @@
       "tags": [
         "Korean",
         "Legend",
+        "Animalism",
+        "Animism",
         "Holidays",
         "Political",
         "Religious",
@@ -128,6 +132,7 @@
       "tags": [
         "Korean",
         "Culture",
+        "Pagan",
         "Religious",
         "Gojoseon"
       ],
@@ -398,7 +403,7 @@
         "War",
         "Battle",
         "Conquest",
-        "Invasions",
+        "Invasion",
         "Yan",
         "Gojoseon"
       ],

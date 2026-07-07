@@ -180,6 +180,7 @@
         "Greek",
         "Egypt",
         "Ptolemaic",
+        "Pagan",
         "Religious",
         "Syncretism"
       ],
@@ -213,8 +214,8 @@
       "era": "BC",
       "latitude": 31.206667,
       "longitude": 29.900278,
-      "name": "Reign of Ptolemy II Philadelphus",
-      "name_ru": "Птолемей II - правитель Египта",
+      "name": "Reign of Ptolemy II Philadelphus in Egypt",
+      "name_ru": "Птолемей II — правитель Египта",
       "source": "https://en.wikipedia.org/wiki/Ptolemy_II_Philadelphus",
       "tags": [
         "Greek",
@@ -267,8 +268,8 @@
     },
     {
       "date": "01.01.0280",
-      "description": "Ptolemy II marries his full sister Arsinoe II, establishing the practice of sibling marriage among Ptolemaic royalty; they adopt the epithet 'Philadelphoi' (sibling-loving), and Arsinoe becomes co-ruler",
-      "description_ru": "Птолемей II женится на своей родной сестре Арсиное II, устанавливая практику братско-сестринского брака среди птолемеевской знати; они принимают прозвище 'Филадельфы' (любящие сестру/брата), и Арсиноя становится соправительницей",
+      "description": "Ptolemy II married his sister Arsinoe II, establishing the practice of brother-sister marriage among the Ptolemies. The marriage caused shock and harsh condemnation in the Greek world, as for the Greeks it was absolutely taboo and incestuous. To justify this union, the Ptolemies appealed to divine precedents: for the Greeks, their union was equated with the marriage of Zeus and Hera; for the Egyptians, they became the earthly embodiment of the married couple of the gods Isis and Osiris. The couple received the official divine title of Theoi Philadelphoi (\"Gods who love each other as brother and sister\").",
+      "description_ru": "Птолемей II женится на своей родной сестре Арсиное II, устанавливая практику братско-сестринского брака среди Птолемеев. Брак вызвал шок и жесткое осуждение в греческом мире, так как для эллинов это было абсолютным табу и инцестом. Чтобы оправдать этот союз, Птолемеи обратились к божественным прецедентам: для греков их союз приравняли к браку Зевса и Геры; для египтян они стали земным воплощением семейной пары богов Исиды и Осириса. Пара получила официальный божественный титул Theoi Philadelphoi («Боги, любящие друг друга как брат и сестра»).",
       "era": "BC",
       "latitude": 31.206667,
       "longitude": 29.900278,
@@ -280,7 +281,8 @@
         "Egypt",
         "Ptolemaic",
         "Marriage",
-        "Dynasty"
+        "Dynasty",
+        "Deification"
       ],
       "type": "political"
     },
@@ -326,8 +328,8 @@
     },
     {
       "date": "01.01.0270",
-      "description": "Death of Arsinoe II; she is deified and worshipped as a goddess throughout Egypt. Her cult becomes one of the most popular in the Ptolemaic kingdom, with temples built in her honor",
-      "description_ru": "Смерть Арсинои II; она обожествлена и почитается как богиня по всему Египту. Её культ становится одним из самых популярных в Птолемеевском царстве, в её честь строятся храмы",
+      "description": "The death of Arsinoe II, wife of Ptolemy II; she was deified and revered as a goddess throughout Egypt. The cult of Arsinoe II marked the first large-scale step toward the sacralization of the entire ruling family. By proclaiming the deceased queen a goddess, Ptolemy II automatically secured the status of \"descendants of the goddess\" for his heirs, turning loyalty to the king into a religious duty for his subjects. In Egyptian temples, she was officially identified with the great Isis and Hathor, depicted wearing the traditional pharaonic crown. In Greek circles, she was assimilated with Aphrodite (specifically, as Arsinoe-Aphrodite, patroness of seafarers).",
+      "description_ru": "Смерть Арсинои II, супруги Птолемея II; она обожествлена и почитается как богиня по всему Египту. Культ Арсинои II стал первым масштабным шагом по сакрализации всей правящей семьи. Провозгласив умершую царицу богиней, Птолемей II автоматически закрепил статус «потомков богини» за своими наследниками, превратив лояльность царю в религиозный долг для подданных. В египетских храмах её официально отождествили с великой Исидой и Хатхор, изображая в традиционной короне фараонов. В греческой среде её ассимилировали с Афродитой (в частности, как покровительницу мореходов Арсиною-Афродиту)",
       "era": "BC",
       "latitude": 31.206667,
       "longitude": 29.900278,
@@ -340,7 +342,9 @@
         "Ptolemaic",
         "Death",
         "Deification",
-        "Religious"
+        "Pagan",
+        "Religious",
+        "Syncretism"
       ],
       "type": "religious"
     },
@@ -434,8 +438,8 @@
       "era": "BC",
       "latitude": 31.206667,
       "longitude": 29.900278,
-      "name": "Reign of Ptolemy III Euergetes",
-      "name_ru": "Птолемей III - правитель Египта",
+      "name": "Reign of Ptolemy III Euergetes in Egypt",
+      "name_ru": "Птолемей III — правитель Египта",
       "source": "https://en.wikipedia.org/wiki/Ptolemy_III_Euergetes",
       "tags": [
         "Greek",
@@ -539,6 +543,7 @@
         "Ptolemaic",
         "Building 🏠",
         "Architecture",
+        "Pagan",
         "Religious",
         "Temple"
       ],
@@ -571,8 +576,8 @@
       "era": "BC",
       "latitude": 31.206667,
       "longitude": 29.900278,
-      "name": "Reign of Ptolemy IV Philopator",
-      "name_ru": "Птолемей IV - правитель Египта",
+      "name": "Reign of Ptolemy IV Philopator in Egypt",
+      "name_ru": "Птолемей IV — правитель Египта",
       "source": "https://en.wikipedia.org/wiki/Ptolemy_IV_Philopator",
       "tags": [
         "Greek",
@@ -716,6 +721,7 @@
         "Ptolemaic",
         "Culture",
         "Mother of God",
+        "Pagan",
         "Religious",
         "Syncretism"
       ],
@@ -938,6 +944,7 @@
         "Ptolemaic",
         "Building 🏠",
         "Architecture",
+        "Pagan",
         "Religious",
         "Temple"
       ],
@@ -951,7 +958,7 @@
       "latitude": 31.206667,
       "longitude": 29.900278,
       "name": "Ptolemy XII Restored by Roman Army",
-      "name_ru": "Птолемей XII - наместник Рима",
+      "name_ru": "Птолемей XII — наместник Рима в Египте ",
       "source": "https://en.wikipedia.org/wiki/Ptolemy_XII_Auletes",
       "tags": [
         "Greek",
@@ -967,20 +974,21 @@
     },
     {
       "date": "01.03.0051",
-      "description": "Ptolemy XII dies, leaving the throne to his 18-year-old daughter Cleopatra VII and her 10-year-old brother Ptolemy XIII as co-rulers; she will become the last and most famous Ptolemaic ruler",
-      "description_ru": "Птолемей XII умирает от болезни, завещав трон своей 18-летней дочери Клеопатре VII и её 10-летнему брату Птолемею XIII как соправителям",
+      "description": "Ptolemy XII died of illness, bequeathing the throne to his 18-year-old daughter, Cleopatra VII, and her 10-year-old brother, Ptolemy XIII, as co-rulers. Because Egypt was heavily indebted to Rome, the king included an unusual clause in his will: the Roman Senate was designated as the official guarantor of the will and guardian of the young co-rulers.\n\nAccording to Egyptian and Ptolemaic tradition, a woman could not rule the country alone—a male co-ruler was required. To comply with the law, 18-year-old Cleopatra was forced to formally marry her 10-year-old brother. The marriage was a formality—the ambitious Cleopatra immediately began to push her brother out of government.",
+      "description_ru": "Птолемей XII умирает от болезни, завещав трон своей 18-летней дочери Клеопатре VII и её 10-летнему брату Птолемею XIII как соправителям. Поскольку Египет имел большой долг перед Римом, царь вписал в завещание необычный пункт: официальным гарантом исполнения воли и опекуном молодых соправителей назначался римский Сенат.\n\nСогласно египетской и птолемеевской традиции, женщина не могла править страной в одиночку —обязательно требовался мужчина-соправитель. Чтобы соблюсти закон, 18-летняя Клеопатра была вынуждена официально выйти замуж за своего 10-летнего брата. Брак был формальным — амбициозная Клеопатра сразу начала вытеснять брата из государственного управления.",
       "era": "BC",
       "latitude": 31.206667,
       "longitude": 29.900278,
       "name": "Cleopatra VII Becomes Queen",
-      "name_ru": "Клеопатра VII - царица Египта",
+      "name_ru": "Клеопатра VII — царица Египта",
       "source": "https://en.wikipedia.org/wiki/Cleopatra",
       "tags": [
         "Greek",
         "Egypt",
         "Ptolemaic",
         "Dynasty",
-        "Cleopatra VII 👑"
+        "Cleopatra VII 👑",
+        "Debt"
       ],
       "type": "political"
     },

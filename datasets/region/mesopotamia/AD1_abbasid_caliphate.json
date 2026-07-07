@@ -491,7 +491,7 @@
         "Conquest",
         "Islamic",
         "Massacre",
-        "Milestone",
+        "Milestone ⭐️",
         "Crusade"
       ],
       "type": "military"
@@ -520,8 +520,8 @@
     },
     {
       "date": "02.10.1187",
-      "description": "Salah ad-Din defeats the crusader Kingdom of Jerusalem at the Battle of Hattin (4 July 1187), captures the True Cross, and enters Jerusalem on 2 October, the anniversary of the Prophet's Night Journey to the city. Unlike the crusaders in 1099, Saladin prohibits massacre and pillage: the population is allowed to ransom themselves and leave in safety, and Christian holy sites are left intact",
-      "description_ru": "Салах ад-Дин одерживает победу над крестоносным Иерусалимским королевством в битве при Хаттине (4 июля 1187 г.), захватывает Истинный Крест и входит в Иерусалим 2 октября, в годовщину Ночного путешествия Пророка в город. В отличие от крестоносцев в 1099, Саладин запрещает массовые убийства и грабежи: населению разрешается выкупить себя и безопасно покинуть город, а христианские святыни остаются нетронутыми",
+      "description": "Salah ad-Din defeats the crusader Kingdom of Jerusalem at the Battle of Hattin (4 July 1187), captures the True Cross, and enters Jerusalem on 2 October, the anniversary of the Prophet's Night Journey to the city. Unlike the crusaders in 1099, Saladin prohibits massacre and pillage: the population is allowed to ransom themselves and leave in safety, and Christian holy sites are left intact\n\nVenice, in the meantime, loses its emporium in Jerusalem and its trading network in the Holy Land, although it retains possessions in Acre and Tyre.",
+      "description_ru": "Салах ад-Дин одерживает победу над крестоносным Иерусалимским королевством в битве при Хаттине (4 июля 1187 г.), захватывает Истинный Крест и входит в Иерусалим 2 октября, в годовщину Ночного путешествия Пророка в город. В отличие от крестоносцев в 1099, Саладин запрещает массовые убийства и грабежи: населению разрешается выкупить себя и безопасно покинуть город, а христианские святыни остаются нетронутыми.\n\nВенеция теряет свой эмпорий в Иерусалиме и торговую сеть в Святой земле, хотя сохраняет владения в Акре и Тире.",
       "era": "AD",
       "latitude": 31.778,
       "longitude": 35.235,
@@ -538,6 +538,7 @@
         "Conquest",
         "Islamic",
         "Salah ad-Din 👤",
+        "Venice",
         "Crusade"
       ],
       "type": "military"
@@ -555,7 +556,7 @@
       "tags": [
         "Dynasty",
         "Foundation",
-        "Milestone",
+        "Milestone ⭐️",
         "Mongolian",
         "Political",
         "Temüjin 👤",

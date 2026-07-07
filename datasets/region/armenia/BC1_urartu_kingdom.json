@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 37 events",
+  "description": "Dataset imported with 39 events",
   "events": [
     {
       "date": "01.01.1500",
@@ -92,8 +92,8 @@
     },
     {
       "date": "01.01.0830",
-      "description": "King Ispuini annexes sacred city of Musasir, gaining control of important religious center dedicated to Haldi (supreme god) and appointing his son Menua as co-administrator",
-      "description_ru": "Царь Ишпуини аннексирует свой протекторат, священный город Мусасир, дом верховного бога Халди. Халди становится главным богом всего Урарту, а Мусасир - местом паломничеств урартских царей.",
+      "description": "King Ispuini annexes sacred city of Musasir, gaining control of important religious center dedicated to Haldi (supreme god) and appointing his son Menua as co-administrator. In art, Haldi was most often depicted as a majestic warrior wearing a horned tiara (a symbol of divinity), standing on the back of a formidable lion (sometimes a bull), holding a weapon in his hands.",
+      "description_ru": "Царь Ишпуини аннексирует свой протекторат, священный город Мусасир, дом верховного бога Халди. Халди становится главным богом всего Урарту, а Мусасир - местом паломничеств урартских царей.  В искусстве Халди чаще всего изображали в виде величественного воина в рогатой тиаре (символ божественности), который стоит на спине грозного льва (иногда — быка), держа в руках оружие.",
       "era": "BC",
       "latitude": 37.7555,
       "longitude": 44.5578,
@@ -104,6 +104,7 @@
         "Urartu",
         "Annexation",
         "Holy Site",
+        "Pagan",
         "Religious",
         "Temple"
       ],
@@ -116,8 +117,8 @@
       "era": "BC",
       "latitude": 38.5,
       "longitude": 43.35,
-      "name": "Reign of King Menua Begins",
-      "name_ru": "Менуа - царь Урарту",
+      "name": "Reign of King Menua Begins in Urartu",
+      "name_ru": "Менуа — царь Урарту",
       "source": "https://en.wikipedia.org/wiki/Menua",
       "tags": [
         "Urartu",
@@ -418,6 +419,7 @@
         "Urartu",
         "City",
         "Economic",
+        "Pagan",
         "Religious"
       ],
       "type": "historic"
@@ -527,7 +529,7 @@
       "tags": [
         "Cimmerian",
         "Urartu",
-        "Invasions"
+        "Invasion"
       ],
       "type": "military"
     },
@@ -545,7 +547,7 @@
         "Urartu",
         "Scythian",
         "Cavalry",
-        "Invasions"
+        "Invasion"
       ],
       "type": "military"
     },
@@ -556,8 +558,8 @@
       "era": "BC",
       "latitude": 38.5,
       "longitude": 43.35,
-      "name": "Reign of King Erimena",
-      "name_ru": "Эримена - царь Урарту",
+      "name": "Reign of King Erimena in Urartu",
+      "name_ru": "Эримена — царь Урарту",
       "source": "https://en.wikipedia.org/wiki/Urartu",
       "tags": [
         "Urartu",
@@ -574,8 +576,8 @@
       "era": "BC",
       "latitude": 38.5,
       "longitude": 43.35,
-      "name": "Rusa III's Resistance",
-      "name_ru": "Руса III - царь Урарту",
+      "name": "Rusa III's Urartian Resistance",
+      "name_ru": "Руса III — царь Урарту",
       "source": "https://en.wikipedia.org/wiki/Rusa_III",
       "tags": [
         "Urartu",
@@ -592,8 +594,8 @@
       "era": "BC",
       "latitude": 38.5,
       "longitude": 43.35,
-      "name": "Reign of Sarduri IV",
-      "name_ru": "Сардури IV - царь Урарту",
+      "name": "Reign of Sarduri IV in Urartu",
+      "name_ru": "Сардури IV — царь Урарту",
       "source": "https://en.wikipedia.org/wiki/Sarduri_IV",
       "tags": [
         "Urartu",
@@ -627,8 +629,8 @@
       "era": "BC",
       "latitude": 38.5,
       "longitude": 43.35,
-      "name": "Last King Rusa IV",
-      "name_ru": "Руса IV - последний царь Урарту",
+      "name": "Last King of Urartu Rusa IV",
+      "name_ru": "Руса IV — последний царь Урарту",
       "source": "https://en.wikipedia.org/wiki/Rusa_IV",
       "tags": [
         "Urartu",
@@ -654,7 +656,7 @@
         "War",
         "Battle",
         "Destruction",
-        "Plundering"
+        "Pillage"
       ],
       "type": "military"
     },

@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 30 events",
+  "description": "Dataset imported with 29 events",
   "events": [
     {
       "date": "01.01.2700",
@@ -147,6 +147,7 @@
       "tags": [
         "Minoan",
         "Culture",
+        "Pagan",
         "Religious"
       ],
       "type": "religious"
@@ -240,6 +241,7 @@
       "tags": [
         "Minoan",
         "Art",
+        "Craft",
         "Culture",
         "Pottery"
       ],
@@ -491,7 +493,7 @@
         "Mycenaean",
         "Decline",
         "Destruction",
-        "Invasions",
+        "Invasion",
         "Mystery"
       ],
       "type": "military"

@@ -57,6 +57,7 @@
         "Building 🏠",
         "Anatolia",
         "Architecture",
+        "Pagan",
         "Religious",
         "Temple"
       ],
@@ -110,8 +111,8 @@
       "era": "BC",
       "latitude": 39.1315,
       "longitude": 27.184,
-      "name": "Attalus I - King of Pergamon",
-      "name_ru": "Аттал I - царь Пергама",
+      "name": "Attalus I — King of Pergamon",
+      "name_ru": "Аттал I — царь Пергама",
       "source": "https://en.wikipedia.org/wiki/Attalus_I",
       "tags": [
         "Greek",
@@ -249,8 +250,8 @@
       "era": "BC",
       "latitude": 39.1315,
       "longitude": 27.184,
-      "name": "Eumenes II Becomes King",
-      "name_ru": "Эвмен II - царь Пергама",
+      "name": "Eumenes II Becomes King of Pergamon",
+      "name_ru": "Эвмен II — царь Пергама",
       "source": "https://en.wikipedia.org/wiki/Eumenes_II",
       "tags": [
         "Greek",
@@ -456,8 +457,8 @@
       "era": "BC",
       "latitude": 39.1315,
       "longitude": 27.184,
-      "name": "Attalus II Philadelphus - King of Pergamon",
-      "name_ru": "Аттал II Филадельф - царь Пергама",
+      "name": "Attalus II Philadelphus — King of Pergamon",
+      "name_ru": "Аттал II Филадельф — царь Пергама",
       "source": "https://en.wikipedia.org/wiki/Attalus_II",
       "tags": [
         "Greek",

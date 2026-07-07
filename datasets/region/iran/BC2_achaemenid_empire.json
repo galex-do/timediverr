@@ -50,8 +50,8 @@
       "era": "BC",
       "latitude": 30.2026,
       "longitude": 53.1678,
-      "name": "Policy of Imperial Tolerance",
-      "name_ru": "Политика имперской терпимости",
+      "name": "Policy of Imperial Tolerance of Cyrus",
+      "name_ru": "Политика имперской терпимости Кира",
       "source": "https://en.wikipedia.org/wiki/Cyrus_the_Great",
       "tags": [
         "Persian",
@@ -283,7 +283,9 @@
         "Babylonian",
         "Achaemenid",
         "Cyrus the Great 👑",
+        "Pagan",
         "Religious",
+        "Restoration",
         "Temple",
         "Tolerance"
       ],
@@ -439,8 +441,8 @@
       "era": "BC",
       "latitude": 30.2026,
       "longitude": 53.1678,
-      "name": "Cambyses II Becomes Emperor",
-      "name_ru": "Камбиз II - император Персии",
+      "name": "Cambyses II Becomes Emperor of Persia",
+      "name_ru": "Камбиз II — император Персии",
       "source": "https://en.wikipedia.org/wiki/Cambyses_II",
       "tags": [
         "Persian",
@@ -497,12 +499,13 @@
       "era": "BC",
       "latitude": 32.1897,
       "longitude": 48.2583,
-      "name": "Darius - King of Persia",
+      "name": "Darius — King of Persia",
       "name_ru": "Дарий - царь Персии",
       "tags": [
         "Persian",
         "Achaemenid",
         "Civil War",
+        "Dynasty",
         "King",
         "Darius I 👑"
       ],
@@ -846,13 +849,13 @@
     },
     {
       "date": "01.01.0486",
-      "description": "Darius dies while preparing new Greek campaign; Xerxes I becomes emperor, inheriting father's determination to conquer Greece and empire at peak territorial extent",
-      "description_ru": "Дарий умирает во время подготовки новой греческой кампании; его сын Ксеркс становится императором, наследуя империю на пике территориального расширения и сохраняя решимость отца завоевать Грецию",
+      "description": "Darius dies while preparing for a new Greek campaign. The contenders for the throne were Artobazanes, the son of Darius and a Persian noblewoman, and Xerxes, the son of Darius and Atossa, daughter of Cyrus the Great. Although Artobazanes was the rightful heir, under pressure from Atossa, Darius, before his death, decided to appoint Xerxes as his successor. Artobazanes did not oppose the decision and swore allegiance to his younger brother.\n\nXerxes becomes emperor, inheriting the empire at the height of its territorial expansion and maintaining his father's determination to conquer Greece.",
+      "description_ru": "Дарий умирает во время подготовки новой греческой кампании. Претендентами на трон являлись Артобазан, сын Дария и персидской дворянки, и Ксеркс, сын Дария и Атоссы, дочери Кира Великого. Хотя по старшинству трон должен был занять Артобазан, под давлением Атоссы Дарий перед смертью принял решение о назначении наследником Ксеркса. Артобазан не стал противиться решению и присягнул на верность младшему брату. \n\nКсеркс становится императором, наследуя империю на пике территориального расширения и сохраняя решимость отца завоевать Грецию",
       "era": "BC",
       "latitude": 29.9342,
       "longitude": 52.8906,
-      "name": "Xerxes Becomes Emperor",
-      "name_ru": "Ксеркс - император Персии",
+      "name": "Xerxes Becomes Emperor of Persia",
+      "name_ru": "Ксеркс — император Персии",
       "source": "https://en.wikipedia.org/wiki/Xerxes_I",
       "tags": [
         "Persian",
@@ -1254,7 +1257,8 @@
         "Israel",
         "Jerusalem",
         "Migration",
-        "Religious"
+        "Religious",
+        "Restoration"
       ],
       "type": "religious"
     },
@@ -1275,7 +1279,8 @@
         "Israel",
         "Jerusalem",
         "Fortification",
-        "Religious"
+        "Religious",
+        "Restoration"
       ],
       "type": "religious"
     },
@@ -1305,8 +1310,8 @@
       "era": "BC",
       "latitude": 32.543,
       "longitude": 44.421,
-      "name": "Darius II Becomes Emperor",
-      "name_ru": "Дарий II - император Персии",
+      "name": "Darius II Becomes Emperor of Persia",
+      "name_ru": "Дарий II — император Персии",
       "source": "https://en.wikipedia.org/wiki/Darius_II",
       "tags": [
         "Persian",
@@ -1315,27 +1320,6 @@
         "King"
       ],
       "type": "political"
-    },
-    {
-      "date": "01.01.0420",
-      "description": "Jewish community at Elephantine in Egypt builds temple to Yahweh with Persian authorization, demonstrating continued policy of religious tolerance despite growing internal problems",
-      "description_ru": "Еврейская община в Элефантине в Египте строит храм Яхве по дозволению Персии",
-      "era": "BC",
-      "latitude": 24.0889,
-      "longitude": 32.8989,
-      "name": "Elephantine Temple Built",
-      "name_ru": "Построен храм Яхве в Элефантине",
-      "source": "https://en.wikipedia.org/wiki/Elephantine",
-      "tags": [
-        "Persian",
-        "Egypt",
-        "Judaic",
-        "Achaemenid",
-        "Religious",
-        "Temple",
-        "Tolerance"
-      ],
-      "type": "religious"
     },
     {
       "date": "01.01.0414",
@@ -1378,13 +1362,13 @@
     },
     {
       "date": "01.01.0404",
-      "description": "Darius II dies; Artaxerxes II becomes emperor but faces immediate revolt by younger brother Cyrus the Younger, who claims throne",
-      "description_ru": "Дарий II умирает; Артаксеркс II становится императором, но сталкивается с немедленным восстанием младшего брата Кира Младшего, который претендует на трон",
+      "description": "Darius II dies; Artaxerxes II becomes shahanshah of Persia but faces immediate revolt by younger brother Cyrus the Younger, who claims throne",
+      "description_ru": "Дарий II умирает; Артаксеркс II становится шахиншахом, но сталкивается с немедленным восстанием младшего брата Кира Младшего, который претендует на трон",
       "era": "BC",
       "latitude": 30.2026,
       "longitude": 53.1678,
-      "name": "Artaxerxes II Becomes Emperor",
-      "name_ru": "Артаксеркс II - император Персии",
+      "name": "Artaxerxes II Becomes Emperor of Persia",
+      "name_ru": "Артаксеркс II — император Персии",
       "source": "https://en.wikipedia.org/wiki/Artaxerxes_II",
       "tags": [
         "Persian",
@@ -1492,6 +1476,7 @@
         "Achaemenid",
         "Building 🏠",
         "Architecture",
+        "Pagan",
         "Religious",
         "Temple",
         "Zoroastrian"
@@ -1532,6 +1517,7 @@
         "Babylonian",
         "Achaemenid",
         "Reform",
+        "Pagan",
         "Religious",
         "Syncretism",
         "Temple",
@@ -1559,13 +1545,13 @@
     },
     {
       "date": "01.01.0358",
-      "description": "Artaxerxes II dies at age 94 after 46-year reign; Artaxerxes III becomes emperor and begins aggressive campaign to restore imperial power",
-      "description_ru": "Артаксеркс II умирает в возрасте 94 лет после 46-летнего правления; Артаксеркс III становится императором и начинает агрессивную кампанию по восстановлению имперской мощи",
+      "description": "Artaxerxes II dies at age 94 after 46-year reign; Artaxerxes III becomes shahanshah and begins aggressive campaign to restore imperial power",
+      "description_ru": "Артаксеркс II умирает в возрасте 94 лет после 46-летнего правления; Артаксеркс III становится шахиншахом и начинает агрессивную кампанию по восстановлению имперской мощи",
       "era": "BC",
       "latitude": 32.1897,
       "longitude": 48.2583,
-      "name": "Artaxerxes III Becomes Emperor",
-      "name_ru": "Артаксеркс III - император Персии",
+      "name": "Artaxerxes III Becomes Emperor of Persia",
+      "name_ru": "Артаксеркс III — император Персии",
       "source": "https://en.wikipedia.org/wiki/Artaxerxes_III",
       "tags": [
         "Persian",
@@ -1657,8 +1643,8 @@
       "era": "BC",
       "latitude": 30.2026,
       "longitude": 53.1678,
-      "name": "Darius III Becomes Emperor",
-      "name_ru": "Дарий III - император Персии",
+      "name": "Darius III Becomes Emperor of Persia",
+      "name_ru": "Дарий III — император Персии",
       "source": "https://en.wikipedia.org/wiki/Darius_III",
       "tags": [
         "Persian",
@@ -1731,7 +1717,7 @@
         "Achaemenid",
         "War",
         "Alexander the Great 👤",
-        "Invasions"
+        "Invasion"
       ],
       "type": "military"
     },
@@ -1899,7 +1885,7 @@
         "War",
         "Alexander the Great 👤",
         "Conquest",
-        "Plundering"
+        "Pillage"
       ],
       "type": "military"
     },

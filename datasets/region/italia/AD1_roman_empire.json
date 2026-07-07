@@ -226,6 +226,24 @@
     },
     {
       "date": "01.01.0047",
+      "description": "The new Roman governor, Publius Ostorius Scapula, orders the disarmament of all British tribes in the territories under his control, including allies. The Iceni perceive this as an insult and a violation of the treaty. They revolt, but their hastily assembled militia is defeated by the disciplined legions. The Romans pardon the Iceni but severely limit their autonomy. King Prasutagus, Boudicca's future husband, assumes power (presumably as a Roman protégé).",
+      "description_ru": "Новый римский наместник Публий Осторий Скапула приказывает разоружить все бриттские племена на подконтрольных территориях, включая союзников. Ицены воспринимают это как оскорбление и нарушение договора. Они поднимают восстание, но их наспех собранное ополчение терпит поражение от дисциплинированных легионов. Римляне прощают иценов, но жестко ограничивают их автономию. К власти (предположительно, как ставленник Рима) приходит царь Прасутаг — будущий муж Боудикки.",
+      "era": "AD",
+      "latitude": 52.41121554,
+      "longitude": 0.75382948,
+      "name": "Disarmament of the Iceni by Rome",
+      "name_ru": "Разоружение иценов Римом",
+      "tags": [
+        "Roman",
+        "Celtic",
+        "Battle",
+        "British",
+        "Rebellion"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0047",
       "description": "The Romans chose a site on the Thames where the riverbed was narrow enough to build a bridge but deep enough for large merchant ships to enter. The city was initially built as a trading port. It developed so rapidly that by the end of the century, it had replaced Colchester (Camulodunum) and become the official capital of the province of Britannia. On the site of today's London Bridge, the Romans built the first wooden crossing, which also gave a powerful boost to trade.",
       "description_ru": "Римляне выбрали место на Темзе, где русло было достаточно узким для строительства моста, но достаточно глубоким для захода крупных торговых кораблей. Изначально город строился как торговый порт. Он развивался так стремительно, что уже к концу века заменил Колчестер (Camulodunum) и стал официальной столицей провинции Британия. На месте современного Лондонского моста (London Bridge) римляне возвели первую деревянную переправу, которая также дала мощный толчок развитию торговли.",
       "era": "AD",
@@ -242,24 +260,6 @@
         "Trade"
       ],
       "type": "historic"
-    },
-    {
-      "date": "01.01.0047",
-      "description": "The new Roman governor, Publius Ostorius Scapula, orders the disarmament of all British tribes in the territories under his control, including allies. The Iceni perceive this as an insult and a violation of the treaty. They revolt, but their hastily assembled militia is defeated by the disciplined legions. The Romans pardon the Iceni but severely limit their autonomy. King Prasutagus, Boudicca's future husband, assumes power (presumably as a Roman protégé).",
-      "description_ru": "Новый римский наместник Публий Осторий Скапула приказывает разоружить все бриттские племена на подконтрольных территориях, включая союзников. Ицены воспринимают это как оскорбление и нарушение договора. Они поднимают восстание, но их наспех собранное ополчение терпит поражение от дисциплинированных легионов. Римляне прощают иценов, но жестко ограничивают их автономию. К власти (предположительно, как ставленник Рима) приходит царь Прасутаг — будущий муж Боудикки.",
-      "era": "AD",
-      "latitude": 52.41121554,
-      "longitude": 0.75382948,
-      "name": "Disarmament of the Iceni by Rome",
-      "name_ru": "Разоружение иценов Римом",
-      "tags": [
-        "Roman",
-        "Celtic",
-        "Battle",
-        "British",
-        "Rebellion"
-      ],
-      "type": "military"
     },
     {
       "date": "13.10.0054",
@@ -315,7 +315,7 @@
         "Battle",
         "British",
         "Cruelty",
-        "Paganism"
+        "Pagan"
       ],
       "type": "military"
     },
@@ -508,7 +508,8 @@
       "tags": [
         "Roman",
         "Destruction",
-        "Disaster"
+        "Disaster",
+        "Volcano"
       ],
       "type": "historic"
     },
@@ -852,9 +853,30 @@
         "Christian",
         "Crisis",
         "Law",
-        "Persecution"
+        "Pagan",
+        "Persecution",
+        "Sacrifice"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.01.0251",
+      "description": "Isidore was a Greek native of Roman Alexandria. Around 249, the Roman Emperor Decius issued a decree mobilizing the army. Isidore was called up and assigned to the Roman navy under the command of General Numerius. The Roman squadron anchored off the Greek island of Chios. Around the same time, a new imperial edict was issued, requiring all soldiers to sacrifice to the Roman pagan gods. Refusal was punishable by brutal torture and execution.\n\nOne of the commanders reported to Numerius that Isidore was a Christian. During interrogation, the young soldier flatly refused to worship idols. He was subjected to brutal torture, but he refused to submit and was ultimately executed. The secret Christians of the island buried him. Since then, he has been considered the patron saint of Chios and the protector of sailors.\n",
+      "description_ru": "Исидор - грек родом из римской Александрии. Около 249 года римский император Деций издал указ о мобилизации. Исидора призвали на службу и распределили в римский флот под командование военачальника Нумерия. Римская эскадра бросила якорь у греческого острова Хиос. Примерно в это же время вышел новый императорский эдикт, обязывавший всех солдат принести жертвы римским языческим богам. За отказ полагались жестокие пытки и казнь.\n\nОдин из командиров донес Нумерию, что Исидор — христианин. На допросе молодой воин наотрез отказался поклоняться идолам. Его подвергли жестоким истязаниям, но он отказался подчиниться и в итоге был казнен. Тайные христиане острова похоронили его. С тех пор он считается небесным заступником Хиоса и покровителем моряков.",
+      "era": "AD",
+      "latitude": 38.3940158,
+      "longitude": 26.13595963,
+      "name": "The Martyrdom of Isidore of Chios",
+      "name_ru": "Мученичество Исидора Хиосского",
+      "tags": [
+        "Greek",
+        "Roman",
+        "Christian",
+        "Execution",
+        "Martyr",
+        "Saint"
+      ],
+      "type": "religious"
     },
     {
       "date": "01.01.0253",
@@ -1137,6 +1159,7 @@
         "Roman",
         "Christian",
         "Law",
+        "Pagan",
         "Persecution",
         "Religious"
       ],
@@ -1339,6 +1362,7 @@
         "Roman",
         "Crisis",
         "Emperor",
+        "Pagan",
         "Religious"
       ],
       "type": "political"
@@ -1424,7 +1448,7 @@
         "Christian",
         "Empire",
         "Law",
-        "Milestone",
+        "Milestone ⭐️",
         "Religious",
         "Theodosian"
       ],
@@ -1445,6 +1469,7 @@
         "Dynasty",
         "Christian",
         "Law",
+        "Pagan",
         "Religious",
         "Theodosian"
       ],
@@ -1527,6 +1552,7 @@
         "Battle",
         "Dynasty",
         "Christian",
+        "Pagan",
         "Religious",
         "Theodosian"
       ],
@@ -1549,7 +1575,7 @@
         "Death",
         "Empire",
         "Foundation",
-        "Milestone",
+        "Milestone ⭐️",
         "Theodosian"
       ],
       "type": "historic"

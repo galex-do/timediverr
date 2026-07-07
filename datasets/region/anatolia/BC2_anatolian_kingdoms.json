@@ -130,8 +130,8 @@
     },
     {
       "date": "01.01.1100",
-      "description": "Mylasa emerges as principal religious and political center of Caria; sacred sanctuary of Zeus Carius (war god distinct from Greek Zeus) established, becoming focal point for Carian tribal confederation",
-      "description_ru": "Миляс возникает как главный религиозный и политический центр Карии; здесь учреждено священное святилище Зевса Кария (бога войны, отличного от греческого Зевса)",
+      "description": "Mylasa emerged as the main religious and political center of Caria; a sacred sanctuary to Zeus Carius (the god of war, distinct from the Greek Zeus) was established there. According to Greek mythology, the city was named after Milas, the son of Chrysaor and a descendant of the hero Sisyphus, who was considered the mythical founder and patron of the settlement.",
+      "description_ru": "Миляс возникает как главный религиозный и политический центр Карии; здесь учреждено священное святилище Зевса Кария (бога войны, отличного от греческого Зевса). Согласно греческим мифам, город получил свое название в честь Миласа, сына Хрисаора и потомка героя Сизифа, который считался мифическим основателем и покровителем поселения",
       "era": "BC",
       "latitude": 37.3092,
       "longitude": 27.7842,
@@ -182,6 +182,7 @@
         "Culture",
         "Divination",
         "Mother of God",
+        "Pagan",
         "Religious"
       ],
       "type": "religious"
@@ -257,7 +258,7 @@
       "tags": [
         "Phrygian",
         "Art",
-        "Craftsmanship",
+        "Craft",
         "Technology",
         "Wood"
       ],
@@ -277,6 +278,7 @@
         "Phrygian",
         "Art",
         "Bronze",
+        "Craft",
         "Metallurgy",
         "Science",
         "Technology"
@@ -452,6 +454,7 @@
         "Diplomacy",
         "King Midas 👑",
         "Oracle",
+        "Pagan",
         "Religious"
       ],
       "type": "political"
@@ -524,8 +527,8 @@
       "era": "BC",
       "latitude": 38.4852,
       "longitude": 28.0428,
-      "name": "Reign of Candaules",
-      "name_ru": "Кандавл - царь Лидии",
+      "name": "Reign of Candaules in Lydia",
+      "name_ru": "Кандавл — царь Лидии",
       "source": "https://en.wikipedia.org/wiki/Candaules",
       "tags": [
         "Lydia",
@@ -567,7 +570,7 @@
       "tags": [
         "Cimmerian",
         "Phrygian",
-        "Invasions",
+        "Invasion",
         "King Midas 👑",
         "Threat"
       ],
@@ -644,7 +647,7 @@
         "Death",
         "Destruction",
         "Fall",
-        "Invasions",
+        "Invasion",
         "King Midas 👑"
       ],
       "type": "military"
@@ -722,6 +725,7 @@
         "Mermnad",
         "Diplomacy",
         "Oracle",
+        "Pagan",
         "Religious"
       ],
       "type": "political"
@@ -740,7 +744,7 @@
         "Cimmerian",
         "Lydia",
         "Mermnad",
-        "Invasions"
+        "Invasion"
       ],
       "type": "military"
     },
@@ -779,8 +783,8 @@
         "Mermnad",
         "Battle",
         "Death",
-        "Invasions",
-        "Plundering"
+        "Invasion",
+        "Pillage"
       ],
       "type": "military"
     },
@@ -791,8 +795,8 @@
       "era": "BC",
       "latitude": 38.4852,
       "longitude": 28.0428,
-      "name": "Ardys Becomes King",
-      "name_ru": "Ардис - царь Лидии",
+      "name": "Ardys Becomes King of Lydia",
+      "name_ru": "Ардис — царь Лидии",
       "source": "https://en.wikipedia.org/wiki/Ardys_of_Lydia",
       "tags": [
         "Lydia",
@@ -818,6 +822,7 @@
         "Culture",
         "Mother of God",
         "Mystery",
+        "Pagan",
         "Religious"
       ],
       "type": "religious"
@@ -836,7 +841,7 @@
         "Cimmerian",
         "Lydia",
         "Mermnad",
-        "Invasions"
+        "Invasion"
       ],
       "type": "military"
     },
@@ -921,8 +926,8 @@
       "era": "BC",
       "latitude": 38.4852,
       "longitude": 28.0428,
-      "name": "Alyattes Becomes King",
-      "name_ru": "Алиатт - царь Лидии",
+      "name": "Alyattes Becomes King of Lydia",
+      "name_ru": "Алиатт — царь Лидии",
       "source": "https://en.wikipedia.org/wiki/Alyattes_of_Lydia",
       "tags": [
         "Lydia",
@@ -949,6 +954,7 @@
         "War",
         "Destruction",
         "Oracle",
+        "Pagan",
         "Religious",
         "Temple"
       ],
@@ -1100,8 +1106,8 @@
       "era": "BC",
       "latitude": 38.4852,
       "longitude": 28.0428,
-      "name": "Croesus Becomes King",
-      "name_ru": "Крез - последний царь Лидии",
+      "name": "Croesus Becomes King of Lydia",
+      "name_ru": "Крез — последний царь Лидии",
       "source": "https://en.wikipedia.org/wiki/Croesus",
       "tags": [
         "Lydia",
@@ -1145,6 +1151,7 @@
         "Greek",
         "Lydia",
         "Oracle",
+        "Pagan",
         "Religious"
       ],
       "type": "political"
@@ -1222,6 +1229,7 @@
         "Lydia",
         "Mystery",
         "Oracle",
+        "Pagan",
         "Philosophy",
         "Religious"
       ],
@@ -1346,8 +1354,8 @@
       "era": "BC",
       "latitude": 37.3092,
       "longitude": 27.7842,
-      "name": "Hecatomnus Founds Dynasty",
-      "name_ru": "Гекатомн - сатрап Карии",
+      "name": "Hecatomnus Founds Carian Dynasty",
+      "name_ru": "Гекатомн — сатрап Карии",
       "source": "https://en.wikipedia.org/wiki/Hecatomnus",
       "tags": [
         "Persian",
@@ -1359,13 +1367,13 @@
     },
     {
       "date": "01.01.0377",
-      "description": "Mausolus becomes satrap after Hecatomnus's death; most powerful and influential Hecatomnid ruler begins ambitious program of Hellenization while maintaining Persian loyalty",
-      "description_ru": "Мавсол становится сатрапом после смерти Гекатомна; самый могущественный и влиятельный правитель Гекатомнидов начинает амбициозную программу эллинизации, сохраняя лояльность Персии",
+      "description": "Mausolus became satrap after the death of Hecatomnus; the most powerful and influential ruler of the Hecatomnid dynasty began an ambitious program of Hellenization while maintaining loyalty to Persia. Mausolus adored Greek culture. He moved the capital from conservative Mylasa to coastal Halicarnassus, rebuilt it according to the advanced Greek model, and erected powerful walls, palaces, and harbors. He forcibly resettled residents of small settlements to large cities to centralize power.\n\nTo finance his large-scale construction projects and a strong army, Mausolus imposed absurd taxes. Ancient authors (such as Aristotle) ​​described his tricks: he imposed a hair tax, a funeral tax, and sold public lands to citizens, which he then forcibly reclaimed.",
+      "description_ru": "Мавсол становится сатрапом после смерти Гекатомна; самый могущественный и влиятельный правитель Гекатомнидов начинает амбициозную программу эллинизации, сохраняя лояльность Персии. Мавсол обожал греческую культуру. Он перенес столицу из консервативных Милас в приморский Галикарнас, перестроил его по передовому греческому образцу, возвел мощные стены, дворцы и гавани. Он насильно переселял жителей мелких поселений в крупные города для централизации власти.\n\nЧтобы финансировать свои масштабные стройки и сильную армию, Мавсол ввел абсурдные налоги. Древние авторы (например, Аристотель) описывали его уловки: он вводил налог на волосы, на похороны и продавал гражданам общественные земли, которые затем силой забирал обратно.",
       "era": "BC",
       "latitude": 37.3092,
       "longitude": 27.7842,
-      "name": "Mausolus Becomes Satrap",
-      "name_ru": "Мавсол - сатрап Карии",
+      "name": "Mausolus Becomes Satrap of Caria",
+      "name_ru": "Мавсол — сатрап Карии",
       "source": "https://en.wikipedia.org/wiki/Mausolus",
       "tags": [
         "Persian",

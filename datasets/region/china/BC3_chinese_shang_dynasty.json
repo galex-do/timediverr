@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 29 events",
+  "description": "Dataset imported with 30 events",
   "events": [
     {
       "date": "01.01.1585",
@@ -365,6 +365,7 @@
         "Chinese",
         "Shang",
         "Animism",
+        "Pagan",
         "Religious",
         "Sacrifice"
       ],

@@ -113,8 +113,8 @@
         "Culture",
         "Customs",
         "Migration",
-        "Tribal",
-        "Slavic"
+        "Slavic",
+        "Tribal"
       ],
       "type": "cultural"
     },
@@ -151,8 +151,8 @@
         "Culture",
         "Political",
         "Settlement",
-        "Tribal",
-        "Slavic"
+        "Slavic",
+        "Tribal"
       ],
       "type": "cultural"
     },
@@ -185,9 +185,9 @@
       "source": "https://en.wikipedia.org/wiki/Ilmen_Slavs",
       "tags": [
         "Culture",
+        "Slavic",
         "Trade",
-        "Tribal",
-        "Slavic"
+        "Tribal"
       ],
       "type": "cultural"
     },
@@ -204,9 +204,9 @@
       "tags": [
         "City",
         "Finno-Ugric",
+        "Slavic",
         "Trade",
-        "Tribal",
-        "Slavic"
+        "Tribal"
       ],
       "type": "historic"
     },
@@ -225,9 +225,9 @@
         "Finno-Ugric",
         "Norman",
         "Settlement",
+        "Slavic",
         "Trade",
-        "Varangians to the Greeks",
-        "Slavic"
+        "Varangians to the Greeks"
       ],
       "type": "cultural"
     },
@@ -244,10 +244,10 @@
       "tags": [
         "City",
         "Settlement",
+        "Slavic",
         "Trade",
         "Tribal",
-        "Varangians to the Greeks",
-        "Slavic"
+        "Varangians to the Greeks"
       ],
       "type": "historic"
     },
@@ -286,9 +286,9 @@
         "Byzantine",
         "Culture",
         "Norman",
+        "Slavic",
         "Trade",
-        "Varangians to the Greeks",
-        "Slavic"
+        "Varangians to the Greeks"
       ],
       "type": "cultural"
     },
@@ -306,10 +306,10 @@
         "Arabian",
         "Islamic",
         "Norman",
+        "Slavic",
         "Trade",
         "Bulgarian",
-        "Khazar",
-        "Slavic"
+        "Khazar"
       ],
       "type": "cultural"
     },
@@ -354,8 +354,8 @@
         "Political",
         "Rurikid",
         "Rus",
-        "Varangians to the Greeks",
-        "Slavic"
+        "Slavic",
+        "Varangians to the Greeks"
       ],
       "type": "political"
     },
@@ -401,8 +401,8 @@
         "Regency",
         "Rurikid",
         "Rus",
-        "Trick",
-        "Slavic"
+        "Slavic",
+        "Trick"
       ],
       "type": "military"
     },
@@ -424,9 +424,9 @@
         "Kyiv",
         "Norman",
         "Rus",
+        "Slavic",
         "Treaty",
-        "Tribute",
-        "Slavic"
+        "Tribute"
       ],
       "type": "military"
     },
@@ -582,8 +582,8 @@
         "Culture",
         "Political",
         "Rus",
-        "Revenge",
-        "Slavic"
+        "Slavic",
+        "Revenge"
       ],
       "type": "military"
     },
@@ -602,8 +602,8 @@
         "Administration",
         "Kyiv",
         "Rus",
-        "Taxes",
-        "Slavic"
+        "Slavic",
+        "Taxes"
       ],
       "type": "political"
     },
@@ -621,9 +621,9 @@
         "City",
         "Norman",
         "Settlement",
+        "Slavic",
         "Tribal",
-        "Varangians to the Greeks",
-        "Slavic"
+        "Varangians to the Greeks"
       ],
       "type": "historic"
     },
@@ -690,8 +690,8 @@
         "Expedition",
         "Kyiv",
         "Rus",
-        "Bulgarian",
-        "Slavic"
+        "Slavic",
+        "Bulgarian"
       ],
       "type": "military"
     },
@@ -710,9 +710,9 @@
         "Kyiv",
         "Norman",
         "Rus",
+        "Slavic",
         "Turkic",
-        "Khazar",
-        "Slavic"
+        "Khazar"
       ],
       "type": "military"
     },
@@ -733,8 +733,8 @@
         "Pecheneg",
         "Rus",
         "Siege",
-        "Turkic",
-        "Slavic"
+        "Slavic",
+        "Turkic"
       ],
       "type": "military"
     },
@@ -758,8 +758,8 @@
         "Pecheneg",
         "Rurikid",
         "Rus",
-        "Turkic",
-        "Slavic"
+        "Slavic",
+        "Turkic"
       ],
       "type": "military"
     },
@@ -780,8 +780,8 @@
         "Kyiv",
         "Political",
         "Rus",
-        "Vladimir 👑",
-        "Slavic"
+        "Slavic",
+        "Vladimir 👑"
       ],
       "type": "military"
     },
@@ -801,8 +801,8 @@
         "Norman",
         "Novgorod",
         "Rus",
-        "Vladimir 👑",
-        "Slavic"
+        "Slavic",
+        "Vladimir 👑"
       ],
       "type": "military"
     },
@@ -822,8 +822,8 @@
         "Cruelty",
         "Rurikid",
         "Rus",
-        "Vladimir 👑",
-        "Slavic"
+        "Slavic",
+        "Vladimir 👑"
       ],
       "type": "military"
     },
@@ -843,8 +843,8 @@
         "Kyiv",
         "Rurikid",
         "Rus",
-        "Vladimir 👑",
-        "Slavic"
+        "Slavic",
+        "Vladimir 👑"
       ],
       "type": "political"
     },
@@ -865,8 +865,8 @@
         "Kyiv",
         "Polish",
         "Rus",
-        "Vladimir 👑",
-        "Slavic"
+        "Slavic",
+        "Vladimir 👑"
       ],
       "type": "military"
     },
@@ -886,8 +886,8 @@
         "Political",
         "Religious",
         "Rus",
-        "Vladimir 👑",
-        "Slavic"
+        "Slavic",
+        "Vladimir 👑"
       ],
       "type": "religious"
     },
@@ -907,8 +907,8 @@
         "Martyr",
         "Religious",
         "Rus",
-        "Vladimir 👑",
-        "Slavic"
+        "Slavic",
+        "Vladimir 👑"
       ],
       "type": "religious"
     },
@@ -930,9 +930,9 @@
         "Expansion",
         "Kyiv",
         "Rus",
+        "Slavic",
         "Tribal",
-        "Vladimir 👑",
-        "Slavic"
+        "Vladimir 👑"
       ],
       "type": "military"
     },
@@ -1015,8 +1015,8 @@
         "Rostov-Suzdal",
         "Rurikid",
         "Rus",
-        "Yaroslav the Wise 👑",
-        "Slavic"
+        "Slavic",
+        "Yaroslav the Wise 👑"
       ],
       "type": "historic"
     },
@@ -1039,8 +1039,8 @@
         "Novgorod",
         "Religious",
         "Rus",
-        "Vladimir 👑",
-        "Slavic"
+        "Slavic",
+        "Vladimir 👑"
       ],
       "type": "religious"
     },
@@ -1061,8 +1061,8 @@
         "Kyiv",
         "Rus",
         "Salt",
-        "Vladimir 👑",
-        "Slavic"
+        "Slavic",
+        "Vladimir 👑"
       ],
       "type": "military"
     },
@@ -1086,9 +1086,9 @@
         "Kyiv",
         "Religious",
         "Rus",
+        "Slavic",
         "Temple",
-        "Vladimir 👑",
-        "Slavic"
+        "Vladimir 👑"
       ],
       "type": "cultural"
     },
@@ -1110,9 +1110,9 @@
         "Kyiv",
         "Pecheneg",
         "Rus",
+        "Slavic",
         "Turkic",
-        "Vladimir 👑",
-        "Slavic"
+        "Vladimir 👑"
       ],
       "type": "military"
     },
@@ -1133,8 +1133,8 @@
         "Finno-Ugric",
         "Rostov-Suzdal",
         "Rus",
-        "Yaroslav the Wise 👑",
-        "Slavic"
+        "Slavic",
+        "Yaroslav the Wise 👑"
       ],
       "type": "military"
     },
@@ -1155,8 +1155,8 @@
         "Novgorod",
         "Rurikid",
         "Rus",
-        "Yaroslav the Wise 👑",
-        "Slavic"
+        "Slavic",
+        "Yaroslav the Wise 👑"
       ],
       "type": "political"
     },
@@ -1178,8 +1178,8 @@
         "Pecheneg",
         "Polish",
         "Rus",
-        "Turkic",
-        "Slavic"
+        "Slavic",
+        "Turkic"
       ],
       "type": "military"
     },
@@ -1198,8 +1198,8 @@
         "Peace",
         "Polish",
         "Rus",
-        "Treaty",
-        "Slavic"
+        "Slavic",
+        "Treaty"
       ],
       "type": "political"
     },
@@ -1223,8 +1223,8 @@
         "Political",
         "Rebellion",
         "Rus",
-        "Yaroslav the Wise 👑",
-        "Slavic"
+        "Slavic",
+        "Yaroslav the Wise 👑"
       ],
       "type": "political"
     },
@@ -1266,8 +1266,8 @@
         "Kyiv",
         "Rurikid",
         "Rus",
-        "Usurpation",
-        "Slavic"
+        "Slavic",
+        "Usurpation"
       ],
       "type": "political"
     },
@@ -1338,9 +1338,9 @@
         "Novgorod",
         "Pecheneg",
         "Rus",
+        "Slavic",
         "Turkic",
-        "Yaroslav the Wise 👑",
-        "Slavic"
+        "Yaroslav the Wise 👑"
       ],
       "type": "military"
     },
@@ -1363,8 +1363,8 @@
         "Novgorod",
         "Polish",
         "Rus",
-        "Yaroslav the Wise 👑",
-        "Slavic"
+        "Slavic",
+        "Yaroslav the Wise 👑"
       ],
       "type": "military"
     },
@@ -1407,8 +1407,8 @@
         "Political",
         "Rus",
         "Self-sacrifice",
-        "Yaroslav the Wise 👑",
-        "Slavic"
+        "Slavic",
+        "Yaroslav the Wise 👑"
       ],
       "type": "historic"
     },
@@ -1479,9 +1479,9 @@
         "Novgorod",
         "Political",
         "Rus",
+        "Slavic",
         "Text",
-        "Yaroslav the Wise 👑",
-        "Slavic"
+        "Yaroslav the Wise 👑"
       ],
       "type": "political"
     },
@@ -1502,8 +1502,8 @@
         "Religious",
         "Rostov-Suzdal",
         "Rus",
-        "Yaroslav the Wise 👑",
-        "Slavic"
+        "Slavic",
+        "Yaroslav the Wise 👑"
       ],
       "type": "political"
     },
@@ -1547,9 +1547,9 @@
         "Independence",
         "Norman",
         "Rus",
+        "Slavic",
         "Yaroslav the Wise 👑",
-        "Khazar",
-        "Slavic"
+        "Khazar"
       ],
       "type": "military"
     },
@@ -1570,9 +1570,9 @@
         "Nomads",
         "Pecheneg",
         "Rus",
+        "Slavic",
         "Turkic",
-        "Yaroslav the Wise 👑",
-        "Slavic"
+        "Yaroslav the Wise 👑"
       ],
       "type": "military"
     },
@@ -1596,9 +1596,9 @@
         "Kyiv",
         "Religious",
         "Rus",
+        "Slavic",
         "Temple",
-        "Yaroslav the Wise 👑",
-        "Slavic"
+        "Yaroslav the Wise 👑"
       ],
       "type": "cultural"
     },
@@ -1618,8 +1618,8 @@
         "Kyiv",
         "Political",
         "Rus",
-        "Yaroslav the Wise 👑",
-        "Slavic"
+        "Slavic",
+        "Yaroslav the Wise 👑"
       ],
       "type": "cultural"
     },
@@ -1641,8 +1641,8 @@
         "Political",
         "Rurikid",
         "Rus",
-        "Yaroslav the Wise 👑",
-        "Slavic"
+        "Slavic",
+        "Yaroslav the Wise 👑"
       ],
       "type": "political"
     },
@@ -1733,9 +1733,9 @@
         "Political",
         "Religious",
         "Rus",
+        "Slavic",
         "Text",
-        "Yaroslav the Wise 👑",
-        "Slavic"
+        "Yaroslav the Wise 👑"
       ],
       "type": "religious"
     },
@@ -1757,8 +1757,8 @@
         "Religious",
         "Republic",
         "Rus",
-        "Temple",
-        "Slavic"
+        "Slavic",
+        "Temple"
       ],
       "type": "cultural"
     },
@@ -1802,9 +1802,9 @@
         "Christian",
         "Religious",
         "Rus",
+        "Slavic",
         "Temple",
-        "Orthodox",
-        "Slavic"
+        "Orthodox"
       ],
       "type": "historic"
     },
@@ -1827,8 +1827,8 @@
         "Kyiv",
         "Nomads",
         "Rus",
-        "Turkic",
-        "Slavic"
+        "Slavic",
+        "Turkic"
       ],
       "type": "military"
     },
@@ -1850,8 +1850,8 @@
         "Kipchak",
         "Nomads",
         "Rus",
-        "Turkic",
-        "Slavic"
+        "Slavic",
+        "Turkic"
       ],
       "type": "military"
     },
@@ -1914,8 +1914,8 @@
         "Justice",
         "Law",
         "Rus",
-        "Text",
-        "Slavic"
+        "Slavic",
+        "Text"
       ],
       "type": "political"
     },
@@ -1935,8 +1935,8 @@
         "Kyiv",
         "Rus",
         "Science",
-        "Text",
-        "Slavic"
+        "Slavic",
+        "Text"
       ],
       "type": "cultural"
     },
@@ -1957,8 +1957,8 @@
         "Kyiv",
         "Religious",
         "Rus",
-        "Text",
-        "Slavic"
+        "Slavic",
+        "Text"
       ],
       "type": "cultural"
     },
@@ -1979,9 +1979,9 @@
         "Kyiv",
         "Political",
         "Rus",
+        "Slavic",
         "Succession",
-        "Vladimir Monomakh 👑",
-        "Slavic"
+        "Vladimir Monomakh 👑"
       ],
       "type": "political"
     },
@@ -2002,8 +2002,8 @@
         "Political",
         "Republic",
         "Rus",
-        "Trade",
-        "Slavic"
+        "Slavic",
+        "Trade"
       ],
       "type": "political"
     },
@@ -2023,8 +2023,8 @@
         "Kyiv",
         "Rostov-Suzdal",
         "Rus",
-        "Vladimir Monomakh 👑",
-        "Slavic"
+        "Slavic",
+        "Vladimir Monomakh 👑"
       ],
       "type": "historic"
     },
@@ -2089,8 +2089,8 @@
         "Rostov-Suzdal",
         "Rurikid",
         "Rus",
-        "Yury Dolgoruky 👑",
-        "Slavic"
+        "Slavic",
+        "Yury Dolgoruky 👑"
       ],
       "type": "political"
     },
@@ -2112,9 +2112,9 @@
         "Political",
         "Rurikid",
         "Rus",
+        "Slavic",
         "Text",
-        "Vladimir Monomakh 👑",
-        "Slavic"
+        "Vladimir Monomakh 👑"
       ],
       "type": "political"
     },
@@ -2157,8 +2157,8 @@
         "Kingdom",
         "Rostov-Suzdal",
         "Rus",
-        "Yury Dolgoruky 👑",
-        "Slavic"
+        "Slavic",
+        "Yury Dolgoruky 👑"
       ],
       "type": "historic"
     },
@@ -2176,8 +2176,8 @@
         "Kingdom",
         "Rus",
         "Ryazan",
-        "Trade",
-        "Slavic"
+        "Slavic",
+        "Trade"
       ],
       "type": "historic"
     },
@@ -2218,8 +2218,8 @@
         "Rurikid",
         "Rus",
         "Settlement",
-        "Yury Dolgoruky 👑",
-        "Slavic"
+        "Slavic",
+        "Yury Dolgoruky 👑"
       ],
       "type": "historic"
     },
@@ -2241,9 +2241,9 @@
         "Kyiv",
         "Rostov-Suzdal",
         "Rus",
+        "Slavic",
         "Turkic",
-        "Yury Dolgoruky 👑",
-        "Slavic"
+        "Yury Dolgoruky 👑"
       ],
       "type": "military"
     },
@@ -2265,9 +2265,9 @@
         "Kyiv",
         "Rostov-Suzdal",
         "Rus",
+        "Slavic",
         "Turkic",
-        "Yury Dolgoruky 👑",
-        "Slavic"
+        "Yury Dolgoruky 👑"
       ],
       "type": "military"
     },
@@ -2288,9 +2288,9 @@
         "Kyiv",
         "Rostov-Suzdal",
         "Rus",
+        "Slavic",
         "Turkic",
-        "Yury Dolgoruky 👑",
-        "Slavic"
+        "Yury Dolgoruky 👑"
       ],
       "type": "military"
     },
@@ -2312,7 +2312,8 @@
         "Rostov-Suzdal",
         "Rurikid",
         "Rus",
-        "Slavic"
+        "Slavic",
+        "Theft"
       ],
       "type": "historic"
     },
@@ -2334,8 +2335,8 @@
         "Rostov-Suzdal",
         "Rurikid",
         "Rus",
-        "Yury Dolgoruky 👑",
-        "Slavic"
+        "Slavic",
+        "Yury Dolgoruky 👑"
       ],
       "type": "historic"
     },
@@ -2355,8 +2356,8 @@
         "Capital",
         "Kingdom",
         "Rus",
-        "Vladimir-Suzdal",
-        "Slavic"
+        "Slavic",
+        "Vladimir-Suzdal"
       ],
       "type": "historic"
     },
@@ -2378,9 +2379,9 @@
         "Culture",
         "Religious",
         "Rus",
+        "Slavic",
         "Temple",
-        "Vladimir-Suzdal",
-        "Slavic"
+        "Vladimir-Suzdal"
       ],
       "type": "cultural"
     },
@@ -2402,9 +2403,9 @@
         "Christian",
         "Religious",
         "Rus",
+        "Slavic",
         "Temple",
-        "Vladimir-Suzdal",
-        "Slavic"
+        "Vladimir-Suzdal"
       ],
       "type": "cultural"
     },
@@ -2425,8 +2426,8 @@
         "Kyiv",
         "Pillage",
         "Rus",
-        "Vladimir-Suzdal",
-        "Slavic"
+        "Slavic",
+        "Vladimir-Suzdal"
       ],
       "type": "military"
     },
@@ -2448,8 +2449,8 @@
         "Death",
         "Rurikid",
         "Rus",
-        "Vladimir-Suzdal",
-        "Slavic"
+        "Slavic",
+        "Vladimir-Suzdal"
       ],
       "type": "political"
     },
@@ -2469,8 +2470,8 @@
         "Political",
         "Rebellion",
         "Rus",
-        "Vladimir-Suzdal",
-        "Slavic"
+        "Slavic",
+        "Vladimir-Suzdal"
       ],
       "type": "military"
     },
@@ -2490,8 +2491,8 @@
         "Political",
         "Rurikid",
         "Rus",
-        "Vladimir-Suzdal",
-        "Slavic"
+        "Slavic",
+        "Vladimir-Suzdal"
       ],
       "type": "political"
     },
@@ -2512,8 +2513,8 @@
         "Literature",
         "Poetry",
         "Rus",
-        "Text",
-        "Slavic"
+        "Slavic",
+        "Text"
       ],
       "type": "cultural"
     },
@@ -2533,8 +2534,8 @@
         "Kingdom",
         "Political",
         "Rus",
-        "Unification",
-        "Slavic"
+        "Slavic",
+        "Unification"
       ],
       "type": "political"
     },
@@ -2554,9 +2555,9 @@
         "Literature",
         "Novgorod",
         "Rus",
+        "Slavic",
         "Trade",
-        "Writing",
-        "Slavic"
+        "Writing"
       ],
       "type": "cultural"
     },
@@ -2578,9 +2579,9 @@
         "Literature",
         "Religious",
         "Rus",
+        "Slavic",
         "Text",
-        "Orthodox",
-        "Slavic"
+        "Orthodox"
       ],
       "type": "religious"
     },
@@ -2603,8 +2604,8 @@
         "Kipchak",
         "Mongolian",
         "Rus",
-        "Turkic",
-        "Slavic"
+        "Slavic",
+        "Turkic"
       ],
       "type": "military"
     },
@@ -2804,9 +2805,9 @@
         "Livonian",
         "Novgorod",
         "Rus",
+        "Slavic",
         "Teutons",
-        "Crusade",
-        "Slavic"
+        "Crusade"
       ],
       "type": "military"
     },
@@ -2866,13 +2867,14 @@
         "Dynasty",
         "Assassination",
         "Death",
+        "Disease",
         "Golden Horde",
         "Mongolian",
         "Political",
         "Rurikid",
         "Rus",
-        "Vladimir-Suzdal",
-        "Slavic"
+        "Slavic",
+        "Vladimir-Suzdal"
       ],
       "type": "political"
     },
@@ -2908,11 +2910,11 @@
       "tags": [
         "Christian",
         "Culture",
-        "Paganism",
+        "Pagan",
         "Religious",
         "Rus",
-        "Syncretism",
-        "Slavic"
+        "Slavic",
+        "Syncretism"
       ],
       "type": "religious"
     },
@@ -2931,7 +2933,7 @@
         "Catholic",
         "Christian",
         "Novgorod",
-        "Pope",
+        "Papacy",
         "Rus"
       ],
       "type": "political"
@@ -2972,8 +2974,8 @@
         "Catholic",
         "Galicia",
         "Kingdom",
+        "Papacy",
         "Political",
-        "Pope",
         "Rus",
         "Slavic"
       ],
