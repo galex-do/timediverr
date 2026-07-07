@@ -1,0 +1,635 @@
+{
+  "description": "Dataset covering the Republic of Pisa from its emergence as a naval commune to its absorption by Florence — 39 events spanning 820–1406 AD, tracing Arab wars, crusade expansion, architectural genius, the Fibonacci revolution, and the catastrophic decline after Meloria.",
+  "events": [
+    {
+      "date": "01.01.0820",
+      "era": "AD",
+      "name": "Pisa Emerges as Naval Commune Against Arab Raids",
+      "name_ru": "Пиза возникает как морская коммуна против арабских набегов",
+      "description": "In the early ninth century, Arab fleets operating from bases in North Africa and Sicily began raiding the Tyrrhenian coast with increasing frequency, threatening Pisa's position as the principal port of northwestern Italy. The Lombard and Carolingian states were too weak and too land-oriented to mount effective naval defenses; Pisa began organising its own communal defense forces. The city's location at the mouth of the Arno river — connected to the sea but sheltered from direct coastal raids — gave it a natural advantage. The persistent Arab threat forced Pisa to develop the naval infrastructure, military organization, and commercial maritime culture that would define it for the next four centuries.",
+      "description_ru": "В начале IX века арабские флоты, действовавшие с баз в Северной Африке и Сицилии, с нарастающей частотой совершали набеги на Тирренское побережье, угрожая положению Пизы как главного порта Северо-Западной Италии. Лангобардские и Каролингские государства были слишком слабы и слишком ориентированы на сушу для эффективной морской обороны; Пиза начала организовывать собственные коммунальные оборонительные силы. Положение города в устье реки Арно — с выходом к морю, но укрытым от прямых прибрежных набегов — давало естественное преимущество. Постоянная арабская угроза вынудила Пизу развить военно-морскую инфраструктуру, военную организацию и торговую морскую культуру, определявшую её на протяжении следующих четырёх столетий.",
+      "latitude": 43.72,
+      "longitude": 10.4,
+      "source": "https://en.wikipedia.org/wiki/Republic_of_Pisa",
+      "tags": [
+        "Pisa",
+        "Italian",
+        "Maritime",
+        "Islamic"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0935",
+      "era": "AD",
+      "name": "Arab Fleet Sacks Genoa and Threatens Pisa — Coastal Defense Organised",
+      "name_ru": "Арабский флот разграбляет Геную и угрожает Пизе — организована береговая оборона",
+      "description": "The Arab sack of Genoa in 934–935 sent shockwaves through the Tyrrhenian coast. Pisa, recognising that the same Fatimid fleet threatened its own coastline, accelerated the organisation of permanent naval defenses: harbour works, a standing guard fleet, and watchtower networks along the Ligurian and Tuscan shores. The episode marked a turning point in the relationship between Pisa and Genoa — rivals for Tyrrhenian dominance who nonetheless shared a common existential threat that periodically forced them into cooperation. It also demonstrated that the Italian coastal communes could not rely on any external power for their naval security, driving the development of fully independent merchant-naval republics.",
+      "description_ru": "Арабское разграбление Генуи в 934–935 годах потрясло Тирренское побережье. Пиза, осознав, что тот же Фатимидский флот угрожает её побережью, ускорила организацию постоянной морской обороны: портовые сооружения, постоянный сторожевой флот и сеть наблюдательных башен вдоль Лигурийского и Тосканского берегов. Эпизод ознаменовал поворотный момент в отношениях между Пизой и Генуей — соперниками за господство в Тирренском море, которых тем не менее объединяла общая экзистенциальная угроза, периодически принуждавшая их к сотрудничеству. Он также показал, что итальянские прибрежные коммуны не могут полагаться на какую-либо внешнюю силу в морской безопасности.",
+      "latitude": 43.72,
+      "longitude": 10.4,
+      "source": "https://en.wikipedia.org/wiki/Republic_of_Pisa",
+      "tags": [
+        "Pisa",
+        "Italian",
+        "Maritime",
+        "Islamic"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1000",
+      "era": "AD",
+      "name": "Pisa Consolidates Tyrrhenian Dominance — Sardinia Under Pisan Influence",
+      "name_ru": "Пиза закрепляет господство в Тирренском море — Сардиния под Пизанским влиянием",
+      "description": "By the year 1000, Pisa had established itself as the dominant naval power of the Tyrrhenian Sea, controlling the main sea lanes between Italy, Corsica, Sardinia, and the French coast. Pisan merchant fleets traded salt, iron, and grain; Pisan warships patrolled against Arab pirates. Sardinia — split between four local giudicati kingdoms — increasingly came under Pisan commercial and ecclesiastical influence as Pisan bishops, merchants, and architects spread across the island. The relationship with Sardinia would define Pisan prosperity for the next two centuries: the island's silver mines, grain, and harbours fed Pisan commerce, while Pisan Romanesque architecture transformed Sardinia's landscape.",
+      "description_ru": "К 1000 году Пиза утвердилась как доминирующая военно-морская держава Тирренского моря, контролируя главные морские пути между Италией, Корсикой, Сардинией и французским побережьем. Пизанские торговые флоты торговали солью, железом и зерном; пизанские военные корабли патрулировали против арабских пиратов. Сардиния — разделённая между четырьмя местными юдикатами, — всё больше подпадала под Пизанское коммерческое и церковное влияние: пизанские епископы, купцы и архитекторы распространялись по острову. Отношения с Сардинией будут определять пизанское процветание на протяжении следующих двух столетий.",
+      "latitude": 40.12,
+      "longitude": 9.07,
+      "source": "https://en.wikipedia.org/wiki/Republic_of_Pisa",
+      "tags": [
+        "Pisa",
+        "Italian",
+        "Maritime",
+        "Expansion"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1016",
+      "era": "AD",
+      "name": "Pisa and Genoa Expel Arabs from Sardinia",
+      "name_ru": "Пиза и Генуя изгоняют арабов с Сардинии",
+      "description": "In 1016, a combined Pisan and Genoese fleet defeated the Arab force of Mujāhid al-ʿĀmirī — known in western sources as Museto — that had occupied the northern Sardinian coast and used it as a raiding base for attacks on the Italian mainland. The joint victory secured Sardinia from further Arab encroachment and opened the island to intensive Pisan and Genoese commercial activity. Within a generation, Pisan merchants, clergy, and architects flooded into Sardinia, founding churches in the Pisan Romanesque style that survive across the island today. The victory also marked the beginning of the intense Pisan-Genoese rivalry over Sardinian dominance that would last two centuries.",
+      "description_ru": "В 1016 году объединённый Пизанско-Генуэзский флот разгромил арабские силы Муджахида аль-Амири — известного в западных источниках как Мусето, — оккупировавшего северное побережье Сардинии и использовавшего его как базу для набегов на итальянский материк. Совместная победа обезопасила Сардинию от дальнейшей арабской экспансии и открыла остров для интенсивной Пизанской и Генуэзской коммерческой деятельности. В течение одного поколения Пизанские купцы, духовенство и архитекторы наводнили Сардинию, основывая церкви в Пизанском романском стиле, сохранившиеся по всему острову по сей день.",
+      "latitude": 40.12,
+      "longitude": 9.07,
+      "source": "https://en.wikipedia.org/wiki/Mujahid_al-Amiri",
+      "tags": [
+        "Pisa",
+        "Italian",
+        "Maritime",
+        "Islamic"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "09.08.1063",
+      "era": "AD",
+      "name": "Pisan Fleet Sacks Palermo — Cathedral Construction Funded",
+      "name_ru": "Пизанский флот разграбляет Палермо — финансируется строительство Собора",
+      "description": "In 1063, a Pisan fleet raided and sacked Palermo — then the wealthiest city in the central Mediterranean under Arab administration — seizing enormous quantities of silver, silk, and treasure. The spoils were so vast that the commune immediately decided to build a great cathedral to commemorate the victory. Construction began on 9 August 1063 on the Campo dei Miracoli — the Field of Miracles — on the western edge of the city. The Cathedral of Pisa, designed by the architect Buscheto, set the template for the Pisan Romanesque style: white and dark marble banding, blind arcading, the distinctive interplay of arcade and gallery that spread from Pisa across Sardinia, Corsica, southern France, and even the Holy Land.",
+      "description_ru": "В 1063 году Пизанский флот совершил набег и разграбил Палермо — тогда богатейший город центрального Средиземноморья под арабским управлением, — захватив огромное количество серебра, шёлка и сокровищ. Трофеи были настолько велики, что коммуна немедленно приняла решение возвести великий собор в память о победе. Строительство началось 9 августа 1063 года на Кампо деи Мираколи — Поле Чудес — на западной окраине города. Пизанский Собор, спроектированный архитектором Бускето, задал образец Пизанского романского стиля: полосатый белый и тёмный мрамор, глухие аркады, характерное сочетание аркад и галерей, распространившееся из Пизы по Сардинии, Корсике, Южной Франции и даже Святой земле.",
+      "latitude": 43.72,
+      "longitude": 10.39,
+      "source": "https://en.wikipedia.org/wiki/Pisa_Cathedral",
+      "tags": [
+        "Pisa",
+        "Pisan",
+        "Islamic",
+        "Building 🏠"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1077",
+      "era": "AD",
+      "name": "Pisa Receives First Byzantine Trading Privileges",
+      "name_ru": "Пиза получает первые Byzantийские торговые привилегии",
+      "description": "Around 1077, the Byzantine Empire granted Pisa its first formal trading concessions in Constantinople and Byzantine ports, giving Pisan merchants reduced customs duties and a designated quarter. The grant reflected Pisa's growing importance as a western Mediterranean naval power and Byzantium's interest in cultivating multiple Italian city-states as trading partners rather than depending exclusively on Venice. Pisan merchants in Constantinople joined a community of Latin traders whose presence — and whose accumulated grievances over Greek commercial competition — would eventually contribute to the anti-western resentments that erupted in the Latin Massacre of 1182.",
+      "description_ru": "Около 1077 года Byzantийская империя предоставила Пизе первые официальные торговые концессии в Константинополе и Byzantийских портах, дав Пизанским купцам сниженные таможенные пошлины и специальный квартал. Дар отражал растущее значение Пизы как западносредиземноморской военно-морской державы и заинтересованность Byzantии в развитии нескольких итальянских городов-государств в качестве торговых партнёров, а не в исключительной зависимости от Венеции. Пизанские купцы в Константинополе вошли в общину латинских торговцев, накопленные обиды которых на Греческую торговую конкуренцию в итоге способствовали антизападным настроениям, вылившимся в резню латинян 1182 года.",
+      "latitude": 41.01,
+      "longitude": 28.98,
+      "source": "https://en.wikipedia.org/wiki/Republic_of_Pisa",
+      "tags": [
+        "Pisa",
+        "Byzantine",
+        "Trade",
+        "Diplomacy"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.08.1087",
+      "era": "AD",
+      "name": "Pisan Fleet Raids Mahdia — Arab Piracy Suppressed",
+      "name_ru": "Пизанский флот совершает набег на Махдию — Арабское пиратство подавлено",
+      "description": "In August 1087, a large Pisan fleet — in cooperation with forces from Amalfi, Salerno, and Gaeta — raided Mahdia on the Tunisian coast, the principal base of Arab pirates preying on Tyrrhenian shipping. The expedition sacked the lower city, burned the harbour, and extracted a substantial ransom before withdrawing. Pope Victor III endorsed the campaign as a holy war against Muslim piracy. The raid broke the operational capacity of the Mahdia-based pirates and was celebrated in Pisa as a triumph comparable to the earlier sack of Palermo. It established Pisa's reputation as the leading Christian naval power in the central Mediterranean at the moment when the crusading movement was beginning to take shape.",
+      "description_ru": "В августе 1087 года крупный Пизанский флот — в сотрудничестве с силами Амальфи, Салерно и Гаэты — совершил набег на Махдию на Тунисском побережье, главную базу арабских пиратов, нападавших на Тирренское судоходство. Экспедиция разграбила нижний город, сожгла гавань и взыскала значительный выкуп перед отходом. Папа Виктор III поддержал кампанию как священную войну против Мусульманского пиратства. Набег подорвал оперативный потенциал Махдийских пиратов и был отпразднован в Пизе как триумф, сравнимый с прежним разграблением Палермо.",
+      "latitude": 35.5,
+      "longitude": 11.06,
+      "source": "https://en.wikipedia.org/wiki/Raid_on_Mahdia_(1087)",
+      "tags": [
+        "Pisa",
+        "Italian",
+        "Islamic",
+        "Maritime"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1099",
+      "era": "AD",
+      "name": "Pisan Fleet Reaches the Holy Land — Archbishop Daimbert Heads the Crusader Church",
+      "name_ru": "Пизанский флот достигает Святой земли — Архиепископ Даимберт возглавляет крестоносную церковь",
+      "description": "In 1099, Archbishop Daimbert of Pisa led a fleet of 120 Pisan ships to the Holy Land following the crusader capture of Jerusalem. The Pisan fleet arrived after the city had fallen but provided critical reinforcement. Daimbert was appointed the first Latin Patriarch of Jerusalem by Godfrey of Bouillon, placing the highest ecclesiastical office in the crusader states in Pisan hands. In exchange, Pisa received one-third of Jaffa and one-third of Jerusalem as commercial territory. The appointment gave Pisa an institutional presence in the Holy Land that exceeded its raw naval contribution — a characteristic Pisan achievement of translating military participation into outsized political and commercial reward.",
+      "description_ru": "В 1099 году Архиепископ Пизы Даимберт возглавил флот из 120 Пизанских кораблей на Святую землю после захвата Иерусалима крестоносцами. Пизанский флот прибыл уже после падения города, но обеспечил критическое подкрепление. Даимберт был назначен первым латинским Патриархом Иерусалима Готфридом Бульонским, поместив высший церковный пост в государствах крестоносцев в Пизанские руки. Взамен Пиза получила треть Яффы и треть Иерусалима в качестве коммерческой территории. Назначение обеспечило Пизе институциональное присутствие на Святой земле, превышавшее её прямой военно-морской вклад.",
+      "latitude": 32.05,
+      "longitude": 34.75,
+      "source": "https://en.wikipedia.org/wiki/Daimbert_of_Pisa",
+      "tags": [
+        "Pisa",
+        "Crusade",
+        "Maritime",
+        "Seamen"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1100",
+      "era": "AD",
+      "name": "Pisan Quarter Established in Jerusalem and Jaffa",
+      "name_ru": "Пизанский квартал основан в Иерусалиме и Яффе",
+      "description": "Following the crusade, Pisa formalised its commercial presence in the Holy Land with extraterritorial trading quarters in Jerusalem and Jaffa — the port city that served as the gateway to Jerusalem. The Pisan quarter at Jaffa was particularly valuable: controlling port facilities at the main crusader landing point gave Pisa leverage over the entire commercial traffic between Europe and the Crusader Kingdom. Unlike Venice, which focused on the longer-distance spice trade, Pisa built deep relationships with the local crusader nobility and clergy, exploiting its Archbishop's ecclesiastical network. The colony was self-governing under Pisan consuls and maintained its own legal system, warehouses, and church.",
+      "description_ru": "После крестового похода Пиза оформила коммерческое присутствие на Святой земле с экстерриториальными торговыми кварталами в Иерусалиме и Яффе — портовом городе, служившем воротами к Иерусалиму. Пизанский квартал в Яффе был особенно ценным: контроль над портовыми объектами в главном Крестоносном пункте высадки давал Пизе рычаги над всем коммерческим движением между Европой и Крестоносным Королевством. В отличие от Венеции, сосредоточившейся на дальней торговле пряностями, Пиза строила глубокие отношения с местной Крестоносной знатью и духовенством, используя церковную сеть Архиепископа. Колония самоуправлялась под Пизанскими консулами.",
+      "latitude": 31.78,
+      "longitude": 35.22,
+      "source": "https://en.wikipedia.org/wiki/Republic_of_Pisa",
+      "tags": [
+        "Pisa",
+        "Crusade",
+        "Trade",
+        "Expansion"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1111",
+      "era": "AD",
+      "name": "Byzantine Chrysobull Grants Pisa Full Eastern Trading Rights",
+      "name_ru": "Byzantийский Хрисовул предоставляет Пизе полные восточные торговые права",
+      "description": "In 1111, Emperor Alexios I Komnenos issued a chrysobull granting Pisa substantially expanded trading rights across the Byzantine Empire: a quarter in Constantinople, warehouses in Thessaloniki and other major ports, and significant reductions in customs duties. The chrysobull placed Pisa on roughly comparable commercial footing with Venice and Genoa in Byzantine markets, completing the system of Italian city-state privileges that would define Byzantine trade for the next century. Pisan merchants operating from their Constantinople quarter traded in Byzantine silk, grain, and luxury goods, while Byzantine access gave Pisa a bridgehead for the Black Sea trade that its rivals would later exploit far more aggressively.",
+      "description_ru": "В 1111 году император Алексей I Комнин выдал хрисовул, предоставивший Пизе существенно расширенные торговые права по всей Byzantийской империи: квартал в Константинополе, склады в Фессалонике и других крупных портах, и значительное снижение таможенных пошлин. Хрисовул поставил Пизу примерно на сопоставимую коммерческую основу с Венецией и Генуей на Byzantийских рынках, завершив систему привилегий итальянских городов-государств, определявшую Byzantийскую торговлю на протяжении следующего столетия. Пизанские купцы, действовавшие из Константинопольского квартала, торговали Byzantийским шёлком, зерном и предметами роскоши.",
+      "latitude": 41.01,
+      "longitude": 28.98,
+      "source": "https://en.wikipedia.org/wiki/Alexios_I_Komnenos",
+      "tags": [
+        "Pisa",
+        "Byzantine",
+        "Trade",
+        "Treaty"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1114",
+      "era": "AD",
+      "name": "Pisan Expedition Raids Ibiza and Formentera",
+      "name_ru": "Пизанская экспедиция совершает набег на Ибису и Форментеру",
+      "description": "In 1114, a Pisan fleet — operating with Catalan and Aragonese cooperation — raided the Balearic Islands of Ibiza and Formentera, which served as a major base for Arab pirates preying on western Mediterranean shipping. The expedition successfully cleared the islands but did not result in permanent occupation; Pisan forces withdrew after extracting spoils and freeing Christian captives. The operation demonstrated Pisa's capacity to project naval power across the entire western Mediterranean and established working relationships with the Iberian Christian kingdoms that Pisa would later exploit during the Second Crusade. The islands would not come under permanent Christian control until the thirteenth century.",
+      "description_ru": "В 1114 году Пизанский флот — действуя в сотрудничестве с Каталонией и Арагоном — совершил набег на Балеарские острова Ибису и Форментеру, служившие главной базой арабских пиратов, нападавших на западносредиземноморское судоходство. Экспедиция успешно очистила острова, однако не привела к постоянной оккупации; Пизанские силы отступили, захватив добычу и освободив христианских пленников. Операция продемонстрировала способность Пизы проецировать военно-морскую мощь по всему Западному Средиземноморью и установила рабочие отношения с Иберийскими христианскими королевствами.",
+      "latitude": 38.91,
+      "longitude": 1.43,
+      "source": "https://en.wikipedia.org/wiki/Republic_of_Pisa",
+      "tags": [
+        "Pisa",
+        "Italian",
+        "Islamic",
+        "Maritime"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1115",
+      "era": "AD",
+      "name": "Pisan Fleet Captures Mallorca — Arab Stronghold Broken",
+      "name_ru": "Пизанский флот захватывает Майорку — Арабский оплот сломлен",
+      "description": "In 1115, a major Pisan expedition captured Mallorca — the largest of the Balearic Islands and the centre of the Arab pirate state of the Almoravid ruler Mujāhid's successor — holding the island for several years before withdrawing. The Mallorcan pirate fleet had been the principal threat to Tyrrhenian and Balearic shipping; its neutralisation opened the western Mediterranean to safe transit and boosted Pisan trade with Iberian and Provençal ports dramatically. The expedition was one of the largest Pisan naval operations before the crusades and established Pisa's reputation as the primary Christian naval power capable of offensive sustained campaigns in the western basin.",
+      "description_ru": "В 1115 году крупная Пизанская экспедиция захватила Майорку — крупнейший из Балеарских островов и центр арабского пиратского государства преемника Муджахида, — удерживая остров несколько лет, прежде чем отступить. Майорканский пиратский флот был главной угрозой Тирренскому и Балеарскому судоходству; его нейтрализация открыла Западное Средиземноморье для безопасного транзита и резко подстегнула Пизанскую торговлю с Иберийскими и Провансальскими портами. Экспедиция стала одной из крупнейших Пизанских морских операций накануне крестовых походов.",
+      "latitude": 39.57,
+      "longitude": 2.65,
+      "source": "https://en.wikipedia.org/wiki/Republic_of_Pisa",
+      "tags": [
+        "Pisa",
+        "Italian",
+        "Islamic",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.09.1118",
+      "era": "AD",
+      "name": "Cathedral of Pisa Consecrated — Romanesque Masterpiece Completed",
+      "name_ru": "Пизанский Собор освящён — завершён шедевр Романского зодчества",
+      "description": "On 26 September 1118, Pope Gelasius II consecrated the completed Cathedral of Pisa — the Duomo — funded by the spoils of the 1063 Palermo expedition. The building established the Pisan Romanesque as one of the defining architectural styles of medieval Europe: alternating bands of white and dark marble covering the exterior, elaborate blind arcading on the facades, tiers of open galleries on the exterior walls, and a multi-aisled interior. The style was swiftly exported: Pisan-style churches appeared across Sardinia, in Lucca, in Corsica, in Apulia, and as far as the Kingdom of Jerusalem. The campo around the cathedral — which would eventually include the Baptistery, the Leaning Tower, and the Camposanto — became the most concentrated ensemble of medieval architecture in Europe.",
+      "description_ru": "26 сентября 1118 года папа Геласий II освятил завершённый Пизанский Собор — Дуомо, — финансированный из добычи экспедиции 1063 года в Палермо. Здание утвердило Пизанский романский стиль как один из определяющих архитектурных стилей Средневековой Европы: чередующиеся полосы белого и тёмного мрамора на фасаде, изысканные глухие аркады, ярусы открытых галерей на наружных стенах и многонефное интерьерное пространство. Стиль был быстро экспортирован: Пизанские церкви появились по всей Сардинии, в Лукке, Корсике, Апулии и даже в Иерусалимском королевстве. Поле вокруг собора — включавшее в итоге Баптистерий, Падающую башню и Кампосанто, — стало самым концентрированным ансамблем Средневековой архитектуры в Европе.",
+      "latitude": 43.72,
+      "longitude": 10.39,
+      "source": "https://en.wikipedia.org/wiki/Pisa_Cathedral",
+      "tags": [
+        "Pisa",
+        "Pisan",
+        "Building 🏠",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1119",
+      "era": "AD",
+      "name": "Constitutum Usus — Pisa Codifies Maritime and Commercial Law",
+      "name_ru": "Конституто Усус — Пиза кодифицирует морское и торговое право",
+      "description": "Around 1119, Pisa compiled the Constitutum Usus — one of the earliest systematic codifications of maritime commercial law in medieval Europe. The code regulated contracts between ship owners and merchants, the liability of carriers for lost cargo, insurance customs, currency exchange, and commercial partnerships. It drew on Roman legal tradition preserved in Pisan legal culture and on the practical experience of Pisan merchants operating across the Mediterranean. The Constitutum Usus influenced commercial law codes across Italy and contributed to the later development of the Lex Mercatoria — the transnational merchant law that governed European commerce. Pisa's early systematisation of commercial law reflected a society that had organised itself entirely around long-distance maritime trade.",
+      "description_ru": "Около 1119 года Пиза составила Конституто Усус — одну из ранних систематических кодификаций морского торгового права в Средневековой Европе. Кодекс регулировал договоры между судовладельцами и купцами, ответственность перевозчиков за утраченный груз, страховые обычаи, валютный обмен и торговые товарищества. Он опирался на Римскую правовую традицию, сохранявшуюся в Пизанской правовой культуре, и на практический опыт Пизанских купцов, действовавших по всему Средиземноморью. Конституто Усус повлиял на торговые правовые кодексы по всей Италии и способствовал позднейшему развитию Lex Mercatoria — транснационального торгового права, управлявшего европейской коммерцией.",
+      "latitude": 43.72,
+      "longitude": 10.4,
+      "source": "https://en.wikipedia.org/wiki/Republic_of_Pisa",
+      "tags": [
+        "Pisa",
+        "Pisan",
+        "Trade",
+        "Law"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1135",
+      "era": "AD",
+      "name": "Pisan Fleet Defeats Roger II of Sicily at Sea",
+      "name_ru": "Пизанский флот побеждает Роджера II Сицилийского на море",
+      "description": "In 1135, a Pisan fleet engaged and defeated the forces of Roger II of Sicily in naval battle, resisting Norman expansion into the Tyrrhenian. Roger had been extending Norman maritime power northward and eastward, threatening both Pisan commercial routes and the independence of the Genoese and Pisan communes. The victory temporarily checked Norman naval expansion and demonstrated that the Italian republics could hold their own against the militarized Norman kingdom. Pisa also raided the Campanian and Calabrian coasts in retaliation for Norman interference with Pisan shipping. The conflict with Norman Sicily would alternate between warfare and commercial accommodation over the following decades.",
+      "description_ru": "В 1135 году Пизанский флот вступил в бой и разгромил силы Роджера II Сицилийского в морском сражении, противостоя Нормандской экспансии в Тирренском море. Роджер расширял Нормандскую морскую мощь на север и восток, угрожая Пизанским торговым путям и независимости Генуэзской и Пизанской коммун. Победа временно сдержала Нормандскую морскую экспансию и доказала, что итальянские республики способны противостоять милитаризованному Нормандскому королевству. Пиза также совершила набеги на Кампанское и Калабрийское побережья в отместку за Нормандское вмешательство в Пизанское судоходство.",
+      "latitude": 43.72,
+      "longitude": 10.4,
+      "source": "https://en.wikipedia.org/wiki/Roger_II_of_Sicily",
+      "tags": [
+        "Pisa",
+        "Italian",
+        "Norman",
+        "Maritime"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1147",
+      "era": "AD",
+      "name": "Pisa Joins Second Crusade — Iberian Naval Campaign",
+      "name_ru": "Пиза присоединяется ко Второму крестовому походу — Иберийская морская кампания",
+      "description": "When the Second Crusade was proclaimed in 1147, Pisa contributed a fleet to the Iberian component of the campaign — the assault on Moorish-held Lisbon and Almería in cooperation with the northern crusaders and Iberian kings. The Pisan fleet provided decisive naval siege support. In exchange, Pisa received trading rights and commercial concessions from the Iberian Christian kingdoms. The Iberian theatre of the Second Crusade was more commercially productive for Pisa than the eastern theatre: the opening of Portuguese and Castilian ports to Pisan commerce provided long-term commercial benefits, while the ill-fated eastern crusade achieved little. Pisa's flexibility in directing its military resources to wherever commercial returns were highest defined its crusade strategy.",
+      "description_ru": "Когда был провозглашён Второй крестовый поход в 1147 году, Пиза направила флот на Иберийский компонент кампании — штурм Лиссабона и Альмерии, удерживаемых Маврами, в сотрудничестве с северными крестоносцами и Иберийскими королями. Пизанский флот обеспечил решающую военно-морскую осадную поддержку. Взамен Пиза получила торговые права и коммерческие концессии от Иберийских христианских королевств. Иберийский театр Второго крестового похода был коммерчески продуктивнее для Пизы, чем Восточный: открытие Португальских и Кастильских портов для Пизанской торговли обеспечило долгосрочные коммерческие выгоды.",
+      "latitude": 38.72,
+      "longitude": -9.14,
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Lisbon",
+      "tags": [
+        "Pisa",
+        "Crusade",
+        "Maritime",
+        "Expansion"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.08.1152",
+      "era": "AD",
+      "name": "Baptistery of Pisa Construction Begins",
+      "name_ru": "Начало строительства Баптистерия Пизы",
+      "description": "In 1152, construction began on the Baptistery of Pisa — the largest baptistery in Italy — designed by the architect Diotisalvi. Standing opposite the Cathedral facade, the circular domed building completed the Campo dei Miracoli ensemble. Its lower Romanesque sections in the Pisan style — blind arcading and marble banding — were built in the twelfth century; the upper Gothic sections were added in the thirteenth and fourteenth centuries. The Baptistery is most famous for the pulpit carved by Nicola Pisano in 1260, widely considered the foundational work of Italian figurative sculpture — the piece that reintroduced classical realism into western art after seven centuries of stylized abstraction.",
+      "description_ru": "В 1152 году началось строительство Баптистерия Пизы — крупнейшего баптистерия в Италии, — спроектированного архитектором Диотисальви. Стоящее напротив фасада Собора круглое купольное здание завершило ансамбль Кампо деи Мираколи. Нижние романские секции в Пизанском стиле — глухие аркады и мраморная инкрустация — были возведены в XII веке; верхние готические секции добавлены в XIII–XIV веках. Баптистерий наиболее известен кафедрой, высеченной Никола Пизано в 1260 году, широко считающейся основополагающим произведением итальянской фигуративной скульптуры.",
+      "latitude": 43.72,
+      "longitude": 10.39,
+      "source": "https://en.wikipedia.org/wiki/Pisa_Baptistery",
+      "tags": [
+        "Pisa",
+        "Pisan",
+        "Building 🏠",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1155",
+      "era": "AD",
+      "name": "Frederick Barbarossa Confirms Pisan Imperial Privileges",
+      "name_ru": "Фридрих Барбаросса подтверждает имперские привилегии Пизы",
+      "description": "In 1155, Emperor Frederick Barbarossa confirmed and expanded Pisa's imperial trading privileges, granting the city freedom from tolls throughout the Holy Roman Empire, legal autonomy for its merchants abroad, and the right to its own consuls in imperial cities. Pisa's position as the principal Tuscan port made it strategically valuable to Barbarossa as he asserted imperial authority over northern Italy; Pisa, in turn, benefited from an imperial guarantee of its commercial rights that gave its merchants legal security throughout the empire's extensive territory. The relationship between Pisa and the Hohenstaufen emperors would remain close throughout the twelfth and thirteenth centuries, shaping Pisa's alignment in the Guelph-Ghibelline conflicts that divided Italy.",
+      "description_ru": "В 1155 году Фридрих Барбаросса подтвердил и расширил имперские торговые привилегии Пизы, предоставив городу освобождение от пошлин по всей Священной Римской империи, правовую автономию для купцов за рубежом и право собственных консулов в имперских городах. Положение Пизы как главного Тосканского порта делало её стратегически ценной для Барбароссы, утверждавшего имперскую власть над Северной Италией; Пиза, в свою очередь, выигрывала от имперской гарантии своих торговых прав, обеспечивавшей правовую безопасность её купцам на всей обширной территории империи.",
+      "latitude": 43.72,
+      "longitude": 10.4,
+      "source": "https://en.wikipedia.org/wiki/Republic_of_Pisa",
+      "tags": [
+        "Pisa",
+        "Italian",
+        "Trade",
+        "Diplomacy"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.08.1173",
+      "era": "AD",
+      "name": "Leaning Tower of Pisa Construction Begins",
+      "name_ru": "Начало строительства Пизанской Падающей башни",
+      "description": "Construction of the campanile — bell tower — of the Cathedral of Pisa began in August 1173, designed as a freestanding marble tower of extraordinary elegance, with six tiers of open arcaded galleries in the Pisan Romanesque style. Construction halted after the third storey in the 1170s — the soft alluvial subsoil of the Campo dei Miracoli caused the foundation to tilt as the weight accumulated. The lean grew progressively with each subsequent phase of construction: when building resumed in the 1270s, workers attempted to compensate by building the upper stories at an angle. By the twentieth century the lean had reached nearly four degrees, making the tower simultaneously one of the most famous architectural failures and most recognisable monuments in the world.",
+      "description_ru": "Строительство кампаниле — колокольни — Пизанского Собора началось в августе 1173 года. Оно задумывалось как отдельностоящая мраморная башня исключительной изысканности с шестью ярусами открытых аркадных галерей в Пизанском романском стиле. Строительство прервалось после третьего яруса в 1170-х годах — мягкий аллювиальный грунт Кампо деи Мираколи вызвал наклон фундамента по мере накопления нагрузки. Наклон прогрессировал с каждым последующим этапом строительства: когда оно возобновилось в 1270-х годах, рабочие пытались компенсировать его, возводя верхние ярусы под углом. К XX веку наклон достиг почти четырёх градусов, сделав башню одновременно одним из самых известных архитектурных курьёзов и узнаваемых памятников в мире.",
+      "latitude": 43.72,
+      "longitude": 10.39,
+      "source": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa",
+      "tags": [
+        "Pisa",
+        "Pisan",
+        "Building 🏠",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1190",
+      "era": "AD",
+      "name": "Pisan Fleet Contributes to Third Crusade",
+      "name_ru": "Пизанский флот участвует в Третьем крестовом походе",
+      "description": "In 1190–1191, a Pisan fleet joined the Third Crusade, contributing ships and naval support to the siege of Acre under Richard I of England. The Pisans — like the Genoese — competed for commercial privileges with the crusade leaders. Richard I confirmed Pisan trading rights throughout the crusader states, including one-third of Acre. Pisa's crusading participation was characteristic: moderate military investment for maximum commercial return, always careful to extract formal legal concessions before committing fully. The Third Crusade was the last major crusade in which Pisa played a significant role — the disaster of Meloria in 1284 would permanently cripple Pisa's capacity for sustained naval projection.",
+      "description_ru": "В 1190–1191 годах Пизанский флот присоединился к Третьему крестовому походу, обеспечив суда и военно-морскую поддержку осады Акры под командованием Ричарда I Английского. Пизанцы — как и Генуэзцы — соперничали за торговые привилегии с предводителями крестового похода. Ричард I подтвердил Пизанские торговые права по всем государствам крестоносцев, включая треть Акры. Участие Пизы в крестовых походах было характерным: умеренные военные инвестиции ради максимальной коммерческой отдачи, с неизменным получением формальных правовых концессий прежде чем полностью брать обязательства. Третий крестовый поход стал последним крупным крестовым походом, в котором Пиза сыграла значительную роль.",
+      "latitude": 32.93,
+      "longitude": 35.07,
+      "source": "https://en.wikipedia.org/wiki/Third_Crusade",
+      "tags": [
+        "Pisa",
+        "Crusade",
+        "Maritime",
+        "Trade"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1202",
+      "era": "AD",
+      "name": "Fibonacci Publishes Liber Abaci — Arabic Numerals Introduced to Europe",
+      "name_ru": "Фибоначчи публикует Liber Abaci — Арабские цифры введены в Европе",
+      "description": "In 1202, Leonardo of Pisa — known as Fibonacci — published Liber Abaci, introducing the Hindu-Arabic numeral system to European mathematics and commerce. Fibonacci had grown up in the Pisan trading colony of Bugia in North Africa, where he learned Arabic mathematical methods from local scholars. Liber Abaci demonstrated the superiority of the positional decimal system over Roman numerals for calculation, presented the algorithms for arithmetic operations, and included practical applications for merchants: currency exchange, profit calculation, and interest computation. The book transformed European mathematics and commerce — Roman numerals became obsolete for calculation within a generation. Fibonacci's sequence, introduced in the same work, remains one of the most studied mathematical patterns in history.",
+      "description_ru": "В 1202 году Леонардо Пизанский — известный как Фибоначчи — опубликовал Liber Abaci, введя Индо-Арабскую систему счисления в Европейскую математику и коммерцию. Фибоначчи вырос в Пизанской торговой колонии Бужи в Северной Африке, где изучил арабские математические методы у местных учёных. Liber Abaci продемонстрировал превосходство позиционной десятичной системы над Римскими цифрами для вычислений, представил алгоритмы арифметических операций и включил практические применения для купцов: обмен валют, расчёт прибыли и вычисление процентов. Книга преобразила Европейскую математику и торговлю — Римские цифры устарели для вычислений в течение одного поколения.",
+      "latitude": 43.72,
+      "longitude": 10.4,
+      "source": "https://en.wikipedia.org/wiki/Liber_Abaci",
+      "tags": [
+        "Pisa",
+        "Pisan",
+        "Culture",
+        "Trade"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1204",
+      "era": "AD",
+      "name": "Fourth Crusade — Pisa Receives Trading Rights in Latin Constantinople",
+      "name_ru": "Четвёртый крестовый поход — Пиза получает торговые права в латинском Константинополе",
+      "description": "After the Fourth Crusade established the Latin Empire of Constantinople in 1204, Pisa — which had played no direct role in the campaign — nonetheless negotiated trading privileges in the new Latin-controlled Constantinople and the Aegean island territories. Venice received the dominant commercial position, but Pisa secured enough access to maintain a presence in the eastern trade. The Latin Empire period was commercially significant for Pisa: without the Genoese competitor, and with Venice pre-eminent, Pisa could operate in the second tier of eastern Mediterranean commerce without the existential naval rivalries that had previously drained its resources.",
+      "description_ru": "После учреждения Четвёртым крестовым походом Латинской Константинопольской империи в 1204 году Пиза — не принявшая прямого участия в кампании — тем не менее договорилась о торговых привилегиях в новом Латинском Константинополе и Эгейских островных территориях. Венеция заняла доминирующее коммерческое положение, однако Пиза обеспечила достаточный доступ для поддержания присутствия в восточной торговле. Период Латинской империи был коммерчески значим для Пизы: без Генуэзского конкурента и при главенстве Венеции Пиза могла действовать на втором уровне Восточносредиземноморской торговли без экзистенциальных морских соперничеств.",
+      "latitude": 41.01,
+      "longitude": 28.98,
+      "source": "https://en.wikipedia.org/wiki/Latin_Empire",
+      "tags": [
+        "Pisa",
+        "Byzantine",
+        "Trade",
+        "Crusade"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1228",
+      "era": "AD",
+      "name": "Pisan Breve Constitutum — Republican Civic Constitution Established",
+      "name_ru": "Пизанский Бреве Конституто — установлена республиканская гражданская конституция",
+      "description": "Around 1228, Pisa codified its civic constitution — the Breve Constitutum — establishing formal rules for the election of the Podestà and governing councils, the administration of justice, and the rights and obligations of Pisan citizens. The constitution reflected the mature communal governance that Pisa had developed over the previous century: annual rotating magistrates, councils representing the merchant and artisan guilds, and explicit procedures for managing the republic's commercial affairs. Pisa's constitutional development was closely tied to its commercial identity — the city's laws were designed above all to protect and facilitate trade, including detailed provisions on debt, contract enforcement, and merchant partnerships.",
+      "description_ru": "Около 1228 года Пиза кодифицировала свою гражданскую конституцию — Бреве Конституто, — устанавливавшую формальные правила выборов Подесты и правящих советов, отправления правосудия, прав и обязанностей Пизанских граждан. Конституция отражала зрелое коммунальное управление, выработанное Пизой на протяжении предыдущего столетия: ежегодные ротируемые магистраты, советы, представляющие торговые и ремесленные гильдии, и явные процедуры управления коммерческими делами республики. Конституционное развитие Пизы было тесно связано с её коммерческой идентичностью — законы города были рассчитаны прежде всего на защиту и содействие торговле.",
+      "latitude": 43.72,
+      "longitude": 10.4,
+      "source": "https://en.wikipedia.org/wiki/Republic_of_Pisa",
+      "tags": [
+        "Pisa",
+        "Italian",
+        "Reform",
+        "Law"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "03.05.1241",
+      "era": "AD",
+      "name": "Battle of Giglio — Pisa Captures the Pope's Cardinals",
+      "name_ru": "Битва при Джильо — Пиза захватывает папских кардиналов",
+      "description": "On 3 May 1241, a Pisan fleet ambushed and destroyed a Genoese fleet transporting cardinals and prelates to Rome for a papal council summoned by Pope Gregory IX. The Genoese ships were carrying over a hundred senior churchmen — the attack put most of the College of Cardinals in Pisan captivity. Emperor Frederick II, an ally of Pisa and bitter opponent of the papacy, was behind the operation. The cardinals were held for months; Gregory IX died before they were released. The episode illustrated Pisa's deep entanglement with Hohenstaufen imperial politics and its willingness to directly confront the papacy — a posture that aligned it with the Ghibelline faction and would complicate its position in the coming decades.",
+      "description_ru": "3 мая 1241 года Пизанский флот устроил засаду и уничтожил Генуэзский флот, перевозивший кардиналов и прелатов в Рим для папского собора, созванного папой Григорием IX. Генуэзские суда несли более ста высших церковников — нападение взяло в Пизанский плен большую часть Коллегии кардиналов. Стоявший за операцией император Фридрих II был союзником Пизы и непримиримым противником папства. Кардиналы удерживались несколько месяцев; Григорий IX умер прежде, чем они были освобождены. Эпизод проиллюстрировал глубокую вовлечённость Пизы в Гогенштауфенскую имперскую политику.",
+      "latitude": 42.36,
+      "longitude": 10.91,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Giglio",
+      "tags": [
+        "Pisa",
+        "Italian",
+        "Religious",
+        "Maritime"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1255",
+      "era": "AD",
+      "name": "Pisa at Commercial Peak — Levant to England Trade Network",
+      "name_ru": "Пиза на торговом пике — торговая сеть от Леванта до Англии",
+      "description": "By the mid-thirteenth century, Pisa had reached the peak of its commercial power. Pisan merchant houses maintained colonies and trading posts from Acre and Tunis in the east and south to Barcelona, Montpellier, and the fairs of Champagne in the west and north; a direct Pisan galley route to England was established in the 1250s. Pisan merchants traded in eastern spices and silks, Sardinian silver and grain, Tuscan cloth, and English wool. The Arno valley behind Pisa produced fine wool textiles that Pisan merchants distributed across the Mediterranean. Pisa's geographic position — the premier port of Tuscany with river access to the wealthy inland cities of Florence, Lucca, and Siena — made it the commercial gateway to the most economically dynamic region of medieval Europe.",
+      "description_ru": "К середине XIII века Пиза достигла пика своей коммерческой мощи. Пизанские торговые дома содержали колонии и торговые посты от Акры и Туниса на востоке и юге до Барселоны, Монпелье и Шампанских ярмарок на западе и севере; в 1250-х годах был установлен прямой Пизанский галерный маршрут в Англию. Пизанские купцы торговали восточными пряностями и шёлком, Сардинским серебром и зерном, Тосканскими тканями и Английской шерстью. Долина Арно за Пизой производила тонкие шерстяные ткани, которые Пизанские купцы распространяли по всему Средиземноморью.",
+      "latitude": 43.72,
+      "longitude": 10.4,
+      "source": "https://en.wikipedia.org/wiki/Republic_of_Pisa",
+      "tags": [
+        "Pisa",
+        "Italian",
+        "Trade",
+        "Expansion"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1260",
+      "era": "AD",
+      "name": "Nicola Pisano Completes the Baptistery Pulpit — Birth of Italian Sculpture",
+      "name_ru": "Никола Пизано завершает кафедру Баптистерия — рождение итальянской скульптуры",
+      "description": "In 1260, Nicola Pisano completed the marble pulpit of the Pisa Baptistery — the work widely regarded as the foundational monument of Italian figurative sculpture. Drawing on classical Roman sarcophagi that Pisa had collected and which lined the Cathedral cemetery, Nicola re-introduced naturalistic human figures, classical drapery, and spatial depth into western sculpture after seven centuries in which the dominant tradition had been flat, stylized Byzantine forms. The pulpit's panels depicting the Nativity, Adoration, Crucifixion, and Last Judgement showed bodies with weight, faces with emotion, and compositions with spatial recession. Nicola's approach directly influenced his son Giovanni Pisano and, through him, Giovanni's pupil tradition that led to Donatello and Michelangelo.",
+      "description_ru": "В 1260 году Никола Пизано завершил мраморную кафедру Пизанского Баптистерия — произведение, широко считающееся основополагающим памятником итальянской фигуративной скульптуры. Опираясь на классические Римские саркофаги, собранные Пизой и располагавшиеся в соборном кладбище, Никола вернул в западную скульптуру натуралистические человеческие фигуры, классические драпировки и пространственную глубину спустя семь столетий господства плоских, стилизованных Byzantийских форм. Панели кафедры с изображениями Рождества, Поклонения волхвов, Распятия и Страшного суда демонстрировали тела с весом, лица с эмоциями. Подход Никола непосредственно повлиял на его сына Джованни Пизано и через него — на традицию, приведшую к Донателло и Микеланджело.",
+      "latitude": 43.72,
+      "longitude": 10.39,
+      "source": "https://en.wikipedia.org/wiki/Nicola_Pisano",
+      "tags": [
+        "Pisa",
+        "Pisan",
+        "Culture",
+        "Building 🏠"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1270",
+      "era": "AD",
+      "name": "Paper Mill Established in Pisa — One of the First in Europe",
+      "name_ru": "В Пизе основана бумажная мельница — одна из первых в Европе",
+      "description": "Around 1270, one of the earliest paper mills in Europe was established in or near Pisa, introducing industrial paper production to northern Italy. The technology — originating in China, transmitted through the Islamic world, and entering Europe through Arab Spain and Sicily — was adopted in Pisa partly because of the city's extensive commercial contacts with the Islamic Mediterranean. Paper was far cheaper than parchment and far more suitable for the volume of commercial documentation that Pisan merchants required: contracts, letters of credit, shipping manifests, account books. The Pisan adoption of paper contributed to the commercial revolution of the late medieval period — the explosion in written commercial record-keeping that underpinned the growth of European merchant capitalism.",
+      "description_ru": "Около 1270 года одна из первых бумажных мельниц в Европе была основана в Пизе или вблизи неё, введя промышленное производство бумаги в Северную Италию. Технология — возникшая в Китае, переданная через Исламский мир и вошедшая в Европу через Арабскую Испанию и Сицилию — была принята в Пизе отчасти благодаря обширным коммерческим контактам города с Исламским Средиземноморьем. Бумага была намного дешевле пергамента и куда более пригодна для объёма коммерческой документации, требуемой Пизанским купцам: контракты, аккредитивы, корабельные манифесты, бухгалтерские книги.",
+      "latitude": 43.72,
+      "longitude": 10.4,
+      "source": "https://en.wikipedia.org/wiki/History_of_paper",
+      "tags": [
+        "Pisa",
+        "Italian",
+        "Trade",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1278",
+      "era": "AD",
+      "name": "Camposanto Monumentale Construction Begins",
+      "name_ru": "Начало строительства Кампосанто Монументале",
+      "description": "In 1278, construction began on the Camposanto Monumentale — the monumental cemetery — completing the four-building ensemble of the Campo dei Miracoli. The Camposanto was built around soil allegedly brought from Calvary in Jerusalem aboard Pisan ships, making it the holiest burial ground in Christendom outside the Holy Land itself. Its long rectangular form enclosed a garden courtyard with Gothic arcades; the interior walls were decorated with frescoes by Buonamico Buffalmacco and Francesco Traini, including the famous Triumph of Death. The Camposanto became one of the most visited pilgrimage sites in Italy. The ensemble of Cathedral, Baptistery, Tower, and Camposanto on the Campo dei Miracoli remains the most concentrated masterpiece of Pisan genius.",
+      "description_ru": "В 1278 году началось строительство Кампосанто Монументале — монументального кладбища, — завершившего ансамбль четырёх зданий Кампо деи Мираколи. Кампосанто было возведено вокруг земли, якобы привезённой с Голгофы в Иерусалиме на Пизанских судах, делая его наиболее священным местом погребения в христианском мире за пределами самой Святой земли. Его длинная прямоугольная форма охватывала садовый двор с готическими аркадами; внутренние стены были украшены фресками Буонамико Буффальмакко и Франческо Траини, включая знаменитый «Триумф смерти». Кампосанто стало одним из наиболее посещаемых паломнических мест Италии.",
+      "latitude": 43.72,
+      "longitude": 10.39,
+      "source": "https://en.wikipedia.org/wiki/Camposanto_Monumentale",
+      "tags": [
+        "Pisa",
+        "Pisan",
+        "Building 🏠",
+        "Religious"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "06.08.1284",
+      "era": "AD",
+      "name": "Defeat at Meloria — Pisa Loses 11,000 Men and Never Recovers",
+      "name_ru": "Поражение при Мелории — Пиза теряет 11 000 человек и не оправляется",
+      "description": "On 6 August 1284, the Genoese fleet annihilated the Pisan navy at the Battle of Meloria. Approximately 5,000 Pisans were killed and nearly 9,000 captured — an estimated one in three adult men in the city. The prisoners were held in Genoese jails for years; a Pisan saying arose that those who wished to see Pisa should go to Genoa. The battle destroyed Pisa's naval capacity at a stroke: the city could not replace its fleet, its trained sailors, or its commercial infrastructure at the scale required to compete with Genoa or Venice. Sardinia — Pisa's primary source of commercial wealth — became contested and eventually passed to Aragon. Meloria did not end Pisa immediately, but it ended Pisa as a major Mediterranean power.",
+      "description_ru": "6 августа 1284 года Генуэзский флот уничтожил Пизанский военно-морской флот в битве при Мелории. Около 5000 пизанцев были убиты и почти 9000 захвачены в плен — приблизительно каждый третий взрослый мужчина в городе. Пленников содержали в Генуэзских тюрьмах годами; появилась Пизанская поговорка, что кто хочет видеть Пизу, должен ехать в Геную. Битва одним ударом уничтожила военно-морской потенциал Пизы: город не мог восстановить флот, обученных моряков или коммерческую инфраструктуру в масштабе, необходимом для соперничества с Генуей или Венецией. Сардиния — главный источник коммерческого богатства Пизы — стала спорной и в итоге перешла к Арагону.",
+      "latitude": 43.54,
+      "longitude": 10.06,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Meloria",
+      "tags": [
+        "Pisa",
+        "Italian",
+        "Seamen",
+        "Crisis"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1296",
+      "era": "AD",
+      "name": "Pisa Loses Sardinian Hegemony to Aragon and Genoa",
+      "name_ru": "Пиза теряет Сардинское господство в пользу Арагона и Генуи",
+      "description": "After the catastrophe of Meloria, Pisa's grip on Sardinia — the economic foundation of its prosperity — rapidly weakened. Aragon, which had received Sardinia as a papal fief in 1295, began organising its conquest; Genoese commercial interests expanded to fill the vacuum left by Pisan naval collapse. By the end of the thirteenth century, Pisa was no longer the dominant external power in Sardinia. The formal Aragonese conquest of the island was completed in stages through the early fourteenth century, definitively ending Pisan dominance. The loss of Sardinia deprived Pisa of its grain supply, silver revenue, and colonial commercial network — the combined blow with Meloria condemned the republic to irreversible decline.",
+      "description_ru": "После катастрофы Мелории хватка Пизы над Сардинией — экономической основой её процветания — стремительно ослабла. Арагон, получивший Сардинию как папский лен в 1295 году, начал организовывать её завоевание; Генуэзские коммерческие интересы расширились, заполняя вакуум, оставленный крахом Пизанского военно-морского флота. К концу XIII века Пиза уже не была доминирующей внешней силой на Сардинии. Формальное Арагонское завоевание острова завершилось поэтапно в начале XIV века, окончательно прекратив Пизанское господство. Утрата Сардинии лишила Пизу зернового снабжения, серебряных доходов и колониальной коммерческой сети.",
+      "latitude": 40.12,
+      "longitude": 9.07,
+      "source": "https://en.wikipedia.org/wiki/Republic_of_Pisa",
+      "tags": [
+        "Pisa",
+        "Italian",
+        "Crisis",
+        "Conquest"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1312",
+      "era": "AD",
+      "name": "Emperor Henry VII Visits Pisa — Last Imperial Support",
+      "name_ru": "Император Генрих VII посещает Пизу — последняя имперская поддержка",
+      "description": "In 1312, Emperor Henry VII of Luxembourg visited Pisa during his Italian campaign, using the city as his principal base in Tuscany. Pisa's long-standing Ghibelline loyalty to the Hohenstaufen emperors made it the natural centre of imperial authority in Italy; Henry VII was received with extraordinary ceremony. Dante Alighieri, who had been exiled from Florence and pinned his hopes for Italy's salvation on Henry's campaign, dedicated works to the emperor during this period. Henry VII's sudden death in Siena in 1313 ended the final realistic prospect of imperial restoration in Italy and removed the last external power that might have protected Pisa from its increasingly aggressive Florentine and Genoese neighbours.",
+      "description_ru": "В 1312 году Генрих VII Люксембургский посетил Пизу в ходе Итальянской кампании, используя город как главную базу в Тоскане. Давняя Гибеллинская лояльность Пизы Гогенштауфенским императорам сделала её естественным центром имперской власти в Италии; Генрих VII был принят с исключительной торжественностью. Данте Алигьери, высланный из Флоренции и возлагавший надежды на спасение Италии в кампании Генриха, посвящал произведения императору в этот период. Внезапная смерть Генриха VII в Сиене в 1313 году прекратила последнюю реалистичную перспективу имперского восстановления в Италии.",
+      "latitude": 43.72,
+      "longitude": 10.4,
+      "source": "https://en.wikipedia.org/wiki/Henry_VII_Holy_Roman_Emperor",
+      "tags": [
+        "Pisa",
+        "Italian",
+        "Alliance",
+        "Diplomacy"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1348",
+      "era": "AD",
+      "name": "Black Death Devastates Pisa",
+      "name_ru": "Чёрная смерть опустошает Пизу",
+      "description": "The Black Death arrived in Pisa in early 1348 — among the first Italian cities to be struck, given its role as a major port with connections to the Sicilian and Genoese ships that had brought the plague from Caffa. Contemporary accounts record the total breakdown of civic order: bodies lay in the streets, trade collapsed, and the port fell silent. Pisa lost an estimated half its population in the epidemic. The demographic catastrophe compounded the economic losses from Meloria and the Sardinian collapse: Pisa in 1350 was a fraction of the city it had been in 1240. The Camposanto frescoes — including the Triumph of Death commissioned in the aftermath — document the psychological impact of the plague on Pisan society with extraordinary immediacy.",
+      "description_ru": "Чёрная смерть прибыла в Пизу в начале 1348 года — в числе первых поражённых итальянских городов, учитывая её роль крупного порта со связями с Сицилийскими и Генуэзскими судами, принёсшими чуму из Каффы. Современные свидетельства фиксируют полный распад гражданского порядка: тела лежали на улицах, торговля рухнула, порт замолчал. По оценкам, Пиза потеряла в эпидемии половину населения. Демографическая катастрофа усугубила экономические потери от Мелории и Сардинского краха: Пиза 1350 года была ничтожной долей города, каким она была в 1240 году. Фрески Кампосанто — включая «Триумф смерти», заказанный вскоре после эпидемии, — документируют психологическое воздействие чумы на Пизанское общество.",
+      "latitude": 43.72,
+      "longitude": 10.4,
+      "source": "https://en.wikipedia.org/wiki/Black_Death_in_Italy",
+      "tags": [
+        "Pisa",
+        "Italian",
+        "Plague",
+        "Crisis"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1355",
+      "era": "AD",
+      "name": "Pisan Political Crisis — Gambacorti Faction Takes Control",
+      "name_ru": "Пизанский политический кризис — клан Гамбакорти берёт контроль",
+      "description": "In 1355, a political crisis in Pisa resulted in the assassination of Doge Giovanni dell'Agnello and the rise of the Gambacorti family as the dominant faction in the city's politics. Pisa's internal politics had become increasingly turbulent as economic decline intensified factional competition. The Gambacorti ruled Pisa for the following decades as a signoria — a personal lordship replacing the republican commune — reflecting the broader Italian pattern in which economic crisis and factional warfare destroyed the communal republican institutions that had flourished in the twelfth and thirteenth centuries. The signorial period of Pisan history was one of managed decline: maintaining the city's cultural life while its commercial and maritime power steadily contracted.",
+      "description_ru": "В 1355 году политический кризис в Пизе повлёк убийство дожа Джованни дель Аньелло и возвышение семьи Гамбакорти как доминирующей фракции в городской политике. Внутренняя политика Пизы становилась всё более бурной по мере того, как экономический упадок усиливал фракционную конкуренцию. Гамбакорти правили Пизой в последующие десятилетия как синьорией — личным господством, заменившим республиканскую коммуну, — отражая общеитальянскую закономерность, при которой экономический кризис и фракционная борьба разрушали коммунальные республиканские институты, процветавшие в XII–XIII веках.",
+      "latitude": 43.72,
+      "longitude": 10.4,
+      "source": "https://en.wikipedia.org/wiki/Republic_of_Pisa",
+      "tags": [
+        "Pisa",
+        "Italian",
+        "Crisis",
+        "Reform"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1399",
+      "era": "AD",
+      "name": "Pisa Sold to Gian Galeazzo Visconti of Milan",
+      "name_ru": "Пиза продана Джан Галеаццо Висконти Миланскому",
+      "description": "In 1399, the Gambacorti signory of Pisa — unable to defend the city against Florentine pressure — sold Pisa to Gian Galeazzo Visconti, Duke of Milan, for 200,000 florins. The transaction reduced a city that had once been one of the great maritime republics of the Mediterranean to a commodity in the power politics of the Italian territorial states. Visconti saw Pisa primarily as a strategic port that would give Milan access to the sea and a counterweight to Florentine commercial dominance. The sale was bitterly resented by the Pisan population; when Gian Galeazzo died suddenly in 1402, Pisa briefly reasserted its independence before falling permanently to Florence four years later.",
+      "description_ru": "В 1399 году синьория Гамбакорти в Пизе — не способная защитить город от Флорентийского давления — продала Пизу Джан Галеаццо Висконти, герцогу Миланскому, за 200 000 флоринов. Сделка свела город, некогда бывший одной из великих морских республик Средиземноморья, до товара в политике силы итальянских территориальных государств. Висконти рассматривал Пизу прежде всего как стратегический порт, который даст Милану выход к морю и противовес Флорентийскому коммерческому господству. Продажа была с горечью воспринята Пизанским населением; когда Джан Галеаццо внезапно умер в 1402 году, Пиза ненадолго восстановила независимость.",
+      "latitude": 43.72,
+      "longitude": 10.4,
+      "source": "https://en.wikipedia.org/wiki/Gian_Galeazzo_Visconti",
+      "tags": [
+        "Pisa",
+        "Italian",
+        "Crisis",
+        "Trade"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "09.10.1406",
+      "era": "AD",
+      "name": "Florence Conquers Pisa — End of the Pisan Republic",
+      "name_ru": "Флоренция завоёвывает Пизу — конец Пизанской республики",
+      "description": "On 9 October 1406, Florentine forces captured Pisa after a prolonged siege and blockade of the Arno that starved the city into submission. The Pisan population had fought with desperate determination — the city's long rivalry with Florence was one of the most bitter in medieval Italy — but without effective naval capacity or external allies, resistance was ultimately futile. Florence had wanted Pisa specifically for its port access to the sea. The fall of Pisa ended over three centuries of Pisan republican existence. Florence retained Pisa until 1494, when a French invasion triggered a rebellion; the Florentines reconquered the city definitively in 1509. Pisa's university — founded in 1343 — survived the conquest and became one of the great scientific institutions of the Renaissance.",
+      "description_ru": "9 октября 1406 года Флорентийские силы захватили Пизу после затяжной осады и блокады Арно, голодом принудившей город к капитуляции. Пизанское население сражалось с отчаянной решимостью — давнее соперничество города с Флоренцией было одним из наиболее ожесточённых в Средневековой Италии, — однако без эффективного военно-морского потенциала и внешних союзников сопротивление было в конечном счёте тщетным. Флоренции нужна была Пиза именно ради портового доступа к морю. Падение Пизы завершило более трёх столетий Пизанского республиканского существования. Пизанский университет — основанный в 1343 году — пережил завоевание и стал одним из великих научных институтов Ренессанса.",
+      "latitude": 43.72,
+      "longitude": 10.4,
+      "source": "https://en.wikipedia.org/wiki/Republic_of_Pisa",
+      "tags": [
+        "Pisa",
+        "Italian",
+        "Crisis",
+        "War"
+      ],
+      "type": "political"
+    }
+  ]
+}
