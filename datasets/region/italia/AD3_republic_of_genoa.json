@@ -1,0 +1,671 @@
+{
+  "description": "Dataset covering the Republic of Genoa from its emergence as a commune through its Black Sea colonial empire — 42 events spanning 934–1407 AD, tracing naval rivalry, colonial expansion, financial innovation, and Genoa's pivotal role in medieval Mediterranean trade.",
+  "events": [
+    {
+      "date": "01.01.0934",
+      "era": "AD",
+      "name": "Arab Fleet Sacks Genoa",
+      "name_ru": "Арабский флот разграбляет Геную",
+      "description": "In 934, an Arab fleet from the Fatimid Caliphate raided and sacked Genoa, carrying off much of its population as slaves. The attack was part of a broader Arab naval offensive that had made the western Mediterranean a dangerous zone for Christian shipping since the eighth century. Arab raiders had established bases in southern France (Fraxinetum) and raided as far inland as the Alps. The sack of Genoa exposed the weakness of the coastal city without a coherent naval defence and created the urgent need for organised maritime self-protection that would, over the following century, forge Genoa's identity as a naval power.",
+      "description_ru": "В 934 году арабский флот из Фатимидского халифата совершил набег и разграбил Геную, уведя большую часть её населения в рабство. Нападение было частью масштабного арабского морского наступления, превратившего Западное Средиземноморье в опасную зону для христианского судоходства с VIII века. Арабские налётчики основали базы на юге Франции (Фраксинет) и совершали набеги далеко вглубь Альп. Разграбление Генуи обнажило слабость приморского города без организованной морской обороны и создало насущную потребность в самозащите, которая на протяжении следующего столетия выковала облик Генуи как морской державы.",
+      "latitude": 44.41,
+      "longitude": 8.93,
+      "source": "https://en.wikipedia.org/wiki/Republic_of_Genoa",
+      "tags": [
+        "Genoa",
+        "Italian",
+        "Islamic",
+        "Crisis"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0958",
+      "era": "AD",
+      "name": "Genoese and Pisan Fleet Defeats Arabs off Sardinia",
+      "name_ru": "Флот Генуи и Пизы разбивает арабов у Сардинии",
+      "description": "Around 958, a combined Genoese and Pisan fleet defeated an Arab naval force off the coast of Sardinia, ending a period of Arab domination of the western Mediterranean sea lanes. The victory was part of a broader Christian naval recovery across the Mediterranean that included the Byzantine reconquest of Crete in 961. For Genoa, the battle marked the beginning of its emergence as a naval power capable of offensive operations beyond its own coastline. The alliance with Pisa — which would later become a bitter rivalry — was forged in the common necessity of clearing Arab pirates from Ligurian and Tyrrhenian waters.",
+      "description_ru": "Около 958 года объединённый флот Генуи и Пизы разгромил арабские военно-морские силы у побережья Сардинии, положив конец периоду арабского господства на западносредиземноморских морских путях. Победа стала частью масштабного христианского морского возрождения по всему Средиземноморью, включавшего Byzantийское отвоевание Крита в 961 году. Для Генуи битва ознаменовала начало превращения в морскую державу, способную вести наступательные операции за пределами собственного побережья. Союз с Пизой — впоследствии ставший горьким соперничеством — был скреплён общей необходимостью очистить Лигурийские и Тирренские воды от арабских пиратов.",
+      "latitude": 40.12,
+      "longitude": 9.07,
+      "source": "https://en.wikipedia.org/wiki/Republic_of_Genoa",
+      "tags": [
+        "Genoa",
+        "Italian",
+        "Islamic",
+        "Seamen"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "14.07.1097",
+      "era": "AD",
+      "name": "Genoese Fleet Joins the First Crusade at Antioch",
+      "name_ru": "Генуэзский флот примыкает к Первому крестовому походу у Антиохии",
+      "description": "In July 1097, a Genoese fleet of twelve galleys and one sailing ship commanded by Guglielmo Embriaco arrived off Antioch to support the crusading army besieging the city. The Genoese dismantled their ships to use the timber for siege engines — including the pivotal trebuchets that broke the walls of Antioch and later Jerusalem. In exchange for this material contribution, the Genoese secured from the crusade leaders the right to a church, a market, and a court in every city their help assisted in taking. The commercial logic was identical to Venice's: military service exchanged for permanent commercial enclaves.",
+      "description_ru": "В июле 1097 года генуэзский флот из двенадцати галер и одного парусного корабля под командованием Гульельмо Эмбриако прибыл к Антиохии на поддержку крестоносного войска, осаждавшего город. Генуэзцы разобрали свои суда ради использования древесины в осадных машинах — в том числе в тех ключевых требюше, которые пробили стены Антиохии, а впоследствии и Иерусалима. В обмен на этот материальный вклад генуэзцы добились от предводителей крестового похода права на церковь, рынок и суд в каждом городе, который им помогли взять. Торговая логика была идентична Венецианской: военная служба в обмен на постоянные торговые анклавы.",
+      "latitude": 36.2,
+      "longitude": 36.16,
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Antioch",
+      "tags": [
+        "Genoa",
+        "Crusade",
+        "Maritime",
+        "Seamen"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "15.07.1099",
+      "era": "AD",
+      "name": "Commune of Genoa Constituted — First Consuls Recorded",
+      "name_ru": "Конституирована Коммуна Генуи — первые консулы зафиксированы",
+      "description": "Around 1099, Genoa established its commune with elected consuls — the earliest recorded reference to Genoese consuls dates to this period. Unlike the Venetian doge, the Genoese consuls were annual magistrates elected from the noble families, serving in rotating panels and replacing one another frequently. The system reflected the fractious nature of Genoese politics: the city was divided between competing noble clans — the Grimaldi, Doria, Spinola, and Fieschi — whose rivalries made stable one-man rule impossible. The commune was a pragmatic instrument of collective self-governance that concentrated military and commercial decisions in a council of rival aristocrats.",
+      "description_ru": "Около 1099 года Генуя учредила коммуну с выборными консулами — ранние документальные свидетельства о генуэзских консулах относятся к этому периоду. В отличие от Венецианского дожа, генуэзские консулы были ежегодными магистратами, избиравшимися из благородных семей и сменявшими друг друга в ротируемых коллегиях. Система отражала раздробленный характер генуэзской политики: город был разделён между соперничавшими благородными кланами — Гримальди, Дориа, Спинола и Фиески, — чьи распри делали стабильное единоличное правление невозможным. Коммуна была прагматичным инструментом коллективного самоуправления, концентрировавшим военные и коммерческие решения в совете соперничающих аристократов.",
+      "latitude": 44.41,
+      "longitude": 8.93,
+      "source": "https://en.wikipedia.org/wiki/Republic_of_Genoa",
+      "tags": [
+        "Genoa",
+        "Italian",
+        "Foundation",
+        "Reform"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1100",
+      "era": "AD",
+      "name": "Genoese Quarter Established in Jerusalem",
+      "name_ru": "Генуэзский квартал основан в Иерусалиме",
+      "description": "Following the crusader capture of Jerusalem in 1099, Genoa received a trading quarter in Jerusalem with a church, a market, and legal exemptions, in recognition of the timber and engineering support provided during the siege. The grant was confirmed by Godfrey of Bouillon and his successors. The Genoese quarter in Jerusalem was the first of dozens of extraterritorial commercial colonies that Genoa would plant across the Mediterranean and Black Sea over the next three centuries. Unlike Venice, which negotiated comprehensive privileges from a position of naval strength, Genoa in 1100 was a junior partner — yet its consistent pattern of exchanging military service for commercial rights was already established.",
+      "description_ru": "После захвата Иерусалима крестоносцами в 1099 году Генуя получила торговый квартал в Иерусалиме с церковью, рынком и правовыми освобождениями в признание технической и материальной помощи, оказанной при осаде. Дар был подтверждён Готфридом Бульонским и его преемниками. Генуэзский квартал в Иерусалиме стал первым из десятков экстерриториальных торговых колоний, которые Генуя насадит по всему Средиземноморью и Чёрному морю на протяжении следующих трёх столетий. В отличие от Венеции, договаривавшейся о всеобъемлющих привилегиях с позиции морской силы, Генуя в 1100 году была младшим партнёром — однако последовательная практика обмена военной службы на коммерческие права уже сложилась.",
+      "latitude": 31.78,
+      "longitude": 35.22,
+      "source": "https://en.wikipedia.org/wiki/Genoese_colonies",
+      "tags": [
+        "Genoa",
+        "Crusade",
+        "Trade",
+        "Expansion"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1104",
+      "era": "AD",
+      "name": "Genoese Fleet Helps Capture Acre",
+      "name_ru": "Генуэзский флот помогает захватить Акру",
+      "description": "In 1104, a Genoese fleet contributed decisively to the crusader capture of Acre — the most important port on the Levantine coast — by establishing a naval blockade that prevented resupply. In exchange, the Genoese received one-third of the city and its revenues, freedom from customs duties, and rights to their own court and market. Acre became the commercial hub of the crusader states and the primary transit point for spices, silk, and eastern luxury goods reaching Europe. The Genoese quarter in Acre was one of the most lucrative commercial territories of the medieval Mediterranean and would remain central to Genoese commerce until the city's fall in 1291.",
+      "description_ru": "В 1104 году генуэзский флот решающим образом способствовал захвату крестоносцами Акры — важнейшего порта Левантийского побережья, — установив морскую блокаду, лишившую город снабжения. В обмен генуэзцы получили треть города и его доходов, освобождение от таможенных пошлин и право собственного суда и рынка. Акра стала торговым центром государств крестоносцев и главным транзитным пунктом для пряностей, шёлка и восточных предметов роскоши, поступавших в Европу. Генуэзский квартал в Акре был одной из наиболее доходных торговых территорий средневекового Средиземноморья.",
+      "latitude": 32.93,
+      "longitude": 35.07,
+      "source": "https://en.wikipedia.org/wiki/Acre,_Israel",
+      "tags": [
+        "Genoa",
+        "Crusade",
+        "Maritime",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1118",
+      "era": "AD",
+      "name": "Byzantine Chrysobull Grants Genoa Eastern Trading Rights",
+      "name_ru": "Byzantийский Хрисовул предоставляет Генуе восточные торговые права",
+      "description": "In 1118, Emperor John II Komnenos issued a chrysobull granting Genoese merchants trading rights across the Byzantine Empire, including a quarter in Constantinople and reduced customs duties. The concession was less favourable than Venice's Chrysobull of 1082 — Genoese paid some duties where Venetians paid none — but it gave Genoa its first formal foothold in the Byzantine commercial world. Genoa's relationship with Constantinople throughout the twelfth century was secondary to Venice's, creating a structural resentment that would make Genoa the natural ally of any Byzantine ruler seeking to break Venetian dominance. This dynamic came to full expression in the Treaty of Nymphaeum in 1261.",
+      "description_ru": "В 1118 году император Иоанн II Комнин издал хрисовул, предоставивший генуэзским купцам торговые права по всей Byzantийской империи, включая квартал в Константинополе и сниженные таможенные пошлины. Уступка была менее выгодной, чем Венецианский хрисовул 1082 года — генуэзцы платили некоторые пошлины там, где венецианцы не платили ничего, — однако давала Генуе первый официальный плацдарм в Byzantийском коммерческом мире. На протяжении XII века отношения Генуи с Константинополем были вторичны по отношению к венецианским, создавая структурное недовольство, которое сделает Геную естественным союзником любого Byzantийского правителя, стремящегося сломить Венецианское господство.",
+      "latitude": 41.01,
+      "longitude": 28.98,
+      "source": "https://en.wikipedia.org/wiki/Republic_of_Genoa",
+      "tags": [
+        "Genoa",
+        "Byzantine",
+        "Trade",
+        "Treaty"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "24.10.1147",
+      "era": "AD",
+      "name": "Genoese Fleet Captures Almería — Iberian Expansion",
+      "name_ru": "Генуэзский флот захватывает Альмерию — Иберийская экспансия",
+      "description": "On 24 October 1147, a Genoese fleet cooperating with the forces of King Alfonso VII of Castile captured Almería — then a wealthy Almoravid port and the principal Moorish hub for silk export — on the southeastern coast of Iberia. The Genoese provided the naval siege capability that made the assault possible and received extensive commercial privileges in return. The operation was the western prong of a simultaneous Genoese strategic expansion: while other crusaders headed east for the Second Crusade, Genoa treated the Iberian Reconquista as an equivalent opportunity, establishing a pattern of flexible opportunism that defined its colonial strategy across all three continents it reached.",
+      "description_ru": "24 октября 1147 года генуэзский флот в сотрудничестве с силами короля Кастилии Альфонса VII захватил Альмерию — тогда богатый алморавидский порт и главный мавританский центр экспорта шёлка — на юго-восточном побережье Иберии. Генуэзцы обеспечили морские осадные возможности, сделавшие штурм возможным, и получили взамен широкие коммерческие привилегии. Операция была западным вектором одновременной генуэзской стратегической экспансии: в то время как другие крестоносцы устремлялись на восток со Вторым крестовым походом, Генуя рассматривала Иберийскую Реконкисту как равноценную возможность.",
+      "latitude": 36.84,
+      "longitude": -2.46,
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Almeria_(1147)",
+      "tags": [
+        "Genoa",
+        "Islamic",
+        "Maritime",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "30.12.1148",
+      "era": "AD",
+      "name": "Genoese Fleet Takes Tortosa on the Ebro",
+      "name_ru": "Генуэзский флот берёт Тортосу на Эбро",
+      "description": "In December 1148, a Genoese fleet sailing up the Ebro river assisted the forces of Ramon Berenguer IV, Count of Barcelona, in capturing Tortosa — the last major Muslim-held city on the lower Ebro. The Genoese naval blockade from the river prevented any resupply or relief. In exchange, Genoa received one-third of Tortosa and its suburbs, a customs-free market, and the right to its own legal jurisdiction. The acquisition gave Genoa commercial access to the Aragonese hinterland and to Iberian wool, grain, and silver. Tortosa marked the westernmost point of the Genoese colonial arc, which would ultimately stretch from Iberia to Crimea.",
+      "description_ru": "В декабре 1148 года генуэзский флот, поднявшись по реке Эбро, помог силам Рамона Беренгера IV, графа Барселонского, захватить Тортосу — последний крупный удерживаемый мусульманами город в нижнем течении Эбро. Генуэзская морская блокада с реки исключала любое снабжение или помощь. В обмен Генуя получила треть Тортосы и её пригородов, беспошлинный рынок и право собственной юрисдикции. Приобретение открыло Генуе коммерческий доступ к Арагонскому хинтерланду и Иберийской шерсти, зерну и серебру. Тортоса ознаменовала самый западный пункт генуэзской колониальной дуги, которая в итоге протянется от Иберии до Крыма.",
+      "latitude": 40.81,
+      "longitude": 0.52,
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Tortosa_(1148)",
+      "tags": [
+        "Genoa",
+        "Islamic",
+        "Maritime",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1154",
+      "era": "AD",
+      "name": "First Documented Genoese Commenda Contract",
+      "name_ru": "Первый задокументированный генуэзский договор коменды",
+      "description": "The Genoese notarial registers of the mid-twelfth century preserve the earliest systematic evidence of the commenda — a commercial partnership contract in which a sedentary investor provided capital and a travelling merchant provided labour, with profits shared according to agreed ratios and the investor bearing the financial risk of loss. The commenda separated capital from labour, created a form of limited liability, and allowed merchants without personal wealth to participate in long-distance trade using others' money. This financial instrument, perfected in Genoa and later adopted across Europe, is considered a precursor of the joint-stock company and one of the foundational innovations of European commercial capitalism.",
+      "description_ru": "Генуэзские нотариальные регистры середины XII века сохраняют ранние систематические свидетельства коменды — торгового партнёрского договора, по которому оседлый инвестор предоставлял капитал, а странствующий купец — труд, с разделом прибыли согласно оговоренным долям и несением инвестором финансового риска убытков. Коменда разделяла капитал и труд, создавала форму ограниченной ответственности и позволяла купцам без личного состояния участвовать в дальней торговле на чужие средства. Этот финансовый инструмент, усовершенствованный в Генуе и позднее принятый по всей Европе, считается предшественником акционерного общества и одной из основополагающих инноваций европейского торгового капитализма.",
+      "latitude": 44.41,
+      "longitude": 8.93,
+      "source": "https://en.wikipedia.org/wiki/Commenda",
+      "tags": [
+        "Genoa",
+        "Genoese",
+        "Trade",
+        "Economic"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1155",
+      "era": "AD",
+      "name": "Caffaro Completes the First Civic Annals of Genoa",
+      "name_ru": "Каффаро завершает первые городские анналы Генуи",
+      "description": "Caffaro di Rustico da Caschifellone — a Genoese nobleman, diplomat, and consul — compiled the Annales Ianuenses, the earliest civic chronicle in Italian history, covering Genoese history from 1099 to 1163. Caffaro wrote from direct personal experience, having participated in the First Crusade and served repeatedly as consul. In 1152 the Genoese commune officially adopted the annals as a state document and commissioned their continuation, making Genoa the first Italian city to maintain an official municipal history. The annals are a primary source for Genoese crusade participation, commercial expansion, and communal governance and represent the birth of civic historical consciousness in medieval Europe.",
+      "description_ru": "Каффаро ди Рустико да Кашифеллоне — генуэзский нобль, дипломат и консул — составил Annales Ianuenses, древнейшую городскую хронику в итальянской истории, охватывающую историю Генуи с 1099 по 1163 год. Каффаро писал из личного опыта, участвовав в Первом крестовом походе и неоднократно занимая должность консула. В 1152 году Генуэзская коммуна официально приняла анналы как государственный документ и поручила их продолжение, сделав Геную первым итальянским городом с официальной муниципальной историей. Анналы являются первоисточником по участию Генуи в крестовых походах, коммерческой экспансии и коммунальном управлении.",
+      "latitude": 44.41,
+      "longitude": 8.93,
+      "source": "https://en.wikipedia.org/wiki/Caffaro_di_Rustico_da_Caschifellone",
+      "tags": [
+        "Genoa",
+        "Genoese",
+        "Culture",
+        "Italian"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1162",
+      "era": "AD",
+      "name": "Frederick Barbarossa Grants Genoa Imperial Trade Privileges",
+      "name_ru": "Фридрих Барбаросса предоставляет Генуе имперские торговые привилегии",
+      "description": "In 1162, Emperor Frederick Barbarossa issued a privilege confirming and expanding Genoese commercial rights throughout the Holy Roman Empire, granting freedom from tolls in imperial territories, the right to maintain consuls in imperial cities, and legal autonomy for Genoese merchants. The concession reflected Genoa's growing strategic importance as the principal Italian port for the western Mediterranean. Genoa's position on the Ligurian coast made it the natural gateway between the Italian peninsula and Iberia, France, and northern Europe; Barbarossa needed Genoese maritime cooperation as he attempted to assert imperial authority over Italy. The privileges helped integrate Genoa into the northern European trade networks that were expanding rapidly in the twelfth century.",
+      "description_ru": "В 1162 году император Фридрих Барбаросса выдал привилегию, подтверждавшую и расширявшую коммерческие права Генуи по всей Священной Римской империи: освобождение от пошлин на имперских территориях, право содержать консулов в имперских городах и правовую автономию для генуэзских купцов. Уступка отражала растущее стратегическое значение Генуи как главного итальянского порта Западного Средиземноморья. Положение Генуи на Лигурийском побережье делало её естественными воротами между Апеннинским полуостровом и Иберией, Францией и Северной Европой; Барбаросса нуждался в генуэзском морском сотрудничестве в попытках утвердить имперскую власть над Италией.",
+      "latitude": 44.41,
+      "longitude": 8.93,
+      "source": "https://en.wikipedia.org/wiki/Republic_of_Genoa",
+      "tags": [
+        "Genoa",
+        "Italian",
+        "Trade",
+        "Diplomacy"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1170",
+      "era": "AD",
+      "name": "Manuel I Grants Genoa a Chrysobull — Byzantine Trade Rights Expanded",
+      "name_ru": "Мануил I выдаёт Генуе Хрисовул — Byzantийские торговые права расширены",
+      "description": "In 1170, Byzantine Emperor Manuel I Komnenos issued a new chrysobull to Genoa granting significantly improved trading privileges — including a quarter in Constantinople, warehouses in key Byzantine ports, and further reductions in customs duties. The concession came as Manuel sought to reduce his dependence on Venice by cultivating Genoa and Pisa as alternative trading partners. A year later, in 1171, Manuel arrested all Venetians in the empire and confiscated their goods. The episode showed that Byzantine emperors could use rival Italian city-states as instruments against each other — a dynamic that Genoa would exploit masterfully in 1261 when it aligned with Michael VIII to expel Venice from Constantinople entirely.",
+      "description_ru": "В 1170 году Byzantийский император Мануил I Комнин выдал Генуе новый хрисовул, предоставив значительно улучшенные торговые привилегии — включая квартал в Константинополе, склады в ключевых Byzantийских портах и дальнейшее снижение таможенных пошлин. Уступка последовала в момент, когда Мануил стремился снизить зависимость от Венеции, культивируя Геную и Пизу как альтернативных торговых партнёров. Год спустя, в 1171 году, Мануил арестовал всех венецианцев в империи и конфисковал их имущество. Эпизод показал, что Byzantийские императоры могут использовать соперничавшие итальянские города-государства друг против друга — динамику, которую Генуя мастерски использует в 1261 году.",
+      "latitude": 41.01,
+      "longitude": 28.98,
+      "source": "https://en.wikipedia.org/wiki/Manuel_I_Komnenos",
+      "tags": [
+        "Genoa",
+        "Byzantine",
+        "Trade",
+        "Diplomacy"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "02.10.1187",
+      "era": "AD",
+      "name": "Saladin Captures Jerusalem — Genoa Loses Its Holy Land Quarter",
+      "name_ru": "Саладин захватывает Иерусалим — Генуя лишается квартала на Святой земле",
+      "description": "Saladin's capture of Jerusalem on 2 October 1187 destroyed the Genoese commercial infrastructure in the holy city that had existed since 1100. Genoa retained its position in Acre and Tyre, which remained in crusader hands, but the loss of Jerusalem signalled the beginning of the end of the crusader Levantine system that had been Genoa's original commercial foundation in the east. The catastrophe redirected Genoese commercial ambition toward two alternative axes: westward into the Atlantic approaches and Iberian trade, and eastward into the Black Sea, where a vast new commercial frontier was opening through the Mongol trade routes connecting Crimea to China.",
+      "description_ru": "Захват Иерусалима Саладином 2 октября 1187 года уничтожил генуэзскую коммерческую инфраструктуру в священном городе, существовавшую с 1100 года. Генуя сохранила позиции в Акре и Тире, остававшихся в руках крестоносцев, однако утрата Иерусалима возвестила начало конца Крестоносной Левантийской системы, служившей исходной коммерческой опорой Генуи на востоке. Катастрофа перенаправила генуэзские коммерческие амбиции по двум альтернативным осям: на запад — к атлантическим подступам и Иберийской торговле, и на восток — в Чёрное море, где открывалась обширная новая торговая граница через Монгольские торговые пути от Крыма до Китая.",
+      "latitude": 31.78,
+      "longitude": 35.22,
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1187)",
+      "tags": [
+        "Genoa",
+        "Crusade",
+        "Islamic",
+        "Trade"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1191",
+      "era": "AD",
+      "name": "Genoese Fleet Supports Richard I's Siege of Acre",
+      "name_ru": "Генуэзский флот поддерживает осаду Акры Ричардом I",
+      "description": "In 1191, during the Third Crusade, a Genoese fleet provided critical naval support for Richard I of England's siege and capture of Acre. The Genoese supplied ships, siege equipment, and provisions. In exchange, Richard and the crusader leadership confirmed and expanded Genoese trading privileges in all crusader-held ports, including one-third of Acre itself. The Third Crusade reinforced the Genoese colonial position in the Levant at a moment when the loss of Jerusalem had endangered it. Acre — which would serve as the de facto capital of the crusader states after 1191 — became the most commercially important city in the eastern Mediterranean, and the Genoese quarter there was accordingly valuable.",
+      "description_ru": "В 1191 году в ходе Третьего крестового похода генуэзский флот обеспечил решающую военно-морскую поддержку осады и захвата Акры Ричардом I Английским. Генуэзцы предоставили суда, осадное снаряжение и провиант. В обмен Ричард и руководство крестоносцев подтвердили и расширили торговые привилегии Генуи во всех удерживаемых крестоносцами портах, включая треть самой Акры. Третий крестовый поход укрепил генуэзские колониальные позиции в Леванте в момент, когда утрата Иерусалима поставила их под угрозу. Акра — ставшая де-факто столицей государств крестоносцев после 1191 года — превратилась в самый коммерчески значимый город Восточного Средиземноморья.",
+      "latitude": 32.93,
+      "longitude": 35.07,
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Acre_(1189%E2%80%931191)",
+      "tags": [
+        "Genoa",
+        "Crusade",
+        "Maritime",
+        "Seamen"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "13.04.1204",
+      "era": "AD",
+      "name": "Fourth Crusade Sacks Constantinople — Genoa Sidelined by Venice",
+      "name_ru": "Четвёртый крестовый поход разграбляет Константинополь — Генуя вытеснена Венецией",
+      "description": "The Fourth Crusade's sack of Constantinople in April 1204 and the creation of the Latin Empire represented a catastrophic geopolitical reversal for Genoa. Venice, which had organized and financed the crusade, received three-eighths of Constantinople, the islands of the Aegean, and the key port of Modon and Coron in Greece — giving it near-total commercial dominance of the former Byzantine world. Genoa, having played no role in the crusade, was excluded entirely. Venetian galleys patrolled the Aegean and prevented Genoese access to Black Sea trade routes. The humiliation of 1204 made the recovery of Constantinople from Venice a defining strategic objective for Genoa for the next fifty-seven years.",
+      "description_ru": "Разграбление Константинополя Четвёртым крестовым походом в апреле 1204 года и создание Латинской империи обернулись катастрофическим геополитическим поворотом для Генуи. Венеция, организовавшая и финансировавшая крестовый поход, получила три восьмых Константинополя, острова Эгейского моря и ключевые порты Модон и Корон в Греции — обеспечив себе почти полное коммерческое господство в бывшем Byzantийском мире. Генуя, не принявшая участия в крестовом походе, была полностью исключена. Венецианские галеры патрулировали Эгейское море и препятствовали Генуэзскому доступу к черноморским торговым путям. Унижение 1204 года сделало отвоевание Константинополя у Венеции определяющей стратегической целью Генуи на следующие пятьдесят семь лет.",
+      "latitude": 41.01,
+      "longitude": 28.98,
+      "source": "https://en.wikipedia.org/wiki/Fourth_Crusade",
+      "tags": [
+        "Genoa",
+        "Byzantine",
+        "Venice",
+        "Crisis"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "13.03.1261",
+      "era": "AD",
+      "name": "Treaty of Nymphaeum — Genoa Allies with Michael VIII Against Venice",
+      "name_ru": "Нимфейский договор — Генуя союзничает с Михаилом VIII против Венеции",
+      "description": "On 13 March 1261, Genoa signed the Treaty of Nymphaeum with Michael VIII Palaiologos, the ruler of the Empire of Nicaea who sought to recover Constantinople from the Latin Empire. In exchange for a Genoese promise not to aid Venice or the Latin Empire, Michael granted Genoa trading rights exceeding even those that Venice had held before 1204: duty-free trade throughout the Byzantine Empire, a quarter in Constantinople and every major Byzantine city, and commercial access to the Black Sea. The treaty was a masterpiece of Genoese diplomatic strategy — promising neutrality rather than active military support, yet receiving the maximum commercial reward for a Byzantine victory that Genoa had done little to bring about.",
+      "description_ru": "13 марта 1261 года Генуя подписала Нимфейский договор с Михаилом VIII Палеологом, правителем Никейской империи, стремившимся вернуть Константинополь у Латинской империи. В обмен на Генуэзское обещание не помогать Венеции или Латинской империи Михаил предоставил Генуе торговые права, превосходившие даже те, которыми владела Венеция до 1204 года: беспошлинную торговлю по всей Byzantийской империи, квартал в Константинополе и каждом крупном Byzantийском городе, и коммерческий доступ к Чёрному морю. Договор стал шедевром генуэзской дипломатической стратегии — обещание нейтралитета, а не активной военной поддержки, при максимальном коммерческом вознаграждении.",
+      "latitude": 38.65,
+      "longitude": 27.03,
+      "source": "https://en.wikipedia.org/wiki/Treaty_of_Nymphaeum_(1261)",
+      "tags": [
+        "Genoa",
+        "Byzantine",
+        "Venice",
+        "Treaty"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "25.07.1261",
+      "era": "AD",
+      "name": "Michael VIII Reconquers Constantinople — Genoa Receives Galata",
+      "name_ru": "Михаил VIII отвоёвывает Константинополь — Генуя получает Галату",
+      "description": "On 25 July 1261, Byzantine forces under Alexios Strategopoulos retook Constantinople from the Latin Empire almost without resistance. Venice's garrison was away on a naval expedition; the city fell in hours. As promised by the Treaty of Nymphaeum, Genoa received the colony of Galata — the trading suburb on the northern shore of the Golden Horn directly across from Constantinople — as its principal base, along with comprehensive trading rights across the restored Byzantine Empire. Venetians were expelled. Within decades, Galata grew into one of the most prosperous trading cities in the Mediterranean, generating revenues that rivalled Constantinople itself. The golden age of Genoese commercial empire had begun.",
+      "description_ru": "25 июля 1261 года Byzantийские силы под командованием Алексея Стратигопула отбили Константинополь у Латинской империи почти без сопротивления. Венецианский гарнизон отсутствовал в морской экспедиции; город пал за несколько часов. В соответствии с Нимфейским договором Генуя получила колонию Галату — торговый пригород на северном берегу Золотого Рога напротив Константинополя — в качестве главной базы, а также всеобъемлющие торговые права по всей восстановленной Byzantийской империи. Венецианцы были изгнаны. В течение нескольких десятилетий Галата выросла в один из наиболее процветающих торговых городов Средиземноморья, принося доходы, сопоставимые с самим Константинополем.",
+      "latitude": 41.02,
+      "longitude": 28.97,
+      "source": "https://en.wikipedia.org/wiki/Reconquest_of_Constantinople_(1261)",
+      "tags": [
+        "Genoa",
+        "Byzantine",
+        "Expansion",
+        "Colonization"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1266",
+      "era": "AD",
+      "name": "Caffa Founded in Crimea — Gateway to the Silk Road",
+      "name_ru": "Основана Каффа в Крыму — ворота Шёлкового пути",
+      "description": "Around 1266, Genoese merchants established a permanent trading colony at Caffa on the southeastern coast of the Crimean peninsula — the site of modern Feodosiya. The location was ideal: Caffa offered a deep natural harbour, proximity to the Kipchak steppe trade routes, and access via the Sea of Azov to the Don river and the Mongol trading networks reaching Central Asia and China. After the Mongol conquest of the region, the Ilkhanate and Golden Horde allowed Genoese merchants to operate the Caffa colony under a charter; it became the western terminus of the overland Silk Road. Caffa grew into one of the largest cities in eastern Europe with a population approaching 70,000 at its peak.",
+      "description_ru": "Около 1266 года генуэзские купцы основали постоянную торговую колонию в Каффе на юго-восточном побережье Крымского полуострова — на месте современной Феодосии. Расположение было идеальным: Каффа предлагала глубокую естественную гавань, близость к торговым путям Кипчакской степи и доступ через Азовское море к реке Дон и Монгольским торговым сетям, достигавшим Центральной Азии и Китая. После Монгольского завоевания региона Ильханат и Золотая Орда позволили генуэзским купцам управлять колонией Каффа по уставу; она стала западным терминалом сухопутного Шёлкового пути. Каффа выросла в один из крупнейших городов Восточной Европы с населением, достигавшим 70 000 в пике.",
+      "latitude": 45.03,
+      "longitude": 35.38,
+      "source": "https://en.wikipedia.org/wiki/Caffa",
+      "tags": [
+        "Genoa",
+        "Genoese",
+        "Colonization",
+        "Trade"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1270",
+      "era": "AD",
+      "name": "Genoa Provides Fleet for the Eighth Crusade at Tunis",
+      "name_ru": "Генуя предоставляет флот для Восьмого крестового похода у Туниса",
+      "description": "In 1270, Genoa contracted to provide King Louis IX of France with transport vessels for the Eighth Crusade — the final major crusading expedition — which was directed against Tunis rather than the Holy Land. Louis died of dysentery at Tunis in August 1270 before the campaign achieved anything. Genoa's involvement was purely commercial: the transport contract was lucrative, and a victory at Tunis would have disrupted a rival Islamic trading partner. The episode illustrated how the crusade had been thoroughly instrumentalized by the Italian maritime city-states — providing ships at profit regardless of religious outcome — and foreshadowed the collapse of the crusading impulse in the following decade.",
+      "description_ru": "В 1270 году Генуя заключила контракт на предоставление королю Франции Людовику IX транспортных судов для Восьмого крестового похода — последней крупной крестоносной экспедиции, — направленного против Туниса, а не Святой земли. Людовик умер от дизентерии в Тунисе в августе 1270 года, так и не добившись результата. Участие Генуи носило чисто коммерческий характер: транспортный контракт был выгодным, а победа в Тунисе нарушила бы деятельность соперничавшего Исламского торгового партнёра. Эпизод проиллюстрировал, насколько крестовый поход был полностью инструментализирован итальянскими морскими городами-государствами — предоставлявшими суда за плату вне зависимости от религиозного исхода.",
+      "latitude": 36.82,
+      "longitude": 10.17,
+      "source": "https://en.wikipedia.org/wiki/Eighth_Crusade",
+      "tags": [
+        "Genoa",
+        "Crusade",
+        "Maritime",
+        "Trade"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1277",
+      "era": "AD",
+      "name": "First Genoese Galley Reaches Bruges and England",
+      "name_ru": "Первая генуэзская галера достигает Брюгге и Англии",
+      "description": "In 1277, a Genoese commercial galley completed the first documented direct voyage from the Mediterranean to Bruges in Flanders — the northern terminus of the European commercial system. The voyage opened a regular maritime route linking the Mediterranean to the North Sea, bypassing the overland Alpine and Champagne fair routes that had dominated long-distance trade for a century. The Genoese galley carried Mediterranean luxury goods — spices, silk, alum, and fine cloth — and returned with Flemish wool and English tin. Within a generation, regular Genoese galley convoys to Bruges and Southampton transformed northern European commerce and reduced the dominance of the overland trade fairs of Champagne.",
+      "description_ru": "В 1277 году генуэзская торговая галера совершила первое задокументированное прямое плавание из Средиземноморья в Брюгге во Фландрии — северный терминал европейской торговой системы. Плавание открыло регулярный морской путь, связавший Средиземноморье с Северным морем в обход сухопутных альпийских путей и шампанских ярмарок, доминировавших в дальней торговле на протяжении столетия. Генуэзская галера везла средиземноморские предметы роскоши — пряности, шёлк, квасцы и тонкое сукно — и возвращалась с фламандской шерстью и английским оловом. В течение одного поколения регулярные генуэзские галерные конвои в Брюгге и Саутгемптон преобразили северноевропейскую торговлю.",
+      "latitude": 51.21,
+      "longitude": 3.22,
+      "source": "https://en.wikipedia.org/wiki/Republic_of_Genoa",
+      "tags": [
+        "Genoa",
+        "Maritime",
+        "Trade",
+        "Expansion"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "06.08.1284",
+      "era": "AD",
+      "name": "Battle of Meloria — Genoa Destroys Pisan Naval Power",
+      "name_ru": "Битва при Мелории — Генуя уничтожает Пизанскую морскую мощь",
+      "description": "On 6 August 1284, a Genoese fleet annihilated the Pisan navy in a major engagement off the rocky islet of Meloria, near Livorno. The Genoese feigned retreat to draw the Pisan fleet out of formation, then turned and attacked with a hidden reserve squadron. Approximately 11,000 Pisans were killed or captured — including prisoners held for years whose absence so devastated Pisan civic life that Dante later wrote one could walk through Pisa without meeting a man. Pisa never recovered as a naval power; Sardinia, long disputed between the two cities, passed gradually to Genoese influence. Meloria ended a century of Pisan-Genoese rivalry and left Genoa as the unchallenged dominant power of the Tyrrhenian Sea.",
+      "description_ru": "6 августа 1284 года генуэзский флот уничтожил Пизанский военно-морской флот в крупном сражении у скалистого островка Мелория близ Ливорно. Генуэзцы симулировали отступление, чтобы выманить Пизанский флот из строя, затем развернулись и атаковали скрытой резервной эскадрой. Около 11 000 пизанцев были убиты или захвачены в плен — включая пленников, томившихся годами, чьё отсутствие настолько опустошило пизанскую гражданскую жизнь, что Данте впоследствии писал, что по Пизе можно было пройти, не встретив мужчины. Пиза никогда не оправилась как морская держава; Сардиния, долго оспаривавшаяся между двумя городами, постепенно перешла под Генуэзское влияние.",
+      "latitude": 43.54,
+      "longitude": 10.06,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Meloria",
+      "tags": [
+        "Genoa",
+        "Italian",
+        "Seamen",
+        "Maritime"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1290",
+      "era": "AD",
+      "name": "Genoese Cartographers Produce the Earliest Portolan Charts",
+      "name_ru": "Генуэзские картографы создают первые портоланы",
+      "description": "By the late thirteenth century, Genoese navigators and cartographers had developed the portolan chart — a new kind of nautical map drawn from actual compass bearings and distance measurements taken by experienced mariners. Unlike medieval mappae mundi, portolans showed the coastlines of the Mediterranean and Black Sea with extraordinary accuracy, with rhumb lines radiating from compass roses to guide navigation. The Genoese Carta Pisana, dating to around 1275–1300, is the oldest surviving portolan. The technology transformed maritime navigation: ships could now follow precise routes between ports in all weather conditions, making long-distance voyages faster and safer. Portolans spread from Genoa across all European maritime powers within a generation.",
+      "description_ru": "К концу XIII века генуэзские мореплаватели и картографы разработали портоланы — новый вид морских карт, составленных на основе фактических пеленгов и измерений расстояний опытными мореходами. В отличие от средневековых маппа мунди, портоланы изображали береговые линии Средиземноморья и Чёрного моря с исключительной точностью, с локсодромами, расходящимися от картушек компаса для ориентации в навигации. Генуэзская Carta Pisana, датируемая около 1275–1300 годов, является старейшим сохранившимся портоланом. Технология преобразила морскую навигацию: суда могли теперь следовать точными курсами между портами при любых погодных условиях, делая дальние плавания быстрее и безопаснее.",
+      "latitude": 44.41,
+      "longitude": 8.93,
+      "source": "https://en.wikipedia.org/wiki/Portolan_chart",
+      "tags": [
+        "Genoa",
+        "Genoese",
+        "Maritime",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.05.1291",
+      "era": "AD",
+      "name": "Vivaldi Brothers Attempt Atlantic Circumnavigation of Africa",
+      "name_ru": "Братья Вивальди предпринимают атлантическое плавание вокруг Африки",
+      "description": "In May 1291, the Genoese brothers Ugolino and Vadino Vivaldi departed Genoa with two galleys, intending to sail around Africa to reach India — two hundred years before Vasco da Gama succeeded. They passed through the Strait of Gibraltar, sailed south along the African coast, and were never heard from again. Genoese merchants sent search expeditions to find them for over a decade. The Vivaldi voyage is the first documented attempt to reach Asia by a western Atlantic route and establishes Genoa — not Portugal — as the originator of the concept of finding an oceanic route to India. It also demonstrates the extraordinary ambition and risk tolerance of Genoese merchants at the height of their commercial power.",
+      "description_ru": "В мае 1291 года братья-генуэзцы Угелино и Вадино Вивальди отплыли из Генуи на двух галерах с намерением обогнуть Африку и достичь Индии — за двести лет до успеха Васко да Гамы. Они прошли через Гибралтарский пролив, прошли на юг вдоль африканского побережья и пропали без вести. Генуэзские купцы снаряжали поисковые экспедиции на их поиски более десяти лет. Плавание Вивальди является первой задокументированной попыткой достичь Азии западным атлантическим путём и утверждает Геную — а не Португалию — в качестве родоначальника концепции поиска океанического пути в Индию.",
+      "latitude": 35.99,
+      "longitude": -5.6,
+      "source": "https://en.wikipedia.org/wiki/Vivaldi_brothers",
+      "tags": [
+        "Genoa",
+        "Genoese",
+        "Maritime",
+        "Seamen"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "18.05.1291",
+      "era": "AD",
+      "name": "Fall of Acre — Genoa Pivots Entirely to the Black Sea",
+      "name_ru": "Падение Акры — Генуя полностью переориентируется на Чёрное море",
+      "description": "The fall of Acre to the Mamluk Sultanate on 18 May 1291 ended the crusader states and with them the Levantine commercial system that had sustained Genoese trade for nearly two centuries. The Genoese lost their quarter, warehouse infrastructure, and trading privileges in the Holy Land. Unlike Venice, which had deep roots in the former Byzantine Aegean, Genoa's strategic response was decisive: it redirected its commercial energy entirely toward the Black Sea colonies — Caffa, Tana, and Trebizond — that were increasingly connected to the Mongol-controlled overland Silk Road. The loss of the Levant paradoxically accelerated Genoese expansion into a more lucrative and expansive eastern frontier.",
+      "description_ru": "Падение Акры под ударами Мамлюкского султаната 18 мая 1291 года положило конец государствам крестоносцев и вместе с ними — Левантийской торговой системе, питавшей генуэзскую торговлю почти два столетия. Генуэзцы лишились квартала, складской инфраструктуры и торговых привилегий на Святой земле. В отличие от Венеции, глубоко укоренившейся в бывшем Byzantийском Эгейском пространстве, стратегический ответ Генуи был решительным: она перенаправила коммерческую энергию целиком на черноморские колонии — Каффу, Тану и Трапезунд, — всё теснее связанные с Монгольским сухопутным Шёлковым путём. Утрата Леванта парадоксально ускорила генуэзскую экспансию на более доходную и обширную восточную границу.",
+      "latitude": 32.93,
+      "longitude": 35.07,
+      "source": "https://en.wikipedia.org/wiki/Fall_of_Acre_(1291)",
+      "tags": [
+        "Genoa",
+        "Crusade",
+        "Islamic",
+        "Trade"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "08.09.1298",
+      "era": "AD",
+      "name": "Battle of Curzola — Genoa Defeats Venice, Marco Polo Captured",
+      "name_ru": "Битва при Курцоле — Генуя разбивает Венецию, Марко Поло захвачен",
+      "description": "On 8 September 1298, a Genoese fleet under Lamba Doria destroyed a Venetian fleet near the island of Curzola in the Adriatic, capturing 5,000 prisoners — among them Marco Polo. Polo, imprisoned in Genoa, dictated his account of his journeys to China to a cellmate — producing the Travels of Marco Polo, the most influential geographical text of the medieval period. The battle was part of a prolonged Genoese-Venetian commercial war for dominance in the Adriatic and Black Sea. Though Genoa won the battle, it failed to convert the victory into a permanent strategic advantage; Venice recovered, and the struggle between the two republics continued for nearly another century.",
+      "description_ru": "8 сентября 1298 года генуэзский флот под командованием Ламба Дориа уничтожил венецианский флот у острова Курцола в Адриатике, захватив 5000 пленных — в том числе Марко Поло. Поло, заключённый в тюрьму в Генуе, надиктовал рассказ о своих путешествиях в Китай соседу по камере — создав «Путешествия Марко Поло», наиболее влиятельный географический текст Средневековья. Битва была частью затяжной Генуэзско-Венецианской торговой войны за господство в Адриатике и Чёрном море. Хотя Генуя выиграла сражение, она не смогла превратить победу в устойчивое стратегическое преимущество.",
+      "latitude": 42.96,
+      "longitude": 16.88,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Curzola",
+      "tags": [
+        "Genoa",
+        "Venice",
+        "Seamen",
+        "Maritime"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1300",
+      "era": "AD",
+      "name": "Genoese Colony Established at Tana on the Sea of Azov",
+      "name_ru": "Основана Генуэзская колония в Тане на Азовском море",
+      "description": "Around 1300, Genoa established a permanent trading colony at Tana — the ancient city of Tanais at the mouth of the Don river on the Sea of Azov. Tana was the easternmost node of the Genoese Black Sea network, the point where the overland Silk Road routes from Central Asia and China met the maritime system. Goods arriving at Tana — silk, spices, furs, slaves, and grain — were transshipped to Caffa and then onward to Genoa and the European markets. Tana was governed by a Genoese consul and maintained its own walls, church, and court. The colony gave Genoa direct access to Mongol-controlled trade routes and made the republic a genuine player in transcontinental commerce.",
+      "description_ru": "Около 1300 года Генуя основала постоянную торговую колонию в Тане — древнем городе Танаис в устье Дона на Азовском море. Тана была самым восточным узлом Генуэзской черноморской сети — точкой, где сухопутные Шёлковые пути из Центральной Азии и Китая встречались с морской системой. Прибывавшие в Тану товары — шёлк, пряности, меха, рабы и зерно — перегружались в Каффу, а затем в Геную и на европейские рынки. Тана управлялась Генуэзским консулом и содержала собственные стены, церковь и суд. Колония обеспечила Генуе прямой доступ к Монгольским торговым путям.",
+      "latitude": 47.12,
+      "longitude": 39.42,
+      "source": "https://en.wikipedia.org/wiki/Tana_(city)",
+      "tags": [
+        "Genoa",
+        "Genoese",
+        "Colonization",
+        "Trade"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1307",
+      "era": "AD",
+      "name": "Caffa at the Centre of Mongol-European Trade",
+      "name_ru": "Каффа в центре Монголо-Европейской торговли",
+      "description": "By the early fourteenth century, Caffa had become the principal western terminus of the Mongol-controlled Silk Road, connecting China, Central Asia, Persia, and the Black Sea to European markets. Genoese merchants operating from Caffa traded in silk, spices, precious stones, furs, grain, wax, and slaves. The slave trade — drawing on captives from the Caucasus, the Pontic steppe, and Central Asia — was one of Caffa's most profitable commodities; enslaved Circassians and Tatars were sold across the Mediterranean. Caffa also served as the western end of the route that brought Marco Polo's contemporaries — the Polo family itself passed through the Black Sea — to the Mongol court. The city operated under a Genoese governor with its own mint, walls, and judicial system.",
+      "description_ru": "К началу XIV века Каффа превратилась в главный западный терминал Монгольского Шёлкового пути, связывавшего Китай, Центральную Азию, Персию и Чёрное море с европейскими рынками. Генуэзские купцы, работавшие из Каффы, торговали шёлком, пряностями, драгоценными камнями, мехами, зерном, воском и рабами. Работорговля — черпавшая из числа пленников с Кавказа, Понтийской степи и Центральной Азии — была одним из наиболее прибыльных товаров Каффы. Город управлялся Генуэзским губернатором с собственным монетным двором, стенами и судебной системой.",
+      "latitude": 45.03,
+      "longitude": 35.38,
+      "source": "https://en.wikipedia.org/wiki/Caffa",
+      "tags": [
+        "Genoa",
+        "Mongolian",
+        "Trade",
+        "Colonization"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1316",
+      "era": "AD",
+      "name": "Genoese Colony Established at Trebizond",
+      "name_ru": "Основана Генуэзская колония в Трапезунде",
+      "description": "Around 1316, Genoa established a formal trading colony at Trebizond — the capital of the Empire of Trebizond on the southeastern Black Sea coast. Trebizond was the western terminus of the Persian and Central Asian overland routes bypassing Mongol-held territory, and its harbour was the collection point for silk from Persia and spices arriving through Azerbaijan. The Genoese colony at Trebizond — governed by a consul and protected by its own walls — complemented Caffa and Tana to create a complete Black Sea commercial network. Goods from Trebizond moved west by sea to Caffa, then by Genoese galley to Constantinople and Genoa. The colony gave Genoa access to Persian trade that was independent of the Mongol Golden Horde.",
+      "description_ru": "Около 1316 года Генуя основала официальную торговую колонию в Трапезунде — столице Трапезундской империи на юго-востоке Черноморского побережья. Трапезунд был западным терминалом персидских и среднеазиатских сухопутных маршрутов в обход Монгольских территорий, а его гавань служила сборным пунктом для персидского шёлка и пряностей, поступавших через Азербайджан. Генуэзская колония в Трапезунде — управляемая консулом и защищённая собственными стенами — дополняла Каффу и Тану, образуя полную черноморскую торговую сеть. Товары из Трапезунда перемещались морем на запад в Каффу, затем генуэзскими галерами в Константинополь и Геную.",
+      "latitude": 41.0,
+      "longitude": 39.72,
+      "source": "https://en.wikipedia.org/wiki/Empire_of_Trebizond",
+      "tags": [
+        "Genoa",
+        "Genoese",
+        "Colonization",
+        "Trade"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1346",
+      "era": "AD",
+      "name": "Genoa Acquires Chios — Alum and Mastic Monopoly Secured",
+      "name_ru": "Генуя приобретает Хиос — закреплена монополия на квасцы и мастику",
+      "description": "In 1346, the Genoese trading company Maona di Chio secured control of the island of Chios in the Aegean, establishing a semi-private colonial regime. Chios possessed two resources of extraordinary commercial value: mastic — the aromatic resin from the lentisk tree, used in medicine, food, and varnish, produced nowhere else in the world — and access to the alum mines of nearby Phocaea, the primary mordant for fixing dye in the European textile industry. The Genoese monopoly on Chios mastic and Phokaean alum gave Genoa leverage over the entire European cloth-dyeing industry. Chios remained under Genoese administration until 1566, outlasting the republic itself.",
+      "description_ru": "В 1346 году Генуэзская торговая компания Маона ди Кьо закрепила контроль над островом Хиос в Эгейском море, установив полуприватный колониальный режим. Хиос обладал двумя ресурсами исключительной коммерческой ценности: мастикой — ароматической смолой лентискового дерева, применявшейся в медицине, пищевой промышленности и лакокрасочном деле, производившейся больше нигде в мире, — и доступом к квасцовым шахтам близлежащей Фокеи, главного протравителя для закрепления красителя в европейской текстильной промышленности. Генуэзская монополия на мастику Хиоса и квасцы Фокеи давала Генуе рычаги над всей европейской отраслью крашения тканей.",
+      "latitude": 38.37,
+      "longitude": 26.14,
+      "source": "https://en.wikipedia.org/wiki/Mahona_of_Chios_and_Phocaea",
+      "tags": [
+        "Genoa",
+        "Genoese",
+        "Colonization",
+        "Economic"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.10.1347",
+      "era": "AD",
+      "name": "Plague Ships from Caffa Arrive at Messina — Black Death Enters Europe",
+      "name_ru": "Чумные суда из Каффы прибывают в Мессину — Чёрная смерть входит в Европу",
+      "description": "In October 1347, twelve Genoese trading galleys arrived at Messina in Sicily having sailed from Caffa in the Crimea. The sailors aboard were dying of a mysterious disease; many were already dead. The ships were ordered to leave port immediately, but the plague had already spread ashore. The disease — likely bubonic plague — spread from Messina to the rest of Sicily, then to mainland Italy, and within three years had killed between a third and a half of Europe's population. The plague had reached Caffa during the Mongol siege of 1346, when besieging forces catapulted infected corpses into the city. Genoese ships thus became the unwilling vector of the greatest demographic catastrophe in European history.",
+      "description_ru": "В октябре 1347 года двенадцать Генуэзских торговых галер прибыли в Мессину на Сицилии, отплыв из Крымской Каффы. Матросы на борту умирали от загадочной болезни; многие были уже мертвы. Кораблям немедленно велели покинуть порт, однако чума уже распространилась на берег. Болезнь — предположительно бубонная чума — распространилась из Мессины на остальную Сицилию, затем на материковую Италию, и в течение трёх лет унесла жизни от трети до половины населения Европы. Чума достигла Каффы в ходе Монгольской осады 1346 года, когда осаждавшие забрасывали в город катапультами заражённые трупы. Генуэзские суда стали невольным вектором крупнейшей демографической катастрофы в европейской истории.",
+      "latitude": 38.19,
+      "longitude": 15.55,
+      "source": "https://en.wikipedia.org/wiki/Black_Death",
+      "tags": [
+        "Genoa",
+        "Plague",
+        "Italian",
+        "Crisis"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1348",
+      "era": "AD",
+      "name": "Black Death Devastates Genoa",
+      "name_ru": "Чёрная смерть опустошает Геную",
+      "description": "The Black Death reached Genoa in late 1347 and through 1348 killed between a third and a half of the city's population. The epidemic arrived via the same ships returning from Caffa that had spread it to Messina. Trade collapsed; the banking houses and merchant firms that powered the Genoese economy suspended operations; the colony network was disrupted. The Genoese response included some of the earliest recorded public health measures in European history: in 1377, Ragusa — a Genoese-influenced Adriatic city — introduced the first formal quarantine, requiring ships from infected ports to wait thirty days before landing passengers. The word quarantine derives from the Italian quarantina, meaning forty days.",
+      "description_ru": "Чёрная смерть достигла Генуи в конце 1347 года и в течение 1348 года унесла жизни от трети до половины населения города. Эпидемия прибыла с теми же судами, возвращавшимися из Каффы, которые распространили её в Мессину. Торговля рухнула; банкирские дома и купеческие фирмы, питавшие генуэзскую экономику, приостановили деятельность; колониальная сеть была нарушена. В ответ появились одни из первых задокументированных мер общественного здравоохранения в европейской истории: в 1377 году Рагуза — адриатический город под Генуэзским влиянием — ввела первый официальный карантин.",
+      "latitude": 44.41,
+      "longitude": 8.93,
+      "source": "https://en.wikipedia.org/wiki/Black_Death_in_Italy",
+      "tags": [
+        "Genoa",
+        "Plague",
+        "Italian",
+        "Crisis"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1356",
+      "era": "AD",
+      "name": "Genoese Crossbowmen Serve as Elite Mercenaries Across Europe",
+      "name_ru": "Генуэзские арбалетчики служат элитными наёмниками по всей Европе",
+      "description": "By the mid-fourteenth century, Genoese crossbowmen had established an international reputation as the finest heavy missile infantry in Europe, serving as mercenaries for kings from France to Castile to the Byzantine Empire. Genoese crossbow manufacturers produced the most powerful and accurate composite crossbows available, and their archers trained from childhood. The crossbowmen fought at Crécy in 1346 — where they were routed by English longbowmen in disputed circumstances — and at Nicopolis in 1396. Genoa exported martial expertise as readily as it exported financial instruments, using military service as a commercial transaction. The crossbowmen were organised as a guild-like company, a mercenary corporation anticipating the later condottiere system.",
+      "description_ru": "К середине XIV века Генуэзские арбалетчики завоевали международную репутацию лучшей тяжёлой метательной пехоты в Европе, служа наёмниками у королей от Франции до Кастилии и Byzantийской империи. Генуэзские производители арбалетов изготавливали наиболее мощные и точные из доступных составные арбалеты, а их стрелки обучались с детства. Арбалетчики сражались при Креси в 1346 году — где были обращены в бегство английскими лучниками при спорных обстоятельствах — и при Никополе в 1396 году. Генуя экспортировала военную экспертизу столь же охотно, как финансовые инструменты, используя военную службу как коммерческую сделку.",
+      "latitude": 44.41,
+      "longitude": 8.93,
+      "source": "https://en.wikipedia.org/wiki/Genoese_crossbowmen",
+      "tags": [
+        "Genoa",
+        "Genoese",
+        "War",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1371",
+      "era": "AD",
+      "name": "Genoese Victory at Battle of Pola",
+      "name_ru": "Генуэзская победа в битве при Поле",
+      "description": "In 1371, a Genoese fleet defeated a Venetian fleet at the Battle of Pola in the Adriatic, as part of the War of Chioggia — the final and most existential of the Genoese-Venetian naval wars. The Genoese admiral Luciano Doria routed the Venetians, opening the Adriatic to Genoese naval dominance. The victory led to the unprecedented Genoese advance into the Venetian lagoon itself in 1379, when Genoese forces occupied Chioggia — the southern entrance to Venice — and blockaded the city. Venice was brought to the edge of surrender, its food supplies failing and its fleet apparently destroyed. The near-fall of Venice at this moment represents the closest Genoa ever came to eliminating its great commercial rival.",
+      "description_ru": "В 1371 году генуэзский флот разбил Венецианский флот в битве при Поле в Адриатике в ходе Войны за Кьоджу — последней и наиболее экзистенциальной из Генуэзско-Венецианских морских войн. Генуэзский адмирал Лучано Дориа разгромил Венецианцев, открыв Адриатику для Генуэзского морского господства. Победа привела к беспрецедентному Генуэзскому наступлению в саму Венецианскую лагуну в 1379 году, когда Генуэзские силы заняли Кьоджу — южный вход в Венецию — и заблокировали город. Венеция была доведена до грани сдачи, её продовольственные запасы иссякали, а флот, по видимости, был уничтожен.",
+      "latitude": 44.87,
+      "longitude": 13.85,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Pola_(1379)",
+      "tags": [
+        "Genoa",
+        "Venice",
+        "Seamen",
+        "Maritime"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "24.06.1380",
+      "era": "AD",
+      "name": "Battle of Chioggia — Venice Defeats Genoa in the Final Reckoning",
+      "name_ru": "Битва при Кьодже — Венеция разбивает Геную в окончательном счёте",
+      "description": "The War of Chioggia concluded on 24 June 1380 when the besieged Genoese forces in Chioggia — cut off in turn by a Venetian counter-blockade — surrendered. Venice had escaped total destruction through a desperate improvised naval campaign that reversed the Genoese siege. The Genoese admiral Pietro Doria had been killed by a Venetian artillery shot. The Genoese garrison surrendered; the fleet that had seemed poised to destroy Venice was itself destroyed. The battle ended Genoese pretensions to Adriatic primacy. Genoa never again mounted a sustained naval challenge to Venice. The defeat, combined with chronic internal political instability, began the long decline of the Genoese republic.",
+      "description_ru": "Война за Кьоджу завершилась 24 июня 1380 года, когда Генуэзский гарнизон в Кьодже — блокированный в свою очередь Венецианской контрблокадой — сдался. Венеция спаслась от полного уничтожения благодаря отчаянной импровизированной морской кампании, обратившей Генуэзскую осаду. Генуэзский адмирал Пьетро Дориа был убит выстрелом Венецианской артиллерии. Генуэзский гарнизон сдался; флот, казалось бы готовившийся уничтожить Венецию, был уничтожен сам. Битва положила конец Генуэзским претензиям на первенство в Адриатике. Генуя никогда больше не предпринимала устойчивого морского вызова Венеции.",
+      "latitude": 45.22,
+      "longitude": 12.28,
+      "source": "https://en.wikipedia.org/wiki/War_of_Chioggia",
+      "tags": [
+        "Genoa",
+        "Venice",
+        "Seamen",
+        "War"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "08.08.1381",
+      "era": "AD",
+      "name": "Peace of Turin — Genoese-Venetian Wars Conclude",
+      "name_ru": "Туринский мир — Генуэзско-Венецианские войны завершены",
+      "description": "The Peace of Turin, signed on 8 August 1381, formally ended the War of Chioggia. Venice retained Adriatic primacy; Genoa renounced its claims. The settlement was mediated by Amadeus VI of Savoy. The peace confirmed that neither republic had the resources to destroy the other; the century-long war had exhausted both. Genoa kept its Black Sea empire — Caffa, Tana, Chios, and Galata — while Venice dominated the Aegean and Adriatic. The two cities would coexist in commercial competition but without major naval warfare for the rest of the medieval period. For Genoa, the peace marked the end of its aspirations to Mediterranean supremacy and the beginning of its consolidation as a colonial and financial power rather than a naval hegemon.",
+      "description_ru": "Туринский мир, подписанный 8 августа 1381 года, официально завершил Войну за Кьоджу. Венеция сохранила первенство в Адриатике; Генуя отказалась от претензий. Урегулирование осуществил Амедей VI Савойский. Мир подтвердил, что ни одна из республик не располагает ресурсами для уничтожения другой; столетняя война истощила обе. Генуя сохранила Черноморскую империю — Каффу, Тану, Хиос и Галату, — тогда как Венеция господствовала в Эгейском и Адриатическом морях. Для Генуи мир ознаменовал конец притязаний на средиземноморское верховенство и начало её консолидации как колониальной и финансовой державы, а не морского гегемона.",
+      "latitude": 45.07,
+      "longitude": 7.69,
+      "source": "https://en.wikipedia.org/wiki/Peace_of_Turin_(1381)",
+      "tags": [
+        "Genoa",
+        "Venice",
+        "Italian",
+        "Treaty"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "02.08.1407",
+      "era": "AD",
+      "name": "Bank of Saint George Founded — Europe's Most Advanced Financial Institution",
+      "name_ru": "Основан Банк Святого Георгия — наиболее передовой финансовый институт Европы",
+      "description": "On 2 August 1407, several Genoese creditor associations merged to form the Casa di San Giorgio — the Bank of Saint George — to manage the consolidated public debt of the Genoese republic. The bank was capitalized by shares, governed by elected protectors, and maintained accounts for thousands of depositors. It accepted deposits, made loans, and managed tax collection on behalf of the commune. Machiavelli described it as a state within a state. The Bank of Saint George is considered one of the earliest recognisable joint-stock banks in European history and a foundational institution of modern finance. It operated continuously until 1805, when Napoleon suppressed it. Christopher Columbus — a Genoese — referenced it in his will.",
+      "description_ru": "2 августа 1407 года несколько Генуэзских ассоциаций кредиторов объединились для образования Casa di San Giorgio — Банка Святого Георгия — для управления консолидированным государственным долгом Генуэзской республики. Банк был капитализирован акциями, управлялся выборными протекторами и вёл счета для тысяч вкладчиков. Он принимал вклады, выдавал кредиты и управлял сбором налогов от имени коммуны. Макиавелли описывал его как государство в государстве. Банк Святого Георгия считается одним из ранних узнаваемых акционерных банков в европейской истории и основополагающим институтом современных финансов. Он непрерывно работал вплоть до 1805 года, когда его упразднил Наполеон. Христофор Колумб — генуэзец — упомянул его в завещании.",
+      "latitude": 44.41,
+      "longitude": 8.93,
+      "source": "https://en.wikipedia.org/wiki/Bank_of_Saint_George",
+      "tags": [
+        "Genoa",
+        "Genoese",
+        "Economic",
+        "Culture"
+      ],
+      "type": "cultural"
+    }
+  ]
+}
