@@ -1,0 +1,635 @@
+{
+  "description": "Dataset covering the Florentine Republic from its emergence as a commune to the expulsion of the Medici — 36 events spanning 1000–1494 AD, tracing the guild revolution, the gold florin, Guelph-Ghibelline wars, the three great literary figures, the banking system, and the Medici golden age.",
+  "events": [
+    {
+      "date": "01.01.1000",
+      "era": "AD",
+      "name": "Florence Emerges as Self-Governing Commune",
+      "name_ru": "Флоренция возникает как самоуправляемая коммуна",
+      "description": "By the year 1000, Florence had developed the institutional features of a self-governing commune: elected consuls drawn from the leading merchant and landowning families, a communal assembly, and a growing body of customary law governing commercial disputes. The city occupied the site of the Roman Florentia at a crossing of the Arno. Its position at the junction of the roads from Rome to northern Europe and from the Adriatic to the Tyrrhenian coast made it the commercial hub of Tuscany — a geographic advantage that would define every subsequent century of Florentine history.",
+      "description_ru": "К 1000 году Флоренция выработала институциональные черты самоуправляемой коммуны: выборные консулы из ведущих купеческих и землевладельческих семей, коммунальное собрание и растущий свод обычного права, регулировавшего торговые споры. Город занимал место Римской Флоренции у переправы через Арно. Его положение на пересечении дорог из Рима в Северную Европу и с Адриатики к Тирренскому морю сделало его торговым узлом Тосканы — географическое преимущество, определявшее каждый последующий век Флорентийской истории.",
+      "latitude": 43.769,
+      "longitude": 11.255,
+      "source": "https://en.wikipedia.org/wiki/Florence",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Foundation",
+        "Trade"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "27.07.1115",
+      "era": "AD",
+      "name": "Matilda of Tuscany Dies — Florence Seizes Independence",
+      "name_ru": "Матильда Тосканская умирает — Флоренция захватывает независимость",
+      "description": "On 24 July 1115, Countess Matilda of Tuscany — the most powerful ruler of central Italy — died without direct heirs, having bequeathed her vast lands to the papacy. The resulting power vacuum between Pope and Emperor gave the Florentine commune the opportunity to assert full independence from margraves and bishops. Within a generation, Florence had absorbed the surrounding countryside, extending its jurisdiction across the Arno valley and beginning the systematic reduction of the rival urban centres — Fiesole, Prato, Pistoia — that would define its territorial expansion for the next two centuries.",
+      "description_ru": "24 июля 1115 года графиня Матильда Тосканская — самая могущественная правительница Центральной Италии — умерла без прямых наследников, завещав свои обширные земли папству. Образовавшийся вакуум власти между папой и императором дал Флорентийской коммуне возможность утвердить полную независимость от маркграфов и епископов. В течение одного поколения Флоренция поглотила окружающие сельские территории, распространив юрисдикцию по долине Арно и начав планомерное вытеснение соперничавших городских центров — Фьезоле, Прато, Пистойи, — определявшее её территориальное расширение на протяжении следующих двух столетий.",
+      "latitude": 43.769,
+      "longitude": 11.255,
+      "source": "https://en.wikipedia.org/wiki/Matilda_of_Tuscany",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Foundation",
+        "Expansion"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1125",
+      "era": "AD",
+      "name": "Florence Destroys Fiesole",
+      "name_ru": "Флоренция уничтожает Фьезоле",
+      "description": "In 1125, Florentine forces besieged and demolished Fiesole — the ancient Etruscan hilltop city immediately north of Florence — ending a century of rivalry. The walls were pulled down, the civic buildings razed, and the population forced to relocate to Florence proper. The destruction of Fiesole was the first and most complete of the annexations by which Florence eliminated its Tuscan rivals and absorbed their populations into its own growing workforce. The rubble from Fiesole was reportedly used in Florentine construction projects. The operation established the template for Florentine territorial policy: total absorption, no rival left standing.",
+      "description_ru": "В 1125 году Флорентийские силы осадили и снесли Фьезоле — древний этрусский город на холме к северу от Флоренции, — прекратив вековое соперничество. Стены были разрушены, общественные здания снесены, население вынуждено переселиться непосредственно во Флоренцию. Уничтожение Фьезоле стало первым и наиболее полным из поглощений, посредством которых Флоренция ликвидировала Тосканских соперников и включила их население в собственную растущую рабочую силу. Говорят, обломки Фьезоле использовались во Флорентийских строительных проектах. Операция установила образец Флорентийской территориальной политики: полное поглощение, никаких конкурентов.",
+      "latitude": 43.806,
+      "longitude": 11.293,
+      "source": "https://en.wikipedia.org/wiki/Fiesole",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Conquest",
+        "Expansion"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.06.1183",
+      "era": "AD",
+      "name": "Peace of Constance — Lombard Communes Gain Self-Governance",
+      "name_ru": "Мир в Констанце — Ломбардские коммуны получают самоуправление",
+      "description": "The Peace of Constance (25 June 1183) between Emperor Frederick Barbarossa and the Lombard League formally recognised the right of the northern Italian communes to self-governance: their own consuls, legal systems, tolls, and militias. Although Florence was not a member of the Lombard League, the treaty established the legal precedent on which all Italian communes — including Florence — grounded their independence from imperial authority. The settlement ended four decades of violent Hohenstaufen attempts to reassert direct control over Italian cities and secured the institutional framework that would allow the Italian merchant republics to develop unimpeded for the next two centuries.",
+      "description_ru": "Мир в Констанце (25 июня 1183 года) между Фридрихом Барбароссой и Ломбардской лигой официально признал право Северно-Итальянских коммун на самоуправление: собственные консулы, правовые системы, пошлины и ополчения. Хотя Флоренция не входила в Ломбардскую лигу, договор установил правовой прецедент, на котором все Итальянские коммуны — включая Флоренцию — основывали независимость от имперской власти. Соглашение завершило четыре десятилетия насильственных Гогенштауфенских попыток восстановить прямой контроль над итальянскими городами.",
+      "latitude": 47.663,
+      "longitude": 9.173,
+      "source": "https://en.wikipedia.org/wiki/Peace_of_Constance",
+      "tags": [
+        "Italian",
+        "Diplomacy",
+        "Treaty",
+        "Reform"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1250",
+      "era": "AD",
+      "name": "Primo Popolo — Florence's First Guild Government",
+      "name_ru": "Примо Пополо — первое гильдейское правительство Флоренции",
+      "description": "With Emperor Frederick II dead and imperial pressure lifted, Florence's merchant guilds established the Primo Popolo in 1250 — the first genuinely guild-based government in the city's history. Power was formally transferred from the feudal nobility to the merchant and artisan classes: a Captain of the People (Capitano del Popolo) led the government alongside a new council of guild representatives. The grandi — the old noble families — were excluded from key offices. The Primo Popolo lasted only a decade before the Ghibelline victory at Montaperti in 1260 reversed it, but it established the institutional model that would define Florentine republicanism for two centuries.",
+      "description_ru": "После смерти Фридриха II и снятия имперского давления Флорентийские купеческие гильдии основали Примо Пополо в 1250 году — первое подлинно гильдейское правительство в истории города. Власть была официально передана от феодальной знати к купеческим и ремесленным сословиям: Капитан народа (Capitano del Popolo) возглавлял правительство совместно с новым советом представителей гильдий. Гранди — старые знатные семьи — были отстранены от ключевых должностей. Примо Пополо просуществовало лишь десятилетие до Гибеллинской победы при Монтаперти в 1260 году, но установило институциональный образец, определявший Флорентийский республиканизм два столетия.",
+      "latitude": 43.769,
+      "longitude": 11.255,
+      "source": "https://en.wikipedia.org/wiki/Primo_Popolo",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Reform",
+        "Foundation"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "11.11.1252",
+      "era": "AD",
+      "name": "Gold Florin Minted — First Major Gold Coin in Western Europe Since Charlemagne",
+      "name_ru": "Отчеканен Золотой флорин — первая крупная золотая монета в Западной Европе со времён Карла Великого",
+      "description": "On 11 November 1252, Florence minted the gold florin — the fiorino d'oro — weighing 3.537 grams of pure 24-karat gold, stamped with the Florentine lily on one side and John the Baptist on the other. It was the first major gold coin produced in western Europe since the Carolingian period. The florin instantly became the standard currency of European international commerce: contracts across the continent were denominated in florins, and the coin circulated from England to the Levant with a reliability that no European currency had achieved for centuries. Within a generation, Florence's banking houses were the dominant financial intermediaries of Christian Europe.",
+      "description_ru": "11 ноября 1252 года Флоренция отчеканила золотой флорин — fiorino d'oro, — весивший 3,537 грамма чистого 24-каратного золота, украшенный Флорентийской лилией с одной стороны и Иоанном Крестителем с другой. Это была первая крупная золотая монета, произведённая в Западной Европе со времён Каролингов. Флорин мгновенно стал стандартной валютой Европейской международной торговли: контракты по всему континенту номинировались во флоринах, и монета обращалась от Англии до Леванта с надёжностью, недостигнутой ни одной Европейской валютой на протяжении столетий. В течение одного поколения Флорентийские банкирские дома стали ведущими финансовыми посредниками христианской Европы.",
+      "latitude": 43.769,
+      "longitude": 11.255,
+      "source": "https://en.wikipedia.org/wiki/Florin",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Trade",
+        "Economic"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1255",
+      "era": "AD",
+      "name": "Bargello Palace — Florence Builds Its First Civic Building",
+      "name_ru": "Палаццо Барджелло — Флоренция строит своё первое гражданское здание",
+      "description": "Construction began on the Bargello in 1255 — originally the Palazzo del Popolo, seat of the Captain of the People. It was the first purpose-built civic building in Florence, a massive fortress-like structure with a tall tower that announced the power of the commune over the noble family towers that had previously dominated the city's skyline. Over the following century, the Bargello served successively as the seat of the Podestà, the chief executive of the republic; as the headquarters of the judicial police; and eventually as a prison. Today it houses the national sculpture museum, its courtyard and halls preserving the greatest concentration of Italian medieval sculpture outside the Vatican.",
+      "description_ru": "Строительство Барджелло началось в 1255 году — первоначально Палаццо дель Пополо, резиденция Капитана народа. Это было первое специально возведённое гражданское здание Флоренции: массивное крепостеподобное сооружение с высокой башней, провозглашавшей власть коммуны над башнями знатных семей, прежде доминировавшими в городском силуэте. На протяжении следующего столетия Барджелло последовательно служил резиденцией Подесты — главного исполнительного лица республики; штаб-квартирой судебной полиции; и в конечном счёте тюрьмой. Сегодня в нём размещается национальный музей скульптуры.",
+      "latitude": 43.769,
+      "longitude": 11.258,
+      "source": "https://en.wikipedia.org/wiki/Bargello",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Building 🏠",
+        "Foundation"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "04.09.1260",
+      "era": "AD",
+      "name": "Battle of Montaperti — Siena Annihilates the Florentine Army",
+      "name_ru": "Битва при Монтаперти — Сиена уничтожает Флорентийскую армию",
+      "description": "On 4 September 1260, the Sienese Ghibelline army — reinforced by Manfred of Sicily's cavalry — annihilated the Florentine Guelph force at Montaperti near Siena. Florentine casualties were catastrophic: some 2,500 killed and 15,000 captured from a force of roughly 30,000. The Guelph government collapsed; the Ghibellines returned to Florence and reversed the Primo Popolo reforms. At a subsequent Ghibelline parliament in Empoli, delegates debated demolishing Florence entirely; the exiled Florentine Ghibelline Farinata degli Uberti reportedly refused, sparing the city. Dante immortalised Farinata's act in Inferno — placing him in the City of Dis as a heretic, but describing him with unmistakable admiration.",
+      "description_ru": "4 сентября 1260 года Сиенская Гибеллинская армия — усиленная кавалерией Манфреда Сицилийского — уничтожила Флорентийское Гвельфское войско при Монтаперти близ Сиены. Потери Флоренции были катастрофическими: около 2500 убитых и 15 000 пленных из примерно 30-тысячного войска. Гвельфское правительство рухнуло; Гибеллины вернулись во Флоренцию и отменили реформы Примо Пополо. На последующем Гибеллинском парламенте в Эмполи делегаты обсуждали полное разрушение Флоренции; изгнанный Флорентийский Гибеллин Фарината дельи Уберти, по преданию, отказался, пощадив город. Данте обессмертил этот поступок в «Аду».",
+      "latitude": 43.285,
+      "longitude": 11.476,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Montaperti",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "War",
+        "Crisis"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.06.1265",
+      "era": "AD",
+      "name": "Dante Alighieri Born in Florence",
+      "name_ru": "Данте Алигьери родился во Флоренции",
+      "description": "Dante Alighieri was born in Florence in late spring or early summer 1265, into a family of minor Guelph nobility. He would become the defining figure of Italian literature — his Divine Comedy, composed in exile between approximately 1308 and 1320, established the Tuscan vernacular as a literary language of the highest order and remains one of the foundational texts of western civilisation. Dante's relationship with Florence was one of love and bitter hatred: the city formed him entirely, then banished him for life in 1302 on fabricated political charges. He died in Ravenna in 1321, having never returned. Florence has spent seven hundred years trying to apologise.",
+      "description_ru": "Данте Алигьери родился во Флоренции в конце весны или начале лета 1265 года в семье мелкой Гвельфской знати. Он стал определяющей фигурой итальянской литературы — его «Божественная комедия», созданная в изгнании приблизительно между 1308 и 1320 годами, утвердила Тосканский народный язык как литературный язык высшего порядка и остаётся одним из основополагающих текстов западной цивилизации. Отношения Данте с Флоренцией были любовью и горькой ненавистью: город полностью сформировал его, затем изгнал пожизненно в 1302 году по сфабрикованным политическим обвинениям. Он умер в Равенне в 1321 году, так и не вернувшись. Флоренция провела семьсот лет, пытаясь извиниться.",
+      "latitude": 43.769,
+      "longitude": 11.255,
+      "source": "https://en.wikipedia.org/wiki/Dante_Alighieri",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Culture",
+        "Foundation"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "26.02.1266",
+      "era": "AD",
+      "name": "Battle of Benevento — Ghibellines Crushed, Guelphs Return to Florence",
+      "name_ru": "Битва при Беневенто — Гибеллины разгромлены, Гвельфы возвращаются во Флоренцию",
+      "description": "On 26 February 1266, Charles of Anjou — invited into Italy by Pope Clement IV — defeated and killed Manfred of Sicily at Benevento, ending Hohenstaufen power in Italy. The battle reversed the political balance across the peninsula: the Ghibelline cause that had triumphed at Montaperti in 1260 collapsed within months. In Florence, the Ghibellines were expelled and the Guelph party returned to power, reversing all Ghibelline legislation. The Florentine Guelphs would never be expelled again. The battle cemented Florence's alignment with the papal-Angevin alliance that defined its foreign policy for the next generation — a profitable position that gave Florentine bankers privileged access to papal revenue collection.",
+      "description_ru": "26 февраля 1266 года Карл Анжуйский — призванный в Италию папой Климентом IV — разгромил и убил Манфреда Сицилийского при Беневенто, положив конец Гогенштауфенской власти в Италии. Битва перевернула политический баланс по всему полуострову: Гибеллинское дело, торжествовавшее при Монтаперти в 1260 году, рухнуло в течение нескольких месяцев. Во Флоренции Гибеллины были изгнаны, Гвельфская партия вернулась к власти, отменив всё Гибеллинское законодательство. Флорентийские Гвельфы никогда больше не были изгнаны. Битва закрепила союз Флоренции с папско-Анжуйским альянсом, обеспечив Флорентийским банкирам привилегированный доступ к папским финансам.",
+      "latitude": 41.13,
+      "longitude": 14.784,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Benevento_(1266)",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "War",
+        "Expansion"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "11.06.1269",
+      "era": "AD",
+      "name": "Battle of Colle Val d'Elsa — Florence Defeats Siena",
+      "name_ru": "Битва при Колле-Валь-д'Эльса — Флоренция побеждает Сиену",
+      "description": "On 11 June 1269, the Florentine Guelph army and its allies defeated the Sienese Ghibellines at Colle Val d'Elsa, reversing the result of Montaperti nine years earlier. The Ghibelline commander Provenzano Salvani — Siena's dominant political figure who had led the Ghibelline cause since Montaperti — was captured and beheaded. The defeat permanently broke Sienese military capacity and ended the Sienese-Ghibelline threat to Florence. Florence dominated the road network of southern Tuscany after the battle and began the systematic commercial expansion that would, over the following century, make the Florentine economy the largest in Italy.",
+      "description_ru": "11 июня 1269 года Флорентийская Гвельфская армия и её союзники разгромили Сиенских Гибеллинов при Колле-Валь-д'Эльса, обратив вспять результат Монтаперти девятью годами ранее. Гибеллинский командующий Провенцано Сальвани — доминирующая политическая фигура Сиены, возглавлявший Гибеллинское дело с Монтаперти, — был захвачен и обезглавлен. Поражение окончательно сломило Сиенский военный потенциал и прекратило Сиенско-Гибеллинскую угрозу Флоренции. Флоренция установила контроль над дорожной сетью Южной Тосканы, начав систематическую коммерческую экспансию, которая за следующее столетие сделала Флорентийскую экономику крупнейшей в Италии.",
+      "latitude": 43.425,
+      "longitude": 11.129,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Colle_di_Val_d%27Elsa",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "War",
+        "Expansion"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1282",
+      "era": "AD",
+      "name": "Priorate of the Arts Established — Merchant Guilds Govern Florence",
+      "name_ru": "Учреждён Приорат Искусств — купеческие гильдии управляют Флоренцией",
+      "description": "In 1282, the major merchant guilds (Arti Maggiori) established the Priorate — a governing committee of six Priors elected from guild members, rotating every two months. The reform concentrated executive power in the hands of the merchant class and formalized the exclusion of the old feudal nobility from the highest offices. The Priorate would govern Florence — with variations — for the next two centuries, making the city the most sustained experiment in merchant-class republicanism in medieval Europe. The system's instability lay in the constant competition between the seven major guilds and the fourteen lesser guilds, and between guild leaders and the magnate families who could not be entirely excluded from Florentine life.",
+      "description_ru": "В 1282 году крупные купеческие гильдии (Arti Maggiori) учредили Приорат — правящий комитет из шести Приоров, избиравшихся из членов гильдий и ротировавшихся каждые два месяца. Реформа сосредоточила исполнительную власть в руках купеческого сословия и формализовала отстранение старой феодальной знати от высших должностей. Приорат управлял Флоренцией — с вариациями — на протяжении следующих двух столетий, делая город наиболее длительным экспериментом в Средневековой Европе в области купеческого республиканизма. Нестабильность системы заключалась в постоянной конкуренции между семью крупными гильдиями и четырнадцатью меньшими.",
+      "latitude": 43.769,
+      "longitude": 11.255,
+      "source": "https://en.wikipedia.org/wiki/Priorate_of_Florence",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Reform",
+        "Trade"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "11.06.1289",
+      "era": "AD",
+      "name": "Battle of Campaldino — Florence Defeats Arezzo; Dante Serves as Cavalry",
+      "name_ru": "Битва при Кампальдино — Флоренция побеждает Ареццо; Данте служит кавалеристом",
+      "description": "On 11 June 1289, the Florentine Guelph army crushed the Ghibelline forces of Arezzo at Campaldino in the Casentino valley. Among the Florentine cavalry was the twenty-four-year-old Dante Alighieri, serving as a feditor — front-line heavy cavalryman — in one of the bloodiest battles of the Tuscan wars. The Florentine victory opened the road to Arezzo and eventually led to the absorption of the city into the Florentine sphere. Dante later referenced the battle in Purgatorio, and several of its participants appear in the Divine Comedy. The campaign demonstrated Florence's military capacity at the same moment that its literary and commercial culture was reaching its pre-plague peak.",
+      "description_ru": "11 июня 1289 года Флорентийская Гвельфская армия разгромила Гибеллинские силы Ареццо при Кампальдино в долине Казентино. В числе Флорентийской кавалерии был двадцатичетырёхлетний Данте Алигьери, служивший федитором — тяжёлым кавалеристом первой линии — в одном из кровопролитнейших сражений Тосканских войн. Флорентийская победа открыла дорогу на Ареццо и в итоге привела к поглощению города Флорентийской сферой. Данте впоследствии упомянул битву в «Чистилище», а несколько её участников появляются в «Божественной комедии».",
+      "latitude": 43.724,
+      "longitude": 11.751,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Campaldino",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "War",
+        "Expansion"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "18.01.1293",
+      "era": "AD",
+      "name": "Ordinances of Justice — Merchant Class Seizes Political Power",
+      "name_ru": "Ордонансы справедливости — купеческий класс захватывает политическую власть",
+      "description": "On 18 January 1293, the Florentine commune enacted the Ordinances of Justice — a radical constitutional reform pushed through by Giano della Bella, a nobleman who had turned against his own class. The Ordinances formally excluded the grandi (magnate families) from the six highest civic offices, created the post of Gonfaloniere of Justice as a seventh Prior to enforce the law against noble violence, and subjected magnate families to collective liability for the crimes of their members. The legislation was the most explicit experiment in anti-aristocratic democracy in medieval European history. The grandi fought back repeatedly; Giano himself was exiled within a year. But the Ordinances were never fully repealed and defined Florentine political culture for the next two centuries.",
+      "description_ru": "18 января 1293 года Флорентийская коммуна приняла Ордонансы справедливости — радикальную конституционную реформу, проведённую Джано делла Беллой, дворянином, обратившимся против собственного класса. Ордонансы официально отстранили гранди (семьи магнатов) от шести высших гражданских должностей, создали пост Гонфалоньера справедливости как седьмого Приора для применения закона против дворянского насилия и распространили коллективную ответственность на семьи магнатов за преступления их членов. Законодательство было наиболее явным экспериментом в антиаристократической демократии в истории Средневековой Европы. Гранди неоднократно сопротивлялись; сам Джано был изгнан в течение года. Но Ордонансы никогда не были полностью отменены.",
+      "latitude": 43.769,
+      "longitude": 11.255,
+      "source": "https://en.wikipedia.org/wiki/Ordinances_of_Justice",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Reform",
+        "Law"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "08.09.1296",
+      "era": "AD",
+      "name": "Cathedral of Santa Maria del Fiore — Foundation Stone Laid",
+      "name_ru": "Собор Санта-Мария-дель-Фьоре — заложен первый камень",
+      "description": "On 8 September 1296, Bishop Vaio of Florence laid the foundation stone of the new cathedral — Santa Maria del Fiore — designed by the sculptor-architect Arnolfo di Cambio. The project replaced the old Cathedral of Santa Reparata, which had become inadequate for Florence's growing population. Arnolfo's design called for an enormous nave and, at the crossing, a dome of unprecedented span — a technical problem that no engineer of the age knew how to solve. Construction would continue for more than a century; the nave and walls were completed before the dome question was addressed. The dome problem would eventually produce one of the greatest engineering achievements in European history.",
+      "description_ru": "8 сентября 1296 года епископ Флоренции Вайо заложил первый камень нового собора — Санта-Мария-дель-Фьоре, — спроектированного скульптором-архитектором Арнольфо ди Камбио. Проект заменял старый Собор Санта-Репарата, ставший недостаточным для растущего населения Флоренции. Замысел Арнольфо предусматривал огромный неф и, над перекрёстком, купол беспрецедентного размаха — техническую проблему, которую ни один инженер эпохи не знал, как решить. Строительство продолжалось более столетия; неф и стены были завершены прежде, чем вопрос с куполом был решён. Проблема купола в итоге породила одно из величайших инженерных достижений в Европейской истории.",
+      "latitude": 43.773,
+      "longitude": 11.256,
+      "source": "https://en.wikipedia.org/wiki/Florence_Cathedral",
+      "tags": [
+        "Florentine",
+        "Building 🏠",
+        "Culture",
+        "Italian"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1299",
+      "era": "AD",
+      "name": "Palazzo della Signoria Construction Begins",
+      "name_ru": "Начало строительства Палаццо делла Синьория",
+      "description": "Construction began in 1299 on the Palazzo della Signoria — today known as the Palazzo Vecchio — the seat of Florence's republican government. Also attributed to Arnolfo di Cambio, the building's massive rusticated walls and soaring tower (94 metres) made it the dominant structure in the city's civic heart. Built on a asymmetric plan to avoid consecrated ground, the palazzo housed the six Priors and the Gonfaloniere of Justice during their two-month terms of office. The great hall and the attached Loggia dei Lanzi — added in 1382 — became the principal stage of Florentine public life and remain among the finest examples of civic Gothic architecture in Europe.",
+      "description_ru": "В 1299 году началось строительство Палаццо делла Синьория — сегодня известного как Палаццо Веккьо, — резиденции республиканского правительства Флоренции. Также приписываемое Арнольфо ди Камбио, здание с массивными рустованными стенами и высокой башней (94 метра) стало доминирующим строением в гражданском центре города. Возведённое по асимметричному плану во избежание освящённой земли, палаццо размещало шестерых Приоров и Гонфалоньера справедливости в течение их двухмесячных каденций. Большой зал и примыкающая Лоджия деи Ланци — добавленная в 1382 году — стали главной сценой Флорентийской общественной жизни.",
+      "latitude": 43.769,
+      "longitude": 11.256,
+      "source": "https://en.wikipedia.org/wiki/Palazzo_Vecchio",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Building 🏠",
+        "Foundation"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "27.01.1302",
+      "era": "AD",
+      "name": "Dante Alighieri Exiled from Florence",
+      "name_ru": "Данте Алигьери изгнан из Флоренции",
+      "description": "On 27 January 1302, the Black Guelph faction that had seized control of Florence sentenced Dante Alighieri in absentia — he was on a diplomatic mission to Pope Boniface VIII — to two years' exile, a substantial fine, and a ban on holding public office, on charges of corruption and opposition to the Pope. When Dante failed to appear and pay, the sentence was escalated to permanent exile and death if he should return. He never did. From 1302 until his death in Ravenna in 1321, Dante wandered the courts of northern Italy, writing the Inferno, Purgatorio, and Paradiso — works that reframed Florence as both the model and the corruption of the world.",
+      "description_ru": "27 января 1302 года фракция Чёрных Гвельфов, захватившая власть во Флоренции, заочно приговорила Данте Алигьери — находившегося в дипломатической миссии к папе Бонифацию VIII — к двум годам изгнания, значительному штрафу и запрету занимать общественные должности по обвинению в коррупции и противодействии папе. Когда Данте не явился и не уплатил, приговор был ужесточён до пожизненного изгнания и смерти в случае возвращения. Он так и не вернулся. С 1302 года до смерти в Равенне в 1321 году Данте странствовал при дворах Северной Италии, создавая «Ад», «Чистилище» и «Рай».",
+      "latitude": 43.769,
+      "longitude": 11.255,
+      "source": "https://en.wikipedia.org/wiki/Dante_Alighieri",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Culture",
+        "Crisis"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1334",
+      "era": "AD",
+      "name": "Giotto Appointed Architect of the Cathedral Campanile",
+      "name_ru": "Джотто назначен архитектором колокольни Собора",
+      "description": "In 1334, the commune of Florence appointed Giotto di Bondone — the dominant painter of his generation and the first to break decisively from Byzantine stylization toward naturalistic representation — as capomaestro of the Cathedral works, including the design of the campanile (bell tower). Giotto began the bell tower that now bears his name, laying out the first storey with geometric marble inlay panels before his death in 1337. The Campanile was completed by Andrea Pisano and Francesco Talenti with modifications. Giotto's appointment reflected Florence's deliberate policy of concentrating the greatest artistic talent of the age on its civic and religious monuments as a statement of cultural supremacy.",
+      "description_ru": "В 1334 году коммуна Флоренции назначила Джотто ди Бондоне — ведущего живописца своего поколения, первого решительно отступившего от Byzantийской стилизации к натуралистическому изображению, — главным архитектором Соборных работ, включая проектирование кампаниле (колокольни). Джотто заложил первый ярус колокольни, носящей теперь его имя, украсив его геометрическими мраморными инкрустированными панелями, прежде чем умер в 1337 году. Кампаниле была завершена Андреа Пизано и Франческо Талентти с изменениями. Назначение Джотто отражало целенаправленную политику Флоренции сосредотачивать величайшее художественное дарование эпохи на своих гражданских и религиозных памятниках.",
+      "latitude": 43.773,
+      "longitude": 11.256,
+      "source": "https://en.wikipedia.org/wiki/Giotto%27s_Campanile",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Building 🏠",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1340",
+      "era": "AD",
+      "name": "Bardi and Peruzzi Banks — Dominant Creditors to European Monarchs",
+      "name_ru": "Банки Барди и Перуцци — ведущие кредиторы Европейских монархов",
+      "description": "By 1340, the Florentine banking houses of Bardi and Peruzzi had become the largest financial institutions in Europe, managing the finances of the papacy, advancing enormous loans to Edward III of England for his wars against France, and operating branch networks from London to Cyprus. The Bardi firm had lent approximately 900,000 florins to the English crown and the Peruzzi around 600,000 — sums exceeding the annual revenue of most European kingdoms. The Florentine banking system had invented the bill of exchange, the double-entry ledger, and the correspondent banking network that allowed the transfer of funds across Europe without moving coin — the foundational innovations of modern finance.",
+      "description_ru": "К 1340 году Флорентийские банкирские дома Барди и Перуцци стали крупнейшими финансовыми учреждениями Европы, управляя финансами папства, предоставляя огромные займы Эдуарду III Английскому для его войн против Франции и располагая филиальными сетями от Лондона до Кипра. Дом Барди ссудил английской короне около 900 000 флоринов, Перуцци — около 600 000, — суммы, превышавшие годовой доход большинства Европейских королевств. Флорентийская банковская система изобрела переводной вексель, систему двойной бухгалтерии и корреспондентскую банковскую сеть, позволявшую переводить средства по всей Европе без перемещения монеты — основополагающие инновации современных финансов.",
+      "latitude": 43.769,
+      "longitude": 11.255,
+      "source": "https://en.wikipedia.org/wiki/Bardi_family",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Trade",
+        "Economic"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "26.07.1343",
+      "era": "AD",
+      "name": "Florence Expels Walter of Brienne — St. Anne's Day Revolt",
+      "name_ru": "Флоренция изгоняет Гоше де Бриен — восстание в день Святой Анны",
+      "description": "On 26 July 1343 — the feast of St. Anne — the Florentine population rose against Walter of Brienne, Duke of Athens, whom the city had invited as temporary military captain in September 1342 and who had swiftly transformed the appointment into a de facto dictatorship with popular support from the lesser guilds. After nine months of tyranny the major guilds, the grandi, and eventually the people united against him; Walter was driven from the Palazzo della Signoria and escaped the city by night. St. Anne's Day became a permanent Florentine holiday commemorating the republic's deliverance. The episode demonstrated that Florentine republicanism — however chaotic — was too deeply embedded in merchant guild culture to be peacefully dismantled.",
+      "description_ru": "26 июля 1343 года — в праздник Святой Анны — Флорентийское население восстало против Гоше де Бриена, герцога Афинского, которого город пригласил временным военным капитаном в сентябре 1342 года и который быстро превратил назначение в де-факто диктатуру с народной поддержкой меньших гильдий. После девяти месяцев тирании крупные гильдии, гранди и в итоге народ объединились против него; Гоше был изгнан из Палаццо делла Синьория и бежал из города ночью. День Святой Анны стал постоянным Флорентийским праздником, отмечающим спасение республики.",
+      "latitude": 43.769,
+      "longitude": 11.256,
+      "source": "https://en.wikipedia.org/wiki/Walter_VI_of_Brienne",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Reform",
+        "Crisis"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1346",
+      "era": "AD",
+      "name": "Bardi and Peruzzi Banking Houses Collapse",
+      "name_ru": "Банкирские дома Барди и Перуцци рухнули",
+      "description": "Between 1343 and 1346, the Bardi and Peruzzi banking houses collapsed following the sequential default of Edward III of England — who had borrowed vast sums for the Hundred Years' War — and the failure of the Neapolitan crown to service its debts. The Bardi firm declared insolvency in 1346 after losses it could not absorb. Contemporary accounts describe the financial panic that swept Florence: hundreds of subsidiary firms that had placed deposits with the great houses were ruined. Giovanni Villani, who lost his own fortune in the crash, chronicled the collapse with bitter precision. The catastrophe wiped out a generation of Florentine merchant wealth — then the Black Death arrived two years later.",
+      "description_ru": "Между 1343 и 1346 годами банкирские дома Барди и Перуцци рухнули после последовательного дефолта Эдуарда III Английского — занявшего огромные суммы для Столетней войны — и неспособности Неаполитанской короны обслуживать долги. Дом Барди объявил о несостоятельности в 1346 году после непоглощаемых убытков. Современники описывают финансовую панику, охватившую Флоренцию: сотни дочерних фирм, разместивших депозиты у великих домов, разорились. Джованни Виллани, потерявший собственное состояние в крахе, описал коллапс с горькой точностью. Катастрофа уничтожила состояния целого поколения Флорентийских купцов — а два года спустя пришла Чёрная смерть.",
+      "latitude": 43.769,
+      "longitude": 11.255,
+      "source": "https://en.wikipedia.org/wiki/Bardi_family",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Crisis",
+        "Economic"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.04.1348",
+      "era": "AD",
+      "name": "Black Death Kills Half of Florence",
+      "name_ru": "Чёрная смерть уничтожает половину Флоренции",
+      "description": "The Black Death reached Florence in the spring of 1348. Contemporary accounts — including the preface to Boccaccio's Decameron, written by a survivor — describe the total breakdown of social order: families abandoned the dying, corpses lay in the streets, the courts ceased to function, and the city's population of roughly 90,000 fell to approximately 45,000 within months. The epidemic accelerated after the banking collapse of 1346, striking a city already economically weakened. Florence would not regain its pre-plague population for more than a century. The Black Death permanently transformed Florentine society: labour became scarce, wages rose, and the social rigidities that had caused the banking collapse were partly dissolved by the scale of the mortality.",
+      "description_ru": "Чёрная смерть достигла Флоренции весной 1348 года. Современные свидетельства — включая предисловие к «Декамерону» Боккаччо, написанное выжившим, — описывают полный распад социального порядка: семьи бросали умирающих, трупы лежали на улицах, суды прекратили работу, а население города численностью около 90 000 человек за несколько месяцев сократилось примерно до 45 000. Эпидемия усилилась после банковского краха 1346 года, поразив и без того экономически ослабленный город. Флоренция не восстановит дочумного населения более столетия. Чёрная смерть навсегда преобразила Флорентийское общество: труд стал дефицитным, зарплаты выросли.",
+      "latitude": 43.769,
+      "longitude": 11.255,
+      "source": "https://en.wikipedia.org/wiki/Black_Death_in_medieval_Italy",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Plague",
+        "Crisis"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1353",
+      "era": "AD",
+      "name": "Boccaccio Completes the Decameron — Italian Prose Literature Founded",
+      "name_ru": "Боккаччо завершает «Декамерон» — основана итальянская прозаическая литература",
+      "description": "Giovanni Boccaccio — born around 1313 in Florence or Certaldo — completed the Decameron around 1353, framing one hundred tales told by ten young Florentines sheltering from the Black Death in a country villa. The work is the foundational text of Italian prose literature: Boccaccio's vernacular Tuscan, his psychological insight into human behaviour across all social classes, and the sheer narrative range of the tales — tragic, comic, bawdy, philosophical — established the standard for European prose fiction. The Decameron was immediately copied and translated across Europe; it directly influenced Chaucer's Canterbury Tales and was still being read five centuries later as a model of narrative technique.",
+      "description_ru": "Джованни Боккаччо — родившийся около 1313 года во Флоренции или Чертальдо — завершил «Декамерон» около 1353 года, обрамив сто новелл, рассказываемых десятью молодыми флорентийцами, укрывшимися от Чёрной смерти на загородной вилле. Это основополагающий текст итальянской прозаической литературы: народный Тосканский язык Боккаччо, его психологическое проникновение в человеческое поведение всех социальных слоёв и огромный нарративный диапазон новелл — трагических, комических, фривольных, философских — установили стандарт Европейской прозаической фантастики. «Декамерон» был немедленно скопирован и переведён по всей Европе; он непосредственно повлиял на «Кентерберийские рассказы» Чосера.",
+      "latitude": 43.769,
+      "longitude": 11.255,
+      "source": "https://en.wikipedia.org/wiki/The_Decameron",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Culture",
+        "Foundation"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "21.07.1378",
+      "era": "AD",
+      "name": "Ciompi Revolt — Wool Workers Seize the Signoria",
+      "name_ru": "Восстание Чомпи — шерстяники захватывают Синьорию",
+      "description": "On 21 July 1378, Florence's wool carders — the ciompi, the lowest rung of the textile workforce — rose in revolt, stormed the Palazzo della Signoria, and for six weeks held power in the city. The rebels established a guild for the unincorporated wool workers — previously excluded from any political representation — and briefly controlled the government. The Ciompi revolt was the most radical popular uprising in medieval Italian history: a genuine proletarian seizure of state power, not merely a riot. The major guilds recovered control by August; the Ciompi were suppressed and their gains reversed by 1382. But the episode demonstrated the explosive social tensions generated by Florence's textile industry, where the distance between merchant-capitalists and dependent workers had grown extreme.",
+      "description_ru": "21 июля 1378 года Флорентийские чесальщики шерсти — чомпи, низший уровень текстильной рабочей силы — подняли восстание, захватили Палаццо делла Синьория и на протяжении шести недель удерживали власть в городе. Повстанцы учредили гильдию для неорганизованных шерстяников — прежде лишённых какого-либо политического представительства — и на короткое время контролировали правительство. Восстание Чомпи было наиболее радикальным народным выступлением в Средневековой итальянской истории: подлинный пролетарский захват государственной власти. Крупные гильдии восстановили контроль к августу; Чомпи были подавлены, их завоевания отменены к 1382 году.",
+      "latitude": 43.769,
+      "longitude": 11.256,
+      "source": "https://en.wikipedia.org/wiki/Ciompi_revolt",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Reform",
+        "Crisis"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "09.10.1406",
+      "era": "AD",
+      "name": "Florence Conquers Pisa — Gains First Direct Access to the Sea",
+      "name_ru": "Флоренция завоёвывает Пизу — получает первый прямой выход к морю",
+      "description": "On 9 October 1406, Florentine forces completed the reduction of Pisa after a protracted siege and Arno blockade, ending over three centuries of Pisan republican independence. For Florence, the conquest was transformational: as a landlocked city, Florence had always depended on Pisan and Genoese ports for access to maritime trade. Direct control of Pisa — and through it, the Arno estuary — immediately reduced transit costs and gave Florentine merchants a sea outlet they had lacked for four centuries. Within fifteen years, Florence would also acquire Livorno, giving it a second and ultimately more important port. The conquest of Pisa was the single most significant territorial gain in Florentine history.",
+      "description_ru": "9 октября 1406 года Флорентийские силы завершили взятие Пизы после затяжной осады и блокады Арно, прекратив более трёх столетий Пизанской республиканской независимости. Для Флоренции завоевание было преобразующим: как город, не имевший выхода к морю, Флоренция всегда зависела от Пизанских и Генуэзских портов для доступа к морской торговле. Прямой контроль над Пизой — и через неё над устьем Арно — немедленно снизил транзитные издержки и дал Флорентийским купцам морской выход, которого они лишались четыре столетия. В течение пятнадцати лет Флоренция приобретёт и Ливорно, получив второй и в итоге более важный порт.",
+      "latitude": 43.72,
+      "longitude": 10.4,
+      "source": "https://en.wikipedia.org/wiki/Republic_of_Pisa",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Conquest",
+        "Expansion"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1421",
+      "era": "AD",
+      "name": "Florence Acquires Livorno — Direct Access to the Open Sea",
+      "name_ru": "Флоренция приобретает Ливорно — прямой выход в открытое море",
+      "description": "In 1421, Florence purchased the harbour of Livorno for 100,000 florins, acquiring a deep-water port with direct access to the open Tyrrhenian Sea independent of the shallow Arno estuary at Pisa. The acquisition completed Florence's maritime strategy: the city now controlled both the river port at Pisa and the open-sea harbour at Livorno, with road connections to the wool-producing Arno valley behind. Florence immediately began developing Livorno as a commercial hub. Under the Medici the city would grow into one of the great free ports of the Mediterranean — a process that would accelerate dramatically under Cosimo I de' Medici in the sixteenth century.",
+      "description_ru": "В 1421 году Флоренция приобрела гавань Ливорно за 100 000 флоринов, получив глубоководный порт с прямым выходом в открытое Тирренское море, независимый от мелководного устья Арно у Пизы. Приобретение завершило морскую стратегию Флоренции: город теперь контролировал речной порт в Пизе и открытоморскую гавань в Ливорно с дорожными связями с шерстеводческой долиной Арно позади. Флоренция немедленно начала развивать Ливорно как торговый центр. При Медичи город вырастет в один из великих свободных портов Средиземноморья — процесс, резко ускорившийся при Козимо I Медичи в XVI веке.",
+      "latitude": 43.548,
+      "longitude": 10.31,
+      "source": "https://en.wikipedia.org/wiki/Livorno",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Trade",
+        "Expansion"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "05.10.1434",
+      "era": "AD",
+      "name": "Cosimo de' Medici Returns from Exile — Medici Era Begins",
+      "name_ru": "Козимо де Медичи возвращается из изгнания — начинается эпоха Медичи",
+      "description": "On 5 October 1434, Cosimo de' Medici returned to Florence after a year of exile imposed by the Albizzi oligarchy, following a popular realignment that overthrew his enemies and recalled him by Signoria vote. Cosimo — head of the Medici bank, the largest financial institution in Europe at the time — had carefully cultivated popular support while maintaining the outward forms of republican governance. He would never hold formal dictatorial office; instead he controlled Florence through patronage, debt relationships with other families, and careful management of electoral procedures. His thirty-year dominance (1434–1464) was the most stable and culturally productive period in Florentine republican history.",
+      "description_ru": "5 октября 1434 года Козимо де Медичи вернулся во Флоренцию после года изгнания, наложенного олигархией Альбицци, после народного перераспределения сил, свергшего его врагов и отозвавшего его голосованием Синьории. Козимо — глава банка Медичи, крупнейшего финансового учреждения Европы того времени, — тщательно культивировал народную поддержку, сохраняя внешние формы республиканского управления. Он никогда не занимал официальной диктаторской должности; вместо этого он контролировал Флоренцию через патронаж, долговые отношения с другими семьями и тщательное управление избирательными процедурами. Его тридцатилетнее господство (1434–1464) стало наиболее стабильным и культурно продуктивным периодом в Флорентийской республиканской истории.",
+      "latitude": 43.769,
+      "longitude": 11.255,
+      "source": "https://en.wikipedia.org/wiki/Cosimo_de%27_Medici",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Medici",
+        "Reform"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "25.03.1436",
+      "era": "AD",
+      "name": "Brunelleschi's Dome Consecrated — Engineering Marvel of the Age",
+      "name_ru": "Освящён купол Брунеллески — инженерное чудо эпохи",
+      "description": "On 25 March 1436, Pope Eugene IV consecrated the completed dome of Florence Cathedral — designed and constructed by Filippo Brunelleschi using a technique he had developed without precedent. The dome spans 44 metres and rises 114 metres above the floor — larger than the Pantheon in Rome — and was built without the external scaffolding that conventional medieval construction required. Brunelleschi invented a new herringbone brick-laying pattern, special hoisting machines, and an inner and outer shell system that distributed the dome's weight while under construction. The dome remained the largest in the world for over four centuries. It announced Florence's cultural supremacy across Italy and inaugurated the Renaissance architectural tradition.",
+      "description_ru": "25 марта 1436 года папа Евгений IV освятил завершённый купол Флорентийского Собора — спроектированный и возведённый Филиппо Брунеллески по технике, разработанной им без прецедента. Купол охватывает 44 метра в диаметре и возвышается на 114 метров от пола — крупнее Пантеона в Риме — и был построен без внешних лесов, требуемых обычным Средневековым строительством. Брунеллески изобрёл новую ёлочную кладку кирпича, специальные подъёмные механизмы и систему внутренней и наружной оболочек, распределявших вес купола в процессе строительства. Купол оставался крупнейшим в мире более четырёх столетий. Он провозгласил культурное превосходство Флоренции по всей Италии.",
+      "latitude": 43.773,
+      "longitude": 11.256,
+      "source": "https://en.wikipedia.org/wiki/Florence_Cathedral",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Medici",
+        "Building 🏠"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "06.07.1439",
+      "era": "AD",
+      "name": "Council of Florence — Union of Eastern and Western Churches Declared",
+      "name_ru": "Флорентийский Собор — объявлена уния Восточной и Западной церквей",
+      "description": "On 6 July 1439, the Council of Florence — which had been convened in Ferrara and transferred to Florence at Cosimo de' Medici's invitation and expense — issued the Laetentur Caeli decree, formally declaring the reunification of the Roman and Orthodox churches. Emperor John VIII Palaiologos attended in person, seeking western military aid against the Ottoman threat. The union was rejected by the Orthodox clergy back in Constantinople and collapsed within years, but the council had lasting cultural consequences: Greek scholars accompanying the Byzantine delegation brought ancient Greek manuscripts and Platonic philosophy to Florence, directly triggering the Florentine Renaissance engagement with classical antiquity that Cosimo and later Lorenzo would sustain through the Platonic Academy.",
+      "description_ru": "6 июля 1439 года Флорентийский Собор — созванный в Ферраре и перенесённый во Флоренцию по приглашению и за счёт Козимо де Медичи — издал декрет Laetentur Caeli, официально провозгласивший воссоединение Римской и Православной церквей. Emperor Иоанн VIII Палеолог лично присутствовал, добиваясь западной военной помощи против Османской угрозы. Уния была отвергнута православным духовенством в Константинополе и распалась в течение нескольких лет, однако Собор имел длительные культурные последствия: Греческие учёные из Byzantийской делегации привезли во Флоренцию древнегреческие рукописи и Платоновскую философию, непосредственно спровоцировав Флорентийское Ренессансное обращение к классической античности.",
+      "latitude": 43.769,
+      "longitude": 11.255,
+      "source": "https://en.wikipedia.org/wiki/Council_of_Florence",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Medici",
+        "Religious"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "15.04.1452",
+      "era": "AD",
+      "name": "Leonardo da Vinci Born in the Florentine Contado",
+      "name_ru": "Леонардо да Винчи родился во Флорентийской контадо",
+      "description": "On 15 April 1452, Leonardo di ser Piero da Vinci was born in Anchiano, a hamlet near Vinci in the Florentine contado — the rural territory under Florentine jurisdiction. The illegitimate son of a Florentine notary and a local woman, Leonardo was raised partly in Vinci and partly in Florence, where he entered the workshop of Andrea del Verrocchio around 1466. He would remain in Florence until 1482, producing his earliest works under Medici patronage before moving to Milan at the invitation of Ludovico Sforza. His notebooks, paintings, and engineering designs represent the most complete expression of Renaissance universalism — the conviction that art, science, and engineering were aspects of a single form of inquiry.",
+      "description_ru": "15 апреля 1452 года в Анчиано, деревне близ Винчи во Флорентийском контадо — сельской территории под Флорентийской юрисдикцией, — родился Леонардо ди сер Пьеро да Винчи. Внебрачный сын Флорентийского нотариуса и местной женщины, Леонардо воспитывался частично в Винчи, частично во Флоренции, где около 1466 года вошёл в мастерскую Андреа дель Верроккьо. Он оставался во Флоренции до 1482 года, создавая ранние произведения при Медичи, прежде чем переехал в Милан по приглашению Лодовико Сфорца. Его записные книжки, картины и инженерные проекты представляют наиболее полное выражение Ренессансного универсализма.",
+      "latitude": 43.781,
+      "longitude": 10.926,
+      "source": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Culture",
+        "Medici"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1462",
+      "era": "AD",
+      "name": "Platonic Academy Founded in Florence",
+      "name_ru": "Во Флоренции основана Платоновская академия",
+      "description": "Around 1462, Cosimo de' Medici granted the scholar Marsilio Ficino the Medici villa at Careggi and a complete set of Platonic manuscripts — brought to Florence by Greek scholars during the 1439 Council — commissioning Ficino to translate all of Plato's dialogues into Latin. From this commission grew the Florentine Platonic Academy: an informal gathering of humanists, poets, artists, and philosophers who met at Careggi to discuss Platonic philosophy. The Academy produced the first complete Latin translation of Plato (1484), Ficino's synthesis of Platonic and Christian thought (Theologia Platonica), and Pico della Mirandola's Oration on the Dignity of Man — the foundational texts of Renaissance humanism.",
+      "description_ru": "Около 1462 года Козимо де Медичи предоставил учёному Марсилио Фичино Медичи виллу в Кареджи и полный набор Платоновских рукописей — привезённых во Флоренцию Греческими учёными в ходе Собора 1439 года, — заказав Фичино перевести все диалоги Платона на латинский язык. Из этого заказа выросла Флорентийская Платоновская академия: неформальное собрание гуманистов, поэтов, художников и философов, встречавшихся в Кареджи для обсуждения Платоновской философии. Академия произвела первый полный латинский перевод Платона (1484), синтез Платоновской и христианской мысли Фичино (Theologia Platonica) и «Речь о достоинстве человека» Пико делла Мирандолы — основополагающие тексты Ренессансного гуманизма.",
+      "latitude": 43.803,
+      "longitude": 11.231,
+      "source": "https://en.wikipedia.org/wiki/Platonic_Academy_(Florence)",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Medici",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "02.12.1469",
+      "era": "AD",
+      "name": "Lorenzo de' Medici Takes Power — Il Magnifico Begins",
+      "name_ru": "Лоренцо де Медичи берёт власть — начинается эпоха Лоренцо Великолепного",
+      "description": "On 2 December 1469, Lorenzo de' Medici assumed leadership of Florence at age twenty following his father Piero's death, consolidating the Medici position with the same informal methods Cosimo had perfected: control of the electoral bags, patronage networks across the guilds, and the diplomatic management of the Italian state system. Lorenzo was simultaneously a skilled politician, a poet of genuine ability, a patron of extraordinary discrimination, and an effective diplomat — the archetype of Renaissance princely culture. His twenty-three-year rule saw Florence reach the height of its cultural brilliance: Botticelli, Ghirlandaio, Perugino, Michelangelo, Poliziano, and Pico all worked under his direct patronage.",
+      "description_ru": "2 декабря 1469 года двадцатилетний Лоренцо де Медичи принял руководство Флоренцией после смерти отца Пьеро, закрепив позиции Медичи теми же неформальными методами, что отшлифовал Козимо: контроль над избирательными мешками, патронажные сети по гильдиям и дипломатическое управление Итальянской государственной системой. Лоренцо был одновременно искусным политиком, поэтом подлинного дарования, меценатом исключительного вкуса и эффективным дипломатом — архетипом Ренессансной придворной культуры. Его двадцатитрёхлетнее правление застало Флоренцию на пике культурного блеска: Боттичелли, Гирландайо, Перуджино, Микеланджело, Полициано и Пико работали под его непосредственным покровительством.",
+      "latitude": 43.769,
+      "longitude": 11.255,
+      "source": "https://en.wikipedia.org/wiki/Lorenzo_de%27_Medici",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Medici",
+        "Culture"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "26.04.1478",
+      "era": "AD",
+      "name": "Pazzi Conspiracy — Assassination in the Cathedral",
+      "name_ru": "Заговор Пацци — убийство в Соборе",
+      "description": "On 26 April 1478, during High Mass in Florence Cathedral, members of the Pazzi banking family — backed by Pope Sixtus IV and King Ferdinand I of Naples — attempted to assassinate both Medici brothers simultaneously. Giuliano de' Medici was stabbed nineteen times and died; Lorenzo escaped wounded into the sacristy. The conspirators had miscalculated Florentine public sentiment: instead of welcoming liberation from Medici dominance, the population erupted in fury against the Pazzi. The Pazzi family was destroyed — members killed, exiled, or imprisoned — and Lorenzo used the crisis to consolidate his power further and to reorganise the Florentine constitution in 1480 in ways that gave him more direct institutional control.",
+      "description_ru": "26 апреля 1478 года во время торжественной мессы во Флорентийском Соборе члены банкирской семьи Пацци — при поддержке папы Сикста IV и короля Неаполя Фердинанда I — предприняли попытку одновременного убийства обоих братьев Медичи. Джулиано де Медичи был заколот девятнадцать раз и погиб; Лоренцо бежал раненым в ризницу. Заговорщики просчитались с Флорентийским общественным настроением: вместо приветствия освобождения от Медичи население взорвалось яростью против Пацци. Семья Пацци была уничтожена — члены убиты, изгнаны или заключены под стражу, — а Лоренцо использовал кризис для дальнейшего укрепления власти.",
+      "latitude": 43.773,
+      "longitude": 11.256,
+      "source": "https://en.wikipedia.org/wiki/Pazzi_conspiracy",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Medici",
+        "Crisis"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "08.04.1492",
+      "era": "AD",
+      "name": "Lorenzo the Magnificent Dies — End of the Florentine Golden Age",
+      "name_ru": "Лоренцо Великолепный умирает — конец Флорентийского золотого века",
+      "description": "On 8 April 1492, Lorenzo de' Medici died at Careggi at age forty-three of gout and a hereditary illness, reportedly after a final conversation with Savonarola — the Dominican friar whose apocalyptic preaching was beginning to reframe Florentine culture as moral corruption. Lorenzo's death removed the indispensable person who had balanced Italian state rivalries, managed the Medici bank, and sustained the extraordinary artistic environment that had produced Botticelli's Primavera and Birth of Venus, Ghirlandaio's frescoes, and the young Michelangelo's first sculptures. His son Piero lacked his political skill entirely. Within two years, the French invasion that Lorenzo had always managed to forestall would sweep away the Medici and the world they had made.",
+      "description_ru": "8 апреля 1492 года Лоренцо де Медичи скончался в Кареджи в возрасте сорока трёх лет от подагры и наследственной болезни, по преданию — после последней беседы с Савонаролой, Доминиканским монахом, чья апокалиптическая проповедь начинала переосмыслять Флорентийскую культуру как нравственную коррупцию. Смерть Лоренцо устранила незаменимого человека, балансировавшего Итальянские государственные соперничества, управлявшего банком Медичи и поддерживавшего необыкновенную художественную среду, породившую «Весну» и «Рождение Венеры» Боттичелли, фрески Гирландайо и первые скульптуры молодого Микеланджело. Его сын Пьеро полностью лишился его политических дарований.",
+      "latitude": 43.769,
+      "longitude": 11.255,
+      "source": "https://en.wikipedia.org/wiki/Lorenzo_de%27_Medici",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Medici",
+        "Culture"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "09.11.1494",
+      "era": "AD",
+      "name": "Medici Expelled from Florence — Savonarola's Republic",
+      "name_ru": "Медичи изгнаны из Флоренции — Республика Савонаролы",
+      "description": "On 9 November 1494, Piero de' Medici fled Florence after his disastrous capitulation to Charles VIII of France — who had invaded Italy in September — surrendering Pisa, Livorno, and Florentine fortresses without resistance. The Florentine population expelled the Medici, sacked the Palazzo Medici, and established a Great Council government modelled on the Venetian constitution. The Dominican friar Girolamo Savonarola — who had been preaching apocalyptic sermons in the Cathedral — became the dominant moral force in the new republic, organising the Bonfire of the Vanities in 1497, burning artworks, mirrors, cosmetics, and books. Savonarola was excommunicated and burned in 1498; the Medici returned in 1512. The expulsion closed the first Florentine republic that had existed since 1282.",
+      "description_ru": "9 ноября 1494 года Пьеро де Медичи бежал из Флоренции после своей катастрофической капитуляции перед Карлом VIII Французским — вторгшимся в Италию в сентябре, — сдав Пизу, Ливорно и Флорентийские крепости без сопротивления. Флорентийское население изгнало Медичи, разграбило Палаццо Медичи и основало правительство Большого совета, смоделированное по Венецианской конституции. Доминиканский монах Джироламо Савонарола — проповедовавший апокалиптические проповеди в Соборе — стал доминирующей нравственной силой в новой республике, организовав Костёр тщеславия в 1497 году. Савонарола был отлучён и сожжён в 1498 году; Медичи вернулись в 1512 году.",
+      "latitude": 43.769,
+      "longitude": 11.255,
+      "source": "https://en.wikipedia.org/wiki/Republic_of_Florence",
+      "tags": [
+        "Florentine",
+        "Italian",
+        "Medici",
+        "Crisis"
+      ],
+      "type": "political"
+    }
+  ]
+}
