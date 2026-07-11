@@ -68,8 +68,8 @@
     },
     {
       "date": "01.08.0762",
-      "description": "The second Abbasid Caliph al-Mansur breaks ground on a new capital city on the west bank of the Tigris River in central Iraq, on a site chosen for its strategic position between the Euphrates and Tigris rivers, its temperate climate, and its position at the crossroads of trade routes connecting Arabia, Persia, Central Asia, and the Mediterranean. The city — officially named Madinat al-Salam ('City of Peace') but universally known as Baghdad — is built in the perfect circle design of Persian imperial tradition, with the caliph's palace and great mosque at the centre, surrounded by concentric rings of administrative buildings, markets, and residential quarters.\n\nBaghdad grows faster than any city in history: within fifty years of its founding, it has a population of over a million — making it the largest city in the world outside of Tang China — drawing merchants, scholars, craftsmen, and administrators from every corner of the known world. The city that al-Mansur plants on the Tigris becomes the intellectual capital of the medieval world and the site of the most extraordinary flowering of science, mathematics, medicine, philosophy, and literature between classical Athens and the European Renaissance.",
-      "description_ru": "Второй аббасидский халиф аль-Мансур закладывает фундамент новой столицы на западном берегу Тигра в центральном Ираке. Официально именованный Мадинат ас-Салям («Город мира»), но повсеместно известный как Багдад, город строится в форме идеального круга персидской имперской традиции с дворцом халифа и Большой мечетью в центре.\n\nБагдад растёт быстрее любого города в истории: менее чем за пятьдесят лет его население превышает миллион человек. Город становится интеллектуальной столицей средневекового мира.",
+      "description": "The second Abbasid Caliph, al-Mansur, lays the foundations of a new capital on the west bank of the Tigris in central Iraq. Officially named Madinat al-Salam (\"City of Peace\"), but commonly known as Baghdad, the city is built in the perfect circle of the Persian imperial tradition, with the Caliph's palace and the Great Mosque at the center. Baghdad was founded at the closest point between the Tigris and Euphrates rivers. This allowed for the digging of a network of shipping canals between the two key arteries of Mesopotamia, making it a trade and logistics hub.\n\nBaghdad grows faster than any city in history: within fifty years of its founding, it has a population of over a million — making it the largest city in the world outside of Tang China — drawing merchants, scholars, craftsmen, and administrators from every corner of the known world. The city that al-Mansur plants on the Tigris becomes the intellectual capital of the medieval world and the site of the most extraordinary flowering of science, mathematics, medicine, philosophy, and literature between classical Athens and the European Renaissance.",
+      "description_ru": "Второй аббасидский халиф аль-Мансур закладывает фундамент новой столицы на западном берегу Тигра в центральном Ираке. Официально именованный Мадинат ас-Салям («Город мира»), но повсеместно известный как Багдад, город строится в форме идеального круга персидской имперской традиции с дворцом халифа и Большой мечетью в центре. Багдад был заложен в месте, где расстояние между реками Тигр и Евфрат минимально. Это позволило прорыть между двумя ключевыми артериями Месопотамии сеть судоходных каналов и стать торговым и логистическим центром. \n\nБагдад растёт быстрее любого города в истории: менее чем за пятьдесят лет его население превышает миллион человек. Город становится интеллектуальной столицей средневекового мира.",
       "era": "AD",
       "latitude": 33.3152,
       "longitude": 44.3661,
@@ -84,8 +84,12 @@
         "Capital",
         "Culture",
         "Expansion",
+        "Infrastructure",
         "Islamic",
-        "Political"
+        "Political",
+        "Route",
+        "Silk Road",
+        "Trade"
       ],
       "type": "cultural"
     },
@@ -521,7 +525,7 @@
     {
       "date": "02.10.1187",
       "description": "Salah ad-Din defeats the crusader Kingdom of Jerusalem at the Battle of Hattin (4 July 1187), captures the True Cross, and enters Jerusalem on 2 October, the anniversary of the Prophet's Night Journey to the city. Unlike the crusaders in 1099, Saladin prohibits massacre and pillage: the population is allowed to ransom themselves and leave in safety, and Christian holy sites are left intact\n\nVenice, in the meantime, loses its emporium in Jerusalem and its trading network in the Holy Land, although it retains possessions in Acre and Tyre.",
-      "description_ru": "Салах ад-Дин одерживает победу над крестоносным Иерусалимским королевством в битве при Хаттине (4 июля 1187 г.), захватывает Истинный Крест и входит в Иерусалим 2 октября, в годовщину Ночного путешествия Пророка в город. В отличие от крестоносцев в 1099, Саладин запрещает массовые убийства и грабежи: населению разрешается выкупить себя и безопасно покинуть город, а христианские святыни остаются нетронутыми.\n\nВенеция теряет свой эмпорий в Иерусалиме и торговую сеть в Святой земле, хотя сохраняет владения в Акре и Тире.",
+      "description_ru": "Салах ад-Дин одерживает победу над крестоносным Иерусалимским королевством в битве при Хаттине (4 июля 1187 г.), захватывает Истинный Крест и входит в Иерусалим 2 октября, в годовщину Ночного путешествия Пророка в город. В отличие от крестоносцев в 1099, Саладин запрещает массовые убийства и грабежи: населению разрешается выкупить себя и безопасно покинуть город, а христианские святыни остаются нетронутыми.\n\nВенеция, Генуя и Пиза теряют свои эмпории в Иерусалиме и торговую сеть в Святой земле, хотя сохраняет владения в Акре и Тире.",
       "era": "AD",
       "latitude": 31.778,
       "longitude": 35.235,
@@ -537,6 +541,7 @@
         "Christian",
         "Conquest",
         "Islamic",
+        "Milestone ⭐️",
         "Salah ad-Din 👤",
         "Venice",
         "Crusade"

@@ -143,6 +143,7 @@
         "Judaic",
         "Culture",
         "Political",
+        "Route",
         "Silk Road",
         "Trade",
         "Turkic",
@@ -183,11 +184,11 @@
       "name_ru": "Восточнославянские племена платят дань Хазарии",
       "source": "https://en.wikipedia.org/wiki/Khazars#Relations_with_the_Slavs",
       "tags": [
+        "Slavic",
         "Trade",
         "Tribute",
         "Turkic",
-        "Khazar",
-        "Slavic"
+        "Khazar"
       ],
       "type": "historic"
     },
@@ -196,8 +197,8 @@
       "description": "Around 862 AD, a group of Khazar subjects known as the Kabars — three clans that had rebelled against the Khagan's authority, apparently in connection with one of the periodic internal succession conflicts within the Khaganate — were expelled from Khazar territory and took refuge with the Magyar tribal confederation in the Pontic steppe east of the Carpathians. The Kabars were assimilated into the Magyar political structure: they joined the Magyar military confederation as a separate tribal component, maintained their own chiefs, and are described in the Byzantine Emperor Constantine VII's De Administrando Imperio as a people who spoke both the Khazar language and the Magyar language, serving as interpreters and cultural intermediaries between the Magyar chiefs and their diplomatic contacts with the Khazar world.\n\nThe significance of the Kabar migration was disproportionate to the size of the group. The Kabars brought with them knowledge of the Khazar military and administrative system — the dual rulership structure, the tribal levy organization, the diplomatic protocols — that significantly enhanced the organizational capacity of the Magyar confederation at the precise moment when the Magyars were under pressure from the Pechenegs and preparing for their eventual migration into the Pannonian basin. The Magyar ruling dynasty of the Arpad line developed close connections with the Khazar world through the Kabars; Constantine VII records that the Magyar leader Levedi was offered a Khazar royal title by the Khagan, and that his successor Arpad was elevated to leadership in a ceremony that explicitly followed the Khazar coronation ritual of lifting the leader on a shield of felt. Medieval Hungary thus carried embedded within its founding political culture a set of institutional practices derived directly from the Göktürk-Khazar steppe tradition.",
       "description_ru": "Группа хазарских подданных, известная как кавары — три клана, восставшие против власти кагана в связи с кризисом престолонаследия, — были изгнаны из хазарской территории и нашли убежище у мадьярской племенной конфедерации в Понтийской степи к востоку от Карпат. Кавары ассимилировались в мадьярскую политическую структуру: они вступили в мадьярскую военную конфедерацию как отдельный племенной компонент. Значимость кабарской миграции была непропорциональна размеру группы. Кавары принесли с собой знание хазарской военной и административной системы — структуру двойного правления, организацию племенного ополчения, дипломатические протоколы, — существенно повысившее возможности мадьярской конфедерации в момент, когда та готовилась к переселению в Паннонию. Средневековая Венгрия, таким образом, несла вписанные в свою основополагающую политическую культуру институциональные практики, непосредственно происходившие из гёктюркско-хазарской степной традиции.",
       "era": "AD",
-      "latitude": 46.5,
-      "longitude": 38,
+      "latitude": 47.11608041,
+      "longitude": 39.42149878,
       "name": "The Kabars Join the Magyars",
       "name_ru": "Кавары присоединяются к племенам мадьяров",
       "source": "https://en.wikipedia.org/wiki/Kabars",
@@ -207,9 +208,9 @@
         "Magyar",
         "Migration",
         "Political",
+        "Slavic",
         "Khazar",
         "Nomad",
-        "Slavic",
         "Steppe"
       ],
       "type": "historic"
@@ -226,7 +227,7 @@
       "source": "https://en.wikipedia.org/wiki/Pechenegs",
       "tags": [
         "War",
-        "Invasions",
+        "Invasion",
         "Magyar",
         "Migration",
         "Nomads",
@@ -251,10 +252,10 @@
         "Islamic",
         "Kyiv",
         "Norman",
-        "Plundering",
+        "Pillage",
         "Rus",
-        "Khazar",
-        "Slavic"
+        "Slavic",
+        "Khazar"
       ],
       "type": "military"
     },
@@ -275,9 +276,9 @@
         "Conquest",
         "Kyiv",
         "Rus",
+        "Slavic",
         "Turkic",
-        "Khazar",
-        "Slavic"
+        "Khazar"
       ],
       "type": "military"
     },
@@ -298,9 +299,9 @@
         "Destruction",
         "Kyiv",
         "Rus",
+        "Slavic",
         "Turkic",
-        "Khazar",
-        "Slavic"
+        "Khazar"
       ],
       "type": "military"
     }

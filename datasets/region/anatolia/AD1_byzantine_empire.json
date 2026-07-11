@@ -1057,7 +1057,7 @@
     {
       "date": "01.03.1118",
       "description": "Emperor John II Comnenus discovered that, under the 1082 treaty (signed by his father for his assistance against the Normans), Venetian merchants had the right to trade throughout the empire without paying duties at all. This left the Byzantine treasury empty, and local Greek merchants were going bankrupt, unable to withstand the competition. As soon as Venetian ambassadors arrived in Constantinople for the traditional renewal of the treaty, John II responded with a categorical refusal.\n\nHe officially revoked all tax-exempt privileges granted to Venice and ordered the Venetians to pay taxes equally with all foreigners. Moreover, to sting Venice, he demonstratively expanded the trading rights of their main competitors—merchants from Pisa and Genoa. This decision caused shock and outrage in Venice. The Republic was losing millions.",
-      "description_ru": "Император Иоанн II Комнин обнаружил, что венецианские купцы по договору от 1082 года (который подписал его отец за помощь против норманнов) имеют право торговать по всей империи вообще без уплаты пошлин. Из-за этого византийская казна пустовала, а местные греческие купцы разорялись, не выдерживая конкуренции. Как только венецианские послы прибыли в Константинополь для традиционного продления договора на новый срок, Иоанн II ответил категорическим отказом. \n\nОн официально отменил все безналоговые привилегии Венеции и приказал венецианцам платить налоги наравне со всеми иностранцами. Более того, чтобы уязвить Венецию, он демонстративно расширил торговые права их главных конкурентов — купцов из Пизы и Генуи. В Венеции это решение вызвало шок и ярость. Республика теряла миллионы.",
+      "description_ru": "Император Иоанн II Комнин обнаружил, что венецианские купцы по договору от 1082 года (который подписал его отец за помощь против норманнов) имеют право торговать по всей империи вообще без уплаты пошлин. Из-за этого византийская казна пустовала, а местные греческие купцы разорялись, не выдерживая конкуренции. Как только венецианские послы прибыли в Константинополь для традиционного продления договора на новый срок, Иоанн II ответил категорическим отказом. \n\nОн официально отменил все безналоговые привилегии Венеции и приказал венецианцам платить налоги наравне со всеми иностранцами. Более того, чтобы уязвить Венецию, он демонстративно расширил торговые права их главных конкурентов — купцов из Пизы. В Венеции это решение вызвало ярость. Республика теряла миллионы.",
       "era": "AD",
       "latitude": 41.0164294,
       "longitude": 28.97040009,
@@ -1065,10 +1065,10 @@
       "name_ru": "Отмена венецианских торговых послаблений в Византии",
       "tags": [
         "Roman",
+        "Italian",
         "Byzantine",
         "Crisis",
         "Economic",
-        "Genoa",
         "Pisa",
         "Taxes",
         "Trade",
@@ -1191,6 +1191,7 @@
       "source": "https://en.wikipedia.org/wiki/Sack_of_Constantinople_(1204)",
       "tags": [
         "Roman",
+        "Italian",
         "War",
         "Blasphemy",
         "Byzantine",
@@ -1198,6 +1199,7 @@
         "Decline",
         "Destruction",
         "Fourth",
+        "French",
         "Milestone ⭐️",
         "Pillage",
         "Siege",

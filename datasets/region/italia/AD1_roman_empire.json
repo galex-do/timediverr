@@ -73,6 +73,26 @@
       "type": "cultural"
     },
     {
+      "date": "01.01.0001",
+      "description": "The historian Strabo wrote that while under the Ptolemies, single ships sailed to India, under the Romans, a huge fleet of 120 ships departed from the Red Sea ports of Egypt annually. All these riches (silk, spices, incense, precious stones) flowed to Alexandria, which became a key hub for the distribution of Eastern goods to Europe.",
+      "description_ru": "Историк Страбон писал, что если при Птолемеях в Индию отплывали единичные корабли, то при римлянах из красноморских портов Египта ежегодно выходила огромная флотилия из 120 кораблей. Все эти богатства (шелк, пряности, благовония, драгоценные камни) стекались в Александрию, которая стала ключевым узлом доставки восточных товаров в Европу. До открытия прямого морского пути в Индию Александрия процветала в этой роли",
+      "era": "AD",
+      "latitude": 31.206667,
+      "longitude": 29.900278,
+      "name": "The Rise of the Alexandrian Trade Hub",
+      "name_ru": "Расцвет Александрийского торгового хаба",
+      "source": "https://en.wikipedia.org/wiki/Alexandria",
+      "tags": [
+        "Roman",
+        "Egypt",
+        "Route",
+        "Silk Road",
+        "Trade",
+        "Wealth"
+      ],
+      "type": "historic"
+    },
+    {
       "date": "09.09.0009",
       "description": "Germanic chieftain Arminius lures the Roman governor Publius Quinctilius Varus and his three legions (XVII, XVIII, XIX — roughly 20,000 men) into an ambush in the forests of northwestern Germany, annihilating them almost entirely over three days of fighting. The defeat is the worst Rome suffers in a century and permanently ends Augustus's programme of extending Roman rule to the Elbe; the Rhine becomes the permanent northeast frontier of the empire. Suetonius records that Augustus was so devastated he let his beard and hair grow uncut for months, wandering the palace at night crying 'Varus, give me back my legions!'",
       "description_ru": "Германский вождь Арминий заманивает римского наместника Публия Квинтилия Вара с тремя легионами (XVII, XVIII, XIX — около 20 000 человек) в засаду в лесах Северо-Западной Германии, практически полностью уничтожая их в трёхдневном сражении. Это поражение — худшее для Рима за столетие — навсегда прекращает программу Августа по распространению римского владычества до Эльбы; Рейн становится постоянной северо-восточной границей империи. По словам Светония, убитый горем Август бродил ночью по дворцу, восклицая: «Вар, верни мне мои легионы!»",
@@ -226,24 +246,6 @@
     },
     {
       "date": "01.01.0047",
-      "description": "The new Roman governor, Publius Ostorius Scapula, orders the disarmament of all British tribes in the territories under his control, including allies. The Iceni perceive this as an insult and a violation of the treaty. They revolt, but their hastily assembled militia is defeated by the disciplined legions. The Romans pardon the Iceni but severely limit their autonomy. King Prasutagus, Boudicca's future husband, assumes power (presumably as a Roman protégé).",
-      "description_ru": "Новый римский наместник Публий Осторий Скапула приказывает разоружить все бриттские племена на подконтрольных территориях, включая союзников. Ицены воспринимают это как оскорбление и нарушение договора. Они поднимают восстание, но их наспех собранное ополчение терпит поражение от дисциплинированных легионов. Римляне прощают иценов, но жестко ограничивают их автономию. К власти (предположительно, как ставленник Рима) приходит царь Прасутаг — будущий муж Боудикки.",
-      "era": "AD",
-      "latitude": 52.41121554,
-      "longitude": 0.75382948,
-      "name": "Disarmament of the Iceni by Rome",
-      "name_ru": "Разоружение иценов Римом",
-      "tags": [
-        "Roman",
-        "Celtic",
-        "Battle",
-        "British",
-        "Rebellion"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.01.0047",
       "description": "The Romans chose a site on the Thames where the riverbed was narrow enough to build a bridge but deep enough for large merchant ships to enter. The city was initially built as a trading port. It developed so rapidly that by the end of the century, it had replaced Colchester (Camulodunum) and become the official capital of the province of Britannia. On the site of today's London Bridge, the Romans built the first wooden crossing, which also gave a powerful boost to trade.",
       "description_ru": "Римляне выбрали место на Темзе, где русло было достаточно узким для строительства моста, но достаточно глубоким для захода крупных торговых кораблей. Изначально город строился как торговый порт. Он развивался так стремительно, что уже к концу века заменил Колчестер (Camulodunum) и стал официальной столицей провинции Британия. На месте современного Лондонского моста (London Bridge) римляне возвели первую деревянную переправу, которая также дала мощный толчок развитию торговли.",
       "era": "AD",
@@ -260,6 +262,24 @@
         "Trade"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.01.0047",
+      "description": "The new Roman governor, Publius Ostorius Scapula, orders the disarmament of all British tribes in the territories under his control, including allies. The Iceni perceive this as an insult and a violation of the treaty. They revolt, but their hastily assembled militia is defeated by the disciplined legions. The Romans pardon the Iceni but severely limit their autonomy. King Prasutagus, Boudicca's future husband, assumes power (presumably as a Roman protégé).",
+      "description_ru": "Новый римский наместник Публий Осторий Скапула приказывает разоружить все бриттские племена на подконтрольных территориях, включая союзников. Ицены воспринимают это как оскорбление и нарушение договора. Они поднимают восстание, но их наспех собранное ополчение терпит поражение от дисциплинированных легионов. Римляне прощают иценов, но жестко ограничивают их автономию. К власти (предположительно, как ставленник Рима) приходит царь Прасутаг — будущий муж Боудикки.",
+      "era": "AD",
+      "latitude": 52.41121554,
+      "longitude": 0.75382948,
+      "name": "Disarmament of the Iceni by Rome",
+      "name_ru": "Разоружение иценов Римом",
+      "tags": [
+        "Roman",
+        "Celtic",
+        "Battle",
+        "British",
+        "Rebellion"
+      ],
+      "type": "military"
     },
     {
       "date": "13.10.0054",
@@ -1311,8 +1331,8 @@
     },
     {
       "date": "11.05.0330",
-      "description": "Constantine officially dedicates Constantinopolis (City of Constantine, establishing it as the new capital of the Roman Empire on the site of the ancient Greek colony of Byzantium — a peninsula commanding the Bosphorus strait between Europe and Asia. The city is deliberately modelled on Rome: it has seven hills, fourteen regions, a forum with a column bearing Constantine's statue, a Senate house, a hippodrome, free grain distribution, and will eventually grow to surpass Rome in population (reaching perhaps 500,000 by the 5th century). Constantinople remains the capital of the Eastern Roman (Byzantine) Empire for 1,123 years until the Ottoman conquest of 1453.",
-      "description_ru": "Константин официально посвящает Константинополь (Город Константина), устанавливая его новой столицей Римской империи на месте древнегреческой колонии Византий. Город намеренно моделируется по образцу Рима: семь холмов, четырнадцать районов, форум с колонной со статуей Константина, сенат, ипподром, бесплатная раздача зерна. Константинополь остаётся столицей Восточной Римской (Византийской) империи 1123 года вплоть до османского завоевания 1453 г.",
+      "description": "Constantine officially dedicates Constantinople (the City of Constantine), establishing it as the new capital of the Roman Empire on the site of the ancient Greek colony of Byzantium. Emperor Constantine the Great chose this site for the new capital of the Roman Empire precisely because of its unique geographical location. The city is located directly at the crossroads of Europe and Asia, on the shores of the Bosphorus Strait. This allowed him to immediately control both the sea routes from the Black Sea to the Mediterranean and the overland caravan routes of the Silk Road.\n\nThe city is deliberately modeled on Rome: seven hills, fourteen districts, a forum with a column bearing a statue of Constantine, a senate, a hippodrome, and free grain distribution. Constantinople remained the capital of the Eastern Roman (Byzantine) Empire from 1123 until the Ottoman conquest in 1453.",
+      "description_ru": "Константин официально посвящает Константинополь (Город Константина), устанавливая его новой столицей Римской империи на месте древнегреческой колонии Византий. Император Константин Великий выбрал это место для новой столицы Римской империи именно из-за его уникального географического положения. Город расположился прямо на стыке Европы и Азии, на берегу пролива Босфор. Это позволило ему мгновенно взять под контроль как морские пути из Черного моря в Средиземное, так и сухопутные караванные маршруты Шелкового пути.\n\nГород намеренно моделируется по образцу Рима: семь холмов, четырнадцать районов, форум с колонной со статуей Константина, сенат, ипподром, бесплатная раздача зерна. Константинополь остаётся столицей Восточной Римской (Византийской) империи 1123 года вплоть до османского завоевания 1453 г.",
       "era": "AD",
       "latitude": 41.0082,
       "longitude": 28.9784,
@@ -1324,7 +1344,10 @@
         "City",
         "Byzantine",
         "Capital",
-        "Constantine the Great 👑"
+        "Constantine the Great 👑",
+        "Route",
+        "Silk Road",
+        "Trade"
       ],
       "type": "historic"
     },

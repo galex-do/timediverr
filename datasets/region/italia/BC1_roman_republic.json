@@ -1289,8 +1289,8 @@
       "era": "BC",
       "latitude": 41.89931442,
       "longitude": 12.47670293,
-      "name": "Manipular Legion System",
-      "name_ru": "Манипулярный легион",
+      "name": "Manipular Legion System of Rome",
+      "name_ru": "Манипулярный легион Рима",
       "source": "https://en.wikipedia.org/wiki/Maniple_(military_unit)",
       "tags": [
         "Roman",
@@ -2440,6 +2440,7 @@
         "Roman",
         "Athens",
         "Maritime",
+        "Route",
         "Taxes",
         "Trade"
       ],

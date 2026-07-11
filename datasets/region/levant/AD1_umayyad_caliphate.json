@@ -65,7 +65,7 @@
         "Blasphemy",
         "Crisis",
         "Islamic",
-        "Plundering",
+        "Pillage",
         "Rebellion"
       ],
       "type": "military"
@@ -102,8 +102,8 @@
       "era": "AD",
       "latitude": 33.5138,
       "longitude": 36.2765,
-      "name": "Arabic — the Official Language of the Umayyad Caliphate",
-      "name_ru": "Арабский — официальный языком халифата Омейядов",
+      "name": "Arab-centric reform of the Umayyad Caliphate",
+      "name_ru": "Арабоцентричная реформа халифата Омейядов",
       "source": "https://en.wikipedia.org/wiki/Abd_al-Malik_ibn_Marwan",
       "tags": [
         "Arabian",

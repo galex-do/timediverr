@@ -312,7 +312,8 @@
         "Holy Roman Empire",
         "Friedrich Barbarossa 👑",
         "Hohenstaufen",
-        "Law"
+        "Law",
+        "Lombard League"
       ],
       "type": "political"
     },
@@ -353,6 +354,7 @@
         "Holy Roman Empire",
         "War",
         "Battle",
+        "Friedrich Barbarossa 👑",
         "Hohenstaufen",
         "Lombard League"
       ],
@@ -403,6 +405,31 @@
       "type": "political"
     },
     {
+      "date": "18.05.1190",
+      "description": "Entering Asia Minor (modern-day Turkey), the German knights clashed with the Seljuk army. At the Battle of Iconium, the 68-year-old Barbarossa utterly routed the Turkish army. The Muslim world was terrified: Saladin was terrified of the approach of the German emperor and had already begun preparing to retreat from Palestine.",
+      "description_ru": "Войдя в Малую Азию (территория современной Турции), немецкие рыцари столкнулись с войсками сельджуков. В битве при Иконии 68-летний Барбаросса наголову разбил турецкую армию. Мусульманский мир был в ужасе: Саладин боялся немецкого императора и уже начал готовиться к отступлению из Палестины.",
+      "era": "AD",
+      "latitude": 37.87122924,
+      "longitude": 32.48893261,
+      "name": "Barbarossa defeats the Seljuks at Iconium",
+      "name_ru": "Барбаросса разбивает сельджуков при Иконии",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Iconium_(1190)",
+      "tags": [
+        "German",
+        "Holy Roman Empire",
+        "Third",
+        "War",
+        "Battle",
+        "Christian",
+        "Friedrich Barbarossa 👑",
+        "Islamic",
+        "Oguz",
+        "Turkic",
+        "Crusade"
+      ],
+      "type": "military"
+    },
+    {
       "date": "10.06.1190",
       "description": "Friedrich Barbarossa fell from his horse in full uniform while crossing the Saleph River in Cilicia during the Third Crusade and drowned. He was approximately 67 years old. His death was catastrophic: the German crusader army—the largest in the expedition—mostly disintegrated in confusion. Only a remnant continued on to the Holy Land. His death removed the dominant military force of Christendom from the crusade, leaving Richard I of England and Philip II of France as the leading forces.",
       "description_ru": "Фридрих Барбаросса упал с лошади в обмундировании при переправе через реку Салеф в Киликии во время Третьего крестового похода и утонул. Ему было около 67 лет. Его гибель стала катастрофой: германское крестоносное войско — крупнейшее в экспедиции — в растерянности в основном распалось. Лишь остаток продолжил путь на Святую землю. Гибель устранила доминирующую военную силу христианского мира из крестового похода, оставив Ричарда I Английского и Филиппа II Французского ведущими силами похода.",
@@ -418,6 +445,7 @@
         "Third",
         "Death",
         "Emperor",
+        "Failure",
         "Friedrich Barbarossa 👑",
         "Hohenstaufen",
         "Crusade"
@@ -483,7 +511,7 @@
         "Capetian",
         "England",
         "France",
-        "Frankish"
+        "French"
       ],
       "type": "military"
     },
@@ -768,8 +796,8 @@
     },
     {
       "date": "01.07.1348",
-      "description": "The plague — likely bubonic — reached the Rhine valley and Alpine cities of the Holy Roman Empire in 1348, spreading rapidly along trade routes. Between a third and a half of the German urban population perished within three years. The catastrophe triggered widespread violence against Jewish communities, blamed as scapegoats; major pogroms occurred in Cologne, Mainz, Strasbourg, and Nuremberg. Emperor Charles IV issued writs of protection but could not stop the massacres. The demographic collapse disrupted agricultural production, trade, and ecclesiastical life for a generation. Long-term effects included labor shortages that empowered surviving peasants and accelerated the end of serfdom in many western German territories.",
-      "description_ru": "Чума — предположительно бубонная — достигла рейнской долины и альпийских городов Священной Римской импери, стремительно распространяясь вдоль торговых путей. От трети до половины германского городского населения погибло в течение трёх лет. Катастрофа спровоцировала массовое насилие против еврейских общин, ставших козлами отпущения; крупные погромы произошли в Кёльне, Майнце, Страсбурге и Нюрнберге. Поколение спустя демографический коллапс нарушил сельскохозяйственное производство, торговлю и церковную жизнь. Долгосрочные последствия включали нехватку рабочей силы, укрепившую выживших крестьян и ускорившую отмену крепостного права во многих западногерманских землях.",
+      "description": "The plague reached the Rhine valley and Alpine cities of the Holy Roman Empire in 1348, spreading rapidly along trade routes. Between a third and a half of the German urban population perished within three years. The catastrophe triggered widespread violence against Jewish communities, blamed as scapegoats; major pogroms occurred in Cologne, Mainz, Strasbourg, and Nuremberg. Emperor Charles IV issued writs of protection but could not stop the massacres. The demographic collapse disrupted agricultural production, trade, and ecclesiastical life for a generation. Long-term effects included labor shortages that empowered surviving peasants and accelerated the end of serfdom in many western German territories.",
+      "description_ru": "Чума достигла рейнской долины и альпийских городов Священной Римской импери, стремительно распространяясь вдоль торговых путей. От трети до половины германского городского населения погибло в течение трёх лет. Катастрофа спровоцировала массовое насилие против еврейских общин, ставших козлами отпущения; крупные погромы произошли в Кёльне, Майнце, Страсбурге и Нюрнберге. Поколение спустя демографический коллапс нарушил сельскохозяйственное производство, торговлю и церковную жизнь. Долгосрочные последствия включали нехватку рабочей силы, укрепившую выживших крестьян и ускорившую отмену крепостного права во многих западногерманских землях.",
       "era": "AD",
       "latitude": 50.94,
       "longitude": 6.96,
@@ -862,6 +890,7 @@
         "Czech",
         "Execution",
         "Hussite",
+        "Martyr",
         "Papacy",
         "Protestant",
         "Religious"

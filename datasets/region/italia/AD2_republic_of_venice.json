@@ -78,7 +78,6 @@
         "Foundation",
         "Political",
         "Republic",
-        "Venetian",
         "Venice"
       ],
       "type": "political"
@@ -297,13 +296,13 @@
       "name_ru": "Венеция разбивает далматинских пиратов",
       "source": "https://en.wikipedia.org/wiki/Sposalizio_del_Mare",
       "tags": [
+        "Italian",
         "Conquest",
         "Croatian",
         "Holidays",
         "Maritime",
         "Piracy",
         "Seamen",
-        "Venetian",
         "Venice"
       ],
       "type": "military"
@@ -385,6 +384,7 @@
       "source": "https://en.wikipedia.org/wiki/Chrysobull_of_1082",
       "tags": [
         "Roman",
+        "Italian",
         "Byzantine",
         "Emporium",
         "Expansion",
@@ -432,9 +432,10 @@
         "First",
         "Influence",
         "Maritime",
+        "Naval",
+        "Seamen",
         "Supply",
         "Trade",
-        "Venetian",
         "Venice",
         "Crusade"
       ],
@@ -496,6 +497,7 @@
       "tags": [
         "Arabian",
         "Egypt",
+        "Italian",
         "Jerusalem",
         "Sidon",
         "War",
@@ -506,7 +508,6 @@
         "Norman",
         "Norse",
         "Seamen",
-        "Venetian",
         "Venice",
         "Crusade"
       ],
@@ -523,6 +524,7 @@
       "name_ru": "Венецианский крестовый поход",
       "source": "https://en.wikipedia.org/wiki/Venetian_Crusade",
       "tags": [
+        "Italian",
         "Engineering ⚙️",
         "Innovation",
         "Maritime",
@@ -546,6 +548,7 @@
       "source": "https://en.wikipedia.org/wiki/Siege_of_Corfu_(1122%E2%80%931123)",
       "tags": [
         "Roman",
+        "Italian",
         "War",
         "Byzantine",
         "Christian",
@@ -619,6 +622,7 @@
       "tags": [
         "Greek",
         "Roman",
+        "Italian",
         "War",
         "Byzantine",
         "Pillage",
@@ -641,6 +645,7 @@
       "tags": [
         "Greek",
         "Roman",
+        "Italian",
         "War",
         "Byzantine",
         "Christian",
@@ -664,6 +669,7 @@
       "source": "https://en.wikipedia.org/wiki/Venetian%E2%80%93Byzantine_War_(1122%E2%80%931126)#The_Second_Phase_of_the_Venetian-Byzantine_War",
       "tags": [
         "Roman",
+        "Italian",
         "Byzantine",
         "Taxes",
         "Trade",
@@ -686,8 +692,8 @@
         "Reform",
         "Law",
         "Oligarchy",
+        "Political",
         "Republic",
-        "Venetian",
         "Venice"
       ],
       "type": "political"
@@ -726,6 +732,7 @@
       "name_ru": "Венецианское стеклоделие",
       "source": "https://en.wikipedia.org/wiki/Murano_glass",
       "tags": [
+        "Italian",
         "Craft",
         "Culture",
         "Glass",
@@ -751,7 +758,6 @@
         "War",
         "Alliance",
         "Lombard League",
-        "Venetian",
         "Venice"
       ],
       "type": "political"
@@ -767,12 +773,12 @@
       "name_ru": "Дож Витале II Микьель убит в Венеции",
       "source": "https://en.wikipedia.org/wiki/Doge_of_Venice",
       "tags": [
+        "Italian",
         "Reform",
         "Crisis",
         "Elections",
         "Murder",
         "Political",
-        "Venetian",
         "Venice"
       ],
       "type": "political"
@@ -840,7 +846,6 @@
         "Diplomacy",
         "Elections",
         "Republic",
-        "Venetian",
         "Venice"
       ],
       "type": "political"
@@ -859,6 +864,8 @@
         "Christian",
         "Contract",
         "Fourth",
+        "France",
+        "French",
         "Maritime",
         "Trade",
         "Venice",
@@ -877,6 +884,7 @@
       "name_ru": "Венеция создает европейскую международную валюту",
       "source": "https://en.wikipedia.org/wiki/Venetian_grosso",
       "tags": [
+        "Italian",
         "Currency",
         "Economic",
         "Influence",
@@ -899,9 +907,11 @@
       "name_ru": "Крестоносцы не могут расплатиться с Венецией",
       "source": "https://en.wikipedia.org/wiki/Fourth_Crusade",
       "tags": [
+        "Italian",
         "Christian",
         "Debt",
         "Fourth",
+        "French",
         "Venice",
         "Crusade"
       ],
@@ -918,9 +928,11 @@
       "name_ru": "Венеция направляет Крестовый поход на Задар",
       "source": "https://en.wikipedia.org/wiki/Siege_of_Zara",
       "tags": [
+        "Italian",
         "Christian",
         "Conquest",
         "Fourth",
+        "French",
         "Hungary",
         "Maritime",
         "Siege",
@@ -941,10 +953,12 @@
       "source": "https://en.wikipedia.org/wiki/Siege_of_Constantinople_(1203)",
       "tags": [
         "Roman",
+        "Italian",
         "War",
         "Byzantine",
         "Christian",
         "Fourth",
+        "French",
         "Siege",
         "Venice",
         "Crusade"
@@ -963,13 +977,34 @@
       "source": "https://en.wikipedia.org/wiki/Alexios_IV_Angelos",
       "tags": [
         "Roman",
+        "Italian",
         "Byzantine",
         "Crisis",
         "Fourth",
+        "French",
         "Venice",
         "Crusade"
       ],
       "type": "political"
+    },
+    {
+      "date": "01.01.1205",
+      "description": "Having defeated Byzantium, Venice gained exclusive access to the Black Sea and established a permanent trading post (warehouses and a quarter) in Soldaya. The city itself, however, remained under the control of the local Polovtsians, and later, the Golden Horde. Over the course of a century, Venetian interests in the region grew so much that the republic established an official consulate in Soldaya to protect its citizens and manage trade.",
+      "description_ru": "Разгромив Византию, Венеция получила монопольный доступ в Черное море и открыла в Солдайе свою постоянную торговую факторию (склады и квартал). Сам город при этом оставался под управлением местных половцев, а позже — Золотой Орды. За век венецианские интересы в регионе выросли настолько, что республика учредила в Солдайе официальное консульство для защиты своих граждан и управления торговлей.",
+      "era": "AD",
+      "latitude": 44.84155349,
+      "longitude": 34.95826006,
+      "name": "Venice's trading colony in Crimea",
+      "name_ru": "Торговая колония Венеции в Крыму",
+      "source": "https://en.wikipedia.org/wiki/Sudak",
+      "tags": [
+        "Italian",
+        "Emporium",
+        "Expansion",
+        "Trade",
+        "Venice"
+      ],
+      "type": "historic"
     }
   ],
   "filename": "AD2_republic_of_venice.json"
