@@ -191,7 +191,7 @@
     },
     {
       "date": "21.03.1084",
-      "description": "In March 1084, Henry IV entered Rome with his army after a prolonged siege. Pope Gregory VII retreated to the Castel Sant'Angelo. Henry installed Guibert of Ravenna as anti-pope Clement III, who crowned Henry emperor. Gregory VII called upon the Norman ruler Robert Guiscard for relief; the Normans retook Rome in May 1084 but sacked the city so severely that Gregory was forced to accompany them south, dying in Salerno in 1085. Henry's act demonstrated that imperial military force could overcome papal resistance, though it also revealed the limits of German power to permanently dominate Italy.",
+      "description": "In March 1084, Henry IV entered Rome with his army after a prolonged siege. Pope Gregory VII retreated to the Castel Sant'Angelo. Henry installed Guibert of Ravenna as anti-pope Clement III, who crowned Henry emperor. \n\nGregory VII called upon the Norman ruler Robert Guiscard for relief; the Normans retook Rome in May 1084 but sacked the city so severely that Gregory was forced to accompany them south, dying in Salerno in 1085. Henry's act demonstrated that imperial military force could overcome papal resistance, though it also revealed the limits of German power to permanently dominate Italy.",
       "description_ru": "В марте 1084 года Генрих IV вошёл в Рим со своим войском после длительной осады. Папа Григорий VII отступил в замок Святого Ангела. Генрих поставил Гвиберта Равеннского антипапой Климентом III, который короновал Генриха императором. \n\nГригорий VII призвал на помощь нормандского правителя Роберта Гвискара; нормандцы вернули Рим в мае 1084 года, однако подвергли его столь жестокому разграблению, что Григорий был вынужден уйти с ними на юг и умер в Салерно в 1085 году. Поступок Генриха показал, что имперская военная сила способна сломить папское сопротивление, хотя и обнажил пределы германской власти в Италии.",
       "era": "AD",
       "latitude": 41.90216525,
@@ -204,11 +204,11 @@
         "Holy Roman Empire",
         "Civil War",
         "Crisis",
-        "Normandy",
+        "Norman",
         "Papacy",
         "Pillage",
         "Political",
-        "Robert Guiscard",
+        "Robert Guiscard 👤",
         "Siege"
       ],
       "type": "military"
@@ -454,17 +454,18 @@
     },
     {
       "date": "20.11.1194",
-      "description": "In November 1194, Emperor Henry VI completed his conquest of the Norman Kingdom of Sicily, crowning himself king in Palermo on Christmas Day. Henry had a hereditary claim through his wife Constance of Sicily. The union of the imperial crown with the wealthy Norman kingdom — which controlled Sicily, southern Italy, and had strong ties to North Africa — gave the Hohenstaufen empire unparalleled resources. It also alarmed the papacy by encircling the papal states. Henry VI's early death in 1197 prevented him from consolidating this southern empire, but his son Frederick II would inherit it and make Sicily the centre of his rule.",
-      "description_ru": "В ноябре 1194 года император Генрих VI завершил завоевание Нормандского королевства Сицилии и в Рождество короновался королём в Палермо. Генрих имел наследственные права через свою жену Констанцию Сицилийскую. Объединение императорской короны с богатым Нормандским королевством — контролировавшим Сицилию, юг Италии и имевшим прочные связи с Северной Африкой — дало Штауфенской империи несравненные ресурсы. Это также встревожило папство, оказавшееся в окружении. Ранняя смерть Генриха VI в 1197 году помешала ему укрепить эту южную империю, однако его сын Фридрих II унаследует её и сделает Сицилию центром своего правления.",
+      "description": "In November 1194, Emperor Henry VI completed his conquest of the Norman Kingdom of Sicily, crowning himself king in Palermo on Christmas Day. Henry had a hereditary claim through his wife Constance of Sicily. The union of the imperial crown with the wealthy Norman kingdom — which controlled Sicily, southern Italy, and had strong ties to North Africa — gave the Hohenstaufen empire unparalleled resources.  ",
+      "description_ru": "В ноябре 1194 года император Генрих VI завершил завоевание Нормандского королевства Сицилии и в Рождество короновался королём в Палермо. Генрих имел наследственные права через свою жену Констанцию Сицилийскую. Объединение императорской короны с богатым Нормандским королевством — контролировавшим Сицилию, юг Италии и имевшим прочные связи с Северной Африкой — дало Штауфенской империи несравненные ресурсы. ",
       "era": "AD",
-      "latitude": 38.11,
-      "longitude": 13.36,
+      "latitude": 38.11127837,
+      "longitude": 13.35323811,
       "name": "Henry VI Conquers the Kingdom of Sicily",
       "name_ru": "Генрих VI завоёвывает Сицилийское королевство",
       "source": "https://en.wikipedia.org/wiki/Henry_VI,_Holy_Roman_Emperor",
       "tags": [
         "Italian",
         "Holy Roman Empire",
+        "War",
         "Conquest",
         "Expansion",
         "Hohenstaufen",
@@ -531,6 +532,7 @@
         "Holy Roman Empire",
         "Dynasty",
         "Emperor",
+        "Friedrich II 👑",
         "Hohenstaufen"
       ],
       "type": "political"
@@ -593,6 +595,7 @@
         "Italian",
         "Holy Roman Empire",
         "Code",
+        "Friedrich II 👑",
         "Hohenstaufen",
         "Kingdom",
         "Law",
@@ -639,6 +642,7 @@
         "Death",
         "Decline",
         "Emperor",
+        "Friedrich II 👑",
         "Hohenstaufen",
         "Political"
       ],
@@ -658,6 +662,7 @@
         "Italian",
         "Holy Roman Empire",
         "Dynasty",
+        "Charles of Anjou 👑",
         "Death",
         "End",
         "Execution",

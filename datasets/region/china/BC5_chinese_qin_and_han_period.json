@@ -496,6 +496,7 @@
         "Chinese",
         "Expedition",
         "Han",
+        "Route",
         "Silk Road",
         "Trade"
       ],
@@ -588,7 +589,7 @@
         "Chinese",
         "Civil War",
         "Han",
-        "Plundering",
+        "Pillage",
         "Rebellion"
       ],
       "type": "military"
@@ -767,7 +768,7 @@
         "Civil War",
         "Han",
         "Overthrow",
-        "Plundering"
+        "Pillage"
       ],
       "type": "military"
     },

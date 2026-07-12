@@ -68,8 +68,8 @@
       "description": "The Pisan admiral Giovanni Orlandi led a fleet to the shores of Sicily. The Pisans knew that the Norman knight Roger I was waging a protracted land war against the Muslims. The Pisans offered the Normans a joint force and take the city, but Roger refused. So the Pisans simply launched a naval raid – breaching the harbor, sinking ships, and plundering the waterfront.\n\nThe Pisans' booty was colossal. They carried off mountains of gold, silk, spices, and jewels. As their main symbolic trophy, they removed and took with them the enormous iron chain that had once been the mainstay of Palermo's port.",
       "description_ru": "Пизанский адмирал Джованни Орланди привел флот к берегам Сицилии. Пизанцы знали, что норманнский рыцарь Рожер I ведет затяжную войну на суше против мусульман. Пизанцы предложили норманнам объединить силы и взять город, но Рожер отказался. Тогда пизанцы просто предприняли морской набег - прорвали гавань, потопили корабли и разграбили набережную.\n\nДобыча пизанцев оказалась колоссальной. Они вывезли горы золота, шелка, специй и драгоценностей. В качестве главного символического трофея они сняли и забрали с собой ту самую огромную портовую железную цепь Палермо.",
       "era": "AD",
-      "latitude": 38.11,
-      "longitude": 13.36,
+      "latitude": 38.11127837,
+      "longitude": 13.35323811,
       "name": "Pisans sack Arab Palermo",
       "name_ru": "Пизанцы разграбляют арабское Палермо",
       "source": "https://it.wikipedia.org/wiki/Saccheggio_di_Palermo",
@@ -458,6 +458,7 @@
         "City-State",
         "Reform",
         "Code",
+        "Constitution",
         "Law",
         "Pisa",
         "Republic"
@@ -684,7 +685,7 @@
         "Florence",
         "Pisa"
       ],
-      "type": "political"
+      "type": "military"
     }
   ],
   "filename": "AD4_republic_of_pisa.json"

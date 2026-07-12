@@ -938,8 +938,7 @@
         "Byzantine",
         "Decline",
         "Norman",
-        "Normandy",
-        "Robert Guiscard",
+        "Robert Guiscard 👤",
         "Siege"
       ],
       "type": "military"
@@ -995,8 +994,8 @@
     },
     {
       "date": "18.10.1081",
-      "description": "A land battle during the Norman-Byzantine War, in which the army of Emperor Alexios I Comnenus attempted to relieve the strategic fortress of Dyrrhachium, besieged by the Normans, and was defeated. The Byzantine army, fighting against the Norman knights of Robert Guiscard, included the Varangian Guard, Seljuk Turks, Franks, and Armenians. Although the Varangians initially broke Guiscard's line and partially routed him, they became separated from the main army during the battle and were routed. Guiscard then launched a strike against the Byzantine mercenaries with his heavily armored cavalry, and the outcome of the battle was decided in favor of the Normans. The young and vain emperor miraculously escaped the battlefield and fled to Constantinople.",
-      "description_ru": "Сухопутное сражение норманно-византийской войны, в котором армия императора Алексея I Комнина попыталась деблокировать осажденную норманнами стратегическую крепость Диррахий и потерпела поражение. Против норманнских рыцарей Роберта Гвискара в составе византийского войска воевала  Варяжская гвардия, турки-сельджуки, франки и армяне. Хотя изначально варяги сломали строй войска Гвискара и частично обратили его в бегство, в ходе сражения они отделились от основного войска и были разбиты. После этого Гвискар нанес удар тяжелобронированной кавалерией по наемным войскам византийцев, и исход сражения был решен в пользу норманнов. Молодой и тщеславный император чудом спасается с поля боя и бежит в Константинополь.",
+      "description": "A land battle during the Norman-Byzantine War, in which the army of Emperor Alexios I Comnenus attempted to relieve the strategic fortress of Dyrrhachium, besieged by the Normans, and was defeated. The Byzantine army, fighting against the Norman knights of Robert Guiscard, included the Varangian Guard, Seljuk Turks, Franks, and Armenians. \n\nAlthough the Varangians initially broke Guiscard's line and partially routed him, they became separated from the main army during the battle and were routed. Guiscard then launched a strike against the Byzantine mercenaries with his heavily armored cavalry, and the outcome of the battle was decided in favor of the Normans. The young and vain emperor miraculously escaped the battlefield and fled to Constantinople.",
+      "description_ru": "Сухопутное сражение норманно-византийской войны, в котором армия императора Алексея I Комнина попыталась деблокировать осажденную норманнами стратегическую крепость Диррахий и потерпела поражение. Против норманнских рыцарей Роберта Гвискара в составе византийского войска воевала  Варяжская гвардия, турки-сельджуки, франки и армяне. \n\nХотя изначально варяги сломали строй войска Гвискара и частично обратили его в бегство, в ходе сражения они отделились от основного войска и были разбиты. После этого Гвискар нанес удар тяжелобронированной кавалерией по наемным войскам византийцев, и исход сражения был решен в пользу норманнов. Молодой и тщеславный император чудом спасается с поля боя и бежит в Константинополь.",
       "era": "AD",
       "latitude": 41.33196688,
       "longitude": 19.47704315,
@@ -1009,8 +1008,7 @@
         "Battle",
         "Byzantine",
         "Norman",
-        "Normandy",
-        "Robert Guiscard"
+        "Robert Guiscard 👤"
       ],
       "type": "military"
     },

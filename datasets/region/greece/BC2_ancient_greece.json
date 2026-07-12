@@ -3233,23 +3233,6 @@
     },
     {
       "date": "01.01.0425",
-      "description": "Euclid of Megara, one of Socrates' students, founded his own school of philosophy in Megara. During the conflict between Athens and Megara, he risked his life to sneak into the city at night to hear the famous philosopher. However, Euclid identified the weakest point of his teacher's method of cognition, criticizing his analogical reasoning. Unlike Socrates, he used the method of reductio ad absurdum. Euclid pioneered the study of propositional logic.",
-      "description_ru": "Евклид из Мегары, один из учеников Сократа, основал в Мегаре свою философскую школу. Во время противостояния Афин и Мегар, с риском для жизни по ночам пробирался в город, чтобы послушать знаменитого философа. Вместе с тем Евклид обозначил наиболее слабое место метода познания своего учителя, раскритиковав способ рассуждения по аналогии. В отличие от Сократа, он использовал метод доведения до абсурда. Евклид положил начало изучению логики высказываний. ",
-      "era": "BC",
-      "latitude": 38.0028,
-      "longitude": 23.3461,
-      "name": "Megarian school of philosophy",
-      "name_ru": "Мегарская философская школа",
-      "tags": [
-        "Greek",
-        "Megarian",
-        "Philosophy",
-        "Socrates 👤"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.0425",
       "description": "Antisthenes of Athens founded the Cynic school. Antisthenes' mother was a slave, his father an Athenian citizen. This background made him a free citizen of Athens, but with limited civil rights. Antisthenes believed that the purpose of life was to achieve virtue and self-sufficiency (autarky). Only through self-restraint and renunciation of material possessions could a person become equal to the gods in their independence.",
       "description_ru": "Антисфен Афинский стал основателем школы киников. Матерью Антисфена была рабыня, отцом — афинский гражданин. Такое происхождение делало свободным, но неполноправным жителем Афинв. Антисфен считал, что целью жизни является достижение добродетели и самодостаточности (автаркии). Только благодаря самоограничению и отказу от материальных благ человек становится равным богам в своей независимости.",
       "era": "BC",
@@ -3260,6 +3243,23 @@
       "tags": [
         "Greek",
         "Athens",
+        "Philosophy",
+        "Socrates 👤"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0425",
+      "description": "Euclid of Megara, one of Socrates' students, founded his own school of philosophy in Megara. During the conflict between Athens and Megara, he risked his life to sneak into the city at night to hear the famous philosopher. However, Euclid identified the weakest point of his teacher's method of cognition, criticizing his analogical reasoning. Unlike Socrates, he used the method of reductio ad absurdum. Euclid pioneered the study of propositional logic.",
+      "description_ru": "Евклид из Мегары, один из учеников Сократа, основал в Мегаре свою философскую школу. Во время противостояния Афин и Мегар, с риском для жизни по ночам пробирался в город, чтобы послушать знаменитого философа. Вместе с тем Евклид обозначил наиболее слабое место метода познания своего учителя, раскритиковав способ рассуждения по аналогии. В отличие от Сократа, он использовал метод доведения до абсурда. Евклид положил начало изучению логики высказываний. ",
+      "era": "BC",
+      "latitude": 38.0028,
+      "longitude": 23.3461,
+      "name": "Megarian school of philosophy",
+      "name_ru": "Мегарская философская школа",
+      "tags": [
+        "Greek",
+        "Megarian",
         "Philosophy",
         "Socrates 👤"
       ],
@@ -3672,19 +3672,20 @@
     },
     {
       "date": "01.01.0399",
-      "description": "Trial and execution of Socrates in Athens for 'corrupting youth' and 'introducing new gods'; drinks hemlock after refusing escape, becoming martyr to philosophy and symbol of intellectual freedom",
+      "description": "The trial and execution of Socrates in Athens for \"corrupting the youth\" and \"introducing new gods.\" According to ancient tradition, Socrates pleaded not guilty and that his actions deserved not punishment but the highest honor for an Athenian — a free meal in the prytaneum. After this, the philosopher was sentenced to death. Socrates spent his last day with his students, then drank hemlock, becoming a martyr to philosophy and a symbol of intellectual freedom.",
       "description_ru": "Суд и казнь Сократа в Афинах за 'развращение молодежи' и 'введение новых богов'. Согласно античной традиции, Сократ на суде заявил, что не считает себя виновным и за свои действия заслуживает не наказания, а высшей чести для афинянина — бесплатного обеда в пританее. После этого философа приговорили к смертной казни. Сократ проводит последний день с учениками, затем выпивает цикуту, становясь мучеником философии и символом интеллектуальной свободы.",
       "era": "BC",
       "latitude": 37.9755,
       "longitude": 23.7348,
       "name": "Death of Socrates",
-      "name_ru": "Смерть Сократа",
+      "name_ru": "Казнь Сократа",
       "source": "https://en.wikipedia.org/wiki/Trial_of_Socrates",
       "tags": [
         "Greek",
         "Death",
         "Democracy",
         "Law",
+        "Martyr",
         "Philosophy",
         "Socrates 👤",
         "Trial"
@@ -3960,6 +3961,27 @@
       "type": "military"
     },
     {
+      "date": "01.01.0375",
+      "description": "The greatest shock in Plato's life was the execution of his teacher, Socrates. Athenian democracy, by decision of a popular court, sentenced the greatest thinker to death. For Plato, this proved that democracy was the rule of a mob incapable of distinguishing good from evil.\n\nThe Republic was an attempt to design a system where power belonged not to the majority, but to the wise, and where the execution of the righteous would be impossible. In search of stability, Plato carefully studied the structure of Sparta. He admired Spartan discipline, the strict system of state-sponsored child rearing, and the willingness of citizens to sacrifice their personal lives for the common good. He transferred many elements of Sparta (the rejection of private property, the strict selection of soldiers, the prohibition of luxury) to the design of his ideal utopia, blending them with philosophy.",
+      "description_ru": "Главным потрясением в жизни Платона стала казнь его учителя Сократа. Афинская демократия решением народного суда приговорила величайшего мыслителя к смерти. Для Платона это стало доказательством того, что демократия — это власть толпы, неспособной отличить благо от зла.\n\n«Государство» стало попыткой спроектировать систему, где власть принадлежит не большинству, а мудрецам, и где казнь праведника станет невозможной. В поисках стабильности Платон внимательно изучал устройство Спарты. Его восхищала спартанская дисциплина, жесткая система воспитания детей государством и готовность граждан жертвовать личным ради общего блага. Многие элементы Спарты (отказ от частной собственности, суровый отбор воинов, запрет роскоши) он перенес в проект своей идеальной утопии, скрестив их с философией.",
+      "era": "BC",
+      "latitude": 37.99132361,
+      "longitude": 23.70838881,
+      "name": "Plato writes \"The Republic\"",
+      "name_ru": "Платон пишет \"Государство\"",
+      "source": "https://en.wikipedia.org/wiki/Republic_(Plato)",
+      "tags": [
+        "Greek",
+        "Athens",
+        "Administration",
+        "Metaphysics",
+        "Philosophy",
+        "Plato 👤",
+        "Text"
+      ],
+      "type": "cultural"
+    },
+    {
       "date": "06.07.0371",
       "description": "Battle of Leuctra sees Thebes crush Spartan army killing 400 of 700 Spartiates including King Cleombrotus; Epaminondas's oblique order destroys myth of Spartan invincibility forever",
       "description_ru": "В битве при Левктрах Фивы громят спартанскую армию, убив 400 из 700 спартиатов, включая царя Клеомброта; косой строй Эпаминонда навсегда разрушает миф о спартанской непобедимости",
@@ -4030,6 +4052,7 @@
         "Greek",
         "Athens",
         "Education",
+        "Influence",
         "Philosophy",
         "Plato 👤"
       ],
@@ -4116,26 +4139,6 @@
     },
     {
       "date": "20.07.0356",
-      "description": "Herostratus, a resident of Ephesus, burns down a temple to gain fame. According to legend, Herostratus burned the temple on the same day that Alexander the Great was born, so Artemis was busy. The temple was rebuilt some time later.",
-      "description_ru": "Житель Эфеса Герострат сжигает храм, чтобы прославиться. По легенде, Герострат сжег храм в тот же день, когда родился Александр Македонский, поэтому Артемида была занята. Через некоторое время храм восстанавливают.",
-      "era": "BC",
-      "latitude": 37.94977292,
-      "longitude": 27.36371398,
-      "name": "Herostratus burns the temple of Artemis",
-      "name_ru": "Герострат сжигает храм Артемиды",
-      "source": "https://en.wikipedia.org/wiki/Temple_of_Artemis",
-      "tags": [
-        "Greek",
-        "Legend",
-        "Ancient",
-        "Destruction",
-        "Temple",
-        "Wonders"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "20.07.0356",
       "description": "Alexander the Great born in Pella to Philip II and Olympias; legend claims Temple of Artemis at Ephesus burns same night because goddess was attending his birth",
       "description_ru": "Александр Великий рождается в Пелле у Филиппа II и Олимпиады; легенда гласит, что Храм Артемиды в Эфесе горит в ту же ночь, потому что богиня присутствовала при его рождении",
       "era": "BC",
@@ -4152,6 +4155,26 @@
         "Alexander the Great 👤",
         "Birth",
         "Milestone ⭐️"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "20.07.0356",
+      "description": "Herostratus, a resident of Ephesus, burns down a temple to gain fame. According to legend, Herostratus burned the temple on the same day that Alexander the Great was born, so Artemis was busy. The temple was rebuilt some time later.",
+      "description_ru": "Житель Эфеса Герострат сжигает храм, чтобы прославиться. По легенде, Герострат сжег храм в тот же день, когда родился Александр Македонский, поэтому Артемида была занята. Через некоторое время храм восстанавливают.",
+      "era": "BC",
+      "latitude": 37.94977292,
+      "longitude": 27.36371398,
+      "name": "Herostratus burns the temple of Artemis",
+      "name_ru": "Герострат сжигает храм Артемиды",
+      "source": "https://en.wikipedia.org/wiki/Temple_of_Artemis",
+      "tags": [
+        "Greek",
+        "Legend",
+        "Ancient",
+        "Destruction",
+        "Temple",
+        "Wonders"
       ],
       "type": "historic"
     },
@@ -4335,27 +4358,6 @@
     },
     {
       "date": "01.01.0335",
-      "description": "Alexander destroys Thebes as warning to Greeks; city razed except for temples and house of poet Pindar, 30,000 inhabitants sold into slavery - rebellion against Macedon unthinkable",
-      "description_ru": "Александр разрушает восставшие против Македонии Фивы как предупреждение грекам; город стерт с лица земли, кроме храмов и дома поэта Пиндара, 30 000 жителей проданы в рабство - восстание против Македонии недопустимо",
-      "era": "BC",
-      "latitude": 38.3192,
-      "longitude": 23.3178,
-      "name": "Destruction of Thebes",
-      "name_ru": "Александр разрушает Фивы",
-      "source": "https://en.wikipedia.org/wiki/Alexander_the_Great",
-      "tags": [
-        "Greek",
-        "Macedonian",
-        "War",
-        "Alexander the Great 👤",
-        "Destruction",
-        "Slavery",
-        "Thebes"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.01.0335",
       "description": "Aristotle returns to Athens and founds Lyceum school; teaches while walking in peripatos (covered walkway), giving followers name 'Peripatetics' - systematic research in biology, logic, ethics",
       "description_ru": "Аристотель возвращается в Афины и основывает школу Ликей; преподает, прогуливаясь по перипатосу (крытой галерее), давая последователям имя 'перипатетики' - систематические исследования в биологии, логике, этике",
       "era": "BC",
@@ -4375,23 +4377,25 @@
       "type": "cultural"
     },
     {
-      "date": "01.01.0331",
-      "description": "Alexander founds Alexandria in Egypt at strategic location on Mediterranean coast; city becomes greatest center of learning and commerce in ancient world, housing famous Library and Lighthouse",
-      "description_ru": "Александр основывает Александрию в Египте в стратегическом месте на побережье Средиземного моря; город станет величайшим центром учености и торговли древнего мира с знаменитой Библиотекой и Маяком",
+      "date": "01.01.0335",
+      "description": "Alexander destroys Thebes as warning to Greeks; city razed except for temples and house of poet Pindar, 30,000 inhabitants sold into slavery - rebellion against Macedon unthinkable",
+      "description_ru": "Александр разрушает восставшие против Македонии Фивы как предупреждение грекам; город стерт с лица земли, кроме храмов и дома поэта Пиндара, 30 000 жителей проданы в рабство - восстание против Македонии недопустимо",
       "era": "BC",
-      "latitude": 31.206667,
-      "longitude": 29.900278,
-      "name": "Foundation of Alexandria in Egypt",
-      "name_ru": "Основание Александрии Египетской",
-      "source": "https://en.wikipedia.org/wiki/Alexandria",
+      "latitude": 38.3192,
+      "longitude": 23.3178,
+      "name": "Destruction of Thebes",
+      "name_ru": "Александр разрушает Фивы",
+      "source": "https://en.wikipedia.org/wiki/Alexander_the_Great",
       "tags": [
         "Greek",
-        "Egypt",
         "Macedonian",
-        "City",
-        "Alexander the Great 👤"
+        "War",
+        "Alexander the Great 👤",
+        "Destruction",
+        "Slavery",
+        "Thebes"
       ],
-      "type": "historic"
+      "type": "military"
     },
     {
       "date": "01.01.0331",
@@ -4413,6 +4417,25 @@
         "Religious"
       ],
       "type": "religious"
+    },
+    {
+      "date": "01.01.0331",
+      "description": "Alexander founds Alexandria in Egypt at strategic location on Mediterranean coast; city becomes greatest center of learning and commerce in ancient world, housing famous Library and Lighthouse",
+      "description_ru": "Александр основывает Александрию в Египте в стратегическом месте на побережье Средиземного моря; город станет величайшим центром учености и торговли древнего мира с знаменитой Библиотекой и Маяком",
+      "era": "BC",
+      "latitude": 31.206667,
+      "longitude": 29.900278,
+      "name": "Foundation of Alexandria in Egypt",
+      "name_ru": "Основание Александрии Египетской",
+      "source": "https://en.wikipedia.org/wiki/Alexandria",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Macedonian",
+        "City",
+        "Alexander the Great 👤"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.12.0330",

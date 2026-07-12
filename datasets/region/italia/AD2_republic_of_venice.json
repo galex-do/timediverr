@@ -46,8 +46,8 @@
       "description": "Following the Lombard invasion, the Byzantine Empire retained control over the coastal and lagoon territories of northeastern Italy through the Exarchate of Ravenna, established in 584. The lagoon communities were nominally under Byzantine rule, governed by tribunes appointed on the low islands. This relationship gave early Venice access to Byzantine trade networks, legal traditions, and political culture, while simultaneously protecting it from the Lombards.\n\nThe connection with Constantinople shaped Venetian architecture, trade, and statecraft. However, Byzantine suzerainty always remained tenuous—the lagoon communities gradually developed autonomous institutions that the empire was too remote to suppress.",
       "description_ru": "После вторжения лангобардов Византийская империя сохранила контроль над прибрежными и лагунными территориями северо-восточной Италии через Равеннский экзархат, учреждённый в 584 году. Лагунные общины номинально находились под властью Византии, управляемые трибунами, назначавшимися на отдельных островах. Эти отношения открыли ранней Венеции доступ к византийским торговым сетям, правовым традициям и политической культуре, одновременно защищая её от лангобардов. \n\nСвязь с Константинополем определила венецианскую архитектуру, торговлю и государственное искусство. Однако византийский сюзеренитет всегда оставался слабым — лагунные общины постепенно создавали автономные институты, которые империя была слишком далека, чтобы подавить.",
       "era": "AD",
-      "latitude": 44.42,
-      "longitude": 12.2,
+      "latitude": 44.41670091,
+      "longitude": 12.20450163,
       "name": "Venice Under the Byzantine Exarchate of Ravenna",
       "name_ru": "Венеция под управлением Равенны",
       "source": "https://en.wikipedia.org/wiki/Exarchate_of_Ravenna",
@@ -366,8 +366,7 @@
         "Byzantine",
         "Naval",
         "Norman",
-        "Normandy",
-        "Robert Guiscard",
+        "Robert Guiscard 👤",
         "Venice"
       ],
       "type": "military"
@@ -410,8 +409,7 @@
         "Byzantine",
         "Naval",
         "Norman",
-        "Normandy",
-        "Robert Guiscard",
+        "Robert Guiscard 👤",
         "Seamen",
         "Venice"
       ],
@@ -714,7 +712,6 @@
         "Blockade",
         "Byzantine",
         "Norman",
-        "Normandy",
         "Seamen",
         "Siege",
         "Venice"
