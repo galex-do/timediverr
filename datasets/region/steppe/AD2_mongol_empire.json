@@ -1,0 +1,671 @@
+{
+  "description": "Dataset covering the Mongol Empire from the birth of Temujin through the steppe unification, world conquests, and the disintegration into four khanates — 40 events spanning 1162–1368 AD. Focuses on the Mongolian narrative: tribal politics, the rise of Genghis Khan, the military system, the Pax Mongolica, and the eventual fragmentation and fall of the Yuan dynasty.",
+  "events": [
+    {
+      "date": "01.01.1162",
+      "era": "AD",
+      "name": "Temujin Born on the Onon River",
+      "name_ru": "Темуджин родился на реке Онон",
+      "description": "Around 1162, Temujin — the future Genghis Khan — was born near the Onon River in northeastern Mongolia, the son of Yesugei, a minor chieftain of the Borjigin clan. He was born clutching a blood clot in his fist, which shamans interpreted as a sign of a great warrior. His father named him Temujin after a Tatar chieftain he had just captured. The Mongolian plateau of the twelfth century was a world of constant tribal warfare: Mongols, Tatars, Merkits, Keraites, and Naimans raided one another continuously, and no single power dominated the steppe. Alliances dissolved within a generation; captives were enslaved; children of defeated chieftains faced execution.",
+      "description_ru": "Около 1162 года Темуджин — будущий Чингисхан — родился у берегов реки Онон в Северо-Восточной Монголии, сын Есугея, мелкого вождя Борджигинского клана. Он родился, сжимая в кулаке сгусток крови, который шаманы истолковали как знак великого воина. Отец назвал его Темуджином в честь татарского вождя, которого только что захватил. Монгольское плато XII века было миром непрекращающихся межплеменных войн: монголы, татары, меркиты, кераиты и найманы беспрерывно совершали набеги друг на друга, и ни одна сила не господствовала в степи. Союзы распадались за одно поколение; пленников обращали в рабство; детей побеждённых вождей казнили.",
+      "latitude": 49.0,
+      "longitude": 111.5,
+      "source": "https://en.wikipedia.org/wiki/Genghis_Khan",
+      "tags": [
+        "Mongolian",
+        "Steppe",
+        "Foundation",
+        "Dynasty"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1171",
+      "era": "AD",
+      "name": "Yesugei Poisoned — Temujin Abandoned on the Steppe",
+      "name_ru": "Есугей отравлен — Темуджин брошен в степи",
+      "description": "Around 1171, Temujin's father Yesugei was poisoned by Tatar enemies who recognised him at a campfire and added poison to his food. He died on the journey home. Temujin was approximately nine years old. Following Yesugei's death, the Borjigin clan — lacking confidence in a child leader — abandoned Temujin's family on the steppe, taking their horses and leaving them with almost no resources. Temujin, his mother Hoelun, and his siblings survived by digging roots and hunting small animals. The years of abandonment forged the core traits of the future conqueror: absolute self-reliance, extreme distrust of tribal loyalty, and the conviction that personal merit rather than bloodline should determine rank.",
+      "description_ru": "Около 1171 года отца Темуджина Есугея отравили враги-татары, узнавшие его у костра и подмешавшие яд в его еду. Он умер на пути домой. Темуджину было около девяти лет. После смерти Есугея Борджигинский клан — не доверяя ребёнку-вождю — бросил семью Темуджина в степи, забрав лошадей и оставив почти без средств к существованию. Темуджин, его мать Оэлун и братья выжили, выкапывая коренья и охотясь на мелкую дичь. Годы брошенности выковали основные черты будущего завоевателя: абсолютную самодостаточность, крайнее недоверие к племенной лояльности и убеждённость, что личная доблесть, а не родословная должна определять положение.",
+      "latitude": 49.0,
+      "longitude": 111.5,
+      "source": "https://en.wikipedia.org/wiki/Genghis_Khan",
+      "tags": [
+        "Mongolian",
+        "Steppe",
+        "Dynasty",
+        "Crisis"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1178",
+      "era": "AD",
+      "name": "Temujin Marries Börte — First Alliance Built from a Fur Coat",
+      "name_ru": "Темуджин женится на Бортэ — первый союз, построенный на шубе",
+      "description": "Around 1178, Temujin married Börte of the Onggirat clan — a betrothal arranged by his father before his death. As a wedding gift, Börte brought a sable fur coat. Temujin immediately used it as a diplomatic instrument: he presented the coat to Toghrul, Khan of the Keraite confederation and his father's former blood brother (anda), in exchange for an alliance. Toghrul accepted. The exchange was characteristic of the young Temujin's method: transforming every resource, however modest, into political capital. When the Merkits kidnapped Börte shortly after the marriage, Temujin called in the Keraite alliance to rescue her — his first military campaign, fought with borrowed power.",
+      "description_ru": "Около 1178 года Темуджин женился на Бортэ из рода Унгиратов — помолвка, устроенная отцом перед смертью. В качестве свадебного подарка Бортэ принесла соболиную шубу. Темуджин немедленно использовал её как дипломатический инструмент: преподнёс шубу Тогрулу, хану Кераитской конфедерации и бывшему кровному брату (анда) отца, в обмен на союз. Тогрул принял. Обмен был характерен для метода молодого Темуджина: превращать каждый ресурс, сколь угодно скромный, в политический капитал. Когда меркиты вскоре после свадьбы похитили Бортэ, Темуджин призвал Кераитский союз для её освобождения — свой первый военный поход, ведённый с заёмной силой.",
+      "latitude": 47.9,
+      "longitude": 106.9,
+      "source": "https://en.wikipedia.org/wiki/B%C3%B6rte",
+      "tags": [
+        "Mongolian",
+        "Steppe",
+        "Diplomacy",
+        "Dynasty"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1189",
+      "era": "AD",
+      "name": "Temujin Elected Khan — First Following on the Steppe",
+      "name_ru": "Темуджин избран ханом — первые последователи в степи",
+      "description": "Around 1189–1190, Temujin was elected Khan by a growing following of Mongol warriors at a kurultai on the Onon River — his first formal elevation to leadership. The assembly was modest: a few dozen allied families, not yet a tribal confederation. His blood brother and rival Jamukha held more followers. The two had been close allies who shared a tent and exchanged blood-brother oaths, but their visions of leadership were incompatible: Jamukha maintained the traditional aristocratic model of tribal hierarchy; Temujin promoted personal loyalty above bloodline and rewarded competent warriors regardless of birth. The split between them set the pattern for the next fifteen years of Mongolian steppe politics — a civil war of two models of authority.",
+      "description_ru": "Около 1189–1190 годов Темуджин был избран ханом растущим числом Монгольских воинов на курултае у берегов Онона — его первое формальное возведение в руководство. Собрание было скромным: несколько десятков союзных семей, ещё не племенная конфедерация. Его кровный брат и соперник Джамуха имел больше последователей. Двое были близкими союзниками, делившими шатёр и обменявшимися клятвами кровного братства, но их видения руководства были несовместимы: Джамуха придерживался традиционной аристократической модели племенной иерархии; Темуджин ставил личную лояльность выше родословной и вознаграждал способных воинов независимо от происхождения. Раскол между ними задал образец на следующие пятнадцать лет монгольской степной политики.",
+      "latitude": 49.0,
+      "longitude": 111.5,
+      "source": "https://en.wikipedia.org/wiki/Genghis_Khan",
+      "tags": [
+        "Mongolian",
+        "Steppe",
+        "Foundation",
+        "Dynasty"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1202",
+      "era": "AD",
+      "name": "Temujin Exterminated the Tatars — Childhood Enemy Destroyed",
+      "name_ru": "Темуджин уничтожил татар — враг детства истреблён",
+      "description": "In 1202, Temujin launched a comprehensive campaign against the Tatars — the tribe responsible for poisoning his father — and defeated them in a series of engagements. After the battle, Temujin ordered the execution of all Tatar men taller than the height of a cart axle. Children below this height were spared and distributed among Mongol households to be raised as Mongols. Women were taken as wives and concubines. The method — total destruction of the adult male enemy population, absorption of the children — became the template for Temujin's treatment of defeated tribes. The Tatars ceased to exist as a separate people within a generation; their name, however, was adopted by the outside world as the general term for all peoples of the Mongolian steppe.",
+      "description_ru": "В 1202 году Темуджин начал комплексный поход против татар — племени, ответственного за отравление отца, — и разгромил их в серии сражений. После битвы Темуджин приказал казнить всех татарских мужчин выше осевой чеки тележного колеса. Детей ниже этой высоты пощадили и раздали по монгольским домохозяйствам для воспитания монголами. Женщин взяли жёнами и наложницами. Метод — полное уничтожение взрослого мужского населения врага, поглощение детей — стал образцом обращения Темуджина с побеждёнными племенами. Татары перестали существовать как отдельный народ за одно поколение; однако их имя было принято внешним миром как общий термин для всех народов монгольской степи.",
+      "latitude": 47.5,
+      "longitude": 115.0,
+      "source": "https://en.wikipedia.org/wiki/Genghis_Khan",
+      "tags": [
+        "Mongolian",
+        "Steppe",
+        "War",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1203",
+      "era": "AD",
+      "name": "Keraites Destroyed — Toghrul Eliminated, Central Mongolia Consolidated",
+      "name_ru": "Кераиты уничтожены — Тогрул устранён, центральная Монголия объединена",
+      "description": "In 1203, after a temporary defeat that forced Temujin into exile near Baljuna Lake — where he cemented loyalty with a small band of followers by drinking muddy water with them in a shared oath — he recovered, rallied his forces, and launched a decisive campaign against his former patron Toghrul of the Keraites. Toghrul's son Senggum had convinced his father that Temujin was a threat; Temujin struck first. The Keraite confederation was destroyed; Toghrul fled and was killed by Naimans who did not recognise him. The destruction of the Keraites removed the largest tribal power in central Mongolia, leaving only the Naimans in the west between Temujin and total control of the steppe.",
+      "description_ru": "В 1203 году, после временного поражения, вынудившего Темуджина в изгнание у озера Балджуна, — где он скрепил верность небольшой группы последователей, выпив с ними мутную воду в совместной клятве, — он оправился, собрал силы и начал решающий поход против бывшего покровителя Тогрула из кераитов. Сын Тогрула Сенгум убедил отца, что Темуджин представляет угрозу; Темуджин нанёс удар первым. Кераитская конфедерация была уничтожена; Тогрул бежал и был убит найманами, не узнавшими его. Уничтожение кераитов устранило крупнейшую племенную силу Центральной Монголии.",
+      "latitude": 47.5,
+      "longitude": 103.0,
+      "source": "https://en.wikipedia.org/wiki/Keraites",
+      "tags": [
+        "Mongolian",
+        "Steppe",
+        "War",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1204",
+      "era": "AD",
+      "name": "Naimans Defeated — All Mongolia Under One Command",
+      "name_ru": "Найманы разгромлены — вся Монголия под единым командованием",
+      "description": "In spring 1204, Temujin launched the final campaign of the Mongolian civil wars against the Naimans — the most sophisticated of the steppe confederations, with literacy borrowed from the Uyghurs, a chancellery, and the strongest remaining military force in western Mongolia. The Naiman Khan Tayang was defeated and killed; his son Kuchlug escaped west. Jamukha — Temujin's blood brother and final rival — fled but was eventually handed over by his own men. Temujin refused to execute him by bloodshed (as befitted his former anda) and had him suffocated; his followers who had betrayed him were executed for disloyalty. The Mongolian plateau was unified for the first time in its recorded history under a single chieftain.",
+      "description_ru": "Весной 1204 года Темуджин начал последний поход монгольских гражданских войн против найманов — наиболее изощрённой из степных конфедераций, обладавшей письменностью, заимствованной у уйгуров, канцелярией и сильнейшими оставшимися военными силами Западной Монголии. Найманский хан Таян был разгромлен и убит; его сын Кучлуг бежал на запад. Джамуха — кровный брат и последний соперник Темуджина — бежал, но в конечном счёте был выдан собственными людьми. Темуджин отказался казнить его кровопролитием (как подобало бывшему анда) и приказал задушить; его последователи, предавшие его, были казнены за нелояльность. Монгольское плато было объединено впервые в своей известной истории.",
+      "latitude": 47.0,
+      "longitude": 99.0,
+      "source": "https://en.wikipedia.org/wiki/Naimans",
+      "tags": [
+        "Mongolian",
+        "Steppe",
+        "War",
+        "Foundation"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.05.1206",
+      "era": "AD",
+      "name": "Great Kurultai — Temujin Proclaimed Genghis Khan",
+      "name_ru": "Великий курултай — Темуджин провозглашён Чингисханом",
+      "description": "In spring 1206, a great kurultai was held on the banks of the Onon River. All the chiefs of the unified Mongolian plateau assembled and proclaimed Temujin Genghis Khan — a title meaning something like Universal Ruler. A great white standard of nine tails (sulde) was raised. Genghis immediately imposed the yasa — a comprehensive legal code covering military discipline, property, and social conduct. He reorganised the army into a decimal system: units of ten, hundred, thousand, and ten thousand (tumen), each commanded by officers appointed for merit rather than birth. All tribal distinctions were dissolved: there were no longer Mongols, Keraites, or Naimans — only the people of the felt-walled tents, bound to the Khan by personal oath.",
+      "description_ru": "Весной 1206 года на берегах Онона собрался великий курултай. Все вожди объединённого монгольского плато провозгласили Темуджина Чингисханом — титул, означающий примерно «Владыка мира». Был поднят великий белый бунчук из девяти хвостов (сульдэ). Чингис немедленно ввёл ясу — всеобъемлющий правовой кодекс, охватывавший военную дисциплину, имущество и общественное поведение. Он реорганизовал армию по десятичной системе: отряды по десять, сто, тысяча и десять тысяч (тумен), каждый командуется офицерами, назначаемыми за заслуги, а не по происхождению. Все племенные различия были упразднены: отныне не было монголов, кераитов или найманов — только народ войлочных юрт, связанный с ханом личной клятвой.",
+      "latitude": 49.0,
+      "longitude": 111.5,
+      "source": "https://en.wikipedia.org/wiki/Genghis_Khan",
+      "tags": [
+        "Mongolian",
+        "Steppe",
+        "Foundation",
+        "Law"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1207",
+      "era": "AD",
+      "name": "Forest Tribes and Xi Xia Subjugated — First Campaigns Beyond Mongolia",
+      "name_ru": "Лесные племена и Си Ся покорены — первые походы за пределы Монголии",
+      "description": "In 1207, Genghis Khan's eldest son Jochi led a campaign that subjugated the forest peoples north and west of Mongolia — the Oirats, Buriyats, and Kyrgyz — without major fighting; most submitted on approach. The same year saw the beginning of operations against Xi Xia — the Tangut kingdom of northwestern China, one of the most literate and commercially sophisticated civilisations of East Asia. The Mongols raided deep into Xi Xia in 1205 and 1207, demonstrating that fixed fortifications were no barrier to their mobility. The campaign against Xi Xia was partly practical — securing the western flank before attacking the much larger Jin dynasty — and partly about access to Xi Xia's camels for logistics.",
+      "description_ru": "В 1207 году старший сын Чингисхана Джочи возглавил поход, покоривший лесные народы к северу и западу от Монголии — ойратов, бурятов и кыргызов — без крупных сражений; большинство подчинились при приближении. В том же году начались операции против Си Ся — тангутского королевства Северо-Западного Китая, одной из наиболее грамотных и коммерчески изощрённых цивилизаций Восточной Азии. Монголы совершали глубокие рейды на территорию Си Ся в 1205 и 1207 годах, демонстрируя, что укреплённые крепости не являются преградой для их мобильности. Поход против Си Ся был частично практическим — обеспечение западного фланга перед атакой на значительно более крупную династию Цзинь.",
+      "latitude": 38.0,
+      "longitude": 106.0,
+      "source": "https://en.wikipedia.org/wiki/Western_Xia",
+      "tags": [
+        "Mongolian",
+        "Chinese",
+        "Conquest",
+        "War"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.05.1211",
+      "era": "AD",
+      "name": "Invasion of the Jin Dynasty — Great Wall Breached",
+      "name_ru": "Вторжение в Dynasty Цзинь — Великая Китайская стена прорвана",
+      "description": "In 1211, Genghis Khan launched the full invasion of the Jin dynasty — the Jurchen rulers of northern China, one of the richest and most populated states in the world at the time. The Mongol force numbered approximately 100,000; the Jin had over a million soldiers but were distributed across a vast territory defending fixed lines. The Mongols' approach was alien to Jin military doctrine: instead of engaging fortifications, they bypassed them, raided deep into settled territory, and destroyed the agricultural base that sustained Jin garrisons. By 1213, the Mongols had moved south of the Great Wall. By 1215, Zhongdu — the Jin capital, the future Beijing — was captured and burned after a siege of two years, and Genghis extracted enormous tribute before withdrawing north.",
+      "description_ru": "В 1211 году Чингисхан начал полное вторжение в dynasty Цзинь — чжурчжэньских правителей Северного Китая, одного из богатейших и наиболее населённых государств мира того времени. Монгольские силы насчитывали около 100 000 человек; у Цзиней было более миллиона солдат, но они были рассредоточены по огромной территории, защищая укреплённые рубежи. Монгольский подход был чужд цзиньской военной доктрине: вместо штурма укреплений они обходили их, совершали глубокие рейды на оседлые территории и разрушали сельскохозяйственную базу, снабжавшую цзиньские гарнизоны. К 1215 году Чжундзу — столица Цзинь, будущий Пекин — был захвачен и сожжён.",
+      "latitude": 39.916,
+      "longitude": 116.391,
+      "source": "https://en.wikipedia.org/wiki/Mongol_conquest_of_the_Jin_dynasty",
+      "tags": [
+        "Mongolian",
+        "Chinese",
+        "War",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1218",
+      "era": "AD",
+      "name": "Kara-Khitan Destroyed — Mongol Empire Reaches Central Asia",
+      "name_ru": "Кара-Китаи уничтожены — Монгольская империя достигает Средней Азии",
+      "description": "In 1218, the Mongol general Jebe — one of Genghis Khan's greatest commanders, who had initially been his enemy and then won his trust by his courage in admitting it — hunted down and killed Kuchlug, the Naiman prince who had seized the Kara-Khitan Khanate of Central Asia by coup. Jebe conquered the entire Kara-Khitan territory without major resistance: Kuchlug had earned the hatred of the local Muslim population by persecuting them, and Jebe's guarantee of religious freedom prompted city after city to open its gates voluntarily. The fall of the Kara-Khitan brought the Mongol empire's western frontier directly to the border of the Khwarezm Empire — the most powerful state in the Islamic world, stretching from Afghanistan to the Caspian Sea.",
+      "description_ru": "В 1218 году монгольский полководец Джэбэ — один из величайших командиров Чингисхана, первоначально бывший его врагом и завоевавший доверие смелостью, с которой это признал, — выследил и убил Кучлуга, Найманского принца, захватившего Кара-Китайское ханство Средней Азии в результате переворота. Джэбэ завоевал всю территорию Кара-Китая без существенного сопротивления: Кучлуг заслужил ненависть местного Мусульманского населения, преследуя его, и гарантия Джэбэ религиозной свободы побудила город за городом добровольно открывать ворота. Падение Кара-Китая вывело западную границу монгольской империи непосредственно к рубежам державы Хорезмшаха.",
+      "latitude": 42.0,
+      "longitude": 76.0,
+      "source": "https://en.wikipedia.org/wiki/Mongol_conquest_of_Qara_Khitai",
+      "tags": [
+        "Mongolian",
+        "Islamic",
+        "Conquest",
+        "War"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1219",
+      "era": "AD",
+      "name": "The Otrar Incident — Genghis Khan Declares War on Khwarezm",
+      "name_ru": "Отрарский инцидент — Чингисхан объявляет войну Хорезму",
+      "description": "In 1218, Inalchuq — the governor of the Khwarezm frontier city of Otrar — confiscated the goods of a Mongol trade caravan of 450 merchants and executed all of them on the pretext of espionage. The Khwarezm Shah Muhammad II endorsed the killing. Genghis Khan sent three envoys to demand satisfaction; Muhammad had the lead ambassador killed and the other two's beards shaved off — the gravest possible insult to a Mongol. Genghis Khan is recorded to have climbed alone to the top of a hill, removed his hat, and prayed for three days before returning to announce war. In 1219, a Mongol army of approximately 200,000 crossed into Khwarezm. The campaign that followed would be the most thorough destruction of urban civilisation in the pre-modern world.",
+      "description_ru": "В 1218 году Иналчуг — правитель Хорезмского пограничного города Отрара — конфисковал товары монгольского торгового каравана из 450 купцов и казнил всех под предлогом шпионажа. Хорезмшах Мухаммед II одобрил убийство. Чингисхан направил трёх послов с требованием удовлетворения; Мухаммед приказал убить главного посла и обрить бороды двум другим — наитяжчайшее оскорбление для монгола. По преданию, Чингисхан поднялся один на вершину холма, снял шапку и молился три дня, прежде чем вернуться и объявить войну. В 1219 году монгольская армия около 200 000 человек перешла в Хорезм. Последовавший поход стал наиболее полным уничтожением городской цивилизации в домодерновом мире.",
+      "latitude": 41.55,
+      "longitude": 68.3,
+      "source": "https://en.wikipedia.org/wiki/Mongol_conquest_of_the_Khwarezm_Empire",
+      "tags": [
+        "Mongolian",
+        "Islamic",
+        "War",
+        "Trade"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.03.1220",
+      "era": "AD",
+      "name": "Bukhara and Samarkand Fall — Heart of Islamic Civilisation Sacked",
+      "name_ru": "Бухара и Самарканд пали — центр исламской цивилизации разрушен",
+      "description": "In February 1220, Genghis Khan led his forces directly through the Kyzylkum Desert — a route the Khwarezm Shah had left undefended as impassable — to take Bukhara from the rear. The city surrendered; Genghis assembled the population in the main mosque and informed them that their sins had brought him upon them as punishment from God. The wealthy were extracted and their possessions seized; the citadel garrison was killed. Samarkand — the Khwarezm capital, a city of perhaps 400,000 inhabitants — fell in March. The population was driven out of the city, the craftsmen were deported to Mongolia, and the remainder were massacred. The Khwarezm Shah Muhammad fled west and died alone on an island in the Caspian Sea.",
+      "description_ru": "В феврале 1220 года Чингисхан повёл силы прямо через пустыню Кызылкум — маршрутом, который Хорезмшах оставил незащищённым, считая непроходимым, — и взял Бухару с тыла. Город сдался; Чингис собрал население в главной мечети и сообщил, что их грехи навлекли его на них как Божье возмездие. Зажиточных схватили и конфисковали имущество; гарнизон цитадели был убит. Самарканд — столица Хорезма с населением, возможно, 400 000 жителей — пал в марте. Население было выгнано из города, ремесленники депортированы в Монголию, остальные перебиты. Хорезмшах Мухаммед бежал на запад и умер в одиночестве на острове в Каспийском море.",
+      "latitude": 39.654,
+      "longitude": 66.975,
+      "source": "https://en.wikipedia.org/wiki/Mongol_conquest_of_the_Khwarezm_Empire",
+      "tags": [
+        "Mongolian",
+        "Islamic",
+        "War",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1221",
+      "era": "AD",
+      "name": "Jebe and Subutai's Great Raid — Reconnaissance of the Western World",
+      "name_ru": "Великий рейд Джэбэ и Субэдея — разведка западного мира",
+      "description": "While Genghis Khan systematically destroyed the Khwarezm cities, he detached his two finest generals — Jebe and Subutai — with a vanguard force of 20,000 to pursue the fleeing Khwarezm Shah and reconnoitre the western world. Jebe and Subutai campaigned through Persia, sacked the Georgian army at the Battle of the Kotman River (1221), crossed the Caucasus, defeated the Kipchak confederacy on the north Caucasian steppe, and pushed into the Crimean peninsula before turning east to rejoin the main army. In 1223, they encountered and destroyed the combined Rus-Kipchak force at the Kalka River — the first contact between the Mongols and the Rus princes. The raid was the most extensive cavalry reconnaissance in history: roughly 6,000 kilometres in three years.",
+      "description_ru": "Пока Чингисхан планомерно уничтожал хорезмийские города, он отрядил двух своих лучших полководцев — Джэбэ и Субэдея — с авангардными силами в 20 000 человек для преследования бежавшего Хорезмшаха и разведки западного мира. Джэбэ и Субэдей прошли через Персию, разгромили Грузинскую армию на реке Котман (1221), перешли Кавказ, разгромили Кыпчакскую конфедерацию в Северокавказской степи и прорвались на Крымский полуостров, прежде чем повернуть на восток, чтобы воссоединиться с главной армией. В 1223 году они встретили и уничтожили объединённые Русско-кыпчакские силы на реке Калке. Рейд был наиболее масштабной кавалерийской разведкой в истории: около 6000 километров за три года.",
+      "latitude": 42.0,
+      "longitude": 45.0,
+      "source": "https://en.wikipedia.org/wiki/Jebe",
+      "tags": [
+        "Mongolian",
+        "Steppe",
+        "War",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "24.11.1221",
+      "era": "AD",
+      "name": "Battle of the Indus — Jalal ad-Din Escapes, Campaign Ends",
+      "name_ru": "Битва на Инде — Джалал ад-Дин бежит, поход завершается",
+      "description": "On 24 November 1221, Genghis Khan pursued Jalal ad-Din Mingburnu — the last Khwarezm prince, a commander of genuine ability who had defeated a Mongol army at the Battle of Parwan — to the banks of the Indus River in what is now Pakistan. In the battle, the Mongols destroyed Jalal ad-Din's force of 30,000; Jalal ad-Din himself plunged his horse into the Indus and swam across under Mongol arrows, escaping into India. Genghis watched from the bank and reportedly admired the prince's courage enough to restrain his generals from pursuit by boat. The Khwarezm Empire was functionally destroyed: its armies broken, its cities in ruin, its ruling dynasty in exile. Genghis turned north and began the long march home to Mongolia.",
+      "description_ru": "24 ноября 1221 года Чингисхан преследовал Джалал ад-Дина Мингбурну — последнего Хорезмийского принца, способного полководца, разгромившего монгольскую армию при Парване, — до берегов реки Инд на территории современного Пакистана. В битве монголы уничтожили 30-тысячные силы Джалал ад-Дина; сам Джалал ад-Дин бросил коня в Инд и переплыл под монгольскими стрелами, бежав в Индию. Чингис наблюдал с берега и, по преданию, восхитился мужеством принца настолько, что удержал полководцев от преследования на лодках. Хорезмийская империя была фактически уничтожена: её армии разгромлены, города в руинах, правящая династия в изгнании.",
+      "latitude": 33.8,
+      "longitude": 71.5,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_the_Indus",
+      "tags": [
+        "Mongolian",
+        "Islamic",
+        "War",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "18.08.1227",
+      "era": "AD",
+      "name": "Genghis Khan Dies — The World Conqueror's End",
+      "name_ru": "Чингисхан умирает — конец мирового завоевателя",
+      "description": "On 18 August 1227, Genghis Khan died during the final campaign against Xi Xia — the Tangut kingdom he had subjugated but which had rebelled. The cause of death is disputed: contemporary sources suggest a fall from a horse; later sources add internal injuries; some claim illness. He was approximately sixty-five years old. His burial place was kept secret: the funeral party reportedly killed every person they encountered on the journey to the burial site, and the site was deliberately obscured. He had conquered more territory in his lifetime than any commander in history — from the Pacific coast of China to the Caspian Sea. He left four legitimate sons: Jochi, Chagatai, Ögedei, and Tolui. He appointed Ögedei his successor and the kurultai confirmed the choice in 1229.",
+      "description_ru": "18 августа 1227 года Чингисхан умер во время последнего похода против Си Ся — тангутского королевства, которое он покорил, но которое восстало. Причина смерти оспаривается: современные источники указывают на падение с лошади; поздние добавляют внутренние травмы; некоторые называют болезнь. Ему было около шестидесяти пяти лет. Место его погребения держалось в тайне: похоронная процессия якобы убивала каждого встреченного на пути к месту захоронения, которое было намеренно скрыто. За свою жизнь он завоевал больше территорий, чем любой полководец в истории — от тихоокеанского побережья Китая до Каспийского моря. Он оставил четырёх законных сыновей: Джочи, Чагатая, Угэдэя и Толуя. Он назначил Угэдэя преемником, и курултай подтвердил выбор в 1229 году.",
+      "latitude": 37.0,
+      "longitude": 101.0,
+      "source": "https://en.wikipedia.org/wiki/Genghis_Khan",
+      "tags": [
+        "Mongolian",
+        "Steppe",
+        "Dynasty",
+        "Crisis"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "13.09.1229",
+      "era": "AD",
+      "name": "Ögedei Elected Great Khan — Empire Institutionalised",
+      "name_ru": "Угэдэй избран Великим ханом — институционализация империи",
+      "description": "In September 1229, a kurultai convened on the Mongolian steppe and elected Ögedei — Genghis Khan's third son — as the second Great Khan. Ögedei proved a capable and generous ruler: he built the permanent capital of Karakorum, established a postal relay system (yam) capable of transmitting messages 400 kilometres a day across the empire, instituted a census for taxation, appointed Persian and Chinese administrators to manage subject populations, and patronised merchants through low-tax trading arrangements. His reign transformed the Mongol empire from a conquest machine into a functioning multiethnic state. He authorised the construction of Karakorum as a permanent sedentary capital — the first permanent city the Mongols ever built.",
+      "description_ru": "В сентябре 1229 года курултай, созванный в монгольской степи, избрал Угэдэя — третьего сына Чингисхана — вторым Великим ханом. Угэдэй оказался способным и щедрым правителем: он построил постоянную столицу Каракорум, учредил систему почтовой эстафеты (ям), способную передавать сообщения на 400 километров в день по всей империи, провёл перепись населения для налогообложения, назначил Персидских и Китайских администраторов для управления подчинёнными народами и покровительствовал купцам через низконалоговые торговые соглашения. Его правление превратило монгольскую империю из завоевательной машины в функционирующее многоэтническое государство.",
+      "latitude": 47.195,
+      "longitude": 102.839,
+      "source": "https://en.wikipedia.org/wiki/%C3%96gedei_Khan",
+      "tags": [
+        "Mongolian",
+        "Steppe",
+        "Foundation",
+        "Dynasty"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "09.02.1234",
+      "era": "AD",
+      "name": "Jin Dynasty Destroyed — Northern China Under Mongol Rule",
+      "name_ru": "Dynasty Цзинь уничтожена — Северный Китай под монгольским управлением",
+      "description": "On 9 February 1234, the last Jin emperor committed suicide as Mongol and Song Chinese allied forces broke through the walls of Caizhou — the final Jin stronghold. The campaign to complete the Jin conquest had taken twenty years from Genghis Khan's first invasion. The Jin dynasty, which had ruled northern China for over a century, ceased to exist. Its collapse delivered the Yellow River basin, the North China Plain, and roughly 60 million people into Mongol administrative control. The Mongols faced the immediate problem that had confronted every steppe people who conquered China: how to govern a vast sedentary agricultural civilisation with a nomadic warrior minority. The solution — adapted Chinese bureaucracy under Mongol oversight — would be formalized by Kublai Khan forty years later.",
+      "description_ru": "9 февраля 1234 года последний Цзиньский император покончил с собой, когда объединённые Монгольские и Южно-Сунские силы пробили стены Цайчжоу — последнего Цзиньского оплота. Поход по завершению завоевания Цзинь занял двадцать лет с первого вторжения Чингисхана. Цзиньская dynasty, правившая Северным Китаем более столетия, прекратила существование. Её крушение передало Бассейн Жёлтой реки, Великую Китайскую равнину и около 60 миллионов человек под Монгольское административное управление. Монголы столкнулись с немедленной проблемой, вставшей перед каждым степным народом, завоевавшим Китай: как управлять огромной оседлой земледельческой цивилизацией силами кочевого воинского меньшинства.",
+      "latitude": 34.0,
+      "longitude": 115.0,
+      "source": "https://en.wikipedia.org/wiki/Mongol_conquest_of_the_Jin_dynasty",
+      "tags": [
+        "Mongolian",
+        "Chinese",
+        "War",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1235",
+      "era": "AD",
+      "name": "Karakorum Built — The World Empire's Capital on the Steppe",
+      "name_ru": "Построен Каракорум — столица мировой империи в степи",
+      "description": "In 1235, Ögedei Khan completed the construction of Karakorum — the permanent capital of the Mongol Empire — on the Orkhon River in central Mongolia, near the ancient capitals of the Gokturk and Uyghur empires. The city was surrounded by a mud-brick wall with four gates, each leading to a specific market: Chinese goods from the east gate, Muslim goods from the west gate. The population was largely non-Mongol: Chinese craftsmen, Persian administrators, European merchants, and Nestorian Christian priests all lived within its walls. A silver tree with four fountains dispensing wine, mares' milk, mead, and rice wine was the centrepiece of the great palace. William of Rubruck, a Franciscan friar who visited in 1254, described Karakorum as smaller than the Paris suburb of Saint-Denis.",
+      "description_ru": "В 1235 году Угэдэй-хан завершил строительство Каракорума — постоянной столицы Монгольской империи — на реке Орхон в Центральной Монголии, вблизи древних столиц Гюктюркской и Уйгурской империй. Город был окружён глинобитной стеной с четырьмя воротами, каждые из которых вели к отдельному рынку: Китайские товары у восточных ворот, Мусульманские у западных. Население было в основном немонгольским: Китайские ремесленники, Персидские администраторы, Европейские купцы и Несторианские Христианские священники жили за его стенами. Серебряное дерево с четырьмя фонтанами, источавшими вино, кобылье молоко, медовуху и рисовое вино, было центральным украшением великого дворца.",
+      "latitude": 47.195,
+      "longitude": 102.839,
+      "source": "https://en.wikipedia.org/wiki/Karakorum",
+      "tags": [
+        "Mongolian",
+        "Steppe",
+        "Foundation",
+        "Trade"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1236",
+      "era": "AD",
+      "name": "Kurultai Authorises the Great Western Campaign",
+      "name_ru": "Курултай санкционирует Великий западный поход",
+      "description": "In 1235, a kurultai at Karakorum authorised a comprehensive campaign to the west: the conquest of the remaining Kipchak steppe, the Volga Bulgars, the Rus principalities, Hungary, and the Cuman peoples who had refused Mongol submission. The campaign was commanded nominally by Batu Khan — son of Jochi, with a claim to the western territories as his father's inheritance — but the actual strategic direction was provided by Subutai, the greatest operational commander of the age. The army assembled was multinational: Mongol cavalry formed the core, but there were contingents from all conquered peoples, Chinese engineers to operate siege equipment, and Khwarezm Muslim administrators to govern conquered territories. The western campaign began moving in 1236.",
+      "description_ru": "В 1235 году курултай в Каракоруме санкционировал комплексный поход на запад: завоевание оставшейся Кыпчакской степи, Волжских Болгар, Русских княжеств, Венгрии и Куманов, отказавшихся подчиниться монголам. Походом номинально командовал Бату-хан — сын Джочи, с претензией на западные территории как наследство отца, — но фактическое стратегическое руководство осуществлял Субэдей, величайший оперативный командир эпохи. Собранная армия была многонациональной: Монгольская конница составляла ядро, но были контингенты всех покорённых народов, Китайские инженеры для обслуживания осадной техники и Хорезмийские Мусульманские администраторы для управления завоёванными территориями.",
+      "latitude": 47.195,
+      "longitude": 102.839,
+      "source": "https://en.wikipedia.org/wiki/Mongol_invasion_of_Europe",
+      "tags": [
+        "Mongolian",
+        "Steppe",
+        "War",
+        "Conquest"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "11.12.1241",
+      "era": "AD",
+      "name": "Ögedei Khan Dies — Europe Saved by a Drinking Problem",
+      "name_ru": "Угэдэй-хан умирает — Европу спасла склонность к пьянству",
+      "description": "On 11 December 1241, Ögedei Khan died at age fifty-six — his health destroyed by chronic alcoholism, which he had been unable to control despite his own advisers placing a limit on his daily cups. He died exactly as the western campaign was achieving its greatest victories: Batu and Subutai had just destroyed the Hungarian army at Mohi and the Polish-German force at Legnica in the same week, and the Adriatic coast lay open before them. Ögedei's death required Batu to return east for the kurultai to elect a successor. The Mongol withdrawal from Central Europe in 1242 was not a defeat but a political necessity. Western Europe never knew how close it had come: the Mongols who had taken Beijing, Samarkand, and Kyiv were within three weeks' march of Vienna.",
+      "description_ru": "11 декабря 1241 года Угэдэй-хан умер в возрасте пятидесяти шести лет — его здоровье было подорвано хроническим алкоголизмом, которого он не мог побороть, несмотря на то что советники установили дневной лимит чаш. Он умер именно тогда, когда западный поход достигал наибольших успехов: Бату и Субэдей только что уничтожили Венгерскую армию при Мохи и Польско-Германские силы при Легнице в одну неделю, и побережье Адриатики лежало перед ними открытым. Смерть Угэдэя требовала от Бату возвращения на восток для курултая по выборам преемника. Монгольский уход из Центральной Европы в 1242 году не был поражением, а политической необходимостью.",
+      "latitude": 47.195,
+      "longitude": 102.839,
+      "source": "https://en.wikipedia.org/wiki/%C3%96gedei_Khan",
+      "tags": [
+        "Mongolian",
+        "Dynasty",
+        "Crisis",
+        "Steppe"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.07.1251",
+      "era": "AD",
+      "name": "Möngke Becomes Great Khan — Last Undivided Empire",
+      "name_ru": "Мункэ становится Великим ханом — последняя нераздельная империя",
+      "description": "In July 1251, Möngke — son of Tolui, Genghis Khan's youngest son — was elected Great Khan after a violent succession struggle that had consumed the empire for nearly a decade since Ögedei's death. Möngke was the most capable ruler since Genghis himself: competent, abstemious, and strategic. He immediately launched two simultaneous campaigns of conquest — sending his brother Hülegü west to destroy the Nizari Assassins and the Abbasid Caliphate, and personally leading the campaign against the Southern Song dynasty of China. His reign saw the empire at its maximum geographical extent. It was also the last moment of genuine unity: the four Toluid and Jochid and Chagatai branches were still under common authority, though friction was already appearing between the Khanates.",
+      "description_ru": "В июле 1251 года Мункэ — сын Толуя, младшего сына Чингисхана — был избран Великим ханом после жестокой борьбы за престолонаследие, поглощавшей империю почти десятилетие со смерти Угэдэя. Мункэ был наиболее способным правителем после самого Чингиса: компетентным, воздержанным и стратегически мыслящим. Он немедленно начал два одновременных завоевательных похода — послав брата Хулагу на запад для уничтожения Низаритских Ассасинов и Аббасидского Халифата, и лично возглавив поход против Южной Сунской dynasty Китая. Его правление видело империю на максимальном географическом охвате. Это был также последний момент подлинного единства.",
+      "latitude": 47.195,
+      "longitude": 102.839,
+      "source": "https://en.wikipedia.org/wiki/M%C3%B6ngke_Khan",
+      "tags": [
+        "Mongolian",
+        "Dynasty",
+        "Foundation",
+        "Steppe"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1256",
+      "era": "AD",
+      "name": "Hülegü's Western Campaign — Assassins and Caliphate Destroyed",
+      "name_ru": "Западный поход Хулагу — Ассасины и Халифат уничтожены",
+      "description": "From 1253, Hülegü Khan led an army of approximately 120,000 west from Mongolia — the largest Mongol force ever sent to a single theatre. In November 1256, the Nizari Ismaili fortress of Alamut surrendered and was demolished; the Nizari network of mountain fortresses, which had terrorised the Islamic world for two centuries, was systematically destroyed. In February 1258, Hülegü took Baghdad: the Caliph al-Musta'sim was rolled in a carpet and trampled by horses, the House of Wisdom's books thrown into the Tigris, and between 200,000 and 800,000 inhabitants killed. The Mongols then pushed into Syria, taking Aleppo and Damascus. The western advance was halted at Ain Jalut in September 1260, where the Egyptian Mamluks won the first Mongol field defeat — news of Möngke's death had already called Hülegü east.",
+      "description_ru": "С 1253 года Хулагу-хан вёл армию около 120 000 человек на запад из Монголии — наибольшие Монгольские силы, когда-либо отправленные в единый театр. В ноябре 1256 года Низаритская Исмаилитская крепость Аламут сдалась и была снесена; Низаритская сеть горных крепостей, наводившая ужас на исламский мир два столетия, была планомерно уничтожена. В феврале 1258 года Хулагу взял Багдад: халиф аль-Мустасим был закатан в ковёр и затоптан лошадьми, книги Дома Мудрости брошены в Тигр, убито от 200 000 до 800 000 жителей. Затем монголы двинулись в Сирию, взяв Алеппо и Дамаск. Западное продвижение было остановлено при Айн-Джалуте в сентябре 1260 года.",
+      "latitude": 36.0,
+      "longitude": 50.0,
+      "source": "https://en.wikipedia.org/wiki/H%C3%BCleg%C3%BC_Khan",
+      "tags": [
+        "Mongolian",
+        "Islamic",
+        "War",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "11.08.1259",
+      "era": "AD",
+      "name": "Möngke Khan Dies at Diaoyu Fortress — The Empire Fractures",
+      "name_ru": "Мункэ-хан погибает у крепости Диаою — Империя раскалывается",
+      "description": "On 11 August 1259, Möngke Khan died during the siege of Diaoyu Fortress (near modern Chongqing) — a Song Chinese stronghold that had held out for months against the Mongol advance up the Sichuan passes. The cause was dysentery or wounds, possibly both. His death triggered the final succession crisis of the unified empire. His two surviving brothers — Kublai, who was conducting the Chinese campaign, and Ariq Böke, who controlled Mongolia — each called their own kurultai and declared themselves Great Khan. The result was a four-year civil war. While the brothers fought, Hülegü never returned west; the Ilkhanate he had founded became effectively independent. The Golden Horde under Berke Khan had already aligned against Hülegü. The unified Mongol empire existed in name only after 1259.",
+      "description_ru": "11 августа 1259 года Мункэ-хан умер во время осады крепости Диаою (вблизи современного Чунцина) — Южно-Сунского оплота, державшегося месяцами против Монгольского наступления через Сычуаньские перевалы. Причиной была дизентерия или ранения, возможно, и то и другое. Его смерть вызвала последний кризис престолонаследия объединённой империи. Два оставшихся в живых брата — Хубилай, ведший Китайский поход, и Ариг-Бёке, контролировавший Монголию, — каждый созвал собственный курултай и объявил себя Великим ханом. Результатом стала четырёхлетняя гражданская война. Пока братья воевали, Хулагу так и не вернулся на запад; основанное им Ильханство стало фактически независимым.",
+      "latitude": 29.563,
+      "longitude": 106.552,
+      "source": "https://en.wikipedia.org/wiki/M%C3%B6ngke_Khan",
+      "tags": [
+        "Mongolian",
+        "Dynasty",
+        "Crisis",
+        "Chinese"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.08.1264",
+      "era": "AD",
+      "name": "Kublai Wins the Civil War — Empire Divided into Four Khanates",
+      "name_ru": "Хубилай побеждает в гражданской войне — Империя разделена на четыре ханства",
+      "description": "In August 1264, Ariq Böke surrendered to Kublai Khan, ending the four-year civil war. Kublai was recognised as Great Khan, but his authority was nominal outside the eastern empire: the Chagatai Khanate in Central Asia, the Golden Horde in the western steppe, and Hülegü's Ilkhanate in Persia were operating independently and often at war with each other. The unified empire that Genghis Khan had built was gone. Its successor states would each follow their own trajectory: the Ilkhanate converted to Islam and collapsed within seventy years; the Golden Horde Islamicised and persisted until the fifteenth century; the Chagatai Khanate fragmented; and the Yuan dynasty in China was destroyed by Chinese rebellion in 1368. Kublai moved his capital to Khanbaliq — the future Beijing — signalling his identity as a Chinese emperor more than a steppe Khan.",
+      "description_ru": "В августе 1264 года Ариг-Бёке сдался Хубилай-хану, завершив четырёхлетнюю гражданскую войну. Хубилай был признан Великим ханом, но его власть была номинальной за пределами восточной империи: Чагатайское ханство в Средней Азии, Золотая Орда в западной степи и Ильханство Хулагу в Персии действовали независимо и нередко воевали друг с другом. Единая империя, выстроенная Чингисханом, исчезла. Государства-преемники следовали каждое собственной траекторией: Ильханство приняло Ислам и рухнуло через семьдесят лет; Золотая Орда исламизировалась и сохранялась до XV века; Чагатайское ханство раздробилось; dynasty Юань в Китае была уничтожена Китайским восстанием в 1368 году.",
+      "latitude": 47.195,
+      "longitude": 102.839,
+      "source": "https://en.wikipedia.org/wiki/Division_of_the_Mongol_Empire",
+      "tags": [
+        "Mongolian",
+        "Dynasty",
+        "Crisis",
+        "Steppe"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "18.12.1271",
+      "era": "AD",
+      "name": "Kublai Khan Declares the Yuan Dynasty",
+      "name_ru": "Хубилай-хан провозглашает dynasty Юань",
+      "description": "On 18 December 1271, Kublai Khan formally declared the Yuan dynasty — adopting a Chinese dynastic name (Yuan, meaning 'origin' or 'fundamental') and presenting himself explicitly as a Chinese emperor in the Confucian tradition rather than a Mongol steppe Khan. The declaration was a decisive statement: Kublai was governing China as a Chinese institution, not as an occupation. He moved the capital from Karakorum to Khanbaliq — the city he built at the site of the former Jin capital Zhongdu, today's Beijing — surrounding himself with Chinese advisers and administrators. The Venetian merchant Marco Polo arrived at his court around 1275 and spent seventeen years in Kublai's service, eventually producing the most detailed Western account of China until the nineteenth century.",
+      "description_ru": "18 декабря 1271 года Хубилай-хан официально провозгласил dynasty Юань — приняв Китайское dynasty наименование (Юань, означающее «начало» или «основополагающее») и явно представив себя Китайским императором в Конфуцианской традиции, а не Монгольским степным ханом. Декларация была решительным заявлением: Хубилай управлял Китаем как Китайский институт, а не как оккупация. Он перенёс столицу из Каракорума в Ханбалык — город, построенный на месте бывшей Цзиньской столицы Чжундзу, нынешнего Пекина, — окружив себя Китайскими советниками и администраторами. Венецианский купец Марко Поло прибыл ко двору около 1275 года и провёл семнадцать лет на службе у Хубилая.",
+      "latitude": 39.916,
+      "longitude": 116.391,
+      "source": "https://en.wikipedia.org/wiki/Yuan_dynasty",
+      "tags": [
+        "Mongolian",
+        "Chinese",
+        "Foundation",
+        "Dynasty"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.11.1274",
+      "era": "AD",
+      "name": "First Mongol Invasion of Japan — Typhoon Destroys the Fleet",
+      "name_ru": "Первое Монгольское вторжение в Японию — тайфун уничтожает флот",
+      "description": "In November 1274, a Mongol-Korean-Chinese fleet of approximately 900 vessels and 40,000 troops crossed the Korea Strait and landed at Hakata Bay on Kyushu. The Mongol composite bows, tactics of feigned retreat, and explosive bombs had no precedent in Japanese warfare; the defending samurai, fighting individual duels rather than massed formations, suffered heavy losses. But on the night of 19 November, a severe storm struck the fleet at anchor: the ships, designed for river transport rather than ocean sailing, were destroyed. Approximately 13,000 men were lost to the sea. The Japanese attributed their deliverance to kamikaze — divine wind — a term that would acquire a different meaning seven hundred years later. Kublai Khan sent envoys demanding Japanese submission; the Japanese executed all of them.",
+      "description_ru": "В ноябре 1274 года Монголо-Корейско-Китайский флот около 900 судов и 40 000 войск пересёк Корейский пролив и высадился в бухте Хаката на Кюсю. Монгольские составные луки, тактика ложного отступления и взрывные бомбы не имели прецедентов в Японской войне; обороняющиеся самураи, сражавшиеся в индивидуальных поединках, а не сомкнутым строем, несли тяжёлые потери. Но в ночь на 19 ноября сильный шторм обрушился на флот на якоре: суда, предназначенные для речных, а не океанских плаваний, были уничтожены. Около 13 000 человек погибло в море. Японцы приписали своё спасение камикадзе — Божественному ветру.",
+      "latitude": 33.582,
+      "longitude": 130.4,
+      "source": "https://en.wikipedia.org/wiki/First_Mongol_invasion_of_Japan",
+      "tags": [
+        "Mongolian",
+        "Chinese",
+        "War",
+        "Crisis"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "19.03.1279",
+      "era": "AD",
+      "name": "Battle of Yamen — Song Dynasty Falls, All China Under Yuan",
+      "name_ru": "Битва при Ямэнь — dynasty Сун падает, весь Китай под Юань",
+      "description": "On 19 March 1279, the final battle of the Mongol conquest of China was fought at sea off the coast of Guangdong, where the remnants of the Song court — including the child emperor Zhao Bing, age seven — had taken refuge on a fleet of over a thousand ships. The Yuan admiral Zhang Hongfan destroyed the Song fleet after a prolonged engagement. The Song prime minister Lu Xiufu, understanding that capture meant humiliation, jumped into the sea holding the child emperor in his arms. Hundreds of Song loyalists followed. The Song dynasty, which had governed southern China for 150 years after losing the north, was extinguished. For the first time in its history, all of China — from Mongolia to the South China Sea — was under a single rule. Kublai Khan's Yuan dynasty now governed perhaps 60 million people.",
+      "description_ru": "19 марта 1279 года последняя битва Монгольского завоевания Китая была дана на море у берегов Гуандуна, где остатки Сунского двора — включая малолетнего императора Чжао Бина, семи лет, — укрылись на флоте более тысячи судов. Юаньский адмирал Чжан Хунфань уничтожил Сунский флот после затяжного сражения. Сунский премьер-министр Лу Сюфу, понимая, что плен означает унижение, бросился в море, держа малолетнего императора на руках. Сотни Сунских верноподданных последовали за ними. Династия Сун, правившая Южным Китаем 150 лет после потери севера, угасла. Впервые в истории весь Китай — от Монголии до Южно-Китайского моря — был под единым управлением.",
+      "latitude": 22.3,
+      "longitude": 113.4,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Yamen",
+      "tags": [
+        "Mongolian",
+        "Chinese",
+        "War",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "15.08.1281",
+      "era": "AD",
+      "name": "Second Invasion of Japan — Kamikaze Destroys the Fleet Again",
+      "name_ru": "Второе вторжение в Японию — Камикадзе снова уничтожает флот",
+      "description": "In the summer of 1281, Kublai Khan launched a second invasion of Japan — this time with two fleets totalling approximately 4,400 ships and 140,000 men, the largest seaborne invasion in history to that point. The Japanese had spent seven years building defensive walls around Hakata Bay that neutralised the Mongol cavalry advantage. The two fleets failed to coordinate their landings; the combined force sat at sea for weeks in summer typhoon season. On the night of 15 August 1281, a massive typhoon struck the anchored fleet and destroyed it — an estimated 100,000 men drowned. Japan attributed the storm to the gods defending the sacred islands. The kamikaze myth acquired its definitive form. Kublai Khan planned a third invasion but it was never launched. Japan remained the only target the Mongol Empire attempted twice and failed both times.",
+      "description_ru": "Летом 1281 года Хубилай-хан начал второе вторжение в Японию — на этот раз двумя флотами общим числом около 4400 судов и 140 000 человек, крупнейшее морское вторжение в истории до того момента. Японцы провели семь лет, строя оборонительные стены вокруг бухты Хаката, нейтрализовавшие преимущество Монгольской конницы. Два флота не смогли скоординировать высадку; объединённые силы простояли в море неделями в сезон летних тайфунов. В ночь на 15 августа 1281 года мощный тайфун обрушился на стоявший на якоре флот и уничтожил его — около 100 000 человек утонуло. Миф о камикадзе обрёл окончательную форму. Япония осталась единственной целью, которую Монгольская империя атаковала дважды и дважды потерпела неудачу.",
+      "latitude": 33.582,
+      "longitude": 130.4,
+      "source": "https://en.wikipedia.org/wiki/Second_Mongol_invasion_of_Japan",
+      "tags": [
+        "Mongolian",
+        "Chinese",
+        "War",
+        "Crisis"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1288",
+      "era": "AD",
+      "name": "Vietnam Repels Three Mongol Invasions — Trần Hưng Đạo Defeats Subutai's Heirs",
+      "name_ru": "Вьетнам отражает три Монгольских вторжения — Чан Хынг Дао побеждает наследников Субэдея",
+      "description": "The Mongols invaded Vietnam three times: in 1257, 1284–85, and 1287–88. All three campaigns failed. The Vietnamese Trần dynasty, under the generalship of Trần Hưng Đạo — who studied the Mongol methods and devised counters to them — refused pitched battle, retreated into jungles and river deltas, disrupted Mongol supply lines, and struck when the invaders were weakened by tropical disease and supply failure. The decisive defeat came at the Battle of Bạch Đằng River in April 1288: Trần Hưng Đạo drove iron-tipped stakes into the river bed and lured the Mongol fleet upstream at high tide; when the tide fell, the ships were impaled and the Vietnamese attacked. The Mongol invasion force was destroyed; the survivors retreated north. Vietnam never submitted to Mongol authority.",
+      "description_ru": "Монголы трижды вторгались во Вьетнам: в 1257, 1284–85 и 1287–88 годах. Все три похода потерпели неудачу. Вьетнамская dynasty Чан под командованием Чан Хынг Дао — изучившего Монгольские методы и разработавшего контрмеры — уклонялась от открытых сражений, отступала в джунгли и речные дельты, нарушала Монгольские линии снабжения и наносила удары, когда захватчики были ослаблены тропическими болезнями и перебоями снабжения. Решающее поражение пришло в битве на реке Батьданг в апреле 1288 года: Чан Хынг Дао вбил железные сваи в речное дно и заманил Монгольский флот вверх по течению в прилив; когда прилив спал, суда насадились на сваи и вьетнамцы атаковали.",
+      "latitude": 20.85,
+      "longitude": 106.68,
+      "source": "https://en.wikipedia.org/wiki/Mongol_invasions_of_Vietnam",
+      "tags": [
+        "Mongolian",
+        "War",
+        "Crisis",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1293",
+      "era": "AD",
+      "name": "Mongol Invasion of Java Fails — Majapahit Empire Founded Instead",
+      "name_ru": "Монгольское вторжение на Яву провалилось — вместо этого основана империя Маджапахит",
+      "description": "In 1293, Kublai Khan dispatched a fleet of 1,000 ships and 20,000-30,000 men to punish the Javanese king Kertanagara, who had branded and mutilated the Mongol envoy sent to demand tribute. They arrived to find Kertanagara already dead — killed by a rival prince, Jayakatwang. The Mongol commander allied with Kertanagara's son-in-law Raden Wijaya against Jayakatwang, who was defeated. Raden Wijaya then turned on his Mongol allies while they were celebrating their victory and weakened by the tropical climate, killing several thousand before the fleet retreated. Raden Wijaya then founded the Majapahit Empire — which would become the dominant power of maritime Southeast Asia for two centuries — partly out of the chaos the Mongol intervention had created.",
+      "description_ru": "В 1293 году Хубилай-хан отправил флот из 1000 судов и 20 000–30 000 войск наказать Яванского короля Кертанагару, который заклеймил и искалечил Монгольского посла, направленного с требованием платить дань. Они прибыли, обнаружив, что Кертанагара уже мёртв — убит соперничавшим принцем Джаякатвангом. Монгольский командир вступил в союз с зятем Кертанагары Раден Виджая против Джаякатванга, который был разгромлен. Затем Раден Виджая повернул против Монгольских союзников, пока те праздновали победу, ослабленные тропическим климатом, перебив несколько тысяч прежде чем флот отступил. Затем Раден Виджая основал Империю Маджапахит.",
+      "latitude": -7.5,
+      "longitude": 112.2,
+      "source": "https://en.wikipedia.org/wiki/Mongol_invasion_of_Java",
+      "tags": [
+        "Mongolian",
+        "War",
+        "Crisis",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "18.02.1294",
+      "era": "AD",
+      "name": "Kublai Khan Dies — The Yuan Dynasty Without Its Founder",
+      "name_ru": "Хубилай-хан умирает — dynasty Юань без основателя",
+      "description": "On 18 February 1294, Kublai Khan died at Khanbaliq at age seventy-nine, enormously obese, crippled by gout, and broken by the deaths of his favourite wife Chabi and his chosen heir Zhenjin. He had been the last ruler with a personal connection to the original Mongol conquests: a grandson of Genghis Khan who had grown up on the steppe and participated in the campaigns. His successors were Chinese-educated princes with no experience of the steppe world that had created their dynasty. The Yuan dynasty would survive seventy-four more years, increasingly unable to manage the fundamental contradiction of Mongol rule over China: the conquest elite disdained agriculture and literacy, the Chinese bureaucracy resented Mongol privilege, and the tax burden generated by failed military adventures — Japan, Vietnam, Java — was destroying the fiscal foundation of the empire.",
+      "description_ru": "18 февраля 1294 года Хубилай-хан умер в Ханбалыке в возрасте семидесяти девяти лет, страдая тяжёлым ожирением, искалеченный подагрой и сломленный смертями любимой жены Чаби и избранного наследника Чжэньцзиня. Он был последним правителем с личной связью с первоначальными Монгольскими завоеваниями: внук Чингисхана, выросший в степи и участвовавший в походах. Его преемники были воспитанными в Китае принцами без опыта степного мира, породившего их dynasty. Династии Юань предстояло просуществовать ещё семьдесят четыре года, всё более неспособной управлять фундаментальным противоречием Монгольского правления Китаем.",
+      "latitude": 39.916,
+      "longitude": 116.391,
+      "source": "https://en.wikipedia.org/wiki/Kublai_Khan",
+      "tags": [
+        "Mongolian",
+        "Chinese",
+        "Dynasty",
+        "Crisis"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.11.1295",
+      "era": "AD",
+      "name": "Ghazan Khan Converts the Ilkhanate to Islam",
+      "name_ru": "Газан-хан обращает Ильханство в Ислам",
+      "description": "In November 1295, Ghazan Khan — who had just seized the throne of the Ilkhanate through a coup — publicly converted to Sunni Islam and proclaimed it the state religion of the Ilkhanate, ending the Mongol tradition of syncretic tolerance that had simultaneously supported Nestorian Christianity, Buddhism, Shamanism, and Islam. Ghazan was a capable ruler who reformed the Ilkhanate's tax system, stabilised its currency, and patronised Persian art and scholarship — his reign is considered the cultural high point of the Ilkhanate. His conversion was also a practical political calculation: the majority of his subjects were Muslim, and the ruling Mongol military class was already heavily mixed with Turkic and Persian elements. The Ilkhanate's remaining Buddhist and Christian institutions were systematically dismantled.",
+      "description_ru": "В ноябре 1295 года Газан-хан — только что захвативший трон Ильханства в результате переворота — публично принял Суннитский ислам и провозгласил его государственной религией Ильханства, прекратив Монгольскую традицию синкретической терпимости, одновременно поддерживавшей Несторианское Христианство, Буддизм, Шаманизм и Ислам. Газан был способным правителем, реформировавшим налоговую систему Ильханства, стабилизировавшим валюту и покровительствовавшим Персидскому искусству и науке — его правление считается культурным расцветом Ильханства. Его обращение было также практическим политическим расчётом: большинство подданных были Мусульманами.",
+      "latitude": 37.0,
+      "longitude": 49.0,
+      "source": "https://en.wikipedia.org/wiki/Ghazan",
+      "tags": [
+        "Mongolian",
+        "Islamic",
+        "Dynasty",
+        "Religious"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.1313",
+      "era": "AD",
+      "name": "Özbeg Khan Converts the Golden Horde to Islam",
+      "name_ru": "Хан Узбек обращает Золотую Орду в Ислам",
+      "description": "In 1313, Özbeg Khan became Khan of the Golden Horde and converted to Sunni Islam, completing the Islamicisation of the western Mongol successor state. His reign (1313–1341) was the longest and most prosperous in the Golden Horde's history: the Horde's capital Sarai on the Volga became one of the largest cities in the world, with a population perhaps exceeding 600,000 and a commercial network connecting the Black Sea ports to Central Asia. Özbeg maintained cordial relations with the Mamluk Sultanate of Egypt (a fellow Sunni state) and commercial relations with Venice and Genoa, whose colonies at Caffa and Tana processed the enormous trade in furs, slaves, grain, and silk that flowed through Mongol-controlled steppe routes. The Rus principalities continued to pay tribute and receive yarlyk charters.",
+      "description_ru": "В 1313 году хан Узбек стал ханом Золотой Орды и принял Суннитский ислам, завершив исламизацию западного Монгольского государства-преемника. Его правление (1313–1341) было самым длительным и процветающим в истории Золотой Орды: столица Орды Сарай на Волге стала одним из крупнейших городов мира с населением, возможно, превышавшим 600 000 человек, и коммерческой сетью, связывавшей Черноморские порты со Средней Азией. Узбек поддерживал дружественные отношения с Мамлюкским Султанатом Египта и коммерческие отношения с Венецией и Генуей, чьи колонии в Кафе и Тане обрабатывали огромную торговлю мехами, рабами, зерном и шёлком через Монгольские степные маршруты.",
+      "latitude": 48.5,
+      "longitude": 44.5,
+      "source": "https://en.wikipedia.org/wiki/%C3%96zbeg_Khan",
+      "tags": [
+        "Mongolian",
+        "Steppe",
+        "Islamic",
+        "Trade"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.1335",
+      "era": "AD",
+      "name": "Ilkhanate Collapses — Western Mongol Successor State Dissolves",
+      "name_ru": "Ильханство рухнуло — западное Монгольское государство-преемник распалось",
+      "description": "In 1335, the Ilkhanate effectively collapsed with the death of Abu Said Khan — the last Ilkhan with a legitimate claim — who died without heirs. He was followed by a rapid succession of puppet khans installed by competing Mongol and Turkic generals; the territory fragmented into rival successor states within a decade. The Jalayirid Sultanate took Iraq and western Persia; the Muzaffarid dynasty took central Persia; the Chobanid clan controlled Azerbaijan. The Black Death (1347) accelerated the collapse by killing perhaps a third of the surviving population of Persia and Mesopotamia. The Ilkhanate had existed for eighty years; its cultural legacy was permanent: the Persian-Mongol administrative and artistic synthesis produced by Ghazan and his successors defined Persian court culture for the next century.",
+      "description_ru": "В 1335 году Ильханство фактически рухнуло со смертью Абу Саида — последнего ильхана с законными претензиями, — умершего без наследников. За ним последовала быстрая смена марионеточных ханов, поставленных конкурирующими Монгольскими и Тюркскими военачальниками; территория за десятилетие раздробилась на соперничавшие государства-преемники. Чёрная смерть (1347) ускорила коллапс, убив, возможно, треть выжившего населения Персии и Месопотамии. Ильханство просуществовало восемьдесят лет; его культурное наследие было неизгладимым: Персидско-Монгольский административный и художественный синтез, созданный Газаном и его преемниками, определял Персидскую придворную культуру на следующее столетие.",
+      "latitude": 35.0,
+      "longitude": 51.0,
+      "source": "https://en.wikipedia.org/wiki/Ilkhanate",
+      "tags": [
+        "Mongolian",
+        "Islamic",
+        "Dynasty",
+        "Crisis"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "08.09.1380",
+      "era": "AD",
+      "name": "Battle of Kulikovo — Rus Defeats the Golden Horde",
+      "name_ru": "Битва на Куликовом поле — Русь побеждает Золотую Орду",
+      "description": "On 8 September 1380, Grand Prince Dmitri Donskoi of Moscow led a coalition of Rus principalities against the Golden Horde army of Mamai at the Battle of Kulikovo on the Don River. The Rus forces won a decisive victory — the first major defeat of a Golden Horde army by Rus forces since the Mongol conquest 140 years earlier. The battle did not end Mongol rule over Rus: Khan Tokhtamysh sacked Moscow two years later and reimposed tribute. But Kulikovo was a symbolic rupture: it demonstrated that the Mongols could be beaten in open field and consolidated Moscow's emerging role as the principal Rus principality. The Golden Horde, weakened by internal conflict and Tamerlane's subsequent invasion, would never fully recover its position over the Rus lands.",
+      "description_ru": "8 сентября 1380 года великий князь Московский Дмитрий Донской возглавил коалицию Русских княжеств против армии Золотой Орды Мамая в битве на Куликовом поле на реке Дон. Русские силы одержали решительную победу — первое крупное поражение армии Золотой Орды от Русских сил со времён Монгольского завоевания 140 лет назад. Битва не прекратила Монгольского господства над Русью: хан Тохтамыш разграбил Москву двумя годами позже и вновь наложил дань. Но Куликово стало символическим разрывом: оно доказало, что монголов можно победить в открытом поле и укрепило складывающуюся роль Москвы как ведущего Русского княжества.",
+      "latitude": 53.65,
+      "longitude": 38.65,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Kulikovo",
+      "tags": [
+        "Mongolian",
+        "Steppe",
+        "War",
+        "Crisis"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "14.09.1368",
+      "era": "AD",
+      "name": "Yuan Dynasty Falls — Ming Founders the Last Chinese Imperial Line",
+      "name_ru": "Dynasty Юань падает — Мин основывает последнюю Китайскую императорскую линию",
+      "description": "On 14 September 1368, forces of Zhu Yuanzhang — a former Buddhist monk and orphan who had risen through the Red Turban rebellion to become founder of the Ming dynasty — entered Khanbaliq (Beijing). The last Yuan emperor Toghon Temür fled north into Mongolia without a battle, taking his court and the imperial seal. The Yuan dynasty had governed China for ninety-seven years; Mongol rule had been undermined by fiscal crisis from the failed overseas campaigns, massive flooding of the Yellow River, the Black Death, and the peasant rebellions it triggered. Zhu Yuanzhang declared the Ming dynasty, expelled the Mongols, restored the examination system, and rebuilt the Great Wall. The Mongols continued as the Northern Yuan in Mongolia until 1388; the dream of reconquering China faded within a generation.",
+      "description_ru": "14 сентября 1368 года силы Чжу Юаньчжана — бывшего буддийского монаха и сироты, поднявшегося через восстание Красных Повязок до основателя dynasty Мин, — вошли в Ханбалык (Пекин). Последний Юаньский император Тогон-Темур бежал на север в Монголию без сражения, взяв двор и императорскую печать. Династия Юань управляла Китаем девяносто семь лет; Монгольское правление было подорвано финансовым кризисом от провальных заморских походов, масштабными наводнениями на Жёлтой реке, Чёрной смертью и вызванными ею крестьянскими восстаниями. Чжу Юаньчжан провозгласил dynasty Мин, изгнал монголов, восстановил экзаменационную систему и отстроил Великую стену. Монголы продолжались как Северная Юань в Монголии до 1388 года.",
+      "latitude": 39.916,
+      "longitude": 116.391,
+      "source": "https://en.wikipedia.org/wiki/Ming_dynasty",
+      "tags": [
+        "Mongolian",
+        "Chinese",
+        "Crisis",
+        "Dynasty"
+      ],
+      "type": "historic"
+    }
+  ]
+}
