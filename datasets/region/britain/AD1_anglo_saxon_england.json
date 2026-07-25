@@ -1,11 +1,18 @@
 {
   "description": "Dataset covering the history of Britain from the Roman withdrawal (407 AD) to the eve of the Norman Conquest (1066 AD). Covers the post-Roman collapse, Anglo-Saxon migration and settlement, the formation of the heptarchy kingdoms, the Christianisation of Britain, the age of Northumbrian scholarship, Mercian supremacy under Offa, Alfred the Great's cultural and legal legacy, the unification of England under Æthelstan, Edgar's golden age, the catastrophe of Æthelred the Unready, the Danish interlude under Cnut, and the final Anglo-Saxon decades under Edward the Confessor and Harold Godwinson.",
+  "filename": "AD1_anglo_saxon_england.json",
   "events": [
     {
       "date": "01.03.0407",
       "era": "AD",
-      "name": "The last roman legions depart britain",
+      "type": "historic",
+      "name": "the last roman legions depart britain",
+      "name_ru": "Последние римские легионы покидают Британию",
       "description": "In 407 AD, the usurper Constantine III stripped the last Roman legions from Britain and crossed to Gaul to press his claim to the western throne. The Roman civilian administration collapsed within months. No new emperor sent troops to replace them. The cities of Roman Britain — Londinium, Eboracum, Camulodunum — did not immediately fall, but the institutional machinery that had maintained roads, trade, law and frontier defence for three and a half centuries was gone. Local magistrates and landowners were left to govern themselves. Within a generation the urban economy had largely contracted, coinage use had declined sharply, and the villas that had characterised Romano-British prosperity were being abandoned. Britain had effectively ceased to be Roman.",
+      "description_ru": "В 407 году узурпатор Константин III вывел последние римские легионы из Британии и переправился в Галлию, чтобы добиться титула западного императора. Гражданская римская администрация рухнула в течение нескольких месяцев. Ни один новый император не прислал войска на замену. Города Римской Британии — Лондиний, Эборак, Камулодун — устояли, однако институциональный механизм, поддерживавший дороги, торговлю, право и оборону границ на протяжении трёх с половиной веков, исчез. Местные магистраты и землевладельцы были предоставлены самим себе. В течение поколения городская экономика по большей части свернулась, использование монеты резко сократилось, а виллы, олицетворявшие Romano-британское процветание, начали пустеть.",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "source": "https://en.wikipedia.org/wiki/Roman_Britain",
       "tags": [
         "British",
         "Roman",
@@ -13,40 +20,38 @@
         "Decline",
         "Political",
         "Anglo-Saxon"
-      ],
-      "geo": [
-        [
-          -0.09,
-          51.5
-        ]
-      ],
-      "type": "historic"
+      ]
     },
     {
       "date": "01.01.0410",
       "era": "AD",
-      "name": "The rescript of honorius — britain governs itself",
-      "description": "In 410 AD, the western emperor Honorius — besieged by his own crises including the sack of Rome by Alaric — reportedly replied to appeals from British cities by telling them to look to their own defence. Whether or not this 'Rescript' was specifically addressed to Britain or to southern Italian cities is debated, but the practical consequence was the same: Rome would not return. The sub-Roman period began. In the absence of the legions, tribal leaders and military chieftains began filling the power vacuum. Latin culture persisted for decades among the educated elite, but the Roman Britain of villas, basilicas and aqueducts was entering its final generation.",
+      "type": "political",
+      "name": "the rescript of honorius — britain governs itself",
+      "name_ru": "Рескрипт Гонория — Британия управляет собой",
+      "description": "In 410 AD, the western emperor Honorius — besieged by his own crises including the sack of Rome by Alaric — reportedly replied to appeals from British cities by telling them to look to their own defence. Whether or not this 'Rescript' was specifically addressed to Britain is debated, but the practical consequence was the same: Rome would not return. The sub-Roman period began. In the absence of the legions, tribal leaders and military chieftains began filling the power vacuum. Latin culture persisted for decades among the educated elite, but the Roman Britain of villas, basilicas and aqueducts was entering its final generation.",
+      "description_ru": "В 410 году западный император Гонорий — осаждённый собственными кризисами, включая разграбление Рима Аларихом, — якобы ответил на обращения британских городов, велев им самим позаботиться о своей обороне. Был ли этот «Рескрипт» адресован именно Британии — вопрос спорный, однако практические последствия были одинаковы: Рим не вернётся. Началась суб-римская эпоха. В отсутствие легионов вакуум власти стали заполнять племенные вожди и военные предводители. Латинская культура ещё десятилетиями сохранялась среди образованной элиты, однако Римская Британия вилл, базилик и акведуков вступала в своё последнее поколение.",
+      "latitude": 51.8787,
+      "longitude": -2.2423,
+      "source": "https://en.wikipedia.org/wiki/Rescript_of_Honorius",
       "tags": [
         "British",
         "Roman",
         "Political",
         "Independence",
         "Crisis"
-      ],
-      "geo": [
-        [
-          -1.5,
-          53.0
-        ]
-      ],
-      "type": "historic"
+      ]
     },
     {
       "date": "01.01.0430",
       "era": "AD",
-      "name": "Vortigern invites saxon mercenaries to britain",
-      "description": "The British war-leader Vortigern, facing raids from Picts in the north and Irish from the west, recruited Germanic mercenaries — traditionally identified as Hengist and Horsa, leading Angles, Saxons and Jutes from the continental shore — and settled them in Kent in exchange for military service. The arrangement was common Roman practice (foederati), but in Britain there was no longer a Roman administration to manage it. When the mercenaries' demands for payment grew and were refused, they turned on their hosts. The invited guests became invaders. Vortigern's fateful decision was later condemned by the monk Gildas as the original sin of the British, a moral failure that brought divine punishment upon the island. Whether historical or partly legendary, the story encapsulates the real process by which Germanic settlement in Britain began: not purely by conquest but by incremental migration and federation gone wrong.",
+      "type": "historic",
+      "name": "vortigern invites saxon mercenaries to britain",
+      "name_ru": "Вортигерн приглашает саксонских наёмников в Британию",
+      "description": "The British war-leader Vortigern, facing raids from Picts in the north and Irish from the west, recruited Germanic mercenaries — traditionally identified as Hengist and Horsa, leading Angles, Saxons and Jutes from the continental shore — and settled them in Kent in exchange for military service. The arrangement was common Roman practice (foederati), but in Britain there was no longer a Roman administration to manage it. When the mercenaries' demands for payment grew and were refused, they turned on their hosts. The invited guests became invaders. Vortigern's fateful decision was later condemned by the monk Gildas as the original sin of the British, a moral failure that brought divine punishment upon the island.",
+      "description_ru": "Британский военный вождь Вортигерн, столкнувшись с набегами пиктов с севера и ирландцев с запада, завербовал германских наёмников — которых традиционно отождествляют с Хенгистом и Хорсой, предводительствовавшими англами, саксами и ютами с континентального берега, — и поселил их в Кенте в обмен на военную службу. Такой порядок был обычной римской практикой (федераты), однако в Британии уже не было римской администрации для его поддержания. Когда требования наёмников об оплате возросли и были отвергнуты, те обратились против своих нанимателей. Приглашённые гости стали захватчиками. Роковое решение Вортигерна впоследствии было осуждено монахом Гильдой как первородный грех британцев.",
+      "latitude": 51.2782,
+      "longitude": 0.5217,
+      "source": "https://en.wikipedia.org/wiki/Vortigern",
       "tags": [
         "British",
         "Anglo-Saxon",
@@ -54,20 +59,19 @@
         "Invasion",
         "Celtic",
         "Foundation"
-      ],
-      "geo": [
-        [
-          0.52,
-          51.27
-        ]
-      ],
-      "type": "historic"
+      ]
     },
     {
       "date": "01.01.0450",
       "era": "AD",
+      "type": "historic",
       "name": "the great migration — angles, saxons and jutes settle eastern britain",
-      "description": "Through the mid-fifth century, waves of migration from the shores of what are now Denmark, northern Germany and the Jutland peninsula brought Angles, Saxons and Jutes into eastern and southern Britain. They came first as raiders, then as settlers, pushing into land vacated by the contracting Romano-British economy. Archaeological evidence — cremation cemeteries, sunken-floored buildings, handmade pottery replacing wheel-thrown wares — marks the progressive displacement of Romano-British culture. The migrants did not exterminate the existing population; recent genetic studies suggest substantial continuity in some regions. But the elite culture shifted: Latin gave way to Old English, Christianity contracted under pagan pressure, and the landscape of villas and towns gave way to scattered settlements. The British populations retreated westward — into Wales, Cornwall, and across the sea to Armorica (Brittany).",
+      "name_ru": "Великое переселение — англы, саксы и юты заселяют восточную Британию",
+      "description": "Through the mid-fifth century, waves of migration from the shores of what are now Denmark, northern Germany and the Jutland peninsula brought Angles, Saxons and Jutes into eastern and southern Britain. They came first as raiders, then as settlers, pushing into land vacated by the contracting Romano-British economy. Archaeological evidence — cremation cemeteries, sunken-floored buildings, handmade pottery replacing wheel-thrown wares — marks the progressive displacement of Romano-British culture. The migrants did not exterminate the existing population; recent genetic studies suggest substantial continuity in some regions. But the elite culture shifted: Latin gave way to Old English, Christianity contracted under pagan pressure, and the landscape of villas and towns gave way to scattered settlements. The British populations retreated westward into Wales, Cornwall, and across the sea to Armorica.",
+      "description_ru": "На протяжении середины V века волны переселенцев с побережий нынешних Дании, северной Германии и Ютландского полуострова приносили в восточную и южную Британию англов, саксов и ютов. Они появлялись сначала как налётчики, затем как поселенцы, заполняя земли, опустевшие в результате сжимавшейся романо-британской экономики. Археологические свидетельства — кремационные кладбища, землянки, лепная посуда вместо гончарной — фиксируют постепенное вытеснение романо-британской культуры. Переселенцы не уничтожили прежнее население; недавние генетические исследования указывают на значительную преемственность в ряде регионов. Однако элитная культура сменилась: латынь уступила место древнеанглийскому, христианство отступило под натиском язычества, а пейзаж вилл и городов сменился разбросанными поселениями.",
+      "latitude": 52.5,
+      "longitude": 0.0,
+      "source": "https://en.wikipedia.org/wiki/Anglo-Saxon_settlement_of_Britain",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -75,20 +79,19 @@
         "Migration",
         "Foundation",
         "Pagan"
-      ],
-      "geo": [
-        [
-          0.0,
-          52.5
-        ]
-      ],
-      "type": "historic"
+      ]
     },
     {
       "date": "01.01.0490",
       "era": "AD",
-      "name": "Ambrosius Aurelianus — the last roman, resists the saxons",
+      "type": "military",
+      "name": "ambrosius aurelianus — the last roman resists the saxons",
+      "name_ru": "Амброзий Аврелиан — последний римлянин, противостоящий саксам",
       "description": "The British monk Gildas, writing around 540 AD, names Ambrosius Aurelianus as the Romano-British leader who rallied the remnant British population against the Saxon advance. Described as a man of Roman descent whose parents had worn the purple, Ambrosius organised a military resistance that achieved genuine battlefield successes, halting or reversing Saxon expansion for a generation. He is the most plausible historical core behind the later Arthurian legend — a Christian, Romanised war-leader who fought the pagan invaders and gave Britain a breathing space. His victories were real enough that Gildas credits them with stabilising Britain before the decisive battle at Badon Hill. He represents the last gasp of the Roman tradition on the island: disciplined, literate, Christian, fighting to preserve what remained of civilisation.",
+      "description_ru": "Британский монах Гильда, писавший около 540 года, называет Амброзия Аврелиана романо-британским вождём, сплотившим остатки британского населения против саксонского натиска. Описанный как человек римского происхождения, родители которого носили пурпур, Амброзий организовал военное сопротивление, добившееся реальных успехов на поле боя и остановившее или обратившее вспять саксонскую экспансию на целое поколение. Он — наиболее правдоподобный исторический прообраз позднейшей артурианской легенды: христианский, романизированный военный вождь, сражавшийся с языческими захватчиками и давший Британии передышку. Его победы были настолько реальны, что Гильда объясняет ими стабилизацию Британии перед решающей битвой при Бадоне.",
+      "latitude": 51.5,
+      "longitude": -2.0,
+      "source": "https://en.wikipedia.org/wiki/Ambrosius_Aurelianus",
       "tags": [
         "British",
         "Celtic",
@@ -97,20 +100,19 @@
         "King",
         "Christian",
         "Legend"
-      ],
-      "geo": [
-        [
-          -2.0,
-          51.5
-        ]
-      ],
-      "type": "military"
+      ]
     },
     {
       "date": "01.01.0516",
       "era": "AD",
-      "name": "Battle of Badon Hill — the saxons are stopped",
-      "description": "The Battle of Badon Hill — Mons Badonicus — was the decisive British victory that halted Saxon expansion for a generation. Gildas records it as a great slaughter of the enemy, fought in the year of his own birth, around 500–520 AD. The Annales Cambriae, compiled centuries later, names Arthur as the victor and records that he carried the cross of Our Lord Jesus Christ on his shoulders. Whether a historical Arthur commanded at Badon, or whether the name was attached to an earlier victory by later legend-making, remains one of British history's enduring arguments. What is historically secure is that Saxon expansion into western Britain slowed dramatically for roughly fifty years after the battle. The Britons bought themselves time — enough time for the sub-Roman Christian culture of Wales and the west to consolidate.",
+      "type": "military",
+      "name": "battle of badon hill — the saxons are stopped",
+      "name_ru": "Битва при горе Бадон — саксы остановлены",
+      "description": "The Battle of Badon Hill — Mons Badonicus — was the decisive British victory that halted Saxon expansion for a generation. Gildas records it as a great slaughter of the enemy, fought around 500–520 AD. The Annales Cambriae, compiled centuries later, names Arthur as the victor and records that he carried the cross of Our Lord Jesus Christ on his shoulders. Whether a historical Arthur commanded at Badon, or whether the name was attached to an earlier victory by later legend-making, remains one of British history's enduring arguments. What is historically secure is that Saxon expansion into western Britain slowed dramatically for roughly fifty years after the battle. The Britons bought themselves time — enough time for the sub-Roman Christian culture of Wales and the west to consolidate.",
+      "description_ru": "Битва при горе Бадон — Mons Badonicus — стала решающей победой британцев, остановившей саксонскую экспансию на целое поколение. Гильда описывает её как великое побоище врага. Анналы Камбрии, составленные столетиями позже, называют победителем Артура и записывают, что он нёс крест Господа Иисуса Христа на своих плечах. Был ли исторический Артур командиром при Бадоне или имя было прикреплено к более ранней победе позднейшим мифотворчеством — один из неизменных вопросов британской истории. Исторически достоверно то, что саксонская экспансия в западную Британию резко замедлилась примерно на пятьдесят лет после битвы. Британцы купили себе время — достаточное, чтобы суб-римская христианская культура Уэльса и запада консолидировалась.",
+      "latitude": 51.38,
+      "longitude": -2.36,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Badon",
       "tags": [
         "British",
         "Celtic",
@@ -119,20 +121,19 @@
         "Battle",
         "Legend",
         "Christian"
-      ],
-      "geo": [
-        [
-          -2.36,
-          51.38
-        ]
-      ],
-      "type": "military"
+      ]
     },
     {
       "date": "01.01.0550",
       "era": "AD",
-      "name": "The heptarchy — seven anglo-saxon kingdoms form",
-      "description": "By the mid-sixth century, the pattern of Anglo-Saxon settlement had crystallised into what later historians called the Heptarchy: seven principal kingdoms — Northumbria (itself a union of Bernicia and Deira), Mercia, East Anglia, Essex, Kent, Sussex and Wessex. These were not stable entities with fixed borders; they expanded, contracted, absorbed smaller kingdoms, and feuded continuously. Dominance rotated: Kent was paramount in the late sixth century, Northumbria in the seventh, Mercia in the eighth, Wessex in the ninth. Each kingdom developed its own royal dynasty, law code, and eventually its own church. The political landscape of what would become England was being forged in constant competition. To the west, the Celtic kingdoms of Wales, Cornwall and the Old North (Yr Hen Ogledd) maintained a distinct British culture and language.",
+      "type": "political",
+      "name": "the heptarchy — seven anglo-saxon kingdoms form",
+      "name_ru": "Гептархия — семь англосаксонских королевств",
+      "description": "By the mid-sixth century, the pattern of Anglo-Saxon settlement had crystallised into what later historians called the Heptarchy: seven principal kingdoms — Northumbria (itself a union of Bernicia and Deira), Mercia, East Anglia, Essex, Kent, Sussex and Wessex. These were not stable entities with fixed borders; they expanded, contracted, absorbed smaller kingdoms, and feuded continuously. Dominance rotated: Kent was paramount in the late sixth century, Northumbria in the seventh, Mercia in the eighth, Wessex in the ninth. Each kingdom developed its own royal dynasty, law code, and eventually its own church. The political landscape of what would become England was being forged in constant competition. To the west, the Celtic kingdoms of Wales, Cornwall and the Old North maintained a distinct British culture and language.",
+      "description_ru": "К середине VI века закономерность англосаксонского расселения оформилась в то, что позднейшие историки назвали Гептархией: семь главных королевств — Нортумбрия (сама по себе объединение Берниции и Дейры), Мерсия, Восточная Англия, Эссекс, Кент, Сассекс и Уэссекс. Это не были стабильные образования с фиксированными границами; они расширялись, сжимались, поглощали меньшие королевства и непрерывно враждовали. Господство переходило от одного к другому: Кент был главенствующим в конце VI века, Нортумбрия — в VII, Мерсия — в VIII, Уэссекс — в IX. Каждое королевство выработало собственную королевскую династию, свод законов и в конечном счёте свою церковь. Политический ландшафт будущей Англии ковался в непрестанном соперничестве.",
+      "latitude": 52.5,
+      "longitude": -1.0,
+      "source": "https://en.wikipedia.org/wiki/Heptarchy",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -140,20 +141,19 @@
         "Kingdom",
         "Political",
         "Dynasty"
-      ],
-      "geo": [
-        [
-          -1.0,
-          52.5
-        ]
-      ],
-      "type": "political"
+      ]
     },
     {
       "date": "01.01.0597",
       "era": "AD",
-      "name": "Augustine arrives — rome converts the anglo-saxons",
+      "type": "religious",
+      "name": "augustine arrives — rome converts the anglo-saxons",
+      "name_ru": "Прибытие Августина — Рим обращает англосаксов",
       "description": "In 597 AD Pope Gregory the Great dispatched a mission of forty monks under Augustine to convert the Anglo-Saxon kingdoms. The mission was not the first Christian presence in Britain — the Celtic church had survived in Ireland, Wales and the north — but it was the beginning of Roman-rite Christianity among the English. Augustine landed in Kent, where King Æthelberht's Frankish queen Bertha was already Christian, and received a cautious welcome. Æthelberht converted, and Canterbury was established as the seat of the new archbishop. The mission spread north and west over the following decades, creating a network of monasteries and episcopal sees. The conversion brought England back into continental intellectual and artistic culture — books, scriptoria, stone churches, the Roman calendar, and the Latin literary tradition flooded back into a land that had been largely illiterate and pagan for a century and a half.",
+      "description_ru": "В 597 году папа Григорий Великий отправил миссию из сорока монахов под началом Августина для обращения англосаксонских королевств. Это была не первая христианская миссия в Британии — кельтская церковь сохранялась в Ирландии, Уэльсе и на севере, — однако именно она положила начало христианству римского обряда среди англичан. Августин высадился в Кенте, где франкская королева Берта, жена короля Этельберта, уже была христианкой, и был принят с осторожным радушием. Этельберт принял крещение, и Кентербери был утверждён резиденцией нового архиепископа. Миссия распространялась на север и запад на протяжении следующих десятилетий, создавая сеть монастырей и епископских кафедр. Обращение вернуло Англию в орбиту континентальной интеллектуальной и художественной культуры.",
+      "latitude": 51.2772,
+      "longitude": 1.0832,
+      "source": "https://en.wikipedia.org/wiki/Augustine_of_Canterbury",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -161,20 +161,19 @@
         "Religious",
         "Foundation",
         "Culture"
-      ],
-      "geo": [
-        [
-          1.08,
-          51.28
-        ]
-      ],
-      "type": "religious"
+      ]
     },
     {
       "date": "01.01.0616",
       "era": "AD",
-      "name": "Rædwald of East Anglia — the great king of sutton hoo",
-      "description": "Rædwald of East Anglia, who died around 616–625 AD, is the most likely candidate for the king commemorated in the Sutton Hoo ship burial, discovered in 1939 and the richest archaeological find in British history. His great mound contained a 27-metre longship serving as coffin, within which lay a helmet of Swedish workmanship, a pattern-welded sword, a ceremonial whetstone sceptre, Byzantine silverware, Frankish gold coins, and drinking horns fit for an epic feast. Rædwald was Bretwalda — overlord of Britain south of the Humber — and he straddled the pagan-Christian frontier: he reportedly maintained both a Christian altar and a pagan shrine in the same temple. The Sutton Hoo burial is a portrait in objects of the early Anglo-Saxon world at its most powerful and ambivalent: epic, royal, connected to Scandinavia and the Mediterranean simultaneously.",
+      "type": "historic",
+      "name": "rædwald of east anglia — the great king of sutton hoo",
+      "name_ru": "Редвальд Восточноанглийский — великий король из Саттон-Ху",
+      "description": "Rædwald of East Anglia, who died around 616–625 AD, is the most likely candidate for the king commemorated in the Sutton Hoo ship burial, discovered in 1939 and the richest archaeological find in British history. His great mound contained a 27-metre longship serving as coffin, within which lay a helmet of Swedish workmanship, a pattern-welded sword, a ceremonial whetstone sceptre, Byzantine silverware, Frankish gold coins, and drinking horns fit for an epic feast. Rædwald was Bretwalda — overlord of Britain south of the Humber — and he straddled the pagan-Christian frontier: he reportedly maintained both a Christian altar and a pagan shrine in the same temple. The Sutton Hoo burial is a portrait in objects of the early Anglo-Saxon world at its most powerful: epic, royal, connected to Scandinavia and the Mediterranean simultaneously.",
+      "description_ru": "Редвальд Восточноанглийский, умерший около 616–625 года, — наиболее вероятный претендент на роль короля, увековеченного в погребении корабля из Саттон-Ху, обнаруженном в 1939 году и являющемся богатейшей археологической находкой в истории Британии. Его большой курган содержал 27-метровый дракар, служивший гробом; в нём находились шлем шведской работы, меч с узорной сваркой клинка, церемониальный жезл-оселок, византийское серебро, франкские золотые монеты и рога для питья, достойные эпического пира. Редвальд был Бретвальдой — повелителем Британии к югу от Хамбера — и балансировал на границе язычества и христианства: по преданию, он держал в одном храме и христианский алтарь, и языческое капище.",
+      "latitude": 52.0942,
+      "longitude": 1.335,
+      "source": "https://en.wikipedia.org/wiki/Sutton_Hoo",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -183,20 +182,19 @@
         "Pagan",
         "Christian",
         "Burial"
-      ],
-      "geo": [
-        [
-          1.33,
-          52.09
-        ]
-      ],
-      "type": "historic"
+      ]
     },
     {
       "date": "01.01.0635",
       "era": "AD",
-      "name": "Aidan founds Lindisfarne — the celtic church comes to northumbria",
+      "type": "religious",
+      "name": "aidan founds lindisfarne — the celtic church comes to northumbria",
+      "name_ru": "Айдан основывает Линдисфарн — кельтская церковь приходит в Нортумбрию",
       "description": "In 635 AD King Oswald of Northumbria, who had taken refuge on Iona during his years in exile and converted to the Celtic form of Christianity, invited the Irish monk Aidan from Iona to evangelise his kingdom. Aidan established a monastery on the tidal island of Lindisfarne, just off the Northumbrian coast. From this base he and his monks walked the length of Northumbria on foot, teaching, baptising and founding churches. The Celtic church that Aidan represented differed from Rome in its calculation of Easter and the style of its monks' tonsure, but its character was shaped by Irish monastic intensity — learning, asceticism, pastoral care. Lindisfarne became one of the great centres of European Christian art: the Lindisfarne Gospels, produced around 715 AD, are among the supreme achievements of early medieval illumination.",
+      "description_ru": "В 635 году король Нортумбрии Освальд, нашедший убежище на Ионе в годы изгнания и принявший кельтскую форму христианства, пригласил ирландского монаха Айдана с Ионы для евангелизации своего королевства. Айдан основал монастырь на приливном острове Линдисфарн у нортумбрийского побережья. Отсюда он и его монахи обходили пешком всю Нортумбрию, уча, крестя и основывая церкви. Кельтская церковь, которую представлял Айдан, отличалась от Рима исчислением Пасхи и формой монашеской тонзуры, однако её облик определялся ирландской монастырской интенсивностью: учёностью, аскезой, пастырским попечением. Линдисфарн стал одним из великих центров европейского христианского искусства: Линдисфарнские евангелия, созданные около 715 года, — вершина раннесредневековой книжной миниатюры.",
+      "latitude": 55.6746,
+      "longitude": -1.799,
+      "source": "https://en.wikipedia.org/wiki/Aidan_of_Lindisfarne",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -205,20 +203,19 @@
         "Foundation",
         "Culture",
         "Scottish"
-      ],
-      "geo": [
-        [
-          -1.8,
-          55.67
-        ]
-      ],
-      "type": "religious"
+      ]
     },
     {
       "date": "12.07.0664",
       "era": "AD",
-      "name": "Synod of Whitby — rome wins the british church",
-      "description": "In 664 AD King Oswiu of Northumbria convened a church council at the monastery of Whitby to settle the conflict between the Celtic and Roman traditions over the date of Easter and the form of the monastic tonsure — issues that went to the heart of authority and unity in the English church. The Celtic case was presented by Bishop Colman; the Roman by Wilfrid, a formidably well-connected and aggressive advocate. Oswiu ruled in favour of Rome, and Colman withdrew to Iona with his Irish monks. The decision was more than liturgical: it aligned the English church definitively with continental Roman Christianity, opened it to exchange with the Frankish and papal worlds, and subordinated the older Celtic monastic tradition. It set the terms for how Christianity would develop in Britain for the next nine centuries.",
+      "type": "religious",
+      "name": "synod of whitby — rome wins the british church",
+      "name_ru": "Синод в Уитби — Рим побеждает в британской церкви",
+      "description": "In 664 AD King Oswiu of Northumbria convened a church council at the monastery of Whitby to settle the conflict between the Celtic and Roman traditions over the date of Easter and the form of the monastic tonsure. The Celtic case was presented by Bishop Colman; the Roman by Wilfrid, a formidably well-connected advocate. Oswiu ruled in favour of Rome, and Colman withdrew to Iona with his Irish monks. The decision was more than liturgical: it aligned the English church definitively with continental Roman Christianity, opened it to exchange with the Frankish and papal worlds, and subordinated the older Celtic monastic tradition. It set the terms for how Christianity would develop in Britain for the next nine centuries.",
+      "description_ru": "В 664 году король Нортумбрии Освиу созвал церковный собор в монастыре Уитби для разрешения конфликта между кельтской и римской традициями по вопросу даты Пасхи и формы монашеской тонзуры. Кельтскую позицию отстаивал епископ Колман; римскую — Вилфрид, чрезвычайно влиятельный и красноречивый поборник. Освиу вынес решение в пользу Рима, и Колман удалился на Иону со своими ирландскими монахами. Решение выходило далеко за рамки литургии: оно окончательно сориентировало английскую церковь на континентальное римское христианство, открыло её для обмена с франкским и папским мирами и подчинило старшую кельтскую монастырскую традицию. Оно определило развитие христианства в Британии на следующие девять веков.",
+      "latitude": 54.4844,
+      "longitude": -0.6055,
+      "source": "https://en.wikipedia.org/wiki/Synod_of_Whitby",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -227,20 +224,19 @@
         "Political",
         "Law",
         "Culture"
-      ],
-      "geo": [
-        [
-          -0.6,
-          54.48
-        ]
-      ],
-      "type": "religious"
+      ]
     },
     {
       "date": "01.01.0672",
       "era": "AD",
-      "name": "Synod of Hertford — the first general council of the English church",
+      "type": "religious",
+      "name": "synod of hertford — the first general council of the english church",
+      "name_ru": "Синод в Хертфорде — первый генеральный собор английской церкви",
       "description": "In 672 AD Archbishop Theodore of Tarsus, the remarkable Greek scholar sent by Rome as Archbishop of Canterbury, convened at Hertford the first synod of the entire English church — the first occasion on which representatives of all the Anglo-Saxon kingdoms met in a single council. Theodore was the most transformative figure in the early English church: he reorganised the dioceses, established the parish system, promoted biblical scholarship, and brought Greek learning to England. His school at Canterbury taught Greek as well as Latin. The Synod of Hertford established canons governing marriage, the authority of bishops, and monastic discipline, creating the institutional foundations for a unified English church that prefigured a unified English nation.",
+      "description_ru": "В 672 году архиепископ Теодор Тарсийский, выдающийся греческий учёный, присланный Римом в качестве архиепископа Кентерберийского, созвал в Хертфорде первый собор всей английской церкви — первый случай, когда представители всех англосаксонских королевств собрались в едином совете. Теодор был самой преобразовательной фигурой в ранней английской церкви: он реорганизовал епархии, учредил приходскую систему, поощрял библейскую учёность и привнёс греческую образованность в Англию. Его школа в Кентербери преподавала греческий язык наряду с латынью. Хертфордский синод установил каноны, регулирующие брак, полномочия епископов и монастырскую дисциплину.",
+      "latitude": 51.7973,
+      "longitude": -0.0782,
+      "source": "https://en.wikipedia.org/wiki/Synod_of_Hertford",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -249,20 +245,19 @@
         "Law",
         "Administration",
         "Foundation"
-      ],
-      "geo": [
-        [
-          -0.08,
-          51.79
-        ]
-      ],
-      "type": "religious"
+      ]
     },
     {
       "date": "01.01.0700",
       "era": "AD",
-      "name": "Northumbrian golden age — Bede, Alcuin, and the flowering of learning",
+      "type": "cultural",
+      "name": "northumbrian golden age — bede, alcuin, and the flowering of learning",
+      "name_ru": "Нортумбрийский золотой век — Беда, Алкуин и расцвет учёности",
       "description": "The late seventh and early eighth century was the golden age of Northumbrian culture. At the twin monastery of Wearmouth-Jarrow, the Venerable Bede — the greatest scholar in Europe at his time — produced his Ecclesiastical History of the English People (completed 731 AD), which gave England its national narrative and established the AD dating system that the entire western world still uses. He wrote scientific works on the tides, commentaries on scripture, lives of saints, and chronological studies. At York, the scholar Alcuin ran a school of European reputation before being recruited by Charlemagne to direct the Carolingian Renaissance. The Lindisfarne Gospels were being illuminated. England, recently illiterate and pagan, had become the intellectual centre of the western church — a transformation within a century that has few parallels in cultural history.",
+      "description_ru": "Конец VII — начало VIII века — золотой век нортумбрийской культуры. В двойном монастыре Уэрмута-Джарроу Достопочтенный Беда — величайший учёный Европы своего времени — создал «Церковную историю народа англов» (завершена в 731 году), давшую Англии национальный нарратив и утвердившую систему летосчисления от Рождества Христова, которой по сей день пользуется весь западный мир. Он писал научные труды о приливах, комментарии к Писанию, жития святых и хронологические исследования. В Йорке учёный Алкуин возглавлял школу европейской известности, прежде чем был привлечён Карлом Великим к руководству Каролингским возрождением. Создавались Линдисфарнские евангелия. Англия, ещё недавно безграмотная и языческая, стала интеллектуальным центром западной церкви.",
+      "latitude": 54.9137,
+      "longitude": -1.523,
+      "source": "https://en.wikipedia.org/wiki/Bede",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -272,41 +267,38 @@
         "Christian",
         "Literature",
         "Golden Age"
-      ],
-      "geo": [
-        [
-          -1.52,
-          54.93
-        ]
-      ],
-      "type": "cultural"
+      ]
     },
     {
       "date": "01.01.0716",
       "era": "AD",
-      "name": "Æthelbald of Mercia — the first to rule all england south of humber",
-      "description": "Æthelbald became king of Mercia in 716 and within a decade had established dominance over all the kingdoms south of the River Humber — the first ruler to be acknowledged as king of the 'English' in a meaningful political sense. A charter of 736 styles him 'Rex Britanniae.' His reign lasted until 757 and transformed Mercia from a midland kingdom into the dominant power of Britain. He standardised weights and measures, controlled access to the navigable rivers that were the arteries of English trade, and built the administrative infrastructure that his successor Offa would perfect. His personal life was scandalous enough to draw a letter of rebuke from Boniface, the English missionary in Germany — he allegedly had relations with nuns — but his political achievement was genuine and lasting.",
+      "type": "political",
+      "name": "æthelbald of mercia — first to rule all england south of humber",
+      "name_ru": "Этельбальд Мерсийский — первый правитель всей Англии к югу от Хамбера",
+      "description": "Æthelbald became king of Mercia in 716 and within a decade had established dominance over all the kingdoms south of the River Humber — the first ruler to be acknowledged as king of the 'English' in a meaningful political sense. A charter of 736 styles him 'Rex Britanniae.' His reign lasted until 757 and transformed Mercia from a midland kingdom into the dominant power of Britain. He standardised weights and measures, controlled access to the navigable rivers that were the arteries of English trade, and built the administrative infrastructure that his successor Offa would perfect. His personal life was scandalous enough to draw a letter of rebuke from Boniface, the English missionary in Germany, but his political achievement was genuine and lasting.",
+      "description_ru": "Этельбальд стал королём Мерсии в 716 году и в течение десятилетия установил господство над всеми королевствами к югу от реки Хамбер — первый правитель, признанный королём «англичан» в сколько-нибудь значимом политическом смысле. Грамота 736 года именует его «Rex Britanniae». Его правление продолжалось до 757 года и превратило Мерсию из срединного королевства в доминирующую силу Британии. Он стандартизировал меры и весы, контролировал доступ к судоходным рекам — артериям английской торговли — и создал административную инфраструктуру, которую усовершенствует его преемник Оффа.",
+      "latitude": 52.6344,
+      "longitude": -1.6897,
+      "source": "https://en.wikipedia.org/wiki/%C3%86thelbald_of_Mercia",
       "tags": [
         "Anglo-Saxon",
         "British",
         "King",
         "Political",
-        "Empire",
         "Mercian"
-      ],
-      "geo": [
-        [
-          -1.9,
-          52.5
-        ]
-      ],
-      "type": "political"
+      ]
     },
     {
       "date": "01.01.0757",
       "era": "AD",
-      "name": "Offa of Mercia — the greatest anglo-saxon king before Alfred",
+      "type": "political",
+      "name": "offa of mercia — the greatest anglo-saxon king before alfred",
+      "name_ru": "Оффа Мерсийский — величайший англосаксонский король до Альфреда",
       "description": "Offa of Mercia, who reigned from 757 to 796, was the most powerful English king of the eighth century. He dominated all the kingdoms south of the Humber, corresponded as an equal with Charlemagne, and forced the Frankish king to recognise English merchants' rights in continental markets. He introduced the silver penny bearing his portrait — the first English coinage to circulate across the country — and standardised weights. He reformed the church, securing a new archbishopric at Lichfield to rival Canterbury. He styled himself in his charters 'King of the English' ('Rex Anglorum'), a century before that title became standard. He was ruthless: he had the king of East Anglia executed, possibly during a diplomatic meeting. The Mercian supremacy he built did not survive his death, but the administrative tools and the idea of English unity did.",
+      "description_ru": "Оффа Мерсийский, правивший с 757 по 796 год, был самым могущественным английским королём VIII века. Он господствовал над всеми королевствами к югу от Хамбера, переписывался как равный с Карлом Великим и вынудил франкского короля признать права английских купцов на континентальных рынках. Он ввёл серебряный пенни с собственным портретом — первую английскую монету, обращавшуюся по всей стране, — и стандартизировал меры. Он реформировал церковь, добившись создания нового архиепископства в Личфилде в противовес Кентербери. В своих грамотах он именовал себя «королём англичан» (Rex Anglorum) — за столетие до того, как этот титул стал стандартным. Он был беспощаден: приказал казнить короля Восточной Англии, возможно во время дипломатической встречи.",
+      "latitude": 52.6844,
+      "longitude": -1.8282,
+      "source": "https://en.wikipedia.org/wiki/Offa_of_Mercia",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -316,20 +308,19 @@
         "Trade",
         "Law",
         "Reform"
-      ],
-      "geo": [
-        [
-          -1.9,
-          52.5
-        ]
-      ],
-      "type": "political"
+      ]
     },
     {
       "date": "01.01.0784",
       "era": "AD",
-      "name": "Offa's Dyke — the border between England and Wales",
+      "type": "historic",
+      "name": "offa's dyke — the border between england and wales",
+      "name_ru": "Вал Оффы — граница между Англией и Уэльсом",
       "description": "Between roughly 784 and 796 AD, Offa of Mercia ordered the construction of a massive earthwork along the length of the Welsh border: a bank and ditch running approximately 240 kilometres from the Dee estuary in the north to the Wye valley in the south. Offa's Dyke is one of the largest construction projects of early medieval Europe — larger in scale than Hadrian's Wall in total earthwork volume. It was not a fortification in the Roman sense but a demarcation line: this is Mercia, that is Wales. Where the dyke runs, it is still visible in the landscape today. It fixed, for the first time, a meaningful geographical boundary between what would become England and what would remain Wales — a boundary that modern politics has respected for twelve centuries. It is the most visible monument of Anglo-Saxon kingship.",
+      "description_ru": "Примерно между 784 и 796 годами Оффа Мерсийский велел возвести грандиозный земляной вал вдоль всей валлийской границы: насыпь с рвом протяжённостью около 240 километров от эстуария Ди на севере до долины Уай на юге. Вал Оффы — один из крупнейших строительных проектов раннесредневековой Европы; по общему объёму земляных работ он превосходит Адрианов вал. Это не фортификация в римском смысле, а демаркационная линия: здесь Мерсия, там Уэльс. Там, где вал сохранился, он по сей день виден в ландшафте. Впервые в истории он провёл осмысленную географическую границу между тем, что станет Англией, и тем, что останется Уэльсом, — границу, которую современная политика чтит двенадцать веков. Это наиболее наглядный памятник англосаксонской королевской власти.",
+      "latitude": 52.5,
+      "longitude": -3.0,
+      "source": "https://en.wikipedia.org/wiki/Offa%27s_Dyke",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -338,20 +329,19 @@
         "Fortification",
         "Mercian",
         "Expansion"
-      ],
-      "geo": [
-        [
-          -3.0,
-          52.5
-        ]
-      ],
-      "type": "historic"
+      ]
     },
     {
       "date": "01.01.0800",
       "era": "AD",
-      "name": "Egbert of Wessex — the south rises to supremacy",
-      "description": "Egbert became king of Wessex in 802 after years of exile at the court of Charlemagne. He reconquered Cornwall from the last independent British kingdom in the southwest, defeated the Mercians at the Battle of Ellandun in 825, and received the submission of Northumbria in 829 — briefly making him overlord of all England. Asser, Alfred's biographer, records that Egbert was styled 'Bretwalda' (Britain-ruler). Although Mercian independence was briefly restored after his death, the shift of the centre of gravity from Mercia to Wessex was permanent. It was from Wessex that the Danish invasions would be resisted, and from the West Saxon royal line that the future kings of England would descend. Egbert's dynasty, from him through his son Æthelwulf, his grandsons Æthelbald, Æthelberht, Æthelred and Alfred, formed the continuous thread to the unified English kingdom.",
+      "type": "political",
+      "name": "egbert of wessex — the south rises to supremacy",
+      "name_ru": "Эгберт Уэссекский — юг восходит к господству",
+      "description": "Egbert became king of Wessex in 802 after years of exile at the court of Charlemagne. He reconquered Cornwall from the last independent British kingdom in the southwest, defeated the Mercians at the Battle of Ellandun in 825, and received the submission of Northumbria in 829 — briefly making him overlord of all England. Asser, Alfred's biographer, records that Egbert was styled 'Bretwalda' (Britain-ruler). Although Mercian independence was briefly restored after his death, the shift of the centre of gravity from Mercia to Wessex was permanent. It was from Wessex that the Danish invasions would be resisted, and from the West Saxon royal line that the future kings of England would descend. Egbert's dynasty, from him through his son Æthelwulf to his grandchildren and eventually Alfred, formed the continuous thread to the unified English kingdom.",
+      "description_ru": "Эгберт стал королём Уэссекса в 802 году после многолетнего изгнания при дворе Карла Великого. Он отвоевал Корнуолл у последнего независимого британского королевства на юго-западе, разбил мерсийцев в битве при Эллендуне в 825 году и получил покорность Нортумбрии в 829-м, на короткое время став сюзереном всей Англии. Биограф Альфреда Ассер записывает, что Эгберт носил титул «Бретвальды» (правителя Британии). Хотя мерсийская независимость была ненадолго восстановлена после его смерти, смещение центра тяжести от Мерсии к Уэссексу оказалось постоянным.",
+      "latitude": 51.0636,
+      "longitude": -1.308,
+      "source": "https://en.wikipedia.org/wiki/Egbert_of_Wessex",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -360,20 +350,19 @@
         "Political",
         "Dynasty",
         "Unification"
-      ],
-      "geo": [
-        [
-          -1.3,
-          51.06
-        ]
-      ],
-      "type": "political"
+      ]
     },
     {
       "date": "01.01.0866",
       "era": "AD",
+      "type": "historic",
       "name": "the great heathen army establishes the danelaw",
-      "description": "The Great Heathen Army that arrived in East Anglia in 865 and captured York in 866 did not behave like a raiding party. It overwintered, it manoeuvred strategically across the whole of England, and it sought permanent settlement. Within fifteen years it had carved out a vast territory in northern and eastern England — the Danelaw — where Danish law, Danish place-names, and Danish customs replaced Anglo-Saxon ones. The boundary ran roughly from London to Chester along Watling Street. East of it: Danish farmers settled on redistributed English estates, Viking traders dominated the towns (York became Jorvik, one of the largest cities in Europe), and the Old Norse language blended with Old English to produce the linguistic hybrid that would enrich Middle English for centuries. West of Watling Street: Wessex survived, barely, under Alfred.",
+      "name_ru": "Великая языческая армия устанавливает область датского права",
+      "description": "The Great Heathen Army that arrived in East Anglia in 865 and captured York in 866 did not behave like a raiding party. It overwintered, it manoeuvred strategically across the whole of England, and it sought permanent settlement. Within fifteen years it had carved out a vast territory in northern and eastern England — the Danelaw — where Danish law, Danish place-names, and Danish customs replaced Anglo-Saxon ones. The boundary ran roughly from London to Chester along Watling Street. East of it: Danish farmers settled on redistributed English estates, Viking traders dominated the towns (York became Jorvik, one of the largest cities in Europe), and Old Norse blended with Old English to produce a linguistic hybrid that would enrich Middle English for centuries. West of Watling Street: Wessex survived, barely, under Alfred.",
+      "description_ru": "Великая языческая армия, высадившаяся в Восточной Англии в 865 году и захватившая Йорк в 866-м, вела себя не как набеговый отряд. Она зимовала, стратегически маневрировала по всей Англии и стремилась к постоянному расселению. Менее чем за пятнадцать лет она выкроила огромную территорию в северной и восточной Англии — область датского права (Danelaw), — где датское право, датские топонимы и датские обычаи вытеснили англосаксонские. Граница пролегала примерно от Лондона до Честера по Уотлинг-стрит. К востоку от неё: датские земледельцы оседали на перераспределённых английских поместьях, викингские торговцы господствовали в городах (Йорк стал Йорвиком, одним из крупнейших городов Европы). К западу от Уотлинг-стрит Уэссекс едва выжил под началом Альфреда.",
+      "latitude": 53.959,
+      "longitude": -1.0815,
+      "source": "https://en.wikipedia.org/wiki/Danelaw",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -382,20 +371,19 @@
         "Settlement",
         "Political",
         "Crisis"
-      ],
-      "geo": [
-        [
-          -1.08,
-          53.96
-        ]
-      ],
-      "type": "historic"
+      ]
     },
     {
       "date": "01.01.0878",
       "era": "AD",
-      "name": "Alfred rebuilds england — law, learning and the english language",
+      "type": "cultural",
+      "name": "alfred rebuilds england — law, learning and the english language",
+      "name_ru": "Альфред отстраивает Англию — право, просвещение и английский язык",
       "description": "Alfred the Great's reign (871–899) is remembered for the military survival of Wessex, but his most lasting achievements were cultural and administrative. After the Treaty of Wedmore he built a network of burhs — fortified towns placed so that no point in Wessex was more than twenty miles from safety — which became the nuclei of English towns. He reformed the law code, translating and expanding it himself. He personally translated from Latin into English the works of Boethius, Bede, Gregory the Great and Orosius, and wrote prefaces explaining why the English needed to be able to read in their own language. He founded a court school and recruited scholars from Wales, Mercia and the continent. He established the Anglo-Saxon Chronicle as an ongoing record of English history. Alfred invented, almost single-handedly, the idea that a king had a duty to educate his people.",
+      "description_ru": "Правление Альфреда Великого (871–899) памятно военным выживанием Уэссекса, однако его наиболее долговечными достижениями были культурные и административные. После Wedmorского договора он выстроил сеть бургов — укреплённых городов, расставленных так, чтобы ни одна точка Уэссекса не находилась более чем в тридцати километрах от защищённого места, — ставших ядрами английских городов. Он реформировал свод законов, лично переводя и дополняя его. Он лично переводил с латыни на английский труды Боэция, Беды, Григория Великого и Орозия и писал предисловия, объясняя, почему англичане должны уметь читать на родном языке. Он основал придворную школу и привлёк учёных из Уэльса, Мерсии и с континента. Он учредил Англосаксонскую хронику как непрерывную летопись английской истории.",
+      "latitude": 51.0636,
+      "longitude": -1.308,
+      "source": "https://en.wikipedia.org/wiki/Alfred_the_Great",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -406,20 +394,19 @@
         "Literature",
         "Reform",
         "Golden Age"
-      ],
-      "geo": [
-        [
-          -2.58,
-          51.06
-        ]
-      ],
-      "type": "cultural"
+      ]
     },
     {
       "date": "01.01.0900",
       "era": "AD",
-      "name": "Æthelflæd — lady of the mercians reconquers the midlands",
+      "type": "military",
+      "name": "æthelflæd — lady of the mercians reconquers the midlands",
+      "name_ru": "Этельфлед — леди мерсийцев отвоёвывает Мидленд",
       "description": "Æthelflæd, daughter of Alfred the Great and wife of the Lord of the Mercians Æthelred, became effective ruler of Mercia after her husband's incapacitation around 902 and his death in 911. Working in coordination with her brother, King Edward the Elder of Wessex, she conducted a systematic campaign of burh-building and military reconquest that pushed the Danelaw back across the midlands. She captured Derby in 917, Leicester in 918, and was receiving the submission of York when she died. She built at least ten fortified towns and fought campaigns against the Welsh, the Danes, and the Norse of Dublin. As a female ruler exercising independent military and political power in ninth-century England, she is extraordinary — medieval chroniclers found her so remarkable they sometimes simply omitted her from the record. The reconquest of the Danelaw was as much her achievement as her brother's.",
+      "description_ru": "Этельфлед, дочь Альфреда Великого и жена властителя мерсийцев Этельреда, стала фактической правительницей Мерсии после того, как её муж утратил дееспособность около 902 года, а умер в 911-м. Действуя в координации с братом, королём Эдуардом Старшим Уэссекским, она провела систематическую кампанию строительства бургов и военного отвоевания, вытеснив область датского права за пределы Мидленда. Она взяла Дерби в 917 году, Лестер в 918-м и принимала покорность Йорка, когда умерла. Она выстроила не менее десяти укреплённых городов и вела войны против валлийцев, датчан и норманнов Дублина. Как женщина-правительница, осуществлявшая самостоятельную военную и политическую власть в Англии IX века, она исключительна.",
+      "latitude": 52.4862,
+      "longitude": -1.8904,
+      "source": "https://en.wikipedia.org/wiki/%C3%86thelfl%C3%A6d",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -429,20 +416,19 @@
         "Wessex",
         "Expansion",
         "Conquest"
-      ],
-      "geo": [
-        [
-          -2.18,
-          52.48
-        ]
-      ],
-      "type": "military"
+      ]
     },
     {
       "date": "01.01.0927",
       "era": "AD",
-      "name": "Æthelstan — first king of all England",
+      "type": "political",
+      "name": "æthelstan — first king of all england",
+      "name_ru": "Этельстан — первый король всей Англии",
       "description": "In 927 AD, King Æthelstan of Wessex and Mercia received the submission of the Norse king of York and the kings of Scotland, Strathclyde and Wales at Eamont Bridge in Cumbria. He then styled himself 'King of the English and ruler of all Britain' — Rex totius Britanniae. This is the moment historians identify as the foundation of the unified English state. Æthelstan had already driven the last Viking king from York; now he received the homage of all the rulers of Britain in a single ceremony. He issued law codes that applied to all England, standardised coinage, and corresponded with European rulers as a king of equivalent dignity. He defeated a combined Viking-Scottish invasion at the Battle of Brunanburh in 937 — a victory celebrated in the Anglo-Saxon Chronicle in a poem that ranks among the finest in Old English literature. He died in 939 without a legitimate heir.",
+      "description_ru": "В 927 году король Уэссекса и Мерсии Этельстан принял покорность норвежского короля Йорка и королей Шотландии, Стратклайда и Уэльса у Эмонт-Бридж в Камбрии. Затем он принял титул «короля англичан и властителя всей Британии» — Rex totius Britanniae. Именно этот момент историки считают основанием единого английского государства. Этельстан уже изгнал последнего викингского короля из Йорка; теперь он получил оммаж всех правителей Британии на единой церемонии. Он издавал своды законов, применявшиеся по всей Англии, стандартизировал монетное дело и переписывался с европейскими правителями как равный им по достоинству. Он разгромил объединённое викингско-шотландское вторжение в битве при Брунанбурге в 937 году.",
+      "latitude": 54.632,
+      "longitude": -2.778,
+      "source": "https://en.wikipedia.org/wiki/%C3%86thelstan",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -452,20 +438,19 @@
         "Political",
         "Wessex",
         "Law"
-      ],
-      "geo": [
-        [
-          -2.77,
-          54.6
-        ]
-      ],
-      "type": "political"
+      ]
     },
     {
       "date": "01.01.0937",
       "era": "AD",
-      "name": "Battle of Brunanburh — all england defended",
+      "type": "military",
+      "name": "battle of brunanburh — all england defended",
+      "name_ru": "Битва при Брунанбурге — вся Англия отстояна",
       "description": "In 937 AD, Æthelstan of England faced a grand coalition: Olaf Guthfrithson of Dublin leading Norse forces from Ireland, Constantine II of Scotland, and Owen of Strathclyde — a combined force representing every major power that resented English supremacy. The Battle of Brunanburh was the largest battle fought on English soil since the Roman period, and Æthelstan won it comprehensively. Five kings and seven earls fell on the Viking-Scottish side. The Anglo-Saxon Chronicle's poem on the battle is the longest poem in the Chronicle and one of the great Old English compositions: 'Never yet in this island, as books and scholars of old inform us, was a greater slaughter of a host made by the sword's edge.' The victory secured Æthelstan's claim to be king of all Britain and set back Scottish and Norse ambitions in England by a generation.",
+      "description_ru": "В 937 году Этельстан Английский столкнулся с великой коалицией: Олаф Гутфритсон из Дублина вёл норвежские силы из Ирландии, Константин II — шотландские, Оуэн — силы Стратклайда. Объединённые силы представляли каждую крупную державу, враждебную английскому господству. Битва при Брунанбурге стала крупнейшим сражением на английской земле со времён Рима, и Этельстан выиграл её убедительно. На стороне викингско-шотландской коалиции пало пять королей и семь эрлов. Поэма Англосаксонской хроники об этой битве — длиннейшее стихотворение хроники и одно из великих произведений древнеанглийской литературы: «Никогда ещё на этом острове, как сообщают книги и учёные мужи древности, не было большего побоища войска острием меча».",
+      "latitude": 53.8,
+      "longitude": -2.5,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Brunanburh",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -475,20 +460,19 @@
         "Wessex",
         "Scottish",
         "Literature"
-      ],
-      "geo": [
-        [
-          -2.5,
-          53.8
-        ]
-      ],
-      "type": "military"
+      ]
     },
     {
       "date": "01.01.0959",
       "era": "AD",
-      "name": "Edgar the Peaceful — the golden age of Anglo-Saxon England",
+      "type": "political",
+      "name": "edgar the peaceful — the golden age of anglo-saxon england",
+      "name_ru": "Эдгар Миролюбивый — золотой век англосаксонской Англии",
       "description": "Edgar's reign (959–975) was the high-water mark of Anglo-Saxon England. He was never obliged to fight a war. He reformed the coinage — all pennies in England were recalled and reissued to a single standard every six years, a monetary discipline unmatched in medieval Europe. He issued a law code that explicitly acknowledged the separate customs of the Danes in the Danelaw — the earliest example of multicultural legal pluralism in English history. He patronised the Benedictine Reform, which renewed monastic life across England: Æthelwold refounded Winchester, Oswald refounded Ramsey and Worcester. In 973, after a delay whose reasons remain mysterious, Edgar was crowned at Bath in a ceremony devised by Dunstan of Canterbury that is the direct ancestor of the English coronation rite still used today. He then rowed on the Dee by eight subject kings — a theatrical assertion of British supremacy.",
+      "description_ru": "Правление Эдгара (959–975) — высшая точка в истории англосаксонской Англии. Ему никогда не пришлось вести войну. Он реформировал монетное дело — все пенни в Англии изымались и перечеканивались по единому стандарту каждые шесть лет, — денежная дисциплина, не имевшая аналогов в средневековой Европе. Он издал свод законов, прямо признававший обособленные обычаи датчан в области датского права, — ранний пример мультикультурного правового плюрализма в английской истории. Он покровительствовал Бенедиктинской реформе, обновившей монастырскую жизнь по всей Англии. В 973 году Эдгар был коронован в Бате в обряде, разработанном Дунстаном Кентерберийским, — прямом предке английского коронационного чина, используемого по сей день. Затем восемь подвластных королей гребли для него на реке Ди.",
+      "latitude": 51.3781,
+      "longitude": -2.3597,
+      "source": "https://en.wikipedia.org/wiki/Edgar_the_Peaceful",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -498,20 +482,19 @@
         "Law",
         "Reform",
         "Christian"
-      ],
-      "geo": [
-        [
-          -2.36,
-          51.38
-        ]
-      ],
-      "type": "political"
+      ]
     },
     {
       "date": "01.01.0975",
       "era": "AD",
-      "name": "Æthelred the Unready — a kingdom sold piece by piece",
-      "description": "Edgar's death in 975 and the murder of his son Edward the Martyr in 978 brought Æthelred II to the throne — a reign (978–1013, 1014–1016) that became synonymous with misgovernment. His epithet is not 'unready' in the modern sense but 'Unræd' — Old English for 'ill-counselled' or 'no-counsel,' a bitter pun on his name Æthelræd ('noble counsel'). His response to renewed Viking raids was to pay them off — the Danegeld, raised by taxing his own people to bribe Danish armies to leave. The sums grew with each payment: 10,000 pounds of silver in 991, 16,000 in 994, 24,000 in 1002, 36,000 in 1007, 48,000 in 1012. The policy failed: the Vikings took the money and came back. The St. Brice's Day Massacre of 1002 — Æthelred's order to kill all Danes in England — provoked the very invasion it was meant to prevent. By 1013 Swein Forkbeard had conquered the kingdom and Æthelred fled to Normandy.",
+      "type": "political",
+      "name": "æthelred the unready — a kingdom sold piece by piece",
+      "name_ru": "Этельред Неразумный — королевство, проданное по частям",
+      "description": "Edgar's death in 975 and the murder of his son Edward the Martyr in 978 brought Æthelred II to the throne — a reign (978–1013, 1014–1016) that became synonymous with misgovernment. His epithet is not 'unready' in the modern sense but 'Unræd' — Old English for 'ill-counselled,' a bitter pun on his name Æthelræd ('noble counsel'). His response to renewed Viking raids was to pay them off — the Danegeld, raised by taxing his own people to bribe Danish armies to leave. The sums grew with each payment: 10,000 pounds of silver in 991, 16,000 in 994, 24,000 in 1002, 36,000 in 1007, 48,000 in 1012. The policy failed: the Vikings took the money and came back. The St. Brice's Day Massacre of 1002 provoked the very invasion it was meant to prevent. By 1013 Swein Forkbeard had conquered the kingdom and Æthelred fled to Normandy.",
+      "description_ru": "Смерть Эдгара в 975 году и убийство его сына Эдуарда Мученика в 978-м возвели на престол Этельреда II — правление (978–1013, 1014–1016), ставшее синонимом дурного управления. Его прозвище — не «неразумный» в современном смысле, а «Unræd» — древнеанглийское «дурно советуемый», горькая игра слов с его именем Æthelræd («благородный совет»). Его ответом на возобновившиеся набеги викингов была уплата: датские деньги (данегельд), собиравшиеся обложением собственного народа ради подкупа датских армий. Суммы росли с каждой выплатой: 10 000 фунтов серебра в 991 году, 16 000 в 994-м, 24 000 в 1002-м, 36 000 в 1007-м, 48 000 в 1012-м. Политика провалилась: викинги брали деньги и возвращались. К 1013 году Свейн Вилобородый завоевал королевство, и Этельред бежал в Нормандию.",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "source": "https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -521,20 +504,19 @@
         "Decline",
         "Danish",
         "Political"
-      ],
-      "geo": [
-        [
-          -1.3,
-          51.06
-        ]
-      ],
-      "type": "political"
+      ]
     },
     {
       "date": "01.01.0991",
       "era": "AD",
-      "name": "Battle of Maldon — the english pay their first danegeld",
-      "description": "In August 991, a Viking fleet under Olaf Tryggvason landed at the mouth of the River Blackwater in Essex. The ealdorman Byrhtnoth of Essex met them with the local fyrd at a causeway crossing near Maldon. In a decision whose chivalric folly or tactical logic is still debated, Byrhtnoth allowed the Vikings to cross the causeway onto firm ground rather than holding the defensible position. The English were defeated and Byrhtnoth killed. The Battle of Maldon is commemorated in an Old English poem that is one of the masterpieces of heroic literature — the old warriors gathering around their fallen lord, refusing to flee while their thegn lies dead. In its political consequence it was a disaster: Æthelred's council agreed to pay 10,000 pounds of silver to make the fleet go away. This was the first Danegeld. It established a pattern of tribute that would bleed England for the next two decades.",
+      "type": "military",
+      "name": "battle of maldon — the english pay their first danegeld",
+      "name_ru": "Битва при Мэлдоне — англичане платят первый данегельд",
+      "description": "In August 991, a Viking fleet under Olaf Tryggvason landed at the mouth of the River Blackwater in Essex. The ealdorman Byrhtnoth of Essex met them at a causeway crossing near Maldon. In a decision whose chivalric folly is still debated, Byrhtnoth allowed the Vikings to cross the causeway onto firm ground rather than holding the defensible position. The English were defeated and Byrhtnoth killed. The Battle of Maldon is commemorated in an Old English poem that is one of the masterpieces of heroic literature — the old warriors gathering around their fallen lord, refusing to flee. In its political consequence it was a disaster: Æthelred's council agreed to pay 10,000 pounds of silver to make the fleet go away. This was the first Danegeld. It established a pattern of tribute that would bleed England for the next two decades.",
+      "description_ru": "В августе 991 года флот викингов под началом Олава Трюггвасона высадился у устья реки Блэкуотер в Эссексе. Олдермен Эссекса Бюрхтнот встретил их у переправы близ Мэлдона. В решении, рыцарское безрассудство которого по сей день вызывает споры, Бюрхтнот позволил викингам пересечь переправу на твёрдый берег, а не удерживать легко обороняемую позицию. Англичане были разбиты, Бюрхтнот пал. Битва при Мэлдоне увековечена в древнеанглийской поэме — одном из шедевров героической литературы: старые воины собираются вокруг павшего господина и отказываются бежать. По политическим последствиям это была катастрофа: совет Этельреда согласился уплатить 10 000 фунтов серебра, чтобы флот ушёл. Это и был первый данегельд.",
+      "latitude": 51.7342,
+      "longitude": 0.6762,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Maldon",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -543,20 +525,19 @@
         "Danish",
         "Crisis",
         "Literature"
-      ],
-      "geo": [
-        [
-          0.68,
-          51.73
-        ]
-      ],
-      "type": "military"
+      ]
     },
     {
       "date": "01.01.1016",
       "era": "AD",
-      "name": "Edmund Ironside fights Cnut to a standstill",
-      "description": "After Æthelred's death in 1016, his son Edmund II — called 'Ironside' for his physical courage — fought five major battles against the Danish king Cnut in a single campaigning season, a feat of stamina and leadership that briefly reversed the Danish conquest. At Assandun in Essex, however, Edmund was defeated and the kingdom divided by treaty: Edmund kept Wessex, Cnut got everything north of the Thames. Edmund died within weeks, possibly of wounds, possibly of treachery. The treaty had been sealed with oaths of brotherhood; when Edmund died, Cnut inherited all England. Edmund Ironside's six-month reign had been the last flicker of Anglo-Saxon military resistance. The Danish dynasty was now established — but Denmark had effectively lost, because the ruler who would govern England was not a Viking raider but an administrator who chose to rule as an Anglo-Saxon king.",
+      "type": "military",
+      "name": "edmund ironside fights cnut to a standstill",
+      "name_ru": "Эдмунд Железнобокий противостоит Кнуту",
+      "description": "After Æthelred's death in 1016, his son Edmund II — called 'Ironside' for his physical courage — fought five major battles against the Danish king Cnut in a single campaigning season, a feat of stamina and leadership that briefly reversed the Danish conquest. At Assandun in Essex, however, Edmund was defeated and the kingdom divided by treaty: Edmund kept Wessex, Cnut got everything north of the Thames. Edmund died within weeks, possibly of wounds, possibly of treachery. The treaty had been sealed with oaths of brotherhood; when Edmund died, Cnut inherited all England. Edmund Ironside's six-month reign had been the last flicker of Anglo-Saxon military resistance. The Danish dynasty was now established — but Cnut chose to rule not as a Viking raider but as an Anglo-Saxon king.",
+      "description_ru": "После смерти Этельреда в 1016 году его сын Эдмунд II — прозванный «Железнобоким» за физическую доблесть — в течение одного военного сезона дал пять крупных сражений датскому королю Кнуту — подвиг выносливости и военного искусства, на короткое время обратившей датское завоевание вспять. Однако при Ассандуне в Эссексе Эдмунд был разбит, и королевство разделено по договору: Эдмунд удержал Уэссекс, Кнуту досталось всё к северу от Темзы. Эдмунд умер в течение нескольких недель — возможно, от ран, возможно, от предательства. Когда Эдмунд умер, Кнут унаследовал всю Англию. Шестимесячное правление Эдмунда Железнобокого было последней вспышкой англосаксонского военного сопротивления.",
+      "latitude": 51.8,
+      "longitude": 0.7,
+      "source": "https://en.wikipedia.org/wiki/Edmund_Ironside",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -566,20 +547,19 @@
         "King",
         "Crisis",
         "Wessex"
-      ],
-      "geo": [
-        [
-          0.7,
-          51.8
-        ]
-      ],
-      "type": "military"
+      ]
     },
     {
       "date": "01.01.1020",
       "era": "AD",
-      "name": "Cnut rules england as an anglo-saxon king",
-      "description": "Cnut (reigned 1016–1035), the Danish conqueror, made a deliberate choice to govern England not as a foreign occupier but within the Anglo-Saxon royal tradition. He issued law codes in the tradition of Edgar, confirmed the liberties of the church, married the widow of Æthelred, patronised English monasteries, and in 1027 made a pilgrimage to Rome — a gesture of Christian piety that earned him papal favour and reduced tolls on English merchants in continental markets. He dismissed his Danish army and paid it off, governing with Anglo-Saxon ealdormen and establishing the great earls — Godwine of Wessex, Leofric of Mercia, Siward of Northumbria — whose power would outlast him. The story of Cnut commanding the tide to turn back — actually a demonstration to flattering courtiers that even a king cannot control nature — captures something true about his self-aware, theatrically modest style of rule.",
+      "type": "political",
+      "name": "cnut rules england as an anglo-saxon king",
+      "name_ru": "Кнут правит Англией как англосаксонский король",
+      "description": "Cnut (reigned 1016–1035), the Danish conqueror, made a deliberate choice to govern England not as a foreign occupier but within the Anglo-Saxon royal tradition. He issued law codes in the tradition of Edgar, confirmed the liberties of the church, married the widow of Æthelred, patronised English monasteries, and in 1027 made a pilgrimage to Rome — earning papal favour and reduced tolls on English merchants in continental markets. He dismissed his Danish army and paid it off, governing with Anglo-Saxon ealdormen and establishing the great earls — Godwine of Wessex, Leofric of Mercia, Siward of Northumbria — whose power would outlast him. The story of Cnut commanding the tide to turn back — a demonstration to flattering courtiers that even a king cannot control nature — captures something true about his self-aware, theatrically modest style of rule.",
+      "description_ru": "Кнут (правил в 1016–1035 годах), датский завоеватель, сознательно избрал путь управления Англией не как иностранный оккупант, а в рамках англосаксонской королевской традиции. Он издавал своды законов в традиции Эдгара, подтверждал свободы церкви, женился на вдове Этельреда, покровительствовал английским монастырям и в 1027 году совершил паломничество в Рим — снискав папское расположение и сниженные пошлины для английских купцов на континентальных рынках. Он распустил датскую армию и выплатил ей жалованье, управляя с помощью англосаксонских олдерменов и утвердив великих эрлов — Годвина Уэссекского, Леофрика Мерсийского, Сиварда Нортумбрийского, — чья власть переживёт его самого.",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "source": "https://en.wikipedia.org/wiki/Cnut_the_Great",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -589,20 +569,19 @@
         "Law",
         "Administration",
         "Christian"
-      ],
-      "geo": [
-        [
-          -0.09,
-          51.5
-        ]
-      ],
-      "type": "political"
+      ]
     },
     {
       "date": "01.01.1042",
       "era": "AD",
-      "name": "Edward the Confessor — the Norman connection grows",
-      "description": "When Cnut's sons died without heirs in rapid succession, the Anglo-Saxon line was restored in the person of Edward, son of Æthelred — who had spent twenty-five years in exile at the Norman court. Edward the Confessor (1042–1066) was more Norman than English in culture, speech and preference. He filled his court and church with Norman favourites, provoking bitter resistance from Earl Godwine of Wessex, the most powerful English magnate. Edward is credited with beginning Westminster Abbey — conceived as a royal mausoleum and consecrated days before his death. He died childless in January 1066, allegedly promising the throne to his cousin William of Normandy, and also allegedly designating Harold Godwinson as his successor on his deathbed. Both promises were plausible. Both set Europe on the road to Hastings. His reputation for personal holiness was enough for Rome to canonise him in 1161.",
+      "type": "political",
+      "name": "edward the confessor — the norman connection grows",
+      "name_ru": "Эдуард Исповедник — нормандская связь крепнет",
+      "description": "When Cnut's sons died without heirs in rapid succession, the Anglo-Saxon line was restored in the person of Edward, son of Æthelred — who had spent twenty-five years in exile at the Norman court. Edward the Confessor (1042–1066) was more Norman than English in culture, speech and preference. He filled his court and church with Norman favourites, provoking bitter resistance from Earl Godwine of Wessex, the most powerful English magnate. Edward is credited with beginning Westminster Abbey — conceived as a royal mausoleum and consecrated days before his death. He died childless in January 1066, allegedly promising the throne to his cousin William of Normandy, and also allegedly designating Harold Godwinson as his successor on his deathbed. Both promises were plausible. Both set Europe on the road to Hastings.",
+      "description_ru": "Когда сыновья Кнута в быстрой последовательности умерли, не оставив наследников, англосаксонская линия была восстановлена в лице Эдуарда, сына Этельреда, проведшего двадцать пять лет в изгнании при нормандском дворе. Эдуард Исповедник (1042–1066) был по культуре, речи и пристрастиям скорее нормандцем, чем англичанином. Он заполнял двор и церковь нормандскими любимцами, вызывая острое противодействие эрла Годвина Уэссекского, наиболее могущественного английского магната. Эдуарду приписывают начало строительства Вестминстерского аббатства — задуманного как королевская усыпальница и освящённого за несколько дней до его смерти. Он умер бездетным в январе 1066 года, якобы обещав трон своему кузену Вильгельму Нормандскому и в то же время на смертном одре якобы назначив преемником Гарольда Годвинсона.",
+      "latitude": 51.4994,
+      "longitude": -0.1273,
+      "source": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -612,20 +591,19 @@
         "Political",
         "Christian",
         "Building 🏠"
-      ],
-      "geo": [
-        [
-          -0.13,
-          51.5
-        ]
-      ],
-      "type": "political"
+      ]
     },
     {
       "date": "01.01.1052",
       "era": "AD",
-      "name": "The Godwine crisis — earls against the crown",
-      "description": "In 1051–1052 the tension between Edward the Confessor and the Godwine family reached breaking point. When a brawl in Dover between locals and Norman guests of the king led Edward to demand punishment of the townspeople, Earl Godwine of Wessex refused to enforce the order. Edward exiled the entire Godwine family. It seemed the Norman faction had triumphed. A year later Godwine returned with a fleet, and the English magnates — unwilling to see civil war — forced Edward to restore him without battle. The Norman favourites were expelled. Godwine died at table shortly after his restoration, and his son Harold inherited the earldom of Wessex, the most powerful position in England. The Godwine crisis established two facts that would determine 1066: England's leading family was Harold's, and the Norman interest in the English succession was already actively being cultivated by Duke William.",
+      "type": "political",
+      "name": "the godwine crisis — earls against the crown",
+      "name_ru": "Кризис Годвина — эрлы против короны",
+      "description": "In 1051–1052 the tension between Edward the Confessor and the Godwine family reached breaking point. When a brawl in Dover between locals and Norman guests of the king led Edward to demand punishment of the townspeople, Earl Godwine of Wessex refused to enforce the order. Edward exiled the entire Godwine family. It seemed the Norman faction had triumphed. A year later Godwine returned with a fleet, and the English magnates — unwilling to see civil war — forced Edward to restore him without battle. The Norman favourites were expelled. Godwine died at table shortly after his restoration, and his son Harold inherited the earldom of Wessex, the most powerful position in England. The crisis established two facts that would determine 1066: England's leading family was Harold's, and Norman interest in the English succession was actively being cultivated by Duke William.",
+      "description_ru": "В 1051–1052 годах напряжение между Эдуардом Исповедником и семьёй Годвина достигло предела. Когда стычка в Дувре между горожанами и нормандскими гостями короля побудила Эдуарда потребовать наказания жителей, эрл Годвин Уэссекский отказался выполнить приказ. Эдуард изгнал всё семейство Годвина. Казалось, нормандская партия восторжествовала. Год спустя Годвин вернулся с флотом, и английские магнаты — не желая гражданской войны — вынудили Эдуарда восстановить его без сражения. Нормандские любимцы были высланы. Годвин вскоре после восстановления умер за столом, и его сын Гарольд унаследовал эрлство Уэссекское — самое могущественное положение в Англии.",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "source": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -634,20 +612,19 @@
         "Crisis",
         "Norman",
         "Wessex"
-      ],
-      "geo": [
-        [
-          -0.09,
-          51.5
-        ]
-      ],
-      "type": "political"
+      ]
     },
     {
       "date": "01.01.1058",
       "era": "AD",
-      "name": "Harold Godwinson — the making of the last English king",
+      "type": "political",
+      "name": "harold godwinson — the making of the last english king",
+      "name_ru": "Гарольд Годвинсон — становление последнего английского короля",
       "description": "By the late 1050s Harold Godwinson, Earl of Wessex, was effectively the regent of England. He campaigned successfully in Wales, defeating and killing the Welsh king Gruffudd ap Llywelyn in 1063 in a winter campaign of brutal efficiency — the only time an English king or earl conquered all of Wales. He was the most experienced military commander in England, the richest magnate, and the man closest to the throne. In 1064 or 1065, apparently blown off course during a sea voyage, he landed in Normandy and was held by William. He swore an oath on holy relics — possibly including an oath to support William's claim to the English throne. The nature and circumstances of that oath were disputed from the moment they occurred. It became William's chief moral justification for the invasion of 1066, and Harold's breaking of it his chief condemnation in Norman propaganda.",
+      "description_ru": "К концу 1050-х годов Гарольд Годвинсон, эрл Уэссекский, фактически был регентом Англии. Он успешно воевал в Уэльсе, разгромив и убив валлийского короля Гриффида ап Ллевелина в 1063 году в зимней кампании жестокой эффективности — единственный случай, когда английский король или эрл завоевал весь Уэльс. Он был наиболее опытным военным командиром Англии, богатейшим магнатом и человеком, ближайшим к трону. В 1064 или 1065 году, по-видимому сбившись с курса во время морского плавания, он высадился в Нормандии и оказался в руках Вильгельма. Он принёс клятву на священных реликвиях — возможно, включая клятву поддержать претензии Вильгельма на английский трон. Природа и обстоятельства той клятвы оспаривались с первого же момента.",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "source": "https://en.wikipedia.org/wiki/Harold_Godwinson",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -657,20 +634,19 @@
         "Political",
         "Norman",
         "War"
-      ],
-      "geo": [
-        [
-          -0.09,
-          51.5
-        ]
-      ],
-      "type": "political"
+      ]
     },
     {
       "date": "05.01.1066",
       "era": "AD",
-      "name": "Harold is crowned — the last Anglo-Saxon king of England",
-      "description": "Edward the Confessor died on 5 January 1066 and was buried in his newly consecrated Westminster Abbey. On the same day or the day after, Harold Godwinson was crowned king of England in the Abbey — the fastest coronation in English history, and a measure of how dangerously unstable the succession was known to be. Harold was the elected choice of the Witan, the council of English magnates, and arguably Edward's deathbed designation. He was not of royal blood. Across the Channel, William of Normandy immediately declared the crown had been stolen from him and began preparing an invasion fleet. To the north, Harald Hardrada of Norway, with an equally contested claim through the line of Cnut, was preparing his own. Harold spent the summer of 1066 holding an army and fleet at readiness, watching the Channel, waiting.",
+      "type": "political",
+      "name": "harold is crowned — the last anglo-saxon king of england",
+      "name_ru": "Коронация Гарольда — последний англосаксонский король Англии",
+      "description": "Edward the Confessor died on 5 January 1066 and was buried in his newly consecrated Westminster Abbey. On the same day or the day after, Harold Godwinson was crowned king of England in the Abbey — the fastest coronation in English history, and a measure of how dangerously unstable the succession was known to be. Harold was the elected choice of the Witan, the council of English magnates, and arguably Edward's deathbed designation. He was not of royal blood. Across the Channel, William of Normandy immediately declared the crown had been stolen from him and began preparing an invasion fleet. To the north, Harald Hardrada of Norway, with an equally contested claim, was preparing his own. Harold spent the summer of 1066 holding an army and fleet at readiness, watching the Channel, waiting.",
+      "description_ru": "Эдуард Исповедник скончался 5 января 1066 года и был похоронен в своём только что освящённом Вестминстерском аббатстве. В тот же или на следующий день Гарольд Годвинсон был коронован королём Англии в аббатстве — быстрейшая коронация в английской истории и мерило того, насколько опасно нестабильным считалось тогда положение с престолонаследием. Гарольд был избранником витана — совета английских магнатов — и, возможно, предсмертным назначенцем Эдуарда. Он не был королевской крови. По ту сторону Канала Вильгельм Нормандский немедленно объявил, что корона похищена у него, и принялся готовить флот вторжения. На севере свой флот готовил Харальд Суровый Норвежский с равно оспариваемыми претензиями. Гарольд провёл лето 1066 года, держа армию и флот наготове, следя за Каналом и ожидая.",
+      "latitude": 51.4994,
+      "longitude": -0.1273,
+      "source": "https://en.wikipedia.org/wiki/Harold_Godwinson",
       "tags": [
         "Anglo-Saxon",
         "British",
@@ -680,14 +656,7 @@
         "Foundation",
         "Norman",
         "Crisis"
-      ],
-      "geo": [
-        [
-          -0.13,
-          51.5
-        ]
-      ],
-      "type": "political"
+      ]
     }
   ]
 }

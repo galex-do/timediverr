@@ -1,1 +1,2 @@
 - [Valid event lens types](valid-event-types.md) — only 6 types accepted: historic, political, military, cultural, religious, scientific. `battle` is invalid; use `military` for all battle events.
+- [Dataset event structure](dataset-structure.md) — 11 required fields per event including name_ru, description_ru, latitude, longitude, source. `geo` arrays are WRONG. Top level needs `filename` field. Source URLs must be real Wikipedia pages.
