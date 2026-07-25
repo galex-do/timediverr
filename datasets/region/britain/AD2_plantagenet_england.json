@@ -1,0 +1,763 @@
+{
+  "description": "Dataset covering the history of Britain from the Norman Conquest (1066) to the end of the Plantagenet era and the dawn of the Tudors (1485). Covers the Norman settlement and feudal revolution, the Anarchy, the Plantagenet dynasty and its common law reforms, Thomas Becket, Magna Carta, the birth of Parliament, Edward I's conquest of Wales and wars with Scotland, William Wallace and Robert the Bruce, the Hundred Years' War, the Black Death, the Peasants' Revolt, John Wycliffe's heresy, Agincourt, the loss of France, the Wars of the Roses, and the Battle of Bosworth Field.",
+  "events": [
+    {
+      "date": "25.12.1066",
+      "era": "AD",
+      "type": "political",
+      "name": "William the Conqueror crowned at Westminster — the norman settlement begins",
+      "description": "On Christmas Day 1066, William of Normandy was crowned King of England at Westminster Abbey in a ceremony that went immediately wrong: the Norman guards outside, hearing the acclamation shout in English and misunderstanding it as a riot, set fire to the surrounding buildings. Inside, the congregation panicked and fled. William, reportedly trembling, was crowned in a near-empty church. The chaos was an apt emblem for what followed. The Normans were a tiny minority — perhaps 10,000 warriors among two million English — who had to impose their rule by systematic terror and land redistribution. Within twenty years the entire English landowning class had been destroyed and replaced by a French-speaking Norman aristocracy. England's language, law, architecture, and church were permanently altered. No conquest before or since has so completely transformed the ruling culture of the island.",
+      "tags": [
+        "British",
+        "English",
+        "Norman",
+        "King",
+        "Plantagenet",
+        "Foundation",
+        "Political",
+        "Conquest"
+      ],
+      "geo": [
+        [
+          -0.13,
+          51.5
+        ]
+      ]
+    },
+    {
+      "date": "01.01.1068",
+      "era": "AD",
+      "type": "military",
+      "name": "Harrying of the North — william destroys Yorkshire",
+      "description": "In the winter of 1069–1070, following repeated northern rebellions and a Danish invasion that briefly captured York, William conducted a campaign of deliberate devastation across Yorkshire and neighbouring counties that contemporaries called the 'Harrying of the North.' Villages were burned, livestock slaughtered, grain stores destroyed, and the tools of farming systematically wrecked. The chronicler Orderic Vitalis — himself half-Norman — wrote that William 'levelled cities, destroyed castles, gave up the land to be ploughed by the plough of desolation.' Modern estimates suggest 100,000 or more people died of starvation in the following years. The Domesday Book of 1086 still records vast stretches of Yorkshire as 'waste.' The Harrying ended northern resistance permanently, but William reportedly confessed it on his deathbed as his greatest sin.",
+      "tags": [
+        "British",
+        "English",
+        "Norman",
+        "War",
+        "Destruction",
+        "Crisis",
+        "Conquest",
+        "Massacre"
+      ],
+      "geo": [
+        [
+          -1.08,
+          53.96
+        ]
+      ]
+    },
+    {
+      "date": "01.08.1086",
+      "era": "AD",
+      "type": "historic",
+      "name": "Domesday Book — the greatest survey of medieval Europe",
+      "description": "In 1085, threatened by another Danish invasion, William I ordered a survey of all the landholdings in England — who held what, how much it was worth, and how much it had been worth before the Conquest. The result, compiled in 1086 and preserved as the Domesday Book, is the most comprehensive land survey produced anywhere in medieval Europe. Commissioners travelled to every county, interrogating local juries under oath. The result recorded approximately 13,000 settlements and the holdings of every major landowner. Its purpose was fiscal and military — to know exactly what resources the kingdom contained. Its unintended legacy is historical: it allows modern historians to reconstruct English rural society of the eleventh century in extraordinary detail. Its very name — Domesday, from 'doomsday,' the Day of Judgment — reflects how the English felt about being interrogated so comprehensively by their conquerors.",
+      "tags": [
+        "British",
+        "English",
+        "Norman",
+        "Administration",
+        "Law",
+        "Text",
+        "Political",
+        "Foundation"
+      ],
+      "geo": [
+        [
+          -1.0,
+          52.0
+        ]
+      ]
+    },
+    {
+      "date": "01.08.1100",
+      "era": "AD",
+      "type": "political",
+      "name": "Henry I and the charter of liberties — the first limit on royal power",
+      "description": "When William Rufus died in a hunting accident in the New Forest in 1100 — possibly murdered — his younger brother Henry moved with lightning speed to secure the treasury and the throne. To win the support of the English barons and church, he issued on coronation day a Charter of Liberties in which he promised to abolish the worst abuses of his predecessor, to respect the rights of the church, and to govern by the law of Edward the Confessor. It was a political document, not a legal revolution, and Henry promptly ignored much of it in practice. But it established a principle: that the king was bound by his promises, that there were limits on royal exaction, and that those limits could be written down. When Magna Carta was drafted 115 years later, the barons specifically cited Henry I's Charter as the precedent they were following.",
+      "tags": [
+        "British",
+        "English",
+        "Norman",
+        "King",
+        "Plantagenet",
+        "Law",
+        "Reform",
+        "Political"
+      ],
+      "geo": [
+        [
+          -0.09,
+          51.5
+        ]
+      ]
+    },
+    {
+      "date": "01.01.1135",
+      "era": "AD",
+      "type": "political",
+      "name": "The Anarchy — England's civil war between Stephen and Matilda",
+      "description": "When Henry I died in 1135, his only legitimate son having drowned in the White Ship disaster of 1120, England was plunged into nearly twenty years of civil war between two claimants: Stephen of Blois, Henry's nephew, who seized the throne first; and Empress Matilda, Henry's daughter, who had been designated his heir. The period, called the Anarchy, saw castle-building proliferate as barons exploited the power vacuum, taxation collapsed, and the chronicler of Peterborough wrote that 'every powerful man built his castles, and they filled the land full of castles. They oppressed the wretched people of the land with castle-works; when the castles were built, they filled them with devils and evil men.' The Anarchy ended in 1153 when Stephen agreed to the Treaty of Wallingford: he would reign until his death, and Matilda's son Henry would succeed him. Stephen died in 1154.",
+      "tags": [
+        "British",
+        "English",
+        "Norman",
+        "Civil War",
+        "Crisis",
+        "Dynasty",
+        "Political",
+        "King"
+      ],
+      "geo": [
+        [
+          -1.3,
+          51.56
+        ]
+      ]
+    },
+    {
+      "date": "19.12.1154",
+      "era": "AD",
+      "type": "political",
+      "name": "Henry II Plantagenet — the greatest lawgiver of medieval England",
+      "description": "Henry II, who came to the throne in 1154 at age 21, was the most capable English king of the medieval period. He recovered the territories lost in the Anarchy, conquered Ireland, reasserted royal authority in Wales, and above all transformed English law. He expanded the royal courts at the expense of baronial and church courts, establishing the common law as the law of the land applicable to all free men. He instituted the grand jury, the possessory assizes (protecting land tenure), and the principle of royal justice as the default for disputes about land and serious crime. His legal reforms were more durable than his military campaigns: the common law he created is the direct ancestor of the legal systems of England, the United States, Canada, Australia, and dozens of other countries. He was brilliant, restless, and capable of catastrophic rage.",
+      "tags": [
+        "British",
+        "English",
+        "Plantagenet",
+        "King",
+        "Law",
+        "Reform",
+        "Foundation",
+        "Political"
+      ],
+      "geo": [
+        [
+          -0.09,
+          51.5
+        ]
+      ]
+    },
+    {
+      "date": "29.12.1170",
+      "era": "AD",
+      "type": "religious",
+      "name": "Murder of Thomas Becket — the king's rage and the church's martyr",
+      "description": "Thomas Becket, Archbishop of Canterbury and former close friend of Henry II, was murdered in his own cathedral on 29 December 1170 by four knights who had heard the king cry in frustration: 'Will no one rid me of this turbulent priest?' Henry almost certainly did not intend an assassination, but Becket's murder — at the altar of his cathedral, by armed men — was the most scandalous act of Henry's reign. Becket was canonised within three years. His shrine at Canterbury became the most visited pilgrimage destination in England; Chaucer's Canterbury Tales are set among pilgrims travelling to it two centuries later. Henry was forced to do public penance at Becket's tomb, flogged by the monks. The political consequence was a severe restriction on royal authority over the church — the very thing Becket had died defending. It was the most spectacular collision of church and state in English history.",
+      "tags": [
+        "British",
+        "English",
+        "Plantagenet",
+        "King",
+        "Religious",
+        "Christian",
+        "Death",
+        "Crisis",
+        "Saint"
+      ],
+      "geo": [
+        [
+          1.08,
+          51.28
+        ]
+      ]
+    },
+    {
+      "date": "01.01.1188",
+      "era": "AD",
+      "type": "military",
+      "name": "Richard I and the Third Crusade — England bled for Jerusalem",
+      "description": "Richard I 'the Lionheart,' who became king in 1189, spent less than six months of his ten-year reign in England. He regarded the kingdom primarily as a source of revenue to fund his Crusade: he reportedly said he would sell London if he could find a buyer. To finance the Third Crusade he sold offices, castles, and charters of liberties to English towns, inadvertently accelerating the development of urban self-government. The Crusade itself achieved a treaty with Saladin but not the recapture of Jerusalem. On his return, Richard was captured by the Duke of Austria and held for ransom; England was taxed at a quarter of the value of all income and moveable property to pay the 150,000 marks demanded. His absence left England administered by his chancellor Longchamp and then his brother John, establishing patterns of baronial independence that would explode in John's reign.",
+      "tags": [
+        "British",
+        "English",
+        "Plantagenet",
+        "King",
+        "Crusade",
+        "War",
+        "Crisis",
+        "Political"
+      ],
+      "geo": [
+        [
+          -0.09,
+          51.5
+        ]
+      ]
+    },
+    {
+      "date": "15.06.1215",
+      "era": "AD",
+      "type": "political",
+      "name": "Magna Carta — the foundation of constitutional government",
+      "description": "King John's reign was a catalogue of failure: he lost Normandy and most of England's French territories to Philip II of France in 1204, imposed ruinous taxation to try to recover them, and quarrelled so violently with the Pope that England was placed under interdict (no church services for six years). When his latest French campaign also failed at Bouvines in 1214, the barons rose. At Runnymede on the Thames on 15 June 1215, John was forced to set his seal to Magna Carta — the Great Charter — a document of 63 clauses limiting royal power. Its most famous provisions: no free man shall be imprisoned except by lawful judgment of his peers and the law of the land; justice shall not be sold, denied, or delayed. John immediately repudiated it and died the following year while the ensuing civil war was still in progress. But Magna Carta was reissued repeatedly by his successors and became the cornerstone of the English constitutional tradition — the founding document of limited government and individual rights.",
+      "tags": [
+        "British",
+        "English",
+        "Plantagenet",
+        "Law",
+        "Foundation",
+        "Reform",
+        "Political",
+        "King"
+      ],
+      "geo": [
+        [
+          -0.57,
+          51.44
+        ]
+      ]
+    },
+    {
+      "date": "01.01.1220",
+      "era": "AD",
+      "type": "cultural",
+      "name": "Oxford and Cambridge — the birth of English universities",
+      "description": "Oxford had been a centre of learning since the late eleventh century, but it became a formal university following a dispersion of English students from Paris around 1167. Cambridge developed from a 1209 dispersion of scholars from Oxford after a town-gown riot. By the mid-thirteenth century both had the basic architecture of a university: halls of residence, formal faculties, and the right to grant degrees. They were part of the Europe-wide university revolution that also produced Bologna, Paris, and Padua. In England they were unique: the only universities for five centuries, monopolising learned education and placing their alumni in every major institution of church and state. Roger Bacon lectured at Oxford; John Duns Scotus studied there; William of Ockham taught there. The intellectual culture they created — disputational, text-based, logically rigorous — shaped English thought for centuries.",
+      "tags": [
+        "British",
+        "English",
+        "Culture",
+        "Science",
+        "Foundation",
+        "Literature",
+        "Text"
+      ],
+      "geo": [
+        [
+          -1.26,
+          51.75
+        ]
+      ]
+    },
+    {
+      "date": "01.01.1258",
+      "era": "AD",
+      "type": "political",
+      "name": "Provisions of Oxford — barons create England's first Parliament",
+      "description": "Henry III's long reign (1216–1272) was marked by political incapacity and financial crisis. To pay for a failed campaign to win the Sicilian throne for his son, he demanded extraordinary taxation. In 1258 the barons, led by Simon de Montfort, Earl of Leicester, forced him to accept the Provisions of Oxford — a plan of government that created a permanent council of fifteen barons to oversee royal administration, with Parliament meeting three times a year. For the first time in English history, 'Parliament' (the word is from the French for 'speaking') was defined as a regular constitutional institution rather than an occasional royal convenience. When Henry renounced the Provisions, de Montfort led a rebellion, defeated and captured the king at Lewes in 1264, and in 1265 summoned what historians call the first 'representative' Parliament, including knights from the shires and burgesses from the towns alongside the barons.",
+      "tags": [
+        "British",
+        "English",
+        "Plantagenet",
+        "Law",
+        "Parliament",
+        "Reform",
+        "Political",
+        "Foundation"
+      ],
+      "geo": [
+        [
+          -1.26,
+          51.75
+        ]
+      ]
+    },
+    {
+      "date": "04.08.1265",
+      "era": "AD",
+      "type": "military",
+      "name": "Battle of Evesham — Simon de Montfort falls, but Parliament survives",
+      "description": "Simon de Montfort's experiment in representative government lasted less than a year. Henry III's son, the future Edward I, conducted a brilliantly executed campaign to free his father and destroy the baronial coalition. At the Battle of Evesham on 4 August 1265, de Montfort was surrounded, defeated, and killed. His body was mutilated by royalist soldiers — his hands, feet, and head cut off and sent as trophies to baronial wives who had supported the rebellion. Henry was restored to full power. But what de Montfort had created could not be unmade: the idea that Parliament — including commoners, not just barons — should have a role in royal governance had been demonstrated. When Edward I wished to raise taxes, he summoned Parliament and asked for consent. The institution survived its creator's death.",
+      "tags": [
+        "British",
+        "English",
+        "Plantagenet",
+        "War",
+        "Battle",
+        "Political",
+        "Parliament",
+        "Crisis"
+      ],
+      "geo": [
+        [
+          -1.95,
+          52.1
+        ]
+      ]
+    },
+    {
+      "date": "01.01.1272",
+      "era": "AD",
+      "type": "political",
+      "name": "Edward I — Hammer of the Scots, conqueror of Wales, legislator of England",
+      "description": "Edward I (1272–1307) was the most formidable medieval English king since Henry II. In law he was the 'English Justinian': his statutes — the Statute of Westminster, the Statute of Gloucester, Quia Emptores — reorganised land tenure, criminal procedure, and local government in ways that lasted for centuries. He summoned the 'Model Parliament' of 1295, which established the representative structure (lords, clergy, knights and burgesses) that became standard. He completed the conquest of Wales in 1282–1283, executing its last independent prince Llywelyn ap Gruffudd and beginning the building of the most sophisticated castle network in medieval Europe — Caernarfon, Conwy, Harlech, Beaumaris. He imposed the Statute of Rhuddlan, governing Wales with English law. He expelled the Jews from England in 1290, the longest-lasting expulsion of any medieval European kingdom (they were not readmitted until 1656).",
+      "tags": [
+        "British",
+        "English",
+        "Plantagenet",
+        "King",
+        "Law",
+        "Reform",
+        "Parliament",
+        "Political"
+      ],
+      "geo": [
+        [
+          -0.09,
+          51.5
+        ]
+      ]
+    },
+    {
+      "date": "01.01.1282",
+      "era": "AD",
+      "type": "military",
+      "name": "Conquest of Wales — the last native princes fall",
+      "description": "Llywelyn ap Gruffudd, Prince of Wales, had been recognised by the Treaty of Montgomery in 1267 as the sovereign prince of the other Welsh lords — the high point of Welsh political independence. His refusal to pay homage to Edward I and his brother Dafydd's rebellion in 1282 gave Edward the pretext for a definitive campaign. Llywelyn was killed in a skirmish near Builth Wells in December 1282 — his identity not recognised until after his head had been cut off. His brother Dafydd was captured in 1283 and executed with a cruelty reserved for traitors: hanged, disembowelled while still alive, beheaded, and quartered. Edward imposed direct English rule and began his ring of concentric castles to hold the country. In 1301 he created his son Prince of Wales — a title held by the English heir to the throne ever since.",
+      "tags": [
+        "British",
+        "English",
+        "Welsh",
+        "Plantagenet",
+        "War",
+        "Conquest",
+        "Military",
+        "King"
+      ],
+      "geo": [
+        [
+          -3.5,
+          52.5
+        ]
+      ]
+    },
+    {
+      "date": "11.09.1297",
+      "era": "AD",
+      "type": "military",
+      "name": "Battle of Stirling Bridge — William Wallace humiliates England",
+      "description": "When Edward I attempted to impose direct English rule on Scotland following a succession dispute, the Scottish nobility's initial submission concealed a deeper resistance. William Wallace, a knight of modest origin, emerged as the leader of a popular rising. On 11 September 1297, at Stirling Bridge, Wallace and Andrew de Moray lured the English army across a narrow wooden bridge over the Forth, then attacked while it was split. The English treasurer Hugh de Cressingham was killed; Wallace had his skin flayed and made into a sword belt. It was one of the most complete Scottish victories in the Anglo-Scottish wars and made Wallace a national hero. Edward's response was to return to Scotland personally, defeat Wallace at Falkirk in 1298, and pursue him with unrelenting ferocity until his capture in 1305, followed by execution — hanged, drawn, and quartered — at Smithfield, London.",
+      "tags": [
+        "British",
+        "Scottish",
+        "English",
+        "Plantagenet",
+        "War",
+        "Battle",
+        "Invasion",
+        "Independence"
+      ],
+      "geo": [
+        [
+          -3.94,
+          56.12
+        ]
+      ]
+    },
+    {
+      "date": "24.06.1314",
+      "era": "AD",
+      "type": "military",
+      "name": "Battle of Bannockburn — Scotland wins its independence",
+      "description": "Robert the Bruce had reassembled Scottish resistance after Wallace's execution, crowned himself King of Scots in 1306, and waged a patient guerrilla war that gradually recaptured Scottish castles from English garrisons. When Stirling Castle — the last major English-held stronghold in Scotland — was threatened, Edward II was obliged to march north with a large army to relieve it. At Bannockburn on 23–24 June 1314, Robert the Bruce's smaller Scottish force, using the terrain and disciplined schiltron formations of spearmen, destroyed the English army comprehensively. Edward II fled the battlefield on horseback, abandoning his baggage train. Bannockburn did not immediately end the war, but it made Scottish independence effectively irreversible. The Declaration of Arbroath in 1320 — a letter from the Scottish nobility to the Pope asserting Scotland's sovereignty — is among the most eloquent statements of national independence in history.",
+      "tags": [
+        "British",
+        "Scottish",
+        "English",
+        "Plantagenet",
+        "War",
+        "Battle",
+        "Independence",
+        "King"
+      ],
+      "geo": [
+        [
+          -3.94,
+          56.09
+        ]
+      ]
+    },
+    {
+      "date": "01.01.1327",
+      "era": "AD",
+      "type": "political",
+      "name": "Edward II deposed — Parliament removes a king for the first time",
+      "description": "Edward II was one of England's most disastrous medieval kings: he lost Scotland at Bannockburn, was dominated by court favourites (Piers Gaveston, then the Despensers), suffered baronial rebellion, and finally faced invasion by his own queen. Isabella of France, Edward's wife, allied with her lover Roger Mortimer, invaded England from the continent in 1326 with a small force. The king's support collapsed. Parliament was convened in January 1327 and, for the first time in English history, formally deposed a reigning king — resolving the constitutional question of what to do with an incompetent monarch. Edward was forced to abdicate in favour of his fourteen-year-old son. He was imprisoned at Berkeley Castle and murdered there in September 1327, reportedly by a red-hot iron inserted internally — a punishment with symbolic intent. The precedent of parliamentary deposition would be used again against Richard II in 1399.",
+      "tags": [
+        "British",
+        "English",
+        "Plantagenet",
+        "King",
+        "Political",
+        "Parliament",
+        "Crisis",
+        "Overthrow"
+      ],
+      "geo": [
+        [
+          -2.47,
+          51.69
+        ]
+      ]
+    },
+    {
+      "date": "26.08.1346",
+      "era": "AD",
+      "type": "military",
+      "name": "Battle of Crécy — England's longbowmen revolutionise warfare",
+      "description": "The Hundred Years' War between England and France, which broke out formally in 1337 when Edward III claimed the French throne, produced its first decisive battle at Crécy on 26 August 1346. Edward III landed in Normandy, raided deep into France, and turned to fight on ground of his choosing. The French cavalry charged repeatedly against the English position. The English longbowmen — armed with the six-foot yew bow capable of 10–12 aimed shots per minute and penetrating plate armour at close range — destroyed each charge. Estimates of French dead reach 1,500 knights and up to 10,000 men. The Genoese crossbowmen hired by France were outranged and outpaced by the English bowmen. Crécy demonstrated that the mounted knight was no longer the supreme military instrument: disciplined infantry with missile weapons could defeat cavalry. It was one of the pivotal battles in the history of warfare.",
+      "tags": [
+        "British",
+        "English",
+        "Plantagenet",
+        "War",
+        "Battle",
+        "Military",
+        "Innovation",
+        "Expansion"
+      ],
+      "geo": [
+        [
+          1.88,
+          50.25
+        ]
+      ]
+    },
+    {
+      "date": "01.06.1348",
+      "era": "AD",
+      "type": "historic",
+      "name": "Black Death reaches England — half the population dies",
+      "description": "The Black Death reached the port of Weymouth in June 1348 and spread through England with devastating speed. By the end of 1349 it had reached Scotland. Contemporary estimates, borne out by modern demographic analysis, suggest that between a third and half of England's population died within two years — perhaps 2 to 2.5 million people out of a population of 4 to 6 million. Entire villages were abandoned. The chronicler Henry Knighton wrote that 'so great a plague has never been heard of from the beginning of the world to the present day.' The labour shortage that followed transformed the English economy: peasants who survived could demand higher wages and better conditions, rents fell, and the economic foundation of serfdom began to crack. The catastrophe fractured the social order that had been stable since the Norman Conquest, making the Peasants' Revolt of 1381 and the general dissolution of villeinage almost inevitable.",
+      "tags": [
+        "British",
+        "English",
+        "Crisis",
+        "Plague",
+        "Decline",
+        "Death",
+        "Economic",
+        "History"
+      ],
+      "geo": [
+        [
+          -2.45,
+          50.61
+        ]
+      ]
+    },
+    {
+      "date": "01.01.1349",
+      "era": "AD",
+      "type": "cultural",
+      "name": "Order of the Garter — Edward III invents English chivalry",
+      "description": "In 1348, amid the Black Death, Edward III founded the Order of the Garter — England's highest order of chivalry, limited to the sovereign and 25 knight companions. The legend of its founding involves a lady's garter falling at a royal ball; Edward picked it up and tied it to his own leg, saying 'Honi soit qui mal y pense' — 'Shame on him who thinks evil of it.' Whatever the origin of the motto, the Order was a deliberate act of cultural politics: it connected the English crown to the Arthurian legend (the Round Table concept), it bound the greatest nobles of England and visiting foreign rulers to the king in an exclusive brotherhood, and it elevated English knighthood to the same ceremonial dignity as French and Burgundian chivalry. St George's Chapel at Windsor, where the Order meets, was rebuilt by Edward as its home. The Order of the Garter is still awarded today.",
+      "tags": [
+        "British",
+        "English",
+        "Plantagenet",
+        "Culture",
+        "King",
+        "Legend",
+        "Foundation",
+        "Golden Age"
+      ],
+      "geo": [
+        [
+          -0.61,
+          51.48
+        ]
+      ]
+    },
+    {
+      "date": "01.01.1370",
+      "era": "AD",
+      "type": "cultural",
+      "name": "Geoffrey Chaucer — the English language finds its voice",
+      "description": "Geoffrey Chaucer (c.1343–1400) was the first great poet to write in Middle English rather than Latin or French, and in doing so established English as a literary language worthy of serious art. His Canterbury Tales — a collection of stories told by pilgrims travelling to Becket's shrine, written in the 1380s and 1390s — encompasses comedy, tragedy, romance, and satire, and draws on sources from classical antiquity, Italian literature (Boccaccio especially), and English street life simultaneously. His Troilus and Criseyde is the first great English novel in verse. Chaucer's English was the London dialect, which became the prestige form partly because of his example. He worked as a customs official, a diplomat, and a courtier; his literary career was a sideline. He created English literature almost as an afterthought to a civil service career.",
+      "tags": [
+        "British",
+        "English",
+        "Culture",
+        "Literature",
+        "Language",
+        "Text",
+        "Golden Age"
+      ],
+      "geo": [
+        [
+          -0.09,
+          51.5
+        ]
+      ]
+    },
+    {
+      "date": "01.01.1377",
+      "era": "AD",
+      "type": "religious",
+      "name": "John Wycliffe and the Lollards — the first english reformation",
+      "description": "John Wycliffe, an Oxford theologian, produced in the 1370s and 1380s a systematic critique of papal authority and clerical wealth that anticipated the Protestant Reformation by 150 years. He argued that the church had no right to own property, that the Bible was the sole authority in religious matters, and that transubstantiation — the doctrine that bread and wine become the actual body and blood of Christ — was philosophically incoherent. He oversaw the first complete translation of the Bible into English. His followers, called Lollards by their opponents (from a Dutch word for 'mumbler'), spread his ideas through itinerant preaching. After his death in 1384 his teachings were condemned as heresy, his bones exhumed and burned. But Lollardy survived underground, and when the Continental Reformation arrived in England a century later, it found an existing tradition of vernacular Bible reading and anti-clerical sentiment to build on.",
+      "tags": [
+        "British",
+        "English",
+        "Religious",
+        "Reform",
+        "Christian",
+        "Text",
+        "Crisis",
+        "Rebellion"
+      ],
+      "geo": [
+        [
+          -1.26,
+          51.75
+        ]
+      ]
+    },
+    {
+      "date": "15.06.1381",
+      "era": "AD",
+      "type": "political",
+      "name": "Peasants' Revolt — England's first mass political uprising",
+      "description": "The Peasants' Revolt of 1381 was the largest popular uprising in English medieval history. Triggered by a poll tax — a flat levy on every adult regardless of wealth, the third in four years — it began in Essex and Kent and rapidly engulfed London. The rebel leaders Wat Tyler and John Ball led a march on the capital; the fourteen-year-old Richard II met them at Mile End and agreed to their demands: the abolition of serfdom and labour services, a general pardon, and freedom of trade. While negotiations continued, rebels broke into the Tower of London and executed the Archbishop of Canterbury and the Treasurer. At a second meeting at Smithfield, Tyler was killed in a confrontation with the Mayor of London; Richard rode forward and told the rebels: 'You shall have no captain but me.' The revolt collapsed. The promises were revoked. But serfdom never fully recovered; the economic forces the Black Death had set in motion could not be stopped by royal decree.",
+      "tags": [
+        "British",
+        "English",
+        "Plantagenet",
+        "Rebellion",
+        "Political",
+        "Crisis",
+        "Reform",
+        "Law"
+      ],
+      "geo": [
+        [
+          -0.09,
+          51.5
+        ]
+      ]
+    },
+    {
+      "date": "01.01.1388",
+      "era": "AD",
+      "type": "political",
+      "name": "Richard II and the Lords Appellant — crisis of royal authority",
+      "description": "Richard II (1377–1399) began his reign as a child during his grandfather Edward III's decline and the Peasants' Revolt, and never escaped the sense that his authority was conditional and contested. In 1386–1388 a group of powerful magnates called the Lords Appellant seized control of the government, executed or exiled his favourites, and reduced him to a constitutional figurehead. Richard bided his time, reasserted his authority in the 1390s, and then overreached catastrophically: he arrested and executed the Appellants, exiled his cousin Henry Bolingbroke, and on John of Gaunt's death seized the Lancastrian estates. Henry returned from exile in 1399 with a small force; Richard's support collapsed. Deposed by Parliament — the second English king to be removed by Parliament — Richard was imprisoned and died in captivity, probably of starvation. Henry IV, the first Lancastrian king, began a dynasty that would rule England for sixty years.",
+      "tags": [
+        "British",
+        "English",
+        "Plantagenet",
+        "King",
+        "Political",
+        "Crisis",
+        "Parliament",
+        "Overthrow"
+      ],
+      "geo": [
+        [
+          -0.09,
+          51.5
+        ]
+      ]
+    },
+    {
+      "date": "25.10.1415",
+      "era": "AD",
+      "type": "military",
+      "name": "Battle of Agincourt — Henry V and the impossible victory",
+      "description": "On 25 October 1415, St Crispin's Day, Henry V's army of perhaps 6,000 men — exhausted, sick with dysentery, vastly outnumbered — defeated a French army of 12,000 to 36,000 at Agincourt. The English longbowmen, positioned between two woods that constricted the French advance, cut down the heavily armoured French knights in the mud. When French infantry briefly threatened the English line, Henry ordered his prisoners killed — a shocking act that he defended by pointing to a flank attack that never fully materialised. The battle became the supreme expression of English military mythology: the plucky English yeoman, standing with his king, defeating the overwhelming might of France. Shakespeare's Henry V, written nearly two centuries later, is still the lens through which Agincourt is viewed. In political terms, Agincourt forced France to negotiate; the Treaty of Troyes in 1420 made Henry heir to the French throne.",
+      "tags": [
+        "British",
+        "English",
+        "Lancaster",
+        "War",
+        "Battle",
+        "King",
+        "Military",
+        "Invasion"
+      ],
+      "geo": [
+        [
+          2.13,
+          50.46
+        ]
+      ]
+    },
+    {
+      "date": "21.05.1420",
+      "era": "AD",
+      "type": "political",
+      "name": "Treaty of Troyes — Henry V heir to France",
+      "description": "The Treaty of Troyes, signed on 21 May 1420, was the high-water mark of English power in France. Henry V married Catherine of Valois, daughter of the French king Charles VI, and was recognised as regent of France and heir to the French throne — disinheriting the Dauphin Charles. The dual monarchy of England and France seemed within reach. Henry and Charles both died in 1422, leaving an infant — Henry VI — as king of both kingdoms simultaneously. The dual monarchy proved unworkable: the French, inspired by Joan of Arc, rallied behind the Dauphin. By 1453 England had lost virtually all its French territories. The entire strategic achievement of Henry V's reign, the greatest military and diplomatic success of any English medieval king, was undone within thirty years of his death by the weakness of his successor.",
+      "tags": [
+        "British",
+        "English",
+        "Lancaster",
+        "King",
+        "Diplomacy",
+        "Treaty",
+        "Political",
+        "Expansion"
+      ],
+      "geo": [
+        [
+          3.7,
+          48.3
+        ]
+      ]
+    },
+    {
+      "date": "01.01.1429",
+      "era": "AD",
+      "type": "military",
+      "name": "Joan of Arc breaks the siege of Orléans — England loses France",
+      "description": "The English siege of Orléans in 1428–1429 was the hinge point of the Hundred Years' War. If Orléans fell, the Dauphin Charles's claim to southern France would collapse. Joan of Arc, a peasant girl from Lorraine who claimed to hear the voices of saints commanding her to save France, somehow convinced the Dauphin to give her an army. She led the relief of Orléans in May 1429, personally directing artillery operations and leading charges. Within two months she had achieved the coronation of Charles VII at Reims. She was captured by the Burgundians in 1430, sold to the English, tried for heresy, and burned at the stake at Rouen in 1431. But the momentum she had created continued: the French progressively recaptured their territory, and by 1453 — when Bordeaux finally fell — England retained only Calais. The Hundred Years' War ended in total French victory.",
+      "tags": [
+        "British",
+        "English",
+        "Lancaster",
+        "War",
+        "Battle",
+        "Crisis",
+        "Decline",
+        "French"
+      ],
+      "geo": [
+        [
+          1.9,
+          47.9
+        ]
+      ]
+    },
+    {
+      "date": "01.01.1450",
+      "era": "AD",
+      "type": "cultural",
+      "name": "English becomes the language of government and law",
+      "description": "For nearly four centuries after the Norman Conquest, England was governed in Latin and French: royal writs, court proceedings, parliamentary debates, and legal pleadings were conducted in languages most English people could not understand. The shift to English as the primary administrative and legal language was gradual: parliamentary rolls began appearing in English in the 1420s, Henry V corresponded in English, and by 1450 English had effectively replaced French in government business. The change reflected the demographic reality of a country where French-speaking Normans had long since merged with the English population, and the political reality of the Hundred Years' War, which made French the enemy's language. The resulting Middle English of the fifteenth century — no longer Old English but not yet Shakespeare — was forming the bridge between Chaucer and the early modern period.",
+      "tags": [
+        "British",
+        "English",
+        "Culture",
+        "Language",
+        "Law",
+        "Administration",
+        "Political"
+      ],
+      "geo": [
+        [
+          -0.09,
+          51.5
+        ]
+      ]
+    },
+    {
+      "date": "22.05.1455",
+      "era": "AD",
+      "type": "military",
+      "name": "First Battle of St Albans — the Wars of the Roses begin",
+      "description": "The Wars of the Roses — the dynastic civil war between the House of Lancaster (red rose) and the House of York (white rose) — was the direct consequence of Henry V's premature death leaving an infant king. Henry VI suffered bouts of mental incapacity — he went entirely catatonic for eighteen months in 1453–1455 — that left a power vacuum filled by competing nobles. The First Battle of St Albans on 22 May 1455, when the Yorkist Richard Duke of York defeated the Lancastrian army and killed the Duke of Somerset in the street, is conventionally identified as the start of the conflict, though sustained warfare did not begin until 1459. The wars saw the English nobility destroy itself in factional fighting: by 1485 perhaps a third of the peerage had been killed in battle or executed. The real losers were the older nobility; the winner was the Tudor monarchy that emerged from the ashes with no powerful rivals left.",
+      "tags": [
+        "British",
+        "English",
+        "Lancaster",
+        "York",
+        "War",
+        "Battle",
+        "Civil War",
+        "Dynasty"
+      ],
+      "geo": [
+        [
+          -0.34,
+          51.75
+        ]
+      ]
+    },
+    {
+      "date": "04.03.1461",
+      "era": "AD",
+      "type": "political",
+      "name": "Edward IV — York seizes the crown",
+      "description": "Edward of York, son of the Duke of York killed at the Battle of Wakefield, defeated the Lancastrian army at Mortimer's Cross in February 1461 and entered London, where Parliament declared Henry VI deposed and Edward king. He then annihilated the largest Lancastrian army in the bloodiest battle of the Wars of the Roses at Towton on 29 March 1461 — fought in a snowstorm, with an estimated 20,000–28,000 men killed, a larger proportion of the English male population than died in any First World War battle. Henry VI was captured and imprisoned. Edward IV proved a capable king: he restored royal finances, patronised trade and the arts, and ended the war. But he interrupted his own reign spectacularly — driven out by the Earl of Warwick in 1470, he returned to recapture the throne in 1471, killing Warwick at Barnet and destroying the last Lancastrian army at Tewkesbury.",
+      "tags": [
+        "British",
+        "English",
+        "York",
+        "Lancaster",
+        "King",
+        "War",
+        "Battle",
+        "Political"
+      ],
+      "geo": [
+        [
+          -0.09,
+          51.5
+        ]
+      ]
+    },
+    {
+      "date": "01.01.1476",
+      "era": "AD",
+      "type": "cultural",
+      "name": "Caxton's printing press — England enters the age of print",
+      "description": "William Caxton, an English merchant who had learned printing in Cologne and Bruges, set up the first printing press in England at Westminster in 1476. His first publication was Chaucer's Canterbury Tales. Within his lifetime he had printed over 100 books — histories, romances, religious texts, and the first major English prose work, his own translation of Raoul le Fèvre's Recuyell of the Historyes of Troye. Caxton made the conscious decision to print in the London English dialect, which both reflected and reinforced its status as the standard written form of the language. The printing press arrived in England during the Wars of the Roses — a time of political chaos — but its long-term consequences were revolutionary: cheaper books, wider literacy, the standardisation of English spelling and grammar, and within fifty years the ability to spread Protestant ideas faster than any church could suppress them.",
+      "tags": [
+        "British",
+        "English",
+        "Culture",
+        "Literature",
+        "Innovation",
+        "Language",
+        "Text",
+        "Foundation"
+      ],
+      "geo": [
+        [
+          -0.13,
+          51.5
+        ]
+      ]
+    },
+    {
+      "date": "01.01.1483",
+      "era": "AD",
+      "type": "political",
+      "name": "The princes in the Tower — Richard III and the darkest mystery",
+      "description": "When Edward IV died unexpectedly in April 1483, his twelve-year-old son Edward V was to be crowned king. His uncle Richard of Gloucester, named Lord Protector, intercepted the boy on his way to London, arrested his maternal Woodville relatives, and installed Edward and his younger brother Richard in the Tower of London — ostensibly for their own protection. Richard then convened a council that declared Edward IV's marriage invalid and his children illegitimate; Parliament endorsed this, and Richard was crowned Richard III in July 1483. The two princes were never seen again. Whether they were murdered — and if so, on whose orders — remains the most debated crime in English history. Richard III governed capable and not obviously tyrannically for two years, but the cloud of the princes' disappearance, combined with the Yorkist splits his usurpation caused, left him vulnerable.",
+      "tags": [
+        "British",
+        "English",
+        "York",
+        "King",
+        "Political",
+        "Crisis",
+        "Death",
+        "Dynasty"
+      ],
+      "geo": [
+        [
+          -0.08,
+          51.51
+        ]
+      ]
+    },
+    {
+      "date": "22.08.1485",
+      "era": "AD",
+      "type": "military",
+      "name": "Battle of Bosworth Field — the Plantagenets end, the Tudors begin",
+      "description": "Henry Tudor, a Lancastrian claimant with a Welsh grandfather (Owen Tudor, who had married Catherine of Valois, widow of Henry V), landed in Wales in August 1485 with a small French-backed force. He marched through Wales gathering support, and met Richard III's larger army at Bosworth Field in Leicestershire on 22 August. The battle was decided by treachery: the Stanley family, nominally supporting Richard, held their forces back until the critical moment, then attacked Richard's flank when he made a cavalry charge toward Henry. Richard III was unhorsed and killed — the last English king to die in battle. His crown, found under a hawthorn bush, was placed on Henry's head on the battlefield. Henry VII married Edward IV's daughter Elizabeth of York, uniting the red and white roses. The Plantagenet era, which had produced England's common law, its Parliament, Magna Carta, and its greatest medieval kings, was over.",
+      "tags": [
+        "British",
+        "English",
+        "Lancaster",
+        "York",
+        "Plantagenet",
+        "War",
+        "Battle",
+        "King",
+        "Foundation"
+      ],
+      "geo": [
+        [
+          -1.39,
+          52.6
+        ]
+      ]
+    }
+  ]
+}
