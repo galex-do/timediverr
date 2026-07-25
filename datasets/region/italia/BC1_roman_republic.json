@@ -724,7 +724,7 @@
         "Roman",
         "War",
         "Legend",
-        "Citizen"
+        "Duty"
       ],
       "type": "political"
     },
@@ -2308,7 +2308,7 @@
       "source": "https://en.wikipedia.org/wiki/Cato_the_Elder",
       "tags": [
         "Roman",
-        "Citizen",
+        "Duty",
         "Political",
         "Populism"
       ],
@@ -2695,6 +2695,23 @@
     },
     {
       "date": "01.01.0123",
+      "description": "Quintus Caecilius Metellus conquered the island, exterminating the pirates. The cities of Palma and Pollentia (modern Alcudia) were founded. The Romans brought olives and grapes to the island and gradually replaced the Talaiotic culture that originally existed on the island.",
+      "description_ru": "Квинт Цецилий Метелл завоевал остров, истребив пиратов. Были основаны города Пальма и Полленция (современная Алькудия). Римляне привезли на остров оливы и виноград, и постепенно заместили изначально существовавшую на острове талайотскую культуру",
+      "era": "BC",
+      "latitude": 39.58029027,
+      "longitude": 2.64358521,
+      "name": "The capture of Mallorca by Rome",
+      "name_ru": "Захват Майорки Римом",
+      "tags": [
+        "Roman",
+        "Conquest",
+        "Expansion",
+        "Piracy"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0123",
       "description": "Gaius Gracchus, brother of Tiberius, becomes tribune and enacts sweeping reforms: subsidized grain for Romans, jury reform to break senatorial corruption, road building, and colonial foundations. After two terms, he is declared a public enemy and killed with 3,000 supporters.",
       "description_ru": "Гай Гракх, брат Тиберия, становится трибуном и проводит еще более радикальные реформы, чем брат: субсидированное зерно для римлян, судебная реформа для борьбы с сенаторской коррупцией, строительство дорог и основание колоний. Его работа подрывала влияние Сената и аристократии. После двух сроков Гая и тысячи его последователей объявили врагами государства и стали их убивать без суда.",
       "era": "BC",
@@ -2714,23 +2731,6 @@
         "Senate"
       ],
       "type": "political"
-    },
-    {
-      "date": "01.01.0123",
-      "description": "Quintus Caecilius Metellus conquered the island, exterminating the pirates. The cities of Palma and Pollentia (modern Alcudia) were founded. The Romans brought olives and grapes to the island and gradually replaced the Talaiotic culture that originally existed on the island.",
-      "description_ru": "Квинт Цецилий Метелл завоевал остров, истребив пиратов. Были основаны города Пальма и Полленция (современная Алькудия). Римляне привезли на остров оливы и виноград, и постепенно заместили изначально существовавшую на острове талайотскую культуру",
-      "era": "BC",
-      "latitude": 39.58029027,
-      "longitude": 2.64358521,
-      "name": "The capture of Mallorca by Rome",
-      "name_ru": "Захват Майорки Римом",
-      "tags": [
-        "Roman",
-        "Conquest",
-        "Expansion",
-        "Piracy"
-      ],
-      "type": "military"
     },
     {
       "date": "01.01.0121",
@@ -2893,6 +2893,26 @@
     },
     {
       "date": "01.01.0100",
+      "description": "Tribune Saturninus proposes radical land reforms for Marius's veterans, using violence to pass legislation. When Saturninus murders a political rival, Marius reluctantly enforces the senatus consultum ultimum against his own ally, who is killed by a mob.",
+      "description_ru": "Политический кризис усиливается. Трибун Сатурнин предлагает радикальные реформы для ветеранов Мария, применяя насилие для принятия законов. Когда люди Сатурнина убивают на выборах кандидата от оппозиции, Марий неохотно исполняет чрезвычайный указ Сената, арестовывая Сатурнина. Марию не удается скрыть своего союзника от толпы, и Сатурнина забивают камнями",
+      "era": "BC",
+      "latitude": 41.89318911,
+      "longitude": 12.48506606,
+      "name": "Violence of Saturninus",
+      "name_ru": "Насилие трибуна Сатурнина",
+      "source": "https://en.wikipedia.org/wiki/Lucius_Appuleius_Saturninus",
+      "tags": [
+        "Roman",
+        "Crisis",
+        "Marius 👤",
+        "Murder",
+        "Outrage",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0100",
       "description": "The scorpio becomes a standard Roman precision weapon — a smaller ballista operated by 1-2 men, accurate at 100 meters and deadly at 400 meters parabolic fire. Each legion deploys 60 scorpiones, one per century. Caesar praises its 'terrifying precision' at the siege of Avaricum. It serves as ancient Rome's 'sniper rifle.'",
       "description_ru": "Скорпион, унаследованный от греков, становится стандартом дальнего боя в армии Рима — уменьшенная баллиста под управлением 1-2 человек, точная на 100 метров и смертельная на 400 метрах навесного огня. Каждый легион имеет 60 скорпионов, по одному на центурию. Это античная 'снайперская винтовка' Рима.",
       "era": "BC",
@@ -2911,26 +2931,6 @@
         "Tactics"
       ],
       "type": "historic"
-    },
-    {
-      "date": "01.01.0100",
-      "description": "Tribune Saturninus proposes radical land reforms for Marius's veterans, using violence to pass legislation. When Saturninus murders a political rival, Marius reluctantly enforces the senatus consultum ultimum against his own ally, who is killed by a mob.",
-      "description_ru": "Политический кризис усиливается. Трибун Сатурнин предлагает радикальные реформы для ветеранов Мария, применяя насилие для принятия законов. Когда люди Сатурнина убивают на выборах кандидата от оппозиции, Марий неохотно исполняет чрезвычайный указ Сената, арестовывая Сатурнина. Марию не удается скрыть своего союзника от толпы, и Сатурнина забивают камнями",
-      "era": "BC",
-      "latitude": 41.89318911,
-      "longitude": 12.48506606,
-      "name": "Violence of Saturninus",
-      "name_ru": "Насилие трибуна Сатурнина",
-      "source": "https://en.wikipedia.org/wiki/Lucius_Appuleius_Saturninus",
-      "tags": [
-        "Roman",
-        "Crisis",
-        "Marius 👤",
-        "Murder",
-        "Outrage",
-        "Political"
-      ],
-      "type": "political"
     },
     {
       "date": "01.01.0093",
@@ -3531,6 +3531,27 @@
       "type": "military"
     },
     {
+      "date": "01.01.0055",
+      "description": "During a period of Roman civil wars and regular coups, Lucretius wrote a hymn to materialism and science. In his poem, he explains that the world consists of atoms and void, the gods care nothing for people, and the soul does not exist after death. Explaining physics, cosmology, and psychology, Lucretius attempts to reconcile Roman citizens with the chaos unfolding around them. The formula \"Death is nothing to us\" (in Latin: Nil igitur mors est ad nos) is the central thesis of his Epicurean philosophy. While we exist, death does not exist; when it exists, we no longer exist.",
+      "description_ru": "В период гражданских войн Рима и регулярных переворотов Лукреций создаёт гимн материализму и науке. В своей поэме он поясняет, что мир состоит из атомов и пустоты, богам нет дела до людей, а души после смерти не существует. Объясняя физику, космологию и психологию, Лукреций старается примирить римских граждан с хаосом, творящимся вокруг. Формула «Смерть для нас — ничто» (на латыни: Nil igitur mors est ad nos) — это главный тезис его эпикурейской философии. Пока мы есть, смерти нет; когда она есть, нас уже нет.",
+      "era": "BC",
+      "latitude": 41.25529894,
+      "longitude": 13.6004734,
+      "name": "Lucretius Carus writes De rerum natura",
+      "name_ru": "Лукреций Кар пишет \"О природе вещей\"",
+      "tags": [
+        "Roman",
+        "Cosmology",
+        "Culture",
+        "Literature",
+        "Philosophy",
+        "Physics",
+        "Poetry",
+        "Text"
+      ],
+      "type": "cultural"
+    },
+    {
       "date": "15.08.0054",
       "description": "Julia, daughter of Caesar and wife of Pompey, dies in childbirth. Her death removes the personal bond between her father and husband. The infant also dies. The First Triumvirate begins to unravel.",
       "description_ru": "Юлия, дочь Цезаря и жена Помпея, умирает при родах. Её смерть разрывает личную связь между отцом и мужем. Младенец тоже умирает. Первый триумвират начинает распадаться.",
@@ -3608,27 +3629,6 @@
     },
     {
       "date": "01.01.0052",
-      "description": "Clodius is murdered by Milo's gang on the Via Appia. Pompey is appointed sole consul — unprecedented — to restore order, marking his drift from Caesar toward the Senate.",
-      "description_ru": "Клодий убит бандой Милона на Аппиевой дороге. Помпей назначен единственным консулом для восстановления порядка (в республике никогда не было одного консула). Помпей и Цезарь оказались по разные стороны баррикад",
-      "era": "BC",
-      "latitude": 41.85,
-      "longitude": 12.5,
-      "name": "Murder of Clodius",
-      "name_ru": "Убийство трибуна Клодия",
-      "source": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher",
-      "tags": [
-        "Roman",
-        "Claudii",
-        "Crisis",
-        "Death",
-        "Murder",
-        "Political",
-        "Pompey the Great 👤"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.0052",
       "description": "The Gallic chieftain Vercingetorix unites the tribes in a massive revolt against Rome. After initial successes, he is besieged at Alesia where Caesar builds two rings of fortifications — one facing in, one facing out against a relief army of 250,000. Vercingetorix surrenders and is later executed in Rome.",
       "description_ru": "Галльский вождь Верцингеториг объединяет племена в массовом восстании против Рима. После первоначальных успехов он осаждён в Алезии, где Цезарь строит два кольца укреплений — одно внутрь, одно наружу против галльской армии поддержки. Верцингеториг сдаётся и позже казнён в Риме.",
       "era": "BC",
@@ -3647,6 +3647,27 @@
         "Siege"
       ],
       "type": "military"
+    },
+    {
+      "date": "01.01.0052",
+      "description": "Clodius is murdered by Milo's gang on the Via Appia. Pompey is appointed sole consul — unprecedented — to restore order, marking his drift from Caesar toward the Senate.",
+      "description_ru": "Клодий убит бандой Милона на Аппиевой дороге. Помпей назначен единственным консулом для восстановления порядка (в республике никогда не было одного консула). Помпей и Цезарь оказались по разные стороны баррикад",
+      "era": "BC",
+      "latitude": 41.85,
+      "longitude": 12.5,
+      "name": "Murder of Clodius",
+      "name_ru": "Убийство трибуна Клодия",
+      "source": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher",
+      "tags": [
+        "Roman",
+        "Claudii",
+        "Crisis",
+        "Death",
+        "Murder",
+        "Political",
+        "Pompey the Great 👤"
+      ],
+      "type": "political"
     },
     {
       "date": "01.07.0050",

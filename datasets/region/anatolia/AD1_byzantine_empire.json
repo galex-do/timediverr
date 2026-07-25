@@ -46,18 +46,20 @@
     },
     {
       "date": "22.06.0431",
-      "description": "The Third Ecumenical Council convenes at Ephesus to adjudicate the controversy over Patriarch Nestorius of Constantinople, who argued that Mary should be called 'Christotokos' (Christ-bearer) rather than 'Theotokos' (God-bearer), implying a problematic separation of Christ's divine and human natures. Cyril of Alexandria outmanoeuvres Nestorius, secures his condemnation and exile, and establishes Theotokos as binding doctrine before the eastern Syrian delegation even arrives. The Council fractures the church permanently: supporters of Nestorius establish the Church of the East, which carries Christianity through Persia, Central Asia, and as far as Tang Dynasty China — entirely outside Byzantine control.",
-      "description_ru": "Третий Вселенский Собор созывается в Эфесе для разрешения спора о Константинопольском патриархе Нестории, утверждавшем, что Марию следует называть «Христотокос», а не «Богородицей». Кирилл Александрийский добивается осуждения и ссылки Нестория и утверждает Theotokos обязательной доктриной. \n\nСобор навсегда раскалывает церковь: сторонники Нестория основывают Церковь Востока, распространившую христианство через Персию, Центральную Азию и Китай.",
+      "description": "The Third Ecumenical Council convenes in Ephesus to resolve the dispute over Patriarch Nestorius of Constantinople, who argued that Mary should be called \"Christotokos\" rather than \"Theotokos.\" Nestorius (Patriarch of Constantinople) maintained that Jesus was born as a human being, into whom the divine essence only later infused. The official church, however, maintained that in Christ, the divine and human natures were fused.\n\nCyril of Alexandria seeks the condemnation and exile of Nestorius and establishes the Theotokos as binding doctrine. The council splits the church: the Nestorians are expelled from Byzantium and flee to the East, where they found their own church, which spread Christianity through Persia, Central Asia, and China.",
+      "description_ru": "Третий Вселенский Собор созывается в Эфесе для разрешения спора о Константинопольском патриархе Нестории, утверждавшем, что Марию следует называть «Христотокос», а не «Богородицей». Несторий (патриарх Константинопольский) утверждал, что Иисус родился как человек, в которого лишь затем вселилась божественная сущность. Официальная церковь же утверждала, что в Христе божественная и человеческая природы слиты воедино.\n\nКирилл Александрийский добивается осуждения и ссылки Нестория и утверждает Theotokos обязательной доктриной. Собор раскалывает церковь: несторианцы изгнаны из Византии и бегут на Восток, где основывают свою церковь, распространившую христианство через Персию, Центральную Азию и Китай.",
       "era": "AD",
       "latitude": 37.94,
       "longitude": 27.34,
       "name": "Council of Ephesus",
-      "name_ru": "Эфесский собор",
+      "name_ru": "Эфесский собор и несторианство",
       "source": "https://en.wikipedia.org/wiki/First_Council_of_Ephesus",
       "tags": [
         "Byzantine",
         "Christian",
         "Council",
+        "Exile",
+        "Nestorian",
         "Religious",
         "Schism"
       ],

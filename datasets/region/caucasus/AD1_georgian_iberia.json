@@ -516,6 +516,7 @@
         "Battle",
         "Invasion",
         "Mongolian",
+        "Nomads",
         "Bagratid",
         "Georgian"
       ],
@@ -524,7 +525,7 @@
     {
       "date": "01.01.1236",
       "description": "Batu Khan's army entered Georgia in full force as part of the Mongol western offensive that followed the death of Genghis Khan in 1227. Tbilisi was sacked and largely destroyed; Queen Rusudan fled west—first to Kutaisi, then to Erzurum. Georgian resistance was stubborn but fragmented: the Mongols ravaged the plains, burned cities, and drove the population into the mountains. However, mountain monasteries and communities preserved Georgia's cultural and ecclesiastical heritage. By 1243, Rusudan officially surrendered and acknowledged vassal status under the Mongol Empire.\n\nGeorgia was subjugated by the Ilkhanate, a western Mongol state based in Persia. The subjugation was a political disaster: the unified kingdom disintegrated into rival branches of the Bagratid dynasty; The nobility regained the power that previous tsars had limited with difficulty, the population and economic potential fell sharply, and the territorial reach of Tamara's era was lost forever.",
-      "description_ru": "Армия Бату-хана вошла в Грузию в полном составе в рамках монгольского западного наступления, последовавшего после смерти Чингисхана в 1227 году. Тбилиси был разграблен и в значительной мере разрушен; царица Русудан бежала на запад — сначала в Кутаиси, затем в Эрзурум. Грузинское сопротивление было упорным, но разрозненным: монголы опустошали равнины, сжигали города и вытесняли население в горы — однако горные монастыри и общины сохранили культурное и церковное наследие Грузии. К 1243 году Русудан официально сдалась и признала вассальный статус под властью Монгольской империи.\n\nГрузия была подчинена Ильханату — западному монгольского государству, базировавшемуся в Персии. Подчинение было политической катастрофой: единое царство распалось на соперничающие ветви Багратидской династии; знать вернула себе власть, которую прежние цари с трудом ограничивали, население и экономический потенциал резко упали, а территориальный охват эпохи Тамары был утрачен безвозвратно.",
+      "description_ru": "Западная армия Батыя вошла в Грузию. Тбилиси был разграблен и в значительной мере разрушен; царица Русудан бежала на запад — сначала в Кутаиси, затем в Эрзурум. Грузинское сопротивление было упорным, но разрозненным: монголы опустошали равнины, сжигали города и вытесняли население в горы — однако горные монастыри и общины сохранили культурное и церковное наследие Грузии. К 1243 году Русудан официально сдалась и признала вассальный статус под властью Монгольской империи.\n\nГрузия была подчинена Ильханату — западному монгольского государству, базировавшемуся в Персии. Подчинение было политической катастрофой: единое царство распалось на соперничающие ветви Багратидской династии; знать вернула себе власть, которую прежние цари с трудом ограничивали, население и экономический потенциал резко упали, а территориальный охват эпохи Тамары был утрачен безвозвратно.",
       "era": "AD",
       "latitude": 41.693,
       "longitude": 44.833,
@@ -533,6 +534,7 @@
       "source": "https://en.wikipedia.org/wiki/Mongol_invasions_of_Georgia_and_Armenia",
       "tags": [
         "War",
+        "Batu 👤",
         "Conquest",
         "Destruction",
         "Mongolian",

@@ -2610,6 +2610,7 @@
         "Invasion",
         "Kipchak",
         "Mongolian",
+        "Nomads",
         "Rus",
         "Slavic",
         "Turkic"
@@ -2632,6 +2633,7 @@
         "Crisis",
         "Invasion",
         "Mongolian",
+        "Nomads",
         "Political"
       ],
       "type": "political"
@@ -2654,6 +2656,7 @@
         "Destruction",
         "Invasion",
         "Mongolian",
+        "Nomads",
         "Rus",
         "Ryazan",
         "Slavic"
@@ -2678,6 +2681,7 @@
         "Destruction",
         "Invasion",
         "Mongolian",
+        "Nomads",
         "Rus",
         "Vladimir-Suzdal"
       ],
@@ -2720,6 +2724,7 @@
         "Galicia",
         "Invasion",
         "Mongolian",
+        "Nomads",
         "Rus",
         "Slavic"
       ],
@@ -2766,6 +2771,7 @@
         "Invasion",
         "Kyiv",
         "Mongolian",
+        "Nomads",
         "Rus",
         "Slavic"
       ],
@@ -2776,8 +2782,8 @@
       "description": "The Mongol invasion did not stop at the borders of Rus. In spring 1241, two Mongol army groups under Batu Khan and Subutai simultaneously invaded Poland and Hungary — the most coordinated large-scale military operation of the medieval world. The northern group under Baidar and Kadan defeated a combined Polish-German force under Duke Henry II the Pious at the Battle of Legnica (Liegnitz) in Silesia on April 9, 1241 — the same day, or within a day of, the main Mongol army under Batu and Subutai destroying the Hungarian army of King Béla IV at the Battle of Mohi in eastern Hungary on April 11, 1241. The two battles were fought by separate columns hundreds of kilometers apart, coordinated through the Mongol yam courier system.\n\nThe shock to western Europe was profound. Pope Gregory IX called for a crusade; the Holy Roman Emperor Frederick II issued apocalyptic warnings to the kings of Europe; English chroniclers described people refusing to attend the Yarmouth herring fair from fear of the Mongols. The Mongol advance reached the Adriatic coast (their scouts reached the outskirts of Vienna). Then, in December 1241, Ögedei Khan died in Mongolia; Batu Khan withdrew his forces eastward for the succession kuriltai, and western Europe was spared further conquest — by dynastic accident rather than military resistance. The historian John of Plano Carpini, who traveled to the Mongol court in 1245-1247, estimated that the Mongols had killed or enslaved two-thirds of the population of Russia and Hungary.",
       "description_ru": "Монгольское нашествие не остановилось на границах Руси. Весной 1241 года две монгольские группы армий под командованием Батыя и Субэдэя одновременно вторглись в Польшу и Венгрию. 9 апреля 1241 года объединённое польско-немецкое войско под командованием герцога Генриха II Благочестивого было разгромлено при Легнице в Силезии — в тот же день (или с разницей в день), когда главная монгольская армия уничтожила венгерскую армию короля Белы IV при Мохи.\n\nПотрясение Западной Европы было глубоким. Папа Григорий IX призвал к крестовому походу; английские хронисты описывали людей, отказывавшихся ехать на ярмарку из страха перед монголами. Монгольское наступление достигло Адриатического побережья. Затем в декабре 1241 года умер Угэдэй-хан; Батый отвёл войска — и Западная Европа была спасена от дальнейшего завоевания династической случайностью, а не военным сопротивлением.",
       "era": "AD",
-      "latitude": 51.2,
-      "longitude": 16.16,
+      "latitude": 47.97292829,
+      "longitude": 20.93032837,
       "name": "The Mongols Reach the Heart of Europe",
       "name_ru": "Монголы достигают сердца Европы",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Legnica_(1241)",
@@ -2785,10 +2791,10 @@
         "War",
         "Battle",
         "Batu 👤",
-        "Germanic",
+        "Hungary",
         "Invasion",
         "Mongolian",
-        "Polish"
+        "Nomads"
       ],
       "type": "military"
     },
@@ -2820,8 +2826,8 @@
     },
     {
       "date": "01.01.1243",
-      "description": "The Mongol invasion did not end with the conquest of Rus': Batu Khan's armies continued their advance westward through Poland and Hungary. Then, in December 1241, Ögedei Khan died in Mongolia. News of this reached the Mongol armies in Hungary, and Batu Khan withdrew his troops east to participate in a kuriltai claiming the throne.\n\nFor the Russian principalities, the immediate political consequence of the conquest was the creation of the Golden Horde (Golden Horde)—Batu's western ulus—with its capital in Sarai on the lower Volga. Russian princes began traveling to Sarai to receive a yarlyk from the khan—a patent of rule that legitimized their authority over their principalities. Without a yarlyk, no Russian prince could legally rule. The Russian principalities became tributaries to the Golden Horde: they paid vykhod (\"exit\"), an annual tribute levied by Mongol census takers, collected by Mongol tax administrators (baskaks), and delivered to Sarai. This subordination—the \"Tatar yoke,\" as later Russian historians called it—persisted in one form or another until 1480.",
-      "description_ru": "Монгольское вторжение не закончилось завоеванием Руси: армии Батыя продолжили продвижение на запад через Польшу и Венгрию. Затем, в декабре 1241 года, в Монголии умер Угедей-хан; известие достигло монгольских армий в Венгрии, и Батый отвел свои войска на восток для участия в курилтае, претендующем на престол.\n\nДля русских княжеств непосредственным политическим следствием завоевания стало создание Золотой Орды (Золотой Орды) — западного улуса Бату — со столицей в Сарае на нижней Волге. Русские князья стали ездить в Сарай, чтобы получить от хана ярлык — патент на правление, узаконивавший их власть над своими княжествами. Без ярлыка ни один русский князь не мог законно править. Русские княжества стали данью Золотой Орды: они платили выкход («выход»), ежегодную дань, взимаемую монгольскими переписчиками, собираемую монгольскими налоговыми администраторами (баскаками) и доставляемую в Сарай. Эти отношения подчинения — «татарское иго», как называли его более поздние русские историки, — в той или иной форме сохранялись до 1480 года.",
+      "description": "For the Russian principalities, the immediate political consequence of the conquest was the creation of the Golden Horde (Golden Horde) — Batu's western ulus — with its capital in Sarai on the lower Volga. Russian princes began traveling to Sarai to receive a yarlyk from the khan — a patent of rule that legitimized their authority over their principalities. Without a yarlyk, no Russian prince could legally rule. The Russian principalities became tributaries to the Golden Horde: they paid vykhod (\"exit\"), an annual tribute levied by Mongol census takers, collected by Mongol tax administrators (baskaks), and delivered to Sarai. This subordination—the \"Tatar yoke,\" as later Russian historians called it—persisted in one form or another until 1480.",
+      "description_ru": "Для русских княжеств непосредственным политическим следствием завоевания стало создание Золотой Орды (Золотой Орды) — западного улуса Батыя — со столицей в Сарае на нижней Волге. Русские князья стали ездить в Сарай, чтобы получить от хана ярлык — патент на правление, узаконивавший их власть над своими княжествами. Без ярлыка ни один русский князь не мог законно править. Русские княжества стали данью Золотой Орды: они платили выкход («выход»), ежегодную дань, взимаемую монгольскими переписчиками, собираемую монгольскими налоговыми администраторами (баскаками) и доставляемую в Сарай. Эти отношения подчинения — «татарское иго», как называли его более поздние русские историки, — в той или иной форме сохранялись до 1480 года.",
       "era": "AD",
       "latitude": 47.23816056,
       "longitude": 47.37414122,

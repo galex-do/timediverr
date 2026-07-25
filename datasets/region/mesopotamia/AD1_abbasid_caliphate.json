@@ -550,8 +550,8 @@
     },
     {
       "date": "01.01.1206",
-      "description": "A kurultai (grand assembly) of Mongol tribal chiefs on the banks of the Onon River in Mongolia formally recognises Temüjin as Genghis Khan — 'Universal Ruler' — uniting the Mongol and Turkic steppe tribes under a single military leadership for the first time. Within 25 years, the Mongol Empire will be the largest contiguous land empire in history. The campaigns of Genghis and his successors kill an estimated 40 million people — perhaps 10% of the world's population — and depopulate entire regions of Central Asia, Persia, and Iraq that had been continuously inhabited for thousands of years.",
-      "description_ru": "Курултай (великое собрание) вождей монгольских племен на берегах реки Онон в Монголии официально признает Темуджина Чингисханом — «Всемирным правителем» — впервые объединив монгольские и тюркские степные племена под единым военным руководством. В течение 25 лет Монгольская империя станет крупнейшей в истории империей, занимающей обширную территорию. По оценкам, в результате военных походов Чингисхана и его преемников погибло около 40 миллионов человек — возможно, 10% населения мира — и были обезлюдены целые регионы Центральной Азии, Персии и Ирака, которые непрерывно населялись на протяжении тысячелетий.",
+      "description": "A kurultai (great assembly) of Mongol tribal leaders on the banks of the Onon River in Mongolia officially recognized Temujin as Genghis Khan—\"World Ruler\" — uniting the Mongol and Turkic tribes for the first time under a single military leadership. The great white nine-tailed horsetail (sulde) was raised. Genghis immediately introduced the yasa—a comprehensive legal code covering military discipline, property, and social conduct. He reorganized the army according to the decimal system: units of ten, one hundred, one thousand, and ten thousand (tumen), each commanded by officers appointed for merit, not birth. All tribal distinctions were abolished: henceforth there were no Mongols, Keraits, or Naimans—only a people of felt tents, bound to the khan by a personal oath.\n\nWithin 25 years, the Mongol Empire would become the largest empire in history, encompassing vast territories. The military campaigns of Genghis Khan and his successors are estimated to have killed approximately 40 million people—perhaps 10% of the world's population—and depopulated entire regions of Central Asia, Persia, and Iraq that had been continuously inhabited for millennia.",
+      "description_ru": "Курултай (великое собрание) вождей монгольских племен на берегах реки Онон в Монголии официально признает Темуджина Чингисханом — «Всемирным правителем» — впервые объединив монгольские и тюркские племена под единым военным руководством. Был поднят великий белый бунчук из девяти хвостов (сульдэ). Чингис немедленно ввёл ясу — всеобъемлющий правовой кодекс, охватывавший военную дисциплину, имущество и общественное поведение. Он реорганизовал армию по десятичной системе: отряды по десять, сто, тысяча и десять тысяч (тумен), каждый командуется офицерами, назначаемыми за заслуги, а не по происхождению. Все племенные различия были упразднены: отныне не было монголов, кераитов или найманов — только народ войлочных юрт, связанный с ханом личной клятвой.\n\nВ течение 25 лет Монгольская империя станет крупнейшей в истории империей, занимающей обширную территорию. По оценкам, в результате военных походов Чингисхана и его преемников погибло около 40 миллионов человек — возможно, 10% населения мира — и были обезлюдены целые регионы Центральной Азии, Персии и Ирака, которые непрерывно населялись на протяжении тысячелетий.",
       "era": "AD",
       "latitude": 48.86652154,
       "longitude": 110.31921387,
@@ -560,34 +560,18 @@
       "source": "https://en.wikipedia.org/wiki/Genghis_Khan",
       "tags": [
         "Dynasty",
+        "Emperor",
         "Foundation",
+        "Law",
+        "Meritocracy",
         "Milestone ⭐️",
         "Mongolian",
+        "Nomads",
         "Political",
         "Temüjin 👤",
         "Unification"
       ],
       "type": "political"
-    },
-    {
-      "date": "01.02.1220",
-      "description": "Genghis Khan leads the main Mongol army into Transoxiana and Khorasan — the cultural heartland of the Islamic world, containing its greatest cities — and systematically destroys them. Samarkand, Bukhara, Merv, Nishapur, Herat, and Balkh — cities of hundreds of thousands, centres of scholarship, trade, and art that had taken centuries to build — are reduced to ruins in a single campaign. Merv, one of the largest cities in the world, is reported to have had 700,000 people killed; the Persian polymath Yaqut al-Hamawi, who had been researching in Merv's libraries shortly before the invasion, watches the flames from a distance and records that the city has ceased to exist.\n\nThe Mongol devastation of Khorasan is without precedent in scale or thoroughness: the agricultural infrastructure — the qanat underground irrigation systems that had sustained dense settlement for two millennia — is deliberately demolished; the artisan and scholarly populations that give cities their cultural identity are killed or enslaved and dispersed. Much of Central Asia and northern Persia does not recover demographically for two centuries. The Mongol invasion of Khorasan is the single greatest catastrophe in the history of Islamic civilisation before the sack of Baghdad itself.",
-      "description_ru": "Чингисхан ведёт главную монгольскую армию в Трансоксиану и Хорасан — культурное сердце исламского мира, — и систематически разрушает их. Самарканд, Бухара, Мерв, Нишапур, Герат и Балх — города сотен тысяч жителей, средоточия учёности и торговли, — сводятся в руины за одну кампанию. Мерв, один из крупнейших городов мира, по сообщениям, потерял 700 000 человек.\n\nМонгольская катастрофа Хорасана беспрецедентна по масштабу и основательности: ирригационная инфраструктура, поддерживавшая плотное расселение два тысячелетия, намеренно разрушена. Большая часть Центральной Азии и Северной Персии не восстанавливается демографически два столетия.",
-      "era": "AD",
-      "latitude": 37.65,
-      "longitude": 61.83,
-      "name": "Mongols Destroy the Cities of Khorasan",
-      "name_ru": "Монголы уничтожают города Хорасана",
-      "source": "https://en.wikipedia.org/wiki/Mongol_invasion_of_Khwarezmia_and_Eastern_Iran",
-      "tags": [
-        "War",
-        "Abbasid",
-        "Conquest",
-        "Crisis",
-        "Islamic",
-        "Mongolian"
-      ],
-      "type": "military"
     },
     {
       "date": "01.12.1256",
@@ -606,6 +590,8 @@
         "Destruction",
         "Islamic",
         "Mongolian",
+        "Nizari",
+        "Nomads",
         "Shia"
       ],
       "type": "military"
@@ -630,7 +616,8 @@
         "Fall",
         "Islamic",
         "Massacre",
-        "Mongolian"
+        "Mongolian",
+        "Nomads"
       ],
       "type": "military"
     },
@@ -651,7 +638,8 @@
         "Battle",
         "Islamic",
         "Mamluk",
-        "Mongolian"
+        "Mongolian",
+        "Nomads"
       ],
       "type": "military"
     },

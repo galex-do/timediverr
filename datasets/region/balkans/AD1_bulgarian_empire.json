@@ -78,9 +78,9 @@
         "Culture",
         "Political",
         "Sculpture",
+        "Slavic",
         "Thrace",
-        "Bulgarian",
-        "Slavic"
+        "Bulgarian"
       ],
       "type": "cultural"
     },
@@ -99,8 +99,8 @@
         "Byzantine",
         "Conquest",
         "Expansion",
-        "Bulgarian",
-        "Slavic"
+        "Slavic",
+        "Bulgarian"
       ],
       "type": "military"
     },
@@ -120,10 +120,10 @@
         "Battle",
         "Byzantine",
         "Conquest",
-        "Plundering",
+        "Pillage",
         "Siege",
-        "Bulgarian",
-        "Slavic"
+        "Slavic",
+        "Bulgarian"
       ],
       "type": "military"
     },
@@ -143,8 +143,8 @@
         "Culture",
         "Law",
         "Political",
-        "Bulgarian",
-        "Slavic"
+        "Slavic",
+        "Bulgarian"
       ],
       "type": "political"
     },
@@ -163,10 +163,10 @@
         "Culture",
         "Language",
         "Religious",
+        "Slavic",
         "Writing",
         "Bulgarian",
-        "Orthodox",
-        "Slavic"
+        "Orthodox"
       ],
       "type": "cultural"
     },
@@ -188,9 +188,9 @@
         "Golden Age",
         "Political",
         "Religious",
+        "Slavic",
         "Bulgarian",
-        "Orthodox",
-        "Slavic"
+        "Orthodox"
       ],
       "type": "historic"
     },
@@ -232,8 +232,8 @@
         "Dynasty",
         "King",
         "Byzantine",
-        "Bulgarian",
-        "Slavic"
+        "Slavic",
+        "Bulgarian"
       ],
       "type": "political"
     },
@@ -278,8 +278,8 @@
         "Radicalism",
         "Religious",
         "Sect",
-        "Bulgarian",
-        "Slavic"
+        "Slavic",
+        "Bulgarian"
       ],
       "type": "cultural"
     },
@@ -299,8 +299,8 @@
         "Dynasty",
         "King",
         "Byzantine",
-        "Bulgarian",
-        "Slavic"
+        "Slavic",
+        "Bulgarian"
       ],
       "type": "political"
     },
@@ -345,8 +345,8 @@
         "Political",
         "Rebellion",
         "Rise",
-        "Bulgarian",
-        "Slavic"
+        "Slavic",
+        "Bulgarian"
       ],
       "type": "political"
     },
@@ -366,9 +366,9 @@
         "Battle",
         "Dynasty",
         "Byzantine",
+        "Slavic",
         "Bulgarian",
-        "Crusade",
-        "Slavic"
+        "Crusade"
       ],
       "type": "military"
     },
@@ -389,8 +389,8 @@
         "Battle",
         "Byzantine",
         "Conquest",
-        "Bulgarian",
-        "Slavic"
+        "Slavic",
+        "Bulgarian"
       ],
       "type": "military"
     },
@@ -411,16 +411,16 @@
         "Political",
         "Religious",
         "Restoration",
+        "Slavic",
         "Bulgarian",
-        "Orthodox",
-        "Slavic"
+        "Orthodox"
       ],
       "type": "religious"
     },
     {
       "date": "01.01.1236",
       "description": "In 1236, the western wing of the Mongol conquest army under Batu Khan and the general Subutai began the campaign that would sweep across Russia and eastern Europe. Volga Bulgaria was the first major state encountered. The Bulgars had already defeated a Mongol reconnaissance force in 1223, luring it into an ambush after a feigned retreat — a reversal of the Mongols' own standard tactic — and had used the intervening thirteen years to strengthen their defenses and gather intelligence about Mongol methods. None of it was sufficient. Batu's army, hardened by the conquest of the Kipchak steppe, systematically reduced the Bulgarian cities one by one; Bilyar and the capital Bolgar were taken, sacked, and burned. The population was massacred, enslaved, or fled north into the forests. The Volga Bulgarian state as a political entity ceased to exist in 1236–1237.\n\nThe destruction of Volga Bulgaria was thorough and nearly total. The city of Bolgar was eventually resettled under Mongol-Tatar rule and functioned for another century as a minor administrative centre, but Bilyar was never rebuilt. The literary and scholarly tradition of the Volga Bulgars was destroyed with their cities: of the chronicles, court poetry, legal texts, and religious literature that constituted twelve centuries of accumulated Bulgar culture, almost nothing survived. The Muslim population that had distinguished Volga Bulgaria as the northernmost outpost of Islamic civilization was killed, scattered, or absorbed into the new Mongol-Tatar order. The Volga Bulgars' descendants eventually merged with the Kipchak-speaking Tatars to form the Kazan Tatars — a Turkic Muslim people who have inhabited the Volga-Kama region continuously to the present day.",
-      "description_ru": "Западное крыло монгольской завоевательной армии под командованием Батухана и полководца Субэдэя проложило путь через Россию и Восточную Европу. Булгары сумели разбить разведчиков монголов, используя их собственную тактику против них в 1223; и с тех пор готовились к обороне. Однако армия Батухана систематически брала болгарские города один за другим; Биляр и столица Болгар были взяты, разграблены и сожжены.\n\nУничтожение Волжской Булгарии было тотальным. Литературная и учёная традиция волжских булгар была уничтожена вместе с их городами: из хроник, придворной поэзии, правовых текстов и религиозной литературы, составлявших двенадцать веков накопленной булгарской культуры, почти ничего не уцелело. Мусульманское население, делавшее Волжскую Булгарию самым северным форпостом исламской цивилизации, было убито, рассеяно или поглощено новым монголо-татарским порядком.",
+      "description_ru": "Западное крыло монгольской завоевательной армии под командованием Батыя и полководца Субэдэя проложило путь через Россию и Восточную Европу. Булгары сумели разбить разведчиков монголов, используя их собственную тактику против них в 1223; и с тех пор готовились к обороне. Однако армия Батыя систематически брала булгарские города один за другим; Биляр и столица Болгар были взяты, разграблены и сожжены.\n\nУничтожение Волжской Булгарии было тотальным. Литературная и учёная традиция волжских булгар была уничтожена вместе с их городами: из хроник, придворной поэзии, правовых текстов и религиозной литературы, составлявших двенадцать веков накопленной булгарской культуры, почти ничего не уцелело. Мусульманское население, делавшее Волжскую Булгарию самым северным форпостом исламской цивилизации, было убито, рассеяно или поглощено новым монголо-татарским порядком.",
       "era": "AD",
       "latitude": 54.98699621,
       "longitude": 50.39372921,
@@ -429,11 +429,13 @@
       "source": "https://en.wikipedia.org/wiki/Mongol_invasion_of_Volga_Bulgaria",
       "tags": [
         "War",
+        "Batu 👤",
         "Collapse",
         "Conquest",
         "Destruction",
         "Islamic",
         "Mongolian",
+        "Nomads",
         "Turkic",
         "Volga",
         "Bulgarian"
@@ -455,10 +457,11 @@
         "Collapse",
         "Conquest",
         "Mongolian",
+        "Nomads",
         "Political",
+        "Slavic",
         "Tribute",
-        "Bulgarian",
-        "Slavic"
+        "Bulgarian"
       ],
       "type": "military"
     }
