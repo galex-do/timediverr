@@ -291,25 +291,6 @@
     },
     {
       "date": "01.01.1170",
-      "description": "In 1170, the Byzantine Emperor Manuel I Komnenos granted Genoa enhanced trade privileges, including a quarter in Constantinople, warehouses in key Byzantine ports, and further reductions in customs duties. Furthermore, the emperor seized the palace of Kalaman and its docks and ostentatiously handed them over to the Genoese. Manuel sought to reduce dependence on Venice by cultivating Genoa and Pisa as alternative trading partners.",
-      "description_ru": "В 1170 году Византийский император Мануил I Комнин предоставил Генуе улучшенные торговые привилегии — включая квартал в Константинополе, склады в ключевых византийских портах и дальнейшее снижение таможенных пошлин. Более того, император забрал дворец Каламана с его причалом и демонстративно передал его генуэзцам. Мануил стремился снизить зависимость от Венеции, культивируя Геную и Пизу как альтернативных торговых партнёров.",
-      "era": "AD",
-      "latitude": 41.01547822,
-      "longitude": 28.97708416,
-      "name": "Byzantium expands Genoa's trading rights",
-      "name_ru": "Византия расширяет права Генуи",
-      "source": "https://en.wikipedia.org/wiki/Manuel_I_Komnenos",
-      "tags": [
-        "Italian",
-        "Diplomacy",
-        "Byzantine",
-        "Genoa",
-        "Trade"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.1170",
       "description": "Genoa hesitated for a long time, but when the Holy Roman Empire began to side with Pisa, it made its decision. In 1169, Genoese consuls began secretly financing the Lombard League, helping to rebuild Milan, which had been destroyed by the Germans. In 1170, Genoa officially signed the treaty and joined the Lombard League.\n\nGenoese bankers allocated colossal sums of gold to recruit powerful armies for the alliance and purchase weapons. The Genoese navy completely cut off the supply of reinforcements, supplies, and money for the imperial troops from Germany via the Mediterranean and southern Italy.",
       "description_ru": "Генуя долго колебалась, но когда Священная Римская империя начала играть на стороне Пизы, приняла решение. В 1169 году генуэзские консулы начали секретно финансировать Ломбардскую лигу, помогая отстраивать разрушенный немцами Милан. В 1170 Генуя официально подписала договор и вошла в состав Ломбардской лиги.\n\nГенуэзские банкиры выделили колоссальные суммы золотом на наем сильных армий для союза и закупку оружия. Генуэзский флот полностью перекрыл доставку подкреплений, припасов и денег для имперских войск из Германии через Средиземное море и Южную Италию.",
       "era": "AD",
@@ -325,6 +306,25 @@
         "Alliance",
         "Genoa",
         "Lombard League"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1170",
+      "description": "In 1170, the Byzantine Emperor Manuel I Komnenos granted Genoa enhanced trade privileges, including a quarter in Constantinople, warehouses in key Byzantine ports, and further reductions in customs duties. Furthermore, the emperor seized the palace of Kalaman and its docks and ostentatiously handed them over to the Genoese. Manuel sought to reduce dependence on Venice by cultivating Genoa and Pisa as alternative trading partners.",
+      "description_ru": "В 1170 году Византийский император Мануил I Комнин предоставил Генуе улучшенные торговые привилегии — включая квартал в Константинополе, склады в ключевых византийских портах и дальнейшее снижение таможенных пошлин. Более того, император забрал дворец Каламана с его причалом и демонстративно передал его генуэзцам. Мануил стремился снизить зависимость от Венеции, культивируя Геную и Пизу как альтернативных торговых партнёров.",
+      "era": "AD",
+      "latitude": 41.01547822,
+      "longitude": 28.97708416,
+      "name": "Byzantium expands Genoa's trading rights",
+      "name_ru": "Византия расширяет права Генуи",
+      "source": "https://en.wikipedia.org/wiki/Manuel_I_Komnenos",
+      "tags": [
+        "Italian",
+        "Diplomacy",
+        "Byzantine",
+        "Genoa",
+        "Trade"
       ],
       "type": "political"
     },
@@ -373,6 +373,26 @@
         "Seamen",
         "Siege",
         "Crusade"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1195",
+      "description": "At the end of the 12th century, Genoa decided to drive the Pisans out of southern Corsica and take the fortress of Bonifacio, as this rock allowed it to completely control shipping in the strait between Corsica and Sardinia. The locals supported Pisa, so after capturing the fortress, the Genoese evicted all the locals and settled it with colonists from Liguria, promising them favorable tax conditions and duty-free trade throughout Genoese jurisdiction.",
+      "description_ru": "В конце XII века Генуя решила выбить пизанцев с юга Корсики и взять крепость Бонифачо, так как эта скала позволяла полностью контролировать судоходство в проливе между Корсикой и Сардинией. Местные жители поддерживали Пизу, поэтому после захвата крепости генуэзцы выселили из нее всех местных и заселили её колонистами из Лигурии, пообещав им выгодные налоговые условия и беспошлинную торговлю во всей генуэзской юрисдикции.",
+      "era": "AD",
+      "latitude": 41.38735411,
+      "longitude": 9.15648222,
+      "name": "Genoa recaptures southern Corsica from Pisa",
+      "name_ru": "Генуя отбивает юг Корсики у Пизы",
+      "source": "https://en.wikipedia.org/wiki/Bonifacio,_Corse-du-Sud",
+      "tags": [
+        "Italian",
+        "War",
+        "Conquest",
+        "Genoa",
+        "Naval",
+        "Pisa"
       ],
       "type": "military"
     },
@@ -498,6 +518,26 @@
         "Trade"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.01.1282",
+      "description": "The main catalyst for the conflict was the charismatic Corsican warrior and politician Sinucello della Rocca (known as Giudice di Cinarca), who led a rebellion against Genoa and called on Pisa for aid. Sinucello initially served Pisa, but later temporarily recognized Genoa's authority. However, the Republic of Genoa pursued a harsh colonial policy, taxing local feudal lords and curtailing their autonomy. Sinucello united the disgruntled Corsican nobles and proclaimed himself the de facto Count of Corsica.\n\nSinucello's troops began attacking Genoese garrisons across the island, pinning the Genoese in their coastal fortresses (Bonifacio and Calvi). The fighting was extremely brutal.",
+      "description_ru": "Главным катализатором конфликта стал харизматичный корсиканец, воин и политик Синучелло делла Рокка (известный как Джудиче ди Чинарка), который поднял восстание против Генуи и призвал на помощь Пизу. Синучелло изначально служил Пизе, но затем временно признавал и власть Генуи. Однако Генуэзская республика вела жесткую колониальную политику, облагала местных феодалов налогами и урезала их автономию. Синучелло объединил недовольных корсиканских дворян и провозгласил себя фактическим графом Корсики.\n\nВойска Синучелло начали атаковать генуэзские гарнизоны по всему острову, зажимая генуэзцев в их прибрежных крепостях (Бонифачо и Кальви). Борьба была крайне жестокой",
+      "era": "AD",
+      "latitude": 41.71191182,
+      "longitude": 8.91720772,
+      "name": "Revolt against Genoa in Corsica",
+      "name_ru": "Восстание против Генуи на Корсике",
+      "tags": [
+        "Italian",
+        "War",
+        "Corsica",
+        "Genoa",
+        "Guerilla",
+        "Pisa",
+        "Rebellion"
+      ],
+      "type": "political"
     },
     {
       "date": "06.08.1284",
@@ -699,6 +739,29 @@
     },
     {
       "date": "01.01.1346",
+      "description": "In 1346, conflict broke out between the Genoese and the Golden Horde Khan Janibek. Golden Horde troops laid siege to Kaffa from the land. The siege dragged on, and at that moment, a terrible epidemic of bubonic plague (originating from Asia) broke out in the Horde camp. The khan's soldiers died in the thousands. Realizing the campaign was lost, Janibek took a desperate step. According to the Genoese notary Gabriel de Mussy, the khan ordered the corpses of those who died from the plague to be hurled over the walls into Kaffa using catapults and trebuchets. Thus, the bubonic plague met the Europeans.",
+      "description_ru": "В 1346 году между генуэзцами и золотоордынским ханом Джанибеком вспыхнул конфликт. Войска Золотой Орды осадили Каффу с суши. Осада затянулась, и в этот момент в лагере ордынцев вспыхнула жуткая эпидемия бубонной чумы (пришедшая из Азии). Солдаты хана умирали тысячами. Понимая, что поход проигран, Джанибек пошел на отчаянный шаг. По свидетельству генуэзского нотариуса Габриэля де Мусси, хан приказал с помощью катапульт и требушетов забрасывать трупы умерших от чумы людей через стены внутрь Каффы. Так бубонная чума встретилась с европейцами.",
+      "era": "AD",
+      "latitude": 45.02183938,
+      "longitude": 35.40030956,
+      "name": "Siege of Kaffa by the Mongols",
+      "name_ru": "Осада Каффы монголами",
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Caffa",
+      "tags": [
+        "Italian",
+        "War",
+        "Battle",
+        "Black Death",
+        "Genoa",
+        "Golden Horde",
+        "Mongolian",
+        "Plague",
+        "Siege"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1346",
       "description": "The island of Chios belonged to Byzantium, which was torn apart by civil wars. Chios possessed two resources of exceptional commercial value: mastic — an aromatic resin from the lentiscus tree, used in medicine, food, and paints, produced nowhere else in the world—and access to the alum mines of nearby Phocaea, the main dye fixative in the European textile industry.\n\nA Genoese private squadron approached the island and, after a short siege, forced the Byzantine garrison to surrender. The republican government lacked the funds to pay for the operation, so it entered into a unique agreement with a syndicate of its wealthy merchants and shipowners who financed the expedition. The creditors united to form a trading company, the Maona of Chios, and adopted a common surname — Giustiniani. Genoa effectively transferred to this private company full rights to govern Chios, collect all taxes, and exercise a monopoly on trade.\n\nThe company managed the island as a full-fledged joint-stock company (issued shares — luoghi) for more than 200 years, paying only a symbolic annual fee to the Republic of Genoa.",
       "description_ru": "Остров Хиос принадлежал Византии, раздираемой гражданскими войнами. Хиос обладал двумя ресурсами исключительной коммерческой ценности: мастикой — ароматической смолой лентискового дерева, применявшейся в медицине, пищевой промышленности и лакокрасочном деле, производившейся больше нигде в мире, — и доступом к квасцовым шахтам близлежащей Фокеи, главного протравителя для закрепления красителя в европейской текстильной промышленности.\n\nГенуэзская частная эскадра подошла к острову и после недолгой осады принудила византийский гарнизон к сдаче. У правительства республики не было денег на оплату операции, поэтому правительство заключило уникальный договор с синдикатом своих богатых купцов и судовладельцев, финансировавших поход. Кредиторы объединились в торговую компанию — Маону Хиоса, и взяли одну общую на всех фамилию — Джустиниани. Генуя фактически передала этой частной компании полные права на управление Хиосом, сбор всех налогов и монополию на торговлю.\n\nКомпания управляла островом как полноценное акционерное общество (выпускались паи — luoghi) более 200 лет, выплачивая Генуэзской республике лишь символическую ежегодную пошлину",
       "era": "AD",
@@ -721,29 +784,6 @@
         "Trade"
       ],
       "type": "political"
-    },
-    {
-      "date": "01.01.1346",
-      "description": "In 1346, conflict broke out between the Genoese and the Golden Horde Khan Janibek. Golden Horde troops laid siege to Kaffa from the land. The siege dragged on, and at that moment, a terrible epidemic of bubonic plague (originating from Asia) broke out in the Horde camp. The khan's soldiers died in the thousands. Realizing the campaign was lost, Janibek took a desperate step. According to the Genoese notary Gabriel de Mussy, the khan ordered the corpses of those who died from the plague to be hurled over the walls into Kaffa using catapults and trebuchets. Thus, the bubonic plague met the Europeans.",
-      "description_ru": "В 1346 году между генуэзцами и золотоордынским ханом Джанибеком вспыхнул конфликт. Войска Золотой Орды осадили Каффу с суши. Осада затянулась, и в этот момент в лагере ордынцев вспыхнула жуткая эпидемия бубонной чумы (пришедшая из Азии). Солдаты хана умирали тысячами. Понимая, что поход проигран, Джанибек пошел на отчаянный шаг. По свидетельству генуэзского нотариуса Габриэля де Мусси, хан приказал с помощью катапульт и требушетов забрасывать трупы умерших от чумы людей через стены внутрь Каффы. Так бубонная чума встретилась с европейцами.",
-      "era": "AD",
-      "latitude": 45.02183938,
-      "longitude": 35.40030956,
-      "name": "Siege of Kaffa by the Mongols",
-      "name_ru": "Осада Каффы монголами",
-      "source": "https://en.wikipedia.org/wiki/Siege_of_Caffa",
-      "tags": [
-        "Italian",
-        "War",
-        "Battle",
-        "Black Death",
-        "Genoa",
-        "Golden Horde",
-        "Mongolian",
-        "Plague",
-        "Siege"
-      ],
-      "type": "military"
     },
     {
       "date": "01.10.1347",

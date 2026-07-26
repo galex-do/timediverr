@@ -174,8 +174,9 @@
       "name_ru": "Викинги разграбляют Линдисфарн в Британии",
       "source": "https://en.wikipedia.org/wiki/Raid_on_Lindisfarne",
       "tags": [
-        "British",
+        "Britain",
         "Christian",
+        "English",
         "Expansion",
         "Monastery",
         "Norman",
@@ -445,6 +446,7 @@
         "Battle",
         "Björn Ironside 👤",
         "Cordoba",
+        "Hasteinn 👤",
         "Iberia",
         "Norman",
         "Pillage",
@@ -489,6 +491,7 @@
         "Battle",
         "Björn Ironside 👤",
         "Cordoba",
+        "Hasteinn 👤",
         "Norman",
         "Pillage",
         "Seamen"
@@ -529,6 +532,7 @@
         "Berber",
         "Björn Ironside 👤",
         "Expedition",
+        "Hasteinn 👤",
         "Norman",
         "Pillage",
         "Seamen"
@@ -549,6 +553,7 @@
         "Italian",
         "Battle",
         "Björn Ironside 👤",
+        "Hasteinn 👤",
         "Norman",
         "Pillage",
         "Pisa",
@@ -571,6 +576,7 @@
         "Italian",
         "Battle",
         "Björn Ironside 👤",
+        "Hasteinn 👤",
         "Norman",
         "Pillage",
         "Seamen",
@@ -590,7 +596,7 @@
       "source": "https://en.wikipedia.org/wiki/Great_Heathen_Army",
       "tags": [
         "War",
-        "British",
+        "Britain",
         "Conquest",
         "Danish",
         "English",
@@ -611,12 +617,14 @@
       "source": "https://en.wikipedia.org/wiki/Kingdom_of_Northumbria",
       "tags": [
         "War",
-        "British",
+        "Britain",
         "Conquest",
         "Danish",
+        "English",
         "Invasion",
         "Kingdom",
-        "Norman"
+        "Norman",
+        "Northumbria"
       ],
       "type": "political"
     },
@@ -634,6 +642,7 @@
         "War",
         "Christian",
         "Danish",
+        "English",
         "Invasion",
         "Martyr",
         "Murder",
@@ -646,7 +655,7 @@
     {
       "date": "08.01.0871",
       "description": "At Ashdown West Saxon forces under Alfred — his brother King Æthelred was still at prayer — defeated a Danish army, killing King Bagsecg and five earls: the first significant English victory over the Great Heathen Army. Æthelred died of wounds that year; Alfred became king and was reduced to guerrilla warfare from the Somerset marshes before defeating Guthrum at Edington in 878. Alfred the Great is the only English king styled the Great. His resistance to Danish conquest, administrative reforms, and law codification defined the survival of English identity under Norse military pressure.",
-      "description_ru": "В битве при Эшдауне силы Уэссекса под командованием Альфреда разгромили датскую армию, убив конунга Бэгсека и пятерых ярлов: первая значимая английская победа над Великой языческой армией. Этельред скончался от ран в том же году; Альфред стал королём и был вынужден вести партизанскую войну из болот Сомерсета, прежде чем разгромить Гутрума при Эдингтоне в 878-м. Альфред Великий — единственный английский король, именуемый «Великим». Его сопротивление датскому завоеванию, реформы и кодификация законов определили выживание английской идентичности.",
+      "description_ru": "В битве при Эшдауне силы Уэссекса под командованием 22-х летнего Альфреда разгромили датскую армию, убив конунга Бэгсека и пятерых ярлов: первая значимая английская победа над Великой языческой армией. Этельред скончался от ран в том же году; Альфред стал королём и был вынужден вести партизанскую войну из болот Сомерсета, прежде чем разгромить Гутрума при Эдингтоне в 878-м. Альфред Великий — единственный английский король, именуемый «Великим». Его сопротивление датскому завоеванию, реформы и кодификация законов определили выживание английской идентичности.",
       "era": "AD",
       "latitude": 51.5,
       "longitude": -1.4,
@@ -657,8 +666,8 @@
         "War",
         "Battle",
         "Alfred the Great 👑",
-        "British",
         "Danish",
+        "English",
         "Invasion",
         "Norman",
         "Wessex"
@@ -739,8 +748,8 @@
         "War",
         "Dynasty",
         "Alfred the Great 👑",
-        "British",
         "Danish",
+        "English",
         "Norman",
         "Peace",
         "Treaty",
@@ -944,6 +953,8 @@
         "Adoption",
         "Christian",
         "Norman",
+        "Norse",
+        "Olaf Tryggvason 👑",
         "Religious"
       ],
       "type": "religious"
@@ -964,6 +975,7 @@
         "Capital",
         "Norman",
         "Norse",
+        "Olaf Tryggvason 👑",
         "Rus"
       ],
       "type": "historic"
@@ -1005,6 +1017,7 @@
         "Naval",
         "Norman",
         "Norse",
+        "Olaf Tryggvason 👑",
         "Swedish"
       ],
       "type": "military"
@@ -1039,7 +1052,6 @@
       "source": "https://en.wikipedia.org/wiki/St._Brice%27s_Day_massacre",
       "tags": [
         "War",
-        "British",
         "Crisis",
         "Danish",
         "English",
@@ -1098,7 +1110,7 @@
       "source": "https://en.wikipedia.org/wiki/Swein_Forkbeard",
       "tags": [
         "War",
-        "British",
+        "Britain",
         "Conquest",
         "Danish",
         "English",
@@ -1150,9 +1162,9 @@
       "type": "religious"
     },
     {
-      "date": "01.01.1016",
-      "description": "In 1016, Cnut became King of England after the death of Edmund Ironside — with whom he had partitioned England — within months of their settlement. Cnut killed or exiled most of the English nobility, married Emma of Normandy (Æthelred's widow), and ruled England for nineteen years with remarkable legal competence, issuing law codes in the Anglo-Saxon tradition. English contemporaries described him as a good king. His reign ended the military phase of the Viking Age in England and began the assimilation of Danish lordship into English political culture. The famous episode of Cnut commanding the tide to halt was recorded as a demonstration of humility before God, not vanity.",
-      "description_ru": "Кнут стал королём Англии после смерти Эдмунда Железнобокого — с которым он разделил Англию — вскоре после их урегулирования. Кнут убил или изгнал большую часть английской знати, женился на Эмме Нормандской (вдове Этельреда) и правил Англией девятнадцать лет с замечательной правовой компетентностью, издавая законодательные своды в англосаксонской традиции. \n\nСовременники-англичане описывали его как хорошего короля. Его правление завершило военную фазу эпохи викингов в Англии. Знаменитый эпизод с Кнутом, повелевающим морским волнам остановиться, записан как демонстрация смирения перед Богом, а не тщеславия.",
+      "date": "01.07.1016",
+      "description": "Cnut became King of England after the death of Edmund Ironside — with whom he had divided England — shortly after their peace. Cnut killed or exiled most of the rebellious English nobility, married Emma of Normandy (Æthelred's widow), and ruled England competently for nineteen years, relying on loyal local elites, legislating in the Anglo-Saxon tradition, and patronizing the English Christian church.\n\nHis English contemporaries described him as a good king. His reign marked the end of the military phase of the Viking Age in England. The famous episode of Cnut commanding the sea waves to cease is recorded as a demonstration of humility before God, not vanity.",
+      "description_ru": "Кнут стал королём Англии после смерти Эдмунда Железнобокого — с которым он разделил Англию — вскоре после заключения мира. Кнут убил или изгнал большую часть непокорной английской знати, женился на Эмме Нормандской (вдове Этельреда) и компетентно правил Англией девятнадцать лет, опираясь на лояльные местные элиты, издавая законы в англосаксонской традиции и покровительствуя английской христианской церкви. \n\nСовременники-англичане описывали его как хорошего короля. Его правление завершило военную фазу эпохи викингов в Англии. Знаменитый эпизод с Кнутом, повелевающим морским волнам остановиться, записан как демонстрация смирения перед Богом, а не тщеславия.",
       "era": "AD",
       "latitude": 51.51557645,
       "longitude": -0.09208024,
@@ -1196,7 +1208,7 @@
     {
       "date": "01.01.1028",
       "description": "By 1028, Cnut controlled England, Denmark, and Norway. Winchester housed the royal treasury, where Cnut issued his famous laws, and it was in Winchester Cathedral that he was buried after his death. He forced the Norwegian king, Olaf Haraldsson, into exile and installed his son, Sweyn, as regent of Norway. The realm was a personal union, held together by Cnut's authority, rather than an integrated administrative state: it immediately disintegrated after his death in 1035. No successor succeeded in rebuilding it.",
-      "description_ru": "К 1028 году Кнут контролировал Англию, Данию и Норвегию.  В Уинчестере находилась королевская казна, там Кнуд издавал свои знаменитые законы, и именно в Уинчестерском соборе он был похоронен после смерти. Он вынудил норвежского короля Олафа Харальдссона эмигрировать и поставил своего сына Свейна регентом Норвегии. Держава была личной унией, удерживаемой авторитетом Кнута, а не интегрированным административным государством: она немедленно распалась после его смерти в 1035 году. Ни одному преемнику не удалось воссоздать её.",
+      "description_ru": "К 1028 году Кнут контролировал Англию, Данию и Норвегию.  В Уинчестере находилась королевская казна, там Кнут издавал свои знаменитые законы, и именно в Уинчестерском соборе он был похоронен после смерти. Он вынудил норвежского короля Олафа Харальдссона эмигрировать и поставил своего сына Свейна регентом Норвегии. Держава была личной унией, удерживаемой авторитетом Кнута, а не интегрированным административным государством: она немедленно распалась после его смерти в 1035 году. Ни одному преемнику не удалось воссоздать её.",
       "era": "AD",
       "latitude": 51.06068301,
       "longitude": -1.3132149,
@@ -1268,6 +1280,7 @@
       "tags": [
         "War",
         "Battle",
+        "Britain",
         "English",
         "Invasion",
         "Norman",
@@ -1293,7 +1306,7 @@
         "English",
         "Norman",
         "Normandy",
-        "William the Conqueror",
+        "William the Conqueror 👤",
         "Frankish"
       ],
       "type": "military"
