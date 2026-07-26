@@ -1,0 +1,583 @@
+{
+  "description": "Dataset covering the history of Scotland from the Neolithic era through the early fifteenth century (c.3100 BC – 1437 AD). Spans the great stone monuments of Orkney and the Outer Hebrides, the enigmatic Picts and their symbol stones, the Roman frontier and its walls, the Irish kingdom of Dal Riata that became Scotland, St Columba and the golden age of Iona, the Norse conquests and the Viking Age, Kenneth MacAlpin's unification of Picts and Scots, the medieval Scottish kingdom, Macbeth, Queen Margaret, David I's monastic revolution, William Wallace and Robert the Bruce, Bannockburn, the Declaration of Arbroath, and the poet-king James I.",
+  "filename": "BC1_scotland.json",
+  "events": [
+    {
+      "date": "01.01.3100",
+      "era": "BC",
+      "type": "historic",
+      "name": "Skara Brae — the best-preserved Neolithic village in Europe",
+      "name_ru": "Скара-Брей — лучшая из сохранившихся деревень неолита в Европе",
+      "description": "Skara Brae on the Orkney mainland, occupied roughly 3100–2500 BC, is the best-preserved Neolithic village in northern Europe. Buried and protected by sand dunes for millennia, it was exposed by a storm in 1850. Its eight interconnected stone houses are remarkably intact: stone beds, dressers, hearths, and storage boxes survive in place, giving an intimate picture of life 5,000 years ago.\n\nThe village predates both Stonehenge and the Egyptian pyramids. Its inhabitants were farmers and fishermen who kept cattle and sheep, grew barley, hunted red deer, and gathered shellfish. The quality of the stone furniture — crafted without metal tools — and the drainage system connecting each house to a shared sewer suggest a community of considerable sophistication. Skara Brae is now a UNESCO World Heritage Site.",
+      "description_ru": "Скара-Брей на Оркнейском острове, населённый примерно в 3100–2500 годах до н. э., — лучшая из сохранившихся деревень неолита в Северной Европе. Погребённый и защищённый дюнами на тысячелетия, он был обнажён бурей в 1850 году. Восемь соединённых между собой каменных домов сохранились в поразительной целости: каменные кровати, буфеты, очаги и ящики для хранения стоят на своих местах, давая интимный портрет жизни 5000 лет назад.\n\nДеревня старше Стоунхенджа и египетских пирамид. Её жители были фермерами и рыбаками, державшими скот и разводившими ячмень. Качество каменной мебели и дренажная система, соединяющая каждый дом с общей канализацией, говорят об обществе значительной изощрённости. Скара-Брей — объект Всемирного наследия ЮНЕСКО.",
+      "latitude": 59.0447,
+      "longitude": -3.34173,
+      "source": "https://en.wikipedia.org/wiki/Skara_Brae",
+      "tags": [
+        "Scottish",
+        "Neolithic",
+        "Prehistoric",
+        "Building 🏠",
+        "Holy Site",
+        "Engineering ⚙️"
+      ]
+    },
+    {
+      "date": "01.01.2900",
+      "era": "BC",
+      "type": "religious",
+      "name": "Callanish Standing Stones — the cathedral of the Outer Hebrides",
+      "name_ru": "Камни Каллениша — собор Внешних Гебридских островов",
+      "description": "The Callanish Standing Stones on the Isle of Lewis, erected around 2900–2600 BC, form one of the most dramatic megalithic complexes in Europe. Thirteen primary stones stand in a rough circle, with four long rows radiating outward like the arms of a cross — an arrangement unique in Britain. The tallest stone reaches nearly five metres.\n\nAt the major lunar standstill — a roughly 18.6-year cycle when the moon rises and sets at its most extreme points — the moon appears to skim along the ridge of the hills to the south before setting between two stones of the circle. Whether this was deliberately planned by the builders, and what ceremonies they performed here, remains unknown. What is certain is that Callanish was a place of repeated ritual use over many centuries, commanding a landscape of extraordinary bleakness and beauty.",
+      "description_ru": "Мегалитический комплекс Каллениш на острове Льюис, возведённый около 2900–2600 годов до н. э., — один из самых впечатляющих в Европе. Тринадцать основных камней стоят в грубом круге, от которого расходятся четыре длинных ряда в форме, уникальной для Британии, — подобие вытянутого креста. Самый высокий камень достигает почти пяти метров в высоту.\n\nВ момент большого лунного стояния — цикла протяжённостью около 18,6 лет — луна скользит над грядой южных холмов и садится между двумя камнями круга. Намеренно ли строители планировали это астрономическое выравнивание и какие церемонии здесь отправлялись — по-прежнему неизвестно. Несомненно одно: Каллениш на протяжении многих веков служил местом повторяющегося ритуального использования в ландшафте исключительной суровой красоты.",
+      "latitude": 58.1976,
+      "longitude": -6.7447,
+      "source": "https://en.wikipedia.org/wiki/Callanish_Stones",
+      "tags": [
+        "Scottish",
+        "Neolithic",
+        "Prehistoric",
+        "Megalith",
+        "Holy Site",
+        "Astronomy",
+        "Legend"
+      ]
+    },
+    {
+      "date": "01.01.2800",
+      "era": "BC",
+      "type": "religious",
+      "name": "Maeshowe — Orkney's masterpiece of Neolithic architecture",
+      "name_ru": "Мейсхоу — шедевр неолитической архитектуры Оркнея",
+      "description": "Maeshowe, built around 2800 BC on Orkney, is one of the finest chambered tombs in north-western Europe. A long passage of precisely fitted stone slabs leads to a central chamber whose construction required architectural skill comparable to anything in the ancient world: the corbelled roof rises to a height of 4.5 metres, each stone course slightly overhanging the last with perfect balance.\n\nAt the winter solstice, the setting sun shines directly down the entrance passage to illuminate the back wall of the chamber — an alignment built in with extraordinary precision. The site was broken into by Norse settlers in the twelfth century AD, who left the largest collection of runic graffiti in the world carved into the walls: love poems, boastful claims, and the image of a dragon. Vikings and Neolithic farmers, separated by three millennia, left their marks in the same stone chamber.",
+      "description_ru": "Мейсхоу, построенный около 2800 года до н. э. на Оркнее, — один из лучших коридорных погребальных курганов в Северо-Западной Европе. Длинный коридор из точно пригнанных каменных плит ведёт в центральную камеру, строительство которой требовало архитектурного мастерства, сравнимого с чем угодно в древнем мире: ложносводчатая кровля поднимается на 4,5 метра.\n\nВ день зимнего солнцестояния заходящее солнце светит прямо по входному коридору, освещая заднюю стену камеры — выравнивание, заложенное с исключительной точностью. В XII веке н. э. в кургане побывали норвежцы, оставившие на стенах крупнейшее собрание рунических граффити в мире: любовные стихи, хвастливые надписи и изображение дракона. Викинги и неолитические земледельцы, разделённые тремя тысячелетиями, оставили следы в одной каменной камере.",
+      "latitude": 58.9971,
+      "longitude": -3.1871,
+      "source": "https://en.wikipedia.org/wiki/Maeshowe",
+      "tags": [
+        "Scottish",
+        "Neolithic",
+        "Prehistoric",
+        "Megalith",
+        "Holy Site",
+        "Astronomy",
+        "Viking"
+      ]
+    },
+    {
+      "date": "01.01.0200",
+      "era": "BC",
+      "type": "historic",
+      "name": "The brochs — Scotland's unique Iron Age towers",
+      "name_ru": "Брохи — уникальные башни железного века Шотландии",
+      "description": "Brochs are a type of circular drystone tower found only in Scotland — roughly 500 survive, concentrated in the north and west, in Orkney, Shetland, and the Western Isles. Built without mortar, without metal tools, and without written instruction, they are among the most sophisticated structures of Iron Age Europe: hollow-walled towers that could reach 13 metres in height, with internal galleries, staircases, and hearths.\n\nThe Broch of Mousa on Shetland, still standing nearly to its original height of 13 metres, is the finest surviving example. Brochs were probably the residences of local chieftains — conspicuous, defensible, and enormously labour-intensive to build, they announced power and prestige across the treeless northern landscape. Their engineering — the double-wall construction that distributes weight while allowing access within the wall itself — has no parallel anywhere in the ancient world.",
+      "description_ru": "Брохи — тип круглых башен из сухой кладки, встречающихся только в Шотландии: сохранилось около 500 штук, сосредоточенных на севере и западе, на Оркнее, Шетленде и Внешних Гебридах. Возведённые без раствора, металлических инструментов и письменных инструкций, они относятся к наиболее изощрённым сооружениям железного века Европы: полые башни, достигавшие 13 метров в высоту, с внутренними галереями, лестницами и очагами.\n\nБрох Моусы на Шетленде, стоящий почти в первоначальную высоту 13 метров, — лучший сохранившийся образец. Брохи, по всей видимости, служили резиденциями местных вождей — заметные, обороноспособные и требующие огромных трудозатрат, они провозглашали власть и престиж через безлесный северный ландшафт.",
+      "latitude": 59.98912,
+      "longitude": -1.18447,
+      "source": "https://en.wikipedia.org/wiki/Broch",
+      "tags": [
+        "Scottish",
+        "Prehistoric",
+        "Iron Age",
+        "Building 🏠",
+        "Architecture",
+        "Fortification",
+        "Engineering ⚙️"
+      ]
+    },
+    {
+      "date": "01.01.0083",
+      "era": "AD",
+      "type": "military",
+      "name": "Mons Graupius — Rome reaches the ends of the earth",
+      "name_ru": "Монс Грауций — Рим достигает края земли",
+      "description": "In 83 or 84 AD, the Roman governor Gnaeus Julius Agricola marched his forces into the Scottish Highlands and defeated a confederation of Caledonian tribes at Mons Graupius — a site whose location is still debated, but probably near Bennachie in Aberdeenshire. The Caledonian leader Calgacus gave, in Tacitus's account, one of the great speeches of classical literature: 'They make a wasteland and call it peace.'\n\nThe battle was a tactical Roman victory but a strategic irrelevance. The legions could advance to the tip of Scotland; they could not hold it. Within a few years the frontier had contracted back, eventually settling at Hadrian's Wall. Scotland north of the wall remained unconquered — the one part of Britain Rome never absorbed. The legacy was lasting: the people Tacitus called Caledonians evolved into the Picts, and their descendants shaped the nation that would eventually become Scotland.",
+      "description_ru": "В 83 или 84 году н. э. римский наместник Гней Юлий Агрикола двинул силы в Шотландское нагорье и разгромил конфедерацию каледонских племён у Монс Граупия — место которого по-прежнему обсуждается, но вероятно располагалось близ Бенначи в Абердиншире. Каледонский вождь Калгак произнёс, по Тациту, одну из великих речей античной литературы: «Они создают пустыню и называют это миром».\n\nБитва была тактической победой Рима, но стратегически незначимой. Легионы дошли до края Шотландии, однако удержать её не могли. Граница вскоре откатилась назад, остановившись на Адриановом валу. Шотландия к северу от него осталась непокорённой — единственная часть Британии, которую Рим так и не поглотил. Народ, которого Тацит называл каледонцами, эволюционировал в пиктов, чьи потомки впоследствии сложили нацию, ставшую Шотландией.",
+      "latitude": 57.3383,
+      "longitude": -2.6162,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Mons_Graupius",
+      "tags": [
+        "Scottish",
+        "Roman",
+        "War",
+        "Battle",
+        "Resistance",
+        "Celtic"
+      ]
+    },
+    {
+      "date": "01.01.0142",
+      "era": "AD",
+      "type": "historic",
+      "name": "Antonine Wall — Rome's northernmost frontier",
+      "name_ru": "Антонинов вал — самая северная граница Рима",
+      "description": "Around 142 AD, the Emperor Antoninus Pius ordered the construction of a new frontier wall across the waist of Scotland, from the Firth of Forth to the Firth of Clyde — roughly 60 kilometres, some 160 kilometres north of Hadrian's Wall. Built of turf on a stone base with a deep ditch to the north, it was garrisoned by a chain of seventeen forts.\n\nThe Antonine Wall was Rome's most ambitious attempt to hold Scotland, but it was abandoned after only about twenty years and the frontier reverted to Hadrian's Wall. It was briefly reoccupied under Septimius Severus in the early third century, then abandoned permanently. Today it is a UNESCO World Heritage Site, its earthwork banks still clearly visible across the Central Belt of Scotland — a reminder of how far north the world's greatest empire once extended, and how little it profited from doing so.",
+      "description_ru": "Около 142 года н. э. император Антонин Пий приказал возвести новую пограничную стену через перешеек Шотландии — от залива Ферт-оф-Форт до Ферт-оф-Клайд, около 60 километров длиной, примерно на 160 километров севернее Адрианова вала. Построенный из торфа на каменном основании с глубоким рвом с севера, он охранялся цепью из семнадцати фортов.\n\nАнтонинов вал был самой амбициозной попыткой Рима удержать Шотландию, однако был оставлен примерно через двадцать лет — граница вернулась к Адрианову валу. Краткая реоккупация при Септимии Севере в начале III века ничего не изменила. Сегодня вал — объект Всемирного наследия ЮНЕСКО: его земляные насыпи хорошо видны по всему Центральному поясу Шотландии, напоминая о том, как далеко на север простиралась величайшая империя мира — и как мало это ей давало.",
+      "latitude": 56.00296,
+      "longitude": -3.7885,
+      "source": "https://en.wikipedia.org/wiki/Antonine_Wall",
+      "tags": [
+        "Scottish",
+        "Roman",
+        "Building 🏠",
+        "Fortification",
+        "Engineering ⚙️",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0300",
+      "era": "AD",
+      "type": "historic",
+      "name": "The Picts — the painted people of the north",
+      "name_ru": "Пикты — раскрашенный народ севера",
+      "description": "The Picts — named by Roman writers, possibly from a Latin word for 'painted' — inhabited northern and eastern Scotland from at least the third century AD until their kingdom merged with that of the Scots in the ninth century. They left no written literature, but their symbol stones — standing stones and boulders carved with mysterious abstract symbols, animals, and scenes — are among the most striking artistic achievements of early medieval Europe.\n\nThe symbols recur consistently across hundreds of stones from Shetland to the Forth: Z-rods, double-discs, crescent-and-V-rods, mirror-and-combs. No consensus has been reached on their meaning. Pictish metalwork — silver chains, hanging bowls, brooches — is of equally remarkable quality. The Picts defeated the Northumbrian Angles at the Battle of Nechtansmere (685 AD), halting the northward expansion of Northumbria permanently. They remain one of Scotland's enduring mysteries: a powerful, sophisticated people who vanished from history without leaving a written word.",
+      "description_ru": "Пикты — названные римскими писателями, вероятно, от латинского слова «раскрашенные» — населяли северную и восточную Шотландию по меньшей мере с III века н. э. вплоть до слияния их королевства с шотландским в IX веке. Они не оставили письменной литературы, зато их символьные камни — стоячие камни и валуны с загадочными абстрактными знаками, животными и сценами — принадлежат к наиболее впечатляющим художественным достижениям раннесредневековой Европы.\n\nСимволы повторяются на сотнях камней от Шетленда до Форта. В 685 году н. э. пикты разгромили нортумбрийских англов при Нехтансмере, навсегда остановив продвижение Нортумбрии на север. Они остаются одной из неразгаданных тайн Шотландии: могущественный, изощрённый народ, исчезнувший из истории, не оставив ни слова в письменном виде.",
+      "latitude": 57.492,
+      "longitude": -3.026,
+      "source": "https://en.wikipedia.org/wiki/Picts",
+      "tags": [
+        "Scottish",
+        "Celtic",
+        "Prehistoric",
+        "Art",
+        "Culture",
+        "Legend",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0500",
+      "era": "AD",
+      "type": "political",
+      "name": "Dal Riata — the Irish kingdom that became Scotland",
+      "name_ru": "Дал Риада — ирландское королевство, ставшее Шотландией",
+      "description": "Around 500 AD, a dynasty from north-east Ireland — the kingdom of Dal Riata — had extended its control across the narrow sea to the Scottish mainland, establishing a kingdom that straddled Antrim and Argyll. These Irish settlers spoke a Gaelic language, and it is their tongue — not the Brittonic or Pictish languages already in Scotland — that became the ancestor of Scottish Gaelic.\n\nThe capital of Scottish Dal Riata was the hill-fort of Dunadd in Argyll, a rocky outcrop rising from the Kilmartin marshes, where kings were inaugurated over a carved footprint in the rock. The dynasty produced the kings who would eventually absorb the Pictish kingdom and give their name — Scoti — to the entire nation. The word 'Scotland' descends directly from this Irish maritime kingdom of Argyll.",
+      "description_ru": "Около 500 года н. э. династия из Северо-Восточной Ирландии — королевство Дал Риада — распространила контроль через узкое море на шотландский материк, образовав государство, охватывавшее Антрим и Аргайл. Эти ирландские переселенцы говорили на гэльском языке — именно он, а не бриттонский или пиктский, уже бытовавшие в Шотландии, стал предком шотландского гэльского.\n\nСтолицей шотландского Дал Риады было укреплённое городище Данадд в Аргайле, скалистый выступ над болотами Килмартина, где королей посвящали над высеченным в скале отпечатком стопы. Именно эта династия произвела королей, поглотивших пиктское королевство и давших своё имя — Scoti — всей нации. Слово «Шотландия» восходит напрямую к этому ирландскому приморскому королевству.",
+      "latitude": 56.0949,
+      "longitude": -5.4927,
+      "source": "https://en.wikipedia.org/wiki/D%C3%A1l_Riata",
+      "tags": [
+        "Scottish",
+        "Celtic",
+        "King",
+        "Dynasty",
+        "Foundation",
+        "Irish"
+      ]
+    },
+    {
+      "date": "12.05.0563",
+      "era": "AD",
+      "type": "religious",
+      "name": "St Columba founds Iona — the lamp of the north",
+      "name_ru": "Святой Колумба основывает Иону — светильник севера",
+      "description": "In 563 AD, the Irish monk Colum Cille — Columba — sailed from Ireland with twelve companions and established a monastery on the tiny island of Iona off the south-west tip of Mull. From this remote foundation Columba and his successors evangelised Scotland, northern England, and parts of continental Europe, making Iona one of the most influential Christian centres of the early medieval world.\n\nIona produced missionaries who founded Lindisfarne, converting Northumbria; its monks created the Book of Kells, the supreme achievement of Insular illuminated art. The island became the burial place of Scottish and Irish kings — including Macbeth. Columba himself was a figure of formidable personality: scholar, poet, political operator, and saint, whose presence so dominated early Scottish Christianity that the church he founded shaped the islands' spiritual life for centuries.",
+      "description_ru": "В 563 году н. э. ирландский монах Колум Килле — Колумба — отплыл из Ирландии с двенадцатью сподвижниками и основал монастырь на крошечном острове Иона у юго-западной оконечности Малла. Из этого удалённого основания Колумба и его преемники евангелизировали Шотландию, Северную Англию и части континентальной Европы, сделав Иону одним из наиболее влиятельных христианских центров раннесредневекового мира.\n\nИона породила миссионеров, основавших Линдисфарн и обративших Нортумбрию; её монахи создали Книгу Келлса — вершинное достижение островного иллюминированного искусства. Остров стал местом погребения шотландских и ирландских королей — в том числе Макбета. Сам Колумба был личностью огромной силы: учёный, поэт, политик и святой.",
+      "latitude": 56.3328,
+      "longitude": -6.3911,
+      "source": "https://en.wikipedia.org/wiki/Columba",
+      "tags": [
+        "Scottish",
+        "Christian",
+        "Religious",
+        "Saint",
+        "Foundation",
+        "Holy Site",
+        "Culture"
+      ]
+    },
+    {
+      "date": "01.01.0795",
+      "era": "AD",
+      "type": "military",
+      "name": "Vikings raid Iona — the holy island burns",
+      "name_ru": "Викинги грабят Иону — священный остров горит",
+      "description": "In 795 AD, Norse Viking raiders attacked Iona for the first time, plundering the monastery and killing monks. It was one of the earliest Viking raids in British waters. The attack was repeated in 802, 806 — when 68 monks were massacred — and again in 825. Each time the monastery was rebuilt, and its community persisted.\n\nThe Viking assaults forced the removal of many Iona treasures to the Irish mainland for safety — the Book of Kells likely left the island during this period. Eventually, in 849, the relics of Columba himself were divided between Ireland and the new Scottish kingdom. The Viking Age transformed the world of the Gaelic west: Norsemen settled Orkney, Shetland, the Hebrides, and much of the mainland coast, creating a Norse-Gaelic cultural mixing zone that left deep marks on Scottish culture, place-names, and genes.",
+      "description_ru": "В 795 году н. э. норвежские викинги впервые напали на Иону, разграбив монастырь и убив монахов. Это был один из первых набегов викингов в британских водах. Атаки повторились в 802, 806 — когда было вырезано 68 монахов — и снова в 825 году. Каждый раз монастырь отстраивался.\n\nНападения вынудили перевезти многие сокровища Ионы на ирландский материк: Книга Келлса, вероятно, покинула остров в этот период. В 849 году мощи самого Колумбы были разделены между Ирландией и новым шотландским королевством. Эпоха викингов преобразила гэльский запад: норманны осели на Оркнее, Шетленде, Гебридских островах, создав норвежско-гэльскую культурную зону смешения, оставившую глубокий след в шотландской культуре, топонимике и генетике.",
+      "latitude": 56.3328,
+      "longitude": -6.3911,
+      "source": "https://en.wikipedia.org/wiki/Iona_Abbey",
+      "tags": [
+        "Scottish",
+        "Viking",
+        "War",
+        "Raid",
+        "Christian",
+        "Crisis"
+      ]
+    },
+    {
+      "date": "01.01.0843",
+      "era": "AD",
+      "type": "political",
+      "name": "Kenneth MacAlpin — first King of Scots and Picts",
+      "name_ru": "Кеннет МакАлпин — первый король скоттов и пиктов",
+      "description": "Around 843 AD, Kenneth mac Alpin, king of Dal Riata, also became king of the Picts — through conquest, dynastic inheritance, or some combination of both. The mechanics of this union are obscure: the Pictish aristocracy that might have resisted seems to have been eliminated, possibly at a treacherous feast known in tradition as 'MacAlpin's treason.' What is clear is that after Kenneth's reign, the separate Pictish kingdom disappears from history.\n\nKenneth established his capital at Scone — the traditional inauguration site of Scottish kings — and moved the relics of Columba from Iona to Dunkeld, giving his new united kingdom a spiritual centre safer from Viking raids. He is remembered as the founder of the Kingdom of Scotland: Alba in Gaelic. Whatever the reality of his reign, the genealogical and symbolic claims of every subsequent Scottish king descended through him.",
+      "description_ru": "Около 843 года н. э. Кеннет мак Алпин, король Дал Риады, стал также королём пиктов — через завоевание, династическое наследование или их сочетание. Механика этого объединения неясна: пиктская аристократия, способная сопротивляться, по-видимому, была уничтожена, возможно на вероломном пиру, известном в предании как «измена МакАлпина». Ясно одно: после правления Кеннета отдельное пиктское королевство навсегда исчезает из истории.\n\nКеннет утвердил столицу в Скуне — традиционном месте коронации шотландских королей — и перевёз мощи Колумбы с Ионы в Данкелд, дав новому объединённому королевству духовный центр, безопасный от набегов викингов. Он помнится как основатель Королевства Шотландия — Альба на гэльском. Каждый последующий шотландский король выводил свои генеалогические и символические притязания через него.",
+      "latitude": 56.4187,
+      "longitude": -3.4329,
+      "source": "https://en.wikipedia.org/wiki/Kenneth_MacAlpin",
+      "tags": [
+        "Scottish",
+        "Celtic",
+        "King",
+        "Dynasty",
+        "Foundation",
+        "Picts"
+      ]
+    },
+    {
+      "date": "01.01.0874",
+      "era": "AD",
+      "type": "political",
+      "name": "Norse Earldom of Orkney — the Vikings claim the far north",
+      "name_ru": "Норвежское ярлство Оркни — викинги берут крайний север",
+      "description": "The Norsemen had been raiding Orkney and Shetland from the late eighth century; by the 870s they had settled the islands permanently and established the Earldom of Orkney, which would last until 1472. Orkney and Shetland became thoroughly Norse in culture, language, and law — the Norn dialect of Old Norse survived in Shetland until the eighteenth century.\n\nThe earls of Orkney were powerful figures who controlled the shipping lanes of the North Atlantic and frequently intervened in the politics of both Scotland and Norway. The greatest of them, Sigurd the Stout (who died at the Battle of Clontarf in 1014), and Thorfinn the Mighty (who ruled until around 1065), governed a maritime empire stretching from Shetland to the Hebrides. The Norse impact on northern Scotland was profound: a majority of place-names in Caithness, Sutherland, and the islands are of Norse origin.",
+      "description_ru": "Норманны совершали набеги на Оркней и Шетленд с конца VIII века; к 870-м годам они осели на островах постоянно и основали Ярлство Оркни, просуществовавшее до 1472 года. Оркней и Шетленд стали глубоко норвежскими по культуре, языку и праву — нормский диалект древнескандинавского сохранялся на Шетленде вплоть до XVIII века.\n\nЯрлы Оркни были могущественными фигурами, контролировавшими судоходные пути Северной Атлантики и нередко вмешивавшимися в политику и Шотландии, и Норвегии. Торфинн Могучий, правивший до около 1065 года, управлял морской державой, простиравшейся от Шетленда до Гебридов. Норвежское влияние на Северную Шотландию было глубоким и долгим: большинство топонимов в Кейтнессе, Сазерленде и на островах — норвежского происхождения, тихое свидетельство столетий скандинавского присутствия.",
+      "latitude": 58.9831,
+      "longitude": -2.9602,
+      "source": "https://en.wikipedia.org/wiki/Earldom_of_Orkney",
+      "tags": [
+        "Scottish",
+        "Viking",
+        "King",
+        "Dynasty",
+        "Foundation",
+        "Coastal"
+      ]
+    },
+    {
+      "date": "01.01.1040",
+      "era": "AD",
+      "type": "political",
+      "name": "Macbeth — the real king behind Shakespeare's tyrant",
+      "name_ru": "Макбет — настоящий король за шекспировским тираном",
+      "description": "Macbeth mac Findláich, king of Scotland 1040–1057, was not the guilt-wracked tyrant of Shakespeare's imagination but one of Scotland's more capable medieval kings. He killed his predecessor Duncan I in battle — a legitimate act of dynastic competition by the standards of his time — and ruled for seventeen years of relative stability. He was generous to the church, and in 1050 he travelled to Rome on pilgrimage, reportedly scattering money to the poor 'like seed' — something no Scottish king in insecure times could afford to do without confidence in his position.\n\nHe was eventually killed at the Battle of Lumphanan in 1057 by Malcolm Canmore, Duncan's son, backed by English support. Shakespeare's version, written to flatter King James VI (James I of England), presented a murderous usurper cursed by supernatural forces. The real Macbeth was buried on Iona — the traditional resting place of Scottish kings — with full royal honour.",
+      "description_ru": "Макбет мак Финдлайх, король Шотландии в 1040–1057 годах, не был снедаемым виной тираном шекспировского воображения, а одним из более способных средневековых королей Шотландии. Он убил предшественника Дункана I в битве — что было законным актом династического соперничества по меркам его времени — и правил семнадцать лет в относительной стабильности. В 1050 году он совершил паломничество в Рим, по преданию разбрасывая деньги бедным «как семена» — что мог позволить себе лишь уверенный в своём положении король.\n\nОн был убит при Лумфанане в 1057 году Малькольмом Кэнмором, сыном Дункана, поддержанным Англией. Шекспировская версия, написанная для лести королю Якову VI, изобразила убийственного узурпатора. Настоящий Макбет был похоронен на Ионе — с королевскими почестями.",
+      "latitude": 57.1169,
+      "longitude": -2.6025,
+      "source": "https://en.wikipedia.org/wiki/Macbeth,_King_of_Scotland",
+      "tags": [
+        "Scottish",
+        "Celtic",
+        "King",
+        "Dynasty",
+        "Legend",
+        "War"
+      ]
+    },
+    {
+      "date": "01.01.1058",
+      "era": "AD",
+      "type": "political",
+      "name": "Malcolm III and Queen Margaret — Scotland opens to Europe",
+      "name_ru": "Малькольм III и королева Маргарита — Шотландия открывается Европе",
+      "description": "Malcolm III (Malcolm Canmore, 'Big Head') ruled Scotland from 1058 to 1093 and married, as his second wife, the Anglo-Saxon princess Margaret — a granddaughter of Edmund Ironside who had fled the Norman Conquest. The marriage proved transformative: Margaret was a woman of exceptional piety and intelligence who fundamentally altered Scottish court culture.\n\nShe introduced reforms to the Scottish church to bring it into line with Roman practice, founded the ferry across the Firth of Forth for pilgrims to St Andrews, and endowed Dunfermline as a royal religious centre. She was canonised in 1250 — the only Scottish royal saint. Malcolm himself was a warrior king who raided repeatedly into northern England; he was killed at the Battle of Alnwick in 1093, and Margaret died three days later. Their sons, educated at the English court and shaped by their mother's values, would transform Scotland into a feudal kingdom on the European model.",
+      "description_ru": "Малькольм III (Малькольм Кэнмор, «Большая Голова») правил Шотландией с 1058 по 1093 год и женился, вторым браком, на англосаксонской принцессе Маргарите — внучке Эдмунда Железнобокого, бежавшей от Нормандского завоевания. Брак оказался преобразующим: Маргарита была женщиной исключительного благочестия и ума, коренным образом изменившей культуру шотландского двора.\n\nОна провела реформы шотландской церкви, приводя её практику в соответствие с римской, основала переправу через Ферт-оф-Форт для паломников в Сент-Эндрюс и сделала Данфермлин королевским религиозным центром. Она была канонизирована в 1250 году — единственная шотландская королевская святая. Малькольм, сам по натуре воитель, неоднократно совершал набеги на Северную Англию и погиб при Алнике в 1093 году; Маргарита умерла тремя днями позже. Их сыновья, воспитанные при английском дворе под влиянием матери, преобразовали Шотландию в феодальное королевство европейского образца.",
+      "latitude": 56.0722,
+      "longitude": -3.4558,
+      "source": "https://en.wikipedia.org/wiki/Malcolm_III_of_Scotland",
+      "tags": [
+        "Scottish",
+        "King",
+        "Christian",
+        "Religious",
+        "Saint",
+        "Reform",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "01.01.1124",
+      "era": "AD",
+      "type": "political",
+      "name": "David I — the king who transformed Scotland",
+      "name_ru": "Давид I — король, преобразивший Шотландию",
+      "description": "David I, who became king in 1124, was the most transformative Scottish monarch before James VI. Raised at the Norman-English court of Henry I — his brother-in-law — he returned to Scotland with a systematic vision for modernising his kingdom along Anglo-Norman lines. He introduced feudal land tenure, planted Norman and English knights as barons throughout Scotland, founded royal burghs as centres of trade, and reorganised the church into a territorial diocese structure.\n\nHe founded or refounded the great abbeys of Melrose, Jedburgh, Kelso, and Holyrood, giving Scotland an infrastructure of Cistercian and Augustinian monasteries that would serve as centres of learning, agriculture, and administration for centuries. He struck the first Scottish coins and established a royal chancery. His reign is sometimes called the 'Davidian Revolution' — the moment Scotland decisively entered the mainstream of European feudal culture, though Gaelic Scotland beyond the Highland line was slower to follow.",
+      "description_ru": "Давид I, ставший королём в 1124 году, был наиболее преобразующим шотландским монархом до Якова VI. Воспитанный при нормандско-английском дворе Генриха I, он вернулся в Шотландию с систематическим видением модернизации королевства по англо-нормандскому образцу. Он ввёл феодальное землевладение, расселил нормандских и английских рыцарей по всей Шотландии в качестве вассалов, основал королевские бурги как центры торговли и реорганизовал церковь в территориальную диоцезную структуру.\n\nОн основал или переосновал великие аббатства Мелроуза, Джедберо, Келсо и Холируда, дав Шотландии инфраструктуру монастырей, служивших центрами учёности, сельского хозяйства и управления на протяжении веков. Он чеканил первые шотландские монеты и учредил королевскую канцелярию. Его правление называют «Давидовой революцией» — моментом, когда Шотландия решительно вошла в мейнстрим европейской феодальной культуры, хотя гэльская Шотландия за чертой Горного края следовала за ней медленнее.",
+      "latitude": 56.0722,
+      "longitude": -3.4558,
+      "source": "https://en.wikipedia.org/wiki/David_I_of_Scotland",
+      "tags": [
+        "Scottish",
+        "King",
+        "Reform",
+        "Foundation",
+        "Christian",
+        "Law",
+        "Norman"
+      ]
+    },
+    {
+      "date": "01.01.1136",
+      "era": "AD",
+      "type": "religious",
+      "name": "Melrose Abbey — Scotland's great Cistercian house",
+      "name_ru": "Мелроузское аббатство — великий цистерцианский дом Шотландии",
+      "description": "Melrose Abbey in the Scottish Borders, founded by David I in 1136 for Cistercian monks from Rievaulx in Yorkshire, became the wealthiest and most influential monastery in medieval Scotland. Its monks farmed the surrounding hills with enormous efficiency — at their peak they managed flocks of 12,000 sheep — and the abbey became a major player in the international wool trade that financed the construction of its great Gothic church.\n\nThe abbey is the burial place of the heart of Robert the Bruce, interred here after his heart's return from an expedition to the Holy Land. The ruins, damaged by English armies under Richard II in 1385 and never fully repaired after the Reformation, are among the most beautiful in Britain. Nearby Jedburgh, Dryburgh, and Kelso completed the quartet of great Border abbeys founded by David I — a concentration of monastic wealth and learning in the Scottish Borders that shaped the region's culture for four centuries.",
+      "description_ru": "Мелроузское аббатство в Шотландских Бордерах, основанное Давидом I в 1136 году для цистерцианских монахов из Ривола в Йоркшире, стало богатейшим и наиболее влиятельным монастырём средневековой Шотландии. Его монахи с огромной эффективностью обрабатывали окрестные холмы — в пике они управляли отарами в 12 000 овец — и аббатство стало крупным участником международной торговли шерстью, финансировавшей возведение его великой готической церкви.\n\nАббатство является местом погребения сердца Роберта Брюса, захороненного здесь после его возвращения с экспедиции на Святую Землю. Руины, разрушенные английскими армиями под командованием Ричарда II в 1385 году и так и не восстановленные после Реформации, принадлежат к красивейшим в Британии. Соседние Джедберо, Драйбург и Келсо дополняли квартет великих пограничных аббатств Давида I — концентрацию монашеского богатства и учёности в Бордерах, формировавшую культуру региона четыре столетия.",
+      "latitude": 55.5982,
+      "longitude": -2.7217,
+      "source": "https://en.wikipedia.org/wiki/Melrose_Abbey",
+      "tags": [
+        "Scottish",
+        "Christian",
+        "Religious",
+        "Building 🏠",
+        "Architecture",
+        "Holy Site",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "01.01.1192",
+      "era": "AD",
+      "type": "religious",
+      "name": "Scottish church independence — Rome declares Scotland 'a special daughter'",
+      "name_ru": "Независимость шотландской церкви — Рим объявляет Шотландию «особой дочерью»",
+      "description": "In 1192, Pope Celestine III issued the bull Cum universi, declaring the Scottish church directly subject to Rome rather than to the Archbishop of York or Canterbury. Scotland was described as 'a special daughter of the apostolic see, subject to no intermediary' — a remarkable affirmation of Scottish ecclesiastical independence that had a political dimension: it separated the Scottish church from English institutional control.\n\nThe Scottish church had fought for this status for over a century. The declaration had practical consequences: Scottish bishops could no longer be required to attend English church councils or appeal to English archbishops. When Edward I later tried to dominate Scotland politically, the church was one of the key institutions of Scottish resistance, and the Declaration of Arbroath would be addressed to the Pope directly — exploiting the special relationship Celestine III had recognised.",
+      "description_ru": "В 1192 году папа Целестин III издал буллу Cum universi, объявив шотландскую церковь непосредственно подчинённой Риму, а не архиепископу Йоркскому или Кентерберийскому. Шотландия была названа «особой дочерью апостольского престола, не подчинённой никому промежуточному» — утверждение церковной независимости с явным политическим измерением: оно отделяло шотландскую церковь от английского институционального контроля.\n\nШотландская церковь добивалась этого статуса более века. Декларация имела практические последствия: шотландские епископы более не могли быть обязаны присутствовать на английских церковных соборах или апеллировать к английским архиепископам. Когда Эдуард I позднее попытался установить политическое господство над Шотландией, церковь стала одним из ключевых институтов сопротивления, а Арбротская декларация была адресована папе напрямую — используя особые отношения, закреплённые Целестином III.",
+      "latitude": 56.39672,
+      "longitude": -3.4373,
+      "source": "https://en.wikipedia.org/wiki/Scottish_Church",
+      "tags": [
+        "Scottish",
+        "Christian",
+        "Religious",
+        "Law",
+        "Foundation",
+        "Reform"
+      ]
+    },
+    {
+      "date": "01.01.1263",
+      "era": "AD",
+      "type": "military",
+      "name": "Battle of Largs — the Norse Age ends in Scotland",
+      "name_ru": "Битва при Ларгсе — норвежская эпоха в Шотландии завершается",
+      "description": "In 1263, King Haakon IV of Norway sailed a large fleet to Scotland to reassert Norwegian sovereignty over the Hebrides, which the Scots had been attempting to purchase or conquer for years. Near the town of Largs on the Firth of Clyde, a storm scattered part of the fleet and the Scots engaged the beached ships. The resulting skirmish was indecisive, but Haakon withdrew northward and died in Orkney on the return journey.\n\nThe battle was more symbolic than decisive, but it exposed Norway's inability to project power to the western isles. The Treaty of Perth (1266) followed: Norway ceded the Hebrides and the Isle of Man to Scotland in exchange for a one-time payment and an annual sum. Orkney and Shetland remained Norwegian until 1472, when they were pledged as a dowry and never redeemed. Scotland's western and northern frontiers were now largely defined.",
+      "description_ru": "В 1263 году король Норвегии Хокон IV привёл большой флот к Шотландии, чтобы восстановить норвежский суверенитет над Гебридами, которые шотландцы годами пытались купить или завоевать. Близ Ларгса на Ферт-оф-Клайд буря рассеяла часть флота, и шотландцы вступили в схватку с выброшенными на берег судами. Стычка осталась нерешительной по военным итогам, однако Хокон отступил на север и умер на Оркнее на обратном пути.\n\nВ 1266 году последовал Пертский договор: Норвегия уступила Гебриды и остров Мэн Шотландии в обмен на единовременную выплату и ежегодную сумму. Оркней и Шетленд оставались норвежскими до 1472 года, когда были заложены как приданое при браке и так и не выкуплены. Западные и северные рубежи Шотландии были теперь в основном определены, а норвежская эпоха в шотландской истории подходила к концу.",
+      "latitude": 55.7957,
+      "longitude": -4.8695,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Largs",
+      "tags": [
+        "Scottish",
+        "Viking",
+        "War",
+        "Battle",
+        "King",
+        "Treaty"
+      ]
+    },
+    {
+      "date": "01.01.1291",
+      "era": "AD",
+      "type": "political",
+      "name": "The Great Cause — thirteen claimants and Scotland's fatal choice",
+      "name_ru": "Великое дело — тринадцать претендентов и роковой выбор Шотландии",
+      "description": "When the young Scottish queen Margaret, Maid of Norway, died in 1290 leaving no heir, thirteen claimants to the Scottish throne presented their cases. With civil war threatening, the Scottish nobility made what proved a disastrous decision: they invited Edward I of England to adjudicate. Edward agreed — but only after requiring the Scottish claimants to acknowledge him as feudal overlord of Scotland.\n\nEdward awarded the crown to John Balliol in 1292 — the candidate with the strongest legal claim. But he treated Balliol as a subordinate rather than a sovereign, demanding Scottish troops and resources for his French wars. When Balliol's council concluded a treaty with France in 1295 — the beginning of the Auld Alliance — Edward invaded, defeated Balliol, removed him from the throne, and seized Scotland. He also took the Stone of Destiny from Scone to Westminster. Scotland was now a conquered province, and the Wars of Independence had begun.",
+      "description_ru": "Когда молодая шотландская королева Маргарита, Норвежская Дева, умерла в 1290 году, не оставив наследника, тринадцать претендентов на шотландский трон представили свои права. Перед угрозой гражданской войны шотландская знать приняла роковое решение: пригласить Эдуарда I Английского в качестве арбитра. Эдуард согласился — но только после того, как шотландские претенденты признали его феодальным сюзереном Шотландии.\n\nЭдуард присудил корону Иоанну Балиолу в 1292 году. Но он обращался с Балиолом как с подчинённым, а не сувереном. Когда совет Балиола заключил договор с Францией в 1295 году — начало Старого союза, — Эдуард вторгся в Шотландию, сверг Балиола и захватил Камень Судьбы из Скуна. Шотландия стала завоёванной провинцией, и началась Война за независимость.",
+      "latitude": 56.4187,
+      "longitude": -3.4329,
+      "source": "https://en.wikipedia.org/wiki/Great_Cause",
+      "tags": [
+        "Scottish",
+        "King",
+        "Dynasty",
+        "Crisis",
+        "Law",
+        "Plantagenet",
+        "Invasion"
+      ]
+    },
+    {
+      "date": "11.09.1297",
+      "era": "AD",
+      "type": "military",
+      "name": "Battle of Stirling Bridge — Wallace and the impossible victory",
+      "name_ru": "Битва на Стерлингском мосту — Уоллес и невозможная победа",
+      "description": "William Wallace — a knight of modest background, his origins still obscure — emerged in 1297 as the leader of a popular Scottish rising against English occupation. At Stirling Bridge on 11 September 1297, he and Andrew de Moray exploited the geography perfectly: letting the English army begin to cross a narrow wooden bridge over the River Forth, then attacking while the force was split. The English were routed and the treasurer Hugh de Cressingham was killed.\n\nThe victory was intoxicating: it proved that the English military machine was not invincible. Wallace was appointed Guardian of Scotland in the name of the captive King John. But his triumph was short-lived: Edward I returned in person, defeated Wallace at Falkirk in 1298, and pursued him for seven years. Wallace was captured in 1305, taken to London, and executed at Smithfield with the full cruelty reserved for traitors. His death made him Scotland's most enduring national hero.",
+      "description_ru": "Уильям Уоллес — рыцарь скромного происхождения — в 1297 году возглавил народное восстание против английской оккупации. На Стерлингском мосту 11 сентября 1297 года он и Эндрю де Морей использовали географию в совершенстве: позволив английской армии начать переправу через узкий деревянный мост над рекой Форт, а затем атаковав, когда войска оказались разделены. Англичане были разгромлены.\n\nПобеда была опьяняющей: она доказала, что английская военная машина не непобедима. Уоллес был назначен Хранителем Шотландии от имени пленного Иоанна Балиола. Но его триумф был недолгим: Эдуард I вернулся лично, разбил Уоллеса при Фолкирке в 1298 году и преследовал его семь лет. Казнённый в 1305 году в Смитфилде, он стал самым стойким национальным героем Шотландии.",
+      "latitude": 56.11812,
+      "longitude": -3.93527,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Stirling_Bridge",
+      "tags": [
+        "Scottish",
+        "English",
+        "War",
+        "Battle",
+        "Resistance",
+        "Independence",
+        "Plantagenet"
+      ]
+    },
+    {
+      "date": "25.03.1306",
+      "era": "AD",
+      "type": "political",
+      "name": "Robert the Bruce crowned King of Scots",
+      "name_ru": "Роберт Брюс коронован королём Шотландии",
+      "description": "Robert Bruce, Earl of Carrick and one of Scotland's great noble families — of Norman descent with claims to the throne — murdered his rival John Comyn at a friary in Dumfries in February 1306, making confrontation with England inevitable. Six weeks later, on 25 March 1306, he was crowned King of Scots at Scone by Isabel, Countess of Buchan, acting for her brother the Earl of Fife.\n\nFor the first year his situation was desperate: he was defeated at Methven, his supporters were captured and hanged, his wife and daughter were imprisoned by Edward I. He spent the winter a fugitive, hiding in the west Highlands and the islands. The legend of Bruce and the spider — watching a spider repeatedly try to spin its web, learning persistence from failure — captures this period. Gradually he rebuilt, captured castle after castle, and by the time Edward I died in 1307 Scotland had a real king again.",
+      "description_ru": "Роберт Брюс, эрл Каррикский, в феврале 1306 года убил своего соперника Иоанна Комина во францисканском монастыре в Дамфрисе, сделав столкновение с Англией неизбежным. Шесть недель спустя, 25 марта 1306 года, он был коронован королём Шотландии в Скуне Изабель, графиней Бьюкен, действовавшей за своего брата, эрла Файфского.\n\nВ первый год его положение было отчаянным: разгромлен при Метвене, сторонники схвачены и повешены, жена и дочь заключены под стражу Эдуардом I. Он провёл зиму беглецом, скрываясь в западных Горах. Легенда о Брюсе и пауке — наблюдавшем, как паук снова и снова пытается сплести паутину, — относится к этому периоду. Постепенно он восстановил силы, и к смерти Эдуарда I в 1307 году у Шотландии снова был настоящий король.",
+      "latitude": 56.4187,
+      "longitude": -3.4329,
+      "source": "https://en.wikipedia.org/wiki/Robert_the_Bruce",
+      "tags": [
+        "Scottish",
+        "King",
+        "Dynasty",
+        "War",
+        "Foundation",
+        "Independence"
+      ]
+    },
+    {
+      "date": "24.06.1314",
+      "era": "AD",
+      "type": "military",
+      "name": "Battle of Bannockburn — Scotland's greatest victory",
+      "name_ru": "Битва при Баннокберне — величайшая победа Шотландии",
+      "description": "On 24 June 1314, Robert the Bruce's smaller Scottish army — perhaps 6,000–8,000 men — destroyed an English force of 15,000–20,000 at Bannockburn near Stirling, in the most decisive Scottish military victory ever achieved. The English cavalry charged onto ground chosen by Bruce: boggy, broken terrain that nullified their mounted advantage. Disciplined Scottish schiltrons — tight circles of spearmen — broke charge after charge.\n\nEdward II fled the battlefield on horseback. Bannockburn did not immediately end the war, but it made Scottish independence practically irreversible and transformed Bruce from a disputed claimant into the undisputed king. Hundreds of English prisoners were taken, including nobles worth enormous ransoms; the cash funded the continued Scottish war effort. The battle is still commemorated every year in Scotland as the moment the nation proved it could defend itself.",
+      "description_ru": "24 июня 1314 года меньшая шотландская армия Роберта Брюса — возможно, от 6000 до 8000 человек — уничтожила английские силы в 15 000–20 000 у Баннокберна близ Стерлинга, одержав наиболее решительную военную победу за всю шотландскую историю. Английская кавалерия атаковала на местности, выбранной Брюсом: болотистой, пересечённой, сводившей конное преимущество на нет. Дисциплинированные шотландские шилтроны — плотные кольца копейщиков — отражали атаку за атакой.\n\nЭдуард II бежал с поля боя верхом. Баннокберн не завершил войну немедленно, но сделал шотландскую независимость практически необратимой и превратил Брюса из спорного претендента в бесспорного короля. Сотни английских пленников принесли огромные выкупы, финансировавшие дальнейшую войну. Битва по сей день ежегодно отмечается в Шотландии как момент, когда нация доказала способность себя защитить.",
+      "latitude": 56.08888,
+      "longitude": -3.921,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Bannockburn",
+      "tags": [
+        "Scottish",
+        "English",
+        "War",
+        "Battle",
+        "King",
+        "Independence",
+        "Plantagenet"
+      ]
+    },
+    {
+      "date": "06.04.1320",
+      "era": "AD",
+      "type": "political",
+      "name": "Declaration of Arbroath — the voice of a nation",
+      "name_ru": "Арбротская декларация — голос нации",
+      "description": "On 6 April 1320, the Scottish nobility wrote to Pope John XXII from Arbroath Abbey to assert Scotland's independence and ask for papal recognition. The Declaration of Arbroath is the most eloquent statement of national sovereignty in medieval history. Its key passage: 'For as long as but a hundred of us remain alive, we will never on any conditions be subjected to the domination of the English. It is in truth not for glory, nor riches, nor honours that we are fighting, but for freedom — for that alone, which no honest man gives up but with life itself.'\n\nThe letter also contained a remarkable warning to their own king: if Robert Bruce were ever to submit to English rule, the Scots would choose another king. Sovereignty resided not only in the king but in the community of the realm. The Declaration is sometimes cited as an influence on the American Declaration of Independence. It is preserved in the National Records of Scotland, and 6 April is celebrated as Tartan Day in North America.",
+      "description_ru": "6 апреля 1320 года шотландская знать написала папе Иоанну XXII из аббатства Арброт, утверждая независимость Шотландии и прося папского признания. Арбротская декларация — наиболее красноречивое заявление о национальном суверенитете в средневековой истории. Её ключевой отрывок: «Ибо пока хотя бы сотня из нас останется в живых, мы ни при каких условиях не подчинимся английскому владычеству. Поистине, мы сражаемся не ради славы, богатства и почестей, но ради свободы — той единственной, которой честный человек не расстаётся иначе как с жизнью».\n\nПисьмо также содержало примечательное предупреждение собственному королю: если Роберт Брюс когда-либо подчинится английскому правлению, шотландцы изберут другого короля. Суверенитет принадлежал не только монарху, но и общине всего королевства. Декларация хранится в Национальных архивах Шотландии, а 6 апреля отмечается как День Тартана в Северной Америке — праздник шотландской диаспоры по всему миру.",
+      "latitude": 56.5579,
+      "longitude": -2.5844,
+      "source": "https://en.wikipedia.org/wiki/Declaration_of_Arbroath",
+      "tags": [
+        "Scottish",
+        "King",
+        "Law",
+        "Foundation",
+        "Independence",
+        "Text",
+        "Resistance"
+      ]
+    },
+    {
+      "date": "01.03.1328",
+      "era": "AD",
+      "type": "political",
+      "name": "Treaty of Edinburgh–Northampton — England recognises Scottish independence",
+      "name_ru": "Эдинбургско-Нортгемптонский договор — Англия признаёт независимость Шотландии",
+      "description": "On 1 March 1328, the Treaty of Edinburgh–Northampton was sealed: England formally recognised Scotland as a fully independent kingdom and Robert the Bruce as its king, renouncing all claims to Scottish feudal superiority. The Stone of Destiny, taken by Edward I in 1296, was to be returned — though in the event it was not, and remained at Westminster until 1996.\n\nThe treaty was the formal conclusion of the Wars of Independence, though it was almost immediately undermined: Bruce died in 1329, his young son David II succeeded as a child, and Edward III repudiated the treaty within years, supporting a Scottish rival claimant. The wars resumed. But the Treaty of Edinburgh–Northampton stands as the moment of formal English acknowledgement that Scotland was a separate sovereign nation — a recognition that took thirty years of resistance and the sacrifice of Wallace, Bruce, and thousands of others to achieve.",
+      "description_ru": "1 марта 1328 года был скреплён Эдинбургско-Нортгемптонский договор: Англия официально признала Шотландию полностью независимым королевством, а Роберта Брюса — её королём, отказавшись от всех притязаний на феодальное верховенство. Камень Судьбы, взятый Эдуардом I в 1296 году, подлежал возвращению — однако на деле он оставался в Вестминстере вплоть до 1996 года.\n\nДоговор стал формальным завершением Войны за независимость, хотя почти сразу же оказался подорван: Брюс умер в 1329 году, его юный сын Давид II наследовал ребёнком, и Эдуард III отверг договор в течение нескольких лет, поддержав соперничающего претендента. Войны возобновились. Тем не менее Эдинбургско-Нортгемптонский договор навсегда остаётся моментом официального английского признания Шотландии отдельной суверенной нацией — признания, которое потребовало тридцати лет сопротивления и жертв Уоллеса, Брюса и тысяч других.",
+      "latitude": 55.94872,
+      "longitude": -3.19977,
+      "source": "https://en.wikipedia.org/wiki/Treaty_of_Edinburgh%E2%80%93Northampton",
+      "tags": [
+        "Scottish",
+        "English",
+        "King",
+        "Treaty",
+        "Independence",
+        "Law",
+        "Plantagenet"
+      ]
+    },
+    {
+      "date": "01.01.1330",
+      "era": "AD",
+      "type": "military",
+      "name": "The Black Douglas — Scotland's most feared warrior",
+      "name_ru": "Чёрный Дуглас — самый грозный воин Шотландии",
+      "description": "Sir James Douglas (c.1286–1330), known as the Black Douglas or the Good Sir James, was Robert the Bruce's closest lieutenant and the most feared Scottish soldier of his generation. He recaptured Douglas Castle from the English three times, each time employing stratagems of legendary cunning. In England he became a bogeyman: northern mothers frightened their children with tales of the Black Douglas.\n\nWhen Bruce died in 1329, he entrusted Douglas with carrying his embalmed heart to the Holy Land on crusade. Douglas set out in 1330 but was killed in Spain at the Battle of Teba, fighting the Moors of Granada alongside the Castilian king — throwing the casket containing Bruce's heart into the enemy lines and charging after it. The heart was recovered and returned to Melrose Abbey. The story of Bruce's heart and the Black Douglas's death became one of the great chivalric tales of medieval Scotland.",
+      "description_ru": "Сэр Джеймс Дуглас (ок. 1286–1330), известный как Чёрный Дуглас или Добрый сэр Джеймс, был ближайшим соратником Роберта Брюса и наиболее грозным шотландским воином своего поколения. Он трижды отвоёвывал замок Дуглас у англичан, каждый раз прибегая к хитроумным уловкам, вошедшим в легенду. В Англии он стал пугалом — северные матери пугали им непослушных детей.\n\nКогда Брюс умер в 1329 году, он поручил Дугласу отвезти своё забальзамированное сердце в Святую Землю на крестовый поход. Дуглас отправился в 1330 году, однако был убит в Испании при Тебе, сражаясь с маврами Гранады рядом с кастильским королём: он бросил шкатулку с сердцем Брюса во вражеские ряды и устремился за ней. Сердце было найдено и возвращено в Мелроузское аббатство. История о сердце Брюса и гибели Чёрного Дугласа стала одним из великих рыцарских сказаний средневековой Шотландии.",
+      "latitude": 55.5557,
+      "longitude": -3.8509,
+      "source": "https://en.wikipedia.org/wiki/James_Douglas,_Lord_of_Douglas",
+      "tags": [
+        "Scottish",
+        "King",
+        "War",
+        "Battle",
+        "Legend",
+        "Military",
+        "Crusade"
+      ]
+    },
+    {
+      "date": "01.01.1380",
+      "era": "AD",
+      "type": "cultural",
+      "name": "John Barbour and the Brus — Scotland's national epic",
+      "name_ru": "Джон Барбур и «Брюс» — национальный эпос Шотландии",
+      "description": "John Barbour, Archdeacon of Aberdeen, completed his epic poem The Brus around 1375–1377 — the first major literary work written in Scots, and the founding text of Scottish national literature. It chronicles the life of Robert the Bruce and the Wars of Independence in some 13,000 lines of verse, combining chronicle accuracy with chivalric heroism and vivid narrative.\n\nThe Brus established themes that would define Scottish literary identity: the supreme value of freedom, the dignity of the common soldier, and the idea that Scotland's story was one of resistance against overwhelming odds. Its most famous lines — 'Ah! Freedom is a noble thing!' — echo the Declaration of Arbroath in verse. Barbour also wrote a genealogical poem on the Stewarts, helping to legitimise the dynasty that had just come to power. He is the father of Scottish literature.",
+      "description_ru": "Джон Барбур, архидиакон Абердина, завершил свою эпическую поэму «Брюс» около 1375–1377 годов — первое крупное литературное произведение на языке скотс и основополагающий текст шотландской национальной литературы. Около 13 000 строк охватывают жизнь Роберта Брюса и Войну за независимость, сочетая хроникальную точность с рыцарским героизмом и живым повествованием.\n\n«Брюс» утвердил темы, определившие шотландскую литературную идентичность: высшую ценность свободы, достоинство рядового воина и идею о том, что история Шотландии — это история сопротивления подавляющему превосходству. Его знаменитейшие строки — «Ах, свобода — прекрасная вещь!» — перекликаются в стихах с Арбротской декларацией. Барбур также написал генеалогическую поэму о Стюартах, помогая легитимизировать только что пришедшую к власти династию. Он по праву считается отцом шотландской литературы.",
+      "latitude": 57.1498,
+      "longitude": -2.0935,
+      "source": "https://en.wikipedia.org/wiki/John_Barbour_(poet)",
+      "tags": [
+        "Scottish",
+        "Culture",
+        "Literature",
+        "Text",
+        "Poetry",
+        "Independence",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "19.08.1388",
+      "era": "AD",
+      "type": "military",
+      "name": "Battle of Otterburn — the moonlit triumph of Scottish arms",
+      "name_ru": "Битва при Оттерберне — триумф шотландского оружия в лунном свете",
+      "description": "On the night of 19 August 1388, a Scottish raiding force under James, Earl of Douglas, fought an English army under Henry Percy ('Hotspur') at Otterburn in Northumberland by moonlight. Douglas was killed in the battle, but the Scots won decisively — capturing Hotspur and his brother and holding them for large ransoms.\n\nOtterburn was celebrated on both sides: the English ballad Chevy Chase and the Scottish ballad The Battle of Otterburn each immortalised the fight from their own perspective. The battle was part of the chronic Border warfare between Scotland and England in the fourteenth century — a cycle of raid, counter-raid, and pitched battle that defined the culture of the Scottish Borders and gave rise to the Border ballad tradition, one of the richest bodies of vernacular song in any language.",
+      "description_ru": "В ночь на 19 августа 1388 года шотландский рейдовый отряд под командованием Джеймса, эрла Дугласа, сразился с английской армией под командованием Генри Перси (Хотспера) у Оттерберна в Нортумберленде при лунном свете. Дуглас был убит в бою, но шотландцы одержали убедительную победу — захватив Хотспера и его брата и потребовав за них большие выкупы.\n\nОттерберн был прославлен с обеих сторон: английская баллада «Охота на горе Чевиот» и шотландская баллада «Битва при Оттерберне» увековечили бой каждая со своей точки зрения. Битва была частью хронической пограничной войны, порождавшей культуру Бордерленда и традицию пограничных баллад — одного из богатейших корпусов народной песни на любом языке.",
+      "latitude": 55.2289,
+      "longitude": -2.1715,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Otterburn",
+      "tags": [
+        "Scottish",
+        "English",
+        "War",
+        "Battle",
+        "Culture",
+        "Poetry",
+        "Border"
+      ]
+    },
+    {
+      "date": "01.01.1406",
+      "era": "AD",
+      "type": "cultural",
+      "name": "James I — the poet-king of Scotland",
+      "name_ru": "Яков I — поэт-король Шотландии",
+      "description": "James I of Scotland, captured by English pirates at sea in 1406 while being sent to France for safety, spent eighteen years as a prisoner of the English crown — educated, well-treated, and kept as a political hostage. During his captivity he wrote The Kingis Quair ('The King's Book'), an autobiographical poem in the manner of Chaucer describing his imprisonment, his view through the prison window of a beautiful woman in a garden, and his falling in love.\n\nReleased in 1424 for a large ransom, he returned to Scotland and ruled with energy and ruthlessness: he broke the power of the Albany Stewarts, reformed taxation and justice, and attempted to impose order on the Highland clans. He was murdered in Perth in 1437 by a conspiracy of nobles he had alienated. The Kingis Quair — composed in the Scottish tradition but shaped by English and French literary models — marks the beginning of the Scottish Makars tradition of court poetry that would reach its peak in the following century with Dunbar and Henryson.",
+      "description_ru": "Яков I Шотландский, захваченный английскими пиратами в море в 1406 году, провёл восемнадцать лет в плену при английском дворе — образованный, вполне содержавшийся и удерживавшийся как политический заложник. В плену он написал «Книгу Короля» (The Kingis Quair) — автобиографическую поэму в манере Чосера, описывающую заключение, вид из тюремного окна на прекрасную женщину в саду и зарождение любви.\n\nОсвобождённый в 1424 году за большой выкуп, он вернулся в Шотландию и правил энергично и беспощадно: сломил власть Олбани Стюартов, реформировал налогообложение и правосудие, пытался навести порядок в горных кланах. Он был убит в Перте в 1437 году заговором оттолкнутых им вельмож. «Книга Короля», созданная в шотландской традиции но сформированная английскими и французскими образцами, знаменует начало традиции шотландских макаров — придворных поэтов, достигшей расцвета в следующем веке у Данбара и Хенрисона.",
+      "latitude": 56.39672,
+      "longitude": -3.4373,
+      "source": "https://en.wikipedia.org/wiki/James_I_of_Scotland",
+      "tags": [
+        "Scottish",
+        "King",
+        "Culture",
+        "Literature",
+        "Poetry",
+        "Text",
+        "Dynasty"
+      ]
+    }
+  ]
+}
