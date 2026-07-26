@@ -331,7 +331,7 @@
     },
     {
       "date": "30.03.1296",
-      "era": "medieval",
+      "era": "AD",
       "type": "military",
       "name": "Sack of Berwick — Edward I begins Scotland's conquest",
       "name_ru": "Разграбление Бервика — Эдуард I начинает завоевание Шотландии",
@@ -351,7 +351,7 @@
     },
     {
       "date": "03.05.1297",
-      "era": "medieval",
+      "era": "AD",
       "type": "military",
       "name": "Wallace kills the Sheriff of Lanark — a rebellion ignites",
       "name_ru": "Уоллес убивает шерифа Ланарка — восстание вспыхивает",
@@ -371,7 +371,7 @@
     },
     {
       "date": "01.06.1297",
-      "era": "medieval",
+      "era": "AD",
       "type": "military",
       "name": "Andrew Moray raises the north — two rebellions become one",
       "name_ru": "Эндрю Морэй поднимает север — два восстания сливаются в одно",
@@ -391,7 +391,7 @@
     },
     {
       "date": "01.10.1297",
-      "era": "medieval",
+      "era": "AD",
       "type": "military",
       "name": "Wallace raids into northern England — Scotland strikes back",
       "name_ru": "Уоллес совершает набег на север Англии — Шотландия наносит ответный удар",
@@ -411,7 +411,7 @@
     },
     {
       "date": "01.12.1297",
-      "era": "medieval",
+      "era": "AD",
       "type": "political",
       "name": "Wallace appointed Guardian of Scotland",
       "name_ru": "Уоллес назначен Хранителем Шотландии",
@@ -431,7 +431,7 @@
     },
     {
       "date": "22.07.1298",
-      "era": "medieval",
+      "era": "AD",
       "type": "military",
       "name": "Battle of Falkirk — Wallace broken by the longbow",
       "name_ru": "Битва при Фолкирке — Уоллес сломлен английским луком",
@@ -451,7 +451,7 @@
     },
     {
       "date": "01.01.1299",
-      "era": "medieval",
+      "era": "AD",
       "type": "political",
       "name": "Wallace in exile — fugitive, diplomat, and enduring symbol",
       "name_ru": "Уоллес в изгнании — беглец, дипломат и живой символ",
@@ -471,7 +471,7 @@
     },
     {
       "date": "23.08.1305",
-      "era": "medieval",
+      "era": "AD",
       "type": "historic",
       "name": "Execution of William Wallace — Scotland's greatest martyr",
       "name_ru": "Казнь Уильяма Уоллеса — величайший мученик Шотландии",
