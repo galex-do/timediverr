@@ -3,89 +3,6 @@
   "filename": "BC1_scotland.json",
   "events": [
     {
-      "date": "01.01.3100",
-      "era": "BC",
-      "type": "historic",
-      "name": "Skara Brae — the best-preserved Neolithic village in Europe",
-      "name_ru": "Скара-Брей — лучшая из сохранившихся деревень неолита в Европе",
-      "description": "Skara Brae on the Orkney mainland, occupied roughly 3100–2500 BC, is the best-preserved Neolithic village in northern Europe. Buried and protected by sand dunes for millennia, it was exposed by a storm in 1850. Its eight interconnected stone houses are remarkably intact: stone beds, dressers, hearths, and storage boxes survive in place, giving an intimate picture of life 5,000 years ago.\n\nThe village predates both Stonehenge and the Egyptian pyramids. Its inhabitants were farmers and fishermen who kept cattle and sheep, grew barley, hunted red deer, and gathered shellfish. The quality of the stone furniture — crafted without metal tools — and the drainage system connecting each house to a shared sewer suggest a community of considerable sophistication. Skara Brae is now a UNESCO World Heritage Site.",
-      "description_ru": "Скара-Брей на Оркнейском острове, населённый примерно в 3100–2500 годах до н. э., — лучшая из сохранившихся деревень неолита в Северной Европе. Погребённый и защищённый дюнами на тысячелетия, он был обнажён бурей в 1850 году. Восемь соединённых между собой каменных домов сохранились в поразительной целости: каменные кровати, буфеты, очаги и ящики для хранения стоят на своих местах, давая интимный портрет жизни 5000 лет назад.\n\nДеревня старше Стоунхенджа и египетских пирамид. Её жители были фермерами и рыбаками, державшими скот и разводившими ячмень. Качество каменной мебели и дренажная система, соединяющая каждый дом с общей канализацией, говорят об обществе значительной изощрённости. Скара-Брей — объект Всемирного наследия ЮНЕСКО.",
-      "latitude": 59.0447,
-      "longitude": -3.34173,
-      "source": "https://en.wikipedia.org/wiki/Skara_Brae",
-      "tags": [
-        "Scottish",
-        "Neolithic",
-        "Prehistoric",
-        "Building 🏠",
-        "Holy Site",
-        "Engineering ⚙️"
-      ]
-    },
-    {
-      "date": "01.01.2900",
-      "era": "BC",
-      "type": "religious",
-      "name": "Callanish Standing Stones — the cathedral of the Outer Hebrides",
-      "name_ru": "Камни Каллениша — собор Внешних Гебридских островов",
-      "description": "The Callanish Standing Stones on the Isle of Lewis, erected around 2900–2600 BC, form one of the most dramatic megalithic complexes in Europe. Thirteen primary stones stand in a rough circle, with four long rows radiating outward like the arms of a cross — an arrangement unique in Britain. The tallest stone reaches nearly five metres.\n\nAt the major lunar standstill — a roughly 18.6-year cycle when the moon rises and sets at its most extreme points — the moon appears to skim along the ridge of the hills to the south before setting between two stones of the circle. Whether this was deliberately planned by the builders, and what ceremonies they performed here, remains unknown. What is certain is that Callanish was a place of repeated ritual use over many centuries, commanding a landscape of extraordinary bleakness and beauty.",
-      "description_ru": "Мегалитический комплекс Каллениш на острове Льюис, возведённый около 2900–2600 годов до н. э., — один из самых впечатляющих в Европе. Тринадцать основных камней стоят в грубом круге, от которого расходятся четыре длинных ряда в форме, уникальной для Британии, — подобие вытянутого креста. Самый высокий камень достигает почти пяти метров в высоту.\n\nВ момент большого лунного стояния — цикла протяжённостью около 18,6 лет — луна скользит над грядой южных холмов и садится между двумя камнями круга. Намеренно ли строители планировали это астрономическое выравнивание и какие церемонии здесь отправлялись — по-прежнему неизвестно. Несомненно одно: Каллениш на протяжении многих веков служил местом повторяющегося ритуального использования в ландшафте исключительной суровой красоты.",
-      "latitude": 58.1976,
-      "longitude": -6.7447,
-      "source": "https://en.wikipedia.org/wiki/Callanish_Stones",
-      "tags": [
-        "Scottish",
-        "Neolithic",
-        "Prehistoric",
-        "Megalith",
-        "Holy Site",
-        "Astronomy",
-        "Legend"
-      ]
-    },
-    {
-      "date": "01.01.2800",
-      "era": "BC",
-      "type": "religious",
-      "name": "Maeshowe — Orkney's masterpiece of Neolithic architecture",
-      "name_ru": "Мейсхоу — шедевр неолитической архитектуры Оркнея",
-      "description": "Maeshowe, built around 2800 BC on Orkney, is one of the finest chambered tombs in north-western Europe. A long passage of precisely fitted stone slabs leads to a central chamber whose construction required architectural skill comparable to anything in the ancient world: the corbelled roof rises to a height of 4.5 metres, each stone course slightly overhanging the last with perfect balance.\n\nAt the winter solstice, the setting sun shines directly down the entrance passage to illuminate the back wall of the chamber — an alignment built in with extraordinary precision. The site was broken into by Norse settlers in the twelfth century AD, who left the largest collection of runic graffiti in the world carved into the walls: love poems, boastful claims, and the image of a dragon. Vikings and Neolithic farmers, separated by three millennia, left their marks in the same stone chamber.",
-      "description_ru": "Мейсхоу, построенный около 2800 года до н. э. на Оркнее, — один из лучших коридорных погребальных курганов в Северо-Западной Европе. Длинный коридор из точно пригнанных каменных плит ведёт в центральную камеру, строительство которой требовало архитектурного мастерства, сравнимого с чем угодно в древнем мире: ложносводчатая кровля поднимается на 4,5 метра.\n\nВ день зимнего солнцестояния заходящее солнце светит прямо по входному коридору, освещая заднюю стену камеры — выравнивание, заложенное с исключительной точностью. В XII веке н. э. в кургане побывали норвежцы, оставившие на стенах крупнейшее собрание рунических граффити в мире: любовные стихи, хвастливые надписи и изображение дракона. Викинги и неолитические земледельцы, разделённые тремя тысячелетиями, оставили следы в одной каменной камере.",
-      "latitude": 58.9971,
-      "longitude": -3.1871,
-      "source": "https://en.wikipedia.org/wiki/Maeshowe",
-      "tags": [
-        "Scottish",
-        "Neolithic",
-        "Prehistoric",
-        "Megalith",
-        "Holy Site",
-        "Astronomy",
-        "Viking"
-      ]
-    },
-    {
-      "date": "01.01.0200",
-      "era": "BC",
-      "type": "historic",
-      "name": "The brochs — Scotland's unique Iron Age towers",
-      "name_ru": "Брохи — уникальные башни железного века Шотландии",
-      "description": "Brochs are a type of circular drystone tower found only in Scotland — roughly 500 survive, concentrated in the north and west, in Orkney, Shetland, and the Western Isles. Built without mortar, without metal tools, and without written instruction, they are among the most sophisticated structures of Iron Age Europe: hollow-walled towers that could reach 13 metres in height, with internal galleries, staircases, and hearths.\n\nThe Broch of Mousa on Shetland, still standing nearly to its original height of 13 metres, is the finest surviving example. Brochs were probably the residences of local chieftains — conspicuous, defensible, and enormously labour-intensive to build, they announced power and prestige across the treeless northern landscape. Their engineering — the double-wall construction that distributes weight while allowing access within the wall itself — has no parallel anywhere in the ancient world.",
-      "description_ru": "Брохи — тип круглых башен из сухой кладки, встречающихся только в Шотландии: сохранилось около 500 штук, сосредоточенных на севере и западе, на Оркнее, Шетленде и Внешних Гебридах. Возведённые без раствора, металлических инструментов и письменных инструкций, они относятся к наиболее изощрённым сооружениям железного века Европы: полые башни, достигавшие 13 метров в высоту, с внутренними галереями, лестницами и очагами.\n\nБрох Моусы на Шетленде, стоящий почти в первоначальную высоту 13 метров, — лучший сохранившийся образец. Брохи, по всей видимости, служили резиденциями местных вождей — заметные, обороноспособные и требующие огромных трудозатрат, они провозглашали власть и престиж через безлесный северный ландшафт.",
-      "latitude": 59.98912,
-      "longitude": -1.18447,
-      "source": "https://en.wikipedia.org/wiki/Broch",
-      "tags": [
-        "Scottish",
-        "Prehistoric",
-        "Iron Age",
-        "Building 🏠",
-        "Architecture",
-        "Fortification",
-        "Engineering ⚙️"
-      ]
-    },
-    {
       "date": "01.01.0083",
       "era": "AD",
       "type": "military",
@@ -123,6 +40,27 @@
         "Fortification",
         "Engineering ⚙️",
         "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0200",
+      "era": "BC",
+      "type": "historic",
+      "name": "The brochs — Scotland's unique Iron Age towers",
+      "name_ru": "Брохи — уникальные башни железного века Шотландии",
+      "description": "Brochs are a type of circular drystone tower found only in Scotland — roughly 500 survive, concentrated in the north and west, in Orkney, Shetland, and the Western Isles. Built without mortar, without metal tools, and without written instruction, they are among the most sophisticated structures of Iron Age Europe: hollow-walled towers that could reach 13 metres in height, with internal galleries, staircases, and hearths.\n\nThe Broch of Mousa on Shetland, still standing nearly to its original height of 13 metres, is the finest surviving example. Brochs were probably the residences of local chieftains — conspicuous, defensible, and enormously labour-intensive to build, they announced power and prestige across the treeless northern landscape. Their engineering — the double-wall construction that distributes weight while allowing access within the wall itself — has no parallel anywhere in the ancient world.",
+      "description_ru": "Брохи — тип круглых башен из сухой кладки, встречающихся только в Шотландии: сохранилось около 500 штук, сосредоточенных на севере и западе, на Оркнее, Шетленде и Внешних Гебридах. Возведённые без раствора, металлических инструментов и письменных инструкций, они относятся к наиболее изощрённым сооружениям железного века Европы: полые башни, достигавшие 13 метров в высоту, с внутренними галереями, лестницами и очагами.\n\nБрох Моусы на Шетленде, стоящий почти в первоначальную высоту 13 метров, — лучший сохранившийся образец. Брохи, по всей видимости, служили резиденциями местных вождей — заметные, обороноспособные и требующие огромных трудозатрат, они провозглашали власть и престиж через безлесный северный ландшафт.",
+      "latitude": 59.98912,
+      "longitude": -1.18447,
+      "source": "https://en.wikipedia.org/wiki/Broch",
+      "tags": [
+        "Scottish",
+        "Prehistoric",
+        "Iron Age",
+        "Building 🏠",
+        "Architecture",
+        "Fortification",
+        "Engineering ⚙️"
       ]
     },
     {
@@ -392,24 +330,164 @@
       ]
     },
     {
-      "date": "11.09.1297",
-      "era": "AD",
+      "date": "30.03.1296",
+      "era": "medieval",
       "type": "military",
-      "name": "Battle of Stirling Bridge — Wallace and the impossible victory",
-      "name_ru": "Битва на Стерлингском мосту — Уоллес и невозможная победа",
-      "description": "William Wallace — a knight of modest background, his origins still obscure — emerged in 1297 as the leader of a popular Scottish rising against English occupation. At Stirling Bridge on 11 September 1297, he and Andrew de Moray exploited the geography perfectly: letting the English army begin to cross a narrow wooden bridge over the River Forth, then attacking while the force was split. The English were routed and the treasurer Hugh de Cressingham was killed.\n\nThe victory was intoxicating: it proved that the English military machine was not invincible. Wallace was appointed Guardian of Scotland in the name of the captive King John. But his triumph was short-lived: Edward I returned in person, defeated Wallace at Falkirk in 1298, and pursued him for seven years. Wallace was captured in 1305, taken to London, and executed at Smithfield with the full cruelty reserved for traitors. His death made him Scotland's most enduring national hero.",
-      "description_ru": "Уильям Уоллес — рыцарь скромного происхождения — в 1297 году возглавил народное восстание против английской оккупации. На Стерлингском мосту 11 сентября 1297 года он и Эндрю де Морей использовали географию в совершенстве: позволив английской армии начать переправу через узкий деревянный мост над рекой Форт, а затем атаковав, когда войска оказались разделены. Англичане были разгромлены.\n\nПобеда была опьяняющей: она доказала, что английская военная машина не непобедима. Уоллес был назначен Хранителем Шотландии от имени пленного Иоанна Балиола. Но его триумф был недолгим: Эдуард I вернулся лично, разбил Уоллеса при Фолкирке в 1298 году и преследовал его семь лет. Казнённый в 1305 году в Смитфилде, он стал самым стойким национальным героем Шотландии.",
-      "latitude": 56.11812,
-      "longitude": -3.93527,
-      "source": "https://en.wikipedia.org/wiki/Battle_of_Stirling_Bridge",
+      "name": "Sack of Berwick — Edward I begins Scotland's conquest",
+      "name_ru": "Разграбление Бервика — Эдуард I начинает завоевание Шотландии",
+      "description": "On 30 March 1296, Edward I's army stormed Berwick-upon-Tweed — then Scotland's largest and wealthiest trading town — in a massacre that shocked all of Britain. The town was given over to slaughter for days; contemporary estimates of the dead ranged into the thousands. The systematic destruction of Berwick announced that Edward intended outright conquest, not suzerainty over a vassal kingdom.\n\nThe campaign that followed was swift and total. At Dunbar in April, the English shattered the Scottish army. King John Balliol was forced to abdicate, stripped of his regalia in a public humiliation, and Scotland was declared an English province. Edward removed the Stone of Destiny — Scotland's coronation stone — to Westminster Abbey, along with the Black Rood of Saint Margaret and the Scottish royal records. The savagery of Berwick became the wound that radicalized Scottish resistance and drove men like William Wallace to take up arms rather than accept subordination.",
+      "description_ru": "30 марта 1296 года армия Эдуарда I взяла штурмом Бервик-апон-Твид — тогда крупнейший и богатейший торговый город Шотландии — и учинила резню, потрясшую всю Британию. Город был отдан на разграбление и избиение на несколько дней; современники называли тысячи погибших. Систематическое уничтожение Бервика недвусмысленно возвещало: Эдуард намерен не вассальной зависимости, а прямого завоевания.\n\nПоследовавшая кампания была стремительной и тотальной. В апреле при Данбаре англичане разгромили шотландское войско. Король Джон Баллиоль был вынужден отречься и публично унижен — лишён регалий прямо на людях, — а Шотландия была объявлена английской провинцией. Эдуард вывез в Вестминстерское аббатство Камень Судьбы — шотландский коронационный камень, — а вместе с ним Чёрный Рood святой Маргариты и шотландские королевские архивы. Жестокость при Бервике стала раной, радикализировавшей шотландское сопротивление и толкнувшей таких людей, как Уильям Уоллес, к вооружённой борьбе вместо покорности.",
+      "latitude": 55.7716,
+      "longitude": -2.0026,
+      "source": "https://en.wikipedia.org/wiki/Sack_of_Berwick_(1296)",
       "tags": [
         "Scottish",
-        "English",
         "War",
         "Battle",
+        "Conquest",
+        "Independence",
+        "Edward I"
+      ]
+    },
+    {
+      "date": "03.05.1297",
+      "era": "medieval",
+      "type": "military",
+      "name": "Wallace kills the Sheriff of Lanark — a rebellion ignites",
+      "name_ru": "Уоллес убивает шерифа Ланарка — восстание вспыхивает",
+      "description": "In May 1297, William Wallace killed William de Heselrig, the English Sheriff of Lanark, in a night raid that transformed a local outlaw into the figurehead of national resistance. The exact circumstances are disputed — later tradition held that the killing was motivated partly by vengeance for the murder of Wallace's wife Marion Braidfute — but the political effect was immediate and electrifying.\n\nWallace was not a great magnate but a minor knight of obscure origins, and his willingness to strike directly at English administrators gave focus to the resentment smouldering across Scotland since the conquest. Within weeks he was coordinating resistance across the south and west, raiding English garrisons and attracting followers from across the social spectrum — outlaws, dispossessed freeholders, parish clergy and minor gentry who had nothing to gain from submission. The killing at Lanark marks the moment the independence war became not merely a dynastic dispute among nobles but a popular uprising from below.",
+      "description_ru": "В мае 1297 года Уильям Уоллес убил Уильяма де Хеселрига, английского шерифа Ланарка, в ночном налёте, превратившем местного разбойника в знамя национального сопротивления. Точные обстоятельства по-прежнему спорны — более поздняя традиция утверждала, что убийство было отчасти актом мести за гибель жены Уоллеса Мэрион Брейдфут, — однако политический эффект оказался немедленным и ошеломительным.\n\nУоллес был не крупным магнатом, а мелким рыцарем туманного происхождения, и его готовность наносить удары прямо по английским чиновникам придала направление недовольству, тлевшему по всей Шотландии со времён завоевания. Уже через несколько недель он координировал сопротивление на юге и западе страны, совершая набеги на английские гарнизоны и собирая сторонников из самых разных слоёв общества — беглых, разорённых свободных держателей, приходских священников и мелких дворян, которым нечего было выиграть от покорности. Убийство в Ланарке стало моментом, когда война за независимость превратилась не просто в династический спор знати, но в народное восстание снизу.",
+      "latitude": 55.7473,
+      "longitude": -3.7805,
+      "source": "https://en.wikipedia.org/wiki/William_Wallace",
+      "tags": [
+        "Scottish",
+        "Wallace",
         "Resistance",
         "Independence",
-        "Plantagenet"
+        "War",
+        "Legend"
+      ]
+    },
+    {
+      "date": "01.06.1297",
+      "era": "medieval",
+      "type": "military",
+      "name": "Andrew Moray raises the north — two rebellions become one",
+      "name_ru": "Эндрю Морэй поднимает север — два восстания сливаются в одно",
+      "description": "While Wallace was operating in the southwest, Andrew de Moray — a young nobleman whose father had been captured at Dunbar — raised the north of Scotland in simultaneous and independent rebellion through the summer of 1297. Beginning in Moray and spreading through Ross and the Great Glen, his uprising seized English-held castles and drove English administrators from the northern shires with remarkable speed and coordination.\n\nMoray and Wallace communicated and coordinated, converging on Stirling in September as the decisive confrontation approached. Moray's contribution to the rebellion is habitually overshadowed by Wallace's fame, but without the north secured and its English garrisons neutralised, victory at Stirling Bridge would have been impossible. Moray was mortally wounded in that battle and died within weeks, aged around twenty-five. He left behind no chronicle, no monument, and no legend comparable to Wallace — only a rebellion that changed the course of Scottish history. He remains one of the great forgotten heroes of the independence war.",
+      "description_ru": "Пока Уоллес действовал на юго-западе, Эндрю де Морэй — молодой дворянин, чей отец был захвачен при Данбаре, — поднял север Шотландии в одновременном и независимом восстании летом 1297 года. Начавшись в Морэй и распространившись через Росс и Великую Глену, его мятеж захватывал занятые англичанами замки и изгонял английских чиновников из северных графств с поразительной стремительностью и слаженностью.\n\nМорэй и Уоллес переписывались и координировали действия, сближаясь у Стерлинга в сентябре по мере приближения решающего столкновения. Вклад Морэя в восстание по привычке отодвигается в тень громкой славой Уоллеса, однако без обеспеченного севера и нейтрализованных английских гарнизонов победа при Стерлингском мосту была бы невозможна. Морэй получил смертельное ранение в том сражении и скончался в течение нескольких недель, не дожив до двадцати пяти лет. Он не оставил ни хроники, ни памятника, ни легенды, сопоставимой с уоллесовской, — только восстание, изменившее ход шотландской истории. Он остаётся одним из великих забытых героев войны за независимость.",
+      "latitude": 57.6539,
+      "longitude": -3.3186,
+      "source": "https://en.wikipedia.org/wiki/Andrew_Moray",
+      "tags": [
+        "Scottish",
+        "Resistance",
+        "Independence",
+        "War",
+        "North Scotland",
+        "Wallace"
+      ]
+    },
+    {
+      "date": "01.10.1297",
+      "era": "medieval",
+      "type": "military",
+      "name": "Wallace raids into northern England — Scotland strikes back",
+      "name_ru": "Уоллес совершает набег на север Англии — Шотландия наносит ответный удар",
+      "description": "In October and November 1297, with Wallace as Guardian, Scottish forces crossed the border and launched a large-scale raid through Northumberland and Cumbria — the most ambitious Scottish military operation since before the conquest. The raid was simultaneously strategic and economic: it demonstrated that Scotland could project force into England, demoralized English border communities, and brought back plunder that helped sustain the Scottish war effort through the winter.\n\nThe raids penetrated as far as the Tyne valley and beyond, burning villages and driving off cattle across a wide front. English chronicles recorded the destruction with outrage, and the raids forced Edward I to accelerate his return from Flanders. From Wallace's perspective, the raids were a tactical success. But they also hardened English resolve and ensured that Edward would personally lead the retaliatory campaign of 1298. The border communities of Northumberland and Cumbria bore the human cost — ordinary people whose villages became the currency of a war fought between kingdoms.",
+      "description_ru": "В октябре и ноябре 1297 года, когда Уоллес уже был Хранителем, шотландские силы перешли границу и предприняли масштабный набег через Нортумберленд и Камберленд — самую амбициозную шотландскую военную операцию со времён до завоевания. Набег преследовал одновременно стратегические и экономические цели: он демонстрировал, что Шотландия способна проецировать силу на Англию, деморализовывал английские пограничные общины и приносил добычу, помогавшую поддерживать шотландские военные усилия в течение зимы.\n\nОтряды проникали до Тайнской долины и дальше, сжигая деревни и угоняя скот на широком фронте. Английские хроники фиксировали разрушения с возмущением, а набеги вынудили Эдуарда I ускорить возвращение из Фландрии. С точки зрения Уоллеса, набеги были тактическим успехом. Однако они также ужесточили английскую решимость и обеспечили, что Эдуард лично возглавит карательный поход 1298 года. Пограничные общины Нортумберленда и Камберленда несли человеческую цену войны — рядовые люди, чьи деревни становились разменной монетой в конфликте между королевствами.",
+      "latitude": 55.0085,
+      "longitude": -2.436,
+      "source": "https://en.wikipedia.org/wiki/William_Wallace",
+      "tags": [
+        "Scottish",
+        "Wallace",
+        "War",
+        "Raid",
+        "Independence",
+        "Border"
+      ]
+    },
+    {
+      "date": "01.12.1297",
+      "era": "medieval",
+      "type": "political",
+      "name": "Wallace appointed Guardian of Scotland",
+      "name_ru": "Уоллес назначен Хранителем Шотландии",
+      "description": "Following the victory at Stirling Bridge in September 1297, William Wallace was appointed sole Guardian of Scotland — formal regent governing in the name of the exiled King John Balliol. It was an extraordinary appointment: Wallace was a minor knight, not a great magnate, and the senior Scottish nobility who had already submitted to Edward I largely held aloof. He governed through a council and issued documents under the seal of Scotland as a legitimate head of state.\n\nAs Guardian, Wallace pursued a broader strategy than raiding. He wrote to the Hanseatic cities of Lübeck and Hamburg, announcing that Scotland was again open for trade and asserting Scottish sovereignty in diplomatic language equal to any European chancery. He organised military levies, attempted to administer justice, and prepared for the English counterattack he knew was coming. His guardianship lasted barely a year before defeat at Falkirk destroyed his authority — but in that year he behaved as a statesman, not merely a guerrilla captain, and demonstrated that Scotland remained a functioning kingdom capable of self-governance.",
+      "description_ru": "После победы при Стерлингском мосту в сентябре 1297 года Уильям Уоллес был назначен единоличным Хранителем Шотландии — официальным регентом, управлявшим от имени изгнанного короля Джона Баллиоля. Это было чрезвычайное назначение: Уоллес был мелким рыцарем, а не крупным магнатом, и высшая шотландская знать, уже покорившаяся Эдуарду I, в основном держалась в стороне. Он управлял через совет и издавал документы под печатью Шотландии как законный глава государства.\n\nВ роли Хранителя Уоллес проводил более широкую стратегию, чем простые набеги. Он написал ганзейским городам Любеку и Гамбургу, объявив, что Шотландия вновь открыта для торговли, и на языке, достойном любой европейской канцелярии, отстаивал шотландский суверенитет. Он организовывал военные леви, пытался отправлять правосудие и готовился к английскому контрудару, который неизбежно должен был последовать. Его опека продолжалась едва год, прежде чем поражение при Фолкирке уничтожило его авторитет, — но в этот год он действовал как государственный муж, а не просто как партизанский командир, и доказал, что Шотландия остаётся дееспособным королевством, способным к самоуправлению.",
+      "latitude": 56.1196,
+      "longitude": -3.9369,
+      "source": "https://en.wikipedia.org/wiki/William_Wallace",
+      "tags": [
+        "Scottish",
+        "Wallace",
+        "Guardian",
+        "Independence",
+        "War",
+        "Government"
+      ]
+    },
+    {
+      "date": "22.07.1298",
+      "era": "medieval",
+      "type": "military",
+      "name": "Battle of Falkirk — Wallace broken by the longbow",
+      "name_ru": "Битва при Фолкирке — Уоллес сломлен английским луком",
+      "description": "On 22 July 1298, Edward I returned to Scotland at the head of a large and well-supplied army and shattered the Scottish forces at Falkirk. Wallace deployed his infantry in schiltron formations — the same tight rings of spearmen that had repulsed English cavalry at Stirling Bridge — but Edward had learned the lesson. English and Welsh longbowmen poured arrows into the densely packed Scottish infantry, tearing the formations apart, and cavalry completed the rout. The Scottish mounted knights, drawn from nobles who had never fully accepted Wallace, fled early and contributed nothing to the defence.\n\nFalkirk was a personal as much as a military catastrophe. Wallace resigned the guardianship almost immediately, his authority destroyed. He had never been accepted by the Scottish nobility as a social equal, and in defeat their contempt was unmasked. Wallace disappeared into the forests and hills — a fugitive in his own country — while Scotland's cause passed to a succession of noble guardians. He would survive for seven more years, but he never commanded a Scottish army again. Falkirk did not end the independence war; it ended one chapter of it.",
+      "description_ru": "22 июля 1298 года Эдуард I вернулся в Шотландию во главе большой и хорошо снабжённой армии и разгромил шотландские силы при Фолкирке. Уоллес развернул пехоту в формации шилтронов — те же плотные кольца копейщиков, что отразили английскую кавалерию при Стерлингском мосту, — однако Эдуард усвоил урок. Английские и валлийские лучники засыпали плотно сбитую шотландскую пехоту стрелами, разрывая построения, а конница довершила разгром. Шотландские рыцари, принадлежавшие к знати, никогда полностью не принимавшей Уоллеса, бежали в самом начале и не принесли никакой пользы обороне.\n\nФолкирк был личной катастрофой не меньше, чем военной. Уоллес почти сразу же отказался от опеки — его авторитет был уничтожен. Шотландская знать никогда не принимала его как равного, и в поражении её презрение обнажилось. Уоллес растворился в лесах и холмах — беглец на собственной земле, — пока дело Шотландии перешло к сменявшим друг друга знатным хранителям. Он выжил ещё семь лет, но армию больше никогда не возглавлял. Фолкирк не завершил войну за независимость — он закрыл лишь одну её главу.",
+      "latitude": 55.9987,
+      "longitude": -3.782,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Falkirk_(1298)",
+      "tags": [
+        "Scottish",
+        "Wallace",
+        "Battle",
+        "War",
+        "Independence",
+        "Edward I"
+      ]
+    },
+    {
+      "date": "01.01.1299",
+      "era": "medieval",
+      "type": "political",
+      "name": "Wallace in exile — fugitive, diplomat, and enduring symbol",
+      "name_ru": "Уоллес в изгнании — беглец, дипломат и живой символ",
+      "description": "After Falkirk, Wallace spent six years as both fugitive and clandestine diplomat. He travelled to France — probably in 1299–1301 — seeking support from Philip IV under the Auld Alliance; Philip IV issued a letter supporting his mission to the Pope. Wallace appears in scattered records at Rome and the French court, presenting Scotland's case before the highest authorities in Europe with evident skill and persistence.\n\nHe continued to operate covertly inside Scotland, his movements mostly unknown, surfacing in English intelligence reports as a figure still to be hunted at any cost. Edward I placed an enormous price on his head and issued repeated instructions to Scottish collaborators to capture him. Wallace apparently refused every safe-conduct that required acknowledging English sovereignty — while lesser men around him negotiated, submitted, and accommodated, he held to a single, absolute position. It was this refusal — as much as any battle — that made him a living symbol of resistance even before his death transformed him into a martyr.",
+      "description_ru": "После Фолкирка Уоллес провёл шесть лет одновременно беглецом и тайным дипломатом. Он отправился во Францию — вероятно, в 1299–1301 годах — в поисках поддержки Филиппа IV на основании Старого союза; Филипп IV выпустил письмо в его поддержку, адресованное папе. Уоллес появляется в разрозненных источниках в Риме и при французском дворе, представляя дело Шотландии перед высшими авторитетами Европы с очевидным мастерством и настойчивостью.\n\nОн продолжал тайно действовать на территории Шотландии, его перемещения в основном неизвестны, — и всплывал в английских разведывательных донесениях как человек, которого надлежит поймать любой ценой. Эдуард I назначил огромное вознаграждение за его голову и раз за разом отдавал шотландским коллаборационистам приказ схватить его. По всей видимости, Уоллес отверг каждый охранный пропуск, требовавший признания английского суверенитета, — пока менее стойкие люди вокруг него переговаривались, покорялись и приспосабливались, он твёрдо держался одной-единственной, абсолютной позиции. Именно этот отказ — не меньше, чем любое сражение, — превратил его ещё при жизни в живой символ сопротивления, прежде чем смерть сделала его мучеником.",
+      "latitude": 48.8534,
+      "longitude": 2.3488,
+      "source": "https://en.wikipedia.org/wiki/William_Wallace",
+      "tags": [
+        "Scottish",
+        "Wallace",
+        "Diplomacy",
+        "Independence",
+        "France",
+        "Auld Alliance"
+      ]
+    },
+    {
+      "date": "23.08.1305",
+      "era": "medieval",
+      "type": "historic",
+      "name": "Execution of William Wallace — Scotland's greatest martyr",
+      "name_ru": "Казнь Уильяма Уоллеса — величайший мученик Шотландии",
+      "description": "On 3 August 1305, William Wallace was captured near Glasgow — almost certainly betrayed by Sir John de Menteith, a Scottish knight in English service. He was taken to London in chains and arraigned at Westminster Hall on 23 August. He was denied the right to plead against the charge of treason, on the grounds that he had never sworn loyalty to Edward — a charge Wallace rejected outright, maintaining that John Balliol was Scotland's rightful king and that he himself had never owed Edward allegiance.\n\nHe was hanged, drawn and quartered at Smithfield — the traitor's death reserved for the most dangerous enemies of the crown. His head was placed on London Bridge; his limbs were sent to Newcastle, Berwick, Stirling and Perth as warnings. Edward's intention was to erase him and extinguish the idea he represented. The effect was the opposite. Wallace became the martyr around whom Scottish identity crystallised. Within nine months, Robert Bruce rose in rebellion. The execution of Wallace did not end Scottish resistance — it guaranteed its continuation and gave it a cause that transcended any single king or battle.",
+      "description_ru": "3 августа 1305 года Уильям Уоллес был схвачен близ Глазго — почти наверняка преданный сэром Джоном де Ментитом, шотландским рыцарем на английской службе. Его доставили в Лондон в оковах и 23 августа судили в Вестминстер-холле. Ему отказали в праве возражать против обвинения в государственной измене на том основании, что он никогда не присягал Эдуарду, — обвинение, которое Уоллес решительно отверг, утверждая, что законным королём Шотландии является Джон Баллиоль и что сам он никогда не был обязан Эдуарду верностью.\n\nЕго повесили, выпотрошили и четвертовали на Смитфилде — смерть предателя, предназначенная для самых опасных врагов короны. Его голова была выставлена на Лондонском мосту; его конечности отправили в Ньюкасл, Бервик, Стерлинг и Перт в назидание. Намерение Эдуарда состояло в том, чтобы стереть его и погасить воплощённую им идею. Результат оказался противоположным. Уоллес стал мучеником, вокруг которого кристаллизовалась шотландская идентичность. Менее чем через девять месяцев Роберт Брюс поднял восстание. Казнь Уоллеса не положила конец шотландскому сопротивлению — она гарантировала его продолжение и наделила его делом, выходящим за рамки любого отдельного короля или битвы.",
+      "latitude": 51.5194,
+      "longitude": -0.0997,
+      "source": "https://en.wikipedia.org/wiki/William_Wallace",
+      "tags": [
+        "Scottish",
+        "Wallace",
+        "Independence",
+        "Martyrdom",
+        "War",
+        "Legend",
+        "Execution"
       ]
     },
     {
@@ -430,27 +508,6 @@
         "War",
         "Foundation",
         "Independence"
-      ]
-    },
-    {
-      "date": "24.06.1314",
-      "era": "AD",
-      "type": "military",
-      "name": "Battle of Bannockburn — Scotland's greatest victory",
-      "name_ru": "Битва при Баннокберне — величайшая победа Шотландии",
-      "description": "On 24 June 1314, Robert the Bruce's smaller Scottish army — perhaps 6,000–8,000 men — destroyed an English force of 15,000–20,000 at Bannockburn near Stirling, in the most decisive Scottish military victory ever achieved. The English cavalry charged onto ground chosen by Bruce: boggy, broken terrain that nullified their mounted advantage. Disciplined Scottish schiltrons — tight circles of spearmen — broke charge after charge.\n\nEdward II fled the battlefield on horseback. Bannockburn did not immediately end the war, but it made Scottish independence practically irreversible and transformed Bruce from a disputed claimant into the undisputed king. Hundreds of English prisoners were taken, including nobles worth enormous ransoms; the cash funded the continued Scottish war effort. The battle is still commemorated every year in Scotland as the moment the nation proved it could defend itself.",
-      "description_ru": "24 июня 1314 года меньшая шотландская армия Роберта Брюса — возможно, от 6000 до 8000 человек — уничтожила английские силы в 15 000–20 000 у Баннокберна близ Стерлинга, одержав наиболее решительную военную победу за всю шотландскую историю. Английская кавалерия атаковала на местности, выбранной Брюсом: болотистой, пересечённой, сводившей конное преимущество на нет. Дисциплинированные шотландские шилтроны — плотные кольца копейщиков — отражали атаку за атакой.\n\nЭдуард II бежал с поля боя верхом. Баннокберн не завершил войну немедленно, но сделал шотландскую независимость практически необратимой и превратил Брюса из спорного претендента в бесспорного короля. Сотни английских пленников принесли огромные выкупы, финансировавшие дальнейшую войну. Битва по сей день ежегодно отмечается в Шотландии как момент, когда нация доказала способность себя защитить.",
-      "latitude": 56.08888,
-      "longitude": -3.921,
-      "source": "https://en.wikipedia.org/wiki/Battle_of_Bannockburn",
-      "tags": [
-        "Scottish",
-        "English",
-        "War",
-        "Battle",
-        "King",
-        "Independence",
-        "Plantagenet"
       ]
     },
     {
@@ -577,6 +634,68 @@
         "Poetry",
         "Text",
         "Dynasty"
+      ]
+    },
+    {
+      "date": "01.01.2800",
+      "era": "BC",
+      "type": "religious",
+      "name": "Maeshowe — Orkney's masterpiece of Neolithic architecture",
+      "name_ru": "Мейсхоу — шедевр неолитической архитектуры Оркнея",
+      "description": "Maeshowe, built around 2800 BC on Orkney, is one of the finest chambered tombs in north-western Europe. A long passage of precisely fitted stone slabs leads to a central chamber whose construction required architectural skill comparable to anything in the ancient world: the corbelled roof rises to a height of 4.5 metres, each stone course slightly overhanging the last with perfect balance.\n\nAt the winter solstice, the setting sun shines directly down the entrance passage to illuminate the back wall of the chamber — an alignment built in with extraordinary precision. The site was broken into by Norse settlers in the twelfth century AD, who left the largest collection of runic graffiti in the world carved into the walls: love poems, boastful claims, and the image of a dragon. Vikings and Neolithic farmers, separated by three millennia, left their marks in the same stone chamber.",
+      "description_ru": "Мейсхоу, построенный около 2800 года до н. э. на Оркнее, — один из лучших коридорных погребальных курганов в Северо-Западной Европе. Длинный коридор из точно пригнанных каменных плит ведёт в центральную камеру, строительство которой требовало архитектурного мастерства, сравнимого с чем угодно в древнем мире: ложносводчатая кровля поднимается на 4,5 метра.\n\nВ день зимнего солнцестояния заходящее солнце светит прямо по входному коридору, освещая заднюю стену камеры — выравнивание, заложенное с исключительной точностью. В XII веке н. э. в кургане побывали норвежцы, оставившие на стенах крупнейшее собрание рунических граффити в мире: любовные стихи, хвастливые надписи и изображение дракона. Викинги и неолитические земледельцы, разделённые тремя тысячелетиями, оставили следы в одной каменной камере.",
+      "latitude": 58.9971,
+      "longitude": -3.1871,
+      "source": "https://en.wikipedia.org/wiki/Maeshowe",
+      "tags": [
+        "Scottish",
+        "Neolithic",
+        "Prehistoric",
+        "Megalith",
+        "Holy Site",
+        "Astronomy",
+        "Viking"
+      ]
+    },
+    {
+      "date": "01.01.2900",
+      "era": "BC",
+      "type": "religious",
+      "name": "Callanish Standing Stones — the cathedral of the Outer Hebrides",
+      "name_ru": "Камни Каллениша — собор Внешних Гебридских островов",
+      "description": "The Callanish Standing Stones on the Isle of Lewis, erected around 2900–2600 BC, form one of the most dramatic megalithic complexes in Europe. Thirteen primary stones stand in a rough circle, with four long rows radiating outward like the arms of a cross — an arrangement unique in Britain. The tallest stone reaches nearly five metres.\n\nAt the major lunar standstill — a roughly 18.6-year cycle when the moon rises and sets at its most extreme points — the moon appears to skim along the ridge of the hills to the south before setting between two stones of the circle. Whether this was deliberately planned by the builders, and what ceremonies they performed here, remains unknown. What is certain is that Callanish was a place of repeated ritual use over many centuries, commanding a landscape of extraordinary bleakness and beauty.",
+      "description_ru": "Мегалитический комплекс Каллениш на острове Льюис, возведённый около 2900–2600 годов до н. э., — один из самых впечатляющих в Европе. Тринадцать основных камней стоят в грубом круге, от которого расходятся четыре длинных ряда в форме, уникальной для Британии, — подобие вытянутого креста. Самый высокий камень достигает почти пяти метров в высоту.\n\nВ момент большого лунного стояния — цикла протяжённостью около 18,6 лет — луна скользит над грядой южных холмов и садится между двумя камнями круга. Намеренно ли строители планировали это астрономическое выравнивание и какие церемонии здесь отправлялись — по-прежнему неизвестно. Несомненно одно: Каллениш на протяжении многих веков служил местом повторяющегося ритуального использования в ландшафте исключительной суровой красоты.",
+      "latitude": 58.1976,
+      "longitude": -6.7447,
+      "source": "https://en.wikipedia.org/wiki/Callanish_Stones",
+      "tags": [
+        "Scottish",
+        "Neolithic",
+        "Prehistoric",
+        "Megalith",
+        "Holy Site",
+        "Astronomy",
+        "Legend"
+      ]
+    },
+    {
+      "date": "01.01.3100",
+      "era": "BC",
+      "type": "historic",
+      "name": "Skara Brae — the best-preserved Neolithic village in Europe",
+      "name_ru": "Скара-Брей — лучшая из сохранившихся деревень неолита в Европе",
+      "description": "Skara Brae on the Orkney mainland, occupied roughly 3100–2500 BC, is the best-preserved Neolithic village in northern Europe. Buried and protected by sand dunes for millennia, it was exposed by a storm in 1850. Its eight interconnected stone houses are remarkably intact: stone beds, dressers, hearths, and storage boxes survive in place, giving an intimate picture of life 5,000 years ago.\n\nThe village predates both Stonehenge and the Egyptian pyramids. Its inhabitants were farmers and fishermen who kept cattle and sheep, grew barley, hunted red deer, and gathered shellfish. The quality of the stone furniture — crafted without metal tools — and the drainage system connecting each house to a shared sewer suggest a community of considerable sophistication. Skara Brae is now a UNESCO World Heritage Site.",
+      "description_ru": "Скара-Брей на Оркнейском острове, населённый примерно в 3100–2500 годах до н. э., — лучшая из сохранившихся деревень неолита в Северной Европе. Погребённый и защищённый дюнами на тысячелетия, он был обнажён бурей в 1850 году. Восемь соединённых между собой каменных домов сохранились в поразительной целости: каменные кровати, буфеты, очаги и ящики для хранения стоят на своих местах, давая интимный портрет жизни 5000 лет назад.\n\nДеревня старше Стоунхенджа и египетских пирамид. Её жители были фермерами и рыбаками, державшими скот и разводившими ячмень. Качество каменной мебели и дренажная система, соединяющая каждый дом с общей канализацией, говорят об обществе значительной изощрённости. Скара-Брей — объект Всемирного наследия ЮНЕСКО.",
+      "latitude": 59.0447,
+      "longitude": -3.34173,
+      "source": "https://en.wikipedia.org/wiki/Skara_Brae",
+      "tags": [
+        "Scottish",
+        "Neolithic",
+        "Prehistoric",
+        "Building 🏠",
+        "Holy Site",
+        "Engineering ⚙️"
       ]
     }
   ]
