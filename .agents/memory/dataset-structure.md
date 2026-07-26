@@ -60,3 +60,4 @@ description: Required fields for every event in every JSON dataset, and dataset-
 5. Inventing Wikipedia URLs that do not exist
 6. Using `type: "battle"` instead of `type: "military"`
 7. Starting new tags that are used only once in the whole dataset
+8. **Using any `era` value other than `"AD"` or `"BC"`** — values like `"medieval"`, `"ancient"`, `"prehistoric"` are silently rejected by the import handler and those events are skipped without error
