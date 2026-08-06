@@ -1,0 +1,560 @@
+{
+  "filename": "roman_iberia.json",
+  "description": "Roman Iberia from the first legions landing at Emporion in 218 BC through Scipio's conquest, the Celtiberian and Lusitanian wars, the foundation of the great Roman cities, the economic transformation of the peninsula, the Iberian-born emperors, and the end of Roman political authority in the fifth century AD.",
+  "events": [
+    {
+      "date": "01.01.0400",
+      "era": "BC",
+      "type": "cultural",
+      "name": "The peoples of pre-Roman Iberia — a world of Iberians, Celts, and Celtiberians",
+      "name_ru": "Народы доримской Иберии — мир иберов, кельтов и кельтиберов",
+      "description": "The Iberian peninsula on the eve of Roman conquest was one of the most culturally diverse regions in the western Mediterranean. The coastal east and south was home to the Iberians proper — sedentary farming and trading peoples who had absorbed centuries of Phoenician and Greek influence, built walled towns, developed a unique script, and produced elaborately carved stone sculpture. The famous Lady of Elche, a stone bust of exquisite sophistication, testifies to the artistic heights reached by Iberian urban culture by the fourth century BC.\n\nThe interior and northwest were dominated by Celtic and Celtiberian peoples — the product of Celtic migrations meeting indigenous Iberian populations — who built hilltop fortified settlements called castros, herded cattle across the high meseta, and fought with the long iron swords that would later give Rome its gladius. The far northwest harboured the Lusitanians, a fiercely independent people whose territory roughly corresponded to modern Portugal. These were not primitive peoples: they mined gold and tin, maintained long-distance trade networks, and organised politically into complex tribal confederacies. This was the world Rome entered in 218 BC and took three centuries to fully subdue.",
+      "description_ru": "Иберийский полуостров накануне римского завоевания был одним из наиболее культурно разнообразных регионов западного Средиземноморья. Побережье востока и юга населяли собственно иберы — оседлые земледельческие и торговые народы, впитавшие века финикийского и греческого влияния, строившие укреплённые города, создавшие самобытное письмо и производившие изысканную каменную скульптуру. Знаменитая Дама Эльче — каменный бюст исключительной утончённости — свидетельствует о художественных высотах, достигнутых иберийской городской культурой к IV веку до н. э.\n\nВнутренние и северо-западные районы были населены кельтскими и кельтиберийскими народами — продуктом столкновения кельтских миграций с исконным иберийским населением, — строившими вершинные укреплённые поселения, называемые кастрос, гонявшими скот по высокогорному плоскогорью и сражавшимися длинными железными мечами, которые позднее дадут Риму его гладий. Крайний северо-запад населяли лузитане — яростно независимый народ, чья территория примерно соответствует современной Португалии. Они не были примитивными: добывали золото и олово, поддерживали дальнеторговые сети и организовывались в сложные племенные конфедерации. Именно в этот мир Рим вошёл в 218 году до н. э. и три века покорял его.",
+      "latitude": 39.474,
+      "longitude": -0.379,
+      "source": "https://en.wikipedia.org/wiki/Iberians",
+      "tags": [
+        "Roman",
+        "Celtic",
+        "Culture",
+        "Historic",
+        "Foundation",
+        "Pre-Roman"
+      ]
+    },
+    {
+      "date": "01.01.0218",
+      "era": "BC",
+      "type": "military",
+      "name": "Rome lands in Iberia — Gnaeus Scipio at Emporion opens a new front",
+      "name_ru": "Рим высаживается в Иберии — Гней Сципион при Эмпорионе открывает новый фронт",
+      "description": "When Hannibal crossed the Pyrenees and the Alps in the autumn of 218 BC, the Roman Senate made a decision that would shape a continent: rather than simply defend Italy, Rome would open a second front in Iberia — Hannibal's base, the source of his Barcid silver and Iberian manpower. The consul Publius Cornelius Scipio dispatched his brother Gnaeus with a force that landed at the Greek colony of Emporion on the northeastern coast of Iberia and immediately began recruiting local allies from the Iberian tribes who resented Carthaginian overlordship.\n\nThe strategic logic was sound. By threatening Carthage's Iberian territories, Rome could prevent reinforcements reaching Hannibal in Italy and cut the flow of Iberian silver and troops that sustained his campaign. Gnaeus Scipio won an early naval engagement on the Ebro River, establishing a Roman presence north of the Ebro that held for three years. The decision to fight Carthage in Iberia rather than simply defend Italy transformed the peninsula from a Carthaginian resource base into a contested battlefield — and eventually a Roman province. Rome had not come to stay; it came to deny Iberia to Carthage. But it found reasons to remain for six centuries.",
+      "description_ru": "Когда Ганнибал осенью 218 года до н. э. перешёл Пиренеи и Альпы, Римский сенат принял решение, которое определило судьбу континента: вместо того чтобы просто обороняться в Италии, Рим откроет второй фронт в Иберии — базе Ганнибала, источнике его баркидского серебра и иберийской живой силы. Консул Публий Корнелий Сципион отправил своего брата Гнея с силами, высадившимися у греческой колонии Эмпорион на северо-восточном побережье Иберии, которые немедленно начали вербовать местных союзников из иберийских племён, тяготившихся карфагенским владычеством и готовых поддержать новых пришельцев против него.\n\nСтратегическая логика была верной. Угрожая иберийским владениям Карфагена, Рим мог предотвратить отправку подкреплений Ганнибалу в Италию и перерезать поток иберийского серебра и войск, питавших его кампанию. Гней Сципион одержал раннюю морскую победу на Эбро, установив римское присутствие к северу от реки, продержавшееся три года. Решение сражаться с Карфагеном в Иберии, а не просто обороняться в Италии, превратило полуостров из карфагенской ресурсной базы в оспариваемое поле битвы — и в конечном счёте в римскую провинцию. Рим пришёл не затем, чтобы остаться; он пришёл, чтобы отнять Иберию у Карфагена. Но нашёл причины остаться на шесть столетий.",
+      "latitude": 42.13,
+      "longitude": 3.11,
+      "source": "https://en.wikipedia.org/wiki/Gnaeus_Cornelius_Scipio_Calvus",
+      "tags": [
+        "Roman",
+        "Military",
+        "War",
+        "Conquest",
+        "Punic Wars",
+        "Battle"
+      ]
+    },
+    {
+      "date": "01.01.0211",
+      "era": "BC",
+      "type": "military",
+      "name": "Death of the Scipio brothers — Rome nearly loses Iberia",
+      "name_ru": "Гибель братьев Сципионов — Рим едва не теряет Иберию",
+      "description": "In the summer of 211 BC, both Roman commanders in Iberia — Gnaeus and Publius Cornelius Scipio, who had held the peninsula's northern half against Carthage for seven years — were killed in separate catastrophic defeats. The Barcid general Hasdrubal Gisco and his Numidian cavalry destroyed one Roman army; a second was ambushed and annihilated. In a single season, seven years of Roman effort in Iberia collapsed, and the survivors retreated north of the Ebro. The Roman cause in the peninsula teetered on the edge of complete abandonment.\n\nThe Senate's response was unusual. No senior commander was willing to take the thankless, dangerous Iberian command. A young man of twenty-four — Publius Cornelius Scipio, son of the dead general — volunteered. The people elected him to the proconsular command despite his having held none of the required offices. It was an act of desperation that produced a military genius. Within a year of his arrival Scipio had captured Carthago Nova — New Carthage — the capital and supply depot of Carthaginian Iberia, in a single audacious assault. The tide reversed completely, and within four years all of Iberia was in Roman hands.",
+      "description_ru": "Летом 211 года до н. э. оба римских командующих в Иберии — Гней и Публий Корнелий Сципионы, удерживавшие северную половину полуострова против Карфагена семь лет, — погибли в двух отдельных катастрофических поражениях. Баркидский полководец Гасдрубал Гиско с нумидийской конницей уничтожил одну римскую армию; вторая попала в засаду и была полностью разгромлена. За один сезон семь лет римских усилий в Иберии рухнули, и уцелевшие отступили к северу от Эбро. Римское дело на полуострове оказалось на краю полного провала.\n\nСенат ответил нестандартно. Ни один из опытных командиров не желал брать на себя неблагодарное и опасное иберийское командование. Молодой человек двадцати четырёх лет — Публий Корнелий Сципион, сын погибшего полководца, — выступил добровольцем. Народ избрал его на проконсульское командование, невзирая на то что он не занимал ни одной из требуемых должностей. Это был акт отчаяния, породивший военного гения. В течение года после своего прибытия Сципион в одном дерзком штурме захватил Карфаген Новый — столицу и склад снабжения Карфагена в Иберии.",
+      "latitude": 37.71,
+      "longitude": -1.0,
+      "source": "https://en.wikipedia.org/wiki/Scipio_brothers",
+      "tags": [
+        "Roman",
+        "Military",
+        "War",
+        "Battle",
+        "Punic Wars",
+        "Death"
+      ]
+    },
+    {
+      "date": "01.01.0206",
+      "era": "BC",
+      "type": "historic",
+      "name": "Italica — the first Roman city in Iberia",
+      "name_ru": "Италика — первый римский город в Иберии",
+      "description": "Immediately after the Battle of Ilipa in 206 BC, Scipio Africanus settled his wounded veterans who were unable to return to Italy in a new town beside the Guadalquivir River near modern Seville, naming it Italica for their Italian homeland. It was the first Roman colonial foundation on the Iberian peninsula — the seed of a civilisation that would transform the entire territory over the following centuries. The site lay at the edge of the Baetican plain, one of the most agriculturally productive zones in the western Mediterranean.\n\nItalica's later history exceeded anything Scipio could have imagined. In the second century AD it became the birthplace of two Roman emperors: Trajan — the first emperor from the provinces, Rome's greatest military ruler — and Hadrian, who redesigned much of the empire's architecture. Under Hadrian, Italica was enormously expanded with a new grid of streets, a massive amphitheatre capable of holding 25,000 spectators, and temples rivalling those of Rome. The ruins of Hadrianic Italica — including the remarkably preserved amphitheatre — survive today near Seville as one of the most impressive Roman sites in Spain, a monument to the improbable arc from war camp to cradle of emperors.",
+      "description_ru": "Сразу после битвы при Илипе в 206 году до н. э. Сципион Африканский поселил своих раненых ветеранов, не способных вернуться в Италию, в новом городе на берегу Гвадалквивира близ современной Севильи, назвав его Италика в честь их итальянской родины. Это было первое римское колониальное основание на Иберийском полуострове — семя цивилизации, которая преобразит всю территорию в последующие столетия. Место располагалось на краю Бетической равнины, одной из наиболее сельскохозяйственно продуктивных зон западного Средиземноморья.\n\nПозднейшая история Италики превзошла всё, что Сципион мог вообразить. Во II веке н. э. она стала родиной двух римских императоров: Траяна — первого императора из провинций, величайшего военного правителя Рима — и Адриана, перестроившего значительную часть архитектуры империи. При Адриане Италика была огромно расширена новой сеткой улиц, масштабным амфитеатром на 25 000 зрителей и храмами, соперничавшими с римскими. Руины адриановской Италики — включая замечательно сохранившийся амфитеатр — сохранились близ Севильи как один из наиболее впечатляющих римских памятников Испании.",
+      "latitude": 37.44,
+      "longitude": -6.05,
+      "source": "https://en.wikipedia.org/wiki/Italica,_Spain",
+      "tags": [
+        "Roman",
+        "Foundation",
+        "Historic",
+        "Building 🏠",
+        "Culture"
+      ]
+    },
+    {
+      "date": "01.03.0206",
+      "era": "BC",
+      "type": "military",
+      "name": "Battle of Ilipa — Scipio ends Carthaginian power in Iberia",
+      "name_ru": "Битва при Илипе — Сципион кладёт конец власти Карфагена в Иберии",
+      "description": "At Ilipa — near modern Seville — in the spring of 206 BC, the young Scipio faced the largest Carthaginian army ever assembled in Iberia: perhaps 70,000 infantry, 4,000 cavalry, and 32 war elephants under Hasdrubal Gisco and Mago Barca. Scipio was outnumbered but used a tactical innovation that would echo through military history — placing his Roman and allied troops in unconventional positions and attacking before the Carthaginians had time to organise their breakfast, catching them standing in defensive formation with an empty-stomach army.\n\nThe battle was a masterpiece of manoeuvre. Scipio held his centre passive while his flanking columns enveloped the Carthaginian wings, destroying them before they could help each other. It was a double envelopment in the tradition that would later be called Cannae in reverse — Rome doing to Carthage what Hannibal had done to Rome in 216 BC. The Carthaginian army was destroyed; Hasdrubal and Mago escaped by sea. Ilipa ended Carthaginian imperial presence in Iberia permanently. The peninsula that had sustained Hannibal's war now became Rome's resource base — though winning it from its own inhabitants would take another two centuries.",
+      "description_ru": "При Илипе — близ современной Севильи — весной 206 года до н. э. молодой Сципион противостоял крупнейшей карфагенской армии, когда-либо собранной в Иберии: около 70 000 пехоты, 4 000 конницы и 32 боевых слона под командованием Гасдрубала Гиско и Магона Барки. Сципион уступал в числе, но применил тактическое новшество, которое эхом отзовётся в военной истории, — разместив римские и союзные войска в нестандартных позициях и атаковав прежде, чем карфагеняне успели выстроиться.\n\nБитва стала шедевром маневрирования. Сципион удерживал свой центр в пассивной обороне, пока его фланговые колонны охватывали карфагенские крылья, уничтожая их прежде, чем те могли помочь друг другу. Это был двойной охват в традиции, позднее названной Каннами наоборот — Рим делал с Карфагеном то, что Ганнибал сделал с Римом в 216 году до н. э. Карфагенская армия была уничтожена, Гасдрубал и Магон бежали морем. Илипа навсегда покончила с карфагенским имперским присутствием в Иберии.",
+      "latitude": 37.77,
+      "longitude": -5.96,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Ilipa",
+      "tags": [
+        "Roman",
+        "Military",
+        "Battle",
+        "War",
+        "Punic Wars",
+        "Conquest"
+      ]
+    },
+    {
+      "date": "01.01.0197",
+      "era": "BC",
+      "type": "political",
+      "name": "Hispania Citerior and Ulterior — Rome divides the peninsula into two provinces",
+      "name_ru": "Hispania Citerior и Ulterior — Рим делит полуостров на две провинции",
+      "description": "In 197 BC, the Roman Senate established a permanent provincial administration for Iberia, dividing the territory Rome controlled into two provinces: Hispania Citerior — Nearer Spain, encompassing the northeast and the Ebro valley — and Hispania Ulterior — Further Spain, covering the Guadalquivir valley and the rich agricultural and mining regions of the south. Each province was assigned a praetor, annual magistrates who came with an expectation of personal enrichment that would soon provoke the first major crisis of Roman rule.\n\nThe establishment of the two provinces was a recognition that Rome had no intention of leaving Iberia after the Punic Wars. But it was also a declaration of intent over territory that Rome did not yet fully control. The interior of the peninsula — the high meseta plateau, the mountains of the northwest, and the Atlantic coast — remained in the hands of peoples who had never accepted Carthaginian rule and saw no reason to accept Roman rule either. The provincial boundaries of 197 BC marked the maximum extent of reliable Roman control at the time; everything beyond them would require another generation of war.",
+      "description_ru": "В 197 году до н. э. Римский сенат установил постоянное провинциальное управление для Иберии, разделив контролируемую Римом территорию на две провинции: Hispania Citerior — Ближняя Испания, охватывавшая северо-восток и долину Эбро, — и Hispania Ulterior — Дальняя Испания, покрывавшая долину Гвадалквивира и богатые аграрные и горнорудные районы юга. Каждой провинции был назначен претор — ежегодные магистраты, приходившие с ожиданием личного обогащения и видевшие в своей должности прежде всего возможность сколотить состояние, что вскоре спровоцирует первый крупный кризис римского владычества на полуострове.\n\nУчреждение двух провинций означало признание того, что Рим не намерен покидать Иберию после Пунических войн. Но это также была декларация намерений над территорией, которую Рим ещё не полностью контролировал. Высокогорное плоскогорье внутренних районов, горы северо-запада и атлантическое побережье оставались в руках народов, никогда не принимавших карфагенского владычества и не видевших оснований принимать римское. Провинциальные границы 197 года до н. э. обозначили максимальный предел надёжного римского контроля на тот момент; всё за их пределами потребует ещё одного поколения войны и неисчислимых жертв с обеих сторон.",
+      "latitude": 39.474,
+      "longitude": -6.372,
+      "source": "https://en.wikipedia.org/wiki/Hispania",
+      "tags": [
+        "Roman",
+        "Political",
+        "Administration",
+        "Law",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "01.01.0197",
+      "era": "BC",
+      "type": "military",
+      "name": "The Great Iberian revolt — Rome's first colonial crisis in the peninsula",
+      "name_ru": "Великое иберийское восстание — первый колониальный кризис Рима на полуострове",
+      "description": "In the very year Rome organised its Iberian provinces, the peninsula erupted in revolt. The Iberian tribes of the interior and the Turdetani of the south rose simultaneously against the new Roman governors, whose tax demands and personal brutality had already alienated the population that Scipio Africanus had carefully cultivated as allies. The revolt was serious enough that Rome sent a consul — Marcus Porcius Cato — with a substantial army, a response normally reserved for the most dangerous military crises.\n\nThe revolt of 197 BC established a pattern that would recur for another century and a half: Roman administrative greed triggering Iberian resistance, requiring military reconquest that imposed further hardship, which generated further resentment. The Senate was sufficiently alarmed that it created the first permanent Roman courts specifically to prosecute abusive provincial governors — the first seeds of what would eventually become Roman provincial law. Iberia thus became the proving ground for Rome's entire system of provincial administration: its successes and its failures alike were first played out on the peninsula, before being exported to the rest of the empire.",
+      "description_ru": "В тот самый год, когда Рим организовал свои иберийские провинции, полуостров взорвался восстанием. Иберийские племена внутренних районов и турдетаны юга одновременно поднялись против новых римских наместников, чьи налоговые требования и личная жестокость уже оттолкнули население, которое Сципион Африканский кропотливо выстраивал как союзников. Восстание было достаточно серьёзным, чтобы Рим послал консула — Марка Порция Катона — со значительной армией, ответ, обычно резервируемый для наиболее опасных военных кризисов.\n\nВосстание 197 года до н. э. установило схему, которая повторится ещё полтора столетия: жадность римской администрации провоцирует иберийское сопротивление, требующее военного повторного завоевания, которое создаёт новые тяготы, порождающие новое возмущение. Сенат был достаточно встревожен, чтобы создать первые постоянные римские суды специально для преследования злоупотреблявших властью провинциальных наместников — первые семена того, что в конечном счёте станет римским провинциальным правом. Иберия стала, таким образом, полигоном для всей системы провинциального управления Рима: как её успехи, так и неудачи впервые были разыграны на полуострове, прежде чем быть перенесены в остальные части империи.",
+      "latitude": 37.88,
+      "longitude": -4.77,
+      "source": "https://en.wikipedia.org/wiki/Hispania",
+      "tags": [
+        "Roman",
+        "Military",
+        "Political",
+        "War",
+        "Rebellion",
+        "Conquest"
+      ]
+    },
+    {
+      "date": "01.01.0195",
+      "era": "BC",
+      "type": "military",
+      "name": "Cato the Elder pacifies Iberia — and strips her silver",
+      "name_ru": "Катон Старший усмиряет Иберию — и выкачивает её серебро",
+      "description": "Marcus Porcius Cato — the 'Censor', Rome's most famous moralist — arrived in Hispania Citerior as consul in 195 BC with an army and a mandate to suppress the ongoing revolt. His campaign was energetic and brutal. He defeated the Celtiberian and Iberian rebels in a series of engagements, then — in a move of spectacular administrative ruthlessness — ordered all the fortified towns of the interior to demolish their walls on the same day, so that none could serve as a centre of future resistance before the others were dealt with. He then systematically exploited the silver mines of the region, sending enormous quantities of silver back to Rome.\n\nCato's tenure in Iberia established the exploitative template that would characterise Roman provincial administration for a generation. He boasted openly that he had made the war pay for itself — that his soldiers were better fed when they left than when they arrived, funded entirely by Iberian resources. He wrote the first Roman book about Iberia, now lost, which probably presented the conquest as self-evident civilisational progress. In Rome he was celebrated as the conqueror of Spain; in Iberia his name was attached to resentments that would explode again within two decades.",
+      "description_ru": "Марк Порций Катон — «Цензор», самый знаменитый римский моралист, — прибыл в Hispania Citerior как консул в 195 году до н. э. с армией и мандатом на подавление продолжающегося восстания. Его кампания была энергичной и жестокой. Он разгромил кельтиберийских и иберийских мятежников в серии сражений, затем — в проявлении зрелищной административной беспощадности — приказал всем укреплённым городам внутренних районов снести стены в один день, чтобы ни один не мог служить центром будущего сопротивления прежде, чем будут разобраны прочие. Для достижения этого он организовал одновременную доставку приказов во все города таким образом, что ни один вождь не мог предупредить другого. Затем он систематически эксплуатировал серебряные рудники региона, отправляя огромные количества серебра в Рим.\n\nДеятельность Катона в Иберии установила эксплуататорский шаблон, характеризовавший римское провинциальное управление целое поколение. Он открыто хвастался, что заставил войну окупить себя, — что его солдаты питались лучше, уходя, чем приходя, и всё это полностью за счёт иберийских ресурсов. Он написал первую римскую книгу об Иберии, ныне утраченную, в которой, вероятно, представлял завоевание как самоочевидный цивилизационный прогресс. В Риме его чествовали как завоевателя Испании; в Иберии его имя связывалось с обидами, вспыхнувшими вновь в течение двух десятилетий.",
+      "latitude": 41.65,
+      "longitude": -1.0,
+      "source": "https://en.wikipedia.org/wiki/Cato_the_Elder",
+      "tags": [
+        "Roman",
+        "Military",
+        "Political",
+        "War",
+        "Economic",
+        "Conquest"
+      ]
+    },
+    {
+      "date": "01.01.0179",
+      "era": "BC",
+      "type": "political",
+      "name": "Tiberius Gracchus and the just peace — a rare Roman success in Iberia",
+      "name_ru": "Тиберий Гракх и справедливый мир — редкий успех Рима в Иберии",
+      "description": "After years of inconclusive fighting in the Celtiberian interior, the Roman commander Tiberius Sempronius Gracchus — father of the famous tribune reformers — negotiated a peace settlement with the Celtiberian tribes in 179 BC that was remarkable for its fairness by Roman standards. Rather than imposing crushing reparations or arbitrary confiscations, Gracchus settled Roman clients on new lands, reduced tax demands to sustainable levels, and reportedly treated the Celtiberians with sufficient respect that they named their sons after him for generations.\n\nThe Gracchan settlement held for a generation — longer than any other Roman political arrangement in Iberia — precisely because it offered the Celtiberians something they could live with. When the peace eventually broke down in the 150s BC, the Celtiberians explicitly cited the abandonment of Gracchus's terms as their justification. His settlement became the benchmark against which all subsequent Roman conduct in Iberia was measured and found wanting, and his memory was still invoked by Iberian leaders more than thirty years after his death. It was one of the rare moments in the Roman conquest of Iberia when Roman diplomacy worked better than Roman iron.",
+      "description_ru": "После лет безрезультатных боёв во внутренних кельтиберийских районах римский командующий Тиберий Семпроний Гракх — отец знаменитых реформаторов-трибунов — заключил с кельтиберийскими племенами в 179 году до н. э. мирное соглашение, примечательное своей справедливостью по римским меркам. Вместо того чтобы навязывать сокрушительные репарации или произвольные конфискации, Гракх поселил римских клиентов на новых землях, снизил налоговые требования до устойчивого уровня и, по преданию, обращался с кельтиберами с достаточным уважением, что те на протяжении поколений называли своих сыновей в его честь.\n\nСоглашение Гракха держалось целое поколение — дольше, чем любое другое римское политическое урегулирование в Иберии, — именно потому, что предлагало кельтиберам условия, с которыми можно было жить. Когда мир в конечном счёте рухнул в 150-х годах до н. э., кельтиберы прямо назвали отказ от условий Гракха своим обоснованием. Его соглашение стало мерилом, на котором взвешивалось всё последующее римское поведение в Иберии.",
+      "latitude": 41.5,
+      "longitude": -2.5,
+      "source": "https://en.wikipedia.org/wiki/Tiberius_Sempronius_Gracchus_(consul_177_BC)",
+      "tags": [
+        "Roman",
+        "Political",
+        "Law",
+        "Historic",
+        "Diplomacy"
+      ]
+    },
+    {
+      "date": "01.01.0150",
+      "era": "BC",
+      "type": "historic",
+      "name": "The silver mines of Hispania — plundering a continent to fund Rome",
+      "name_ru": "Серебряные рудники Испании — ограбление континента ради финансирования Рима",
+      "description": "The mineral wealth of Iberia was one of the primary reasons Rome fought so tenaciously to hold the peninsula. The Sierra Morena mountains of southern Spain contained the richest silver deposits in the ancient western world, centred on the Carthaginian-developed mines around modern Linares and the area the Romans called the Saltus Hispaniensis. When Scipio Africanus captured Carthago Nova in 209 BC, he found in its treasury enough silver to coin enormous quantities of money; the mines near the city were worked by 40,000 slaves according to ancient sources.\n\nUnder Roman administration, the mines were leased to private publicani — Roman businessmen who bid for contracts and extracted maximum profit through brutal slave labour. The geographer Strabo visited and recorded the scene: tens of thousands of slaves working the mines by torchlight, drinking tunnel water, breathing rock dust, and dying at rates that required constant replacement from the slave markets. The revenue was staggering: at the mines' peak in the late second century BC, the treasury of Rome received the equivalent of several days' Italian grain harvest every single day from the Iberian mines. This silver funded the conquest of the eastern Mediterranean, the building of Rome's roads, and the military machinery that made Rome's empire possible.",
+      "description_ru": "Минеральные богатства Иберии были одной из главных причин, по которым Рим так упорно держался за полуостров. Горы Сьерра-Морена южной Испании содержали богатейшие месторождения серебра в древнем западном мире, сосредоточенные на разрабатываемых карфагенянами рудниках вокруг современного Линареса. Когда Сципион Африканский в 209 году до н. э. захватил Карфаген Новый, он обнаружил в его казне достаточно серебра для чеканки огромного количества монет; рудники близ города, по данным античных источников, обрабатывались 40 000 рабами.\n\nПри римской администрации рудники сдавались в аренду частным публиканам — римским коммерсантам, торговавшимся за контракты и извлекавшим максимальную прибыль через жестокий рабский труд. Географ Страбон посетил и описал картину: десятки тысяч рабов, работающих в рудниках при свете факелов, пьющих воду из штолен, дышащих каменной пылью и умирающих с такой скоростью, что требовали постоянного пополнения с невольничьих рынков. Доходы были ошеломляющими: это серебро финансировало завоевание восточного Средиземноморья, строительство дорог Рима и военную машину, сделавшую римскую империю возможной.",
+      "latitude": 38.1,
+      "longitude": -3.63,
+      "source": "https://en.wikipedia.org/wiki/Roman_mining_in_Hispania",
+      "tags": [
+        "Roman",
+        "Economic",
+        "Historic",
+        "Trade",
+        "Engineering ⚙️"
+      ]
+    },
+    {
+      "date": "01.01.0147",
+      "era": "BC",
+      "type": "military",
+      "name": "Viriathus — the Lusitanian shepherd who humiliated Rome",
+      "name_ru": "Вириат — лузитанский пастух, унизивший Рим",
+      "description": "Viriathus was the most dangerous enemy Rome faced in Iberia. A former shepherd and hunter from the mountains of Lusitania — modern Portugal — he emerged as a military leader after a Roman commander treacherously massacred a group of Lusitanians who had surrendered under the promise of safe terms in 150 BC, killing an estimated 9,000 people. Viriathus escaped and organised the survivors into a guerrilla force of extraordinary effectiveness, using the rugged terrain of his homeland to neutralise Roman advantages in pitched battle.\n\nFor eight years, from 147 to 139 BC, Viriathus won battle after battle against Roman armies, killing or capturing tens of thousands of Roman soldiers, forcing the Romans to sign humiliating treaties they subsequently repudiated, and demonstrating that Rome's standard tactics of pitched battle and siege were useless against a commander who simply refused to fight on Roman terms. He was never defeated in the field. Rome's solution was assassination: three of his own officers, bribed by the Roman commander Servilius Caepio, murdered him in his sleep in 139 BC. When the Lusitanians asked Rome to punish the assassins, Rome refused — and the contemptuous response 'Rome does not pay traitors' became one of antiquity's most famous sayings.",
+      "description_ru": "Вириат был наиболее опасным врагом, которого Рим встречал в Иберии. Бывший пастух и охотник из гор Лузитании — современная Португалия, — он выдвинулся как военный вождь после того, как римский командующий предательски вырезал группу лузитан, сдавшихся под обещание безопасных условий в 150 году до н. э., убив около 9 000 человек. Вириат бежал и организовал выживших в партизанскую силу исключительной эффективности, используя суровый рельеф своей родины для нейтрализации римских преимуществ в полевом сражении.\n\nВосемь лет — с 147 по 139 год до н. э. — Вириат побеждал в сражениях за сражениями против римских армий, убивал и захватывал десятки тысяч римских солдат, вынуждал римлян подписывать унизительные договоры, которые те затем отвергали, и доказывал, что стандартная тактика Рима бесполезна против командира, отказывающегося сражаться на римских условиях. Он не был побеждён в поле ни разу. Решением Рима стало убийство: три его собственных офицера, подкуплённых римским командующим Сервилием Цепионом, убили его во сне в 139 году до н. э.",
+      "latitude": 40.4165,
+      "longitude": -7.91,
+      "source": "https://en.wikipedia.org/wiki/Viriathus",
+      "tags": [
+        "Roman",
+        "Military",
+        "War",
+        "Rebellion",
+        "Battle",
+        "Resistance",
+        "Death"
+      ]
+    },
+    {
+      "date": "01.01.0133",
+      "era": "BC",
+      "type": "military",
+      "name": "Scipio Aemilianus destroys Numantia — the city that twenty years of Roman armies could not take",
+      "name_ru": "Сципион Эмилиан уничтожает Нуманцию — город, которого двадцать лет римских армий не могли взять",
+      "description": "Numantia — a Celtiberian hilltop town of perhaps 8,000 people on a bluff above the Douro River in northern Spain — became Rome's greatest embarrassment in the western Mediterranean. For twenty years, from 153 BC, Numantine warriors repelled every Roman army sent against them, inflicting humiliating defeats that included the capture of a Roman consul and 20,000 soldiers forced to walk under the yoke. The 'Numantine disgrace' was the Roman equivalent of a national catastrophe, a wound to Roman pride that demanded healing.\n\nIn 134 BC the Senate turned to Scipio Aemilianus — the destroyer of Carthage — giving him a special command to finish the war. He arrived with 60,000 men against a defended population of perhaps 4,000 warriors, built a seven-kilometre circumvallation of siegeworks around the city, cut it off from all supply, and simply waited. After fifteen months, the population was reduced to starvation. Most chose death over surrender — burning their city and killing themselves rather than appearing in a Roman triumph. Those who surrendered were sold as slaves; Numantia was razed to its foundations. Scipio carried fifty Numantine prisoners to Rome for his triumph and then released them. The site was left bare for a generation, a lesson in what Roman patience could achieve against any level of resistance.",
+      "description_ru": "Нуманция — кельтиберийский вершинный городок, возможно с 8 000 жителей, на гребне над рекой Дуэро в северной Испании, — стала величайшим позором Рима в западном Средиземноморье. Двадцать лет — с 153 года до н. э. — нуманцийские воины отражали каждую посылаемую против них римскую армию, нанося унизительные поражения, включавшие захват римского консула и 20 000 солдат, вынужденных пройти под ярмом.\n\nВ 134 году до н. э. сенат обратился к Сципиону Эмилиану — разрушителю Карфагена, — дав ему особое командование для завершения войны. Он прибыл с 60 000 человек против защищаемого населения, возможно, в 4 000 воинов, выстроил семикилометровые осадные укрепления вокруг города, отрезал его от всякого снабжения и просто ждал. После пятнадцати месяцев население было доведено до голода. Большинство предпочло смерть сдаче — сожгло свой город и покончило с собой, лишь бы не участвовать в римском триумфе. Сдавшихся продали в рабство; Нуманция была сровнена с землёй. Место оставили голым на целое поколение — урок того, чего может достичь римское терпение перед лицом любого сопротивления.",
+      "latitude": 41.81,
+      "longitude": -2.43,
+      "source": "https://en.wikipedia.org/wiki/Numantia",
+      "tags": [
+        "Roman",
+        "Military",
+        "Battle",
+        "War",
+        "Siege",
+        "Destruction",
+        "Conquest"
+      ]
+    },
+    {
+      "date": "01.01.0080",
+      "era": "BC",
+      "type": "political",
+      "name": "Sertorius — the renegade Roman who ran a rival republic in Iberia",
+      "name_ru": "Серторий — римский отступник, создавший соперничающую республику в Иберии",
+      "description": "Quintus Sertorius was a brilliant Roman general and politician who, driven from Rome by the Sullan dictatorship, established an extraordinary alternative Roman state in Iberia that lasted nearly a decade. He arrived in Hispania Ulterior in 83 BC, won the loyalty of the Lusitanian tribes with a combination of genuine fairness and tactical genius, and built a rival Roman administration complete with a shadow senate of Roman exiles, Latin schools for the sons of Iberian nobles, and a Roman administrative apparatus that Iberian chiefs could participate in as genuine partners rather than subjects.\n\nSertorius won battle after battle against the armies Sulla and then Pompey sent to destroy him, using guerrilla tactics learned from his Iberian allies to defeat conventionally superior forces. He governed Iberia more justly than Rome typically did, protecting Iberian communities from arbitrary taxation and violence. For the Roman aristocracy, his example was deeply threatening: it proved that Rome's provincial peoples would enthusiastically support an alternative Roman order if that order treated them decently. His assassination by his own officers in 72 BC — engineered by Pompey's agents — ended the experiment, and Pompey accepted the surrender of the remaining forces. The Sertorian war revealed the depth of loyalty Rome could win in Iberia, and the fear that loyalty provoked in Rome.",
+      "description_ru": "Квинт Серторий был блестящим римским полководцем и политиком, который, изгнанный из Рима сулланской диктатурой, создал в Иберии чрезвычайное альтернативное римское государство, просуществовавшее почти десятилетие. Прибыв в Hispania Ulterior в 83 году до н. э., он завоевал лояльность лузитанских племён сочетанием подлинной справедливости и тактического гения и выстроил альтернативную римскую администрацию в полном составе — с теневым сенатом из римских изгнанников, латинскими школами для сыновей иберийских вождей и римским административным аппаратом, в котором иберийские вожди могли участвовать как подлинные партнёры, а не подданные.\n\nСерторий побеждал в сражениях за сражениями против армий, которые Сулла, а затем Помпей посылали уничтожить его, применяя партизанскую тактику, заимствованную у иберийских союзников, для разгрома численно превосходящих сил. Он управлял Иберией справедливее, чем обычно делал Рим. Его убийство собственными офицерами в 72 году до н. э. — организованное агентами Помпея — завершило этот эксперимент. Серторианская война обнажила глубину лояльности, которую Рим мог завоевать в Иберии, и страх, который эта лояльность вызывала в Риме.",
+      "latitude": 38.88,
+      "longitude": -6.97,
+      "source": "https://en.wikipedia.org/wiki/Sertorius",
+      "tags": [
+        "Roman",
+        "Political",
+        "Military",
+        "War",
+        "Rebellion",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0029",
+      "era": "BC",
+      "type": "military",
+      "name": "The Cantabrian Wars — Augustus conquers the last free peoples of Iberia",
+      "name_ru": "Кантабрийские войны — Август покоряет последние свободные народы Иберии",
+      "description": "The mountainous Cantabrian and Asturian peoples of northwestern Iberia had resisted Roman penetration for over a century. Living in the rugged Atlantic ranges that divide the meseta from the Bay of Biscay coast, they had maintained their independence through a combination of terrain, fierce warrior culture, and Roman reluctance to invest in territories that offered little obvious economic return. Augustus changed the calculation: a fully pacified Iberian peninsula was both a strategic and symbolic requirement of the new empire he was building.\n\nThe Cantabrian Wars lasted from 29 to 19 BC and were among the hardest campaigns Augustus ever fought. He commanded the opening campaigns in person — the only time he personally led troops in battle — and fell seriously ill in the field. His general Agrippa eventually completed the conquest in 19 BC with a strategy combining permanent fortified camps, deliberate destruction of hilltop castro settlements, and forced relocation of survivors to lowland towns where they could be controlled. Thousands of captured Cantabrians were sold into slavery; many escaped and returned to fight again. The gold and tin mines of Gallaecia were the prize: under Roman exploitation they would produce prodigious wealth and fund the Augustan building programme across the empire.",
+      "description_ru": "Кантабрийский и астурийский народы северо-западной Иберии сопротивлялись римскому проникновению более столетия. Живя в суровых атлантических хребтах, разделяющих плоскогорье от побережья Бискайского залива, они сохраняли независимость благодаря сочетанию рельефа, яростной воинской культуры и нежелания Рима вкладывать силы в территории, предлагавшие очевидно мало экономических выгод. Август изменил расчёт: полностью умиротворённый Иберийский полуостров был и стратегическим, и символическим требованием новой империи, которую он строил, — недопустимо иметь неподчинённые народы внутри провинциальных границ.\n\nКантабрийские войны длились с 29 по 19 год до н. э. и были одними из самых трудных кампаний, которые Август когда-либо вёл. Он лично командовал начальными кампаниями — единственный раз, когда он лично вёл войска в бой, — и серьёзно заболел в поле. Его полководец Агриппа в конечном счёте завершил завоевание в 19 году до н. э., сочетав постоянные укреплённые лагеря, намеренное разрушение вершинных кастрос-поселений и принудительное переселение выживших в равнинные города. Золотые и оловянные рудники Галлаэции стали главной наградой: под римской разработкой они дали колоссальные богатства и профинансировали строительную программу Августа по всей империи.",
+      "latitude": 43.35,
+      "longitude": -4.05,
+      "source": "https://en.wikipedia.org/wiki/Cantabrian_Wars",
+      "tags": [
+        "Roman",
+        "Military",
+        "War",
+        "Battle",
+        "Conquest",
+        "Resistance"
+      ]
+    },
+    {
+      "date": "01.01.0027",
+      "era": "BC",
+      "type": "political",
+      "name": "Augustus reorganises Hispania into three provinces",
+      "name_ru": "Август реорганизует Испанию в три провинции",
+      "description": "Following the Cantabrian Wars, Augustus reorganised the Iberian peninsula's provincial structure into a definitive form that would last with minor modifications for over four centuries. The old Hispania Ulterior was divided into two new provinces: Baetica — the rich agricultural and commercial south, centred on the Guadalquivir valley — which became a senatorial province administered by a proconsul elected in Rome, reflecting its high degree of Romanisation and pacification; and Lusitania — the west and northwest, covering modern Portugal and Extremadura — which became an imperial province with an Augustus-appointed legate. Hispania Citerior was retained and eventually renamed Hispania Tarraconensis for its capital at Tarraco, modern Tarragona.\n\nThe three-province structure reflected genuine differences in cultural and economic development across the peninsula. Baetica was the most thoroughly Romanised province in Iberia — in some respects more Roman than Italy itself by the first century AD. Tarraconensis was the largest province in the western empire, encompassing the entire north and centre. Lusitania was the most recently conquered and slowest to urbanise. The administrative capital of the imperial project in Iberia was the new city of Emerita Augusta, chosen to oversee the newly conquered Cantabrian and Lusitanian territories.",
+      "description_ru": "После Кантабрийских войн Август реорганизовал провинциальную структуру Иберийского полуострова в окончательный вид, который с незначительными изменениями просуществует более четырёх столетий. Старая Hispania Ulterior была разделена на две новые провинции: Бетику — богатый аграрный и торговый юг с центром в долине Гвадалквивира, — ставшую сенатской провинцией, управляемой проконсулом, избранным в Риме, что отражало высокую степень её романизации; и Лузитанию — запад и северо-запад, охватывавшую современную Португалию и Эстремадуру, — ставшую императорской провинцией с легатом, назначенным Августом. Hispania Citerior была сохранена и в конечном счёте переименована в Испанию Тарраконскую по её столице Тарракону, современной Таррагоне.\n\nТрёхпровинциальная структура отражала реальные различия в культурном и экономическом развитии по всему полуострову. Бетика была наиболее полно романизированной провинцией в Иберии — в некоторых отношениях более римской, чем сама Италия, к I веку н. э. Тарраконская Испания была крупнейшей провинцией в западной части империи.",
+      "latitude": 39.474,
+      "longitude": -6.372,
+      "source": "https://en.wikipedia.org/wiki/Hispania",
+      "tags": [
+        "Roman",
+        "Political",
+        "Administration",
+        "Law",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "01.01.0025",
+      "era": "BC",
+      "type": "historic",
+      "name": "Emerita Augusta / Mérida — Rome's showpiece city for the veterans of Iberia",
+      "name_ru": "Эмерита Августа / Мерида — образцовый город Рима для ветеранов Иберии",
+      "description": "In 25 BC, Augustus founded Emerita Augusta — modern Mérida in Extremadura — as the capital of the new province of Lusitania, settling veterans of his Fifth and Tenth legions on the fertile banks of the Guadiana River. Chosen for its strategic position at the crossroads of the western peninsula's road network, Emerita received an exceptionally generous programme of public building that made it one of the most impressive cities in the western Roman world.\n\nThe monuments of Emerita represent the single greatest concentration of Roman ruins in the Iberian peninsula and among the finest in the entire empire. The Roman theatre — built between 16 and 15 BC under Marcus Agrippa and rebuilt under Hadrian — could seat 6,000 spectators and featured a two-storey columnar stage backdrop of exceptional elegance. Adjacent to it, the amphitheatre held 15,000 people. The city was served by two aqueducts whose arches — the Milagros and San Lázaro — survive as extraordinary monuments to Roman hydraulic engineering. A Roman bridge of 60 arches spanning the Guadiana, still used until the modern era, was the longest Roman bridge in Iberia. Emerita was the cultural, administrative, and economic heart of Lusitania for four centuries.",
+      "description_ru": "В 25 году до н. э. Август основал Эмериту Августу — современную Мериду в Эстремадуре — как столицу новой провинции Лузитания, поселив ветеранов своих Пятого и Десятого легионов на плодородных берегах реки Гуадиана. Выбранная за стратегическое положение на перекрёстке дорожной сети западного полуострова, Эмерита получила исключительно щедрую программу общественного строительства, сделавшую её одним из наиболее впечатляющих городов западного римского мира.\n\nПамятники Эмериты представляют наибольшее сосредоточение римских руин на Иберийском полуострове и одно из лучших во всей империи. Римский театр — построенный между 16 и 15 годами до н. э. при Марке Агриппе и перестроенный при Адриане — вмещал 6 000 зрителей и отличался двухъярусным колонным задником сцены исключительной изящности. Примыкающий амфитеатр вмещал 15 000 человек. Город обслуживался двумя акведуками, чьи арки — Милагрос и Сан-Ласаро — сохранились как замечательные памятники римской гидротехники. Римский мост из 60 арок через Гуадиану — использовавшийся вплоть до Нового времени — был длиннейшим римским мостом в Иберии.",
+      "latitude": 38.917,
+      "longitude": -6.343,
+      "source": "https://en.wikipedia.org/wiki/M%C3%A9rida,_Spain",
+      "tags": [
+        "Roman",
+        "Foundation",
+        "Building 🏠",
+        "Architecture",
+        "Historic",
+        "Culture"
+      ]
+    },
+    {
+      "date": "01.01.0016",
+      "era": "BC",
+      "type": "historic",
+      "name": "Bracara Augusta / Braga — Rome plants its flag in the Celtic northwest",
+      "name_ru": "Бракара Августа / Брага — Рим водружает флаг в кельтском северо-западе",
+      "description": "Founded by Augustus around 16 BC in the territory of the recently conquered Bracari tribe, Bracara Augusta — modern Braga in northern Portugal — became the administrative capital of the conventus (judicial district) of the Gallaecian northwest, an area rich in gold, tin, and copper but deeply Celtic in culture and only recently subjected to Roman authority. The city was established at the hub of the new road system Augustus was building to connect the northwest to the rest of the peninsula.\n\nBracara Augusta grew into the most important city of the far northwest, its forum, temples, and baths rising in a landscape of castro hillforts whose inhabitants were being gradually resettled into lowland towns as Roman policy demanded. The city's street grid has been extensively excavated under modern Braga, revealing one of the most complete Roman urban plans in Iberia. It later became an episcopal see of major importance, and the city's Christian heritage — as seat of one of the oldest archbishoprics in the Iberian church — directly descends from its Roman foundation. Augustus's road, the Via Nova, connected Bracara to Asturica (Astorga) and Lucus (Lugo), opening the gold-mining heartland of Gallaecia to systematic Roman extraction.",
+      "description_ru": "Основанная Августом около 16 года до н. э. на территории недавно покорённого племени браков, Бракара Августа — современная Брага в северной Португалии — стала административной столицей конвента (судебного округа) галлаэкийского северо-запада, района богатого золотом, оловом и медью, но глубоко кельтского по культуре и лишь недавно подчинённого римской власти. Город был основан в узловой точке новой дорожной системы, которую Август строил для соединения северо-запада с остальным полуостровом и открытия золотодобывающих районов Галлаэции для систематической добычи ресурсов.\n\nБракара Августа выросла в важнейший город дальнего северо-запада; её форум, храмы и термы поднимались в ландшафте кастрос-холмоукреплений, жителей которых постепенно переселяли в низинные города согласно требованиям римской политики. Уличная сетка города была обширно раскопана под современной Брагой, открыв один из наиболее полных планов римского города в Иберии. Впоследствии она стала крупной епископской резиденцией, и её христианское наследие — как кафедры одного из старейших архиепископств иберийской церкви — непосредственно восходит к римскому основанию. Дорога Августа — Виа Нова — соединяла Бракару с Астурикой (Асторга) и Луком (Луго), открывая золотодобывающее сердце Галлаэции для систематической римской эксплуатации.",
+      "latitude": 41.5458,
+      "longitude": -8.4265,
+      "source": "https://en.wikipedia.org/wiki/Braga",
+      "tags": [
+        "Roman",
+        "Foundation",
+        "Historic",
+        "Building 🏠",
+        "Administration"
+      ]
+    },
+    {
+      "date": "01.01.0014",
+      "era": "BC",
+      "type": "historic",
+      "name": "Caesaraugusta / Zaragoza — the legionary colony that mastered the Ebro",
+      "name_ru": "Цезараугуста / Сарагоса — легионерская колония, покорившая Эбро",
+      "description": "Around 14 BC, Augustus established the colony of Caesaraugusta — modern Zaragoza — near the confluence of the Ebro, Huerva, and Jalón rivers in the heart of the Ebro valley. Named for Augustus himself, it was settled with veterans of four legions who had served in the Cantabrian Wars, and its strategic position at the natural junction of routes between the Mediterranean coast, the Pyrenean passes, and the interior meseta made it immediately the most important city of northeastern Hispania.\n\nCaesaraugusta was laid out on the standard Roman colonial grid and equipped with the full complement of public buildings: a forum with temples, a theatre, baths, and a river port that made it the commercial hub of the upper Ebro basin. Its bridge across the Ebro was among the most important crossings in the peninsula, and the road network radiating from the city connected it to Tarraco on the coast, to Asturica Augusta in the northwest, and — via the Pyrenean passes — to Gaul and the wider empire. The modern city of Zaragoza preserves fragments of its Roman predecessor in subterranean museums displaying the forum, river port, and public baths beneath the contemporary streets.",
+      "description_ru": "Около 14 года до н. э. Август основал колонию Цезараугусту — современную Сарагосу — близ слияния рек Эбро, Уэрва и Халон в сердце долины Эбро. Названная в честь самого Августа, она была заселена ветеранами четырёх легионов, служивших в Кантабрийских войнах, и её стратегическое положение на естественном пересечении путей между средиземноморским побережьем, пиренейскими перевалами и внутренним плоскогорьем немедленно сделало её важнейшим городом северо-восточной Испании, командным пунктом, откуда новые провинциальные территории могли быть достигнуты и управляемы в кратчайшие сроки.\n\nЦезараугуста была разбита по стандартной римской колониальной сетке и оснащена полным набором общественных зданий: форумом с храмами, театром, термами и речным портом, сделавшим её коммерческим узлом верхнего бассейна Эбро. Её мост через Эбро был одной из важнейших переправ на полуострове, а дорожная сеть, расходившаяся лучами от города, соединяла его с Тарраконом на побережье, с Астурикой Августой на северо-западе и — через пиренейские перевалы — с Галлией и всей остальной империей. Современная Сарагоса сохраняет фрагменты своего римского предшественника в подземных музеях, демонстрирующих форум, речной порт и общественные бани под современными улицами — молчаливые свидетели глубины римского городского слоя под одним из крупнейших испанских городов.",
+      "latitude": 41.6518,
+      "longitude": -0.8873,
+      "source": "https://en.wikipedia.org/wiki/Zaragoza",
+      "tags": [
+        "Roman",
+        "Foundation",
+        "Historic",
+        "Building 🏠",
+        "Administration"
+      ]
+    },
+    {
+      "date": "01.01.0001",
+      "era": "BC",
+      "type": "scientific",
+      "name": "Via Augusta — the Roman highway from Rome to the edge of the world",
+      "name_ru": "Виа Августа — римская дорога от Рима до края света",
+      "description": "The Via Augusta was the longest and most important Roman road in the Iberian peninsula, running approximately 1,500 kilometres from the Pyrenean pass at Summum Pyreneum — modern La Jonquera — along the Mediterranean coast to Carthago Nova, then inland through Baetica to Gades — modern Cádiz — at the Atlantic shore. Built under Augustus as an extension of the Via Domitia connecting Rome to Gaul, it was the spine of the entire Iberian road network and one of the longest paved roads in the Roman empire.\n\nThe Via Augusta was not simply a military road but the artery of Iberian economic and cultural life. Along it moved the olive oil amphorae from Baetica's mills, the silver ingots from the Sierra Morena mines, the imperial post connecting governors and emperors across 1,500 kilometres in days rather than weeks, and the soldiers and administrators who maintained Roman rule. Its milestones — dozens of which survive — were inscribed with the distances to the nearest city and the name of the emperor who had most recently repaired the road. The road's route through the fertile Guadalquivir valley and the coastal plain encouraged urban development: every city along the Via Augusta grew richer and more Roman for the connection.",
+      "description_ru": "Виа Августа была длиннейшей и важнейшей римской дорогой Иберийского полуострова, протянувшейся приблизительно 1 500 километров от пиренейского перевала Суммум Пиренеум — современная Ла-Хункера — вдоль средиземноморского побережья до Карфагена Нового, затем вглубь материка через Бетику до Гадеса — современного Кадиса — у атлантического берега. Построенная при Августе как продолжение Виа Домиция, соединявшей Рим с Галлией, она была хребтом всей иберийской дорожной сети и одной из длиннейших мощёных дорог во всей Римской империи, преодолевавшей горы, равнины и речные долины с единообразной инженерной выверенностью.\n\nВиа Августа была не просто военной дорогой, но артерией иберийской экономической и культурной жизни. По ней двигались амфоры оливкового масла с бетикских маслодавилен, серебряные слитки из рудников Сьерра-Морены, имперская почта, соединявшая наместников и императоров через 1 500 километров за дни вместо недель, и солдаты с чиновниками, поддерживавшие римское господство. Её мильные столбы — десятки которых сохранились вдоль маршрута — были надписаны расстояниями до ближайшего города и именем императора, последним отремонтировавшего участок дороги. Маршрут дороги через плодородную долину Гвадалквивира и прибрежную равнину стимулировал городское развитие: каждый город вдоль Виа Августа становился богаче и более римским благодаря этому соединению.",
+      "latitude": 37.88,
+      "longitude": -4.77,
+      "source": "https://en.wikipedia.org/wiki/Via_Augusta",
+      "tags": [
+        "Roman",
+        "Engineering ⚙️",
+        "Historic",
+        "Trade",
+        "Administration"
+      ]
+    },
+    {
+      "date": "01.01.0001",
+      "era": "AD",
+      "type": "cultural",
+      "name": "Seneca and the Iberian intellectual tradition — Rome's greatest Stoic came from Córdoba",
+      "name_ru": "Сенека и иберийская интеллектуальная традиция — величайший стоик Рима был родом из Кордовы",
+      "description": "Lucius Annaeus Seneca — Rome's most celebrated Stoic philosopher, playwright, and essayist — was born in Corduba (Córdoba) around 4 BC, the son of Seneca the Elder, himself a major figure in Latin rhetoric. The younger Seneca became tutor and adviser to the emperor Nero, the most powerful man in Rome, before Nero's paranoia led to his forced suicide in 65 AD. His Moral Letters to Lucilius, his tragedies, and his philosophical essays on anger, mercy, and the shortness of life remain among the most readable and influential texts of Roman antiquity.\n\nSeneca was not an isolated phenomenon. The Iberian peninsula produced a remarkable concentration of Latin literary talent in the first and second centuries AD: the epigrammatist Martial from Bilbilis (Calatayud), the rhetorician Quintilian from Calagurris (Calahorra), the epic poet Lucan (Seneca's nephew, also from Corduba), and the agricultural writer Columella from Gades. This Iberian literary flowering reflected the deep Romanisation of Baetica's urban culture and the competitive intellectual environment of Corduba, the richest and most densely populated city in Roman Spain. The province that Rome had won through decades of brutal war was producing the men who would define Roman civilisation for posterity.",
+      "description_ru": "Луций Анней Сенека — самый прославленный стоический философ, драматург и эссеист Рима — родился в Кордубе (Кордова) около 4 года до н. э., сын Сенеки Старшего, самого крупной фигуры в латинской риторике. Младший Сенека стал наставником и советником императора Нерона, самого могущественного человека в Риме, прежде чем паранойя Нерона привела к его вынужденному самоубийству в 65 году н. э. Его «Нравственные письма к Луцилию», его трагедии и философские эссе о гневе, милосердии и краткости жизни по сей день остаются одними из наиболее читаемых и влиятельных текстов римской античности.\n\nСенека не был изолированным явлением. Иберийский полуостров в I–II веках н. э. дал поразительное сосредоточение латинских литературных талантов: эпиграмматист Марциал из Билбилиса (Калатаюд), ритор Квинтилиан из Калагурриса (Калаорра), эпический поэт Лукан (племянник Сенеки, тоже из Кордубы) и агрономический писатель Колумелла из Гадеса. Провинция, которую Рим завоевал через десятилетия жестокой войны, производила людей, которые определят римскую цивилизацию для потомства.",
+      "latitude": 37.8883,
+      "longitude": -4.779,
+      "source": "https://en.wikipedia.org/wiki/Seneca_the_Younger",
+      "tags": [
+        "Roman",
+        "Culture",
+        "Historic",
+        "Philosophy",
+        "Literature",
+        "Art"
+      ]
+    },
+    {
+      "date": "01.01.0050",
+      "era": "AD",
+      "type": "scientific",
+      "name": "The Aqueduct of Segovia — Roman water engineering at its most audacious",
+      "name_ru": "Акведук Сеговии — римская водная инженерия в наиболее дерзком исполнении",
+      "description": "The Roman aqueduct of Segovia — built in the late first or early second century AD — is the best preserved Roman aqueduct bridge in the world and one of the most spectacular engineering achievements of the ancient world. Its 167 arches in two tiers, rising to a maximum height of 28 metres, carried water from the Río Frío some 15 kilometres away to the hilltop city. Unlike the Pont du Gard, which was built to carry an aqueduct across a river valley, Segovia's aqueduct had to negotiate the uneven terrain of an entire urban approach, maintaining the precise gradient needed for gravity flow across constantly changing ground.\n\nThe aqueduct was built of granite blocks laid entirely without mortar — the precision of the stonecutting was sufficient to hold the structure through earthquakes, floods, and two millennia of Spanish weather. It remained in active use carrying water to Segovia until the nineteenth century. The local legend that it was built in a single night by the devil — who lost his wager to a water-carrier — testifies to the impression it made on medieval inhabitants who had no framework for understanding how such a structure could have been built by human hands. It stands today in the centre of the modern city, still astonishing, as the supreme monument of Roman Iberia.",
+      "description_ru": "Римский акведук Сеговии — построенный в конце I или начале II века н. э. — является лучшим в мире сохранившимся римским акведуком-мостом и одним из наиболее впечатляющих инженерных достижений древнего мира. Его 167 арок в двух ярусах, поднимающихся на максимальную высоту 28 метров, несли воду из Рио Фрио примерно в 15 километрах до вершинного города. В отличие от Пон-дю-Гара, построенного для переноса акведука через речную долину, акведуку Сеговии предстояло преодолеть неровный рельеф всего городского подхода, сохраняя точный уклон, необходимый для самотёчного течения воды, на постоянно меняющемся грунте — задача, потребовавшая землемерной съёмки исключительной тщательности.\n\nАкведук был построен из гранитных блоков, уложенных полностью без раствора — точности каменной кладки было достаточно, чтобы удерживать конструкцию через землетрясения, наводнения и два тысячелетия испанской погоды. Он оставался в активной эксплуатации, подавая воду в Сеговию, вплоть до XIX века. Местная легенда о том, что он был построен за одну ночь дьяволом, проигравшим пари водоносу, свидетельствует о впечатлении, которое он производил на средневековых жителей, не имевших системы отсчёта для понимания того, как подобное сооружение могло быть возведено человеческими руками. Он стоит сегодня в центре современного города — по-прежнему поразительный — как высший памятник Римской Иберии.",
+      "latitude": 40.948,
+      "longitude": -4.118,
+      "source": "https://en.wikipedia.org/wiki/Aqueduct_of_Segovia",
+      "tags": [
+        "Roman",
+        "Engineering ⚙️",
+        "Building 🏠",
+        "Architecture",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0100",
+      "era": "AD",
+      "type": "cultural",
+      "name": "Baetica's olive oil and garum — the stomach of the Roman empire",
+      "name_ru": "Оливковое масло и гарум Бетики — желудок Римской империи",
+      "description": "By the first century AD, the province of Baetica — the Guadalquivir valley of modern Andalusia — had become one of the most productive agricultural regions in the entire Roman empire, exporting olive oil, wine, wheat, and fish sauce (garum) at industrial scale across the Mediterranean world. The rolling hills around modern Seville, Jaén, and Córdoba were carpeted in olive groves managed by villa estates using a combination of free tenant labour and seasonal workers, producing a surplus that fed not just Hispania but the armies of the Rhine and Danube frontiers.\n\nThe scale of Baetican production is documented in extraordinary archaeological detail by Monte Testaccio in Rome — a hill some 50 metres high composed almost entirely of the broken fragments of olive oil amphorae discarded at Rome's river port. Analysis shows that an estimated 40 million amphorae of Baetican oil were unloaded at Rome alone over three centuries, representing an almost incomprehensible productive achievement. Baetican garum — the fermented fish sauce that Romans used as their universal condiment — was traded from Scotland to Syria. The prosperity of Baetica made it Rome's most loyal and Romanised province, and from its comfortable cities came the men who would rule the empire.",
+      "description_ru": "К I веку н. э. провинция Бетика — долина Гвадалквивира современной Андалусии — стала одним из наиболее производительных сельскохозяйственных регионов всей Римской империи, экспортируя оливковое масло, вино, пшеницу и рыбный соус (гарум) в промышленных масштабах по всему средиземноморскому миру. Холмистые местности вокруг современных Севильи, Хаэна и Кордовы были покрыты оливковыми рощами, управляемыми виллами с использованием труда свободных арендаторов и сезонных работников, производившими излишек, кормивший не только Испанию, но и армии рейнского и дунайского рубежей — главные потребители продовольствия в позднеримском мире.\n\nМасштаб бетикского производства задокументирован в необычайных археологических деталях горой Тестаччо в Риме — холмом высотой около 50 метров, состоящим почти целиком из раздробленных фрагментов амфор оливкового масла, выброшенных у речного порта Рима. Анализ показывает, что только в Рим было разгружено около 40 миллионов амфор бетикского масла за три столетия — достижение почти непостижимого производительного масштаба. Бетикский гарум — ферментированный рыбный соус, служивший римлянам универсальным приправой, — торговался от Шотландии до Сирии. Процветание Бетики сделало её наиболее лояльной и романизированной провинцией Рима, и из её благополучных городов вышли люди, управлявшие империей.",
+      "latitude": 37.3883,
+      "longitude": -5.9754,
+      "source": "https://en.wikipedia.org/wiki/Baetica",
+      "tags": [
+        "Roman",
+        "Economic",
+        "Cultural",
+        "Trade",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0100",
+      "era": "AD",
+      "type": "religious",
+      "name": "Christianity comes to Iberia — tradition, martyrs, and the seven bishops",
+      "name_ru": "Христианство приходит в Иберию — предание, мученики и семь епископов",
+      "description": "Christian tradition holds that the Apostle James the Elder — Santiago — preached in Iberia before his martyrdom in Jerusalem around 44 AD, and that his body was subsequently brought to Galicia for burial at the site that would become Santiago de Compostela. The historical evidence for this tradition is thin, but what is certain is that Christian communities existed in the major cities of Hispania by the end of the second century AD, drawing converts from the large urban Jewish populations and the Greco-Roman merchant communities of the Mediterranean coast.\n\nThe Iberian church grew rapidly through the third century, producing martyrs of its own during the Decian and Valerian persecutions. The deacon Vincent of Zaragoza, martyred around 304 AD, became one of the most venerated martyrs in the western church. The Council of Elvira — held at Illiberis near modern Granada around 306 AD — was the first known church council in Iberia and one of the earliest in the western church, issuing 81 canons on church discipline, mixed marriages, and the behaviour of clergy that reveal a substantial and well-organised Christian community already deeply embedded in Iberian urban life. By the time Constantine legalised Christianity in 313 AD, the church in Hispania was already a major institution.",
+      "description_ru": "Христианское предание утверждает, что апостол Иаков Зеведеев — Сантьяго — проповедовал в Иберии до своего мученичества в Иерусалиме около 44 года н. э. и что его тело было впоследствии перенесено в Галисию для погребения в месте, ставшем Сантьяго-де-Компостела. Исторические свидетельства этого предания скудны, но достоверно известно, что христианские общины существовали в крупных городах Испании к концу II века н. э., привлекая обращённых из обширного городского еврейского населения и греко-римских купеческих общин средиземноморского побережья.\n\nИберийская церковь быстро росла в III веке, производя собственных мучеников в ходе гонений Деция и Валериана. Диакон Винцентий из Сарагосы, замученный около 304 года н. э., стал одним из наиболее почитаемых мучеников западной церкви. Элвирский собор — состоявшийся в Иллиберисе близ современной Гранады около 306 года н. э. — был первым известным церковным собором в Иберии, издавшим 81 канон о церковной дисциплине, смешанных браках и поведении духовенства, раскрывающих значительную и хорошо организованную христианскую общину.",
+      "latitude": 37.1774,
+      "longitude": -3.5987,
+      "source": "https://en.wikipedia.org/wiki/Council_of_Elvira",
+      "tags": [
+        "Roman",
+        "Religious",
+        "Christian",
+        "Culture",
+        "Historic",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "01.01.0117",
+      "era": "AD",
+      "type": "political",
+      "name": "Trajan and Hadrian — two emperors from Italica reshape the Roman world",
+      "name_ru": "Траян и Адриан — два императора из Италики перекраивают римский мир",
+      "description": "The small city of Italica near Seville — founded by Scipio Africanus for his veterans in 206 BC — produced the two emperors who defined Rome's mature imperial age. Marcus Ulpius Traianus, born in Italica around 53 AD, became emperor in 98 AD and ruled for nineteen years, conquering Dacia (modern Romania), adding Arabia and Armenia, and pushing Rome to its greatest territorial extent. His successor, the adoptive Publius Aelius Hadrianus, born in Italica in 76 AD, reversed course: he consolidated frontiers, built the Wall in Britain, and spent his reign travelling the empire and commissioning some of the ancient world's greatest architecture — including the Pantheon in Rome and his villa at Tivoli.\n\nThe succession of two Iberian-born emperors was not coincidental. Baetica's deep Romanisation meant that its aristocratic families had been producing Roman senators and officers for generations; by the late first century AD they were as Roman as any Italian family, differing only in their provincial origin. Trajan was the first emperor born outside Italy — a milestone that opened the imperial throne to the entire Roman world. Hadrian's profound Hellenism, his architectural ambitions, and his administrative thoroughness reflected the cosmopolitan culture of the most Romanised province in the western empire. Together they governed Rome for thirty-eight years at the peak of its power.",
+      "description_ru": "Маленький город Италика близ Севильи — основанный Сципионом Африканским для своих ветеранов в 206 году до н. э. — дал двух императоров, определивших зрелую имперскую эпоху Рима. Марк Ульпий Траян, родившийся в Италике около 53 года н. э., стал императором в 98 году н. э. и правил девятнадцать лет, завоевав Дакию (современная Румыния), присоединив Аравию и Армению и расширив Рим до его величайших территориальных пределов. Его преемник, принятый в усыновление Публий Элий Адриан, родившийся в Италике в 76 году н. э., развернул курс: он укрепил рубежи, построил Адрианов вал в Британии и провёл своё царствование в путешествиях по империи, заказывая некоторые из величайших архитектурных памятников древнего мира — включая Пантеон в Риме и свою грандиозную виллу в Тиволи.\n\nСмена двух иберийских императоров была не случайной. Глубокая романизация Бетики означала, что её аристократические семьи поколениями поставляли Риму сенаторов и офицеров; к концу I века н. э. они были столь же римскими, как и любая итальянская семья, отличаясь лишь провинциальным происхождением. Траян был первым императором, рождённым за пределами Италии, — вехой, открывшей имперский трон для всего римского мира. Вместе они правили Римом тридцать восемь лет на пике его могущества и цивилизационного достижения.",
+      "latitude": 37.44,
+      "longitude": -6.05,
+      "source": "https://en.wikipedia.org/wiki/Trajan",
+      "tags": [
+        "Roman",
+        "Political",
+        "Historic",
+        "Dynasty",
+        "Culture",
+        "Architecture"
+      ]
+    },
+    {
+      "date": "01.01.0379",
+      "era": "AD",
+      "type": "political",
+      "name": "Theodosius — the last emperor of a united Rome came from Hispania",
+      "name_ru": "Феодосий — последний император единого Рима был родом из Испании",
+      "description": "Theodosius I — born in Cauca (modern Coca in Segovia province) around 347 AD — became emperor of the eastern Roman empire in 379 after the catastrophic Battle of Adrianople. In 394 he became, briefly, the last emperor to rule a united Roman empire from Britain to Mesopotamia. His reign had consequences that extended far beyond the political: in 380 he issued the Edict of Thessalonica, making Nicene Christianity the official religion of the Roman empire; in 391 he closed the pagan temples and banned sacrifice, effectively ending the thousand-year tradition of Roman paganism.\n\nTheodosius's origins in a Spanish military family — his father was a senior general who had served in Britain — reflected Hispania's role as a nursery of Roman military talent in the late empire. The Spanish provinces were by this period deeply Christian and thoroughly Roman; they supplied the army with officers and the church with bishops. Theodosius's decision to divide the empire between his two sons on his death in 395 — giving the west to Honorius and the east to Arcadius — proved to be the last act of Roman unity. The western half he bequeathed would be overwhelmed by the same peoples whose settlement on the Danube had made Adrianople, and eventually his own elevation, possible.",
+      "description_ru": "Феодосий I — родившийся в Кауке (современная Кока в провинции Сеговия) около 347 года н. э. — стал императором восточной Римской империи в 379 году после катастрофической битвы при Адрианополе, в которой вестготы уничтожили основную римскую армию. В 394 году он стал, кратко, последним императором, правившим единой Римской империей от Британии до Месопотамии. Его царствование имело последствия, далеко выходившие за рамки политического: в 380 году он издал Фессалоникийский эдикт, сделав никейское христианство официальной религией Римской империи; в 391 году закрыл языческие храмы и запретил жертвоприношения, фактически положив конец тысячелетней традиции римского язычества и открыв период, когда преследование язычников стало государственной политикой.\n\nПроисхождение Феодосия из испанской военной семьи отражало роль Испании как питомника римских военных талантов в поздней империи. Испанские провинции к тому времени были глубоко христианскими и всесторонне романизированными; они поставляли армии офицеров, а церкви — епископов. Его решение разделить империю между двумя сыновьями после смерти в 395 году — отдав запад Гонорию, а восток Аркадию — оказалось последним актом римского единства. Западная половина, которую он завещал, будет захлёстнута теми же народами, чьё поселение на Дунае сделало Адрианополь, и в конечном счёте его собственное возвышение, возможными.",
+      "latitude": 41.225,
+      "longitude": -4.5,
+      "source": "https://en.wikipedia.org/wiki/Theodosius_I",
+      "tags": [
+        "Roman",
+        "Political",
+        "Religious",
+        "Historic",
+        "Dynasty",
+        "Christian"
+      ]
+    },
+    {
+      "date": "01.10.0409",
+      "era": "AD",
+      "type": "military",
+      "name": "The Pyrenean crossing — Vandals, Suebi, and Alans flood into Hispania",
+      "name_ru": "Пиренейский переход — вандалы, свевы и аланы хлынули в Испанию",
+      "description": "On the first day of October 409 AD — three years after the great Rhine crossing that had flooded Gaul with barbarian peoples — the Vandals, Suebi, and Alans crossed the Pyrenees into Hispania. The western Roman government under Honorius, paralysed by internal civil war and the disintegration of the Rhine frontier, was unable to mount a coordinated defence. The barbarian peoples spread across the peninsula, systematically looting cities, destroying agricultural infrastructure, and triggering famines and plague in the wake of their advance.\n\nThe ancient sources — written by Christian bishops watching the catastrophe unfold — describe the horror with apocalyptic intensity: cities burned, bodies unburied, survivors resorting to cannibalism during the famines that followed in the wake of agricultural destruction. The crossing of 409 effectively ended Roman civilian administration of the interior provinces. The Vandals settled in Baetica — Rome's richest province — the Suebi in Gallaecia and northern Lusitania, and the Alans in Carthaginiensis and Lusitania. Within twenty years the Vandals had crossed to North Africa, leaving the Suebi in the northwest and the Visigoths — whom Rome had invited in as federate troops — increasingly dominant across the rest of the peninsula.",
+      "description_ru": "Первого октября 409 года н. э. — три года спустя после великого Рейнского перехода, наводнившего Галлию варварскими народами, — вандалы, свевы и аланы перешли Пиренеи в Испанию. Западноримское правительство под властью Гонория, парализованное внутренней гражданской войной и распадом Рейнского рубежа, было не в состоянии организовать скоординированную оборону против трёх различных народов, наступавших одновременно по разным направлениям через горные перевалы, оставленные без гарнизонов.\n\nАнтичные источники — написанные христианскими епископами, наблюдавшими катастрофу с мест событий, — описывают ужас с апокалиптической интенсивностью: сожжённые города, непогребённые тела, выжившие, прибегающие к людоедству в ходе голода, последовавшего за разрушением сельскохозяйственной инфраструктуры. Переход 409 года фактически положил конец римскому гражданскому управлению внутренними провинциями. Вандалы осели в Бетике — богатейшей провинции Рима, — свевы в Галлаэции и северной Лузитании, аланы в Карфагиненсис и Лузитании. В течение двадцати лет вандалы переправятся в Северную Африку, оставив свевов на северо-западе и вестготов — которых Рим пригласил как федеральные войска, — всё более господствующими на остальной части полуострова.",
+      "latitude": 42.59,
+      "longitude": -0.55,
+      "source": "https://en.wikipedia.org/wiki/Crossing_of_the_Rhine",
+      "tags": [
+        "Roman",
+        "Military",
+        "War",
+        "Germanic",
+        "Destruction",
+        "Vandals",
+        "Crisis"
+      ]
+    },
+    {
+      "date": "01.01.0475",
+      "era": "AD",
+      "type": "political",
+      "name": "The Visigothic kingdom supplants Rome — Spain's Roman era ends",
+      "name_ru": "Вестготское королевство вытесняет Рим — романская эпоха Испании завершается",
+      "description": "Through the mid-fifth century, the Visigoths — Germanic federates who had initially settled in Aquitaine as Roman allies — expanded their power systematically across Hispania, filling the vacuum left by the Vandal departure and the Roman government's inability to project authority beyond the coastal cities. King Euric, who ruled from 466 to 484, issued the Codex Euricianus — one of the earliest Germanic law codes — abandoned the fiction of Roman federation, and by 475 controlled virtually the entire Iberian peninsula. The last nominal Roman authority in Hispania disappeared with the fall of the western empire in 476.\n\nYet the end of Roman political authority was not the end of Roman civilisation in Iberia. The Visigoths were already deeply Romanised — they had served in Roman armies for generations, worshipped Christ (if in the Arian heresy), and used Latin for all administration and culture. Their kingdom maintained Roman law alongside Germanic custom, preserved the episcopal structure of the church, and continued to produce Latin literature. The Iberian bishops — men like Isidore of Seville, whose encyclopaedia of ancient knowledge preserved Roman learning through the early medieval period — were heirs of the Roman urban tradition that survived the political transition almost intact. Spain remained fundamentally Roman in language, law, religion, and urban form for centuries after the last Roman governor departed.",
+      "description_ru": "На протяжении середины V века вестготы — германские федераты, первоначально осевшие в Аквитании как римские союзники, — систематически расширяли свою власть по всей Испании, заполняя вакуум, оставленный уходом вандалов и неспособностью римского правительства распространять власть за пределы прибрежных городов. Король Эйрих, правивший с 466 по 484 год, издал Кодекс Эйриха — один из ранних германских правовых сводов, — отказался от фикции римской федерации и к 475 году контролировал практически весь Иберийский полуостров. Последний номинальный римский авторитет в Испании исчез с падением западной империи в 476 году.\n\nОднако конец римской политической власти не был концом римской цивилизации в Иберии. Вестготы были уже глубоко романизированы — они поколениями служили в римских армиях, исповедовали Христа и использовали латынь для всего управления и культуры. Их королевство поддерживало римское право наряду с германским обычаем, сохраняло епископскую структуру церкви и продолжало создавать латинскую литературу. Испания оставалась в основе романской по языку, праву, религии и городской форме ещё столетия после того, как последний римский наместник покинул её.",
+      "latitude": 39.474,
+      "longitude": -6.372,
+      "source": "https://en.wikipedia.org/wiki/Visigothic_Kingdom",
+      "tags": [
+        "Roman",
+        "Political",
+        "Germanic",
+        "Historic",
+        "Law",
+        "Culture"
+      ]
+    },
+    {
+      "date": "01.01.0500",
+      "era": "AD",
+      "type": "cultural",
+      "name": "The Roman legacy in Iberia — what six centuries of Rome left in Spain and Portugal",
+      "name_ru": "Римское наследие в Иберии — что шесть столетий Рима оставили в Испании и Португалии",
+      "description": "Six centuries of Roman rule left Iberia permanently transformed. The most obvious legacy is linguistic: Latin, displaced by Germanic Visigothic but never replaced by it, evolved into the Iberian Romance languages — Spanish and Portuguese today spoken by over 550 million people as their native tongue, with hundreds of millions more as second-language speakers. The linguistic achievement of Roman Iberia is arguably the single largest cultural transformation in human history measured by number of eventual speakers.\n\nThe physical legacy persists across the peninsula. The Roman road network — Via Augusta, Via de la Plata, Via Hercúlea — determined the routes of medieval pilgrimage roads and modern highways. Roman bridge foundations carry modern traffic in dozens of Spanish cities. The aqueducts of Segovia and Tarragona still stand. Roman theatre foundations underlie stages in Mérida and Cartagena. The urban grid of cities from Zaragoza to Cádiz preserves Roman alignments. The legal tradition of the Iberian peninsula — the Roman law that underlies both Spanish and Portuguese civil law — descends directly from the Justinianic compilations of Roman jurisprudence. And the Catholic Church whose infrastructure Rome's urban diocesan structure created remains, as in all of western Europe, the most tangible living heir of Roman institutional organisation.",
+      "description_ru": "Шесть столетий римского владычества оставили Иберию навсегда преображённой. Наиболее очевидное наследие — лингвистическое: латынь, вытесненная, но не замещённая германским вестготским, эволюционировала в иберийские романские языки — испанский и португальский, на которых сегодня говорят как на родных свыше 550 миллионов человек, а сотни миллионов используют их как второй язык. Лингвистическое достижение Римской Иберии — это, возможно, крупнейшая культурная трансформация в истории человечества, измеренная числом конечных носителей.\n\nФизическое наследие сохраняется по всему полуострову. Римская дорожная сеть — Виа Августа, Виа де ла Плата, Виа Эркулеа — определила маршруты средневековых паломнических дорог и современных шоссе. Акведуки Сеговии и Таррагоны стоят по сей день. Правовая традиция Иберийского полуострова — римское право, лежащее в основе как испанского, так и португальского гражданского права, — непосредственно восходит к юстиниановским компиляциям римской юриспруденции. Католическая церковь, чью инфраструктуру создала римская городская диоцезальная структура, остаётся, как и во всей Западной Европе, наиболее осязаемым живым наследником римской институциональной организации.",
+      "latitude": 40.4165,
+      "longitude": -3.7035,
+      "source": "https://en.wikipedia.org/wiki/Roman_Spain",
+      "tags": [
+        "Roman",
+        "Culture",
+        "Language",
+        "Law",
+        "Historic",
+        "Foundation",
+        "Architecture"
+      ]
+    }
+  ]
+}
