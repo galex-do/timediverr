@@ -1,0 +1,619 @@
+{
+  "filename": "roman_gallia.json",
+  "description": "Roman Gaul from the first Greek-Gaulish trade contacts through the Roman conquest, the organisation of the Gallic provinces, the foundation of great cities, the Romanisation of culture and economy, and the survival of Rome's legacy after the fall of the western empire.",
+  "events": [
+    {
+      "date": "01.01.0500",
+      "era": "BC",
+      "type": "cultural",
+      "name": "Massalia's gift to Gaul — Greek civilisation reaches the Rhône",
+      "name_ru": "Подарок Массалии Галлии — греческая цивилизация достигает Роны",
+      "description": "The Greek colony of Massalia — modern Marseille, founded around 600 BC — became the primary conduit through which Mediterranean civilisation penetrated pre-Roman Gaul. By the fifth century BC, Massalia had established a network of trading posts along the Ligurian and Gallic coasts and maintained active commerce with the inland tribes of the Rhône and Durance valleys. In exchange for Greek wine, oil, and luxury goods, the Gauls supplied tin from Cornish trade routes, amber from the Baltic, furs, and slaves.\n\nThe cultural impact of this contact was profound and measurable in archaeology. Greek-style pottery, coinage, and grape cultivation spread along the Rhône corridor. The Gaulish aristocracy developed a taste for Mediterranean wine that made them Rome's most enthusiastic customers. Several Gaulish tribes learned to write their own languages in the Greek alphabet — the earliest writing in what is now France is Greek-script Gaulish. Massalia was the reason Rome first took interest in the region: when the city asked for protection from hostile Gallic neighbours in 125 BC, Rome's intervention began the chain of events that made Gaul a Roman province.",
+      "description_ru": "Греческая колония Массалия — современный Марсель, основанный около 600 года до н. э., — стала главным проводником, через который средиземноморская цивилизация проникала в догалльскую Галлию. К V веку до н. э. Массалия создала сеть торговых факторий вдоль лигурийского и галльского побережий и поддерживала активную торговлю с внутренними племенами долин Роны и Дюранс. В обмен на греческое вино, оливковое масло и предметы роскоши галлы поставляли олово с корнуоллских торговых путей, янтарь с Балтики, меха и рабов.\n\nКультурное воздействие этого контакта было глубоким и измеримым в археологии. Греческая керамика, монеты и виноделие распространились вдоль коридора Роны. Галльская аристократия пристрастилась к средиземноморскому вину и стала наиболее восторженными покупателями Рима. Несколько галльских племён научились записывать свои языки греческим алфавитом — древнейшие письменные памятники на территории современной Франции — это Галльские тексты греческим письмом. Массалия и стала причиной, по которой Рим впервые обратил внимание на регион.",
+      "latitude": 43.2965,
+      "longitude": 5.3811,
+      "source": "https://en.wikipedia.org/wiki/Massalia",
+      "tags": [
+        "Roman",
+        "Celtic",
+        "Culture",
+        "Trade",
+        "Greek",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "01.01.0300",
+      "era": "BC",
+      "type": "political",
+      "name": "The tribes of Gaul — a world Rome would have to conquer",
+      "name_ru": "Племена Галлии — мир, который Риму предстояло завоевать",
+      "description": "By the third century BC, Gaul was divided among dozens of Celtic tribes organised into three broad cultural zones corresponding to Caesar's later description: Gallia Celtica in the centre, Belgica in the north, and Aquitania in the southwest. The most powerful tribes — the Arverni, Aedui, Sequani, Carnutes, Bituriges, and Nervii — controlled river crossings, mountain passes, and the key nodes of the tin and amber trade routes crossing the continent. Tribal confederacies rose and fell through marriage alliances, warfare, and the purchase of loyalty with gold.\n\nGaulish society was not primitive. The tribes minted their own coins, built sophisticated oppida — fortified hilltop towns — some covering hundreds of hectares, maintained hereditary priestly and warrior castes, and conducted long-distance trade across Europe. The Arverni king Luern famously scattered gold coins from his chariot to impress his followers. The druids, operating across tribal boundaries, provided intellectual coherence and a common religious framework that knitted the fragmented political world together. This was the civilisation Rome would spend eight years dismantling.",
+      "description_ru": "К III веку до н. э. Галлия была разделена между десятками кельтских племён, объединённых в три широкие культурные зоны, соответствующие более позднему описанию Цезаря: Галлия Кельтика в центре, Белгика на севере и Аквитания на юго-западе. Наиболее мощные племена — арверны, эдуи, секваны, карнуты, битуриги и нервии — контролировали переправы через реки, горные перевалы и ключевые узлы торговых путей олова и янтаря, пересекавших континент. Племенные конфедерации возникали и рушились благодаря брачным союзам, войнам и покупке лояльности золотом.\n\nГалльское общество не было примитивным. Племена чеканили собственные монеты, строили изощрённые оппиды — укреплённые вершинные города, — некоторые занимавшие сотни гектаров, поддерживали наследственные жреческие и воинские касты и вели дальнюю торговлю по всей Европе. Король арвернов Луерн прославился тем, что разбрасывал золотые монеты с колесницы, чтобы произвести впечатление на своих последователей. Друиды, действовавшие поверх племенных границ, обеспечивали интеллектуальную связность и общие религиозные рамки, сшивавшие раздробленный политический мир воедино.",
+      "latitude": 45.764,
+      "longitude": 3.1,
+      "source": "https://en.wikipedia.org/wiki/Gaul",
+      "tags": [
+        "Roman",
+        "Celtic",
+        "Political",
+        "Culture",
+        "Law",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "01.01.0200",
+      "era": "BC",
+      "type": "historic",
+      "name": "Why Rome wanted Gaul — tin, slaves, grain, and the Atlantic road",
+      "name_ru": "Почему Рим хотел Галлию — олово, рабы, зерно и атлантический путь",
+      "description": "Roman interest in Gaul was economic before it was political. The region sat astride the most important overland trade route in western Europe: the corridor from the Mediterranean coast via the Rhône valley, across the Massif Central or through Burgundy, to the Loire and the tin-producing Atlantic coast of Armorica and Britain. Controlling this route meant taxing the flow of British tin — essential for bronze production across the Mediterranean — as well as Gaulish grain, cattle, hides, and slaves.\n\nSouthern Gaul also offered agricultural potential that Rome's Italian land shortage made increasingly attractive. The Mediterranean climate of the Narbonne basin supported wheat, olives, and — most profitably — vines. When Rome established the province of Gallia Narbonensis in 121 BC, Italian wine merchants immediately followed. Within a generation, Gaulish demand for Italian wine was so enormous that archaeologists calculate the equivalent of tens of millions of amphorae were imported from Italy in the late second and early first centuries BC. Gaul was simultaneously a market, a resource base, and a strategic corridor — the combination that made its conquest inevitable once Rome had the strength.",
+      "description_ru": "Интерес Рима к Галлии был экономическим прежде, чем политическим. Регион располагался на важнейшем сухопутном торговом пути Западной Европы: коридоре от средиземноморского побережья через долину Роны, через Центральный массив или Бургундию, к Луаре и производившему олово атлантическому побережью Арморики и Британии. Контроль над этим путём означал обложение налогом потока британского олова — необходимого для производства бронзы по всему Средиземноморью, — а также галльского зерна, скота, кож и рабов.\n\nЮжная Галлия предлагала и сельскохозяйственный потенциал, который нехватка итальянских земель делала всё более привлекательной. Средиземноморский климат нарбоннского бассейна поддерживал пшеницу, оливки и — наиболее прибыльно — виноградные лозы. Когда Рим в 121 году до н. э. основал провинцию Галлия Нарбонская, итальянские торговцы вином немедленно последовали за ним. В течение поколения галльский спрос на итальянское вино стал настолько огромным, что археологи подсчитали: в конце II — начале I веков до н. э. из Италии было ввезено десятки миллионов амфор.",
+      "latitude": 43.1839,
+      "longitude": 3.003,
+      "source": "https://en.wikipedia.org/wiki/Gallia_Narbonensis",
+      "tags": [
+        "Roman",
+        "Trade",
+        "Economic",
+        "Historic",
+        "Culture"
+      ]
+    },
+    {
+      "date": "01.01.0125",
+      "era": "BC",
+      "type": "military",
+      "name": "Rome intervenes in southern Gaul — the first legions cross the Alps",
+      "name_ru": "Рим вмешивается в дела южной Галлии — первые легионы переходят Альпы",
+      "description": "In 125 BC, Massalia appealed to Rome for protection from raids by the Saluvii, a Ligurian people whose territory pressed against the city's hinterland. Rome sent a consular army under Marcus Fulvius Flaccus — the first Roman military force to operate in Gaul — which defeated the Saluvii and established a permanent Roman presence at the colony of Aquae Sextiae in 122 BC. The decision to answer Massalia's appeal, and then to remain, was not inevitable: it reflected the ambitions of the commanders involved as much as any strategic necessity.\n\nWhen the powerful Arverni king Bituitus and his Allobrogian allies moved to expel the Romans, a series of battles along the Rhône in 121 BC resulted in their decisive defeat by the proconsul Gnaeus Domitius Ahenobarbus and consul Quintus Fabius Maximus. Bituitus was captured and displayed in a Roman triumph. The victory opened all of southern Gaul to Roman control and led directly to the organisation of Gallia Narbonensis as a permanent province — Rome's first territorial possession beyond the Alps and Pyrenees.",
+      "description_ru": "В 125 году до н. э. Массалия обратилась к Риму за защитой от набегов саллювиев — лигурийского народа, чья территория давила на хинтерланд города. Рим послал консульскую армию под командованием Марка Фульвия Флакка — первую римскую военную силу, действовавшую в Галлии, — которая разбила саллювиев и в 122 году до н. э. основала постоянное римское присутствие в колонии Аквы Секстии. Когда могущественный царь арвернов Битуит и его аллоброгские союзники двинулись, чтобы вытеснить римлян, серия сражений вдоль Роны в 121 году до н. э. завершилась их решительным поражением от рук проконсула Гнея Домиция Агенобарба и консула Квинта Фабия Максима. Битуит был захвачен и показан в римском триумфе.\n\nПобеда открыла всю южную Галлию для римского контроля и непосредственно привела к организации Галлии Нарбонской как постоянной провинции — первого территориального владения Рима к северу от Альп и Пиренеев.",
+      "latitude": 43.5297,
+      "longitude": 5.4474,
+      "source": "https://en.wikipedia.org/wiki/Gallia_Narbonensis",
+      "tags": [
+        "Roman",
+        "Military",
+        "Battle",
+        "Conquest",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "01.01.0122",
+      "era": "BC",
+      "type": "historic",
+      "name": "Aquae Sextiae — Rome's first city in Gaul",
+      "name_ru": "Аквы Секстии — первый римский город в Галлии",
+      "description": "In 122 BC, the Roman consul Gaius Sextius Calvinus founded a military camp beside thermal springs in the territory of the defeated Saluvii, naming it Aquae Sextiae — the Waters of Sextius, modern Aix-en-Provence. It was the first Roman settlement established on Gaulish soil and served as the base of operations for the campaigns that created Gallia Narbonensis. The thermal springs made it a natural stopping point on the route from Italy to Spain.\n\nAquae Sextiae gained dramatic historical significance in 102 BC when the consul Gaius Marius used the city as the base from which he destroyed the Teutones — a Germanic people whose migration had thrown the Roman world into panic after their crushing defeat of a Roman army at Arausio in 105 BC. The battle near Aquae Sextiae reportedly killed over 100,000 Teutones. Marius's victory, combined with his earlier defeat of the Cimbri in northern Italy, saved Rome from its greatest external threat since Hannibal and made Marius the hero of the Roman world — and Aquae Sextiae a name synonymous with Roman salvation.",
+      "description_ru": "В 122 году до н. э. римский консул Гай Секстий Кальвин основал военный лагерь близ термальных источников на территории побеждённых саллювиев, назвав его Аквы Секстии — Воды Секстия, современный Экс-ан-Прованс. Это было первое римское поселение, основанное на галльской земле, и оно служило базой операций для кампаний, создавших Галлию Нарбонскую. Термальные источники делали его естественным пунктом остановки на пути из Италии в Испанию.\n\nАквы Секстии приобрели значительный исторический вес в 102 году до н. э., когда консул Гай Марий использовал город в качестве базы, откуда разгромил тевтонов — германский народ, чья миграция вверглась в панику римский мир после их сокрушительного поражения римской армии при Арозии в 105 году до н. э. Битва близ Акв Секстий унесла, по преданию, более 100 000 тевтонов. Победа Мария спасла Рим от его величайшей внешней угрозы со времён Ганнибала и сделала Аквы Секстии именем, нераздельно связанным со спасением Рима.",
+      "latitude": 43.5297,
+      "longitude": 5.4474,
+      "source": "https://en.wikipedia.org/wiki/Aquae_Sextiae",
+      "tags": [
+        "Roman",
+        "Foundation",
+        "Historic",
+        "Military",
+        "Building 🏠"
+      ]
+    },
+    {
+      "date": "01.01.0121",
+      "era": "BC",
+      "type": "political",
+      "name": "Gallia Narbonensis — Rome's first province beyond the Alps",
+      "name_ru": "Галлия Нарбонская — первая римская провинция за Альпами",
+      "description": "Following the defeat of the Arverni and Allobroges in 121 BC, Rome organised its new territory as the province of Gallia Narbonensis — named for its future capital at Narbo Martius, founded in 118 BC. The province encompassed roughly the Mediterranean coast and lower Rhône valley of modern France, from the Pyrenees to the Alps: the most Mediterranean in climate and culture of any Gaulish territory, and the easiest to assimilate into a Roman framework. Romans called it simply Provincia — the Province — a name that survives in the modern region of Provence.\n\nGallia Narbonensis was administered from the outset as a full Roman province with a governor, taxation, and Roman law. The road network was extended northward along the Rhône. Roman settlers arrived alongside the legions, and within two generations southern Gaul was largely Romanized — Latin spoken in the towns, Roman amphitheatres and temples rising beside Gaulish sanctuaries. The province would remain one of the most thoroughly Roman parts of the empire, producing emperors, poets, and senators throughout the imperial period, and it gave Rome the secured communication line between Italy and Spain that made further western expansion possible.",
+      "description_ru": "После поражения арвернов и аллоброгов в 121 году до н. э. Рим организовал свою новую территорию как провинцию Галлия Нарбонская — названную в честь будущей столицы в Нарбо Мартии, основанной в 118 году до н. э. Провинция охватывала примерно средиземноморское побережье и нижнюю долину Роны современной Франции, от Пиренеев до Альп: самую средиземноморскую по климату и культуре из всех галльских территорий и наиболее легко ассимилируемую в римские рамки. Римляне называли её просто Провинция — название, сохранившееся в современном регионе Прованс.\n\nГаллия Нарбонская управлялась с самого начала как полноценная римская провинция с наместником, налогообложением и римским правом. Дорожная сеть продлевалась на север вдоль Роны. Римские поселенцы прибывали вслед за легионами, и в течение двух поколений южная Галлия была в значительной мере романизирована — в городах говорили по-латыни, рядом с галльскими святилищами вырастали римские амфитеатры и храмы. Провинция оставалась одной из наиболее полно романизированных частей империи, давая ей императоров, поэтов и сенаторов на протяжении всего имперского периода, и обеспечивала Риму защищённую коммуникационную линию между Италией и Испанией, открывавшую путь к дальнейшей западной экспансии.",
+      "latitude": 43.1839,
+      "longitude": 3.003,
+      "source": "https://en.wikipedia.org/wiki/Gallia_Narbonensis",
+      "tags": [
+        "Roman",
+        "Political",
+        "Foundation",
+        "Law",
+        "Administration"
+      ]
+    },
+    {
+      "date": "01.01.0102",
+      "era": "BC",
+      "type": "military",
+      "name": "Marius destroys the Teutones — Gaul saved from the northern flood",
+      "name_ru": "Марий уничтожает тевтонов — Галлия спасена от северного потока",
+      "description": "In 105 BC the Cimbri and Teutones — vast Germanic migrations moving southwest through Gaul — annihilated a Roman army of nearly 80,000 men at Arausio on the Rhône, the worst Roman military disaster since Cannae. Italy itself seemed threatened. The Senate gave the consul Gaius Marius extraordinary powers and he spent the following years reorganising the Roman army while the migrations slowly continued their arc toward Italy and Iberia.\n\nIn 102 BC, Marius caught the Teutones near Aquae Sextiae in Provence and destroyed them in a battle and its aftermath that ancient sources describe as killing or enslaving some 150,000 people. The following year he defeated the Cimbri in the Po valley. The victories ended the migration crisis and secured Roman Gaul — but the scale of the Germanic threat had exposed how thin Roman control of the region was. Marius's army reforms, undertaken to face this crisis, transformed the Roman legions from a citizen militia into a professional force whose soldiers owed loyalty to their general rather than the state — a change whose political consequences would reshape Rome itself within a generation.",
+      "description_ru": "В 105 году до н. э. кимвры и тевтоны — огромные германские миграционные потоки, двигавшиеся на юго-запад через Галлию, — уничтожили римскую армию численностью почти 80 000 человек при Арозии на Роне — худшее римское военное поражение со времён Канн. Под угрозой оказалась сама Италия. Сенат наделил консула Гая Мария чрезвычайными полномочиями, и он провёл последующие годы в реорганизации римской армии, пока миграции медленно продолжали свою дугу в направлении Италии и Иберии.\n\nВ 102 году до н. э. Марий настиг тевтонов близ Акв Секстий в Провансе и уничтожил их в битве и её последствиях, которые древние источники описывают как гибель или порабощение около 150 000 человек. В следующем году он разбил кимвров в долине По. Победы положили конец кризису миграций и обезопасили Римскую Галлию. Армейские реформы Мария, предпринятые для противостояния этому кризису, превратили римские легионы из гражданского ополчения в профессиональную силу, чьи солдаты обязаны были верностью своему полководцу, а не государству.",
+      "latitude": 43.5297,
+      "longitude": 5.4474,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Aquae_Sextiae",
+      "tags": [
+        "Roman",
+        "Military",
+        "Battle",
+        "War",
+        "Germanic"
+      ]
+    },
+    {
+      "date": "01.01.0058",
+      "era": "BC",
+      "type": "political",
+      "name": "The Helvetii migration — the trigger that unleashed Caesar on Gaul",
+      "name_ru": "Миграция гельветов — спусковой крючок, натравивший Цезаря на Галлию",
+      "description": "In 58 BC, the Helvetii — a prosperous Celtic people occupying modern Switzerland — began a planned migration westward to the Atlantic coast of Gaul, burning their twelve towns and four hundred villages behind them to prevent return. Over 300,000 people — warriors, women, children, and their possessions — set out through the territory of the Aedui, Rome's allied tribe. The Aedui appealed to Rome. Caesar, newly appointed governor of Cisalpine Gaul and Illyricum, saw his opportunity and seized it.\n\nCaesar's decision to block the Helvetii was legally questionable — their planned route did not cross Roman provincial territory — and he knew it. He fortified the Rhône to prevent their crossing through the Province, then followed them into free Gaul on the pretext of protecting Roman allies. His pursuit led to the decisive Battle of Bibracte in June 58 BC. The Helvetii, their migration destroyed, were forced back to Switzerland. The episode was Caesar's chosen pretext for a war he had planned: eight years of conquest that would add Gaul to the Roman world and fund his bid for supreme power in Rome.",
+      "description_ru": "В 58 году до н. э. гельветы — процветающий кельтский народ, населявший современную Швейцарию, — начали запланированную миграцию на запад, к атлантическому побережью Галлии, сжигая позади себя двенадцать городов и четыреста деревень, чтобы предотвратить возвращение. Более 300 000 человек — воины, женщины, дети и их имущество — выступили через территорию эдуев, союзного Риму племени. Эдуи обратились к Риму. Цезарь, только что назначенный наместником Цизальпийской Галлии и Иллирика, увидел свою возможность и воспользовался ею.\n\nРешение Цезаря заблокировать гельветов было юридически сомнительным — их планируемый маршрут не пересекал территорию римской провинции, — и он это знал. Он укрепил Рону, чтобы предотвратить их переправу через Провинцию, а затем последовал за ними в свободную Галлию под предлогом защиты римских союзников. Погоня привела к решающей битве при Бибракте в июне 58 года до н. э.",
+      "latitude": 46.9167,
+      "longitude": 3.9833,
+      "source": "https://en.wikipedia.org/wiki/Helvetii",
+      "tags": [
+        "Roman",
+        "Military",
+        "Political",
+        "Celtic",
+        "War",
+        "Conquest"
+      ]
+    },
+    {
+      "date": "01.06.0058",
+      "era": "BC",
+      "type": "military",
+      "name": "Battle of Bibracte — the Helvetii are turned back",
+      "name_ru": "Битва при Бибракте — гельветы отброшены назад",
+      "description": "At the great Aeduan oppidum of Bibracte on Mont Beuvray in Burgundy, Caesar's six legions met the full mass of the Helvetian migration in June 58 BC. The battle lasted from midday until nightfall and was decided by Roman discipline against Celtic mass: the Helvetii attacked in a dense formation, were repulsed with heavy losses, and then — attempting to cover a retreat — allowed the Romans to outflank them and convert retreat into rout. Caesar claimed 258,000 Helvetii were killed or captured.\n\nBibracte was strategically decisive. After the battle, the assembled leaders of the Gaulish tribes met Caesar and — through the Aedui — asked him to remain in Gaul and deal with the Germanic king Ariovistus, who had crossed the Rhine and established dominance over several tribes. Caesar now had his invitation: a request from Gallic tribes themselves for Roman intervention, providing the pretext for everything that followed. Bibracte also revealed the strategic importance of Burgundy — the gateway between the Rhône valley and the north — which would anchor Roman military geography in Gaul for the next four centuries.",
+      "description_ru": "У великого эдуйского оппида Бибракте на горе Бёвре в Бургундии шесть легионов Цезаря встретились с полной массой гельветской миграции в июне 58 года до н. э. Битва длилась с полудня до ночи и была решена римской дисциплиной против кельтской массы: гельветы атаковали плотным строем, были отброшены с тяжёлыми потерями, а затем — пытаясь прикрыть отступление — позволили римлянам обойти их с фланга и превратить отступление в разгром. Цезарь утверждал, что 258 000 гельветов были убиты или захвачены в плен — цифра, которая, несомненно, преувеличена, но указывает на масштаб катастрофы.\n\nБибракте имела решающее стратегическое значение. После битвы собравшиеся вожди галльских племён встретились с Цезарем и через эдуев попросили его остаться в Галлии и разобраться с германским королём Ариовистом, который переправился через Рейн и установил господство над рядом племён. Цезарь получил желаемое приглашение: просьбу от самих галльских племён о римском вмешательстве — предлог для всего последующего. Бибракте также обнажила стратегическую важность Бургундии — ворот между долиной Роны и севером, — которая станет опорой римской военной географии в Галлии на следующие четыре столетия.",
+      "latitude": 46.9167,
+      "longitude": 3.9833,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Bibracte",
+      "tags": [
+        "Roman",
+        "Military",
+        "Battle",
+        "War",
+        "Celtic",
+        "Conquest"
+      ]
+    },
+    {
+      "date": "01.09.0058",
+      "era": "BC",
+      "type": "military",
+      "name": "Caesar expels Ariovistus — Rome draws the Rhine as the border of the world",
+      "name_ru": "Цезарь изгоняет Ариовиста — Рим проводит Рейн как границу мира",
+      "description": "In September 58 BC, Caesar moved against Ariovistus, king of the Germanic Suebi, who had crossed the Rhine with perhaps 120,000 warriors and established dominance over the Sequani in eastern Gaul, demanding land and tribute. The two armies met near Vesontio — modern Besançon — at a site carefully chosen by Caesar. The battle was hard-fought but decisive: the German formation broke after Caesar's right wing routed their left, and the rout became catastrophic. Ariovistus escaped across the Rhine; most of his people were killed.\n\nThe Vesontio campaign established a principle that Rome would maintain for four centuries: the Rhine was the eastern border of Gaul and the Germanic world would remain beyond it. Caesar's proclamation after the battle — that the Rhine marked the limit of Roman tolerance — was propaganda as much as strategy, but it defined the political geography of western Europe for the entire imperial period. The Rhine frontier would absorb Roman resources, military attention, and eventually Roman collapse; the decision to fix it there, taken implicitly at Vesontio, shaped the history of France and Germany to this day.",
+      "description_ru": "В сентябре 58 года до н. э. Цезарь двинулся против Ариовиста, царя германских свебов, переправившегося через Рейн с, возможно, 120 000 воинов и установившего господство над секванами в восточной Галлии, требуя земли и данни. Две армии встретились близ Везонтиона — современного Безансона — на месте, тщательно выбранном Цезарем. Битва была упорной, но решительной: германский строй сломился после того, как правое крыло Цезаря разгромило их левое, и разгром стал катастрофическим. Ариовист бежал за Рейн; большинство его людей были убиты.\n\nКампания у Везонтиона установила принцип, который Рим будет поддерживать четыре столетия: Рейн — восточная граница Галлии, и германский мир останется за ней. Рейнский рубеж поглотит римские ресурсы, военное внимание и в конечном счёте приведёт к краху Рима. Решение зафиксировать его там, принятое неявно у Везонтиона, определило историю Франции и Германии по сей день.",
+      "latitude": 47.2378,
+      "longitude": 6.0242,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Vosges",
+      "tags": [
+        "Roman",
+        "Military",
+        "Battle",
+        "War",
+        "Germanic",
+        "Conquest"
+      ]
+    },
+    {
+      "date": "01.01.0057",
+      "era": "BC",
+      "type": "military",
+      "name": "Caesar conquers the Belgae — the most warlike of all the Gauls",
+      "name_ru": "Цезарь покоряет белгов — «самых воинственных из всех галлов»",
+      "description": "Caesar opened his Commentarii de Bello Gallico with the famous observation that of all Gaul's three parts, the Belgae were 'the bravest' — farthest from Roman civilisation and least softened by imported goods. In 57 BC he marched north to deal with a coalition of Belgian tribes that had formed specifically to resist Roman advance. The campaign involved a series of engagements across modern Belgium and northern France, culminating in the near-destruction of Caesar's camp on the Sabis River by the Nervii, whose ferocious ambush forced Caesar himself to fight in the line before the tide was turned.\n\nThe Belgic campaigns were the bloodiest and most personally dangerous of the Gallic Wars for Caesar. Ancient sources — which surely exaggerate — describe the death of 60,000 Nervii in the Sabis battle alone, and the subsequent submission of the tribe was so complete that Caesar spared their remnant as a gesture of mercy. The conquest of Belgica extended Roman military presence to the Channel coast for the first time and gave Caesar the base from which he would later launch his symbolic expeditions into Britain — adventures designed more for political effect in Rome than for genuine conquest.",
+      "description_ru": "Цезарь открыл свои «Записки о Галльской войне» знаменитым наблюдением о том, что из всех трёх частей Галлии белги были «самыми храбрыми» — наиболее далёкими от римской цивилизации и менее всего размягчёнными ввозными товарами. В 57 году до н. э. он двинулся на север, чтобы разобраться с коалицией бельгийских племён, специально сформировавшейся для сопротивления римскому продвижению. Кампания охватила серию сражений по всей современной Бельгии и Северной Франции, кульминацией которых стало почти уничтожение лагеря Цезаря на реке Сабис засадой нервиев — настолько яростной, что сам Цезарь был вынужден схватить щит и встать в боевую линию, прежде чем ему удалось переломить ситуацию.\n\nБельгийские кампании стали самыми кровавыми и лично наиболее опасными для Цезаря во всей Галльской войне. Древние источники, несомненно преувеличивая, описывают гибель 60 000 нервиев в битве на Сабисе, и последовавшее покорение племени было настолько полным, что Цезарь пощадил его остатки как жест милосердия. Завоевание Белгики впервые вывело римское военное присутствие на побережье Ла-Манша и дало Цезарю базу, с которой он позднее предпринял символические экспедиции в Британию — авантюры, задуманные более ради политического эффекта в Риме, нежели для подлинного завоевания.",
+      "latitude": 50.45,
+      "longitude": 3.95,
+      "source": "https://en.wikipedia.org/wiki/Gallic_Wars",
+      "tags": [
+        "Roman",
+        "Military",
+        "Battle",
+        "War",
+        "Conquest",
+        "Celtic"
+      ]
+    },
+    {
+      "date": "01.01.0056",
+      "era": "BC",
+      "type": "military",
+      "name": "The revolt of the Veneti — Rome masters the Atlantic coast of Gaul",
+      "name_ru": "Восстание венетов — Рим покоряет атлантическое побережье Галлии",
+      "description": "The Veneti were a seafaring Armorican tribe whose territory centred on the Gulf of Morbihan in modern Brittany. They controlled the maritime trade routes between Gaul and Britain, their heavy flat-bottomed oak ships well adapted to Atlantic tides and weather. When they seized Caesar's envoys as hostages in 56 BC, Caesar resolved to destroy them — not only as punishment but because their naval power represented the one element of Gaulish resistance that his land forces could not simply overwhelm.\n\nCaesar had his legate Decimus Brutus construct a fleet and train rowers on the Loire. The naval battle in the Gulf of Morbihan was decided by a Roman improvisation: using hooks on long poles to cut the halyards of the Veneti's leather sails, leaving their heavy ships unmaneuverable in the calm conditions. The Veneti fleet — their entire military capacity — was destroyed. Caesar executed the Venetic council and sold the surviving population into slavery, a severity he explicitly justified as a lesson to the other tribes. The destruction of the Veneti ended Atlantic Gaulish naval independence and opened the coast from the Loire to the Rhine to Roman commerce.",
+      "description_ru": "Венеты были морским арморикским племенем, чья территория сосредотачивалась вокруг залива Морбиан в современной Бретани. Они контролировали морские торговые пути между Галлией и Британией, их тяжёлые плоскодонные дубовые корабли были прекрасно приспособлены к атлантическим приливам и погоде. Когда они захватили посланников Цезаря в качестве заложников в 56 году до н. э., Цезарь решил уничтожить их — не только как наказание, но и потому, что их морская мощь представляла единственный элемент галльского сопротивления, который его сухопутные силы не могли просто подавить: лобовые атаки на прибрежные крепости венетов неизменно проваливались, ибо те эвакуировались морем при приближении римлян.\n\nЦезарь поручил своему легату Дециму Бруту построить флот и обучить гребцов на Луаре. Морская битва в заливе Морбиан была решена римской импровизацией: крюки на длинных шестах перерезали фалы кожаных парусов венетских судов, оставив их неуправляемыми в штилевую погоду. Флот венетов — вся их военная мощь — был уничтожен. Цезарь казнил совет венетов и продал в рабство выживших, явно в назидание прочим племенам. Уничтожение венетов положило конец атлантической галльской морской независимости и открыло побережье от Луары до Рейна для римской торговли.",
+      "latitude": 47.57,
+      "longitude": -2.76,
+      "source": "https://en.wikipedia.org/wiki/Veneti_(Gaul)",
+      "tags": [
+        "Roman",
+        "Military",
+        "Battle",
+        "War",
+        "Naval",
+        "Conquest",
+        "Celtic"
+      ]
+    },
+    {
+      "date": "01.01.0052",
+      "era": "BC",
+      "type": "political",
+      "name": "Vercingetorix — the man who almost stopped Rome",
+      "name_ru": "Верцингеторикс — человек, едва не остановивший Рим",
+      "description": "In the winter of 52 BC, a young Arvernian aristocrat named Vercingetorix — 'great warrior king' — organised the most formidable pan-Gallic coalition Rome had yet faced. He united tribes that had previously fought each other or submitted separately to Caesar, imposed a unified command and iron discipline, and devised a strategy of economic warfare: burning Gallic farms, towns, and supply depots to deny Caesar's army the ability to live off the land during a Gaulish winter. The tribes followed him even when it meant destroying their own homes.\n\nVercingetorix's strategy was rational and almost worked. He inflicted Caesar's worst defeat of the war at Gergovia in March 52 BC, forcing a Roman retreat. Only his decision to concentrate at Alesia — against his own strategy of dispersal and harassment — gave Caesar the opportunity for the decisive siege that ended the war. Captured after Alesia, Vercingetorix was held in Rome for six years and strangled after featuring in Caesar's triumph in 46 BC. In death he became the founding figure of French national mythology — the noble Gaul who fought for freedom — though the nation that claimed him as an ancestor spoke the language of his conquerors.",
+      "description_ru": "Зимой 52 года до н. э. молодой арвернский аристократ по имени Верцингеторикс — «великий воин-король» — организовал наиболее грозную пангалльскую коалицию, с которой Рим когда-либо сталкивался. Он объединил племена, прежде воевавшие друг с другом или поодиночке покорявшиеся Цезарю, установил единое командование и железную дисциплину и разработал стратегию экономической войны: сжигать галльские фермы, города и склады снабжения, чтобы лишить армию Цезаря возможности жить за счёт земли в галльскую зиму.\n\nСтратегия Верцингеторикса была рациональной и едва не сработала. Он нанёс Цезарю худшее поражение войны при Герговии в марте 52 года до н. э., вынудив римлян отступить. Только его решение сосредоточиться в Алесии — вопреки собственной стратегии рассеивания и изнурения — дало Цезарю возможность для решающей осады, завершившей войну. Захваченный после Алесии, Верцингеторикс был удержан в Риме шесть лет и удушен после участия в триумфе Цезаря в 46 году до н. э. В смерти он стал основополагающей фигурой французской национальной мифологии.",
+      "latitude": 45.7518,
+      "longitude": 3.0549,
+      "source": "https://en.wikipedia.org/wiki/Vercingetorix",
+      "tags": [
+        "Roman",
+        "Celtic",
+        "Political",
+        "War",
+        "Resistance",
+        "Legend",
+        "Conquest"
+      ]
+    },
+    {
+      "date": "01.01.0046",
+      "era": "BC",
+      "type": "historic",
+      "name": "Arelate / Arles — Caesar's city on the Rhône delta",
+      "name_ru": "Арелата / Арль — город Цезаря в дельте Роны",
+      "description": "Caesar founded the Roman colony of Arelate — modern Arles — in 46 BC, settling veterans of his Sixth Legion on the strategic site where the Rhône divided into its two main channels flowing to the Mediterranean. The location was brilliant: Arelate controlled both river traffic and the road junction between the Via Aurelia from Italy and the roads north into Gaul. Its port handled the transshipment of goods between seagoing Mediterranean vessels and the river boats of the Rhône.\n\nArelate grew rapidly into one of the most important cities in Gaul. Its amphitheatre — built in the late first century BC and capable of holding 20,000 spectators — and its theatre survive as two of the best-preserved Roman monuments in France. The city became the seat of a mint, a significant ceramics industry, and eventually — in the fourth century — served as a residence of Constantine and a major imperial administrative centre. The early Christian community at Arles was among the first in Gaul, and its bishop presided over councils that shaped western Christianity. Constantine rebuilt the city's circus and held court there, making Arles briefly the effective capital of the western empire.",
+      "description_ru": "Цезарь основал римскую колонию Арелата — современный Арль — в 46 году до н. э., поселив ветеранов своего Шестого легиона на стратегическом месте, где Рона делилась на два главных рукава, текущих к Средиземному морю. Расположение было блестящим: Арелата контролировала как речное судоходство, так и дорожный узел между Виа Аврелия из Италии и дорогами на север в Галлию. Её порт обрабатывал перегрузку товаров между морскими средиземноморскими судами и речными лодками Роны, делая её важнейшим коммерческим перевалочным пунктом провинции.\n\nАрелата быстро выросла в один из важнейших городов Галлии. Её амфитеатр — построенный в конце I века до н. э. и вмещавший 20 000 зрителей — и театр сохранились как одни из лучших памятников римской архитектуры во Франции, и оба по-прежнему используются. Город стал резиденцией монетного двора, значительной керамической промышленностью, и в конечном счёте — в IV веке — служил резиденцией Константина и крупным имперским административным центром. Ранняя христианская община Арля была в числе первых в Галлии, её епископ председательствовал на соборах, формировавших западное христианство, а Константин перестроил городской цирк и держал там двор, на короткое время сделав Арль фактической столицей западной империи.",
+      "latitude": 43.6767,
+      "longitude": 4.6278,
+      "source": "https://en.wikipedia.org/wiki/Arles",
+      "tags": [
+        "Roman",
+        "Foundation",
+        "Building 🏠",
+        "Historic",
+        "Architecture",
+        "Culture"
+      ]
+    },
+    {
+      "date": "01.01.0043",
+      "era": "BC",
+      "type": "historic",
+      "name": "Lugdunum / Lyon — capital of the Three Gauls",
+      "name_ru": "Лугдун / Лион — столица Трёх Галлий",
+      "description": "In 43 BC, the Roman general Lucius Munatius Plancus founded a colony at the confluence of the Rhône and Saône rivers, naming it Lugdunum — the Hill of the Raven, from the Celtic Lug-dunon. The site was not chosen for beauty but for control: it commanded the junction of the two great river highways of interior Gaul and sat at the natural crossroads of routes connecting the Mediterranean, the Rhine frontier, the Atlantic coast, and the British Channel.\n\nLugdunum grew into the largest and most important city in Roman Gaul — effectively the capital of the western empire's greatest province. The imperial mint at Lyon struck coins for much of the early imperial period. Agrippa chose it as the hub of his road network. The emperor Claudius — born in Lyon — delivered a famous speech there advocating Gaulish citizenship in Rome's Senate. Two future emperors, Caracalla and Claudius, were born in the city. The Roman city occupied the hill of Fourvière, whose theatre and odeon survive above modern Lyon — the oldest Roman theatre in France, and a monument to the city that was, for centuries, the true political centre of Roman Gaul.",
+      "description_ru": "В 43 году до н. э. римский полководец Луций Мунаций Планк основал колонию у слияния Роны и Соны, назвав её Лугдун — Холм ворона, от кельтского Луг-дунон. Место было выбрано не за красоту, а за контроль: оно командовало узлом двух великих речных магистралей внутренней Галлии и находилось на естественном перекрёстке путей, соединявших Средиземноморье, Рейнский рубеж, атлантическое побережье и пролив Ла-Манш. Город, возникший здесь, стал административным узлом всего, что Рим отстраивал в Галлии.\n\nЛугдун вырос в крупнейший и важнейший город Римской Галлии — фактическую столицу величайшей провинции западной империи. Имперский монетный двор в Лионе чеканил монеты значительную часть раннеимперского периода. Агриппа избрал его узлом своей дорожной сети. Император Клавдий — уроженец Лиона — произнёс там знаменитую речь, отстаивая право галльских аристократов заседать в Сенате Рима; речь сохранилась в надписи на бронзовой табличке, хранящейся в лионском музее. Два будущих императора — Каракалла и сам Клавдий — родились в городе. Римский город располагался на холме Фурвьер, чьи театр и одеон возвышаются над современным Лионом — древнейший римский театр во Франции и памятник городу, веками бывшему истинным политическим центром Римской Галлии.",
+      "latitude": 45.764,
+      "longitude": 4.8357,
+      "source": "https://en.wikipedia.org/wiki/Lugdunum",
+      "tags": [
+        "Roman",
+        "Foundation",
+        "Building 🏠",
+        "Historic",
+        "Political",
+        "Administration"
+      ]
+    },
+    {
+      "date": "01.01.0043",
+      "era": "BC",
+      "type": "historic",
+      "name": "Forum Iulii / Fréjus — Rome's naval base on the Riviera",
+      "name_ru": "Форум Юлии / Фрежюс — римская военно-морская база на Ривьере",
+      "description": "Forum Iulii — modern Fréjus — was founded by Caesar around 49 BC and developed by Augustus into one of the principal naval bases of the Roman western Mediterranean. The city was named for Caesar (Iulius) and its forum, and Augustus settled veterans of his Eighth Legion there after the battle of Actium in 31 BC. Its artificially constructed harbour — connected to the sea by a canal — was large enough to shelter entire fleets, and the ships captured from Antony and Cleopatra at Actium were reportedly brought here.\n\nForum Iulii's urban infrastructure was exceptionally complete for a provincial city: amphitheatre, theatre, aqueduct, city walls with towers, and a lighthouse marking the harbour entrance. The aqueduct's remains — the Butte Saint-Antoine — still visible in the modern city, carried water from the Siagnole river some 40 kilometres away. The city's decline came when its harbour silted up in late antiquity, stranding it from the sea. Its bishop Leontius wrote the earliest surviving Life of a Gaulish saint, and the city's early Christian community was among the most important in Provence.",
+      "description_ru": "Форум Юлии — современный Фрежюс — был основан Цезарем около 49 года до н. э. и развит Августом в один из главных военно-морских баз западного Средиземноморья. Город был назван в честь Цезаря и его форума, а Август поселил туда ветеранов своего Восьмого легиона после битвы при Акции в 31 году до н. э. Его искусственно созданная гавань — соединённая с морем каналом — была достаточно велика, чтобы укрыть целые флоты, и корабли, захваченные у Антония и Клеопатры при Акции, по преданию, были приведены сюда.\n\nГородская инфраструктура Форума Юлии была исключительно полной для провинциального города: амфитеатр, театр, акведук, городские стены с башнями и маяк у входа в гавань. Упадок города наступил, когда его гавань заилилась в поздней античности. Епископ города Леонтий написал древнейшее из сохранившихся жития галльского святого.",
+      "latitude": 43.4333,
+      "longitude": 6.7394,
+      "source": "https://en.wikipedia.org/wiki/Frejus",
+      "tags": [
+        "Roman",
+        "Foundation",
+        "Historic",
+        "Military",
+        "Building 🏠",
+        "Naval"
+      ]
+    },
+    {
+      "date": "01.01.0027",
+      "era": "BC",
+      "type": "political",
+      "name": "Augustus divides Gaul — four provinces from Caesar's conquest",
+      "name_ru": "Август делит Галлию — четыре провинции из завоевания Цезаря",
+      "description": "In 27 BC, Augustus reorganised Caesar's conquests into a definitive administrative structure. The old province of Gallia Narbonensis retained its identity as the most Romanised zone. Caesar's conquests in 'Long-Haired Gaul' were divided into three new imperial provinces — Gallia Lugdunensis (centred on Lyon), Gallia Belgica (the north and Rhine frontier), and Gallia Aquitania (the southwest) — administered by imperial legates appointed by Augustus rather than elected proconsuls answerable to the Senate.\n\nThe four-province structure reflected genuine regional distinctions in culture, language, and degree of Romanisation, and it proved durable: it lasted with modifications for over four centuries. Lugdunum was designated the administrative capital of the three new provinces. Augustus himself came to Lyon three times during his reign, using it as the base for operations on the Rhine frontier. The reorganisation also established the Rhine as a defended military boundary — the limes — and began the construction of the permanent legionary fortresses that would define the northern frontier of Roman Gaul for the rest of the empire's life.",
+      "description_ru": "В 27 году до н. э. Август реорганизовал завоевания Цезаря в окончательную административную структуру. Прежняя провинция Галлия Нарбонская сохранила свою идентичность как наиболее романизированной зоны. Завоевания Цезаря в «длинноволосой Галлии» были разделены на три новые имперские провинции — Галлию Лугдунскую (с центром в Лионе), Галлию Белгику (север и Рейнский рубеж) и Галлию Аквитанию (юго-запад), — управляемые имперскими легатами, назначенными Августом, а не выборными проконсулами, подотчётными Сенату.\n\nЧетырёхпровинциальная структура отражала реальные региональные различия в культуре, языке и степени романизации и оказалась на редкость устойчивой: с изменениями она просуществовала более четырёх столетий. Лугдун был назначен административной столицей трёх новых провинций. Август сам трижды приезжал в Лион в годы своего правления, используя его как базу для операций на Рейнском рубеже. Реорганизация также установила Рейн как защищённую военную границу — лимес, — и началось строительство постоянных легионерских крепостей, которые определят северный рубеж Римской Галлии до конца жизни империи.",
+      "latitude": 45.764,
+      "longitude": 4.8357,
+      "source": "https://en.wikipedia.org/wiki/Roman_Gaul",
+      "tags": [
+        "Roman",
+        "Political",
+        "Administration",
+        "Law",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "01.01.0020",
+      "era": "BC",
+      "type": "scientific",
+      "name": "Agrippa's roads — the arteries that tied Roman Gaul together",
+      "name_ru": "Дороги Агриппы — артерии, связавшие Римскую Галлию воедино",
+      "description": "Around 20 BC, Marcus Vipsanius Agrippa — Augustus's most capable general and son-in-law — oversaw the construction of the great road network that would serve as the physical skeleton of Roman Gaul for four centuries. The system radiated from Lugdunum in four directions: north to the Rhine at Gesoriacum (Boulogne), south to Narbonne and the Mediterranean, east to the Rhine at Augusta Raurica (Basel), and west to the Atlantic via Burdigala (Bordeaux) and Armorica. Over 20,000 kilometres of paved road eventually crossed Roman Gaul.\n\nThe Roman roads of Gaul were engineering achievements of the first order: cambered stone surfaces designed to drain rainwater, lined with milestones, served by mansiones — official rest houses — at regular intervals, and maintained by a dedicated administrative service. They moved armies, officials, merchants, and information at speeds the pre-Roman world could not match. The economic effect was transformative: regional markets became integrated into continental networks; specialised production — wine in Narbonensis, pottery in central Gaul, metalwork in the Rhineland — became viable when reliable transport existed. The modern French road network still follows Roman alignments in dozens of places.",
+      "description_ru": "Около 20 года до н. э. Марк Випсаний Агриппа — наиболее способный полководец Августа и его зять — руководил строительством великой дорожной сети, которая служила физическим скелетом Римской Галлии четыре столетия. Система расходилась лучами из Лугдуна в четырёх направлениях: на север к Рейну в Гезориаке (Булонь), на юг к Нарбонне и Средиземноморью, на восток к Рейну в Августа Раурике (Базель) и на запад к Атлантике через Бурдигалу (Бордо) и Арморику. В конечном счёте по Римской Галлии пролегло свыше 20 000 километров мощёных дорог.\n\nРимские дороги Галлии были инженерными достижениями первого порядка: выпуклые каменные покрытия для отвода дождевой воды, обсаженные мильными столбами, обслуживаемые мансионами — официальными домами отдыха — через равные промежутки и поддерживаемые специальной административной службой. Они перемещали армии, чиновников, купцов и информацию со скоростями, недостижимыми для доримского мира. Экономический эффект был преобразующим: региональные рынки вливались в континентальные сети; специализированное производство — вино в Нарбонской Галлии, керамика в центральной Галлии, металлообработка в Прирейнье — становилось жизнеспособным при наличии надёжного транспорта. Современная французская дорожная сеть по-прежнему следует римским трассам во многих десятках мест.",
+      "latitude": 45.764,
+      "longitude": 4.8357,
+      "source": "https://en.wikipedia.org/wiki/Roman_roads_in_Gaul",
+      "tags": [
+        "Roman",
+        "Engineering ⚙️",
+        "Trade",
+        "Administration",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0016",
+      "era": "BC",
+      "type": "cultural",
+      "name": "Nemausus / Nîmes — the Versailles of Roman Gaul",
+      "name_ru": "Немаус / Ним — Версаль Римской Галлии",
+      "description": "Nemausus — modern Nîmes — was the most lavishly Romanised city in all of Gaul, its wealth deriving from its position as the main city of Gallia Narbonensis and from the veteran settlement Augustus established there for soldiers of his Egyptian campaign. The city received exceptional imperial patronage: the Maison Carrée — a perfectly preserved Roman temple built around 16 BC, dedicated to Augustus's grandsons — is among the finest surviving examples of Roman religious architecture anywhere in the empire. Its proportions so impressed Thomas Jefferson that he described sitting for hours opposite it 'like a lover gazing at his mistress.'\n\nThe city also boasted an enormous amphitheatre — the Arènes de Nîmes, still used for bullfights — a theatre, baths, fountains, a massive walled sanctuary around its sacred spring, and a sixteen-kilometre aqueduct system culminating in the Pont du Gard. The city's population at its peak may have reached 60,000. Nîmes's extraordinary concentration of preserved Roman monuments makes it the best place in France to understand what a prosperous Roman provincial city looked and felt like — more Roman today, arguably, than Rome itself.",
+      "description_ru": "Немаус — современный Ним — был наиболее щедро романизированным городом во всей Галлии; его богатство происходило из его положения главного города Нарбонской Галлии и из ветеранского поселения, основанного Августом для солдат его египетской кампании. Город получил исключительное имперское покровительство: Мезон Карре — прекрасно сохранившийся римский храм, построенный около 16 года до н. э. и посвящённый внукам Августа — является одним из лучших сохранившихся примеров римской религиозной архитектуры в любой точке империи. Его пропорции настолько впечатлили Томаса Джефферсона, что он описал, как часами сидел напротив него «подобно влюблённому, смотрящему на свою возлюбленную»; позднее он использовал здание как образец для Капитолия штата Виргиния.\n\nГород располагал также огромным амфитеатром — Аренас де Ним, до сих пор используемым для корриды и концертов, — театром, термами, фонтанами, обнесённым стеной святилищем вокруг священного источника и шестнадцатикилометровой системой акведуков, завершающейся Пон-дю-Гаром. Население города в пору расцвета могло достигать 60 000 человек. Исключительная концентрация сохранившихся римских памятников делает Ним лучшим местом во Франции для понимания того, как выглядел и ощущался процветающий римский провинциальный город — более римский сегодня, возможно, чем сам Рим.",
+      "latitude": 43.8367,
+      "longitude": 4.3601,
+      "source": "https://en.wikipedia.org/wiki/N%C3%AEmes",
+      "tags": [
+        "Roman",
+        "Building 🏠",
+        "Architecture",
+        "Culture",
+        "Foundation",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0012",
+      "era": "BC",
+      "type": "political",
+      "name": "Ara Trium Galliarum — the Gallic parliament at Lyon",
+      "name_ru": "Алтарь Трёх Галлий — галльский парламент в Лионе",
+      "description": "In 12 BC, Drusus — Augustus's stepson, operating as commander on the Rhine frontier — dedicated the Ara Trium Galliarum, the Altar of the Three Gauls, at the confluence of the Rhône and Saône in Lyon. The altar was the focal point of an annual assembly of representatives from all sixty Gaulish tribes, who gathered to conduct the imperial cult — worship of Rome and Augustus — and to address shared concerns. The first priest of the altar, a Gaul named Gaius Julius Vercondaridubnus, bore a name combining his Roman citizenship with his Gaulish heritage.\n\nThe Ara was a politically sophisticated institution that transformed potential resistance into participation. Rather than simply imposing Roman power on the Gauls, it invited the tribal aristocracy to manage their own submission — to compete for the prestigious priesthood, to represent their tribes in a Rome-sanctioned forum, and to express grievances through legitimate channels. The assembly could and did petition the emperor. When the Rhine frontier was threatened, the Gallic assembly organised military and financial contributions. It was the prototype of the representative institutions Rome created to manage its provinces, and its site — the modern Croix-Rousse hill in Lyon — remains one of the few places where Gaulish political agency under Roman rule is physically anchored.",
+      "description_ru": "В 12 году до н. э. Друз — пасынок Августа, действовавший в качестве командующего на Рейнском рубеже, — посвятил Алтарь Трёх Галлий у слияния Роны и Соны в Лионе. Алтарь был центром ежегодного собрания представителей всех шестидесяти галльских племён, собиравшихся для отправления имперского культа — почитания Рима и Августа — и для рассмотрения общих вопросов. Первый жрец алтаря, галл по имени Гай Юлий Верконддаридубн, носил имя, сочетавшее его римское гражданство с галльским происхождением.\n\nАлтарь был политически изощрённым институтом, превращавшим потенциальное сопротивление в участие. Вместо того чтобы просто навязывать власть Рима галлам, он приглашал племенную аристократию управлять собственным подчинением — соперничать за престижное жречество, представлять свои племена в санкционированном Римом форуме и выражать жалобы через легальные каналы. Собрание могло и действительно обращалось с петициями к императору. Когда Рейнскому рубежу угрожали, Галльское собрание организовывало военные и финансовые взносы. Оно стало прообразом представительных институтов, создаваемых Римом для управления провинциями, и его место — современный холм Кроа-Рус в Лионе — остаётся одним из немногих мест, где галльская политическая воля при римском владычестве физически закреплена в пространстве.",
+      "latitude": 45.764,
+      "longitude": 4.8357,
+      "source": "https://en.wikipedia.org/wiki/Ara_Trium_Galliarum",
+      "tags": [
+        "Roman",
+        "Political",
+        "Religious",
+        "Administration",
+        "Culture",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "01.01.0010",
+      "era": "BC",
+      "type": "cultural",
+      "name": "Augustodunum / Autun — educating Gaul's aristocratic youth",
+      "name_ru": "Августодун / Отён — образование для аристократической молодёжи Галлии",
+      "description": "Founded by Augustus around 10 BC to replace the great Aeduan oppidum of Bibracte, Augustodunum — modern Autun in Burgundy — was the model Roman city of central Gaul. The site was chosen deliberately: not the old hilltop stronghold but a new city on the plain below, built on the Roman grid plan, equipped from the start with a forum, temples, amphitheatre, and one of the largest theatres in Roman Gaul. Its six kilometres of city walls, sections of which survive including the monumental Porte d'Arroux and Porte Saint-André, enclosed an area suggesting an intended population of 20,000–30,000.\n\nThe most revealing testimony about Autun comes from the orator Eumenius, who in 298 AD delivered a speech before the governor pleading for funds to rebuild the city's schools. He described how the Gallic aristocracy of the Aeduan heartland had been sending its sons to Autun for education in Latin rhetoric, law, and philosophy for generations — creating precisely the class of Romanised provincial élites who would fill the administrative posts of the empire. Autun's schools were the mechanism by which the sons of Gaulish chieftains became Roman senators. The strategy worked: Gaul produced some of the finest Latin poets, orators, and administrators of the later empire.",
+      "description_ru": "Основанный Августом около 10 года до н. э. для замены великого эдуйского оппида Бибракте, Августодун — современный Отён в Бургундии — был образцовым римским городом центральной Галлии. Место было выбрано намеренно: не прежняя вершинная крепость, а новый город на равнине, построенный по римской прямоугольной сетке, оснащённый с самого начала форумом, храмами, амфитеатром и одним из крупнейших театров в Римской Галлии. Шесть километров городских стен, части которых сохранились, включая монументальные Порт д'Аррý и Порт Сен-Андре, охватывали площадь, рассчитанную на население в 20 000–30 000 человек.\n\nНаиболее красноречивое свидетельство об Отёне принадлежит оратору Евмению, который в 298 году н. э. произнёс речь перед наместником, прося средств на восстановление городских школ. Он описал, как галльская аристократия эдуйского сердца поколениями посылала своих сыновей в Отён для обучения латинской риторике, праву и философии — создавая именно тот класс романизированных провинциальных элит, которые заполняли административные посты империи. Школы Отёна были механизмом, с помощью которого сыновья галльских вождей становились римскими сенаторами. Стратегия сработала: Галлия дала империи ряд лучших латинских поэтов, ораторов и администраторов позднего периода — среди них Авсоний и Сидоний Аполлинарий.",
+      "latitude": 46.9516,
+      "longitude": 4.2986,
+      "source": "https://en.wikipedia.org/wiki/Autun",
+      "tags": [
+        "Roman",
+        "Foundation",
+        "Building 🏠",
+        "Culture",
+        "Architecture",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0030",
+      "era": "AD",
+      "type": "religious",
+      "name": "Druids and Roman suppression — the priests who defied the empire",
+      "name_ru": "Друиды и римское подавление — жрецы, бросившие вызов империи",
+      "description": "The druids — the learned priestly and intellectual class of Celtic Gaul — were the element of Gaulish society that Rome found most threatening and moved most systematically to destroy. Augustus prohibited Roman citizens from participating in druidic rites. Tiberius issued decrees suppressing the druids across Gaul. Claudius formally abolished the institution in 54 AD. The reasons were practical as well as religious: druids organised and legitimised resistance to Roman rule, maintained pan-tribal networks that cut across provincial boundaries, and conducted human sacrifice — something that gave Roman propagandists their most effective arguments.\n\nThe suppression was not total or immediate. Druidism retreated to peripheral zones — Brittany, the British islands — where it survived into the second century. Elements of druidic religious thought merged with Roman polytheism: Celtic gods were identified with Roman equivalents, sacred groves were sometimes enclosed within Roman temple precincts rather than destroyed. The sanctuaries at Paris, Trier, and elsewhere show the integration of Celtic sacred sites into Roman urban religion. The druids did not vanish — they transformed, their role in Gaulish society eventually replaced by the Christian clergy who would inherit both their social function and, in some cases, their sacred places.",
+      "description_ru": "Друиды — учёная жреческая и интеллектуальная каста кельтской Галлии — были элементом галльского общества, который Рим считал наиболее угрожающим и который уничтожал наиболее систематически. Август запретил римским гражданам участвовать в друидических обрядах. Тиберий издал декреты, подавлявшие друидов по всей Галлии. Клавдий формально упразднил институт в 54 году н. э. Причины были практическими не меньше, чем религиозными: друиды организовывали и легитимизировали сопротивление римскому владычеству, поддерживали общеплеменные сети, пересекавшие провинциальные границы, и проводили человеческие жертвоприношения.\n\nПодавление не было полным или немедленным. Друидизм отступил в периферийные зоны — Бретань, Британские острова, — где сохранялся до II века. Элементы друидической религиозной мысли слились с римским политеизмом: кельтские боги отождествлялись с римскими аналогами, священные рощи порой заключались в пределы римских храмовых участков, а не уничтожались. Друиды не исчезли — они трансформировались, их роль в галльском обществе в конечном счёте была унаследована христианским духовенством.",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "source": "https://en.wikipedia.org/wiki/Druids",
+      "tags": [
+        "Roman",
+        "Celtic",
+        "Religious",
+        "Culture",
+        "Pagan",
+        "Resistance"
+      ]
+    },
+    {
+      "date": "01.01.0050",
+      "era": "AD",
+      "type": "scientific",
+      "name": "Pont du Gard — Roman water engineering at continental scale",
+      "name_ru": "Пон-дю-Гар — римская водная инженерия в континентальном масштабе",
+      "description": "The Pont du Gard is a three-tiered Roman aqueduct bridge spanning the Gardon river in southern France, built around the mid-first century AD to carry water from springs near Uzès to the city of Nîmes some 50 kilometres away. At 49 metres high and 275 metres long, it is the highest Roman aqueduct bridge still standing and one of the best-preserved Roman structures anywhere in the world. It was built without mortar — the massive limestone blocks held in place by their own precisely calculated weight and the friction of their fitted surfaces.\n\nThe engineering achievement was not merely the bridge but the entire aqueduct system: 50 kilometres of channel maintained a gradient of 34 centimetres per kilometre — a total drop of only 17 metres from source to city — requiring land survey of extraordinary precision across varied terrain. The aqueduct delivered roughly 40,000 cubic metres of water per day to Nîmes, supporting its baths, fountains, and the personal water supply of a city of perhaps 60,000 people. The Pont du Gard was built, used for over four centuries, and then survived because its massive arches were too useful as a bridge to destroy. It is a monument not just to Roman engineering but to the Roman conviction that provincial cities deserved infrastructure equal to Rome itself.",
+      "description_ru": "Пон-дю-Гар — трёхъярусный римский акведук-мост через реку Гарон на юге Франции, построенный около середины I века н. э. для подачи воды из источников близ Юзеса в город Ним в примерно 50 километрах. При высоте 49 метров и длине 275 метров он является самым высоким из сохранившихся римских акведуков-мостов и одним из лучших сохранившихся римских сооружений в мире. Он был построен без раствора — массивные известняковые блоки, весящие до шести тонн каждый, удерживались на месте собственным точно рассчитанным весом и трением притёртых поверхностей, подогнанных с точностью, не уступающей современному машинному производству.\n\nИнженерным достижением был не только мост, но и вся система акведука: 50 километров канала поддерживали уклон 34 сантиметра на километр — суммарное понижение всего 17 метров от источника до города, — требуя землемерной съёмки исключительной точности на разнообразном рельефе. Акведук доставлял около 40 000 кубометров воды в сутки в Ним, обеспечивая его термы, фонтаны и личное водоснабжение города с, возможно, 60 000 жителей. Пон-дю-Гар был построен, эксплуатировался более четырёх столетий, а затем выжил, потому что его массивные арки были слишком полезны в качестве моста, чтобы их разрушать. Это памятник не только римской инженерии, но и убеждению Рима в том, что провинциальные города заслуживают инфраструктуры, равной самому Риму.",
+      "latitude": 43.9472,
+      "longitude": 4.535,
+      "source": "https://en.wikipedia.org/wiki/Pont_du_Gard",
+      "tags": [
+        "Roman",
+        "Engineering ⚙️",
+        "Building 🏠",
+        "Architecture",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0050",
+      "era": "AD",
+      "type": "cultural",
+      "name": "Roman wine and agriculture — the vine follows the legions into Gaul",
+      "name_ru": "Римское вино и сельское хозяйство — виноградная лоза следует за легионами в Галлию",
+      "description": "The most visible and lasting economic change Romans brought to Gaul was viticulture. Vine cultivation had existed in southern Gaul since Greek traders introduced it, but under Roman rule it expanded dramatically northward along the great river valleys. By the second century AD, the Moselle valley, the Burgundy region, the Rhône corridor, and the Bordeaux basin all supported established vineyards whose wines were traded across the empire. The Bordeaux region was producing wine for export to Britain within two generations of the Roman conquest.\n\nThe expansion of viticulture was not simply agricultural but cultural: wine consumption was the marker of Roman civilisation. The shift of Gaulish élites from drinking beer to drinking wine — and specifically wine in the Roman manner, mixed with water in a symposion setting — was a deliberate adoption of Roman cultural values. Roman agricultural handbooks, widely read in Gaul, introduced improved techniques for grain cultivation, livestock management, and arboriculture. The Roman villa system — large agricultural estates managed by slave labour or dependent colonists, producing for distant markets — replaced the small-scale tribal farming that had characterised pre-Roman Gaul and created the landscape of the medieval French countryside that would follow.",
+      "description_ru": "Наиболее видимым и долгосрочным экономическим изменением, принесённым римлянами в Галлию, было виноделие. Виноградарство существовало в южной Галлии со времён, когда его завезли греческие торговцы, но при римском владычестве оно резко расширилось на север вдоль великих речных долин. К II веку н. э. долина Мозеля, Бургундия, коридор Роны и бассейн Бордо все поддерживали сложившиеся виноградники, чьи вина торговались по всей империи. Регион Бордо производил вино на экспорт в Британию уже через два поколения после римского завоевания.\n\nРасширение виноградарства было не только аграрным, но и культурным: потребление вина было маркером римской цивилизации. Переход галльской элиты от пива к вину — и именно к вину в римском стиле, разбавленному водой на симпосионе, — был намеренным усвоением римских культурных ценностей. Система римской виллы — крупные сельскохозяйственные поместья, управляемые трудом рабов или зависимых колонов, производящие для дальних рынков, — заменила мелкотоварное племенное хозяйство и создала ландшафт средневековой французской сельской местности.",
+      "latitude": 43.1839,
+      "longitude": 3.003,
+      "source": "https://en.wikipedia.org/wiki/Roman_Gaul",
+      "tags": [
+        "Roman",
+        "Culture",
+        "Trade",
+        "Economic",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0100",
+      "era": "AD",
+      "type": "cultural",
+      "name": "La Graufesenque and Gaulish pottery — Gaul outcompetes Italy",
+      "name_ru": "Ла Гросезанк и галльская керамика — Галлия конкурирует с Италией",
+      "description": "One of the most striking economic phenomena of the Roman empire was the rise of Gaulish terra sigillata — red-gloss fine pottery — as the dominant tableware of the western Roman world. The workshops at La Graufesenque near modern Millau in southern France, operating from around 10 BC to 120 AD, became the largest pottery production centre in the Roman world, mass-producing stamped fine ware in quantities that overwhelmed Italian competitors. Firing records scratched into the clay survive showing single kiln loads of 30,000 vessels.\n\nGaulish potters did not merely copy Italian Arretine ware — they improved on it, developed their own decorative traditions, and undercut Italian prices to dominate markets from Scotland to the Rhine. By the second century AD, central Gaulish workshops at Lezoux near Clermont-Ferrand had largely replaced southern Gaulish production. Gaulish pottery is found in virtually every Roman site in northern and western Europe, making it the most archaeologically ubiquitous manufactured product of Roman Gaul. The industry demonstrates how thoroughly Gaul had been integrated into the Roman economic system — and how that system could create provincial competitive advantages that displaced the Italian heartland.",
+      "description_ru": "Одним из наиболее поразительных экономических феноменов Римской империи был подъём галльской терра сигиллата — краснолощёной тонкой керамики — как доминирующей столовой посуды западного римского мира. Мастерские в Ла Гросезанк близ современного Мийо в южной Франции, работавшие примерно с 10 года до н. э. до 120 года н. э., стали крупнейшим центром керамического производства в римском мире, производя на конвейере штампованные изделия в количествах, которые подавляли итальянских конкурентов. Сохранившиеся записи об обжиге, процарапанные в глине, показывают разовые загрузки печи в 30 000 сосудов.\n\nГалльские гончары не просто копировали итальянскую аррецийскую керамику — они совершенствовали её, развивали собственные декоративные традиции и снижали итальянские цены, завоёвывая рынки от Шотландии до Рейна. Галльская керамика обнаруживается практически на каждом римском памятнике в Северной и Западной Европе. Эта отрасль демонстрирует, насколько полно Галлия была интегрирована в римскую экономическую систему.",
+      "latitude": 44.1,
+      "longitude": 3.07,
+      "source": "https://en.wikipedia.org/wiki/La_Graufesenque",
+      "tags": [
+        "Roman",
+        "Culture",
+        "Trade",
+        "Economic",
+        "Art",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0100",
+      "era": "AD",
+      "type": "religious",
+      "name": "Gallo-Roman religion — Celtic gods in Roman dress",
+      "name_ru": "Галло-римская религия — кельтские боги в римском одеянии",
+      "description": "The religious life of Roman Gaul was neither purely Roman nor purely Celtic but a dynamic synthesis that modern scholars call interpretatio romana — the Roman practice of identifying indigenous gods with Roman counterparts. Mercury became the most widely worshipped god in Roman Gaul, identified with the Celtic Lugh or Esus; Mars absorbed numerous local warrior deities; the spring goddess Epona, uniquely, was exported from Gaul to Rome itself and worshipped throughout the empire as protector of horses and cavalry.\n\nThe Gallo-Roman temple form — a square cella surrounded by an ambulatory, quite different from the classical Greek-Roman temple — was an indigenous architectural development that spread across northern Gaul and Britain, blending Celtic sacred space with Roman construction techniques. Sanctuaries were often located at pre-Roman sacred sites: springs, groves, hilltops. The spring sanctuary at the source of the Seine attracted offerings from across Gaul. This religious synthesis was not imposed but negotiated — a genuine meeting of two polytheistic traditions that found more to share than to fight over, a flexibility that made the eventual arrival of exclusive Christianity all the more disruptive.",
+      "description_ru": "Религиозная жизнь Римской Галлии не была ни чисто римской, ни чисто кельтской, а динамичным синтезом, который современные учёные называют interpretatio romana — римской практикой отождествления туземных богов с римскими аналогами. Меркурий стал наиболее широко почитаемым богом в Римской Галлии, отождествлённым с кельтским Лугом или Эсусом; Марс поглотил многочисленных местных военных богов; богиня лошадей Эпона, уникально для Галлии, была экспортирована обратно в Рим и почиталась по всей империи как защитница конницы. Тевтат, Таранис и Цернунн — рогатый бог дикой природы — сохранили местную идентичность рядом с романизированными аналогами.\n\nГалло-римская форма храма — квадратная целла, окружённая обходной галереей, совершенно отличная от классического греко-римского храма, — была самобытным архитектурным развитием, распространившимся по всей северной Галлии и Британии, смешивая кельтское сакральное пространство с римскими строительными техниками и создавая здания, не имеющие точных аналогов нигде в остальном римском мире. Святилища нередко располагались на доримских священных местах: у источников, в рощах, на вершинах холмов. Этот религиозный синтез не был навязан, а был согласован — подлинная встреча двух политеистических традиций, нашедших больше общего, чем поводов для столкновения.",
+      "latitude": 47.68,
+      "longitude": 4.71,
+      "source": "https://en.wikipedia.org/wiki/Gallo-Roman_religion",
+      "tags": [
+        "Roman",
+        "Religious",
+        "Celtic",
+        "Culture",
+        "Pagan",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.08.0177",
+      "era": "AD",
+      "type": "religious",
+      "name": "Martyrs of Lyon — Christianity arrives in Roman Gaul",
+      "name_ru": "Лионские мученики — христианство приходит в Римскую Галлию",
+      "description": "In the summer of 177 AD, the Christian community of Lugdunum — Lyon — suffered a violent persecution in which at least 48 people were killed, including the bishop Pothinus, aged over 90, who died in prison, and the slave girl Blandina, whose suffering under torture became the founding narrative of Gaulish Christian martyrology. The persecution was triggered by popular hostility in the city and was ratified by the emperor Marcus Aurelius, who ordered the execution of those who refused to recant.\n\nThe Lyons martyrdom is historically significant beyond its religious dimension. It is the earliest direct evidence of Christianity in Gaul, and the letter written by the Lyonnais community to the churches of Asia Minor — describing the persecution in detail — is one of the most remarkable documents of early Christianity, written in a city that was simultaneously the administrative capital of Roman Gaul and its most cosmopolitan commercial centre. The survivor of the persecution, Irenaeus, became bishop of Lyon and wrote his monumental Against Heresies — the foundational text of Catholic orthodox theology. Christianity's entry into Gaul came through its most internationally connected city, carried by immigrants from the Greek East.",
+      "description_ru": "Летом 177 года н. э. христианская община Лугдуна — Лиона — пережила жестокое преследование, в котором было убито не менее 48 человек, включая епископа Пофина, человека старше 90 лет, умершего в тюрьме от жестокого обращения, и рабыню Бландину, чьи страдания под пытками стали основополагающим нарративом галльской христианской мартирологии. Преследование было спровоцировано народной враждебностью в городе и одобрено императором Марком Аврелием, приказавшим казнить тех, кто откажется отречься.\n\nЛионское мученичество исторически значимо за пределами религиозного измерения. Это древнейшее прямое свидетельство христианства в Галлии, а письмо лионской общины церквям Малой Азии — подробно описывающее преследование — является одним из наиболее замечательных документов раннего христианства, написанным в городе, бывшем одновременно административной столицей Римской Галлии и её наиболее космополитичным торговым центром. Выживший в преследовании Ириней стал епископом Лиона и написал монументальный труд «Против ересей» — основополагающий текст католического православного богословия, заложивший интеллектуальные основы ортодоксии. Вход христианства в Галлию был осуществлён через её наиболее международно связанный город, принесённый иммигрантами из греческого Востока — свидетельство той открытости Лиона миру, которую его положение торговой столицы порождало с основания.",
+      "latitude": 45.764,
+      "longitude": 4.8357,
+      "source": "https://en.wikipedia.org/wiki/Martyrs_of_Lyon",
+      "tags": [
+        "Roman",
+        "Religious",
+        "Christian",
+        "Culture",
+        "Death",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "01.01.0260",
+      "era": "AD",
+      "type": "political",
+      "name": "The Gallic Empire — Gaul declares independence from a failing Rome",
+      "name_ru": "Галльская империя — Галлия объявляет независимость от угасающего Рима",
+      "description": "In 260 AD, the commander of the Rhine legions, Marcus Cassianius Latinius Postumus, killed the son and co-emperor of Gallienus and proclaimed himself emperor of a breakaway western state that historians call the Gallic Empire — though Postumus himself claimed simply to be the legitimate Roman emperor. His realm encompassed Gaul, Britain, and Spain. He chose Trier as his capital, maintained the full apparatus of Roman administration, issued his own coinage, and fought effectively against Germanic incursions across the Rhine that the central Roman government had been failing to stop.\n\nThe Gallic Empire lasted fourteen years under a succession of emperors, all based in Gaul, before Aurelian reunited the western provinces in 274. Its existence reveals the depth of Gaul's Roman identity: the breakaway was not a Gaulish nationalist movement but a Roman one — Gaulish generals and aristocrats claiming Roman legitimacy for themselves because the Roman centre had failed them. The Gallic Empire also demonstrates how thoroughly Gaul had replaced Italy as the real military and economic heartland of the western empire: it was in Gaul that Roman traditions were maintained most energetically when Rome itself faltered.",
+      "description_ru": "В 260 году н. э. командующий рейнскими легионами Марк Кассианий Латиний Постум убил сына и соимператора Галлиена и провозгласил себя императором отколовшегося западного государства, которое историки называют Галльской империей, хотя сам Постум претендовал просто на звание законного римского императора. Его владения охватывали Галлию, Британию и Испанию. Он избрал Трир своей столицей, поддерживал полный аппарат римского управления, выпускал собственные монеты, основал галльский сенат и эффективно сражался против германских вторжений через Рейн, которые центральное римское правительство всё чаще было не в силах останавливать.\n\nГалльская империя просуществовала четырнадцать лет под чередой императоров, все из которых базировались в Галлии, прежде чем Аврелиан воссоединил западные провинции в 274 году. Её существование обнажает глубину римской идентичности Галлии: откол был не галльским националистическим движением, а римским — галльские генералы и аристократы, претендовавшие на римскую легитимность для себя, потому что центральный Рим их подвёл. Галльская империя также демонстрирует, насколько полно Галлия заменила Италию в роли реального военного и экономического ядра западной части империи: именно в Галлии римские традиции наиболее энергично поддерживались, когда сам Рим колебался.",
+      "latitude": 49.7499,
+      "longitude": 6.6371,
+      "source": "https://en.wikipedia.org/wiki/Gallic_Empire",
+      "tags": [
+        "Roman",
+        "Political",
+        "War",
+        "Administration",
+        "Crisis",
+        "Dynasty"
+      ]
+    },
+    {
+      "date": "01.01.0293",
+      "era": "AD",
+      "type": "political",
+      "name": "Augusta Treverorum / Trier — Gaul's imperial city on the Moselle",
+      "name_ru": "Августа Треверорум / Трир — имперский город Галлии на Мозеле",
+      "description": "Augusta Treverorum — modern Trier, then within Gallia Belgica — became one of the most important cities of the late Roman empire, serving repeatedly as the western capital from the third century onwards. Founded as a military base during Augustus's Rhine campaigns, it grew into a city of perhaps 100,000 people under the Severan dynasty, and when Diocletian established the Tetrarchy in 293, Trier became the residence of the western Caesar — a role it retained under Constantius Chlorus, Constantine himself (who was proclaimed emperor here in 306), and a succession of emperors through the fourth century.\n\nThe urban monuments that survive testify to Trier's imperial status. The Porta Nigra — an enormous gate tower of the second century, the largest surviving Roman gate north of the Alps — remains intact. The imperial baths were the largest north of Rome. Constantine's great basilica — the Aula Palatina — still stands as a church. The imperial mint, circus, and amphitheatre completed a city that was in every physical sense a second Rome. Trier's prominence in late Roman Gaul explains why, when the Rhine frontier collapsed in 406 and the city was sacked repeatedly by Germanic tribes, contemporaries felt it as a catastrophe equal to the fall of Rome itself.",
+      "description_ru": "Августа Треверорум — современный Трир, тогда находившийся в Галлии Белгике, — стал одним из важнейших городов поздней Римской империи, неоднократно служа западной столицей начиная с III века. Основанный как военная база в ходе рейнских кампаний Августа, он вырос в город с, возможно, 100 000 жителей при Северах, а когда Диоклетиан в 293 году установил Тетрархию, Трир стал резиденцией западного цезаря — роль, которую он сохранял при Констанции Хлоре, самом Константине, провозглашённом императором здесь в 306 году, и череде императоров на протяжении всего IV века.\n\nСохранившиеся городские памятники свидетельствуют об имперском статусе Трира. Порта Нигра — огромные воротные башни II века, крупнейшие из сохранившихся римских ворот к северу от Альп, — стоит практически нетронутой. Имперские термы, рассчитанные на несколько тысяч посетителей одновременно, были крупнейшими к северу от Рима. Великая базилика Константина — Aula Palatina, — тронный зал высотой 36 метров, по-прежнему стоит как лютеранская церковь. Имперский монетный двор, цирк и амфитеатр завершали город, который в каждом физическом смысле был вторым Римом. Когда Рейнский рубеж рухнул в 406 году и Трир многократно подвергся разграблению германскими племенами, современники воспринимали это как катастрофу, равную падению самого Рима.",
+      "latitude": 49.7499,
+      "longitude": 6.6371,
+      "source": "https://en.wikipedia.org/wiki/Trier",
+      "tags": [
+        "Roman",
+        "Political",
+        "Building 🏠",
+        "Architecture",
+        "Administration",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.02.0360",
+      "era": "AD",
+      "type": "political",
+      "name": "Julian proclaimed emperor at Lutetia — Paris enters Roman history",
+      "name_ru": "Юлиан провозглашён императором в Лутеции — Париж входит в римскую историю",
+      "description": "In February 360 AD, the Caesar Julian — commanding the Rhine frontier from his headquarters at Lutetia Parisiorum, the Roman town on the Île de la Cité that would become Paris — was proclaimed Augustus by his troops. The proclamation followed Constantius II's order that Julian transfer much of his Gallic army to the eastern front — an order the troops refused, insisting that Julian, who had turned the collapsing Rhine defence around, lead them rather than transfer them to a distant theatre. Julian accepted reluctantly, launching the civil war that ended only with Constantius's death.\n\nJulian's association with Lutetia is brief but seminal. He spent several winters there, hunted in its forests, worked late into the night in the cold island city, and later wrote fondly of it in his Misopogon. He is the first named historical figure we can locate at Paris with any certainty. His reign as sole emperor lasted only eighteen months before his death in Persia in 363 — a tenure too short to realise his project of reversing the Christianisation of the empire. But his acclamation at Lutetia placed the city — then a modest administrative town of perhaps 8,000 people — at a hinge moment of Roman history.",
+      "description_ru": "В феврале 360 года н. э. цезарь Юлиан — командовавший Рейнским рубежом из своей штаб-квартиры в Лутеции Паризиорум, римском городке на острове Ситэ, которому суждено было стать Парижем, — был провозглашён своими войсками Августом. Провозглашение последовало за приказом Констанция II перевести значительную часть галльской армии Юлиана на восточный фронт — приказом, который войска отказались выполнять, настаивая на том, чтобы Юлиан, остановивший развал Рейнской обороны, вёл их, а не передавал на далёкий театр. Юлиан принял это неохотно, начав гражданскую войну, завершившуюся лишь смертью Констанция.\n\nСвязь Юлиана с Лутецией кратка, но основополагающа. Он провёл там несколько зим, охотился в её лесах и работал поздно ночью в холодном островном городе. Он — первый названный исторический персонаж, которого мы можем с уверенностью поместить в Париже. Его провозглашение в Лутеции поместило город — тогда скромный административный центр, возможно с 8 000 жителей, — в переломный момент римской истории. Его пребывание в Лутеции — зимний город, который он полюбил за простоту нравов её жителей, — превратило скромный остров на Сене в место, неразрывно связанное с великим, пусть и трагическим, царствованием последнего языческого императора Рима.",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "source": "https://en.wikipedia.org/wiki/Julian_(emperor)",
+      "tags": [
+        "Roman",
+        "Political",
+        "Historic",
+        "Foundation",
+        "Culture"
+      ]
+    },
+    {
+      "date": "01.01.0450",
+      "era": "AD",
+      "type": "cultural",
+      "name": "The Gallo-Roman legacy — what Rome left in France",
+      "name_ru": "Галло-римское наследие — что Рим оставил Франции",
+      "description": "When Roman political authority over Gaul finally dissolved in the late fifth century, Rome's physical, linguistic, and institutional inheritance proved more durable than the empire itself. The Latin spoken by Romanised Gauls did not disappear with the legions — it evolved, absorbing Germanic elements, into the dialects that became Old French and the other Oïl languages of northern France, and the Occitan of the south. France's major cities — Lyon, Nîmes, Arles, Bordeaux, Reims, Besançon, Strasbourg, Autun — are Roman foundations or Roman-developed Celtic sites; their street plans, and sometimes their monuments, still reflect the Roman grid.\n\nThe legal inheritance was equally profound. Roman private law, preserved in the Theodosian Code and later the Justinianic compilations, formed the basis of the legal traditions of southern France — the pays de droit écrit — throughout the medieval period. The Catholic Church, which inherited the Roman administrative diocesan structure and the Latin language of learning, transmitted Roman cultural memory through the monastic schools that educated medieval Europe. The vineyards of Burgundy, Bordeaux, and the Rhône, the aqueducts of Provence, the road alignments of the French highway network, and the Romance language spoken by 300 million people are among the most tangible measures of what Rome's five centuries in Gaul actually left behind.",
+      "description_ru": "Когда римская политическая власть над Галлией окончательно растворилась в конце V века, физическое, языковое и институциональное наследие Рима оказалось более долговечным, чем сама империя. Латынь, на которой говорили романизированные галлы, не исчезла вместе с легионами — она эволюционировала, впитывая германские элементы, в диалекты, ставшие старофранцузским и другими языками ойль Северной Франции, а также окситанским Юга. Крупнейшие города Франции — Лион, Ним, Арль, Бордо, Реймс, Безансон, Страсбур, Отён — являются римскими основаниями или развитыми римлянами кельтскими центрами; их планировка улиц, а порой и памятники по-прежнему отражают римскую сетку.\n\nЮридическое наследие было столь же глубоким. Римское частное право, сохранённое в Кодексе Феодосия и позднейших юстиниановых компиляциях, легло в основу правовых традиций южной Франции на протяжении всего средневекового периода. Виноградники Бургундии, Бордо и Роны, акведуки Прованса, трассы французских дорог и романский язык, на котором говорят 300 миллионов человек, — среди наиболее осязаемых мер того, что пять веков Рима в Галлии оставили позади.",
+      "latitude": 45.764,
+      "longitude": 4.8357,
+      "source": "https://en.wikipedia.org/wiki/Roman_Gaul",
+      "tags": [
+        "Roman",
+        "Culture",
+        "Language",
+        "Law",
+        "Historic",
+        "Foundation",
+        "Architecture"
+      ]
+    }
+  ]
+}
