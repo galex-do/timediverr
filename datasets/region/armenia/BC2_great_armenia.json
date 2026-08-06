@@ -14,6 +14,7 @@
       "tags": [
         "Agriculture",
         "Culture",
+        "Neolithic",
         "Winemaking"
       ],
       "type": "cultural"
@@ -1094,7 +1095,7 @@
       "latitude": 39.87837009,
       "longitude": 44.57630754,
       "name": "Gregory the Illuminator is imprisoned",
-      "name_ru": "Григорий Просветитель заключен в темницу",
+      "name_ru": "Григорий Просветитель заключен в Хор Вирап",
       "source": "https://en.wikipedia.org/wiki/Gregory_the_Illuminator",
       "tags": [
         "Armenian",

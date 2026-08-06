@@ -195,8 +195,8 @@
       "era": "BC",
       "latitude": 38,
       "longitude": 65,
-      "name": "Central Asian Fortifications",
-      "name_ru": "Центральноазиатские укрепления",
+      "name": "Cyrus's Central Asian Fortifications",
+      "name_ru": "Центральноазиатские укрепления Кира",
       "source": "https://en.wikipedia.org/wiki/Cyrus_the_Great",
       "tags": [
         "Persian",
@@ -771,12 +771,12 @@
     },
     {
       "date": "01.01.0499",
-      "description": "Ionian Greek cities in Asia Minor revolt against Persian rule with Athenian support, beginning conflict that will lead to Persian Wars",
-      "description_ru": "Ионийские греческие города в Малой Азии восстают против персидского правления при поддержке Афин, запуская конфликт, который приведет к Персидским войнам",
+      "description": "Aristagoras, the tyrant of Miletus, led the Persians into an unsuccessful military campaign against the island of Naxos and squandered vast amounts of public funds. Realizing that the Persian king Darius I would severely punish him for his failure, Aristagoras decided to get ahead of the game, declared democracy in Miletus, and called on all Ionian cities to overthrow the Persian governors.\n\nThe Ionians, tired of heavy Persian taxes, eagerly supported the rebellion. Clazomenae, Erythrae, Samos, Colophon, and Priene immediately joined the coalition. The Ionian Greek cities in Asia Minor triggered a conflict that would lead to the Persian Wars.",
+      "description_ru": "Аристагор, тиран Милета, втянул персов в неудачный военный поход на остров Наксос и растратил кучу казенных денег. Понимая, что персидский царь Дарий I жестоко накажет его за провал, Аристагор решил сыграть на опережение, объявил в Милете демократию и призвал все ионийские города свергнуть персидских наместников.\n\nИонийцы, уставшие от тяжелых персидских налогов, с радостью поддержали бунт. Клазомены, Эритры, Самос, Колофон и Приена мгновенно вошли в коалицию. Ионийские греческие города в Малой Азии запустили конфликт, который приведет к Персидским войнам",
       "era": "BC",
-      "latitude": 37.9397,
-      "longitude": 27.3417,
-      "name": "Ionian Revolt Begins",
+      "latitude": 37.5283,
+      "longitude": 27.2783,
+      "name": "Ionian Revolt Begins against Persia",
       "name_ru": "Восстание Ионийских городов против Персии",
       "source": "https://en.wikipedia.org/wiki/Ionian_Revolt",
       "tags": [
@@ -784,29 +784,51 @@
         "Persian",
         "Achaemenid",
         "War",
+        "Crisis",
+        "Political",
         "Rebellion"
       ],
       "type": "military"
     },
     {
       "date": "01.01.0498",
-      "description": "Ionian Greeks and Athenian allies burn Sardis, Persian satrapal capital in Anatolia, enraging Darius and prompting vow to punish Athens",
-      "description_ru": "Ионийские греки и афинские союзники сжигают Сарды, столицу Анатолийской сатрапии. Дарий в ярости и клянется наказать Афины",
+      "description": "A combined army of rebels and Athenians landed on the mainland and made a daring march deep into Persian territory, toward the city of Sardis (the capital of the Persian satrapy). The Greeks easily captured the city. Due to the carelessness of one soldier, a thatched house caught fire, and soon the entire wooden city, including the sacred temple of the local goddess Cybele, burned to the ground.\n\nThe burning of Sardis enraged King Darius. According to legend, he ordered his servant to repeat to him three times before dinner every day: \"Lord, remember the Athenians!\" The Persians assembled three massive armies under the command of King Darius's sons-in-law and began methodically, one after another, besieging and destroying the rebel cities.",
+      "description_ru": "Объединенное войско повстанцев и афинян высадилось на материке и совершило дерзкий марш-бросок вглубь персидских территорий — к городу Сарды (столице персидской сатрапии). Греки легко захватили город. Из-за неосторожности одного из солдат загорелся соломенный дом, и вскоре весь деревянный город, включая священный храм местной богини Кибелы, выгорел дотла.\n\nCожжение Сард привело царя Дария в ярость. По легенде, он приказал слуге каждый день перед обедом трижды повторять ему: «Владыка, помни об афинянах!». Персы собрали три огромные армии под руководством зятей царя Дария и начали методично, один за другим, осаждать и уничтожать восставшие города.",
       "era": "BC",
       "latitude": 38.4852,
       "longitude": 28.0428,
-      "name": "Burning of Sardis",
+      "name": "Burning of Sardis by Greeks",
       "name_ru": "Греки сжигают Сарды",
       "source": "https://en.wikipedia.org/wiki/Ionian_Revolt",
       "tags": [
         "Greek",
         "Persian",
         "Achaemenid",
+        "Athens",
         "War",
         "Darius I 👑",
         "Destruction"
       ],
       "type": "military"
+    },
+    {
+      "date": "01.01.0496",
+      "description": "The Persians' main striking force was their renowned cavalry, against which the Ionian infantry on the plain was powerless. The water cut off the horses from the city. The Persians did not yet have a strong navy. To defend themselves, the Klazomenians undertook a unique experiment: moving the city from the mainland to the island. All women, children, the elderly, the city treasury, and supplies of grain and olive oil were transported to the island on boats, rafts, and merchant ships. Some buildings on the mainland were dismantled to provide resources for the new construction.\n\nThe new Klazomenians on the island were surrounded by a fortified wall. The island was small, so the new houses were closely packed together. The small island had no large freshwater springs. Residents were forced to carve deep cisterns into the rocks to collect and store rainwater. The Klazomenians' calculations paid off: the Persian army, approaching the shore, destroyed the empty mainland city, but did not dare storm the island. The Klazomenians lived in isolation for 150 years, venturing out to the mainland only during the day to tend the olive groves and returning to the island at night.",
+      "description_ru": "Главной ударной силой персов была их знаменитая конница, перед которой ионийская пехота на равнине была бессильна. Вода отрезала коней от города. Сильного флота у персов еще не было. Чтобы защититься, клазоменцы предприняли уникальный эксперимент по переносу города с материка на остров. На лодках, плотах и торговых судах на остров переправили всех женщин, детей, стариков, городскую казну, запасы зерна и оливкового масла. Часть построек на материке разобрали, чтобы снабдить ресурсами новое строительство. \n\nНовые Клазомены на острове обнесли крепостной стеной. Остров был маленький, поэтому новые дома лепились вплотную друг к другу. На маленьком острове не было крупных пресных источников. Жителям пришлось вырубать в скалах глубокие цистерны для сбора и хранения дождевой воды. Расчет клазоменцев оправдался: персидская армия, подойдя к берегу, уничтожила пустой материковый город, но штурмовать остров не решилась. В изоляции клазоменцы прожили 150 лет, выбираясь на материк только днем, чтобы обработать оливковые рощи, а ночью возвращаясь обратно на остров.",
+      "era": "BC",
+      "latitude": 38.37182574,
+      "longitude": 26.78595543,
+      "name": "The city of Klazomenai is moved to an island",
+      "name_ru": "Город Клазомены переносят на остров",
+      "source": "https://en.wikipedia.org/wiki/Klazomenai",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Achaemenid",
+        "War",
+        "City"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.0494",
@@ -1326,8 +1348,8 @@
       "description": "Persia supports Sparta against Athens in Peloponnesian War, providing gold subsidies that enable Spartan naval construction and prolonging Greek internal conflict",
       "description_ru": "Спартанский полководец Лисандр заручился поддержкой Персии против Афин в Пелопоннесской войне. Персия предоставила золотые субсидии, которые позволили спартанцам построить флот",
       "era": "BC",
-      "latitude": 37.0833,
-      "longitude": 22.4167,
+      "latitude": 37.0764,
+      "longitude": 22.4294,
       "name": "Persian Support for Sparta",
       "name_ru": "Персидская поддержка Спарты",
       "source": "https://en.wikipedia.org/wiki/Peloponnesian_War",
@@ -1463,6 +1485,25 @@
     },
     {
       "date": "01.01.0370",
+      "description": "Great Satraps' Revolt begins as western satraps unite against central authority, revealing growing weakness of imperial administration and provincial discontent",
+      "description_ru": "Начинается Великое восстание сатрапов. Западные сатрапы Анатолии (Лидия, Фригия, Кария, Каппадокия, Армения) объединяются против империи, вскрывая растущую слабость имперской администрации и недовольство провинций",
+      "era": "BC",
+      "latitude": 38,
+      "longitude": 35,
+      "name": "Great Satraps' Revolt",
+      "name_ru": "Великое восстание сатрапов",
+      "source": "https://en.wikipedia.org/wiki/Great_Satraps%27_Revolt",
+      "tags": [
+        "Persian",
+        "Achaemenid",
+        "Civil War",
+        "Administration",
+        "Rebellion"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0370",
       "description": "The second-largest stone monument in Iran after Persepolis. A massive platform of ~200×224 meters dedicated to Anahita, the Zoroastrian yazata (divine being) of water, fertility, and healing. The architecture blends Persian monumental masonry with Hellenistic column styles, reflecting the cultural interchange of the late Achaemenid period. The site sits on the ancient Khorasan Road between Hamadan and Kermanshah",
       "description_ru": "Второй по величине каменный памятник Ирана после Персеполя. Массивная платформа ~200×224 метров, посвящённая Анахите — зороастрийскому язату (божественному существу) воды, плодородия и исцеления. Архитектура сочетает персидскую монументальную кладку с эллинистическими колоннами, отражая культурный обмен позднеахеменидского периода. Храм стоит на древней Хорасанской дороге между Хамаданом и Керманшахом",
       "era": "BC",
@@ -1482,25 +1523,6 @@
         "Zoroastrian"
       ],
       "type": "religious"
-    },
-    {
-      "date": "01.01.0370",
-      "description": "Great Satraps' Revolt begins as western satraps unite against central authority, revealing growing weakness of imperial administration and provincial discontent",
-      "description_ru": "Начинается Великое восстание сатрапов. Западные сатрапы Анатолии (Лидия, Фригия, Кария, Каппадокия, Армения) объединяются против империи, вскрывая растущую слабость имперской администрации и недовольство провинций",
-      "era": "BC",
-      "latitude": 38,
-      "longitude": 35,
-      "name": "Great Satraps' Revolt",
-      "name_ru": "Великое восстание сатрапов",
-      "source": "https://en.wikipedia.org/wiki/Great_Satraps%27_Revolt",
-      "tags": [
-        "Persian",
-        "Achaemenid",
-        "Civil War",
-        "Administration",
-        "Rebellion"
-      ],
-      "type": "political"
     },
     {
       "date": "01.01.0370",

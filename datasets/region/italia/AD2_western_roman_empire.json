@@ -162,8 +162,8 @@
     },
     {
       "date": "01.03.0407",
-      "description": "Troops in Britain, alarmed by the crossing of the Rhine and the chaos in Gaul, proclaim their commander, Constantine III, emperor. He crosses to the continent and quickly consolidates his position in Gaul and Spain, opposing Emperor Honorius. Britain, no longer defended by Roman legions, is left to fend for itself.",
-      "description_ru": "Войска в Британии, встревоженные переходом Рейна и хаосом в Галлии, провозглашают своего командира Константина III императором; он переправляется на континент и быстро закрепляется в Галлии и Испании, выступая против императора Гонория. Британия, больше никогда не защищаемая римскими легионами, предоставлена самой себе. ",
+      "description": "Troops in Britain, alarmed by the crossing of the Rhine and the chaos in Gaul, proclaim their commander, Constantine III, emperor. He crosses to the continent and quickly consolidates his position in Gaul and Spain, opposing Emperor Honorius. Britain, no longer defended by Roman legions, is left to fend for itself. Roman administration collapsed; within a generation, the urban economy had largely collapsed, the use of coinage had plummeted, and the villas that had symbolized Romano-British prosperity began to stand empty.",
+      "description_ru": "Войска в Британии, встревоженные переходом Рейна и хаосом в Галлии, провозглашают своего командира Константина III императором; он переправляется на континент и быстро закрепляется в Галлии и Испании, выступая против императора Гонория. Британия, больше никогда не защищаемая римскими легионами, предоставлена самой себе. Римская администрация распалась; в течение поколения городская экономика по большей части свернулась, использование монеты резко сократилось, а виллы, олицетворявшие романо-британское процветание, начали пустеть.",
       "era": "AD",
       "latitude": 51.51557645,
       "longitude": -0.09208024,
@@ -174,6 +174,7 @@
         "Roman",
         "Abandonment",
         "Britain",
+        "Collapse",
         "Crisis",
         "Political",
         "Usurpation"
@@ -542,27 +543,6 @@
         "Migration",
         "Political",
         "Burgundian"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.0449",
-      "description": "Germanic peoples — Angles, Saxons, and Jutes from what is now Denmark and northern Germany — begin arriving in eastern Britain in significant numbers, traditionally said to be invited by the British king Vortigern as mercenaries against Pictish raids from the north. The invited mercenaries quickly become invaders: over the following century, the Germanic settlement pushes the indigenous Romano-British population into Wales, Cornwall, and across the Channel to Armorica (Brittany). Britain, lost to direct Roman administration in 410, is now being culturally and demographically transformed into England — the most complete erasure of Roman provincial culture anywhere in the former empire.",
-      "description_ru": "Германские народы — англы, саксы и юты из нынешней Дании и Северной Германии — начинают прибывать в восточную Британию в значительном числе, по преданию приглашённые британским королём Вортигерном в качестве наёмников против пиктских набегов. Приглашённые наёмники быстро становятся захватчиками: за следующее столетие германское расселение вытесняет коренное романо-бриттское население в Уэльс и Корнуолл. Британия превращается в Англию — наиболее полное стирание римской провинциальной культуры во всей бывшей империи.",
-      "era": "AD",
-      "latitude": 51.28,
-      "longitude": 1.08,
-      "name": "Angles, Saxons, and Jutes Begin Settling Britain Permanently",
-      "name_ru": "Англы, саксы и юты начинают заселять Британию",
-      "source": "https://en.wikipedia.org/wiki/Anglo-Saxon_settlement_of_Britain",
-      "tags": [
-        "Roman",
-        "Crisis",
-        "English",
-        "Germanic",
-        "Mercenaries",
-        "Migration",
-        "Saxon"
       ],
       "type": "historic"
     },

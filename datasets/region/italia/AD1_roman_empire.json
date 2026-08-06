@@ -23,24 +23,8 @@
     },
     {
       "date": "01.01.0019",
-      "description": "Virgil (Publius Vergilius Maro) dies in 19 BC before completing his final revisions to the Aeneid, which is published posthumously on Augustus's instructions against Virgil's own deathbed wish to burn it. The poem traces Rome's mythological origins from the Trojan hero Aeneas through the founding of Lavinium, embedding Roman imperial destiny in divine will — the famous 'Auctoritas' of Augustus as the fulfilment of Fate. The Aeneid immediately becomes the defining text of Latin literature and Roman national identity, studied in Roman schools for four centuries and influencing Dante, Milton, and the entire Western epic tradition.",
-      "description_ru": "Вергилий (Публий Вергилий Марон) умирает в 19 г. до н. э., не завершив окончательную правку «Энеиды», которая публикуется посмертно по распоряжению Августа вопреки предсмертному желанию поэта сжечь её. Поэма прослеживает мифологическое происхождение Рима от троянского героя Энея, встраивая имперскую судьбу Рима в Божественный промысел. «Энеида» немедленно становится определяющим текстом латинской литературы и римской национальной идентичности, изучаемым в римских школах на протяжении четырёх веков и влиявшим на Данте, Мильтона и всю западную эпическую традицию.",
-      "era": "BC",
-      "latitude": 41.89259412,
-      "longitude": 12.48464763,
-      "name": "Virgil's Aeneid not finished, but published",
-      "name_ru": "«Энеида» Вергилия не завершена, но опубликована",
-      "source": "https://en.wikipedia.org/wiki/Aeneid",
-      "tags": [
-        "Roman",
-        "Literature"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.0019",
-      "description": "Virgil, like most of his contemporaries, was tired of the chaos of civil wars. He saw Octavian Augustus as a savior capable of stopping the carnage. Virgil took the ancient myth of the Trojan hero Aeneas (ancestor of the Romans) and linked it to the lineage of Augustus himself. The theme running through the entire work is that the Romans were destined to endure centuries of suffering and war, so that Augustus would ultimately bring the long-awaited \"Golden Age\" and peace (Pax Romana) to the world. The poem is imbued with sadness; the author shows that for the sake of a great national goal (the construction of Rome), living sacrifices are often necessary.\n\nVirgil wrote the poem for 11 years and did not manage to finish it. He was a perfectionist and, when he fell ill, wanted to burn the unfinished work, but the emperor prevented him from doing so, as Virgil had already created an important epic, equal to Homer's, legitimizing the Pax Romana. After Virgil's death, Octavian ordered the publication of the Aeneid. Rome's greatest epic was received with resounding triumph.",
-      "description_ru": "Вергилий, как и большинство его современников, устал от хаоса гражданских войн. В Октавиане Августе он видел спасителя, способного остановить резню. Вергилий взял древний миф о троянском герое Энее (предке римлян) и связал его с родом самого Августа. Через всё произведение проходит мысль: римлянам суждено было пройти через века страданий и войн, чтобы в итоге Август принёс на землю долгожданный «Золотой век» и мир (Pax Romana). Поэма пропитана грустью; автор показывает, что ради великой государственной цели (строительства Рима) часто приходится приносить в жертву живых людей.\n\nВергилий писал поэму 11 лет и не успел ее закончить. Он был перфекционистом и, заболев, хотел сжечь незавершенную работу, однако император не позволил ему этого сделать, поскольку Вергилий уже сотворил важный эпос, равный творениям Гомера, легитимизирующий Pax Romana. После смерти Вергилия Октавиан велел опубликовать Энеиду. Величайший эпос Рима был принял с оглушительным триумфом.",
+      "description": "Virgil, like most of his contemporaries, was tired of the chaos of civil wars. He saw Octavian Augustus as a savior capable of stopping the carnage. Virgil took the ancient myth of the Trojan hero Aeneas (ancestor of the Romans) and linked it to the lineage of Augustus himself. The theme running through the entire work is that the Romans were destined to endure centuries of suffering and war, so that Augustus would ultimately bring the long-awaited \"Golden Age\" and peace (Pax Romana) to the world. The poem is imbued with sadness; the author shows that for the sake of a great national goal (the construction of Rome), living sacrifices are often necessary.\n\nVirgil wrote the poem for 11 years and did not have time to finish it. He was a perfectionist and, having fallen ill, wanted to burn his unfinished work, but the emperor did not allow this to happen, since Virgil had already created an important epic equal to the works of Homer, legitimizing the Pax Romana. After the death of Virgil, Octavian ordered the publication of the Aeneid. Rome's greatest epic was received with resounding triumph and became the defining text of Latin literature and Roman national identity, studied in Roman schools for centuries.",
+      "description_ru": "Вергилий, как и большинство его современников, устал от хаоса гражданских войн. В Октавиане Августе он видел спасителя, способного остановить резню. Вергилий взял древний миф о троянском герое Энее (предке римлян) и связал его с родом самого Августа. Через всё произведение проходит мысль: римлянам суждено было пройти через века страданий и войн, чтобы в итоге Август принёс на землю долгожданный «Золотой век» и мир (Pax Romana). Поэма пропитана грустью; автор показывает, что ради великой государственной цели (строительства Рима) часто приходится приносить в жертву живых людей.\n\nВергилий писал поэму 11 лет и не успел ее закончить. Он был перфекционистом и, заболев, хотел сжечь незавершенную работу, однако император не позволил этому произойти, поскольку Вергилий уже сотворил важный эпос, равный творениям Гомера, легитимизирующий Pax Romana. После смерти Вергилия Октавиан велел опубликовать Энеиду. Величайший эпос Рима был принял с оглушительным триумфом и стал определяющим текстом латинской литературы и римской национальной идентичности, изучаемым в римских школах на протяжении веков.",
       "era": "BC",
       "latitude": 40.82997009,
       "longitude": 14.21754241,
@@ -114,6 +98,25 @@
         "Wealth"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.01.0008",
+      "description": "Young Ovid, obeying his father's wishes, began a career as a civil servant in Rome. His work took place in the Roman Forum as part of the College of Triumvirs; Ovid oversaw prisons. Later, he grew bored with the routine of civil service and turned to poetry.\n\nFor a long time, Ovid was known only as a writer of light, erotic verse. He wanted to prove his ability to write \"grand verse.\" At the same time, Emperor Augustus was building an empire and demanding that poets glorify Rome. Thus was born the Metamorphoses—a monumental poem in 15 books, bringing together hundreds of ancient Greek and Roman myths about transformations. It is based on the idea of ​​the changing world, where gods, humans, and nymphs transform into animals, plants, stones, or constellations. Ovid composed a unified narrative from the creation of the world out of Chaos to the deification of Julius Caesar.",
+      "description_ru": "Молодой Овидий, подчинившись воле отца, начал карьеру государственного служащего в Риме. Его работа проходила на Римском форуме в рамках коллегии триумвиров; Овидий занимался надзором за тюрьмами. Позднее ему наскучила рутина государственной службы, и он ушел в поэзию. \n\nОвидий долгое время был известен лишь как автор легких, эротических стихов. Ему хотелось доказать, что он способен на «большую форму». В то же время император Август строил империю и требовал от поэтов прославления Рима. Так родились \"Метаморфозы\" — монументальная поэма в 15 книгах, объединяющая сотни древнегреческих и римских мифов о превращениях. В основу легла идея изменчивости мира, где боги, люди и нимфы превращаются в животных, растения, камни или созвездия. Овидий сложил единое повествование от сотворения мира из Хаоса до обожествления Юлия Цезаря.",
+      "era": "AD",
+      "latitude": 41.89259412,
+      "longitude": 12.48464763,
+      "name": "Ovid writes \"Metamorphoses\"",
+      "name_ru": "Овидий пишет \"Метаморфозы\"",
+      "source": "https://en.wikipedia.org/wiki/Metamorphoses",
+      "tags": [
+        "Roman",
+        "Culture",
+        "Literature",
+        "Philosophy",
+        "Poetry"
+      ],
+      "type": "cultural"
     },
     {
       "date": "09.09.0009",
@@ -213,8 +216,8 @@
       "description": "In 43 AD, Emperor Claudius dispatches four legions under Aulus Plautius to invade Britain. Within weeks the Romans cross the Thames and Claudius himself briefly visits to accept the submission of eleven British kings in person. The conquest of southern Britain creates the province of Britannia and opens a resource-rich territory to Roman commerce, culture, and infrastructure (Londinium is founded shortly after). Britain will remain a Roman province for nearly four centuries and the cultural encounter between Roman and Celtic civilisations will leave permanent marks on British language, law, and urban geography.",
       "description_ru": "В 43 г. н. э. император Клавдий направляет четыре легиона под командованием Авла Плавция для вторжения в Британию. В течение нескольких недель римляне форсируют Темзу, а сам Клавдий ненадолго прибывает, чтобы лично принять подчинение одиннадцати британских царей. Завоевание южной Британии создаёт провинцию Британния; вскоре основывается Лондиний. Британия останется римской провинцией почти четыре столетия.",
       "era": "AD",
-      "latitude": 51.51557645,
-      "longitude": -0.09208024,
+      "latitude": 51.29294847,
+      "longitude": 1.33189917,
       "name": "Rome Invades Britain",
       "name_ru": "Рим вторгается в Британию ",
       "source": "https://en.wikipedia.org/wiki/Roman_conquest_of_Britain",
@@ -280,6 +283,7 @@
       "tags": [
         "Roman",
         "City",
+        "Britain",
         "British",
         "Expansion",
         "Trade"
@@ -417,6 +421,7 @@
         "Roman",
         "Celtic",
         "War",
+        "Britain",
         "British",
         "Destruction",
         "Rebellion"
@@ -763,7 +768,8 @@
         "Roman",
         "Emperor",
         "Philosophy",
-        "Political"
+        "Political",
+        "Stoicism"
       ],
       "type": "political"
     },

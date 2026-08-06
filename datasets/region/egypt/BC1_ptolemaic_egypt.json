@@ -362,33 +362,12 @@
         "Greek",
         "Egypt",
         "Ptolemaic",
-        "Africa",
+        "African",
         "Elephants",
         "Expedition",
         "Trade"
       ],
       "type": "historic"
-    },
-    {
-      "date": "01.01.0260",
-      "description": "Archimedes from Syracuse comes to Alexandria to study and corresponds with Eratosthenes and Conon of Samos. Legend says that he invented the 'Archimedes screw' in Egypt, observing the flooding of the Nile and the hard work of peasants.",
-      "description_ru": "Архимед из Сиракуз приезжает в Александрию, чтобы учиться, ведет переписку с Эратосфеном и Кононом Самосским. Легенда гласит, что 'Архимедов винт' он придумал именно в Египте, наблюдая за разливами Нила и тяжелым крестьянским трудом ",
-      "era": "BC",
-      "latitude": 31.2,
-      "longitude": 29.9,
-      "name": "Archimedes studies in Alexandria",
-      "name_ru": "Архимед учится в Александрии",
-      "tags": [
-        "Egypt",
-        "Ptolemaic",
-        "Legend",
-        "Archimedes 👤",
-        "Education",
-        "Engineering ⚙️",
-        "Science",
-        "Water"
-      ],
-      "type": "scientific"
     },
     {
       "date": "01.01.0260",
@@ -408,6 +387,27 @@
         "Education",
         "Medicine",
         "Science"
+      ],
+      "type": "scientific"
+    },
+    {
+      "date": "01.01.0260",
+      "description": "Archimedes from Syracuse comes to Alexandria to study and corresponds with Eratosthenes and Conon of Samos. Legend says that he invented the 'Archimedes screw' in Egypt, observing the flooding of the Nile and the hard work of peasants.",
+      "description_ru": "Архимед из Сиракуз приезжает в Александрию, чтобы учиться, ведет переписку с Эратосфеном и Кононом Самосским. Легенда гласит, что 'Архимедов винт' он придумал именно в Египте, наблюдая за разливами Нила и тяжелым крестьянским трудом ",
+      "era": "BC",
+      "latitude": 31.2,
+      "longitude": 29.9,
+      "name": "Archimedes studies in Alexandria",
+      "name_ru": "Архимед учится в Александрии",
+      "tags": [
+        "Egypt",
+        "Ptolemaic",
+        "Legend",
+        "Archimedes 👤",
+        "Education",
+        "Engineering ⚙️",
+        "Science",
+        "Water"
       ],
       "type": "scientific"
     },
@@ -452,6 +452,26 @@
     },
     {
       "date": "01.01.0245",
+      "description": "The hydraulos (Greek: ὕδραυλος, from hydor \"water\" and aulos \"tube\") is one of the most astonishing engineering triumphs of antiquity. It is recognized as the first keyboard wind instrument in history and the direct ancestor of all modern organs. The idea of ​​the hydraulos is a byproduct of experiments with compressed air and hydraulic pressure.\n\nThe main problem with wind instruments of the time was the instability of the sound: blowing unevenly causes the notes to \"float\" and be out of tune. Ctesibius ingeniously solved this problem using mechanics, water, and hydrostatic pressure. Initially, the hydraulos was a small and refined domestic instrument, but was later appreciated by the Romans, who used it in gladiatorial arenas.",
+      "description_ru": "Гидравлос (греч. ὕδραυλος — от hydor «вода» и aulos «трубка») — это один из самых поразительных инженерных триумфов античности. Он признан первым в истории клавишно-духовым инструментом и прямым предком всех современных органов. Идея гидравлоса как побочный продукт экспериментов со сжатым воздухом и гидравлическим давлением.\n\nГлавной проблемой духовых инструментов того времени была нестабильность звука: человек дует неравномерно, из-за чего ноты «плавают» и фальшивят. Ктесибий гениально решил эту проблему с помощью механики, воды и гидростатического давления. Изначально гидравлос был камерным и утончённым домашним инструментом, но впоследствии был по достоинству оценен римлянами, применявшими его на гладиаторских аренах.",
+      "era": "BC",
+      "latitude": 31.2,
+      "longitude": 29.9,
+      "name": "Ctesibius invents the hydraulos in Alexandria",
+      "name_ru": "Ктесибий изобретает гидравлос в Александрии",
+      "source": "https://en.wikipedia.org/wiki/Water_organ",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Engineering ⚙️",
+        "Innovation",
+        "Music",
+        "Water"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0245",
       "description": "Callimachus creates the Pinakes, the first systematic library catalog in history; this bibliography of the Library of Alexandria organizes works by author and subject, establishing principles still used today",
       "description_ru": "Каллимах создаёт 'Пинаки', первый систематический библиотечный каталог в истории; эта библиография Александрийской библиотеки организует работы по автору и теме, устанавливая принципы, используемые по сей день",
       "era": "BC",
@@ -471,25 +491,6 @@
     },
     {
       "date": "01.01.0240",
-      "description": "Eratosthenes of Cyrene becomes chief librarian of the Library of Alexandria; he will calculate the Earth's circumference with remarkable accuracy using shadows and geometry",
-      "description_ru": "Эратосфен Киренский становится главным библиотекарем Александрийской библиотеки; он вычислит окружность Земли с замечательной точностью, используя тени и геометрию",
-      "era": "BC",
-      "latitude": 31.2,
-      "longitude": 29.9,
-      "name": "Eratosthenes Becomes Chief Librarian",
-      "name_ru": "Эратосфен становится главным библиотекарем",
-      "source": "https://en.wikipedia.org/wiki/Eratosthenes",
-      "tags": [
-        "Greek",
-        "Egypt",
-        "Ptolemaic",
-        "Library",
-        "Science"
-      ],
-      "type": "scientific"
-    },
-    {
-      "date": "01.01.0240",
       "description": "Eratosthenes calculates Earth's circumference at approximately 40,000 km (actual: 40,075 km) by comparing shadow angles at Alexandria and Syene; this is one of the greatest scientific achievements of antiquity",
       "description_ru": "Эратосфен вычисляет окружность Земли примерно в 40 000 км (фактически: 40 075 км), сравнивая углы теней в Александрии и Сиене; это одно из величайших научных достижений античности",
       "era": "BC",
@@ -504,6 +505,25 @@
         "Ptolemaic",
         "Geography",
         "Mathematics",
+        "Science"
+      ],
+      "type": "scientific"
+    },
+    {
+      "date": "01.01.0240",
+      "description": "Eratosthenes of Cyrene becomes chief librarian of the Library of Alexandria; he will calculate the Earth's circumference with remarkable accuracy using shadows and geometry",
+      "description_ru": "Эратосфен Киренский становится главным библиотекарем Александрийской библиотеки; он вычислит окружность Земли с замечательной точностью, используя тени и геометрию",
+      "era": "BC",
+      "latitude": 31.2,
+      "longitude": 29.9,
+      "name": "Eratosthenes Becomes Chief Librarian",
+      "name_ru": "Эратосфен становится главным библиотекарем",
+      "source": "https://en.wikipedia.org/wiki/Eratosthenes",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Ptolemaic",
+        "Library",
         "Science"
       ],
       "type": "scientific"
@@ -707,6 +727,27 @@
     },
     {
       "date": "01.01.0180",
+      "description": "Ptolemy V dies, possibly by poison; his wife Cleopatra I serves as regent for their young son Ptolemy VI, maintaining peace with the Seleucids and stable government",
+      "description_ru": "Птолемей V умирает, возможно, от яда; его жена Клеопатра I становится регентом при их малолетнем сыне Птолемее VI, поддерживая мир с Селевкидами и стабильное правительство",
+      "era": "BC",
+      "latitude": 31.206667,
+      "longitude": 29.900278,
+      "name": "Death of Ptolemy V",
+      "name_ru": "Смерть Птолемея V",
+      "source": "https://en.wikipedia.org/wiki/Ptolemy_V_Epiphanes",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Ptolemaic",
+        "Seleucid",
+        "Dynasty",
+        "Death",
+        "Regency"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0180",
       "description": "The cult of Isis spread throughout the Mediterranean from Egypt; temples to Isis were built in Greece, Rome, and throughout the Hellenistic world. Isis protects women, mothers, and sailors, offering her followers a hope of immortality and personal protection that is unusual among Greek gods.",
       "description_ru": "Культ Исиды распространяется по всему Средиземноморью из Египта; храмы Исиды строятся в Греции, Риме и по всему эллинистическому миру. Исида защищает женщин, матерей и мореходов, предлагает своим последователям нетипичную для греческих богов надежду на бессмертие и личную защиту.",
       "era": "BC",
@@ -726,27 +767,6 @@
         "Syncretism"
       ],
       "type": "religious"
-    },
-    {
-      "date": "01.01.0180",
-      "description": "Ptolemy V dies, possibly by poison; his wife Cleopatra I serves as regent for their young son Ptolemy VI, maintaining peace with the Seleucids and stable government",
-      "description_ru": "Птолемей V умирает, возможно, от яда; его жена Клеопатра I становится регентом при их малолетнем сыне Птолемее VI, поддерживая мир с Селевкидами и стабильное правительство",
-      "era": "BC",
-      "latitude": 31.206667,
-      "longitude": 29.900278,
-      "name": "Death of Ptolemy V",
-      "name_ru": "Смерть Птолемея V",
-      "source": "https://en.wikipedia.org/wiki/Ptolemy_V_Epiphanes",
-      "tags": [
-        "Greek",
-        "Egypt",
-        "Ptolemaic",
-        "Seleucid",
-        "Dynasty",
-        "Death",
-        "Regency"
-      ],
-      "type": "political"
     },
     {
       "date": "01.01.0150",

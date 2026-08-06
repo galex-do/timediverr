@@ -382,6 +382,25 @@
     },
     {
       "date": "01.01.1400",
+      "description": "The forminx is the most ancient, or \"grandfather\" instrument of the Greek world. It was actively used during the Mycenaean and Minoan Bronze Ages, survived the Greek Dark Ages, and survived into the Archaic period. The body (resonator) was carved entirely from wood and was shaped like a crescent or semicircle with a flat top. The posts grew smoothly from the body, forming a single monolithic structure. There were originally four strings, later increasing to seven. They were strung on pegs made of wood or rawhide.\n\nTo the sound of the forminx, wandering blind singers (such as Homer or the legendary Demodocus) would recite epic poems about the exploits of heroes and gods for hours. The sound of the forminx was resonant, dense, and served as a background metronome for the voice.",
+      "description_ru": "Форминкс — это самый древний, «дедушкин» инструмент греческого мира. Он активно использовался в Микенскую и Минойскую эпохи Бронзового века, пережил «Тёмные века» Греции и дожил до эпохи Архаики.  Корпус (резонатор) вырезался целиком из дерева и имел форму полумесяца или полукруга с плоским верхом. Стойки плавно вырастали из корпуса, образуя единую монолитную конструкцию. Струн изначально было 4, позже их количество дошло до 7. Натягивались они на колки из дерева или сыромятной кожи.\n\nПод форминкс бродячие слепые певцы (такие как Гомер или легендарный Демодок) часами нараспев декламировали эпические поэмы о подвигах героев и богах. Звук форминкса был гулким, плотным и служил фоновым метрономом для голоса.",
+      "era": "BC",
+      "latitude": 35.2979,
+      "longitude": 25.1632,
+      "name": "Forminx — Greek musical instrument",
+      "name_ru": "Форминкс — греческий музыкальный инструмент",
+      "source": "https://en.wikipedia.org/wiki/Phorminx",
+      "tags": [
+        "Greek",
+        "Minoan",
+        "Mycenaean",
+        "Culture",
+        "Music"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1400",
       "description": "Palace bureaucracy at Pylos employs over 400 scribes recording Linear B tablets; detailed inventories track 100,000+ sheep, grain quotas, bronze weapons, perfumed oils, and textile production across kingdom",
       "description_ru": "В Пилосе трудятся более 400 писцов, записывающих таблички линейным Б; подробные инвентаризации отслеживают 100 000+ овец, квоты зерна, бронзовое оружие, ароматные масла и производство текстиля по всему царству",
       "era": "BC",
@@ -441,25 +460,6 @@
     },
     {
       "date": "01.01.1300",
-      "description": "Lion Gate constructed at Mycenae with massive limestone lintel weighing 20 tons topped by relief sculpture of two lionesses flanking column; becomes iconic symbol of Mycenaean architectural achievement and royal power",
-      "description_ru": "Львиные ворота построены в Микенах с массивной известняковой перемычкой весом 20 тонн, увенчанной рельефной скульптурой двух львиц, фланкирующих колонну; становятся культовым символом микенского архитектурного достижения и царской власти",
-      "era": "BC",
-      "latitude": 37.7308,
-      "longitude": 22.7564,
-      "name": "Lion Gate of Mycenae",
-      "name_ru": "Львиные ворота Микен",
-      "source": "https://en.wikipedia.org/wiki/Lion_Gate",
-      "tags": [
-        "Greek",
-        "Mycenaean",
-        "Building 🏠",
-        "Architecture",
-        "Art"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.1300",
       "description": "Treasury of Atreus (tholos tomb) completed at Mycenae; beehive-shaped burial chamber with 14.5m high corbelled dome, largest unsupported dome in ancient world for 1,000 years until Roman Pantheon",
       "description_ru": "Сокровищница Атрея (толосная гробница) возведена в Микенах; погребальная камера в форме улья с куполом высотой 14,5 м на корбельной кладке, крупнейший несущий купол в древнем мире за 1000 лет до римского Пантеона",
       "era": "BC",
@@ -475,6 +475,25 @@
         "Architecture",
         "Tomb",
         "Treasure"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1300",
+      "description": "Lion Gate constructed at Mycenae with massive limestone lintel weighing 20 tons topped by relief sculpture of two lionesses flanking column; becomes iconic symbol of Mycenaean architectural achievement and royal power",
+      "description_ru": "Львиные ворота построены в Микенах с массивной известняковой перемычкой весом 20 тонн, увенчанной рельефной скульптурой двух львиц, фланкирующих колонну; становятся культовым символом микенского архитектурного достижения и царской власти",
+      "era": "BC",
+      "latitude": 37.7308,
+      "longitude": 22.7564,
+      "name": "Lion Gate of Mycenae",
+      "name_ru": "Львиные ворота Микен",
+      "source": "https://en.wikipedia.org/wiki/Lion_Gate",
+      "tags": [
+        "Greek",
+        "Mycenaean",
+        "Building 🏠",
+        "Architecture",
+        "Art"
       ],
       "type": "historic"
     },

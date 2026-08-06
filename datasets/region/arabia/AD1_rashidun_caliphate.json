@@ -17,7 +17,7 @@
         "Birth",
         "Holy Site",
         "Islamic",
-        "Milestone",
+        "Milestone ⭐️",
         "Muhammad ibn Abdullah 👤",
         "Qurayshite",
         "Religious"
@@ -536,6 +536,26 @@
     },
     {
       "date": "01.01.0638",
+      "description": "The city was founded on the banks of the Euphrates. Caliph Umar set a condition: find a place where the soil was \"clean\" (free from rot and insects), and where there were no rivers or bridges between Medina and the camp, so that the couriers could ride unhindered. According to legend, Kufa was built on the site where Noah (Nuh) once began building his ark.",
+      "description_ru": "Город заложили на берегу Евфрата. Халиф Умар поставил условие: найти место, где почва была бы «чистой» (без гнили и насекомых), а между Мединой и лагерем не было бы рек или мостов, чтобы гонцы могли доскакать беспрепятственно. Согласно преданиям, Куфа была построена на месте, где когда-то Ной (Нух) начал строить свой ковчег.",
+      "era": "AD",
+      "latitude": 32.02925323,
+      "longitude": 44.40078914,
+      "name": "Foundation of Kufa",
+      "name_ru": "Основание Куфы Исламским халифатом",
+      "source": "https://en.wikipedia.org/wiki/Kufa",
+      "tags": [
+        "Arabian",
+        "City",
+        "Legend",
+        "Expansion",
+        "Islamic",
+        "Rashidun"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0638",
       "description": "As the Islamic state expands beyond Arabia to encompass Syria, Iraq, and Persia, Umar ibn al-Khattab builds the administrative infrastructure required to govern a multi-ethnic, multi-religious empire: the diwan (state register) records the pension entitlements of all Muslim fighters and their families, funded from the revenues of conquered territories; the amsar (garrison cities) of Basra, Kufa, Fustat (Cairo), and later others serve as administrative capitals and military bases in conquered provinces; and the jizya (poll tax) on non-Muslim subjects (dhimmis) creates a fiscal system that simultaneously funds the state and incentivises conversion.\n\nUmar also formally adopts the Islamic Hijri lunar calendar — counting from the year of the Hijra to Medina — giving the Islamic world a shared chronological framework independent of Roman or Persian imperial time. His personal style of governance — austere, accessible, and physically active (he is said to have patrolled Medina at night to check on his subjects) — becomes the ideal of the 'just caliph' that all subsequent Islamic political theory measures rulers against. The administrative framework he builds outlasts the Rashidun Caliphate by centuries, persisting in the Umayyad and Abbasid systems.",
       "description_ru": "По мере того как исламское государство расширяется за пределы Аравии, охватывая Сирию, Ирак и Персию, Умар ибн аль-Хаттаб строит административную инфраструктуру, необходимую для управления многонациональной, многоконфессиональной империей: диван (государственный реестр) фиксирует права на пенсии всех мусульманских воинов и их семей, финансируемые из доходов завоёванных территорий; города-гарнизоны (амсар) Басра, Куфа, Фустат (Каир) служат административными столицами и военными базами в завоёванных провинциях; джизья (подушная подать) с немусульманских подданных (зимми) создаёт фискальную систему.\n\nУмар также официально принимает исламский хиджрийский лунный календарь — отсчёт от года хиджры в Медину, — давая исламскому миру общую хронологическую систему, независимую от Римского или Персидского имперского времени.",
       "era": "AD",
@@ -554,26 +574,6 @@
         "Rashidun"
       ],
       "type": "political"
-    },
-    {
-      "date": "01.01.0638",
-      "description": "The city was founded on the banks of the Euphrates. Caliph Umar set a condition: find a place where the soil was \"clean\" (free from rot and insects), and where there were no rivers or bridges between Medina and the camp, so that the couriers could ride unhindered. According to legend, Kufa was built on the site where Noah (Nuh) once began building his ark.",
-      "description_ru": "Город заложили на берегу Евфрата. Халиф Умар поставил условие: найти место, где почва была бы «чистой» (без гнили и насекомых), а между Мединой и лагерем не было бы рек или мостов, чтобы гонцы могли доскакать беспрепятственно. Согласно преданиям, Куфа была построена на месте, где когда-то Ной (Нух) начал строить свой ковчег.",
-      "era": "AD",
-      "latitude": 32.02925323,
-      "longitude": 44.40078914,
-      "name": "Foundation of Kufa",
-      "name_ru": "Основание Куфы Исламским халифатом",
-      "source": "https://en.wikipedia.org/wiki/Kufa",
-      "tags": [
-        "Arabian",
-        "City",
-        "Legend",
-        "Expansion",
-        "Islamic",
-        "Rashidun"
-      ],
-      "type": "historic"
     },
     {
       "date": "06.10.0640",
@@ -657,6 +657,26 @@
         "Text"
       ],
       "type": "cultural"
+    },
+    {
+      "date": "01.01.0652",
+      "description": "The treaty between Prince Theodoros Rshtuni and Governor Muawiya was a compromise. For the Arabs, it was a way to consolidate their position in the region without unnecessary military losses, and for the Armenians, a way to save their country from destruction similar to the destruction of Dvin. The essence of the treaty was recognition of vassalage in exchange for broad internal autonomy: Armenia was exempt from taxes for three years, retained the Ayrudzi cavalry and the Christian church, and received protection from the Byzantine Empire.",
+      "description_ru": "Договор между князем Теодоросом Рштуни и наместником Муавией был компромиссом. Для арабов это был способ закрепиться в регионе без лишних военных потерь, а для армян — способ спасти страну от уничтожения, подобного разгрому Двина. Суть договора сводилась к признанию вассалитета в обмен на широкую внутреннюю автономию: Армения была освобождена от налогов на 3 года, сохранила конницу айрудзи и христианскую церковь, а также получила защиту от Византии.",
+      "era": "AD",
+      "latitude": 40.00472649,
+      "longitude": 44.57918823,
+      "name": "The Treaty of Rshtuni between Armenia and the Rashidun Caliphate",
+      "name_ru": "Договор Рштуни между Арменией и Праведным Халифатом",
+      "source": "https://arar.sci.am/dlibra/publication/311039",
+      "tags": [
+        "Arabian",
+        "Armenian",
+        "Peace",
+        "Rashidun",
+        "Treaty",
+        "Vassalage"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.0655",

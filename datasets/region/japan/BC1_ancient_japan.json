@@ -28,8 +28,9 @@
       "name_ru": "Поселение Саннай-Маруяма",
       "source": "https://en.wikipedia.org/wiki/Sannai-Maruyama_site",
       "tags": [
-        "Settlement",
         "Japanese",
+        "Neolithic",
+        "Settlement",
         "Jomon"
       ],
       "type": "cultural"
@@ -45,10 +46,10 @@
       "name_ru": "Поливное рисоводство приходит в Японию",
       "source": "https://en.wikipedia.org/wiki/Yayoi_period",
       "tags": [
+        "Japanese",
         "Korean",
         "Agriculture",
         "Rice",
-        "Japanese",
         "Yayoi"
       ],
       "type": "historic"
@@ -64,10 +65,10 @@
       "name_ru": "Бронзовые колокола и железное оружие в Японии",
       "source": "https://en.wikipedia.org/wiki/Yayoi_period",
       "tags": [
+        "Japanese",
         "Bronze",
         "Iron",
         "Metallurgy",
-        "Japanese",
         "Yayoi"
       ],
       "type": "cultural"
@@ -83,8 +84,8 @@
       "name_ru": "Укреплённое поселение Ёсиногари на Кюсю",
       "source": "https://en.wikipedia.org/wiki/Yoshinogari_site",
       "tags": [
-        "Settlement",
         "Japanese",
+        "Settlement",
         "Yayoi"
       ],
       "type": "cultural"
@@ -100,8 +101,8 @@
       "name_ru": "Военная знать в Японии Яёй",
       "source": "https://en.wikipedia.org/wiki/Yayoi_period",
       "tags": [
-        "Aristocracy",
         "Japanese",
+        "Aristocracy",
         "Yayoi"
       ],
       "type": "historic"
@@ -117,8 +118,8 @@
       "name_ru": "Первое упоминание Японии в Китае",
       "source": "https://en.wikipedia.org/wiki/King_of_Na_gold_seal",
       "tags": [
-        "Chinese",
         "Japanese",
+        "Chinese",
         "Yayoi"
       ],
       "type": "historic"
@@ -134,9 +135,9 @@
       "name_ru": "Посольство царя Ва в Ханьский Китай",
       "source": "https://en.wikipedia.org/wiki/Suisho",
       "tags": [
+        "Japanese",
         "Chinese",
         "Diplomacy",
-        "Japanese",
         "Yayoi"
       ],
       "type": "historic"
@@ -152,11 +153,11 @@
       "name_ru": "Царица Химико правит Яматай",
       "source": "https://en.wikipedia.org/wiki/Himiko",
       "tags": [
+        "Japanese",
         "Uncertain",
         "Capital",
         "Queen",
         "Yamato",
-        "Japanese",
         "Yayoi"
       ],
       "type": "political"
@@ -172,9 +173,9 @@
       "name_ru": "Царица Ийо сменяет Химико в Яматай",
       "source": "https://en.wikipedia.org/wiki/Himiko",
       "tags": [
+        "Japanese",
         "Queen",
         "Yamato",
-        "Japanese",
         "Yayoi"
       ],
       "type": "political"
@@ -190,10 +191,10 @@
       "name_ru": "Период Кофун в Японии",
       "source": "https://en.wikipedia.org/wiki/Kofun_period",
       "tags": [
+        "Japanese",
         "Burial",
         "Culture",
-        "Yamato",
-        "Japanese"
+        "Yamato"
       ],
       "type": "historic"
     },
@@ -208,11 +209,11 @@
       "name_ru": "Письменность приходит в Японию из Кореи",
       "source": "https://en.wikipedia.org/wiki/Wani_(scholar)",
       "tags": [
+        "Japanese",
         "Chinese",
         "Korean",
         "Writing",
-        "Yamato",
-        "Japanese"
+        "Yamato"
       ],
       "type": "cultural"
     },
@@ -227,9 +228,9 @@
       "name_ru": "Курган Дайсэн в Осаке",
       "source": "https://en.wikipedia.org/wiki/Daisen_Kofun",
       "tags": [
+        "Japanese",
         "Holy Site",
-        "Tomb",
-        "Japanese"
+        "Tomb"
       ],
       "type": "historic"
     },
@@ -244,9 +245,9 @@
       "name_ru": "Пять царей Ва добиваются китайского признания",
       "source": "https://en.wikipedia.org/wiki/Five_kings_of_Wa",
       "tags": [
+        "Japanese",
         "Chinese",
-        "Diplomacy",
-        "Japanese"
+        "Diplomacy"
       ],
       "type": "historic"
     },
@@ -261,9 +262,9 @@
       "name_ru": "Учёные и мастера из Пэкче едут в Японию",
       "source": "https://en.wikipedia.org/wiki/Baekje",
       "tags": [
+        "Japanese",
         "Korean",
-        "Migration",
-        "Japanese"
+        "Migration"
       ],
       "type": "cultural"
     },
@@ -278,10 +279,10 @@
       "name_ru": "Буддизм приходит в Японию",
       "source": "https://en.wikipedia.org/wiki/Buddhism_in_Japan",
       "tags": [
+        "Japanese",
         "Korean",
         "Yamato",
-        "Buddhism",
-        "Japanese"
+        "Buddhism"
       ],
       "type": "religious"
     },
@@ -296,11 +297,11 @@
       "name_ru": "Сога побеждает клан Мононобэ, противников буддизма",
       "source": "https://en.wikipedia.org/wiki/Soga%E2%80%93Mononobe_conflict",
       "tags": [
+        "Japanese",
         "Civil War",
         "Battle",
         "Yamato",
-        "Buddhism",
-        "Japanese"
+        "Buddhism"
       ],
       "type": "military"
     },
@@ -315,14 +316,14 @@
       "name_ru": "Асукадэра — первый буддийский храм Японии",
       "source": "https://en.wikipedia.org/wiki/Asuka-dera",
       "tags": [
+        "Japanese",
         "First",
         "Architecture",
         "Holy Site",
         "Religious",
         "Temple",
         "Yamato",
-        "Buddhism",
-        "Japanese"
+        "Buddhism"
       ],
       "type": "religious"
     },
@@ -337,13 +338,13 @@
       "name_ru": "Конституция семнадцати статей в Японии",
       "source": "https://en.wikipedia.org/wiki/Seventeen-article_constitution",
       "tags": [
+        "Japanese",
         "Code",
         "Confucianism",
         "Law",
         "Legalism",
         "Yamato",
-        "Buddhism",
-        "Japanese"
+        "Buddhism"
       ],
       "type": "cultural"
     },
@@ -358,14 +359,14 @@
       "name_ru": "Строительство Хōрюдзи в Японии",
       "source": "https://en.wikipedia.org/wiki/H%C5%8Dry%C5%AB-ji",
       "tags": [
+        "Japanese",
         "Building 🏠",
         "Architecture",
         "Holy Site",
         "Monastery",
         "Temple",
         "Yamato",
-        "Buddhism",
-        "Japanese"
+        "Buddhism"
       ],
       "type": "cultural"
     },
@@ -380,10 +381,10 @@
       "name_ru": "Посольство Ямато в Суйский Китай",
       "source": "https://en.wikipedia.org/wiki/Japanese_missions_to_Tang_China",
       "tags": [
+        "Japanese",
         "Chinese",
         "Diplomacy",
-        "Yamato",
-        "Japanese"
+        "Yamato"
       ],
       "type": "historic"
     },
@@ -398,10 +399,10 @@
       "name_ru": "Японские посольства в Китай эпохи Тан",
       "source": "https://en.wikipedia.org/wiki/Japanese_missions_to_Tang_China",
       "tags": [
+        "Japanese",
         "Chinese",
         "Diplomacy",
-        "Yamato",
-        "Japanese"
+        "Yamato"
       ],
       "type": "cultural"
     },
@@ -416,12 +417,12 @@
       "name_ru": "Реформа Тайка в Японии",
       "source": "https://en.wikipedia.org/wiki/Taika_Reform",
       "tags": [
+        "Japanese",
         "Reform",
         "Bureaucracy",
         "Centralization",
         "Standardization",
-        "Yamato",
-        "Japanese"
+        "Yamato"
       ],
       "type": "historic"
     },
@@ -436,12 +437,12 @@
       "name_ru": "Морское поражение Японии при Хакусукиноэ",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Baekgang",
       "tags": [
+        "Japanese",
         "Korean",
         "War",
         "Battle",
         "Naval",
-        "Tang",
-        "Japanese"
+        "Tang"
       ],
       "type": "historic"
     },
@@ -456,9 +457,9 @@
       "name_ru": "Война Дзинсин, возвышение императора Тэмму",
       "source": "https://en.wikipedia.org/wiki/Jinshin_War",
       "tags": [
+        "Japanese",
         "Civil War",
-        "Yamato",
-        "Japanese"
+        "Yamato"
       ],
       "type": "military"
     },
@@ -473,10 +474,10 @@
       "name_ru": "Тэмму приказывает составить японские хроники",
       "source": "https://en.wikipedia.org/wiki/Emperor_Tenmu",
       "tags": [
+        "Japanese",
         "History",
         "Text",
-        "Yamato",
-        "Japanese"
+        "Yamato"
       ],
       "type": "cultural"
     },
@@ -491,12 +492,12 @@
       "name_ru": "Правовой кодекс Асука Киёмихара",
       "source": "https://en.wikipedia.org/wiki/Asuka-Kiyomihara_Code",
       "tags": [
+        "Japanese",
         "Administration",
         "Bureaucracy",
         "Code",
         "Law",
-        "Yamato",
-        "Japanese"
+        "Yamato"
       ],
       "type": "historic"
     },
@@ -511,12 +512,12 @@
       "name_ru": "Фудзивара-кё — первая спланированная столица Японии",
       "source": "https://en.wikipedia.org/wiki/Fujiwara-ky%C5%8D",
       "tags": [
+        "Japanese",
         "City",
         "Architecture",
         "Capital",
         "Holy Site",
-        "Yamato",
-        "Japanese"
+        "Yamato"
       ],
       "type": "cultural"
     },
@@ -531,12 +532,12 @@
       "name_ru": "Правовой кодекс Тайхō",
       "source": "https://en.wikipedia.org/wiki/Taiho_Code",
       "tags": [
+        "Japanese",
         "Chinese",
         "Bureaucracy",
         "Code",
         "Law",
-        "Yamato",
-        "Japanese"
+        "Yamato"
       ],
       "type": "historic"
     },
@@ -551,12 +552,12 @@
       "name_ru": "Хэйдзё-кё становится столицей Японии",
       "source": "https://en.wikipedia.org/wiki/Nara_period",
       "tags": [
+        "Japanese",
         "Chinese",
         "City",
         "Architecture",
         "Capital",
         "Holy Site",
-        "Japanese",
         "Nara"
       ],
       "type": "historic"
@@ -572,10 +573,10 @@
       "name_ru": "Кодзики — древнейшая хроника Японии",
       "source": "https://en.wikipedia.org/wiki/Kojiki",
       "tags": [
+        "Japanese",
         "History",
         "Shintoism",
         "Text",
-        "Japanese",
         "Nara"
       ],
       "type": "cultural"
@@ -591,9 +592,9 @@
       "name_ru": "Завершение «Анналов Японии»",
       "source": "https://en.wikipedia.org/wiki/Nihon_Shoki",
       "tags": [
+        "Japanese",
         "History",
         "Text",
-        "Japanese",
         "Nara"
       ],
       "type": "cultural"
@@ -609,10 +610,10 @@
       "name_ru": "Императорская сокровищница Сōсōин в Наре",
       "source": "https://en.wikipedia.org/wiki/Sh%C5%8Ds%C5%8D-in",
       "tags": [
+        "Japanese",
         "Building 🏠",
         "Treasure",
         "Yamato",
-        "Japanese",
         "Nara"
       ],
       "type": "cultural"
@@ -628,9 +629,9 @@
       "name_ru": "Великая эпидемия оспы Тэмпё",
       "source": "https://en.wikipedia.org/wiki/735%E2%80%93737_Japanese_smallpox_epidemic",
       "tags": [
+        "Japanese",
         "Plague",
         "Buddhism",
-        "Japanese",
         "Nara"
       ],
       "type": "historic"
@@ -646,9 +647,9 @@
       "name_ru": "Национальная сеть храмов императора Сёму",
       "source": "https://en.wikipedia.org/wiki/Kokubunji",
       "tags": [
+        "Japanese",
         "Adoption",
         "Buddhism",
-        "Japanese",
         "Nara"
       ],
       "type": "historic"
@@ -664,9 +665,9 @@
       "name_ru": "Закон о приватизации земли в Японии",
       "source": "https://en.wikipedia.org/wiki/Konden_Einen_Shizai_H%C5%8D",
       "tags": [
+        "Japanese",
         "Reform",
         "Law",
-        "Japanese",
         "Nara"
       ],
       "type": "historic"
@@ -682,12 +683,12 @@
       "name_ru": "Великий Будда Тōдайдзи в Наре",
       "source": "https://en.wikipedia.org/wiki/T%C5%8Ddai-ji",
       "tags": [
+        "Japanese",
         "Bronze",
         "Holy Site",
         "Sculpture",
         "Temple",
         "Buddhism",
-        "Japanese",
         "Nara"
       ],
       "type": "cultural"
@@ -703,12 +704,12 @@
       "name_ru": "Основание Тōсёдайдзи в Наре",
       "source": "https://en.wikipedia.org/wiki/Jianzhen",
       "tags": [
+        "Japanese",
         "Chinese",
         "Building 🏠",
         "Architecture",
         "Temple",
         "Buddhism",
-        "Japanese",
         "Nara"
       ],
       "type": "historic"
@@ -724,9 +725,9 @@
       "name_ru": "Японская антология поэзии Манъёсю",
       "source": "https://en.wikipedia.org/wiki/Man%27y%C5%8Dsh%C5%AB",
       "tags": [
+        "Japanese",
         "Literature",
         "Poetry",
-        "Japanese",
         "Nara"
       ],
       "type": "cultural"
@@ -742,10 +743,10 @@
       "name_ru": "Дело Дōкё: монах-фаворит угрожает трону Японии",
       "source": "https://en.wikipedia.org/wiki/D%C5%8Dky%C5%8D",
       "tags": [
+        "Japanese",
         "Crisis",
         "Political",
         "Buddhism",
-        "Japanese",
         "Nara"
       ],
       "type": "historic"
@@ -761,10 +762,10 @@
       "name_ru": "Войны с эдзо на севере Японии",
       "source": "https://en.wikipedia.org/wiki/Emishi",
       "tags": [
+        "Japanese",
         "War",
         "Ezo",
-        "Yamato",
-        "Japanese"
+        "Yamato"
       ],
       "type": "military"
     },
@@ -779,9 +780,9 @@
       "name_ru": "Нагаока-кё — временная столица Японии",
       "source": "https://en.wikipedia.org/wiki/Nagaoka-ky%C5%8D",
       "tags": [
+        "Japanese",
         "Capital",
         "Heian",
-        "Japanese",
         "Nara"
       ],
       "type": "historic"
@@ -797,10 +798,10 @@
       "name_ru": "Хэйан-кё становится столицей Японии",
       "source": "https://en.wikipedia.org/wiki/Heian_period",
       "tags": [
+        "Japanese",
         "Capital",
         "Holy Site",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -815,10 +816,10 @@
       "name_ru": "Составлено продолжение анналов Японии",
       "source": "https://en.wikipedia.org/wiki/Shoku_Nihongi",
       "tags": [
+        "Japanese",
         "History",
         "Text",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -833,11 +834,11 @@
       "name_ru": "Саканоуэ-но Тамурамаро — первый сёгун Японии",
       "source": "https://en.wikipedia.org/wiki/Sakanoue_no_Tamuramaro",
       "tags": [
+        "Japanese",
         "Holy Site",
         "Shogun",
         "Buddhism",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -852,10 +853,10 @@
       "name_ru": "Инцидент Кусуко в хэйанской Японии",
       "source": "https://en.wikipedia.org/wiki/Kusuko_Incident",
       "tags": [
+        "Japanese",
         "Crisis",
         "Political",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -870,9 +871,9 @@
       "name_ru": "Изобретение хираганы и катаканы",
       "source": "https://en.wikipedia.org/wiki/Kana",
       "tags": [
+        "Japanese",
         "Writing",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -887,11 +888,11 @@
       "name_ru": "Начало регентства Фудзивара",
       "source": "https://en.wikipedia.org/wiki/Fujiwara_no_Yoshifusa",
       "tags": [
+        "Japanese",
         "Fujiwara",
         "Regency",
         "Trick",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "historic"
     },
@@ -906,10 +907,10 @@
       "name_ru": "Конец японских посольств в Китай",
       "source": "https://en.wikipedia.org/wiki/Japanese_missions_to_Tang_China",
       "tags": [
+        "Japanese",
         "Chinese",
         "Diplomacy",
-        "Heian",
-        "Japanese"
+        "Heian"
       ],
       "type": "cultural"
     }

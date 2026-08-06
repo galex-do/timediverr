@@ -626,11 +626,69 @@
     },
     {
       "date": "01.01.1100",
+      "description": "Cyme (Aeolian) founded by Aeolian colonists from mainland Greece; largest and oldest Aeolian city in Asia Minor, mother city of many colonies including Italian Cumae, claimed as hometown of Hesiod's father",
+      "description_ru": "Кима Эолийская основана колонистами из материковой Греции; один из крупнейших и древнейших эолийскийх городов в Малой Азии, из которой велась дальнейшая греческая экспансия",
+      "era": "BC",
+      "latitude": 38.75,
+      "longitude": 27,
+      "name": "Foundation of Aeolian Cyme",
+      "name_ru": "Основание эолийской Кимы",
+      "source": "https://en.wikipedia.org/wiki/Cyme_(Aeolis)",
+      "tags": [
+        "Greek",
+        "City",
+        "Aeolic",
+        "Colonization",
+        "Expansion",
+        "Seamen"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1100",
+      "description": "Tenedos (Bozcaada) colonized by Aeolian Greeks; small island near Trojan coast plays strategic role in Greek mythology as hiding place for Greek fleet during Trojan War; remains important naval waystation",
+      "description_ru": "Тенедос (Бозджаада) колонизирован эолийскими греками; небольшой остров у троянского побережья играет стратегическую роль в греческой мифологии как место укрытия греческого флота во время Троянской войны",
+      "era": "BC",
+      "latitude": 39.8342,
+      "longitude": 26.071,
+      "name": "Aeolian Settlement of Tenedos",
+      "name_ru": "Эолийское поселение на Тенедосе",
+      "source": "https://en.wikipedia.org/wiki/Tenedos",
+      "tags": [
+        "Greek",
+        "Aeolic",
+        "Colonization",
+        "Expansion",
+        "Seamen"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1100",
+      "description": "Dorian Greeks establish Sparta in Laconia valley after conquering earlier Achaean population; legendary founders Eurysthenes and Procles, twin sons of Aristodemus, become first Agiad and Eurypontid kings establishing dual monarchy",
+      "description_ru": "Дорийские греки, мигрирующие на Пелопоннес, основывают Спарту в долине Лаконии, покорив живших здесь ахейцев; легендарные основатели Еврисфен и Прокл, сыновья-близнецы Аристодема, становятся первыми царями династий Агиадов и Еврипонтидов, устанавливая в Спарте двойную монархию",
+      "era": "BC",
+      "latitude": 37.0764,
+      "longitude": 22.4294,
+      "name": "Foundation of Sparta",
+      "name_ru": "Основание дорийцами Спарты",
+      "source": "https://en.wikipedia.org/wiki/Sparta",
+      "tags": [
+        "Greek",
+        "Dorian",
+        "Sparta",
+        "City",
+        "Migration"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1100",
       "description": "Smyrna founded by Aeolian colonists, later absorbed by neighboring Ionian Colophon around 688 BC; strategic location on gulf makes it major trade center; claims to be birthplace of Homer along with Chios",
       "description_ru": "Смирна основана эолийскими колонистами, позже поглощена соседним ионийским Колофоном около 688 г. до н.э.; стратегическое положение на заливе делает ее крупным торговым центром; претендует на звание родины Гомера наряду с Хиосом",
       "era": "BC",
-      "latitude": 38.4192,
-      "longitude": 27.1287,
+      "latitude": 38.45950339,
+      "longitude": 27.17485428,
       "name": "Foundation of Smyrna",
       "name_ru": "Основание эолийцами Смирны",
       "source": "https://en.wikipedia.org/wiki/Smyrna",
@@ -686,113 +744,57 @@
       "type": "historic"
     },
     {
-      "date": "01.01.1100",
-      "description": "Dorian Greeks establish Sparta in Laconia valley after conquering earlier Achaean population; legendary founders Eurysthenes and Procles, twin sons of Aristodemus, become first Agiad and Eurypontid kings establishing dual monarchy",
-      "description_ru": "Дорийские греки, мигрирующие на Пелопоннес, основывают Спарту в долине Лаконии, покорив живших здесь ахейцев; легендарные основатели Еврисфен и Прокл, сыновья-близнецы Аристодема, становятся первыми царями династий Агиадов и Еврипонтидов, устанавливая в Спарте двойную монархию",
-      "era": "BC",
-      "latitude": 37.0764,
-      "longitude": 22.4294,
-      "name": "Foundation of Sparta",
-      "name_ru": "Основание дорийцами Спарты",
-      "source": "https://en.wikipedia.org/wiki/Sparta",
-      "tags": [
-        "Greek",
-        "Dorian",
-        "Sparta",
-        "City",
-        "Migration"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.1100",
-      "description": "Tenedos (Bozcaada) colonized by Aeolian Greeks; small island near Trojan coast plays strategic role in Greek mythology as hiding place for Greek fleet during Trojan War; remains important naval waystation",
-      "description_ru": "Тенедос (Бозджаада) колонизирован эолийскими греками; небольшой остров у троянского побережья играет стратегическую роль в греческой мифологии как место укрытия греческого флота во время Троянской войны",
-      "era": "BC",
-      "latitude": 39.8342,
-      "longitude": 26.071,
-      "name": "Aeolian Settlement of Tenedos",
-      "name_ru": "Эолийское поселение на Тенедосе",
-      "source": "https://en.wikipedia.org/wiki/Tenedos",
-      "tags": [
-        "Greek",
-        "Aeolic",
-        "Colonization",
-        "Expansion",
-        "Seamen"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.1100",
-      "description": "Cyme (Aeolian) founded by Aeolian colonists from mainland Greece; largest and oldest Aeolian city in Asia Minor, mother city of many colonies including Italian Cumae, claimed as hometown of Hesiod's father",
-      "description_ru": "Кима Эолийская основана колонистами из материковой Греции; один из крупнейших и древнейших эолийскийх городов в Малой Азии, из которой велась дальнейшая греческая экспансия",
-      "era": "BC",
-      "latitude": 38.75,
-      "longitude": 27,
-      "name": "Foundation of Aeolian Cyme",
-      "name_ru": "Основание эолийской Кимы",
-      "source": "https://en.wikipedia.org/wiki/Cyme_(Aeolis)",
-      "tags": [
-        "Greek",
-        "City",
-        "Aeolic",
-        "Colonization",
-        "Expansion",
-        "Seamen"
-      ],
-      "type": "historic"
-    },
-    {
       "date": "01.01.1050",
-      "description": "Priene founded by Ionians on slopes of Mount Mycale overlooking Maeander plain; later rebuilt in 4th century BC with famous Hippodamian grid plan, temple of Athena Polias designed by Pytheos",
-      "description_ru": "Приена основана ионийцами на склонах горы Микале с видом на долину Меандра; позже перестроена в IV веке до н.э. по гипподамову плану",
+      "description": "Phocaea was founded by the Ionians on a small peninsula with two excellent harbors; it became the principal seafaring city of Ionia, a pioneer of long-distance Mediterranean trade, and founded Massalia (Marseille) and other western colonies. The city was named after the Mediterranean monk seals that inhabited the islands near Phocaea.",
+      "description_ru": "Фокея основана ионийцами на небольшом полуострове с двумя превосходными гаванями; становится главным мореходным городом Ионии, первопроходцем дальней средиземноморской торговли, основывает Массалию (Марсель) и другие западные колонии. Имя городу дали средиземноморские тюлени-монахи, обитающие на островах вблизи Фокеи. ",
       "era": "BC",
-      "latitude": 37.6589,
-      "longitude": 27.2975,
-      "name": "Foundation of Priene",
-      "name_ru": "Основание ионийцами Приены",
-      "source": "https://en.wikipedia.org/wiki/Priene",
+      "latitude": 38.6717,
+      "longitude": 26.7567,
+      "name": "Foundation of Phocaea",
+      "name_ru": "Основание ионийцами Фокеи",
+      "source": "https://en.wikipedia.org/wiki/Phocaea",
       "tags": [
         "Greek",
+        "Phocaean",
         "City",
         "Colonization",
         "Expansion",
         "Ionian",
-        "Seamen"
+        "Maritime",
+        "Seamen",
+        "Trade"
       ],
       "type": "historic"
     },
     {
       "date": "01.01.1050",
-      "description": "Researchers believe that the main groups of Dorian settlers arrived on the island from Argos and laid the foundations of three famous cities - Lindus, Ialysus and Camira. Before the arrival of the Dorians, the island was inhabited by the Carians, Minoans (from Crete) and Mycenaean Greeks (Achaeans)",
-      "description_ru": "Исследователи полагают, что основные группы дорийских переселенцев прибыли на остров из Аргоса и заложили основу трех знаменитых полисов — Линда, Иалиса и Камира. До прихода дорийцев остров населяли карийцы, минойцы (выходцы с Крита) и микенские греки (ахейцы)",
+      "description": "Dorian Greeks complete migration into Peloponnese, displacing earlier populations; traditionally blamed for Mycenaean collapse, though modern scholarship questions extent of invasion",
+      "description_ru": "Дорийские греки завершают миграцию на Пелопоннес, вытесняя более ранние популяции; дорийцев винят в падении Микен, хотя современная наука ставит под сомнение масштаб вторжения",
       "era": "BC",
-      "latitude": 36.41641316,
-      "longitude": 28.15671444,
-      "name": "The Dorians colonize Rhodes",
-      "name_ru": "Дорийцы колонизируют Родос",
+      "latitude": 37.5,
+      "longitude": 22.5,
+      "name": "Dorian Migration",
+      "name_ru": "Дорийская миграция на Пелопоннес",
+      "source": "https://en.wikipedia.org/wiki/Dorian_invasion",
       "tags": [
         "Greek",
         "Dorian",
-        "City",
-        "Argos",
-        "Colonization",
-        "Expansion",
-        "Seamen"
+        "Uncertain",
+        "Migration",
+        "Settlement"
       ],
       "type": "historic"
     },
     {
       "date": "01.01.1050",
-      "description": "Erythrae founded by Ionians on peninsula opposite Chios; one of twelve cities of Ionian League, famous for prophetess Sibylla and production of wine exported throughout Mediterranean",
-      "description_ru": "Эритры основаны ионийцами на полуострове напротив Хиоса; один из двенадцати городов Ионийского союза, известный пророчицей Сибиллой и производством вина, экспортируемого по всему Средиземноморью",
+      "description": "Colophon established by Ionian settlers in fertile valley near Aegean coast; famous for cavalry, luxury goods, and as homeland of poet Mimnermus; oracle of Apollo at nearby Claros gains Panhellenic reputation",
+      "description_ru": "Колофон основан ионийскими поселенцами в плодородной долине близ эгейского побережья; станет знаменит породистыми лошадьми, своей элитной кавалерией, предметами роскоши и как родина поэта Мимнерма; оракул Аполлона в соседнем Кларосе обретает общегреческую известность",
       "era": "BC",
-      "latitude": 38.37,
-      "longitude": 26.48,
-      "name": "Foundation of Erythrae",
-      "name_ru": "Основание ионийцами Эритр",
-      "source": "https://en.wikipedia.org/wiki/Erythrae",
+      "latitude": 37.9921,
+      "longitude": 27.1936,
+      "name": "Foundation of Colophon",
+      "name_ru": "Основание ионийского Колофона",
+      "source": "https://en.wikipedia.org/wiki/Colophon_(city)",
       "tags": [
         "Greek",
         "City",
@@ -826,72 +828,11 @@
     },
     {
       "date": "01.01.1050",
-      "description": "Phocaea established by Ionian colonists on small peninsula with two excellent harbors; becomes premier seafaring city of Ionia, pioneering long-distance Mediterranean trade and founding Massalia (Marseille) and other western colonies",
-      "description_ru": "Фокея основана ионийцами на небольшом полуострове с двумя превосходными гаванями; становится главным мореходным городом Ионии, первопроходцем дальней средиземноморской торговли, основывает Массалию (Марсель) и другие западные колонии",
+      "description": "The Urla Peninsula is one of the best places in the entire Aegean Sea for growing olive groves. It boasts a unique soil composition and a distinct microclimate: mild winters and dry, hot summers with constant sea breezes. The Ionians immediately realized that the wild olives that grew everywhere here would, with proper care, produce a colossal harvest. Moreover, by founding a city on the western coast of Asia Minor, they gained direct access to the markets of the wealthiest eastern states—Lydia and Phrygia—located inland.",
+      "description_ru": "Полуостров Урла — одно из лучших мест во всем Эгейском море для выращивания оливковых рощ. Здесь уникальный состав почвы и особый микроклимат: мягкие зимы и сухое, жаркое лето с постоянными морскими бризами. Ионийцы сразу поняли, что дикие маслины, росшие здесь повсюду, при правильном уходе дадут колоссальный урожай. Кроме того, основав город на западном побережье Малой Азии, они получили прямой доступ к рынкам богатейших восточных государств — Лидии и Фригии, которые находились в глубине материка.",
       "era": "BC",
-      "latitude": 38.6717,
-      "longitude": 26.7567,
-      "name": "Foundation of Phocaea",
-      "name_ru": "Основание ионийцами Фокеи",
-      "source": "https://en.wikipedia.org/wiki/Phocaea",
-      "tags": [
-        "Greek",
-        "City",
-        "Colonization",
-        "Expansion",
-        "Ionian",
-        "Maritime",
-        "Seamen",
-        "Trade"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.1050",
-      "description": "Dorian Greeks complete migration into Peloponnese, displacing earlier populations; traditionally blamed for Mycenaean collapse, though modern scholarship questions extent of invasion",
-      "description_ru": "Дорийские греки завершают миграцию на Пелопоннес, вытесняя более ранние популяции; дорийцев винят в падении Микен, хотя современная наука ставит под сомнение масштаб вторжения",
-      "era": "BC",
-      "latitude": 37.5,
-      "longitude": 22.5,
-      "name": "Dorian Migration",
-      "name_ru": "Дорийская миграция на Пелопоннес",
-      "source": "https://en.wikipedia.org/wiki/Dorian_invasion",
-      "tags": [
-        "Greek",
-        "Dorian",
-        "Uncertain",
-        "Migration",
-        "Settlement"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.1050",
-      "description": "Colophon established by Ionian settlers in fertile valley near Aegean coast; famous for cavalry, luxury goods, and as homeland of poet Mimnermus; oracle of Apollo at nearby Claros gains Panhellenic reputation",
-      "description_ru": "Колофон основан ионийскими поселенцами в плодородной долине близ эгейского побережья; знаменит кавалерией, предметами роскоши и как родина поэта Мимнерма; оракул Аполлона в соседнем Кларосе обретает общегреческую известность",
-      "era": "BC",
-      "latitude": 37.9921,
-      "longitude": 27.1936,
-      "name": "Foundation of Colophon",
-      "name_ru": "Основание ионийского Колофона",
-      "source": "https://en.wikipedia.org/wiki/Colophon_(city)",
-      "tags": [
-        "Greek",
-        "City",
-        "Colonization",
-        "Expansion",
-        "Ionian",
-        "Seamen"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.1050",
-      "description": "Clazomenae founded by Ionians on small island connected to mainland by causeway; birthplace of philosopher Anaxagoras who introduced concept of nous (mind) as organizing principle of cosmos",
-      "description_ru": "Клазомены основаны ионийцами на небольшом острове, соединенном с материком дамбой",
-      "era": "BC",
-      "latitude": 38.36,
-      "longitude": 26.77,
+      "latitude": 38.36206786,
+      "longitude": 26.77050591,
       "name": "Foundation of Clazomenae",
       "name_ru": "Основание ионийцами Клазомен",
       "source": "https://en.wikipedia.org/wiki/Clazomenae",
@@ -901,7 +842,8 @@
         "Colonization",
         "Expansion",
         "Ionian",
-        "Seamen"
+        "Seamen",
+        "Trade"
       ],
       "type": "historic"
     },
@@ -947,6 +889,103 @@
       "type": "historic"
     },
     {
+      "date": "01.01.1050",
+      "description": "Priene founded by Ionians on slopes of Mount Mycale overlooking Maeander plain; later rebuilt in 4th century BC with famous Hippodamian grid plan, temple of Athena Polias designed by Pytheos",
+      "description_ru": "Приена основана ионийцами на склонах горы Микале с видом на долину Меандра; позже перестроена в IV веке до н.э. по гипподамову плану",
+      "era": "BC",
+      "latitude": 37.6589,
+      "longitude": 27.2975,
+      "name": "Foundation of Priene",
+      "name_ru": "Основание ионийцами Приены",
+      "source": "https://en.wikipedia.org/wiki/Priene",
+      "tags": [
+        "Greek",
+        "City",
+        "Colonization",
+        "Expansion",
+        "Ionian",
+        "Seamen"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1050",
+      "description": "Erythrae founded by Ionians on peninsula opposite Chios; one of twelve cities of Ionian League, famous for prophetess Sibylla and production of wine exported throughout Mediterranean",
+      "description_ru": "Эритры основаны ионийцами на полуострове напротив Хиоса; один из двенадцати городов Ионийского союза, известный пророчицей Сибиллой и производством вина, экспортируемого по всему Средиземноморью",
+      "era": "BC",
+      "latitude": 38.37,
+      "longitude": 26.48,
+      "name": "Foundation of Erythrae",
+      "name_ru": "Основание ионийцами Эритр",
+      "source": "https://en.wikipedia.org/wiki/Erythrae",
+      "tags": [
+        "Greek",
+        "City",
+        "Colonization",
+        "Expansion",
+        "Ionian",
+        "Seamen"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1050",
+      "description": "Researchers believe that the main groups of Dorian settlers arrived on the island from Argos and laid the foundations of three famous cities - Lindus, Ialysus and Camira. Before the arrival of the Dorians, the island was inhabited by the Carians, Minoans (from Crete) and Mycenaean Greeks (Achaeans)",
+      "description_ru": "Исследователи полагают, что основные группы дорийских переселенцев прибыли на остров из Аргоса и заложили основу трех знаменитых полисов — Линда, Иалиса и Камира. До прихода дорийцев остров населяли карийцы, минойцы (выходцы с Крита) и микенские греки (ахейцы)",
+      "era": "BC",
+      "latitude": 36.41641316,
+      "longitude": 28.15671444,
+      "name": "The Dorians colonize Rhodes",
+      "name_ru": "Дорийцы колонизируют Родос",
+      "tags": [
+        "Greek",
+        "Dorian",
+        "City",
+        "Argos",
+        "Colonization",
+        "Expansion",
+        "Seamen"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1000",
+      "description": "Military marches and religious hymns formed the austere Dorian musical tradition, which we now know as the Phrygian mode. Music here served as a metronome for marching and memory: wandering singers (aedoi) sang to the lyre about the exploits of the heroes of the Trojan War. The music was simple, rhythmic, and unadorned.",
+      "description_ru": "Из военных маршей и религиозных гимнов складывается суровая дорийская музыкальная традиция, которую сейчас мы знаем как фригийский музыкальный лад. Музыка здесь выполняет роль метронома для строевого шага и фиксации памяти: бродячие певцы (аэды) поют под лиру о подвигах героев Троянской войны. Музыка простая, ритмичная, без изысков.",
+      "era": "BC",
+      "latitude": 37.0764,
+      "longitude": 22.4294,
+      "name": "Dorian musical tradition",
+      "name_ru": "Дорийская музыкальная традиция",
+      "tags": [
+        "Greek",
+        "Dorian",
+        "Culture",
+        "Music"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1000",
+      "description": "Ionians flee Dorian pressure and colonize central Aegean coast of Anatolia; twelve cities including Miletus, Ephesus and Phocaea form Ionian League, preserving Greek culture during Dark Ages",
+      "description_ru": "Ионийцы бегут от дорийского давления и колонизируют центральное побережье Эгейского моря в Анатолии; двенадцать городов, включая Милет, Эфес и Фокею, образуют Ионийский союз, сохраняя греческую культуру в темные века",
+      "era": "BC",
+      "latitude": 38.18,
+      "longitude": 26.7867,
+      "name": "Ionian League Formation",
+      "name_ru": "Образование ионийского союза",
+      "source": "https://en.wikipedia.org/wiki/Ionia",
+      "tags": [
+        "Greek",
+        "Colonization",
+        "Ionian",
+        "Migration",
+        "Settlement",
+        "Unification"
+      ],
+      "type": "historic"
+    },
+    {
       "date": "01.01.1000",
       "description": "Samos colonized by Ionians; island becomes naval power and cultural center, home to philosopher Pythagoras, architect Rhoikos who designed Heraion temple, and engineers who built first Greek tunnel (Tunnel of Eupalinos)",
       "description_ru": "Остров Самос колонизирован ионийцами; остров становится морской державой и культурным центром",
@@ -981,26 +1020,6 @@
         "Expansion",
         "Ionian",
         "Seamen"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.1000",
-      "description": "Ionians flee Dorian pressure and colonize central Aegean coast of Anatolia; twelve cities including Miletus, Ephesus and Phocaea form Ionian League, preserving Greek culture during Dark Ages",
-      "description_ru": "Ионийцы бегут от дорийского давления и колонизируют центральное побережье Эгейского моря в Анатолии; двенадцать городов, включая Милет, Эфес и Фокею, образуют Ионийский союз, сохраняя греческую культуру в темные века",
-      "era": "BC",
-      "latitude": 38.18,
-      "longitude": 26.7867,
-      "name": "Ionian League Formation",
-      "name_ru": "Образование ионийского союза",
-      "source": "https://en.wikipedia.org/wiki/Ionia",
-      "tags": [
-        "Greek",
-        "Colonization",
-        "Ionian",
-        "Migration",
-        "Settlement",
-        "Unification"
       ],
       "type": "historic"
     },
@@ -1045,6 +1064,25 @@
     },
     {
       "date": "01.01.0800",
+      "description": "Greeks adopt Phoenician alphabet adding vowels, creating first true alphabetic writing system; revolutionary innovation enables widespread literacy and democratic participation",
+      "description_ru": "Греки принимают финикийский алфавит, добавляя гласные, и создавают первую истинную алфавитную систему письма; революционный подход к письму делает его легче для записи и чтения, и влияет на рост грамотности",
+      "era": "BC",
+      "latitude": 37.9755,
+      "longitude": 23.7348,
+      "name": "Greek Alphabet Development",
+      "name_ru": "Развитие греческого алфавита",
+      "source": "https://en.wikipedia.org/wiki/Greek_alphabet",
+      "tags": [
+        "Greek",
+        "Phoenician",
+        "Innovation",
+        "Language",
+        "Writing"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0800",
       "description": "Winemaking was the backbone of Chios's economy. The ancient Greek historian Theopompus claimed that the inhabitants of Chios were the first in the world to learn how to make \"black\" (i.e., rich red) wine. The most prized grape variety, and its growing region in the northwest of the island, was Ariousia. Strabo called Ariousia wine the finest of all Greek wines. It was consumed at sumptuous banquets, and the Romans later called it \"the nectar of the gods\" and purchased it for imperial feasts.\n\nChian winemakers used a unique method: they briefly immersed the grape bunches in salty seawater before drying them in the sun. The salt washed away the waxy coating on the berries, accelerated their drying, increased their sugar concentration, and acted as a natural preservative. This wine was strong, very sweet, and aromatic.\n\nThe nectar of the gods was worth its weight in gold and was considered the main sign of wealth at feasts from Athens to Rome, and later to Constantinople.",
       "description_ru": "Виноделие было основой экономики Хиоса. Древнегреческий историк Феопомп утверждал, что именно жители Хиоса первыми в мире научились делать «чёрное» (то есть густое красное) вино.  Самым ценным сортом винограда и областью его произрастания на северо-западе острова была Ариусия. Страбон называл ариусийское вино лучшим среди всех греческих вин. Его пили на роскошных пирах, а римляне позже называли его «нектаром богов» и закупали для императорских застолий.\n\nХиосские виноделы использовали уникальный метод: они ненадолго погружали гроздья винограда в соленую морскую воду перед тем, как вялить их на солнце. Соль смывала восковой налет с ягод, ускоряла их высыхание, увеличивала концентрацию сахара и выступала природным консервантом. Такое вино получалось крепким, очень сладким и ароматным.\n\nНектар богов ценился на вес золота и считался главным признаком богатства на пирах от Афин до Рима, а впоследствии и Константинополя.",
       "era": "BC",
@@ -1080,25 +1118,6 @@
         "Seamen"
       ],
       "type": "historic"
-    },
-    {
-      "date": "01.01.0800",
-      "description": "Greeks adopt Phoenician alphabet adding vowels, creating first true alphabetic writing system; revolutionary innovation enables widespread literacy and democratic participation",
-      "description_ru": "Греки принимают финикийский алфавит, добавляя гласные, и создавают первую истинную алфавитную систему письма; революционный подход к письму делает его легче для записи и чтения, и влияет на рост грамотности",
-      "era": "BC",
-      "latitude": 37.9755,
-      "longitude": 23.7348,
-      "name": "Greek Alphabet Development",
-      "name_ru": "Развитие греческого алфавита",
-      "source": "https://en.wikipedia.org/wiki/Greek_alphabet",
-      "tags": [
-        "Greek",
-        "Phoenician",
-        "Innovation",
-        "Language",
-        "Writing"
-      ],
-      "type": "cultural"
     },
     {
       "date": "01.01.0780",
@@ -1179,6 +1198,26 @@
     },
     {
       "date": "01.01.0756",
+      "description": "Milesian Greeks found Trapezus (Trebizond) on southeastern Black Sea coast; westernmost outpost of Pontic Greek settlements, remains Greek-speaking for 2,800 years until population exchange of 1923",
+      "description_ru": "Милетские греки основывают Трапезунд (Трабзон) на юго-восточном побережье Черного моря; самый западный форпост понтийских греческих поселений, остается грекоязычным в течение 2800 лет до 1923 года",
+      "era": "BC",
+      "latitude": 41.0027,
+      "longitude": 39.7168,
+      "name": "Foundation of Trapezus (Trebizond)",
+      "name_ru": "Основание греками Трапезунда",
+      "source": "https://en.wikipedia.org/wiki/Trabzon",
+      "tags": [
+        "Greek",
+        "Milesian",
+        "City",
+        "Colonization",
+        "Expansion",
+        "Seamen"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0756",
       "description": "Chalcidians from Euboea found Cumae, first Greek colony on Italian mainland; establishes Greek presence in Bay of Naples, transmits alphabet to Etruscans and Romans, and serves as gateway for Greek culture to Italy",
       "description_ru": "Халкидяне с Эвбеи основывают Кумы, первую греческую колонию на итальянском материке; таким образом греки появляются в Неаполитанском заливе, передают алфавит этрускам и римлянам. Кумы служат вратами греческой культуры в Италию",
       "era": "BC",
@@ -1194,26 +1233,6 @@
         "Colonization",
         "Expansion",
         "Italy",
-        "Seamen"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.0756",
-      "description": "Milesian Greeks found Trapezus (Trebizond) on southeastern Black Sea coast; westernmost outpost of Pontic Greek settlements, remains Greek-speaking for 2,800 years until population exchange of 1923",
-      "description_ru": "Милетские греки основывают Трапезунд (Трабзон) на юго-восточном побережье Черного моря; самый западный форпост понтийских греческих поселений, остается грекоязычным в течение 2800 лет до 1923 года",
-      "era": "BC",
-      "latitude": 41.0027,
-      "longitude": 39.7168,
-      "name": "Foundation of Trapezus (Trebizond)",
-      "name_ru": "Основание греками Трапезунда",
-      "source": "https://en.wikipedia.org/wiki/Trabzon",
-      "tags": [
-        "Greek",
-        "Milesian",
-        "City",
-        "Colonization",
-        "Expansion",
         "Seamen"
       ],
       "type": "historic"
@@ -1308,27 +1327,6 @@
     },
     {
       "date": "01.01.0730",
-      "description": "Poet Hesiod writes Theogony and Works and Days; Theogony systematizes Greek mythology with genealogy of gods, while Works and Days provides practical farming advice and moral instruction\n\nIn his Theogony, Hesiod describes how Earth (Gaia), Heaven (Uranus), and Tartarus emerged from Chaos; how the Titans overthrew the primeval gods, and how the Olympians, led by Zeus, overthrew the Titans. This is a fundamental reference work on Greek mythology, upon which all subsequent ancient authors based their work.",
-      "description_ru": "Поэт Гесиод пишет Теогонию и Труды и дни; Теогония систематизирует греческую мифологию с генеалогией богов, в то время как Труды и дни дают практические советы по земледелию и нравственные наставления.\n\nГесиод в Теогонии описывает, как из Хаоса возникли Земля (Гея), Небо (Уран) и Тартар; как титаны свергли первоначальных богов, а олимпийцы во главе с Зевсом — титанов. Это фундаментальный справочник по греческой мифологии, на который потом опирались все античные авторы",
-      "era": "BC",
-      "latitude": 38.36265674,
-      "longitude": 22.84297943,
-      "name": "Hesiod's Theogony and Works",
-      "name_ru": "Теогония и Труды Гесиода",
-      "source": "https://en.wikipedia.org/wiki/Hesiod",
-      "tags": [
-        "Greek",
-        "Cosmology",
-        "Culture",
-        "Literature",
-        "Poetry",
-        "Religious",
-        "Text"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.0730",
       "description": "Chalcidians establish Leontini in eastern Sicily inland from Naxos; controls fertile plain famous for grain production; Gorgias of Leontini later becomes famous rhetorician who visits Athens in 427 BC",
       "description_ru": "Халкидяне основывают Леонтины в восточной Сицилии близ Наксоса;  Леонтинам принадлежит плодородная равнина, город быстро становится экспортером зерна",
       "era": "BC",
@@ -1350,6 +1348,27 @@
         "Sicily"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.01.0730",
+      "description": "Poet Hesiod writes Theogony and Works and Days; Theogony systematizes Greek mythology with genealogy of gods, while Works and Days provides practical farming advice and moral instruction\n\nIn his Theogony, Hesiod describes how Earth (Gaia), Heaven (Uranus), and Tartarus emerged from Chaos; how the Titans overthrew the primeval gods, and how the Olympians, led by Zeus, overthrew the Titans. This is a fundamental reference work on Greek mythology, upon which all subsequent ancient authors based their work.",
+      "description_ru": "Поэт Гесиод пишет Теогонию и Труды и дни; Теогония систематизирует греческую мифологию с генеалогией богов, в то время как Труды и дни дают практические советы по земледелию и нравственные наставления.\n\nГесиод в Теогонии описывает, как из Хаоса возникли Земля (Гея), Небо (Уран) и Тартар; как титаны свергли первоначальных богов, а олимпийцы во главе с Зевсом — титанов. Это фундаментальный справочник по греческой мифологии, на который потом опирались все античные авторы",
+      "era": "BC",
+      "latitude": 38.36265674,
+      "longitude": 22.84297943,
+      "name": "Hesiod's Theogony and Works",
+      "name_ru": "Теогония и Труды Гесиода",
+      "source": "https://en.wikipedia.org/wiki/Hesiod",
+      "tags": [
+        "Greek",
+        "Cosmology",
+        "Culture",
+        "Literature",
+        "Poetry",
+        "Religious",
+        "Text"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0730",
@@ -1506,25 +1525,6 @@
     },
     {
       "date": "01.01.0700",
-      "description": "Greek hoplite warfare develops with bronze armor, large round shield (hoplon), and spear; phalanx formation of citizen-soldiers replaces aristocratic chariot warfare, democratizing military service",
-      "description_ru": "Греки совершенствуют искусство войны и придумывают фалангу гоплитов. Гоплиты в бронзовых доспехах, с большим круглым щитом (гоплон) и копьем стоят плечо к плечу и сражаются как единая машина. В фалангу могут войти не только аристократы с колесницами, но и простые граждане, что делает войско более многочисленным и менее дорогим.",
-      "era": "BC",
-      "latitude": 37.9755,
-      "longitude": 23.7348,
-      "name": "Hoplite Warfare Revolution",
-      "name_ru": "Греческие гоплиты",
-      "source": "https://en.wikipedia.org/wiki/Hoplite",
-      "tags": [
-        "Greek",
-        "Army",
-        "Innovation",
-        "Military",
-        "Science"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.01.0700",
       "description": "Achaean Greeks found Metapontum between rival cities Taras and Sybaris in southern Italy; Pythagoras reportedly spends final years here; famous for golden grain ears depicted on coins and temple to Hera",
       "description_ru": "Ахейские греки основывают Метапонт между соперничающими городами Тарас и Сибарис в южной Италии; знаменит своим храмом Геры",
       "era": "BC",
@@ -1546,6 +1546,25 @@
       "type": "historic"
     },
     {
+      "date": "01.01.0700",
+      "description": "Greek hoplite warfare develops with bronze armor, large round shield (hoplon), and spear; phalanx formation of citizen-soldiers replaces aristocratic chariot warfare, democratizing military service",
+      "description_ru": "Греки совершенствуют искусство войны и придумывают фалангу гоплитов. Гоплиты в бронзовых доспехах, с большим круглым щитом (гоплон) и копьем стоят плечо к плечу и сражаются как единая машина. В фалангу могут войти не только аристократы с колесницами, но и простые граждане, что делает войско более многочисленным и менее дорогим.",
+      "era": "BC",
+      "latitude": 37.9755,
+      "longitude": 23.7348,
+      "name": "Hoplite Warfare Revolution",
+      "name_ru": "Греческие гоплиты",
+      "source": "https://en.wikipedia.org/wiki/Hoplite",
+      "tags": [
+        "Greek",
+        "Army",
+        "Innovation",
+        "Military",
+        "Science"
+      ],
+      "type": "military"
+    },
+    {
       "date": "01.01.0689",
       "description": "Cnidians and Rhodians found Lipara (Lipari) on volcanic Aeolian Islands; colonists establish communistic society sharing all property equally; islands provide strategic control over Tyrrhenian Sea routes",
       "description_ru": "Книдяне и родосцы основывают Липару (Липари) на вулканических Эолийских островах; колонисты устанавливают коммунистическое общество, разделяя всю собственность поровну; острова обеспечивают грекам стратегический контроль над путями Тирренского моря",
@@ -1562,27 +1581,6 @@
         "Communism",
         "Expansion",
         "Maritime",
-        "Seamen"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.0688",
-      "description": "Megarian Greeks found Heraclea Pontica on southern Black Sea coast; strategically located city becomes wealthy from timber and fishing, later known for tyrant Clearchus who declares himself son of Zeus",
-      "description_ru": "Мегарские греки основывают Гераклею Понтийскую на южном побережье Черного моря; стратегически расположенный город богатеет от леса и рыболовства; позже знаменит тираном Клеархом, объявившим себя сыном Зевса",
-      "era": "BC",
-      "latitude": 41.2845,
-      "longitude": 31.4143,
-      "name": "Foundation of Heraclea Pontica",
-      "name_ru": "Основание Гераклеи Понтийской",
-      "source": "https://en.wikipedia.org/wiki/Heraclea_Pontica",
-      "tags": [
-        "Greek",
-        "Megarian",
-        "City",
-        "Anatolia",
-        "Colonization",
-        "Expansion",
         "Seamen"
       ],
       "type": "historic"
@@ -1609,20 +1607,20 @@
       "type": "historic"
     },
     {
-      "date": "01.01.0685",
-      "description": "Megarian Greeks found Chalcedon on Asian shore of Bosphorus; called 'city of the blind' by Persian Megabazus because settlers ignored superior site of Byzantium across strait; controls rich Black Sea fishing grounds",
-      "description_ru": "Мегарские греки основывают Халкидон на азиатском берегу Босфора; перс Мегабаз назвал его 'городом слепых', поскольку поселенцы проигнорировали превосходное место Византия на другом берегу пролива",
+      "date": "01.01.0688",
+      "description": "Megarian Greeks found Heraclea Pontica on southern Black Sea coast; strategically located city becomes wealthy from timber and fishing, later known for tyrant Clearchus who declares himself son of Zeus",
+      "description_ru": "Мегарские греки основывают Гераклею Понтийскую на южном побережье Черного моря; стратегически расположенный город богатеет от леса и рыболовства; позже знаменит тираном Клеархом, объявившим себя сыном Зевса",
       "era": "BC",
-      "latitude": 40.9829,
-      "longitude": 29.0331,
-      "name": "Foundation of Chalcedon",
-      "name_ru": "Основание греками Халкидона",
-      "source": "https://en.wikipedia.org/wiki/Chalcedon",
+      "latitude": 41.2845,
+      "longitude": 31.4143,
+      "name": "Foundation of Heraclea Pontica",
+      "name_ru": "Основание Гераклеи Понтийской",
+      "source": "https://en.wikipedia.org/wiki/Heraclea_Pontica",
       "tags": [
         "Greek",
         "Megarian",
         "City",
-        "Bosporan",
+        "Anatolia",
         "Colonization",
         "Expansion",
         "Seamen"
@@ -1652,6 +1650,27 @@
       "type": "historic"
     },
     {
+      "date": "01.01.0685",
+      "description": "Megarian Greeks found Chalcedon on Asian shore of Bosphorus; called 'city of the blind' by Persian Megabazus because settlers ignored superior site of Byzantium across strait; controls rich Black Sea fishing grounds",
+      "description_ru": "Мегарские греки основывают Халкидон на азиатском берегу Босфора; перс Мегабаз назвал его 'городом слепых', поскольку поселенцы проигнорировали превосходное место Византия на другом берегу пролива",
+      "era": "BC",
+      "latitude": 40.9829,
+      "longitude": 29.0331,
+      "name": "Foundation of Chalcedon",
+      "name_ru": "Основание греками Халкидона",
+      "source": "https://en.wikipedia.org/wiki/Chalcedon",
+      "tags": [
+        "Greek",
+        "Megarian",
+        "City",
+        "Bosporan",
+        "Colonization",
+        "Expansion",
+        "Seamen"
+      ],
+      "type": "historic"
+    },
+    {
       "date": "01.01.0683",
       "description": "Athens replaces hereditary kingship with annual archons; nine archons elected from aristocratic families manage religious, military, and judicial affairs, beginning constitutional evolution",
       "description_ru": "Афины заменяют наследственное царство ежегодными архонтами; девять архонтов, избираемых из аристократических семей, управляют религиозными, военными и судебными делами, начиная конституционную эволюцию",
@@ -1673,8 +1692,8 @@
     },
     {
       "date": "01.01.0680",
-      "description": "Locrians from central Greece found Epizephyrian Locri in southern Italy toe; establishes first written Greek law code under lawgiver Zaleucus; birthplace of poet Nossis compared to Sappho",
-      "description_ru": "Локрийцы из центральной Греции основывают Эпизефирские Локры на носке южной Италии",
+      "description": "Locrians from central Greece founded Epizephyrus Locris at the tip of southern Italy. The city's elite were descendants of the \"Hundred Houses\"—the oldest aristocratic families descended from noble Greek women. Women here enjoyed special religious and property rights.",
+      "description_ru": "Локрийцы из центральной Греции основывают Эпизефирские Локры на носке южной Италии. Элиту города составляли потомки «Ста домов» — старейших аристократических семей, чье родство велось от знатных гречанок. Женщины здесь обладали особыми религиозными и имущественными правами",
       "era": "BC",
       "latitude": 38.2322,
       "longitude": 16.2617,
@@ -1730,6 +1749,25 @@
         "Trade"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.01.0665",
+      "description": "A musician named Terpander of Anthissa added new strings to the standard forminx, making it a seven-string instrument. He mathematically tuned these seven strings, creating the first strict system of musical intervals (the scale). Terpander became the first great cithara player, and Lesbos became home to a school of cithara playing. The cithara was played standing, held by a shoulder strap. The musician used a large plectrum (plectrum) made of bone or gold. The cithara's sound was powerful, resonant, and easily carried over the noise of a large crowd.",
+      "description_ru": "Музыкант по имени Терпандр из Антиссы добавил к обычному форминксу новые струны, сделав его 7-струнным. Он математически настроил эти 7 струн, создав первую строгую систему музыкальных интервалов (гамму). Терпандр стал первым великим кифаредом, а Лесбос - домом для школы игры на кифаре. На кифаре играли стоя, удерживая её на плечевом ремне. Музыкант использовал крупный плектр (медиатор) из кости или золота. Звук кифары был мощным, звонким и легко перекрывал шум большой толпы",
+      "era": "BC",
+      "latitude": 39.23458002,
+      "longitude": 25.97921133,
+      "name": "The appearance of the Greek kithara",
+      "name_ru": "Появление греческой кифары",
+      "source": "https://en.wikipedia.org/wiki/Kithara",
+      "tags": [
+        "Greek",
+        "Culture",
+        "Engineering ⚙️",
+        "Innovation",
+        "Music"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0660",
@@ -1937,20 +1975,21 @@
     },
     {
       "date": "01.01.0600",
-      "description": "Milesians found Cyzicus on Sea of Marmara isthmus connecting peninsula to mainland; becomes wealthy from tunny fishing and grain trade; Cyzicene staters become trusted currency throughout Greek world",
-      "description_ru": "Милетяне основывают Кизик на перешейке Мраморного моря, соединяющем полуостров с материком; город богатеет от ловли тунца и торговли зерном; кизикские статеры становятся надежной валютой по всему греческому миру",
+      "description": "Massalia (Marseille) founded by Phocaean Greeks; becomes major trading hub connecting Greek world with Celtic Gaul, exporting wine and olive oil while importing tin and amber from northern Europe",
+      "description_ru": "Массалия (Марсель) основана фокейскими греками; становится крупным торговым центром, соединяющим греческий мир с кельтской Галлией, экспортируя вино и оливковое масло, импортируя олово и янтарь из северной Европы",
       "era": "BC",
-      "latitude": 40.387344,
-      "longitude": 27.870777,
-      "name": "Foundation of Cyzicus",
-      "name_ru": "Основание греками Кизика",
-      "source": "https://en.wikipedia.org/wiki/Cyzicus",
+      "latitude": 43.2965,
+      "longitude": 5.3698,
+      "name": "Foundation of Massalia",
+      "name_ru": "Основание греческой Массалии",
+      "source": "https://en.wikipedia.org/wiki/Massalia",
       "tags": [
         "Greek",
-        "Milesian",
+        "Phocaean",
         "City",
         "Colonization",
         "Expansion",
+        "Influence",
         "Seamen",
         "Trade"
       ],
@@ -1978,27 +2017,6 @@
     },
     {
       "date": "01.01.0600",
-      "description": "Massalia (Marseille) founded by Phocaean Greeks; becomes major trading hub connecting Greek world with Celtic Gaul, exporting wine and olive oil while importing tin and amber from northern Europe",
-      "description_ru": "Массалия (Марсель) основана фокейскими греками; становится крупным торговым центром, соединяющим греческий мир с кельтской Галлией, экспортируя вино и оливковое масло, импортируя олово и янтарь из северной Европы",
-      "era": "BC",
-      "latitude": 43.2965,
-      "longitude": 5.3698,
-      "name": "Foundation of Massalia",
-      "name_ru": "Основание греческой Массалии",
-      "source": "https://en.wikipedia.org/wiki/Massalia",
-      "tags": [
-        "Greek",
-        "Phocaean",
-        "City",
-        "Colonization",
-        "Expansion",
-        "Seamen",
-        "Trade"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.0600",
       "description": "Milesians found Panticapaeum (Kerch) on Bosporus strait connecting Black Sea to Sea of Azov; becomes capital of prosperous Bosporan Kingdom that supplies Athens with grain during Classical period",
       "description_ru": "Милетяне основывают Пантикапей (Керчь) на Боспорском проливе, соединяющем Черное море с Азовским; становится столицей процветающего Боспорского царства, снабжающего Афины зерном в классический период",
       "era": "BC",
@@ -2016,6 +2034,85 @@
         "Emporium",
         "Expansion",
         "Seamen"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0600",
+      "description": "The great Greek poetess Sappho (Shapho) led the \"house of the muses\"—a closed community of young noblewomen who were taught music, poetry, and grace. Sappho wrote passionate, sensual poems, including those addressed to her students. The philosopher Plato admired her talent so much that he wrote: \"The people sang of nine muses, but this is not true. Enough! Here is the tenth—Sappho of Lesbos.\"",
+      "description_ru": "Великая греческая поэтесса Сапфо (Шапфо) руководила «домом муз» — закрытым содружеством молодых знатных девушек, которых обучали игре на лире, поэзии и грации. Сапфо писала страстные, чувственные стихи, обращенные в том числе к своим ученицам. Философ Платон настолько восхищался её талантом, что написал: «Девять муз воспевали в народе, но это неверно. Полноте! Вот и десятая к ним — Сапфо с Лесбоса».",
+      "era": "BC",
+      "latitude": 39.1047,
+      "longitude": 26.5547,
+      "name": "House of the Muses of Sappho on Lesbos",
+      "name_ru": "Дом муз Сапфо на Лесбосе",
+      "source": "https://en.wikipedia.org/wiki/Sappho",
+      "tags": [
+        "Greek",
+        "Culture",
+        "Music",
+        "Poetry"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0600",
+      "description": "With the development of Greek city-states and population growth, the demand for bread increased dramatically. Home-made hand-milled mortars began to be replaced by large mills, and the Erythraeans were the first to fill this niche.\n\nThe Karaburun Peninsula is rich in deposits of a special, ultra-hard volcanic stone (specifically, trachyte and basalt). Ordinary limestone or sandstone quickly wore away, contaminating the flour with stone dust, but Erythraean volcanic stone was porous, hard, and literally \"self-sharpened\" through friction. The Erythraeans were the first in the region to automate the grinding of enormous stones, learning to create perfectly balanced paired discs. Furthermore, the mines were located by the sea, making it easy to transport the heavy millstones by ship throughout Greece.",
+      "description_ru": "С развитием греческих полисов и ростом населения резко выросла потребность в хлебе. Домашние ручные ступы начали заменяться крупными мельницами, и Эритры первыми заняли эту нишу\n\nПолуостров Карабурун богат залежами особого, ультрапрочного вулканического камня (в частности, трахита и базальта). Обычный известняк или песчаник быстро стирались, загрязняя муку каменной пылью, а эритрский вулканический камень был пористым, твердым и буквально «самозатачивался» при трении. Эритрейцы первыми в регионе автоматизировали процесс обточки огромных камней, научившись делать идеально сбалансированные парные диски. Кроме того, рудники находились у моря, и тяжелые жернова было удобно доставлять на кораблях по всей Греции.",
+      "era": "BC",
+      "latitude": 38.37,
+      "longitude": 26.48,
+      "name": "Erythrae produces millstones",
+      "name_ru": "Эритры производят мельничные жернова",
+      "tags": [
+        "Greek",
+        "Economic",
+        "Innovation",
+        "Ionian",
+        "Technology",
+        "Trade"
+      ],
+      "type": "scientific"
+    },
+    {
+      "date": "01.01.0600",
+      "description": "Klazomenian oil production revolutionized the region. While other cities produced oil by hand for their own use, Klazomenian oil producers were the first to scale it up. Archaeologists have unearthed the world's oldest mechanized oil mill here. Locals used massive stone presses and dispensing cylinders powered by animal power.\n\nThe city created unique, specially shaped clay amphorae (Klazomenian amphorae), which were shipped throughout the Black Sea and the Mediterranean. Thanks to this \"olive monopoly,\" the city literally awash in gold.",
+      "description_ru": "Клазомены совершили настоящую экономическую революцию. Пока другие города делали масло вручную для себя, клазоменцы первыми перевели это в промышленные масштабы. Археологи раскопали здесь древнейший в мире механизированный маслобойный завод. Местные жители использовали массивные каменные прессы и распределительные цилиндры, которые приводились в движение силой животных.\n\nГород создал уникальные глиняные амфоры особой формы (клазоменские амфоры), которые отправлялись по всему Черному морю и Средиземноморью. Город буквально купался в золоте благодаря этой «оливковой монополии».",
+      "era": "BC",
+      "latitude": 38.36206786,
+      "longitude": 26.77050591,
+      "name": "Oil milling industry in Klazomenai",
+      "name_ru": "Маслобойная промышленность в Клазоменах",
+      "source": "https://en.wikipedia.org/wiki/Klazomenai",
+      "tags": [
+        "Greek",
+        "Agriculture",
+        "Economic",
+        "Innovation",
+        "Olives",
+        "Technology",
+        "Trade"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0600",
+      "description": "Milesians found Cyzicus on Sea of Marmara isthmus connecting peninsula to mainland; becomes wealthy from tunny fishing and grain trade; Cyzicene staters become trusted currency throughout Greek world",
+      "description_ru": "Милетяне основывают Кизик на перешейке Мраморного моря, соединяющем полуостров с материком; город богатеет от ловли тунца и торговли зерном; кизикские статеры становятся надежной валютой по всему греческому миру",
+      "era": "BC",
+      "latitude": 40.387344,
+      "longitude": 27.870777,
+      "name": "Foundation of Cyzicus",
+      "name_ru": "Основание греками Кизика",
+      "source": "https://en.wikipedia.org/wiki/Cyzicus",
+      "tags": [
+        "Greek",
+        "Milesian",
+        "City",
+        "Colonization",
+        "Expansion",
+        "Seamen",
+        "Trade"
       ],
       "type": "historic"
     },
@@ -2142,27 +2239,6 @@
     },
     {
       "date": "01.01.0560",
-      "description": "Teans and Clazomenians found Abdera in Thrace after fleeing Persian conquest of Ionia; becomes prosperous city producing philosophers including atomist Democritus and skeptic Protagoras",
-      "description_ru": "Теосцы и клазоменцы основывают Абдеру во Фракии после бегства от персидского завоевания Ионии; становится процветающим городом, давшим философов, включая атомиста Демокрита и скептика Протагора",
-      "era": "BC",
-      "latitude": 40.95,
-      "longitude": 24.9833,
-      "name": "Refoundation of Abdera",
-      "name_ru": "Переоснование греками Абдеры",
-      "source": "https://en.wikipedia.org/wiki/Abdera,_Thrace",
-      "tags": [
-        "Greek",
-        "City",
-        "Colonization",
-        "Expansion",
-        "Migration",
-        "Philosophy",
-        "Thrace"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.0560",
       "description": "Originally, this site stood on the site of a Sindian (a local Scythian tribe) city called Sindik, or Sindian Harbor. Greek colonists from other cities of the Bosporan Kingdom (primarily from Miletus) transformed it into a major seaport. The city was named after Gorgippus, the brother of the Bosporan king Leucon I.",
       "description_ru": "Изначально на этом месте находился город синдов (местного скифского племени), называвшийся Синдик или Синдская гавань. Греческие колонисты, прибывшие из других городов Боспорского царства (в основном из Милета), превратили его в крупный морской порт. Город получил свое название в честь Горгиппа, брата боспорского царя Левкона I",
       "era": "BC",
@@ -2179,6 +2255,27 @@
         "Colonization",
         "Expansion",
         "Seamen"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0560",
+      "description": "Teans and Clazomenians found Abdera in Thrace after fleeing Persian conquest of Ionia; becomes prosperous city producing philosophers including atomist Democritus and skeptic Protagoras",
+      "description_ru": "Теосцы и клазоменцы основывают Абдеру во Фракии после бегства от персидского завоевания Ионии; становится процветающим городом, давшим философов, включая атомиста Демокрита и скептика Протагора",
+      "era": "BC",
+      "latitude": 40.95,
+      "longitude": 24.9833,
+      "name": "Refoundation of Abdera",
+      "name_ru": "Переоснование греками Абдеры",
+      "source": "https://en.wikipedia.org/wiki/Abdera,_Thrace",
+      "tags": [
+        "Greek",
+        "City",
+        "Colonization",
+        "Expansion",
+        "Migration",
+        "Philosophy",
+        "Thrace"
       ],
       "type": "historic"
     },
@@ -2267,6 +2364,25 @@
       "type": "political"
     },
     {
+      "date": "01.01.0547",
+      "description": "In the ancient world, Egypt enjoyed enormous prestige as the birthplace of supreme wisdom, magic, and science. According to ancient sources, Pythagoras arrived in Egypt as a young man and lived and studied in the three main religious and scientific centers of the time: Memphis, Heliopolis, and Diospolis (Thebes). He is believed to have lived there for 22 years, learned the language, and even received the highest degree of initiation into the secret priestly mysteries, a unique achievement for a foreigner. To gain access to the secrets of the Egyptian priesthood, Pythagoras had to undergo severe trials that tested his body, will, and capacity for complete submission.",
+      "description_ru": "В античном мире Египет обладал колоссальным авторитетом как родина высшей мудрости, магии и науки. Согласно античным источникам, Пифагор прибыл в Египет в молодости, жил и учился в трех главных религиозных и научных центрах того времени: Мемфисе, Гелиополе и Диосполе (Фивах). Считается, что он прожил там 22 года, выучил язык и даже получил высшую степень посвящения в закрытые жреческие таинства, что для чужеземца было уникальным случаем. Чтобы получить доступ к тайнам египетских жрецов, Пифагору пришлось пройти через суровые испытания, которые проверяли его тело, волю и способность к полному подчинению.",
+      "era": "BC",
+      "latitude": 29.850278,
+      "longitude": 31.250833,
+      "name": "Pythagoras' education in Egypt",
+      "name_ru": "Обучение Пифагора в Египте",
+      "source": "https://en.wikipedia.org/wiki/Pythagoras",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Legend",
+        "Education",
+        "Pythagoras 👤"
+      ],
+      "type": "cultural"
+    },
+    {
       "date": "01.01.0546",
       "description": "Anaximander of Miletus proposes first cosmological model; Earth floats unsupported in center of cosmos, first map of known world drawn, and life originates from moisture - revolutionary naturalistic explanations",
       "description_ru": "Анаксимандр Милетский предлагает первую космологическую модель; Земля свободно парит в центре космоса, нарисована первая карта известного мира, и жизнь происходит из влаги - революционные натуралистические объяснения",
@@ -2280,10 +2396,30 @@
         "Greek",
         "Milesian",
         "Astronomy",
+        "Cosmology",
         "Philosophy",
         "Science"
       ],
       "type": "cultural"
+    },
+    {
+      "date": "01.01.0546",
+      "description": "A massive army under the Persian king Cyrus the Great approached Phocaea. The Persian general Harpagus demanded the Phocians' submission, offering to demolish only one wall as a sign of submission.\n\nThe Phocians asked for one day to consider their decision. During that day, they loaded their wives, children, belongings, and statues of gods from the temples onto their ships and abandoned the city entirely, leaving the Persians with empty walls. They threw a piece of iron into the sea and vowed not to return until it surfaced. Most of the refugees sailed to Corsica and Marseille, strengthening their western colonies. Some residents later returned, but the city never regained its former glory.",
+      "description_ru": "К Фокее подошла огромная армия персидского царя Кира Великого. Персидский полководец Гарпаг потребовал от фокейцев подчинения, предложив разрушить лишь одну стену в знак покорности. \n\nФокейцы попросили один день на размышление. За этот день они погрузили на свои корабли жен, детей, имущество, статуи богов из храмов и полностью покинули город, оставив персам пустые стены. Они бросили в море кусок железа и поклялись не возвращаться, пока он не всплывет. Большинство беженцев уплыло на Корсику и в Марсель, усилив свои западные колонии. Позже часть жителей вернулась, но былого величия город уже не достиг.",
+      "era": "BC",
+      "latitude": 38.6717,
+      "longitude": 26.7567,
+      "name": "The Greeks leave Phocaea",
+      "name_ru": "Греки покидают Фокею",
+      "source": "https://en.wikipedia.org/wiki/Phocaea",
+      "tags": [
+        "Greek",
+        "Persian",
+        "War",
+        "Abandonment",
+        "Conquest"
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.0545",
@@ -2306,14 +2442,32 @@
       "type": "historic"
     },
     {
+      "date": "01.01.0540",
+      "description": "An ancient underground aqueduct, 1,036 meters long, cuts straight through the rocky Mount Kastro. The tyrant Polycrates ordered its construction to secretly supply the capital with fresh water from the mountain spring of Agiades. The main idea was to prevent enemies besieging the city from finding and cutting off the source.\n\nThe chief engineer, Eupalinus of Megara, decided on a crazy move: excavating the mountain from both sides simultaneously. Slaves with hammers and chisels had to cut through the limestone in complete darkness by the light of oil lamps. Eupalinus had nothing but basic trigonometry and leveling to force the two teams to meet beneath the mountain. To insure against a miss, he deliberately zigzagged the tunnels at the very center—and his plan succeeded, although he slightly miscalculated the height.",
+      "description_ru": "Древний подземный акведук длиной 1036 метров, пробитый прямо сквозь скалистую гору Кастро. Тиран Поликрат приказал построить его, чтобы тайно снабжать столицу пресной водой из горного источника Агиадес. Главной идеей было, что враги, осаждавшие город, не могли найти и перекрыть источник воды.\n\nГлавный инженер Эвпалин из Мегары решился на безумный шаг — копать гору одновременно с двух сторон. Рабам с молотками и зубилами пришлось прорубать известняк в полной темноте при свете масляных ламп. У Эвпалина не было ничего, кроме основ тригонометрии и нивелирования, чтобы заставить две бригады встретиться под горой. Чтобы  застраховаться от промаха, в самом центре он намеренно изменил траекторию тоннелей зигзагом — и его план удался, хотя он и немного просчитался с высотой.",
+      "era": "BC",
+      "latitude": 37.69467072,
+      "longitude": 26.93001151,
+      "name": "Eupalinos Tunnel on Samos",
+      "name_ru": "Эвпалинов тоннель на Самосе",
+      "source": "https://en.wikipedia.org/wiki/Tunnel_of_Eupalinos",
+      "tags": [
+        "Greek",
+        "Engineering ⚙️",
+        "Mathematics",
+        "Water"
+      ],
+      "type": "historic"
+    },
+    {
       "date": "01.01.0535",
       "description": "The colony was founded by Phocians from Asia Minor, who left their homeland after the conquest of the Greek cities of the Asia Minor coast by Cyrus's general, Harpagus.",
       "description_ru": "Колония основана фокейцами из Малой Азии, покинувшими отечество после завоевания полководцем Кира, Гарпагом, греческих городов Малоазиатского побережья.",
       "era": "BC",
       "latitude": 40.15944,
       "longitude": 15.15444,
-      "name": "The founding of Elea",
-      "name_ru": "Основание греческой Элеи",
+      "name": "The foundation of Elea by the Phocians",
+      "name_ru": "Основание фокейцами Элеи",
       "tags": [
         "Greek",
         "Phocaean",
@@ -2346,8 +2500,29 @@
     },
     {
       "date": "01.01.0530",
-      "description": "Pythagoras founded a philosophical community in Croton, southern Italy; members followed strict rules, including vegetarianism, communal property, and secret mathematical-religious teachings. Unlike other philosophers of the time, who sought the primordial principle of the world in water, air, or fire, the Pythagoreans declared that the basis of all existence was number.\n\nThe school's distinctive mystical symbol was a figure of 10 dots arranged in a triangle. The Pythagoreans considered the oath of the tetractys to be supreme and inviolable.",
-      "description_ru": "Пифагор основывает философскую общину в Кротоне, южная Италия; члены следуют строгим правилам, включая вегетарианство, общую собственность и тайные математико-религиозные учения. В отличие от других философов того времени, которые искали первооснову мира в воде, воздухе или огне, пифагорейцы заявили, что основой всего сущего является число.\n\nОсобым мистическим символом школы была фигура из 10 точек, расположенных в виде треугольника. Клятва тетрактисом считалась у пифагорейцев высшей и нерушимой.",
+      "description": "According to Samian legend, Hera was born on this island by the Imbrasos River, under the shade of a sacred willow tree. The design was unique in Greece: the building's roof was to be supported by 155 enormous limestone columns, as tall as a multi-story building. It was the first example in history of a monumental \"dipterus\"—a temple surrounded by a double row of columns on all sides. The temple was connected to the island's capital by a magnificent 6-kilometer \"Sacred Way,\" lined with marble statues.\n\nThe temple was never fully completed: first, the fall of Polycrates' tyranny, then Persian raids, and later, frequent earthquakes destroyed the structure. Today, only a single surviving column, approximately half its original height, proudly stands in the middle of an empty field.",
+      "description_ru": "По самосским преданиям, Гера родилась именно на этом острове у реки Имбрасос, под тенью священного дерева авраамова куста (ивы). Проект был уникален для Греции: крышу здания должны были поддерживать 155 огромных известняковых колонн высотой с многоэтажный дом. Это был первый в истории пример монументального «диптера» — храма, окруженного двойным рядом колонн со всех сторон. Храм соединялся со столицей острова великолепной 6-километровой «Священной дорогой», уставленной мраморными статуями.\n\nХрам так и не был до конца достроен: сначала помешало падение тирании Поликрата, затем персидские набеги, а позже частые землетрясения разрушили конструкцию. Сегодня посреди пустого поля гордо высится лишь одна-единственная уцелевшая колонна, сохранившаяся примерно наполовину своей первоначальной высоты",
+      "era": "BC",
+      "latitude": 37.6720512,
+      "longitude": 26.88576043,
+      "name": "The construction of the Heraion on Samos",
+      "name_ru": "Возведение Герайона на Самосе",
+      "source": "https://en.wikipedia.org/wiki/Heraion_of_Samos",
+      "tags": [
+        "Greek",
+        "Building 🏠",
+        "Architecture",
+        "Ionian",
+        "Pagan",
+        "Religious",
+        "Temple"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.0530",
+      "description": "Pythagoras founded a philosophical community in Croton, southern Italy; members followed strict rules, including vegetarianism, communal property, and secret mathematical-religious teachings. Unlike other philosophers of the time, who sought the primordial principle of the world in water, air, or fire, the Pythagoreans declared that the basis of all existence was number.\n\nThe school's distinctive mystical symbol was a figure of 10 dots arranged in a triangle. The Pythagoreans considered the oath of the tetractys to be supreme and inviolable.\n\nThe Pythagorean school was closed and elite. It admitted young men from the wealthiest and most noble families of Southern Italy. When these students completed their studies and returned to their families, they occupied the highest government posts and began to put Pythagorean ideals into practice.",
+      "description_ru": "Пифагор основывает философскую общину в Кротоне, южная Италия; члены следуют строгим правилам, включая вегетарианство, общую собственность и тайные математико-религиозные учения. В отличие от других философов того времени, которые искали первооснову мира в воде, воздухе или огне, пифагорейцы заявили, что основой всего сущего является число.\n\nОсобым мистическим символом школы была фигура из 10 точек, расположенных в виде треугольника. Клятва тетрактисом считалась у пифагорейцев высшей и нерушимой.\n\nШкола Пифагора была закрытой и элитарной. Туда принимали молодых людей из самых богатых и знатных семей Южной Италии. Когда эти ученики заканчивали обучение и возвращались в свои семьи, они занимали высшие государственные посты и начинали внедрять пифагорейские идеалы на практике.",
       "era": "BC",
       "latitude": 39.0833,
       "longitude": 17.1333,
@@ -2356,6 +2531,7 @@
       "source": "https://en.wikipedia.org/wiki/Pythagoreanism",
       "tags": [
         "Greek",
+        "Magna Graecia",
         "Mathematics",
         "Mystery",
         "Philosophy",
@@ -2423,6 +2599,26 @@
     },
     {
       "date": "01.01.0510",
+      "description": "A coup occurred in Sybaris, and the cruel tyrant Telidas came to power. He expelled the aristocrats from the city and confiscated their property. These people fled to Croton. Telidas demanded their extradition under threat of war, but Pythagoras persuaded the Council of Croton to refuse the tyrant and protect the fugitives. Croton sent a diplomatic mission to Sybaris, but the Sybarites violated the sacred law of Greece and killed the ambassadors. Thus, the Pythagoreans declared war on the wicked city of Sybaris.\n\nThe Crotonian army was led by the famous athlete and student of Pythagoras, Milo of Croton. In the decisive battle, the Crotonians slaughtered the Sybarite army. After taking the city, the Pythagoreans displayed cruelty: they razed Sybaris to the ground, sold the survivors into slavery, and, to obliterate even the memory of the enemy, they dug a new channel for the Crathis River and flooded the site of the city.",
+      "description_ru": "В Сибарисе произошел переворот, и к власти пришел жестокий тиран Телид. Он изгнал из города аристократов и конфисковал их имущество. Эти люди бежали в Кротон. Телид потребовал выдать их под угрозой войны, но Пифагор убедил Совет Кротона отказать тирану и защитить беглецов. Кротон отправил в Сибарис дипломатическую миссию, но сибариты нарушили священный закон Греции и убили послов. Так пифагорейцы объявили войну порочному Сибарису.\n\nКротонское войско возглавил знаменитый атлет и ученик Пифагора — Милон Кротонский. В решающем сражении кротонцы перебили армию сибаритов. После взятия города пифагорейцы проявили жестокость: они сровняли Сибарис с землей, продали выживших в рабство, а чтобы уничтожить даже память о враге, прокопали новое русло для реки Кратис и затопили место, где стоял город",
+      "era": "BC",
+      "latitude": 39.7175,
+      "longitude": 16.4456,
+      "name": "Sybaris destroyed by Crotonians",
+      "name_ru": "Кротонцы разрушают Сибарис",
+      "source": "https://en.wikipedia.org/wiki/Sybaris#Subjugation_by_Kroton",
+      "tags": [
+        "Greek",
+        "Achaean",
+        "Civil War",
+        "City",
+        "Destruction",
+        "Magna Graecia"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0510",
       "description": "Spartan king Cleomenes I expels tyrant Hippias from Athens with army; Hippias flees to Persian court where he later guides Persian invasion at Marathon",
       "description_ru": "Спартанский царь Клеомен I изгоняет тирана Гиппия из Афин с армией; Гиппий бежит к персидскому двору, где позже ведет персидское вторжение при Марафоне",
       "era": "BC",
@@ -2440,24 +2636,6 @@
         "Overthrow"
       ],
       "type": "political"
-    },
-    {
-      "date": "01.01.0510",
-      "description": "Sybaris was completely destroyed as a result of the war with Croton.",
-      "description_ru": "Сибарис и Кротон, будучи соседями и соперниками, начали войну, в результате которой Сибарис был полностью разрушен",
-      "era": "BC",
-      "latitude": 39.7175,
-      "longitude": 16.4456,
-      "name": "Sybaris destroyed by Croton",
-      "name_ru": "Кротон разрушает Сибарис",
-      "tags": [
-        "Greek",
-        "Achaean",
-        "Civil War",
-        "City",
-        "Destruction"
-      ],
-      "type": "military"
     },
     {
       "date": "01.01.0508",
@@ -2489,6 +2667,8 @@
       "name_ru": "Элейская философская школа",
       "tags": [
         "Greek",
+        "Cosmology",
+        "Culture",
         "Philosophy"
       ],
       "type": "cultural"
@@ -2505,6 +2685,7 @@
       "source": "https://en.wikipedia.org/wiki/Heraclitus",
       "tags": [
         "Greek",
+        "Culture",
         "Ionian",
         "Philosophy"
       ],
@@ -2644,6 +2825,25 @@
     },
     {
       "date": "01.01.0483",
+      "description": "Tyrant Gelon of Syracuse destroys Megara Hyblaea and enslaves population",
+      "description_ru": "Процветание города заканчивается, когда тиран Гелон Сиракузский разрушает город и порабощает население",
+      "era": "BC",
+      "latitude": 37.2036,
+      "longitude": 15.1817,
+      "name": "Gelon of Syracuse destroys Megara",
+      "name_ru": "Тиран Сиракуз разрушает Мегару",
+      "tags": [
+        "Greek",
+        "Megarian",
+        "War",
+        "Destruction",
+        "Sicily",
+        "Slavery"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0483",
       "description": "Themistocles persuades Athens to build fleet of 200 triremes using silver from new Laurium mine strike; controversial decision transforms Athens into naval power and saves Greece from Persian conquest",
       "description_ru": "Фемистокл убеждает Афины построить флот из 200 триер, используя серебро из новой находки в Лаврионе; спорное решение превращает Афины в морскую державу и спасает Грецию от персидского завоевания",
       "era": "BC",
@@ -2661,25 +2861,6 @@
         "Seamen"
       ],
       "type": "political"
-    },
-    {
-      "date": "01.01.0483",
-      "description": "Tyrant Gelon of Syracuse destroys Megara Hyblaea and enslaves population",
-      "description_ru": "Процветание города заканчивается, когда тиран Гелон Сиракузский разрушает город и порабощает население",
-      "era": "BC",
-      "latitude": 37.2036,
-      "longitude": 15.1817,
-      "name": "Gelon of Syracuse destroys Megara",
-      "name_ru": "Тиран Сиракуз разрушает Мегару",
-      "tags": [
-        "Greek",
-        "Megarian",
-        "War",
-        "Destruction",
-        "Sicily",
-        "Slavery"
-      ],
-      "type": "military"
     },
     {
       "date": "01.01.0475",
@@ -2761,20 +2942,23 @@
     },
     {
       "date": "01.01.0460",
-      "description": "Democritus of Abdera was one of the founders of atomism and materialistic philosophy. During his life, he traveled extensively, studying the philosophical views of various peoples (Ancient Egypt, Babylon, Persia, India, Ethiopia). Democritus developed the teachings of his mentor Leucippus on the \"atom\"—an indivisible particle of matter possessing true being, indestructible, and non-creating.",
-      "description_ru": "Демокрит из Абдер - один из основателей атомистики и материалистической философии. За время своей жизни много путешествовал, изучая философские воззрения различных народов (Древний Египет, Вавилон, Персия, Индия, Эфиопия). Демокрит развил учение своего наставника Левкиппа об «атоме» — неделимой частице вещества, обладающей истинным бытием, не разрушающейся и не возникающей",
+      "description": "First Peloponnesian War begins between Athens and Sparta's Peloponnesian League; undeclared conflict lasts 15 years with Athens fighting on multiple fronts against Sparta, Corinth, and Aegina",
+      "description_ru": "Первая Пелопоннесская война начинается между Делосским союзом Афин и Пелопоннесским союзом Спарты; необъявленный конфликт длится 15 лет, с Афинами, сражающимися на нескольких фронтах против Спарты, Коринфа и Эгины. На стороне Афин был мощный флот, на стороне Спарты - эффективная военная машина",
       "era": "BC",
-      "latitude": 40.95,
-      "longitude": 24.9833,
-      "name": "The Birth of Democritus",
-      "name_ru": "Рождение Демокрита",
+      "latitude": 37.7308,
+      "longitude": 22.7564,
+      "name": "First Peloponnesian War",
+      "name_ru": "Первая Пелопоннесская война",
+      "source": "https://en.wikipedia.org/wiki/First_Peloponnesian_War",
       "tags": [
         "Greek",
-        "Birth",
-        "Philosophy",
-        "Science"
+        "Athens",
+        "Corinthian",
+        "Sparta",
+        "War",
+        "Peloponnesian"
       ],
-      "type": "cultural"
+      "type": "military"
     },
     {
       "date": "01.01.0460",
@@ -2796,43 +2980,20 @@
     },
     {
       "date": "01.01.0460",
-      "description": "First Peloponnesian War begins between Athens and Sparta's Peloponnesian League; undeclared conflict lasts 15 years with Athens fighting on multiple fronts against Sparta, Corinth, and Aegina",
-      "description_ru": "Первая Пелопоннесская война начинается между Делосским союзом Афин и Пелопоннесским союзом Спарты; необъявленный конфликт длится 15 лет, с Афинами, сражающимися на нескольких фронтах против Спарты, Коринфа и Эгины. На стороне Афин был мощный флот, на стороне Спарты - эффективная военная машина",
+      "description": "Democritus of Abdera was one of the founders of atomism and materialistic philosophy. During his life, he traveled extensively, studying the philosophical views of various peoples (Ancient Egypt, Babylon, Persia, India, Ethiopia). Democritus developed the teachings of his mentor Leucippus on the \"atom\"—an indivisible particle of matter possessing true being, indestructible, and non-creating.",
+      "description_ru": "Демокрит из Абдер - один из основателей атомистики и материалистической философии. За время своей жизни много путешествовал, изучая философские воззрения различных народов (Древний Египет, Вавилон, Персия, Индия, Эфиопия). Демокрит развил учение своего наставника Левкиппа об «атоме» — неделимой частице вещества, обладающей истинным бытием, не разрушающейся и не возникающей",
       "era": "BC",
-      "latitude": 37.7308,
-      "longitude": 22.7564,
-      "name": "First Peloponnesian War",
-      "name_ru": "Первая Пелопоннесская война",
-      "source": "https://en.wikipedia.org/wiki/First_Peloponnesian_War",
+      "latitude": 40.95,
+      "longitude": 24.9833,
+      "name": "The Birth of Democritus",
+      "name_ru": "Рождение Демокрита",
       "tags": [
         "Greek",
-        "Athens",
-        "Corinthian",
-        "Sparta",
-        "War",
-        "Peloponnesian"
+        "Birth",
+        "Philosophy",
+        "Science"
       ],
-      "type": "military"
-    },
-    {
-      "date": "01.01.0458",
-      "description": "Long Walls connecting Athens to Piraeus port completed; 6.5 km fortifications ensure access to sea even during siege, making Athens virtually unconquerable as long as navy controls Aegean",
-      "description_ru": "Длинные стены, соединяющие Афины с портом Пирей, завершены; 6,5 км укреплений обеспечивают доступ к морю даже во время осады, делая Афины практически непобедимыми, пока флот контролирует Эгейское море",
-      "era": "BC",
-      "latitude": 37.9755,
-      "longitude": 23.7348,
-      "name": "Athens Long Walls",
-      "name_ru": "Длинные стены Афин",
-      "source": "https://en.wikipedia.org/wiki/Long_Walls",
-      "tags": [
-        "Greek",
-        "Athens",
-        "Building 🏠",
-        "Architecture",
-        "Fortification",
-        "Peloponnesian"
-      ],
-      "type": "historic"
+      "type": "cultural"
     },
     {
       "date": "01.01.0458",
@@ -2856,23 +3017,24 @@
       "type": "cultural"
     },
     {
-      "date": "01.01.0457",
-      "description": "The Spartan army invades Boeotia and achieves a tactical victory over the Athenians and their allies. The Spartans suffer losses, but force the Athenian army to retreat. Meanwhile, the Athenians block the Spartans' escape from Boeotia and, two months later, defeat the Spartans near Oenophytus.",
-      "description_ru": "Спартанская армия вторгается в Беотию и одерживает тактическую победу над афинянами и их союзниками. Спартанцы несут потери, но заставляют афинское войско отступить. Афиняне тем временем блокируют возможности спартанцев к отходу из Беотии, и спустя 2 месяца разбивают спартанцев близ Энофит ",
+      "date": "01.01.0458",
+      "description": "Long Walls connecting Athens to Piraeus port completed; 6.5 km fortifications ensure access to sea even during siege, making Athens virtually unconquerable as long as navy controls Aegean",
+      "description_ru": "Длинные стены, соединяющие Афины с портом Пирей, завершены; 6,5 км укреплений обеспечивают доступ к морю даже во время осады, делая Афины практически непобедимыми, пока флот контролирует Эгейское море",
       "era": "BC",
-      "latitude": 38.32430295,
-      "longitude": 23.541255,
-      "name": "Battle of Tanagra",
-      "name_ru": "Битва при Танагре",
+      "latitude": 37.9755,
+      "longitude": 23.7348,
+      "name": "Athens Long Walls",
+      "name_ru": "Длинные стены Афин",
+      "source": "https://en.wikipedia.org/wiki/Long_Walls",
       "tags": [
         "Greek",
         "Athens",
-        "Sparta",
-        "War",
-        "Battle",
+        "Building 🏠",
+        "Architecture",
+        "Fortification",
         "Peloponnesian"
       ],
-      "type": "military"
+      "type": "historic"
     },
     {
       "date": "01.01.0457",
@@ -2890,6 +3052,25 @@
         "Peloponnesian",
         "Siege",
         "Tribute"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0457",
+      "description": "The Spartan army invades Boeotia and achieves a tactical victory over the Athenians and their allies. The Spartans suffer losses, but force the Athenian army to retreat. Meanwhile, the Athenians block the Spartans' escape from Boeotia and, two months later, defeat the Spartans near Oenophytus.",
+      "description_ru": "Спартанская армия вторгается в Беотию и одерживает тактическую победу над афинянами и их союзниками. Спартанцы несут потери, но заставляют афинское войско отступить. Афиняне тем временем блокируют возможности спартанцев к отходу из Беотии, и спустя 2 месяца разбивают спартанцев близ Энофит ",
+      "era": "BC",
+      "latitude": 38.32430295,
+      "longitude": 23.541255,
+      "name": "Battle of Tanagra",
+      "name_ru": "Битва при Танагре",
+      "tags": [
+        "Greek",
+        "Athens",
+        "Sparta",
+        "War",
+        "Battle",
+        "Peloponnesian"
       ],
       "type": "military"
     },
@@ -3234,20 +3415,23 @@
     },
     {
       "date": "01.01.0425",
-      "description": "Antisthenes of Athens founded the Cynic school. Antisthenes' mother was a slave, his father an Athenian citizen. This background made him a free citizen of Athens, but with limited civil rights. Antisthenes believed that the purpose of life was to achieve virtue and self-sufficiency (autarky). Only through self-restraint and renunciation of material possessions could a person become equal to the gods in their independence.",
-      "description_ru": "Антисфен Афинский стал основателем школы киников. Матерью Антисфена была рабыня, отцом — афинский гражданин. Такое происхождение делало свободным, но неполноправным жителем Афинв. Антисфен считал, что целью жизни является достижение добродетели и самодостаточности (автаркии). Только благодаря самоограничению и отказу от материальных благ человек становится равным богам в своей независимости.",
+      "description": "Athenian general Demosthenes captures 120 Spartiate prisoners at Sphacteria; humiliating defeat shatters myth of Spartan invincibility - Spartans negotiate frantically for return of elite citizens",
+      "description_ru": "Афинский полководец Демосфен захватывает 120 спартиатов в плен на Сфактерии; унизительное поражение разрушает миф о спартанской непобедимости - спартанцы лихорадочно ведут переговоры о возвращении элитных граждан",
       "era": "BC",
-      "latitude": 37.96297823,
-      "longitude": 23.7326628,
-      "name": "Athenian Cynic school",
-      "name_ru": "Основание школы киников",
+      "latitude": 36.93493714,
+      "longitude": 21.6659832,
+      "name": "Battle of Sphacteria",
+      "name_ru": "Битва при Сфактерии",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Sphacteria",
       "tags": [
         "Greek",
         "Athens",
-        "Philosophy",
-        "Socrates 👤"
+        "Sparta",
+        "War",
+        "Battle",
+        "Peloponnesian"
       ],
-      "type": "cultural"
+      "type": "military"
     },
     {
       "date": "01.01.0425",
@@ -3268,43 +3452,20 @@
     },
     {
       "date": "01.01.0425",
-      "description": "Athenian general Demosthenes captures 120 Spartiate prisoners at Sphacteria; humiliating defeat shatters myth of Spartan invincibility - Spartans negotiate frantically for return of elite citizens",
-      "description_ru": "Афинский полководец Демосфен захватывает 120 спартиатов в плен на Сфактерии; унизительное поражение разрушает миф о спартанской непобедимости - спартанцы лихорадочно ведут переговоры о возвращении элитных граждан",
+      "description": "Antisthenes of Athens founded the Cynic school. Antisthenes' mother was a slave, his father an Athenian citizen. This background made him a free citizen of Athens, but with limited civil rights. Antisthenes believed that the purpose of life was to achieve virtue and self-sufficiency (autarky). Only through self-restraint and renunciation of material possessions could a person become equal to the gods in their independence.",
+      "description_ru": "Антисфен Афинский стал основателем школы киников. Матерью Антисфена была рабыня, отцом — афинский гражданин. Такое происхождение делало свободным, но неполноправным жителем Афинв. Антисфен считал, что целью жизни является достижение добродетели и самодостаточности (автаркии). Только благодаря самоограничению и отказу от материальных благ человек становится равным богам в своей независимости.",
       "era": "BC",
-      "latitude": 36.93493714,
-      "longitude": 21.6659832,
-      "name": "Battle of Sphacteria",
-      "name_ru": "Битва при Сфактерии",
-      "source": "https://en.wikipedia.org/wiki/Battle_of_Sphacteria",
+      "latitude": 37.96297823,
+      "longitude": 23.7326628,
+      "name": "Athenian Cynic school",
+      "name_ru": "Основание школы киников",
       "tags": [
         "Greek",
         "Athens",
-        "Sparta",
-        "War",
-        "Battle",
-        "Peloponnesian"
+        "Philosophy",
+        "Socrates 👤"
       ],
-      "type": "military"
-    },
-    {
-      "date": "01.01.0424",
-      "description": "The Spartan general Brasidas conquers Amphipolis, loss of city to Sparta becomes major blow to Athens",
-      "description_ru": "Спартанский генерал Брасид завоевывает Амфиполь; это становится крупным ударом для Афин",
-      "era": "BC",
-      "latitude": 40.8167,
-      "longitude": 23.85,
-      "name": "Sparta captures Amphipolis",
-      "name_ru": "Спарта захватывает Амфиполь",
-      "source": "https://en.wikipedia.org/wiki/Amphipolis",
-      "tags": [
-        "Greek",
-        "Athens",
-        "Sparta",
-        "War",
-        "Conquest",
-        "Peloponnesian"
-      ],
-      "type": "military"
+      "type": "cultural"
     },
     {
       "date": "01.01.0424",
@@ -3325,6 +3486,26 @@
         "Text"
       ],
       "type": "cultural"
+    },
+    {
+      "date": "01.01.0424",
+      "description": "The Spartan general Brasidas conquers Amphipolis, loss of city to Sparta becomes major blow to Athens",
+      "description_ru": "Спартанский генерал Брасид завоевывает Амфиполь; это становится крупным ударом для Афин",
+      "era": "BC",
+      "latitude": 40.8167,
+      "longitude": 23.85,
+      "name": "Sparta captures Amphipolis",
+      "name_ru": "Спарта захватывает Амфиполь",
+      "source": "https://en.wikipedia.org/wiki/Amphipolis",
+      "tags": [
+        "Greek",
+        "Athens",
+        "Sparta",
+        "War",
+        "Conquest",
+        "Peloponnesian"
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.0422",
@@ -3411,25 +3592,6 @@
     },
     {
       "date": "01.01.0415",
-      "description": "The Temple of Hephaestus (Hephaestion) in Athens was built over 30 years at the initiative of Pericles, as part of a large-scale program to rebuild the city after the Greco-Persian Wars. The Parthenon was built concurrently, which explains the lengthy construction period. The Temple of Hephaestus was a center of patronage for crafts. The hill of Agorēios Kolonos towered over the area, which in ancient times housed numerous workshops, forges, and foundries.",
-      "description_ru": "Храм Гефеста (Гефестион) в Афинах строился в течение 30 лет по инициативе Перикла - как часть масштабной программы по восстановлению города после греко-персидских войн. Параллельно строился Парфенон, что объясняет долгую стройку. Храм Гефеста был центром покровительства ремеслам. Холм Агорейос Колонос возвышался над районом, где в древности располагались многочисленные мастерские, кузницы и литейные цеха.\n",
-      "era": "BC",
-      "latitude": 37.97558896,
-      "longitude": 23.72144043,
-      "name": "Construction of Hephaestion",
-      "name_ru": "Возведение Гефестиона",
-      "tags": [
-        "Greek",
-        "Building 🏠",
-        "Architecture",
-        "Pagan",
-        "Religious",
-        "Temple"
-      ],
-      "type": "religious"
-    },
-    {
-      "date": "01.01.0415",
       "description": "Sicilian Expedition launched by Athens against Syracuse; 415-413 BC campaign becomes worst Athenian disaster with 200 ships and 40,000 men lost, breaking back of Athenian naval power",
       "description_ru": "Афины отправляют военный флот в Сиракузы, выступающие на стороне Спарты; кампания 415-413 гг. до н.э. становится катастрофой с потерей 200 кораблей и 40 000 человек. Это ломает хребет военной мощи Афин на море",
       "era": "BC",
@@ -3450,20 +3612,23 @@
       "type": "military"
     },
     {
-      "date": "01.01.0413",
-      "description": "The future philosopher Diogenes was born to the family of Hycesius, a money changer. Diogenes is known as the most famous representative of the Cynic school, preaching asceticism, independence, and disdain for social conventions.",
-      "description_ru": "В семье Гикесия, менялы, родился будущий философ Диоген. Диоген известен как самый знаменитый представитель школы киников, проповедовавший аскетизм, независимость и презрение к общественным условностям.",
+      "date": "01.01.0415",
+      "description": "The Temple of Hephaestus (Hephaestion) in Athens was built over 30 years at the initiative of Pericles, as part of a large-scale program to rebuild the city after the Greco-Persian Wars. The Parthenon was built concurrently, which explains the lengthy construction period. The Temple of Hephaestus was a center of patronage for crafts. The hill of Agorēios Kolonos towered over the area, which in ancient times housed numerous workshops, forges, and foundries.",
+      "description_ru": "Храм Гефеста (Гефестион) в Афинах строился в течение 30 лет по инициативе Перикла - как часть масштабной программы по восстановлению города после греко-персидских войн. Параллельно строился Парфенон, что объясняет долгую стройку. Храм Гефеста был центром покровительства ремеслам. Холм Агорейос Колонос возвышался над районом, где в древности располагались многочисленные мастерские, кузницы и литейные цеха.\n",
       "era": "BC",
-      "latitude": 42.0231,
-      "longitude": 35.1531,
-      "name": "The Birth of Diogenes",
-      "name_ru": "Рождение Диогена",
+      "latitude": 37.97558896,
+      "longitude": 23.72144043,
+      "name": "Construction of Hephaestion",
+      "name_ru": "Возведение Гефестиона",
       "tags": [
         "Greek",
-        "Birth",
-        "Philosophy"
+        "Building 🏠",
+        "Architecture",
+        "Pagan",
+        "Religious",
+        "Temple"
       ],
-      "type": "cultural"
+      "type": "religious"
     },
     {
       "date": "01.01.0413",
@@ -3483,6 +3648,22 @@
         "Peloponnesian"
       ],
       "type": "military"
+    },
+    {
+      "date": "01.01.0413",
+      "description": "The future philosopher Diogenes was born to the family of Hycesius, a money changer. Diogenes is known as the most famous representative of the Cynic school, preaching asceticism, independence, and disdain for social conventions.",
+      "description_ru": "В семье Гикесия, менялы, родился будущий философ Диоген. Диоген известен как самый знаменитый представитель школы киников, проповедовавший аскетизм, независимость и презрение к общественным условностям.",
+      "era": "BC",
+      "latitude": 42.0231,
+      "longitude": 35.1531,
+      "name": "The Birth of Diogenes",
+      "name_ru": "Рождение Диогена",
+      "tags": [
+        "Greek",
+        "Birth",
+        "Philosophy"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0412",
@@ -3572,8 +3753,8 @@
       "description": "Battle of Arginusae sees Athens win but lose 25 ships in storm; Assembly executes six victorious generals for failing to rescue drowning sailors - Socrates alone opposes as unconstitutional",
       "description_ru": "Афины побеждают Спарту в морском сражении у островов Аргинус, но теряют 25 кораблей в шторме; Афинское народное собрание казнит шестерых победоносных полководцев за неспасение тонущих моряков - только Сократ выступает против как неконституционного",
       "era": "BC",
-      "latitude": 39.0333,
-      "longitude": 26.5,
+      "latitude": 39.01624949,
+      "longitude": 26.77728653,
       "name": "Battle of Arginusae",
       "name_ru": "Битва при Аргинусах",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Arginusae",
@@ -3672,6 +3853,23 @@
       "type": "political"
     },
     {
+      "date": "01.01.0400",
+      "description": "Socrates' student, Aristippus, founded his own school of philosophy (the Cyrenaics) in Cyrene. The Cyrenaics preached radical hedonism. They believed that the only purpose of human life is to obtain physical pleasure here and now. The past is gone, the future does not yet exist, so the wise man must extract maximum pleasure from the present moment, but at the same time remain the master of his passions, not their slave.",
+      "description_ru": "Ученик Сократа — Аристипп — основал в Кирене свою философскую школу (киренаиков). Киренаики проповедовали радикальный гедонизм. Они считали, что единственная цель жизни человека — это получение физического наслаждения здесь и сейчас. Прошлое уже ушло, будущего еще нет, поэтому мудрец должен брать от текущего момента максимум удовольствия, но при этом оставаться хозяином своих страстей, а не их рабом",
+      "era": "BC",
+      "latitude": 32.8249,
+      "longitude": 21.8552,
+      "name": "Cyrene school of philosophy",
+      "name_ru": "Киренская философская школа",
+      "source": "https://en.wikipedia.org/wiki/Cyrenaics",
+      "tags": [
+        "Greek",
+        "Culture",
+        "Philosophy"
+      ],
+      "type": "cultural"
+    },
+    {
       "date": "01.01.0399",
       "description": "The trial and execution of Socrates in Athens for \"corrupting the youth\" and \"introducing new gods.\" According to ancient tradition, Socrates pleaded not guilty and that his actions deserved not punishment but the highest honor for an Athenian — a free meal in the prytaneum. After this, the philosopher was sentenced to death. Socrates spent his last day with his students, then drank hemlock, becoming a martyr to philosophy and a symbol of intellectual freedom.",
       "description_ru": "Суд и казнь Сократа в Афинах за 'развращение молодежи' и 'введение новых богов'. Согласно античной традиции, Сократ на суде заявил, что не считает себя виновным и за свои действия заслуживает не наказания, а высшей чести для афинянина — бесплатного обеда в пританее. После этого философа приговорили к смертной казни. Сократ проводит последний день с учениками, затем выпивает цикуту, становясь мучеником философии и символом интеллектуальной свободы.",
@@ -3695,6 +3893,25 @@
     },
     {
       "date": "01.01.0395",
+      "description": "Sparta's harsh policies provoked protest sentiments in Rhodes, and the Spartan war with the Persians was a convenient opportunity to break with them. The Athenian admiral Conon brought a powerful fleet, built with Persian funds, to the island and imposed a gentle blockade. The Rhodians, having assessed the balance of power, overthrew the Spartan oligarchy and again became a democracy and a naval base for Athens and the Persians.",
+      "description_ru": "Жесткая политика Спарты вызвала протестные настроения на Родосе, и война спартанцев с персами была удобной возможностью, чтобы порвать с ними. Афинский адмирал Конон подвел к острову мощный флот, построенный на деньги персов, и установил мягкую блокаду. Родосцы, оценив расстановку сил, свергли спартанскую олигархию и снова стали демократией и морской базой для Афин и персов. ",
+      "era": "BC",
+      "latitude": 36.44327674,
+      "longitude": 28.2259798,
+      "name": "Rhodes emerges from Sparta",
+      "name_ru": "Родос выходит из-под влияния Спарты",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Athens",
+        "Sparta",
+        "Naval",
+        "Overthrow"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0395",
       "description": "Corinthian War begins as Thebes, Corinth, Athens, and Argos unite against Spartan hegemony; Persian gold funds anti-Spartan coalition while Persians regain Ionian Greek cities",
       "description_ru": "Фивы, Коринф, Афины и Аргос объединяются против спартанской гегемонии. Афины хотят вернуть былую мощь, а Фивы и Коринф недовольны расстановкой сил после Пелопонесской войны. В сражении при Галиарте спартанцы проигрывают, а полководец Лисандр убит. Так начинается Коринфская война",
       "era": "BC",
@@ -3715,25 +3932,6 @@
         "Thebes"
       ],
       "type": "military"
-    },
-    {
-      "date": "01.01.0395",
-      "description": "Sparta's harsh policies provoked protest sentiments in Rhodes, and the Spartan war with the Persians was a convenient opportunity to break with them. The Athenian admiral Conon brought a powerful fleet, built with Persian funds, to the island and imposed a gentle blockade. The Rhodians, having assessed the balance of power, overthrew the Spartan oligarchy and again became a democracy and a naval base for Athens and the Persians.",
-      "description_ru": "Жесткая политика Спарты вызвала протестные настроения на Родосе, и война спартанцев с персами была удобной возможностью, чтобы порвать с ними. Афинский адмирал Конон подвел к острову мощный флот, построенный на деньги персов, и установил мягкую блокаду. Родосцы, оценив расстановку сил, свергли спартанскую олигархию и снова стали демократией и морской базой для Афин и персов. ",
-      "era": "BC",
-      "latitude": 36.44327674,
-      "longitude": 28.2259798,
-      "name": "Rhodes emerges from Sparta",
-      "name_ru": "Родос выходит из-под влияния Спарты",
-      "tags": [
-        "Greek",
-        "Persian",
-        "Athens",
-        "Sparta",
-        "Naval",
-        "Overthrow"
-      ],
-      "type": "historic"
     },
     {
       "date": "01.07.0394",
@@ -4257,6 +4455,46 @@
       "type": "cultural"
     },
     {
+      "date": "01.01.0343",
+      "description": "Aristotle lived on Lesbos for two years. He settled on the shores of the tranquil Kaloni Lagoon. Here, the great thinker spent his days studying, dissecting, and classifying marine animals, fish, shells, and birds. The result of his observations was his seminal work, \"History of Animals.\"",
+      "description_ru": "Аристотель прожил на Лесбосе два года. Он поселился на берегу тихой лагуны Калони. Здесь великий мыслитель целыми днями изучал, препарировал и классифицировал морских животных, рыб, ракушек и птиц. Результатом наблюдений стал его фундаментальный труд «История животных».",
+      "era": "BC",
+      "latitude": 39.20625329,
+      "longitude": 26.21071815,
+      "name": "Aristotle writes \"History of Animals\"",
+      "name_ru": "Аристотель пишет \"Историю животных\"",
+      "source": "https://en.wikipedia.org/wiki/History_of_Animals",
+      "tags": [
+        "Greek",
+        "Aristotle 👤",
+        "Biology",
+        "Culture",
+        "Science",
+        "Text",
+        "Zoology"
+      ],
+      "type": "scientific"
+    },
+    {
+      "date": "01.01.0341",
+      "description": "Epicurus was a purebred Athenian by birth. His parents, Neocles and Chaerestrate, lived in Athens but became impoverished. To support the family, the philosopher's father enlisted as a cleruchy—the name given to Athenian military colonists who were given free land by the state in conquered territories. Epicurus' family moved to the island, where his father found work as a simple schoolteacher.\n\nEpicurus grew up and studied on Samos until the age of 18. It was here, as a teenager, that he became fascinated with philosophy. Legend has it that a local teacher was unable to explain to him the origin of the primordial Chaos in the verses of the poet Hesiod, and the frustrated young man decided to seek answers himself.",
+      "description_ru": "По происхождению Эпикур был чистокровным афинянином. Его родители, Неокл и Херестрата, жили в Афинах, но обеднели. Чтобы прокормить семью, отец философа записался в клерухи — так называли афинских военных колонистов, которым государство бесплатно выделяло земельные участки на завоеванных территориях. Семья Эпикура переехала на остров, где его отец устроился работать простым школьным учителем.\n\nЭпикур рос и учился на Самосе до 18 лет. Именно здесь, будучи подростком, он увлекся философией. Предание гласит, что местный учитель не смог объяснить ему, откуда взялся первоначальный Хаос в стихах поэта Гесиода, и разочарованный юноша решил искать ответы сам. ",
+      "era": "BC",
+      "latitude": 37.7542,
+      "longitude": 26.9769,
+      "name": "The Birth of Epicurus of Samos",
+      "name_ru": "Рождение Эпикура Самосского",
+      "source": "https://en.wikipedia.org/wiki/Epicurus",
+      "tags": [
+        "Greek",
+        "Athens",
+        "Birth",
+        "Epicurus 👤",
+        "Philosophy"
+      ],
+      "type": "cultural"
+    },
+    {
       "date": "01.01.0340",
       "description": "16-year-old Alexander left as regent of Macedonia while Philip campaigns; defeats Maedi rebellion and founds first city Alexandropolis, demonstrating precocious military and administrative ability",
       "description_ru": "16-летний Александр оставлен регентом Македонии, пока Филипп ведет кампании; подавляет восстание медов и основывает первый город Александрополь, демонстрируя не по годам развитые военные и административные способности",
@@ -4359,6 +4597,27 @@
     },
     {
       "date": "01.01.0335",
+      "description": "Alexander destroys Thebes as warning to Greeks; city razed except for temples and house of poet Pindar, 30,000 inhabitants sold into slavery - rebellion against Macedon unthinkable",
+      "description_ru": "Александр разрушает восставшие против Македонии Фивы как предупреждение грекам; город стерт с лица земли, кроме храмов и дома поэта Пиндара, 30 000 жителей проданы в рабство - восстание против Македонии недопустимо",
+      "era": "BC",
+      "latitude": 38.3192,
+      "longitude": 23.3178,
+      "name": "Destruction of Thebes",
+      "name_ru": "Александр разрушает Фивы",
+      "source": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "War",
+        "Alexander the Great 👤",
+        "Destruction",
+        "Slavery",
+        "Thebes"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0335",
       "description": "Aristotle returns to Athens and founds Lyceum school; teaches while walking in peripatos (covered walkway), giving followers name 'Peripatetics' - systematic research in biology, logic, ethics",
       "description_ru": "Аристотель возвращается в Афины и основывает школу Ликей; преподает, прогуливаясь по перипатосу (крытой галерее), давая последователям имя 'перипатетики' - систематические исследования в биологии, логике, этике",
       "era": "BC",
@@ -4378,25 +4637,59 @@
       "type": "cultural"
     },
     {
-      "date": "01.01.0335",
-      "description": "Alexander destroys Thebes as warning to Greeks; city razed except for temples and house of poet Pindar, 30,000 inhabitants sold into slavery - rebellion against Macedon unthinkable",
-      "description_ru": "Александр разрушает восставшие против Македонии Фивы как предупреждение грекам; город стерт с лица земли, кроме храмов и дома поэта Пиндара, 30 000 жителей проданы в рабство - восстание против Македонии недопустимо",
+      "date": "01.07.0334",
+      "description": "As Ionia was liberated from the Persians, Alexander arrived in Clazomenae. Recognizing the city's unique location (a wealthy port divided into two parts), the king decided to unite the island and the mainland. He approved the dam project, allocated vast sums of money from the captured Persian treasury of Sardis, and left a team of engineers and governors in the city. He and his army immediately moved further south—to Miletus and Halicarnassus.",
+      "description_ru": "По мере освобождения Ионии от персов, Александр прибыл в Клазомены. Оценив уникальное положение города (богатый порт, разделенный на две части), царь принял решение объединить остров и материк. Царь утвердил проект дамбы, выделил на него огромные деньги из захваченной персидской казны Сард и оставил в городе команду инженеров и наместников, а сам со своей армией сразу же двинулся дальше на юг — к Милету и Галикарнасу.",
       "era": "BC",
-      "latitude": 38.3192,
-      "longitude": 23.3178,
-      "name": "Destruction of Thebes",
-      "name_ru": "Александр разрушает Фивы",
+      "latitude": 38.36622353,
+      "longitude": 26.78179264,
+      "name": "Alexander the Great lays the dam at Klazomenai",
+      "name_ru": "Александр Великий закладывает дамбу в Клазоменах",
       "source": "https://en.wikipedia.org/wiki/Alexander_the_Great",
       "tags": [
         "Greek",
-        "Macedonian",
-        "War",
         "Alexander the Great 👤",
-        "Destruction",
-        "Slavery",
-        "Thebes"
+        "Engineering ⚙️"
       ],
-      "type": "military"
+      "type": "historic"
+    },
+    {
+      "date": "21.06.0334",
+      "description": "In the 7th century BC, Smyrna was razed to the ground by the Lydian king Alyattes. For nearly 300 years, the city lay dormant, its inhabitants living in scattered villages. In 334, Alexander the Great arrived. According to legend, after hunting on Mount Pagos (today's Kadifekale Hill), the king fell asleep under a plane tree near the sanctuary of the goddesses Nemesis. In a dream, the goddesses commanded him to found a new great city on this site and resettle the Smyrnaeans there. Thus, the new city was founded on the southern shore of the bay. Like many Greek cities, it was laid out according to the Hippodamian grid. The main street, the Golden Road, crossed the city from the Temple of Zeus to the Temple of Cybele. It was designed so that the sea breeze blew through it, saving residents from the summer heat.",
+      "description_ru": "В VII веке до н. э. Смирну стер с лица земли лидийский царь Алиатт. Почти 300 лет города не существовало — жители жили разрозненными деревнями. В 334 году сюда прибыл Александр Македонский. По легенде, после охоты на горе Пагос (сегодня это холм Кадифекале) царь уснул под платаном у святилища богинь Немезид. Во сне богини приказали ему основать на этом месте новый великий город и переселить туда смирнцев. Таким образом, новый город был заложен на южном берегу залива. Он, как и многие греческие города, был построен по сетке Гипподама. Главная улица — Золотая дорога — пересекала город от храма Зевса до храма Кибелы. Она была спроектирована так, что морской бриз продувал её насквозь, спасая жителей от летнего зноя.",
+      "era": "BC",
+      "latitude": 38.41916639,
+      "longitude": 27.13700294,
+      "name": "Alexander refounds Smyrna",
+      "name_ru": "Александр переосновывает Смирну",
+      "source": "https://en.wikipedia.org/wiki/Smyrna",
+      "tags": [
+        "Greek",
+        "City",
+        "Alexander the Great 👤",
+        "Architecture",
+        "Restoration"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0331",
+      "description": "Alexander founds Alexandria in Egypt at strategic location on Mediterranean coast; city becomes greatest center of learning and commerce in ancient world, housing famous Library and Lighthouse",
+      "description_ru": "Александр основывает Александрию в Египте в стратегическом месте на побережье Средиземного моря; город станет величайшим центром учености и торговли древнего мира с знаменитой Библиотекой и Маяком",
+      "era": "BC",
+      "latitude": 31.206667,
+      "longitude": 29.900278,
+      "name": "Foundation of Alexandria in Egypt",
+      "name_ru": "Основание Александрии Египетской",
+      "source": "https://en.wikipedia.org/wiki/Alexandria",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Macedonian",
+        "City",
+        "Alexander the Great 👤"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.0331",
@@ -4418,25 +4711,6 @@
         "Religious"
       ],
       "type": "religious"
-    },
-    {
-      "date": "01.01.0331",
-      "description": "Alexander founds Alexandria in Egypt at strategic location on Mediterranean coast; city becomes greatest center of learning and commerce in ancient world, housing famous Library and Lighthouse",
-      "description_ru": "Александр основывает Александрию в Египте в стратегическом месте на побережье Средиземного моря; город станет величайшим центром учености и торговли древнего мира с знаменитой Библиотекой и Маяком",
-      "era": "BC",
-      "latitude": 31.206667,
-      "longitude": 29.900278,
-      "name": "Foundation of Alexandria in Egypt",
-      "name_ru": "Основание Александрии Египетской",
-      "source": "https://en.wikipedia.org/wiki/Alexandria",
-      "tags": [
-        "Greek",
-        "Egypt",
-        "Macedonian",
-        "City",
-        "Alexander the Great 👤"
-      ],
-      "type": "historic"
     },
     {
       "date": "01.12.0330",
@@ -4852,6 +5126,27 @@
       "type": "cultural"
     },
     {
+      "date": "01.01.0322",
+      "description": "After the death of Alexander the Great, the Macedonian eldest son Perdiccas ordered Samos returned to its native inhabitants. All Athenian colonists, including Epicurus's aging parents, were brutally expelled from the island, their homes and land confiscated. Epicurus's family fled to Colophon. Seeing empires crumble and his loved ones instantly lose their homes and become impoverished refugees, Epicurus understood that external well-being is an illusion that can vanish at any moment.\n\nWhen a person can be deprived of their homeland, property, and status at any moment, the only thing that cannot be taken from them is their inner state. Epicurus introduced the concept of ataraxia — absolute equanimity and tranquility. He taught that a wise man can be happy even if the entire world is outwardly crumbling into chaos, because his happiness no longer depends on the whims of kings and politicians.",
+      "description_ru": "После смерти Александра Македонского македонский первенец Пердикка приказал вернуть Самос его коренным жителям. Всех афинских колонистов, включая престарелых родителей Эпикура, жестоко выгнали с острова, отобрав дома и землю. Семья Эпикура бежала в Колофон. Видя, как рушатся империи, а его близкие в один миг теряют дом и превращаются в нищих беженцев, Эпикур понял: внешнее благополучие — это иллюзия, которая может исчезнуть в любой момент.\n\nКогда человека могут в любой момент лишить родины, имущества и статуса, единственное, что у него невозможно отобрать — это его внутреннее состояние. Эпикур ввел понятие атараксии — абсолютной душевной невозмутимости и спокойствия. Он учил, что мудрец может быть счастлив, даже если внешне весь мир рушится в хаос, потому что его счастье больше не зависит от капризов царей и политиков.",
+      "era": "BC",
+      "latitude": 37.9921,
+      "longitude": 27.1936,
+      "name": "Life of Epicurus in Colophon",
+      "name_ru": "Жизнь Эпикура в Колофоне",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Athens",
+        "Diadochi",
+        "Culture",
+        "Epicurus 👤",
+        "Exile",
+        "Philosophy"
+      ],
+      "type": "cultural"
+    },
+    {
       "date": "01.01.0321",
       "description": "Ptolemy hijacks Alexander's funeral cortege en route to Macedonia, diverting it to Egypt; Alexander's body eventually displayed in magnificent tomb in Alexandria, becoming pilgrimage site for centuries",
       "description_ru": "Птолемей перехватывает похоронную процессию Александра по пути в Македонию, направляя ее в Египет, в Мемфис; тело Александра в конечном итоге выставлено в великолепной гробнице в Александрии, став местом паломничества на века",
@@ -4880,20 +5175,38 @@
       "era": "BC",
       "latitude": 40.8,
       "longitude": 22,
-      "name": "Murder of Alexander's Family",
-      "name_ru": "Убийство семьи Александра",
+      "name": "Murder of Alexander the Great's Family",
+      "name_ru": "Убийство семьи Александра Великого",
       "source": "https://en.wikipedia.org/wiki/Alexander_IV_of_Macedon",
       "tags": [
         "Greek",
         "Macedonian",
         "Diadochi",
         "War",
-        "Alexander the Great 👤",
         "Assassination",
         "Death",
         "Regicide"
       ],
       "type": "political"
+    },
+    {
+      "date": "01.01.0306",
+      "description": "The Garden of Epicurus was the first informal philosophical community in Greek history, founded by Epicurus in Athens. It was a communal residence for like-minded individuals who sought to put their teacher's recipe for happiness into practice. The philosopher purchased a small house with a shady garden outside the city gates of Athens (near the Dipylon Gate). This quiet corner of nature became a symbol of escape from the bustle, politics, and stress of the big city.\n\nThe Garden welcomed everyone, regardless of social status. Women (a shock in patriarchal Athens) and even slaves lived, studied, and debated alongside men as equals. A sign hung at the entrance to the garden: \"Guest, you will be well here; here pleasure is the highest good.\" Contrary to stereotypes, the Epicureans lived quite ascetically; pleasure for them meant the absence of physical pain and mental anxiety, not excess. Epicurus believed that friendship was the most reliable source of happiness in life. The members of the community treated each other as members of a large loving family.",
+      "description_ru": "«Сад Эпикура» — это первая в истории Греции неформальная философская община, которую Эпикур основал в Афинах. Это было место общего жительства единомышленников, которые пытались на практике воплотить рецепт счастья своего учителя. Философ купил небольшой дом с тенистым садом за городскими воротами Афин (недалеко от Дипилонских ворот). Этот тихий уголок природы стал символом ухода от суеты, политики и стресса большого города.\n\nВ «Сад» принимали всех, независимо от социального статуса. Вместе с мужчинами там на равных жили, учились и дискутировали женщины (что для патриархальных Афин было шоком) и даже рабы. На входе в сад висела надпись: «Гость, тебе здесь будет хорошо; здесь удовольствие — высшее благо». Вопреки стереотипам, эпикурейцы жили довольно аскетично; удовольствие для них означало отсутствие физической боли и душевной тревоги, а не излишества. Эпикур считал дружбу самым надежным источником счастья в жизни. Члены общины относились друг к другу как к членам большой любящей семьи.",
+      "era": "BC",
+      "latitude": 37.98205435,
+      "longitude": 23.71799648,
+      "name": "The Garden of Epicurus in Athens",
+      "name_ru": "\"Сад Эпикура\" в Афинах",
+      "source": "https://en.wikipedia.org/wiki/Epicurus",
+      "tags": [
+        "Greek",
+        "Athens",
+        "Culture",
+        "Epicurus 👤",
+        "Philosophy"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0305",
@@ -4915,6 +5228,24 @@
         "Technology"
       ],
       "type": "military"
+    },
+    {
+      "date": "01.01.0300",
+      "description": "The school arose during the Hellenistic period after the collapse of Alexander the Great's empire, when the Greek world was plunged into chaos due to endless wars for power among his generals. The school's founder, the philosopher Zeno of Citium, lacked the money to buy land, so he gathered his students in a public place—the city's famous painted portico (gallery), called the Stoa Poikile.\n\nWhile Epicurus urged people to escape society's problems to a tranquil garden, the Stoics taught them to live in the thick of things while remaining internally invulnerable. They likened the world to a theater: you cannot choose the role assigned to you by the director (fate), but your task is to play it to the best of your ability. A famous Stoic aphorism states: \"Fate leads the willing, drags the unwilling.\" Everything that happens in the external world is predetermined by the laws of nature, and being angry at this is as foolish as being upset by the rain.",
+      "description_ru": "Школа возникла в эпоху эллинизма после распада империи Александра Македонского, когда греческий мир погрузился в хаос бесконечных войн за власть между его генералами. Основатель школы, философ Зенон Китийский, не имел денег на покупку земли, поэтому он собирал своих учеников в общественном месте — у знаменитого городского расписного портика (галереи), который назывался Стоя Пойкиле\n\nЕсли Эпикур призывал сбежать от проблем общества в тихий Сад, то стоики учили жить в гуще событий, но оставаться внутренне неуязвимыми. Они уподобляли мир театру: ты не можешь выбирать роль, которую дал тебе режиссер (судьба), но твоя задача — сыграть её максимально достойно. Известный афоризм стоиков гласит: «Желающего судьба ведёт, нежелающего — тащит». Всё, что происходит во внешнем мире, предопределено законами природы, и злиться на это так же глупо, как обижаться на дождь.",
+      "era": "BC",
+      "latitude": 37.97646862,
+      "longitude": 23.72264743,
+      "name": "The Stoic school of philosophy",
+      "name_ru": "Философская школа стоиков",
+      "source": "https://en.wikipedia.org/wiki/Stoicism",
+      "tags": [
+        "Greek",
+        "Culture",
+        "Philosophy",
+        "Stoicism"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0300",
@@ -5005,6 +5336,7 @@
         "Archimedes 👤",
         "Physics",
         "Science",
+        "Text",
         "Water"
       ],
       "type": "scientific"
@@ -5037,14 +5369,15 @@
       "era": "BC",
       "latitude": 37.0755,
       "longitude": 15.2866,
-      "name": "Archimedes writes 'On the Sphere and Cylinder'",
-      "name_ru": "Архимед пишет 'О шаре и цилиндре'",
+      "name": "Archimedes writes \"On the Sphere and Cylinder\"",
+      "name_ru": "Архимед пишет \"О шаре и цилиндре\"",
       "source": "https://en.wikipedia.org/wiki/On_the_Sphere_and_Cylinder",
       "tags": [
         "Greek",
         "Archimedes 👤",
         "Mathematics",
-        "Science"
+        "Science",
+        "Text"
       ],
       "type": "scientific"
     }

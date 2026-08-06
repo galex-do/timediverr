@@ -142,8 +142,8 @@
       "era": "BC",
       "latitude": 41.89189929,
       "longitude": 12.48642862,
-      "name": "Reign of Numa Pompilius",
-      "name_ru": "Нума Помпилий - царь Рима",
+      "name": "Reign of Numa Pompilius in Rome",
+      "name_ru": "Нума Помпилий — царь Рима",
       "source": "https://en.wikipedia.org/wiki/Numa_Pompilius",
       "tags": [
         "Roman",
@@ -583,8 +583,8 @@
       "era": "BC",
       "latitude": 41.94046734,
       "longitude": 12.53342628,
-      "name": "First Plebeian Secession",
-      "name_ru": "Первая сецессия плебеев",
+      "name": "First Plebeian Secession in Rome",
+      "name_ru": "Первая сецессия плебеев в Риме ",
       "source": "https://en.wikipedia.org/wiki/First_secessio_plebis",
       "tags": [
         "Roman",
@@ -2806,7 +2806,7 @@
       "tags": [
         "Roman",
         "War",
-        "Africa",
+        "African",
         "Bribe",
         "Numidians"
       ],
@@ -3914,7 +3914,8 @@
         "Crisis",
         "Death",
         "Julius Caesar 👤",
-        "Republic"
+        "Republic",
+        "Stoicism"
       ],
       "type": "military"
     },

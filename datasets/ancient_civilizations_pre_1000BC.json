@@ -67,7 +67,7 @@
       "tags": [
         "Building 🏠",
         "Megalithic",
-        "Standing Stones"
+        "Neolithic"
       ],
       "type": "cultural"
     },
@@ -85,6 +85,7 @@
         "Building 🏠",
         "Malta",
         "Megalithic",
+        "Neolithic",
         "Temple"
       ],
       "type": "cultural"
@@ -101,7 +102,8 @@
       "source": "https://www.nps.gov/subjects/archaeology/watson-brake.htm",
       "tags": [
         "Earthwork",
-        "Mound Builders"
+        "Mound Builders",
+        "Neolithic"
       ],
       "type": "historic"
     },
@@ -121,6 +123,7 @@
         "Earthwork",
         "Megalithic",
         "Mound Builders",
+        "Neolithic",
         "Tomb"
       ],
       "type": "cultural"
@@ -138,6 +141,7 @@
       "tags": [
         "Culture",
         "Maritime",
+        "Neolithic",
         "Valdivia"
       ],
       "type": "cultural"
@@ -172,6 +176,7 @@
       "tags": [
         "Civilization",
         "Culture",
+        "Neolithic",
         "Peruan",
         "Urban"
       ],
@@ -226,26 +231,10 @@
         "Culture",
         "Harappan",
         "Indus Valley",
+        "Neolithic",
         "Urban"
       ],
       "type": "historic"
-    },
-    {
-      "date": "01.01.3200",
-      "description": "Sumerians invent the wheel for transportation, revolutionizing trade and warfare",
-      "description_ru": "Шумеры изобретают колесо для транспорта, революционизируя торговлю и военное дело",
-      "era": "BC",
-      "latitude": 32.776,
-      "longitude": 44.949,
-      "name": "Invention of the Wheel",
-      "name_ru": "Изобретение колеса",
-      "source": "https://www.smithsonianmag.com/science-nature/a-salute-to-the-wheel-31805121/",
-      "tags": [
-        "Sumerian",
-        "Innovation",
-        "Technology"
-      ],
-      "type": "scientific"
     },
     {
       "date": "01.01.3200",
@@ -265,24 +254,20 @@
     },
     {
       "date": "01.01.3200",
-      "description": "Newgrange passage tomb constructed in Ireland, featuring winter solstice alignment and predating Stonehenge by 500 years and Egyptian pyramids",
-      "description_ru": "Коридорная гробница Ньюгрейндж построена в Ирландии с выравниванием по зимнему солнцестоянию, на 500 лет старше Стоунхенджа и египетских пирамид",
+      "description": "Sumerians invent the wheel for transportation, revolutionizing trade and warfare",
+      "description_ru": "Шумеры изобретают колесо для транспорта, революционизируя торговлю и военное дело",
       "era": "BC",
-      "latitude": 53.695,
-      "longitude": -6.475,
-      "name": "Newgrange Passage Tomb",
-      "name_ru": "Гробница Ньюгрейндж в Ирландии",
-      "source": "https://www.worldheritageireland.ie/bru-na-boinne/",
+      "latitude": 32.776,
+      "longitude": 44.949,
+      "name": "Invention of the Wheel",
+      "name_ru": "Изобретение колеса",
+      "source": "https://www.smithsonianmag.com/science-nature/a-salute-to-the-wheel-31805121/",
       "tags": [
-        "Building 🏠",
-        "Astronomy",
-        "Burial",
-        "Earthwork",
-        "Megalithic",
-        "Mound Builders",
-        "Tomb"
+        "Sumerian",
+        "Innovation",
+        "Technology"
       ],
-      "type": "cultural"
+      "type": "scientific"
     },
     {
       "date": "15.01.3100",
@@ -348,6 +333,7 @@
       "tags": [
         "Earthwork",
         "Megalithic",
+        "Neolithic",
         "Stonehenge"
       ],
       "type": "cultural"
@@ -439,23 +425,6 @@
     },
     {
       "date": "01.01.3000",
-      "description": "Norte Chico develops as a complex pre-ceramic civilization in Peru, unique for being dependent on fishing rather than agriculture",
-      "description_ru": "Норте-Чико - докерамическая цивилизация в Перу, знакомая с архитектурой, ирригацией, базировавшаяся больше на рыболовстве, чем сельском хозяйстве.",
-      "era": "BC",
-      "latitude": -10.894,
-      "longitude": -77.52,
-      "name": "Norte Chico Complex Society",
-      "name_ru": "Перуанская культура Норте-Чико",
-      "tags": [
-        "Civilization",
-        "Culture",
-        "Fishing",
-        "Peruan"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.3000",
       "description": "Jōmon people in Japan develop sophisticated lacquerware and elaborate clay figurines (dogū) for ritual purposes",
       "description_ru": "Люди Дзёмон в Японии разрабатывают изысканные лаковые изделия и сложные глиняные фигурки (догу) для ритуальных целей",
       "era": "BC",
@@ -467,7 +436,26 @@
         "Japanese",
         "Jōmon",
         "Art",
-        "Culture"
+        "Culture",
+        "Neolithic"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.3000",
+      "description": "Norte Chico develops as a complex pre-ceramic civilization in Peru, unique for being dependent on fishing rather than agriculture",
+      "description_ru": "Норте-Чико - докерамическая цивилизация в Перу, знакомая с архитектурой, ирригацией, базировавшаяся больше на рыболовстве, чем сельском хозяйстве.",
+      "era": "BC",
+      "latitude": -10.894,
+      "longitude": -77.52,
+      "name": "Norte Chico Complex Society",
+      "name_ru": "Перуанская культура Норте-Чико",
+      "tags": [
+        "Civilization",
+        "Culture",
+        "Fishing",
+        "Neolithic",
+        "Peruan"
       ],
       "type": "cultural"
     },
@@ -489,6 +477,21 @@
     },
     {
       "date": "01.01.2900",
+      "description": "Beginning of the Early Dynastic Period in Mesopotamia with competing city-states",
+      "description_ru": "Начало раннединастического периода в Месопотамии с соревнующимися городами-государствами",
+      "era": "BC",
+      "latitude": 32.776,
+      "longitude": 44.949,
+      "name": "Early Dynastic Period Begins",
+      "name_ru": "Раннединастический период Месопотамии",
+      "tags": [
+        "City-State",
+        "Mesopotamia"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.2900",
       "description": "Sumerians construct the first ziggurats as temple complexes and administrative centers",
       "description_ru": "Шумеры строят первые зиккураты как храмовые комплексы и административные центры",
       "era": "BC",
@@ -503,21 +506,6 @@
         "Mesopotamia"
       ],
       "type": "cultural"
-    },
-    {
-      "date": "01.01.2900",
-      "description": "Beginning of the Early Dynastic Period in Mesopotamia with competing city-states",
-      "description_ru": "Начало раннединастического периода в Месопотамии с соревнующимися городами-государствами",
-      "era": "BC",
-      "latitude": 32.776,
-      "longitude": 44.949,
-      "name": "Early Dynastic Period Begins",
-      "name_ru": "Раннединастический период Месопотамии",
-      "tags": [
-        "City-State",
-        "Mesopotamia"
-      ],
-      "type": "political"
     },
     {
       "date": "01.01.2800",
@@ -804,8 +792,10 @@
       "source": "https://www.english-heritage.org.uk/visit/places/stonehenge/",
       "tags": [
         "Building 🏠",
+        "Bell Beaker",
         "Engineering ⚙️",
         "Megalithic",
+        "Neolithic",
         "Stonehenge"
       ],
       "type": "cultural"
@@ -820,9 +810,10 @@
       "name": "West African Copper Smelting",
       "name_ru": "Западноафриканская плавка меди",
       "tags": [
-        "Africa",
+        "African",
         "Copper",
-        "Metallurgy"
+        "Metallurgy",
+        "Neolithic"
       ],
       "type": "scientific"
     },
@@ -840,6 +831,7 @@
         "Jōmon",
         "Fishing",
         "Maritime",
+        "Neolithic",
         "Technology"
       ],
       "type": "scientific"
@@ -879,22 +871,6 @@
     },
     {
       "date": "01.01.2400",
-      "description": "Bluestones transported to Stonehenge from Preseli Hills in Wales, over 150 miles away, demonstrating remarkable organizational and engineering capabilities",
-      "description_ru": "Голубые камни перевезены в Стоунхендж из холмов Преселли в Уэльсе, более чем на 240 км, что показало организационные и инженерные способности древних бритов",
-      "era": "BC",
-      "latitude": 51.179,
-      "longitude": -1.826,
-      "name": "Stonehenge Bluestones",
-      "name_ru": "Голубые камни Стоунхенджа",
-      "tags": [
-        "Megalithic",
-        "Stonehenge",
-        "Transport"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.2400",
       "description": "Kingdom of Kerma established in Upper Nubia, developing into a powerful state controlling Nile trade routes and constructing massive mud-brick temples",
       "description_ru": "Царство Керма в Верхней Нубии развивается в могущественное государство, контролирующее торговые пути по Нилу и строящее массивные храмы из сырцового кирпича",
       "era": "BC",
@@ -910,6 +886,24 @@
         "Nubia"
       ],
       "type": "political"
+    },
+    {
+      "date": "01.01.2400",
+      "description": "Bluestones transported to Stonehenge from Preseli Hills in Wales, over 150 miles away, demonstrating remarkable organizational and engineering capabilities",
+      "description_ru": "Голубые камни перевезены в Стоунхендж из холмов Преселли в Уэльсе, более чем на 240 км, что показало организационные и инженерные способности древних бритов",
+      "era": "BC",
+      "latitude": 51.179,
+      "longitude": -1.826,
+      "name": "Stonehenge Bluestones",
+      "name_ru": "Голубые камни Стоунхенджа",
+      "tags": [
+        "Bell Beaker",
+        "Megalithic",
+        "Neolithic",
+        "Stonehenge",
+        "Transport"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.2400",
@@ -1221,8 +1215,9 @@
       "name_ru": "Западноафриканская культура Тишит",
       "source": "https://en.wikipedia.org/wiki/Tichitt_tradition",
       "tags": [
-        "Africa",
+        "African",
         "Culture",
+        "Neolithic",
         "Tichitt",
         "Urban"
       ],
@@ -1240,7 +1235,8 @@
       "source": "https://www.nps.gov/popo/index.htm",
       "tags": [
         "Earthwork",
-        "Mound Builders"
+        "Mound Builders",
+        "Neolithic"
       ],
       "type": "cultural"
     },
@@ -1382,6 +1378,25 @@
     },
     {
       "date": "01.01.2000",
+      "description": "Karnak was considered \"Ipet-Isut\" (\"The Most Chosen Place\"), the point where the worlds of gods and humans met. According to Egyptian belief, the first hill of dry land, Ben-ben, arose here from the primordial ocean of Chaos (Nun) at the beginning of time. The ancient Thebans believed their city to be the physical center of the universe, the point where life began. For thousands of years, the pharaohs of Egypt invested in the development and wealth of the temple complex at Karnak.",
+      "description_ru": "Считалось, что Карнак — это «Ипет-Исут» («Самое избранное место»), точка, где соприкасаются мир богов и мир людей. По верованиям египтян, здесь во время начала времен из первозданного океана Хаоса (Нуна) поднялся первый холм суши — Бен-бен. Древние фиванцы верили, что их город — это физический центр мироздания, точка, откуда началась жизнь. Тысячи лет фараоны Египта вкладывали в развитие и богатство храмового комплекса в Карнаке\n",
+      "era": "BC",
+      "latitude": 25.72044516,
+      "longitude": 32.65413523,
+      "name": "Karnak - the Egyptian center of creation",
+      "name_ru": "Карнак - египетский центр мироздания",
+      "source": "https://en.wikipedia.org/wiki/Karnak",
+      "tags": [
+        "Egypt",
+        "Legend",
+        "Holy Site",
+        "Pagan",
+        "Religious"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.2000",
       "description": "Babylon emerges as a major power in Mesopotamia under Amorite rulers",
       "description_ru": "Вавилон становится крупной силой в Месопотамии под правлением амореев",
       "era": "BC",
@@ -1411,7 +1426,7 @@
         "Jōmon",
         "Building 🏠",
         "Megalithic",
-        "Stone Circle"
+        "Neolithic"
       ],
       "type": "cultural"
     },
@@ -1482,25 +1497,6 @@
         "Nigeria"
       ],
       "type": "scientific"
-    },
-    {
-      "date": "01.01.2000",
-      "description": "Karnak was considered \"Ipet-Isut\" (\"The Most Chosen Place\"), the point where the worlds of gods and humans met. According to Egyptian belief, the first hill of dry land, Ben-ben, arose here from the primordial ocean of Chaos (Nun) at the beginning of time. The ancient Thebans believed their city to be the physical center of the universe, the point where life began. For thousands of years, the pharaohs of Egypt invested in the development and wealth of the temple complex at Karnak.",
-      "description_ru": "Считалось, что Карнак — это «Ипет-Исут» («Самое избранное место»), точка, где соприкасаются мир богов и мир людей. По верованиям египтян, здесь во время начала времен из первозданного океана Хаоса (Нуна) поднялся первый холм суши — Бен-бен. Древние фиванцы верили, что их город — это физический центр мироздания, точка, откуда началась жизнь. Тысячи лет фараоны Египта вкладывали в развитие и богатство храмового комплекса в Карнаке\n",
-      "era": "BC",
-      "latitude": 25.72044516,
-      "longitude": 32.65413523,
-      "name": "Karnak - the Egyptian center of creation",
-      "name_ru": "Карнак - египетский центр мироздания",
-      "source": "https://en.wikipedia.org/wiki/Karnak",
-      "tags": [
-        "Egypt",
-        "Legend",
-        "Holy Site",
-        "Pagan",
-        "Religious"
-      ],
-      "type": "religious"
     },
     {
       "date": "01.01.1991",
@@ -1810,19 +1806,20 @@
     },
     {
       "date": "01.01.1500",
-      "description": "Lapita peoples colonize the Solomon Islands, bringing pigs, chickens, and agricultural crops, demonstrating remarkable seafaring capabilities",
-      "description_ru": "Народы Лапита, демонстрируя выдающиеся мореходные способности, колонизируют Соломоновы острова, привозят свиней, кур и сельскохозяйственные культуры",
+      "description": "Mesopotamians invent the seeder plow, revolutionizing agriculture and food production",
+      "description_ru": "Месопотамцы изобретают сеялочный плуг, революционизируя сельское хозяйство и производство пищи",
       "era": "BC",
-      "latitude": -8.5,
-      "longitude": 159.5,
-      "name": "Solomon Islands Settlement",
-      "name_ru": "Заселение Соломоновых островов Лапита",
+      "latitude": 33.312,
+      "longitude": 44.644,
+      "name": "Seeder Plow Invented",
+      "name_ru": "Изобретение сеялочного плуга",
       "tags": [
-        "Lapita",
-        "Migration",
-        "Solomon Islands"
+        "Agriculture",
+        "Food",
+        "Innovation",
+        "Science"
       ],
-      "type": "historic"
+      "type": "scientific"
     },
     {
       "date": "01.01.1500",
@@ -1860,20 +1857,19 @@
     },
     {
       "date": "01.01.1500",
-      "description": "Mesopotamians invent the seeder plow, revolutionizing agriculture and food production",
-      "description_ru": "Месопотамцы изобретают сеялочный плуг, революционизируя сельское хозяйство и производство пищи",
+      "description": "Lapita peoples colonize the Solomon Islands, bringing pigs, chickens, and agricultural crops, demonstrating remarkable seafaring capabilities",
+      "description_ru": "Народы Лапита, демонстрируя выдающиеся мореходные способности, колонизируют Соломоновы острова, привозят свиней, кур и сельскохозяйственные культуры",
       "era": "BC",
-      "latitude": 33.312,
-      "longitude": 44.644,
-      "name": "Seeder Plow Invented",
-      "name_ru": "Изобретение сеялочного плуга",
+      "latitude": -8.5,
+      "longitude": 159.5,
+      "name": "Solomon Islands Settlement",
+      "name_ru": "Заселение Соломоновых островов Лапита",
       "tags": [
-        "Agriculture",
-        "Food",
-        "Innovation",
-        "Science"
+        "Lapita",
+        "Migration",
+        "Solomon Islands"
       ],
-      "type": "scientific"
+      "type": "historic"
     },
     {
       "date": "01.01.1479",

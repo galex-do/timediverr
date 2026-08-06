@@ -111,19 +111,20 @@
     },
     {
       "date": "01.01.1100",
-      "description": "Phrygians develop distinctive musical tradition centered on double-piped aulos instrument; Phrygian mode becomes fundamental to Greek music theory and associated with ecstatic religious rites",
-      "description_ru": "Фригийцы развивают характерную музыкальную традицию, основанную на двухтрубном инструменте авлос; фригийский лад становится фундаментальным для греческой музыкальной теории и ассоциируется с экстатическими религиозными обрядами",
+      "description": "The Phrygians developed a distinctive musical tradition based on the double-pipe instrument, the aulos. The aulos is a powerful wind instrument with a double reed, closely related to the modern oboe, duduk, or zurna. The aulonist (performer) played two pipes simultaneously. One pipe carried the main melody, while the other produced a continuous low drone—a drone (like a bagpipe). This constant hum hypnotized listeners. The instrument's design allowed the musician to produce mystic microtonal sounds. To the drone of the aulos and the clash of tambourines, people would begin to dance frantically, falling into a state of mania — a sacred frenzy. The Phrygians typically played in the mode now known as Dorian; confusion arose during the classification of modes in the Middle Ages.",
+      "description_ru": "Фригийцы развивают характерную музыкальную традицию, основанную на двухтрубном инструменте авлос. Авлос — это мощный духовой инструмент с двойной тростью, близкий родственник современного гобоя, дудука или зурны. Авлонист (исполнитель) играл одновременно на двух трубках. Одна трубка вела основную мелодию, а вторая издавала непрерывный низкий гудящий звук — бурдон (как на волынке). Этот постоянный гул гипнотизировал слушателей. Конструкция инструмента позволяла музыканту извлекать микротональные звуки. Под гудение авлосов и звон бубнов люди начинали неистово танцевать, впадая в состояние мании — священного безумия. При этом фригийцы как правило играли в ладу, ныне известном как дорийский; путаница возникла при классификации ладов в Средневековье.",
       "era": "BC",
       "latitude": 39.6511,
       "longitude": 31.9958,
       "name": "Phrygian Musical Innovation",
       "name_ru": "Фригийские музыкальные инновации",
-      "source": "https://en.wikipedia.org/wiki/Phrygian_mode",
+      "source": "https://en.wikipedia.org/wiki/Aulos",
       "tags": [
         "Phrygian",
         "Culture",
         "Innovation",
         "Music",
+        "Mystery",
         "Religious"
       ],
       "type": "cultural"
@@ -841,6 +842,7 @@
         "Cimmerian",
         "Lydia",
         "Mermnad",
+        "War",
         "Invasion"
       ],
       "type": "military"
@@ -1009,8 +1011,8 @@
       "era": "BC",
       "latitude": 38.4852,
       "longitude": 28.0428,
-      "name": "Royal Mint Established",
-      "name_ru": "Учреждение царского монетного двора",
+      "name": "Royal Mint of Lydia Established",
+      "name_ru": "Учреждение царского монетного двора Лидии",
       "source": "https://en.wikipedia.org/wiki/Lydia",
       "tags": [
         "Lydia",
@@ -1518,7 +1520,7 @@
       "type": "historic"
     },
     {
-      "date": "01.07.0334",
+      "date": "01.09.0334",
       "description": "Alexander the Great besieges Halicarnassus during conquest of Asia; despite fierce resistance led by Persian commanders Memnon and Orontobates, city falls after prolonged siege, partially destroying Mausoleum's precinct",
       "description_ru": "Александр Великий осаждает Галикарнас во время завоевания Азии, чтобы лишить Персию морской базы; несмотря на ожесточенное сопротивление под руководством персидских командиров Мемнона и Оронтобата, город сдается после длительной осады. Мавзолей подвергается частичному разрушению",
       "era": "BC",
@@ -1541,7 +1543,7 @@
       "type": "military"
     },
     {
-      "date": "20.06.0334",
+      "date": "20.08.0334",
       "description": "Ada, last Hecatomnid ruler, surrenders fortress of Alinda to Alexander and adopts him as her son; Alexander restores her rule over Caria as reward, ending Persian period and beginning Hellenistic era",
       "description_ru": "Ада, последний правитель Гекатомнидов, сдает крепость Алинда Александру и усыновляет его; Александр восстанавливает ее правление над Карией в награду, завершая персидский период и начиная эллинистическую эру",
       "era": "BC",
