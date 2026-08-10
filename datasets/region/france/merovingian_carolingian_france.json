@@ -1,0 +1,505 @@
+{
+  "filename": "merovingian_carolingian_france.json",
+  "description": "France from the Frankish settlement after Rome's fall through the Merovingian kingdom, the Carolingian rise, Charlemagne's empire, and the fragmentation under Louis the Pious — ending at the Oath of Strasbourg in 842.",
+  "events": [
+    {
+      "date": "01.01.0406",
+      "era": "AD",
+      "type": "political",
+      "name": "The Franks inherit northern Gaul — Roman federates become masters",
+      "name_ru": "Франки наследуют северную Галлию — римские федераты становятся хозяевами",
+      "description": "The Rhine crossing of 406 that flooded Gaul with Vandals, Suebi, and Alans left the Franks — already settled as Roman federates along the lower Rhine and in Toxandria (modern Belgium) — as the de facto defenders of northern Gaul. Unlike the crossing peoples, the Franks did not migrate; they expanded into the vacuum left by collapsing Roman administration, gradually absorbing the Gallo-Roman population they lived alongside rather than displacing it.\n\nThis gradual absorption distinguished the Frankish settlement from the Visigothic or Burgundian kingdoms further south. The Franks became bilingual, intermarried with the Gallo-Roman aristocracy, kept Roman administrative structures where useful, and adopted Latin for writing while retaining their Germanic speech. The partnership between conquering Franks and conquered Gallo-Romans — each needing what the other offered — was the social foundation on which France was eventually built.",
+      "description_ru": "Рейнский переход 406 года, наводнивший Галлию вандалами, свевами и аланами, оставил франков — уже осевших как римские федераты вдоль нижнего Рейна и в Токсандрии (современная Бельгия) — фактическими защитниками северной Галлии. В отличие от переходивших народов, франки не мигрировали: они расширялись в вакуум, оставленный рухнувшей римской администрацией, постепенно поглощая живущее рядом галло-римское население, а не вытесняя его.\n\nЭто постепенное поглощение отличало франкское расселение от вестготского или бургундского королевств на юге. Франки стали двуязычными, вступали в браки с галло-римской аристократией, сохраняли римские административные структуры там, где это было полезно, и приняли латынь для письма, сохранив германскую речь. Партнёрство завоевателей-франков и завоёванных галло-римлян стало социальной основой, на которой в конечном счёте была построена Франция.",
+      "latitude": 49.3808,
+      "longitude": 3.3233,
+      "source": "https://en.wikipedia.org/wiki/Franks",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Historic",
+        "Migration",
+        "Roman",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "01.01.0463",
+      "era": "AD",
+      "type": "political",
+      "name": "Childeric I — the pagan warrior king who held Gaul for Rome",
+      "name_ru": "Хильдерик I — языческий король-воин, удержавший Галлию для Рима",
+      "description": "Childeric I, king of the Salian Franks from around 463 until his death in 481, was the last Merovingian to rule as an explicit Roman ally — his seal ring, inscribed CHILDERICI REGIS, was found in his tomb at Tournai alongside Roman coins and a Roman military belt, marking him as a federate commander in Roman style. He fought alongside the Roman general Aegidius against Visigoths and Saxons, and was the dominant military power in northern Gaul after the western empire dissolved in 476.\n\nChilderic's tomb, discovered in 1653, contained 300 golden bees that Napoleon later adopted as an imperial symbol. It revealed a man buried in Germanic warrior fashion but surrounded by Roman wealth — the perfect image of the Frankish position: rooted in Germanic tradition, fluent in Roman power. His son Clovis inherited both the kingdom and this ambiguity, resolving it by conquering Gaul outright.",
+      "description_ru": "Хильдерик I, король салических франков примерно с 463 года до своей смерти в 481 году, был последним Меровингом, правившим как явный союзник Рима. Его перстень-печать с надписью CHILDERICI REGIS был обнаружен в его гробнице в Турне вместе с римскими монетами и римским военным поясом — знаками командира-федерата в римском стиле. Он сражался рядом с римским полководцем Эгидием против вестготов и саксов и был главной военной силой в северной Галлии после распада западной империи в 476 году.\n\nГробница Хильдерика, обнаруженная в 1653 году, содержала 300 золотых пчёл, впоследствии принятых Наполеоном в качестве имперского символа. Она открыла человека, похороненного в германском воинском стиле, но окружённого римским богатством — совершенный образ франкского положения: укоренённого в германской традиции, но свободного в обращении с римской властью.",
+      "latitude": 50.605,
+      "longitude": 3.3888,
+      "source": "https://en.wikipedia.org/wiki/Childeric_I",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Historic",
+        "Roman",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "01.01.0486",
+      "era": "AD",
+      "type": "military",
+      "name": "Battle of Soissons — Clovis ends the last Roman enclave in Gaul",
+      "name_ru": "Битва при Суассоне — Хлодвиг уничтожает последний римский анклав в Галлии",
+      "description": "When Clovis defeated and killed Syagrius — the self-styled 'King of the Romans' who had maintained a rump Roman statelet around Soissons since 476 — the last vestige of direct Roman government in Gaul disappeared. Syagrius had no legal standing after the western empire dissolved but had maintained effective control over a substantial territory simply because no one had yet moved against him. Clovis took it, absorbed its Gallo-Roman administrative apparatus, and enslaved or executed the remnant resistance.\n\nThe political significance was enormous. Clovis now controlled all of northern Gaul from the Loire to the Rhine, and he had acquired it by right of conquest rather than Roman appointment — a qualitatively different kind of authority. The Gallo-Roman bishops and landowners who had served Syagrius switched their allegiance without apparent difficulty, beginning the process by which the Frankish church and the Frankish state grew into each other.",
+      "description_ru": "Когда Хлодвиг разгромил и убил Сиагрия — самозваного «короля римлян», сохранявшего остаточное римское государство вокруг Суассона с 476 года, — последний след прямого римского управления в Галлии исчез. Сиагрий не имел юридического статуса после распада западной империи, однако сохранял фактический контроль над значительной территорией просто потому, что никто ещё не решился выступить против него. Хлодвиг взял её, поглотил галло-римский административный аппарат и ликвидировал остатки сопротивления.\n\nПолитическое значение было огромным. Хлодвиг теперь контролировал всю северную Галлию от Луары до Рейна, и приобрёл её правом завоевания, а не римским назначением — качественно иной вид власти. Галло-римские епископы и землевладельцы, служившие Сиагрию, без видимых затруднений перешли на его сторону, начав процесс, в ходе которого франкская церковь и франкское государство срастались друг с другом.",
+      "latitude": 49.3808,
+      "longitude": 3.3233,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Soissons_(486)",
+      "tags": [
+        "Frankish",
+        "Military",
+        "Battle",
+        "Roman",
+        "Conquest",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0496",
+      "era": "AD",
+      "type": "military",
+      "name": "Battle of Tolbiac — Clovis makes his vow and defeats the Alemanni",
+      "name_ru": "Битва при Толбиаке — Хлодвиг даёт обет и разбивает алеманнов",
+      "description": "At Tolbiac (modern Zülpich in the Rhineland) around 496, Clovis faced the Alemanni — a powerful Germanic confederation pressing across the Rhine — in a battle his forces initially appeared to be losing. According to the account written by Gregory of Tours half a century later, Clovis called on the Christian god of his wife Clotilde, promising to convert if he was given victory. The Alemanni were routed; Clovis kept his vow.\n\nThe historicity of the vow is debated, but the political consequence was real: Clovis was baptised at Reims shortly after, becoming the first Germanic king to adopt Nicene Catholicism rather than Arianism. This distinguished the Franks from every other major Germanic kingdom — Visigoths, Ostrogoths, Vandals, Burgundians were all Arian — and gave the Frankish king a unique relationship with the Roman pope and the Gallo-Roman episcopate whose support was indispensable for governing a largely Roman population.",
+      "description_ru": "При Толбиаке (современный Цюльпих в Рейнской области) около 496 года Хлодвиг столкнулся с алеманнами — мощной германской конфедерацией, давившей через Рейн, — в битве, которую его силы поначалу, казалось, проигрывали. По свидетельству Григория Турского, написанному полувеком позже, Хлодвиг воззвал к христианскому богу своей жены Клотильды, пообещав обратиться, если получит победу. Алеманны были разгромлены; Хлодвиг сдержал слово.\n\nДостоверность обета оспаривается, но политическое последствие было реальным: вскоре после этого Хлодвиг принял крещение в Реймсе, став первым германским королём, принявшим никейский католицизм, а не арианство. Это выделяло франков среди всех прочих крупных германских королевств — вестготов, остготов, вандалов, бургундов, бывших арианами, — и давало франкскому королю уникальные отношения с римским папой и галло-римским епископатом.",
+      "latitude": 50.6983,
+      "longitude": 6.6514,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Tolbiac",
+      "tags": [
+        "Frankish",
+        "Military",
+        "Battle",
+        "Religious",
+        "Historic"
+      ]
+    },
+    {
+      "date": "25.12.0496",
+      "era": "AD",
+      "type": "religious",
+      "name": "Baptism of Clovis — the birth of France's 'eldest daughter of the Church'",
+      "name_ru": "Крещение Хлодвига — рождение «старшей дочери Церкви»",
+      "description": "On Christmas Day 496 — the same feast day on which Charlemagne would later be crowned emperor — bishop Remigius of Reims baptised Clovis and an estimated 3,000 of his warriors in the cathedral at Reims. The choice of Nicene Catholicism was a political masterstroke: it aligned the most powerful Germanic king in the West with the only Christianity Rome's surviving institutional church recognised as orthodox, and it gave Clovis the moral authority to frame his subsequent conquests as crusades against heretical Arian kingdoms.\n\nThe Reims baptism inaugurated a millennium-long tradition. French kings would be crowned at Reims until 1825; the cathedral became the symbol of French royal legitimacy. The phrase 'eldest daughter of the Church' — applied to France by the papacy — dates conceptually from Clovis's conversion, which established a special relationship between the Frankish crown and Rome that shaped European history through the Crusades and beyond.",
+      "description_ru": "В Рождество 496 года — тот же праздник, в который впоследствии был коронован Карл Великий, — епископ Реймса Ремигий крестил Хлодвига и предположительно 3 000 его воинов в реймсском соборе. Выбор никейского католицизма был политическим мастерством: он согласовывал самого мощного германского короля Запада с единственным христианством, признанным православным уцелевшей институциональной церковью Рима, и давал Хлодвигу нравственный авторитет для представления последующих завоеваний как крестовых походов против еретических арианских королевств.\n\nРеймсское крещение положило начало тысячелетней традиции. Французские короли короновались в Реймсе вплоть до 1825 года; собор стал символом французской королевской легитимности. Выражение «старшая дочь Церкви» — применявшееся папством к Франции — концептуально восходит к обращению Хлодвига, установившему особые отношения между франкской короной и Римом.",
+      "latitude": 49.2583,
+      "longitude": 4.0317,
+      "source": "https://en.wikipedia.org/wiki/Baptism_of_Clovis",
+      "tags": [
+        "Frankish",
+        "Religious",
+        "Christian",
+        "Historic",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "01.01.0500",
+      "era": "AD",
+      "type": "political",
+      "name": "Salic Law — the Frankish legal code that shaped European succession",
+      "name_ru": "Салический закон — франкский правовой кодекс, определивший европейское престолонаследие",
+      "description": "The Pactus Legis Salicae — Salic Law — was written down during Clovis's reign, probably around 500, codifying the customary law of the Salian Franks in Latin. It covered criminal penalties, inheritance, property transfer, and procedural rules for resolving disputes. Unlike Roman law, which governed the Gallo-Roman majority, Salic Law applied to Franks — and the two systems ran in parallel for generations in the same territory.\n\nOne clause gained extraordinary later significance: the exclusion of women from inheriting Salic land. Medieval jurists extended this to royal succession, using it to bar women — and men tracing their claim through a female line — from the French throne. The principle was invoked to exclude Edward III of England from the French succession in the 1320s, directly causing the Hundred Years War. A legal custom written for settling disputes among fifth-century Rhine farmers thus determined the course of medieval European politics for a century.",
+      "description_ru": "Pactus Legis Salicae — Салический закон — был записан в правление Хлодвига, вероятно около 500 года, кодифицируя обычное право салических франков на латыни. Он охватывал уголовные наказания, наследование, передачу имущества и процессуальные правила урегулирования споров. В отличие от римского права, управлявшего галло-римским большинством, Салический закон применялся к франкам — и обе системы параллельно действовали на одной территории на протяжении поколений.\n\nОдна статья приобрела исключительное позднейшее значение: исключение женщин из наследования салической земли. Средневековые юристы распространили это на королевское престолонаследие, используя для отстранения женщин — и мужчин, заявлявших права по женской линии, — от французского трона. Принцип был использован для отстранения Эдуарда III Английского от французского престолонаследия в 1320-х годах, непосредственно вызвав Столетнюю войну.",
+      "latitude": 49.3808,
+      "longitude": 3.3233,
+      "source": "https://en.wikipedia.org/wiki/Salic_law",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Law",
+        "Historic",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "27.11.0511",
+      "era": "AD",
+      "type": "political",
+      "name": "Death of Clovis — the kingdom divided, the conflicts begin",
+      "name_ru": "Смерть Хлодвига — королевство разделено, конфликты начинаются",
+      "description": "Clovis died in Paris in November 511 at around 45, having united the Frankish tribes, conquered northern and southwestern Gaul, driven the Visigoths across the Pyrenees, and forged an alliance with the church that made the Franks Rome's heirs in the West. He had also established the fatal Merovingian custom of treating the kingdom as personal property, to be divided equally among surviving sons — a provision that guaranteed perpetual civil war.\n\nHis four sons split the kingdom into four shares centred on Rheims, Orléans, Paris, and Soissons. Within a generation these shares were recombining, splitting again, and fought over by increasingly violent succession disputes. The unity Clovis built was real but fragile; the machinery he left for maintaining it — personal loyalty, military force, no bureaucratic permanence — was adequate for one exceptional man and disastrous in the hands of mediocre successors.",
+      "description_ru": "Хлодвиг умер в Париже в ноябре 511 года в возрасте около 45 лет, объединив франкские племена, завоевав северную и юго-западную Галлию, вытеснив вестготов за Пиренеи и сковав союз с церковью, сделавший франков наследниками Рима на Западе. Он также закрепил роковой меровингский обычай рассматривать королевство как личную собственность, подлежащую равному разделу между выжившими сыновьями, — условие, гарантировавшее бесконечную гражданскую войну.\n\nЧетыре его сына разделили королевство на четыре части с центрами в Реймсе, Орлеане, Париже и Суассоне. В течение поколения эти части воссоединялись, снова дробились и оспаривались во всё более жестоких распрях о престолонаследии. Единство, выстроенное Хлодвигом, было реальным, но хрупким; машина, оставленная им для его поддержания — личная преданность, военная сила, никакой бюрократической постоянности, — была достаточна для одного исключительного человека и катастрофична в руках посредственных преемников.",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "source": "https://en.wikipedia.org/wiki/Clovis_I",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Historic",
+        "Death",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "01.01.0561",
+      "era": "AD",
+      "type": "political",
+      "name": "Austrasia and Neustria — the Frankish kingdom splits its personality",
+      "name_ru": "Австразия и Нейстрия — франкское королевство раскалывает свою личность",
+      "description": "The death of Chlothar I in 561 — who had briefly reunited all of Clovis's kingdom — produced the definitive partition into the sub-kingdoms that would shape Frankish politics for two centuries. Austrasia, the eastern kingdom centred on the Rhine and Moselle, was more Germanic in character, its aristocracy rooted in the Rhineland and the frontier with the Saxon and Thuringian peoples. Neustria, the western kingdom centred on the Seine valley and Paris, was more Romanised, its nobility intertwined with the Gallo-Roman church.\n\nThe rivalry between these two cultures — expressed through dynastic marriages, assassination, and open warfare — became the defining drama of Merovingian politics. Each kingdom had its own palace, its own major-domos, and its own aristocratic factions competing for royal favour. Burgundy oscillated between them as a third weight in the balance. The tension between Austrasian Germanic energy and Neustrian Roman sophistication was ultimately resolved by the Carolingians — an Austrasian family — who conquered both.",
+      "description_ru": "Смерть Хлотара I в 561 году — кратко воссоединившего всё королевство Хлодвига — произвела окончательный раздел на субкоролевства, определявшие франкскую политику два столетия. Австразия, восточное королевство с центром на Рейне и Мозеле, была более германской по характеру, её аристократия коренилась в Рейнской области и на границе с саксонскими и тюрингскими народами. Нейстрия, западное королевство с центром в долине Сены и Париже, была более романизированной.\n\nСоперничество между этими двумя культурами — выражавшееся через династические браки, убийства и открытую войну — стало определяющей драмой меровингской политики. У каждого королевства были свой дворец, свои майордомы и свои аристократические группировки, борющиеся за королевскую милость. Бургундия колебалась между ними как третий противовес. Напряжённость между австразийской германской энергией и нейстрийской римской утончённостью в конечном счёте разрешили Каролинги — австразийская семья, завоевавшая обоих.",
+      "latitude": 49.1193,
+      "longitude": 6.1757,
+      "source": "https://en.wikipedia.org/wiki/Austrasia",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Historic",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "01.01.0575",
+      "era": "AD",
+      "type": "political",
+      "name": "Brunhilda and Fredegund — the queens who tore Frankish Gaul apart",
+      "name_ru": "Брунгильда и Фредегунда — королевы, разорвавшие франкскую Галлию",
+      "description": "The murder of Galswintha — Visigothic princess and wife of the Neustrian king Chilperic — by his concubine Fredegund around 568 launched forty years of warfare between Neustria and Austrasia that was personalised as a vendetta between two women. Galswintha's sister Brunhilda, queen of Austrasia, devoted her reign to avenging the murder; Fredegund, who married Chilperic after Galswintha's death, matched her in ruthlessness and political intelligence.\n\nBoth queens governed effectively when their husbands and sons were weak or dead, manipulating the Frankish aristocracy, ordering assassinations, and fielding armies. Gregory of Tours — writing during the conflict — portrays them as embodiments of female wickedness, but his own account reveals two capable rulers navigating a system that gave queens genuine power while denying them formal legitimacy. Brunhilda was eventually captured by her enemies and executed by Chlothar II in 613, allegedly torn apart by horses — the end of the bloodiest chapter in Merovingian history.",
+      "description_ru": "Убийство Галесвинты — вестготской принцессы и жены нейстрийского короля Хильперика — его наложницей Фредегундой около 568 года развязало сорок лет войн между Нейстрией и Австразией, персонифицированных как вендетта двух женщин. Сестра Галесвинты Брунгильда, королева Австразии, посвятила своё правление отмщению за убийство; Фредегунда, вышедшая замуж за Хильперика после смерти Галесвинты, не уступала ей в беспощадности и политическом уме.\n\nОбе королевы эффективно управляли, когда их мужья и сыновья были слабы или мертвы, манипулируя франкской аристократией, отдавая приказы об убийствах и выставляя армии. Григорий Турский — писавший в разгар конфликта — изображает их воплощением женского коварства, однако его же описание обнаруживает двух способных правительниц, navigating систему, дававшую королевам реальную власть при отрицании формальной легитимности. Брунгильда была в конечном счёте схвачена врагами и казнена Хлотарем II в 613 году, якобы разорванная лошадьми.",
+      "latitude": 49.1193,
+      "longitude": 6.1757,
+      "source": "https://en.wikipedia.org/wiki/Brunhilda_of_Austrasia",
+      "tags": [
+        "Frankish",
+        "Political",
+        "War",
+        "Historic",
+        "Death"
+      ]
+    },
+    {
+      "date": "01.01.0590",
+      "era": "AD",
+      "type": "religious",
+      "name": "Columbanus arrives in Gaul — Irish monasticism reshapes the Frankish church",
+      "name_ru": "Колумбан прибывает в Галлию — ирландское монашество перестраивает франкскую церковь",
+      "description": "The Irish monk Columbanus arrived in Frankish Gaul around 590 with twelve companions and founded a series of monasteries — Annegray, Luxeuil, Fontaine — in the Vosges mountains of Burgundy. Luxeuil became one of the most influential monasteries in early medieval Europe, producing bishops and abbots who carried its strict rule across the Frankish kingdom and beyond. Columbanus's own rule, harsher than the Benedictine, emphasised penitential practice and private confession — both innovations that transformed western Christian piety.\n\nColumbanus quarrelled with Frankish bishops over the dating of Easter, with the Merovingian court over royal sexual morality, and was eventually expelled — travelling through Austrasia and Alemannia before founding Bobbio in Italy, where he died in 615. The monasteries he left behind were staffed by his disciples and became the nuclei of the Carolingian monastic reform. The fusion of Irish ascetic intensity with Frankish institutional resources produced the distinctive church culture of the early medieval West.",
+      "description_ru": "Ирландский монах Колумбан прибыл во франкскую Галлию около 590 года с двенадцатью спутниками и основал ряд монастырей — Аннегрэ, Люксёй, Фонтен — в Вогезах в Бургундии. Люксёй стал одним из наиболее влиятельных монастырей раннесредневековой Европы, выпуская епископов и аббатов, распространявших его строгий устав по всему франкскому королевству и за его пределами. Устав самого Колумбана, более суровый, чем бенедиктинский, подчёркивал покаянную практику и тайную исповедь — оба нововведения, преобразившие западное христианское благочестие.\n\nКолумбан спорил с франкскими епископами о дате Пасхи, с меровингским двором о королевской сексуальной морали и в конечном счёте был изгнан, путешествуя через Австразию и Алеманнию, прежде чем основать Боббио в Италии, где умер в 615 году. Оставленные им монастыри стали ячейками каролингской монастырской реформы.",
+      "latitude": 47.8214,
+      "longitude": 6.3833,
+      "source": "https://en.wikipedia.org/wiki/Columbanus",
+      "tags": [
+        "Frankish",
+        "Religious",
+        "Christian",
+        "Culture",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0629",
+      "era": "AD",
+      "type": "political",
+      "name": "Dagobert I — the last Merovingian who actually ruled",
+      "name_ru": "Дагоберт I — последний Меровинг, который действительно правил",
+      "description": "Dagobert I, who united the Frankish kingdom from 629 to 639, was the last Merovingian king to exercise real personal authority. He reunified Austrasia, Neustria, and Burgundy, conducted successful campaigns against Saxons and Slavs, maintained close relations with the papacy and the Byzantine emperor, and managed the Frankish aristocracy with enough skill to prevent the factional disintegration that had consumed his predecessors.\n\nDagobert was also a patron of art and the church: he endowed the Abbey of Saint-Denis near Paris lavishly, making it the royal mausoleum that it would remain for over a thousand years, and commissioned goldsmiths — including the legendary Eligius, later bishop of Noyon and patron saint of metalworkers — to produce some of the finest Merovingian treasury objects. His early death at around 36 left his kingdom to infant sons and the aristocratic factions that would use them as instruments, inaugurating the era of the 'do-nothing kings' and the rise of the mayors of the palace.",
+      "description_ru": "Дагоберт I, объединивший франкское королевство с 629 по 639 год, был последним меровингским королём, осуществлявшим реальную личную власть. Он воссоединил Австразию, Нейстрию и Бургундию, проводил успешные кампании против саксов и славян, поддерживал тесные отношения с папством и византийским императором и управлял франкской аристократией с достаточным мастерством, чтобы предотвратить фракционный распад, поглотивший его предшественников.\n\nДагоберт был также меценатом искусства и церкви: он щедро одарил аббатство Сен-Дени близ Парижа, сделав его королевским мавзолеем, которым оно оставалось более тысячи лет, и заказал ювелирам — включая легендарного Элигия, позднее епископа Нуайонского — создать лучшие из меровингских сокровищ. Его ранняя смерть в возрасте около 36 лет оставила королевство малолетним сыновьям и аристократическим фракциям, использовавшим их как инструменты, открыв эру «ленивых королей» и возвышения майордомов.",
+      "latitude": 48.9362,
+      "longitude": 2.3597,
+      "source": "https://en.wikipedia.org/wiki/Dagobert_I",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Historic",
+        "Culture"
+      ]
+    },
+    {
+      "date": "01.01.0640",
+      "era": "AD",
+      "type": "political",
+      "name": "The Rois Fainéants — do-nothing kings and the rise of the mayors of the palace",
+      "name_ru": "Rois fainéants — «ленивые короли» и возвышение майордомов",
+      "description": "After Dagobert's death in 639, the Merovingian kings were typically children or teenagers, controlled by aristocratic factions competing for the office of maior domus — mayor of the palace — the royal household official who became the real power behind the throne. The kings retained their sacred Merovingian hair (the dynasty's symbol of legitimacy), were paraded at assemblies, and issued charters, but policy was made by whoever held the mayorship. Einhard's later portrait of these kings being carted to assemblies in ox-drawn wagons — too feeble even to ride — is probably exaggerated, but captures a real condition.\n\nThe mayoralty was itself contested between Austrasian and Neustrian factions. Three great aristocratic families — the Arnulfings in Austrasia, the Neustrian nobility around the Ebroins — fought a sustained civil conflict, sometimes open war, from the 640s until the Battle of Tertry in 687 gave the Arnulfings decisive dominance. Their leader Pepin of Herstal became the first mayor to hold effective authority over the entire Frankish kingdom.",
+      "description_ru": "После смерти Дагоберта в 639 году меровингские короли, как правило, были детьми или подростками, контролируемыми аристократическими фракциями, соперничавшими за должность maior domus — майордома, чиновника королевского двора, ставшего реальной силой за троном. Короли сохраняли свои священные меровингские волосы (символ легитимности династии), участвовали в торжественных собраниях и выдавали грамоты, но политику определял тот, кто держал майорство. Позднейший портрет Эйнхарда, изображающий этих королей, которых везут на собрания в повозках, запряжённых волами, вероятно преувеличен, но передаёт реальное положение дел.\n\nСама майорская должность оспаривалась между австразийскими и нейстрийскими фракциями. Три великих аристократических семьи вели затяжной гражданский конфликт, иногда переходивший в открытую войну, с 640-х годов до битвы при Тертри в 687 году, давшей Арнульфингам решающее господство. Их вождь Пипин Геристальский стал первым майордомом, осуществлявшим реальную власть над всем франкским королевством.",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "source": "https://en.wikipedia.org/wiki/Do-nothing_kings",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0687",
+      "era": "AD",
+      "type": "political",
+      "name": "Pepin of Herstal — Battle of Tertry unites the Franks under one mayor",
+      "name_ru": "Пипин Геристальский — битва при Тертри объединяет франков под одним майордомом",
+      "description": "At the Battle of Tertry in 687, Pepin of Herstal — mayor of the palace of Austrasia — decisively defeated the Neustrian nobility and their Merovingian puppet king, establishing Austrasian supremacy over the whole Frankish kingdom. For the first time in a generation, a single mayor controlled both Austrasia and Neustria, while the Merovingian king continued to reign as a figurehead. Pepin held this position until his death in 714 and made it effectively hereditary within his family.\n\nTertry marks the practical beginning of Carolingian power, though the name comes later and the dynastic claims were formalised only by Pepin's grandson. The Arnulfing family — descendants of bishop Arnulf of Metz and Pepin of Landen — had been building power in the Austrasian church and aristocracy for two generations. Pepin of Herstal converted that social capital into political dominance, transmitting it to his illegitimate son Charles, who would become the greatest Frankish military commander since Clovis.",
+      "description_ru": "В битве при Тертри в 687 году Пипин Геристальский — майордом Австразии — нанёс решительное поражение нейстрийской знати и её марионеточному меровингскому королю, установив австразийское превосходство над всем франкским королевством. Впервые за поколение один майордом контролировал и Австразию, и Нейстрию, тогда как меровингский король продолжал царствовать как номинальный правитель. Пипин сохранял эту позицию до своей смерти в 714 году и сделал её фактически наследственной в своей семье.\n\nТертри знаменует практическое начало каролингской власти, хотя это имя появится позже, а династические претензии будут оформлены лишь внуком Пипина. Семья Арнульфингов — потомки епископа Арнульфа Мецского и Пипина Ланденского — выстраивала власть в австразийской церкви и аристократии два поколения. Пипин Геристальский превратил этот социальный капитал в политическое господство и передал его незаконному сыну Карлу.",
+      "latitude": 49.9833,
+      "longitude": 3.0333,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Tertry",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Military",
+        "Battle",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0714",
+      "era": "AD",
+      "type": "political",
+      "name": "Charles Martel seizes power — the Hammer forges the Carolingian order",
+      "name_ru": "Карл Мартелл захватывает власть — Молот кует каролингский порядок",
+      "description": "When Pepin of Herstal died in 714, leaving his succession to infant grandsons under a regent, his illegitimate son Charles — imprisoned by his stepmother Plectrude — escaped, rallied Austrasian supporters, defeated the Neustrians at the Battle of Vinchy in 717, and by 719 had made himself sole master of the Frankish kingdom while keeping a Merovingian figurehead on the throne. He spent the next two decades fighting on every frontier simultaneously: Saxons to the north, Frisians to the northeast, Alemanni and Bavarians to the east, Moors to the south.\n\nCharles earned his epithet Martel — the Hammer — through relentless military campaigning. His strategic innovation was financing his cavalry-heavy military through the seizure of church land, distributing it as conditional grants to warriors who owed military service in return — an early form of the feudal benefice that would define medieval European warfare. The church resented the land seizures but needed Frankish military protection; the compromise shaped the relationship between church and Carolingian state for a century.",
+      "description_ru": "Когда Пипин Геристальский умер в 714 году, оставив престолонаследие малолетним внукам под регентством мачехи Плектруды, его незаконный сын Карл бежал из заключения, собрал австразийских сторонников, разгромил нейстрийцев в битве при Венши в 717 году и к 719 году стал единовластным господином франкского королевства, сохранив меровингскую марионетку на троне. Следующие два десятилетия он провёл в непрерывных войнах на всех рубежах одновременно: саксы на севере, фризы на северо-востоке, алеманны и баварцы на востоке, мавры на юге.\n\nКарл заслужил прозвище Мартелл — Молот — неостановимыми военными кампаниями. Его стратегическим новшеством было финансирование тяжёлой кавалерии через изъятие церковных земель, раздававшихся в условные пожалования воинам, обязанным военной службой в ответ, — ранняя форма феодального бенефиция, определившего средневековую европейскую войну. Церковь негодовала из-за потерянных владений, но нуждалась в франкской военной защите; этот компромисс формировал отношения между церковью и каролингским государством на протяжении целого столетия, создав образец взаимозависимости, который его сын и внук унаследуют и углубят.",
+      "latitude": 50.6333,
+      "longitude": 5.5667,
+      "source": "https://en.wikipedia.org/wiki/Charles_Martel",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Military",
+        "Historic",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "01.11.0751",
+      "era": "AD",
+      "type": "political",
+      "name": "Pepin the Short deposes the last Merovingian — the Carolingian dynasty begins",
+      "name_ru": "Пипин Короткий свергает последнего Меровинга — начало Каролингской династии",
+      "description": "In 751, Pepin III — son of Charles Martel, inheritor of the mayoralty — took the decisive step his father had never dared. With papal approval obtained through a carefully worded query to Pope Zachary ('Is it right that a man who has no power should bear the name of king?'), Pepin deposed the last Merovingian Childeric III, had him tonsured and sent to a monastery, and was elected king by the Frankish assembly. He was then anointed by bishop Boniface — the English missionary who was reforming the Frankish church — in a ceremony modelled on the Old Testament anointing of kings.\n\nThe consecration by anointing was new to Frankish practice and deeply significant: it gave the Carolingian dynasty a sacral legitimacy independent of Merovingian bloodline, rooting royal authority in divine appointment rather than ancestry. Pepin was anointed again by Pope Stephen II in person in 754, the first time a pope had crossed the Alps to anoint a Frankish king — an act that created mutual obligations between papacy and Carolingians that would define European politics for centuries.",
+      "description_ru": "В 751 году Пипин III — сын Карла Мартелла, наследник майорства — сделал решительный шаг, которого его отец никогда не осмеливался. С папского одобрения, полученного через тщательно сформулированный вопрос папе Захарию («Правильно ли, что человек, не имеющий власти, носит имя короля?»), Пипин низложил последнего Меровинга Хильдерика III, велел его постричь и отправить в монастырь и был избран королём Франкским собранием. Затем его помазал епископ Бонифаций — английский миссионер, реформировавший франкскую церковь, — в церемонии, смоделированной по образцу ветхозаветного помазания царей.\n\nПомазание было новшеством для франкской практики: оно давало Каролингской династии сакральную легитимность, независимую от меровингской крови, укореняя королевскую власть в Божественном избрании, а не в родословной. Пипин был помазан вновь лично папой Стефаном II в 754 году — первый раз, когда папа пересёк Альпы, чтобы помазать франкского короля.",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "source": "https://en.wikipedia.org/wiki/Pepin_the_Short",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Religious",
+        "Historic",
+        "Foundation",
+        "Dynasty"
+      ]
+    },
+    {
+      "date": "01.01.0754",
+      "era": "AD",
+      "type": "political",
+      "name": "The Donation of Pepin — the Franks create the Papal States",
+      "name_ru": "Дар Пипина — франки создают Папскую область",
+      "description": "In 754 and 756, Pepin crossed the Alps twice to defeat the Lombards who had seized Ravenna and were threatening Rome. Rather than returning the conquered territory to its nominal overlord — the Byzantine emperor — Pepin donated the Exarchate of Ravenna and the surrounding territories to Pope Stephen II, creating the nucleus of the Papal States that would exist as an independent political entity until 1870. The Byzantine emperor protested; Pepin ignored him.\n\nThe Donation was legally unprecedented and politically transformative. It gave the papacy territorial sovereignty — land, revenues, and the authority to govern — independent of any emperor. This would later become the source of the church's claims to political authority over secular rulers, and the basis of centuries of conflict between popes and emperors. The document supposedly recording Constantine's original grant of Rome to the papacy — the Donation of Constantine, later proved a medieval forgery — was probably fabricated around this time to provide historical precedent for what Pepin had actually done.",
+      "description_ru": "В 754 и 756 годах Пипин дважды переходил Альпы, чтобы разгромить лангобардов, захвативших Равенну и угрожавших Риму. Вместо того чтобы вернуть завоёванную территорию номинальному сюзерену — византийскому императору, — Пипин пожертвовал Равеннский экзархат и окрестные территории папе Стефану II, создав ядро Папской области, существовавшей как самостоятельное политическое образование вплоть до 1870 года. Византийский император протестовал; Пипин проигнорировал его.\n\nДар был юридически беспрецедентным и политически преобразующим. Он давал папству территориальный суверенитет — землю, доходы и власть управлять, — независимый от какого-либо императора. Это впоследствии стало источником притязаний церкви на политическую власть над светскими правителями и основой столетий конфликтов между папами и императорами. Документ, якобы фиксирующий первоначальный дар Константина Риму папству — Константинов дар, позднее разоблачённый как средневековая подделка, — вероятно, был сфабрикован примерно в это время для обеспечения исторического прецедента тому, что Пипин реально сделал.",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "source": "https://en.wikipedia.org/wiki/Donation_of_Pepin",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Religious",
+        "Historic",
+        "Foundation",
+        "Law"
+      ]
+    },
+    {
+      "date": "01.01.0768",
+      "era": "AD",
+      "type": "political",
+      "name": "Charlemagne inherits the kingdom — and immediately faces division",
+      "name_ru": "Карл Великий наследует королевство — и немедленно сталкивается с разделом",
+      "description": "When Pepin the Short died in 768, his kingdom was divided between his two sons Carloman and Charlemagne according to Frankish custom — Carloman receiving the more Romanised south and Charlemagne the more Germanic north and Rhine frontier. The brothers disliked each other and made no effort to cooperate. A crisis was averted only by Carloman's sudden death in 771, which allowed Charlemagne — still only 29 — to seize his brother's share, sending Carloman's widow and children into exile at the Lombard court.\n\nCharlemagne's subsequent reign of 46 years was the longest and most consequential in Frankish history. He came to power with military competence inherited from his grandfather and father, a Catholic faith that gave his wars moral legitimacy, and ambitions that expanded with each success. He would rule more of Europe than any man since the Roman emperors — and unlike them, he ruled it from horseback, personally leading campaigns across every frontier of the Frankish world.",
+      "description_ru": "Когда Пипин Короткий умер в 768 году, его королевство было разделено между двумя сыновьями — Карломаном и Карлом Великим — в соответствии с франкским обычаем: Карломан получил более романизированный юг, Карл — более германский север и Рейнский рубеж. Братья недолюбливали друг друга и не прилагали усилий к сотрудничеству. Кризис был предотвращён лишь внезапной смертью Карломана в 771 году, позволившей Карлу — ещё только 29-летнему — захватить долю брата, отправив его вдову и детей в изгнание при лангобардском дворе.\n\nПоследующее 46-летнее царствование Карла было самым длительным и значительным в истории франков. Он пришёл к власти с военной компетентностью, унаследованной от деда и отца, с католической верой, придававшей его войнам нравственную легитимность, и с амбициями, расширявшимися с каждым успехом. Он будет управлять большей частью Европы, чем любой человек со времён римских императоров.",
+      "latitude": 50.7762,
+      "longitude": 6.0839,
+      "source": "https://en.wikipedia.org/wiki/Charlemagne",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Historic",
+        "Dynasty"
+      ]
+    },
+    {
+      "date": "01.01.0772",
+      "era": "AD",
+      "type": "military",
+      "name": "The Saxon Wars — thirty years to Christianise the most stubborn of peoples",
+      "name_ru": "Саксонские войны — тридцать лет ради крещения самого упрямого из народов",
+      "description": "Charlemagne's campaigns against the pagan Saxons began in 772 with the destruction of the Irminsul — the sacred pillar at the heart of Saxon religion — and continued almost without interruption until 804. No other campaign of his reign lasted so long, cost so much, or required such repeated effort. The Saxons repeatedly submitted, accepted Christianity, then revolted when Charlemagne turned to another frontier. Each revolt was suppressed with increasing severity.\n\nThe Capitulary on the Saxons of 785 imposed the death penalty for a remarkable range of offences: refusing baptism, eating meat during Lent, cremating the dead, plotting against the king. In 782, after a Saxon uprising destroyed a Frankish army in the Süntel hills, Charlemagne had 4,500 Saxon prisoners executed at Verden in a single day — an act that even contemporaries found extraordinary. The Saxons were ultimately pacified not by massacre but by mass settlement of Frankish colonists, forced baptism, the building of churches, and the integration of Saxon nobles into the Carolingian aristocracy.",
+      "description_ru": "Кампании Карла Великого против языческих саксов начались в 772 году с уничтожения Ирминсуля — священного столпа в центре саксонской религии — и продолжались почти без перерыва до 804 года. Ни одна другая кампания его правления не длилась так долго, не стоила так дорого и не требовала столь многократных усилий. Саксы снова и снова сдавались, принимали христианство, затем поднимали восстание, когда Карл обращался к другому рубежу.\n\nКапитулярий о саксах 785 года вводил смертную казнь за широкий круг преступлений: отказ от крещения, употребление мяса в пост, сожжение покойников, заговор против короля. В 782 году, после того как саксонское восстание уничтожило франкскую армию в горах Зюнтель, Карл приказал казнить 4 500 саксонских пленников в Фердене за один день. Саксы были в конечном счёте усмирены не массовыми убийствами, а принудительным крещением, строительством церквей и интеграцией саксонской знати в каролингскую аристократию.",
+      "latitude": 52.9216,
+      "longitude": 9.2352,
+      "source": "https://en.wikipedia.org/wiki/Saxon_Wars",
+      "tags": [
+        "Frankish",
+        "Military",
+        "War",
+        "Religious",
+        "Conquest",
+        "Battle"
+      ]
+    },
+    {
+      "date": "01.01.0779",
+      "era": "AD",
+      "type": "political",
+      "name": "The Capitulary of Herstal — Charlemagne builds an empire on paper",
+      "name_ru": "Херстальский капитулярий — Карл Великий строит империю на бумаге",
+      "description": "The Capitulary of Herstal of 779 was one of the earliest and most ambitious of Charlemagne's legislative acts — a set of regulations issued in council with his magnates that attempted to standardise church organisation, criminal justice, and royal administration across the entire Frankish kingdom. It required uniformity in the tithe, regulated the behaviour of clergy, addressed property crimes, and established procedures for bringing cases before royal courts.\n\nCharlemagne issued hundreds of capitularies over his reign — legislation covering everything from the proper behaviour of monks to the correct weights for commercial transactions. His primary instrument for enforcing them was the missi dominici — 'the lord's envoys', typically a bishop and a count sent in pairs to inspect regions, hear complaints, and report violations back to the palace. The system was imperfect — the missi could be corrupted or ignored — but it represented the most systematic attempt to govern a large European territory since the Roman empire, and it established the principle that royal law should apply uniformly across social classes and geography.",
+      "description_ru": "Херстальский капитулярий 779 года был одним из первых и наиболее амбициозных законодательных актов Карла Великого — набором постановлений, изданных на совете с магнатами, который пытался стандартизировать церковную организацию, уголовное правосудие и королевское управление по всему франкскому королевству. Он требовал единообразия в церковной десятине, регулировал поведение духовенства, затрагивал имущественные преступления и устанавливал процедуры для передачи дел в королевские суды. Подобные постановления Карл Великий издавал сотнями на протяжении всего правления — законодательство охватывало всё от поведения монахов до правильных торговых мер.\n\nГлавным инструментом исполнения капитуляриев были missi dominici — «государевы посланцы», как правило епископ и граф, посылавшиеся парами для инспекции регионов, рассмотрения жалоб и донесения о нарушениях ко двору. Система была несовершенной — посланцев можно было подкупить или проигнорировать, — однако она представляла наиболее систематическую попытку управлять крупной европейской территорией со времён Римской империи и закрепляла принцип, согласно которому королевский закон должен применяться равномерно вне зависимости от социального положения и места жительства. Без этого административного каркаса ни военные успехи Карла, ни его культурные амбиции не могли быть устойчиво реализованы.",
+      "latitude": 50.6333,
+      "longitude": 5.5667,
+      "source": "https://en.wikipedia.org/wiki/Capitulary_of_Herstal",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Law",
+        "Administration",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0781",
+      "era": "AD",
+      "type": "cultural",
+      "name": "The Carolingian Renaissance — Charlemagne rebuilds literate Europe",
+      "name_ru": "Каролингское возрождение — Карл Великий восстанавливает грамотную Европу",
+      "description": "From the late 770s, Charlemagne systematically recruited scholars from across Europe to his court at Aachen — Alcuin from Northumbrian England, Paul the Deacon from Italy, Theodulf from Visigothic Spain, Einhard from Franconia — and used them to reform education, standardise liturgy, and produce a correct Latin Bible. The Palace School educated not only royal children but the sons of noble families who would govern the empire. Charlemagne himself, who had never been taught to read as a child, learned to write in middle age, reportedly keeping tablets under his pillow to practise at night.\n\nThe Carolingian Renaissance was practical before it was cultural. Charlemagne needed administrators who could read legal documents and write coherent letters; the church needed clergy who could correctly perform the liturgy. The minuscule script developed at Tours under Alcuin's influence — Carolingian minuscule — became the standard writing hand of medieval Europe and the direct ancestor of modern Roman type. Without it, the transmission of ancient texts through the medieval period would have been far more fragmentary.",
+      "description_ru": "С конца 770-х годов Карл Великий систематически привлекал учёных со всей Европы ко двору в Ахене — Алкуина из нортумбрийской Англии, Павла Диакона из Италии, Теодульфа из вестготской Испании, Эйнхарда из Франконии — и использовал их для реформы образования, стандартизации литургии и создания исправленной латинской Библии. Придворная школа обучала не только королевских детей, но и сыновей знатных семей, которым предстояло управлять империей. Сам Карл Великий, не научившийся читать в детстве, освоил письмо в среднем возрасте, по преданию держа таблички под подушкой, чтобы упражняться ночью.\n\nКаролингское возрождение было практическим прежде, чем культурным. Каролингский минускул, разработанный в Туре под влиянием Алкуина, стал стандартным письмом средневековой Европы и прямым предком современного романского шрифта. Без него передача античных текстов через Средневековье была бы значительно более фрагментарной.",
+      "latitude": 50.7762,
+      "longitude": 6.0839,
+      "source": "https://en.wikipedia.org/wiki/Carolingian_Renaissance",
+      "tags": [
+        "Frankish",
+        "Culture",
+        "Historic",
+        "Literature",
+        "Science",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "01.01.0789",
+      "era": "AD",
+      "type": "religious",
+      "name": "The Admonitio Generalis — Charlemagne's vision of a Christian empire",
+      "name_ru": "Admonitio Generalis — видение Карла Великого о христианской империи",
+      "description": "Charlemagne's Admonitio Generalis of 789 — an 82-chapter capitulary issued after a great assembly — set out his vision of a kingdom governed according to Christian principles. It required every diocese and monastery to maintain a school teaching reading, writing, singing, arithmetic, and grammar; mandated uniform liturgical practice using the Roman rite; regulated the behaviour of clergy, monks, and laypeople; and insisted that secular justice align with church teaching. It drew directly on the Old Testament model of a king responsible to God for the moral condition of his people.\n\nThe Admonitio was Charlemagne's most explicitly ideological document: it framed kingship not as power over a people but as pastoral responsibility for their souls. The king was answerable to God if his subjects sinned through ignorance; therefore the king must ensure they were taught. This fusion of royal and ecclesiastical authority — the king as quasi-bishop, the bishop as quasi-administrator — defined the Carolingian state and created the template for the 'Christian monarchy' that shaped European political theory through the Reformation.",
+      "description_ru": "Admonitio Generalis Карла Великого 789 года — 82-статейный капитулярий, изданный после великого собрания, — излагал его видение королевства, управляемого по христианским принципам. Он обязывал каждую епархию и монастырь содержать школу, обучающую чтению, письму, пению, арифметике и грамматике; предписывал единообразную литургическую практику по римскому обряду; регулировал поведение духовенства, монахов и мирян; и настаивал на согласовании светского правосудия с церковным учением. Идеологическая основа прямо восходила к ветхозаветной модели царя, ответственного перед Богом за нравственное состояние своего народа.\n\nAdmonitio был наиболее явно идеологическим документом Карла: он представлял королевскую власть не как господство над народом, а как пастырскую ответственность за его души. Если подданные грешат в невежестве — это вина короля, обязанного обеспечить им обучение. Это слияние королевского и церковного авторитета — король как квазиепископ, епископ как квазиадминистратор — определило каролингское государство и создало шаблон для «христианской монархии», формировавшей европейскую политическую теорию вплоть до Реформации. Документ также стал прямым стимулом для школьной реформы, приведшей к Каролингскому возрождению.",
+      "latitude": 50.7762,
+      "longitude": 6.0839,
+      "source": "https://en.wikipedia.org/wiki/Admonitio_generalis",
+      "tags": [
+        "Frankish",
+        "Religious",
+        "Political",
+        "Law",
+        "Christian",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0793",
+      "era": "AD",
+      "type": "historic",
+      "name": "Aachen — Charlemagne builds the new Rome on the Rhine",
+      "name_ru": "Ахен — Карл Великий строит новый Рим на Рейне",
+      "description": "From around 793, Charlemagne concentrated his resources on building a permanent palace complex at Aachen — Aix-la-Chapelle — in the Rhineland, choosing the site partly for its hot springs and partly for its central position between his main territories. The Palatine Chapel, completed around 805 and still standing as the core of Aachen Cathedral, was modelled on the Byzantine church of San Vitale in Ravenna, its octagonal plan covered by a domed ceiling decorated with gold mosaic. Marble columns were imported from Rome and Ravenna.\n\nAachen was a deliberate statement: a ruler who had conquered most of western Europe could build in materials and forms equal to Constantinople. Charlemagne received ambassadors, held Christmas masses, administered justice, and coordinated campaigns from Aachen with increasing regularity. The palace complex — throne room, chapel, baths, royal residences, workshops — functioned as the operational centre of the empire. After his death, Aachen became the traditional coronation city of German kings, a status it held until 1531.",
+      "description_ru": "Примерно с 793 года Карл Великий сосредоточил ресурсы на строительстве постоянного дворцового комплекса в Ахене — Аахене, — в Рейнской области, выбрав это место отчасти из-за горячих источников, отчасти из-за его центрального положения между основными территориями. Дворцовая часовня, завершённая около 805 года и сохранившаяся как ядро Ахенского собора, была смоделирована по образцу византийской церкви Сан-Витале в Равенне; мраморные колонны были привезены из Рима и Равенны.\n\nАхен был намеренным заявлением: правитель, завоевавший большую часть Западной Европы, мог строить из материалов и в формах, равных Константинополю. Карл принимал послов, служил рождественские мессы, вершил правосудие и координировал кампании из Ахена со всё большей регулярностью. После его смерти Ахен стал традиционным городом коронации германских королей — статус, который он сохранял до 1531 года.",
+      "latitude": 50.7762,
+      "longitude": 6.0839,
+      "source": "https://en.wikipedia.org/wiki/Aachen_Cathedral",
+      "tags": [
+        "Frankish",
+        "Building 🏠",
+        "Architecture",
+        "Historic",
+        "Culture",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "01.01.0802",
+      "era": "AD",
+      "type": "historic",
+      "name": "The Carolingian economy — silver deniers and the European market",
+      "name_ru": "Каролингская экономика — серебряные денье и европейский рынок",
+      "description": "Around 794–794, Charlemagne reformed the Frankish monetary system, replacing the old gold coinage inherited from Rome with a unified silver currency: the denier (denarius), struck to a standard weight from purified silver. A pound of silver produced 240 deniers; twelve deniers made a shilling, twenty shillings made a pound — a system whose descendant (£ s d) survived in Britain until 1971. The reform was accompanied by regulations fixing weights and measures across markets in the empire.\n\nThe silver denier became the dominant currency of western Europe for centuries. Charlemagne controlled the silver supply by monopolising minting rights — coins could only be struck at authorised royal mints — and by aggressively exploiting the Saxon silver mines. The reformed coinage facilitated the growth of long-distance trade, regularised tax collection, and allowed the Carolingian state to pay armies and administrators in a medium acceptable across its vast territory. The economic integration it enabled was modest by later standards but real — and it created commercial patterns that the Viking traders and the Italian merchants of the tenth and eleventh centuries would exploit and expand.",
+      "description_ru": "Около 794 года Карл Великий реформировал франкскую денежную систему, заменив старую золотую чеканку, унаследованную от Рима, унифицированной серебряной валютой: денье (денарий), чеканившимся по стандартному весу из очищенного серебра. Фунт серебра давал 240 денье; двенадцать денье составляли шиллинг, двадцать шиллингов — фунт — система, чей потомок (£ s d) сохранялась в Британии вплоть до 1971 года. Реформа сопровождалась постановлениями, фиксировавшими весовые меры на рынках по всей империи, создав единое торговое пространство от атлантического побережья до Эльбы.\n\nСеребряное денье стало господствующей валютой Западной Европы на столетия. Карл Великий контролировал запасы серебра, монополизировав права чеканки: монеты могли выпускаться только на авторизованных королевских монетных дворах, число которых он последовательно сокращал для обеспечения единообразия. Агрессивная разработка саксонских серебряных рудников обеспечивала сырьё. Реформированная чеканка способствовала росту дальней торговли, упорядочила сбор налогов и позволила каролингскому государству выплачивать жалованье армиям и чиновникам в средстве, принятом на всей его обширной территории. Коммерческие паттерны, созданные этой системой, впоследствии использовали и расширяли viking-торговцы и итальянские купцы X–XI веков.",
+      "latitude": 50.7762,
+      "longitude": 6.0839,
+      "source": "https://en.wikipedia.org/wiki/Carolingian_coinage",
+      "tags": [
+        "Frankish",
+        "Economic",
+        "Historic",
+        "Trade",
+        "Administration"
+      ]
+    },
+    {
+      "date": "01.01.0817",
+      "era": "AD",
+      "type": "political",
+      "name": "Louis the Pious and the Ordinatio Imperii — an empire planned but not held",
+      "name_ru": "Людовик Благочестивый и Ordinatio Imperii — империя спланированная, но не удержанная",
+      "description": "Louis I, sole emperor from 814, was more devout, more literate, and more interested in church reform than his father, but catastrophically less able to manage the Frankish aristocracy. His Ordinatio Imperii of 817 — a careful plan to keep the empire undivided by designating his eldest son Lothar as co-emperor and sole heir while giving younger sons Pepin and Louis subkingdoms without succession rights — was immediately undermined by the birth of a fourth son, Charles, by his second wife Judith in 823.\n\nLouis's attempts to rearrange the succession in favour of the infant Charles provoked his older sons into rebellion. He was publicly humiliated, deposed briefly, and forced through a dramatic penance at Soissons in 833 in what contemporaries called the 'Field of Lies' — where his army deserted to his sons without a battle being fought. He was restored but never recovered real authority. The empire he inherited intact he would bequeath in fragments, the process of fragmentation determined not by grand policy but by a second marriage and the love of a father for a younger son.",
+      "description_ru": "Людовик I, единовластный император с 814 года, был более набожным, более образованным и более заинтересованным в церковной реформе, чем его отец, но катастрофически менее способным управлять франкской аристократией. Его Ordinatio Imperii 817 года — тщательный план сохранения неразделённой империи путём назначения старшего сына Лотаря соимператором и единственным наследником при наделении младших сыновей Пипина и Людовика субкоролевствами без прав престолонаследия — был немедленно подорван рождением четвёртого сына, Карла, от второй жены Юдифи в 823 году.\n\nПопытки Людовика пересмотреть порядок престолонаследия в пользу младенца Карла спровоцировали старших сыновей на восстание. Он был публично унижён, кратко низложен и принуждён к драматическому публичному покаянию в Суассоне в 833 году, которое современники называли «Полем лжи» — где его армия перешла к сыновьям без единого сражения. Он был восстановлен, но так и не вернул реальную власть.",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "source": "https://en.wikipedia.org/wiki/Louis_the_Pious",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Historic",
+        "Dynasty",
+        "Crisis"
+      ]
+    },
+    {
+      "date": "01.01.0817",
+      "era": "AD",
+      "type": "religious",
+      "name": "Benedict of Aniane — the monk who standardised western monasticism",
+      "name_ru": "Бенедикт Анианский — монах, стандартизировавший западное монашество",
+      "description": "Benedict of Aniane, the great reformer of Carolingian monasticism, gained Louis the Pious's support for a comprehensive standardisation of monastic life across the empire. The Synod of Aachen of 816–817 required every monastery in the Frankish realm to follow the Rule of Saint Benedict exclusively — ending the patchwork of Irish, Columban, and mixed rules that had characterised Frankish monasteries. Benedict himself was placed at the monastery of Inden near Aachen to supervise implementation.\n\nThe reform had far-reaching consequences. It made the Benedictine Rule the normative framework for western monasticism for the next three centuries and established the monastery as a standardised institution with predictable routines, curriculum, and organisation that could function across diverse regions. The Carolingian monasteries became economic, educational, and cultural powerhouses: their scriptoria copied manuscripts, their schools trained clergy, their lands anchored regional economies. The model Benedict standardised would eventually produce Cluny, and through Cluny, the reform movement that transformed the eleventh-century church.",
+      "description_ru": "Бенедикт Анианский, великий реформатор каролингского монашества, заручился поддержкой Людовика Благочестивого для всестороннего упорядочения монастырской жизни по всей империи. Ахенский синод 816–817 годов обязал каждый монастырь во франкском королевстве следовать исключительно Уставу святого Бенедикта — положив конец мозаике ирландских, колумбанских и смешанных уставов, характеризовавших франкские монастыри. Сам Бенедикт был помещён в монастырь Инден близ Ахена для надзора за исполнением.\n\nРеформа имела далеко идущие последствия. Она сделала Бенедиктинский устав нормативной рамкой западного монашества на следующие три столетия и превратила монастырь в стандартизированное учреждение с предсказуемым распорядком и организацией. Каролингские монастыри превратились в экономические, образовательные и культурные центры: их скриптории копировали рукописи, их школы обучали духовенство. Стандартизированная Бенедиктом модель в конечном счёте породит Клюни, а через него — реформаторское движение, преобразовавшее церковь XI века.",
+      "latitude": 43.6222,
+      "longitude": 3.4783,
+      "source": "https://en.wikipedia.org/wiki/Benedict_of_Aniane",
+      "tags": [
+        "Frankish",
+        "Religious",
+        "Christian",
+        "Culture",
+        "Historic",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "14.02.0842",
+      "era": "AD",
+      "type": "historic",
+      "name": "Oath of Strasbourg — the first document in Old French and Old German",
+      "name_ru": "Страсбургская клятва — первый документ на старофранцузском и древненемецком",
+      "description": "On 14 February 842, at Strasbourg, Louis the Pious's sons Charles the Bald and Louis the German swore a military alliance against their elder brother Lothar, who had seized control of the empire. Each prince swore in the language of the other's army — Charles in the Germanic tongue his brother's soldiers could understand, Louis in the Romance tongue of Charles's Frankish soldiers. The oath was recorded in full by the historian Nithard, preserving the earliest known written text in Old French (lingua romana rustica) and the earliest substantial text in Old High German.\n\nThe Strasbourg oath is linguistically extraordinary: it documents the moment when Latin had diverged sufficiently from spoken vernacular that a formal public oath needed to be given in the language people actually spoke. The two vernaculars are recognisably the ancestors of French and German — distinct languages, not dialects of Latin. The alliance it sealed led to the Treaty of Verdun the following year, which divided the Carolingian empire into three kingdoms and drew the approximate borders of France and Germany.",
+      "description_ru": "14 февраля 842 года в Страсбурге сыновья Людовика Благочестивого Карл Лысый и Людовик Немецкий поклялись в военном союзе против старшего брата Лотаря, захватившего контроль над империей. Каждый принц клялся на языке армии другого — Карл на германском наречии, понятном солдатам брата, Людовик на романском языке франкских воинов Карла. Клятва была записана историком Нитхардом, сохранившим древнейший известный письменный текст на старофранцузском (lingua romana rustica) и древнейший значительный текст на старовысоконемецком.\n\nСтрасбургская клятва лингвистически исключительна: она фиксирует момент, когда латынь достаточно разошлась с разговорным просторечием, что формальная публичная клятва должна была произноситься на языке, на котором люди действительно говорили. Два народных языка узнаваемо являются предками французского и немецкого. Скреплённый ими союз привёл к Верденскому договору следующего года, разделившему Каролингскую империю на три королевства и прочертившему приблизительные границы Франции и Германии.",
+      "latitude": 48.5734,
+      "longitude": 7.7521,
+      "source": "https://en.wikipedia.org/wiki/Oaths_of_Strasbourg",
+      "tags": [
+        "Frankish",
+        "Historic",
+        "Language",
+        "Political",
+        "Foundation",
+        "Culture"
+      ]
+    }
+  ]
+}
