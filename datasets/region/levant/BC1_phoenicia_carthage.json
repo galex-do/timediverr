@@ -979,13 +979,13 @@
     },
     {
       "date": "18.12.0218",
-      "description": "Battle of Trebia: Hannibal's forces destroy Roman army in snowy winter battle, demonstrating superior Carthaginian tactical skill",
-      "description_ru": "Битва при Требии: силы Ганнибала уничтожают римскую армию в снежной зимней битве, демонстрируя превосходное карфагенское тактическое мастерство",
+      "description": "The Battle of Trebia was Rome's first major and truly catastrophic defeat in the Second Punic War. Hannibal set an ambush in a ravine in the Po River valley, then, on a cold December morning, sent Numidian cavalry to lure the Roman army of the second consul, Tiberius Sempronius Longus, who had come to Scipio's aid. Tiberius sent his army across the river in pursuit; the legionaries who crossed were barely able to fight, but Hannibal, with a ready, warmed-up army, was already waiting there.",
+      "description_ru": "Битва при Требии стала первым масштабным и по-настоящему катастрофическим поражением Рима во Второй Пунической войне. Ганнибал устроил засаду в одном из оврагов долины реки По, затем холодным декабрьским утром отправил нумидийскую кавалерию приманить римское войско второго консула Тиберия Семпрония Лонга, пришедшее на помощь Сципиону. Тиберий отправил войско в погоню вброд через реку; перебравшиеся через реку легионеры едва были способны сражаться, а Ганнибал с готовым согретым войском уже ждал их там.",
       "era": "BC",
       "latitude": 44.97603165,
       "longitude": 9.58097935,
       "name": "Battle of Trebia",
-      "name_ru": "Битва при Требии",
+      "name_ru": "Разгром Рима при Требии",
       "source": "https://en.wikipedia.org/wiki/Battle_of_the_Trebia",
       "tags": [
         "Roman",
@@ -994,19 +994,22 @@
         "Punic",
         "War",
         "Battle",
-        "Hannibal 👤"
+        "Ambush",
+        "Hannibal 👤",
+        "Numidians",
+        "Tactics"
       ],
       "type": "military"
     },
     {
       "date": "01.11.0218",
-      "description": "Hannibal's army defeats Romans at Battle of Ticinus, first engagement of Second Punic War on Italian soil, forcing Roman retreat",
-      "description_ru": "Армия Ганнибала побеждает римлян в битве при Тицине, первом сражении Второй Пунической войны на итальянской земле, вынудив римлян отступить",
+      "description": "Hannibal had just completed a difficult crossing of the Alps, losing half his army. The Roman consul Scipio advanced to meet the enemy but underestimated them. The heavy Iberian cavalry swept away the velites and Roman cavalry in a head-on battle, while Hannibal's swift Numidian cavalry encircled the Roman army from the flanks and rear. The Romans were forced to flee. Consul Publius Cornelius Scipio was nearly killed, but was saved by his 17-year-old son, the future Scipio Africanus.",
+      "description_ru": "Ганнибал только совершил тяжелый переход через Альпы, в котором потерял половину войска. Римский консул Сципион двинулся навстречу врагу, но недооценил его. Тяжелая иберийская конница смела в лобовом сражении велитов и кавалерию Рима, а быстрая нумидийская кавалерия Ганнибала окружила римское войско с флангов и тыла. Римляне вынуждены были бежать. Консул Публий Корнелий Сципион едва не был убит, однако был спасен своим 17-летним сыном, будущим Сципионом Африканским.",
       "era": "BC",
       "latitude": 45.20985927,
       "longitude": 9.09513474,
-      "name": "Battle of Ticinus",
-      "name_ru": "Битва при Тицине",
+      "name": "The defeat of Rome at Ticinus",
+      "name_ru": "Поражение Рима при Тицине",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Ticinus",
       "tags": [
         "Roman",
@@ -1015,7 +1018,11 @@
         "Punic",
         "War",
         "Battle",
-        "Hannibal 👤"
+        "Cavalry",
+        "Hannibal 👤",
+        "Numidians",
+        "Scipio 👤",
+        "Tactics"
       ],
       "type": "military"
     },
@@ -1064,13 +1071,13 @@
     },
     {
       "date": "21.06.0217",
-      "description": "Hannibal ambushes and annihilates Roman army at Lake Trasimene in largest ambush in military history, killing 15,000 Romans including consul Flaminius",
-      "description_ru": "Ганнибал устраивает засаду и уничтожает римскую армию у озера Тразимено в крупнейшей засаде в военной истории, убивая 15000 римлян, включая консула Фламиния",
+      "description": "Hannibal demonstratively marched past the fortified camp of Consul Gaius Flaminius, devastating the lands of Etruria. The consul gave chase, seeking to engage in battle before Hannibal reached Rome. In the morning, Flaminius led his army along a narrow road between steep, wooded hills and the shore of Lake Trasimene. Unbeknownst to them, Hannibal had secretly deployed his entire army on these hills during the night. Hannibal waited until the Romans were spread out in marching order and, under cover of fog, launched his army against them. The Roman army was destroyed, and Consul Gaius Flaminius was killed.",
+      "description_ru": "Ганнибал демонстративно прошел мимо укрепленного лагеря консула Гая Фламиния, опустошая земли Этрурии. Консул бросился в погоню, стремясь навязать бой до того, как Ганнибал подойдет к Риму. Утром Фламиний вывел армию на узкую дорогу между крутыми лесистыми холмами и побережьем Тразименского озера. Они не знали, что Ганнибал ночью тайно разместил всю свою армию на этих холмах. Ганнибал дождался, когда римляне растянутся в походный порядок, и под покровом тумана обрушил армию на них. Римская армия была уничтожена, а консул Гай Фламиний убит. ",
       "era": "BC",
       "latitude": 43.143,
       "longitude": 12.105,
-      "name": "Battle of Lake Trasimene",
-      "name_ru": "Битва у озера Тразимено",
+      "name": "The Romans are defeated at Trasimeno",
+      "name_ru": "Римляне разбиты у Тразимено",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Lake_Trasimene",
       "tags": [
         "Roman",
@@ -1086,13 +1093,13 @@
     },
     {
       "date": "02.08.0216",
-      "description": "Hannibal achieves greatest tactical victory in history, encircling and annihilating Roman army of 86,000 with force of 50,000 through brilliant double envelopment",
-      "description_ru": "Ганнибал достигает величайшей тактической победы в истории, окружая и уничтожая римскую армию из 86 000 силами 50 000 благодаря блестящему двойному охвату",
+      "description": "The Romans assembled a massive army to deal with Hannibal once and for all. Hannibal formed his army in a crescent shape, arched toward the Romans; he placed the less reliable Gauls and Iberians in the center, and the elite African cavalry in the horns of the crescent. As expected, the Roman legions pressed through the center, but the crescent buckled back, trapping the Roman army on the flanks. Hannibal achieved his greatest tactical victory, encircling and destroying a Roman army of 86,000 with a force half its size.",
+      "description_ru": "Римляне собрали огромную армию, чтобы раз и навсегда разделаться с Ганнибалом. Ганнибал строит войско в форме полумесяца, выгнутого в сторону римлян; в центре он ставит менее надежных галлов и иберийцев, а в рога полумесяца - элитную африканскую кавалерию. Римские легионы ожидаемо продавливают центр, полумесяц прогибается в обратную сторону, и римская армия оказывается зажатой с флангов. Ганнибал достигает величайшей тактической победы, окружая и уничтожая римскую армию из 86 тысяч силами вдвое меньшими.",
       "era": "BC",
       "latitude": 41.309,
       "longitude": 16.149,
       "name": "Carthage wins Battle of Cannae",
-      "name_ru": "Карфаген побеждает Рим в битве при Каннах",
+      "name_ru": "Карфаген побеждает Рим при Каннах",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Cannae",
       "tags": [
         "Roman",

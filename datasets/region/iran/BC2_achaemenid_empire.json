@@ -628,8 +628,8 @@
     },
     {
       "date": "01.01.0518",
-      "description": "Darius introduces standardized coinage throughout empire - gold daric and silver siglos - facilitating trade and tax collection across vast territories",
-      "description_ru": "Дарий вводит единую монету по всей империи - золотой дарик и серебряный сиглос. Это упрощает торговлю и сбор налогов на огромных территориях",
+      "description": "Darius introduced a single coin throughout the empire—the gold daric and the silver siglos. The daric, weighing 8.4 grams, was minted from 95% gold and depicted the crowned Persian king himself, running or kneeling, holding a bow and spear. The silver siglos, weighing 5.6 grams, was used for everyday transactions. The state strictly controlled the exchange rate — the daric was always equal to 20 siglos. This currency standard simplified trade and tax collection across vast territories.",
+      "description_ru": "Дарий вводит единую монету по всей империи - золотой дарик и серебряный сигль. Дарик весом 8.4г чеканился из 95% золота; на ней был изображен сам персидский царь в короне, бегущий или преклонивший колено, с луком и копьем в руках. Серебряный сигль весом 5.6г служил для повседневных расчетов. Государство строго контролировало курс - дарик всегда был равен 20 сиглям. Стандарт валюты упрощал торговлю и сбор налогов на огромных территориях",
       "era": "BC",
       "latitude": 32.1897,
       "longitude": 48.2583,
@@ -642,6 +642,7 @@
         "Currency",
         "Darius I 👑",
         "Economic",
+        "Standardization",
         "Trade"
       ],
       "type": "historic"
@@ -725,6 +726,7 @@
         "Egypt",
         "Achaemenid",
         "Engineering ⚙️",
+        "Infrastructure",
         "Trade",
         "Water"
       ],

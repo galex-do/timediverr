@@ -3,6 +3,24 @@
   "events": [
     {
       "date": "01.01.0800",
+      "description": "The Nuragic civilization of Sardinia creates the Mont'e Prama statues — monumental stone warriors standing over 2 meters tall. These are the oldest large-scale stone sculptures in the western Mediterranean after Egypt. The statues depict boxers, archers, and warriors with round shields. Buried and rediscovered in 1974, they remain among Sardinia's greatest archaeological treasures.",
+      "description_ru": "Нурагическая цивилизация Сардинии создаёт статуи Монте-Прама — каменных воинов высотой более 2 метров. Это древнейшие крупные каменные скульптуры в западном Средиземноморье после Египта. Статуи изображают боксёров, лучников и воинов с круглыми щитами. Погребённые и переоткрытые в 1974 году, они остаются одним из величайших археологических сокровищ Сардинии.",
+      "era": "BC",
+      "latitude": 39.9458,
+      "longitude": 8.4581,
+      "name": "Mont'e Prama Giant Statues",
+      "name_ru": "Гиганты Монте-Прама",
+      "source": "https://en.wikipedia.org/wiki/Giants_of_Mont%27e_Prama",
+      "tags": [
+        "Sardinian",
+        "Art",
+        "Culture",
+        "Sculpture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0800",
       "description": "The oldest known Phoenician inscription in the western Mediterranean, is erected at Nora in southern Sardinia. This stone monument marks the establishment of one of the earliest Phoenician trading posts on the island. Phoenician merchants from Tyre and Sidon trade peacefully with the Nuragic civilization, exchanging eastern goods for Sardinia's rich copper, lead, and silver resources.",
       "description_ru": "Древнейшая известная финикийская надпись в западном Средиземноморье. Этот каменный памятник знаменует основание одного из первых финикийских торговых постов на острове. Финикийские купцы из Тира и Сидона мирно торгуют с нурагической цивилизацией, обменивая восточные товары на медь, свинец и серебро с Сардинии.",
       "era": "BC",
@@ -21,24 +39,6 @@
         "Tyre"
       ],
       "type": "historic"
-    },
-    {
-      "date": "01.01.0800",
-      "description": "The Nuragic civilization of Sardinia creates the Mont'e Prama statues — monumental stone warriors standing over 2 meters tall. These are the oldest large-scale stone sculptures in the western Mediterranean after Egypt. The statues depict boxers, archers, and warriors with round shields. Buried and rediscovered in 1974, they remain among Sardinia's greatest archaeological treasures.",
-      "description_ru": "Нурагическая цивилизация Сардинии создаёт статуи Монте-Прама — каменных воинов высотой более 2 метров. Это древнейшие крупные каменные скульптуры в западном Средиземноморье после Египта. Статуи изображают боксёров, лучников и воинов с круглыми щитами. Погребённые и переоткрытые в 1974 году, они остаются одним из величайших археологических сокровищ Сардинии.",
-      "era": "BC",
-      "latitude": 39.9458,
-      "longitude": 8.4581,
-      "name": "Mont'e Prama Giant Statues",
-      "name_ru": "Гиганты Монте-Прама",
-      "source": "https://en.wikipedia.org/wiki/Giants_of_Mont%27e_Prama",
-      "tags": [
-        "Sardinian",
-        "Art",
-        "Culture",
-        "Sculpture"
-      ],
-      "type": "cultural"
     },
     {
       "date": "01.01.0770",
@@ -201,7 +201,8 @@
         "Latin League",
         "War",
         "Battle",
-        "Legend"
+        "Legend",
+        "Culture"
       ],
       "type": "military"
     },
@@ -312,6 +313,7 @@
         "Roman",
         "Architecture",
         "Engineering ⚙️",
+        "Infrastructure",
         "Innovation",
         "Water"
       ],
@@ -332,6 +334,7 @@
         "Etruscan",
         "Building 🏠",
         "Architecture",
+        "Culture",
         "Entertainment",
         "Sport"
       ],
@@ -438,6 +441,27 @@
     },
     {
       "date": "01.01.0509",
+      "description": "The rejection of silver in early Rome was a deliberate policy. Roman society was based on strict, conservative values, which they called Mos Maiorum (\"ancestral morals\"). The Romans associated silver coins with the rich, pampered, and luxurious Greeks. The Romans used ordinary pieces of copper and bronze as currency. For each transaction, the merchant and buyer would take out scales and literally chop off the required weight from a piece of copper. Copper was not very valuable, and the weight of the coin served as an effective natural regulator. In early Rome, it was physically difficult to bribe or secretly transport a large sum; an entire separate cellar—the favissa — had to be built to store capital.",
+      "description_ru": "Отказ от серебра в раннем Риме был осознанной политикой. Римское общество держалось на суровых консервативных ценностях, которые они называли Mos Maiorum («Нравы предков»). Серебряная монета ассоциировалась у римлян с богатыми, изнеженными и погрязшими в роскоши греками. Римляне в качестве валюты использовали обычные куски меди и бронзы. При каждой сделке купец и покупатель доставали весы и буквально отрубали от куска меди нужный по весу кусок. Медь стоила не очень много, и тяжесть денег служила эффективным естественным регулятором. В раннем Риме было физически трудно дать взятку или тайно перевезти крупную сумму; для хранения капитала нужно было строить целый отдельный подвал — фависсу.",
+      "era": "BC",
+      "latitude": 41.89387594,
+      "longitude": 12.48317242,
+      "name": "Aes Rude — copper as the currency of Rome",
+      "name_ru": "Aes Rude — медь как валюта Рима",
+      "source": "https://en.wikipedia.org/wiki/Aes_rude",
+      "tags": [
+        "Roman",
+        "Bronze",
+        "Copper",
+        "Culture",
+        "Currency",
+        "Economic",
+        "Trade"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0509",
       "description": "Romans expel King Tarquinius Superbus after his son Sextus rapes the noblewoman Lucretia, who commits suicide after revealing the crime. Lucius Junius Brutus leads the revolt and becomes one of the first two consuls of the new Republic.",
       "description_ru": "Римляне изгоняют царя Тарквиния Гордого после того, как его сын Секст насилует знатную женщину Лукрецию, которая кончает с собой, раскрыв преступление. Луций Юний Брут возглавляет восстание и становится одним из первых двух консулов новой Республики.",
       "era": "BC",
@@ -448,6 +472,7 @@
       "source": "https://en.wikipedia.org/wiki/Roman_Republic",
       "tags": [
         "Roman",
+        "Culture",
         "Exile",
         "Foundation",
         "Republic",
@@ -628,6 +653,7 @@
       "tags": [
         "Roman",
         "Legend",
+        "Culture",
         "Drama",
         "Family",
         "Siege"
@@ -843,24 +869,6 @@
     },
     {
       "date": "01.01.0406",
-      "description": "Rome begins paying soldiers a stipend (stipendium), allowing extended campaigns without soldiers returning for harvest. Previously, war was seasonal because citizen-farmers needed to work their land. This professionalizes warfare and enables the long siege of Veii.",
-      "description_ru": "Рим начинает платить солдатам жалованье (stipendium), позволяя вести продолжительные кампании без возвращения солдат на уборку урожая. Раньше война была сезонной, так как граждане-земледельцы должны были обрабатывать землю. Это профессионализирует войну и делает возможной долгую осаду Вей.",
-      "era": "BC",
-      "latitude": 41.89931442,
-      "longitude": 12.47670293,
-      "name": "Soldiers Begin Receiving Pay",
-      "name_ru": "Рим платит солдатам жалованье",
-      "source": "https://en.wikipedia.org/wiki/Siege_of_Veii",
-      "tags": [
-        "Roman",
-        "Reform",
-        "Army",
-        "Innovation"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.01.0406",
       "description": "Rome begins the siege of Veii itself — a city as large and wealthy as Rome. Other Etruscan cities, distracted by Gallic raids in the north, fail to send help. The siege will last ten years, like legendary Troy.",
       "description_ru": "Рим начинает осаду самих Вейи — города столь же большого и богатого, как Рим. Другие этрусские города, отвлечённые набегами галлов на севере, не присылают помощи. Осада продлится десять лет, как легендарная Троя.",
       "era": "BC",
@@ -874,6 +882,24 @@
         "Etruscan",
         "War",
         "Siege"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0406",
+      "description": "Rome begins paying soldiers a stipend (stipendium), allowing extended campaigns without soldiers returning for harvest. Previously, war was seasonal because citizen-farmers needed to work their land. This professionalizes warfare and enables the long siege of Veii.",
+      "description_ru": "Рим начинает платить солдатам жалованье (stipendium), позволяя вести продолжительные кампании без возвращения солдат на уборку урожая. Раньше война была сезонной, так как граждане-земледельцы должны были обрабатывать землю. Это профессионализирует войну и делает возможной долгую осаду Вей.",
+      "era": "BC",
+      "latitude": 41.89931442,
+      "longitude": 12.47670293,
+      "name": "Soldiers Begin Receiving Pay",
+      "name_ru": "Рим платит солдатам жалованье",
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Veii",
+      "tags": [
+        "Roman",
+        "Reform",
+        "Army",
+        "Innovation"
       ],
       "type": "military"
     },
@@ -1125,6 +1151,25 @@
     },
     {
       "date": "01.01.0340",
+      "description": "Rome's Latin allies revolt against Roman hegemony in the Latin War. According to tradition, consul Publius Decius Mus performs devotio — ritually sacrificing himself to the gods in battle to ensure Roman victory. The war ends with dissolution of the Latin League and integration of Latins into Roman citizenship.",
+      "description_ru": "Латинские союзники Рима восстают против римской гегемонии. По преданию, консул Публий Деций Мус совершает devotio — ритуально жертвует собой богам в бою, чтобы обеспечить победу Рима. Война заканчивается роспуском Латинского союза и интеграцией латинов в римское гражданство.",
+      "era": "BC",
+      "latitude": 41.2167,
+      "longitude": 13.5667,
+      "name": "Latin War",
+      "name_ru": "Латинская война",
+      "source": "https://en.wikipedia.org/wiki/Latin_War",
+      "tags": [
+        "Roman",
+        "Latin League",
+        "War",
+        "Conquest",
+        "Self-sacrifice"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0340",
       "description": "At Mount Vesuvius, consul Titus Manlius Torquatus executes his own son for disobeying orders by engaging in single combat with a Latin champion — though victorious. \"Manlian discipline\" becomes proverbial for severity.",
       "description_ru": "У горы Везувий консул Тит Манлий Торкват казнит на месте собственного сына за неповиновение приказам, который во время разведки сразился с чемпионом латинов, несмотря на наказ консула не вступать в бой вне строя. \"Манлиева дисциплина\" становится нарицательной для обозначения суровости.",
       "era": "BC",
@@ -1140,25 +1185,6 @@
         "Legend",
         "Death",
         "Discipline"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.01.0340",
-      "description": "Rome's Latin allies revolt against Roman hegemony in the Latin War. According to tradition, consul Publius Decius Mus performs devotio — ritually sacrificing himself to the gods in battle to ensure Roman victory. The war ends with dissolution of the Latin League and integration of Latins into Roman citizenship.",
-      "description_ru": "Латинские союзники Рима восстают против римской гегемонии. По преданию, консул Публий Деций Мус совершает devotio — ритуально жертвует собой богам в бою, чтобы обеспечить победу Рима. Война заканчивается роспуском Латинского союза и интеграцией латинов в римское гражданство.",
-      "era": "BC",
-      "latitude": 41.2167,
-      "longitude": 13.5667,
-      "name": "Latin War",
-      "name_ru": "Латинская война",
-      "source": "https://en.wikipedia.org/wiki/Latin_War",
-      "tags": [
-        "Roman",
-        "Latin League",
-        "War",
-        "Conquest",
-        "Self-sacrifice"
       ],
       "type": "military"
     },
@@ -1284,25 +1310,6 @@
     },
     {
       "date": "01.01.0315",
-      "description": "Rome adopted the manipular legion during the Samnite Wars. The new system divided the infantry into three lines: hastati (young men), principes (experienced men), and triarii (veterans). The hastati enter the battle first, the principes cover them, and in extreme cases the triarii enter the battle. The new system provides significantly greater mobility than the Greek phalanx and allows to make sustained, firm pressure on the enemy.",
-      "description_ru": "Рим принимает манипулярный легион во время Самнитских войн. Новая система делит пехоту на три линии: гастаты (молодые), принципы (опытные) и триарии (ветераны). Гастаты вступают в бой первыми, принципы их прикрывают, в крайнем случае в бой вступают триарии. Новая система дает значимо большую мобильность, чем греческая фаланга, и позволяет создавать жесткое непрерывное давление на врага.",
-      "era": "BC",
-      "latitude": 41.89931442,
-      "longitude": 12.47670293,
-      "name": "Manipular Legion System of Rome",
-      "name_ru": "Манипулярный легион Рима",
-      "source": "https://en.wikipedia.org/wiki/Maniple_(military_unit)",
-      "tags": [
-        "Roman",
-        "War",
-        "Discipline",
-        "Innovation",
-        "Tactics"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.0315",
       "description": "Rome adopts the pilum, a heavy javelin with a unique design: a long iron shank that bends on impact, preventing enemies from throwing it back and rendering shields unusable. Each legionary carries two pila, throwing them at 15-30 meters before closing with gladius. The weapon disrupts enemy formations before melee.",
       "description_ru": "Рим принимает на вооружение пилум — тяжёлый дротик уникальной конструкции: длинный железный стержень гнётся при попадании, не давая врагам метать его обратно и делая щиты непригодными. Каждый легионер несёт два пилума, метая их с 15-30 метров перед сближением с гладиусом. Оружие нарушает строй врага до рукопашной.",
       "era": "BC",
@@ -1339,6 +1346,25 @@
       "type": "military"
     },
     {
+      "date": "01.01.0315",
+      "description": "Rome adopted the manipular legion during the Samnite Wars. The new system divided the infantry into three lines: hastati (young men), principes (experienced men), and triarii (veterans). The hastati enter the battle first, the principes cover them, and in extreme cases the triarii enter the battle. The new system provides significantly greater mobility than the Greek phalanx and allows to make sustained, firm pressure on the enemy.",
+      "description_ru": "Рим принимает манипулярный легион во время Самнитских войн. Новая система делит пехоту на три линии: гастаты (молодые), принципы (опытные) и триарии (ветераны). Гастаты вступают в бой первыми, принципы их прикрывают, в крайнем случае в бой вступают триарии. Новая система дает значимо большую мобильность, чем греческая фаланга, и позволяет создавать жесткое непрерывное давление на врага.",
+      "era": "BC",
+      "latitude": 41.89931442,
+      "longitude": 12.47670293,
+      "name": "Manipular Legion System of Rome",
+      "name_ru": "Манипулярный легион Рима",
+      "source": "https://en.wikipedia.org/wiki/Maniple_(military_unit)",
+      "tags": [
+        "Roman",
+        "War",
+        "Discipline",
+        "Innovation",
+        "Tactics"
+      ],
+      "type": "historic"
+    },
+    {
       "date": "01.01.0314",
       "description": "Rome, taking advantage of its developing infrastructure, surrounded Samnium with its fortresses to cut off the Samnites from external communications and overwhelm them with numbers. Luceria blocked the Samnites' access to the fertile plains of Apulia, from where they obtained grain and livestock.",
       "description_ru": "Рим, используя развивающуюся инфраструктуру, окружает Самнию своими крепостями, чтобы отрезать самнитов от внешних коммуникаций и задавить их числом. Луцерия перекрыла самнитам выход к плодородным равнинам Апулии, откуда они брали зерно и скот.",
@@ -1359,26 +1385,6 @@
     },
     {
       "date": "01.01.0312",
-      "description": "Censor Appius Claudius Caecus begins construction of the Via Appia, Rome's first major paved road, connecting Rome to Capua (later extended to Brindisi). 'Regina viarum' (Queen of Roads), it enables rapid military movement and trade, becoming the model for all Roman roads.",
-      "description_ru": "Цензор Аппий Клавдий Цек начинает строительство Аппиевой дороги, первой крупной мощёной дороги Рима, соединяющей Рим с Капуей (позже продлённой до Бриндизи). 'Regina viarum' (Царица дорог) обеспечивает быстрое передвижение войск и торговлю, став образцом для всех римских дорог.",
-      "era": "BC",
-      "latitude": 41.84854525,
-      "longitude": 12.52462864,
-      "name": "Construction of Via Appia",
-      "name_ru": "Строительство Аппиевой дороги",
-      "source": "https://en.wikipedia.org/wiki/Appian_Way",
-      "tags": [
-        "Roman",
-        "Economic",
-        "Engineering ⚙️",
-        "Infrastructure",
-        "Innovation",
-        "Road"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.0312",
       "description": "Appius Claudius also builds Rome's first aqueduct, the Aqua Appia, bringing fresh water 16 km from springs in the Sabine hills. Running mostly underground, it delivers 73,000 cubic meters of water daily to the growing city.",
       "description_ru": "Аппий Клавдий строит первый римский акведук, Aqua Appia, проводя пресную воду на 16 км из источников в Сабинских холмах. Акведук забирал воду на глубине 15-16 м и большую часть пути шел под землей; он доставлял 73 000 кубометров воды ежедневно в растущий город.",
       "era": "BC",
@@ -1391,8 +1397,30 @@
         "Roman",
         "Architecture",
         "Engineering ⚙️",
+        "Infrastructure",
         "Innovation",
         "Water"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0312",
+      "description": "Censor Appius Claudius Caecus begins construction of the Via Appia, Rome's first major paved road, connecting Rome to Capua (later extended to Brindisi). 'Regina viarum' (Queen of Roads), it enables rapid military movement and trade, becoming the model for all Roman roads.",
+      "description_ru": "Цензор Аппий Клавдий Цек начинает строительство Аппиевой дороги, первой крупной мощёной дороги Рима, соединяющей Рим с Капуей (позже продлённой до Бриндизи). 'Regina viarum' (Царица дорог) обеспечивает быстрое передвижение войск и торговлю, став образцом для всех римских дорог.",
+      "era": "BC",
+      "latitude": 41.84854525,
+      "longitude": 12.52462864,
+      "name": "Construction of Via Appia",
+      "name_ru": "Строительство Аппиевой дороги",
+      "source": "https://en.wikipedia.org/wiki/Appian_Way",
+      "tags": [
+        "Roman",
+        "Communication",
+        "Economic",
+        "Engineering ⚙️",
+        "Infrastructure",
+        "Innovation",
+        "Road"
       ],
       "type": "historic"
     },
@@ -1654,6 +1682,27 @@
       "type": "historic"
     },
     {
+      "date": "01.01.0280",
+      "description": "Rome began minting didrachms around 280 BC, during its war with King Pyrrhus. After subjugating the Greek cities of southern Italy, Rome needed a universal currency that could be used to pay the Greeks. To facilitate trade, recruit soldiers and ships, and conduct international affairs, Rome copied the Greek standard and introduced a silver didrachm weighing approximately 6.5–7.3 grams.",
+      "description_ru": "Рим начал чеканить дидрахмы примерно с 280 года до н.э., в период войны с царем Пирром. После подчинения греческих городов Южной Италии Риму понадобилась универсальная валюта, которой можно было бы расплачиваться с греками. Чтобы торговать, нанимать солдат, корабли и вести международную политику, Рим скопировал греческий стандарт и ввел серебряную дидрахму весом около 6,5–7,3 грамма.",
+      "era": "BC",
+      "latitude": 41.89387594,
+      "longitude": 12.48317242,
+      "name": "Roman silver didrachms",
+      "name_ru": "Римские серебряные дидрахмы",
+      "source": "https://en.wikipedia.org/wiki/Didrachm",
+      "tags": [
+        "Greek",
+        "Roman",
+        "Crisis",
+        "Currency",
+        "Economic",
+        "Silver",
+        "Trade"
+      ],
+      "type": "historic"
+    },
+    {
       "date": "01.03.0279",
       "description": "Pyrrhus defeats Romans again at Asculum but loses 3,500 of his best troops, including many officers. When congratulated, he reportedly responds: 'If we win one more such battle against the Romans, we shall be utterly ruined.' ",
       "description_ru": "Пирр снова побеждает римлян при Аускуле, но теряет 3500 лучших воинов, включая многих офицеров. Когда его поздравляют, он отвечает: 'Если мы выиграем ещё одну такую битву с римлянами, мы будем полностью разорены.'",
@@ -1717,25 +1766,6 @@
     },
     {
       "date": "01.01.0272",
-      "description": "Rome's second aqueduct, the Aqua Anio Vetus, is constructed using war spoils from the victory over Pyrrhus. Drawing water from the upper Anio River near Tivoli, its 64 km mostly underground channel doubles Rome's water supply. The name 'Vetus' (old) distinguishes it from the later Aqua Anio Novus.",
-      "description_ru": "Второй римский акведук, Aqua Anio Vetus, построен на военные трофеи от победы над Пирром. Забирая воду из верхнего течения реки Аниене близ Тиволи, его 64-километровый подземный канал удваивает водоснабжение Рима. Название 'Vetus' (старый) отличает его от более позднего Aqua Anio Novus.",
-      "era": "BC",
-      "latitude": 42.02682201,
-      "longitude": 12.93794632,
-      "name": "Aqua Anio Vetus Aqueduct",
-      "name_ru": "Акведук Aqua Anio Vetus",
-      "source": "https://en.wikipedia.org/wiki/Aqua_Anio_Vetus",
-      "tags": [
-        "Roman",
-        "Architecture",
-        "Engineering ⚙️",
-        "Infrastructure",
-        "Water"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.0272",
       "description": "Tarentum surrenders to Rome after Pyrrhus's final departure. Rome now controls all of peninsular Italy south of the Po Valley. Greek cities retain local autonomy but become Roman allies, beginning Rome's absorption of Magna Graecia and Greek cultural influence.",
       "description_ru": "Тарент сдаётся Риму после окончательного ухода Пирра. Рим теперь контролирует всю полуостровную Италию к югу от долины По. Греческие города сохраняют местную автономию, но становятся римскими союзниками, начиная поглощение Римом Великой Греции и греческого культурного влияния.",
       "era": "BC",
@@ -1755,22 +1785,21 @@
       "type": "military"
     },
     {
-      "date": "01.01.0268",
-      "description": "Rome mints its first silver coinage, the denarius, as contact with Greek civilization demands participation in Mediterranean trade. Previously, Romans used bronze by weight. The new coinage facilitates commerce and soldiers' pay.",
-      "description_ru": "Рим чеканит первые серебряные монеты — денарии, поскольку контакт с греческой цивилизацией требует участия в средиземноморской торговле. Ранее римляне использовали бронзу на вес. Новая монета облегчает торговлю и оплату солдат.",
+      "date": "01.01.0272",
+      "description": "Rome's second aqueduct, the Aqua Anio Vetus, is constructed using war spoils from the victory over Pyrrhus. Drawing water from the upper Anio River near Tivoli, its 64 km mostly underground channel doubles Rome's water supply. The name 'Vetus' (old) distinguishes it from the later Aqua Anio Novus.",
+      "description_ru": "Второй римский акведук, Aqua Anio Vetus, построен на военные трофеи от победы над Пирром. Забирая воду из верхнего течения реки Аниене близ Тиволи, его 64-километровый подземный канал удваивает водоснабжение Рима. Название 'Vetus' (старый) отличает его от более позднего Aqua Anio Novus.",
       "era": "BC",
-      "latitude": 41.89387594,
-      "longitude": 12.48317242,
-      "name": "First Roman Silver Coinage",
-      "name_ru": "Римские серебряные денарии",
-      "source": "https://en.wikipedia.org/wiki/Roman_currency",
+      "latitude": 42.02682201,
+      "longitude": 12.93794632,
+      "name": "Aqua Anio Vetus Aqueduct",
+      "name_ru": "Акведук Aqua Anio Vetus",
+      "source": "https://en.wikipedia.org/wiki/Aqua_Anio_Vetus",
       "tags": [
-        "Greek",
         "Roman",
-        "Currency",
-        "Innovation",
-        "Silver",
-        "Trade"
+        "Architecture",
+        "Engineering ⚙️",
+        "Infrastructure",
+        "Water"
       ],
       "type": "historic"
     },
@@ -1834,6 +1863,24 @@
     },
     {
       "date": "01.01.0250",
+      "description": "Roman engineers develop sophisticated surveying instruments: the groma for laying out perpendicular lines and right angles; the chorobates for leveling; the dioptra for measuring angles. These tools enable precise gradient control for aqueducts (achieving 1:4800 slope over 50 km) and straight road construction. Roman precision surveying won't be surpassed until modern times.",
+      "description_ru": "Римские инженеры разрабатывают сложные геодезические инструменты: грому для разбивки перпендикулярных линий и прямых углов; хоробат для нивелирования; диоптру для измерения углов. Эти инструменты обеспечивают точный контроль уклона акведуков (достигая 1:4800 на 50 км) и строительство прямых дорог. Римская точность геодезии не будет превзойдена до нового времени.",
+      "era": "BC",
+      "latitude": 41.89318911,
+      "longitude": 12.48506606,
+      "name": "Roman Surveying Instruments",
+      "name_ru": "Римские геодезические инструменты",
+      "source": "https://en.wikipedia.org/wiki/Groma_(surveying)",
+      "tags": [
+        "Roman",
+        "Engineering ⚙️",
+        "Innovation",
+        "Science"
+      ],
+      "type": "scientific"
+    },
+    {
+      "date": "01.01.0250",
       "description": "The testudo ('tortoise') formation becomes a refined Roman tactic for siege operations. Soldiers interlock their large scuta shields to form a protective shell — front rank vertical, inner ranks overhead like roof tiles. This 'human tank' allows troops to advance under heavy missile fire toward fortifications. The formation requires exceptional discipline and drilling.",
       "description_ru": "Построение 'черепаха' (testudo) - отточенная римская тактика для осады. Солдаты смыкают большие щиты скутумы, образуя защитный панцирь — передний ряд вертикально, внутренние ряды над головой как черепица. Этот 'танк' позволяет войскам наступать под сильным обстрелом к укреплениям. Построение требует исключительной дисциплины и муштры.",
       "era": "BC",
@@ -1853,24 +1900,6 @@
       "type": "historic"
     },
     {
-      "date": "01.01.0250",
-      "description": "Roman engineers develop sophisticated surveying instruments: the groma for laying out perpendicular lines and right angles; the chorobates for leveling; the dioptra for measuring angles. These tools enable precise gradient control for aqueducts (achieving 1:4800 slope over 50 km) and straight road construction. Roman precision surveying won't be surpassed until modern times.",
-      "description_ru": "Римские инженеры разрабатывают сложные геодезические инструменты: грому для разбивки перпендикулярных линий и прямых углов; хоробат для нивелирования; диоптру для измерения углов. Эти инструменты обеспечивают точный контроль уклона акведуков (достигая 1:4800 на 50 км) и строительство прямых дорог. Римская точность геодезии не будет превзойдена до нового времени.",
-      "era": "BC",
-      "latitude": 41.89318911,
-      "longitude": 12.48506606,
-      "name": "Roman Surveying Instruments",
-      "name_ru": "Римские геодезические инструменты",
-      "source": "https://en.wikipedia.org/wiki/Groma_(surveying)",
-      "tags": [
-        "Roman",
-        "Engineering ⚙️",
-        "Innovation",
-        "Science"
-      ],
-      "type": "scientific"
-    },
-    {
       "date": "01.01.0241",
       "description": "The Via Aurelia is constructed along the Tyrrhenian coast from Rome to Pisae (Pisa), opening the northwestern route to Etruria and Liguria. Later extended to Genua (Genoa) and into Gaul, it becomes a vital artery for trade and military movement along Italy's western coast.",
       "description_ru": "Аврелиева дорога проложена вдоль Тирренского побережья от Рима до Пизы, открывая северо-западный путь в Этрурию и Лигурию. Позже продлённая до Генуи и в Галлию, она становится жизненно важной артерией для торговли и передвижения войск вдоль западного побережья Италии.",
@@ -1882,7 +1911,9 @@
       "source": "https://en.wikipedia.org/wiki/Via_Aurelia",
       "tags": [
         "Roman",
+        "Communication",
         "Engineering ⚙️",
+        "Expansion",
         "Infrastructure",
         "Road",
         "Trade"
@@ -2072,8 +2103,10 @@
       "source": "https://en.wikipedia.org/wiki/Via_Flaminia",
       "tags": [
         "Roman",
+        "Communication",
         "Economic",
         "Engineering ⚙️",
+        "Expansion",
         "Infrastructure",
         "Road"
       ],
@@ -2120,6 +2153,26 @@
       "type": "military"
     },
     {
+      "date": "01.01.0211",
+      "description": "To prevent the army from mutiny over unpaid wages, the Senate implemented a radical monetary reform and introduced a lightweight, compact silver denarius (weighing approximately 4.5 grams). The silver for its issuance came from Rome's victories at Capua and Syracuse, from where the Romans had plundered a substantial silver treasury. The new coin had a clear, fixed denomination—10 copper asses (hence the name denarius, meaning \"consisting of ten\"). The obverse featured the helmeted head of the goddess Roma, while the reverse depicted the twin brothers Castor and Pollux, riding on horseback to the aid of the Romans.",
+      "description_ru": "Чтобы спасти армию от бунта из-за невыплаты жалования, Сенат пошел на радикальную денежную реформу и ввел облегченный, компактный серебряный денарий (весом около 4,5 грамма). Серебро для его запуска появилось в результате побед Рима в Капуе и Сиракузах, откуда римляне вывезли приличную серебряную казну. Новая монета получила четкий, фиксированный номинал — 10 медных ассов (отсюда и название denarius — «состоящий из десяти»). На аверсе чеканили голову богини Ромы в шлеме, а на реверсе — братьев-близнецов Кастора и Поллукса, мчащихся на конях на помощь римлянам.",
+      "era": "BC",
+      "latitude": 41.89387594,
+      "longitude": 12.48317242,
+      "name": "Roman silver denarii",
+      "name_ru": "Римские серебряные денарии",
+      "source": "https://en.wikipedia.org/wiki/Denarius",
+      "tags": [
+        "Roman",
+        "Reform",
+        "Currency",
+        "Innovation",
+        "Silver",
+        "Trade"
+      ],
+      "type": "historic"
+    },
+    {
       "date": "09.04.0204",
       "description": "The Great Mother (Cybele), a black meteorite from Phrygia, was brought to Rome because a prophecy declared it essential for defeating Hannibal. The Romans persuaded the King of Pergamon to hand over the relic, citing their affiliation with Troy and its deities. The cult of a foreign goddess with her eunuch priests and ecstatic rituals disturbs the Romans, but becomes officially Roman.",
       "description_ru": "Великая Мать (Кибела), чёрный метеорит из Фригии, привезена в Рим, поскольку пророчество объявило её необходимой для победы над Ганнибалом. Римляне уговорили Пергамского царя отдать святыню, используя аргумент своей принадлежности к Трое и её божествам. Культ иноземной богини с её жрецами-евнухами и экстатическими ритуалами тревожит римлян, но становится официально римским.",
@@ -2134,6 +2187,7 @@
         "Pergamon",
         "Punic",
         "War",
+        "Culture",
         "Mother of God",
         "Pagan",
         "Religious",
@@ -2143,21 +2197,21 @@
     },
     {
       "date": "01.01.0200",
-      "description": "Quintus Fabius Pictor writes the first history of Rome in Greek, aimed at explaining Rome to the Greek world after the Second Punic War. His lost work established the traditional founding date of 753 BC and shaped all later Roman historiography.",
-      "description_ru": "Квинт Фабий Пиктор пишет первую историю Рима на греческом языке, с целью объяснить Рим греческому миру после Второй Пунической войны. Его утраченный труд установил традиционную дату основания 753 г. до н.э. и сформировал всю последующую римскую историографию.",
+      "description": "Philip V sought to establish complete control over the straits (the Hellespont) to cut off his enemies—Pergamon and Rhodes—from Black Sea trade. Abydos was a key port, blocking the entrance to the strait. Its capture would deprive hostile fleets of a base for operations against Macedonia. The city resisted fiercely, and almost no one surrendered.",
+      "description_ru": "Филипп V стремился установить полный контроль над проливами (Геллеспонтом), чтобы отрезать своих врагов — Пергам и Родос — от черноморской торговли. Абидос был ключевым портом, закрывавшим вход в пролив. Его захват лишал враждебные флоты базы для операций против Македонии. Город яростно сопротивлялся, почти никто не сдался в плен. ",
       "era": "BC",
-      "latitude": 41.89318911,
-      "longitude": 12.48506606,
-      "name": "First Roman History Written",
-      "name_ru": "Первая римская история",
-      "source": "https://en.wikipedia.org/wiki/Quintus_Fabius_Pictor",
+      "latitude": 40.19667529,
+      "longitude": 26.40971661,
+      "name": "Macedonia besieges and ravages Abydos",
+      "name_ru": "Македония осаждает и разоряет Абидос",
       "tags": [
         "Greek",
-        "Roman",
-        "Culture",
-        "History"
+        "Macedonian",
+        "Pergamon",
+        "War",
+        "Destruction"
       ],
-      "type": "historic"
+      "type": "military"
     },
     {
       "date": "01.01.0200",
@@ -2200,21 +2254,21 @@
     },
     {
       "date": "01.01.0200",
-      "description": "Philip V sought to establish complete control over the straits (the Hellespont) to cut off his enemies—Pergamon and Rhodes—from Black Sea trade. Abydos was a key port, blocking the entrance to the strait. Its capture would deprive hostile fleets of a base for operations against Macedonia. The city resisted fiercely, and almost no one surrendered.",
-      "description_ru": "Филипп V стремился установить полный контроль над проливами (Геллеспонтом), чтобы отрезать своих врагов — Пергам и Родос — от черноморской торговли. Абидос был ключевым портом, закрывавшим вход в пролив. Его захват лишал враждебные флоты базы для операций против Македонии. Город яростно сопротивлялся, почти никто не сдался в плен. ",
+      "description": "Quintus Fabius Pictor writes the first history of Rome in Greek, aimed at explaining Rome to the Greek world after the Second Punic War. His lost work established the traditional founding date of 753 BC and shaped all later Roman historiography.",
+      "description_ru": "Квинт Фабий Пиктор пишет первую историю Рима на греческом языке, с целью объяснить Рим греческому миру после Второй Пунической войны. Его утраченный труд установил традиционную дату основания 753 г. до н.э. и сформировал всю последующую римскую историографию.",
       "era": "BC",
-      "latitude": 40.19667529,
-      "longitude": 26.40971661,
-      "name": "Macedonia besieges and ravages Abydos",
-      "name_ru": "Македония осаждает и разоряет Абидос",
+      "latitude": 41.89318911,
+      "longitude": 12.48506606,
+      "name": "First Roman History Written",
+      "name_ru": "Первая римская история",
+      "source": "https://en.wikipedia.org/wiki/Quintus_Fabius_Pictor",
       "tags": [
         "Greek",
-        "Macedonian",
-        "Pergamon",
-        "War",
-        "Destruction"
+        "Roman",
+        "Culture",
+        "History"
       ],
-      "type": "military"
+      "type": "historic"
     },
     {
       "date": "01.01.0197",
@@ -2269,7 +2323,9 @@
       "tags": [
         "Roman",
         "Colonization",
+        "Communication",
         "Engineering ⚙️",
+        "Expansion",
         "Infrastructure",
         "Road"
       ],
@@ -2287,6 +2343,7 @@
       "source": "https://en.wikipedia.org/wiki/Senatus_consultum_de_Bacchanalibus",
       "tags": [
         "Roman",
+        "Culture",
         "Pagan",
         "Persecution",
         "Political",
@@ -2321,7 +2378,7 @@
       "era": "BC",
       "latitude": 41.88932755,
       "longitude": 12.47936904,
-      "name": "Pons Aemilius - First Stone Bridge",
+      "name": "Pons Aemilius — First Stone Bridge",
       "name_ru": "Мост Эмилия - первый каменный мост",
       "source": "https://en.wikipedia.org/wiki/Pons_Aemilius",
       "tags": [
@@ -2428,6 +2485,25 @@
     },
     {
       "date": "01.01.0167",
+      "description": "Rome abolishes the tributum, direct tax on Roman citizens, paid for by the wealth flowing from conquered territories and provinces. Citizens would not pay direct taxes again until the crisis of the Empire three centuries later.",
+      "description_ru": "Рим отменяет tributum, прямой налог на римских граждан. Казна была переполнена военной добычей после ряда военных побед, а поступления от провинций полностью покрывали расходы республики. Это решение подчеркивало статус римлян как привилегированного класса ",
+      "era": "BC",
+      "latitude": 41.89318911,
+      "longitude": 12.48506606,
+      "name": "Direct Citizen Tax Abolished",
+      "name_ru": "Отмена прямого налога на граждан",
+      "source": "https://en.wikipedia.org/wiki/Tributum",
+      "tags": [
+        "Roman",
+        "Administration",
+        "Political",
+        "Taxes",
+        "Wealth"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0167",
       "description": "Following their victory over Macedonia, the Romans transferred the island of Delos to Athenian control and declared it a tax-free zone (atelia). All merchants from Phoenicia, Egypt, and Italy, who had previously paid tolls at the Rhodes harbor, immediately transferred their ships to Delos.",
       "description_ru": "Римляне по итогу победы над Македонией передали остров Делос под управление Афин и объявили его зоной, свободной от налогов (ателия). Все купцы из Финикии, Египта и Италии, которые раньше платили пошлину в гавани Родоса, мгновенно перевели свои корабли на Делос.",
       "era": "BC",
@@ -2443,25 +2519,6 @@
         "Route",
         "Taxes",
         "Trade"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.0167",
-      "description": "Rome abolishes the tributum, direct tax on Roman citizens, paid for by the wealth flowing from conquered territories and provinces. Citizens would not pay direct taxes again until the crisis of the Empire three centuries later.",
-      "description_ru": "Рим отменяет tributum, прямой налог на римских граждан. Казна была переполнена военной добычей после ряда военных побед, а поступления от провинций полностью покрывали расходы республики. Это решение подчеркивало статус римлян как привилегированного класса ",
-      "era": "BC",
-      "latitude": 41.89318911,
-      "longitude": 12.48506606,
-      "name": "Direct Citizen Tax Abolished",
-      "name_ru": "Отмена прямого налога на граждан",
-      "source": "https://en.wikipedia.org/wiki/Tributum",
-      "tags": [
-        "Roman",
-        "Administration",
-        "Political",
-        "Taxes",
-        "Wealth"
       ],
       "type": "political"
     },
@@ -2506,7 +2563,7 @@
     {
       "date": "01.01.0152",
       "description": "The official founder of the city of Córdoba (under the Roman name Corduba) is considered to be the Roman general and consul Marcus Claudius Marcellus, who founded a permanent settlement here. In 206 BC, the Romans recaptured this territory from Carthage. Several decades later, Marcellus founded a Roman colony near the Iberian city. The city quickly grew and became the capital of the vast Roman province of Hispania Ulterior.",
-      "description_ru": "Официальным основателем города Кордова (под римским названием Кордуба) считается римский полководец и консул Марк Клавдий Марцелл, который заложил здесь постоянное поселение. В 206 году до н. э. римляне отвоевали эту территорию у Карфагена. Спустя несколько десятилетий Марцелл основал рядом с иберийским городом римскую колонию. Город быстро вырос и стал столицей огромной римской провинции Дальняя Испания",
+      "description_ru": "Официальным основателем города Кордова (под римским названием Кордуба) считается римский полководец и консул Марк Клавдий Марцелл, который заложил здесь постоянное поселение. Спустя несколько десятилетий Марцелл основал рядом с иберийским городом римскую колонию. Город быстро вырос и стал столицей огромной римской провинции Дальняя Испания",
       "era": "BC",
       "latitude": 37.88507881,
       "longitude": -4.78496432,
@@ -2516,7 +2573,9 @@
       "tags": [
         "Roman",
         "City",
-        "Colonization"
+        "Colonization",
+        "Expansion",
+        "Iberia"
       ],
       "type": "historic"
     },
@@ -2571,7 +2630,9 @@
       "source": "https://en.wikipedia.org/wiki/Via_Postumia",
       "tags": [
         "Roman",
+        "Communication",
         "Engineering ⚙️",
+        "Expansion",
         "Infrastructure",
         "Road"
       ],
@@ -2840,14 +2901,15 @@
       "era": "BC",
       "latitude": 44.13480564,
       "longitude": 4.80853558,
-      "name": "Disaster at Arausio",
-      "name_ru": "Разгром Рима при Араузионе",
+      "name": "The defeat of Rome by the Germans at Arausio",
+      "name_ru": "Разгром Рима германцами при Араузионе",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Arausio",
       "tags": [
         "Roman",
         "Gallic",
         "Battle",
         "Failure",
+        "Germanic",
         "Marius 👤",
         "Teutons"
       ],
@@ -2866,30 +2928,11 @@
       "tags": [
         "Roman",
         "Battle",
+        "Germanic",
         "Marius 👤",
         "Teutons"
       ],
       "type": "military"
-    },
-    {
-      "date": "01.01.0100",
-      "description": "The Temple of Portunus is built at the Forum Boarium near the Tiber, dedicated to Portunus, god of keys, doors, and harbors. Its elegant Ionic columns and exceptional preservation make it one of the best-surviving examples of Republican temple architecture. Later converted to a church, which saved it from destruction.",
-      "description_ru": "Храм Портуна построен на Бычьем форуме близ Тибра, посвящённый Портуну, богу ключей, дверей и гаваней. Его элегантные ионические колонны и исключительная сохранность делают его одним из лучших примеров республиканской храмовой архитектуры. Позже обращён в церковь, что спасло его от разрушения.",
-      "era": "BC",
-      "latitude": 41.88922771,
-      "longitude": 12.48090863,
-      "name": "Temple of Portunus in Rome",
-      "name_ru": "Храм Портуна в Риме",
-      "source": "https://en.wikipedia.org/wiki/Temple_of_Portunus",
-      "tags": [
-        "Roman",
-        "Architecture",
-        "Pagan",
-        "Religious",
-        "Temple",
-        "Trade"
-      ],
-      "type": "religious"
     },
     {
       "date": "01.01.0100",
@@ -2931,6 +2974,26 @@
         "Tactics"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.01.0100",
+      "description": "The Temple of Portunus is built at the Forum Boarium near the Tiber, dedicated to Portunus, god of keys, doors, and harbors. Its elegant Ionic columns and exceptional preservation make it one of the best-surviving examples of Republican temple architecture. Later converted to a church, which saved it from destruction.",
+      "description_ru": "Храм Портуна построен на Бычьем форуме близ Тибра, посвящённый Портуну, богу ключей, дверей и гаваней. Его элегантные ионические колонны и исключительная сохранность делают его одним из лучших примеров республиканской храмовой архитектуры. Позже обращён в церковь, что спасло его от разрушения.",
+      "era": "BC",
+      "latitude": 41.88922771,
+      "longitude": 12.48090863,
+      "name": "Temple of Portunus in Rome",
+      "name_ru": "Храм Портуна в Риме",
+      "source": "https://en.wikipedia.org/wiki/Temple_of_Portunus",
+      "tags": [
+        "Roman",
+        "Architecture",
+        "Pagan",
+        "Religious",
+        "Temple",
+        "Trade"
+      ],
+      "type": "religious"
     },
     {
       "date": "01.01.0093",
@@ -3277,6 +3340,26 @@
     },
     {
       "date": "01.01.0063",
+      "description": "Lucius Sergius Catilina, a ruined nobleman, plots to overthrow the Republic with an army of debtors and veterans. Consul Cicero exposes the plot in the Senate with his famous orations. Five conspirators are executed without trial — controversial even then, and later used against Cicero.",
+      "description_ru": "Луций Сергий Катилина, разорённый аристократ, заручается поддержкой других должников и ветеранов. Его план - свергнуть Республику, стать диктатором, объявить амнистию должников и перераспределить собственность. Консул Цицерон разоблачает заговор в Сенате своими знаменитыми речами. Пятеро заговорщиков казнены без суда — решение, которое позже применят против самого Цицерона.",
+      "era": "BC",
+      "latitude": 41.89318911,
+      "longitude": 12.48506606,
+      "name": "Catiline Conspiracy",
+      "name_ru": "Заговор Катилины",
+      "source": "https://en.wikipedia.org/wiki/Catilinarian_conspiracy",
+      "tags": [
+        "Roman",
+        "Cicero 👤",
+        "Conspiracy",
+        "Crisis",
+        "Execution",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0063",
       "description": "Pompey captures Jerusalem after a three-month siege, entering the Temple's Holy of Holies — but taking nothing. He makes Judaea a Roman client state. ",
       "description_ru": "Помпей захватывает Иерусалим после трёхмесячной осады, войдя в Святая Святых Храма — но ничего не взяв. Он делает Иудею римским клиентским государством.",
       "era": "BC",
@@ -3296,26 +3379,6 @@
         "Vassalage"
       ],
       "type": "military"
-    },
-    {
-      "date": "01.01.0063",
-      "description": "Lucius Sergius Catilina, a ruined nobleman, plots to overthrow the Republic with an army of debtors and veterans. Consul Cicero exposes the plot in the Senate with his famous orations. Five conspirators are executed without trial — controversial even then, and later used against Cicero.",
-      "description_ru": "Луций Сергий Катилина, разорённый аристократ, заручается поддержкой других должников и ветеранов. Его план - свергнуть Республику, стать диктатором, объявить амнистию должников и перераспределить собственность. Консул Цицерон разоблачает заговор в Сенате своими знаменитыми речами. Пятеро заговорщиков казнены без суда — решение, которое позже применят против самого Цицерона.",
-      "era": "BC",
-      "latitude": 41.89318911,
-      "longitude": 12.48506606,
-      "name": "Catiline Conspiracy",
-      "name_ru": "Заговор Катилины",
-      "source": "https://en.wikipedia.org/wiki/Catilinarian_conspiracy",
-      "tags": [
-        "Roman",
-        "Cicero 👤",
-        "Conspiracy",
-        "Crisis",
-        "Execution",
-        "Political"
-      ],
-      "type": "political"
     },
     {
       "date": "01.05.0062",
@@ -3434,33 +3497,14 @@
       "type": "political"
     },
     {
-      "date": "01.01.0058",
-      "description": "Caesar begins his Gallic Wars. Over nine years he conquers all of Gaul (modern France, Belgium, parts of Germany), conducts two expeditions to Britain, and crosses the Rhine twice. He kills or enslaves over a million Gauls while building a fiercely loyal veteran army.",
-      "description_ru": "За девять лет походов Цезарь завоёвывает всю Галлию (современные Франция, Бельгия, часть Германии), проводит две экспедиции в Британию и дважды переходит Рейн. Он убивает или порабощает более миллиона галлов, создавая преданную ветеранскую армию.",
-      "era": "BC",
-      "latitude": 46.2276,
-      "longitude": 2.2137,
-      "name": "Caesar's Gallic Wars Begin",
-      "name_ru": "Начало Галльских войн Цезаря",
-      "source": "https://en.wikipedia.org/wiki/Gallic_Wars",
-      "tags": [
-        "Roman",
-        "Gallic",
-        "War",
-        "Conquest",
-        "Julius Caesar 👤"
-      ],
-      "type": "military"
-    },
-    {
       "date": "01.09.0057",
       "description": "Clodius became so carried away playing the street king that he began attacking Pompey as well. His gangs blockaded the general's house, and one of Clodius' slaves was even caught with a dagger at the entrance. Pompey supported the tribune Milo, who recruited his gladiators and began driving Clodius's men from the streets; Pompey also supported Cicero's reinstatement, on the condition that he not criticize the triumvirate.",
       "description_ru": "Клодий настолько заигрался в уличного короля, что начал нападать и на Помпея. Его банды блокировали дом полководца, а один из рабов Клодия даже был пойман с кинжалом у входа. Помпей поддержал трибуна Милона, который набрал своих гладиаторов и начал выбивать людей Клодия с улиц; также Помпей поддержал возвращение Цицерона назад, при условии что тот не будет критиковать триумвират",
       "era": "BC",
       "latitude": 41.89318911,
       "longitude": 12.48506606,
-      "name": "The Return of Cicero",
-      "name_ru": "Возвращение Цицерона",
+      "name": "The Return of Cicero to Rome",
+      "name_ru": "Возвращение Цицерона в Рим",
       "tags": [
         "Roman",
         "Claudii",
@@ -3525,6 +3569,7 @@
         "Gallic",
         "War",
         "Engineering ⚙️",
+        "Germanic",
         "Innovation",
         "Julius Caesar 👤"
       ],
@@ -3590,6 +3635,29 @@
       "type": "military"
     },
     {
+      "date": "01.09.0052",
+      "description": "The Gallic leader Vercingetorix is ​​defeated by Caesar's mercenary Germanic cavalry and takes refuge with his army behind the walls of the fortress of Alesia. Caesar encircles Alesia and builds an 18-kilometer-long inner ring around it to trap Vercingetorix. At the same time, he builds an outer defensive ring, as a huge army is advancing to reinforce the Gauls in Alesia. Thus, the Romans are trapped between the Gaulish armies within a narrow ring of fortifications.\n\nBy mid-autumn, famine began in Alesia, and Vercingetorix expelled his wives, children, and elderly from the city to conserve supplies. Caesar refused to allow the refugees through the ring, and they were forced to die of starvation beneath the walls, demoralizing the fortress's defenders. In October, the Gauls discovered a weak point and launched a breakthrough from two sides. Thanks to the effective Roman fortifications and the personal courage of Mark Antony and Caesar in battle, the Romans managed to put the outer army to flight, after which Vercingetorix was forced to surrender.",
+      "description_ru": "Галльский вождь Верцингеторикс терпит поражение от наемной германской конницы Цезаря и укрывается с армией за стенами крепости Алезия. Цезарь окружает Алезию и строит вокруг нее 18-километровое внутреннее кольцо, чтобы запереть Верцингеторикса. Параллельно он возводит внешнее защитное кольцо, поскольку галлам в Алезии на подмогу идет огромная армия. Таким образом, римляне зажаты между армиями галлов в узком кольце укреплений.\n\nК середине осени в Алезии начался голод, и Верцингеторикс выгнал из города жен, детей и стариков, чтобы сэкономить припасы. Цезарь не пропустил беженцев через кольцо, и они вынуждены были гибнуть от голода под стенами, деморализуя защитников крепости. В октябре галлы нашли слабое место и пошли на прорыв с двух сторон. Благодаря эффективным римским фортификациям и личному мужеству Марка Антония и Цезаря в бою, римлянам удалось обратить внешнюю армию в бегство, после чего Верцингеториксу пришлось сдаться.",
+      "era": "BC",
+      "latitude": 47.5361,
+      "longitude": 4.5022,
+      "name": "Siege of Alesia",
+      "name_ru": "Осада Цезарем Алезии",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Alesia",
+      "tags": [
+        "Roman",
+        "Gallic",
+        "War",
+        "Engineering ⚙️",
+        "Fortification",
+        "Julius Caesar 👤",
+        "Mark Antony 👤",
+        "Rebellion",
+        "Siege"
+      ],
+      "type": "military"
+    },
+    {
       "date": "01.04.0052",
       "description": "Pompey reinstated the old rule requiring every candidate for the highest office to be present in Rome in person upon application and during the election. This was a move against Caesar, who would be deprived of the opportunity to become consul while in Gaul (and he could not return to Rome, as he could be condemned for his actions during his previous consulship).",
       "description_ru": "Помпей восстановил старое правило, согласно которому каждый кандидат на высшую должность обязан был лично присутствовать в Риме в момент подачи заявки и во время выборов. Это был ход против Цезаря, который лишался возможности стать консулом, находясь в Галлии (а в Рим он вернуться не мог, поскольку мог быть осужден за свои действия в прошлое консульство)",
@@ -3626,27 +3694,6 @@
         "Senate"
       ],
       "type": "political"
-    },
-    {
-      "date": "01.01.0052",
-      "description": "The Gallic chieftain Vercingetorix unites the tribes in a massive revolt against Rome. After initial successes, he is besieged at Alesia where Caesar builds two rings of fortifications — one facing in, one facing out against a relief army of 250,000. Vercingetorix surrenders and is later executed in Rome.",
-      "description_ru": "Галльский вождь Верцингеториг объединяет племена в массовом восстании против Рима. После первоначальных успехов он осаждён в Алезии, где Цезарь строит два кольца укреплений — одно внутрь, одно наружу против галльской армии поддержки. Верцингеториг сдаётся и позже казнён в Риме.",
-      "era": "BC",
-      "latitude": 47.5361,
-      "longitude": 4.5022,
-      "name": "Siege of Alesia",
-      "name_ru": "Осада Цезарем Алезии",
-      "source": "https://en.wikipedia.org/wiki/Battle_of_Alesia",
-      "tags": [
-        "Roman",
-        "Gallic",
-        "War",
-        "Julius Caesar 👤",
-        "Mark Antony 👤",
-        "Rebellion",
-        "Siege"
-      ],
-      "type": "military"
     },
     {
       "date": "01.01.0052",
@@ -3722,7 +3769,7 @@
       "type": "military"
     },
     {
-      "date": "01.06.0049",
+      "date": "01.03.0049",
       "description": "Caesar seizes the state treasury in the Temple of Saturn despite tribune opposition. He reportedly says the laws go silent in times of war. The treasury contains 15,000 gold bars, 30,000 silver bars, and 30 million sesterces in coin.",
       "description_ru": "Цезарь захватывает брошенную Помпеем государственную казну в храме Сатурна, несмотря на сопротивление трибунов. Он, по преданию, говорит, что законы молчат во времена войны. Казна содержит 15 000 золотых слитков, 30 000 серебряных слитков и 30 миллионов сестерциев монетами.",
       "era": "BC",
@@ -3741,7 +3788,7 @@
       "type": "political"
     },
     {
-      "date": "01.03.0049",
+      "date": "14.02.0049",
       "description": "Here, Caesar, marching on Rome, adopted a policy of clemency, releasing the captured senators. He didn't want to look like Sulla, who executed the elites who had betrayed him. This clemency turned public opinion, and cities began to surrender voluntarily.",
       "description_ru": "Здесь Цезарь, идущий на Рим, применил политику милосердия, отпустив захваченных сенаторов. Он не хотел выглядеть в своем походе как Сулла, который казнил предавшие его элиты. Это милосердие переломило общественное мнение — города начали сдаваться добровольно.",
       "era": "BC",
@@ -3965,8 +4012,8 @@
       "era": "BC",
       "latitude": 44.62774069,
       "longitude": 10.97130775,
-      "name": "Siege of Mutina",
-      "name_ru": "Осада Мутины",
+      "name": "Mark Antony besieges Mutina",
+      "name_ru": "Марк Антоний осаждает Мутину",
       "tags": [
         "Roman",
         "Civil War",

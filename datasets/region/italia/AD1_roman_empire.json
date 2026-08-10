@@ -75,7 +75,9 @@
       "tags": [
         "Roman",
         "Birth",
-        "Philosophy"
+        "Culture",
+        "Philosophy",
+        "Stoicism"
       ],
       "type": "cultural"
     },
@@ -660,8 +662,8 @@
     },
     {
       "date": "11.08.0117",
-      "description": "Hadrian accedes to the throne on Trajan's death, immediately abandoning Trajan's newly conquered Mesopotamian and Armenian territories as strategically unsustainable — a controversial but arguably correct assessment of Roman overstretch. He is the most widely-travelled emperor in Roman history, spending more than half his 21-year reign outside Italy inspecting provinces, reviewing troops, and overseeing construction projects. His strategic doctrine — consolidating existing frontiers rather than expanding — represents a fundamental shift in Roman imperial thinking, codified in the great frontier fortifications he builds across the empire: the most famous of which is Hadrian's Wall in Britain.",
-      "description_ru": "Адриан восходит на трон после смерти Траяна, немедленно отказываясь от новозавоёванных месопотамских и армянских территорий как стратегически неустойчивых. Он — наиболее широко путешествовавший из всех римских императоров: более половины своего 21-летнего правления он проводит вне Италии, инспектируя провинции и строительные проекты. \n\nЕго стратегическая доктрина — укрепление существующих границ вместо расширения — воплощается в великих пограничных фортификациях по всей империи, наиболее известное из которых — Вал Адриана в Британии.",
+      "description": "Hadrian, originally from Italica in Spain, ascends the throne on Trajan's death, immediately abandoning Trajan's newly conquered Mesopotamian and Armenian territories as strategically unsustainable — a controversial but arguably correct assessment of Roman overstretch. He is the most widely-travelled emperor in Roman history, spending more than half his 21-year reign outside Italy inspecting provinces, reviewing troops, and overseeing construction projects. His strategic doctrine — consolidating existing frontiers rather than expanding — represents a fundamental shift in Roman imperial thinking, codified in the great frontier fortifications he builds across the empire: the most famous of which is Hadrian's Wall in Britain.",
+      "description_ru": "Адриан, родом из Италики в Испании, восходит на трон после смерти Траяна, немедленно отказываясь от новозавоёванных месопотамских и армянских территорий как стратегически неустойчивых. Он — наиболее широко путешествовавший из всех римских императоров: более половины своего 21-летнего правления он проводит вне Италии, инспектируя провинции и строительные проекты. \n\nЕго стратегическая доктрина — укрепление существующих границ вместо расширения — воплощается в великих пограничных фортификациях по всей империи, наиболее известное из которых — Вал Адриана в Британии.",
       "era": "AD",
       "latitude": 41.94517569,
       "longitude": 12.77403116,
@@ -1402,16 +1404,17 @@
     },
     {
       "date": "06.11.0360",
-      "description": "Julian (Flavius Claudius Julianus), the sole surviving male cousin of Constantine the Great who had been miraculously spared the dynastic massacre of 337 AD, is acclaimed Augustus by his troops in Paris in 360 AD after Constantius II tries to strip him of his forces. Julian is a lifelong secret pagan — raised Christian but privately committed to the Neoplatonist restoration of the old gods — who immediately on becoming sole emperor in 361 AD (upon Constantius's death) openly announces his apostasy and issues an edict of religious toleration while simultaneously withdrawing imperial favour from Christianity. He earns the epithet 'the Apostate' from Christians; pagans call him the restorer of true religion.",
-      "description_ru": "Юлиан (Флавий Клавдий Юлиан), единственный выживший мужчина-кузен Константина Великого, провозглашён Августом войсками в Париже в 360 г. н. э. Юлиан — тайный язычник на протяжении всей жизни, воспитанный христианином, но приверженный неоплатоническому восстановлению старых богов. Став единоличным императором в 361 г. после смерти Констанция II, он открыто объявляет об отступничестве и отменяет привилегии христианства. Христиане нарекают его «Отступником»; язычники — восстановителем истинной религии.",
+      "description": "Julian (Flavius ​​Claudius Julianus), the only surviving male cousin of Constantine the Great, is proclaimed Augustus by his troops in Lutetia. This proclamation followed Constantius II's order to transfer a significant portion of Julian's Gallic army to the eastern front—an order the troops refused to carry out, insisting that Julian, who had halted the collapse of the Rhine defenses, lead them rather than transfer them to a distant theater. Julian reluctantly accepted this, starting a civil war that ended only with Constantius's death.\n\nJulian, a secret pagan throughout his life, was raised a Christian but committed to the Neoplatonic restoration of the old gods. Upon becoming sole emperor in 361 after the death of Constantius II, he openly declared his apostasy and revoked the privileges of Christianity. Christians called him \"the Apostate\"; pagans, the restorer of the true religion.",
+      "description_ru": "Юлиан (Флавий Клавдий Юлиан), единственный выживший мужчина-кузен Константина Великого, провозглашён Августом войсками в Лютеции. Провозглашение последовало за приказом Констанция II перевести значительную часть галльской армии Юлиана на восточный фронт — приказом, который войска отказались выполнять, настаивая на том, чтобы Юлиан, остановивший развал Рейнской обороны, вёл их, а не передавал на далёкий театр. Юлиан принял это неохотно, начав гражданскую войну, завершившуюся лишь смертью Констанция\n\nЮлиан — тайный язычник на протяжении всей жизни, воспитанный христианином, но приверженный неоплатоническому восстановлению старых богов. Став единоличным императором в 361 г. после смерти Констанция II, он открыто объявляет об отступничестве и отменяет привилегии христианства. Христиане нарекают его «Отступником»; язычники — восстановителем истинной религии.",
       "era": "AD",
-      "latitude": 48.86,
-      "longitude": 2.35,
+      "latitude": 48.85508693,
+      "longitude": 2.34683096,
       "name": "Julian — the Last Pagan Roman Emperor",
       "name_ru": "Юлиан — последний языческий император Рима",
       "source": "https://en.wikipedia.org/wiki/Julian_(emperor)",
       "tags": [
         "Roman",
+        "Gallic",
         "Crisis",
         "Emperor",
         "Pagan",
