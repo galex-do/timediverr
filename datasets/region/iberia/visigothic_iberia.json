@@ -1,0 +1,438 @@
+{
+  "filename": "visigothic_iberia.json",
+  "description": "Post-Roman Iberia from the barbarian partition of 411 through the Suebi and Visigothic kingdoms, the conversion to Catholicism, Isidore of Seville, and the fall of Toledo to the Umayyads in 711.",
+  "events": [
+    {
+      "date": "01.01.0411",
+      "era": "AD",
+      "type": "political",
+      "name": "The lot of Hispania — barbarians divide the peninsula",
+      "name_ru": "Жребий Испании — варвары делят полуостров",
+      "description": "In 411, after two years of looting, the barbarian peoples who had crossed the Pyrenees in 409 drew lots to determine which group would settle which province. The Hasding Vandals and Suebi received Gallaecia in the northwest; the Alans received Lusitania and Carthaginiensis; the Siling Vandals took Baetica. The settlement was not peaceful — the groups raided each other's zones and the remaining Roman population — but it gave each people a territorial base.\n\nThe arrangement lasted barely a decade. Visigoths, acting as Roman federates, destroyed the Siling Vandals and Alans between 416 and 418, absorbing the Alan survivors. The Hasding Vandals under Gaiseric eventually moved to North Africa in 429, leaving the Suebi as the only barbarian kingdom with deep roots in the northwest. That small Suebi remnant in Gallaecia would outlast almost everyone, surviving until 585.",
+      "description_ru": "В 411 году, после двух лет грабежей, варварские народы, перешедшие Пиренеи в 409 году, бросили жребий, чтобы определить, кому из них какая провинция достанется. Хасдинги-вандалы и свевы получили Галлаэцию на северо-западе; аланы — Лузитанию и Карфагиненсис; силинги-вандалы взяли Бетику. Урегулирование не было мирным — группы грабили друг друга и оставшееся римское население, — но каждому народу дало территориальную базу.\n\nСхема просуществовала едва десятилетие. Вестготы, действуя как римские федераты, уничтожили силингов-вандалов и аланов в 416–418 годах, поглотив выживших аланов. Хасдинги-вандалы под командованием Гейзериха в 429 году ушли в Северную Африку, оставив свевов единственным варварским королевством с глубокими корнями на северо-западе — крошечным государством, пережившим почти всех соперников вплоть до 585 года.",
+      "latitude": 39.8628,
+      "longitude": -4.0273,
+      "source": "https://en.wikipedia.org/wiki/Suebi",
+      "tags": [
+        "Visigothic",
+        "Germanic",
+        "Political",
+        "Migration",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "01.01.0418",
+      "era": "AD",
+      "type": "military",
+      "name": "Wallia's campaign — Visigoths liquidate Rome's barbarian problem in Iberia",
+      "name_ru": "Кампания Валлии — вестготы ликвидируют варварскую проблему Рима в Иберии",
+      "description": "Between 416 and 418, the Visigothic king Wallia fought in Iberia on behalf of the western Roman government, systematically destroying the Siling Vandals in Baetica and nearly annihilating the Alans in Lusitania — the Alan king Addax was killed in battle, and the survivors merged into the Hasding Vandal group. The campaign recovered southern and central Iberia for nominal Roman authority without costing Rome a single Italian soldier.\n\nWallia received no territory in Iberia as payment. Instead, Rome settled the Visigoths in Aquitaine in southern Gaul, where they became the Visigothic Kingdom of Toulouse — nominally Roman federates, practically an independent power. Their absence left Iberia's interior to the Suebi and the remaining Roman provincial administration. The Visigoths would return to Iberia in force only after losing Gaul to the Franks at Vouillé in 507.",
+      "description_ru": "Между 416 и 418 годами вестготский король Валлия воевал в Иберии от имени западноримского правительства, систематически уничтожая силингов-вандалов в Бетике и почти истребив аланов в Лузитании — аланский король Аддак погиб в бою, а уцелевшие влились в группу хасдингов-вандалов. Кампания возвратила южную и центральную Иберию под номинальный римский контроль без единого итальянского солдата.\n\nВ качестве оплаты Валлия не получил никакой территории в Иберии. Вместо этого Рим поселил вестготов в Аквитании — де-факто независимого государства при номинальном статусе федератов. Их уход оставил внутренние районы Иберии свевам и остатку римской провинциальной администрации. Вестготы вернутся в Иберию в полную силу лишь после потери Галлии франкам при Вуйе в 507 году.",
+      "latitude": 37.3886,
+      "longitude": -5.9823,
+      "source": "https://en.wikipedia.org/wiki/Wallia",
+      "tags": [
+        "Visigothic",
+        "Military",
+        "Roman",
+        "Germanic",
+        "Battle",
+        "War"
+      ]
+    },
+    {
+      "date": "01.01.0448",
+      "era": "AD",
+      "type": "religious",
+      "name": "Rechiar — the first Catholic Germanic king in the West",
+      "name_ru": "Рехиар — первый католический германский король на Западе",
+      "description": "When the Suebi king Rechiar converted to Nicene Catholicism around 448 — probably influenced by the Gallo-Roman bishop Hydatius — he became the first Germanic ruler in the West to adopt the faith of his Roman subjects rather than Arianism, the dominant creed among barbarian kingdoms. His conversion aligned the Suebi politically with the Roman church but set them apart from the Visigothic and Vandal kingdoms that surrounded them.\n\nRechiar's reign was aggressive. He raided deep into Tarraconensis and attacked the Vascones, pursuing an expansionist policy that brought the Suebi into conflict with the Visigothic kingdom of Toulouse, then at the height of its power. In 456 Theodoric II invaded Gallaecia in response, defeated Rechiar at the River Órbigo, captured him, and had him executed — ending the first phase of Suebi Catholic rule, though the kingdom itself survived.",
+      "description_ru": "Когда около 448 года свевский король Рехиар принял никейский католицизм — вероятно, под влиянием галло-римского епископа Идация, — он стал первым германским правителем на Западе, принявшим веру своих римских подданных вместо арианства, господствовавшего в варварских королевствах. Его обращение политически сближало свевов с римской церковью, но отделяло от окружавших их вестготских и вандальских королевств.\n\nЦарствование Рехиара было агрессивным. Он совершал глубокие набеги в Тарраконскую Испанию и нападал на васконов, проводя экспансионистскую политику, поставившую свевов в конфликт с вестготским королевством Тулузы. В 456 году Теодорих II вторгся в Галлаэцию, разгромил Рехиара на реке Орбиго, взял в плен и казнил — завершив первую фазу свевского католического правления, хотя само королевство выжило.",
+      "latitude": 41.5458,
+      "longitude": -8.4265,
+      "source": "https://en.wikipedia.org/wiki/Rechiar",
+      "tags": [
+        "Suebi",
+        "Religious",
+        "Christian",
+        "Germanic",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0456",
+      "era": "AD",
+      "type": "military",
+      "name": "Battle of the Órbigo — Visigoths shatter the Suebi kingdom",
+      "name_ru": "Битва при Орбиго — вестготы разгромили Свевское королевство",
+      "description": "In October 456, Theodoric II crossed the Pyrenees with a large Visigothic force and met the Suebi army at the River Órbigo near Astorga in Gallaecia. The battle was decisive: the Suebi were routed, Rechiar captured and later killed, and the Visigoths proceeded to sack Braga, Palencia, and Astorga, reportedly massacring civilians regardless of whether they were Roman or Suebi. The bishop Hydatius — our principal source for fifth-century Iberia — described the destruction with horror.\n\nThe Visigoths did not stay to administer Gallaecia. Theodoric withdrew, leaving the northwest politically shattered but not occupied. The Suebi regrouped under new kings and reasserted control of their territory within a decade, continuing as a distinct kingdom until Leovigild's annexation in 585. The Órbigo established a pattern: the Visigoths could destroy Suebi armies but could not permanently hold the Atlantic northwest.",
+      "description_ru": "В октябре 456 года Теодорих II перешёл Пиренеи с крупными вестготскими силами и встретил свевскую армию у реки Орбиго близ Асторги в Галлаэции. Битва оказалась решающей: свевы были разгромлены, Рехиар захвачен и казнён, а вестготы принялись разграблять Брагу, Паленсию и Асторгу, по свидетельствам убивая мирных жителей вне зависимости от их происхождения. Епископ Идаций — наш главный источник по Иберии V века — описывал разрушения с ужасом.\n\nВестготы не остались управлять Галлаэцией. Теодорих отошёл, оставив северо-запад политически разбитым, но не оккупированным. Свевы сплотились под новыми королями и восстановили контроль над своей территорией в течение десятилетия, просуществовав как самостоятельное королевство вплоть до аннексии Леовигильдом в 585 году.",
+      "latitude": 42.47,
+      "longitude": -5.94,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_the_%C3%93rbigo",
+      "tags": [
+        "Visigothic",
+        "Suebi",
+        "Military",
+        "Battle",
+        "War",
+        "Germanic"
+      ]
+    },
+    {
+      "date": "01.01.0507",
+      "era": "AD",
+      "type": "military",
+      "name": "Battle of Vouillé — Clovis drives the Visigoths from Gaul",
+      "name_ru": "Битва при Вуйе — Хлодвиг вытесняет вестготов из Галлии",
+      "description": "At Vouillé near Poitiers in 507, the Frankish king Clovis defeated and killed the Visigothic king Alaric II, destroying the Visigothic Kingdom of Toulouse in a single afternoon. The Visigoths lost almost all their Gallic territory — only the coastal strip of Septimania (Languedoc) survived — and their nobility fled south across the Pyrenees. Within a generation, Iberia rather than Gaul was the Visigothic heartland.\n\nVouillé transformed the political geography of western Europe. It made the Franks the dominant Germanic power north of the Pyrenees and pushed Visigothic ambitions permanently southward. Toledo replaced Toulouse as the kingdom's capital; the Iberian peninsula became not a peripheral possession but the territorial core. The Visigothic kingdom that would rule Iberia for the next two centuries was forged in this defeat.",
+      "description_ru": "У Вуйе близ Пуатье в 507 году франкский король Хлодвиг разгромил и убил вестготского короля Алариха II, уничтожив Вестготское королевство Тулузы за один день. Вестготы потеряли почти все галльские владения — уцелела лишь прибрежная полоса Септимании, — а их знать бежала на юг, за Пиренеи. В течение поколения Иберия, а не Галлия стала вестготским сердцем.\n\nВуйе преобразил политическую географию Западной Европы. Он сделал франков господствующей германской силой к северу от Пиренеев и навсегда направил вестготские амбиции на юг. Толедо сменил Тулузу в качестве столицы королевства; Иберийский полуостров превратился не в периферийное владение, а в территориальное ядро. Вестготское королевство, правившее Иберией следующие два столетия, было скованно в этом поражении.",
+      "latitude": 46.565,
+      "longitude": -0.285,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Vouill%C3%A9",
+      "tags": [
+        "Visigothic",
+        "Military",
+        "Battle",
+        "War",
+        "Frankish",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0510",
+      "era": "AD",
+      "type": "historic",
+      "name": "Toledo — a Roman city becomes the Gothic capital",
+      "name_ru": "Толедо — римский город становится готской столицей",
+      "description": "After Vouillé, the Visigoths shifted their administrative centre to Toledo — Toletum — a former Roman city on a granite promontory above the River Tagus in the heart of the peninsula. The city's central position, its defensive site, and its existing Roman infrastructure made it the natural capital for a kingdom that now controlled most of Iberia. Toledo would remain the Visigothic capital until the kingdom's destruction in 711.\n\nUnder Visigothic rule, Toledo became the site of the great church councils that defined the kingdom's political and religious life. Its archbishop held primacy over the entire Iberian church. Roman building traditions continued — the Visigoths were not cultural destroyers but absorbed Roman administrative and architectural forms. The city's craftsmen produced some of the finest goldwork in early medieval Europe, and its bishops wrote theology and law that shaped western Christianity for centuries.",
+      "description_ru": "После Вуйе вестготы перенесли административный центр в Толедо — Толетум, — бывший римский город на гранитном утёсе над Тахо в сердце полуострова. Его центральное положение, оборонительная позиция и существующая римская инфраструктура сделали его естественной столицей королевства, контролировавшего большую часть Иберии. Толедо оставался вестготской столицей вплоть до гибели королевства в 711 году.\n\nПри вестготах Толедо стал местом проведения великих церковных соборов, определявших политическую и религиозную жизнь королевства. Его архиепископ обладал первенством над всей иберийской церковью. Римские строительные традиции продолжались — вестготы не были культурными разрушителями, а усваивали римские административные и архитектурные формы. Городские мастера создавали одни из лучших ювелирных изделий раннесредневековой Европы, а его епископы писали теологию и право, формировавшие западное христианство на столетия.",
+      "latitude": 39.8628,
+      "longitude": -4.0273,
+      "source": "https://en.wikipedia.org/wiki/Toledo,_Spain",
+      "tags": [
+        "Visigothic",
+        "Historic",
+        "Foundation",
+        "Building 🏠",
+        "Political"
+      ]
+    },
+    {
+      "date": "01.01.0554",
+      "era": "AD",
+      "type": "political",
+      "name": "Byzantine Spania — Justinian's beachhead on Iberian soil",
+      "name_ru": "Byzantine Spania — плацдарм Юстиниана на иберийской земле",
+      "description": "In 554, the eastern Roman emperor Justinian I exploited a Visigothic succession crisis to land troops in southeastern Iberia, establishing the province of Spania. His forces seized Cartagena, Málaga, Córdoba, and a strip of the southern coast — approximately what is now Andalusia and Murcia. It was the last territorial recovery of the western Roman empire anywhere in the West, and it gave Constantinople a foothold at the western end of the Mediterranean.\n\nByzantine Spania was always a precarious outpost. It lacked the resources for deep penetration inland, and successive Visigothic kings chipped away at its boundaries. The province generated significant cultural exchange — Byzantine artistic influence entered Visigothic Spain through this corridor — but militarily it was a drain. Suintila expelled the last Byzantine forces in 624, reunifying the peninsula under Visigothic rule for the first time.",
+      "description_ru": "В 554 году восточноримский император Юстиниан I воспользовался вестготским кризисом престолонаследия и высадил войска на юго-востоке Иберии, учредив провинцию Испания. Его силы захватили Картахену, Малагу, Кордову и полосу южного побережья — примерно соответствующую нынешней Андалусии и Мурсии. Это было последнее территориальное восстановление западной Римской империи где-либо на Западе, давшее Константинополю плацдарм у западного конца Средиземноморья.\n\nВизантийская Испания всегда была ненадёжным форпостом. Ресурсов для глубокого проникновения вглубь страны не хватало, и последующие вестготские короли постепенно подтачивали её границы. Провинция породила значительный культурный обмен — через этот коридор в Испанию проникло византийское художественное влияние, — но в военном отношении являлась обузой. Суинтила изгнал последние византийские силы в 624 году, впервые объединив полуостров под вестготским управлением.",
+      "latitude": 37.6057,
+      "longitude": -0.9864,
+      "source": "https://en.wikipedia.org/wiki/Byzantine_Hispania",
+      "tags": [
+        "Visigothic",
+        "Byzantine",
+        "Political",
+        "Military",
+        "Historic",
+        "Roman"
+      ]
+    },
+    {
+      "date": "01.01.0563",
+      "era": "AD",
+      "type": "religious",
+      "name": "Martin of Braga — the apostle who converted the Suebi twice",
+      "name_ru": "Мартин Браги — апостол, дважды обративший свевов",
+      "description": "Martin of Braga — a Pannonian monk who had studied in Palestine and arrived in Gallaecia around 550 — transformed the Suebi kingdom's Christianity from Arianism back to Catholicism. He founded the monastery of Dumio near Braga, became bishop of Braga, and wrote practical guides for converting the rural population: his De correctione rusticorum is the earliest known manual for extirpating pagan customs among newly Christianised Germanic peoples.\n\nMartin's influence extended beyond conversion. He introduced to Iberia a collection of Greek theological texts, translated eastern monastic rules, and corresponded with Frankish bishops — connecting the Suebi church to the broader Latin West at a time when Iberian Arianism kept the Visigoths isolated from Rome. His work gave Braga a theological prestige it retained long after the Suebi kingdom was absorbed: it remains an archiepiscopal see to this day.",
+      "description_ru": "Мартин Браги — паннонский монах, обучавшийся в Палестине и прибывший в Галлаэцию около 550 года, — обратил Свевское королевство из арианства обратно в католицизм. Он основал монастырь Думиу близ Браги, стал епископом Браги и написал практические руководства по обращению сельского населения: его «De correctione rusticorum» — древнейшее из известных пособий по искоренению языческих обычаев среди новообращённых германских народов.\n\nВлияние Мартина выходило за рамки обращения. Он принёс в Иберию собрание греческих богословских текстов, перевёл восточные монастырские уставы и переписывался с франкскими епископами — соединяя свевскую церковь с широким латинским Западом в то время, когда иберийское арианство держало вестготов в изоляции от Рима. Его труд наделил Брагу богословским авторитетом, сохранявшимся долго после поглощения Свевского королевства: она остаётся архиепископской кафедрой по сей день.",
+      "latitude": 41.5458,
+      "longitude": -8.4265,
+      "source": "https://en.wikipedia.org/wiki/Martin_of_Braga",
+      "tags": [
+        "Suebi",
+        "Religious",
+        "Christian",
+        "Culture",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0569",
+      "era": "AD",
+      "type": "political",
+      "name": "Leovigild — the king who unified Iberia under one crown",
+      "name_ru": "Леовигильд — король, объединивший Иберию под одной короной",
+      "description": "Leovigild, who ruled from 568 to 586, was the most capable Visigothic king and the architect of a unified Iberian state. He conquered the Cantabrian and Basque territories, absorbed the Suebi kingdom in 585, and pushed the Byzantines back from much of their Spanian territory. To project royal authority in Roman style, he adopted the diadem, purple robes, and a throne — the first Visigothic king to sit on one — and struck gold coins bearing his portrait, modelling himself consciously on eastern emperors.\n\nLeovigild also attempted to resolve the religious division between his Arian Goths and Catholic Roman subjects by convening a council in 580 to create a revised Arianism acceptable to Catholics. The attempt failed — his son Hermenegild converted to Catholicism and rebelled — but the effort shows the political problem Arianism posed. His other son Reccared would solve it definitively three years after Leovigild's death.",
+      "description_ru": "Леовигильд, правивший с 568 по 586 год, был наиболее способным вестготским королём и архитектором единого иберийского государства. Он завоевал кантабрийские и баскские территории, поглотил Свевское королевство в 585 году и оттеснил византийцев от значительной части их испанской территории. Для демонстрации королевской власти в римском стиле он принял диадему, пурпурные одеяния и трон — первый вестготский король, восседавший на нём, — и чеканил золотые монеты со своим портретом, сознательно подражая восточным императорам.\n\nЛеовигильд также пытался преодолеть религиозное разделение между своими готами-арианами и католическими римскими подданными, созвав собор в 580 году для создания пересмотренного арианства, приемлемого для католиков. Попытка провалилась — его сын Эрминегильд принял католицизм и поднял восстание, — однако она показывает, какой политической проблемой было арианство. Другой его сын Реккаред решил её окончательно три года спустя после смерти Леовигильда.",
+      "latitude": 39.8628,
+      "longitude": -4.0273,
+      "source": "https://en.wikipedia.org/wiki/Leovigild",
+      "tags": [
+        "Visigothic",
+        "Political",
+        "Historic",
+        "Military",
+        "Dynasty"
+      ]
+    },
+    {
+      "date": "01.01.0579",
+      "era": "AD",
+      "type": "religious",
+      "name": "Hermenegild's rebellion — a Catholic prince defies his Arian father",
+      "name_ru": "Восстание Эрминегильда — католический принц против отца-арианина",
+      "description": "Around 579, the Visigothic prince Hermenegild — governor of Baetica and husband of the Frankish Catholic princess Ingundis — converted from Arianism to Catholicism, reportedly under the influence of bishop Leander of Seville. He then raised a military rebellion against his father Leovigild, allying with the Byzantines and appealing to Frankish intervention. The revolt lasted five years and cost enormous resources on both sides before Leovigild captured Seville and imprisoned his son.\n\nHermenegild was killed in 585, probably on Leovigild's orders, and was later venerated as a martyr — canonised by Pope Clement VIII in 1585, exactly a thousand years after his death. Gregory the Great wrote admiringly of him in his Dialogues. The rebellion failed militarily but demonstrated the depth of Catholic sympathy within the Visigothic aristocracy, laying the groundwork for Reccared's total reversal of religious policy three years later.",
+      "description_ru": "Около 579 года вестготский принц Эрминегильд — наместник Бетики и муж франкской католической принцессы Ингунды — обратился из арианства в католицизм, предположительно под влиянием епископа Севильи Леандра. Затем он поднял военное восстание против отца Леовигильда, вступил в союз с византийцами и призвал к франкскому вмешательству. Восстание длилось пять лет и обошлось обеим сторонам огромными потерями, прежде чем Леовигильд взял Севилью и заключил сына под стражу.\n\nЭрминегильд был убит в 585 году, вероятно по приказу Леовигильда, и впоследствии почитался как мученик — канонизированный папой Климентом VIII в 1585 году, ровно тысячу лет спустя. Григорий Великий восхищённо писал о нём в «Диалогах». Восстание потерпело военное поражение, однако обнажило глубину католических симпатий внутри вестготской аристократии, подготовив почву для полного разворота религиозной политики Реккаредом три года спустя.",
+      "latitude": 37.3886,
+      "longitude": -5.9823,
+      "source": "https://en.wikipedia.org/wiki/Hermenegild",
+      "tags": [
+        "Visigothic",
+        "Religious",
+        "Political",
+        "Christian",
+        "Rebellion",
+        "Death"
+      ]
+    },
+    {
+      "date": "08.05.0589",
+      "era": "AD",
+      "type": "religious",
+      "name": "Third Council of Toledo — the Visigoths become Catholic",
+      "name_ru": "III Толедский собор — вестготы принимают католичество",
+      "description": "On 8 May 589, king Reccared — son of Leovigild — opened the Third Council of Toledo by personally renouncing Arianism before the assembled bishops of Hispania and Gallaecia. Seventy-two bishops attended; five of them were former Arians. Reccared signed the council's acts and required the Visigothic nobility to do the same. The conversion was immediate, total, and coordinated — not a gradual process but a single political decision executed with military precision.\n\nThe council's consequences shaped Iberia for centuries. It unified Goths and Romans under a single faith, eliminating the religious boundary that had kept them legally and socially separate. The church became the kingdom's indispensable administrative partner, its councils the primary legislative forum. Orthodox Christianity became the exclusive religion of the Visigothic state — the first step toward the fusion of Spanish national identity with Catholicism that endured into the twentieth century.",
+      "description_ru": "8 мая 589 года король Реккаред — сын Леовигильда — открыл III Толедский собор, лично отрекшись от арианства перед собравшимися епископами Испании и Галлаэции. В соборе участвовали семьдесят два епископа; пятеро из них были бывшими арианами. Реккаред подписал акты собора и обязал вестготскую знать сделать то же самое. Обращение было немедленным, полным и скоординированным — не постепенным процессом, а единым политическим решением, исполненным с военной точностью.\n\nПоследствия собора формировали Иберию на протяжении столетий. Он объединил готов и римлян под единой верой, устранив религиозную границу, удерживавшую их в юридическом и социальном разделении. Церковь стала незаменимым административным партнёром королевства, её соборы — главным законодательным форумом. Православное христианство превратилось в единственную религию вестготского государства — первый шаг к слиянию испанской национальной идентичности с католицизмом, сохранявшемуся вплоть до XX века.",
+      "latitude": 39.8628,
+      "longitude": -4.0273,
+      "source": "https://en.wikipedia.org/wiki/Third_Council_of_Toledo",
+      "tags": [
+        "Visigothic",
+        "Religious",
+        "Christian",
+        "Political",
+        "Historic",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "01.01.0616",
+      "era": "AD",
+      "type": "religious",
+      "name": "Sisebut's edict — Jews must convert or leave Hispania",
+      "name_ru": "Эдикт Сисебута — евреи должны обратиться или покинуть Испанию",
+      "description": "Around 616, king Sisebut issued an edict requiring all Jews in Visigothic Hispania to accept baptism or face exile and confiscation of property. It was the first general compulsory conversion order in western history. An estimated 90,000 Jews were baptised — many nominally, continuing to practise Judaism in private — while others fled to Byzantine territories, Frankish Gaul, or North Africa. Even Isidore of Seville, no friend to Judaism, criticised Sisebut for using force rather than persuasion.\n\nThe edict set a precedent that successive councils of Toledo elaborated into an increasingly elaborate system of restrictions on Jewish religious practice, property, and civic status. The resulting community of forced converts — Christians in name, Jews in practice — became a persistent political problem, with councils repeatedly legislating against Jewish backsliding. This unresolved tension may partly explain why some Jewish communities later welcomed the Muslim invaders of 711 as liberators.",
+      "description_ru": "Около 616 года король Сисебут издал эдикт, обязывавший всех евреев вестготской Испании принять крещение или покинуть страну, лишившись имущества. Это был первый в западной истории общий приказ о принудительном обращении. Около 90 000 евреев были крещены — многие номинально, продолжая тайно исповедовать иудаизм, — тогда как другие бежали на византийские территории, во франкскую Галлию или Северную Африку. Даже Исидор Севильский, не питавший симпатий к иудаизму, критиковал Сисебута за применение принуждения вместо убеждения.\n\nЭдикт создал прецедент, который последующие соборы в Толедо развили в сложную систему ограничений еврейской религиозной практики, имущественных и гражданских прав. Возникшая в результате община принудительно обращённых — христиан по имени, евреев по практике — стала постоянной политической проблемой. Это неразрешённое противоречие отчасти объясняет, почему часть еврейских общин впоследствии встретила мусульманских завоевателей 711 года как освободителей.",
+      "latitude": 39.8628,
+      "longitude": -4.0273,
+      "source": "https://en.wikipedia.org/wiki/Sisebut",
+      "tags": [
+        "Visigothic",
+        "Religious",
+        "Political",
+        "Jewish",
+        "Historic",
+        "Law"
+      ]
+    },
+    {
+      "date": "01.01.0620",
+      "era": "AD",
+      "type": "cultural",
+      "name": "Isidore of Seville — the encyclopaedia that preserved antiquity",
+      "name_ru": "Исидор Севильский — энциклопедия, сохранившая античность",
+      "description": "Isidore, bishop of Seville from around 600 until his death in 636, was the most learned man in the post-Roman West. His Etymologiae — twenty books covering grammar, rhetoric, medicine, agriculture, law, warfare, ships, and the natural world — assembled the knowledge of antiquity into a form accessible without the original Greek and Latin sources, most of which were already disappearing from western libraries. Medieval Europe read Isidore for centuries; the Etymologiae was among the first books printed after the Bible.\n\nHe also wrote a History of the Goths, Vandals, and Suebi — the first history to treat the Germanic peoples on their own terms rather than as Roman subjects — and a systematic theology that shaped western doctrine on topics from angels to marriage. Presiding over the Fourth Council of Toledo in 633, he helped institutionalise the church-state relationship that defined Visigothic governance. Dante placed him in paradise; he is now patron saint of the internet.",
+      "description_ru": "Исидор, епископ Севильи примерно с 600 года до своей смерти в 636 году, был самым учёным человеком на постримском Западе. Его «Этимологии» — двадцать книг, охватывающих грамматику, риторику, медицину, сельское хозяйство, право, военное дело, мореплавание и мир природы, — собрали знания античности в форму, доступную без оригинальных греческих и латинских источников, большинство которых уже исчезали из западных библиотек. Средневековая Европа читала Исидора столетиями; «Этимологии» были в числе первых книг, напечатанных после Библии.\n\nОн также написал «Историю готов, вандалов и свевов» — первую историю, рассматривающую германские народы самостоятельно, а не как римских подданных, — и систематическую теологию, формировавшую западную доктрину по темам от ангелов до брака. Председательствуя на IV Толедском соборе в 633 году, он помог институционализировать отношения церкви и государства, определявшие вестготское управление. Данте поместил его в рай; ныне он небесный покровитель интернета.",
+      "latitude": 37.3886,
+      "longitude": -5.9823,
+      "source": "https://en.wikipedia.org/wiki/Isidore_of_Seville",
+      "tags": [
+        "Visigothic",
+        "Culture",
+        "Religion",
+        "Christian",
+        "Science",
+        "Literature"
+      ]
+    },
+    {
+      "date": "01.01.0624",
+      "era": "AD",
+      "type": "military",
+      "name": "Suintila expels the Byzantines — Iberia unified for the first time",
+      "name_ru": "Суинтила изгоняет византийцев — Иберия объединена впервые",
+      "description": "King Suintila completed the reconquest of Byzantine Spania in 624, expelling the last imperial garrisons from Cartagena and the remaining southern coastal cities after a campaign that ancient sources describe as swift. For the first time since the Vandals, Suebi, and Alans divided the peninsula in 411, a single political authority controlled all of Iberia — and unlike the Roman empire, this was a native Iberian kingdom rather than a projection of power from Italy.\n\nIsidore of Seville celebrated Suintila as the first king to rule the entirety of Spain — rex totius Hispaniae — and dedicated his History of the Goths to him. The achievement was real but brief: Suintila was deposed in 631 by a noble conspiracy backed by church councils, the first of many royally sponsored coups that would destabilise the Visigothic state and ultimately enable the Muslim conquest.",
+      "description_ru": "Король Суинтила завершил повторное завоевание византийской Испании в 624 году, изгнав последние имперские гарнизоны из Картахены и оставшихся южных прибрежных городов в ходе кампании, которую древние источники описывают как стремительную. Впервые с тех пор как вандалы, свевы и аланы разделили полуостров в 411 году, единая политическая власть контролировала всю Иберию.\n\nИсидор Севильский превознёс Суинтилу как первого короля, правившего всей Испанией — rex totius Hispaniae, — и посвятил ему свою «Историю готов». Достижение было реальным, но недолговечным: Суинтила был свергнут в 631 году дворянским заговором при поддержке церковных соборов — первый из многих санкционированных духовенством переворотов, которые дестабилизируют вестготское государство и в конечном счёте откроют путь для мусульманского завоевания.",
+      "latitude": 37.6057,
+      "longitude": -0.9864,
+      "source": "https://en.wikipedia.org/wiki/Suintila",
+      "tags": [
+        "Visigothic",
+        "Military",
+        "Political",
+        "Historic",
+        "Byzantine"
+      ]
+    },
+    {
+      "date": "01.01.0633",
+      "era": "AD",
+      "type": "political",
+      "name": "Fourth Council of Toledo — the church acquires the power to make and unmake kings",
+      "name_ru": "IV Толедский собор — церковь приобретает власть создавать и низвергать королей",
+      "description": "The Fourth Council of Toledo in 633, presided over by Isidore of Seville, established the principle that Visigothic kings must be elected by the nobility and clergy rather than simply inheriting the throne. It also decreed that kings who violated church doctrine or abused their subjects could be removed, and that conspirators against a legitimate king faced anathema. The council thus institutionalised both the elective nature of Visigothic kingship and the church's role as its legitimating authority.\n\nThe practical effect was deeply destabilising. Election meant competition, and competition meant conspiracy. Of the seventeen Visigothic kings who ruled after 531, only a handful died in bed; most were assassinated, deposed, or forced into monasteries by rival factions. The church councils that met repeatedly in Toledo became arenas for political manoeuvring among noble clans, each seeking to place their candidate on a throne that offered wealth but no dynastic security.",
+      "description_ru": "IV Толедский собор 633 года, которым председательствовал Исидор Севильский, установил принцип, согласно которому вестготские короли должны избираться знатью и духовенством, а не просто наследовать трон. Собор также постановил, что короли, нарушившие церковную доктрину или злоупотребившие властью над подданными, могут быть смещены, а заговорщики против законного короля подпадают под анафему. Таким образом, собор институционализировал как выборный характер вестготской монархии, так и роль церкви в качестве её легитимирующего авторитета.\n\nПрактический эффект оказался глубоко дестабилизирующим. Выборность означала соперничество, а соперничество — заговоры. Из семнадцати вестготских королей, правивших после 531 года, лишь единицы умерли своей смертью; большинство было убито, свергнуто или отправлено в монастыри соперничающими группировками. Церковные соборы, неоднократно собиравшиеся в Толедо, превратились в арены политических манипуляций знатных кланов, каждый из которых стремился возвести своего кандидата на трон, сулившего богатство, но не dynasty ческой безопасности.",
+      "latitude": 39.8628,
+      "longitude": -4.0273,
+      "source": "https://en.wikipedia.org/wiki/Fourth_Council_of_Toledo",
+      "tags": [
+        "Visigothic",
+        "Political",
+        "Religious",
+        "Christian",
+        "Law",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0654",
+      "era": "AD",
+      "type": "political",
+      "name": "Liber Iudiciorum — one law for Goths and Romans",
+      "name_ru": "Liber Iudiciorum — единый закон для готов и римлян",
+      "description": "King Recceswinth promulgated the Liber Iudiciorum in 654 — a comprehensive legal code that replaced the dual system under which Visigoths and Romans had been governed by separate laws since the kingdom's foundation. The new code drew on Roman law, earlier Visigothic legislation, and church council decrees to create a single territorial law applicable to everyone in the kingdom regardless of ethnic origin. It was one of the most sophisticated legal compilations of the early medieval period.\n\nThe Liber Iudiciorum survived the Visigothic kingdom's destruction, was translated into Castilian in the thirteenth century as the Fuero Juzgo, and continued to be used in parts of Spain through the medieval period. It profoundly shaped Castilian legal tradition and, through that, the legal systems of Latin America. Its principle that all inhabitants of a territory share the same law — regardless of background — was genuinely radical in a world still organised around tribal legal identity.",
+      "description_ru": "Король Рецесвинт в 654 году обнародовал Liber Iudiciorum — всеобъемлющий правовой кодекс, заменивший двойную систему, при которой вестготы и римляне управлялись отдельными законами с момента основания королевства. Новый кодекс опирался на римское право, более ранние вестготские законодательные акты и декреты церковных соборов, создав единый территориальный закон, применимый ко всем в королевстве вне зависимости от этнического происхождения. Это была одна из наиболее изощрённых правовых компиляций раннего Средневековья.\n\nLiber Iudiciorum пережил уничтожение Вестготского королевства, был переведён на кастильский язык в XIII веке как Fuero Juzgo и продолжал применяться в частях Испании на протяжении всего Средневековья. Он глубоко сформировал кастильскую правовую традицию и через неё — правовые системы Латинской Америки. Принцип, согласно которому все жители территории равны перед одним законом вне зависимости от происхождения, был подлинно радикальным в мире, всё ещё организованном вокруг племенной правовой идентичности.",
+      "latitude": 39.8628,
+      "longitude": -4.0273,
+      "source": "https://en.wikipedia.org/wiki/Visigothic_Code",
+      "tags": [
+        "Visigothic",
+        "Law",
+        "Political",
+        "Historic",
+        "Culture"
+      ]
+    },
+    {
+      "date": "01.01.0661",
+      "era": "AD",
+      "type": "cultural",
+      "name": "San Juan de Baños — the oldest Visigothic church still standing",
+      "name_ru": "Сан-Хуан-де-Баньос — старейшая из сохранившихся вестготских церквей",
+      "description": "Built by king Recceswinth in 661 near Palencia to commemorate a victory and give thanks at a spring sacred to John the Baptist, San Juan de Baños de Cerrato is the best-preserved Visigothic church in Spain. Its dedicatory inscription — carved in the original stonework — names Recceswinth and the year. The building uses horseshoe arches, a form inherited from late Roman architecture and later adopted by Islamic builders in the same peninsula, creating one of the curious continuities between Visigothic and Moorish Iberia.\n\nThe church survived because it remained in continuous use, unlike most Visigothic buildings which were demolished, reused as mosques, or simply decayed. Its modest scale — a three-aisled basilica of perhaps 24 metres — reflects the resources of a provincial Visigothic patron rather than the royal workshops of Toledo, making it representative of what ordinary Visigothic church architecture looked like across Iberia.",
+      "description_ru": "Построенная королём Рецесвинтом в 661 году близ Паленсии в знак победы и благодарности у источника, освящённого в честь Иоанна Крестителя, церковь Сан-Хуан-де-Баньос-де-Серрато является наиболее сохранившейся вестготской церковью в Испании. Её посвятительная надпись — вырезанная в оригинальной кладке — называет имя Рецесвинта и год строительства. Здание использует подковообразные арки — форму, унаследованную от позднеримской архитектуры и позднее принятую исламскими строителями на том же полуострове, создавая одну из любопытных преемственностей между вестготской и мавританской Иберией.\n\nЦерковь выжила благодаря непрерывному использованию, в отличие от большинства вестготских построек, снесённых, переоборудованных в мечети или просто пришедших в упадок. Её скромные размеры — трёхнефная базилика около 24 метров — отражают ресурсы провинциального вестготского ктитора, а не королевских мастерских Толедо, делая её репрезентативной для рядовой вестготской церковной архитектуры по всей Иберии.",
+      "latitude": 42.015,
+      "longitude": -4.545,
+      "source": "https://en.wikipedia.org/wiki/San_Juan_de_Ba%C3%B1os",
+      "tags": [
+        "Visigothic",
+        "Religious",
+        "Architecture",
+        "Building 🏠",
+        "Culture",
+        "Christian"
+      ]
+    },
+    {
+      "date": "01.01.0672",
+      "era": "AD",
+      "type": "cultural",
+      "name": "Visigothic goldwork — the votive crowns of Guarrazar",
+      "name_ru": "Ювелирное искусство вестготов — вотивные короны Гуаррасара",
+      "description": "The Treasure of Guarrazar — discovered in 1858 near Toledo — is the finest surviving collection of Visigothic metalwork and one of the masterpieces of early medieval art. It consists of votive crowns and crosses suspended on chains, hung in churches as offerings, dating from the seventh century. Two crowns bear the names of kings Recceswinth (649–672) and Suinthila (621–631) in hanging letters of gold. The craftsmanship combines late Roman goldsmithing, Byzantine cloisonné technique, and Germanic animal-style ornament into a distinctly Visigothic idiom.\n\nThe treasure was buried — probably when the Muslim invasion threatened Toledo in 711 — and remained hidden for eleven centuries. Its discovery shattered the assumption that the Visigoths were culturally barbaric. The crowns are now split between the National Archaeological Museum in Madrid and the Musée de Cluny in Paris, a division caused by nineteenth-century smuggling that Spain has unsuccessfully sought to reverse.",
+      "description_ru": "Сокровище Гуаррасара — обнаруженное в 1858 году близ Толедо — является богатейшей из сохранившихся коллекций вестготских ювелирных изделий и одним из шедевров раннесредневекового искусства. Оно состоит из вотивных корон и крестов на подвесных цепях, вешавшихся в церквях в качестве подношений, датируемых VII веком. На двух коронах висящими золотыми буквами выгравированы имена королей Рецесвинта (649–672) и Суинтилы (621–631). Мастерство сочетает позднеримское ювелирное дело, византийскую технику перегородчатой эмали и германский звериный стиль в самобытный вестготский стиль.\n\nСокровище было зарыто — вероятно, когда в 711 году мусульманское вторжение угрожало Толедо, — и оставалось скрытым одиннадцать столетий. Его открытие разрушило предположение о культурном варварстве вестготов. Короны сейчас разделены между Национальным археологическим музеем в Мадриде и Музеем Клюни в Париже — раздел, вызванный контрабандой XIX века, который Испания безуспешно пытается пересмотреть.",
+      "latitude": 39.867,
+      "longitude": -4.067,
+      "source": "https://en.wikipedia.org/wiki/Treasure_of_Guarrazar",
+      "tags": [
+        "Visigothic",
+        "Culture",
+        "Art",
+        "Historic",
+        "Architecture"
+      ]
+    },
+    {
+      "date": "01.01.0694",
+      "era": "AD",
+      "type": "political",
+      "name": "Egica enslaves the Jews — the Visigothic state reaches its worst excess",
+      "name_ru": "Эгика порабощает евреев — вестготское государство достигает худшего из своих преступлений",
+      "description": "At the Seventeenth Council of Toledo in 694, king Egica accused the entire Jewish community of Visigothic Spain of conspiring with Jews in North Africa to assist a potential Muslim invasion. The council — without evidence being tested — condemned all Jews throughout the kingdom to perpetual slavery, their children to be taken from them and raised as Christians, and their property confiscated by the crown. It was the most extreme anti-Jewish measure in western history to that date.\n\nHistorians debate whether the alleged conspiracy was real or fabricated to justify expropriation. What is clear is that the Visigothic state had spent a century failing to solve its Jewish problem through baptism and legal pressure, and Egica's solution was to eliminate the community as a legal entity. The legacy was catastrophic: when Muslim forces crossed into Iberia in 711, Jewish communities in several cities reportedly opened the gates or provided logistical assistance — making Egica's paranoia, if not his accusation, partially self-fulfilling.",
+      "description_ru": "На XVII Толедском соборе в 694 году король Эгика обвинил всё еврейское сообщество вестготской Испании в заговоре с евреями Северной Африки для содействия возможному мусульманскому вторжению. Собор — не проверяя доказательств — осудил всех евреев по всему королевству на вечное рабство, их детей постановил отобрать и воспитать христианами, а имущество конфисковать в пользу короны. Это была наиболее жёсткая антиеврейская мера в западной истории вплоть до того времени.\n\nИсторики спорят, был ли предполагаемый заговор реальным или сфабрикованным для обоснования экспроприации. Ясно одно: вестготское государство потратило столетие, безуспешно решая еврейский вопрос через крещение и правовое давление, и решение Эгики сводилось к уничтожению общины как правового субъекта. Наследие оказалось катастрофическим: когда в 711 году мусульманские силы вошли в Иберию, еврейские общины в ряде городов, по преданию, открывали ворота или оказывали логистическую помощь — делая паранойю Эгики, если не само его обвинение, отчасти сбывшейся.",
+      "latitude": 39.8628,
+      "longitude": -4.0273,
+      "source": "https://en.wikipedia.org/wiki/Egica",
+      "tags": [
+        "Visigothic",
+        "Political",
+        "Religious",
+        "Jewish",
+        "Law",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.0710",
+      "era": "AD",
+      "type": "political",
+      "name": "Roderic seizes the throne — the last Visigothic king",
+      "name_ru": "Родерик захватывает трон — последний вестготский король",
+      "description": "When king Wittiza died around 710, the Visigothic nobility did not elect his sons as successors but chose Roderic, the powerful duke of Baetica, instead. Wittiza's sons and their supporters refused to accept the outcome and formed a rival faction — the sons apparently seeking help from the Umayyad governor of North Africa, Musa ibn Nusayr, and from Julian, the Byzantine governor of Ceuta. Whether this is exactly what happened is debated; the Arabic and Latin sources contradict each other on the details.\n\nRoderic was fighting a Basque uprising in the north when the Muslim forces crossed the Strait of Gibraltar in 711. He turned his army south, gathering forces as he marched, and met Tariq ibn Ziyad's army at the River Guadalete. The Visigothic kingdom had survived a century of internal coups, royal assassinations, and noble conspiracies — it was undone in a single battle, partly because Roderic's enemies among the Visigothic nobility stood aside or actively betrayed him.",
+      "description_ru": "Когда около 710 года умер король Витиза, вестготская знать не избрала его сыновей преемниками, а выбрала Родерика, могущественного герцога Бетики. Сыновья Витизы и их сторонники отказались принять этот исход и образовали соперничающую фракцию — сыновья, по-видимому, обратились за помощью к омейядскому наместнику Северной Африки Мусе ибн Нусайру и к Юлиану, византийскому наместнику Сеуты. Подлинность этой версии оспаривается: арабские и латинские источники противоречат друг другу в деталях.\n\nРодерик воевал с баскским восстанием на севере, когда в 711 году мусульманские силы пересекли Гибралтарский пролив. Он повернул армию на юг и встретил войско Тарика ибн Зияда у реки Гуадалете. Вестготское королевство пережило столетие внутренних переворотов, королевских убийств и дворянских заговоров — и пало в одной битве, отчасти потому что враги Родерика среди вестготской знати держались в стороне или открыто предали его.",
+      "latitude": 39.8628,
+      "longitude": -4.0273,
+      "source": "https://en.wikipedia.org/wiki/Roderic",
+      "tags": [
+        "Visigothic",
+        "Political",
+        "Historic",
+        "Dynasty",
+        "Crisis"
+      ]
+    },
+    {
+      "date": "19.07.0711",
+      "era": "AD",
+      "type": "military",
+      "name": "Battle of Guadalete — the Visigothic kingdom falls in a week",
+      "name_ru": "Битва при Гуадалете — Вестготское королевство падает за неделю",
+      "description": "In July 711, Roderic's army met Tariq ibn Ziyad's Umayyad force — some 7,000 Berber warriors reinforced by Arab cavalry — at the River Guadalete near Jerez de la Frontera. The battle lasted several days. At its climax, a substantial portion of the Visigothic army — reportedly the forces loyal to Wittiza's sons — turned their backs or defected. Roderic was killed, his army destroyed, and the kingdom effectively ceased to exist. He is the last Visigothic king whose fate is recorded.\n\nTariq's advance was astonishing in its speed. Within months, Muslim forces had reached Toledo; within three years, most of the peninsula was under Umayyad authority. The Visigothic kingdom — which had survived Roman collapse, barbarian invasion, internal civil war, and a century of religious strife — dissolved faster than anyone had imagined possible. Small Christian remnants retreated to the Asturian mountains in the north, where they would eventually begin the Reconquista.",
+      "description_ru": "В июле 711 года армия Родерика встретилась с силами Тарика ибн Зияда — около 7 000 берберских воинов, усиленных арабской конницей, — у реки Гуадалете близ Хереса-де-ла-Фронтера. Битва длилась несколько дней. В её кульминационный момент значительная часть вестготской армии — предположительно силы, лояльные сыновьям Витизы, — отвернулась или перешла на сторону врага. Родерик погиб, его армия была уничтожена, и королевство фактически прекратило существование. Он — последний вестготский король, чья судьба зафиксирована в источниках.\n\nПродвижение Тарика было поразительным по скорости. В течение нескольких месяцев мусульманские силы достигли Толедо; в течение трёх лет большая часть полуострова находилась под омейядской властью. Вестготское королевство — пережившее крушение Рима, нашествие варваров, внутреннюю гражданскую войну и столетие религиозных раздоров — распалось быстрее, чем кто-либо мог представить. Небольшие христианские остатки отступили в астурийские горы на севере, где в конечном счёте начнётся Реконкиста.",
+      "latitude": 36.677,
+      "longitude": -5.938,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Guadalete",
+      "tags": [
+        "Visigothic",
+        "Military",
+        "Battle",
+        "War",
+        "Historic",
+        "Death",
+        "Muslim"
+      ]
+    },
+    {
+      "date": "01.01.0714",
+      "era": "AD",
+      "type": "cultural",
+      "name": "The Visigothic legacy — what the Goths left in Spain",
+      "name_ru": "Вестготское наследие — что готы оставили Испании",
+      "description": "The Visigothic kingdom lasted just over three centuries in Iberia and left a deeper imprint than its sudden collapse suggests. The Liber Iudiciorum, translated as the Fuero Juzgo, shaped Spanish law through the medieval period and influenced the legal codes of the Reconquista kingdoms. The church council system the Visigoths developed — with bishops and kings sharing legislative authority — prefigured the relationship between the Crown and the Spanish church that persisted into modernity.\n\nThe Visigothic nobility did not disappear. Many families converted to Islam and continued as Iberian landowners; others retreated north and became the founding aristocracy of Asturias, León, and eventually Castile. The Reconquista kingdoms explicitly claimed Visigothic legitimacy — Alfonso III of Asturias called himself king of Hispania in conscious imitation. The Guarrazar crowns, the horseshoe arches of San Juan de Baños, the Etymologiae of Isidore — these are the tangible residue of a kingdom that helped define what Spain would be.",
+      "description_ru": "Вестготское королевство просуществовало в Иберии чуть более трёх столетий и оставило более глубокий след, чем предполагает его внезапный крах. Liber Iudiciorum, переведённый как Fuero Juzgo, формировал испанское право на протяжении всего Средневековья и влиял на правовые кодексы королевств Реконкисты. Система церковных соборов, развитая вестготами, — с епископами и королями, разделявшими законодательную власть, — предвосхитила отношения между Короной и испанской церковью, сохранявшиеся вплоть до Нового времени.\n\nВестготская знать не исчезла. Многие семьи приняли ислам и продолжали владеть иберийскими землями; другие отступили на север и стали основателями аристократии Астурии, Леона и в конечном счёте Кастилии. Королевства Реконкисты открыто претендовали на вестготскую легитимность — Альфонс III Астурийский именовал себя королём Испании, сознательно подражая готским предшественникам. Короны Гуаррасара, подковообразные арки Сан-Хуан-де-Баньос, «Этимологии» Исидора — ощутимый остаток королевства, помогшего определить, чем станет Испания.",
+      "latitude": 39.8628,
+      "longitude": -4.0273,
+      "source": "https://en.wikipedia.org/wiki/Visigothic_Kingdom",
+      "tags": [
+        "Visigothic",
+        "Culture",
+        "Law",
+        "Historic",
+        "Foundation",
+        "Christian"
+      ]
+    }
+  ]
+}
