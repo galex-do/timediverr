@@ -450,8 +450,8 @@
       "description": "By the first century, the province of Baetica had become one of the most productive agricultural regions in the entire Roman Empire, exporting olive oil, wine, wheat, and fish sauce (garum) throughout the Mediterranean world. The hills around modern-day Seville, Jaén, and Córdoba were covered with olive groves. The scale of Baetica's production is documented by Monte Testaccio in Rome—a mound approximately 50 meters high, composed almost entirely of the shattered fragments of olive oil amphorae washed up near Rome's river port. Baetica's garum, a fermented fish sauce that served as a versatile seasoning for the Romans, was traded from Scotland to Syria.\nThe scale of Baetican production is documented in extraordinary archaeological detail by Monte Testaccio in Rome — a hill some 50 metres high composed almost entirely of the broken fragments of olive oil amphorae discarded at Rome's river port. Analysis shows that an estimated 40 million amphorae of Baetican oil were unloaded at Rome alone over three centuries, representing an almost incomprehensible productive achievement. Baetican garum — the fermented fish sauce that Romans used as their universal condiment — was traded from Scotland to Syria. The prosperity of Baetica made it Rome's most loyal and Romanised province, and from its comfortable cities came the men who would rule the empire.",
       "description_ru": "К I веку провинция Бетика стала одним из наиболее производительных сельскохозяйственных регионов всей Римской империи, экспортируя оливковое масло, вино, пшеницу и рыбный соус (гарум) по всему средиземноморскому миру. Холмы вокруг современных Севильи, Хаэна и Кордовы были покрыты оливковыми рощами. Масштаб бетикского производства задокументирован горой Тестаччо в Риме — холмом высотой около 50 метров, состоящим почти целиком из раздробленных фрагментов амфор оливкового масла, выброшенных у речного порта Рима. Бетикский гарум — ферментированный рыбный соус, служивший римлянам универсальным приправой, — торговался от Шотландии до Сирии. ",
       "era": "AD",
-      "latitude": 37.389,
-      "longitude": -5.984,
+      "latitude": 37.44290439,
+      "longitude": -6.04597807,
       "name": "Baetica — the granary of Rome",
       "name_ru": "Бетика — житница Рима",
       "source": "https://en.wikipedia.org/wiki/Baetica",
@@ -459,6 +459,7 @@
         "Roman",
         "Agriculture",
         "Economic",
+        "Food",
         "Olives",
         "Trade",
         "Winemaking"
@@ -488,8 +489,8 @@
     },
     {
       "date": "01.10.0409",
-      "description": "Three years after the great Rhine crossing, which flooded Gaul with barbarian peoples, the Vandals, Suevi, and Alans crossed the Pyrenees into Spain. The Western Roman government under Honorius, paralyzed by internal civil war and the collapse of the Rhine frontier, was unable to organize a defense against three different peoples advancing simultaneously through mountain passes left ungarrisoned.\n\nAncient sources — written by Christian bishops who witnessed the catastrophe from the scene — describe the horror with apocalyptic intensity: burned cities, unburied bodies, survivors resorting to cannibalism during the famine that followed the destruction of agricultural infrastructure. The year 409 marked the end of Roman civil administration in the interior provinces. The Vandals settled in Baetica, the Suevi in ​​Gallaetia and northern Lusitania, and the Alans in Carthaginensis and Lusitania.",
-      "description_ru": "Три года спустя после великого Рейнского перехода, наводнившего Галлию варварскими народами, вандалы, свевы и аланы перешли через Пиренеи в Испанию. Западноримское правительство под властью Гонория, парализованное внутренней гражданской войной и распадом Рейнского рубежа, не смогло организовать оборону против трёх различных народов, наступавших одновременно через горные перевалы, оставленные без гарнизонов. \n\nАнтичные источники — написанные христианскими епископами, наблюдавшими катастрофу с мест событий, — описывают ужас с апокалиптической интенсивностью: сожжённые города, непогребённые тела, выжившие, прибегающие к людоедству в ходе голода, последовавшего за разрушением сельскохозяйственной инфраструктуры. 409 год положил конец римскому гражданскому управлению внутренними провинциями. Вандалы осели в Бетике, свевы в Галлаэции и северной Лузитании, аланы в Карфагиненсис и Лузитании.",
+      "description": "Three years after the great Rhine crossing, which flooded Gaul with barbarian peoples, the Vandals, Suevi, and Alans crossed the Pyrenees into Spain. The Western Roman government under Honorius, paralyzed by internal civil war and the collapse of the Rhine frontier, was unable to organize a defense against three different peoples advancing simultaneously through mountain passes left ungarrisoned.\n\nAncient sources — written by Christian bishops who witnessed the catastrophe from the scene — describe the horror with apocalyptic intensity: burned cities, unburied bodies, survivors resorting to cannibalism during the famine that followed the destruction of agricultural infrastructure. The year 409 marked the end of Roman civil administration in the interior provinces.",
+      "description_ru": "Три года спустя после великого Рейнского перехода, наводнившего Галлию варварскими народами, вандалы, свевы и аланы перешли через Пиренеи в Испанию. Западноримское правительство под властью Гонория, парализованное внутренней гражданской войной и распадом Рейнского рубежа, не смогло организовать оборону против трёх различных народов, наступавших одновременно через горные перевалы, оставленные без гарнизонов. \n\nАнтичные источники — написанные христианскими епископами, наблюдавшими катастрофу с мест событий, — описывают ужас с апокалиптической интенсивностью: сожжённые города, непогребённые тела, выжившие, прибегающие к людоедству в ходе голода, последовавшего за разрушением сельскохозяйственной инфраструктуры. 409 год положил конец римскому гражданскому управлению внутренними провинциями.",
       "era": "AD",
       "latitude": 42.59,
       "longitude": -0.55,
@@ -504,6 +505,7 @@
         "Destruction",
         "Germanic",
         "Migration",
+        "Suebi",
         "Vandal"
       ],
       "type": "military"
