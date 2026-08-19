@@ -22,7 +22,7 @@ description: Required fields for every event in every JSON dataset, and dataset-
 | `type` | string | **Exactly one of:** `historic`, `political`, `military`, `cultural`, `religious`, `scientific` |
 | `name` | string | English event name, lowercase (except proper nouns) |
 | `name_ru` | string | Russian translation of the name |
-| `description` | string | English prose, 150–400 words |
+| `description` | string | English prose. User preference (Aug 2026): keep it to ~5–6 sentences per language; longer only when genuinely necessary |
 | `description_ru` | string | Russian translation of the description |
 | `latitude` | float | Decimal degrees. Place at the most relevant location for the event |
 | `longitude` | float | Decimal degrees |
