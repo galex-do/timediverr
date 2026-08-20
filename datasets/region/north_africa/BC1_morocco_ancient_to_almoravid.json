@@ -95,6 +95,25 @@
       "type": "political"
     },
     {
+      "date": "01.01.0044",
+      "description": "When Claudius created Mauretania Tingitana in 44 AD, the city of Sala at the mouth of the Bou Regreg river — near modern Rabat — was elevated to the status of Roman colonia, granting its inhabitants full Roman citizenship rights. It was the southernmost Roman city of any consequence on the entire African continent: beyond its walls, the road network ended and the Berber interior began. Roman Sala had a forum, a triumphal arch, baths, temples, and a small amphitheater — the full apparatus of urban civilization planted at the very edge of the empire's reach. Its ruins survive today inside the walled enclosure of Chellah in Rabat, lying beneath a medieval Marinid necropolis built a thousand years later: one site accumulating three thousand years of continuous use. The layering at Chellah makes visible in one place the full sweep of Morocco's history — Phoenician, Roman, Arab, medieval — with each era building directly on top of the last.",
+      "description_ru": "Когда в 44 году н. э. Клавдий создал Мавританию Тингитану, город Сала в устье реки Бу-Регрег — близ современного Рабата — получил статус римской колонии, что означало полное римское гражданство для его жителей. Это был самый южный сколько-нибудь значимый римский город на всём африканском континенте: за его стенами заканчивалась сеть дорог и начинался берберский interior. Римская Сала имела форум, триумфальную арку, термы, храмы и небольшой амфитеатр — весь аппарат городской цивилизации, поставленный на самом краю досягаемости империи. Её руины сохранились внутри огороженного участка Шелла в Рабате, под средневековым маринидским некрополем, построенным тысячу лет спустя: один памятник, вобравший три тысячи лет непрерывного использования. Напластования Шеллы делают видимым в одном месте весь охват марокканской истории — финикийской, римской, арабской, средневековой, — причём каждая эпоха строила прямо поверх предыдущей.",
+      "era": "AD",
+      "latitude": 34.0,
+      "longitude": -6.82,
+      "name": "Sala Colonia: Rome's southernmost city, modern Rabat",
+      "name_ru": "Сала Колония: самый южный город Рима, современный Рабат",
+      "source": "https://en.wikipedia.org/wiki/Chellah",
+      "tags": [
+        "Morocco",
+        "Roman",
+        "City",
+        "Foundation",
+        "Settlement"
+      ],
+      "type": "historic"
+    },
+    {
       "date": "01.01.0100",
       "description": "Volubilis, set in the fertile plain between the Atlas mountains near modern Meknes, was the administrative capital of Mauretania Tingitana and the largest Roman city in Morocco. At its height it held perhaps twenty thousand inhabitants living in stone houses decorated with polychrome mosaics of Greek and Roman mythology: Orpheus charming animals, Dionysus in triumph, the labors of Hercules. Its economy ran on olive oil — the surrounding plain was covered in olive groves, and the ruins still contain dozens of massive stone pressing mills, one of the densest concentrations of Roman-era olive processing anywhere in the empire. The city was also strikingly cosmopolitan: inscriptions in Latin, Greek, Punic, and Berber script appear in the same streets. Volubilis is today one of the best-preserved Roman sites in Africa, its triumphal arch and basilica still standing where they were built nearly two thousand years ago.",
       "description_ru": "Волюбилис на плодородной равнине между горами Атлас неподалёку от современного Мекнеса был административной столицей Мавритании Тингитаны и крупнейшим римским городом в Марокко. В расцвете своего могущества он насчитывал, возможно, двадцать тысяч жителей, обитавших в каменных домах, украшенных полихромными мозаиками с греко-римской мифологией: Орфей, усмиряющий зверей, торжествующий Дионис, подвиги Геракла. Экономика города строилась на оливковом масле — окружающая равнина была засажена оливковыми рощами, а руины до сих пор хранят десятки огромных каменных маслодавилен, одну из самых плотных концентраций оборудования для отжима масла римской эпохи на всём пространстве империи. Город был и поразительно космополитичным: надписи на латыни, греческом, пунийском и берберском языке встречаются на одних и тех же улицах. Волюбилис сегодня — один из лучших сохранившихся римских памятников в Африке, его триумфальная арка и базилика стоят там, где были возведены почти две тысячи лет назад.",
@@ -287,6 +306,26 @@
       "type": "cultural"
     },
     {
+      "date": "01.01.0860",
+      "description": "While Fatima al-Fihri was building the Qarawiyyin on the Kairouan bank of the Fes river, her sister Maryam al-Fihri simultaneously used her own inheritance to build the Mosque of the Andalusians on the opposite bank — the quarter where the Córdoba exiles had settled. The two mosques mirror the founding story of Fes itself: one city built from two directions, held together by the faith of two sisters from Kairouan. The Andalusian mosque was completed around 859–860 and has been in continuous use ever since, making it among the oldest functioning mosques in the world. Its minaret, rebuilt and enlarged in the 12th century under the Almohads, became one of the architectural templates for the characteristic square-tower minaret style that defines Moroccan and Andalusian religious architecture to this day. The Qarawiyyin draws more scholarly attention, but without the Andalusian mosque and the exile community it served, Fes would have been half a city.",
+      "description_ru": "Пока Фатима аль-Фихри возводила Карауин на Кайруанском берегу реки Фес, её сестра Марьям аль-Фихри одновременно использовала собственное наследство для строительства Мечети Андалусцев на противоположном берегу — в квартале, где осели изгнанники из Кордовы. Две мечети отражают основополагающую историю самого Феса: один город, построенный с двух сторон и скреплённый верой двух сестёр из Кайруана. Мечеть Андалусцев была завершена около 859–860 годов и с тех пор непрерывно используется, что делает её одной из старейших действующих мечетей в мире. Её минарет, перестроенный и расширенный в XII веке при Альмохадах, стал одним из архитектурных образцов характерного квадратного минарета, определяющего религиозную архитектуру Марокко и Андалусии по сей день. Карауин притягивает больше учёного внимания, однако без Мечети Андалусцев и обслуживаемой ею общины изгнанников Фес был бы половиной города.",
+      "era": "AD",
+      "latitude": 34.065,
+      "longitude": -4.975,
+      "name": "Maryam al-Fihri builds the Andalusian Mosque",
+      "name_ru": "Марьям аль-Фихри строит Мечеть Андалусцев",
+      "source": "https://en.wikipedia.org/wiki/Al-Andalusiyyin_Mosque",
+      "tags": [
+        "Morocco",
+        "Islam",
+        "Culture",
+        "Foundation",
+        "City",
+        "Idrisid"
+      ],
+      "type": "cultural"
+    },
+    {
       "date": "01.01.1040",
       "description": "Around 1040, a reformist scholar named Abdallah ibn Yasin arrived among the Sanhaja Berber tribes of the western Sahara at the invitation of their chief, who was troubled by his people's imperfect observance of Islam. Ibn Yasin found a population that still practiced some pre-Islamic customs and understood Islamic law only superficially. He founded a ribat — a fortified spiritual retreat — either on a river island or deep in the Sahara, gathering disciples around strict religious practice and military discipline. The movement called itself al-Murabitun, 'people of the ribat,' rendered in Spanish as Almoravides and hence Almoravids. It combined Maliki Islamic reform with the martial traditions of the Sanhaja confederation, creating a movement that was simultaneously a religious revival and an army. Within a generation it would control the gold routes of the Sahara, the cities of Morocco, and half of Iberia.",
       "description_ru": "Около 1040 года учёный-реформатор по имени Абдалла ибн Ясин прибыл к берберским племенам санхаджа западной Сахары по приглашению их вождя, обеспокоенного несовершенным соблюдением ислама своим народом. Ибн Ясин обнаружил население, ещё сохранявшее некоторые доисламские обычаи и лишь поверхностно понимавшее исламское право. Он основал рибат — укреплённое духовное убежище — то ли на речном острове, то ли в глубине Сахары, собирая вокруг себя учеников на основе строгой религиозной практики и военной дисциплины. Движение называло себя аль-Мурабитун — «люди рибата», что по-испански передавалось как Almoravides, откуда и Альморавиды. Оно сочетало маликитскую исламскую реформу с военными традициями конфедерации санхаджа, создав движение, одновременно бывшее религиозным возрождением и армией. Меньше чем через поколение оно будет контролировать золотые пути Сахары, города Марокко и половину Пиренейского полуострова.",
@@ -365,6 +404,26 @@
         "War"
       ],
       "type": "military"
+    },
+    {
+      "date": "01.01.1117",
+      "description": "The Koubba Ba'adiyin in Marrakech, built around 1117–1120 under the Almoravid ruler Ali ibn Yusuf, is the only Almoravid structure to survive intact in the city and one of the most significant works of medieval Moroccan architecture in existence. It is a small domed ablution pavilion — originally used for ritual washing before prayer — but its interior is anything but modest. The dome's carved underside is considered the earliest known use of muqarnas (honeycomb vaulting) in western Islamic architecture; every decorative motif that would define Moroccan and Andalusian ornament for the next nine centuries — the eight-pointed star, the interlaced arches, the arabesque — appears here in its oldest surviving Moroccan form. The Koubba was buried under later construction and forgotten for centuries, only rediscovered during excavations in the 1940s; it sits several feet below the present street level, surrounded by the later city that grew over it. It is the buried prototype of an entire civilization's visual language.",
+      "description_ru": "Куббат аль-Ба'адиин в Марракеше, возведённая около 1117–1120 годов при Альморавидском правителе Али ибн Юсуфе, — единственное сооружение Альморавидов, сохранившееся в городе нетронутым, и одно из важнейших произведений средневековой марокканской архитектуры из дошедших до нас. Это небольшой купольный павильон для омовений — изначально служивший для ритуального очищения перед молитвой, — однако его интерьер далёк от скромности. Резная внутренняя поверхность купола считается древнейшим известным применением мукарнас (сотовых сводов) в западной исламской архитектуре; каждый декоративный мотив, определявший марокканский и андалусийский орнамент на протяжении следующих девяти столетий, — восьмиконечная звезда, переплетённые арки, арабеск, — присутствует здесь в своей древнейшей из сохранившихся марокканских форм. Куббат была погребена под более поздними постройками и забыта на столетия, вновь открытая лишь при раскопках 1940-х годов; сегодня она стоит на несколько футов ниже уровня современных улиц, окружённая вырос­шим поверх неё городом. Это погребённый прообраз зрительного языка целой цивилизации.",
+      "era": "AD",
+      "latitude": 31.63,
+      "longitude": -8.0,
+      "name": "The Almoravid Koubba: where Moroccan ornament was born",
+      "name_ru": "Альморавидская Куббат: место рождения марокканского орнамента",
+      "source": "https://en.wikipedia.org/wiki/Almoravid_Koubba",
+      "tags": [
+        "Morocco",
+        "Almoravid",
+        "Berber",
+        "Culture",
+        "City",
+        "Islam"
+      ],
+      "type": "cultural"
     }
   ]
 }
