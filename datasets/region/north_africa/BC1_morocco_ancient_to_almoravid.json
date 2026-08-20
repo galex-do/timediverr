@@ -4,18 +4,35 @@
   "events": [
     {
       "date": "01.01.0800",
-      "description": "Phoenician merchants from Tyre and Sidon began founding trading posts along the Atlantic coast of Morocco around 800 BC or earlier. Their most significant settlement was Lixus, near modern Larache, at the mouth of the Loukkos River — a site ancient writers sometimes identified with the mythical Garden of the Hesperides, where Hercules performed his eleventh labour. Its position made it ideal for drying and salting Atlantic tuna, which migrated through the Strait of Gibraltar in vast seasonal schools. Tingis, the future Tangier, was another early Phoenician foundation, placed where the Atlantic meets the Mediterranean at the Pillars of Hercules. These were not colonies in the later sense but compact trading stations exchanging Moroccan hides, timber, and fish for Mediterranean bronze, cloth, and wine. They made northwest Africa part of the connected ancient world long before any army arrived.",
-      "description_ru": "Финикийские торговцы из Тира и Сидона начали основывать фактории вдоль атлантического побережья Марокко около 800 года до н. э. или даже раньше. Самым значительным поселением был Ликсус вблизи современного Лараша, в устье реки Луккос — место, которое античные авторы порой отождествляли с мифическим Садом Гесперид, где Геракл совершил свой одиннадцатый подвиг. Его положение делало его идеальным для засолки и вяления атлантического тунца, огромными косяками мигрирующего через Гибралтарский пролив. Тингис, будущий Танжер, был ещё одной ранней финикийской основой, расположенной там, где Атлантика встречается со Средиземным морем у Геркулесовых столбов. Это были не колонии в позднейшем смысле, а компактные торговые станции, где марокканские шкуры, лес и рыба обменивались на средиземноморскую бронзу, ткань и вино. Они включили северо-западную Африку в мир связанной цивилизации задолго до прихода каких-либо армий.",
+      "description": "Phoenician merchants from Tyre and Sidon founded Lixus at the mouth of the Loukkos River near modern Larache around 800 BC or earlier. Ancient writers sometimes identified the site with the mythical Garden of the Hesperides — the paradise where Hercules performed his eleventh labour and stole the golden apples — drawn by the abundance of the river delta and the oranges that grew wild nearby. Its real value was industrial: the river mouth was ideal for processing the vast Atlantic tuna migrations that passed through the Strait of Gibraltar each year. Lixus became one of the ancient world's great fish-salting centers, its garum and dried tuna shipped east to Carthage and later to Rome. Excavations have revealed temple platforms, mosaic floors, and occupation layers stretching from the Phoenician period through Roman times. It is one of the oldest continuously occupied sites on Morocco's Atlantic coast.",
+      "description_ru": "Финикийские торговцы из Тира и Сидона основали Ликсус в устье реки Луккос неподалёку от современного Лараша около 800 года до н. э. или даже раньше. Античные авторы порой отождествляли это место с мифическим Садом Гесперид — раем, где Геракл совершил свой одиннадцатый подвиг и похитил золотые яблоки, — привлечённые изобилием речной дельты и растущими здесь дикими апельсинами. Его подлинная ценность была промышленной: устье реки идеально подходило для переработки огромных миграций атлантического тунца, ежегодно проходившего через Гибралтарский пролив. Ликсус стал одним из великих центров засолки рыбы в античном мире, его гарум и вяленый тунец отправлялись на восток — в Карфаген, а затем в Рим. Раскопки выявили храмовые платформы, мозаичные полы и культурные слои, охватывающие период от финикийского времени до римского. Это один из старейших непрерывно обитаемых памятников на атлантическом побережье Марокко.",
       "era": "BC",
       "latitude": 35.2,
       "longitude": -6.15,
-      "name": "Phoenicians found Lixus and Tingis",
-      "name_ru": "Финикийцы основывают Ликсус и Тингис",
+      "name": "Phoenicians found Lixus: the fish-salting city by the Hesperides",
+      "name_ru": "Финикийцы основывают Ликсус: город засолки рыбы у Гесперид",
       "source": "https://en.wikipedia.org/wiki/Lixus_(ancient_city)",
       "tags": [
         "Phoenician",
         "Morocco",
-        "Berber",
+        "Foundation",
+        "Trade"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0800",
+      "description": "Tingis — the future Tangier — was founded by Phoenician merchants at the precise point where the Atlantic Ocean meets the Mediterranean Sea, directly across the strait from the Rock of Gibraltar. Ancient tradition called the two headlands on either side the Pillars of Hercules, the edge of the known world; Tingis sat at the threshold. Its position made it the natural landfall for ships entering or leaving the Mediterranean, and every maritime power that used the strait — Phoenician, Carthaginian, Roman, and eventually Arab — valued it. The name Tingis gives us 'Tangier' in all modern languages: it is one of the oldest continuously inhabited cities in the world, with documented occupation stretching back over three thousand years. Unlike Lixus, whose economy was industrial, Tingis was primarily a transit port — a place where the two great seas exchanged ships, news, and people.",
+      "description_ru": "Тингис — будущий Танжер — был основан финикийскими торговцами в точке, где Атлантический океан встречается со Средиземным морем, прямо напротив Гибралтарской скалы. Античная традиция называла два скалистых мыса по обе стороны пролива Геркулесовыми столбами — краем известного мира; Тингис стоял на этом пороге. Его положение делало его естественным местом захода судов, входящих в Средиземное море или покидающих его, и любая морская держава, использовавшая пролив, — финикийская, карфагенская, римская и в конечном счёте арабская, — дорожила им. Имя «Тингис» дало нам «Танжер» во всех современных языках: это один из старейших непрерывно населённых городов мира, с документально подтверждённым заселением более трёх тысяч лет назад. В отличие от промышленного Ликсуса, Тингис был прежде всего транзитным портом — местом, где два великих моря обменивались кораблями, новостями и людьми.",
+      "era": "BC",
+      "latitude": 35.77,
+      "longitude": -5.8,
+      "name": "Phoenicians found Tingis: the city at the edge of the world",
+      "name_ru": "Финикийцы основывают Тингис: город на краю мира",
+      "source": "https://en.wikipedia.org/wiki/Tingis",
+      "tags": [
+        "Phoenician",
+        "Morocco",
         "Foundation",
         "Trade"
       ],
