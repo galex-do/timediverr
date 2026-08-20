@@ -1,0 +1,353 @@
+{
+  "description": "History of Morocco from Phoenician settlement to Almoravid rule (c. 800 BC–1086 AD). Covers the Phoenician trading posts at Lixus and Tingis, Hanno the Navigator's Atlantic voyage, the scholar-king Juba II who married Cleopatra's daughter, Volubilis and the Roman province of Mauretania Tingitana, the Berber tribes who outlasted Rome, the Arab conquest and the Kahina's resistance, the Idrisid dynasty and the founding of Fes, Fatima al-Fihri and the world's oldest university, and the Almoravid Berber movement that conquered Morocco, Sijilmasa, and eventually Iberia.",
+  "filename": "BC1_morocco_ancient_to_almoravid.json",
+  "events": [
+    {
+      "date": "01.01.0800",
+      "description": "Phoenician merchants from Tyre and Sidon began founding trading posts along the Atlantic coast of Morocco around 800 BC or earlier. Their most significant settlement was Lixus, near modern Larache, at the mouth of the Loukkos River — a site ancient writers sometimes identified with the mythical Garden of the Hesperides, where Hercules performed his eleventh labour. Its position made it ideal for drying and salting Atlantic tuna, which migrated through the Strait of Gibraltar in vast seasonal schools. Tingis, the future Tangier, was another early Phoenician foundation, placed where the Atlantic meets the Mediterranean at the Pillars of Hercules. These were not colonies in the later sense but compact trading stations exchanging Moroccan hides, timber, and fish for Mediterranean bronze, cloth, and wine. They made northwest Africa part of the connected ancient world long before any army arrived.",
+      "description_ru": "Финикийские торговцы из Тира и Сидона начали основывать фактории вдоль атлантического побережья Марокко около 800 года до н. э. или даже раньше. Самым значительным поселением был Ликсус вблизи современного Лараша, в устье реки Луккос — место, которое античные авторы порой отождествляли с мифическим Садом Гесперид, где Геракл совершил свой одиннадцатый подвиг. Его положение делало его идеальным для засолки и вяления атлантического тунца, огромными косяками мигрирующего через Гибралтарский пролив. Тингис, будущий Танжер, был ещё одной ранней финикийской основой, расположенной там, где Атлантика встречается со Средиземным морем у Геркулесовых столбов. Это были не колонии в позднейшем смысле, а компактные торговые станции, где марокканские шкуры, лес и рыба обменивались на средиземноморскую бронзу, ткань и вино. Они включили северо-западную Африку в мир связанной цивилизации задолго до прихода каких-либо армий.",
+      "era": "BC",
+      "latitude": 35.2,
+      "longitude": -6.15,
+      "name": "Phoenicians found Lixus and Tingis",
+      "name_ru": "Финикийцы основывают Ликсус и Тингис",
+      "source": "https://en.wikipedia.org/wiki/Lixus_(ancient_city)",
+      "tags": [
+        "Phoenician",
+        "Morocco",
+        "Berber",
+        "Foundation",
+        "Trade"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0500",
+      "description": "Around 500 BC, the Carthaginian admiral Hanno the Navigator set out from Carthage with sixty ships and roughly thirty thousand colonists, founding new settlements along the Moroccan Atlantic coast. His account, the Periplus of Hanno, is one of the oldest surviving geographical texts: it describes a great river teeming with crocodiles and hippopotamuses (almost certainly the Draa), volcanic eruptions visible at night, and creatures covered in hair whose bodies the expedition brought back as trophies — his interpreters called them gorillai, possibly chimpanzees or actual gorillas encountered further south. The Carthaginians valued these Moroccan outposts for control of Atlantic tin routes from Britain and for purple dye extracted from the Murex sea-snail. The enormous Murex shell middens still visible at some Moroccan coastal sites are the direct archaeological trace of this industry. Morocco was thus integrated into Carthage's commercial empire from the Atlantic to the eastern Mediterranean.",
+      "description_ru": "Около 500 года до н. э. карфагенский мореплаватель Ганнон отплыл из Карфагена с шестьюдесятью кораблями и примерно тридцатью тысячами колонистов, основав новые поселения вдоль атлантического побережья Марокко. Его отчёт — «Перипл Ганнона» — один из старейших сохранившихся географических текстов: в нём описана великая река, кишащая крокодилами и бегемотами (почти наверняка Драа), вулканические извержения, видимые ночью, и существа, покрытые шерстью, тела которых экспедиция привезла как трофеи, — переводчики назвали их гориллаи, возможно, шимпанзе или настоящие гориллы, встреченные южнее. Карфагеняне ценили марокканские форпосты за контроль над атлантическими маршрутами олова из Британии и за пурпурный краситель, извлекаемый из морских улиток мурекс. Огромные кучи раковин мурекса, по сей день заметные на некоторых марокканских прибрежных памятниках, — прямой археологический след этого производства. Таким образом, Марокко было интегрировано в торговую империю Карфагена, простиравшуюся от Атлантики до восточного Средиземноморья.",
+      "era": "BC",
+      "latitude": 35.77,
+      "longitude": -5.8,
+      "name": "Hanno the Navigator: the first Atlantic voyage described",
+      "name_ru": "Ганнон Мореплаватель: первое описанное атлантическое плавание",
+      "source": "https://en.wikipedia.org/wiki/Hanno_the_Navigator",
+      "tags": [
+        "Phoenician",
+        "Morocco",
+        "Trade",
+        "Exploration"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0025",
+      "description": "In 25 BC, the emperor Augustus appointed Juba II as king of Mauretania — a choice both shrewd and extraordinary. Juba had been brought to Rome as a child hostage after his father, the Numidian king Juba I, was defeated in the civil wars, and was educated in Rome alongside Augustus's stepson. He spoke Latin and Greek, wrote books on Roman history, botany, painting, African geography, and the Arabian peninsula, and corresponded with scholars across the Mediterranean world. He married Cleopatra Selene — the daughter of Cleopatra VII and Mark Antony — making her queen of a Berber kingdom. His capital was at Caesarea in modern Algeria, but his realm stretched west across Morocco. He was one of the most learned rulers of the ancient world who also commanded an army, a living product of Rome's habit of educating its hostages so well they became the empire's most useful clients.",
+      "description_ru": "В 25 году до н. э. император Август назначил Юбу II царём Мавритании — выбор одновременно расчётливый и исключительный. Юба был привезён в Рим ребёнком-заложником после того, как его отец, нумидийский царь Юба I, потерпел поражение в гражданских войнах, и воспитывался в Риме вместе с пасынком Августа. Он говорил на латыни и греческом, писал книги по римской истории, ботанике, живописи, африканской географии и Аравийскому полуострову и переписывался с учёными по всему Средиземноморью. Он женился на Клеопатре Селене — дочери Клеопатры VII и Марка Антония, — сделав её берберской царицей. Его столица находилась в Кесарее в современном Алжире, однако его владения простирались на запад до Марокко. Он был одним из образованнейших правителей античного мира, который при этом командовал армией, — живое воплощение римского обычая так тщательно воспитывать заложников, что те становились самыми полезными клиентами империи.",
+      "era": "BC",
+      "latitude": 34.07,
+      "longitude": -5.55,
+      "name": "Juba II: the scholar-king who married Cleopatra's daughter",
+      "name_ru": "Юба II: царь-учёный, женившийся на дочери Клеопатры",
+      "source": "https://en.wikipedia.org/wiki/Juba_II",
+      "tags": [
+        "Morocco",
+        "Berber",
+        "Political",
+        "Roman",
+        "Kingdom"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0044",
+      "description": "In 44 AD, the emperor Claudius divided the Berber kingdom of Mauretania into two Roman provinces after its last king, Ptolemy, was murdered by Caligula in 40 AD. The western half — Mauretania Tingitana — covered modern northern Morocco, with its capital at Tingis (Tangier). It was Rome's westernmost African province and one of its most geographically isolated: cut off from the other Roman African provinces by the Rif and Atlas mountains, it was connected to Rome primarily by sea. The province was economically valued for its olive oil, Atlantic dried fish, purple dye, and the lions and panthers captured in its forests for spectacles in Roman amphitheaters across the empire. Rome built roads, forums, temples, and baths, but the mountains behind the coastal towns remained in Berber tribal hands throughout the entire period of Roman rule.",
+      "description_ru": "В 44 году н. э. император Клавдий разделил берберское царство Мавритания на две римские провинции после того, как последний её царь Птолемей был убит Калигулой в 40 году. Западная половина — Мавритания Тингитана — охватывала северное Марокко со столицей в Тингисе (Танжер). Это была самая западная африканская провинция Рима и одна из самых географически изолированных: отрезанная от других римских провинций в Африке горами Риф и Атлас, она была связана с Римом прежде всего морем. Экономически провинция ценилась за оливковое масло, атлантическую соленую рыбу, пурпурный краситель и львов с пантерами, отловленных в её лесах для зрелищ в римских амфитеатрах по всей империи. Рим строил здесь дороги, форумы, храмы и термы, однако горы позади прибрежных городов на протяжении всего периода римского владычества оставались в руках берберских племён.",
+      "era": "AD",
+      "latitude": 35.77,
+      "longitude": -5.8,
+      "name": "Mauretania Tingitana: Morocco becomes a Roman province",
+      "name_ru": "Мавритания Тингитана: Марокко становится римской провинцией",
+      "source": "https://en.wikipedia.org/wiki/Mauretania_Tingitana",
+      "tags": [
+        "Morocco",
+        "Roman",
+        "Political",
+        "Berber",
+        "Foundation"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0100",
+      "description": "Volubilis, set in the fertile plain between the Atlas mountains near modern Meknes, was the administrative capital of Mauretania Tingitana and the largest Roman city in Morocco. At its height it held perhaps twenty thousand inhabitants living in stone houses decorated with polychrome mosaics of Greek and Roman mythology: Orpheus charming animals, Dionysus in triumph, the labors of Hercules. Its economy ran on olive oil — the surrounding plain was covered in olive groves, and the ruins still contain dozens of massive stone pressing mills, one of the densest concentrations of Roman-era olive processing anywhere in the empire. The city was also strikingly cosmopolitan: inscriptions in Latin, Greek, Punic, and Berber script appear in the same streets. Volubilis is today one of the best-preserved Roman sites in Africa, its triumphal arch and basilica still standing where they were built nearly two thousand years ago.",
+      "description_ru": "Волюбилис на плодородной равнине между горами Атлас неподалёку от современного Мекнеса был административной столицей Мавритании Тингитаны и крупнейшим римским городом в Марокко. В расцвете своего могущества он насчитывал, возможно, двадцать тысяч жителей, обитавших в каменных домах, украшенных полихромными мозаиками с греко-римской мифологией: Орфей, усмиряющий зверей, торжествующий Дионис, подвиги Геракла. Экономика города строилась на оливковом масле — окружающая равнина была засажена оливковыми рощами, а руины до сих пор хранят десятки огромных каменных маслодавилен, одну из самых плотных концентраций оборудования для отжима масла римской эпохи на всём пространстве империи. Город был и поразительно космополитичным: надписи на латыни, греческом, пунийском и берберском языке встречаются на одних и тех же улицах. Волюбилис сегодня — один из лучших сохранившихся римских памятников в Африке, его триумфальная арка и базилика стоят там, где были возведены почти две тысячи лет назад.",
+      "era": "AD",
+      "latitude": 34.07,
+      "longitude": -5.55,
+      "name": "Volubilis: mosaics, olive oil, and twenty thousand people",
+      "name_ru": "Волюбилис: мозаики, оливковое масло и двадцать тысяч жителей",
+      "source": "https://en.wikipedia.org/wiki/Volubilis",
+      "tags": [
+        "Morocco",
+        "Roman",
+        "City",
+        "Settlement",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0250",
+      "description": "By the mid-3rd century, Rome was pulling back from Mauretania Tingitana under the pressures of the empire-wide crisis. The province was geographically isolated and expensive to garrison, and the Atlas mountains and Rif highlands had never been truly pacified. A remarkable series of inscriptions at Volubilis records formal 'friendship pledges' renewed across several generations between Roman governors and the chiefs of the Baquates — a local Berber confederation — a diplomatic arrangement that acknowledged Rome's limited reach rather than its sovereignty. By the late 3rd or early 4th century, Roman forces had withdrawn from the interior entirely, retreating to just Tingis and Ceuta on the coast. The Berbers did not experience this as a reconquest: the mountains and valleys had always been theirs. Volubilis continued to be inhabited for centuries after the legions left, now speaking a mix of Latin, Berber, and later Arabic.",
+      "description_ru": "К середине III века Рим отступал из Мавритании Тингитаны под давлением общеимперского кризиса. Провинция была географически изолирована и требовала дорогостоящих гарнизонов, а горы Атлас и Риф так и не были по-настоящему замирены. Замечательная серия надписей в Волюбилисе фиксирует формальные «клятвы дружбы», возобновлявшиеся на протяжении нескольких поколений между римскими губернаторами и вождями бакватов — местной берберской конфедерации, — дипломатическое устройство, признававшее ограниченность римского влияния, а не его суверенитет. К концу III — началу IV века римские войска полностью ушли из interior, отступив лишь к Тингису и Сеуте на побережье. Берберы не воспринимали это как обратное завоевание: горы и долины всегда были их. Волюбилис оставался заселённым ещё несколько столетий после ухода легионов, и теперь в нём говорили на смеси латыни, берберского и позднее арабского.",
+      "era": "AD",
+      "latitude": 34.07,
+      "longitude": -5.55,
+      "name": "Rome retreats: the mountains were always Berber",
+      "name_ru": "Рим отступает: горы всегда были берберскими",
+      "source": "https://en.wikipedia.org/wiki/Mauretania_Tingitana",
+      "tags": [
+        "Morocco",
+        "Berber",
+        "Roman",
+        "Political",
+        "Military"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0682",
+      "description": "The Arab general Uqba ibn Nafi led campaigns deep into the Maghreb in the 670s and 680s, pushing the frontiers of the Umayyad caliphate through territory that had never been under Arab rule. According to tradition, around 682 he rode his horse into the Atlantic Ocean near the Moroccan coast, raised his hands, and declared that only the sea blocked his advance — a gesture that became one of the most iconic scenes in the narrative of the Islamic expansion. The Berbers were not passive before him: Uqba was ambushed and killed near modern Biskra in 683 by the Berber leader Kasila, who had earlier converted to Islam and then rebelled against Arab misrule. Morocco was not conquered in one stroke but through decades of brutal, repeated campaigns. The first Arab armies found a population that was Christian, Jewish, and following traditional Berber religion — and that would resist fiercely before ultimately being incorporated into the new Islamic world.",
+      "description_ru": "Арабский полководец Укба ибн Нафи возглавил походы в глубь Магриба в 670-х и 680-х годах, продвигая границы Омейядского халифата по территориям, никогда прежде не находившимся под арабской властью. По преданию, около 682 года он въехал на коне в воды Атлантического океана у марокканского побережья, воздел руки и объявил, что только море преграждает ему путь, — жест, ставший одной из самых легендарных сцен в повествовании об исламской экспансии. Берберы не были пассивны перед ним: Укба попал в засаду и был убит близ современного Бискра в 683 году берберским вождём Касилой, ранее принявшим ислам, а затем поднявшим восстание против арабского произвола. Марокко было завоёвано не одним ударом, а через десятилетия жестоких, многократных кампаний. Первые арабские армии встретили население, исповедующее христианство, иудаизм и традиционную берберскую религию, — и оно яростно сопротивлялось, прежде чем оказаться поглощённым новым исламским миром.",
+      "era": "AD",
+      "latitude": 35.77,
+      "longitude": -5.8,
+      "name": "Uqba ibn Nafi rides into the Atlantic",
+      "name_ru": "Укба ибн Нафи въезжает в Атлантику",
+      "source": "https://en.wikipedia.org/wiki/Uqba_ibn_Nafi",
+      "tags": [
+        "Morocco",
+        "Arab",
+        "Military",
+        "Islam",
+        "Berber"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0695",
+      "description": "The most formidable opponent of the Arab conquest of the Maghreb was a Berber leader known as the Kahina — 'the priestess' or 'the prophetess.' Her personal name may have been Dihya or Damya; she led the Jarawa Berber tribe and possibly commanded followers of Jewish or traditional Berber belief. In the 690s she led a coalition that defeated Arab armies and drove them back toward Libya, halting the advance for nearly a decade. When the Arabs regrouped and returned, she adopted a scorched-earth strategy, ordering the destruction of crops, orchards, and settlements so the enemy would find a land too poor to sustain them. This policy cost her the support of the farming communities who depended on those resources, and she was defeated and killed around 702. She reportedly told her sons before the end to convert to Islam and serve the new rulers — and they did. Arab historians preserved her name as one of the rare enemies who nearly stopped the entire conquest.",
+      "description_ru": "Самым грозным противником арабского завоевания Магриба была берберская предводительница, известная как Кахина — «жрица» или «пророчица». Её личное имя, возможно, было Дия или Дамья; она возглавляла берберское племя Джарава и, по всей видимости, объединяла последователей иудаизма или традиционной берберской религии. В 690-х годах она возглавила коалицию, разгромила арабские армии и отбросила их к Ливии, остановив наступление почти на десятилетие. Когда арабы перегруппировались и вернулись, она применила стратегию выжженной земли, приказав уничтожить посевы, сады и поселения, чтобы враг нашёл землю слишком бедной для пропитания. Эта политика лишила её поддержки земледельческих общин, зависевших от этих ресурсов, и около 702 года она потерпела поражение и погибла. По преданию, перед концом она наказала сыновьям принять ислам и служить новым правителям — что они и сделали. Арабские историки сохранили её имя как одного из редких врагов, едва не остановивших завоевание целиком.",
+      "era": "AD",
+      "latitude": 34.04,
+      "longitude": -5.0,
+      "name": "The Kahina: the queen who burned her own cities",
+      "name_ru": "Кахина: царица, сжёгшая собственные города",
+      "source": "https://en.wikipedia.org/wiki/Dihya",
+      "tags": [
+        "Morocco",
+        "Berber",
+        "Military",
+        "Arab",
+        "Islam"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0708",
+      "description": "By around 705–710, the Arab general Musa ibn Nusayr completed the conquest of Morocco, incorporating it into the Umayyad caliphate as part of Ifriqiya province. Berber chiefs who submitted were often allowed to retain local authority under Arab supervision; those who resisted were killed or enslaved. The Arab presence initially meant garrisons, tax collectors, and a thin administrative layer rather than mass Arab settlement — Berbers vastly outnumbered the newcomers. Many Berbers converted to Islam quickly, but their conversion did not bring the equality that Islamic doctrine promised: Arab rulers taxed Berber Muslims at non-Muslim rates and excluded them from Arab tribal privileges. This treatment — conversion without recognition — planted the grievances that would erupt within a generation into one of the Islamic world's most consequential uprisings.",
+      "description_ru": "К 705–710 годам арабский полководец Муса ибн Нусайр завершил завоевание Марокко, включив его в состав Омейядского халифата как часть провинции Ифрикия. Берберские вожди, изъявившие покорность, как правило, сохраняли местную власть под арабским надзором; тех, кто сопротивлялся, убивали или обращали в рабство. Арабское присутствие поначалу означало гарнизоны, сборщиков налогов и тонкий административный слой, а не массовое арабское переселение — берберы численно во много раз превосходили пришельцев. Многие берберы быстро приняли ислам, однако их обращение не принесло равенства, которое обещало исламское учение: арабские правители облагали берберов-мусульман немусульманскими налогами и исключали их из арабских племенных привилегий. Это обращение без признания посеяло недовольство, которое меньше чем через поколение взорвалось одним из самых значимых восстаний в истории исламского мира.",
+      "era": "AD",
+      "latitude": 35.77,
+      "longitude": -5.8,
+      "name": "Arab conquest completed: Morocco enters the Islamic world",
+      "name_ru": "Арабское завоевание завершено: Марокко входит в исламский мир",
+      "source": "https://en.wikipedia.org/wiki/Musa_ibn_Nusayr",
+      "tags": [
+        "Morocco",
+        "Arab",
+        "Islam",
+        "Political",
+        "Military"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0740",
+      "description": "In 739–740, the Berbers of Morocco launched one of the largest revolts against Arab rule in North African history, galvanized by the Kharijite teaching that any Muslim — regardless of ethnicity — could lead the community, directly contradicting Arab claims to hereditary privilege. Berber warriors under Maysara al-Matghari defeated Arab forces and expelled Arab governors from most of Morocco. The Umayyad caliphate dispatched a Syrian army to suppress the revolt, but it was annihilated — one of the worst military defeats the Umayyads ever suffered in the Maghreb. The revolt left Morocco fragmented into small Berber statelets, none strong enough to unify the region, but effectively ended Arab demographic settlement in the Moroccan interior. From this point, Morocco's Islamic development would be driven almost entirely by the Berbers themselves rather than by Arab overlords.",
+      "description_ru": "В 739–740 годах берберы Марокко подняли одно из крупнейших восстаний против арабского владычества в истории Северной Африки, вдохновлённые хариджитским учением о том, что любой мусульманин — независимо от этнического происхождения — может возглавить общину, что прямо противоречило арабским претензиям на наследственную привилегию. Берберские воины под командованием Майсары аль-Матгари разгромили арабские силы и изгнали арабских правителей из большей части Марокко. Омейядский халифат направил сирийскую армию для подавления восстания, однако она была уничтожена — одно из тяжелейших военных поражений, когда-либо понесённых Омейядами в Магрибе. Восстание оставило Марокко раздробленным на мелкие берберские государства, ни одно из которых не обладало достаточной силой для объединения региона, однако фактически положило конец арабскому демографическому заселению марокканского interior. С этого момента исламское развитие Марокко определялось почти исключительно самими берберами, а не арабскими сюзеренами.",
+      "era": "AD",
+      "latitude": 34.04,
+      "longitude": -5.0,
+      "name": "The Great Berber Revolt: Islam without equality",
+      "name_ru": "Великое берберское восстание: ислам без равенства",
+      "source": "https://en.wikipedia.org/wiki/Berber_Revolt",
+      "tags": [
+        "Morocco",
+        "Berber",
+        "Military",
+        "Islam",
+        "Political"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0788",
+      "description": "In 786, a descendant of the Prophet Muhammad's family named Idris ibn Abdallah fled the Abbasid caliphate after the massacre of Alid rivals at the Battle of Fakhkh near Mecca. He crossed the Sahara and arrived in Morocco around 788, where the Awraba Berber tribe received him with extraordinary enthusiasm. His lineage as a great-grandson of Ali — the Prophet's cousin and son-in-law — gave him a spiritual legitimacy that no Arab governor or Kharijite preacher had offered the Berbers. The Awraba declared him their imam. Within two years Idris had extended his authority across much of northern Morocco, winning tribes not by force but through the prestige of his ancestry and the justice of his rule. He was building the first genuinely independent Moroccan state of the Islamic era, a project that alarmed the Abbasid caliph in Baghdad far more than any Berber rebellion had.",
+      "description_ru": "В 786 году потомок семьи Пророка Мухаммада Идрис ибн Абдалла бежал от Аббасидского халифата после резни алидских соперников в битве при Фахх близ Мекки. Он пересёк Сахару и прибыл в Марокко около 788 года, где берберское племя Аураба встретило его с необыкновенным воодушевлением. Его происхождение как правнука Али — двоюродного брата и зятя Пророка — давало ему духовную легитимность, которой ни один арабский правитель и ни один хариджитский проповедник не предлагал берберам. Аураба провозгласил его своим имамом. За два года Идрис распространил свою власть на большую часть северного Марокко, привлекая племена не силой, а авторитетом своей родословной и справедливостью правления. Он строил первое подлинно независимое марокканское государство исламской эпохи — проект, встревоживший Аббасидского халифа в Багдаде значительно сильнее, чем любое берберское восстание.",
+      "era": "AD",
+      "latitude": 34.07,
+      "longitude": -5.55,
+      "name": "Idris I arrives: an Alid fugitive becomes Morocco's founder",
+      "name_ru": "Прибытие Идриса I: алидский беглец становится основателем Марокко",
+      "source": "https://en.wikipedia.org/wiki/Idris_I_of_Morocco",
+      "tags": [
+        "Morocco",
+        "Berber",
+        "Islam",
+        "Political",
+        "Foundation",
+        "Idrisid"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0791",
+      "description": "The Abbasid caliph Harun al-Rashid — the same caliph celebrated in the One Thousand and One Nights, then at the height of his power in Baghdad — considered Idris I's independent Morocco a dangerous political precedent. In 791 he dispatched an agent who posed as a friendly messenger and managed to poison Idris. It was a precise political assassination carried out across thousands of miles, demonstrating that even the western edge of the former caliphate was not beyond Abbasid reach. But the killing backfired: Idris's Berber wife Kenza was pregnant at the time of his death. The posthumous son — Idris II — was raised by the Awraba tribe as their legitimate imam. The Idrisid dynasty continued for two more centuries. Harun had eliminated the man but not the idea he represented: an independent Moroccan Islamic state, governed by the Prophet's family, that owed Baghdad nothing.",
+      "description_ru": "Аббасидский халиф Харун ар-Рашид — тот самый халиф, воспетый в «Тысяча и одной ночи», находившийся тогда на вершине своего могущества в Багдаде, — считал независимое Марокко Идриса I опасным политическим прецедентом. В 791 году он отправил агента, представившегося дружественным посланником и сумевшего отравить Идриса. Это было точечное политическое убийство, осуществлённое на расстоянии тысяч миль: оно показало, что даже западная окраина бывшего халифата не была недосягаема для аббасидских козней. Однако убийство возымело обратный эффект: берберская жена Идриса Кенза была беременна в момент его гибели. Посмертный сын — Идрис II — был воспитан племенем Аураба как законный имам. Идрисидская династия просуществовала ещё два столетия. Харун уничтожил человека, но не идею, которую тот воплощал: независимое марокканское исламское государство, управляемое семьёй Пророка, которое не было обязано Багдаду ничем.",
+      "era": "AD",
+      "latitude": 34.07,
+      "longitude": -5.55,
+      "name": "Harun al-Rashid's assassin kills Idris I",
+      "name_ru": "Убийца Харуна ар-Рашида убивает Идриса I",
+      "source": "https://en.wikipedia.org/wiki/Idris_I_of_Morocco",
+      "tags": [
+        "Morocco",
+        "Idrisid",
+        "Political",
+        "Islam",
+        "Military"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0808",
+      "description": "Idris II, proclaimed ruler as an infant and governing from his late teens, founded the city of Fes in 808–809 on the banks of the Fes River, a few miles from the old Roman site of Volubilis. What made Fes remarkable from its first years was its dual origin: refugees flooded in from two directions simultaneously. From the east came families from Kairouan in modern Tunisia, displaced by political upheaval. From the west came several thousand families expelled from Córdoba in Andalusia after a failed uprising against the Umayyad emir there. The two communities built separate mosques, markets, and neighborhoods on opposite banks of the river — and their fusion created one of the most cosmopolitan cities in the medieval Islamic world almost immediately. Fes would become the intellectual and commercial capital of Morocco for the next twelve centuries, a distinction it has never entirely surrendered.",
+      "description_ru": "Идрис II, провозглашённый правителем в младенчестве и вступивший в управление в позднем подростковом возрасте, основал город Фес в 808–809 годах на берегах реки Фес, в нескольких милях от старого римского Волюбилиса. Что делало Фес примечательным с первых же лет — его двойственное происхождение: беженцы хлынули одновременно с двух сторон. С востока прибывали семьи из Кайруана в современном Тунисе, вытесненные политическими потрясениями. С запада — несколько тысяч семей, изгнанных из Кордовы в Андалусии после провалившегося восстания против тамошнего омейядского эмира. Обе общины построили отдельные мечети, рынки и кварталы на противоположных берегах реки — и их слияние почти немедленно создало один из самых космополитичных городов средневекового исламского мира. Фес станет интеллектуальной и торговой столицей Марокко на следующие двенадцать столетий — статус, от которого он так и не отказался полностью.",
+      "era": "AD",
+      "latitude": 34.04,
+      "longitude": -5.0,
+      "name": "Idris II founds Fes: a city built by exiles",
+      "name_ru": "Идрис II основывает Фес: город, построенный изгнанниками",
+      "source": "https://en.wikipedia.org/wiki/Idris_II_of_Morocco",
+      "tags": [
+        "Morocco",
+        "Idrisid",
+        "Foundation",
+        "City",
+        "Islam",
+        "Settlement"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0859",
+      "description": "In 859, a woman named Fatima bint Muhammad al-Fihri founded a mosque and teaching institution in Fes that would grow into the University of al-Qarawiyyin — widely regarded as the oldest continuously operating university in the world, predating Bologna and Oxford by more than two centuries. Fatima and her sister Maryam were daughters of a wealthy merchant family from Kairouan who had settled in Fes. When their father and husbands died, both sisters inherited substantial fortunes; Fatima used hers to build the mosque, reportedly fasting throughout the entire construction and breaking her fast only when it was complete. Al-Qarawiyyin attracted scholars from across the Islamic world and eventually from Europe: Gerbert of Aurillac, the future Pope Sylvester II who introduced Arabic numerals to Europe, may have studied in its tradition, and Ibn Khaldun — perhaps the greatest sociologist of the pre-modern world — later taught there.",
+      "description_ru": "В 859 году женщина по имени Фатима бинт Мухаммад аль-Фихри основала в Фесе мечеть и учебное заведение, выросшее в Университет аль-Карауин — широко признаваемый старейшим непрерывно действующим университетом в мире, более чем на два столетия опережающим Болонью и Оксфорд. Фатима и её сестра Марьям были дочерьми состоятельной купеческой семьи из Кайруана, осевшей в Фесе. Когда умерли их отец и мужья, обе сестры унаследовали значительные состояния; Фатима потратила своё на строительство мечети, по преданию постившись всё время строительства и прервав пост лишь по его завершении. Аль-Карауин привлекал учёных со всего исламского мира и в итоге из Европы: Герберт Орийакский, будущий папа Сильвестр II, познакомивший Европу с арабскими цифрами, возможно, учился в этой традиции, а Ибн Халдун — вероятно, величайший социолог доиндустриального мира — впоследствии здесь преподавал.",
+      "era": "AD",
+      "latitude": 34.04,
+      "longitude": -5.0,
+      "name": "Fatima al-Fihri founds the world's oldest university",
+      "name_ru": "Фатима аль-Фихри основывает старейший университет мира",
+      "source": "https://en.wikipedia.org/wiki/University_of_al-Qarawiyyin",
+      "tags": [
+        "Morocco",
+        "Islam",
+        "Culture",
+        "Foundation",
+        "City"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1040",
+      "description": "Around 1040, a reformist scholar named Abdallah ibn Yasin arrived among the Sanhaja Berber tribes of the western Sahara at the invitation of their chief, who was troubled by his people's imperfect observance of Islam. Ibn Yasin found a population that still practiced some pre-Islamic customs and understood Islamic law only superficially. He founded a ribat — a fortified spiritual retreat — either on a river island or deep in the Sahara, gathering disciples around strict religious practice and military discipline. The movement called itself al-Murabitun, 'people of the ribat,' rendered in Spanish as Almoravides and hence Almoravids. It combined Maliki Islamic reform with the martial traditions of the Sanhaja confederation, creating a movement that was simultaneously a religious revival and an army. Within a generation it would control the gold routes of the Sahara, the cities of Morocco, and half of Iberia.",
+      "description_ru": "Около 1040 года учёный-реформатор по имени Абдалла ибн Ясин прибыл к берберским племенам санхаджа западной Сахары по приглашению их вождя, обеспокоенного несовершенным соблюдением ислама своим народом. Ибн Ясин обнаружил население, ещё сохранявшее некоторые доисламские обычаи и лишь поверхностно понимавшее исламское право. Он основал рибат — укреплённое духовное убежище — то ли на речном острове, то ли в глубине Сахары, собирая вокруг себя учеников на основе строгой религиозной практики и военной дисциплины. Движение называло себя аль-Мурабитун — «люди рибата», что по-испански передавалось как Almoravides, откуда и Альморавиды. Оно сочетало маликитскую исламскую реформу с военными традициями конфедерации санхаджа, создав движение, одновременно бывшее религиозным возрождением и армией. Меньше чем через поколение оно будет контролировать золотые пути Сахары, города Марокко и половину Пиренейского полуострова.",
+      "era": "AD",
+      "latitude": 31.52,
+      "longitude": -4.0,
+      "name": "Ibn Yasin and the ribat: the Almoravid spark",
+      "name_ru": "Ибн Ясин и рибат: искра Альморавидов",
+      "source": "https://en.wikipedia.org/wiki/Abdallah_ibn_Yasin",
+      "tags": [
+        "Morocco",
+        "Berber",
+        "Islam",
+        "Almoravid",
+        "Foundation",
+        "Military"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.1054",
+      "description": "Sijilmasa, in the Tafilalt oasis near modern Rissani, was the northern terminus of the trans-Saharan gold route — the city where gold from the Ghana Empire arrived after crossing the desert, to be distributed across the Islamic world and into Europe. In 1054, Almoravid forces captured Sijilmasa, seizing the northern end of the most profitable long-distance trade route in the medieval world. The same year or shortly after, they also took Aoudaghost — the southern terminus in modern Mauritania — giving them unprecedented control over both ends of the gold road simultaneously. This economic monopoly financed the rapid Almoravid expansion northward into Morocco proper, paying for armies and garrisons with the proceeds of trans-Saharan commerce. The conquest of Sijilmasa was not just a military victory; it was the financial engine of everything that followed.",
+      "description_ru": "Сижилмаса в оазисе Тафилалт неподалёку от современного Риссани была северным терминалом транссахаранского золотого пути — городом, куда прибывало золото из империи Гана после пересечения пустыни, чтобы затем распределиться по исламскому миру и в Европу. В 1054 году альморавидские силы захватили Сижилмасу, завладев северным концом самого прибыльного маршрута дальней торговли средневекового мира. В том же году или вскоре после этого они взяли и Аудагост — южный терминал в современной Мавритании, — получив беспрецедентный контроль над обоими концами золотой дороги одновременно. Эта экономическая монополия профинансировала стремительную экспансию Альморавидов на север, в собственно Марокко, оплачивая армии и гарнизоны из доходов транссахаранской торговли. Завоевание Сижилмасы было не просто военной победой — оно стало финансовым двигателем всего последующего.",
+      "era": "AD",
+      "latitude": 31.52,
+      "longitude": -4.0,
+      "name": "Almoravids seize Sijilmasa: the gold road changes hands",
+      "name_ru": "Альморавиды захватывают Сижилмасу: золотой путь меняет хозяев",
+      "source": "https://en.wikipedia.org/wiki/Sijilmasa",
+      "tags": [
+        "Morocco",
+        "Almoravid",
+        "Berber",
+        "Military",
+        "Trade",
+        "Gold"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1062",
+      "description": "Yusuf ibn Tashfin, who had taken effective command of the Almoravid movement from his cousin, founded Marrakech around 1062 as the movement's Moroccan capital. The city was built on a flat semi-arid plain at the foot of the High Atlas, positioned to command routes between the Sahara and the Atlantic coast. Its name may derive from the Amazigh phrase meaning 'Land of God' — a contested etymology, but the city's global importance is not: 'Morocco' itself derives from 'Marrakech' as heard by Spanish and Portuguese speakers, meaning the country owes its European name to a city that did not yet exist a thousand years ago. Under Yusuf the city was swiftly built up with palaces, mosques, and gardens watered by an ingenious underground channel system called khettaras. The souks established in this period survive, heavily modified, to the present day.",
+      "description_ru": "Юсуф ибн Ташфин, взявший на себя фактическое руководство движением Альморавидов от двоюродного брата, основал Марракеш около 1062 года как марокканскую столицу движения. Город был выстроен на плоской полузасушливой равнине у подножия Высокого Атласа, там, где пролегали пути между Сахарой и атлантическим побережьем. Его название, возможно, происходит от берберского выражения, означающего «земля Бога», — оспариваемая этимология, однако мировое значение города бесспорно: само слово «Марокко» происходит от «Марракеш» в испанском и португальском произношении, то есть страна обязана своим европейским именем городу, которого ещё тысячу лет назад не существовало. При Юсуфе город быстро застраивался дворцами, мечетями и садами, орошаемыми искусной системой подземных каналов — хеттар. Основанные в тот период суки сохранились, претерпев значительные изменения, по сей день.",
+      "era": "AD",
+      "latitude": 31.63,
+      "longitude": -8.0,
+      "name": "Yusuf ibn Tashfin founds Marrakech: Morocco's name is born",
+      "name_ru": "Юсуф ибн Ташфин основывает Марракеш: рождается имя Марокко",
+      "source": "https://en.wikipedia.org/wiki/Marrakesh",
+      "tags": [
+        "Morocco",
+        "Almoravid",
+        "Berber",
+        "Foundation",
+        "City",
+        "Settlement"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1086",
+      "description": "By the 1080s, the Muslim Taifa kingdoms of Iberia were being crushed by Alfonso VI of Castile, who captured Toledo in 1085 — the symbolic heart of al-Andalus. Desperate Taifa rulers sent an appeal to Yusuf ibn Tashfin in Morocco: cross the strait and save us. At the Battle of Sagrajas (Zallaqa in Arabic) in 1086, the Almoravid and allied Muslim forces devastatingly defeated Alfonso VI's Castilian army — the most powerful king of the Reconquista was routed in a single afternoon. Yusuf returned to Morocco without occupying Iberia, but crossed back in 1090 and deposed the Taifa kings one by one, unifying Morocco and Iberian Islam under a single Almoravid state stretching from the Senegal River to the Ebro. A Berber movement born in the western Sahara now governed an empire larger than any Morocco had known since Rome, and would hold Iberia for another half-century.",
+      "description_ru": "К 1080-м годам мусульманские Таифские царства Пиренейского полуострова были раздавлены Альфонсом VI Кастильским, захватившим Толедо в 1085 году — символическое сердце аль-Андалуса. Отчаявшиеся таифские правители отправили Юсуфу ибн Ташфину в Марокко призыв: переправься через пролив и спаси нас. В битве при Сагракас (Заллака по-арабски) в 1086 году альморавидские и союзные мусульманские силы сокрушительно разгромили кастильскую армию Альфонса VI — самый могущественный король Реконкисты был разбит за одно послеполудни. Юсуф вернулся в Марокко, не оккупировав Иберию, однако вновь переправился в 1090 году и низложил таифских царей одного за другим, объединив Марокко и иберийский ислам в единое Альморавидское государство, простиравшееся от реки Сенегал до Эбро. Берберское движение, рождённое в западной Сахаре, теперь управляло империей, большей, чем любая, известная Марокко со времён Рима, и удержит Иберию ещё на полвека.",
+      "era": "AD",
+      "latitude": 31.63,
+      "longitude": -8.0,
+      "name": "Battle of Sagrajas: Almoravids cross into Iberia",
+      "name_ru": "Битва при Сагракас: Альморавиды переходят в Иберию",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Sagrajas",
+      "tags": [
+        "Morocco",
+        "Almoravid",
+        "Berber",
+        "Military",
+        "Islam",
+        "War"
+      ],
+      "type": "military"
+    }
+  ]
+}
