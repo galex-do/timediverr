@@ -1,318 +1,436 @@
 {
-  "description": "History of the Ghana Empire (c. 300-1200 AD), the first widely documented Sahelian state of West Africa. Covers the Soninke-speaking Wagadou tradition, the emergence of a royal polity between the Senegal and Niger river systems, the gold-and-salt trade that made Ghana famous, Koumbi Saleh and other settlements, royal administration, military power, Islam alongside older beliefs, the debated Almoravid episode, decline, and the empire's legacy in later Soninke, Sosso, and Mali histories.",
-  "filename": "AD1_ghana_empire.json",
+  "description": "Dataset imported with 24 events",
   "events": [
     {
       "date": "01.01.0300",
+      "description": "Around the 4th century, a state associated with the Soninke languages ​​emerged in the savannah between Senegal and the upper Niger. Medieval Arab authors later referred to its ruler as Ghana, and European sources applied this name to the entire state; local legends recall the land of Wagadou. The kingdom, which grew out of a unified group of tribes, gradually dominated the wells, pastures, villages, and roads of the western Sahel.",
+      "description_ru": "Примерно к IV веку в саванне между Сенегалом и верхним течением Нигера складывается государство, связанное с языками сонинке. Средневековые арабские авторы позднее называют его правителя Ганой, и европейские источники переносят это имя на всё государство; местные предания помнят страну Вагаду. Царство, выросшее из объединения племен, постепенно подминает под себя колодцы, пастбища, селения и дороги западного Сахеля.",
       "era": "AD",
-      "type": "political",
-      "name": "Emergence of the Ghana Empire",
-      "name_ru": "Возникновение империи Гана",
-      "description": "By about the fourth century AD, a Soninke-speaking polity is taking shape in the savanna between the Senegal and upper Niger river systems. Medieval Arabic writers later call its ruler Ghana, a title that European sources eventually apply to the state itself; local traditions remember a land called Wagadou. The kingdom grows from control of wells, pasture, farming settlements, and routes crossing the western Sahel. Archaeology suggests a long process of political consolidation rather than a single founding event. Ghana is therefore a later state in the same broad Sahelian world as Tichitt, but a direct institutional descent from Tichitt has not been proved.",
-      "description_ru": "Примерно к IV веку н. э. в саванне между Сенегалом и верхним течением Нигера складывается государство, связанное с языками сонинке. Средневековые арабские авторы позднее называют его правителя Ганой, и европейские источники переносят это имя на всё государство; местные предания помнят страну Вагаду. Царство растёт благодаря контролю над колодцами, пастбищами, земледельческими поселениями и дорогами западного Сахеля. Археология говорит о длительном политическом объединении, а не об одном акте основания. Поэтому Гана относится к тому же широкому сахельскому миру, что и Тишит, но прямое институциональное происхождение от Тишита пока не доказано.",
       "latitude": 15.76556,
       "longitude": -7.96861,
+      "name": "Emergence of the Ghana Empire",
+      "name_ru": "Возникновение империи Гана",
       "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
-      "tags": ["Ghana", "Soninke", "Foundation", "Political", "Sahel", "Wagadou"]
+      "tags": [
+        "Foundation",
+        "Ghana",
+        "Kingdom",
+        "Political",
+        "Soninke"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.0600",
+      "description": "Ghana developed in a strategic zone between the northern edge of the desert and the humid savannas to the south. Farmers, pastoralists, and riverine communities converged here. North-south roads connected these communities with Saharan merchants and gold-bearing regions to the south. Ghana's power rested not so much on its fertile core as on its influence over the movement of people and goods between these zones. This location made the empire an important gateway to the western Sahel.",
+      "description_ru": "Гана развивается в стратегической зоне между северной окраиной пустыни и влажными саваннами на юге. Здесь встречаются земледельцы, скотоводы и речные общины. Дороги север—юг связывают эти сообщества с сахаранскими купцами и золотоносными районами на юге. Могущество Ганы опирается не столько на одно плодородное ядро, сколько на влияние на движение людей и товаров между этими зонами. Именно это положение превращает империю в важные ворота западного Сахеля.",
       "era": "AD",
-      "type": "historic",
-      "name": "The western Sahelian crossroads",
-      "name_ru": "Перекрёсток западного Сахеля",
-      "description": "Ghana develops in a strategic zone between the desert edge to the north and wetter savannas to the south. Farmers, herders, and riverine communities produce different resources and depend on exchange across this ecological boundary. North–south routes link these communities with Saharan merchants and the gold-producing regions farther south. Ghana's power comes less from a single fertile core than from influencing the movement of people and goods between these zones. This position explains why the empire becomes a major gateway in the western Sahel.",
-      "description_ru": "Гана развивается в стратегической зоне между северной окраиной пустыни и более влажными саваннами на юге. Земледельцы, скотоводы и речные общины производят разные ресурсы и зависят от обмена через эту природную границу. Дороги север—юг связывают эти сообщества с сахаранскими купцами и золотоносными районами дальше к югу. Могущество Ганы опирается не столько на одно плодородное ядро, сколько на влияние на движение людей и товаров между этими зонами. Именно это положение превращает империю в важные ворота западного Сахеля.",
       "latitude": 15.76556,
       "longitude": -7.96861,
+      "name": "Ghana, the western Sahelian crossroad",
+      "name_ru": "Гана как перекрёсток западного Сахеля",
       "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
-      "tags": ["Ghana", "Sahel", "Trade", "Agriculture", "Husbandry", "Economic"]
-    },
-    {
-      "date": "01.01.0700",
-      "era": "AD",
-      "type": "historic",
-      "name": "Camel caravans reshape the western Sahel",
-      "name_ru": "Верблюжьи караваны меняют западный Сахель",
-      "description": "The expansion of camel-based desert travel makes regular long-distance movement across the Sahara more practical. Caravans can carry salt and manufactured goods south while returning with gold and other products from the savannas. Ghana benefits because its political center lies near the meeting point of desert and savanna transport systems. Caravans still depend on wells, guides, pack animals, and negotiated security rather than crossing an empty landscape effortlessly. This logistics revolution helps turn a regional kingdom into a major intermediary in trans-Saharan commerce.",
-      "description_ru": "Распространение путешествий на верблюдах делает регулярное дальнее движение через Сахару более практичным. Караваны могут везти на юг соль и готовые изделия, а возвращаться с золотом и другими товарами саванн. Гана выигрывает благодаря положению политического центра у стыка пустынной и саванной транспортных систем. Караваны по-прежнему зависят от колодцев, проводников, вьючных животных и договорённостей о безопасности, а не пересекают пустыню без труда. Эта логистическая перемена помогает региональному царству стать крупным посредником транссахарской торговли.",
-      "latitude": 15.76556,
-      "longitude": -7.96861,
-      "source": "https://en.wikipedia.org/wiki/Trans-Saharan_trade",
-      "tags": ["Ghana", "Trade", "Sahel", "Economic", "Innovation"]
-    },
-    {
-      "date": "01.01.0977",
-      "era": "AD",
-      "type": "historic",
-      "name": "Aoudaghost and the northern gateway",
-      "name_ru": "Аудагост и северные ворота",
-      "description": "By 977, Arabic writing describes Aoudaghost as a prosperous Saharan town connected to Ghana's commercial world. Earlier notices place it under Sanhaja control, while later accounts describe changing political relations with Ghana rather than permanent, unquestioned rule. Its position near the desert edge lets merchants rest, exchange pack animals, obtain water, and organize southbound journeys. The town is not a second capital of Ghana, but it demonstrates how northern gateways support the empire's trade network. Aoudaghost links Ghana to wider Maghrebi and Saharan markets while retaining its own local history.",
-      "description_ru": "К 977 году арабские источники описывают Аудагост как процветающий сахаранский город, связанный с торговым миром Ганы. Более ранние сообщения относят его к контролю санхаджа, а позднейшие свидетельства говорят о меняющихся политических отношениях с Ганой, а не о постоянном и бесспорном господстве. Положение у края пустыни позволяет купцам отдыхать, менять вьючных животных, запасаться водой и организовывать движение на юг. Город не был второй столицей Ганы, но показывает, как северные ворота поддерживали торговую сеть империи. Аудагост связывал Гану с более широкими магрибскими и сахаранскими рынками, сохраняя собственную местную историю.",
-      "latitude": 17.417,
-      "longitude": -10.417,
-      "source": "https://en.wikipedia.org/wiki/Aoudaghost",
-      "tags": ["Ghana", "Trade", "Settlement", "Sahel", "Economic"]
-    },
-    {
-      "date": "01.01.0830",
-      "era": "AD",
-      "type": "historic",
-      "name": "Al-Khwarizmi's written notice of Ghana",
-      "name_ru": "Письменное упоминание Ганы у аль-Хорезми",
-      "description": "Around 830, the geographer al-Khwarizmi provides the first identifiable written mention of Ghana's imperial dynasty. This is a landmark for historians because Ghana's own contemporary court records have not survived. The notice is brief and does not offer a complete portrait of the kingdom. Later Arabic authors add more information about the king, gold, trade, and Muslim communities, often using reports from merchants and travelers. Written evidence therefore grows gradually rather than providing a complete history from the moment of Ghana's formation.",
-      "description_ru": "Около 830 года географ аль-Хорезми даёт первое распознаваемое письменное упоминание имперской династии Ганы. Это важный рубеж для историков, поскольку собственные современные придворные записи Ганы не сохранились. Упоминание кратко и не даёт полного портрета царства. Позднейшие арабские авторы добавляют сведения о царе, золоте, торговле и мусульманских общинах, часто используя рассказы купцов и путешественников. Поэтому письменные свидетельства нарастают постепенно, а не дают полную историю с момента формирования Ганы.",
-      "latitude": 15.76556,
-      "longitude": -7.96861,
-      "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
-      "tags": ["Ghana", "Trade", "Culture", "Political", "Sahel"]
+      "tags": [
+        "African",
+        "Agriculture",
+        "Economic",
+        "Ghana",
+        "Route",
+        "Trade"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.0900",
+      "description": "Situated between the Sahara salt mines to the north and the gold-bearing regions to the south, the Ghana Empire controlled vital caravan routes, turning the salt trade into a source of immense wealth for its rulers. Salt was mined in the north (in the Taghaza mines) and transported south to the tropical forests of West Africa, where the climate and diet created a critical physiological need for it among the local population.",
+      "description_ru": "Располагаясь между соляными копями Сахары на севере и золотоносными районами на юге, империя Гана контролировала важнейшие караванные пути, превратив торговлю солью в источник несметных богатств своих правителей. Соль добывали на севере (в районе шахт Тагаза) и везли на юг, в тропические леса Западной Африки, где из-за климата и особенностей питания местное население испытывало в ней острейшую физиологическую потребность.",
       "era": "AD",
-      "type": "historic",
-      "name": "Salt as a strategic commodity",
-      "name_ru": "Соль как стратегический товар",
-      "description": "Salt is not a luxury in the Sahel: people and animals need it, and many southern communities lack large local deposits. Desert salt therefore travels south in slabs or other traded forms, while gold moves north toward markets where it has a different value. Ghana profits from regulating this exchange at the edge of contrasting ecological zones. The system depends on caravan labor, pack animals, water points, and safe markets as much as on the mineral itself. Salt helps explain why Ghana's influence reaches beyond the areas where its farmers and herders live.",
-      "description_ru": "Соль в Сахеле не является только роскошью: она нужна людям и животным, а многие южные общины не имеют крупных местных месторождений. Поэтому пустынная соль движется на юг в плитах или других торговых формах, тогда как золото направляется на север к рынкам, где имеет другую ценность. Гана получает выгоду, регулируя этот обмен на границе разных природных зон. Система зависит от труда караванщиков, вьючных животных, водных пунктов и безопасных рынков не меньше, чем от самого минерала. Соль помогает понять, почему влияние Ганы выходит за пределы земель её земледельцев и скотоводов.",
       "latitude": 15.76556,
       "longitude": -7.96861,
+      "name": "Salt is a strategic commodity in the Sahel",
+      "name_ru": "Соль — стратегический товар в Сахеле",
       "source": "https://en.wikipedia.org/wiki/Trans-Saharan_trade",
-      "tags": ["Ghana", "Salt", "Trade", "Economic", "Sahel"]
+      "tags": [
+        "African",
+        "Economic",
+        "Ghana",
+        "Salt",
+        "Trade"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0977",
+      "description": "By 977, Arabic writing describes Aoudaghost as a prosperous Saharan town connected to Ghana's commercial world. Earlier notices place it under Sanhaja control, while later accounts describe changing political relations with Ghana rather than permanent, unquestioned rule. Its position near the desert edge lets merchants rest, exchange pack animals, obtain water, and organize southbound journeys. The town is not a second capital of Ghana, but it demonstrates how northern gateways support the empire's trade network. Aoudaghost links Ghana to wider Maghrebi and Saharan markets while retaining its own local history.",
+      "description_ru": "К 977 году арабские источники описывают Аудагост как процветающий сахаранский город, связанный с торговым миром Ганы. Более ранние сообщения относят его к контролю санхаджа, а позднейшие свидетельства говорят о меняющихся политических отношениях с Ганой, а не о постоянном и бесспорном господстве. Положение у края пустыни позволяет купцам отдыхать, менять вьючных животных, запасаться водой и организовывать движение на юг. Город не был второй столицей Ганы, но показывает, как северные ворота поддерживали торговую сеть империи. Аудагост связывал Гану с более широкими магрибскими и сахаранскими рынками, сохраняя собственную местную историю.",
+      "era": "AD",
+      "latitude": 17.417,
+      "longitude": -10.417,
+      "name": "Aoudaghost and the northern gateway",
+      "name_ru": "Аудагост и северные ворота",
+      "source": "https://en.wikipedia.org/wiki/Aoudaghost",
+      "tags": [
+        "Economic",
+        "Ghana",
+        "Sahel",
+        "Settlement",
+        "Trade"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.1000",
-      "era": "AD",
-      "type": "historic",
-      "name": "Gold and salt make Ghana famous",
-      "name_ru": "Золото и соль прославляют Гану",
-      "description": "Ghana becomes famous because it stands between Saharan salt and southern gold. Gold comes from regions south of the core kingdom, often identified with the Bambuk and Bouré zones, while salt travels south from desert mines and oases. The state does not necessarily own every mine; its advantage is taxing, protecting, and regulating the movement of valuable goods. Arabic writers emphasize the wealth of the king, but they do not provide a complete balance sheet of the economy. The gold–salt exchange is nevertheless the empire's most distinctive historical signature and the foundation of its international reputation.",
-      "description_ru": "Гана прославляется благодаря положению между сахаранской солью и южным золотом. Золото поступает из районов южнее ядра государства, которые часто связывают с областями Бамбук и Буре, а соль движется на юг от пустынных рудников и оазисов. Государство не обязательно владеет каждым рудником; его преимущество состоит в обложении пошлинами, защите и регулировании движения ценных товаров. Арабские авторы подчёркивают богатство царя, но не дают полной экономической отчётности. Тем не менее обмен золота на соль остаётся самым характерным историческим признаком империи и основой её международной славы.",
-      "latitude": 15.76556,
-      "longitude": -7.96861,
-      "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
-      "tags": ["Ghana", "Gold", "Salt", "Trade", "Economic", "Sahel"]
-    },
-    {
-      "date": "01.01.1000",
-      "era": "AD",
-      "type": "political",
-      "name": "Gold taxation and the royal treasury",
-      "name_ru": "Налогообложение золота и царская казна",
-      "description": "Medieval accounts portray the Ghanaian ruler as receiving revenue from goods that pass through the kingdom. Gold is especially important because the court can tax its movement while keeping the producing zones at a political distance. A royal treasury converts commercial flows into gifts, military resources, diplomatic power, and support for the court. The famous image of a king surrounded by gold is therefore not just personal wealth; it reflects a fiscal system built on controlled circulation. The exact tax rates and procedures remain unknown, so the mechanism should not be reconstructed more precisely than the sources allow.",
-      "description_ru": "Средневековые источники изображают правителя Ганы получающим доход с товаров, проходящих через государство. Золото особенно важно, поскольку двор может облагать его движение, сохраняя золотоносные районы на политическом расстоянии. Царская казна превращает торговые потоки в подарки, военные ресурсы, дипломатическое влияние и содержание двора. Знаменитый образ царя, окружённого золотом, поэтому означает не только личное богатство, но и финансовую систему, основанную на контролируемом обороте. Точные ставки и процедуры неизвестны, и механизм нельзя восстанавливать точнее, чем позволяют источники.",
-      "latitude": 15.76556,
-      "longitude": -7.96861,
-      "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
-      "tags": ["Ghana", "Gold", "Administration", "Economic", "Political"]
-    },
-    {
-      "date": "01.01.1000",
-      "era": "AD",
-      "type": "political",
-      "name": "A settlement network rather than one city",
-      "name_ru": "Сеть поселений, а не один город",
-      "description": "Ghana's political geography includes a royal center, market towns, farming villages, caravan stations, and communities along resource routes. Koumbi Saleh is the best-known site, but it should not be mistaken for the whole empire. Authority is likely strongest where roads, wells, tribute, and commercial exchange intersect. Local communities continue to produce food and manage land while participating in a wider imperial system. This distributed structure helps explain both Ghana's reach and the difficulty of tracing its exact borders archaeologically.",
-      "description_ru": "Политическая география Ганы включает царский центр, рыночные города, земледельческие деревни, караванные станции и общины вдоль ресурсных дорог. Кумби-Сале — самый известный памятник, но его нельзя принимать за всю империю. Власть, вероятно, сильнее всего там, где пересекаются дороги, колодцы, дань и торговый обмен. Местные общины продолжают производить пищу и распоряжаться землёй, участвуя при этом в более широкой имперской системе. Такая распределённая структура объясняет и размах Ганы, и трудность археологически определить её точные границы.",
-      "latitude": 15.76556,
-      "longitude": -7.96861,
-      "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
-      "tags": ["Ghana", "Settlement", "Administration", "Trade", "Political"]
-    },
-    {
-      "date": "01.01.1000",
-      "era": "AD",
-      "type": "cultural",
-      "name": "Scribes and Arabic literacy in the trading quarter",
-      "name_ru": "Писцы и арабская грамотность в торговом квартале",
       "description": "Muslim merchants bring Arabic writing and legal habits into Ghana's commercial environment. Literacy supports contracts, correspondence, religious teaching, and the recording of transactions across languages and regions. This does not mean that the royal court itself becomes fully Arabic-speaking or that all administration is written. Written specialists and oral authorities can work side by side in a multilingual society. Ghana's connection to Islam is thus also a connection to information networks that extend far beyond the western Sahel.",
       "description_ru": "Мусульманские купцы приносят арабскую письменность и правовые привычки в торговскую среду Ганы. Грамотность поддерживает договоры, переписку, религиозное обучение и запись сделок между разными языками и регионами. Это не означает, что сам царский двор становится полностью арабоязычным или что всё управление ведётся письменно. Письменные специалисты и носители устной власти могут действовать рядом в многоязычном обществе. Связь Ганы с исламом поэтому является также связью с информационными сетями, далеко выходящими за пределы западного Сахеля.",
+      "era": "AD",
       "latitude": 15.76556,
       "longitude": -7.96861,
+      "name": "Scribes and Arabic literacy in the trading quarter",
+      "name_ru": "Писцы и арабская грамотность в торговом квартале",
       "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
-      "tags": ["Ghana", "Islam", "Culture", "Trade", "Administration"]
+      "tags": [
+        "Administration",
+        "Culture",
+        "Ghana",
+        "Islam",
+        "Trade"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.1000",
-      "era": "AD",
-      "type": "cultural",
-      "name": "Urban crafts at Koumbi Saleh",
-      "name_ru": "Городские ремёсла Кумби-Сале",
       "description": "Archaeological work at Koumbi Saleh reveals a settlement where houses, wells, workshops, and imported goods occupied the same urban environment. Craftspeople served local households as well as travelers moving through the trans-Saharan system. Stone and earthen architecture reflects adaptation to a dry climate, while wells made dense settlement possible. The material record is incomplete because erosion, later occupation, and limited excavation hide much of the city. Even so, Koumbi Saleh shows that Ghana's wealth supported ordinary urban production, not only a royal court and passing caravans.",
       "description_ru": "Археологические работы в Кумби-Сале обнаруживают поселение, где дома, колодцы, мастерские и привозные товары существовали в одной городской среде. Ремесленники обслуживали местные домохозяйства и путешественников, двигавшихся по транссахарской системе. Каменная и глинобитная архитектура отражает приспособление к сухому климату, а колодцы делали плотное заселение возможным. Материальная картина неполна: эрозия, позднейшее заселение и ограниченные раскопки скрывают значительную часть города. Тем не менее Кумби-Сале показывает, что богатство Ганы поддерживало обычное городское производство, а не только царский двор и проходящие караваны.",
+      "era": "AD",
       "latitude": 15.76556,
       "longitude": -7.96861,
+      "name": "Urban crafts at Koumbi Saleh",
+      "name_ru": "Городские ремёсла Кумби-Сале",
       "source": "https://en.wikipedia.org/wiki/Koumbi_Saleh",
-      "tags": ["Ghana", "Koumbi Saleh", "City", "Architecture", "Trade", "Culture"]
+      "tags": [
+        "City",
+        "Architecture",
+        "Culture",
+        "Ghana",
+        "Koumbi Saleh",
+        "Trade"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.1000",
-      "era": "AD",
-      "type": "historic",
-      "name": "Farming and herding behind the trade",
-      "name_ru": "Земледелие и скотоводство за торговлей",
       "description": "Trade cannot sustain Ghana without food-producing communities in the surrounding savanna. Millet and other crops feed towns, while cattle, sheep, and goats provide meat, traction, transport, and mobile wealth. Seasonal rainfall makes pasture and harvests variable, so rulers depend on local households rather than a single urban food supply. The empire's commercial reputation can obscure this agricultural foundation. Ghana is a Sahelian state because it combines exchange across long distances with everyday production close to wells and fields.",
       "description_ru": "Торговля не могла поддерживать Гану без производящих пищу общин окружающей саванны. Просо и другие культуры кормят города, а коровы, овцы и козы дают мясо, тягловую силу, транспорт и подвижное богатство. Сезонные дожди делают пастбища и урожаи переменными, поэтому правители зависят от местных домохозяйств, а не от одного городского источника пищи. Торговая слава империи может заслонять эту земледельческую основу. Гана является сахельским государством именно потому, что сочетает дальний обмен с повседневным производством у колодцев и полей.",
+      "era": "AD",
       "latitude": 15.76556,
       "longitude": -7.96861,
+      "name": "Farming and herding behind the trade",
+      "name_ru": "Земледелие и скотоводство за торговлей",
       "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
-      "tags": ["Ghana", "Agriculture", "Husbandry", "Economic", "Settlement"]
+      "tags": [
+        "Agriculture",
+        "Economic",
+        "Ghana",
+        "Husbandry",
+        "Settlement"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.1000",
-      "era": "AD",
-      "type": "political",
-      "name": "The king's court in Arabic accounts",
-      "name_ru": "Царский двор в арабских сообщениях",
       "description": "Arabic geographers, writing from reports by merchants and travellers, describe the Ghanaian king as the center of a court with officials, interpreters, guards, and petitioners. Their accounts also describe tribute and payments that tie subject rulers and commercial communities to the royal center. These texts are invaluable but are not direct observation of every part of the kingdom. Ghana is therefore better understood as a layered network of authority than as a uniformly governed territory with modern borders. The evidence shows a court able to make long-distance trade and political allegiance reinforce one another.",
       "description_ru": "Арабские географы, писавшие по рассказам купцов и путешественников, описывают правителя Ганы как центр двора с чиновниками, переводчиками, стражей и просителями. Их сообщения также говорят о дани и платежах, связывавших зависимых правителей и торговые общины с царским центром. Эти тексты исключительно ценны, но не являются прямым наблюдением каждой части государства. Поэтому Гану правильнее понимать как многоуровневую сеть власти, а не как равномерно управляемую территорию с современными границами. Источники показывают двор, способный соединять дальнюю торговлю и политическую лояльность.",
+      "era": "AD",
       "latitude": 15.76556,
       "longitude": -7.96861,
+      "name": "The king's court in Arabic accounts",
+      "name_ru": "Царский двор в арабских сообщениях",
       "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
-      "tags": ["Ghana", "Administration", "Political", "Trade", "Economic", "Soninke"]
+      "tags": [
+        "Administration",
+        "Economic",
+        "Ghana",
+        "Political",
+        "Soninke",
+        "Trade"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.1000",
-      "era": "AD",
-      "type": "cultural",
-      "name": "Koumbi Saleh and Ghana's urban center",
-      "name_ru": "Кумби-Сале и городской центр Ганы",
-      "description": "Koumbi Saleh, in present-day southeastern Mauritania, is the settlement most often identified with Ghana's capital or principal royal center. Archaeologists found a large urban area with houses, wells, craft activity, mosques, and substantial stone buildings, although the exact relationship between the excavated ruins and the royal court remains debated. Medieval descriptions distinguish a royal settlement from a Muslim merchant settlement, but scholars debate how exactly those descriptions correspond to the excavated site. The city was a meeting point for local authorities, long-distance traders, artisans, and religious specialists. Its ruins are Ghana's most tangible urban legacy, even though they preserve only part of the medieval settlement.",
-      "description_ru": "Кумби-Сале на территории современной юго-восточной Мавритании — поселение, которое чаще всего отождествляют со столицей или главным царским центром Ганы. Археологи обнаружили обширную городскую зону с домами, колодцами, ремесленной деятельностью, мечетями и крупными каменными зданиями, хотя точная связь раскопанных руин с царским двором остаётся спорной. Средневековые описания различают царское поселение и поселение мусульманских купцов, но учёные спорят, насколько точно эти описания соответствуют раскопанному памятнику. Город был местом встречи местных властей, дальних торговцев, ремесленников и религиозных специалистов. Его руины — самое осязаемое городское наследие Ганы, хотя они сохраняют лишь часть средневекового поселения.",
-      "latitude": 15.76556,
-      "longitude": -7.96861,
-      "source": "https://en.wikipedia.org/wiki/Koumbi_Saleh",
-      "tags": ["Ghana", "Koumbi Saleh", "City", "Architecture", "Settlement", "Trade"]
-    },
-    {
-      "date": "01.01.1000",
-      "era": "AD",
-      "type": "cultural",
-      "name": "Muslim merchants beside the royal center",
-      "name_ru": "Мусульманские купцы рядом с царским центром",
       "description": "By the period described in medieval Arabic sources, Muslim merchants from North Africa and the Sahara have communities in Ghana's commercial towns. They bring Arabic literacy, legal practices, and links to wider Islamic markets, while the royal center is described as following older local religious traditions. The coexistence is one of Ghana's most distinctive features: Islam is important to trade without immediately replacing the ruler's ritual authority. Textual descriptions and archaeology point to Muslim religious life alongside non-Islamic royal and community practices. The evidence shows negotiation and coexistence, not a simple single conversion of the kingdom.",
       "description_ru": "К периоду, описанному средневековыми арабскими источниками, мусульманские купцы из Северной Африки и Сахары уже имеют общины в торговых городах Ганы. Они приносят арабскую письменность, правовые нормы и связи с более широкими исламскими рынками, тогда как царский центр описывается как сохраняющий старые местные религиозные традиции. Такое сосуществование — одна из самых самобытных черт Ганы: ислам важен для торговли, но не сразу заменяет ритуальную власть правителя. Текстовые описания и археология указывают на мусульманскую религиозную жизнь рядом с неисламскими царскими и общинными практиками. Данные говорят о переговорах и сосуществовании, а не об одном простом обращении всего царства.",
+      "era": "AD",
       "latitude": 15.76556,
       "longitude": -7.96861,
+      "name": "Muslim merchants beside the royal center",
+      "name_ru": "Мусульманские купцы рядом с царским центром",
       "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
-      "tags": ["Ghana", "Islam", "Religion", "Trade", "Culture", "Koumbi Saleh"]
+      "tags": [
+        "Culture",
+        "Ghana",
+        "Islam",
+        "Koumbi Saleh",
+        "Religion",
+        "Trade"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.1000",
-      "era": "AD",
-      "type": "military",
-      "name": "Military power in accounts of Ghana",
-      "name_ru": "Военная сила в сообщениях о Гане",
       "description": "Medieval Arabic accounts portray Ghana's ruler as commanding a large military force, including archers. Their figures are difficult to verify and may be conventional exaggerations, so they should not be treated as a census of the army. The accounts do show that military capacity formed part of royal prestige and helped sustain political authority. Control of routes, wells, crossings, and market approaches was likely more important than the image of a permanently mobilized mass army. Military power supported Ghana's economic system by making tribute, taxation, and safe passage credible.",
       "description_ru": "Средневековые арабские сообщения изображают правителя Ганы командующим крупной военной силой, в том числе лучниками. Приведённые ими цифры трудно проверить, и они могут быть обычными преувеличениями, поэтому их нельзя считать переписью армии. Однако источники показывают, что военные возможности были частью царского престижа и поддерживали политическую власть. Контроль над дорогами, колодцами, переправами и подходами к рынкам, вероятно, был важнее образа постоянно мобилизованной огромной армии. Военная сила поддерживала экономическую систему Ганы, делая дань, налогообложение и безопасный проезд убедительными.",
+      "era": "AD",
       "latitude": 15.76556,
       "longitude": -7.96861,
+      "name": "Military power in accounts of Ghana",
+      "name_ru": "Военная сила в сообщениях о Гане",
       "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
-      "tags": ["Ghana", "Military", "War", "Trade", "Administration", "Sahel"]
+      "tags": [
+        "War",
+        "Administration",
+        "Ghana",
+        "Military",
+        "Sahel",
+        "Trade"
+      ],
+      "type": "military"
     },
     {
-      "date": "01.01.1068",
+      "date": "01.01.1000",
+      "description": "Koumbi Saleh, in present-day southeastern Mauritania, is the settlement most often identified with Ghana's capital or principal royal center. Archaeologists found a large urban area with houses, wells, craft activity, mosques, and substantial stone buildings, although the exact relationship between the excavated ruins and the royal court remains debated. Medieval descriptions distinguish a royal settlement from a Muslim merchant settlement, but scholars debate how exactly those descriptions correspond to the excavated site. The city was a meeting point for local authorities, long-distance traders, artisans, and religious specialists. Its ruins are Ghana's most tangible urban legacy, even though they preserve only part of the medieval settlement.",
+      "description_ru": "Кумби-Сале на территории современной юго-восточной Мавритании — поселение, которое чаще всего отождествляют со столицей или главным царским центром Ганы. Археологи обнаружили обширную городскую зону с домами, колодцами, ремесленной деятельностью, мечетями и крупными каменными зданиями, хотя точная связь раскопанных руин с царским двором остаётся спорной. Средневековые описания различают царское поселение и поселение мусульманских купцов, но учёные спорят, насколько точно эти описания соответствуют раскопанному памятнику. Город был местом встречи местных властей, дальних торговцев, ремесленников и религиозных специалистов. Его руины — самое осязаемое городское наследие Ганы, хотя они сохраняют лишь часть средневекового поселения.",
       "era": "AD",
-      "type": "historic",
-      "name": "Al-Bakri records Ghana's commercial reputation",
-      "name_ru": "Аль-Бакри фиксирует торговую славу Ганы",
-      "description": "In 1068, the geographer al-Bakri records Ghana as one of the most prominent states known to the Arabic-speaking world. He writes from earlier reports rather than personal travel, so his work is a valuable but mediated source. His account places Ghana at the meeting point of Saharan caravans, gold-producing lands, and agricultural communities to the south. It helps explain why the empire is remembered above all as a commercial power. Farming, herding, craft production, tribute, and trade together made that commercial role possible.",
-      "description_ru": "В 1068 году географ Аль-Бакри описывает Гану как одно из самых заметных государств, известных арабоязычному миру. Он писал на основе более ранних сообщений, а не личного путешествия, поэтому его труд является ценным, но опосредованным источником. Его рассказ помещает Гану на пересечении сахаранских караванов, золотоносных земель и земледельческих общин к югу. Он помогает понять, почему империю помнят прежде всего как торговую державу. Земледелие, скотоводство, ремесло, дань и торговля вместе обеспечивали эту коммерческую роль.",
       "latitude": 15.76556,
       "longitude": -7.96861,
-      "source": "https://en.wikipedia.org/wiki/Al-Bakri",
-      "tags": ["Ghana", "Trade", "Gold", "Salt", "Economic", "Sahel"]
+      "name": "Koumbi Saleh and Ghana's urban center",
+      "name_ru": "Кумби-Сале и городской центр Ганы",
+      "source": "https://en.wikipedia.org/wiki/Koumbi_Saleh",
+      "tags": [
+        "City",
+        "Architecture",
+        "Ghana",
+        "Koumbi Saleh",
+        "Settlement",
+        "Trade"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1000",
+      "description": "Ghana becomes famous because it stands between Saharan salt and southern gold. Gold comes from regions south of the core kingdom, often identified with the Bambuk and Bouré zones, while salt travels south from desert mines and oases. The state does not necessarily own every mine; its advantage is taxing, protecting, and regulating the movement of valuable goods. Arabic writers emphasize the wealth of the king, but they do not provide a complete balance sheet of the economy. The gold–salt exchange is nevertheless the empire's most distinctive historical signature and the foundation of its international reputation.",
+      "description_ru": "Гана прославляется благодаря положению между сахаранской солью и южным золотом. Золото поступает из районов южнее ядра государства, которые часто связывают с областями Бамбук и Буре, а соль движется на юг от пустынных рудников и оазисов. Государство не обязательно владеет каждым рудником; его преимущество состоит в обложении пошлинами, защите и регулировании движения ценных товаров. Арабские авторы подчёркивают богатство царя, но не дают полной экономической отчётности. Тем не менее обмен золота на соль остаётся самым характерным историческим признаком империи и основой её международной славы.",
+      "era": "AD",
+      "latitude": 15.76556,
+      "longitude": -7.96861,
+      "name": "Gold and salt make Ghana famous",
+      "name_ru": "Золото и соль прославляют Гану",
+      "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
+      "tags": [
+        "Economic",
+        "Ghana",
+        "Gold",
+        "Sahel",
+        "Salt",
+        "Trade"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1000",
+      "description": "Medieval accounts portray the Ghanaian ruler as receiving revenue from goods that pass through the kingdom. Gold is especially important because the court can tax its movement while keeping the producing zones at a political distance. A royal treasury converts commercial flows into gifts, military resources, diplomatic power, and support for the court. The famous image of a king surrounded by gold is therefore not just personal wealth; it reflects a fiscal system built on controlled circulation. The exact tax rates and procedures remain unknown, so the mechanism should not be reconstructed more precisely than the sources allow.",
+      "description_ru": "Средневековые источники изображают правителя Ганы получающим доход с товаров, проходящих через государство. Золото особенно важно, поскольку двор может облагать его движение, сохраняя золотоносные районы на политическом расстоянии. Царская казна превращает торговые потоки в подарки, военные ресурсы, дипломатическое влияние и содержание двора. Знаменитый образ царя, окружённого золотом, поэтому означает не только личное богатство, но и финансовую систему, основанную на контролируемом обороте. Точные ставки и процедуры неизвестны, и механизм нельзя восстанавливать точнее, чем позволяют источники.",
+      "era": "AD",
+      "latitude": 15.76556,
+      "longitude": -7.96861,
+      "name": "Gold taxation and the royal treasury",
+      "name_ru": "Налогообложение золота и царская казна",
+      "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
+      "tags": [
+        "Administration",
+        "Economic",
+        "Ghana",
+        "Gold",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1000",
+      "description": "Ghana's political geography includes a royal center, market towns, farming villages, caravan stations, and communities along resource routes. Koumbi Saleh is the best-known site, but it should not be mistaken for the whole empire. Authority is likely strongest where roads, wells, tribute, and commercial exchange intersect. Local communities continue to produce food and manage land while participating in a wider imperial system. This distributed structure helps explain both Ghana's reach and the difficulty of tracing its exact borders archaeologically.",
+      "description_ru": "Политическая география Ганы включает царский центр, рыночные города, земледельческие деревни, караванные станции и общины вдоль ресурсных дорог. Кумби-Сале — самый известный памятник, но его нельзя принимать за всю империю. Власть, вероятно, сильнее всего там, где пересекаются дороги, колодцы, дань и торговый обмен. Местные общины продолжают производить пищу и распоряжаться землёй, участвуя при этом в более широкой имперской системе. Такая распределённая структура объясняет и размах Ганы, и трудность археологически определить её точные границы.",
+      "era": "AD",
+      "latitude": 15.76556,
+      "longitude": -7.96861,
+      "name": "A settlement network rather than one city",
+      "name_ru": "Сеть поселений, а не один город",
+      "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
+      "tags": [
+        "Administration",
+        "Ghana",
+        "Political",
+        "Settlement",
+        "Trade"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.1050",
-      "era": "AD",
-      "type": "political",
-      "name": "Layered authority across the empire",
-      "name_ru": "Многоуровневая власть по всей империи",
       "description": "Arabic accounts portray Ghana as a kingdom whose ruler receives tribute and commands recognition from other authorities. They do not provide a detailed administrative map, so the exact status of every community or ruler remains uncertain. The evidence nevertheless points to power mediated through local authority, commercial routes, and payments rather than through a dense bureaucracy. This arrangement can extend influence across a large region while leaving substantial local autonomy in place. Ghana's political form is therefore best understood as layered and negotiated, not as a uniform administrative grid.",
       "description_ru": "Арабские источники изображают Гану как царство, правитель которого получает дань и пользуется признанием со стороны других властей. Они не дают подробной административной карты, поэтому точный статус каждой общины или правителя остаётся неопределённым. Тем не менее данные указывают на власть, опосредованную местными руководителями, торговыми путями и платежами, а не плотной бюрократией. Такое устройство позволяло распространять влияние на большую территорию, сохраняя значительную местную автономию. Поэтому политическую форму Ганы лучше понимать как многоуровневую и договорную, а не как единообразную административную сетку.",
+      "era": "AD",
       "latitude": 15.76556,
       "longitude": -7.96861,
+      "name": "Layered authority across the empire",
+      "name_ru": "Многоуровневая власть по всей империи",
       "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
-      "tags": ["Ghana", "Administration", "Political", "Trade", "Economic"]
+      "tags": [
+        "Administration",
+        "Economic",
+        "Ghana",
+        "Political",
+        "Trade"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.1068",
+      "description": "In 1068, the geographer al-Bakri records Ghana as one of the most prominent states known to the Arabic-speaking world. He writes from earlier reports rather than personal travel, so his work is a valuable but mediated source. His account places Ghana at the meeting point of Saharan caravans, gold-producing lands, and agricultural communities to the south. It helps explain why the empire is remembered above all as a commercial power. Farming, herding, craft production, tribute, and trade together made that commercial role possible.",
+      "description_ru": "В 1068 году географ Аль-Бакри описывает Гану как одно из самых заметных государств, известных арабоязычному миру. Он писал на основе более ранних сообщений, а не личного путешествия, поэтому его труд является ценным, но опосредованным источником. Его рассказ помещает Гану на пересечении сахаранских караванов, золотоносных земель и земледельческих общин к югу. Он помогает понять, почему империю помнят прежде всего как торговую державу. Земледелие, скотоводство, ремесло, дань и торговля вместе обеспечивали эту коммерческую роль.",
       "era": "AD",
-      "type": "religious",
-      "name": "Royal ritual and distance in al-Bakri's account",
-      "name_ru": "Царский ритуал и дистанция в рассказе Аль-Бакри",
-      "description": "Al-Bakri presents the Ghanaian king as a ruler whose public presence is carefully controlled by ceremony, guards, and formal audiences. Such descriptions may contain literary conventions, but they communicate a real political principle: royal distance turns wealth and authority into visible institutions. The king's ritual world is presented separately from the Muslim merchants who live and worship nearby. This separation does not mean that the two communities never interact; it shows that court legitimacy and commercial religion occupy different social roles. Ghana's uniqueness lies partly in holding these spheres together without making them identical.",
-      "description_ru": "Аль-Бакри представляет правителя Ганы как царя, чьё публичное присутствие строго регулируется церемониями, стражей и официальными приёмами. В таких описаниях могут быть литературные шаблоны, но они передают реальный политический принцип: царская дистанция превращает богатство и власть в видимые институты. Ритуальный мир царя показан отдельно от мусульманских купцов, живущих и молящихся рядом. Это не означает, что две общины никогда не взаимодействуют; скорее, придворная легитимность и торговая религия занимают разные социальные роли. Уникальность Ганы отчасти состоит в том, что она удерживает эти сферы вместе, не отождествляя их.",
       "latitude": 15.76556,
       "longitude": -7.96861,
+      "name": "Al-Bakri records Ghana's commercial reputation",
+      "name_ru": "Аль-Бакри фиксирует торговую славу Ганы",
       "source": "https://en.wikipedia.org/wiki/Al-Bakri",
-      "tags": ["Ghana", "Religion", "Political", "Culture", "Administration"]
+      "tags": [
+        "Economic",
+        "Ghana",
+        "Gold",
+        "Sahel",
+        "Salt",
+        "Trade"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1068",
+      "description": "Al-Bakri presents the Ghanaian king as a ruler whose public presence is carefully controlled by ceremony, guards, and formal audiences. Such descriptions may contain literary conventions, but they communicate a real political principle: royal distance turns wealth and authority into visible institutions. The king's ritual world is presented separately from the Muslim merchants who live and worship nearby. This separation does not mean that the two communities never interact; it shows that court legitimacy and commercial religion occupy different social roles. Ghana's uniqueness lies partly in holding these spheres together without making them identical.",
+      "description_ru": "Аль-Бакри представляет правителя Ганы как царя, чьё публичное присутствие строго регулируется церемониями, стражей и официальными приёмами. В таких описаниях могут быть литературные шаблоны, но они передают реальный политический принцип: царская дистанция превращает богатство и власть в видимые институты. Ритуальный мир царя показан отдельно от мусульманских купцов, живущих и молящихся рядом. Это не означает, что две общины никогда не взаимодействуют; скорее, придворная легитимность и торговая религия занимают разные социальные роли. Уникальность Ганы отчасти состоит в том, что она удерживает эти сферы вместе, не отождествляя их.",
+      "era": "AD",
+      "latitude": 15.76556,
+      "longitude": -7.96861,
+      "name": "Royal ritual and distance in al-Bakri's account",
+      "name_ru": "Царский ритуал и дистанция в рассказе Аль-Бакри",
+      "source": "https://en.wikipedia.org/wiki/Al-Bakri",
+      "tags": [
+        "Administration",
+        "Culture",
+        "Ghana",
+        "Political",
+        "Religion"
+      ],
+      "type": "religious"
     },
     {
       "date": "01.01.1076",
-      "era": "AD",
-      "type": "military",
-      "name": "The debated Almoravid episode",
-      "name_ru": "Спорный эпизод с Альморавидами",
       "description": "Later histories often state that Almoravid forces conquered Koumbi Saleh in 1076 and destroyed the Ghana Empire. The Almoravids certainly expanded across the western Sahara and changed the politics of the region, but the evidence for a complete conquest of Ghana and a single catastrophic sack is uncertain. Some archaeological and textual interpretations suggest pressure, conflict, or a temporary intervention rather than total destruction. Ghana continues to appear in sources after 1076, which argues against a simple one-day collapse. The episode is best presented as a turning point in a period of political and commercial stress, not as an unquestioned final conquest.",
       "description_ru": "Позднейшие исторические труды часто утверждают, что в 1076 году войска Альморавидов завоевали Кумби-Сале и разрушили империю Гана. Альморавиды действительно расширялись по западной Сахаре и меняли политическую ситуацию региона, но свидетельства полного завоевания Ганы и одного катастрофического разграбления неубедительны. Некоторые археологические и текстовые интерпретации говорят скорее о давлении, конфликтах или временном вмешательстве, чем о полном уничтожении. Гана продолжает появляться в источниках и после 1076 года, что противоречит простой версии внезапного краха. Поэтому этот эпизод лучше считать поворотом в период политического и торгового напряжения, а не бесспорным окончательным завоеванием.",
+      "era": "AD",
       "latitude": 15.76556,
       "longitude": -7.96861,
+      "name": "The debated Almoravid episode",
+      "name_ru": "Спорный эпизод с Альморавидами",
       "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
-      "tags": ["Ghana", "Military", "War", "Islam", "Decline", "Political"]
+      "tags": [
+        "War",
+        "Decline",
+        "Ghana",
+        "Islam",
+        "Military",
+        "Political"
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.1150",
-      "era": "AD",
-      "type": "political",
-      "name": "Fragmentation and the end of imperial power",
-      "name_ru": "Дробление и конец имперской власти",
       "description": "By the twelfth century, Ghana's authority is weakening as trade routes shift, rival centers grow, and local rulers become harder to control. Environmental pressure in the Sahel may have affected water and pasture, but climate alone cannot explain the political transformation. The empire also faces competition from Sosso and other rising powers in the western Sudan. Koumbi Saleh does not simply vanish at one known date; settlement and political importance decline through a longer process. The end of Ghana is therefore a reorganization of regional power rather than the disappearance of Soninke society.",
       "description_ru": "К XII веку власть Ганы ослабевает: торговые дороги меняются, соперничающие центры растут, а местных правителей становится труднее контролировать. Экологическое давление в Сахеле могло влиять на воду и пастбища, но один климат не объясняет политическую перестройку. Империя также сталкивается с конкуренцией со стороны Соссо и других возвышающихся держав Западного Судана. Кумби-Сале не исчезает в одну точно известную дату: его заселение и политическое значение уменьшаются постепенно. Поэтому конец Ганы — это перестройка региональной власти, а не исчезновение общества сонинке.",
+      "era": "AD",
       "latitude": 15.76556,
       "longitude": -7.96861,
+      "name": "Fragmentation and the end of imperial power",
+      "name_ru": "Дробление и конец имперской власти",
       "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
-      "tags": ["Ghana", "Decline", "Political", "Trade", "Settlement", "War"]
+      "tags": [
+        "War",
+        "Decline",
+        "Ghana",
+        "Political",
+        "Settlement",
+        "Trade"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.1200",
-      "era": "AD",
-      "type": "political",
-      "name": "Sosso and the changing western Sudan",
-      "name_ru": "Соссо и меняющийся Западный Судан",
       "description": "As Ghana's authority contracts, new centers of power compete for the routes and communities of the western Sudan. Sosso becomes one of the important political forces in the period between Ghana and the rise of Mali. This is not a simple replacement in which every Ghanaian institution changes hands at once. Trade routes, towns, local dynasties, and Soninke communities continue through the transition in different forms. The post-Ghana landscape is therefore a field of overlapping successor powers rather than an empty interval before Mali.",
       "description_ru": "Когда власть Ганы сокращается, новые центры соперничают за дороги и общины Западного Судана. Соссо становится одной из важных политических сил периода между Ганой и возвышением Мали. Это не простая замена, при которой все институты Ганы сразу переходят к новому владельцу. Торговые пути, города, местные династии и общины сонинке продолжаются в разных формах. Поэтому пространство после Ганы представляет собой совокупность пересекающихся держав-преемниц, а не пустой промежуток перед появлением Мали.",
+      "era": "AD",
       "latitude": 15.76556,
       "longitude": -7.96861,
+      "name": "Sosso and the changing western Sudan",
+      "name_ru": "Соссо и меняющийся Западный Судан",
       "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
-      "tags": ["Ghana", "Decline", "Political", "Trade", "Legacy"]
+      "tags": [
+        "Decline",
+        "Ghana",
+        "Legacy",
+        "Political",
+        "Trade"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.1235",
-      "era": "AD",
-      "type": "political",
-      "name": "Soninke networks after Ghana",
-      "name_ru": "Сети сонинке после Ганы",
       "description": "After Ghana's imperial system breaks apart, Soninke communities remain active across the western Sahel. Some political traditions and trade routes are absorbed by Sosso and then by the expanding Mali Empire, while other groups establish or preserve local kingdoms and merchant networks. The relationship between Ghana and later Mali is succession within a shared regional world, not a simple transfer of one capital and dynasty. Soninke dispersal also carries language, commercial skills, and memories of Wagadou far beyond the former imperial core. Ghana's most durable legacy is therefore a people-centered network of institutions and stories, not a surviving monument alone.",
       "description_ru": "После распада имперской системы Ганы общины сонинке продолжают действовать по всему западному Сахелю. Часть политических традиций и торговых дорог поглощают Соссо, а затем расширяющаяся империя Мали; другие группы создают или сохраняют местные царства и купеческие сети. Связь Ганы с последующей Мали — это преемственность в общем региональном мире, а не простой перенос одной столицы и династии. Расселение сонинке также переносит язык, торговые навыки и память о Вагаду далеко за пределы прежнего имперского ядра. Поэтому самое долговечное наследие Ганы — сеть институтов и преданий, связанная с народом, а не только сохранившийся памятник.",
+      "era": "AD",
       "latitude": 15.76556,
       "longitude": -7.96861,
+      "name": "Soninke networks after Ghana",
+      "name_ru": "Сети сонинке после Ганы",
       "source": "https://en.wikipedia.org/wiki/Soninke_people",
-      "tags": ["Ghana", "Soninke", "Legacy", "Migration", "Political", "Trade"]
+      "tags": [
+        "Ghana",
+        "Legacy",
+        "Migration",
+        "Political",
+        "Soninke",
+        "Trade"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.1300",
-      "era": "AD",
-      "type": "cultural",
-      "name": "What Ghana left to West African history",
-      "name_ru": "Наследие Ганы в истории Западной Африки",
       "description": "Ghana leaves a model of Sahelian statecraft in which a royal court, tribute, protected routes, and plural urban communities reinforce one another. Its fame fixes the gold–salt economy in world history, even though later empires expand and reorganize the same commercial zones. The memory of Wagadou survives in Soninke oral traditions, while the political geography of the western Sudan helps shape the rise of Mali. Archaeological remains at Koumbi Saleh preserve evidence of urban life, craft, wells, mosques, and long-distance exchange. Ghana is unique not because it was the only early West African state, but because it is the first one described in detail by external written sources and remembered locally as a royal civilization.",
       "description_ru": "Гана оставляет модель сахельской государственности, в которой царский двор, дань, охраняемые дороги и многообразные городские общины поддерживают друг друга. Её слава закрепляет обмен золота на соль в мировой истории, хотя позднейшие империи расширяют и перестраивают те же торговые зоны. Память о Вагаду сохраняется в устных традициях сонинке, а политическая география Западного Судана помогает возникновению Мали. Археологические остатки Кумби-Сале хранят свидетельства городской жизни, ремесла, колодцев, мечетей и дальнего обмена. Гана уникальна не тем, что была единственным ранним государством Западной Африки, а тем, что стала первым подробно описанным внешними письменными источниками и локально запомнившимся царским обществом региона.",
+      "era": "AD",
       "latitude": 15.76556,
       "longitude": -7.96861,
+      "name": "What Ghana left to West African history",
+      "name_ru": "Наследие Ганы в истории Западной Африки",
       "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
-      "tags": ["Ghana", "Legacy", "Gold", "Salt", "City", "Culture"]
+      "tags": [
+        "City",
+        "Culture",
+        "Ghana",
+        "Gold",
+        "Legacy",
+        "Salt"
+      ],
+      "type": "cultural"
     }
-  ]
+  ],
+  "filename": "AD1_ghana_empire.json"
 }

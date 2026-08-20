@@ -1,5 +1,5 @@
 {
-  "filename": "datasets/craft/wine.json",
+  "filename": "wine.json",
   "description": "History of winemaking from the earliest evidence of grape cultivation to the modern wine world — covering the South Caucasus origins, ancient Mediterranean trade, monastic viticulture, regional appellations, the New World, the phylloxera catastrophe, and the science and criticism that transformed the industry.",
   "events": [
     {
