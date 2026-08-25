@@ -693,13 +693,19 @@ export default {
     const savedVisibleCount = ref(0)
 
     const handleShowDetail = (event) => {
-      // Save scroll position and loaded count before closing
+      // Save scroll position and loaded count before closing.
+      // Deliberately do NOT call closeModal() here: the parent awaits the
+      // event detail fetch before opening EventDetailModal, and closing
+      // this modal immediately (before that resolves) leaves a gap where
+      // neither modal is open, flashing the darkened backdrop off and back
+      // on. The parent closes this modal in the same tick it opens the
+      // detail modal (see EventsGrid's handleTimelineShowDetail), so the
+      // overlay stays continuously dark across the transition.
       if (scrollContainer.value) {
         savedScrollPosition.value = scrollContainer.value.scrollTop
       }
       savedVisibleCount.value = visibleCount.value
       emit('show-detail', event)
-      closeModal()
     }
 
 
