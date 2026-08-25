@@ -1025,7 +1025,7 @@ export default {
       this.show_event_modal = true
     },
     
-    add_event_markers() {      
+    add_event_markers() {
       // Clear existing markers first - more robust cleanup
       if (this.marker_cluster_group) {
         // Clear all layers from the cluster group
@@ -1100,9 +1100,18 @@ export default {
             // batch (e.g. thousands of events) is being clustered.
             chunkedLoading: true,
             chunkProgress: (processed, total) => {
+              // NOTE: this fires for EVERY addLayers() call made against this
+              // group for its whole lifetime — including the internal empty
+              // "priming" addLayers(([], true)) that onAdd() issues when the
+              // group is first attached to the map (see below). That priming
+              // call reports total === 0, which used to be (wrongly) treated
+              // as "all done" and cleared the loading overlay instantly, before
+              // the real batch of thousands of markers was ever added. Only the
+              // real batch (total > 0) should be able to clear the overlay.
+              if (total === 0) return
               did_start_chunked_load = true
-              this.markers_loading_progress = total > 0 ? Math.round((processed / total) * 100) : 100
-              if (total === 0 || processed >= total) {
+              this.markers_loading_progress = Math.round((processed / total) * 100)
+              if (processed >= total) {
                 this.markers_loading = false
                 this.markers_loading_progress = 0
               }
@@ -1267,7 +1276,18 @@ export default {
               this.show_events_info(clusterEvents)
             }
           })
-          
+
+          // Add the (still-empty) group to the map BEFORE bulk-inserting markers.
+          // leaflet.markercluster's addLayers() only takes its real chunked,
+          // setTimeout-yielding code path when the group already has a map
+          // (internally: `if (this._map) { ...chunked... } else { queue only }`).
+          // Calling addLayers() first and map.addLayer() after — as this used to
+          // do — meant markers were merely queued (no chunking), and ALL the
+          // actual clustering work then ran synchronously inside this map.addLayer()
+          // call instead, defeating chunkedLoading and blocking the main thread
+          // for the whole batch in one go.
+          this.map.addLayer(this.marker_cluster_group)
+
           // Group events by location (same coordinates)
           const locationGroups = this.group_events_by_location(this.events)
           
@@ -1326,10 +1346,21 @@ export default {
             this.markers.push(marker)
           })
           
-          // Single batch insert — chunkedLoading spreads the actual work across
-          // frames; chunkProgress (above) clears markers_loading when it's done.
-          this.marker_cluster_group.addLayers(markersToAdd)
-          this.map.addLayer(this.marker_cluster_group)
+          if (markersToAdd.length === 0) {
+            // Nothing to cluster (e.g. all events lacked valid coordinates) —
+            // chunkProgress ignores total === 0 calls (see above), so nothing
+            // else will clear the overlay; do it here instead.
+            did_start_chunked_load = true
+            this.markers_loading = false
+            this.markers_loading_progress = 0
+          } else {
+            // Single batch insert. Since the group is already on the map (see
+            // above), this now takes leaflet.markercluster's real chunked code
+            // path: it processes markers for up to chunkInterval (200ms), yields
+            // back to the browser via setTimeout, then continues — chunkProgress
+            // (above) tracks progress and clears markers_loading once done.
+            this.marker_cluster_group.addLayers(markersToAdd)
+          }
         } catch (error) {
           console.error('Error adding markers:', error)
         }
