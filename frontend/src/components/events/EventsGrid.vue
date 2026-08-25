@@ -300,27 +300,31 @@ export default {
       this.isBackNavigation = false
       this.timelineModalOpen = true
     },
-    openEventDetail(event, source = null) {
+    async openEventDetail(event, source = null) {
+      // Events arrive lean (no description) — fill it in on demand BEFORE
+      // opening the modal. Awaiting first avoids a visible pop-in/layout
+      // shift where the modal opens empty and then snaps to full height
+      // once the description/tags arrive a moment later. Already-loaded
+      // events resolve this instantly (no network round trip).
+      await this.ensureEventDetails([event.id])
       this.selectedDetailEvent = event
       this.navigationSource = source
       this.eventDetailModalOpen = true
-      // Events arrive lean (no description) — fill it in on demand.
-      this.ensureEventDetails([event.id])
     },
     closeEventDetail() {
       this.eventDetailModalOpen = false
       this.navigationSource = null
     },
-    handleSelectRelatedEvent(event) {
+    async handleSelectRelatedEvent(event) {
+      await this.ensureEventDetails([event.id])
       this.selectedDetailEvent = event
-      this.ensureEventDetails([event.id])
     },
-    handleTimelineShowDetail(event) {
+    async handleTimelineShowDetail(event) {
+      await this.ensureEventDetails([event.id])
       this.selectedDetailEvent = event
       this.navigationSource = 'timeline'
       this.timelineModalOpen = false
       this.eventDetailModalOpen = true
-      this.ensureEventDetails([event.id])
     },
     handleDetailTagClicked(tag) {
       this.$emit('tag-clicked', tag)

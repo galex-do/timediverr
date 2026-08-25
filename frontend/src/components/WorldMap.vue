@@ -2014,12 +2014,17 @@ export default {
       // Close the modal after clicking a tag for immediate visual feedback
       this.close_event_info_modal()
     },
-    handle_show_detail(event) {
+    async handle_show_detail(event) {
       this.location_events_backup = [...this.selected_events]
       if (this.$refs.locationModalContent) {
         this.location_scroll_backup = this.$refs.locationModalContent.scrollTop
       }
       this.location_visible_count_backup = this.location_visible_count
+      // Fetch full details (description/bilingual names) before switching
+      // modals. Keeping the location modal open during the fetch avoids
+      // both a jarring "pop-in" once the detail modal already shows and a
+      // blank flash between the two modals closing/opening.
+      await this.ensureEventDetails([event.id])
       this.$emit('show-detail', { event, source: 'location' })
       this.show_event_info_modal = false
       this.selected_events = []
