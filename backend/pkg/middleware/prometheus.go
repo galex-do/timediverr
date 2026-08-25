@@ -63,5 +63,13 @@ func Prometheus(next http.Handler) http.Handler {
 
 		metrics.HttpRequestsTotal.WithLabelValues(r.Method, normalizedPath, status).Inc()
 		metrics.HttpRequestDuration.WithLabelValues(r.Method, normalizedPath).Observe(duration)
+
+		if rw.statusCode >= 400 {
+			errorType := "client_error"
+			if rw.statusCode >= 500 {
+				errorType = "server_error"
+			}
+			metrics.ApiErrorsTotal.WithLabelValues(errorType, normalizedPath).Inc()
+		}
 	})
 }
