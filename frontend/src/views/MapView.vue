@@ -44,6 +44,7 @@
             @map-filter-toggle="handleMapFilterToggle"
             @tag-clicked="handleTagClick"
             @remove-tag="handleRemoveTag"
+            @toggle-tag-negative="handleToggleTagNegative"
             @clear-all-tags="handleClearAllTags"
             @toggle-follow="handleToggleNarrativeFlow"
             @focus-on-filtered="handleFocusOnFiltered"
@@ -177,7 +178,8 @@ export default {
       closeLensDropdown,
       addTag,
       removeTag,
-      clearTags
+      clearTags,
+      toggleTagNegative
     } = useFilters()
 
     const {
@@ -435,6 +437,11 @@ export default {
       applyFilters()
     }
 
+    const handleToggleTagNegative = (tagId) => {
+      toggleTagNegative(tagId)
+      applyFilters()
+    }
+
     const handleExpandDateRange = ({ fromDisplay, toDisplay }) => {
       updateDateFrom(fromDisplay)
       updateDateTo(toDisplay)
@@ -601,6 +608,7 @@ export default {
       handleGeolocate,
       handleTagClick,
       handleRemoveTag,
+      handleToggleTagNegative,
       handleClearAllTags,
       handleExpandDateRange,
       handleToggleNarrativeFlow,

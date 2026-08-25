@@ -150,9 +150,9 @@ export function useFilters() {
   }
 
   // Tag filtering methods
-  const addTag = (tag) => {
+  const addTag = (tag, negative = false) => {
     if (!selectedTags.value.find(t => t.id === tag.id)) {
-      selectedTags.value = [...selectedTags.value, tag]
+      selectedTags.value = [...selectedTags.value, { ...tag, negative }]
     }
   }
 
@@ -162,6 +162,13 @@ export function useFilters() {
 
   const clearTags = () => {
     selectedTags.value = []
+  }
+
+  // Toggle a selected tag between positive ("must have") and negative ("must not have")
+  const toggleTagNegative = (tagId) => {
+    selectedTags.value = selectedTags.value.map(t =>
+      t.id === tagId ? { ...t, negative: !t.negative } : t
+    )
   }
 
   return {
@@ -185,6 +192,7 @@ export function useFilters() {
     closeLensDropdown,
     addTag,
     removeTag,
-    clearTags
+    clearTags,
+    toggleTagNegative
   }
 }

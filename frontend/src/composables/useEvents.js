@@ -241,7 +241,8 @@ export function useEvents() {
         const eventTags = event.tags || []
         let ok = true
         for (const sel of selectedTags) {
-          if (!eventTags.some(t => t.id === sel.id)) { ok = false; break }
+          const hasTag = eventTags.some(t => t.id === sel.id)
+          if (sel.negative ? hasTag : !hasTag) { ok = false; break }
         }
         if (!ok) continue
       }

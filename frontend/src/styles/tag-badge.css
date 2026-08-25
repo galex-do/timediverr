@@ -58,3 +58,35 @@
   background: rgba(255, 255, 255, 0.5);
   transform: scale(1.1);
 }
+
+.event_tag_badge_removable .toggle_negative_btn {
+  background: rgba(255, 255, 255, 0.3);
+  border: none;
+  color: inherit;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 700;
+  line-height: 1;
+  transition: all 0.2s;
+  padding: 0;
+}
+
+.event_tag_badge_removable .toggle_negative_btn:hover {
+  background: rgba(255, 255, 255, 0.5);
+  transform: scale(1.1);
+}
+
+.event_tag_badge_removable .toggle_negative_btn.is_negative {
+  background: #dc2626;
+  color: #ffffff;
+}
+
+.event_tag_badge_removable .toggle_negative_btn.is_negative:hover {
+  background: #b91c1c;
+}

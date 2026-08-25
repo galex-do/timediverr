@@ -38,8 +38,12 @@ export function useUrlState(options = {}) {
     if (params.has(URL_PARAMS.TAGS)) {
       state.tagIds = params.get(URL_PARAMS.TAGS)
         .split(',')
-        .map(id => parseInt(id, 10))
-        .filter(id => !isNaN(id) && id > 0 && id < 1000000)
+        .map(raw => {
+          const negative = raw.startsWith('-')
+          const id = parseInt(negative ? raw.substring(1) : raw, 10)
+          return { id, negative }
+        })
+        .filter(({ id }) => !isNaN(id) && id > 0 && id < 1000000)
     }
     if (params.has(URL_PARAMS.LAT) && params.has(URL_PARAMS.LNG)) {
       const lat = parseFloat(params.get(URL_PARAMS.LAT))
@@ -68,10 +72,10 @@ export function useUrlState(options = {}) {
     }
     if (state.tagIds && state.tagIds.length > 0 && availableTags && addTag && clearTags) {
       clearTags()
-      state.tagIds.forEach(tagId => {
-        const tag = availableTags.find(t => t.id === tagId)
+      state.tagIds.forEach(({ id, negative }) => {
+        const tag = availableTags.find(t => t.id === id)
         if (tag) {
-          addTag(tag)
+          addTag(tag, negative)
         }
       })
     }
@@ -91,7 +95,7 @@ export function useUrlState(options = {}) {
       params.set(URL_PARAMS.DATE_TO, dateToDisplay.value)
     }
     if (selectedTags?.value && selectedTags.value.length > 0) {
-      const tagIds = selectedTags.value.map(t => t.id).join(',')
+      const tagIds = selectedTags.value.map(t => `${t.negative ? '-' : ''}${t.id}`).join(',')
       params.set(URL_PARAMS.TAGS, tagIds)
     }
     if (mapState) {
