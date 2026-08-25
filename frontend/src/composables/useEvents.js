@@ -105,8 +105,14 @@ export function useEvents() {
     } catch (err) {
       console.error('Error fetching events:', err)
       error.value = err.message || 'Failed to fetch events'
-      events.value = []
-      filteredEvents.value = []
+      // Only blank the lists if we never had data (first load failing).
+      // A transient failure on a refetch (e.g. a 429 from the dev-domain
+      // rate limiter, or a dropped connection) shouldn't wipe events that
+      // were already showing on screen — keep them and just surface the error.
+      if (!eventsLoaded.value) {
+        events.value = []
+        filteredEvents.value = []
+      }
     } finally {
       loading.value = false
     }

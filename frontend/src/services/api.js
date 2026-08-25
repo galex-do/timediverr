@@ -29,7 +29,7 @@ class ApiService {
     return '/api'
   }
 
-  async makeRequest(endpoint, options = {}) {
+  async makeRequest(endpoint, options = {}, _retried = false) {
     try {
       const url = `${this.baseURL}${endpoint}`
       console.log(`Making API request to: ${url}`)
@@ -46,6 +46,18 @@ class ApiService {
       })
 
       if (!response.ok) {
+        // The dev-domain infra occasionally throttles bursts of requests
+        // with a 429. That's transient (not a real app error), so retry
+        // once after a short backoff instead of failing the whole request
+        // and, e.g., blanking a list on screen.
+        if (response.status === 429 && !_retried) {
+          const retryAfterHeader = parseFloat(response.headers.get('Retry-After'))
+          const delayMs = Number.isFinite(retryAfterHeader) ? retryAfterHeader * 1000 : 1500
+          console.warn(`Rate limited (429) for ${url} — retrying once in ${delayMs}ms`)
+          await new Promise(resolve => setTimeout(resolve, delayMs))
+          return this.makeRequest(endpoint, options, true)
+        }
+
         console.error(`HTTP error! status: ${response.status} for ${url}`)
         
         // Try to extract error message from response body

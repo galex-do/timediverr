@@ -223,7 +223,7 @@ export default {
     const route = useRoute()
     const { canAccessAdmin } = useAuth()
     const { allTags, loadTags, refreshTags, createTag, setEventTags, getTagsByIds } = useTags()
-    const { events, fetchEvents, loading, error, handleEventDeleted } = useEvents()
+    const { events, fetchEvents, loading, error, handleEventCreated, handleEventUpdated, handleEventDeleted } = useEvents()
     const { t, formatLocalizedDate } = useLocale()
     
     // Local filter state for admin panel (single-select)
@@ -654,7 +654,7 @@ export default {
       localError.value = null
       try {
         await apiService.deleteEvent(event.id)
-        await fetchEvents({ includeDescriptions: true }) // Refresh events list
+        handleEventDeleted(event.id)
         allEvents.value = events.value || []
         console.log('Event deleted successfully')
       } catch (err) {
@@ -779,20 +779,27 @@ export default {
         delete eventData.tag_ids
 
         if (editingEvent.value) {
-          await apiService.updateEvent(editingEvent.value.id, eventData)
+          const updatedEvent = await apiService.updateEvent(editingEvent.value.id, eventData)
           
           if (tag_ids.length > 0 || (editingEvent.value.tags && editingEvent.value.tags.length > 0)) {
             await apiService.setEventTags(editingEvent.value.id, tag_ids)
           }
+          
+          // Patch the event in place instead of re-fetching the entire
+          // (potentially thousands-strong) event list with full descriptions.
+          // Tags are resolved client-side from the already-cached tag catalog
+          // — no extra network round-trip needed.
+          handleEventUpdated({ ...updatedEvent, tags: getTagsByIds(tag_ids) })
         } else {
           const newEvent = await apiService.createEvent(eventData)
           
           if (tag_ids.length > 0) {
             await apiService.setEventTags(newEvent.id, tag_ids)
           }
+          
+          handleEventCreated({ ...newEvent, tags: getTagsByIds(tag_ids) })
         }
         
-        await fetchEvents({ includeDescriptions: true })
         allEvents.value = events.value || []
         closeModal()
         console.log('Event saved successfully')
@@ -814,7 +821,7 @@ export default {
       localError.value = null
       try {
         await apiService.deleteEvent(editingEvent.value.id)
-        await fetchEvents({ includeDescriptions: true })
+        handleEventDeleted(editingEvent.value.id)
         allEvents.value = events.value || []
         closeModal()
         console.log('Event deleted successfully')
