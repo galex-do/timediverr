@@ -78,13 +78,11 @@
           v-for="tag in selectedTags" 
           :key="tag.id"
           class="event_tag_badge_removable"
-          :class="{ 'is_negative': tag.negative }"
-          :style="getFilterTagStyle(tag)"
+          :style="getTagStyle(tag, { outerShadow: '0 1px 3px rgba(0, 0, 0, 0.15)' })"
         >
           <span class="tag_name">{{ tag.name }}</span>
           <button 
             class="toggle_negative_btn"
-            :class="{ 'is_negative': tag.negative }"
             @click="$emit('toggle-tag-negative', tag.id)"
             :title="tag.negative ? t('tagFilterModeExclude') : t('tagFilterModeInclude')"
           >
@@ -207,17 +205,6 @@ export default {
       return tag?.count || 0
     }
     
-    // Same as getTagStyle, but adds a red ring around negative ("must not have") filter chips
-    const getFilterTagStyle = (tag) => {
-      const style = getTagStyle(tag, { outerShadow: '0 1px 3px rgba(0, 0, 0, 0.15)' })
-      if (tag.negative) {
-        style.boxShadow = style.boxShadow
-          ? `0 0 0 2px #dc2626, ${style.boxShadow}`
-          : '0 0 0 2px #dc2626'
-      }
-      return style
-    }
-    
     // Setup scroll listener on mount
     onMounted(() => {
       window.addEventListener('scroll', handleScroll, true) // useCapture for all scrollable elements
@@ -241,8 +228,7 @@ export default {
       handleBlur,
       getTagEventCount,
       getContrastColor,
-      getTagStyle,
-      getFilterTagStyle
+      getTagStyle
     }
   }
 }

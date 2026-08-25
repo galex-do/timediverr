@@ -25,13 +25,11 @@
             v-for="tag in selectedTags"
             :key="tag.id"
             class="event_tag_badge_removable"
-            :class="{ 'is_negative': tag.negative }"
-            :style="getFilterTagStyle(tag)"
+            :style="getTagStyle(tag, { outerShadow: '0 1px 3px rgba(0, 0, 0, 0.15)' })"
           >
             <span class="tag_name">{{ tag.name }}</span>
             <button 
               class="toggle_negative_btn"
-              :class="{ 'is_negative': tag.negative }"
               @click="handleToggleTagNegative(tag.id)"
               :title="tag.negative ? t('tagFilterModeExclude') : t('tagFilterModeInclude')"
             >
@@ -655,17 +653,6 @@ export default {
       emit('toggle-tag-negative', tagId)
     }
 
-    // Same as getTagStyle, but adds a red ring around negative ("must not have") filter chips
-    const getFilterTagStyle = (tag) => {
-      const style = getTagStyle(tag, { outerShadow: '0 1px 3px rgba(0, 0, 0, 0.15)' })
-      if (tag.negative) {
-        style.boxShadow = style.boxShadow
-          ? `0 0 0 2px #dc2626, ${style.boxShadow}`
-          : '0 0 0 2px #dc2626'
-      }
-      return style
-    }
-
     const handleTagClick = (tag) => {
       emit('tag-clicked', tag)
       visibleCount.value = BATCH_SIZE
@@ -803,7 +790,6 @@ export default {
       handleFocusEvent,
       handleRemoveTag,
       handleToggleTagNegative,
-      getFilterTagStyle,
       handleTagClick,
       handleExpandDateRange,
       handleShowDetail,
