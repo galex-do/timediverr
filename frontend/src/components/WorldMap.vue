@@ -342,9 +342,8 @@ export default {
       location_visible_count: 50,
       location_show_details: false,
       location_visible_count_backup: 50,
-      highlight_overlay: null, // Store highlight overlay layer (precise-location dot, when clustered)
+      highlight_overlay: null, // Store highlight overlay layer (ring + dot at the exact point, plus a binding line to its cluster)
       highlighted_event: null, // The event currently highlighted, so we can re-resolve it on zoom/pan
-      highlighted_element: null, // DOM element (marker or cluster icon) currently wearing the pulse class
       user_location_layer: null, // Store user location marker (geolocation feature)
       expanded_event_tags: {}, // Track which events have expanded tags
       editing_event: null, // Store the event being edited
@@ -840,14 +839,12 @@ export default {
       this.apply_highlight()
     },
 
-    // Resolve the currently-highlighted event to whatever is actually on
-    // screen for it right now, and mark that. A highlighted event's own
-    // marker is frequently buried inside a cluster elsewhere — drawing a
-    // ring at its raw coordinates then looked like a stray circle with no
-    // visible connection to any pin, which is why "which cluster is it in"
-    // was hard to answer. getVisibleParent() returns whichever cluster (or
-    // the marker itself, if unclustered) is actually rendered at the current
-    // zoom, so we can pulse that exact bubble instead.
+    // Mark the event's exact coordinates — always, regardless of whether it's
+    // currently shown as its own pin or buried inside a cluster elsewhere.
+    // The ring is the answer to "where exactly is this event"; if it's
+    // grouped into a cluster, a dashed line binds the precise point to that
+    // cluster's current bubble so the relationship is visible without moving
+    // the marking itself onto the cluster.
     apply_highlight() {
       this.clear_highlight_visuals()
 
@@ -860,41 +857,55 @@ export default {
         return
       }
 
+      const markerLatLng = marker.getLatLng()
+
+      const outerRing = L.circleMarker(markerLatLng, {
+        radius: 28,
+        fillColor: 'transparent',
+        fillOpacity: 0,
+        color: '#ef4444', // Red color
+        weight: 5,
+        opacity: 0.85,
+        interactive: false
+      })
+
+      const centerDot = L.circleMarker(markerLatLng, {
+        radius: 3,
+        fillColor: '#ef4444',
+        fillOpacity: 1,
+        color: '#dc2626',
+        weight: 1,
+        opacity: 1,
+        interactive: false
+      })
+
+      const layers = [outerRing, centerDot]
+
+      // getVisibleParent() returns whichever cluster (or the marker itself,
+      // if unclustered) is actually rendered at the current zoom. Only draw
+      // the binding line when the point is genuinely hidden inside a cluster.
       const visibleParent = (this.marker_cluster_group && this.marker_cluster_group.getVisibleParent)
         ? (this.marker_cluster_group.getVisibleParent(marker) || marker)
         : marker
 
-      const el = visibleParent.getElement ? visibleParent.getElement() : visibleParent._icon
-      if (el) {
-        el.classList.add('map-highlight-pulse')
-        this.highlighted_element = el
-      }
-
-      // When the event is grouped into a cluster, the pulsing bubble sits at
-      // the cluster's aggregate position, not the event's exact coordinates —
-      // add a small precise dot too so the real location isn't lost.
       if (visibleParent !== marker) {
-        const centerDot = L.circleMarker(marker.getLatLng(), {
-          radius: 3,
-          fillColor: '#ef4444',
-          fillOpacity: 1,
-          color: '#dc2626',
-          weight: 1,
-          opacity: 1,
+        const bindingLine = L.polyline([markerLatLng, visibleParent.getLatLng()], {
+          color: '#ef4444',
+          weight: 2,
+          opacity: 0.7,
+          dashArray: '5, 7',
           interactive: false
         })
-        this.highlight_overlay = L.layerGroup([centerDot])
-        this.highlight_overlay.addTo(this.map)
+        layers.push(bindingLine)
       }
+
+      this.highlight_overlay = L.layerGroup(layers)
+      this.highlight_overlay.addTo(this.map)
     },
 
-    // Remove the pulse class / precise-location dot, but keep remembering
-    // which event was highlighted so zoom/pan can re-resolve it.
+    // Remove the ring/dot/binding line, but keep remembering which event was
+    // highlighted so zoom/pan can re-resolve and redraw it.
     clear_highlight_visuals() {
-      if (this.highlighted_element) {
-        this.highlighted_element.classList.remove('map-highlight-pulse')
-        this.highlighted_element = null
-      }
       if (this.highlight_overlay && this.map) {
         this.map.removeLayer(this.highlight_overlay)
         this.highlight_overlay = null
@@ -2955,25 +2966,5 @@ export default {
   opacity: 1;
 }
 
-/* Highlight pulse — applied directly to whichever icon (individual marker or
-   cluster bubble) currently represents a highlighted event, so it's obvious
-   which cluster the event is actually grouped into, at any zoom level. */
-::deep(.map-highlight-pulse) {
-  z-index: 1000 !important;
-  animation: map-highlight-pulse-ring 1.4s ease-out infinite;
-  border-radius: 50%;
-}
-
-@keyframes map-highlight-pulse-ring {
-  0% {
-    box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.75);
-  }
-  70% {
-    box-shadow: 0 0 0 14px rgba(239, 68, 68, 0);
-  }
-  100% {
-    box-shadow: 0 0 0 0 rgba(239, 68, 68, 0);
-  }
-}
 
 </style>
