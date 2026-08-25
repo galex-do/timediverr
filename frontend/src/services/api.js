@@ -292,6 +292,14 @@ class ApiService {
     return result
   }
 
+  // Deletes every tag not attached to any event. Returns { deleted_count }.
+  async cleanupUnusedTags() {
+    const result = await this.makeRequest('/tags/cleanup-unused', { method: 'DELETE' })
+    cache_invalidate('tags')
+    cache_invalidate_events()
+    return result
+  }
+
   async setEventTags(eventId, tagIds) {
     const result = await this.makeRequest(`/events/${eventId}/tags`, {
       method: 'PUT',

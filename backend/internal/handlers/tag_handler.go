@@ -155,6 +155,19 @@ func (h *TagHandler) DeleteTag(w http.ResponseWriter, r *http.Request) {
         response.Success(w, map[string]string{"message": "Tag deleted successfully"})
 }
 
+// CleanupUnusedTags handles DELETE /api/tags/cleanup-unused — deletes every
+// tag that isn't attached to any event, for the admin "cleanup" button.
+func (h *TagHandler) CleanupUnusedTags(w http.ResponseWriter, r *http.Request) {
+        deletedCount, err := h.tagRepo.DeleteUnusedTags()
+        if err != nil {
+                response.InternalError(w, "Failed to clean up unused tags")
+                return
+        }
+
+        h.eventCache.Invalidate()
+        response.Success(w, map[string]int{"deleted_count": deletedCount})
+}
+
 // AddTagToEvent handles POST /api/events/{event_id}/tags/{tag_id}
 func (h *TagHandler) AddTagToEvent(w http.ResponseWriter, r *http.Request) {
         vars := mux.Vars(r)

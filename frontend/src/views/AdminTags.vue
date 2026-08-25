@@ -6,6 +6,15 @@
         <p class="admin-subtitle">{{ t('adminTagsSubtitle') }}</p>
       </div>
       <div class="action-buttons" v-if="canAccessAdmin">
+        <button
+          @click="cleanupUnusedTags"
+          class="cleanup-btn"
+          :disabled="cleaningUp"
+          :title="t('cleanupUnusedTags')"
+        >
+          <span class="btn-icon">🧹</span>
+          {{ cleaningUp ? '...' : t('cleanupUnusedTags') }}
+        </button>
         <button @click="showCreateModal = true" class="create-btn">
           <span class="btn-icon">➕</span>
           {{ t('createNewTag') }}
@@ -341,6 +350,7 @@ export default {
     
     const localLoading = ref(false)
     const localError = ref(null)
+    const cleaningUp = ref(false)
     const searchQuery = ref('')
     const showEmojiPicker = ref(false)
 
@@ -532,6 +542,30 @@ export default {
       }
     }
 
+    // Deletes every tag with 0 events in one shot, replacing the
+    // one-by-one manual cleanup admins previously had to do.
+    const cleanupUnusedTags = async () => {
+      const confirmed = confirm(t('cleanupUnusedTagsConfirm'))
+      if (!confirmed) return
+
+      cleaningUp.value = true
+      try {
+        const result = await apiService.cleanupUnusedTags()
+        const count = result?.deleted_count || 0
+        await loadTags() // Refresh tags list (and usage counts stay accurate)
+        if (count === 0) {
+          alert(t('cleanupUnusedTagsNone'))
+        } else {
+          alert(t('cleanupUnusedTagsSuccess').replace('{count}', count))
+        }
+      } catch (err) {
+        console.error('Error cleaning up unused tags:', err)
+        alert(err.message || t('cleanupUnusedTagsError'))
+      } finally {
+        cleaningUp.value = false
+      }
+    }
+
     const saveTag = async () => {
       localLoading.value = true
       localError.value = null
@@ -619,6 +653,8 @@ export default {
       handlePageSizeChange,
       editTag,
       deleteTag,
+      cleanupUnusedTags,
+      cleaningUp,
       saveTag,
       closeModal,
       localLoading,
@@ -688,6 +724,32 @@ export default {
   background: linear-gradient(135deg, #4338ca 0%, #6d28d9 100%);
   transform: translateY(-1px);
   box-shadow: 0 4px 12px rgba(79, 70, 229, 0.3);
+}
+
+.cleanup-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid #d1d5db;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-size: 0.9rem;
+  background: white;
+  color: #4b5563;
+}
+
+.cleanup-btn:hover:not(:disabled) {
+  background: #f3f4f6;
+  border-color: #9ca3af;
+  transform: translateY(-1px);
+}
+
+.cleanup-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
 }
 
 .btn-icon {

@@ -107,6 +107,9 @@ func (router *Router) SetupRoutes() http.Handler {
         api.HandleFunc("/date-templates/single/{id}", router.authHandler.RequireAccessLevel(models.AccessLevelAdmin)(router.templateHandler.DeleteTemplate)).Methods("DELETE", "OPTIONS")
         
         // Tag routes (read public, write requires editor/admin)
+        // /tags/cleanup-unused must be registered before /tags/{id} so it
+        // doesn't get swallowed by the {id} pattern.
+        api.HandleFunc("/tags/cleanup-unused", router.authHandler.RequireAccessLevel(models.AccessLevelEditor)(router.tagHandler.CleanupUnusedTags)).Methods("DELETE", "OPTIONS")
         api.HandleFunc("/tags", router.tagHandler.GetAllTags).Methods("GET", "OPTIONS")
         api.HandleFunc("/tags", router.authHandler.RequireAccessLevel(models.AccessLevelEditor)(router.tagHandler.CreateTag)).Methods("POST", "OPTIONS")
         api.HandleFunc("/tags/{id}", router.tagHandler.GetTagByID).Methods("GET", "OPTIONS")

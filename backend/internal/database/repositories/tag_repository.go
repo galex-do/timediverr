@@ -155,6 +155,24 @@ func (r *TagRepository) DeleteTag(id int) error {
         return nil
 }
 
+// DeleteUnusedTags removes every tag that isn't attached to any event and
+// returns how many were deleted, for the admin "cleanup" action.
+func (r *TagRepository) DeleteUnusedTags() (int, error) {
+        query := `DELETE FROM tags t WHERE NOT EXISTS (SELECT 1 FROM event_tags et WHERE et.tag_id = t.id)`
+
+        result, err := r.db.Exec(query)
+        if err != nil {
+                return 0, err
+        }
+
+        rowsAffected, err := result.RowsAffected()
+        if err != nil {
+                return 0, err
+        }
+
+        return int(rowsAffected), nil
+}
+
 // GetTagsByEventID retrieves all tags for a specific event
 func (r *TagRepository) GetTagsByEventID(eventID int) ([]models.Tag, error) {
         query := `

@@ -112,6 +112,11 @@ const UI_TRANSLATIONS = {
     adminTagsTitle: 'Tags Management',
     adminTagsSubtitle: 'Manage event tags and categories',
     createNewTag: 'Create New Tag',
+    cleanupUnusedTags: 'Cleanup Unused',
+    cleanupUnusedTagsConfirm: 'This will permanently delete all tags that are not used by any event. Continue?',
+    cleanupUnusedTagsNone: 'No unused tags found.',
+    cleanupUnusedTagsSuccess: 'Deleted {count} unused tag(s).',
+    cleanupUnusedTagsError: 'Failed to clean up unused tags',
     
     // Admin Templates Page
     adminTemplatesTitle: 'Historic Periods',
@@ -450,6 +455,11 @@ const UI_TRANSLATIONS = {
     adminTagsTitle: 'Управление тегами',
     adminTagsSubtitle: 'Управление тегами и категориями событий',
     createNewTag: 'Создать новый тег',
+    cleanupUnusedTags: 'Очистить неиспользуемые',
+    cleanupUnusedTagsConfirm: 'Это безвозвратно удалит все теги, которые не используются ни в одном событии. Продолжить?',
+    cleanupUnusedTagsNone: 'Неиспользуемые теги не найдены.',
+    cleanupUnusedTagsSuccess: 'Удалено тегов: {count}.',
+    cleanupUnusedTagsError: 'Не удалось очистить неиспользуемые теги',
     
     // Admin Templates Page
     adminTemplatesTitle: 'Исторические периоды',
