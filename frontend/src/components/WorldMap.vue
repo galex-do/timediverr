@@ -1,7 +1,15 @@
 <template>
   <div class="map-container">
     <div ref="map" class="leaflet-map"></div>
-    
+
+    <!-- Marker Rendering Overlay: shown while (re)building the marker/cluster layer for a large event set -->
+    <transition name="fade">
+      <div v-if="markers_loading" class="markers-loading-overlay">
+        <div class="markers-loading-spinner"></div>
+        <span>{{ t('loadingEvents') || 'Loading events…' }}</span>
+      </div>
+    </transition>
+
     <!-- Pin Mode Indicator -->
     <transition name="fade">
       <div v-if="pin_mode" class="pin-mode-indicator">
@@ -356,7 +364,8 @@ export default {
         dataset_id: null
       },
       datasets: [],
-      region_layer_group: null
+      region_layer_group: null,
+      markers_loading: false // Shown while (re)building markers/clusters for a large event set
     }
   },
   watch: {
@@ -1023,9 +1032,31 @@ export default {
       }
       this.markers = []
       this.marker_registry.clear() // Clear marker registry
-      
-      // Wait for next tick to ensure map is ready
+
+      // Show the loading overlay before the potentially-expensive rebuild below
+      // (marker creation + clustering for thousands of events can block the main
+      // thread for a noticeable moment). The event count threshold avoids flashing
+      // the overlay for small, near-instant updates.
+      const should_show_loading = this.events.length > 300
+      if (should_show_loading) {
+        this.markers_loading = true
+      }
+
+      // Wait for next tick to ensure map is ready, then wait two animation frames
+      // so the browser actually paints the loading overlay before we run the
+      // synchronous, CPU-heavy marker/cluster build below.
       this.$nextTick(() => {
+        const run_build = () => this.build_event_markers()
+        if (should_show_loading) {
+          requestAnimationFrame(() => requestAnimationFrame(run_build))
+        } else {
+          run_build()
+        }
+      })
+    },
+
+    build_event_markers() {
+      try {
         // Double-check map state before proceeding
         if (!this.map || !this.map._loaded) {
           console.warn('Map not ready for marker addition')
@@ -1279,7 +1310,9 @@ export default {
             this.map.invalidateSize(true)
           }, 100)
         }
-      })
+      } finally {
+        this.markers_loading = false
+      }
     },
 
     
@@ -2681,6 +2714,38 @@ export default {
 @keyframes pin-indicator-pulse {
   0%, 100% { opacity: 1; }
   50% { opacity: 0.7; }
+}
+
+.markers-loading-overlay {
+  position: absolute;
+  top: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  background: rgba(255, 255, 255, 0.95);
+  color: #2d3748;
+  padding: 0.6rem 1.1rem;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  z-index: 1000;
+  pointer-events: none;
+}
+
+.markers-loading-spinner {
+  width: 16px;
+  height: 16px;
+  border: 2px solid rgba(79, 70, 229, 0.25);
+  border-top-color: #4f46e5;
+  border-radius: 50%;
+  animation: markers-loading-spin 0.7s linear infinite;
+}
+
+@keyframes markers-loading-spin {
+  to { transform: rotate(360deg); }
 }
 
 /* Fade Transition */
