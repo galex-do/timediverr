@@ -12,8 +12,8 @@ type HistoricalEvent struct {
         ID            int       `json:"id"`
         Name          string    `json:"name"`          // Legacy field - will be populated based on locale
         Description   string    `json:"description"`   // Legacy field - will be populated based on locale
-        NameEn        string    `json:"name_en"`       // English name
-        NameRu        string    `json:"name_ru"`       // Russian name
+        NameEn        string    `json:"name_en,omitempty"` // English name
+        NameRu        string    `json:"name_ru,omitempty"` // Russian name
         DescriptionEn *string   `json:"description_en,omitempty"` // English description
         DescriptionRu *string   `json:"description_ru,omitempty"` // Russian description
         Latitude      float64   `json:"latitude"`
@@ -60,6 +60,21 @@ func (e HistoricalEvent) GetDescriptionForLocale(locale string) string {
 func (e *HistoricalEvent) PopulateLegacyFields(locale string) {
         e.Name = e.GetNameForLocale(locale)
         e.Description = e.GetDescriptionForLocale(locale)
+}
+
+// StripUnrequestedTranslations clears the bilingual Name*/Description* fields,
+// leaving only the locale-resolved Name/Description (already set by
+// PopulateLegacyFields). Used by read-only endpoints so a request for one
+// locale doesn't ship every other locale's text over the wire -- this is
+// what keeps the payload flat as more locales are added, rather than
+// growing linearly with the locale count on every request. Callers that
+// actually need every locale at once (e.g. an admin edit form prefilling
+// both languages) opt out via an explicit request flag instead.
+func (e *HistoricalEvent) StripUnrequestedTranslations() {
+        e.NameEn = ""
+        e.NameRu = ""
+        e.DescriptionEn = nil
+        e.DescriptionRu = nil
 }
 
 // MarshalJSON custom JSON marshaler to handle BC dates properly

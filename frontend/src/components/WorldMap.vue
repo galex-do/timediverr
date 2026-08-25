@@ -1067,9 +1067,10 @@ export default {
         return
       }
 
-      // The bulk list is lean (no description/source) — fetch full details
-      // before prefilling the edit form so we don't wipe out existing text.
-      await this.ensureEventDetails([eventId])
+      // The bulk list is lean (no description/source), and display fetches
+      // only pull the current locale — fetch full bilingual details before
+      // prefilling the edit form so we don't wipe out the other locale's text.
+      await this.ensureEventDetails([eventId], { includeTranslations: true })
 
       // Set editing mode
       this.editing_event = event

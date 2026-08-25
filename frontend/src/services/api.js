@@ -125,9 +125,13 @@ class ApiService {
   // Fetch full event records (description, source, full tag objects) for a
   // specific set of event IDs in one request. Used to lazily fill in details
   // for events that were loaded via the lean list.
-  async getEventsBatch(ids) {
+  // By default the server only sends the current locale's name/description.
+  // Pass includeTranslations=true (used to prefill a bilingual edit form) to
+  // get every locale's name/description fields back instead.
+  async getEventsBatch(ids, { includeTranslations = false } = {}) {
     if (!ids || ids.length === 0) return []
     const params = new URLSearchParams({ ids: ids.join(',') })
+    if (includeTranslations) params.append('include_translations', 'true')
     let endpoint = `/events/batch?${params}`
     endpoint = this.addLocaleToEventUrl(endpoint)
     return this.makeRequest(endpoint)

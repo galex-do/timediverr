@@ -22,6 +22,13 @@ const detailsLoadedIds = new Set()
 // about overlapping IDs (e.g. a grid page and a timeline expansion firing at
 // once) share a single network request instead of racing duplicate ones.
 const detailsFetchInFlight = new Map()
+// Tracks which event IDs have had their bilingual name_en/name_ru/
+// description_en/description_ru fields loaded (as opposed to just the
+// current locale's name/description, which is all detailsLoadedIds
+// guarantees). Kept separate because most callers only ever need the
+// current locale -- only the map's edit-event flow needs every locale, and
+// it may run after a display call already populated the locale-only fields.
+const translationsLoadedIds = new Set()
 
 // In-flight fetchEvents() calls keyed by request shape (lean vs. full), at
 // module scope so it's shared across every component that calls useEvents()
@@ -70,6 +77,7 @@ export function useEvents() {
     error.value = null
     detailsLoadedIds.clear()
     detailsFetchInFlight.clear()
+    translationsLoadedIds.clear()
 
     try {
       const eventData = await apiService.getEvents(null, null, null, null, includeDescriptions)
@@ -110,19 +118,28 @@ export function useEvents() {
   // ever relying on that truncation.
   const BATCH_DETAIL_CHUNK_SIZE = 200
 
-  // Ensure the given event IDs have full details (bilingual names, since the
-  // lean list only ships the current locale's name; descriptions/source)
-  // loaded, fetching only what's missing via the batch endpoint and mutating
-  // the shared event objects in place. Because `events`/`filteredEvents` hold
-  // the same object references everywhere they're consumed (map, grid,
-  // timeline, admin), this makes the fetched fields reactively appear
-  // wherever that event is rendered, and never fetches the same event twice
-  // in a session. Requests are chunked to the server's batch size limit so
-  // large visible sets (e.g. an expanded timeline) don't silently lose
-  // details past that limit.
-  const ensureEventDetails = async (ids) => {
+  // Ensure the given event IDs have full details (description/source, plus
+  // the current locale's name) loaded, fetching only what's missing via the
+  // batch endpoint and mutating the shared event objects in place. Because
+  // `events`/`filteredEvents` hold the same object references everywhere
+  // they're consumed (map, grid, timeline, admin), this makes the fetched
+  // fields reactively appear wherever that event is rendered, and never
+  // fetches the same event twice in a session. Requests are chunked to the
+  // server's batch size limit so large visible sets (e.g. an expanded
+  // timeline) don't silently lose details past that limit.
+  //
+  // Pass { includeTranslations: true } (used by the map's edit-event flow to
+  // prefill a bilingual form) to also fetch every other locale's name_en/
+  // name_ru/description_en/description_ru. This is tracked separately from
+  // detailsLoadedIds: a plain display call may have already loaded the
+  // locale-only fields for an ID, so a later translations request for that
+  // same ID still needs to go back to the server rather than being treated
+  // as a cache hit.
+  const ensureEventDetails = async (ids, { includeTranslations = false } = {}) => {
     const uniqueIds = [...new Set((ids || []).filter(id => id != null))]
-    const missing = uniqueIds.filter(id => !detailsLoadedIds.has(id))
+    const missing = uniqueIds.filter(id => (
+      !detailsLoadedIds.has(id) || (includeTranslations && !translationsLoadedIds.has(id))
+    ))
     if (missing.length === 0) return
 
     const toFetch = missing.filter(id => !detailsFetchInFlight.has(id))
@@ -133,19 +150,22 @@ export function useEvents() {
       }
 
       const chunkPromises = chunks.map(chunk =>
-        apiService.getEventsBatch(chunk).then(details => {
+        apiService.getEventsBatch(chunk, { includeTranslations }).then(details => {
           const byId = new Map(events.value.map(e => [e.id, e]))
           for (const full of (details || [])) {
             const target = byId.get(full.id)
             if (target) {
-              target.name_en = full.name_en
-              target.name_ru = full.name_ru
               target.description = full.description
-              target.description_en = full.description_en
-              target.description_ru = full.description_ru
               target.source = full.source
+              if (includeTranslations) {
+                target.name_en = full.name_en
+                target.name_ru = full.name_ru
+                target.description_en = full.description_en
+                target.description_ru = full.description_ru
+              }
             }
             detailsLoadedIds.add(full.id)
+            if (includeTranslations) translationsLoadedIds.add(full.id)
           }
         }).catch(err => {
           console.error('Failed to fetch event details batch:', err)

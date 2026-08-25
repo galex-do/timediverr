@@ -173,6 +173,14 @@ const maxBatchEventIDs = 30
 // IDs. Used to lazily fetch details for events that were loaded via the lean
 // bulk list, e.g. when a user opens a card, expands a cluster, or views an
 // event's details.
+//
+// By default the response carries only the requested locale's name/
+// description (via PopulateLegacyFields + StripUnrequestedTranslations) --
+// not every language's text -- since display call sites only ever render
+// one locale at a time and that would otherwise resend the whole dataset's
+// content for every locale on every request. Pass include_translations=true
+// (used by the map's edit-event flow to prefill a bilingual form) to get
+// every locale's fields back instead.
 func (h *EventHandler) GetEventsBatch(w http.ResponseWriter, r *http.Request) {
         query := r.URL.Query()
 
@@ -180,6 +188,8 @@ func (h *EventHandler) GetEventsBatch(w http.ResponseWriter, r *http.Request) {
         if locale == "" {
                 locale = "en"
         }
+
+        includeTranslations := query.Get("include_translations") == "true"
 
         idsParam := strings.TrimSpace(query.Get("ids"))
         if idsParam == "" {
@@ -224,6 +234,9 @@ func (h *EventHandler) GetEventsBatch(w http.ResponseWriter, r *http.Request) {
 
         for i := range events {
                 events[i].PopulateLegacyFields(locale)
+                if !includeTranslations {
+                        events[i].StripUnrequestedTranslations()
+                }
         }
 
         response.Success(w, events)
