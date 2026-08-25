@@ -12,7 +12,7 @@
       "name_ru": "Первые гоминины Таиланда",
       "source": "https://en.wikipedia.org/wiki/Prehistory_of_Thailand",
       "tags": [
-        "Paleolithic",
+        "Neolithic",
         "Thai"
       ],
       "type": "historic"
@@ -82,6 +82,7 @@
       "source": "https://en.wikipedia.org/wiki/Khok_Phanom_Di",
       "tags": [
         "Agriculture",
+        "Food",
         "Neolithic",
         "Rice",
         "Thai"
@@ -120,6 +121,7 @@
         "Agriculture",
         "Culture",
         "Neolithic",
+        "Pottery",
         "Thai"
       ],
       "type": "historic"
@@ -233,6 +235,7 @@
       "source": "https://en.wikipedia.org/wiki/Khok_Phanom_Di",
       "tags": [
         "Agriculture",
+        "Food",
         "Rice",
         "Thai"
       ],

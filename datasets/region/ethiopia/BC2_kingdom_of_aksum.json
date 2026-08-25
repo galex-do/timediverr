@@ -68,8 +68,8 @@
       "era": "AD",
       "latitude": 15.27487048,
       "longitude": 39.65549469,
-      "name": "Greek - Lingua Franca in Axum",
-      "name_ru": "Греческий - Lingua Franca в Аксуме",
+      "name": "Greek — Lingua Franca in Axum",
+      "name_ru": "Греческий — Lingua Franca в Аксуме",
       "tags": [
         "Greek",
         "Ethiopian",
@@ -582,7 +582,7 @@
       "tags": [
         "Decline",
         "Ethiopian",
-        "Invasions",
+        "Invasion",
         "Aksumite"
       ],
       "type": "political"
@@ -602,7 +602,7 @@
         "Destruction",
         "Ethiopian",
         "Fall",
-        "Invasions",
+        "Invasion",
         "Aksumite"
       ],
       "type": "political"

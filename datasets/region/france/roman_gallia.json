@@ -319,8 +319,8 @@
       "era": "BC",
       "latitude": 43.83493696,
       "longitude": 4.35961962,
-      "name": "Nemausus / Nîmes — the Versailles of Roman Gaul",
-      "name_ru": "Рим колонизирует Немаус",
+      "name": "Rome colonizes Nemausus in Gaul",
+      "name_ru": "Рим колонизирует Немаус в Галлии",
       "source": "https://en.wikipedia.org/wiki/N%C3%AEmes",
       "tags": [
         "Roman",
@@ -473,7 +473,7 @@
         "Culture",
         "Economic",
         "Trade",
-        "Winemaking"
+        "Wine"
       ],
       "type": "cultural"
     },

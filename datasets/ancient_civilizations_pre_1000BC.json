@@ -28,7 +28,7 @@
       "longitude": 30.73,
       "name": "Nabta Playa Stone Circle",
       "name_ru": "Каменный круг Набта-Плайя",
-      "source": "https://www.science.org/doi/10.1126/science.280.5369.1488",
+      "source": "https://en.wikipedia.org/wiki/Nabta_Playa#/media/File:Calendar_aswan.JPG",
       "tags": [
         "Building 🏠",
         "Astronomy",
@@ -101,6 +101,7 @@
       "name_ru": "Курганы Уотсон-Брейк в Луизиане",
       "source": "https://www.nps.gov/subjects/archaeology/watson-brake.htm",
       "tags": [
+        "American",
         "Earthwork",
         "Mound Builders",
         "Neolithic"
@@ -159,6 +160,7 @@
       "tags": [
         "Sumerian",
         "City",
+        "Mesopotamian",
         "Urban"
       ],
       "type": "historic"
@@ -193,6 +195,7 @@
       "name_ru": "Раннее земледелие в Корее",
       "tags": [
         "Agriculture",
+        "Food",
         "Korea",
         "Neolithic",
         "Rice"
@@ -212,6 +215,7 @@
       "tags": [
         "Sumerian",
         "Language",
+        "Mesopotamian",
         "Writing"
       ],
       "type": "cultural"
@@ -400,7 +404,8 @@
       "tags": [
         "Sumerian",
         "Innovation",
-        "Mathematics"
+        "Mathematics",
+        "Mesopotamian"
       ],
       "type": "scientific"
     },
@@ -471,6 +476,7 @@
       "tags": [
         "Sumerian",
         "City",
+        "Mesopotamian",
         "Urban"
       ],
       "type": "historic"
@@ -486,7 +492,7 @@
       "name_ru": "Раннединастический период Месопотамии",
       "tags": [
         "City-State",
-        "Mesopotamia"
+        "Mesopotamian"
       ],
       "type": "political"
     },
@@ -495,15 +501,15 @@
       "description": "Sumerians construct the first ziggurats as temple complexes and administrative centers",
       "description_ru": "Шумеры строят первые зиккураты как храмовые комплексы и административные центры",
       "era": "BC",
-      "latitude": 30.942,
-      "longitude": 46.103,
+      "latitude": 30.962,
+      "longitude": 46.104,
       "name": "First Ziggurats Built",
       "name_ru": "Строительство первых зиккуратов",
       "tags": [
         "Sumerian",
         "Building 🏠",
         "Architecture",
-        "Mesopotamia"
+        "Mesopotamian"
       ],
       "type": "cultural"
     },
@@ -652,7 +658,7 @@
       "tags": [
         "Innovation",
         "Language",
-        "Mesopotamia",
+        "Mesopotamian",
         "Writing"
       ],
       "type": "cultural"
@@ -687,7 +693,7 @@
         "Elamites",
         "Sumerian",
         "King",
-        "Mesopotamia"
+        "Mesopotamian"
       ],
       "type": "political"
     },
@@ -849,7 +855,7 @@
         "Sumerian",
         "City-State",
         "Dynasty",
-        "Mesopotamia"
+        "Mesopotamian"
       ],
       "type": "political"
     },
@@ -865,9 +871,27 @@
       "tags": [
         "Conquest",
         "Empire",
-        "Mesopotamia"
+        "Mesopotamian"
       ],
       "type": "military"
+    },
+    {
+      "date": "01.01.2400",
+      "description": "Bluestones transported to Stonehenge from Preseli Hills in Wales, over 150 miles away, demonstrating remarkable organizational and engineering capabilities",
+      "description_ru": "Голубые камни перевезены в Стоунхендж из холмов Преселли в Уэльсе, более чем на 240 км, что показало организационные и инженерные способности древних бритов",
+      "era": "BC",
+      "latitude": 51.179,
+      "longitude": -1.826,
+      "name": "Stonehenge Bluestones",
+      "name_ru": "Голубые камни Стоунхенджа",
+      "tags": [
+        "Bell Beaker",
+        "Logistics",
+        "Megalithic",
+        "Neolithic",
+        "Stonehenge"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.2400",
@@ -886,24 +910,6 @@
         "Nubia"
       ],
       "type": "political"
-    },
-    {
-      "date": "01.01.2400",
-      "description": "Bluestones transported to Stonehenge from Preseli Hills in Wales, over 150 miles away, demonstrating remarkable organizational and engineering capabilities",
-      "description_ru": "Голубые камни перевезены в Стоунхендж из холмов Преселли в Уэльсе, более чем на 240 км, что показало организационные и инженерные способности древних бритов",
-      "era": "BC",
-      "latitude": 51.179,
-      "longitude": -1.826,
-      "name": "Stonehenge Bluestones",
-      "name_ru": "Голубые камни Стоунхенджа",
-      "tags": [
-        "Bell Beaker",
-        "Megalithic",
-        "Neolithic",
-        "Stonehenge",
-        "Transport"
-      ],
-      "type": "cultural"
     },
     {
       "date": "01.01.2400",
@@ -1190,6 +1196,24 @@
     },
     {
       "date": "01.01.2200",
+      "description": "Poverty Point culture begins in Louisiana with construction of massive earthwork mounds reaching 72 feet in height, forming complex geometric patterns",
+      "description_ru": "Культура Поверти-Пойнт начинается в Луизиане со строительства массивных земляных курганов высотой до 22 метров, образующих сложные геометрические узоры",
+      "era": "BC",
+      "latitude": 32.638,
+      "longitude": -91.408,
+      "name": "Poverty Point Culture",
+      "name_ru": "Культура Поверти-Пойнт в Луизиане",
+      "source": "https://www.nps.gov/popo/index.htm",
+      "tags": [
+        "American",
+        "Earthwork",
+        "Mound Builders",
+        "Neolithic"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.2200",
       "description": "Severe drought causes agricultural collapse across Mesopotamia and Egypt",
       "description_ru": "Сильная засуха вызывает сельскохозяйственный коллапс по всей Месопотамии и Египту",
       "era": "BC",
@@ -1203,42 +1227,6 @@
         "Disaster"
       ],
       "type": "historic"
-    },
-    {
-      "date": "01.01.2200",
-      "description": "Tichitt culture develops in Mauritania and Mali as the oldest known complexly organized society in West Africa with stone-walled towns",
-      "description_ru": "Культура Тишит развивается в Мавритании и Мали как древнейшее известное сложное общество в Западной Африке с защищенными городами",
-      "era": "BC",
-      "latitude": 18.452,
-      "longitude": -9.471,
-      "name": "Tichitt Culture Emerges",
-      "name_ru": "Западноафриканская культура Тишит",
-      "source": "https://en.wikipedia.org/wiki/Tichitt_tradition",
-      "tags": [
-        "African",
-        "Culture",
-        "Neolithic",
-        "Tichitt",
-        "Urban"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.2200",
-      "description": "Poverty Point culture begins in Louisiana with construction of massive earthwork mounds reaching 72 feet in height, forming complex geometric patterns",
-      "description_ru": "Культура Поверти-Пойнт начинается в Луизиане со строительства массивных земляных курганов высотой до 22 метров, образующих сложные геометрические узоры",
-      "era": "BC",
-      "latitude": 32.638,
-      "longitude": -91.408,
-      "name": "Poverty Point Culture",
-      "name_ru": "Культура Поверти-Пойнт в Луизиане",
-      "source": "https://www.nps.gov/popo/index.htm",
-      "tags": [
-        "Earthwork",
-        "Mound Builders",
-        "Neolithic"
-      ],
-      "type": "cultural"
     },
     {
       "date": "01.01.2181",
@@ -1378,41 +1366,6 @@
     },
     {
       "date": "01.01.2000",
-      "description": "Karnak was considered \"Ipet-Isut\" (\"The Most Chosen Place\"), the point where the worlds of gods and humans met. According to Egyptian belief, the first hill of dry land, Ben-ben, arose here from the primordial ocean of Chaos (Nun) at the beginning of time. The ancient Thebans believed their city to be the physical center of the universe, the point where life began. For thousands of years, the pharaohs of Egypt invested in the development and wealth of the temple complex at Karnak.",
-      "description_ru": "Считалось, что Карнак — это «Ипет-Исут» («Самое избранное место»), точка, где соприкасаются мир богов и мир людей. По верованиям египтян, здесь во время начала времен из первозданного океана Хаоса (Нуна) поднялся первый холм суши — Бен-бен. Древние фиванцы верили, что их город — это физический центр мироздания, точка, откуда началась жизнь. Тысячи лет фараоны Египта вкладывали в развитие и богатство храмового комплекса в Карнаке\n",
-      "era": "BC",
-      "latitude": 25.72044516,
-      "longitude": 32.65413523,
-      "name": "Karnak - the Egyptian center of creation",
-      "name_ru": "Карнак - египетский центр мироздания",
-      "source": "https://en.wikipedia.org/wiki/Karnak",
-      "tags": [
-        "Egypt",
-        "Legend",
-        "Holy Site",
-        "Pagan",
-        "Religious"
-      ],
-      "type": "religious"
-    },
-    {
-      "date": "01.01.2000",
-      "description": "Babylon emerges as a major power in Mesopotamia under Amorite rulers",
-      "description_ru": "Вавилон становится крупной силой в Месопотамии под правлением амореев",
-      "era": "BC",
-      "latitude": 32.543,
-      "longitude": 44.421,
-      "name": "Rise of Babylon",
-      "name_ru": "Подъем Вавилона",
-      "tags": [
-        "Babylonian",
-        "Amorite",
-        "Rise"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.2000",
       "description": "Jōmon people construct stone circles at Ōyu (Akita Prefecture) for ceremonial purposes, demonstrating complex social organization",
       "description_ru": "Люди Дзёмон возводят каменные круги в Ою (префектура Акита) для церемониальных целей",
       "era": "BC",
@@ -1427,40 +1380,6 @@
         "Building 🏠",
         "Megalithic",
         "Neolithic"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.2000",
-      "description": "Sechin Alto ceremonial center constructed in Peru's Casma Valley, featuring one of the largest ancient structures in the Americas",
-      "description_ru": "Церемониальный центр Сечин-Альто построен в долине Касма в Перу. Это одно из крупнейших древних сооружений в Америке",
-      "era": "BC",
-      "latitude": -9.476,
-      "longitude": -78.274,
-      "name": "Sechin Alto Complex",
-      "name_ru": "Комплекс Сечин-Альто в Перу",
-      "tags": [
-        "Building 🏠",
-        "Architecture",
-        "Ceremonial",
-        "Peruan"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.2000",
-      "description": "Abraham was born and lived in the wealthy Mesopotamian city of Ur (in the south of modern-day Iraq). At the behest of his father, Terah, the family moved northwest, along the Euphrates River. The family settled in the city of Harran. Here, Terah died, and Abraham became the head of the clan.\n\nAt the age of 75, Abraham received a direct command from God: \"Get out of your country, from your kindred, and from your father's house... to the land that I will show you.\" Abraham took his wife Sarah, his nephew Lot, all his possessions, and servants, and departed south, to the land of Canaan.",
-      "description_ru": "Авраам родился и жил в богатом месопотамском городе Ур (юг современного Ирака). По велению отца Фарры семья двинулась на северо-запад, вдоль русла реки Евфрат. Семья обосновалась в городе Харран. Здесь Фарра умер, и Авраам стал главой клана.\n\nВ возрасте 75 лет Авраам получает прямой приказ от Бога: «Пойди из земли твоей, от родства твоего и из дома отца твоего... в землю, которую Я укажу тебе». Авраам берет жену Сару, племянника Лота, все имущество, слуг и уходит на юг, в земли Ханаана ",
-      "era": "BC",
-      "latitude": 31.769,
-      "longitude": 35.234,
-      "name": "Abraham's Migration",
-      "name_ru": "Миграция Авраама в Ханаан",
-      "tags": [
-        "Judaic",
-        "Legend",
-        "Migration",
-        "Religious"
       ],
       "type": "cultural"
     },
@@ -1483,6 +1402,75 @@
     },
     {
       "date": "01.01.2000",
+      "description": "Abraham was born and lived in the wealthy Mesopotamian city of Ur (in the south of modern-day Iraq). At the behest of his father, Terah, the family moved northwest, along the Euphrates River. The family settled in the city of Harran. Here, Terah died, and Abraham became the head of the clan.\n\nAt the age of 75, Abraham received a direct command from God: \"Get out of your country, from your kindred, and from your father's house... to the land that I will show you.\" Abraham took his wife Sarah, his nephew Lot, all his possessions, and servants, and departed south, to the land of Canaan.",
+      "description_ru": "Авраам родился и жил в богатом месопотамском городе Ур (юг современного Ирака). По велению отца Фарры семья двинулась на северо-запад, вдоль русла реки Евфрат. Семья обосновалась в городе Харран. Здесь Фарра умер, и Авраам стал главой клана.\n\nВ возрасте 75 лет Авраам получает прямой приказ от Бога: «Пойди из земли твоей, от родства твоего и из дома отца твоего... в землю, которую Я укажу тебе». Авраам берет жену Сару, племянника Лота, все имущество, слуг и уходит на юг, в земли Ханаана ",
+      "era": "BC",
+      "latitude": 31.769,
+      "longitude": 35.234,
+      "name": "Abraham's Migration",
+      "name_ru": "Миграция Авраама в Ханаан",
+      "tags": [
+        "Judaic",
+        "Legend",
+        "Migration",
+        "Religious"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.2000",
+      "description": "Sechin Alto ceremonial center constructed in Peru's Casma Valley, featuring one of the largest ancient structures in the Americas",
+      "description_ru": "Церемониальный центр Сечин-Альто построен в долине Касма в Перу. Это одно из крупнейших древних сооружений в Америке",
+      "era": "BC",
+      "latitude": -9.476,
+      "longitude": -78.274,
+      "name": "Sechin Alto Complex",
+      "name_ru": "Комплекс Сечин-Альто в Перу",
+      "tags": [
+        "Building 🏠",
+        "Architecture",
+        "Ceremonial",
+        "Peruan"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.2000",
+      "description": "Babylon emerges as a major power in Mesopotamia under Amorite rulers",
+      "description_ru": "Вавилон становится крупной силой в Месопотамии под правлением амореев",
+      "era": "BC",
+      "latitude": 32.543,
+      "longitude": 44.421,
+      "name": "Rise of Babylon",
+      "name_ru": "Подъем Вавилона",
+      "tags": [
+        "Babylonian",
+        "Amorite",
+        "Rise"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.2000",
+      "description": "Karnak was considered \"Ipet-Isut\" (\"The Most Chosen Place\"), the point where the worlds of gods and humans met. According to Egyptian belief, the first hill of dry land, Ben-ben, arose here from the primordial ocean of Chaos (Nun) at the beginning of time. The ancient Thebans believed their city to be the physical center of the universe, the point where life began. For thousands of years, the pharaohs of Egypt invested in the development and wealth of the temple complex at Karnak.",
+      "description_ru": "Считалось, что Карнак — это «Ипет-Исут» («Самое избранное место»), точка, где соприкасаются мир богов и мир людей. По верованиям египтян, здесь во время начала времен из первозданного океана Хаоса (Нуна) поднялся первый холм суши — Бен-бен. Древние фиванцы верили, что их город — это физический центр мироздания, точка, откуда началась жизнь. Тысячи лет фараоны Египта вкладывали в развитие и богатство храмового комплекса в Карнаке\n",
+      "era": "BC",
+      "latitude": 25.72044516,
+      "longitude": 32.65413523,
+      "name": "Karnak - the Egyptian center of creation",
+      "name_ru": "Карнак - египетский центр мироздания",
+      "source": "https://en.wikipedia.org/wiki/Karnak",
+      "tags": [
+        "Egypt",
+        "Legend",
+        "Holy Site",
+        "Pagan",
+        "Religious"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.2000",
       "description": "Iron smelting technology develops in Lejja, Nigeria, predating Egyptian iron technology and demonstrating independent African metallurgical innovation",
       "description_ru": "Технология плавки железа развивается в Леджа, Нигерия, предшествуя египетской железной технологии и демонстрируя независимое африканское металлургическое новаторство",
       "era": "BC",
@@ -1492,6 +1480,7 @@
       "name_ru": "Ранняя плавка железа в Нигерии",
       "source": "https://www.nature.com/articles/s40494-024-01383-2",
       "tags": [
+        "African",
         "Iron",
         "Metallurgy",
         "Nigeria"
@@ -1597,22 +1586,6 @@
     },
     {
       "date": "01.01.1800",
-      "description": "Development of sophisticated ceramic traditions in Ecuador's Valdivia culture, producing elaborate figurines and decorated pottery",
-      "description_ru": "Развитие сложных керамических традиций в культуре Вальдивия Эквадора, создающей искусные фигурки и украшенную керамику",
-      "era": "BC",
-      "latitude": -2.227,
-      "longitude": -80.956,
-      "name": "Valdivia Pottery Innovation",
-      "name_ru": "Керамика Вальдивии",
-      "tags": [
-        "Art",
-        "Pottery",
-        "Valdivia"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.1800",
       "description": "Babylonian mathematics develops advanced techniques including quadratic equations",
       "description_ru": "Вавилонская математика развивает передовые техники, включая квадратные уравнения",
       "era": "BC",
@@ -1626,6 +1599,22 @@
         "Mathematics"
       ],
       "type": "scientific"
+    },
+    {
+      "date": "01.01.1800",
+      "description": "Development of sophisticated ceramic traditions in Ecuador's Valdivia culture, producing elaborate figurines and decorated pottery",
+      "description_ru": "Развитие сложных керамических традиций в культуре Вальдивия Эквадора, создающей искусные фигурки и украшенную керамику",
+      "era": "BC",
+      "latitude": -2.227,
+      "longitude": -80.956,
+      "name": "Valdivia Pottery Innovation",
+      "name_ru": "Керамика Вальдивии",
+      "tags": [
+        "Art",
+        "Pottery",
+        "Valdivia"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.1792",
@@ -1646,8 +1635,8 @@
     },
     {
       "date": "01.01.1750",
-      "description": "Hammurabi establishes his famous law code, one of the first comprehensive legal systems",
-      "description_ru": "Хаммурапи создает свой знаменитый свод законов, одну из первых всеобъемлющих правовых систем",
+      "description": "Hammurabi created his famous code of laws, one of the first comprehensive legal systems. Hammurabi regulated legal proceedings, property management, trade, family law, and criminal law. Hammurabi elevated the principle of talion, \"an eye for an eye,\" to an absolute: if a builder built a house poorly and it collapsed, killing the owner, the builder was executed. The code protected farmers from force majeure, determined wages, and protected debtors from endless slavery.\n\nBabylonian women had unique rights by the standards of the Ancient East; they could own land, conduct business, and appear in court. In the event of a divorce, the husband was obligated to return his wife's dowry and leave funds for the maintenance of the children. If his wife became terminally ill, the husband had the right to take a second wife, but was obligated to care for the first.",
+      "description_ru": "Хаммурапи создает свой знаменитый свод законов, одну из первых всеобъемлющих правовых систем. Хаммурапи регулировал судопроизводство, управление имуществом, торговлю, семейное и уголовное право. Хаммурапи возвел в абсолют принцип Талиона, \"Око за око\": если строитель плохо построил дом, и тот рухнул, убив хозяина — строителя казнили. Кодекс защищал фермеров от форс-мажоров, определял зарплаты и защищал должников от бесконечного рабства. \n\nВавилонянки имели уникальные права по меркам Древнего Востока, могли иметь землю, вести дела и выступать в судах. При разводе муж обязан был вернуть жене приданое и оставить средства на содержание детей. Если жена заболевала неизлечимой болезнью, муж имел право взять вторую жену, однако был обязан заботиться о первой.",
       "era": "BC",
       "latitude": 32.543,
       "longitude": 44.421,
@@ -1657,8 +1646,10 @@
       "tags": [
         "Babylonian",
         "Code",
+        "Human Rights",
         "Justice",
-        "Law"
+        "Law",
+        "Text"
       ],
       "type": "political"
     },
@@ -1806,6 +1797,22 @@
     },
     {
       "date": "01.01.1500",
+      "description": "Lapita peoples colonize the Solomon Islands, bringing pigs, chickens, and agricultural crops, demonstrating remarkable seafaring capabilities",
+      "description_ru": "Народы Лапита, демонстрируя выдающиеся мореходные способности, колонизируют Соломоновы острова, привозят свиней, кур и сельскохозяйственные культуры",
+      "era": "BC",
+      "latitude": -8.5,
+      "longitude": 159.5,
+      "name": "Solomon Islands Settlement",
+      "name_ru": "Заселение Соломоновых островов Лапита",
+      "tags": [
+        "Lapita",
+        "Migration",
+        "Solomon Islands"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1500",
       "description": "Mesopotamians invent the seeder plow, revolutionizing agriculture and food production",
       "description_ru": "Месопотамцы изобретают сеялочный плуг, революционизируя сельское хозяйство и производство пищи",
       "era": "BC",
@@ -1823,24 +1830,6 @@
     },
     {
       "date": "01.01.1500",
-      "description": "Nok culture develops on the Jos Plateau in Nigeria, creating elaborate terracotta sculptures and advanced iron-working techniques",
-      "description_ru": "Культура Нок развивается на плато Джос в Нигерии. Культура знаменита терракотовыми скульптурами и передовыми техниками обработки железа",
-      "era": "BC",
-      "latitude": 9.928,
-      "longitude": 8.893,
-      "name": "Nok Culture Begins",
-      "name_ru": "Нигерийская культура Нок",
-      "source": "https://www.britishmuseum.org/collection/term/x68551",
-      "tags": [
-        "Culture",
-        "Iron",
-        "Nok",
-        "Sculpture"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.1500",
       "description": "Early agricultural developments in Mesoamerica with domestication of maize, beans, and squash forming the 'Three Sisters' crop system",
       "description_ru": "Ранние сельскохозяйственные разработки в Мезоамерике с одомашниванием кукурузы, бобов и тыквы, образующих систему 'Три сестры'",
       "era": "BC",
@@ -1851,25 +1840,10 @@
       "tags": [
         "Agriculture",
         "Domestication",
-        "Mesoamerica"
+        "Food",
+        "Mesoamerican"
       ],
       "type": "scientific"
-    },
-    {
-      "date": "01.01.1500",
-      "description": "Lapita peoples colonize the Solomon Islands, bringing pigs, chickens, and agricultural crops, demonstrating remarkable seafaring capabilities",
-      "description_ru": "Народы Лапита, демонстрируя выдающиеся мореходные способности, колонизируют Соломоновы острова, привозят свиней, кур и сельскохозяйственные культуры",
-      "era": "BC",
-      "latitude": -8.5,
-      "longitude": 159.5,
-      "name": "Solomon Islands Settlement",
-      "name_ru": "Заселение Соломоновых островов Лапита",
-      "tags": [
-        "Lapita",
-        "Migration",
-        "Solomon Islands"
-      ],
-      "type": "historic"
     },
     {
       "date": "01.01.1479",
@@ -2481,6 +2455,22 @@
     },
     {
       "date": "01.01.1300",
+      "description": "Talepakemalai site established in Mussau Islands as the largest early Lapita settlement, featuring stilt houses and extensive pottery assemblages",
+      "description_ru": "Поселение Талепакемалаи основано на островах Муссау как крупнейшее раннее поселение Лапита со свайными домами и обширными керамическими коллекциями",
+      "era": "BC",
+      "latitude": -1.533,
+      "longitude": 149.633,
+      "name": "Talepakemalai Settlement",
+      "name_ru": "Поселение Лапита Талепакемалаи",
+      "tags": [
+        "City",
+        "Colonization",
+        "Lapita"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1300",
       "description": "The last major Indus Valley cities are abandoned, marking the end of one of the world's earliest urban civilizations",
       "description_ru": "Последние крупные города долины Инда покинуты. Это знаменует конец одной из древнейших городских цивилизаций мира",
       "era": "BC",
@@ -2496,22 +2486,6 @@
         "Indus Valley"
       ],
       "type": "historic"
-    },
-    {
-      "date": "01.01.1300",
-      "description": "Talepakemalai site established in Mussau Islands as the largest early Lapita settlement, featuring stilt houses and extensive pottery assemblages",
-      "description_ru": "Поселение Талепакемалаи основано на островах Муссау как крупнейшее раннее поселение Лапита со свайными домами и обширными керамическими коллекциями",
-      "era": "BC",
-      "latitude": -1.533,
-      "longitude": 149.633,
-      "name": "Talepakemalai Settlement",
-      "name_ru": "Поселение Лапита Талепакемалаи",
-      "tags": [
-        "City",
-        "Colonization",
-        "Lapita"
-      ],
-      "type": "cultural"
     },
     {
       "date": "01.01.1295",

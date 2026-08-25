@@ -145,7 +145,7 @@
     {
       "date": "01.01.0701",
       "description": "Under the Umayyads, Armenia lost its autonomy and became a province of the Caliphate. A permanent Caliph's viceroy, the ostikan, was established in Dvin, wielding unlimited military, judicial, and financial authority. Tax exemptions were abolished. Many Armenian aristocrats were executed. Muslim quarters and Arab garrisons appeared in the cities. However, the Armenians also gained access to the vast Umayyad market, and the Arabs brought new technologies to the region. By weakening the warlike Mamikonian family, the Umayyads allowed the Bagratuni dynasty to grow stronger, which played a significant role in the country's subsequent history.",
-      "description_ru": "При Омейядах Армения утратила автономию и стала провинцией халифата. В Двине сел постоянный наместник халифа — остикан, обладавший неограниченной военной, судебной и финансовой властью. Налоговые льготы были отменены. Многие армянские аристократы были казнены. В городах появились мусульманские кварталы и арабские гарнизоны. Однако, помимо этого, армяне получили обширный рынок Омейядов и с арабами в регион пришли новые технологии. Ослабив воинственный род Мамиконянов, Омейяды позволили усилиться династии Багратуни, что сыграло в роль в дальнейшей истории страны.",
+      "description_ru": "При Омейядах Армения утратила автономию и стала провинцией халифата. В Двине сел постоянный наместник халифа — остикан, обладавший неограниченной военной, судебной и финансовой властью. Налоговые льготы были отменены. Многие армянские аристократы были казнены. В городах появились мусульманские кварталы и арабские гарнизоны. Однако, армяне получили обширный рынок Омейядов, и с арабами в регион пришли новые технологии. Ослабив воинственный род Мамиконянов, Омейяды позволили усилиться династии Багратуни, что сыграло в роль в дальнейшей истории страны.",
       "era": "AD",
       "latitude": 40.01814959,
       "longitude": 44.52827454,
@@ -156,7 +156,8 @@
         "Arabian",
         "Armenian",
         "Umayyad",
-        "Kingdom"
+        "Kingdom",
+        "Vassalage"
       ],
       "type": "historic"
     },
@@ -210,9 +211,9 @@
       "type": "military"
     },
     {
-      "date": "19.07.0711",
-      "description": "Tariq ibn Ziyad, a Berber general serving the Umayyad governor of North Africa Musa ibn Nusayr, crosses the Strait of Gibraltar with seven thousand troops — mostly Berber converts to Islam — lands beneath the great rock that will bear his name (Jabal Tariq, Gibraltar) and defeats the Visigothic King Roderic at the Battle of Guadalete. Roderic is killed in the battle; the Visigothic kingdom, weakened by internal dynastic disputes and aristocratic defection, collapses with startling speed. Within three years, Tariq and the reinforcements brought by Musa ibn Nusayr conquer virtually the entire Iberian Peninsula, reaching the Pyrenees.\n\nThe conquest of Spain—by ​​the Arabs as Al-Andalus—is one of the fastest and most iconic conquests in world history. The peninsula, which had been Christian for three hundred years, became Muslim within a decade.",
-      "description_ru": "Тарик ибн Зийад, берберский полководец на службе умайядского наместника Северной Африки Мусы ибн Нусайра, переправляется через Гибралтарский пролив с семью тысячами войск — преимущественно берберских новообращённых мусульман — высаживается у великой скалы, которая будет носить его имя (Джабаль Тарик, Гибралтар), и разбивает вестготского короля Родерика в битве при Гвадалете. Родерик погибает в битве; Вестготское королевство, ослабленное внутренними династическими распрями и дефекцией аристократии, рушится с поразительной быстротой. Менее чем за три года Тарик и подкрепления Мусы ибн Нусайра завоёвывают практически весь Иберийский полуостров.\n\nЗавоевание Испании — известной арабам как Аль-Андалус — является одним из самых быстрых и значимых завоеваний в мировой истории. Полуостров, который был христианским в течение трехсот лет, становится мусульманским за десятилетие.",
+      "date": "01.04.0711",
+      "description": "Tariq ibn Ziyad, a Berber commander in the service of the Umayyad governor of North Africa, Musa ibn Nusayr, crossed the Strait of Gibraltar with seven thousand troops—mostly Berber converts to Islam — landed at the great rock that would bear his name (Jabal Tariq, Gibraltar), and began the conquest of Spain, known to the Arabs as Al-Andalus.\n\nTariq's advance was swift. Within months, the Muslims reached Toledo; within three years, most of the peninsula was under Umayyad rule. The Visigothic kingdom fell. The remaining Christians retreated to the Asturian mountains in the north, where the Reconquista would later begin.",
+      "description_ru": "Тарик ибн Зийад, берберский полководец на службе умайядского наместника Северной Африки Мусы ибн Нусайра, переправляется через Гибралтарский пролив с семью тысячами войск — преимущественно берберских новообращённых мусульман — высаживается у великой скалы, которая будет носить его имя (Джабаль Тарик, Гибралтар) и начинает завоевание Испании, известной арабам, как Аль-Андалус.\n\nПродвижение Тарика стремительно. В течение месяцев мусульмане приходят Толедо; в течение трёх лет большая часть полуострова уже под омейядской властью. Вестготское королевство пало. Оставшиеся христиане отступили в астурийские горы на севере, где позднее и начнётся Реконкиста.",
       "era": "AD",
       "latitude": 36.1408,
       "longitude": -5.3536,
@@ -228,7 +229,9 @@
         "Christian",
         "Conquest",
         "Foundation",
+        "Iberia",
         "Islamic",
+        "Reconquista",
         "Visigoth"
       ],
       "type": "military"
@@ -293,6 +296,7 @@
         "Berber",
         "Expansion",
         "Islamic",
+        "Reconquista",
         "Frankish"
       ],
       "type": "military"
@@ -381,7 +385,8 @@
         "Cordoba",
         "Foundation",
         "Islamic",
-        "Political"
+        "Political",
+        "Reconquista"
       ],
       "type": "political"
     }

@@ -105,8 +105,8 @@
       "era": "AD",
       "latitude": 51.5,
       "longitude": 30.5,
-      "name": "The Slavic Expansion",
-      "name_ru": "Славянское расселение",
+      "name": "The Slavic Expansion in Europe",
+      "name_ru": "Славянское расселение в Европе",
       "source": "https://en.wikipedia.org/wiki/Migration_period#Slavs",
       "tags": [
         "Agriculture",
@@ -647,6 +647,7 @@
       "tags": [
         "Roman",
         "Diplomacy",
+        "Baptism",
         "Byzantine",
         "Christian",
         "Kyiv",
@@ -2624,8 +2625,8 @@
       "era": "AD",
       "latitude": 47.20726814,
       "longitude": 102.84087181,
-      "name": "Start of Western Mongolian Invasion",
-      "name_ru": "Начало монгольского вторжения на запад",
+      "name": "Start of Western Mongolian Invasion into Rus",
+      "name_ru": "Начало монгольского вторжения в Русь",
       "source": "https://en.wikipedia.org/wiki/Mongol_invasion_of_Kievan_Rus%27",
       "tags": [
         "War",

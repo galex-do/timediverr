@@ -479,9 +479,9 @@
         "Battle",
         "Legend",
         "Aetius 👤",
+        "Burgundy",
         "Germanic",
-        "Huns",
-        "Burgundian"
+        "Huns"
       ],
       "type": "military"
     },
@@ -538,11 +538,11 @@
       "tags": [
         "Roman",
         "Aetius 👤",
+        "Burgundy",
         "Foundation",
         "Kingdom",
         "Migration",
-        "Political",
-        "Burgundian"
+        "Political"
       ],
       "type": "historic"
     },

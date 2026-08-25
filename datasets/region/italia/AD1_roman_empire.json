@@ -147,8 +147,8 @@
       "era": "AD",
       "latitude": 41.89022208,
       "longitude": 12.48602092,
-      "name": "Tiberius - Emperor of Rome",
-      "name_ru": "Тиберий - император Рима",
+      "name": "Tiberius — Emperor of Rome",
+      "name_ru": "Тиберий — император Рима",
       "source": "https://en.wikipedia.org/wiki/Augustus",
       "tags": [
         "Roman",
@@ -591,8 +591,8 @@
       "era": "AD",
       "latitude": 41.88879242,
       "longitude": 12.48667538,
-      "name": "Nerva is the first of Rome's \"five good emperors\"",
-      "name_ru": "Нерва - первый из «пяти хороших императоров» Рима",
+      "name": "Nerva — the first of Rome's \"five good emperors\"",
+      "name_ru": "Нерва — первый из «пяти хороших императоров» Рима",
       "source": "https://en.wikipedia.org/wiki/Nerva",
       "tags": [
         "Roman",

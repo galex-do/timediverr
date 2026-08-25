@@ -6,8 +6,8 @@
       "description": "On the eve of the Roman conquest, the Iberian Peninsula was one of the most culturally diverse regions of the western Mediterranean. The eastern and southern coasts were inhabited by the Iberians proper—sedentary agricultural and trading peoples who had absorbed centuries of Phoenician and Greek influence, building fortified cities, developing a distinctive script, and producing exquisite stone sculpture.\n\nThe interior and northwestern regions were populated by Celtic and Celtiberian peoples—the product of the collision of Celtic migrations with the indigenous Iberian population. They built fortified hilltop settlements called castros, drove cattle across the high plateau, and fought with the long iron swords that would later give Rome its gladius. The far northwest was inhabited by the Lusitanians—a fiercely independent people whose territory roughly corresponded to modern-day Portugal. They mined gold and tin, maintained long-distance trade networks, and organized themselves into complex tribal confederations.",
       "description_ru": "Иберийский полуостров накануне римского завоевания был одним из наиболее культурно разнообразных регионов западного Средиземноморья. Побережье востока и юга населяли собственно иберы — оседлые земледельческие и торговые народы, впитавшие века финикийского и греческого влияния, строившие укреплённые города, создавшие самобытное письмо и производившие изысканную каменную скульптуру. \n\nВнутренние и северо-западные районы были населены кельтскими и кельтиберийскими народами — продуктом столкновения кельтских миграций с исконным иберийским населением, — строившими вершинные укреплённые поселения, называемые кастрос, гонявшими скот по высокогорному плоскогорью и сражавшимися длинными железными мечами, которые позднее дадут Риму его гладий. Крайний северо-запад населяли лузитане — яростно независимый народ, чья территория примерно соответствует современной Португалии. Они добывали золото и олово, поддерживали дальнеторговые сети и организовывались в сложные племенные конфедерации.",
       "era": "BC",
-      "latitude": 39.474,
-      "longitude": -0.379,
+      "latitude": 39.47624539,
+      "longitude": -0.37483335,
       "name": "The peoples of pre-Roman Iberia",
       "name_ru": "Народы доримской Иберии",
       "source": "https://en.wikipedia.org/wiki/Iberians",
@@ -130,6 +130,25 @@
     },
     {
       "date": "01.01.0197",
+      "description": "The Roman Senate established a permanent provincial government for Iberia, dividing the Roman-controlled territory into two provinces: Hispania Citerior (Nearer Spain), encompassing the northeast and the Ebro Valley, and Hispania Ulterior (Further Spain), covering the Guadalquivir Valley and the rich agricultural and mining regions of the south. The establishment of these two provinces signified Rome's recognition of its intention to retain Iberia after the Punic Wars. But it was also a declaration of intent over a territory Rome did not yet fully control. The mountainous regions and the Atlantic coast remained in the hands of peoples who had never accepted Carthaginian rule and saw no reason to accept Roman rule.",
+      "description_ru": "Римский сенат установил постоянное провинциальное управление для Иберии, разделив контролируемую Римом территорию на две провинции: Hispania Citerior — Ближняя Испания, охватывавшая северо-восток и долину Эбро, — и Hispania Ulterior — Дальняя Испания, покрывавшая долину Гвадалквивира и богатые аграрные и горнорудные районы юга. Учреждение двух провинций означало признание того, что Рим не намерен покидать Иберию после Пунических войн. Но это также была декларация намерений над территорией, которую Рим ещё не полностью контролировал. Горные регионы и атлантическое побережье оставались в руках народов, никогда не принимавших карфагенского владычества и не видевших оснований принимать римское.",
+      "era": "BC",
+      "latitude": 41.11469975,
+      "longitude": 1.25881433,
+      "name": "Hispania Citerior and Ulterior",
+      "name_ru": "Рим делит Испанию на две провинции",
+      "source": "https://en.wikipedia.org/wiki/Hispania",
+      "tags": [
+        "Roman",
+        "Administration",
+        "Expansion",
+        "Law",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0197",
       "description": "The same year that Rome organized its Iberian provinces, the peninsula erupted in rebellion. The Iberian tribes of the interior and the Turdetani of the south simultaneously rose up against the Roman governors, whose tax demands and personal cruelty had alienated the population. The rebellion was serious enough for Rome to send a consul, Marcus Porcius Cato, with a significant army, a response usually reserved for the most dangerous military crises.\n\nThe rebellion became the starting point for a recurring pattern in distant Spain: a greedy Roman administration provoked rebellion, Rome sent in troops, the situation worsened, leading to further rebellions. Iberia and local corruption forced the Senate to create permanent courts and a legislative framework for provincial governance, which later extended to all other provinces.",
       "description_ru": "В тот же год, когда Рим организовал свои иберийские провинции, полуостров взорвался восстанием. Иберийские племена внутренних районов и турдетаны юга одновременно поднялись против римских наместников, чьи налоговые требования и личная жестокость оттолкнули население. Восстание было достаточно серьёзным, чтобы Рим послал консула — Марка Порция Катона — со значительной армией, ответ, обычно резервируемый для наиболее опасных военных кризисов.\n\nВосстание стало отправной точкой для повторяющегося в далекой Испании сюжета: жадная римская администрация провоцировала возмущение, Рим вводил войска, становилось тяжелее, это приводило к новым бунтам. Иберия и местная коррупция вынудили Сенат создавать постоянные суды и законодательную базу для управления провинциями, которые позднее стали работать и для всех других провинций.",
       "era": "BC",
@@ -148,25 +167,6 @@
         "Rebellion"
       ],
       "type": "military"
-    },
-    {
-      "date": "01.01.0197",
-      "description": "The Roman Senate established a permanent provincial government for Iberia, dividing the Roman-controlled territory into two provinces: Hispania Citerior (Nearer Spain), encompassing the northeast and the Ebro Valley, and Hispania Ulterior (Further Spain), covering the Guadalquivir Valley and the rich agricultural and mining regions of the south. The establishment of these two provinces signified Rome's recognition of its intention to retain Iberia after the Punic Wars. But it was also a declaration of intent over a territory Rome did not yet fully control. The mountainous regions and the Atlantic coast remained in the hands of peoples who had never accepted Carthaginian rule and saw no reason to accept Roman rule.",
-      "description_ru": "Римский сенат установил постоянное провинциальное управление для Иберии, разделив контролируемую Римом территорию на две провинции: Hispania Citerior — Ближняя Испания, охватывавшая северо-восток и долину Эбро, — и Hispania Ulterior — Дальняя Испания, покрывавшая долину Гвадалквивира и богатые аграрные и горнорудные районы юга. Учреждение двух провинций означало признание того, что Рим не намерен покидать Иберию после Пунических войн. Но это также была декларация намерений над территорией, которую Рим ещё не полностью контролировал. Горные регионы и атлантическое побережье оставались в руках народов, никогда не принимавших карфагенского владычества и не видевших оснований принимать римское.",
-      "era": "BC",
-      "latitude": 41.11469975,
-      "longitude": 1.25881433,
-      "name": "Hispania Citerior and Ulterior",
-      "name_ru": "Рим делит Испанию на две провинции",
-      "source": "https://en.wikipedia.org/wiki/Hispania",
-      "tags": [
-        "Roman",
-        "Administration",
-        "Expansion",
-        "Law",
-        "Political"
-      ],
-      "type": "political"
     },
     {
       "date": "01.01.0195",
@@ -255,6 +255,25 @@
       "type": "military"
     },
     {
+      "date": "01.01.0138",
+      "description": "The city was founded by the Roman consul Decimus Junius Brutus. He granted fertile lands along the Turia River to veterans of his legions for their valiant service in the war against the Lusitanian tribes. The city was named Valentia, which literally means \"Courage.\"",
+      "description_ru": "Город основал римский консул Децим Юний Брут. Он выделил плодородные земли у реки Турия ветеранам своих легионов за их доблестную службу в войне с племенами лузитан. Город назвали Валентия (лат. Valentia), что буквально означает «Мужество»",
+      "era": "BC",
+      "latitude": 39.47624539,
+      "longitude": -0.37483335,
+      "name": "Rome founds Valentia",
+      "name_ru": "Рим основывает Валентию",
+      "source": "https://en.wikipedia.org/wiki/Valencia",
+      "tags": [
+        "Roman",
+        "City",
+        "Colonization",
+        "Expansion",
+        "Iberia"
+      ],
+      "type": "historic"
+    },
+    {
       "date": "01.01.0133",
       "description": "Numantia, a Celtiberian hilltop town on a ridge above the Duero River in northern Spain, became Rome's greatest disgrace in Iberia. For twenty years, Numantian warriors repelled Roman attacks, inflicting humiliating defeats, including the capture of a Roman consul and 20,000 soldiers forced to march under the yoke.\n\nThe Senate turned to Scipio Aemilianus, the destroyer of Carthage, giving him special command to end the war. He arrived with his legions, built seven-kilometer-long siege fortifications around the city, cut off its supplies, and simply waited. After fifteen months, the city began to starve. Most chose death rather than surrender—burning their city and committing suicide rather than share in the Roman triumph. Those who surrendered were sold into slavery; Numantia was razed to the ground.",
       "description_ru": "Нуманция — кельтиберийский вершинный городок на гребне над рекой Дуэро в северной Испании, — стала величайшим позором Рима в Иберии. Двадцать лет нуманцийские воины отражали атаки римлян, нанося унизительные поражения, включавшие захват римского консула и 20 тысяч солдат, вынужденных пройти под ярмом.\n\nСенат обратился к Сципиону Эмилиану — разрушителю Карфагена, — дав ему особое командование для завершения войны. Он прибыл с легионами, выстроил семикилометровые осадные укрепления вокруг города, отрезал его от снабжения и просто ждал. После пятнадцати месяцев город начал вымирать от голода. Большинство предпочло смерть сдаче — сожгло свой город и покончило с собой, лишь бы не участвовать в римском триумфе. Сдавшихся продали в рабство; Нуманцию сравняли с землёй.",
@@ -300,6 +319,69 @@
       "type": "political"
     },
     {
+      "date": "01.01.0074",
+      "description": "Gnaeus Pompey, sent with an army to Iberia to suppress the rebellion of General Quintus Sertorius, enlisted the help of the Basque Vascones and established a fortified camp on a hill above the Arga River to control the passes through the Pyrenees into Gaul. The Basques gradually began to settle around the camp for trade and security. The Romans built stone walls, baths, a forum, and roads there.",
+      "description_ru": "Гней Помпей, отправленный с войском в Иберию подавлять восстание генерала Квинта Сертория, воспользовался помощью баскского племени васконов и разбил укрепленный лагерь на холме над рекой Арга для контроля проходов через Пиренеи в Галлию. Баски постепенно стали селиться вокруг лагеря ради торговли и безопасности. Римляне построили там каменные стены, бани, форум и дороги.",
+      "era": "BC",
+      "latitude": 42.8185737,
+      "longitude": -1.64363623,
+      "name": "Rome founds Pompelo in Iberia",
+      "name_ru": "Рим основывает Помпело в Иберии",
+      "source": "https://en.wikipedia.org/wiki/Pamplona",
+      "tags": [
+        "Roman",
+        "Civil War",
+        "City",
+        "Basque",
+        "Expansion",
+        "Fortification",
+        "Iberia",
+        "Pompey the Great 👤"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.09.0061",
+      "description": "Caesar storms the Serra da Estrela mountains, driving the Herminii and Lusitanians from their mountain refuges and forcibly resettling them on the plains. Using a fleet from Cadiz and basing his operations in Olisipo, he eradicates piracy in the region and captures the barbarians as slaves.",
+      "description_ru": "Цезарь штурмует горы Серра-да-Эштрела, выбивает герминиев и лузитан из горных убежищ и принудительно переселяет их на равнины. Используя флот из Кадиса и базируя свои операции в Олисипо, он искореняет пиратство в регионе и захватывает варваров в рабство. ",
+      "era": "BC",
+      "latitude": 38.71401192,
+      "longitude": -9.13232088,
+      "name": "Caesar subjugates Lusitania to Rome",
+      "name_ru": "Цезарь подчиняет Риму Лузитанию",
+      "tags": [
+        "Roman",
+        "War",
+        "Conquest",
+        "Iberia",
+        "Julius Caesar 👤",
+        "Lusitani",
+        "Tribal"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "15.05.0061",
+      "description": "The only legal way for a Roman general to become fabulously rich was through the spoils of war (manubiae). Julius Caesar desperately needed to pay off his debts during his term as propraetor. In Spain, he found only two legions, declared emergency mobilization, and recruited another legion from the locals. The army swelled to 15,000 men. Caesar then demanded enormous payments from the local Lusitanian tribes. The tribes, of course, refused, and Caesar received a legitimate casus belli.",
+      "description_ru": "Единственный легальный способ сказочно разбогатеть для римского генерала — это военная добыча (manubiae). Юлию Цезарю за срок службы пропретора жизненно необходимо было закрыть долги. В Испании он застает всего 2 легиона, объявляет срочную мобилизацию и набирает еще один легион из местных жителей. Армия увеличивается до 15 тысяч человек. Затем Цезарь требует от местных лузитанских племен огромных выплат. Племена, конечно, отказываются, и Цезарь получает законный Casus Belli.",
+      "era": "BC",
+      "latitude": 37.88507881,
+      "longitude": -4.78496432,
+      "name": "Caesar gathers legions in Corduba",
+      "name_ru": "Цезарь собирает легионы в Кордубе",
+      "tags": [
+        "Roman",
+        "Debt",
+        "Governor",
+        "Iberia",
+        "Julius Caesar 👤",
+        "Lusitani",
+        "Political",
+        "Trick"
+      ],
+      "type": "historic"
+    },
+    {
       "date": "01.01.0029",
       "description": "The Cantabrian and Asturian peoples of northwestern Iberia resisted Roman penetration for over a century. Living in the rugged Atlantic ridges, they maintained their independence thanks to a combination of terrain, a fierce warrior culture, and Rome's reluctance to invest heavily in economically unprofitable territories. Augustus changed this calculus: a completely pacified Iberian Peninsula was both a strategic and symbolic requirement for the new empire he was building. The Cantabrian Wars lasted 10 years and were among the most difficult campaigns the young Augustus ever waged. The gold and tin mines of Gallaetia became the ultimate prize: under Roman exploitation, they produced colossal wealth and financed Augustus's construction program throughout the empire.",
       "description_ru": "Кантабрийский и астурийский народы северо-западной Иберии сопротивлялись римскому проникновению более века. Живя в суровых атлантических хребтах, они сохраняли независимость благодаря сочетанию рельефа, яростной воинской культуры и нежелания Рима вкладывать большие силы в экономически невыгодные территории. Август изменил расчёт: полностью умиротворённый Иберийский полуостров был и стратегическим, и символическим требованием новой империи, которую он строил. Кантабрийские войны длились 10 лет и были одними из самых трудных кампаний, которые молодой Август когда-либо вёл. Золотые и оловянные рудники Галлаэции стали главной наградой: под римской разработкой они дали колоссальные богатства и профинансировали строительную программу Августа по всей империи.",
@@ -342,6 +424,45 @@
         "Octavian 👑"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.01.0025",
+      "description": "During the Cantabrian War, the Romans founded a fortified military camp where the VI Victorious Legion (Legio VI Victrix) was stationed. In 74, the camp was occupied by another legion - the VII Double Legion (Legio VII Gemina). The mission of the legion stationed here was to guard Las Medulas, the largest gold mines of the Roman Empire.",
+      "description_ru": "В ходе Кантабрийской войны римляне основали укрепленный военный лагерь, где расквартировали VI Победоносный легион (Legio VI Victrix). В 74 году лагерь занял другой легион — VII Сдвоенный легион (Legio VII Gemina). Задачей размещенного здесь легиона была охрана Лас-Медулас, крупнейших золотых рудников Римской империи.",
+      "era": "BC",
+      "latitude": 42.60051432,
+      "longitude": -5.56888819,
+      "name": "Roman Castra Legionis in Iberia",
+      "name_ru": "Римский Кастра Легионис в Иберии",
+      "tags": [
+        "Roman",
+        "Colonization",
+        "Expansion",
+        "Fortification",
+        "Settlement"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0020",
+      "description": "Local tribes knew there was gold in the mountains and for centuries carefully panned for gold dust in streams and rivers. Roman military engineers, who arrived here as a result of the Cantabrian War, designed a barbaric but exceptionally large-scale system: they cut canals in the mountains, brought water from mountain rivers, and literally \"exploded\" the mountains with torrents of water, washing out the precious metal. Legionnaires controlled thousands of local slaves, smelted the gold into ingots, and delivered it to Rome.\n\nOver the course of two and a half centuries, the Romans blew up and washed away an entire mountain range, extracting, according to various estimates, between 800 and 1,500 tons of pure gold.",
+      "description_ru": "Местные племена знали, что в горах есть золото и веками аккуратно намывали золотой песок в ручьях и реках. Римские военные инженеры, пришедшие сюда в результате Кантабрийской войны, спроектировали там варварскую, но исключительную по масштабам систему: они прорубали в горах каналы, подводили воду из горных рек и буквально «взрывали» горы потоками воды, вымывая драгоценный металл. Легионеры контролировали тысячи местных рабов, плавили золото в слитки и доставляли его в Рим.\n\nЗа два с половиной века римляне взорвали и смыли целую горную гряду, добыв, по разным оценкам, от 800 до 1500 тонн чистого золота.",
+      "era": "BC",
+      "latitude": 42.46019364,
+      "longitude": -6.76826477,
+      "name": "Roman gold mining at Las Medulas",
+      "name_ru": "Римская золотодобыча в Лас-Медулас",
+      "source": "https://whc.unesco.org/en/list/803/",
+      "tags": [
+        "Roman",
+        "Engineering ⚙️",
+        "Gold",
+        "Iberia",
+        "Innovation",
+        "Mining",
+        "Technology"
+      ],
+      "type": "scientific"
     },
     {
       "date": "01.01.0019",
@@ -462,7 +583,7 @@
         "Food",
         "Olives",
         "Trade",
-        "Winemaking"
+        "Wine"
       ],
       "type": "cultural"
     },

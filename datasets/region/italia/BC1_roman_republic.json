@@ -2485,25 +2485,6 @@
     },
     {
       "date": "01.01.0167",
-      "description": "Rome abolishes the tributum, direct tax on Roman citizens, paid for by the wealth flowing from conquered territories and provinces. Citizens would not pay direct taxes again until the crisis of the Empire three centuries later.",
-      "description_ru": "Рим отменяет tributum, прямой налог на римских граждан. Казна была переполнена военной добычей после ряда военных побед, а поступления от провинций полностью покрывали расходы республики. Это решение подчеркивало статус римлян как привилегированного класса ",
-      "era": "BC",
-      "latitude": 41.89318911,
-      "longitude": 12.48506606,
-      "name": "Direct Citizen Tax Abolished",
-      "name_ru": "Отмена прямого налога на граждан",
-      "source": "https://en.wikipedia.org/wiki/Tributum",
-      "tags": [
-        "Roman",
-        "Administration",
-        "Political",
-        "Taxes",
-        "Wealth"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.0167",
       "description": "Following their victory over Macedonia, the Romans transferred the island of Delos to Athenian control and declared it a tax-free zone (atelia). All merchants from Phoenicia, Egypt, and Italy, who had previously paid tolls at the Rhodes harbor, immediately transferred their ships to Delos.",
       "description_ru": "Римляне по итогу победы над Македонией передали остров Делос под управление Афин и объявили его зоной, свободной от налогов (ателия). Все купцы из Финикии, Египта и Италии, которые раньше платили пошлину в гавани Родоса, мгновенно перевели свои корабли на Делос.",
       "era": "BC",
@@ -2519,6 +2500,25 @@
         "Route",
         "Taxes",
         "Trade"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0167",
+      "description": "Rome abolishes the tributum, direct tax on Roman citizens, paid for by the wealth flowing from conquered territories and provinces. Citizens would not pay direct taxes again until the crisis of the Empire three centuries later.",
+      "description_ru": "Рим отменяет tributum, прямой налог на римских граждан. Казна была переполнена военной добычей после ряда военных побед, а поступления от провинций полностью покрывали расходы республики. Это решение подчеркивало статус римлян как привилегированного класса ",
+      "era": "BC",
+      "latitude": 41.89318911,
+      "longitude": 12.48506606,
+      "name": "Direct Citizen Tax Abolished",
+      "name_ru": "Отмена прямого налога на граждан",
+      "source": "https://en.wikipedia.org/wiki/Tributum",
+      "tags": [
+        "Roman",
+        "Administration",
+        "Political",
+        "Taxes",
+        "Wealth"
       ],
       "type": "political"
     },
@@ -2686,8 +2686,8 @@
       "era": "BC",
       "latitude": 41.89318911,
       "longitude": 12.48506606,
-      "name": "Introduction of Secret Ballot",
-      "name_ru": "Введение тайного голосования",
+      "name": "Introduction of Secret Ballot in Rome",
+      "name_ru": "Введение тайного голосования в Риме ",
       "source": "https://en.wikipedia.org/wiki/Lex_Gabinia_tabellaria",
       "tags": [
         "Roman",
@@ -2756,23 +2756,6 @@
     },
     {
       "date": "01.01.0123",
-      "description": "Quintus Caecilius Metellus conquered the island, exterminating the pirates. The cities of Palma and Pollentia (modern Alcudia) were founded. The Romans brought olives and grapes to the island and gradually replaced the Talaiotic culture that originally existed on the island.",
-      "description_ru": "Квинт Цецилий Метелл завоевал остров, истребив пиратов. Были основаны города Пальма и Полленция (современная Алькудия). Римляне привезли на остров оливы и виноград, и постепенно заместили изначально существовавшую на острове талайотскую культуру",
-      "era": "BC",
-      "latitude": 39.58029027,
-      "longitude": 2.64358521,
-      "name": "The capture of Mallorca by Rome",
-      "name_ru": "Захват Майорки Римом",
-      "tags": [
-        "Roman",
-        "Conquest",
-        "Expansion",
-        "Piracy"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.01.0123",
       "description": "Gaius Gracchus, brother of Tiberius, becomes tribune and enacts sweeping reforms: subsidized grain for Romans, jury reform to break senatorial corruption, road building, and colonial foundations. After two terms, he is declared a public enemy and killed with 3,000 supporters.",
       "description_ru": "Гай Гракх, брат Тиберия, становится трибуном и проводит еще более радикальные реформы, чем брат: субсидированное зерно для римлян, судебная реформа для борьбы с сенаторской коррупцией, строительство дорог и основание колоний. Его работа подрывала влияние Сената и аристократии. После двух сроков Гая и тысячи его последователей объявили врагами государства и стали их убивать без суда.",
       "era": "BC",
@@ -2792,6 +2775,23 @@
         "Senate"
       ],
       "type": "political"
+    },
+    {
+      "date": "01.01.0123",
+      "description": "Quintus Caecilius Metellus conquered the island, exterminating the pirates. The cities of Palma and Pollentia (modern Alcudia) were founded. The Romans brought olives and grapes to the island and gradually replaced the Talaiotic culture that originally existed on the island.",
+      "description_ru": "Квинт Цецилий Метелл завоевал остров, истребив пиратов. Были основаны города Пальма и Полленция (современная Алькудия). Римляне привезли на остров оливы и виноград, и постепенно заместили изначально существовавшую на острове талайотскую культуру",
+      "era": "BC",
+      "latitude": 39.58029027,
+      "longitude": 2.64358521,
+      "name": "The capture of Mallorca by Rome",
+      "name_ru": "Захват Майорки Римом",
+      "tags": [
+        "Roman",
+        "Conquest",
+        "Expansion",
+        "Piracy"
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.0121",
@@ -3419,7 +3419,25 @@
       "type": "historic"
     },
     {
-      "date": "01.01.0060",
+      "date": "25.04.0061",
+      "description": "As a result of his active political activities, Julius Caesar incurred enormous debts to Rome's elite. The Senate appointed him propraetor of Further Spain in 61 BC. This was his only chance to survive and earn a living. The governorship restored his immunity, but only after he left Rome.\n\nPlutarch explicitly records that when Caesar was appointed to Spain, his creditors surrounded him and prevented him from leaving Rome. He was saved from legal action by Marcus Licinius Crassus, who vouched for him for 830 talents; he saw Julius Caesar as the ideal instrument to combat his main political rival, Pompey the Great",
+      "description_ru": "Юлий Цезарь в результате активной политической деятельности имел огромные долги перед римскими элитами. Сенат назначил его на 61-й год пропретором в Дальнюю Испанию. Это был его единственный шанс выжить и заработать. Наместничество возвращало ему неприкосновенность, но только с момента, когда он покинет Рим.\n\nПлутарх прямо пишет, что когда Цезарь был назначен в Испанию, кредиторы окружили его и не выпускали из Рима. Его спас от судебных тяжб Марк Лициний Красс, поручившись за него на сумму в 830 талантов; в Юлии Цезаре он видел идеальный инструмент для борьбы со своим главным политическим соперником — Помпеем Великим.",
+      "era": "BC",
+      "latitude": 41.89318911,
+      "longitude": 12.48506606,
+      "name": "Julius Caesar goes to serve in Hispania",
+      "name_ru": "Юлий Цезарь отправляется на службу в Испанию",
+      "source": "https://en.wikipedia.org/wiki/Julius_Caesar",
+      "tags": [
+        "Roman",
+        "Crassus 👤",
+        "Debt",
+        "Julius Caesar 👤"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.08.0060",
       "description": "Caesar, Pompey, and Crassus form an informal alliance to overcome the Senate's resistance to pursuing their personal interests. Pompey needs land for veterans, Crassus needs tax contracts, and Caesar needs the consulship and governorship of Gaul to cover his debts. Caesar reconciles old enemies and marries his daughter to Pompey to cement the alliance.",
       "description_ru": "Цезарь, Помпей и Красс формируют неформальный союз, чтобы поочередно меняться на посту консулов и продвигать свои личные интересы. Помпею нужна земля для ветеранов, Крассу — налоговые контракты, Цезарю — консульство и наместничество в Галлии, чтобы покрыть долги. Цезарь примиряет старых врагов и выдает дочь замуж за Помпея, чтобы скрепить союз.",
       "era": "BC",

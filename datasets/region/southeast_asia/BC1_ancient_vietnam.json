@@ -12,7 +12,7 @@
       "name_ru": "Первые гоминины во Вьетнаме",
       "source": "https://en.wikipedia.org/wiki/Prehistory_of_Vietnam",
       "tags": [
-        "Paleolithic",
+        "Neolithic",
         "Vietnamese"
       ],
       "type": "historic"
@@ -29,7 +29,7 @@
       "source": "https://en.wikipedia.org/wiki/Prehistory_of_Vietnam",
       "tags": [
         "Culture",
-        "Paleolithic",
+        "Neolithic",
         "Vietnamese"
       ],
       "type": "historic"
@@ -118,6 +118,7 @@
       "tags": [
         "Agriculture",
         "Culture",
+        "Food",
         "Neolithic",
         "Rice",
         "Vietnamese"
@@ -269,6 +270,7 @@
       "tags": [
         "Agriculture",
         "Civilization",
+        "Food",
         "Rice",
         "Vietnamese"
       ],
@@ -606,6 +608,7 @@
       "tags": [
         "Cuisine",
         "Culture",
+        "Food",
         "Holidays",
         "Religious",
         "Vietnamese",

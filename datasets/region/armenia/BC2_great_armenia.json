@@ -13,9 +13,10 @@
       "source": "https://en.wikipedia.org/wiki/Areni-1_winery",
       "tags": [
         "Agriculture",
+        "Caucasian",
         "Culture",
         "Neolithic",
-        "Winemaking"
+        "Wine"
       ],
       "type": "cultural"
     },
@@ -895,7 +896,7 @@
       "latitude": 39.87916461,
       "longitude": 44.57530439,
       "name": "Armenia is again a tributary of Rome",
-      "name_ru": "Армения - снова данник Рима",
+      "name_ru": "Армения — снова данник Рима",
       "source": "https://en.wikipedia.org/wiki/Vologases_I_of_Armenia",
       "tags": [
         "Roman",

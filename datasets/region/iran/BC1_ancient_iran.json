@@ -42,8 +42,8 @@
       "description": "Elamite King Siruktuh I invades Mesopotamia, sacking Ur and ending Third Dynasty of Ur, establishing Elam as major power threatening Babylonian independence",
       "description_ru": "Эламский царь Сируктух I вторгается в Месопотамию, разграбляет Ур и завершает Третью династию Ура, утверждая Элам как крупную державу, угрожающую независимости Вавилона",
       "era": "BC",
-      "latitude": 30.9625,
-      "longitude": 46.1031,
+      "latitude": 30.962,
+      "longitude": 46.104,
       "name": "Elamite Sack of Ur",
       "name_ru": "Эламиты разграбляют Ур",
       "source": "https://en.wikipedia.org/wiki/Elam",
@@ -51,7 +51,7 @@
         "Elamites",
         "Conquest",
         "Destruction",
-        "Mesopotamia",
+        "Mesopotamian",
         "Pillage"
       ],
       "type": "military"

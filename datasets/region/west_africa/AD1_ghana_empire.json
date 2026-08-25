@@ -1,6 +1,5 @@
 {
-  "description": "History of the Ghana Empire (c. 300–1200 AD), the first great documented state of the western Sahel. Covers the Soninke kingdom of Wagadou — its astonishing double capital with a sacred grove and twelve mosques six miles apart, the mysterious silent gold trade, royal audiences with gold-collared dogs, matrilineal succession, ancestor religion, the arrival of Islam through merchants rather than conquest, the Bida serpent myth, royal burial with living servants, Almoravid pressure, the blacksmith-sorcerer Sumanguru, and how Ghana became legend through the Soninke diaspora and the Sundiata epic.",
-  "filename": "AD1_ghana_empire.json",
+  "description": "Dataset imported with 23 events",
   "events": [
     {
       "date": "01.01.0300",
@@ -43,39 +42,21 @@
     },
     {
       "date": "01.01.0700",
-      "description": "Traders who brought goods to Ghana from North Africa faced one of the world's most grueling journeys: roughly seventy days by camel caravan across the Sahara, with water rationed between wells sometimes fifty miles apart. Guides from the Sanhaja Berber clans held near-monopoly knowledge of the routes — their expertise was as valuable as the goods themselves, and a wrong turn could kill an entire caravan. Camels carried sealed water jars, dry provisions, and salt slabs weighing up to ninety kilograms each. Sandstorms could bury a trail and force navigation by stars alone. Despite the danger, caravans were lively communities: musicians, storytellers, and merchants from Morocco to Egypt traveled together, sharing news from distant courts. Ghana sat at the southern end of this road — the first great city a northern traveler reached after surviving the crossing.",
-      "description_ru": "Торговцы, везшие товары в Гану из Северной Африки, преодолевали один из самых суровых маршрутов в мире: около семидесяти дней на верблюдах через Сахару, с водой по норме между колодцами, иногда разделёнными пятьюдесятью милями. Проводники из кланов берберов санхаджа знали маршрут наизусть — их опыт стоил не меньше самих товаров, а один неверный поворот мог погубить весь отряд. Верблюды несли запечатанные кувшины с водой, сухой провиант и соляные плиты весом до девяноста килограммов каждая. Песчаные бури могли засыпать тропу, вынуждая ориентироваться только по звёздам. Несмотря на опасность, каравана были живыми сообществами: музыканты, рассказчики и купцы от Марокко до Египта путешествовали вместе, обмениваясь новостями из далёких дворов. Гана стояла у южного конца этой дороги — первый великий город, который видел северянин, переживший переход.",
+      "description": "Traders traveling to Ghana from North Africa endured one of the harshest routes in the world: 70 days on camels across the Sahara, with only rationed water between the few wells. The Sanhaja Berber guides knew the route by heart—their expertise was as valuable as the goods themselves, and one wrong turn could ruin the entire caravan. The camels carried sealed water jugs, dry provisions, and salt slabs weighing up to 90 kg each. Sandstorms could obscure the trail, forcing navigation solely by the stars.\n\nDespite the danger, the caravans were vibrant communities: musicians, storytellers, and merchants from Morocco to Egypt traveled together, exchanging news from distant courts. Koumbi Saleh stood at the southern end of this road—the first great city seen by a northerner who survived the journey.",
+      "description_ru": "Торговцы, едущие в Гану из Северной Африки, преодолевали один из самых суровых маршрутов в мире: 70 дней на верблюдах через Сахару, с водой по норме между редкими колодцами. Проводники из берберов санхаджа знали маршрут наизусть — их опыт стоил не меньше самих товаров, а один неверный поворот мог погубить весь караван. Верблюды несли запечатанные кувшины с водой, сухой провиант и соляные плиты весом до 90 кг каждая. Песчаные бури могли засыпать тропу, вынуждая ориентироваться только по звёздам. \n\nНесмотря на опасность, каравана были живыми сообществами: музыканты, рассказчики и купцы от Марокко до Египта путешествовали вместе, обмениваясь новостями из далёких дворов. Кумби-Сале стоял у южного конца этой дороги — первый великий город, который видел северянин, переживший переход.",
       "era": "AD",
-      "latitude": 15.76556,
-      "longitude": -7.96861,
-      "name": "Seventy days across the Sahara",
-      "name_ru": "Семьдесят дней через Сахару",
+      "latitude": 17.3,
+      "longitude": -7.03,
+      "name": "Trade route through the Sahara",
+      "name_ru": "Торговый путь через Сахару",
       "source": "https://en.wikipedia.org/wiki/Trans-Saharan_trade",
       "tags": [
-        "Ghana",
-        "Trade",
-        "Sahel",
         "African",
-        "Route"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.0830",
-      "description": "Around 833, the mathematician and geographer al-Khwarizmi — the man whose name gave the world the word 'algorithm' — included a land called Ghana in his Kitab Surat al-Ard, the first Arabic world atlas. This is the earliest surviving written mention of the empire, and al-Khwarizmi had never visited Ghana himself; he compiled knowledge from Arab merchants and older geographical texts. His inclusion means that within a century of the great Islamic scholarly expansion, Ghana was already plotted on the known world's mental map. Arab geographers continued placing Ghana on world maps for four centuries after. The empire existed in the imagination of scholars from Baghdad to Córdoba long before any of them had stood on Sahelian soil. For Ghana, being on that map was itself a form of international recognition.",
-      "description_ru": "Около 833 года математик и географ аль-Хорезми — человек, чьё имя дало миру слово «алгоритм», — включил страну под названием Гана в свой труд «Китаб сурат аль-ард», первый арабский атлас мира. Это старейшее из сохранившихся внешних письменных упоминаний империи: сам аль-Хорезми никогда не бывал в Гане — он систематизировал сведения от арабских купцов и более ранних географических текстов. Его включение означает, что уже через столетие после великого расцвета исламской науки Гана была нанесена на мысленную карту известного мира. Арабские географы продолжали помещать Гану на мировые карты на протяжении четырёх следующих столетий. Империя существовала в воображении учёных от Багдада до Кордовы задолго до того, как кто-либо из них ступил на сахельскую землю. Для Ганы присутствие на той карте само по себе было формой международного признания.",
-      "era": "AD",
-      "latitude": 15.76556,
-      "longitude": -7.96861,
-      "name": "Al-Khwarizmi maps Ghana for the world",
-      "name_ru": "Аль-Хорезми наносит Гану на карту мира",
-      "source": "https://en.wikipedia.org/wiki/Al-Khwarizmi",
-      "tags": [
+        "Berber",
         "Ghana",
-        "Culture",
-        "African",
-        "Trade",
-        "Foundation"
+        "Navigation",
+        "Route",
+        "Trade"
       ],
       "type": "historic"
     },
@@ -100,203 +81,160 @@
     },
     {
       "date": "01.01.0950",
-      "description": "The most astonishing feature of Ghana's gold trade was what Arab geographers called the 'silent trade.' Merchants would travel to a riverbank, beat their drums to announce arrival, and lay out piles of goods. Then they retreated out of sight. The local Wangara gold traders would emerge from the forest, place gold dust beside each pile, and disappear again. Merchants returned: if satisfied with the amount, they beat the drums and departed; if not, they left the goods and waited for more gold to appear. Neither side ever saw the other's face. This system protected the Wangara's most jealously guarded secret — the exact location of the gold mines. Arab writers were baffled for centuries, speculating that gold grew like plants underground. Ghana's court likely knew perfectly well where the gold came from, but maintaining the mystery served everyone: it kept prices stable and prevented rivals from bypassing Ghana entirely.",
-      "description_ru": "Самой поразительной чертой золотой торговли Ганы была то, что арабские географы называли «немой торговлей». Купцы приходили к берегу реки, стучали в барабаны, объявляя о себе, раскладывали товары кучами и удалялись из виду. Золотые торговцы вангара выходили из леса, раскладывали рядом с каждой кучей золотой песок и снова исчезали. Купцы возвращались: если количество их устраивало, они забирали золото и уходили под барабанный бой; если нет — оставляли товары и ждали добавки. Ни одна сторона так и не видела лица другой. Система надёжно хранила самый ревниво оберегаемый секрет вангара — точное расположение золотых приисков. Арабские авторы недоумевали столетиями, предполагая, что золото растёт в земле как растения. Двор Ганы, вероятно, прекрасно знал, откуда берётся золото, — но поддерживать тайну было выгодно всем: это стабилизировало цены и не давало соперникам обойти Гану стороной.",
+      "description": "Arab geographers called Ghana's trading tradition \"silent trade.\" Arab merchants would come to the riverbank, beat drums to announce their presence, lay out their wares, and depart. Then, local gold traders (wangara) would emerge, place gold dust next to each pile, and disappear again. The merchants would return: if the quantity was satisfactory, they would take the gold and depart to the sound of drums; if not, they would leave their wares and wait for more. Neither side saw the other's face.\n\nThe system reliably guarded the secret of the wangara — the precise location of gold mines. Arab authors puzzled for centuries, assuming gold grew in the ground like plants. The Ghanaian court likely knew perfectly well where the gold came from, but maintaining the secret was beneficial to everyone: it stabilized prices and prevented rivals from bypassing Ghana.",
+      "description_ru": "Арабские географы называли торговую традицию Ганы «немой торговлей». Арабские купцы приходили к берегу реки, стучали в барабаны, объявляя о себе, раскладывали товары и уходили. Затем торговцы золотом вангара выходили на берег, клали рядом с каждой кучей золотой песок и снова исчезали. Купцы возвращались: если количество их устраивало, они забирали золото и уходили под барабанный бой; если нет — оставляли товары и ждали добавки. Ни одна сторона не видела лица другой. \n\nСистема надёжно хранила секрет вангара — точное расположение золотых приисков. Арабские авторы недоумевали столетиями, предполагая, что золото растёт в земле как растения. Двор Ганы, вероятно, прекрасно знал, откуда берётся золото, — но поддерживать тайну было выгодно всем: это стабилизировало цены и не давало соперникам обойти Гану стороной.",
       "era": "AD",
       "latitude": 15.76556,
       "longitude": -7.96861,
-      "name": "The silent trade: merchants who never met",
-      "name_ru": "Немая торговля: купцы, которые никогда не встречались",
+      "name": "The silent trade of Ghana",
+      "name_ru": "Немая торговля Ганы",
       "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
       "tags": [
+        "African",
+        "Culture",
+        "Customs",
+        "Economic",
         "Ghana",
         "Gold",
-        "Trade",
-        "African",
-        "Economic"
+        "Soninke",
+        "Trade"
       ],
       "type": "historic"
     },
     {
       "date": "01.01.0977",
-      "description": "When the Arab geographer Ibn Hawqal described Aoudaghost around 977, he found startling cosmopolitan comfort in the middle of the Sahara: stone houses with internal rooms and gardens, underground channels supplying running water, and markets selling Egyptian linen, Mediterranean olive oil, and freshly baked wheat bread. Thousands of people lived in a city that had no business existing in such a harsh landscape, held together entirely by commerce and ingenuity. Aoudaghost was the last major city before the desert swallowed the northbound caravans, and the first that southbound travelers reached after surviving the crossing. Its political status changed over time — sometimes under Sanhaja Berber control, sometimes closer to Ghana — but its merchants answered to trade more than to any king. Ibn Hawqal described its ruler as the wealthiest man he had ever encountered anywhere in the known world.",
-      "description_ru": "Когда арабский географ Ибн Хаукаль описал Аудагост около 977 года, он обнаружил поразительный космополитический комфорт в самом сердце Сахары: каменные дома с внутренними помещениями и садами, подземные каналы с проточной водой, рынки с египетским льном, средиземноморским оливковым маслом и свежеиспечённым пшеничным хлебом. Тысячи людей жили в городе, которому не место было в столь суровом ландшафте, — он держался исключительно на торговле и изобретательности жителей. Аудагост был последним крупным городом перед тем, как пустыня поглощала идущие на север каравана, и первым, которого достигали путники с юга, пережившие переход. Его политический статус менялся — то под властью берберов санхаджа, то в орбите Ганы, — но купцы города подчинялись торговле больше, чем любому царю. Ибн Хаукаль описал его правителя как богатейшего человека, которого он когда-либо встречал в известном мире.",
+      "description": "The Arab geographer Ibn Hawqal described a striking cosmopolitan city in the heart of the Sahara: stone houses with interiors and gardens, underground canals with running water, markets selling Egyptian flax, Mediterranean olive oil, and freshly baked wheat bread. Thousands of people lived in this city, which seemed out of place in such a harsh landscape—it was sustained solely by trade and the ingenuity of its inhabitants.\n\nAoudaghost was the last major trading hub on the Sahara border. Its political status fluctuated — sometimes under the rule of the Sanhaja Berbers, sometimes within the orbit of Ghana — but trade was paramount here.",
+      "description_ru": "Арабский географ Ибн Хаукаль описал поразительный космополитический город в самом сердце Сахары: каменные дома с внутренними помещениями и садами, подземные каналы с проточной водой, рынки с египетским льном, средиземноморским оливковым маслом и свежеиспечённым пшеничным хлебом. Тысячи людей жили в городе, которому не место было в столь суровом ландшафте, — он держался исключительно на торговле и изобретательности жителей. \n\nАудагост был последним крупным торговым узлом на границе Сахары. Его политический статус менялся — то под властью берберов санхаджа, то в орбите Ганы, — но торговля здесь была превыше всего.",
       "era": "AD",
       "latitude": 17.417,
       "longitude": -10.417,
-      "name": "Aoudaghost: comfort at the desert's edge",
-      "name_ru": "Аудагост: комфорт на краю пустыни",
+      "name": "Audagost — city on the edge of the Sahara",
+      "name_ru": "Аудагост — город на краю Сахары",
       "source": "https://en.wikipedia.org/wiki/Aoudaghost",
       "tags": [
-        "Ghana",
-        "Trade",
-        "Settlement",
         "City",
-        "African"
+        "African",
+        "Berber",
+        "Ghana",
+        "Route",
+        "Trade"
       ],
       "type": "historic"
     },
     {
       "date": "01.01.1000",
-      "description": "Al-Bakri described Ghana's capital not as one city but two, separated by about six miles of open land. The first was the Muslim merchant town: a dense settlement with twelve mosques — one reserved for Friday congregational prayer — Islamic judges, scholars reading the Quran aloud, and merchants from across North Africa and the Sahara. The second was the royal town: the palace of the Ghana king, huts of his courtiers, a sacred grove no stranger could enter, and burial mounds of past kings. Between the two towns ran a continuous belt of houses and gardens. This dual-city arrangement balanced commerce and politics, Muslim law and traditional Soninke religion, foreign merchants and a royal court following its own sacred customs. No ruler of that era managed such profound religious plurality in so deliberate and stable a way.",
-      "description_ru": "Аль-Бакри описывал столицу Ганы не как один город, а как два, разделённые примерно шестью милями открытого пространства. Первым был мусульманский купеческий город: плотное поселение с двенадцатью мечетями — одна предназначалась для пятничной общей молитвы, — исламскими судьями, учёными, вслух читающими Коран, и купцами со всей Северной Африки и Сахары. Вторым был царский город: дворец правителя Ганы, хижины придворных, священная роща, куда не мог войти ни один чужак, и курганы прошлых царей. Между двумя городами тянулась непрерывная полоса домов и садов. Это двойное устройство уравновешивало торговлю и политику, мусульманское право и традиционную религию сонинке, иноземных купцов и царский двор, живший по собственным священным обычаям. Ни один правитель той эпохи не управлял столь глубоким религиозным многообразием настолько намеренно и устойчиво.",
+      "description": "Al-Bakri noted that Ghana's warriors carried iron swords and spears, while the empire's enemies possessed only wooden or bone weapons—a technological superiority as decisive as gunpowder centuries later. Ghana's blacksmiths were a hereditary caste: knowledge was passed down from father to son, and the workshops were surrounded by ritual prohibitions that barred entry to the uninitiated.\n\nThe same craft that forged weapons also produced tools, meaning control over blacksmith communities determined both military might and agricultural potential.",
+      "description_ru": "Аль-Бакри отмечал, что воины Ганы носили железные мечи и копья, тогда как противники империи располагали лишь деревянным или костяным снаряжением — технологическое превосходство, столь же решающее, как порох спустя века. Кузнецы Ганы являлись наследственной кастой: знания передавались от отца к сыну, а мастерские были окружены ритуальными запретами, не допускавшими непосвящённых. \n\nТо же ремесло, что ковало оружие, производило и орудия труда, а значит, контроль над кузнечными общинами определял как военную мощь, так и сельскохозяйственные возможности",
       "era": "AD",
       "latitude": 15.76556,
       "longitude": -7.96861,
-      "name": "A capital of two cities, six miles apart",
-      "name_ru": "Столица из двух городов в шести милях друг от друга",
-      "source": "https://en.wikipedia.org/wiki/Koumbi_Saleh",
-      "tags": [
-        "Ghana",
-        "City",
-        "Koumbi Saleh",
-        "Islam",
-        "Culture",
-        "Settlement"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.1000",
-      "description": "Al-Bakri's description of the Ghana king's public audience is one of the most vivid portraits of medieval African royalty in existence. The ruler sat in a domed pavilion wearing a high cap adorned with gold and embroidered garments; his sons stood around him wearing golden ornaments in their hair; horses nearby bore golden saddle-cloths; and at the door stood dogs wearing golden collars with golden bells hanging from them. When subjects came to speak to the king, custom required them to fall to their knees and pour dust over their heads as total submission. Muslim visitors, who could not prostrate to anyone but God, were permitted to clap their hands as an alternative. The king's words were relayed through an intermediary — a court official stood between the ruler and petitioners, ensuring his voice was never heard directly by strangers. These ceremonies did not merely display wealth; they transformed the king from a person into an institution.",
-      "description_ru": "Описание аль-Бакри публичной аудиенции царя Ганы — одно из самых ярких изображений средневековой африканской монархии из всех существующих. Правитель сидел в куполообразном павильоне в высокой золотой шапке и вышитых одеждах; его сыновья стояли вокруг с золотыми украшениями в волосах; рядом привязаны лошади в золотых попонах; а у дверей стояли собаки в золотых ошейниках с золотыми колокольчиками. Когда подданный хотел обратиться к царю, обычай требовал пасть на колени и осыпать себе голову пылью в знак полного подчинения. Мусульманам, которые не могли простираться ни перед кем, кроме Бога, позволяли хлопать в ладоши. Слова царя передавались через посредника — придворный стоял между правителем и просителями, чтобы голос царя ни в коем случае не звучал напрямую для чужаков. Эти церемонии не просто демонстрировали богатство — они превращали царя из человека в институт.",
-      "era": "AD",
-      "latitude": 15.76556,
-      "longitude": -7.96861,
-      "name": "Dogs with golden collars: the king's audience",
-      "name_ru": "Собаки в золотых ошейниках: аудиенция у царя",
-      "source": "https://en.wikipedia.org/wiki/Al-Bakri",
-      "tags": [
-        "Ghana",
-        "Political",
-        "Culture",
-        "Soninke",
-        "Administration",
-        "Kingdom"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.1000",
-      "description": "Unlike most medieval kingdoms where power passed from father to son, Ghana's royal succession followed a matrilineal rule: the king was succeeded not by his own children but by his sister's son — his nephew through the female line. Al-Bakri explicitly recorded this custom, which puzzled Arab observers accustomed to patrilineal inheritance. The logic was biological certainty: a man knows his sister is definitely his mother's daughter, making the nephew's royal bloodline indisputable in a way a king's own son's could never quite be. This system also meant the new king was raised in a different household from his predecessor, reducing the most dangerous dynastic rivalry — the son impatiently waiting to replace his father. Remnants of this matrilineal inheritance tradition survive in Soninke family structures to this day, a living fossil of Ghana's social architecture.",
-      "description_ru": "В отличие от большинства средневековых царств, где власть переходила от отца к сыну, в Гане наследование следовало матрилинейному правилу: царю наследовал не его собственный ребёнок, а сын его сестры — племянник по женской линии. Аль-Бакри прямо зафиксировал этот обычай, удивлявший арабских наблюдателей, привыкших к патрилинейному наследованию. Логика была биологической: человек знает, что его сестра точно является дочерью его матери, а потому родословная племянника бесспорна так, как никогда не может быть полностью бесспорна у собственного сына царя. Эта система также означала, что новый царь вырастал в другом доме, нежели предшественник, устраняя самое опасное династическое соперничество — сына, нетерпеливо ждущего смерти отца. Следы этой матрилинейной традиции сохраняются в семейном укладе сонинке по сей день — живое ископаемое социальной архитектуры Ганы.",
-      "era": "AD",
-      "latitude": 15.76556,
-      "longitude": -7.96861,
-      "name": "The throne belongs to the sister's son",
-      "name_ru": "Трон достаётся сыну сестры",
+      "name": "Blacksmithing in Ghana",
+      "name_ru": "Кузнечное дело в Гане",
       "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
       "tags": [
-        "Ghana",
-        "Political",
-        "Soninke",
+        "African",
         "Culture",
-        "Customs"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.1000",
-      "description": "Near Ghana's royal town stood a sacred grove — a forest enclosure maintained by priestly clans and off-limits to all but the initiated. Al-Bakri wrote that the grove contained tombs of past kings and idols, and that priests performed animal sacrifices there, serving as intermediaries between the living and ancestral spirits. The Soninke cosmology wove together ancestors, land, and political authority: a king's legitimacy came partly from his connection to the dead kings whose graves he protected. Blacksmiths held a special sacred status in this system — they were believed to possess a dangerous spiritual power called nyama, which made them simultaneously feared and indispensable, closer to sorcerers than ordinary craftspeople. Any uninvited approach to the grove was considered sacrilege. When Islam eventually gained ground at court, abandoning the grove was among the most symbolically fraught acts a Ghana king could contemplate.",
-      "description_ru": "Рядом с царским городом Ганы располагалась священная роща — лесной участок, хранимый жреческими кланами и закрытый для всех, кроме посвящённых. Аль-Бакри писал, что в роще находились гробницы прошлых царей и идолы, что жрецы совершали там жертвоприношения животных и служили посредниками между живыми и духами предков. Космология сонинке связывала воедино предков, землю и политическую власть: легитимность царя отчасти вытекала из его связи с мёртвыми царями, чьи могилы он охранял. Кузнецы занимали особое сакральное место в этой системе — считалось, что они обладают опасной духовной силой ньяма, делавшей их одновременно устрашающими и незаменимыми, ближе к колдунам, чем к обычным ремесленникам. Любое самовольное приближение к роще было святотатством. Когда ислам в конечном счёте завоевал двор, отказ от рощи стал одним из самых болезненных в символическом плане шагов, который мог предпринять царь Ганы.",
-      "era": "AD",
-      "latitude": 15.76556,
-      "longitude": -7.96861,
-      "name": "The sacred grove that no stranger could enter",
-      "name_ru": "Священная роща, куда не мог войти чужак",
-      "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
-      "tags": [
         "Ghana",
-        "Religion",
-        "Soninke",
-        "Culture",
-        "Customs"
-      ],
-      "type": "religious"
-    },
-    {
-      "date": "01.01.1000",
-      "description": "When a Ghana king died, he was housed for eternity in a ceremony that would horrify and awe in equal measure. The king's body was placed inside a domed wooden structure together with food, drink, and some of his personal servants, who were sealed inside alive to accompany their master into the next world. The structure was covered with earth to form a mound, and a sacred grove was planted around it that ordinary people could never approach. This practice placed the dead king permanently in the sacred geography of the capital, turning the royal burial ground into both a cemetery and a living center of spiritual authority. Over generations the cluster of royal mounds became one of the most powerful places in the kingdom, tended by priests and consulted before important decisions. The same pattern of royal burial with attendants appears in ancient contexts across West Africa from Senegal to the Niger.",
-      "description_ru": "Когда царь Ганы умирал, его помещали в вечность в ходе обряда, вызывающего в равной мере ужас и трепет. Тело царя укладывали внутри куполообразного деревянного сооружения вместе с едой, питьём и несколькими личными слугами, которых замуровывали живыми, чтобы они сопровождали господина в иной мир. Сооружение засыпалось землёй, образуя курган, а вокруг разбивалась священная роща, куда обычным людям путь был закрыт навсегда. Этот обычай навсегда вписывал мёртвого царя в сакральную географию столицы, превращая царское погребальное поле одновременно в кладбище и живой центр духовной власти. Со временем скопление царских курганов стало одним из самых влиятельных мест в царстве: жрецы ухаживали за ними, а перед важными решениями к ним обращались за советом. Та же традиция царских захоронений вместе со слугами встречается в древних контекстах по всей Западной Африке — от Сенегала до Нигера.",
-      "era": "AD",
-      "latitude": 15.76556,
-      "longitude": -7.96861,
-      "name": "Buried with the living: the royal death ceremony",
-      "name_ru": "Погребение с живыми: царский обряд смерти",
-      "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
-      "tags": [
-        "Ghana",
-        "Customs",
-        "Religion",
-        "Soninke",
-        "Culture",
-        "Burial"
-      ],
-      "type": "religious"
-    },
-    {
-      "date": "01.01.1000",
-      "description": "Ghana's military advantage rested partly on iron weapons at a time when many neighboring peoples still used tools and arms of bone, wood, and hardened stone. Al-Bakri noted that Ghana's warriors carried iron swords and lances while those who fought against the empire had only wooden or bone weapons — a technological gap as decisive as gunpowder would be centuries later. But iron-working in Soninke society was not merely industrial; it was sacred. Smiths were a hereditary caste, their knowledge passed from father to son, and their workshops surrounded by ritual restrictions that kept uninitiated people at a careful distance. The same craft that forged weapons also produced farming tools, meaning Ghana's control of iron communities shaped both military power and agricultural output. A Ghana king who commanded the blacksmiths commanded the economy of violence and the economy of food at once.",
-      "description_ru": "Военное преимущество Ганы отчасти основывалось на железном оружии в то время, когда многие соседние народы ещё пользовались орудиями из кости, дерева и обработанного камня. Аль-Бакри отмечал, что воины Ганы носили железные мечи и копья, тогда как противники империи располагали лишь деревянным или костяным снаряжением — технологическое превосходство, столь же решающее, как порох спустя века. Но железоделие в обществе сонинке было не просто ремеслом — оно было священным. Кузнецы являлись наследственной кастой: знания передавались от отца к сыну, а мастерские были окружены ритуальными запретами, не допускавшими непосвящённых. То же ремесло, что ковало оружие, производило и орудия труда, а значит, контроль над кузнечными общинами определял как военную мощь, так и сельскохозяйственные возможности. Царь Ганы, управлявший кузнецами, одновременно управлял экономикой насилия и экономикой пропитания.",
-      "era": "AD",
-      "latitude": 15.76556,
-      "longitude": -7.96861,
-      "name": "Iron swords against bone: the blacksmith's empire",
-      "name_ru": "Железные мечи против костяных: империя кузнеца",
-      "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
-      "tags": [
-        "Ghana",
-        "Military",
-        "Soninke",
-        "Culture",
         "Iron",
-        "War"
+        "Metallurgy",
+        "Soninke"
       ],
       "type": "military"
     },
     {
       "date": "01.01.1000",
-      "description": "Islam came to Ghana not through war or royal decree but through commerce, carried by North African and Saharan merchants who settled permanently in the trading quarter. By the time al-Bakri wrote his account, the Muslim settlement had twelve mosques, Islamic judges resolving disputes among Muslim residents, and scholars teaching the Quran. The Ghana king, meanwhile, maintained traditional religious practices in the royal town nearby. He employed Muslim secretaries who wrote Arabic and handled correspondence with North African rulers — a deliberate policy that allowed the court to benefit from Islamic literacy without abandoning ancestral authority. This was not naïve tolerance but calculated pragmatism: both sides found the arrangement too profitable to disturb. It lasted for at least a century before growing outside pressure began to make it politically unstable.",
-      "description_ru": "Ислам пришёл в Гану не через войну и не по царскому указу, а через торговлю — его принесли североафриканские и сахаранские купцы, постоянно осевшие в торговом квартале. К моменту, когда аль-Бакри описывал эти места, мусульманское поселение имело двенадцать мечетей, исламских судей, разрешавших споры среди мусульманских жителей, и учёных, обучавших Корану. Царь Ганы тем временем сохранял традиционные религиозные практики в соседнем царском городе. Он нанимал мусульманских секретарей, писавших по-арабски и ведших переписку с североафриканскими правителями, — целенаправленная политика, позволявшая двору пользоваться исламской грамотностью, не отказываясь от родовой власти. Это была не наивная терпимость, а расчётливый прагматизм: обе стороны считали такое устройство слишком выгодным, чтобы его нарушать. Оно просуществовало не менее столетия, прежде чем растущее внешнее давление начало делать его политически неустойчивым.",
+      "description": "Al-Bakri's description of a public audience with the King of Ghana is one of the most vivid depictions of medieval African monarchy. The ruler sat in a domed pavilion, wearing a tall golden cap and embroidered robes; his sons stood around him, their hair adorned with gold ornaments; nearby stood horses in golden blankets; and at the door stood dogs wearing gold collars and gold bells.\n\nWhen a subject wished to address the king, custom required them to kneel and sprinkle dust on their heads as a sign of complete submission. Muslims, who could not prostrate themselves to anyone but God, were permitted to clap their hands. The king's words were conveyed through an intermediary—a courtier stood between the ruler and the petitioners, ensuring that the king's voice was never directly heard by outsiders.",
+      "description_ru": "Описание аль-Бакри публичной аудиенции царя Ганы — одно из ярчайших изображений средневековой африканской монархии. Правитель сидел в куполообразном павильоне в высокой золотой шапке и вышитых одеждах; его сыновья стояли вокруг с золотыми украшениями в волосах; рядом лошади в золотых попонах; а у дверей собаки в золотых ошейниках с золотыми колокольчиками. \n\nКогда подданный хотел обратиться к царю, обычай требовал пасть на колени и осыпать себе голову пылью в знак полного подчинения. Мусульманам, которые не могли простираться ни перед кем, кроме Бога, позволяли хлопать в ладоши. Слова царя передавались через посредника — придворный стоял между правителем и просителями, чтобы голос царя ни в коем случае не звучал напрямую для чужаков.",
+      "era": "AD",
+      "latitude": 15.76556,
+      "longitude": -7.96861,
+      "name": "Royal ceremonies of Ghana",
+      "name_ru": "Королевские церемонии Ганы",
+      "source": "https://en.wikipedia.org/wiki/Al-Bakri",
+      "tags": [
+        "Administration",
+        "African",
+        "Ceremonial",
+        "Culture",
+        "Ghana",
+        "Gold",
+        "Political",
+        "Soninke",
+        "Wealth"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1000",
+      "description": "Unlike most medieval kingdoms, where power passed from father to son, in Ghana the king was succeeded not by his own child, but by his sister's son—his nephew through the female line. Al-Bakri explicitly recorded this custom, which surprised Arab observers. The logic was biological: a person knows that his sister is definitely his mother's daughter, and therefore the nephew's lineage is indisputable, just as it can never be completely indisputable for the king's own son.\n\nThis also meant that the heir did not grow up in the king's house, eliminating the most dangerous dynastic rivalry—a son awaiting his father's death. Traces of this matrilineal tradition persist in the Soninke family structure to this day.",
+      "description_ru": "В отличие от большинства средневековых царств, где власть переходила от отца к сыну, в Гане царю наследовал не его ребёнок, а сын его сестры — племянник по женской линии. Аль-Бакри прямо зафиксировал этот обычай, удивлявший арабских наблюдателей. Логика была биологической: человек знает, что его сестра точно является дочерью его матери, а потому родословная племянника бесспорна так, как никогда не может быть полностью бесспорна у собственного сына царя. \n\nЭто также означало, что наследник вырастал не в доме царя, устраняя самое опасное династическое соперничество — сына, ждущего смерти отца. Следы этой матрилинейной традиции сохраняются в семейном укладе сонинке по сей день",
+      "era": "AD",
+      "latitude": 15.76556,
+      "longitude": -7.96861,
+      "name": "Matrilineal inheritance in Ghana",
+      "name_ru": "Матрилинейное наследование в Гане",
+      "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
+      "tags": [
+        "African",
+        "Culture",
+        "Customs",
+        "Ghana",
+        "Political",
+        "Soninke",
+        "Succession"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1000",
+      "description": "When the king of Ghana died, he was sent into eternity in a rite evoking awe. The king's body was placed inside a wooden dome along with food, drink, and several personal servants, who were walled in alive with their lord. The dome was filled with earth, forming a burial mound, and a sacred grove was established around it, forever closed to ordinary people.\n\nThis custom forever inscribed the dead king into the sacred geography of the capital, transforming the royal burial field into both a cemetery and a vibrant center of spiritual power. Over time, the cluster of royal burial mounds became one of the most influential sites in the kingdom: priests tended them, and before important decisions, they were consulted.",
+      "description_ru": "Когда царь Ганы умирал, его провожали в вечность в ходе обряда, вызывающего трепет. Тело царя укладывали внутри деревянного купола вместе с едой, питьём и несколькими личными слугами, которых замуровывали живыми с господином. Купол засыпали землёй, образуя курган, а вокруг разбивалась священная роща, куда обычным людям путь был закрыт навсегда. \n\nЭтот обычай навсегда вписывал мёртвого царя в сакральную географию столицы, превращая царское погребальное поле одновременно в кладбище и живой центр духовной власти. Со временем скопление царских курганов стало одним из самых влиятельных мест в царстве: жрецы ухаживали за ними, а перед важными решениями к ним обращались за советом. ",
+      "era": "AD",
+      "latitude": 15.76556,
+      "longitude": -7.96861,
+      "name": "Ghana's royal death ceremony",
+      "name_ru": "Погребение царей Ганы",
+      "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
+      "tags": [
+        "African",
+        "Burial",
+        "Culture",
+        "Customs",
+        "Ghana",
+        "Religious",
+        "Sacrifice",
+        "Soninke"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.1000",
+      "description": "Islam was brought to Ghana by North African and Saharan merchants who settled in the commercial quarter. By the time al-Bakri described the area, the Muslim settlement boasted twelve mosques, Islamic judges who resolved disputes among Muslim residents, and scholars who taught the Quran.\n\nMeanwhile, the king of Ghana maintained traditional religious practices in the neighboring royal city. He hired Muslim secretaries who wrote in Arabic and corresponded with North African rulers. This religious dualism was not tolerance but pragmatism: both sides benefited from this arrangement.",
+      "description_ru": "Ислам принесли в Гану североафриканские и сахаранские купцы, оседавшие в торговом квартале. К моменту, когда аль-Бакри описывал эти места, мусульманское поселение имело двенадцать мечетей, исламских судей, разрешавших споры среди мусульманских жителей, и учёных, обучавших Корану. \n\nЦарь Ганы тем временем сохранял традиционные религиозные практики в соседнем царском городе. Он нанимал мусульманских секретарей, писавших по-арабски и ведших переписку с североафриканскими правителями. Этот религиозный дуализм был не терпимостью, а прагматичностью: обе стороны получали свои выгоды от такого устройтва.",
       "era": "AD",
       "latitude": 15.76556,
       "longitude": -7.96861,
       "name": "Twelve mosques for merchants, one grove for the king",
-      "name_ru": "Двенадцать мечетей для купцов, одна роща для царя",
+      "name_ru": "Ислам приходит в империю Гана",
       "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
       "tags": [
-        "Ghana",
-        "Islam",
-        "Religion",
+        "African",
+        "Berber",
         "Culture",
-        "Trade",
-        "Koumbi Saleh"
+        "Expansion",
+        "Ghana",
+        "Islamic",
+        "Pagan",
+        "Religious",
+        "Soninke",
+        "Trade"
       ],
       "type": "cultural"
     },
     {
-      "date": "01.01.1000",
-      "description": "Ghana exported far more than gold dust. Merchants returning north carried ostrich feathers prized in Mediterranean fashion, high-quality leather goods worked by skilled Sahelian tanners, kola nuts serving as a mild stimulant before coffee reached the region, and enslaved people taken in raids to serve households across North Africa and the Middle East. Meanwhile, Mediterranean manufactured goods traveled south: glass beads made in Egypt and Tunisia have been excavated from burial sites in the western Sahel, showing that ordinary Sahelian people owned objects produced thousands of miles away. A court lady's grave might contain Moroccan carnelian beads; a merchant's house might have iron scissors from a North African workshop. Ghana was a node in a global exchange network, not merely a source of raw metal.",
-      "description_ru": "Гана экспортировала гораздо больше, чем золотой песок. Купцы, возвращавшиеся на север, везли страусиные перья, высоко ценившиеся в средиземноморской моде, высококачественные кожаные изделия, выделанные искусными сахельскими кожевниками, орехи колы, служившие лёгким стимулятором до появления кофе в регионе, а также порабощённых людей, захваченных в набегах и войнах для домохозяйств по всей Северной Африке и Ближнему Востоку. Тем временем средиземноморские изделия двигались на юг: стеклянные бусы, изготовленные в Египте и Тунисе, обнаружены при раскопках погребений в западном Сахеле — обычные сахельские жители владели предметами, сделанными в тысячах миль от них. В могиле придворной дамы могли лежать марокканские сердоликовые бусы; в доме купца — железные ножницы из североафриканской мастерской. Гана была узлом глобальной обменной сети, а не просто источником необработанного металла.",
-      "era": "AD",
-      "latitude": 15.76556,
-      "longitude": -7.96861,
-      "name": "Ostrich feathers, glass beads, and the wider trade",
-      "name_ru": "Страусиные перья, стеклянные бусы и более широкая торговля",
-      "source": "https://en.wikipedia.org/wiki/Trans-Saharan_trade",
-      "tags": [
-        "Ghana",
-        "Trade",
-        "Economic",
-        "African",
-        "Culture"
-      ],
-      "type": "historic"
-    },
-    {
       "date": "01.01.1050",
-      "description": "Soninke oral tradition preserves a story that explains both Ghana's legendary wealth and its eventual ruin. A great serpent named Bida lived in a well near the capital, and each year the people sacrificed to it the most beautiful young woman in the land. In return, Bida caused gold nuggets to rain down across Wagadou three times a year. For generations this bargain sustained prosperity. Then a young warrior named Mamadou Saane refused to surrender his fiancée to the serpent and killed Bida. As the serpent died, it cursed the land: gold vanished, the rains stopped, and the Soninke were forced to abandon Wagadou and scatter across West Africa. Historians read the myth as a compressed memory of the real processes — drought, political fragmentation, and diaspora — that ended Ghana. It is also a meditation on sacrifice and what is owed by individuals to the community that shelters them.",
-      "description_ru": "Устная традиция сонинке хранит историю, объясняющую как легендарное богатство Ганы, так и её конечное крушение. Огромный змей по имени Бида жил в колодце неподалёку от столицы, и каждый год народ приносил ему в жертву самую красивую девушку страны. В ответ Бида заставлял золотые самородки три раза в год падать дождём на Вагаду. Поколениями этот уговор поддерживал процветание. Затем молодой воин по имени Мамаду Саане отказался отдать свою невесту змею и убил Биду. Умирая, Бида проклял землю: золото исчезло, дожди прекратились, и сонинке были вынуждены покинуть Вагаду и рассеяться по Западной Африке. Историки читают этот миф как спрессованную память о реальных процессах — засухе, политическом распаде и диаспоре, — положивших конец Гане. Это и размышление о жертвенности, о том, чем отдельный человек обязан обществу, дающему ему кров.",
+      "description": "Soninke oral tradition preserves a story explaining Ghana's legendary wealth and its ultimate downfall. A huge serpent named Bida lived in a well near the capital, and every year the people sacrificed the country's most beautiful maiden to him. In return, Bida caused gold nuggets to rain down on Wagadu three times a year.\n\nFor generations, this arrangement sustained prosperity. Then, a young warrior, Mamadou Saane, refused to give his bride to the serpent and killed Bida. As he died, the serpent cursed the land: the gold disappeared, the rains ceased, and the Soninke were forced to abandon Wagadu and disperse across West Africa. Historians interpret this myth as a memory of real events—the drought and crises that brought Ghana to its end.",
+      "description_ru": "Устная традиция сонинке хранит историю, объясняющую легендарное богатство Ганы и её конечное крушение. Огромный змей по имени Бида жил в колодце неподалёку от столицы, и каждый год народ приносил ему в жертву самую красивую девушку страны. В ответ Бида заставлял золотые самородки три раза в год падать дождём на Вагаду. \n\nПоколениями этот уговор поддерживал процветание. Затем молодой воин Мамаду Саане отказался отдать свою невесту змею и убил Биду. Умирая, змей проклял землю: золото исчезло, дожди прекратились, и сонинке были вынуждены покинуть Вагаду и рассеяться по Западной Африке. Историки читают этот миф как память о реальных процессах — засухе и кризисах, положивших конец Гане.",
       "era": "AD",
       "latitude": 15.76556,
       "longitude": -7.96861,
@@ -304,98 +242,84 @@
       "name_ru": "Змей Бида и цена золота",
       "source": "https://en.wikipedia.org/wiki/Soninke_people",
       "tags": [
-        "Ghana",
-        "Religion",
-        "Soninke",
+        "Legend",
+        "African",
         "Culture",
-        "Wagadou",
-        "Customs"
+        "Ghana",
+        "Religious",
+        "Sacrifice",
+        "Soninke"
       ],
       "type": "religious"
     },
     {
       "date": "01.01.1068",
       "description": "The Andalusian scholar Abu Ubayd al-Bakri never visited Ghana — he wrote from Córdoba in Islamic Spain, drawing on reports from merchants and travelers. Yet his 1068 text is the richest surviving source on the empire: it describes the two-city capital, the golden court ceremony, matrilineal succession, the sacred grove, the silent trade, and the Muslim quarter's twelve mosques with enough precision that historians still use it as a primary source nine centuries later. Without al-Bakri, Ghana would be a name on a map and little more. His diligence in recording what traders told him — even details he found improbable — preserved a civilization that left almost no written record of its own. He demonstrates one of history's quiet lessons: great empires can vanish without archives, surviving only in the notebooks of a curious scholar a thousand miles away.",
-      "description_ru": "Андалусский учёный Абу Убайд аль-Бакри никогда не бывал в Гане — свой труд он писал в Кордове в исламской Испании, опираясь на сообщения купцов и путешественников. Тем не менее его текст 1068 года является богатейшим из сохранившихся источников об империи: в нём описаны двухгородная столица, золотой придворный церемониал, матрилинейное наследование, священная роща, немая торговля и двенадцать мечетей мусульманского квартала — с такой точностью, что историки по сей день используют этот текст как первичный источник девять столетий спустя. Без аль-Бакри Гана осталась бы именем на карте — и не более. Его старательность в записи всего, что сообщали купцы, — даже деталей, казавшихся ему невероятными, — сохранила цивилизацию, не оставившую почти никаких собственных письменных свидетельств. Он иллюстрирует один из тихих уроков истории: великие империи могут исчезнуть без архивов, уцелев лишь в записных книжках любопытного учёного за тысячу миль от них.",
+      "description_ru": "Андалусский учёный Абу Убайд аль-Бакри никогда не бывал в Гане — свой труд он писал в Кордове в исламской Испании, опираясь на сообщения купцов и путешественников. Его текст 1068 года является богатейшим из сохранившихся источников об империи: в нём описаны двухгородная столица, золотой придворный церемониал, матрилинейное наследование, священная роща, немая торговля и двенадцать мечетей мусульманского квартала — с такой точностью, что историки по сей день используют этот текст как первичный источник века спустя.",
       "era": "AD",
-      "latitude": 15.76556,
-      "longitude": -7.96861,
+      "latitude": 37.88507881,
+      "longitude": -4.78496432,
       "name": "Al-Bakri: the scholar who made Ghana immortal",
-      "name_ru": "Аль-Бакри: учёный, сделавший Гану бессмертной",
+      "name_ru": "Аль-Бакри описывает культуру Ганы",
       "source": "https://en.wikipedia.org/wiki/Al-Bakri",
       "tags": [
-        "Ghana",
-        "Culture",
+        "Arabian",
         "African",
-        "Political",
-        "Soninke"
+        "Cordoba",
+        "Culture",
+        "Ghana",
+        "History",
+        "Political"
       ],
       "type": "historic"
     },
     {
       "date": "01.01.1076",
-      "description": "In 1076, several Arabic chronicles say the Almoravid leader Abu Bakr ibn Umar attacked and temporarily occupied Koumbi Saleh. The Almoravids were Sanhaja Berber warriors who had already swept through Morocco and would soon conquer Islamic Spain; their movement was simultaneously military and religious, driven by a puritanical reform of Sunni Islam. But historians dispute what actually happened to Ghana: was it a conquest, a forced conversion campaign, or primarily an economic disruption of trade revenues? Ghana continued to appear in sources after 1076, and Koumbi Saleh remained inhabited, which argues against total destruction. Whatever happened, this period ended Ghana's comfortable detachment from the wider Islamic world — the empire was now entangled, whether it wished to be or not, in the politics of a much larger Islamic civilization.",
-      "description_ru": "В 1076 году несколько арабских хроник сообщают, что лидер Альморавидов Абу Бакр ибн Умар атаковал и временно занял Кумби-Сале. Альморавиды были берберскими воинами санхаджа, к тому времени прокатившимися огнём по Марокко и вскоре завоевавшими исламскую Испанию; их движение было одновременно военным и религиозным, движимым пуританской реформой суннитского ислама. Однако историки спорят о том, что в действительности произошло с Ганой: было ли это завоеванием, принудительным обращением или прежде всего экономическим потрясением, подорвавшим торговые доходы? Гана продолжала появляться в источниках после 1076 года, а Кумби-Сале оставался населённым — что противоречит версии о полном уничтожении. Как бы то ни было, этот период положил конец удобной отстранённости Ганы от более широкого исламского мира: империя оказалась втянута, хотела она того или нет, в политику значительно более крупной исламской цивилизации.",
+      "description": "Several Arab chronicles report that the Almoravid leader Abu Bakr ibn Umar attacked and temporarily occupied Koumbi Saleh. The Almoravids were Berber warriors of the Sanhaja, who by then had swept across Morocco and soon conquered Islamic Spain; their movement was both military and religious, driven by a puritanical reform of Sunni Islam. Historians debate what actually happened to Ghana: whether it was a conquest, forced conversion, or primarily an economic upheaval. Ghana continued to appear in later sources, and Koumbi Saleh remained inhabited—contrary to the version of total annihilation.",
+      "description_ru": "Несколько арабских хроник сообщают, что лидер Альморавидов Абу Бакр ибн Умар атаковал и временно занял Кумби-Сале. Альморавиды были берберскими воинами санхаджа, к тому времени прокатившимися огнём по Марокко и вскоре завоевавшими исламскую Испанию; их движение было одновременно военным и религиозным, движимым пуританской реформой суннитского ислама. Историки спорят о том, что в действительности произошло с Ганой: было ли это завоеванием, принудительным обращением или прежде всего экономическим потрясением. Гана продолжала появляться в источниках позднее, а Кумби-Сале оставался населённым — что противоречит версии о полном уничтожении.",
       "era": "AD",
       "latitude": 15.76556,
       "longitude": -7.96861,
-      "name": "The Almoravids: holy war or trade war?",
-      "name_ru": "Альморавиды: священная война или торговая война?",
+      "name": "The Almoravids invade Ghana",
+      "name_ru": "Вторжение Альморавидов в Гану",
       "source": "https://en.wikipedia.org/wiki/Almoravid_dynasty",
       "tags": [
-        "Ghana",
-        "Military",
-        "Islam",
         "War",
+        "African",
+        "Almoravid",
+        "Berber",
+        "Conquest",
         "Decline",
-        "Political"
+        "Ghana",
+        "Islamic"
       ],
       "type": "military"
     },
     {
       "date": "01.01.1100",
-      "description": "By the early twelfth century, Arabic sources describe the Ghana ruler as a Muslim. The conversion was not sudden — it involved decades of growing Islamic influence at court, the precedent of Muslim advisors, and political calculations about legitimacy in a region increasingly dominated by Islamic power. Abandoning the sacred grove, ending the traditional sacrifices, and bringing the royal town under the same religious framework as the merchant quarter were acts of profound cultural rupture. Some Soninke lineages and rural communities held to the old practices outside the capital. The conversion shifted the character of the court too: Islamic scholars replaced traditional priests as the king's closest ritual advisors. Whether this strengthened or weakened Ghana remains debated — it may have helped diplomacy with Muslim neighbors while estranging the communities whose loyalty depended on the old sacred order.",
-      "description_ru": "К началу XII века арабские источники описывают правителя Ганы как мусульманина. Обращение не было внезапным — оно включало десятилетия растущего исламского влияния при дворе, прецедент советников-мусульман и политические расчёты о легитимности в регионе, всё более подчинявшемся исламской власти. Отказ от священной рощи, прекращение традиционных жертвоприношений и распространение на царский город той же религиозной системы, что действовала в торговом квартале, были актами глубокого культурного разрыва. Некоторые роды сонинке и сельские общины за пределами столицы придерживались старых практик. Обращение изменило и характер двора: исламские учёные заменили традиционных жрецов в роли ближайших ритуальных советников царя. Усилило это Гану или ослабило — по-прежнему предмет дискуссий: возможно, это помогло дипломатии с мусульманскими соседями, одновременно оттолкнув общины, чья лояльность держалась на старом священном порядке.",
+      "description": "By the early 12th century, Arab sources describe the ruler of Ghana as a Muslim. This conversion followed decades of growing Islamic influence at court. The abandonment of the sacred grove, the cessation of traditional sacrifices, and the extension of the same religious system in force in the commercial quarter to the royal city were acts of profound cultural schism. Some Soninke clans and rural communities retained old practices.\n\nThe conversion changed the character of the court: Islamic scholars replaced traditional priests as the king's closest ritual advisers. Whether this strengthened or weakened Ghana remains a matter of debate.",
+      "description_ru": "К началу XII века арабские источники описывают правителя Ганы как мусульманина. Обращение стало следствием десятилетий растущего исламского влияния при дворе. Отказ от священной рощи, прекращение традиционных жертвоприношений и распространение на царский город той же религиозной системы, что действовала в торговом квартале, были актами глубокого культурного раскола. Некоторые роды сонинке и сельские общины сохранили старые практики. \n\nОбращение изменило характер двора: исламские учёные заменили традиционных жрецов в роли ближайших ритуальных советников царя. Усилило это Гану или ослабило — по-прежнему предмет дискуссий.",
       "era": "AD",
       "latitude": 15.76556,
       "longitude": -7.96861,
-      "name": "The day the sacred grove was abandoned",
-      "name_ru": "День, когда священную рощу покинули",
+      "name": "Islamization of Ghana",
+      "name_ru": "Исламизация Ганы",
       "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
       "tags": [
-        "Ghana",
-        "Islam",
-        "Religion",
-        "Political",
+        "Adoption",
         "Culture",
+        "Ghana",
+        "Islamic",
+        "Political",
+        "Religious",
         "Soninke"
       ],
       "type": "religious"
     },
     {
-      "date": "01.01.1150",
-      "description": "As Ghana's authority fragmented, a powerful ruler named Sumanguru Kanté rose from the Sosso kingdom to the south. Sumanguru was himself a blacksmith-king — a type of ruler who embodied the sacred power of iron-working and was believed to hold supernatural abilities. West African oral traditions, especially the Sundiata epic, portray him as a sorcerer who lived in a mysterious tower and collected the skins of defeated kings as trophies. Around 1203 he sacked and occupied Koumbi Saleh itself, effectively ending whatever remained of Ghana's imperial order. His brutality toward rival rulers forged the coalition that would eventually destroy him. Sumanguru became the villain of one of Africa's greatest epics precisely because his defeat was the founding moment of Mali — and every founding story needs a worthy enemy.",
-      "description_ru": "По мере распада власти Ганы с юга поднялся могущественный правитель по имени Сумангуру Канте из царства Соссо. Сумангуру сам был царём-кузнецом — типом правителя, воплощавшим сакральную силу железоделия и, по поверьям, обладавшим сверхъестественными способностями. Западноафриканские устные предания, особенно эпос о Сундьяте, изображают его колдуном, жившим в таинственной башне и собиравшим шкуры побеждённых царей в качестве трофеев завоеваний. Около 1203 года он разграбил и занял сам Кумби-Сале, фактически покончив с тем, что оставалось от имперского порядка Ганы. Его жестокость по отношению к соперникам создала коалицию, которая в итоге его и уничтожила. Сумангуру стал злодеем одного из величайших африканских эпосов именно потому, что его поражение стало основополагающим моментом Мали — а каждой основополагающей истории нужен достойный враг.",
-      "era": "AD",
-      "latitude": 15.76556,
-      "longitude": -7.96861,
-      "name": "Sumanguru Kanté: the blacksmith-sorcerer who took Koumbi Saleh",
-      "name_ru": "Сумангуру Канте: царь-кузнец-колдун, захвативший Кумби-Сале",
-      "source": "https://en.wikipedia.org/wiki/Sumanguru_Kant%C3%A9",
-      "tags": [
-        "Ghana",
-        "Decline",
-        "Military",
-        "War",
-        "Soninke",
-        "Political"
-      ],
-      "type": "military"
-    },
-    {
       "date": "01.01.1200",
-      "description": "After Ghana's imperial system collapsed, the Soninke people did not disappear — they dispersed as merchants. Groups known as Wangara to the east and Dyula further south spread across West Africa, carrying Arabic literacy, long-distance commercial skills, Islam, and memories of Wagadou. They established communities from Senegal to the Niger River bend to the forest zones of modern Ghana and Côte d'Ivoire, stitching together local producers and distant markets everywhere they settled. These Wangara networks became the connective tissue of West African trade for the next seven centuries. Their descendants remain recognizable as a distinct diaspora merchant group across the Sahel and forest belt today. Ghana's physical empire ended; its human network proved more durable than any throne or city wall.",
-      "description_ru": "После распада имперской системы Ганы народ сонинке не исчез — он рассеялся в качестве купцов. Группы, известные на востоке как вангара, а южнее как дьюла, распространились по всей Западной Африке, неся с собой арабскую грамотность, навыки дальней торговли, ислам и память о Вагаду. Они основали общины от Сенегала до излучины Нигера и лесных зон современных Ганы и Кот-д'Ивуара, повсюду, где оседали, соединяя местных производителей с далёкими рынками. Сети вангара на протяжении следующих семи столетий стали связующей тканью западноафриканской торговли. Их потомки по сей день узнаваемы как самостоятельная диаспорная купеческая группа в зоне Сахеля и лесного пояса. Физическая империя Ганы закончилась; её человеческая сеть оказалась прочнее любого трона или городской стены.",
+      "description": "After Ghana's imperial system collapsed, the Soninke people did not disappear — they dispersed as merchants. Groups known as Wangara to the east and Dyula further south spread across West Africa, carrying Arabic literacy, long-distance commercial skills, Islam, and memories of Wagadou. They established communities from Senegal to the Niger River bend to the forest zones of modern Ghana and Côte d'Ivoire, stitching together local producers and distant markets everywhere they settled. \n\nThese Wangara networks became the connective tissue of West African trade for the next seven centuries. Their descendants remain recognizable as a distinct diaspora merchant group across the Sahel and forest belt today. Ghana's physical empire ended; its human network proved more durable than any throne or city wall.",
+      "description_ru": "По мере распада империи Ганы народ сонинке не исчез — он рассеялся в качестве купцов. Группы, известные на востоке как вангара, а южнее как дьюла, распространились по Западной Африке, неся с собой арабскую грамотность, навыки торговли, ислам и память о Вагаду. Они основали общины от Сенегала до излучины Нигера и лесных зон современных Ганы и Кот-д'Ивуара, повсюду, где оседали, соединяя местных производителей с далёкими рынками. \n\nСети вангара на протяжении следующих семи столетий стали связующей тканью западноафриканской торговли. Их потомки по сей день узнаваемы как самостоятельная диаспорная купеческая группа в зоне Сахеля и лесного пояса.",
       "era": "AD",
       "latitude": 15.76556,
       "longitude": -7.96861,
@@ -403,19 +327,42 @@
       "name_ru": "Вангара: купцы, пережившие империю",
       "source": "https://en.wikipedia.org/wiki/Wangara",
       "tags": [
+        "African",
+        "Culture",
         "Ghana",
         "Legacy",
-        "Soninke",
-        "Trade",
         "Migration",
-        "Islam"
+        "Soninke",
+        "Trade"
       ],
       "type": "historic"
     },
     {
+      "date": "01.01.1203",
+      "description": "As the empire's power crumbled, a powerful ruler named Sumanguru Kante of the Sosso kingdom arose in the south. Sumanguru himself was a blacksmith king—a type of ruler who embodied the sacred power of ironworking and was believed to possess supernatural abilities. West African oral traditions, particularly the Epic of Sundjata, portray him as a sorcerer who lived in a mysterious tower and collected the skins of defeated kings as trophies of conquest. Around 1203, he sacked and occupied Koumbi-Sale itself.\n\nHis cruelty toward his rivals created a coalition that ultimately destroyed him. Sumanguru became the villain of one of the greatest African epics precisely because his defeat became a founding moment for Mali—and every founding story needs a worthy foe.",
+      "description_ru": "По мере распада власти империи с юга поднялся могущественный правитель по имени Сумангуру Канте из царства Соссо. Сумангуру сам был царём-кузнецом — типом правителя, воплощавшим сакральную силу железоделия и, по поверьям, обладавшим сверхъестественными способностями. Западноафриканские устные предания, особенно эпос о Сундьяте, изображают его колдуном, жившим в таинственной башне и собиравшим шкуры побеждённых царей в качестве трофеев завоеваний. Около 1203 года он разграбил и занял сам Кумби-Сале. \n\nЕго жестокость по отношению к соперникам создала коалицию, которая в итоге его и уничтожила. Сумангуру стал злодеем одного из величайших африканских эпосов именно потому, что его поражение стало основополагающим моментом Мали — а каждой основополагающей истории нужен достойный враг.",
+      "era": "AD",
+      "latitude": 15.76556,
+      "longitude": -7.96861,
+      "name": "Sumanguru Kanté: the blacksmith-sorcerer king of Ghana",
+      "name_ru": "Сумангуру Канте: кузнец-колдун, захвативший Гану",
+      "source": "https://en.wikipedia.org/wiki/Sumanguru_Kant%C3%A9",
+      "tags": [
+        "War",
+        "King",
+        "Legend",
+        "African",
+        "Decline",
+        "Ghana",
+        "Political",
+        "Soninke"
+      ],
+      "type": "military"
+    },
+    {
       "date": "01.01.1235",
       "description": "In 1235, the young Mande leader Sundiata Keita defeated Sumanguru Kanté at the Battle of Kirina — a confrontation remembered as one of the defining moments in West African history. Sundiata, who had been crippled in childhood and was said to have been supernaturally healed, gathered a coalition of peoples including Soninke communities from Ghana's former world. With Sumanguru's defeat, the western Sudan was reorganized under Mali's dominance. The story of the battle was not written down but preserved by professional bards called griots, who recited the Sundiata epic at royal courts for generations. The Soninke remembered Wagadou in the epic as the earlier greatness that had given the region its first urban civilization. Through griot performance, Ghana lived on as a golden memory inside the very empire that replaced it.",
-      "description_ru": "В 1235 году молодой мандейский вождь Сундьята Кейта разгромил Сумангуру Канте в битве при Кирине — столкновении, которое помнят как один из определяющих моментов западноафриканской истории. Сундьята, в детстве страдавший недугом и, по преданию, чудесно исцелённый, собрал коалицию народов, включая общины сонинке из прежнего мира Ганы. С поражением Сумангуру Западный Судан был реорганизован под господством Мали. История битвы была сохранена не в письменной форме, а профессиональными певцами-гриотами, декламировавшими эпос о Сундьяте при царских дворах на протяжении поколений. В эпосе сонинке помнили Вагаду как раннее величие, давшее региону первую городскую цивилизацию. Через исполнение гриотов Гана жила золотой памятью внутри самой империи, пришедшей ей на смену.",
+      "description_ru": "В 1235 году молодой мандейский вождь Сундьята Кейта разгромил Сумангуру Канте в битве при Кирине — столкновении, которое помнят как один из определяющих моментов западноафриканской истории. Сундьята, в детстве страдавший недугом и, по преданию, чудесно исцелённый, собрал коалицию народов, включая общины сонинке из прежнего мира Ганы. С поражением Сумангуру Западный Судан был реорганизован под господством Мали. \n\nИстория битвы была сохранена не в письменной форме, а профессиональными певцами-гриотами, декламировавшими эпос о Сундьяте при царских дворах на протяжении поколений. В эпосе сонинке помнили Вагаду как раннее величие, давшее региону первую городскую цивилизацию. Через исполнение гриотов Гана жила золотой памятью внутри империи, пришедшей ей на смену.",
       "era": "AD",
       "latitude": 11.65,
       "longitude": -8.05,
@@ -423,34 +370,16 @@
       "name_ru": "Битва при Кирине и конец мира Ганы",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Kirina",
       "tags": [
-        "Ghana",
-        "Decline",
-        "Military",
         "War",
-        "Legacy",
-        "Mali"
+        "Battle",
+        "Legend",
+        "Decline",
+        "Ghana",
+        "Mali",
+        "Soninke"
       ],
       "type": "military"
-    },
-    {
-      "date": "01.01.1300",
-      "description": "Centuries after the last Ghana king lost his throne, the name Wagadou continued to be spoken with reverence across the Soninke diaspora. The Bida serpent story, the matrilineal royal line, the sacred grove, and the golden reign were preserved by griots — hereditary professional historians who memorized genealogies and transmitted history through music, poetry, and narrative performance. Soninke communities in modern Senegal, Mali, Mauritania, Burkina Faso, and Gambia trace family histories back to Wagadou. The lost capital at Koumbi Saleh, forgotten in the Mauritanian desert for centuries, was only identified archaeologically in the 1910s, and excavations are still ongoing. The modern nation of Ghana, established in 1957, took its name not from geography — the new country lies hundreds of miles from the original empire — but as a deliberate claim to ancient heritage. A state that had no written language of its own is now remembered on coins, maps, school curricula, and national identities across an entire continent.",
-      "description_ru": "Спустя столетия после того, как последний царь Ганы лишился трона, имя Вагаду продолжало произноситься с почтением по всей диаспоре сонинке. Историю змея Биды, матрилинейную царскую линию, священную рощу и золотое царствование хранили гриоты — наследственные профессиональные историки, заучивавшие родословные и передававшие историю через музыку, поэзию и устное исполнение. Общины сонинке в современном Сенегале, Мали, Мавритании, Буркина-Фасо и Гамбии прослеживают семейные истории до Вагаду. Утраченная столица Кумби-Сале, веками лежавшая забытой в мавританской пустыне, была опознана как археологический памятник лишь в 1910-х годах, а раскопки продолжаются по сей день. Современная нация Гана, провозглашённая в 1957 году, взяла своё название не из географической близости — новая страна лежит в сотнях миль от первоначальной империи, — а как намеренное обращение к древнему наследию. Государство, не имевшее собственного письменного языка, сегодня упоминается на монетах, картах, в школьных программах и в национальной идентичности целого континента.",
-      "era": "AD",
-      "latitude": 15.76556,
-      "longitude": -7.96861,
-      "name": "Wagadou: how a vanished empire became a living myth",
-      "name_ru": "Вагаду: как исчезнувшая империя стала живым мифом",
-      "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
-      "tags": [
-        "Ghana",
-        "Legacy",
-        "Soninke",
-        "Culture",
-        "Wagadou",
-        "African"
-      ],
-      "type": "cultural"
     }
-  ]
+  ],
+  "filename": "AD1_ghana_empire.json"
 }

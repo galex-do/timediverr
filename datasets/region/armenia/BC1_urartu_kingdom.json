@@ -13,6 +13,7 @@
       "source": "https://en.wikipedia.org/wiki/Etiuni",
       "tags": [
         "Architecture",
+        "Caucasian",
         "Fortification",
         "Settlement"
       ],
@@ -161,7 +162,8 @@
         "Urartu",
         "Agriculture",
         "Customs",
-        "Winemaking"
+        "Fermentation",
+        "Wine"
       ],
       "type": "cultural"
     },
@@ -345,6 +347,7 @@
       "tags": [
         "Urartu",
         "Architecture",
+        "Caucasian",
         "Fortification"
       ],
       "type": "historic"

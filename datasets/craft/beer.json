@@ -71,6 +71,7 @@
         "Beer",
         "Culture",
         "Divination",
+        "Fermentation",
         "Mesopotamian",
         "Religious",
         "Technology"
@@ -111,6 +112,7 @@
         "Agriculture",
         "Beer",
         "Culture",
+        "Fermentation",
         "Food",
         "Religious",
         "Sorghum"
@@ -131,49 +133,51 @@
         "Chinese",
         "Beer",
         "Culture",
+        "Fermentation",
         "Science",
         "Technology"
       ],
       "type": "historic"
     },
     {
-      "date": "01.01.0300",
+      "date": "01.01.0100",
       "description": "The earliest Japanese references to sake — fermented rice wine — appear in the third-century Chinese chronicle Wei Zhi, which describes the Yamato people of Japan as drinking and dancing. The early production method may have involved kuchikamizake — 'mouth-chewed sake' — in which rice was chewed and spat into a vessel, using salivary amylase to initiate saccharification before wild fermentation. By the Kofun period (300–538 AD), the imperial Yamato court was producing sake using the koji mould method inherited from continental Asian qu technology, introduced via Korean intermediaries.\n\nFrom its earliest periods, sake in Japan was a ritual substance before it was a beverage: offered to Shinto gods at shrines, central to the ceremony of the New Year, given to warriors before battle, and used to purify sacred spaces. The Nara period (710–794 AD) saw the establishment of a Sake Office (Sakebisho) at the imperial court, producing and managing sake as a state resource. The religious and administrative structures around sake production — maintained by shrine brewers (miko) and later by temple and monastery brewers — gave Japanese sake a social framework closely parallel to European monastic brewing.",
-      "description_ru": "Древнейшие японские упоминания сакэ — ферментированного рисового вина — содержатся в китайской хронике Вэй Чжи третьего века, описывающей ямато-японцев как пьющих и танцующих. Ранний метод производства мог включать кутикамизакэ — «сакэ, пережёванное во рту», — при котором рис жевали и сплёвывали в сосуд, используя слюнную амилазу для запуска осахаривания перед диким брожением. К периоду Кофун (300–538 н.э.) императорский двор Ямато производил сакэ методом плесени кодзи, унаследованным от континентальной азиатской технологии цюй, привнесённой через корейских посредников.\n\nС древнейших периодов сакэ в Японии было ритуальным веществом прежде, чем напитком: подносилось синтоистским богам в святилищах, занимало центральное место в новогодней церемонии, давалось воинам перед битвой и использовалось для очищения священных пространств. В период Нара (710–794 н.э.) при императорском дворе было учреждено Управление сакэ (Сакэбисё), производившее и управлявшее напитком как государственным ресурсом. Религиозные и административные структуры вокруг производства сакэ — поддерживаемые святилищными пивоварами (мико) и позднее храмовыми и монастырскими пивоварами — придавали японскому сакэ социальную рамку, близко параллельную европейскому монастырскому пивоварению: и там, и там священное и хозяйственное переплетались неразрывно.",
-      "era": "AD",
-      "latitude": 34.685,
-      "longitude": 135.83,
+      "description_ru": "Древнейшие упоминания сакэ — ферментированного рисового вина — содержатся в китайской хронике Вэй Чжи третьего века, описывающей ямато-японцев как пьющих и танцующих. Ранний метод производства мог включать кутикамизакэ — «сакэ, пережёванное во рту», — при котором рис жевали и сплёвывали в сосуд, используя слюнную амилазу для запуска осахаривания перед диким брожением. К периоду Кофун императорский двор Ямато производил сакэ методом плесени кодзи, унаследованным от континентальной азиатской технологии цюй.\n\nСакэ в Японии было ритуальным веществом прежде, чем напитком: подносилось синтоистским богам в святилищах, занимало центральное место в новогодней церемонии, давалось воинам перед битвой и использовалось для очищения священных пространств. В период Нара (710–794 н.э.) при императорском дворе было учреждено Управление сакэ (Сакэбисё), производившее и управлявшее напитком как государственным ресурсом. Религиозные и административные структуры вокруг производства сакэ придавали японскому сакэ социальную рамку, близкую европейскому монастырскому пивоварению: и там, и там священное и хозяйственное переплетались неразрывно.",
+      "era": "BC",
+      "latitude": 34.64487739,
+      "longitude": 135.86852074,
       "name": "Early sake in Japan — a divine drink for the imperial court",
-      "name_ru": "Раннее сакэ в Японии — божественный напиток для императорского двора",
+      "name_ru": "Производство сакэ в Японии",
       "source": "https://en.wikipedia.org/wiki/Sake",
       "tags": [
-        "Asia",
+        "Japanese",
         "Culture",
         "Fermentation",
-        "Historic",
-        "Japan",
+        "Food",
         "Religious",
+        "Rice",
         "Sake"
       ],
       "type": "historic"
     },
     {
-      "date": "01.01.0500",
+      "date": "01.01.0100",
       "description": "Makgeolli — a milky, slightly sweet, slightly sour fermented rice drink with roughly 6–8% alcohol — is among Korea's oldest surviving beverages, with evidence of rice and grain fermentation on the Korean peninsula dating to the Three Kingdoms period (57 BC–668 AD) and likely earlier. Like Japanese sake, it uses a mould starter (nuruk in Korean, equivalent to Chinese qu) to saccharify rice before yeast fermentation. Unlike Japanese sake, makgeolli is unfiltered, leaving rice sediment that gives it its characteristic cloudy appearance and thick texture.\n\nMakgeolli was historically the drink of Korean farmers and labourers — cheaper and more nutritious than filtered rice wine, produced domestically and consumed rapidly before it spoiled. Each Korean household maintained its own nuruk culture, creating regional variation similar to sourdough traditions in European bread-making. The drink carries lactic acid bacteria alongside ethanol, giving it a probiotic character acknowledged in Korean folk medicine. Its simplicity and nutritional density made it a survival staple during hard winters and a ceremonial drink for ancestral rites (jesa), a duality that has kept it culturally central through modernisation.",
-      "description_ru": "Макколли — молочно-белый, слегка сладкий и слегка кислый ферментированный рисовый напиток крепостью около 6–8% — один из древнейших сохранившихся напитков Кореи, со свидетельствами рисового и зернового брожения на Корейском полуострове в период Трёх Королевств (57 г. до н.э. – 668 г. н.э.) и, вероятно, раньше. Как и японское сакэ, он использует плесневую закваску (нурук по-корейски, эквивалент китайского цюй) для осахаривания риса перед дрожжевым брожением. В отличие от сакэ, макколли не фильтруется, оставляя рисовый осадок, придающий ему характерный мутный вид и густую текстуру.\n\nМакколли исторически был напитком корейских крестьян и рабочих — дешевле и питательнее, чем фильтрованное рисовое вино, производился в домашних условиях и быстро употреблялся. Каждое корейское домохозяйство поддерживало собственную культуру нурука, создавая региональное разнообразие, сходное с традициями закваски в европейском хлебопечении. Напиток содержит молочнокислые бактерии наряду с этанолом, что придаёт ему пробиотический характер, признанный корейской народной медициной.",
-      "era": "AD",
+      "description_ru": "Макколли — молочно-белый, слегка сладкий и слегка кислый ферментированный рисовый напиток крепостью около 6–8% — один из древнейших сохранившихся напитков Кореи. Как и японское сакэ, он использует плесневую закваску (нурук по-корейски, эквивалент китайского цюй) для осахаривания риса перед дрожжевым брожением. В отличие от сакэ, макколли не фильтруется, оставляя рисовый осадок, придающий ему характерный мутный вид и густую текстуру.\n\nМакколли исторически был напитком корейских крестьян и рабочих — дешевле и питательнее, чем фильтрованное рисовое вино, производился в домашних условиях и быстро употреблялся. Каждое корейское домохозяйство поддерживало собственную культуру нурука, создавая региональное разнообразие, сходное с традициями закваски в европейском хлебопечении. Напиток содержит молочнокислые бактерии наряду с этанолом, что придаёт ему пробиотический характер, признанный корейской народной медициной.",
+      "era": "BC",
       "latitude": 37.566,
       "longitude": 126.978,
       "name": "Makgeolli — Korea's ancient rice brew",
-      "name_ru": "Маккол ли — древний корейский рисовый напиток",
+      "name_ru": "Макколли — корейский рисовый напиток",
       "source": "https://en.wikipedia.org/wiki/Makgeolli",
       "tags": [
-        "Asia",
+        "Korean",
+        "Beer",
         "Culture",
         "Fermentation",
-        "Historic",
-        "Korea",
-        "Makgeolli"
+        "Food",
+        "Rice",
+        "Technology"
       ],
       "type": "historic"
     },
@@ -190,6 +194,7 @@
       "tags": [
         "Agriculture",
         "Beer",
+        "Conservation",
         "Hop",
         "Innovation",
         "Technology"
@@ -211,6 +216,7 @@
         "Ancient",
         "Beer",
         "Culture",
+        "Fermentation",
         "Inca"
       ],
       "type": "cultural"
@@ -229,6 +235,7 @@
         "German",
         "Bavarian",
         "Beer",
+        "Christian",
         "Hop",
         "Monastery"
       ],
@@ -236,20 +243,20 @@
     },
     {
       "date": "01.01.1300",
-      "description": "By the Kamakura and Muromachi periods (1185–1573 AD), Japanese sake production had developed the technique of multiple parallel fermentation — the simultaneous saccharification of rice by Aspergillus oryzae (koji) and its fermentation by Saccharomyces cerevisiae yeast — that produces sake's uniquely high alcohol content (up to 20% without distillation) and complex flavour profile. Brewers at the Nara temple of Shoryakuji and later at shrines and monasteries across Japan refined the process over generations, developing the three-stage addition method (sandan shikomi) that controls fermentation temperature and prevents contamination.\n\nThe Muromachi period saw the emergence of sake as a commercial commodity, with specialist brewers (sakaya) producing for urban markets in Nara and Kyoto, and the first crude regulatory frameworks governing production. Sake had simultaneously maintained its ritual centrality at shrines and developed a secular commercial life — a duality that distinguished Japan's beer-equivalent from European ale, which was largely commercial from the beginning. The koji fermentation technology developed for sake would eventually be applied to soy sauce, miso, rice vinegar, and other fermented foods, making it the foundational technology of the East Asian culinary fermentation tradition.",
-      "description_ru": "К периодам Камакура и Муромати (1185–1573 гг. н.э.) японское производство сакэ разработало технику множественного параллельного брожения — одновременного осахаривания риса плесенью Aspergillus oryzae (кодзи) и его брожения дрожжами Saccharomyces cerevisiae, — производящей уникально высокое содержание алкоголя в сакэ (до 20% без дистилляции) и сложный вкусовой профиль. Пивовары в нарском храме Сёряку-дзи и позднее в святилищах и монастырях по всей Японии оттачивали процесс из поколения в поколение, разработав трёхэтапный метод добавления (сандан сикоми).\n\nВ период Муромати сакэ стало коммерческим товаром: специализированные пивовары (сакая) производили его для городских рынков в Наре и Киото. Сакэ одновременно сохраняло ритуальную центральность в святилищах и развило светскую коммерческую жизнь. Технология брожения кодзи, разработанная для сакэ, в конечном счёте была применена к соевому соусу, мисо, рисовому уксусу и другим ферментированным продуктам, став основополагающей технологией восточноазиатской кулинарной традиции брожения.",
+      "description": "By the Kamakura and Muromachi periods (1185–1573), Japanese sake production had developed the technique of multiple parallel fermentations—simultaneous saccharification of rice with the mold Aspergillus oryzae (koji) and its fermentation with the yeast Saccharomyces cerevisiae—producing sake's uniquely high alcohol content (up to 20% without distillation) and complex flavor profile. Brewers at Nara's Shoryaku-ji Temple and later at shrines and monasteries throughout Japan perfected the process over generations, developing a three-step addition method (sandan shikomi).\n\nSake became a commercial commodity, with specialized brewers (sakaya) producing it for urban markets in Nara and Kyoto. At the same time, sake retained its ritual status. The koji fermentation technology developed for sake was later applied to soy sauce, miso, rice vinegar and other fermented foods.",
+      "description_ru": "К периодам Камакура и Муромати (1185–1573 гг. н.э.) японское производство сакэ разработало технику множественного параллельного брожения — одновременного осахаривания риса плесенью Aspergillus oryzae (кодзи) и его брожения дрожжами Saccharomyces cerevisiae, — производящей уникально высокое содержание алкоголя в сакэ (до 20% без дистилляции) и сложный вкусовой профиль. Пивовары в нарском храме Сёряку-дзи и позднее в святилищах и монастырях по всей Японии оттачивали процесс из поколения в поколение, разработав трёхэтапный метод добавления (сандан сикоми).\n\nСакэ стало коммерческим товаром: специализированные пивовары (сакая) производили его для городских рынков в Наре и Киото. При этом сакэ сохраняло свой ритуальный статус. Технология брожения кодзи, разработанная для сакэ, позднее была применена к соевому соусу, мисо, рисовому уксусу и другим ферментированным продуктам.",
       "era": "AD",
-      "latitude": 34.685,
-      "longitude": 135.83,
-      "name": "Japanese sake achieves its classical form — parallel fermentation mastered",
-      "name_ru": "Японское сакэ достигает своей классической формы — параллельное брожение освоено",
+      "latitude": 34.64487739,
+      "longitude": 135.86852074,
+      "name": "Japanese sake achieves its classical form",
+      "name_ru": "Японское сакэ приобретает классический вид",
       "source": "https://en.wikipedia.org/wiki/Sake",
       "tags": [
-        "Asia",
+        "Japanese",
         "Culture",
         "Fermentation",
-        "Historic",
-        "Japan",
+        "Innovation",
+        "Rice",
         "Sake",
         "Technology"
       ],
@@ -312,7 +319,8 @@
         "Colonization",
         "Culture",
         "English",
-        "Navigation"
+        "Navigation",
+        "New World"
       ],
       "type": "historic"
     },
@@ -396,6 +404,7 @@
         "Beer",
         "Biology",
         "Conservation",
+        "Fermentation",
         "Food",
         "France",
         "Industry",
@@ -418,6 +427,7 @@
       "tags": [
         "German",
         "Beer",
+        "Expansion",
         "Industry",
         "Innovation",
         "Science",
@@ -440,6 +450,7 @@
         "Beer",
         "Biology",
         "Denmark",
+        "Fermentation",
         "Industry",
         "Innovation",
         "Science",

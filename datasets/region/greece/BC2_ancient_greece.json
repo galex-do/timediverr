@@ -626,22 +626,21 @@
     },
     {
       "date": "01.01.1100",
-      "description": "Smyrna founded by Aeolian colonists, later absorbed by neighboring Ionian Colophon around 688 BC; strategic location on gulf makes it major trade center; claims to be birthplace of Homer along with Chios",
-      "description_ru": "Смирна основана эолийскими колонистами, позже поглощена соседним ионийским Колофоном около 688 г. до н.э.; стратегическое положение на заливе делает ее крупным торговым центром; претендует на звание родины Гомера наряду с Хиосом",
+      "description": "Cyme (Aeolian) founded by Aeolian colonists from mainland Greece; largest and oldest Aeolian city in Asia Minor, mother city of many colonies including Italian Cumae, claimed as hometown of Hesiod's father",
+      "description_ru": "Кима Эолийская основана колонистами из материковой Греции; один из крупнейших и древнейших эолийскийх городов в Малой Азии, из которой велась дальнейшая греческая экспансия",
       "era": "BC",
-      "latitude": 38.45950339,
-      "longitude": 27.17485428,
-      "name": "Foundation of Smyrna",
-      "name_ru": "Основание эолийцами Смирны",
-      "source": "https://en.wikipedia.org/wiki/Smyrna",
+      "latitude": 38.75,
+      "longitude": 27,
+      "name": "Foundation of Aeolian Cyme",
+      "name_ru": "Основание эолийской Кимы",
+      "source": "https://en.wikipedia.org/wiki/Cyme_(Aeolis)",
       "tags": [
         "Greek",
         "City",
         "Aeolic",
         "Colonization",
         "Expansion",
-        "Seamen",
-        "Trade"
+        "Seamen"
       ],
       "type": "historic"
     },
@@ -685,21 +684,22 @@
     },
     {
       "date": "01.01.1100",
-      "description": "Cyme (Aeolian) founded by Aeolian colonists from mainland Greece; largest and oldest Aeolian city in Asia Minor, mother city of many colonies including Italian Cumae, claimed as hometown of Hesiod's father",
-      "description_ru": "Кима Эолийская основана колонистами из материковой Греции; один из крупнейших и древнейших эолийскийх городов в Малой Азии, из которой велась дальнейшая греческая экспансия",
+      "description": "Smyrna founded by Aeolian colonists, later absorbed by neighboring Ionian Colophon around 688 BC; strategic location on gulf makes it major trade center; claims to be birthplace of Homer along with Chios",
+      "description_ru": "Смирна основана эолийскими колонистами, позже поглощена соседним ионийским Колофоном около 688 г. до н.э.; стратегическое положение на заливе делает ее крупным торговым центром; претендует на звание родины Гомера наряду с Хиосом",
       "era": "BC",
-      "latitude": 38.75,
-      "longitude": 27,
-      "name": "Foundation of Aeolian Cyme",
-      "name_ru": "Основание эолийской Кимы",
-      "source": "https://en.wikipedia.org/wiki/Cyme_(Aeolis)",
+      "latitude": 38.45950339,
+      "longitude": 27.17485428,
+      "name": "Foundation of Smyrna",
+      "name_ru": "Основание эолийцами Смирны",
+      "source": "https://en.wikipedia.org/wiki/Smyrna",
       "tags": [
         "Greek",
         "City",
         "Aeolic",
         "Colonization",
         "Expansion",
-        "Seamen"
+        "Seamen",
+        "Trade"
       ],
       "type": "historic"
     },
@@ -1084,25 +1084,6 @@
     },
     {
       "date": "01.01.0800",
-      "description": "Winemaking was the backbone of Chios's economy. The ancient Greek historian Theopompus claimed that the inhabitants of Chios were the first in the world to learn how to make \"black\" (i.e., rich red) wine. The most prized grape variety, and its growing region in the northwest of the island, was Ariousia. Strabo called Ariousia wine the finest of all Greek wines. It was consumed at sumptuous banquets, and the Romans later called it \"the nectar of the gods\" and purchased it for imperial feasts.\n\nChian winemakers used a unique method: they briefly immersed the grape bunches in salty seawater before drying them in the sun. The salt washed away the waxy coating on the berries, accelerated their drying, increased their sugar concentration, and acted as a natural preservative. This wine was strong, very sweet, and aromatic.\n\nThe nectar of the gods was worth its weight in gold and was considered the main sign of wealth at feasts from Athens to Rome, and later to Constantinople.",
-      "description_ru": "Виноделие было основой экономики Хиоса. Древнегреческий историк Феопомп утверждал, что именно жители Хиоса первыми в мире научились делать «чёрное» (то есть густое красное) вино.  Самым ценным сортом винограда и областью его произрастания на северо-западе острова была Ариусия. Страбон называл ариусийское вино лучшим среди всех греческих вин. Его пили на роскошных пирах, а римляне позже называли его «нектаром богов» и закупали для императорских застолий.\n\nХиосские виноделы использовали уникальный метод: они ненадолго погружали гроздья винограда в соленую морскую воду перед тем, как вялить их на солнце. Соль смывала восковой налет с ягод, ускоряла их высыхание, увеличивала концентрацию сахара и выступала природным консервантом. Такое вино получалось крепким, очень сладким и ароматным.\n\nНектар богов ценился на вес золота и считался главным признаком богатства на пирах от Афин до Рима, а впоследствии и Константинополя.",
-      "era": "BC",
-      "latitude": 38.56266336,
-      "longitude": 25.94000816,
-      "name": "Ariousios Oinos from Chios",
-      "name_ru": "Ариусийское вино с Хиоса",
-      "source": "https://en.wikipedia.org/wiki/Chian_wine",
-      "tags": [
-        "Greek",
-        "Agriculture",
-        "Innovation",
-        "Technology",
-        "Winemaking"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.0800",
       "description": "Megara emerges as independent polis between Athens and Corinth; despite small size becomes prolific colonizer, founding Megara Hyblaea, Selinunte, Byzantium, and Chalcedon - controls key trade routes",
       "description_ru": "Мегара вырастает как независимый полис между Афинами и Коринфом; несмотря на небольшой размер, активно участвует в греческой колонизации, основывая Мегару Гиблейскую, Селинунт, Византий и Халкидон",
       "era": "BC",
@@ -1161,14 +1142,14 @@
     },
     {
       "date": "01.01.0760",
-      "description": "Eretria in Euboea reaches peak as major colonizing power; rivals neighboring Chalcis in Lelantine War for control of fertile Lelantine Plain; both cities found numerous colonies in Chalcidice, Italy, and Sicily",
-      "description_ru": "Эретрия на Эвбее растет как крупная колонизирующая держава; соперничает с соседним Халкисом в Лелантийской войне за контроль над плодородной Лелантийской равниной; оба города основывают многочисленные колонии в Халкидике, Италии и Сицилии",
+      "description": "Chalcis on Euboea leads Greek colonization alongside rival Eretria; founds colonies in Chalcidice peninsula (named after city), Sicily, and southern Italy; emerges victorious from Lelantine War with Thessalian cavalry support",
+      "description_ru": "Халкида на Эвбее возглавляет греческую колонизацию наряду с соперницей Эретрией; основывает колонии на полуострове Халкидики (названном в честь города), Сицилии и южной Италии; выходит победителем из Лелантийской войны при поддержке фессалийской кавалерии",
       "era": "BC",
-      "latitude": 38.395,
-      "longitude": 23.7867,
-      "name": "Eretria as Colonial Power",
-      "name_ru": "Эретрия как колониальная держава",
-      "source": "https://en.wikipedia.org/wiki/Eretria",
+      "latitude": 38.4628,
+      "longitude": 23.5947,
+      "name": "Chalcis as Colonial Power",
+      "name_ru": "Халкида как колониальная держава",
+      "source": "https://en.wikipedia.org/wiki/Chalcis",
       "tags": [
         "Greek",
         "Chalcidian",
@@ -1180,14 +1161,14 @@
     },
     {
       "date": "01.01.0760",
-      "description": "Chalcis on Euboea leads Greek colonization alongside rival Eretria; founds colonies in Chalcidice peninsula (named after city), Sicily, and southern Italy; emerges victorious from Lelantine War with Thessalian cavalry support",
-      "description_ru": "Халкида на Эвбее возглавляет греческую колонизацию наряду с соперницей Эретрией; основывает колонии на полуострове Халкидики (названном в честь города), Сицилии и южной Италии; выходит победителем из Лелантийской войны при поддержке фессалийской кавалерии",
+      "description": "Eretria in Euboea reaches peak as major colonizing power; rivals neighboring Chalcis in Lelantine War for control of fertile Lelantine Plain; both cities found numerous colonies in Chalcidice, Italy, and Sicily",
+      "description_ru": "Эретрия на Эвбее растет как крупная колонизирующая держава; соперничает с соседним Халкисом в Лелантийской войне за контроль над плодородной Лелантийской равниной; оба города основывают многочисленные колонии в Халкидике, Италии и Сицилии",
       "era": "BC",
-      "latitude": 38.4628,
-      "longitude": 23.5947,
-      "name": "Chalcis as Colonial Power",
-      "name_ru": "Халкида как колониальная держава",
-      "source": "https://en.wikipedia.org/wiki/Chalcis",
+      "latitude": 38.395,
+      "longitude": 23.7867,
+      "name": "Eretria as Colonial Power",
+      "name_ru": "Эретрия как колониальная держава",
+      "source": "https://en.wikipedia.org/wiki/Eretria",
       "tags": [
         "Greek",
         "Chalcidian",
@@ -1328,51 +1309,6 @@
     },
     {
       "date": "01.01.0730",
-      "description": "Poet Hesiod writes Theogony and Works and Days; Theogony systematizes Greek mythology with genealogy of gods, while Works and Days provides practical farming advice and moral instruction\n\nIn his Theogony, Hesiod describes how Earth (Gaia), Heaven (Uranus), and Tartarus emerged from Chaos; how the Titans overthrew the primeval gods, and how the Olympians, led by Zeus, overthrew the Titans. This is a fundamental reference work on Greek mythology, upon which all subsequent ancient authors based their work.",
-      "description_ru": "Поэт Гесиод пишет Теогонию и Труды и дни; Теогония систематизирует греческую мифологию с генеалогией богов, в то время как Труды и дни дают практические советы по земледелию и нравственные наставления.\n\nГесиод в Теогонии описывает, как из Хаоса возникли Земля (Гея), Небо (Уран) и Тартар; как титаны свергли первоначальных богов, а олимпийцы во главе с Зевсом — титанов. Это фундаментальный справочник по греческой мифологии, на который потом опирались все античные авторы",
-      "era": "BC",
-      "latitude": 38.36265674,
-      "longitude": 22.84297943,
-      "name": "Hesiod's Theogony and Works",
-      "name_ru": "Теогония и Труды Гесиода",
-      "source": "https://en.wikipedia.org/wiki/Hesiod",
-      "tags": [
-        "Greek",
-        "Cosmology",
-        "Culture",
-        "Literature",
-        "Poetry",
-        "Religious",
-        "Text"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.0730",
-      "description": "Chalcidians establish Leontini in eastern Sicily inland from Naxos; controls fertile plain famous for grain production; Gorgias of Leontini later becomes famous rhetorician who visits Athens in 427 BC",
-      "description_ru": "Халкидяне основывают Леонтины в восточной Сицилии близ Наксоса;  Леонтинам принадлежит плодородная равнина, город быстро становится экспортером зерна",
-      "era": "BC",
-      "latitude": 37.2867,
-      "longitude": 14.9958,
-      "name": "Foundation of Leontini",
-      "name_ru": "Основание греками Леонтин",
-      "source": "https://en.wikipedia.org/wiki/Lentini",
-      "tags": [
-        "Greek",
-        "Chalcidian",
-        "City",
-        "Agriculture",
-        "Colonization",
-        "Expansion",
-        "Food",
-        "Magna Graecia",
-        "Seamen",
-        "Sicily"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.0730",
       "description": "Chalcidians from Euboea found Zancle (later Messina) at site controlling Strait of Messina; original name means 'sickle' describing harbor shape; renamed Messana by Samian settlers in 490s BC",
       "description_ru": "Халкидяне с Эвбеи основывают Занкле (позднее Мессина) на месте, контролирующем Мессинский пролив; первоначальное название означает 'серп', описывая форму гавани; переименована в Мессану самосскими поселенцами в 490-х гг. до н.э.",
       "era": "BC",
@@ -1393,6 +1329,50 @@
         "Sicily"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.01.0730",
+      "description": "Chalcidians establish Leontini in eastern Sicily inland from Naxos; controls fertile plain famous for grain production; Gorgias of Leontini later becomes famous rhetorician who visits Athens in 427 BC",
+      "description_ru": "Халкидяне основывают Леонтины в восточной Сицилии близ Наксоса;  Леонтинам принадлежит плодородная равнина, город быстро становится экспортером зерна",
+      "era": "BC",
+      "latitude": 37.2867,
+      "longitude": 14.9958,
+      "name": "Foundation of Leontini",
+      "name_ru": "Основание греками Леонтин",
+      "source": "https://en.wikipedia.org/wiki/Lentini",
+      "tags": [
+        "Greek",
+        "Chalcidian",
+        "City",
+        "Agriculture",
+        "Colonization",
+        "Expansion",
+        "Magna Graecia",
+        "Seamen",
+        "Sicily"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0730",
+      "description": "Poet Hesiod writes Theogony and Works and Days; Theogony systematizes Greek mythology with genealogy of gods, while Works and Days provides practical farming advice and moral instruction\n\nIn his Theogony, Hesiod describes how Earth (Gaia), Heaven (Uranus), and Tartarus emerged from Chaos; how the Titans overthrew the primeval gods, and how the Olympians, led by Zeus, overthrew the Titans. This is a fundamental reference work on Greek mythology, upon which all subsequent ancient authors based their work.",
+      "description_ru": "Поэт Гесиод пишет Теогонию и Труды и дни; Теогония систематизирует греческую мифологию с генеалогией богов, в то время как Труды и дни дают практические советы по земледелию и нравственные наставления.\n\nГесиод в Теогонии описывает, как из Хаоса возникли Земля (Гея), Небо (Уран) и Тартар; как титаны свергли первоначальных богов, а олимпийцы во главе с Зевсом — титанов. Это фундаментальный справочник по греческой мифологии, на который потом опирались все античные авторы",
+      "era": "BC",
+      "latitude": 38.36265674,
+      "longitude": 22.84297943,
+      "name": "Hesiod's Theogony and Works",
+      "name_ru": "Теогония и Труды Гесиода",
+      "source": "https://en.wikipedia.org/wiki/Hesiod",
+      "tags": [
+        "Greek",
+        "Cosmology",
+        "Culture",
+        "Literature",
+        "Poetry",
+        "Religious",
+        "Text"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0729",
@@ -1526,25 +1506,6 @@
     },
     {
       "date": "01.01.0700",
-      "description": "Greek hoplite warfare develops with bronze armor, large round shield (hoplon), and spear; phalanx formation of citizen-soldiers replaces aristocratic chariot warfare, democratizing military service",
-      "description_ru": "Греки совершенствуют искусство войны и придумывают фалангу гоплитов. Гоплиты в бронзовых доспехах, с большим круглым щитом (гоплон) и копьем стоят плечо к плечу и сражаются как единая машина. В фалангу могут войти не только аристократы с колесницами, но и простые граждане, что делает войско более многочисленным и менее дорогим.",
-      "era": "BC",
-      "latitude": 37.9755,
-      "longitude": 23.7348,
-      "name": "Hoplite Warfare Revolution",
-      "name_ru": "Греческие гоплиты",
-      "source": "https://en.wikipedia.org/wiki/Hoplite",
-      "tags": [
-        "Greek",
-        "Army",
-        "Innovation",
-        "Military",
-        "Science"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.01.0700",
       "description": "Achaean Greeks found Metapontum between rival cities Taras and Sybaris in southern Italy; Pythagoras reportedly spends final years here; famous for golden grain ears depicted on coins and temple to Hera",
       "description_ru": "Ахейские греки основывают Метапонт между соперничающими городами Тарас и Сибарис в южной Италии; знаменит своим храмом Геры",
       "era": "BC",
@@ -1564,6 +1525,25 @@
         "Seamen"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.01.0700",
+      "description": "Greek hoplite warfare develops with bronze armor, large round shield (hoplon), and spear; phalanx formation of citizen-soldiers replaces aristocratic chariot warfare, democratizing military service",
+      "description_ru": "Греки совершенствуют искусство войны и придумывают фалангу гоплитов. Гоплиты в бронзовых доспехах, с большим круглым щитом (гоплон) и копьем стоят плечо к плечу и сражаются как единая машина. В фалангу могут войти не только аристократы с колесницами, но и простые граждане, что делает войско более многочисленным и менее дорогим.",
+      "era": "BC",
+      "latitude": 37.9755,
+      "longitude": 23.7348,
+      "name": "Hoplite Warfare Revolution",
+      "name_ru": "Греческие гоплиты",
+      "source": "https://en.wikipedia.org/wiki/Hoplite",
+      "tags": [
+        "Greek",
+        "Army",
+        "Innovation",
+        "Military",
+        "Science"
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.0689",
@@ -2131,6 +2111,7 @@
         "Greek",
         "Agriculture",
         "Economic",
+        "Food",
         "Innovation",
         "Olives",
         "Technology",
@@ -2261,27 +2242,6 @@
     },
     {
       "date": "01.01.0560",
-      "description": "Originally, this site stood on the site of a Sindian (a local Scythian tribe) city called Sindik, or Sindian Harbor. Greek colonists from other cities of the Bosporan Kingdom (primarily from Miletus) transformed it into a major seaport. The city was named after Gorgippus, the brother of the Bosporan king Leucon I.",
-      "description_ru": "Изначально на этом месте находился город синдов (местного скифского племени), называвшийся Синдик или Синдская гавань. Греческие колонисты, прибывшие из других городов Боспорского царства (в основном из Милета), превратили его в крупный морской порт. Город получил свое название в честь Горгиппа, брата боспорского царя Левкона I",
-      "era": "BC",
-      "latitude": 44.89601561,
-      "longitude": 37.30988145,
-      "name": "Establishing of Gorgippia",
-      "name_ru": "Основание греческой Горгиппии",
-      "source": "https://en.wikipedia.org/wiki/Anapa",
-      "tags": [
-        "Greek",
-        "Milesian",
-        "Scythian",
-        "City",
-        "Colonization",
-        "Expansion",
-        "Seamen"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.0560",
       "description": "Teans and Clazomenians found Abdera in Thrace after fleeing Persian conquest of Ionia; becomes prosperous city producing philosophers including atomist Democritus and skeptic Protagoras",
       "description_ru": "Теосцы и клазоменцы основывают Абдеру во Фракии после бегства от персидского завоевания Ионии; становится процветающим городом, давшим философов, включая атомиста Демокрита и скептика Протагора",
       "era": "BC",
@@ -2298,6 +2258,27 @@
         "Migration",
         "Philosophy",
         "Thrace"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0560",
+      "description": "Originally, this site stood on the site of a Sindian (a local Scythian tribe) city called Sindik, or Sindian Harbor. Greek colonists from other cities of the Bosporan Kingdom (primarily from Miletus) transformed it into a major seaport. The city was named after Gorgippus, the brother of the Bosporan king Leucon I.",
+      "description_ru": "Изначально на этом месте находился город синдов (местного скифского племени), называвшийся Синдик или Синдская гавань. Греческие колонисты, прибывшие из других городов Боспорского царства (в основном из Милета), превратили его в крупный морской порт. Город получил свое название в честь Горгиппа, брата боспорского царя Левкона I",
+      "era": "BC",
+      "latitude": 44.89601561,
+      "longitude": 37.30988145,
+      "name": "Establishing of Gorgippia",
+      "name_ru": "Основание греческой Горгиппии",
+      "source": "https://en.wikipedia.org/wiki/Anapa",
+      "tags": [
+        "Greek",
+        "Milesian",
+        "Scythian",
+        "City",
+        "Colonization",
+        "Expansion",
+        "Seamen"
       ],
       "type": "historic"
     },
@@ -2319,7 +2300,7 @@
         "Expansion",
         "Seamen",
         "Trade",
-        "Winemaking"
+        "Wine"
       ],
       "type": "historic"
     },
@@ -2345,26 +2326,22 @@
     },
     {
       "date": "01.01.0550",
-      "description": "In the 7th century BC, the sanctuary was destroyed by a flood. Here begins the construction of a new, much larger temple, led by the famous architect Chersiphron and his son Metagenes.",
-      "description_ru": "В VII веке до нашей эры святилище было разрушено наводнением. Начата реконструкция, а фактически — сооружение нового, куда большего по размерам храма, которое вёл знаменитый зодчий Херсифрон вместе с сыном Метагеном",
+      "description": "Sparta organizes Peloponnesian League, alliance system with Corinth, Elis, and other cities; members retain autonomy but follow Spartan foreign policy, creating dominant land power in Greece",
+      "description_ru": "Спарта организует Пелопоннесский союз, систему альянсов с Коринфом, Элидой и другими городами; члены сохраняют автономию, но следуют спартанской внешней политике, создавая доминирующую сухопутную державу в Греции",
       "era": "BC",
-      "latitude": 37.94977292,
-      "longitude": 27.36371398,
-      "name": "Foundation of Temple of Artemis",
-      "name_ru": "Начало реконструкции храма Артемиды",
+      "latitude": 37.0764,
+      "longitude": 22.4294,
+      "name": "Formation of Peloponnesian League",
+      "name_ru": "Формирование Пелопоннесского союза",
+      "source": "https://en.wikipedia.org/wiki/Peloponnesian_League",
       "tags": [
         "Greek",
-        "Building 🏠",
-        "Ancient",
-        "Architecture",
-        "Culture",
-        "Pagan",
-        "Religious",
-        "Restoration",
-        "Temple",
-        "Wonders"
+        "Corinthian",
+        "Sparta",
+        "Alliance",
+        "Oligarchy"
       ],
-      "type": "religious"
+      "type": "political"
     },
     {
       "date": "01.01.0550",
@@ -2386,22 +2363,26 @@
     },
     {
       "date": "01.01.0550",
-      "description": "Sparta organizes Peloponnesian League, alliance system with Corinth, Elis, and other cities; members retain autonomy but follow Spartan foreign policy, creating dominant land power in Greece",
-      "description_ru": "Спарта организует Пелопоннесский союз, систему альянсов с Коринфом, Элидой и другими городами; члены сохраняют автономию, но следуют спартанской внешней политике, создавая доминирующую сухопутную державу в Греции",
+      "description": "In the 7th century BC, the sanctuary was destroyed by a flood. Here begins the construction of a new, much larger temple, led by the famous architect Chersiphron and his son Metagenes.",
+      "description_ru": "В VII веке до нашей эры святилище было разрушено наводнением. Начата реконструкция, а фактически — сооружение нового, куда большего по размерам храма, которое вёл знаменитый зодчий Херсифрон вместе с сыном Метагеном",
       "era": "BC",
-      "latitude": 37.0764,
-      "longitude": 22.4294,
-      "name": "Formation of Peloponnesian League",
-      "name_ru": "Формирование Пелопоннесского союза",
-      "source": "https://en.wikipedia.org/wiki/Peloponnesian_League",
+      "latitude": 37.94977292,
+      "longitude": 27.36371398,
+      "name": "Foundation of Temple of Artemis",
+      "name_ru": "Начало реконструкции храма Артемиды",
       "tags": [
         "Greek",
-        "Corinthian",
-        "Sparta",
-        "Alliance",
-        "Oligarchy"
+        "Building 🏠",
+        "Ancient",
+        "Architecture",
+        "Culture",
+        "Pagan",
+        "Religious",
+        "Restoration",
+        "Temple",
+        "Wonders"
       ],
-      "type": "political"
+      "type": "religious"
     },
     {
       "date": "01.01.0547",
@@ -2541,27 +2522,6 @@
     },
     {
       "date": "01.01.0530",
-      "description": "Pythagoras founded a philosophical community in Croton, southern Italy; members followed strict rules, including vegetarianism, communal property, and secret mathematical-religious teachings. Unlike other philosophers of the time, who sought the primordial principle of the world in water, air, or fire, the Pythagoreans declared that the basis of all existence was number.\n\nThe school's distinctive mystical symbol was a figure of 10 dots arranged in a triangle. The Pythagoreans considered the oath of the tetractys to be supreme and inviolable.\n\nThe Pythagorean school was closed and elite. It admitted young men from the wealthiest and most noble families of Southern Italy. When these students completed their studies and returned to their families, they occupied the highest government posts and began to put Pythagorean ideals into practice.",
-      "description_ru": "Пифагор основывает философскую общину в Кротоне, южная Италия; члены следуют строгим правилам, включая вегетарианство, общую собственность и тайные математико-религиозные учения. В отличие от других философов того времени, которые искали первооснову мира в воде, воздухе или огне, пифагорейцы заявили, что основой всего сущего является число.\n\nОсобым мистическим символом школы была фигура из 10 точек, расположенных в виде треугольника. Клятва тетрактисом считалась у пифагорейцев высшей и нерушимой.\n\nШкола Пифагора была закрытой и элитарной. Туда принимали молодых людей из самых богатых и знатных семей Южной Италии. Когда эти ученики заканчивали обучение и возвращались в свои семьи, они занимали высшие государственные посты и начинали внедрять пифагорейские идеалы на практике.",
-      "era": "BC",
-      "latitude": 39.0833,
-      "longitude": 17.1333,
-      "name": "Pythagorean School Founded",
-      "name_ru": "Основание пифагорейской школы",
-      "source": "https://en.wikipedia.org/wiki/Pythagoreanism",
-      "tags": [
-        "Greek",
-        "Magna Graecia",
-        "Mathematics",
-        "Mystery",
-        "Philosophy",
-        "Pythagoras 👤",
-        "Religious"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.0530",
       "description": "According to Samian legend, Hera was born on this island by the Imbrasos River, under the shade of a sacred willow tree. The design was unique in Greece: the building's roof was to be supported by 155 enormous limestone columns, as tall as a multi-story building. It was the first example in history of a monumental \"dipterus\"—a temple surrounded by a double row of columns on all sides. The temple was connected to the island's capital by a magnificent 6-kilometer \"Sacred Way,\" lined with marble statues.\n\nThe temple was never fully completed: first, the fall of Polycrates' tyranny, then Persian raids, and later, frequent earthquakes destroyed the structure. Today, only a single surviving column, approximately half its original height, proudly stands in the middle of an empty field.",
       "description_ru": "По самосским преданиям, Гера родилась именно на этом острове у реки Имбрасос, под тенью священного дерева авраамова куста (ивы). Проект был уникален для Греции: крышу здания должны были поддерживать 155 огромных известняковых колонн высотой с многоэтажный дом. Это был первый в истории пример монументального «диптера» — храма, окруженного двойным рядом колонн со всех сторон. Храм соединялся со столицей острова великолепной 6-километровой «Священной дорогой», уставленной мраморными статуями.\n\nХрам так и не был до конца достроен: сначала помешало падение тирании Поликрата, затем персидские набеги, а позже частые землетрясения разрушили конструкцию. Сегодня посреди пустого поля гордо высится лишь одна-единственная уцелевшая колонна, сохранившаяся примерно наполовину своей первоначальной высоты",
       "era": "BC",
@@ -2580,6 +2540,27 @@
         "Temple"
       ],
       "type": "religious"
+    },
+    {
+      "date": "01.01.0530",
+      "description": "Pythagoras founded a philosophical community in Croton, southern Italy; members followed strict rules, including vegetarianism, communal property, and secret mathematical-religious teachings. Unlike other philosophers of the time, who sought the primordial principle of the world in water, air, or fire, the Pythagoreans declared that the basis of all existence was number.\n\nThe school's distinctive mystical symbol was a figure of 10 dots arranged in a triangle. The Pythagoreans considered the oath of the tetractys to be supreme and inviolable.\n\nThe Pythagorean school was closed and elite. It admitted young men from the wealthiest and most noble families of Southern Italy. When these students completed their studies and returned to their families, they occupied the highest government posts and began to put Pythagorean ideals into practice.",
+      "description_ru": "Пифагор основывает философскую общину в Кротоне, южная Италия; члены следуют строгим правилам, включая вегетарианство, общую собственность и тайные математико-религиозные учения. В отличие от других философов того времени, которые искали первооснову мира в воде, воздухе или огне, пифагорейцы заявили, что основой всего сущего является число.\n\nОсобым мистическим символом школы была фигура из 10 точек, расположенных в виде треугольника. Клятва тетрактисом считалась у пифагорейцев высшей и нерушимой.\n\nШкола Пифагора была закрытой и элитарной. Туда принимали молодых людей из самых богатых и знатных семей Южной Италии. Когда эти ученики заканчивали обучение и возвращались в свои семьи, они занимали высшие государственные посты и начинали внедрять пифагорейские идеалы на практике.",
+      "era": "BC",
+      "latitude": 39.0833,
+      "longitude": 17.1333,
+      "name": "Pythagorean School Founded",
+      "name_ru": "Основание пифагорейской школы",
+      "source": "https://en.wikipedia.org/wiki/Pythagoreanism",
+      "tags": [
+        "Greek",
+        "Magna Graecia",
+        "Mathematics",
+        "Mystery",
+        "Philosophy",
+        "Pythagoras 👤",
+        "Religious"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0527",
@@ -2751,6 +2732,26 @@
         "Philosophy"
       ],
       "type": "cultural"
+    },
+    {
+      "date": "01.01.0500",
+      "description": "Winemaking was the backbone of Chios's economy. The ancient Greek historian Theopompus claimed that the inhabitants of Chios were the first in the world to learn how to make \"black\" (i.e., rich red) wine. The most prized grape variety, and its growing region in the northwest of the island, was Ariousia. Strabo called Ariousia wine the finest of all Greek wines. It was consumed at sumptuous banquets, and the Romans later called it \"the nectar of the gods\" and purchased it for imperial feasts.\n\nChian winemakers used a unique method: they briefly immersed the grape bunches in salty seawater before drying them in the sun. The salt washed away the waxy coating on the berries, accelerated their drying, increased their sugar concentration, and acted as a natural preservative. This wine was strong, very sweet, and aromatic.\n\nThe nectar of the gods was worth its weight in gold and was considered the main sign of wealth at feasts from Athens to Rome, and later to Constantinople.",
+      "description_ru": "Виноделие было основой экономики Хиоса. Древнегреческий историк Феопомп утверждал, что именно жители Хиоса первыми в мире научились делать «чёрное» (то есть густое красное) вино.  Самым ценным сортом винограда и областью его произрастания на северо-западе острова была Ариусия. Страбон называл ариусийское вино лучшим среди всех греческих вин. Его пили на роскошных пирах, а римляне позже называли его «нектаром богов» и закупали для императорских застолий.\n\nХиосские виноделы использовали уникальный метод: они ненадолго погружали гроздья винограда в соленую морскую воду перед тем, как вялить их на солнце. Соль смывала восковой налет с ягод, ускоряла их высыхание, увеличивала концентрацию сахара и выступала природным консервантом. Такое вино получалось крепким, очень сладким и ароматным.\n\nНектар богов ценился на вес золота и считался главным признаком богатства на пирах от Афин до Рима, а впоследствии и Константинополя.",
+      "era": "BC",
+      "latitude": 38.56266336,
+      "longitude": 25.94000816,
+      "name": "Ariousios Oinos from Chios",
+      "name_ru": "Ариусийское вино с Хиоса",
+      "source": "https://en.wikipedia.org/wiki/Chian_wine",
+      "tags": [
+        "Greek",
+        "Agriculture",
+        "Fermentation",
+        "Innovation",
+        "Technology",
+        "Wine"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.0496",
@@ -3626,7 +3627,7 @@
         "Colonization",
         "Crimea",
         "Expansion",
-        "Winemaking"
+        "Wine"
       ],
       "type": "historic"
     },

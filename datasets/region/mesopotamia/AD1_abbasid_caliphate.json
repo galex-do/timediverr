@@ -53,8 +53,8 @@
       "era": "AD",
       "latitude": 33.094,
       "longitude": 44.581,
-      "name": "Caliph Executes Abu Muslim",
-      "name_ru": "Халиф казнит Абу Муслима",
+      "name": "The Abbasid Caliph executes Abu Muslim",
+      "name_ru": "Халиф Аббасидов казнит Абу Муслима",
       "source": "https://en.wikipedia.org/wiki/Abu_Muslim",
       "tags": [
         "Arabian",
@@ -294,7 +294,7 @@
       "latitude": 35.67,
       "longitude": 10.1,
       "name": "The Fatimid Caliphate Proclaimed",
-      "name_ru": "Провозглашение Фатимидского халифата",
+      "name_ru": "Провозглашение халифата Фатимидов",
       "source": "https://en.wikipedia.org/wiki/Fatimid_Caliphate",
       "tags": [
         "Arabian",
@@ -423,6 +423,7 @@
         "Conquest",
         "Islamic",
         "Oguz",
+        "Seljuk Empire",
         "Turkic"
       ],
       "type": "political"
@@ -447,6 +448,7 @@
         "Nizari",
         "Order",
         "Sect",
+        "Seljuk Empire",
         "Shia"
       ],
       "type": "political"

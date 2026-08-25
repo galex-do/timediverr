@@ -65,23 +65,6 @@
     },
     {
       "date": "01.01.1200",
-      "description": "After Bronze Age collapse destroys neighboring civilizations, Phoenicians survive intact and begin unprecedented maritime expansion across Mediterranean",
-      "description_ru": "После катастрофы бронзового века, разрушившей соседние цивилизации, финикийцы остаются невредимыми и начинают беспрецедентную морскую экспансию в Средиземноморье",
-      "era": "BC",
-      "latitude": 33.894,
-      "longitude": 35.501,
-      "name": "Phoenician Renaissance Begins",
-      "name_ru": "Начало финикийского Ренессанса",
-      "source": "https://www.worldhistory.org/phoenicia/",
-      "tags": [
-        "Phoenician",
-        "Expansion",
-        "Maritime"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.1200",
       "description": "Phoenicians develop first true alphabet with 22 consonants, revolutionizing writing and becoming foundation for Greek, Latin and modern alphabets",
       "description_ru": "Финикийцы создают первый настоящий алфавит из 22 согласных, революционизируя письменность и став основой для греческого, латинского и современных алфавитов",
       "era": "BC",
@@ -98,6 +81,23 @@
         "Writing"
       ],
       "type": "cultural"
+    },
+    {
+      "date": "01.01.1200",
+      "description": "After Bronze Age collapse destroys neighboring civilizations, Phoenicians survive intact and begin unprecedented maritime expansion across Mediterranean",
+      "description_ru": "После катастрофы бронзового века, разрушившей соседние цивилизации, финикийцы остаются невредимыми и начинают беспрецедентную морскую экспансию в Средиземноморье",
+      "era": "BC",
+      "latitude": 33.894,
+      "longitude": 35.501,
+      "name": "Phoenician Renaissance Begins",
+      "name_ru": "Начало финикийского Ренессанса",
+      "source": "https://www.worldhistory.org/phoenicia/",
+      "tags": [
+        "Phoenician",
+        "Expansion",
+        "Maritime"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.1100",
@@ -262,6 +262,26 @@
       "type": "historic"
     },
     {
+      "date": "01.01.0900",
+      "description": "The Atlantic Ocean off the coast of Portugal is renowned for its powerful storms, high waves, and dangerous currents. Phoenician ships could not sail long along the open coast without stopping. The mouth of the Tagus River forms a gigantic inland lagoon (Mar da Palha), protected from storms. The name \"Alis Ubbo\" (in Phoenician, ʿAlīs ʿUbbō) itself translates as \"Safe Bay.\"\n\nBronze production was the main driver of the Bronze and Iron Age economies. Copper and the very rare metal tin, mined in the north, were required for this purpose. Alis Ubbo emerged as an intermediate trading hub between Cadiz and regions further north.",
+      "description_ru": "Атлантический океан у берегов Португалии славится мощными штормами, высокими волнами и опасными течениями. Корабли финикийцев не могли долго идти вдоль открытого берега без остановок. Устье реки Тежу образует гигантскую внутреннюю лагуну (Мар-да-Палья), защищенную от штормов. Само название «Алис-Уббо» (на финикийском языке — ʿAlīs ʿUbbō) переводится как «Безопасная бухта».\n\nГлавным двигателем экономики Бронзового и Железного веков было производство бронзы. Для неё требовались медь и очень редкий металл — олово, которое добывали на севере. Алис-Уббо возник как промежуточный торговый узел между Кадисом и более северными регионами.",
+      "era": "BC",
+      "latitude": 38.71401192,
+      "longitude": -9.13232088,
+      "name": "Alis-Ubbo founded by the Phoenicians",
+      "name_ru": "Основание финикийцами Алис-Уббо",
+      "source": "https://en.wikipedia.org/wiki/History_of_Lisbon",
+      "tags": [
+        "Phoenician",
+        "City",
+        "Colonization",
+        "Expansion",
+        "Seamen",
+        "Trade"
+      ],
+      "type": "historic"
+    },
+    {
       "date": "01.01.0858",
       "description": "Assyrian King Shalmaneser III begins demanding annual tribute from Phoenician cities after conquering Syria, marking start of Assyrian dominance",
       "description_ru": "Ассирийский царь Салманасар III начинает требовать ежегодную дань с финикийских городов после завоевания Сирии, знаменуя начало ассирийского господства",
@@ -322,6 +342,25 @@
     },
     {
       "date": "01.01.0800",
+      "description": "Phoenician sailors from Tyre actively explored the southern Iberian Peninsula. They were searching for metals (silver, gold, copper), for which the local semi-legendary kingdom of Tartessos was famous. They established a trading post at a point where maritime trade routes extended upriver. The word \"Sefele\" (or \"Shephela\") translates from Phoenician and Hebrew as \"lowland\" or \"plain.\" The settlement was located on a fertile alluvial plain regularly flooded by the river.",
+      "description_ru": "Финикийские мореплаватели из Тира активно осваивали юг Пиренейского полуострова. Они искали металлы (серебро, золото, медь), которыми славилось местное полулегендарное царство Тартесс. Они основали торговую факторию на точке, докуда вверх по реке могли доходить морские торговые пути. Само слово Сефеле (или Шфела) переводится с финикийского и древнееврейского языков как «низменность» или «равнина». Поселение находилось на плодородной аллювиальной равнине, которую река регулярно затапливала.",
+      "era": "BC",
+      "latitude": 37.38987647,
+      "longitude": -5.99173307,
+      "name": "The founding of Sephele by the Phoenicians",
+      "name_ru": "Основание финикийцами Сефеле",
+      "tags": [
+        "Phoenician",
+        "City",
+        "Colonization",
+        "Expansion",
+        "Trade",
+        "Tyre"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0800",
       "description": "Phoenicians establish extensive network of colonies across Sicily, Sardinia, Iberia and North Africa, transforming trading posts into permanent settlements",
       "description_ru": "Финикийцы создают обширную сеть колоний в Сицилии, Сардинии, Иберии и Северной Африке, преобразуя торговые посты в постоянные поселения",
       "era": "BC",
@@ -356,6 +395,27 @@
         "Maritime",
         "Seamen",
         "Sicily"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0770",
+      "description": "Phoenicians from Tyre founded the colony of Malaka. The name presumably derives from the word malac (to salt), as the city became a major center for fish salting. Andalusia's hot climate, high evaporation rates, and shallow sandy shores were ideal for creating salt ponds.",
+      "description_ru": "Финикийцы из Тира основывают колонию Малака. Название, предположительно, происходит от слова malac (солить), так как город стал крупным центром засолки рыбы. Жаркий климат Андалусии, высокая испаряемость и мелководные песчаные берега идеально подходили для создания соляных прудов.",
+      "era": "BC",
+      "latitude": 36.72130828,
+      "longitude": -4.4167614,
+      "name": "The founding of Malaka by the Phoenicians",
+      "name_ru": "Основание финикийцами Малаки",
+      "source": "https://en.wikipedia.org/wiki/M%C3%A1laga",
+      "tags": [
+        "Phoenician",
+        "City",
+        "Colonization",
+        "Expansion",
+        "Fishing",
+        "Salt",
+        "Tyre"
       ],
       "type": "historic"
     },
@@ -519,8 +579,8 @@
       "description": "Carthage establishes control over southern Iberia, developing rich silver mines and creating economic base for future empire",
       "description_ru": "Карфаген устанавливает контроль над южной Иберией, разрабатывая богатые серебряные рудники и создавая экономическую базу для будущей империи",
       "era": "BC",
-      "latitude": 37.389,
-      "longitude": -5.984,
+      "latitude": 37.38987647,
+      "longitude": -5.99173307,
       "name": "Carthaginian Expansion in Iberia",
       "name_ru": "Карфагенская экспансия в Иберии",
       "source": "https://en.wikipedia.org/wiki/Ancient_Carthage",
@@ -638,25 +698,6 @@
     },
     {
       "date": "01.01.0450",
-      "description": "Carthaginian navigator Hanno the Navigator sails beyond Gibraltar along African coast, establishing colonies and documenting unprecedented exploration",
-      "description_ru": "Карфагенский мореплаватель Ганнон Мореплаватель плывет за Гибралтар вдоль африканского побережья, основывая колонии и документируя беспрецедентное исследование",
-      "era": "BC",
-      "latitude": 33.573,
-      "longitude": -7.589,
-      "name": "Hanno's Voyage to West Africa",
-      "name_ru": "Плавание Ганнона в Западную Африку",
-      "source": "https://phoenician.org/carthage_hannibal_barca/",
-      "tags": [
-        "Carthage",
-        "Colonization",
-        "Expedition",
-        "Exploration",
-        "Maritime"
-      ],
-      "type": "scientific"
-    },
-    {
-      "date": "01.01.0450",
       "description": "Greek historian Herodotus visits Tyre and records from temple priests that city was founded circa 2750 BC, documenting Phoenician historical traditions",
       "description_ru": "Греческий историк Геродот посещает Тир и записывает со слов храмовых жрецов, что город основан около 2750 г. до н.э., документируя финикийские исторические традиции",
       "era": "BC",
@@ -674,6 +715,26 @@
         "Tyre"
       ],
       "type": "cultural"
+    },
+    {
+      "date": "01.01.0450",
+      "description": "The Carthaginian navigator Hanno the Navigator sails beyond Gibraltar along the African coast, establishing colonies and recording what he sees. His account, the Periplus of Hanno, is one of the oldest surviving geographical texts: it describes a great river teeming with crocodiles and hippopotamuses (almost certainly the Draa), volcanic eruptions visible at night, and furry creatures whose bodies the expedition brought back as trophies—translators called them gorillai, possibly chimpanzees or true gorillas encountered further south.",
+      "description_ru": "Карфагенский мореплаватель Ганнон Мореплаватель плывет за Гибралтар вдоль африканского побережья, основывая колонии и фиксируя увиденное. Его отчёт — «Перипл Ганнона» — один из старейших сохранившихся географических текстов: в нём описана великая река, кишащая крокодилами и бегемотами (почти наверняка Драа), вулканические извержения, видимые ночью, и существа, покрытые шерстью, тела которых экспедиция привезла как трофеи, — переводчики назвали их гориллаи, возможно, шимпанзе или настоящие гориллы, встреченные южнее.",
+      "era": "BC",
+      "latitude": 33.573,
+      "longitude": -7.589,
+      "name": "Hanno's Voyage to West Africa",
+      "name_ru": "Плавание Ганнона в Западную Африку",
+      "source": "https://phoenician.org/carthage_hannibal_barca/",
+      "tags": [
+        "Carthage",
+        "Colonization",
+        "Expedition",
+        "Exploration",
+        "Maritime",
+        "Seamen"
+      ],
+      "type": "scientific"
     },
     {
       "date": "01.01.0397",
@@ -942,8 +1003,8 @@
       "description": "Carthaginian general Hamilcar Barca begins conquest of Iberian Peninsula, establishing new power base and rich silver mines to compensate for loss of Sicily",
       "description_ru": "Карфагенский полководец Гамилькар Барка начинает завоевание Иберийского полуострова, создавая новую базу власти и богатые серебряные рудники в компенсацию за потерю Сицилии",
       "era": "BC",
-      "latitude": 37.389,
-      "longitude": -5.984,
+      "latitude": 37.38987647,
+      "longitude": -5.99173307,
       "name": "Hamilcar Barca Conquers Iberia",
       "name_ru": "Гамилькар Барка завоевывает Иберию",
       "source": "https://phoenician.org/carthage_hannibal_barca/",
@@ -963,8 +1024,8 @@
       "description": "Hasdrubal the Fair founds Qart Hadasht (New Carthage, modern Cartagena) in Iberia as new Carthaginian capital and strategic base",
       "description_ru": "Гасдрубал Красивый основывает Карт-Хадашт (Новый Карфаген, современная Картахена) в Иберии как новую карфагенскую столицу и стратегическую базу",
       "era": "BC",
-      "latitude": 37.626,
-      "longitude": -0.994,
+      "latitude": 37.59949318,
+      "longitude": -0.98410249,
       "name": "Founding of New Carthage",
       "name_ru": "Основание Нового Карфагена",
       "source": "https://phoenician.org/carthage_hannibal_barca/",
@@ -1052,8 +1113,8 @@
       "description": "Hannibal Barca departs Iberia with 90,000 infantry, 12,000 cavalry and 37 war elephants, initiating legendary campaign against Rome",
       "description_ru": "Ганнибал Барка выступает из Иберии с 90 000 пехотинцев, 12 000 всадников и 37 боевыми слонами, начиная легендарную кампанию против Рима",
       "era": "BC",
-      "latitude": 37.626,
-      "longitude": -0.994,
+      "latitude": 37.59949318,
+      "longitude": -0.98410249,
       "name": "Hannibal's March Begins",
       "name_ru": "Начало похода Ганнибала",
       "source": "https://phoenician.org/carthage_hannibal_barca/",
@@ -1224,8 +1285,8 @@
       "description": "Roman general Scipio Africanus captures New Carthage in daring assault, seizing Carthaginian base in Iberia and turning tide of Second Punic War",
       "description_ru": "Римский полководец Сципион Африканский захватывает Новый Карфаген в дерзком штурме, захватывая карфагенскую базу в Иберии и меняя ход Второй Пунической войны",
       "era": "BC",
-      "latitude": 37.626,
-      "longitude": -0.994,
+      "latitude": 37.59949318,
+      "longitude": -0.98410249,
       "name": "Scipio Captures New Carthage",
       "name_ru": "Сципион захватывает Новый Карфаген",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Carthago_Nova",

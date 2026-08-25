@@ -72,6 +72,7 @@
         "Agriculture",
         "Culture",
         "Engineering ⚙️",
+        "Food",
         "Innovation",
         "Sabaean"
       ],
@@ -110,9 +111,9 @@
         "Arabia",
         "Culture",
         "Husbandry",
+        "Logistics",
         "Technology",
         "Trade",
-        "Transport",
         "Sabaean"
       ],
       "type": "historic"
@@ -162,7 +163,7 @@
       "era": "BC",
       "latitude": 15.4272,
       "longitude": 45.3363,
-      "name": "Marib - administrative capital of Saba",
+      "name": "Marib — administrative capital of Saba",
       "name_ru": "Мариб - административная столица Сабы",
       "source": "https://en.wikipedia.org/wiki/Marib",
       "tags": [
@@ -180,7 +181,7 @@
       "era": "BC",
       "latitude": 15.45200859,
       "longitude": 45.01856089,
-      "name": "Sirwah - the first capital of the Sabeans",
+      "name": "Sirwah — the first capital of the Sabeans",
       "name_ru": "Сирва - первая столица сабеев",
       "source": "https://en.wikipedia.org/wiki/Sirwah",
       "tags": [

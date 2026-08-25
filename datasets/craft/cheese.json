@@ -55,6 +55,7 @@
         "Ancient",
         "Cheese",
         "Culture",
+        "Fermentation",
         "Food"
       ],
       "type": "cultural"
@@ -73,6 +74,7 @@
         "Roman",
         "Cheese",
         "Culture",
+        "Fermentation",
         "Food",
         "Science",
         "Technology",
@@ -94,6 +96,7 @@
         "Cheese",
         "Conservation",
         "Culture",
+        "Fermentation",
         "Food",
         "Mongolian",
         "Nomads",
@@ -115,8 +118,10 @@
         "Indian",
         "Cheese",
         "Culture",
+        "Fermentation",
         "Food",
         "Hinduism",
+        "Religious",
         "Technology"
       ],
       "type": "cultural"
@@ -154,6 +159,7 @@
       "tags": [
         "Cheese",
         "Culture",
+        "Fermentation",
         "Food",
         "France",
         "French"
@@ -176,6 +182,7 @@
         "Communication",
         "Conservation",
         "Culture",
+        "Fermentation",
         "Food",
         "Logistics",
         "Swiss",
@@ -198,6 +205,7 @@
         "Culture",
         "England",
         "English",
+        "Fermentation",
         "Food",
         "Innovation",
         "Technology"
@@ -219,6 +227,7 @@
         "Cheese",
         "Conservation",
         "Culture",
+        "Fermentation",
         "Food",
         "Trade"
       ],
@@ -237,6 +246,7 @@
       "tags": [
         "Cheese",
         "Culture",
+        "Fermentation",
         "Food",
         "Science",
         "Swiss"
@@ -257,6 +267,8 @@
         "Cheese",
         "Conservation",
         "Culture",
+        "Dutch",
+        "Fermentation",
         "Industry",
         "Logistics",
         "Netherlands",
@@ -280,6 +292,7 @@
         "Culture",
         "England",
         "English",
+        "Fermentation",
         "Food"
       ],
       "type": "cultural"
@@ -298,6 +311,7 @@
         "Legend",
         "Cheese",
         "Culture",
+        "Fermentation",
         "Food",
         "France",
         "French",
@@ -341,6 +355,7 @@
       "tags": [
         "Cheese",
         "Denmark",
+        "Fermentation",
         "Food",
         "Industry",
         "Innovation",

@@ -139,6 +139,7 @@
         "Cotton",
         "Culture",
         "Engineering ⚙️",
+        "Food",
         "Innovation",
         "Rice",
         "Sugar"
@@ -187,6 +188,7 @@
         "Foundation",
         "Islamic",
         "Political",
+        "Reconquista",
         "Religious"
       ],
       "type": "political"
@@ -330,6 +332,7 @@
         "Decline",
         "Islamic",
         "Political",
+        "Reconquista",
         "Regency"
       ],
       "type": "political"
@@ -355,6 +358,7 @@
         "Cordoba",
         "Islamic",
         "Leon",
+        "Reconquista",
         "Religious"
       ],
       "type": "military"
@@ -419,34 +423,30 @@
         "Collapse",
         "Cordoba",
         "End",
-        "Islamic"
+        "Islamic",
+        "Reconquista"
       ],
       "type": "political"
     },
     {
-      "date": "01.01.1085",
-      "description": "The capture of Toledo by King Alfonso VI of Castile in 1085 AD — the first major strategic reconquest of an important Islamic city in the Iberian Peninsula — set in motion the process by which the intellectual legacy of Córdoba was transmitted to the Latin Christian world and, through it, to all of subsequent European civilization. Toledo had been a taifa capital and one of the cultural centres of al-Andalus; its monasteries, churches, and libraries contained manuscripts in Arabic, Hebrew, and Latin that represented the accumulated learning of the Islamic world, including the translations and original works of the Córdoba tradition. Under the patronage of Archbishop Raymond of Toledo (1125–1152), the city became the great translation factory of the medieval west: scholars from across Europe came to Toledo specifically to translate the Arabic texts into Latin.\n\nGerard of Cremona (1114–1187), the most productive of the Toledo translators, translated 87 works from Arabic into Latin, including Ptolemy's Almagest (the foundational text of ancient astronomy), Euclid's Elements (the foundational text of geometry), the complete works of Avicenna on medicine, and al-Zahrawi's al-Tasrif on surgery. Averroes (Ibn Rushd), born in Córdoba in 1126, wrote his great commentaries on Aristotle in al-Andalus; these were translated in Toledo and became the primary vehicle through which Aristotelian philosophy reached the medieval European universities, directly stimulating the Scholastic movement and the intellectual revolution we call the Renaissance. Maimonides (Moses ben Maimon), also born in Córdoba in 1138, fled Almohad persecution and eventually settled in Cairo; his Guide for the Perplexed, written in Arabic, was translated in Toledo and became one of the most influential texts in medieval European philosophy. The Hindu-Arabic numeral system — the 1-9-0 digits that make modern mathematics possible — entered European use through the Islamic world and specifically through the Córdoba tradition. The physician and philosopher who best summarizes the Córdoba legacy, however, is perhaps al-Zahrawi: his surgical instruments, illustrated in a book written in Córdoba in the 990s, were still being manufactured and used in European operating theatres in the 1650s.",
-      "description_ru": "Первое завоевание важного исламского города в Иберии запустило процесс, посредством которого интеллектуальное наследие Кордовы перешло латинскому христианскому миру и через него всей последующей европейской цивилизации. Под покровительством архиепископа Раймонда Толедского город стал великой переводческой фабрикой средневекового запада.\n\nЖерар Кремонский (1114–1187), наиболее продуктивный из толедских переводчиков, перевёл с арабского на латынь 87 работ, включая «Альмагест» Птолемея, «Начала» Евклида, полные труды Авиценны по медицине и «аль-Тасриф» аль-Захрави по хирургии. Аверроэс (Ибн Рушд), рождённый в Кордове в 1126 году, написал свои великие комментарии к Аристотелю; переведённые в Толедо, они стали основным проводником, через который аристотелевская философия достигла средневековых европейских университетов, непосредственно стимулировав схоластическое движение и интеллектуальную революцию, которую мы называем Ренессансом. Маймонид (Моше бен Маймон), рождённый в Кордове в 1138 году, написал «Путеводитель растерянных» по-арабски; переведённый в Толедо, он стал одним из наиболее влиятельных текстов средневековой европейской философии. Индо-арабская система цифр, без которой невозможна современная математика, вошла в европейское употребление через исламский мир и конкретно через кордовскую традицию.",
+      "date": "25.05.1085",
+      "description": "The Castilians captured Toledo on May 25, 1085, under the leadership of King Alfonso VI. After a lengthy siege and diplomatic pressure, the city surrendered without a bloody assault, as the king promised to spare the lives, property, and faith of local Muslims.\n\nThe conquest of Toledo launched the process by which Cordoba's intellectual heritage passed to Latin Christendom and, through it, to all subsequent European civilization. Under the patronage of Archbishop Raymond of Toledo, the city became a great translation factory of the medieval West.",
+      "description_ru": "Кастильцы захватили Толедо 25 мая 1085 года под руководством короля Альфонсо VI. Город сдался после долгой осады и дипломатического давления без кровопролитного штурма, так как король пообещал сохранить жизнь, имущество и веру местным мусульманам.\n\nЗавоевание Толедо запустило процесс, посредством которого интеллектуальное наследие Кордовы перешло латинскому христианскому миру и через него всей последующей европейской цивилизации. Под покровительством архиепископа Раймонда Толедского город стал великой переводческой фабрикой средневекового запада.",
       "era": "AD",
       "latitude": 39.85803885,
       "longitude": -4.02052939,
       "name": "The Castilians capture Toledo",
       "name_ru": "Кастильцы захватывают Толедо",
-      "source": "https://en.wikipedia.org/wiki/Toledo_School_of_Translators",
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Toledo_(1085)",
       "tags": [
         "Arabian",
         "Umayyad",
         "War",
-        "Castilian",
+        "Castile",
         "Christian",
-        "Culture",
+        "Conquest",
         "Islamic",
-        "Mathematics",
-        "Medicine",
-        "Reconquista",
-        "Science",
-        "Text",
-        "Translation"
+        "Reconquista"
       ],
       "type": "cultural"
     },

@@ -215,6 +215,7 @@
         "Dynasty",
         "Aquitaine",
         "Culture",
+        "Eleanor of Aquitaine",
         "England",
         "English",
         "France",
@@ -834,17 +835,18 @@
       "era": "AD",
       "latitude": 51.50853,
       "longitude": -0.07573,
-      "name": "The Princes in the Tower — Richard III and England's darkest mystery",
-      "name_ru": "Принцы в Тауэре — Ричард III и мрачнейшая тайна Англии",
+      "name": "Richard III imprisons the english princes in the Tower",
+      "name_ru": "Ричард III сажает английских принцев в Тауэр",
       "source": "https://en.wikipedia.org/wiki/Princes_in_the_Tower",
       "tags": [
         "Dynasty",
         "King",
-        "British",
         "Crisis",
         "Death",
+        "England",
         "English",
-        "York"
+        "Prisoner",
+        "Usurpation"
       ],
       "type": "political"
     },
