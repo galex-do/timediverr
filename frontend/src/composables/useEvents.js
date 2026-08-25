@@ -120,11 +120,14 @@ export function useEvents() {
 
   // Handle event creation
   const handleEventCreated = async (newEvent) => {
-    // Add the new event to the events array
+    // Add the new event to the events array.
+    // Reassign with a new array (rather than push()) so consumers watching
+    // these refs by reference (e.g. WorldMap's shallow `events` watcher)
+    // reliably see the change without needing a deep watch.
     if (newEvent && newEvent.id) {
-      events.value.push(newEvent)
+      events.value = [...events.value, newEvent]
       // Also add to filtered events so it's immediately visible on the map
-      filteredEvents.value.push(newEvent)
+      filteredEvents.value = [...filteredEvents.value, newEvent]
       console.log('New event added to arrays:', newEvent.name)
     } else {
       // Fallback: refresh all events if no event data provided
@@ -135,16 +138,18 @@ export function useEvents() {
 
   // Handle event update (preserves current filter state)
   const handleEventUpdated = async (updatedEvent) => {
-    // Update the event in the current events array
+    // Update the event in the current events array.
+    // Use .map() to produce a new array reference instead of mutating the
+    // existing one in place, for the same shallow-watch reason as above.
     const eventIndex = events.value.findIndex(e => e.id === updatedEvent.id)
     if (eventIndex !== -1) {
-      events.value[eventIndex] = updatedEvent
+      events.value = events.value.map(e => e.id === updatedEvent.id ? updatedEvent : e)
       console.log('Event updated in place:', updatedEvent.name)
       
       // Update filtered events array if this event is currently visible
       const filteredIndex = filteredEvents.value.findIndex(e => e.id === updatedEvent.id)
       if (filteredIndex !== -1) {
-        filteredEvents.value[filteredIndex] = updatedEvent
+        filteredEvents.value = filteredEvents.value.map(e => e.id === updatedEvent.id ? updatedEvent : e)
       }
     } else {
       console.warn('Event not found for update:', updatedEvent.id)

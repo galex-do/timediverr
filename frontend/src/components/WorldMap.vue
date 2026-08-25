@@ -6,7 +6,7 @@
     <transition name="fade">
       <div v-if="markers_loading" class="markers-loading-overlay">
         <div class="markers-loading-spinner"></div>
-        <span>{{ t('loadingEvents') || 'Loading events…' }}</span>
+        <span>{{ t('loadingEvents') || 'Loading events…' }}{{ markers_loading_progress > 0 ? ` ${markers_loading_progress}%` : '' }}</span>
       </div>
     </transition>
 
@@ -365,7 +365,8 @@ export default {
       },
       datasets: [],
       region_layer_group: null,
-      markers_loading: false // Shown while (re)building markers/clusters for a large event set
+      markers_loading: false, // Shown while (re)building markers/clusters for a large event set
+      markers_loading_progress: 0 // 0-100, driven by the cluster group's chunked loader
     }
   },
   watch: {
@@ -382,7 +383,12 @@ export default {
           this.preserve_map_view = false
         }
       },
-      deep: true,
+      // Shallow watch: useEvents.js always reassigns `events`/`filteredEvents`
+      // with a new array on create/update/delete/filter, so a reference
+      // comparison is enough. Avoids Vue deep-traversing every one of
+      // thousands of event objects (plus their nested tags arrays) on every
+      // single change just to detect what a reference check already catches.
+      deep: false,
       immediate: false
     },
     focusEvent: {
@@ -1056,6 +1062,10 @@ export default {
     },
 
     build_event_markers() {
+      // Set once the cluster group's chunked loader actually reports progress;
+      // used in the finally block below as a safety net so the loading overlay
+      // never gets stuck if an error prevents that callback from ever firing.
+      let did_start_chunked_load = false
       try {
         // Double-check map state before proceeding
         if (!this.map || !this.map._loaded) {
@@ -1085,6 +1095,18 @@ export default {
             disableClusteringAtZoom: 18,
             // Don't spiderfy - we show modal instead
             spiderfyOnMaxZoom: false,
+            // Spread marker addition across animation frames instead of doing it
+            // all synchronously in one go — keeps the tab responsive while a large
+            // batch (e.g. thousands of events) is being clustered.
+            chunkedLoading: true,
+            chunkProgress: (processed, total) => {
+              did_start_chunked_load = true
+              this.markers_loading_progress = total > 0 ? Math.round((processed / total) * 100) : 100
+              if (total === 0 || processed >= total) {
+                this.markers_loading = false
+                this.markers_loading_progress = 0
+              }
+            },
             // Custom icon creation for clusters - use circles sized by event count
             iconCreateFunction: (cluster) => {
               const childMarkers = cluster.getAllChildMarkers()
@@ -1142,20 +1164,21 @@ export default {
               
               const halfSize = circleSize / 2
 
+              // Aggregate each child marker's precomputed color summary instead of
+              // re-scanning every event's tags here — this function re-runs on every
+              // zoom/pan that changes cluster membership, so doing the tag filtering
+              // once per marker (at build time, see compute_color_summary) rather than
+              // once per cluster regeneration avoids repeating the same work.
               const colorCounts = {}
               let taggedCount = 0
               childMarkers.forEach(marker => {
-                const events = marker.events || []
-                events.forEach(event => {
-                  const keyTags = getKeyColorTags(event.tags)
-                  if (keyTags.length > 0) {
-                    taggedCount++
-                    keyTags.forEach(tag => {
-                      const color = tag.color || '#4f46e5'
-                      colorCounts[color] = (colorCounts[color] || 0) + 1
-                    })
+                taggedCount += marker.taggedEventCount || 0
+                const markerColors = marker.colorCounts
+                if (markerColors) {
+                  for (const color in markerColors) {
+                    colorCounts[color] = (colorCounts[color] || 0) + markerColors[color]
                   }
-                })
+                }
               })
 
               let bgStyle
@@ -1277,6 +1300,12 @@ export default {
             
             marker.eventCount = eventGroup.events.length
             marker.events = eventGroup.events
+            // Precompute this marker's key-color tag summary once, at build time,
+            // instead of re-filtering every event's tags each time a parent
+            // cluster's icon regenerates (see iconCreateFunction above).
+            const colorSummary = this.compute_color_summary(eventGroup.events)
+            marker.colorCounts = colorSummary.colorCounts
+            marker.taggedEventCount = colorSummary.taggedEventCount
             
             marker.on('click', () => {
               if (this.pin_mode) {
@@ -1297,7 +1326,8 @@ export default {
             this.markers.push(marker)
           })
           
-          // Single batch insert — clustering runs once, not once per marker
+          // Single batch insert — chunkedLoading spreads the actual work across
+          // frames; chunkProgress (above) clears markers_loading when it's done.
           this.marker_cluster_group.addLayers(markersToAdd)
           this.map.addLayer(this.marker_cluster_group)
         } catch (error) {
@@ -1311,7 +1341,12 @@ export default {
           }, 100)
         }
       } finally {
-        this.markers_loading = false
+        // Safety net: if chunkProgress never got a chance to run (e.g. an error
+        // above, or zero markers to add), don't leave the overlay stuck forever.
+        if (!did_start_chunked_load) {
+          this.markers_loading = false
+          this.markers_loading_progress = 0
+        }
       }
     },
 
@@ -1614,6 +1649,25 @@ export default {
       }
     },
     
+    // Summarize which key-color tags a group of events carries, once, so cluster
+    // icon regeneration can just sum up small per-marker summaries instead of
+    // re-filtering every event's tags on every zoom/pan.
+    compute_color_summary(events) {
+      const colorCounts = {}
+      let taggedEventCount = 0
+      events.forEach(event => {
+        const keyTags = getKeyColorTags(event.tags)
+        if (keyTags.length > 0) {
+          taggedEventCount++
+          keyTags.forEach(tag => {
+            const color = tag.color || '#4f46e5'
+            colorCounts[color] = (colorCounts[color] || 0) + 1
+          })
+        }
+      })
+      return { colorCounts, taggedEventCount }
+    },
+
     get_tag_emoji(events) {
       for (const event of events) {
         if (event.tags && Array.isArray(event.tags)) {
