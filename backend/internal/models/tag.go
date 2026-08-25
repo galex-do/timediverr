@@ -49,6 +49,24 @@ type EventTag struct {
         CreatedAt time.Time `json:"created_at"`
 }
 
+// EventTagRef is the lightweight tag representation embedded in each event's
+// "tags" array. Deliberately excludes EventCount/CreatedAt/UpdatedAt — those
+// are never populated by the events_with_display_dates view (so they'd only
+// ever serialize as dead zero-values) and are never read by the frontend for
+// map/list display. With ~6 tags per event across thousands of events, this
+// keeps the same tag from re-sending ~15 bytes of always-empty fields on
+// every one of its repeated occurrences.
+type EventTagRef struct {
+        ID          int     `json:"id"`
+        Name        string  `json:"name"`
+        Description string  `json:"description"`
+        Color       string  `json:"color"`
+        BorderColor *string `json:"border_color"`
+        KeyColor    bool    `json:"key_color"`
+        Emoji       *string `json:"emoji"`
+        Weight      int     `json:"weight"`
+}
+
 // ToTag converts CreateTagRequest to Tag
 func (req *CreateTagRequest) ToTag() *Tag {
         color := req.Color

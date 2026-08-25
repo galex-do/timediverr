@@ -50,6 +50,10 @@ func (router *Router) SetupRoutes() http.Handler {
         // Add Prometheus middleware for HTTP metrics
         r.Use(middleware.Prometheus)
         
+        // Compress responses (large list endpoints like /api/events repeat a
+        // lot of tag data across events; gzip shrinks that dramatically)
+        r.Use(middleware.Gzip())
+        
         // Prometheus metrics endpoint (no auth required)
         r.Handle("/metrics", promhttp.Handler()).Methods("GET")
         

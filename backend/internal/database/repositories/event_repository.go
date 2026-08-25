@@ -46,14 +46,14 @@ func (r *EventRepository) GetAll() ([]models.HistoricalEvent, error) {
                 
                 // Parse tags JSON
                 if len(tagsJSON) > 0 {
-                        var tags []models.Tag
+                        var tags []models.EventTagRef
                         if err := json.Unmarshal(tagsJSON, &tags); err != nil {
                                 log.Printf("Error unmarshaling tags for event %d: %v", event.ID, err)
-                                tags = []models.Tag{}
+                                tags = []models.EventTagRef{}
                         }
                         event.Tags = tags
                 } else {
-                        event.Tags = []models.Tag{}
+                        event.Tags = []models.EventTagRef{}
                 }
                 
                 events = append(events, event)
@@ -95,14 +95,14 @@ func (r *EventRepository) GetByDatasetID(datasetID int) ([]models.HistoricalEven
                 
                 // Parse tags JSON
                 if len(tagsJSON) > 0 {
-                        var tags []models.Tag
+                        var tags []models.EventTagRef
                         if err := json.Unmarshal(tagsJSON, &tags); err != nil {
                                 log.Printf("Error unmarshaling tags for event %d: %v", event.ID, err)
-                                tags = []models.Tag{}
+                                tags = []models.EventTagRef{}
                         }
                         event.Tags = tags
                 } else {
-                        event.Tags = []models.Tag{}
+                        event.Tags = []models.EventTagRef{}
                 }
                 
                 events = append(events, event)
@@ -137,14 +137,14 @@ func (r *EventRepository) GetByID(id int) (*models.HistoricalEvent, error) {
         
         // Parse tags JSON
         if len(tagsJSON) > 0 {
-                var tags []models.Tag
+                var tags []models.EventTagRef
                 if err := json.Unmarshal(tagsJSON, &tags); err != nil {
                         log.Printf("Error unmarshaling tags for event %d: %v", event.ID, err)
-                        tags = []models.Tag{}
+                        tags = []models.EventTagRef{}
                 }
                 event.Tags = tags
         } else {
-                event.Tags = []models.Tag{}
+                event.Tags = []models.EventTagRef{}
         }
         
         return &event, nil
@@ -206,14 +206,14 @@ func (r *EventRepository) GetInBoundingBox(minLat, minLng, maxLat, maxLng float6
                 
                 // Parse tags JSON
                 if len(tagsJSON) > 0 {
-                        var tags []models.Tag
+                        var tags []models.EventTagRef
                         if err := json.Unmarshal(tagsJSON, &tags); err != nil {
                                 log.Printf("Error unmarshaling tags for event %d: %v", event.ID, err)
-                                tags = []models.Tag{}
+                                tags = []models.EventTagRef{}
                         }
                         event.Tags = tags
                 } else {
-                        event.Tags = []models.Tag{}
+                        event.Tags = []models.EventTagRef{}
                 }
                 
                 // Update with PostGIS coordinates for accuracy
@@ -354,14 +354,14 @@ func (r *EventRepository) GetPaginatedWithSort(page, limit int, sortField, sortD
                 
                 // Parse tags JSON
                 if len(tagsJSON) > 0 {
-                        var tags []models.Tag
+                        var tags []models.EventTagRef
                         if err := json.Unmarshal(tagsJSON, &tags); err != nil {
                                 log.Printf("Error unmarshaling tags for event %d: %v", event.ID, err)
-                                tags = []models.Tag{}
+                                tags = []models.EventTagRef{}
                         }
                         event.Tags = tags
                 } else {
-                        event.Tags = []models.Tag{}
+                        event.Tags = []models.EventTagRef{}
                 }
                 
                 events = append(events, event)

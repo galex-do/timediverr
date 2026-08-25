@@ -1095,6 +1095,16 @@ export default {
             disableClusteringAtZoom: 18,
             // Don't spiderfy - we show modal instead
             spiderfyOnMaxZoom: false,
+            // Disable the animated "explode/merge" transition when clusters
+            // split or combine on zoom. With thousands of markers, that
+            // animation recursively walks and repositions every marker/cluster
+            // within the (padded) visible bounds on every zoom step — this is
+            // the library's own zoom-transition code, independent of our
+            // iconCreateFunction, and it's what causes the noticeable freeze
+            // when zooming in/out over a dense area. Disabling it swaps clusters
+            // instantly instead of animating between them, trading a bit of
+            // visual smoothness for a responsive zoom on large datasets.
+            animate: false,
             // Spread marker addition across animation frames instead of doing it
             // all synchronously in one go — keeps the tab responsive while a large
             // batch (e.g. thousands of events) is being clustered.

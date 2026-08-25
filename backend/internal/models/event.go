@@ -28,7 +28,7 @@ type HistoricalEvent struct {
         UpdatedBy     *int      `json:"updated_by"`  // User ID who last updated this event
         CreatedAt     time.Time `json:"created_at"`  // When event was created
         UpdatedAt     time.Time `json:"updated_at"`  // When event was last updated
-        Tags          []Tag     `json:"tags,omitempty"`
+        Tags          []EventTagRef `json:"tags,omitempty"`
 }
 
 // GetNameForLocale returns the name for the specified locale
