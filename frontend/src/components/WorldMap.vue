@@ -342,7 +342,9 @@ export default {
       location_visible_count: 50,
       location_show_details: false,
       location_visible_count_backup: 50,
-      highlight_overlay: null, // Store highlight overlay layer (halo ring + center dot)
+      highlight_overlay: null, // Store highlight overlay layer (precise-location dot, when clustered)
+      highlighted_event: null, // The event currently highlighted, so we can re-resolve it on zoom/pan
+      highlighted_element: null, // DOM element (marker or cluster icon) currently wearing the pulse class
       user_location_layer: null, // Store user location marker (geolocation feature)
       expanded_event_tags: {}, // Track which events have expanded tags
       editing_event: null, // Store the event being edited
@@ -703,6 +705,15 @@ export default {
       // Add map bounds change listeners for the filter
       this.map.on('moveend', this.handle_bounds_change)
       this.map.on('zoomend', this.handle_bounds_change)
+
+      // A highlighted event's visible parent (its own marker vs. some
+      // enclosing cluster) can change as the user zooms in/out, so re-resolve
+      // and re-pulse it after each zoom instead of leaving a stale highlight.
+      this.map.on('zoomend', () => {
+        if (this.highlighted_event) {
+          this.apply_highlight()
+        }
+      })
       
       // Fix for default marker icon in Leaflet with bundlers - use local assets
       delete L.Icon.Default.prototype._getIconUrl
@@ -825,57 +836,75 @@ export default {
 
     // Highlight a marker without refocusing the map
     highlightMarker(event) {
-      // Clear any existing highlight overlay
-      if (this.highlight_overlay) {
-        this.map.removeLayer(this.highlight_overlay)
-        this.highlight_overlay = null
-      }
+      this.highlighted_event = event
+      this.apply_highlight()
+    },
 
-      // Find the marker for this event
+    // Resolve the currently-highlighted event to whatever is actually on
+    // screen for it right now, and mark that. A highlighted event's own
+    // marker is frequently buried inside a cluster elsewhere — drawing a
+    // ring at its raw coordinates then looked like a stray circle with no
+    // visible connection to any pin, which is why "which cluster is it in"
+    // was hard to answer. getVisibleParent() returns whichever cluster (or
+    // the marker itself, if unclustered) is actually rendered at the current
+    // zoom, so we can pulse that exact bubble instead.
+    apply_highlight() {
+      this.clear_highlight_visuals()
+
+      const event = this.highlighted_event
+      if (!event || !this.map) return
+
       const marker = this.marker_registry.get(event.id)
       if (!marker) {
         console.warn('No marker found for event:', event.id)
         return
       }
 
-      // Get marker position and check if it's in current map bounds
-      const markerLatLng = marker.getLatLng()
-      const bounds = this.map.getBounds()
-      const isInBounds = bounds.contains(markerLatLng)
+      const visibleParent = (this.marker_cluster_group && this.marker_cluster_group.getVisibleParent)
+        ? (this.marker_cluster_group.getVisibleParent(marker) || marker)
+        : marker
 
-      // Create a static halo ring around the marker
-      // Outer ring: semi-transparent red circle
-      const outerRing = L.circleMarker(markerLatLng, {
-        radius: 28,
-        fillColor: 'transparent',
-        fillOpacity: 0,
-        color: '#ef4444', // Red color
-        weight: 5,
-        opacity: 0.8
-      })
+      const el = visibleParent.getElement ? visibleParent.getElement() : visibleParent._icon
+      if (el) {
+        el.classList.add('map-highlight-pulse')
+        this.highlighted_element = el
+      }
 
-      // Center dot: small solid dot for precision
-      const centerDot = L.circleMarker(markerLatLng, {
-        radius: 3,
-        fillColor: '#ef4444',
-        fillOpacity: 1,
-        color: '#dc2626',
-        weight: 1,
-        opacity: 1
-      })
-
-      // Create a layer group with both elements
-      this.highlight_overlay = L.layerGroup([outerRing, centerDot])
-      this.highlight_overlay.addTo(this.map)
-
+      // When the event is grouped into a cluster, the pulsing bubble sits at
+      // the cluster's aggregate position, not the event's exact coordinates —
+      // add a small precise dot too so the real location isn't lost.
+      if (visibleParent !== marker) {
+        const centerDot = L.circleMarker(marker.getLatLng(), {
+          radius: 3,
+          fillColor: '#ef4444',
+          fillOpacity: 1,
+          color: '#dc2626',
+          weight: 1,
+          opacity: 1,
+          interactive: false
+        })
+        this.highlight_overlay = L.layerGroup([centerDot])
+        this.highlight_overlay.addTo(this.map)
+      }
     },
 
-    // Clear highlight overlay
-    clearHighlight() {
+    // Remove the pulse class / precise-location dot, but keep remembering
+    // which event was highlighted so zoom/pan can re-resolve it.
+    clear_highlight_visuals() {
+      if (this.highlighted_element) {
+        this.highlighted_element.classList.remove('map-highlight-pulse')
+        this.highlighted_element = null
+      }
       if (this.highlight_overlay && this.map) {
         this.map.removeLayer(this.highlight_overlay)
         this.highlight_overlay = null
       }
+    },
+
+    // Fully clear highlight state (called when selection changes/closes)
+    clearHighlight() {
+      this.highlighted_event = null
+      this.clear_highlight_visuals()
     },
 
     // Center map on specific coordinates (used for geolocation)
@@ -1085,8 +1114,13 @@ export default {
         try {
           // Create a new marker cluster group with custom options
           this.marker_cluster_group = L.markerClusterGroup({
-            // Max cluster radius - how close markers need to be to cluster together
-            maxClusterRadius: 80,
+            // Max cluster radius (px) - how close markers need to be to cluster
+            // together. Lowered from the library default of 80: at that radius,
+            // one cluster bubble could span an entire country or more at low
+            // zoom, which made it hard to tell where within a region a given
+            // event actually was. A smaller radius produces more, tighter,
+            // more geographically meaningful clusters.
+            maxClusterRadius: 50,
             // Show coverage on hover
             showCoverageOnHover: false,
             // Don't zoom on cluster click - we'll show modal instead
@@ -2919,6 +2953,27 @@ export default {
 /* But keep non-clustered markers visible */
 ::deep(.leaflet-marker-pane .emoji-marker-container:not(.leaflet-cluster-anim)) {
   opacity: 1;
+}
+
+/* Highlight pulse — applied directly to whichever icon (individual marker or
+   cluster bubble) currently represents a highlighted event, so it's obvious
+   which cluster the event is actually grouped into, at any zoom level. */
+::deep(.map-highlight-pulse) {
+  z-index: 1000 !important;
+  animation: map-highlight-pulse-ring 1.4s ease-out infinite;
+  border-radius: 50%;
+}
+
+@keyframes map-highlight-pulse-ring {
+  0% {
+    box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.75);
+  }
+  70% {
+    box-shadow: 0 0 0 14px rgba(239, 68, 68, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(239, 68, 68, 0);
+  }
 }
 
 </style>
