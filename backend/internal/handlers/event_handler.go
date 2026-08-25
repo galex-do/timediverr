@@ -162,8 +162,11 @@ func (h *EventHandler) GetAllEvents(w http.ResponseWriter, r *http.Request) {
 
 // maxBatchEventIDs bounds how many event IDs a single batch-detail request may
 // resolve, so the endpoint can't be used to pull the entire dataset's full
-// (description-inclusive) content in one call.
-const maxBatchEventIDs = 200
+// (description-inclusive) content in one call. Sized against real usage, not
+// just query cost: the grid pages 3 events at a time and cluster/timeline
+// expansions rarely exceed a couple dozen, so 30 covers legitimate calls with
+// margin while capping worst-case exposure per request.
+const maxBatchEventIDs = 30
 
 // GetEventsBatch handles GET /api/events/batch?ids=1,2,3&locale=en — returns
 // full event records (description, source, full tag objects) for the given
