@@ -112,9 +112,15 @@ class AuthService {
       })
 
       if (!response.ok) {
-        // Token might be expired or invalid
-        this.logout()
-        return null
+        // Only a real auth failure (401) means the token is actually invalid/expired.
+        // Anything else (429 rate limiting, 5xx, etc.) is a transient infra issue —
+        // keep the existing session instead of force-logging the user out.
+        if (response.status === 401) {
+          this.logout()
+          return null
+        }
+        console.warn(`Get current user failed with transient status ${response.status}; keeping existing session`)
+        return this.user
       }
 
       const user = await response.json()
@@ -122,9 +128,9 @@ class AuthService {
       localStorage.setItem('auth_user', JSON.stringify(user))
       return user
     } catch (error) {
+      // Network errors (offline, dev-domain hiccups) are also transient — don't log out.
       console.error('Get current user error:', error)
-      this.logout()
-      return null
+      return this.user
     }
   }
 
