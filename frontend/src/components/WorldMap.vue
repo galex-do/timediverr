@@ -639,11 +639,35 @@ export default {
     this.marker_registry.clear()
   },
   methods: {
+    // Compute the lowest zoom level at which the full 360°x170° world square
+    // still covers the map container in both dimensions. Below this zoom,
+    // Leaflet either repeats the world horizontally to fill extra width or
+    // leaves grey space where no tiles exist — both of which we want to prevent.
+    compute_min_zoom() {
+      const tile_size = 256
+      const container = this.$refs.map
+      const width = (this.map && this.map.getSize().x) || (container && container.clientWidth) || 0
+      const height = (this.map && this.map.getSize().y) || (container && container.clientHeight) || 0
+      const limiting_dimension = Math.max(width, height)
+      if (!limiting_dimension) return 2
+      const min_zoom = Math.ceil(Math.log2(limiting_dimension / tile_size))
+      return Math.max(min_zoom, 0)
+    },
+
     initialize_map() {
-      // Create map centered on world view
+      const min_zoom = this.compute_min_zoom()
+      const initial_zoom = Math.max(2, min_zoom)
+
+      // Create map centered on world view. maxBounds + maxBoundsViscosity keep
+      // panning within the real world extent (no dragging into grey space above
+      // the north pole / below the south pole or past the antimeridian).
       this.map = L.map(this.$refs.map, {
-        attributionControl: false
-      }).setView([20, 0], 2)
+        attributionControl: false,
+        minZoom: min_zoom,
+        maxBounds: [[-90, -180], [90, 180]],
+        maxBoundsViscosity: 1.0,
+        worldCopyJump: false
+      }).setView([20, 0], initial_zoom)
       
       // Add OpenStreetMap tile layer — uses subdomain rotation for parallel loading
       // In dev: Vite proxies /tiles-a, /tiles-b, /tiles-c to respective OSM subdomains
@@ -653,8 +677,9 @@ export default {
         : '/tiles/{z}/{x}/{y}.png'
       L.tileLayer(tile_url, {
         maxZoom: 18,
-        minZoom: 2,
-        subdomains: 'abc'
+        minZoom: min_zoom,
+        subdomains: 'abc',
+        noWrap: true
       }).addTo(this.map)
       
       // Add click event for creating new events
@@ -1338,6 +1363,11 @@ export default {
         this.$nextTick(() => {
           try {
             this.map.invalidateSize()
+            // Recompute the min zoom for the new container size — e.g. a sidebar
+            // toggle or window resize can change how much zoom is needed for the
+            // world square to keep covering the container without gaps or repeats.
+            const min_zoom = this.compute_min_zoom()
+            this.map.setMinZoom(min_zoom)
             // Force a redraw to prevent rendering issues
             setTimeout(() => {
               if (this.map) {
