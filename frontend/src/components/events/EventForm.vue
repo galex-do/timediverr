@@ -169,21 +169,53 @@
       </div>
       
       <div class="form-group">
-        <label for="event-dataset">Dataset (optional)</label>
-        <select 
-          id="event-dataset"
-          v-model="formData.dataset_id"
-          class="form-input"
-        >
-          <option :value="null">No dataset assigned</option>
-          <option 
-            v-for="dataset in datasets" 
-            :key="dataset.id" 
-            :value="dataset.id"
-          >
-            {{ dataset.filename }} ({{ dataset.event_count }} events)
-          </option>
-        </select>
+        <label for="event-dataset-search">Dataset (optional)</label>
+        <div class="dataset-select-section">
+          <!-- Selected Dataset Display -->
+          <div v-if="selectedDataset" class="selected-tags">
+            <div class="selected-tag dataset-chip">
+              {{ selectedDataset.filename }} ({{ selectedDataset.event_count }} events)
+              <button 
+                type="button" 
+                @click="clearDataset"
+                class="remove-tag-btn"
+                aria-label="Clear dataset"
+              >
+                ×
+              </button>
+            </div>
+          </div>
+
+          <!-- Dataset Search -->
+          <div class="tag-input-section">
+            <input 
+              id="event-dataset-search"
+              v-model="formData.datasetSearch"
+              type="text"
+              class="tag-search-input"
+              :placeholder="selectedDataset ? 'Search to change dataset...' : 'Search datasets...'"
+              @focus="datasetSuggestionsOpen = true"
+              @blur="datasetSuggestionsOpen = false"
+            />
+
+            <!-- Dataset Suggestions -->
+            <div v-if="datasetSuggestionsOpen && filteredDatasetsList.length > 0" class="tag-suggestions">
+              <div class="tag-count-info">{{ filteredDatasetsList.length }} dataset{{ filteredDatasetsList.length !== 1 ? 's' : '' }} found</div>
+              <div 
+                v-for="dataset in filteredDatasetsList" 
+                :key="dataset.id"
+                class="tag-suggestion"
+                @mousedown.prevent="selectDataset(dataset)"
+              >
+                {{ dataset.filename }}
+                <span class="tag-event-count">({{ dataset.event_count }} events)</span>
+              </div>
+            </div>
+            <div v-else-if="datasetSuggestionsOpen && formData.datasetSearch && filteredDatasetsList.length === 0" class="tag-suggestions">
+              <div class="tag-count-info">No matching datasets</div>
+            </div>
+          </div>
+        </div>
         <small class="form-hint">Optionally assign this event to an existing dataset for organization</small>
       </div>
       
@@ -346,12 +378,14 @@ export default {
       lens_type: 'historic',
       source: '',
       dataset_id: null,
+      datasetSearch: '',
       selectedTags: [],
       tagSearch: '',
       newTagColor: '#3B82F6'
     })
     
     const formData = ref(getDefaultFormData())
+    const datasetSuggestionsOpen = ref(false)
     
     const isEditing = computed(() => !!props.event)
     
@@ -411,6 +445,7 @@ export default {
         lens_type: event.lens_type || 'historic',
         source: event.source || '',
         dataset_id: event.dataset_id || null,
+        datasetSearch: '',
         selectedTags: event.tags ? [...event.tags] : [],
         tagSearch: '',
         newTagColor: '#3B82F6'
@@ -466,6 +501,30 @@ export default {
         )
         .sort((a, b) => (b.event_count || 0) - (a.event_count || 0) || a.name.localeCompare(b.name))
     })
+    
+    const selectedDataset = computed(() => {
+      if (!formData.value.dataset_id) return null
+      return datasets.value.find(d => d.id === formData.value.dataset_id) || null
+    })
+    
+    const filteredDatasetsList = computed(() => {
+      const searchTerm = (formData.value.datasetSearch || '').toLowerCase().trim()
+      const list = searchTerm
+        ? datasets.value.filter(d => d.filename.toLowerCase().includes(searchTerm))
+        : datasets.value
+      return [...list].sort((a, b) => a.filename.localeCompare(b.filename))
+    })
+    
+    const selectDataset = (dataset) => {
+      formData.value.dataset_id = dataset.id
+      formData.value.datasetSearch = ''
+      datasetSuggestionsOpen.value = false
+    }
+    
+    const clearDataset = () => {
+      formData.value.dataset_id = null
+      formData.value.datasetSearch = ''
+    }
     
     const canCreateNewTag = computed(() => {
       if (!formData.value.tagSearch) return false
@@ -571,6 +630,11 @@ export default {
       formData,
       datasets,
       isEditing,
+      selectedDataset,
+      filteredDatasetsList,
+      datasetSuggestionsOpen,
+      selectDataset,
+      clearDataset,
       filteredTagsList,
       canCreateNewTag,
       getAvailableLensTypes,
@@ -759,6 +823,17 @@ export default {
 
 .remove-tag-btn:hover {
   opacity: 1;
+}
+
+.dataset-select-section {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.dataset-chip {
+  background: #e0e7ff;
+  color: #3730a3;
 }
 
 .tag-input-section {
