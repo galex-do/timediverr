@@ -654,7 +654,7 @@ export default {
       localError.value = null
       try {
         await apiService.deleteEvent(event.id)
-        await fetchEvents() // Refresh events list
+        await fetchEvents({ includeDescriptions: true }) // Refresh events list
         allEvents.value = events.value || []
         console.log('Event deleted successfully')
       } catch (err) {
@@ -792,7 +792,7 @@ export default {
           }
         }
         
-        await fetchEvents()
+        await fetchEvents({ includeDescriptions: true })
         allEvents.value = events.value || []
         closeModal()
         console.log('Event saved successfully')
@@ -814,7 +814,7 @@ export default {
       localError.value = null
       try {
         await apiService.deleteEvent(editingEvent.value.id)
-        await fetchEvents()
+        await fetchEvents({ includeDescriptions: true })
         allEvents.value = events.value || []
         closeModal()
         console.log('Event deleted successfully')
@@ -830,7 +830,7 @@ export default {
     const handleLocaleChange = async (event) => {
       console.log('Locale changed in AdminEvents, refetching data for locale:', event.detail)
       try {
-        await fetchEvents() // Refetch events with new locale
+        await fetchEvents({ includeDescriptions: true }) // Refetch events with new locale
         allEvents.value = events.value || []
         totalEvents.value = allEvents.value.length
       } catch (err) {
@@ -842,7 +842,7 @@ export default {
     // Load initial data
     onMounted(async () => {
       try {
-        await fetchEvents()
+        await fetchEvents({ includeDescriptions: true })
         allEvents.value = events.value || []
         totalEvents.value = allEvents.value.length
         await loadTags()

@@ -60,7 +60,7 @@
             <div v-if="yearGroup.totalEvents === 1" class="timeline_single_event_line">
               <div class="timeline_bullet"></div>
               <span class="timeline_single_text">
-                <span class="timeline_date_inline">{{ yearGroup.dateGroups[0].events[0]._formattedDate }}</span>
+                <span class="timeline_date_inline">{{ formatEventDisplaySmart(yearGroup.dateGroups[0].events[0].event_date, yearGroup.dateGroups[0].events[0].era) }}</span>
                 {{ ' ' }}
                 <span class="event_icon">{{ resolve_event_emoji(yearGroup.dateGroups[0].events[0]) }}</span>
                 {{ ' ' }}
@@ -262,6 +262,7 @@
 <script>
 import { ref, computed, watch, onMounted, onUnmounted, nextTick } from 'vue'
 import { useLocale } from '@/composables/useLocale.js'
+import { useEvents } from '@/composables/useEvents.js'
 import { getEventEmoji, getTagEmoji } from '@/utils/event-utils.js'
 import { getContrastColor, getTagStyle, getKeyColorTags } from '@/utils/color-utils.js'
 
@@ -296,6 +297,7 @@ export default {
   emits: ['close', 'focus-event', 'tag-clicked', 'remove-tag', 'show-detail', 'expand-date-range'],
   setup(props, { emit }) {
     const { t, formatEventDisplayDate, formatEventDisplaySmart, formatDayMonth, currentLocale } = useLocale()
+    const { ensureEventDetails } = useEvents()
     const previouslyFocusedElement = ref(null)
     const scrollContainer = ref(null)
     
@@ -469,10 +471,12 @@ export default {
               events: []
             })
           }
-          dateMap.get(eventDate).events.push({
-            ...event,
-            _formattedDate: formatEventDisplaySmart(event.event_date, event.era)
-          })
+          // Push the canonical event reference (not a copy) so that when
+          // ensureEventDetails() later mutates it in place with fetched
+          // description/name fields, this grouped view — cached below and
+          // not recomputed on every render — reflects the update instead of
+          // holding a stale snapshot frozen at group-build time.
+          dateMap.get(eventDate).events.push(event)
         })
 
         const dateGroups = Array.from(dateMap.values())
@@ -540,6 +544,29 @@ export default {
 
     const visibleEventCount = computed(() => {
       return visibleYearGroups.value.reduce((sum, yg) => sum + yg.totalEvents, 0)
+    })
+
+    // Flat list of event IDs currently rendered (across all visible year/date
+    // groups). Used to lazily fetch descriptions only for what's on screen.
+    const visibleEventIds = computed(() => {
+      const ids = []
+      for (const yearGroup of visibleYearGroups.value) {
+        for (const dateGroup of yearGroup.dateGroups) {
+          for (const event of dateGroup.events) {
+            ids.push(event.id)
+          }
+        }
+      }
+      return ids
+    })
+
+    // Details view shows descriptions inline — events arrive lean from the
+    // bulk list, so fetch them for whatever's currently visible, including
+    // as more get revealed via infinite scroll while details are shown.
+    watch([showDetails, visibleEventIds], ([detailsOn, ids]) => {
+      if (detailsOn) {
+        ensureEventDetails(ids)
+      }
     })
 
     const hasMoreEvents = computed(() => {
@@ -731,6 +758,7 @@ export default {
 
     return {
       t,
+      formatEventDisplaySmart,
       scrollContainer,
       titleElement,
       timelineTitle,

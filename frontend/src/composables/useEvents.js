@@ -3,6 +3,7 @@ import apiService from '@/services/api.js'
 import { parseHistoricalDate } from '@/utils/date-utils.js'
 import { getEraFromDate } from '@/utils/date-utils.js'
 import { useLocale } from '@/composables/useLocale.js'
+import { useTags } from '@/composables/useTags.js'
 
 // Shared state - singleton pattern
 const events = ref([])
@@ -11,8 +12,20 @@ const loading = ref(false)
 const error = ref(null)
 const eventsLoaded = ref(false)
 
+// Tracks which event IDs already have full details (description/source)
+// loaded, so ensureEventDetails() never re-fetches the same event twice in a
+// session. Cleared whenever the base event list is reloaded (new object
+// instances). Not reactive on purpose — it's an internal bookkeeping set,
+// not something any template reads directly.
+const detailsLoadedIds = new Set()
+// In-flight batch fetches keyed by event ID, so concurrent callers asking
+// about overlapping IDs (e.g. a grid page and a timeline expansion firing at
+// once) share a single network request instead of racing duplicate ones.
+const detailsFetchInFlight = new Map()
+
 export function useEvents() {
   const { locale } = useLocale()
+  const { allTags, loadTags, getTagsByIds } = useTags()
 
   // Watch locale changes and re-fetch events
   watch(locale, async () => {
@@ -20,14 +33,37 @@ export function useEvents() {
     await fetchEvents()
   })
 
-  // Fetch all events from API
-  const fetchEvents = async () => {
+  // Fetch all events from API.
+  // Pass { includeDescriptions: true } (used by the admin table) to get full
+  // descriptions/source embedded inline; otherwise events arrive lean and
+  // descriptions are fetched on demand via ensureEventDetails().
+  const fetchEvents = async (options = {}) => {
+    const { includeDescriptions = false } = options
     loading.value = true
     error.value = null
-    
+    detailsLoadedIds.clear()
+    detailsFetchInFlight.clear()
+
     try {
-      const eventData = await apiService.getEvents()
-      events.value = Array.isArray(eventData) ? eventData : []
+      const eventData = await apiService.getEvents(null, null, null, null, includeDescriptions)
+      const rawEvents = Array.isArray(eventData) ? eventData : []
+
+      // The bulk list only ships tag IDs — resolve them into the full tag
+      // objects (name/color/description) every component already expects,
+      // using the small, separately-cached tag catalog. This is the one
+      // place that needs to change so no other component's template has to.
+      if (allTags.value.length === 0) {
+        await loadTags()
+      }
+      events.value = rawEvents.map(e => ({
+        ...e,
+        tags: Array.isArray(e.tag_ids) ? getTagsByIds(e.tag_ids) : (e.tags || [])
+      }))
+
+      if (includeDescriptions) {
+        events.value.forEach(e => detailsLoadedIds.add(e.id))
+      }
+
       eventsLoaded.value = true
       // Don't automatically set filteredEvents - let filtering be applied explicitly
       console.log('Successfully loaded events:', events.value.length)
@@ -39,6 +75,64 @@ export function useEvents() {
     } finally {
       loading.value = false
     }
+  }
+
+  // Must match the backend's maxBatchEventIDs cap (backend/internal/handlers/
+  // event_handler.go) — the server silently truncates any single request
+  // beyond this, so the client chunks into requests of this size instead of
+  // ever relying on that truncation.
+  const BATCH_DETAIL_CHUNK_SIZE = 200
+
+  // Ensure the given event IDs have full details (bilingual names, since the
+  // lean list only ships the current locale's name; descriptions/source)
+  // loaded, fetching only what's missing via the batch endpoint and mutating
+  // the shared event objects in place. Because `events`/`filteredEvents` hold
+  // the same object references everywhere they're consumed (map, grid,
+  // timeline, admin), this makes the fetched fields reactively appear
+  // wherever that event is rendered, and never fetches the same event twice
+  // in a session. Requests are chunked to the server's batch size limit so
+  // large visible sets (e.g. an expanded timeline) don't silently lose
+  // details past that limit.
+  const ensureEventDetails = async (ids) => {
+    const uniqueIds = [...new Set((ids || []).filter(id => id != null))]
+    const missing = uniqueIds.filter(id => !detailsLoadedIds.has(id))
+    if (missing.length === 0) return
+
+    const toFetch = missing.filter(id => !detailsFetchInFlight.has(id))
+    if (toFetch.length > 0) {
+      const chunks = []
+      for (let i = 0; i < toFetch.length; i += BATCH_DETAIL_CHUNK_SIZE) {
+        chunks.push(toFetch.slice(i, i + BATCH_DETAIL_CHUNK_SIZE))
+      }
+
+      const chunkPromises = chunks.map(chunk =>
+        apiService.getEventsBatch(chunk).then(details => {
+          const byId = new Map(events.value.map(e => [e.id, e]))
+          for (const full of (details || [])) {
+            const target = byId.get(full.id)
+            if (target) {
+              target.name_en = full.name_en
+              target.name_ru = full.name_ru
+              target.description = full.description
+              target.description_en = full.description_en
+              target.description_ru = full.description_ru
+              target.source = full.source
+            }
+            detailsLoadedIds.add(full.id)
+          }
+        }).catch(err => {
+          console.error('Failed to fetch event details batch:', err)
+        }).finally(() => {
+          chunk.forEach(id => detailsFetchInFlight.delete(id))
+        })
+      )
+
+      chunks.forEach((chunk, i) => {
+        chunk.forEach(id => detailsFetchInFlight.set(id, chunkPromises[i]))
+      })
+    }
+
+    await Promise.all(missing.map(id => detailsFetchInFlight.get(id)).filter(Boolean))
   }
 
   // Filter events based on date range, lens types, and tags
@@ -128,6 +222,9 @@ export function useEvents() {
       events.value = [...events.value, newEvent]
       // Also add to filtered events so it's immediately visible on the map
       filteredEvents.value = [...filteredEvents.value, newEvent]
+      // The create endpoint already returns full details — no need to
+      // re-fetch them via ensureEventDetails later.
+      detailsLoadedIds.add(newEvent.id)
       console.log('New event added to arrays:', newEvent.name)
     } else {
       // Fallback: refresh all events if no event data provided
@@ -144,6 +241,8 @@ export function useEvents() {
     const eventIndex = events.value.findIndex(e => e.id === updatedEvent.id)
     if (eventIndex !== -1) {
       events.value = events.value.map(e => e.id === updatedEvent.id ? updatedEvent : e)
+      // The update endpoint already returns full details.
+      detailsLoadedIds.add(updatedEvent.id)
       console.log('Event updated in place:', updatedEvent.name)
       
       // Update filtered events array if this event is currently visible
@@ -173,6 +272,7 @@ export function useEvents() {
     eventsLoaded: computed(() => eventsLoaded.value),
     fetchEvents,
     filterEvents,
+    ensureEventDetails,
     handleEventCreated,
     handleEventUpdated,
     handleEventDeleted

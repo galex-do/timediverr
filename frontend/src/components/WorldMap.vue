@@ -76,7 +76,7 @@
               <div v-if="yearGroup.totalEvents === 1" class="timeline_single_event_line">
                 <div class="timeline_bullet"></div>
                 <span class="timeline_single_text">
-                  <span class="timeline_date_inline">{{ yearGroup.dateGroups[0].events[0]._formattedDate }}</span>
+                  <span class="timeline_date_inline">{{ formatEventDisplaySmart(yearGroup.dateGroups[0].events[0].event_date, yearGroup.dateGroups[0].events[0].era) }}</span>
                   {{ ' ' }}
                   <span class="event_icon">{{ get_event_emoji(yearGroup.dateGroups[0].events[0].lens_type, yearGroup.dateGroups[0].events[0].tags) }}</span>
                   {{ ' ' }}
@@ -277,6 +277,7 @@ import 'leaflet.markercluster'
 import { useAuth } from '@/composables/useAuth.js'
 import { useTags } from '@/composables/useTags.js'
 import { useLocale } from '@/composables/useLocale.js'
+import { useEvents } from '@/composables/useEvents.js'
 import apiService from '@/services/api.js'
 import { getEventEmoji, getAvailableLensTypes } from '@/utils/event-utils.js'
 import { getContrastColor, getTagStyle, getKeyColorTags } from '@/utils/color-utils.js'
@@ -291,6 +292,7 @@ export default {
     const { canCreateEvents, canEditEvents, isGuest } = useAuth()
     const { allTags, loadTags } = useTags()
     const { formatEventDisplayDate, formatEventDisplaySmart, formatDayMonth, t } = useLocale()
+    const { ensureEventDetails } = useEvents()
     return {
       canCreateEvents,
       canEditEvents,
@@ -298,6 +300,7 @@ export default {
       allTags,
       t,
       loadTags,
+      ensureEventDetails,
       formatEventDisplayDate,
       formatEventDisplaySmart,
       formatDayMonth
@@ -532,10 +535,11 @@ export default {
               events: []
             })
           }
-          dateMap.get(eventDate).events.push({
-            ...event,
-            _formattedDate: this.formatEventDisplaySmart(event.event_date, event.era)
-          })
+          // Push the canonical event reference (not a copy) so that when
+          // ensureEventDetails() later mutates it in place with fetched
+          // description/name fields, this grouped view reflects the update
+          // instead of holding a stale snapshot frozen at group-build time.
+          dateMap.get(eventDate).events.push(event)
         })
 
         const dateGroups = Array.from(dateMap.values())
@@ -1055,13 +1059,17 @@ export default {
       this._update_region_label_sizes()
     },
 
-    edit_event(eventId) {
+    async edit_event(eventId) {
       // Find the event to edit
       const event = this.events.find(e => e.id === eventId)
       if (!event) {
         console.error('Event not found:', eventId)
         return
       }
+
+      // The bulk list is lean (no description/source) — fetch full details
+      // before prefilling the edit form so we don't wipe out existing text.
+      await this.ensureEventDetails([eventId])
 
       // Set editing mode
       this.editing_event = event
@@ -1842,11 +1850,18 @@ export default {
         this.loadTags()
       }
       
-      // Enrich events with their tag information
-      const enrichedEvents = events.map(event => ({
-        ...event,
-        tags: event.tags || [] // Ensure tags array exists
-      }))
+      // Ensure tags array exists on each event WITHOUT copying the event
+      // object — these are the canonical, shared references from the events
+      // store. Both the single-event detail modal (emitted below) and the
+      // multi-event location modal (`selected_events`) read `.description`
+      // off of them after ensureEventDetails() lazily hydrates it in place;
+      // a copy here would freeze a stale snapshot that never sees that update.
+      const enrichedEvents = events.map(event => {
+        if (event.tags === undefined) {
+          event.tags = []
+        }
+        return event
+      })
       
       // Single event: use unified detail modal
       if (enrichedEvents.length === 1) {
@@ -1877,6 +1892,9 @@ export default {
       const container = this.$refs.locationModalContent
       if (!container) {
         this.location_show_details = !this.location_show_details
+        if (this.location_show_details) {
+          this.ensureEventDetails(this.selected_events.map(e => e.id))
+        }
         return
       }
       const containerRect = container.getBoundingClientRect()
@@ -1893,6 +1911,11 @@ export default {
         }
       }
       this.location_show_details = !this.location_show_details
+      if (this.location_show_details) {
+        // Details view shows descriptions inline — fetch them for this
+        // location's events (they arrived lean from the bulk list).
+        this.ensureEventDetails(this.selected_events.map(e => e.id))
+      }
       this.$nextTick(() => {
         if (anchor) {
           const el = container.querySelector(`.timeline_year_group[data-year-key="${anchor.key}"]`)

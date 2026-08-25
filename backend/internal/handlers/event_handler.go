@@ -111,7 +111,16 @@ func (h *EventHandler) GetAllEvents(w http.ResponseWriter, r *http.Request) {
         // Allowing the browser to cache would cause stale data after admin edits.
         w.Header().Set("Cache-Control", "no-store")
 
-        if cached, ok := h.eventCache.Get(locale); ok {
+        // includeDetails is an opt-in for callers (e.g. the admin table) that still
+        // need descriptions/source embedded inline. The default response is the lean
+        // list shape used to populate the map — see models.EventListItem for why.
+        includeDetails := query.Get("include_descriptions") == "true"
+        cacheKey := locale
+        if includeDetails {
+                cacheKey = locale + ":full"
+        }
+
+        if cached, ok := h.eventCache.Get(cacheKey); ok {
                 w.Header().Set("Content-Type", "application/json")
                 w.Header().Set("X-Cache", "HIT")
                 w.WriteHeader(http.StatusOK)
@@ -126,13 +135,15 @@ func (h *EventHandler) GetAllEvents(w http.ResponseWriter, r *http.Request) {
                 return
         }
 
+        listItems := make([]models.EventListItem, len(events))
         for i := range events {
                 events[i].PopulateLegacyFields(locale)
+                listItems[i] = events[i].ToListItem(includeDetails)
         }
 
         payload := struct {
-                Data []models.HistoricalEvent `json:"data"`
-        }{Data: events}
+                Data []models.EventListItem `json:"data"`
+        }{Data: listItems}
 
         encoded, err := json.Marshal(payload)
         if err != nil {
@@ -141,12 +152,78 @@ func (h *EventHandler) GetAllEvents(w http.ResponseWriter, r *http.Request) {
                 return
         }
 
-        h.eventCache.Set(locale, encoded)
+        h.eventCache.Set(cacheKey, encoded)
 
         w.Header().Set("Content-Type", "application/json")
         w.Header().Set("X-Cache", "MISS")
         w.WriteHeader(http.StatusOK)
         w.Write(encoded)
+}
+
+// maxBatchEventIDs bounds how many event IDs a single batch-detail request may
+// resolve, so the endpoint can't be used to pull the entire dataset's full
+// (description-inclusive) content in one call.
+const maxBatchEventIDs = 200
+
+// GetEventsBatch handles GET /api/events/batch?ids=1,2,3&locale=en — returns
+// full event records (description, source, full tag objects) for the given
+// IDs. Used to lazily fetch details for events that were loaded via the lean
+// bulk list, e.g. when a user opens a card, expands a cluster, or views an
+// event's details.
+func (h *EventHandler) GetEventsBatch(w http.ResponseWriter, r *http.Request) {
+        query := r.URL.Query()
+
+        locale := query.Get("locale")
+        if locale == "" {
+                locale = "en"
+        }
+
+        idsParam := strings.TrimSpace(query.Get("ids"))
+        if idsParam == "" {
+                response.BadRequest(w, "Missing required 'ids' query parameter")
+                return
+        }
+
+        rawIDs := strings.Split(idsParam, ",")
+        seen := make(map[int]bool, len(rawIDs))
+        ids := make([]int, 0, len(rawIDs))
+        for _, raw := range rawIDs {
+                raw = strings.TrimSpace(raw)
+                if raw == "" {
+                        continue
+                }
+                id, err := strconv.Atoi(raw)
+                if err != nil {
+                        response.BadRequest(w, "Invalid event ID in 'ids' parameter: "+raw)
+                        return
+                }
+                if !seen[id] {
+                        seen[id] = true
+                        ids = append(ids, id)
+                }
+        }
+
+        if len(ids) == 0 {
+                response.BadRequest(w, "No valid event IDs provided")
+                return
+        }
+
+        if len(ids) > maxBatchEventIDs {
+                ids = ids[:maxBatchEventIDs]
+        }
+
+        events, err := h.eventRepo.GetByIDs(ids)
+        if err != nil {
+                log.Printf("Error fetching events batch: %v", err)
+                response.InternalError(w, "Failed to fetch events")
+                return
+        }
+
+        for i := range events {
+                events[i].PopulateLegacyFields(locale)
+        }
+
+        response.Success(w, events)
 }
 
 // GetEventByID handles GET /api/events/{id} with locale support

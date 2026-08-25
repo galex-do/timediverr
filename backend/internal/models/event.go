@@ -85,6 +85,84 @@ func formatBCDate(year int, month time.Month, day int) string {
         return fmt.Sprintf("%04d-%02d-%02dT00:00:00Z", year, int(month), day)
 }
 
+// EventListItem is the lean per-event shape returned by the bulk events list
+// endpoint that drives the map. It carries only what's needed to place and
+// label a marker. Full tag objects are reduced to bare TagIDs -- the client
+// already caches the full tag catalog separately via GET /api/tags and
+// resolves colors/emoji/descriptions from there -- and localized descriptions
+// are omitted by default (only included when includeDetails is requested,
+// e.g. by the admin table) since sending every event's full text on every
+// map load was the dominant cost in the old bulk payload, and also meant a
+// single public request could scrape the entire dataset's written content.
+// Full descriptions are otherwise fetched on demand via the batch endpoint.
+type EventListItem struct {
+        ID            int     `json:"id"`
+        Name          string  `json:"name"`
+        Era           string  `json:"era"`
+        Latitude      float64 `json:"latitude"`
+        Longitude     float64 `json:"longitude"`
+        LensType      string  `json:"lens_type"`
+        DatasetID     *int    `json:"dataset_id,omitempty"`
+        TagIDs        []int   `json:"tag_ids,omitempty"`
+        NameEn        string  `json:"name_en,omitempty"`
+        NameRu        string  `json:"name_ru,omitempty"`
+        Description   *string `json:"description,omitempty"`
+        DescriptionEn *string `json:"description_en,omitempty"`
+        DescriptionRu *string `json:"description_ru,omitempty"`
+        Source        *string `json:"source,omitempty"`
+
+        eventDate time.Time // unexported: used only to format event_date below
+}
+
+// MarshalJSON mirrors HistoricalEvent's custom marshaling so event_date keeps
+// the same explicit ISO format, including support for BC (negative-year) dates.
+func (e EventListItem) MarshalJSON() ([]byte, error) {
+        type Alias EventListItem
+        return json.Marshal(&struct {
+                EventDate string `json:"event_date"`
+                *Alias
+        }{
+                EventDate: e.eventDate.Format("2006-01-02T15:04:05Z07:00"),
+                Alias:     (*Alias)(&e),
+        })
+}
+
+// ToListItem converts a fully-loaded HistoricalEvent (with PopulateLegacyFields
+// already applied for the requested locale) into its lean list form.
+// Descriptions/source are only populated when includeDetails is true.
+func (e *HistoricalEvent) ToListItem(includeDetails bool) EventListItem {
+        tagIDs := make([]int, 0, len(e.Tags))
+        for _, t := range e.Tags {
+                tagIDs = append(tagIDs, t.ID)
+        }
+
+        item := EventListItem{
+                ID:        e.ID,
+                Name:      e.Name,
+                eventDate: e.EventDate,
+                Era:       e.Era,
+                Latitude:  e.Latitude,
+                Longitude: e.Longitude,
+                LensType:  e.LensType,
+                DatasetID: e.DatasetID,
+                TagIDs:    tagIDs,
+        }
+
+        if includeDetails {
+                item.NameEn = e.NameEn
+                item.NameRu = e.NameRu
+                if e.Description != "" {
+                        description := e.Description
+                        item.Description = &description
+                }
+                item.DescriptionEn = e.DescriptionEn
+                item.DescriptionRu = e.DescriptionRu
+                item.Source = e.Source
+        }
+
+        return item
+}
+
 // CreateEventRequest represents the request payload for creating an event
 type CreateEventRequest struct {
         Name          string  `json:"name" validate:"required"`        // Legacy field - will be used for default locale content

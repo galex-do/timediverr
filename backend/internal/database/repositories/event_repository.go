@@ -6,6 +6,8 @@ import (
         "fmt"
         "historical-events-backend/internal/models"
         "log"
+
+        "github.com/lib/pq"
 )
 
 // EventRepository handles event data operations
@@ -63,6 +65,60 @@ func (r *EventRepository) GetAll() ([]models.HistoricalEvent, error) {
                 return nil, fmt.Errorf("error iterating over events: %w", err)
         }
         
+        return events, nil
+}
+
+// GetByIDs retrieves full event records for a specific set of IDs in one
+// indexed query. Used by the batch-detail endpoint to lazily resolve
+// descriptions/full tag data for events that were loaded via the lean list.
+func (r *EventRepository) GetByIDs(ids []int) ([]models.HistoricalEvent, error) {
+        if len(ids) == 0 {
+                return []models.HistoricalEvent{}, nil
+        }
+
+        query := `
+                SELECT id, name, description, latitude, longitude, event_date, era, lens_type, source, display_date, dataset_id, created_by, updated_by, created_at, updated_at, name_en, name_ru, description_en, description_ru, tags
+                FROM events_with_display_dates
+                WHERE id = ANY($1)
+                ORDER BY astronomical_year ASC`
+
+        rows, err := r.db.Query(query, pq.Array(ids))
+        if err != nil {
+                return nil, fmt.Errorf("failed to query events by ids: %w", err)
+        }
+        defer rows.Close()
+
+        var events []models.HistoricalEvent
+
+        for rows.Next() {
+                var event models.HistoricalEvent
+                var tagsJSON []byte
+
+                err := rows.Scan(&event.ID, &event.Name, &event.Description, &event.Latitude,
+                        &event.Longitude, &event.EventDate, &event.Era, &event.LensType, &event.Source, &event.DisplayDate, &event.DatasetID, &event.CreatedBy, &event.UpdatedBy, &event.CreatedAt, &event.UpdatedAt, &event.NameEn, &event.NameRu, &event.DescriptionEn, &event.DescriptionRu, &tagsJSON)
+                if err != nil {
+                        log.Printf("Error scanning event: %v", err)
+                        continue
+                }
+
+                if len(tagsJSON) > 0 {
+                        var tags []models.EventTagRef
+                        if err := json.Unmarshal(tagsJSON, &tags); err != nil {
+                                log.Printf("Error unmarshaling tags for event %d: %v", event.ID, err)
+                                tags = []models.EventTagRef{}
+                        }
+                        event.Tags = tags
+                } else {
+                        event.Tags = []models.EventTagRef{}
+                }
+
+                events = append(events, event)
+        }
+
+        if err = rows.Err(); err != nil {
+                return nil, fmt.Errorf("error iterating over events: %w", err)
+        }
+
         return events, nil
 }
 

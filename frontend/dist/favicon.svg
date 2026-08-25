@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="32" y2="32" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#3730a3"/>
+    </linearGradient>
+    <clipPath id="gc"><path d="M16 1.5999999999999996 A14.4 14.4 0 1 0 28.471 23.200 L16 16 Z"/></clipPath>
+    <clipPath id="cc"><path d="M16 1.5999999999999996 A14.4 14.4 0 0 1 28.471 23.200 L16 16 Z"/></clipPath>
+  </defs>
+  <circle cx="16" cy="16" r="14.4" fill="url(#g)"/>
+  <g clip-path="url(#gc)" fill="white" fill-opacity="0.88">
+    <path d="M15.093,2.032L15.698,2.032L16.389,2.306L16.979,2.738L16.490,3.400L14.258,3.530L13.811,2.838L14.474,2.306Z"/>
+    <path d="M10.845,2.550L12.184,2.234L11.334,2.954L12.170,5.474L10.902,5.819L9.765,5.992L7.518,7.734L5.862,9.909L5.661,8.800L5.099,9.016L4.091,9.693L4.134,11.550L3.458,12.026L2.939,10.370L4.494,7.331L6.568,5.128L8.397,3.918Z"/>
+    <path d="M5.301,15.755L5.574,13.998L8.282,13.494L10.614,14.992L14.762,18.002L14.042,19.240L13.019,21.630L11.536,23.200L10.398,24.050L11.046,27.938L9.736,27.347L9.232,25.821L4.970,16.504Z"/>
+    <path d="M15.539,12.515L20.723,8.368L23.330,10.600L24.323,21.861L22.739,23.200L21.443,24.266L21.270,24.050L21.674,21.400L21.702,19.730L22.019,16.504L20.219,14.747L16.317,13.494Z"/>
+  </g>
+  <g clip-path="url(#gc)">
+    <circle cx="9.66" cy="9.09" r="1.76" fill="white"/>
+    <circle cx="9.66" cy="9.09" r="0.77" fill="#3730a3"/>
+    <line x1="9.66" y1="10.85" x2="9.66" y2="12.29" stroke="white" stroke-width="0.96" stroke-linecap="round"/>
+  </g>
+  <g clip-path="url(#cc)" stroke-linecap="round">
+    <line x1="16.00" y1="7.36" x2="16.00" y2="3.52" stroke="white" stroke-width="1.02" stroke-linecap="round"/>
+    <line x1="20.32" y1="8.52" x2="22.24" y2="5.19" stroke="white" stroke-width="1.02" stroke-linecap="round"/>
+    <line x1="23.48" y1="11.68" x2="26.81" y2="9.76" stroke="white" stroke-width="1.02" stroke-linecap="round"/>
+    <line x1="24.64" y1="16.00" x2="28.48" y2="16.00" stroke="white" stroke-width="1.02" stroke-linecap="round"/>
+    <line x1="23.48" y1="20.32" x2="26.81" y2="22.24" stroke="white" stroke-width="1.02" stroke-linecap="round"/>
+    <line x1="16" y1="16" x2="21.49" y2="12.83" stroke="white" stroke-width="1.44"/>
+    <line x1="16" y1="16" x2="24.23" y2="20.75" stroke="white" stroke-width="0.96"/>
+  </g>
+  <line x1="16" y1="1.92" x2="16" y2="16" stroke="white" stroke-width="0.64" stroke-opacity="0.4"/>
+  <line x1="16" y1="16" x2="28.47" y2="23.20" stroke="white" stroke-width="0.64" stroke-opacity="0.4"/>
+  <circle cx="16" cy="16" r="1.28" fill="white"/>
+</svg>

@@ -46,4 +46,6 @@ export function cache_invalidate(key) {
 export function cache_invalidate_events() {
   cache_invalidate('events:en')
   cache_invalidate('events:ru')
+  cache_invalidate('events:en:full')
+  cache_invalidate('events:ru:full')
 }

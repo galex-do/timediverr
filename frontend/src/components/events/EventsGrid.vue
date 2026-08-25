@@ -128,6 +128,7 @@
 <script>
 import { useLocale } from '@/composables/useLocale.js'
 import { useGeolocation } from '@/composables/useGeolocation.js'
+import { useEvents } from '@/composables/useEvents.js'
 import EventCard from './EventCard.vue'
 import TagFilterPanel from '../filters/TagFilterPanel.vue'
 import TimelineModal from '../timeline/TimelineModal.vue'
@@ -175,7 +176,8 @@ export default {
   setup() {
     const { t } = useLocale()
     const { loading: geolocationLoading, get_current_position } = useGeolocation()
-    return { t, geolocationLoading, get_current_position }
+    const { ensureEventDetails } = useEvents()
+    return { t, geolocationLoading, get_current_position, ensureEventDetails }
   },
   data() {
     const STORAGE_KEY = 'historia_tag_filter_visible'
@@ -256,6 +258,14 @@ export default {
       }
       // Otherwise, keep the current page to maintain pagination state
     },
+    paginatedEvents: {
+      // The bulk list is lean (no descriptions) — fetch details for whatever
+      // up-to-3 cards are actually visible on the current page.
+      handler(newPageEvents) {
+        this.ensureEventDetails(newPageEvents.map(e => e.id))
+      },
+      immediate: true
+    },
     selectedTags(newTags, oldTags) {
       // Automatically show tag filter panel when a tag is added
       if (newTags.length > oldTags.length) {
@@ -294,6 +304,8 @@ export default {
       this.selectedDetailEvent = event
       this.navigationSource = source
       this.eventDetailModalOpen = true
+      // Events arrive lean (no description) — fill it in on demand.
+      this.ensureEventDetails([event.id])
     },
     closeEventDetail() {
       this.eventDetailModalOpen = false
@@ -301,12 +313,14 @@ export default {
     },
     handleSelectRelatedEvent(event) {
       this.selectedDetailEvent = event
+      this.ensureEventDetails([event.id])
     },
     handleTimelineShowDetail(event) {
       this.selectedDetailEvent = event
       this.navigationSource = 'timeline'
       this.timelineModalOpen = false
       this.eventDetailModalOpen = true
+      this.ensureEventDetails([event.id])
     },
     handleDetailTagClicked(tag) {
       this.$emit('tag-clicked', tag)

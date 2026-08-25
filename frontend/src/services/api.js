@@ -75,7 +75,12 @@ class ApiService {
   }
 
   // Events API
-  async getEvents(page = null, limit = null, sortField = null, sortDirection = null) {
+  //
+  // By default this returns the lean list shape (no descriptions, tags as
+  // bare IDs) used to populate the map — see backend models.EventListItem.
+  // Pass includeDescriptions=true (used by the admin table) to get full
+  // descriptions/source embedded inline instead of fetching them separately.
+  async getEvents(page = null, limit = null, sortField = null, sortDirection = null, includeDescriptions = false) {
     let endpoint = '/events'
     const is_paginated = page !== null && limit !== null
 
@@ -89,26 +94,42 @@ class ApiService {
       endpoint = `/events?${params}`
     }
 
+    if (includeDescriptions) {
+      endpoint += endpoint.includes('?') ? '&' : '?'
+      endpoint += 'include_descriptions=true'
+    }
+
     endpoint = this.addLocaleToEventUrl(endpoint)
 
     // Client-side cache only for the non-paginated map request (admin table bypasses it)
     if (!is_paginated) {
       const { getLocaleParam } = useLocale()
       const locale = getLocaleParam().replace('locale=', '') || 'en'
-      const cache_key = `events:${locale}`
+      const cache_key = includeDescriptions ? `events:${locale}:full` : `events:${locale}`
 
       const cached = cache_get(cache_key)
       if (cached) {
-        console.log(`[cache] HIT events:${locale} (client localStorage)`)
+        console.log(`[cache] HIT ${cache_key} (client localStorage)`)
         return cached
       }
 
       const data = await this.makeRequest(endpoint)
       cache_set(cache_key, data, CACHE_TTL.events)
-      console.log(`[cache] MISS events:${locale} — stored in localStorage for ${CACHE_TTL.events / 60000} min`)
+      console.log(`[cache] MISS ${cache_key} — stored in localStorage for ${CACHE_TTL.events / 60000} min`)
       return data
     }
 
+    return this.makeRequest(endpoint)
+  }
+
+  // Fetch full event records (description, source, full tag objects) for a
+  // specific set of event IDs in one request. Used to lazily fill in details
+  // for events that were loaded via the lean list.
+  async getEventsBatch(ids) {
+    if (!ids || ids.length === 0) return []
+    const params = new URLSearchParams({ ids: ids.join(',') })
+    let endpoint = `/events/batch?${params}`
+    endpoint = this.addLocaleToEventUrl(endpoint)
     return this.makeRequest(endpoint)
   }
 

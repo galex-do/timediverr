@@ -74,9 +74,17 @@ func (router *Router) SetupRoutes() http.Handler {
         api.HandleFunc("/session/anonymous-heartbeat", router.authHandler.AnonymousSessionHeartbeat).Methods("POST", "OPTIONS")
         
         // Event routes (public read, auth required for create/update/delete)
+        // NOTE: "/events/batch" is registered before the "/events/{id}"
+        // variable route — gorilla/mux matches routes in registration order,
+        // so a variable route registered first would otherwise swallow this
+        // literal path (e.g. "batch" parsed as an {id}) and it would never be
+        // reached. (The pre-existing /events/bbox and /events/radius routes
+        // below are registered after "/events/{id}" and were already shadowed
+        // by it the same way before this change — left as-is, out of scope.)
         api.HandleFunc("/events", router.authHandler.OptionalAuthMiddleware(router.eventHandler.GetAllEvents)).Methods("GET", "OPTIONS")
         api.HandleFunc("/events", router.authHandler.AuthMiddleware(router.eventHandler.CreateEvent)).Methods("POST", "OPTIONS")
         api.HandleFunc("/events/import", router.authHandler.RequireAccessLevel(models.AccessLevelAdmin)(router.eventHandler.ImportEvents)).Methods("POST", "OPTIONS")
+        api.HandleFunc("/events/batch", router.authHandler.OptionalAuthMiddleware(router.eventHandler.GetEventsBatch)).Methods("GET", "OPTIONS")
         api.HandleFunc("/events/{id}", router.authHandler.OptionalAuthMiddleware(router.eventHandler.GetEventByID)).Methods("GET", "OPTIONS")
         api.HandleFunc("/events/{id}", router.authHandler.RequireAccessLevel(models.AccessLevelAdmin)(router.eventHandler.UpdateEvent)).Methods("PUT", "OPTIONS")
         api.HandleFunc("/events/{id}", router.authHandler.RequireAccessLevel(models.AccessLevelAdmin)(router.eventHandler.DeleteEvent)).Methods("DELETE", "OPTIONS")
