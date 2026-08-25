@@ -375,12 +375,6 @@ export default {
     }
 
     const cachedGroupedEvents = ref([])
-    const lastEventsHash = ref('')
-
-    const getEventsHash = (events) => {
-      if (!events || events.length === 0) return ''
-      return `${events.length}-${events[0]?.id}-${events[events.length - 1]?.id}`
-    }
 
     const getChronologicalValue = (dateString, era) => {
       let year, month, day
@@ -494,12 +488,17 @@ export default {
       })
     }
 
+    // Recompute whenever the events array reference changes (a real refetch —
+    // e.g. after a locale switch, `events.value` is reassigned to brand new
+    // object instances) or the locale itself changes. Previously this was
+    // gated behind an id/length-based hash, which is blind to content: after
+    // a locale switch the event count and first/last IDs stay identical, so
+    // the hash never changed and this cache kept serving groups built from
+    // the pre-switch (wrong-locale) objects until a full page reload reset
+    // everything. Always recomputing is the only way to guarantee this
+    // reflects the locale that's actually current.
     watch([() => props.events, currentLocale], ([newEvents]) => {
-      const newHash = getEventsHash(newEvents) + '_' + currentLocale.value?.code
-      if (newHash !== lastEventsHash.value) {
-        lastEventsHash.value = newHash
-        cachedGroupedEvents.value = computeGroupedEvents(newEvents)
-      }
+      cachedGroupedEvents.value = computeGroupedEvents(newEvents)
     }, { immediate: true })
 
     const allGroupedEvents = computed(() => cachedGroupedEvents.value)

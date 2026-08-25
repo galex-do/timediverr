@@ -23,6 +23,18 @@ const detailsLoadedIds = new Set()
 // once) share a single network request instead of racing duplicate ones.
 const detailsFetchInFlight = new Map()
 
+// In-flight fetchEvents() calls keyed by request shape (lean vs. full), at
+// module scope so it's shared across every component that calls useEvents()
+// — not just within one call. Every consumer registers its own reaction to
+// locale changes, so a single locale switch can trigger several concurrent
+// fetchEvents() calls; without this, each one reassigns `events.value` to a
+// brand new array of new object instances, and whichever resolves last
+// "wins" — silently orphaning anything derived from an earlier one (like
+// MapView's filteredEvents, reapplied right after its own fetchEvents()
+// resolves). That desync is what made descriptions/names appear stuck after
+// a locale switch until a full reload.
+const fetchEventsInFlight = new Map()
+
 export function useEvents() {
   const { locale } = useLocale()
   const { allTags, loadTags, getTagsByIds } = useTags()
@@ -37,8 +49,23 @@ export function useEvents() {
   // Pass { includeDescriptions: true } (used by the admin table) to get full
   // descriptions/source embedded inline; otherwise events arrive lean and
   // descriptions are fetched on demand via ensureEventDetails().
+  // Coalesces concurrent calls of the same shape via the module-level
+  // fetchEventsInFlight map (see comment above it).
   const fetchEvents = async (options = {}) => {
     const { includeDescriptions = false } = options
+    const flightKey = includeDescriptions ? 'full' : 'lean'
+    if (fetchEventsInFlight.has(flightKey)) {
+      return fetchEventsInFlight.get(flightKey)
+    }
+
+    const promise = doFetchEvents(includeDescriptions).finally(() => {
+      fetchEventsInFlight.delete(flightKey)
+    })
+    fetchEventsInFlight.set(flightKey, promise)
+    return promise
+  }
+
+  const doFetchEvents = async (includeDescriptions) => {
     loading.value = true
     error.value = null
     detailsLoadedIds.clear()
