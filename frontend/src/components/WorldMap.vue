@@ -342,8 +342,10 @@ export default {
       location_visible_count: 50,
       location_show_details: false,
       location_visible_count_backup: 50,
-      highlight_overlay: null, // Store highlight overlay layer (ring + dot at the exact point, plus a binding line to its cluster)
+      highlight_overlay: null, // Ring + dot marking the exact point (always visible while highlighted)
+      highlight_binding_line: null, // Dashed line to the enclosing cluster; hidden during zoom animation since cluster membership is in flux
       highlighted_event: null, // The event currently highlighted, so we can re-resolve it on zoom/pan
+      is_zooming: false, // True between zoomstart and zoomend, used to suppress the binding line while clusters are recomputing
       user_location_layer: null, // Store user location marker (geolocation feature)
       expanded_event_tags: {}, // Track which events have expanded tags
       editing_event: null, // Store the event being edited
@@ -706,9 +708,16 @@ export default {
       this.map.on('zoomend', this.handle_bounds_change)
 
       // A highlighted event's visible parent (its own marker vs. some
-      // enclosing cluster) can change as the user zooms in/out, so re-resolve
-      // and re-pulse it after each zoom instead of leaving a stale highlight.
+      // enclosing cluster) can change as the user zooms in/out. The binding
+      // line would point at a cluster bubble that's mid-animation or about to
+      // be regrouped, so hide it for the duration of the zoom and only
+      // re-resolve/redraw it once clustering has settled at zoomend.
+      this.map.on('zoomstart', () => {
+        this.is_zooming = true
+        this.clear_binding_line()
+      })
       this.map.on('zoomend', () => {
+        this.is_zooming = false
         if (this.highlighted_event) {
           this.apply_highlight()
         }
@@ -879,7 +888,13 @@ export default {
         interactive: false
       })
 
-      const layers = [outerRing, centerDot]
+      this.highlight_overlay = L.layerGroup([outerRing, centerDot])
+      this.highlight_overlay.addTo(this.map)
+
+      // While the map is mid-zoom, cluster membership/position is in flux
+      // (about to be recomputed at zoomend), so skip drawing the binding
+      // line until things settle rather than pointing it at a stale cluster.
+      if (this.is_zooming) return
 
       // getVisibleParent() returns whichever cluster (or the marker itself,
       // if unclustered) is actually rendered at the current zoom. Only draw
@@ -889,18 +904,25 @@ export default {
         : marker
 
       if (visibleParent !== marker) {
-        const bindingLine = L.polyline([markerLatLng, visibleParent.getLatLng()], {
+        this.highlight_binding_line = L.polyline([markerLatLng, visibleParent.getLatLng()], {
           color: '#ef4444',
           weight: 2,
           opacity: 0.7,
           dashArray: '5, 7',
           interactive: false
         })
-        layers.push(bindingLine)
+        this.highlight_binding_line.addTo(this.map)
       }
+    },
 
-      this.highlight_overlay = L.layerGroup(layers)
-      this.highlight_overlay.addTo(this.map)
+    // Remove just the binding line, keeping the ring/dot in place. Used at
+    // zoomstart so the line disappears for the duration of the zoom instead
+    // of pointing at a cluster that's about to move or be regrouped.
+    clear_binding_line() {
+      if (this.highlight_binding_line && this.map) {
+        this.map.removeLayer(this.highlight_binding_line)
+        this.highlight_binding_line = null
+      }
     },
 
     // Remove the ring/dot/binding line, but keep remembering which event was
@@ -910,6 +932,7 @@ export default {
         this.map.removeLayer(this.highlight_overlay)
         this.highlight_overlay = null
       }
+      this.clear_binding_line()
     },
 
     // Fully clear highlight state (called when selection changes/closes)
