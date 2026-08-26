@@ -33,7 +33,7 @@
         <div v-if="hasActiveTagFilters" class="detail_tag_filter_panel">
           <div class="detail_tag_filter_header" @click="tagFilterExpanded = !tagFilterExpanded">
             <span class="detail_tag_filter_caret">{{ tagFilterExpanded ? '⌃' : '⌄' }}</span>
-            <span class="detail_tag_filter_label">{{ t('filteredByTags') }} ({{ selectedTags.length }})</span>
+            <span class="detail_tag_filter_label">{{ t('filters') }} ({{ selectedTags.length }})</span>
             <button
               class="detail_tag_filter_clear_btn"
               @click.stop="handleClearTagFilters"
@@ -515,10 +515,6 @@ export default {
 
 .detail_tag_filter_panel {
   margin-top: 0.75rem;
-  padding: 0.4rem 0.75rem;
-  background: #f8fafc;
-  border: 1px solid #e2e8f0;
-  border-radius: 0.5rem;
 }
 
 .detail_tag_filter_header {
@@ -530,7 +526,7 @@ export default {
 }
 
 .detail_tag_filter_caret {
-  font-size: 0.7rem;
+  font-size: 1rem;
   color: #94a3b8;
   flex-shrink: 0;
   width: 0.9rem;
@@ -550,8 +546,6 @@ export default {
   flex-wrap: wrap;
   gap: 0.35rem;
   margin-top: 0.5rem;
-  padding-top: 0.5rem;
-  border-top: 1px solid #e2e8f0;
 }
 
 .detail_tag_filter_clear_btn {
