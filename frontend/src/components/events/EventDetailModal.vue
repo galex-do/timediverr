@@ -30,13 +30,33 @@
           >{{ tag.name }}</span>
         </div>
 
-        <div v-if="hasActiveTagFilters" class="tag_filter_notice">
-          <span class="tag_filter_notice_text">{{ t('filteredByTags') }} ({{ selectedTags.length }})</span>
+        <div v-if="hasActiveTagFilters" class="detail_tag_filter_panel">
+          <span class="detail_tag_filter_label">{{ t('filteredByTags') }}</span>
+          <div class="detail_tag_filter_chips">
+            <div
+              v-for="tag in selectedTags"
+              :key="tag.id"
+              class="event_tag_badge_removable"
+              :style="getTagStyle(tag, { outerShadow: '0 1px 3px rgba(0, 0, 0, 0.15)' })"
+            >
+              <span class="tag_name">{{ tag.name }}</span>
+              <button
+                class="toggle_negative_btn"
+                @click="handleToggleTagNegative(tag.id)"
+                :title="tag.negative ? t('tagFilterModeExclude') : t('tagFilterModeInclude')"
+              >{{ tag.negative ? '−' : '+' }}</button>
+              <button
+                class="remove_tag_btn"
+                @click="handleRemoveTag(tag.id)"
+                :aria-label="`${t('remove')} ${tag.name}`"
+              >×</button>
+            </div>
+          </div>
           <button
-            class="tag_filter_clear_btn"
+            class="detail_tag_filter_clear_btn"
             @click="handleClearTagFilters"
             :title="t('clearAllTags')"
-          >✕ {{ t('clearAllTags') }}</button>
+          >✕</button>
         </div>
 
         <div v-if="hasRelatedEvents" class="related_events_section">
@@ -217,7 +237,7 @@ export default {
       default: null
     }
   },
-  emits: ['close', 'focus-event', 'tag-clicked', 'select-event', 'edit-event', 'back', 'clear-tag-filters'],
+  emits: ['close', 'focus-event', 'tag-clicked', 'select-event', 'edit-event', 'back', 'clear-tag-filters', 'remove-tag', 'toggle-tag-negative'],
   setup(props, { emit }) {
     const { t, formatEventDisplayDate, formatEventDisplayDateLong, formatEventDisplaySmart } = useLocale()
     const { canEditEvents } = useAuth()
@@ -283,7 +303,14 @@ export default {
 
     const handleTagClick = (tag) => {
       emit('tag-clicked', tag)
-      closeModal()
+    }
+
+    const handleRemoveTag = (tagId) => {
+      emit('remove-tag', tagId)
+    }
+
+    const handleToggleTagNegative = (tagId) => {
+      emit('toggle-tag-negative', tagId)
     }
 
     const handleRelatedClick = (relEvent) => {
@@ -355,7 +382,9 @@ export default {
       canRefreshAroundSameTime,
       refreshAroundSameTime,
       hasActiveTagFilters,
-      handleClearTagFilters
+      handleClearTagFilters,
+      handleRemoveTag,
+      handleToggleTagNegative
     }
   }
 }
@@ -477,38 +506,49 @@ export default {
 }
 
 
-.tag_filter_notice {
+.detail_tag_filter_panel {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  flex-wrap: wrap;
   gap: 0.5rem;
   margin-top: 0.75rem;
   padding: 0.5rem 0.75rem;
-  background: #fff7ed;
-  border: 1px solid #fed7aa;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
   border-radius: 0.5rem;
 }
 
-.tag_filter_notice_text {
-  font-size: 0.8rem;
-  color: #9a3412;
-}
-
-.tag_filter_clear_btn {
-  flex-shrink: 0;
-  background: none;
-  border: 1px solid #fdba74;
-  border-radius: 0.375rem;
-  padding: 0.2rem 0.5rem;
+.detail_tag_filter_label {
   font-size: 0.75rem;
-  color: #9a3412;
-  cursor: pointer;
-  transition: background 0.2s, color 0.2s;
+  font-weight: 600;
+  color: #64748b;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  flex-shrink: 0;
 }
 
-.tag_filter_clear_btn:hover {
-  background: #9a3412;
-  color: #fff7ed;
+.detail_tag_filter_chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  flex: 1;
+}
+
+.detail_tag_filter_clear_btn {
+  flex-shrink: 0;
+  margin-left: auto;
+  background: none;
+  border: none;
+  font-size: 0.85rem;
+  color: #94a3b8;
+  cursor: pointer;
+  padding: 0.1rem 0.25rem;
+  line-height: 1;
+  transition: color 0.2s;
+}
+
+.detail_tag_filter_clear_btn:hover {
+  color: #4f46e5;
 }
 
 .related_events_section {

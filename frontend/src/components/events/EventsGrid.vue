@@ -125,6 +125,8 @@
       @edit-event="handleEditEvent"
       @back="handleBack"
       @clear-tag-filters="$emit('clear-all-tags')"
+      @remove-tag="$emit('remove-tag', $event)"
+      @toggle-tag-negative="$emit('toggle-tag-negative', $event)"
     />
   </div>
 </template>
