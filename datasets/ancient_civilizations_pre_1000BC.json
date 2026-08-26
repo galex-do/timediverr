@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 180 events",
+  "description": "Dataset imported with 151 events",
   "events": [
     {
       "date": "01.01.9500",
@@ -149,24 +149,6 @@
     },
     {
       "date": "01.01.3500",
-      "description": "Earliest evidence of urban civilization in Mesopotamia with the establishment of Uruk as the world's first major citys",
-      "description_ru": "Первые свидетельства городской цивилизации в Месопотамии с основанием Урука как первого крупного города в мире",
-      "era": "BC",
-      "latitude": 31.324,
-      "longitude": 45.636,
-      "name": "First Urban Settlement at Uruk",
-      "name_ru": "Первое городское поселение в Уруке",
-      "source": "https://www.metmuseum.org/toah/hd/uruk/hd_uruk.htm",
-      "tags": [
-        "Sumerian",
-        "City",
-        "Mesopotamian",
-        "Urban"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.3500",
       "description": "Caral-Supe civilization emerges in Peru as the oldest civilization in the Americas, featuring monumental stone platform mounds and sunken circular courts",
       "description_ru": "Цивилизация Караль-Супе возникает в Перу как древнейшая цивилизация в Америке с монументальными каменными платформами и углубленными круглыми дворами",
       "era": "BC",
@@ -204,24 +186,6 @@
     },
     {
       "date": "01.01.3300",
-      "description": "Sumerians develop the world's first writing system using wedge-shaped marks on clay tablets",
-      "description_ru": "Шумеры разрабатывают первую в мире систему письменности, используя клинообразные знаки на глиняных табличках",
-      "era": "BC",
-      "latitude": 31.324,
-      "longitude": 45.636,
-      "name": "Invention of Cuneiform Writing",
-      "name_ru": "Изобретение клинописи",
-      "source": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-mesopotamia/story-writing",
-      "tags": [
-        "Sumerian",
-        "Language",
-        "Mesopotamian",
-        "Writing"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.3300",
       "description": "Early Harappan period begins with the first urban settlements in the Indus Valley, marking the start of one of the world's earliest civilizations",
       "description_ru": "Начинается раннехараппский период с первых городских поселений в долине Инда, знаменуя начало одной из древнейших цивилизаций мира",
       "era": "BC",
@@ -255,23 +219,6 @@
         "Writing"
       ],
       "type": "cultural"
-    },
-    {
-      "date": "01.01.3200",
-      "description": "Sumerians invent the wheel for transportation, revolutionizing trade and warfare",
-      "description_ru": "Шумеры изобретают колесо для транспорта, революционизируя торговлю и военное дело",
-      "era": "BC",
-      "latitude": 32.776,
-      "longitude": 44.949,
-      "name": "Invention of the Wheel",
-      "name_ru": "Изобретение колеса",
-      "source": "https://www.smithsonianmag.com/science-nature/a-salute-to-the-wheel-31805121/",
-      "tags": [
-        "Sumerian",
-        "Innovation",
-        "Technology"
-      ],
-      "type": "scientific"
     },
     {
       "date": "15.01.3100",
@@ -393,24 +340,6 @@
     },
     {
       "date": "01.01.3000",
-      "description": "Sumerians develop the sexagesimal (base-60) number system, still used today for time and angles",
-      "description_ru": "Шумеры разрабатывают шестидесятеричную (с основанием 60) систему счисления, используемую до сих пор для времени и углов",
-      "era": "BC",
-      "latitude": 31.324,
-      "longitude": 45.636,
-      "name": "Base-60 Number System",
-      "name_ru": "Система счисления с основанием 60",
-      "source": "https://www.britannica.com/science/sexagesimal",
-      "tags": [
-        "Sumerian",
-        "Innovation",
-        "Mathematics",
-        "Mesopotamian"
-      ],
-      "type": "scientific"
-    },
-    {
-      "date": "01.01.3000",
       "description": "Knowth passage tomb complex completed in Ireland as the largest passage tomb in the Brú na Bóinne complex with 18 smaller satellite tombs",
       "description_ru": "Курган Ноут завершен в Ирландии как крупнейшая коридорная гробница в комплексе Бру-на-Бойн с 18 меньшими гробницами",
       "era": "BC",
@@ -465,23 +394,6 @@
       "type": "cultural"
     },
     {
-      "date": "01.01.3000",
-      "description": "The Sumerian city of Uruk becomes the world's largest city with approximately 100,000 inhabitants",
-      "description_ru": "Шумерский город Урук становится крупнейшим городом в мире с населением около 100,000 жителей",
-      "era": "BC",
-      "latitude": 31.324,
-      "longitude": 45.636,
-      "name": "Uruk Reaches 100,000 Population",
-      "name_ru": "Урук достигает населения в 100,000 человек",
-      "tags": [
-        "Sumerian",
-        "City",
-        "Mesopotamian",
-        "Urban"
-      ],
-      "type": "historic"
-    },
-    {
       "date": "01.01.2900",
       "description": "Beginning of the Early Dynastic Period in Mesopotamia with competing city-states",
       "description_ru": "Начало раннединастического периода в Месопотамии с соревнующимися городами-государствами",
@@ -495,23 +407,6 @@
         "Mesopotamian"
       ],
       "type": "political"
-    },
-    {
-      "date": "01.01.2900",
-      "description": "Sumerians construct the first ziggurats as temple complexes and administrative centers",
-      "description_ru": "Шумеры строят первые зиккураты как храмовые комплексы и административные центры",
-      "era": "BC",
-      "latitude": 30.962,
-      "longitude": 46.104,
-      "name": "First Ziggurats Built",
-      "name_ru": "Строительство первых зиккуратов",
-      "tags": [
-        "Sumerian",
-        "Building 🏠",
-        "Architecture",
-        "Mesopotamian"
-      ],
-      "type": "cultural"
     },
     {
       "date": "01.01.2800",
@@ -683,23 +578,6 @@
     },
     {
       "date": "01.01.2600",
-      "description": "Enme-baragesi of Kish, the first historically attested Mesopotamian king, who defeated Elam and built the temple of Enlil in Nippur. Enme-baragesi's reign marked the beginning of the transition from theocratic rule (priests) to military might (lugali) in the Sumerian city-states.",
-      "description_ru": "Эн-ме-барагеси из Киша, первый исторически подтвержденный месопотамский царь, победивший Элам и построивший храм Энлиля в Ниппуре. Эпоха Эн-ме-барагеси ознаменовала начало перехода от теократического правления (жрецов) к военной мощи (лугали) в шумерских городах-государствах",
-      "era": "BC",
-      "latitude": 32.776,
-      "longitude": 44.949,
-      "name": "Reign of En-me-barage-si of Kish",
-      "name_ru": "Первый месопотамский царь",
-      "tags": [
-        "Elamites",
-        "Sumerian",
-        "King",
-        "Mesopotamian"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.2600",
       "description": "Pharaoh Sneferu completes the Red Pyramid at Dahshur, the first successful straight-sided pyramid",
       "description_ru": "Фараон Снофру завершает Красную пирамиду в Дахшуре, первую успешную пирамиду с прямыми сторонами",
       "era": "BC",
@@ -848,23 +726,6 @@
       "type": "scientific"
     },
     {
-      "date": "01.01.2500",
-      "description": "The dynasty of Lagash is established in Sumerian city-state, becoming a major regional power",
-      "description_ru": "Династия Лагаша основывается в шумерском городе-государстве, становясь крупной региональной силой",
-      "era": "BC",
-      "latitude": 31.253,
-      "longitude": 46.18,
-      "name": "Dynasty of Lagash Founded",
-      "name_ru": "Основание династии Лагаша",
-      "tags": [
-        "Sumerian",
-        "City-State",
-        "Dynasty",
-        "Mesopotamian"
-      ],
-      "type": "political"
-    },
-    {
       "date": "01.01.2450",
       "description": "Eannatum of Lagash establishes the first verifiable empire in Mesopotamian history",
       "description_ru": "Эаннатум из Лагаша создает первую документально подтвержденную империю в истории Месопотамии",
@@ -982,21 +843,6 @@
       "type": "historic"
     },
     {
-      "date": "01.01.2358",
-      "description": "Lugalzagesi of Umma unites most Sumerian city-states under single rule from Uruk",
-      "description_ru": "Лугальзагеси из Уммы объединяет большинство шумерских городов-государств под единым правлением из Урука",
-      "era": "BC",
-      "latitude": 31.324,
-      "longitude": 45.636,
-      "name": "Lugalzagesi Unifies Sumer",
-      "name_ru": "Лугальзагеси объединяет Шумер",
-      "tags": [
-        "Sumerian",
-        "Unification"
-      ],
-      "type": "political"
-    },
-    {
       "date": "01.01.2340",
       "description": "Sargon of Akkad overthrows his master Ur-Zababa, king of Kish, beginning his rise to power",
       "description_ru": "Саргон Аккадский свергает своего господина Ур-Забабу, царя Киша, начиная свое восхождение к власти",
@@ -1030,23 +876,6 @@
       "type": "military"
     },
     {
-      "date": "01.03.2334",
-      "description": "Sargon captures and destroys the walls of Ur, one of Sumer's greatest cities",
-      "description_ru": "Саргон разрушает стены Ура, одного из величайших шумерских городов",
-      "era": "BC",
-      "latitude": 30.962,
-      "longitude": 46.104,
-      "name": "Sargon Conquers Ur",
-      "name_ru": "Саргон завоевывает Ур",
-      "tags": [
-        "Akkadian",
-        "Sumerian",
-        "Conquest",
-        "Sargon 👑"
-      ],
-      "type": "military"
-    },
-    {
       "date": "15.01.2334",
       "description": "Sargon establishes the Akkadian Empire, the world's first multi-ethnic empire",
       "description_ru": "Саргон основывает Аккадскую империю, первую в мире многоэтническую империю",
@@ -1063,24 +892,6 @@
         "Sargon 👑"
       ],
       "type": "political"
-    },
-    {
-      "date": "01.01.2334",
-      "description": "Sargon defeats Lugalzagesi and destroys Uruk, capturing the Sumerian king and ending Sumerian independence",
-      "description_ru": "Саргон побеждает Лугальзагеси, разрушает Урук, захватывает шумерского царя и лишает шумеров независимости",
-      "era": "BC",
-      "latitude": 31.324,
-      "longitude": 45.636,
-      "name": "Battle of Uruk",
-      "name_ru": "Битва при Уруке",
-      "tags": [
-        "Akkadian",
-        "Sumerian",
-        "Battle",
-        "Sargon 👑",
-        "Vassalage"
-      ],
-      "type": "military"
     },
     {
       "date": "01.01.2320",
@@ -1270,56 +1081,6 @@
       "type": "political"
     },
     {
-      "date": "01.01.2112",
-      "description": "Ur-Nammu establishes the Third Dynasty of Ur, reviving Sumerian power and culture",
-      "description_ru": "Ур-Намму основывает третью династию Ура, возрождая шумерскую власть и культуру",
-      "era": "BC",
-      "latitude": 30.962,
-      "longitude": 46.104,
-      "name": "Third Dynasty of Ur Founded",
-      "name_ru": "Основание третьей династии Ура",
-      "tags": [
-        "Sumerian",
-        "Dynasty",
-        "Rise"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.2100",
-      "description": "Ur-Nammu creates one of the earliest known law codes, predating Hammurabi's code",
-      "description_ru": "Ур-Намму создает один из древнейших известных сводов законов, предшествующий кодексу Хаммурапи",
-      "era": "BC",
-      "latitude": 30.962,
-      "longitude": 46.104,
-      "name": "Code of Ur-Nammu",
-      "name_ru": "Кодекс Ур-Намму",
-      "tags": [
-        "Sumerian",
-        "Code",
-        "Justice",
-        "Law"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.2094",
-      "description": "Shulgi becomes king of Ur and rules for 48 years, standardizing the empire",
-      "description_ru": "Шульги становится царем Ура и правит 48 лет, стандартизируя шумерскую империю",
-      "era": "BC",
-      "latitude": 30.962,
-      "longitude": 46.104,
-      "name": "Reign of Shulgi",
-      "name_ru": "Правление Шульги в Уре",
-      "tags": [
-        "Sumerian",
-        "Dynasty",
-        "King",
-        "Empire"
-      ],
-      "type": "political"
-    },
-    {
       "date": "01.01.2055",
       "description": "Pharaoh Mentuhotep II defeats northern rivals and reunifies Egypt, beginning the Middle Kingdom",
       "description_ru": "Фараон Ментухотеп II побеждает северных соперников и воссоединяет Египет, начиная Среднее царство",
@@ -1350,24 +1111,6 @@
         "Capital"
       ],
       "type": "political"
-    },
-    {
-      "date": "01.01.2004",
-      "description": "Elamites capture Ur and take King Ibbi-Sin prisoner, ending Sumerian independence forever",
-      "description_ru": "Эламиты захватывают Ур и берут царя Ибби-Сина в плен, навсегда завершая шумерскую независимость",
-      "era": "BC",
-      "latitude": 30.962,
-      "longitude": 46.104,
-      "name": "Fall of Third Dynasty of Ur",
-      "name_ru": "Падение третьей династии Ура",
-      "tags": [
-        "Elamites",
-        "Sumerian",
-        "War",
-        "Conquest",
-        "Fall"
-      ],
-      "type": "military"
     },
     {
       "date": "01.01.2000",
