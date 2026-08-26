@@ -39,7 +39,7 @@
 }
 
 .timeline_date {
-  font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: 'Onest', -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 700;
   font-size: 1rem;
   color: #475569;
@@ -70,7 +70,7 @@
 }
 
 .timeline_single_text .timeline_date_inline {
-  font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: 'Onest', -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 700;
   color: #475569;
 }
@@ -100,7 +100,7 @@
 }
 
 .timeline_date_subheader {
-  font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: 'Onest', -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 700;
   font-size: 0.875rem;
   color: #475569;
@@ -109,7 +109,7 @@
 }
 
 .timeline_date_inline_sub {
-  font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: 'Onest', -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 700;
   font-size: 0.875rem;
   color: #475569;

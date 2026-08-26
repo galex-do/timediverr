@@ -536,7 +536,7 @@ export default {
 
 .empty-state-title {
   margin: 0;
-  font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: 'Onest', -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 1.05rem;
   font-weight: 600;
   color: #334155;

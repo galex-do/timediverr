@@ -700,7 +700,7 @@ export default {
 .section-title {
   color: #1e293b;
   margin: 0;
-  font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: 'Onest', -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 1.1rem;
   font-weight: 700;
   letter-spacing: -0.01em;

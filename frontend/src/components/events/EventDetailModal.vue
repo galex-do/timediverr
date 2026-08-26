@@ -442,7 +442,7 @@ export default {
 }
 
 .event_name {
-  font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: 'Onest', -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 20px;
   font-weight: 600;
   color: #475569;

@@ -2345,7 +2345,7 @@ export default {
   pointer-events: none;
 }
 .region-label span {
-  font-family: 'Space Grotesk', sans-serif;
+  font-family: 'Onest', sans-serif;
   font-weight: 700;
   letter-spacing: 0.05em;
   opacity: 0.7;
@@ -2740,7 +2740,7 @@ export default {
 
 .event_info_modal_title {
   margin: 0;
-  font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: 'Onest', -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 20px;
   font-weight: 700;
   color: #475569;

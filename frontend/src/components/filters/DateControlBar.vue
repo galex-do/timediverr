@@ -227,7 +227,7 @@ export default {
 .controls-title {
   color: #1e293b;
   margin: 0;
-  font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: 'Onest', -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 1.1rem;
   font-weight: 700;
   letter-spacing: -0.01em;
@@ -441,7 +441,7 @@ export default {
   }
 
   .mobile-filter-label {
-    font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: 'Onest', -apple-system, BlinkMacSystemFont, sans-serif;
     font-weight: 700;
     font-size: 1.1rem;
     color: #1e293b;

@@ -360,7 +360,7 @@ export default {
 
 .logo-btn h1 {
   margin: 0;
-  font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: 'Onest', -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 1.5rem;
   font-weight: 700;
   color: white;
@@ -368,7 +368,7 @@ export default {
 }
 
 .logo-wordmark {
-  font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: 'Onest', -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 1.4rem;
   font-weight: 700;
   color: white;
@@ -462,7 +462,7 @@ export default {
 
 .app-header h1 {
   margin: 0;
-  font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: 'Onest', -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 1.5rem;
   font-weight: 700;
   letter-spacing: -0.02em;

@@ -851,7 +851,7 @@ export default {
 
 .timeline_modal_title {
   margin: 0;
-  font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: 'Onest', -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 20px;
   font-weight: 700;
   color: #475569;
