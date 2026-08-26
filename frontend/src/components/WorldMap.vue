@@ -346,9 +346,7 @@ export default {
       location_show_details: false,
       location_visible_count_backup: 50,
       highlight_overlay: null, // Ring + dot marking the exact point (always visible while highlighted)
-      highlight_binding_line: null, // Dashed line to the enclosing cluster; hidden during zoom animation since cluster membership is in flux
       highlighted_event: null, // The event currently highlighted, so we can re-resolve it on zoom/pan
-      is_zooming: false, // True between zoomstart and zoomend, used to suppress the binding line while clusters are recomputing
       user_location_layer: null, // Store user location marker (geolocation feature)
       expanded_event_tags: {}, // Track which events have expanded tags
       editing_event: null, // Store the event being edited
@@ -711,21 +709,6 @@ export default {
       this.map.on('moveend', this.handle_bounds_change)
       this.map.on('zoomend', this.handle_bounds_change)
 
-      // A highlighted event's visible parent (its own marker vs. some
-      // enclosing cluster) can change as the user zooms in/out. The binding
-      // line would point at a cluster bubble that's mid-animation or about to
-      // be regrouped, so hide it for the duration of the zoom and only
-      // re-resolve/redraw it once clustering has settled at zoomend.
-      this.map.on('zoomstart', () => {
-        this.is_zooming = true
-        this.clear_binding_line()
-      })
-      this.map.on('zoomend', () => {
-        this.is_zooming = false
-        if (this.highlighted_event) {
-          this.apply_highlight()
-        }
-      })
       
       // Fix for default marker icon in Leaflet with bundlers - use local assets
       delete L.Icon.Default.prototype._getIconUrl
@@ -854,10 +837,6 @@ export default {
 
     // Mark the event's exact coordinates — always, regardless of whether it's
     // currently shown as its own pin or buried inside a cluster elsewhere.
-    // The ring is the answer to "where exactly is this event"; if it's
-    // grouped into a cluster, a dashed line binds the precise point to that
-    // cluster's current bubble so the relationship is visible without moving
-    // the marking itself onto the cluster.
     apply_highlight() {
       this.clear_highlight_visuals()
 
@@ -894,49 +873,15 @@ export default {
 
       this.highlight_overlay = L.layerGroup([outerRing, centerDot])
       this.highlight_overlay.addTo(this.map)
-
-      // While the map is mid-zoom, cluster membership/position is in flux
-      // (about to be recomputed at zoomend), so skip drawing the binding
-      // line until things settle rather than pointing it at a stale cluster.
-      if (this.is_zooming) return
-
-      // getVisibleParent() returns whichever cluster (or the marker itself,
-      // if unclustered) is actually rendered at the current zoom. Only draw
-      // the binding line when the point is genuinely hidden inside a cluster.
-      const visibleParent = (this.marker_cluster_group && this.marker_cluster_group.getVisibleParent)
-        ? (this.marker_cluster_group.getVisibleParent(marker) || marker)
-        : marker
-
-      if (visibleParent !== marker) {
-        this.highlight_binding_line = L.polyline([markerLatLng, visibleParent.getLatLng()], {
-          color: '#ef4444',
-          weight: 2,
-          opacity: 0.7,
-          dashArray: '5, 7',
-          interactive: false
-        })
-        this.highlight_binding_line.addTo(this.map)
-      }
     },
 
-    // Remove just the binding line, keeping the ring/dot in place. Used at
-    // zoomstart so the line disappears for the duration of the zoom instead
-    // of pointing at a cluster that's about to move or be regrouped.
-    clear_binding_line() {
-      if (this.highlight_binding_line && this.map) {
-        this.map.removeLayer(this.highlight_binding_line)
-        this.highlight_binding_line = null
-      }
-    },
-
-    // Remove the ring/dot/binding line, but keep remembering which event was
+    // Remove the ring/dot, but keep remembering which event was
     // highlighted so zoom/pan can re-resolve and redraw it.
     clear_highlight_visuals() {
       if (this.highlight_overlay && this.map) {
         this.map.removeLayer(this.highlight_overlay)
         this.highlight_overlay = null
       }
-      this.clear_binding_line()
     },
 
     // Fully clear highlight state (called when selection changes/closes)
