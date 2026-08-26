@@ -76,12 +76,12 @@
 }
 
 .timeline_single_text .event_name {
-  font-weight: 500;
+  font-weight: 400;
   color: #475569;
 }
 
 .timeline_single_text .event_name_link {
-  font-weight: 500;
+  font-weight: 400;
   color: #4f46e5;
   cursor: pointer;
   transition: all 0.2s;
