@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 151 events",
+  "description": "Dataset imported with 139 events",
   "events": [
     {
       "date": "01.01.9500",
@@ -779,22 +779,6 @@
     },
     {
       "date": "01.01.2400",
-      "description": "Akkadian language appears in cuneiform texts alongside Sumerian, marking Semitic influence",
-      "description_ru": "Аккадский язык появляется в клинописных текстах наряду с шумерским, отмечая семитское влияние",
-      "era": "BC",
-      "latitude": 33.312,
-      "longitude": 44.644,
-      "name": "Akkadian Language First Recorded",
-      "name_ru": "Первая запись аккадского языка",
-      "tags": [
-        "Akkadian",
-        "Language",
-        "Writing"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.2400",
       "description": "Egyptians develop hieratic script, a cursive form of hieroglyphs for everyday writing",
       "description_ru": "Египтяне разрабатывают иератическое письмо, скорописную форму иероглифов для повседневного письма",
       "era": "BC",
@@ -827,107 +811,6 @@
       "type": "cultural"
     },
     {
-      "date": "01.01.2370",
-      "description": "Birth of Sargon, future founder of the Akkadian Empire and first ruler of a multi-ethnic empire",
-      "description_ru": "Рождение Саргона, будущего основателя Аккадской империи и первого правителя многоэтнической империи",
-      "era": "BC",
-      "latitude": 33.312,
-      "longitude": 44.644,
-      "name": "Sargon of Akkad Born",
-      "name_ru": "Рождение Саргона Аккадского",
-      "tags": [
-        "Akkadian",
-        "Birth",
-        "Sargon 👑"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.2340",
-      "description": "Sargon of Akkad overthrows his master Ur-Zababa, king of Kish, beginning his rise to power",
-      "description_ru": "Саргон Аккадский свергает своего господина Ур-Забабу, царя Киша, начиная свое восхождение к власти",
-      "era": "BC",
-      "latitude": 32.776,
-      "longitude": 44.949,
-      "name": "Sargon Overthrows Ur-Zababa",
-      "name_ru": "Саргон свергает Ур-Забабу",
-      "tags": [
-        "Akkadian",
-        "Overthrow",
-        "Sargon 👑"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.06.2334",
-      "description": "Sargon completes his southern conquests, symbolically washing his weapons in the Persian Gulf",
-      "description_ru": "Саргон завершает поход на юг, омыв оружие в Персидском заливе",
-      "era": "BC",
-      "latitude": 29.377,
-      "longitude": 47.975,
-      "name": "Sargon Reaches Persian Gulf",
-      "name_ru": "Саргон достигает Персидского залива",
-      "tags": [
-        "Akkadian",
-        "Conquest",
-        "Expedition",
-        "Sargon 👑"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "15.01.2334",
-      "description": "Sargon establishes the Akkadian Empire, the world's first multi-ethnic empire",
-      "description_ru": "Саргон основывает Аккадскую империю, первую в мире многоэтническую империю",
-      "era": "BC",
-      "latitude": 33.312,
-      "longitude": 44.644,
-      "name": "Akkadian Empire Founded",
-      "name_ru": "Основание Аккадской империи",
-      "source": "https://www.worldhistory.org/Sargon_of_Akkad/",
-      "tags": [
-        "Akkadian",
-        "Empire",
-        "Foundation",
-        "Sargon 👑"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.2320",
-      "description": "Akkadian language becomes the diplomatic and trade language across Mesopotamia",
-      "description_ru": "Аккадский язык становится дипломатическим и торговым языком по всей Месопотамии",
-      "era": "BC",
-      "latitude": 33.312,
-      "longitude": 44.644,
-      "name": "Akkadian Becomes Lingua Franca",
-      "name_ru": "Аккадский становится лингва франка",
-      "tags": [
-        "Akkadian",
-        "Diplomacy",
-        "Language",
-        "Trade"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.2300",
-      "description": "Sargon extends Akkadian control to Anatolia and Syria, reaching the Mediterranean",
-      "description_ru": "Саргон расширяет аккадский контроль на Анатолию и Сирию, достигая Средиземного моря",
-      "era": "BC",
-      "latitude": 36.202,
-      "longitude": 37.161,
-      "name": "Sargon's Northern Campaigns",
-      "name_ru": "Северные походы Саргона",
-      "tags": [
-        "Akkadian",
-        "Expansion",
-        "Mediterranean",
-        "Sargon 👑"
-      ],
-      "type": "military"
-    },
-    {
       "date": "01.01.2300",
       "description": "The oldest known example of lost-wax sculpture (casting using the lost-wax method). The technique is striking in its detail. The girl is depicted in a natural, relaxed pose: one hand on her hip, her legs slightly bent, creating the effect of lively movement. She wears 24-25 bracelets on her left arm, four on her right, and a necklace around her neck. This attests to the sophisticated aesthetic preferences of the Indus Valley people.",
       "description_ru": "Древнейший известный образец скульптуры, выполненный методом «утраченного воска» (литьё по выплавляемым моделям). Несмотря на возраст более 4500 лет, техника исполнения поражает детализацией. Девушка изображена в естественной, расслабленной позе: одна рука на бедре, ноги слегка согнуты, что создает эффект живого движения. На её левой руке надеты 24-25 браслетов, на правой — 4, а на шее — ожерелье. Это свидетельствует о развитых эстетических предпочтениях жителей долины Инда.",
@@ -942,71 +825,6 @@
         "Bronze",
         "Harappan",
         "Sculpture"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.2279",
-      "description": "Sargon dies after ruling for 56 years, leaving the world's first empire to his sons",
-      "description_ru": "Саргон умирает после 56 лет правления, оставляя первую в мире империю своим сыновьям",
-      "era": "BC",
-      "latitude": 33.312,
-      "longitude": 44.644,
-      "name": "Death of Sargon of Akkad",
-      "name_ru": "Смерть Саргона Аккадского",
-      "tags": [
-        "Akkadian",
-        "Death",
-        "Empire",
-        "Sargon 👑"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.2278",
-      "description": "Rimush, son of Sargon, becomes Akkadian king and faces rebellions across the empire",
-      "description_ru": "Римуш, сын Саргона, становится аккадским царем и сталкивается с восстаниями по всей империи",
-      "era": "BC",
-      "latitude": 33.312,
-      "longitude": 44.644,
-      "name": "Reign of Rimush",
-      "name_ru": "Правление Римуша в Аккаде",
-      "tags": [
-        "Akkadian",
-        "King",
-        "Empire",
-        "Rebellion"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.2254",
-      "description": "Naram-Sin, grandson of Sargon, becomes Akkadian king and declares himself divine",
-      "description_ru": "Нарам-Син, внук Саргона, становится аккадским царем и объявляет себя божеством",
-      "era": "BC",
-      "latitude": 33.312,
-      "longitude": 44.644,
-      "name": "Naram-Sin Becomes King",
-      "name_ru": "Божественное правление Нарам-Сина в Аккаде",
-      "tags": [
-        "Akkadian",
-        "King"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.2230",
-      "description": "Naram-Sin commissions victory stele showing his triumph over the Lullubi people",
-      "description_ru": "Нарам-Син заказывает победную стелу, показывающую его триумф над народом луллуби",
-      "era": "BC",
-      "latitude": 33.312,
-      "longitude": 44.644,
-      "name": "Naram-Sin's Victory Stele",
-      "name_ru": "Победная стела Нарам-Сина",
-      "source": "https://en.wikipedia.org/wiki/Naram-Sin_of_Akkad",
-      "tags": [
-        "Akkadian",
-        "Art"
       ],
       "type": "cultural"
     },
@@ -1058,24 +876,6 @@
         "Old Kingdom",
         "Climate Crisis",
         "Collapse",
-        "Fall"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.2154",
-      "description": "The Akkadian Empire collapses due to drought, invasion, and internal rebellions",
-      "description_ru": "Аккадская империя рушится из-за засухи, вторжений и внутренних восстаний",
-      "era": "BC",
-      "latitude": 33.312,
-      "longitude": 44.644,
-      "name": "Fall of Akkadian Empire",
-      "name_ru": "Падение Аккадской империи",
-      "tags": [
-        "Akkadian",
-        "Climate Crisis",
-        "Collapse",
-        "Empire",
         "Fall"
       ],
       "type": "political"
