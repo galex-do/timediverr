@@ -702,7 +702,7 @@ export default {
   margin: 0;
   font-family: 'Onest', -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 1.1rem;
-  font-weight: 700;
+  font-weight: 500;
   letter-spacing: -0.01em;
 }
 
