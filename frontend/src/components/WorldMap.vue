@@ -45,29 +45,55 @@
       <div class="event_info_modal modal_fullscreen_mobile" @click.stop>
         <!-- Modal Header -->
         <div class="event_info_modal_header">
-          <h2 class="event_info_modal_title">
-            {{ location_total_event_count }} {{ t('eventsAtLocation') }}
-          </h2>
-          <div class="event_header_actions">
-            <button 
-              class="toggle_details_btn" 
-              @click="toggle_location_details"
-              :title="location_show_details ? t('hideDetails') : t('showDetails')"
+          <div class="event_info_header_top">
+            <h2 class="event_info_modal_title">
+              {{ location_total_event_count }} {{ t('eventsAtLocation') }}
+            </h2>
+            <div class="event_header_actions">
+              <button 
+                class="toggle_details_btn" 
+                @click="toggle_location_details"
+                :title="location_show_details ? t('hideDetails') : t('showDetails')"
+              >
+                {{ location_show_details ? '📝' : '📋' }}
+              </button>
+              <button 
+                v-if="canCreateEvents" 
+                class="event_add_btn" 
+                @click="create_event_at_location"
+                title="Create new event at this location"
+              >
+                +
+              </button>
+              <button class="event_close_btn" @click="close_event_info_modal">×</button>
+            </div>
+          </div>
+          <div v-if="selectedTags && selectedTags.length > 0" class="event_info_modal_tags">
+            <div
+              v-for="tag in selectedTags"
+              :key="tag.id"
+              class="event_tag_badge_removable"
+              :style="getTagStyle(tag, { outerShadow: '0 1px 3px rgba(0, 0, 0, 0.15)' })"
             >
-              {{ location_show_details ? '📝' : '📋' }}
-            </button>
-            <button 
-              v-if="canCreateEvents" 
-              class="event_add_btn" 
-              @click="create_event_at_location"
-              title="Create new event at this location"
-            >
-              +
-            </button>
-            <button class="event_close_btn" @click="close_event_info_modal">×</button>
+              <span class="tag_name">{{ tag.name }}</span>
+              <button
+                class="toggle_negative_btn"
+                @click="handleToggleSelectedTagNegative(tag.id)"
+                :title="tag.negative ? t('tagFilterModeExclude') : t('tagFilterModeInclude')"
+              >
+                {{ tag.negative ? '−' : '+' }}
+              </button>
+              <button
+                class="remove_tag_btn"
+                @click="handleRemoveSelectedTag(tag.id)"
+                :aria-label="`${t('remove')} ${tag.name}`"
+              >
+                ×
+              </button>
+            </div>
           </div>
         </div>
-        
+
         <!-- Modal Content -->
         <div class="event_info_modal_content" ref="locationModalContent" @scroll="handle_location_scroll">
           <div class="timeline_container">
@@ -326,9 +352,13 @@ export default {
     regions: {
       type: Array,
       default: () => []
+    },
+    selectedTags: {
+      type: Array,
+      default: () => []
     }
   },
-  emits: ['event-created', 'event-updated', 'event-deleted', 'map-bounds-changed', 'tag-clicked', 'show-detail', 'back-to-location'],
+  emits: ['event-created', 'event-updated', 'event-deleted', 'map-bounds-changed', 'tag-clicked', 'show-detail', 'back-to-location', 'remove-tag', 'toggle-tag-negative'],
   data() {
     return {
       map: null,
@@ -2015,6 +2045,13 @@ export default {
       // Close the modal after clicking a tag for immediate visual feedback
       this.close_event_info_modal()
     },
+    // Header tag management panel (mirrors TimelineModal's selected-tags row)
+    handleRemoveSelectedTag(tagId) {
+      this.$emit('remove-tag', tagId)
+    },
+    handleToggleSelectedTagNegative(tagId) {
+      this.$emit('toggle-tag-negative', tagId)
+    },
     async handle_show_detail(event) {
       this.location_events_backup = [...this.selected_events]
       if (this.$refs.locationModalContent) {
@@ -2731,11 +2768,24 @@ export default {
 
 .event_info_modal_header {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+  flex-direction: column;
   padding: 0.75rem 1rem;
   border-bottom: 1px solid #e2e8f0;
   gap: 0.5rem;
+}
+
+.event_info_header_top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.event_info_modal_tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  align-items: center;
 }
 
 .event_info_modal_title {
