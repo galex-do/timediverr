@@ -119,6 +119,7 @@
         "Holy Site",
         "Jesus Christ 👤",
         "Philosophy",
+        "Religious",
         "Apostle"
       ],
       "type": "cultural"
@@ -252,6 +253,7 @@
         "Legend",
         "Christian",
         "Persecution",
+        "Religious",
         "Saint",
         "Apostle"
       ],
@@ -319,6 +321,7 @@
         "Legend",
         "Christian",
         "Expansion",
+        "Religious",
         "Saint",
         "Apostle"
       ],
@@ -366,6 +369,7 @@
         "Christian",
         "Exile",
         "Holy Site",
+        "Religious",
         "Saint",
         "Text"
       ],
@@ -428,6 +432,7 @@
         "Berber",
         "Christian",
         "Philosophy",
+        "Religious",
         "Saint",
         "Text"
       ],
@@ -519,6 +524,7 @@
         "Christian",
         "Metaphysics",
         "Philosophy",
+        "Religious",
         "Saint",
         "Sicily",
         "Text"

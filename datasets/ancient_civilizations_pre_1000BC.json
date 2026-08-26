@@ -194,9 +194,9 @@
       "name": "Early Agriculture in Korea",
       "name_ru": "Раннее земледелие в Корее",
       "tags": [
+        "Korean",
         "Agriculture",
         "Food",
-        "Korea",
         "Neolithic",
         "Rice"
       ],
@@ -576,7 +576,8 @@
         "Egypt",
         "Old Kingdom",
         "Building 🏠",
-        "Architecture"
+        "Architecture",
+        "Engineering ⚙️"
       ],
       "type": "cultural"
     },
@@ -706,11 +707,13 @@
       "longitude": 31.206,
       "name": "Red Pyramid Construction",
       "name_ru": "Строительство Красной пирамиды",
+      "source": "https://en.wikipedia.org/wiki/Red_Pyramid",
       "tags": [
         "Egypt",
         "Old Kingdom",
         "Building 🏠",
-        "Architecture"
+        "Architecture",
+        "Engineering ⚙️"
       ],
       "type": "cultural"
     },
@@ -748,7 +751,9 @@
         "Egypt",
         "Old Kingdom",
         "Building 🏠",
-        "Architecture"
+        "Architecture",
+        "Culture",
+        "Sculpture"
       ],
       "type": "cultural"
     },
@@ -1839,8 +1844,8 @@
       "name_ru": "Сельское хозяйство Мезоамерики",
       "tags": [
         "Agriculture",
-        "Domestication",
         "Food",
+        "Husbandry",
         "Mesoamerican"
       ],
       "type": "scientific"
