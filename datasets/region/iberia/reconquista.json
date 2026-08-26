@@ -261,7 +261,8 @@
         "Islamic",
         "Leon",
         "Navarre",
-        "Reconquista"
+        "Reconquista",
+        "Religious"
       ],
       "type": "military"
     },
@@ -462,7 +463,7 @@
       "era": "AD",
       "latitude": 37.87943066,
       "longitude": -4.78314579,
-      "name": "Maimonides born in Córdoba: the exile who redefined Jewish thought",
+      "name": "Maimonides born in Córdoba",
       "name_ru": "Маймонид рождается в Кордове",
       "source": "https://en.wikipedia.org/wiki/Maimonides",
       "tags": [
@@ -575,7 +576,7 @@
       "era": "AD",
       "latitude": 39.86,
       "longitude": -4.03,
-      "name": "Toledo School of Translators: Greek philosophy reaches Europe through Arabic",
+      "name": "Toledo School of Translators founded",
       "name_ru": "Толедская школа переводчиков",
       "source": "https://en.wikipedia.org/wiki/Toledo_School_of_Translators",
       "tags": [
@@ -926,6 +927,7 @@
         "Christian",
         "Crisis",
         "Death",
+        "Disease",
         "Iberia",
         "Islamic",
         "Nasrid",
@@ -1128,7 +1130,7 @@
       "era": "AD",
       "latitude": 37.17,
       "longitude": -3.6,
-      "name": "Fall of Granada: the Reconquista ends after 770 years",
+      "name": "Fall of Granada and the end of Reconquista",
       "name_ru": "Падение Гранады и конец Реконкисты",
       "source": "https://en.wikipedia.org/wiki/Fall_of_Granada",
       "tags": [

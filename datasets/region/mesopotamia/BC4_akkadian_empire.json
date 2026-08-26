@@ -1,11 +1,10 @@
 {
   "description": "Dataset imported with 20 events",
-  "filename": "BC4_akkadian_empire.json",
   "events": [
     {
       "date": "01.01.2400",
-      "description": "Long before any king united them, Akkadian voices were already murmuring across Sumer — a Semitic tongue living quietly in the shadow of Sumerian, borrowing its wedge-shaped script to write down its own words for the first time. It was the sound of the north sitting down at the same table as the south, two languages sharing one system of writing centuries before either people imagined an empire. That quiet coexistence would, in time, decide the fate of an entire civilization.",
-      "description_ru": "Задолго до того, как какой-либо царь их объединил, аккадская речь уже тихо звучала по всему Шумеру — семитский язык, живущий в тени шумерского, впервые заимствующий его клинописные знаки, чтобы записать собственные слова. Это было звучание севера, севшего за один стол с югом, — два языка, разделившие одну систему письма за столетия до того, как кто-либо из их носителей представил себе империю. Это тихое сосуществование со временем решит судьбу целой цивилизации.",
+      "description": "Long before any king united them, Akkadian voices were already murmuring across Sumer — a Semitic tongue living quietly in the shadow of Sumerian, borrowing its wedge-shaped script to write down its own words for the first time. It was the sound of the north sitting down at the same table as the south, two languages sharing one system of writing centuries before either people imagined an empire.",
+      "description_ru": "Задолго до того, как какой-либо царь их объединил, аккадская речь уже тихо звучала по всему Шумеру — семитский язык, живущий в тени шумерского, впервые заимствующий его клинописные знаки, чтобы записать собственные слова. Это было звучание севера, севшего за один стол с югом, — два языка, разделившие одну систему письма за столетия до того, как кто-либо из их носителей представил себе империю.",
       "era": "BC",
       "latitude": 33.0706,
       "longitude": 44.2686,
@@ -15,41 +14,66 @@
       "tags": [
         "Akkadian",
         "Language",
+        "Mesopotamian",
         "Writing"
       ],
       "type": "cultural"
     },
     {
       "date": "01.01.2370",
-      "description": "Legend says he was born to a humble family, set adrift as an infant in a basket of reeds sealed with pitch and given to the Euphrates — a story so close to the tale of Moses that scholars still debate which one echoes the other. Found and raised by a gardener, the child who would become Sargon carried no royal blood, no palace, no promise of greatness. Only the river, it seems, knew what he would become.",
-      "description_ru": "Легенда гласит, что он родился в бедной семье и младенцем был пущен по водам Евфрата в тростниковой корзине, запечатанной смолой, — история настолько похожая на предание о Моисее, что учёные до сих пор спорят, кто у кого её позаимствовал. Найденный и воспитанный садовником, будущий Саргон не нёс в себе ни капли царской крови, ни дворца, ни обещания величия. Казалось, лишь река знала, кем он станет.",
+      "description": "Legend says he was born into a poor family in the \"city of crocuses\", set adrift as an infant in a basket of reeds sealed with pitch and given to the Euphrates — a story so close to the tale of Moses that scholars still debate which one echoes the other. Found and raised by a gardener, the child who would become Sargon carried no royal blood, no palace, no promise of greatness. ",
+      "description_ru": "Легенда гласит, что он родился в бедной семье в \"городе крокусов\" и младенцем был пущен по водам Евфрата в тростниковой корзине, запечатанной смолой, — история настолько похожая на предание о Моисее, что учёные до сих пор спорят, кто у кого её позаимствовал. Найденный и воспитанный садовником, будущий Саргон не нёс в себе ни капли царской крови, ни дворца, ни обещания величия.",
       "era": "BC",
-      "latitude": 33.0706,
-      "longitude": 44.2686,
+      "latitude": 32.68561985,
+      "longitude": 43.91647339,
       "name": "Birth of Sargon of Akkad",
       "name_ru": "Рождение Саргона Аккадского",
       "source": "https://en.wikipedia.org/wiki/Sargon_of_Akkad",
       "tags": [
         "Akkadian",
+        "Legend",
         "Birth",
-        "Legacy"
+        "Mesopotamian",
+        "Sargon 👑"
       ],
       "type": "historic"
     },
     {
       "date": "01.01.2340",
-      "description": "As a grown man Sargon served in the court of Kish, pouring wine as cupbearer to King Ur-Zababa — a position of quiet trust that placed him closer to power than almost anyone else in the palace. That closeness became his opportunity: when the king's authority faltered, the cupbearer stepped out of the shadows and took the throne for himself. It was an unremarkable beginning for a man about to remake the map of the known world.",
-      "description_ru": "Повзрослев, Саргон служил при дворе Киша, разливая вино в качестве виночерпия царя Ур-Забабы, — должность тихого доверия, ставившая его ближе к власти, чем почти любого другого во дворце. Эта близость и стала его шансом: когда власть царя пошатнулась, виночерпий вышел из тени и сам занял трон. Так неприметно началась история человека, которому суждено было перекроить карту известного мира.",
+      "description": "As an adult, Sargon served at the court of Kish as cupbearer to King Ur-Zababa. One day, Sargon had a dream in which the goddess of fertility and war, Inanna (Ishtar), drowned King Ur-Zababa in a river of blood. Upon learning of this, the king decided to rid himself of the dangerous servant and sent him as an ambassador to Lugalzagesi, secretly requesting that the envoy be executed.\n\nLugalzagesi, however, chose the other side and led an army to Kish. Ur-Zababa was forced to flee, and Sargon took his place under Lugalzagesi's protection.",
+      "description_ru": "Повзрослев, Саргон служил при дворе Киша в качестве виночерпия царя Ур-Забабы. Однажды Саргону приснился сон, в котором богиня плодородия и войны Инанна (Иштар) топит царя Ур-Забабу в реке из крови. Царь, узнав об этом, решил избавиться от опасного слуги и отправил его к Лугальзагеси послом, с тайной просьбой казнить посланника. \n\nЛугальзагеси, однако, выбрал другую сторону и повел армию в Киш. Ур-Забаба был вынужден бежать, а Саргон занял его место под протекцией Лугальзагеси.",
       "era": "BC",
-      "latitude": 32.545,
-      "longitude": 44.6069,
-      "name": "Sargon Overthrows Ur-Zababa",
-      "name_ru": "Саргон свергает Ур-Забабу",
+      "latitude": 32.54013853,
+      "longitude": 44.60442781,
+      "name": "Sargon Overthrows Ur-Zababa, ruler of Kish",
+      "name_ru": "Саргон свергает Ур-Забабу, царя Киша",
       "source": "https://en.wikipedia.org/wiki/Ur-Zababa",
       "tags": [
         "Akkadian",
+        "Sumerian",
+        "Legend",
         "Overthrow",
-        "Rebellion"
+        "Sargon 👑"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "15.01.2334",
+      "description": "From his new capital, Sargon proclaimed the creation of a new empire, subordinating Mesopotamia. The Sumerian city-states, independent of each other and warring for centuries over canals and borders, were forced to submit to a single king in Akkad. Akkad became the first centralized and multinational state with a single monarchical authority, setting an example for future Assyria and Babylon.",
+      "description_ru": "Из своей новой столицы Саргон провозгласил создание новой империи, которой подчинена Месопотамия. Шумерские города-государства, независимые друг от друга и веками воевавшие за каналы и границы, должны были подчиниться одному царю в Аккаде. Аккад стал первым централизованным и многонациональным государством с единой монархической властью, подав пример будущим Ассирии и Вавилону.",
+      "era": "BC",
+      "latitude": 33.0706,
+      "longitude": 44.2686,
+      "name": "Akkadian Empire Founded",
+      "name_ru": "Основание Аккадской империи",
+      "source": "https://en.wikipedia.org/wiki/Akkadian_Empire",
+      "tags": [
+        "Akkadian",
+        "King",
+        "Empire",
+        "Foundation",
+        "Mesopotamian",
+        "Sargon 👑"
       ],
       "type": "political"
     },
@@ -65,32 +89,37 @@
       "source": "https://en.wikipedia.org/wiki/Akkad_(city)",
       "tags": [
         "Akkadian",
+        "City",
+        "Capital",
         "Foundation",
-        "City"
+        "Mesopotamian",
+        "Sargon 👑"
       ],
       "type": "historic"
     },
     {
-      "date": "15.01.2334",
-      "description": "From his new capital, Sargon declared something the world had never quite seen: a single crown ruling over many peoples, many cities, and many tongues at once. Sumerian city-states that had spent centuries warring over canals and borders now answered to one king in Akkad, bound together not by shared blood but by shared submission. Historians still call it the first empire — the moment kingship stopped being about a city and started being about the world.",
-      "description_ru": "Из своей новой столицы Саргон провозгласил то, чего мир прежде толком не видел: единую корону, властвующую разом над множеством народов, городов и языков. Шумерские города-государства, веками воевавшие за каналы и границы, теперь подчинялись одному царю в Аккаде, объединённые не общей кровью, а общим подчинением. Историки до сих пор называют это первой в истории империей — моментом, когда царская власть перестала быть властью над городом и стала властью над миром.",
+      "date": "01.01.2330",
+      "description": "Before Sargon, Sumerian armies relied on heavy infantry: warriors, closely packed with shields, advanced slowly in a \"phalanx\" with heavy spears. The bow was considered a hunter's tool. Sargon armed his troops en masse with composite bows made from layers of wood, horn, and animal sinew. These bows were many times more powerful than standard wooden ones: arrows flew farther, faster, and possessed tremendous penetrating power. The Akkadian army was lightly armed and mobile, giving it a significant advantage in Mesopotamia.",
+      "description_ru": "До Саргона шумерские армии делали ставку на тяжелую пехоту: воины, плотно прижавшись друг к другу щитами, медленно двигались «фалангой» с тяжелыми копьями. Лук считался инструментом охотников. Саргон массово вооружил свои войска композитными луками, сделанными из слоев дерева, рога и сухожилий животных. Такой лук был в разы мощнее обычного деревянного: стрела летела дальше, летела быстрее и обладала огромной пробивной силой. Аккадское войско было легковооруженным и мобильным, что давало серьезное преимущество в Месопотамии.",
       "era": "BC",
       "latitude": 33.0706,
       "longitude": 44.2686,
-      "name": "Akkadian Empire Founded",
-      "name_ru": "Основание Аккадской империи",
-      "source": "https://en.wikipedia.org/wiki/Akkadian_Empire",
+      "name": "Akkadian composite bow",
+      "name_ru": "Аккадский композитный лук",
+      "source": "https://warhistory.org/ru/article/akkadian-military",
       "tags": [
         "Akkadian",
-        "Empire",
-        "Foundation"
+        "Army",
+        "Innovation",
+        "Military",
+        "Weapon"
       ],
-      "type": "political"
+      "type": "scientific"
     },
     {
-      "date": "01.06.2334",
-      "description": "At the edge of his southern campaign, Sargon walked to the shore of the Persian Gulf and washed his weapons in its waters — a gesture as old as conquest itself, announcing that there was no more land left to take in that direction. It was theater as much as triumph, a king performing the completeness of his victory for gods and subjects alike. The sea itself became a witness to Akkad's reach.",
-      "description_ru": "На исходе своего южного похода Саргон вышел к берегу Персидского залива и омыл в его водах своё оружие — жест, древний, как сама война, возвестивший, что в этом направлении больше не осталось земель для завоевания. Это было столько же представление, сколько триумф, — царь, разыгрывающий полноту своей победы перед богами и подданными. Само море стало свидетелем размаха Аккада.",
+      "date": "01.06.2310",
+      "description": "At the edge of his southern campaign, Sargon walked to the shore of the Persian Gulf and washed his weapons in its waters — a gesture as old as conquest itself, announcing that there was no more land left to take in that direction. It was theater as much as triumph, a king performing the completeness of his victory for gods and subjects alike. ",
+      "description_ru": "На исходе своего южного похода Саргон вышел к берегу Персидского залива и омыл в его водах своё оружие — жест, древний, как сама война, возвестивший, что в этом направлении больше не осталось земель для завоевания. Это было как представление, так и триумф, — царь, разыгрывающий полноту своей победы перед богами и подданными.",
       "era": "BC",
       "latitude": 29.377,
       "longitude": 47.975,
@@ -99,63 +128,120 @@
       "source": "https://en.wikipedia.org/wiki/Sargon_of_Akkad",
       "tags": [
         "Akkadian",
+        "War",
         "Conquest",
-        "Expansion"
+        "Expansion",
+        "Sargon 👑"
       ],
       "type": "military"
     },
     {
-      "date": "01.01.2320",
+      "date": "01.06.2310",
+      "description": "Sargon placed his own daughter, Enheduanna, as the high priestess of the moon god in Ur, integrating the new Akkadian power directly into Sumer's ancient religion. At birth, the princess bore an Akkadian name, but upon assuming her position, she adopted the Sumerian name En-hedu-Ana (\"High Priestess, Ornament of Heaven\").\n\nThis move proved so brilliant that Enheduanna held religious power in Ur for over 40 years. She became a great poetess and the first author in human history whose name has come down to us on literary works signed by her.",
+      "description_ru": "Саргон поставил собственную дочь, Энхедуанну, верховной жрицей бога луны в Уре, вплетя новую власть Аккада прямо в древнейшую религию Шумера. При рождении царевна носила аккадское имя, но при вступлении в должность приняла шумерское — Эн-хеду-Ана («Верховная жрица — украшение небес»)\n\nЭтот шаг оказался настолько гениальным, что Энхедуанна держала религиозную власть в Уре более 40 лет. Она стала величайшей поэтессой и самым первым автором в истории человечества, чьё имя дошло до нас на подписанных ею литературных произведениях",
+      "era": "BC",
+      "latitude": 30.9625,
+      "longitude": 46.1053,
+      "name": "Sargon's Daughter Becomes High Priestess of Ur",
+      "name_ru": "Саргон назначает дочь верховной жрицей Ура",
+      "source": "https://en.wikipedia.org/wiki/Enheduanna",
+      "tags": [
+        "Akkadian",
+        "Sumerian",
+        "Literature",
+        "Poetry",
+        "Queen",
+        "Religious",
+        "Sargon 👑",
+        "Syncretism"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.2305",
+      "description": "Elam was a powerful and wealthy mountain region, from which plundering raids were regularly launched into the Sumerian plains. Elam also controlled trade routes to the east, leading to deposits of tin, precious lapis lazuli, and gold.\n\nSargon employed a total blockade tactic: his mobile army cut off mountain roads and irrigation canals and surrounded Elamite cities, causing famine. Local kings formed coalitions, but Sargon was unable to defeat them. However, he did not completely subjugate the Elamite cities, but instead made them his vassals and tributaries.",
+      "description_ru": "Элам был сильным и богатым горным регионом, откуда на шумерские равнины регулярно совершались грабительские набеги. Кроме того, Элам контролировал торговые пути на восток — к залежам олова, драгоценного лазурита и золота. \n\nСаргон применил тактику тотальной блокады: его мобильная армия перерезала горные дороги, ирригационные каналы и окружала эламские города, устраивая голод. Местные цари сбивались в коалиции, но Саргона одолеть не удалось. Тем не менее, он не стал полностью подчинять города Элама, а сделал их своими вассалами и данниками.",
+      "era": "BC",
+      "latitude": 32.1897,
+      "longitude": 48.2583,
+      "name": "Sargon of Akkad's campaign against Elam",
+      "name_ru": "Поход Саргона Аккадского на Элам",
+      "source": "https://en.wikipedia.org/wiki/Sargon_of_Akkad#Conquests_of_Elam_and_Marhashi",
+      "tags": [
+        "Akkadian",
+        "Elamites",
+        "War",
+        "Conquest",
+        "Sargon 👑",
+        "Siege",
+        "Tribute"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.2300",
+      "description": "Mesopotamia was rich in grain but lacked metals and good timber. Sargon decided to bring new sources of resources, located in Syria under the control of the wealthy cities of Mari and Ebla, under the empire's control.\n\nIn Mesopotamian culture, the Cedar Forest was considered a sacred abode of the gods, guarded by the fearsome monster Humbaba. In the Epic of Gilgamesh, the legendary king of Uruk kills Humbaba precisely so that he can cut down the sacred cedars and bring them to Sumer. The Lebanon cedar was a durable, resinous wood that was highly prized. The trunks of giant Lebanon cedars were tied into rafts and floated down the Euphrates to Akkad, where they were used to build palaces and ships.",
+      "description_ru": "Месопотамия была богата зерном, но обделена металлами и хорошей древесиной. Саргон решил взять под контроль империи новые источники ресурсов, находившиеся в Сирии под контролем богатых городов Мари и Эбла. \n\nВ месопотамской культуре Кедровый лес считался священной обителью богов, которую охраняло грозное чудовище Хумбаба. В «Эпосе о Гильгамеше» легендарный царь Урука убивает Хумбабу именно ради того, чтобы срубить священные кедры и привезти их в Шумер. Ливанский кедр был прочной, смолистой древесиной, которая высоко ценилась. Стволы гигантских ливанских кедров связывали в плоты и сплавляли вниз по Евфрату в Аккад, где использовались для строительства дворцов и кораблей. ",
+      "era": "BC",
+      "latitude": 34.65354458,
+      "longitude": 36.46087646,
+      "name": "Sargon's Syrian campaign",
+      "name_ru": "Сирийский поход Саргона",
+      "source": "https://en.wikipedia.org/wiki/Sargon_of_Akkad",
+      "tags": [
+        "Akkadian",
+        "Conquest",
+        "Expansion",
+        "Mesopotamian",
+        "Sargon 👑",
+        "Syria",
+        "Wood"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.2300",
       "description": "As Akkad's authority stretched from city to city, its language followed the same roads as its soldiers and merchants, slowly settling into the mouths of scribes who had never set foot in Akkad itself. Kings far from the capital began writing their letters, treaties, and prayers in Akkadian, not because they were forced to, but because it was simply the language that carried furthest. Long after the empire itself crumbled, Akkadian would keep speaking for Mesopotamia.",
       "description_ru": "По мере того как власть Аккада распространялась от города к городу, вслед за его солдатами и купцами тем же путём шёл и его язык, постепенно приживаясь в устах писцов, никогда не бывавших в самом Аккаде. Цари, далёкие от столицы, начали писать свои письма, договоры и молитвы на аккадском — не по принуждению, а просто потому, что этот язык звучал дальше всех прочих. Спустя долгое время после падения самой империи аккадский продолжал говорить за всю Месопотамию.",
       "era": "BC",
       "latitude": 33.0706,
       "longitude": 44.2686,
-      "name": "Akkadian Becomes Lingua Franca",
-      "name_ru": "Аккадский становится языком империи",
+      "name": "Akkadian Becomes Mesopotamian Lingua Franca",
+      "name_ru": "Аккадский становится lingua franca Месопотамии",
       "source": "https://en.wikipedia.org/wiki/Akkadian_language",
       "tags": [
         "Akkadian",
-        "Language",
         "Diplomacy",
-        "Trade"
+        "Expansion",
+        "Language",
+        "Mesopotamian",
+        "Trade",
+        "Unification"
       ],
       "type": "cultural"
     },
     {
-      "date": "01.01.2300",
-      "description": "Sargon turned his armies north and west, marching through Anatolia and Syria until, by his own scribes' account, he had touched the shores of the Mediterranean itself. Trade routes for cedar, silver, and stone that Sumerian cities had only dreamed of now ran, at least in claim, under Akkadian protection. Whether every mile of that boast was true mattered less than the fact that people believed it — and that belief was its own kind of empire.",
-      "description_ru": "Саргон повёл свои войска на север и запад, пройдя через Анатолию и Сирию, пока, по свидетельству его собственных писцов, не достиг берегов самого Средиземного моря. Торговые пути кедра, серебра и камня, о которых шумерские города могли лишь мечтать, теперь — по крайней мере, на словах — оказались под аккадской защитой. Была ли верна каждая миля этого хвастовства, значило меньше, чем то, что в него верили, — а такая вера сама по себе была своего рода империей.",
+      "date": "01.01.2295",
+      "description": "Silver served as the primary international currency in the Middle East, but Mesopotamia itself had no mines of its own. Sargon forcibly carved a road through the mountain passes (the Cilician Gates) and forced local leaders to pay tribute in metal.\n\nTaurus silver formed the foundation of the empire's economy and the development of domestic trade.",
+      "description_ru": "Серебро на Ближнем Востоке оно играло роль главной международной валюты, а в самой Месопотамии не было ни одного собственного рудника. Саргон силой пробил дорогу через горные перевалы (Киликийские ворота) и заставил местных вождей платить дань металлом.\n\nСеребро Тавра создает основу для экономики империи и развития внутренней торговли.",
       "era": "BC",
-      "latitude": 36.202,
-      "longitude": 37.161,
-      "name": "Sargon's Northern Campaigns",
-      "name_ru": "Северные походы Саргона",
-      "source": "https://en.wikipedia.org/wiki/Sargon_of_Akkad",
+      "latitude": 37.06449222,
+      "longitude": 32.97821045,
+      "name": "Sargon captures the Taurus mines",
+      "name_ru": "Саргон захватывает Таврские рудники",
+      "source": "https://www.academia.edu/7436535/Sargon_Kings_into_the_Taurus_Mountains",
       "tags": [
         "Akkadian",
+        "War",
+        "Conquest",
+        "Economic",
         "Expansion",
-        "Mediterranean"
+        "Mining",
+        "Sargon 👑",
+        "Silver",
+        "Trade"
       ],
       "type": "military"
-    },
-    {
-      "date": "01.01.2285",
-      "description": "Sargon placed his own daughter, Enheduanna, as high priestess of the moon god at Ur, weaving Akkad's new power directly into Sumer's oldest religion. She repaid the honor with hymns and temple poetry so personal and finely wrought that historians now call her the first author in human history known to us by name. Through her words, a conquered people's gods were made to speak, unmistakably, in an Akkadian princess's voice.",
-      "description_ru": "Саргон поставил собственную дочь, Энхедуанну, верховной жрицей бога луны в Уре, вплетя новую власть Аккада прямо в древнейшую религию Шумера. Она отплатила за эту честь гимнами и храмовой поэзией настолько личными и искусно сложенными, что историки называют её первым автором в истории человечества, известным нам по имени. Через её слова боги побеждённого народа заговорили — безошибочно узнаваемым голосом аккадской царевны.",
-      "era": "BC",
-      "latitude": 30.9625,
-      "longitude": 46.1053,
-      "name": "Enheduanna Becomes High Priestess of Ur",
-      "name_ru": "Энхедуанна становится верховной жрицей Ура",
-      "source": "https://en.wikipedia.org/wiki/Enheduanna",
-      "tags": [
-        "Akkadian",
-        "Religious",
-        "Literature",
-        "Poetry"
-      ],
-      "type": "religious"
     },
     {
       "date": "01.01.2279",
@@ -169,75 +255,87 @@
       "source": "https://en.wikipedia.org/wiki/Sargon_of_Akkad",
       "tags": [
         "Akkadian",
+        "King",
+        "Legend",
         "Death",
-        "Legacy"
+        "Sargon 👑"
       ],
       "type": "historic"
     },
     {
       "date": "01.01.2278",
-      "description": "Sargon's son Rimush inherited not a settled kingdom but a test: almost the instant his father was gone, city after Sumerian city rose in revolt, testing whether the empire could survive without the man who built it. Rimush answered with unrelenting campaigns, crushing rebellion after rebellion and, by his own inscriptions, filling rivers with the blood of his enemies — brutal language for a brutal inheritance. His short, embattled reign proved the empire could outlive its founder, but only through constant force.",
-      "description_ru": "Сын Саргона Римуш унаследовал не устоявшееся царство, а испытание: едва отец его покинул этот мир, один шумерский город за другим поднимался в восстании, проверяя, способна ли империя пережить своего создателя. Римуш отвечал непрекращающимися походами, подавляя мятеж за мятежом и, по собственным надписям, наполняя реки кровью врагов — жестокий язык для жестокого наследства. Его короткое, изнурённое войной правление доказало, что империя способна пережить основателя, но лишь ценой непрерывной силы.",
+      "description": "Sargon's son Rimush inherited not a settled kingdom but a test: almost the instant his father was gone, city after Sumerian city rose in revolt, testing whether the empire could survive without the man who built it. Rimush answered with unrelenting campaigns, crushing rebellion after rebellion and, by his own inscriptions, filling rivers with the blood of his enemies — brutal language for a brutal inheritance.",
+      "description_ru": "Сын Саргона Римуш унаследовал не устоявшееся царство, а испытание: едва отец его покинул этот мир, один шумерский город за другим поднимался в восстании, проверяя, способна ли империя пережить своего создателя. Римуш отвечал непрекращающимися походами, подавляя мятеж за мятежом и, по собственным надписям, наполняя реки кровью врагов — жестокий язык для жестокого наследства.",
       "era": "BC",
       "latitude": 33.0706,
       "longitude": 44.2686,
-      "name": "Reign of Rimush",
-      "name_ru": "Правление Римуша",
+      "name": "Reign of Rimush in Akkad",
+      "name_ru": "Римуш наследует трон Аккада",
       "source": "https://en.wikipedia.org/wiki/Rimush",
       "tags": [
         "Akkadian",
-        "Rebellion",
-        "King"
+        "Sumerian",
+        "King",
+        "Crisis",
+        "Mesopotamian",
+        "Rebellion"
       ],
       "type": "political"
     },
     {
       "date": "01.01.2270",
-      "description": "Rimush's brother Manishtushu took the throne next and turned his attention from rebellion to enterprise, sending ships down the Persian Gulf to secure silver and diorite from the distant land of Magan. He rebuilt temples, commissioned statues carved in stone brought from across the sea, and ruled a decade in relative quiet — a rare calm chapter between two turbulent reigns. History remembers him faintly, but the empire he held together did not fracture on his watch.",
-      "description_ru": "Брат Римуша Маништушу, взойдя на трон, обратил внимание от подавления мятежей к предприимчивости, отправив корабли вниз по Персидскому заливу за серебром и диоритом из далёкой страны Маган. Он восстанавливал храмы, заказывал статуи из камня, привезённого из-за моря, и правил около десятилетия в относительном спокойствии — редкая тихая глава между двумя бурными царствованиями. История помнит его смутно, но империя, которую он удерживал, при нём не раскололась.",
+      "description": "Rimush's brother Manishtushu took the throne next and turned his attention from rebellion to enterprise, sending ships down the Persian Gulf to secure silver and diorite from the distant land of Magan. He rebuilt temples, commissioned statues carved in stone brought from across the sea, and ruled a decade in relative quiet — a rare calm chapter between two turbulent reigns. ",
+      "description_ru": "Брат Римуша Маништушу, взойдя на трон, обратил внимание от подавления мятежей к предприимчивости, отправив корабли вниз по Персидскому заливу за серебром и диоритом из далёкой страны Маган. Он восстанавливал храмы, заказывал статуи из камня, привезённого из-за моря, и правил около десятилетия в относительном спокойствии — редкая тихая глава между двумя бурными царствованиями.",
       "era": "BC",
       "latitude": 33.0706,
       "longitude": 44.2686,
-      "name": "Reign of Manishtushu",
-      "name_ru": "Правление Маништушу",
+      "name": "Manishtushu inherits the throne of Akkad",
+      "name_ru": "Маништушу наследует трон Аккада",
       "source": "https://en.wikipedia.org/wiki/Manishtushu",
       "tags": [
         "Akkadian",
-        "Trade",
-        "King"
+        "King",
+        "Mesopotamian",
+        "Trade"
       ],
       "type": "political"
     },
     {
       "date": "01.01.2254",
       "description": "Sargon's grandson Naram-Sin took the throne at the empire's peak and did something no Mesopotamian king before him had dared: he had his own name written with the divine star sign, declaring himself a living god while still very much alive. Scribes began calling him 'god of Akkad,' and temples were raised in his honor as though he were Enlil or Inanna themselves. It was the boldest claim of royal power the ancient Near East had yet witnessed — and, in hindsight, a warning sign of hubris to come.",
-      "description_ru": "Внук Саргона Нарам-Син взошёл на трон на пике могущества империи и сделал то, на что не решался ни один месопотамский царь до него: приказал писать своё имя с божественным знаком звезды, объявив себя живым богом ещё при жизни. Писцы начали называть его 'богом Аккада', и в его честь возводились храмы, как если бы он был самим Энлилем или Инанной. Это была самая дерзкая заявка на царскую власть, какую до тех пор видел древний Ближний Восток, — и, как покажет будущее, предвестие грядущей гордыни.",
+      "description_ru": "Внук Саргона Нарам-Син взошёл на трон на пике могущества империи и сделал то, на что не решался ни один месопотамский царь до него: приказал писать своё имя с божественным знаком звезды, объявив себя живым богом ещё при жизни. Писцы начали называть его 'богом Аккада', и в его честь возводились храмы, как если бы он был самим Энлилем или Инанной.",
       "era": "BC",
       "latitude": 33.0706,
       "longitude": 44.2686,
-      "name": "Naram-Sin Becomes King and Declares Himself a God",
-      "name_ru": "Нарам-Син становится царём и объявляет себя богом",
+      "name": "Naram-Sin — god-king of Akkad",
+      "name_ru": "Нарам-Син — царь-бог Аккада",
       "source": "https://en.wikipedia.org/wiki/Naram-Sin_of_Akkad",
       "tags": [
         "Akkadian",
         "King",
-        "Deification"
+        "Deification",
+        "Mesopotamian",
+        "Religious"
       ],
       "type": "political"
     },
     {
       "date": "01.01.2250",
-      "description": "Somewhere in the north of the empire, Akkadian metalworkers cast a bronze statue of Naram-Sin using a lost-wax technique so advanced that modern scholars still study it for clues about ancient metallurgy. Only the muscular lower half of the king survives today, unearthed centuries later in the village of Bassetki, but even that fragment radiates a confidence bordering on divinity. It stands as physical proof that Akkadian craftsmen could give a king's self-image the permanence of bronze.",
-      "description_ru": "Где-то на севере империи аккадские мастера отлили бронзовую статую Нарам-Сина по технологии литья по выплавляемым моделям настолько совершенной, что современные учёные до сих пор изучают её в поисках секретов древней металлургии. До наших дней дошла лишь мускулистая нижняя часть фигуры царя, найденная спустя тысячелетия в деревне Бассетки, но даже этот фрагмент излучает уверенность, граничащую с божественностью. Он служит вещественным доказательством того, что аккадские мастера умели придать царскому самообразу прочность бронзы.",
+      "description": "The copper statue discovered in Bassetki was created by Akkadian casters. It depicts a nude figure of a mythological being, Lahmu (a guardian and protector spirit). The inscription on its round base is dedicated to the Akkadian king Naram-Sin. The inscription recounts his great military victories and how the inhabitants of Agade asked the gods to make the king a deity and built a temple in his honor.",
+      "description_ru": "Медная статуя, обнаруженная в Бассетки, была создана аккадскими мастерами литья. Статуя представляет собой фигуру обнаженного мифологического существа — Лахму (духа-хранителя и защитника). Текст на её круглом постаменте посвящён аккадскому царю Нарам-Сину. В надписи рассказывается о его великих военных победах и о том, как жители города Агаде попросили богов сделать царя божеством и построили в его честь храм",
       "era": "BC",
-      "latitude": 36.85,
-      "longitude": 42.58,
-      "name": "Bassetki Statue Cast in Copper",
-      "name_ru": "Отливка статуи из Бассетки",
+      "latitude": 36.96972961,
+      "longitude": 42.71960735,
+      "name": "The Bassetki Statue and Akkadian Metallurgy",
+      "name_ru": "Статуя Бассетки и аккадская металлургия",
       "source": "https://en.wikipedia.org/wiki/Bassetki_Statue",
       "tags": [
         "Akkadian",
         "Art",
+        "Copper",
+        "Culture",
+        "Mesopotamian",
+        "Metallurgy",
         "Sculpture"
       ],
       "type": "cultural"
@@ -254,49 +352,59 @@
       "source": "https://en.wikipedia.org/wiki/Naram-Sin_of_Akkad",
       "tags": [
         "Akkadian",
+        "War",
         "Art",
-        "Conquest"
+        "Conquest",
+        "Culture",
+        "Mesopotamian"
       ],
       "type": "cultural"
     },
     {
       "date": "01.01.2217",
-      "description": "Naram-Sin's son Shar-Kali-Sharri inherited a title heavier than any crown he could wear: king of an empire already beginning to slip through his fingers. He still called himself king of Akkad, still fought off invasions, still kept the machinery of empire turning, but the vast reach his father had claimed was quietly shrinking with every passing year. His reign reads less like a chapter of triumph than a long, dignified holding of the line.",
-      "description_ru": "Сын Нарам-Сина Шаркалишарри унаследовал титул тяжелее любой короны, которую он мог бы носить: царь империи, уже начинавшей ускользать из его рук. Он всё ещё называл себя царём Аккада, всё ещё отражал набеги, всё ещё поддерживал в движении механизм империи, но огромные владения, заявленные его отцом, год за годом незаметно сжимались. Его правление читается не как глава триумфа, а как долгое, достойное удержание рубежа.",
+      "description": "Shar-Kali-Sharri's reign was a tragic and pivotal moment, marking the beginning of the end and the virtual collapse of the great Akkadian Empire. His name translates from Akkadian as \"King of all kings,\" yet he failed to uphold Naram-Sin's legacy. Shar-Kali-Sharri was no longer considered a living god; he spent his entire reign defending himself from the raids of the Gutians, Elamites, and Amorites, who were tearing the empire apart from various sides.",
+      "description_ru": "Правление Шаркалишарри стало трагическим и переломным моментом, ознаменовавшим начало конца и фактический распад великой Аккадской империи. Его имя переводится с аккадского как «Царь всех царей», однако удержать наследие Нарам-Сина он не сумел. Шаркалишарри уже не считался живым богом; все свое правление он оборонялся от набегов гутиев, эламитов и амореев, раздирающих империю с разных сторон",
       "era": "BC",
       "latitude": 33.0706,
       "longitude": 44.2686,
-      "name": "Reign of Shar-Kali-Sharri",
-      "name_ru": "Правление Шаркалишарри",
+      "name": "Reign of Shar-Kali-Sharri in Akkad",
+      "name_ru": "Шаркалишарри наследует трон Аккада",
       "source": "https://en.wikipedia.org/wiki/Shar-Kali-Sharri",
       "tags": [
         "Akkadian",
         "King",
-        "Collapse"
+        "Crisis",
+        "Decline",
+        "Empire",
+        "Mesopotamian"
       ],
       "type": "political"
     },
     {
       "date": "01.01.2200",
       "description": "Around this time, tree rings, lake sediments, and abandoned farmland across the Khabur plains all began telling the same story: the rains that had fed Akkad's grain fields for generations were failing, year after year, in a drought severe enough to leave its mark in the geological record itself. Fields that once fed cities turned to dust, and the irrigation canals that had built Sumer's wealth could not conjure water that no longer fell from the sky. An empire built on grain surpluses now faced a famine it had no god to blame and no army to defeat.",
-      "description_ru": "Примерно в это время годичные кольца деревьев, донные отложения озёр и заброшенные пашни на равнинах Хабура рассказывали одну и ту же историю: дожди, годами питавшие аккадские поля, год за годом иссякали — засуха оказалась настолько суровой, что оставила след в самой геологической летописи. Поля, некогда кормившие города, обратились в пыль, а ирригационные каналы, создавшие богатство Шумера, не могли призвать воду, которая больше не проливалась с неба. Империя, построенная на зерновых излишках, столкнулась с голодом, в котором некого было винить среди богов и нечем было победить армией.",
+      "description_ru": "Годичные кольца деревьев, донные отложения озёр и заброшенные пашни на равнинах Хабура рассказывали одну и ту же историю: дожди, годами питавшие аккадские поля, год за годом иссякали. Поля, некогда кормившие города, обратились в пыль, а ирригационные каналы, создавшие богатство Шумера, не могли призвать воду, которая больше не проливалась с неба. Империя, построенная на зерновых излишках, столкнулась с катастрофой, в которой некого было винить и которую нельзя было победить армией.",
       "era": "BC",
       "latitude": 36.828,
       "longitude": 41.319,
-      "name": "The 4.2-Kiloyear Drought Grips Mesopotamia",
-      "name_ru": "Засуха 4,2 тысячелетия обрушивается на Месопотамию",
+      "name": "Drought Grips Mesopotamia",
+      "name_ru": "Засуха обрушивается на Месопотамию",
       "source": "https://en.wikipedia.org/wiki/4.2-kiloyear_event",
       "tags": [
         "Akkadian",
+        "Sumerian",
         "Climate Crisis",
-        "Collapse"
+        "Collapse",
+        "Empire",
+        "Famine",
+        "Mesopotamian"
       ],
       "type": "historic"
     },
     {
       "date": "01.01.2170",
-      "description": "As the empire weakened from within, raiders from the Zagros mountains known as the Gutians swept down onto the plains, striking cities already hungry and half-governed. Sumerian scribes, never fond of these highland newcomers, later wrote them off as a people barely fit to be called human — a bitter, biased verdict from a civilization watching its own world come apart. Whatever the truth of that judgment, the Gutian raids hammered the final cracks into an empire that drought and rebellion had already broken.",
-      "description_ru": "Пока империя слабела изнутри, с гор Загроса на равнины хлынули налётчики, известные как гутии, обрушиваясь на города, уже голодные и едва управляемые. Шумерские писцы, никогда не питавшие тепла к этим горским пришельцам, позднее описывали их как народ, едва достойный зваться людьми, — горький и предвзятый приговор цивилизации, наблюдающей крушение собственного мира. Какова бы ни была правда в этом суждении, набеги гутиев довершили трещины в империи, уже надломленной засухой и мятежами.",
+      "description": "As the empire weakened from within, raiders from the Zagros mountains known as the Gutians swept down onto the plains, striking cities already hungry and half-governed. Sumerian scribes, never fond of these highland newcomers, later wrote them off as a people barely fit to be called human — a bitter, biased verdict from a civilization watching its own world come apart. ",
+      "description_ru": "Пока империя слабела изнутри, с гор Загроса на равнины хлынули налётчики, известные как гутии, обрушиваясь на города, уже голодные и едва управляемые. Шумерские писцы, никогда не питавшие тепла к этим горским пришельцам, позднее описывали их как народ, едва достойный зваться людьми, — горький и предвзятый приговор цивилизации, наблюдающей крушение собственного мира. ",
       "era": "BC",
       "latitude": 33.0706,
       "longitude": 44.2686,
@@ -306,14 +414,15 @@
       "tags": [
         "Akkadian",
         "Invasion",
-        "Collapse"
+        "Mesopotamian",
+        "Tribal"
       ],
       "type": "military"
     },
     {
       "date": "01.01.2154",
-      "description": "In the end, no single blow toppled Akkad — drought withered its fields, rebellion drained its armies, and Gutian raiders picked apart what remained until the empire that had once called itself ruler of the four quarters of the world simply stopped being able to answer to that name. The city of Akkad itself faded so completely that its ruins have never been identified, a capital erased almost as thoroughly as if it had never stood at all. What survived was not the empire but the idea of it — the first proof that many peoples could, for a while, be made to answer to one crown.",
-      "description_ru": "В конце концов Аккад не пал от единого удара — засуха иссушила его поля, восстания истощили его войска, а набеги гутиев довершили разрушение того, что осталось, пока империя, некогда называвшая себя владычицей четырёх сторон света, попросту перестала соответствовать этому имени. Сам город Аккад исчез настолько полно, что его руины так и не были найдены, — столица, стёртая почти так, будто её никогда и не существовало. Пережила не сама империя, а идея, стоявшая за ней, — первое доказательство того, что множество разных народов можно хотя бы на время заставить подчиняться одной короне.",
+      "description": "In the end, no single blow toppled Akkad — drought withered its fields, rebellion drained its armies, and Gutian raiders picked apart what remained until the empire that had once called itself ruler of the four quarters of the world simply stopped being able to answer to that name. The city of Akkad itself faded so completely that its ruins have never been identified, a capital erased almost as thoroughly as if it had never stood at all.",
+      "description_ru": "В конце концов засуха иссушила поля Аккада, восстания истощили его войска, а набеги гутиев довершили разрушение того, что осталось, пока империя, некогда называвшая себя владычицей четырёх сторон света, попросту перестала соответствовать этому имени. Город Аккад исчез, его руины так и не были найдены, — столица, стёртая почти так, будто её никогда и не существовало. ",
       "era": "BC",
       "latitude": 33.0706,
       "longitude": 44.2686,
@@ -323,26 +432,32 @@
       "tags": [
         "Akkadian",
         "Collapse",
-        "Fall"
+        "Empire",
+        "Fall",
+        "Mesopotamian",
+        "Mystery"
       ],
       "type": "political"
     },
     {
       "date": "01.01.2100",
-      "description": "Within a century of Akkad's collapse, Sumerian poets composed the Curse of Agade, a lament that blamed the empire's ruin not on drought or invasion but on Naram-Sin's own impiety — his supposed desecration of Enlil's temple at Nippur, which brought down the god's wrath upon the whole land. It is a myth, not a chronicle, but a deeply human one: a people trying to make sense of catastrophe by turning it into a story about pride and punishment. In a way, the poem gave Akkad something history never could — a moral, and a meaning.",
-      "description_ru": "Менее чем через столетие после крушения Аккада шумерские поэты сложили 'Проклятие Аккада' — плач, возлагавший вину за гибель империи не на засуху и не на нашествия, а на нечестие самого Нарам-Сина, якобы осквернившего храм Энлиля в Ниппуре и навлёкшего гнев бога на всю страну. Это миф, а не летопись, но глубоко человечный: народ пытается осмыслить катастрофу, превратив её в историю о гордыне и возмездии. В каком-то смысле поэма дала Аккаду то, чего никогда не могла дать история, — мораль и смысл.",
+      "description": "Within a century of Akkad's collapse, Sumerian poets composed the Curse of Agade, a lament that blamed the empire's ruin not on drought or invasion but on Naram-Sin's own impiety — his supposed desecration of Enlil's temple at Nippur, which brought down the god's wrath upon the whole land. It is a myth, not a chronicle, but a deeply human one: a people trying to make sense of catastrophe by turning it into a story about pride and punishment.",
+      "description_ru": "Менее чем через столетие после крушения Аккадской империи шумерские поэты сложили 'Проклятие Аккада' — плач, возлагавший вину за гибель империи не на засуху и не на нашествия, а на нечестие самого Нарам-Сина, якобы осквернившего храм Энлиля в Ниппуре и навлёкшего гнев бога на всю страну. Это миф, а не летопись, но глубоко человечный: народ пытается осмыслить катастрофу, превратив её в историю о гордыне и возмездии.",
       "era": "BC",
       "latitude": 32.1264,
       "longitude": 45.2402,
-      "name": "The Curse of Agade Remembers a Fallen Empire",
-      "name_ru": "'Проклятие Аккада' хранит память о павшей империи",
+      "name": "Sumerian poets compose 'The Curse of Akkad'",
+      "name_ru": "Шумерские поэты слагают 'Проклятие Аккада'",
       "source": "https://en.wikipedia.org/wiki/Naram-Sin_of_Akkad",
       "tags": [
         "Akkadian",
-        "Religious",
-        "Literature"
+        "Sumerian",
+        "Culture",
+        "Literature",
+        "Religious"
       ],
       "type": "cultural"
     }
-  ]
+  ],
+  "filename": "BC4_akkadian_empire.json"
 }
