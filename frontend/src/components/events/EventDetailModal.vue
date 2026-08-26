@@ -69,6 +69,12 @@
               <span class="related_icon">🗓️</span>
               <span class="related_title">{{ t('aroundSameTime') }}</span>
               <button
+                v-if="canRefreshAroundSameTime"
+                class="refresh_related_btn reload_related_btn"
+                @click="refreshAroundSameTime"
+                :title="t('refreshRelated')"
+              >⟳</button>
+              <button
                 v-if="aroundSameTime.length > collapsedLimit"
                 class="refresh_related_btn expand_related_btn"
                 @click="toggleSection('aroundSameTime')"
@@ -207,7 +213,7 @@ export default {
     const eventRef = toRef(props, 'event')
     const allEventsRef = toRef(props, 'allEvents')
 
-    const { aroundSameTime, samePlace, nearByKind } = useRelatedEvents(eventRef, allEventsRef)
+    const { aroundSameTime, samePlace, nearByKind, canRefreshAroundSameTime, refreshAroundSameTime } = useRelatedEvents(eventRef, allEventsRef)
 
     const COLLAPSED_LIMIT = 3
     const collapsedLimit = COLLAPSED_LIMIT
@@ -326,7 +332,9 @@ export default {
       expandedSections,
       collapsedLimit,
       toggleSection,
-      hasRelatedEvents
+      hasRelatedEvents,
+      canRefreshAroundSameTime,
+      refreshAroundSameTime
     }
   }
 }
@@ -477,6 +485,15 @@ export default {
   font-size: 1rem;
   margin-left: 0.125rem;
   letter-spacing: 0.05em;
+}
+
+.reload_related_btn {
+  font-size: 0.95rem;
+  display: inline-block;
+}
+
+.reload_related_btn:hover {
+  transform: rotate(75deg);
 }
 
 .related_category {

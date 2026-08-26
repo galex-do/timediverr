@@ -1,4 +1,4 @@
-import { ref, watch } from 'vue'
+import { ref, watch, computed } from 'vue'
 
 const YEARS_RANGE = 3
 const DISTANCE_KM = 100
@@ -64,17 +64,33 @@ const sortByProximity = (events, current) => {
   })
 }
 
+const shuffle = (events) => {
+  const shuffled = [...events]
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]
+  }
+  return shuffled
+}
+
 export function useRelatedEvents(currentEvent, allEvents) {
   const aroundSameTime = ref([])
   const samePlace = ref([])
   const nearByKind = ref([])
   const isComputed = ref(false)
+  const aroundSameTimePool = ref([])
+
+  const pickRandomAroundSameTime = () => {
+    const shuffled = shuffle(aroundSameTimePool.value).slice(0, MAX_RESULTS)
+    aroundSameTime.value = sortByDate(shuffled)
+  }
 
   const computeRelatedEvents = () => {
     if (!currentEvent.value?.id || !allEvents.value?.length) {
       aroundSameTime.value = []
       samePlace.value = []
       nearByKind.value = []
+      aroundSameTimePool.value = []
       isComputed.value = false
       return
     }
@@ -100,15 +116,18 @@ export function useRelatedEvents(currentEvent, allEvents) {
     samePlace.value = sortedPlace
     sortedPlace.forEach(e => usedIds.add(String(e.id)))
 
+    // Events already related by location are still eligible here — the two
+    // categories are allowed to overlap, so only the current event itself
+    // is excluded from the "around same time" interval.
     const timeCandidates = allEvents.value.filter(e => {
       const eventId = String(e.id)
-      if (usedIds.has(eventId)) return false
+      if (eventId === currentId) return false
       const yearDiff = getTimeDifferenceYears(current, e)
       return yearDiff <= YEARS_RANGE
     })
-    const sortedTime = sortByProximity(timeCandidates, current).slice(0, MAX_RESULTS)
-    aroundSameTime.value = sortByDate(sortedTime)
-    sortedTime.forEach(e => usedIds.add(String(e.id)))
+    aroundSameTimePool.value = timeCandidates
+    pickRandomAroundSameTime()
+    aroundSameTime.value.forEach(e => usedIds.add(String(e.id)))
 
     const tagCandidates = allEvents.value
       .filter(e => {
@@ -132,6 +151,13 @@ export function useRelatedEvents(currentEvent, allEvents) {
     isComputed.value = true
   }
 
+  const canRefreshAroundSameTime = computed(() => aroundSameTimePool.value.length > aroundSameTime.value.length)
+
+  const refreshAroundSameTime = () => {
+    if (!canRefreshAroundSameTime.value) return
+    pickRandomAroundSameTime()
+  }
+
   watch([currentEvent, allEvents], () => {
     computeRelatedEvents()
   }, { immediate: true, deep: false })
@@ -140,6 +166,8 @@ export function useRelatedEvents(currentEvent, allEvents) {
     aroundSameTime,
     samePlace,
     nearByKind,
-    isComputed
+    isComputed,
+    canRefreshAroundSameTime,
+    refreshAroundSameTime
   }
 }
