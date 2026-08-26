@@ -31,8 +31,16 @@
         </div>
 
         <div v-if="hasActiveTagFilters" class="detail_tag_filter_panel">
-          <span class="detail_tag_filter_label">{{ t('filteredByTags') }}</span>
-          <div class="detail_tag_filter_chips">
+          <div class="detail_tag_filter_header" @click="tagFilterExpanded = !tagFilterExpanded">
+            <span class="detail_tag_filter_caret">{{ tagFilterExpanded ? '⌃' : '⌄' }}</span>
+            <span class="detail_tag_filter_label">{{ t('filteredByTags') }} ({{ selectedTags.length }})</span>
+            <button
+              class="detail_tag_filter_clear_btn"
+              @click.stop="handleClearTagFilters"
+              :title="t('clearAllTags')"
+            >✕</button>
+          </div>
+          <div v-if="tagFilterExpanded" class="detail_tag_filter_chips">
             <div
               v-for="tag in selectedTags"
               :key="tag.id"
@@ -52,11 +60,6 @@
               >×</button>
             </div>
           </div>
-          <button
-            class="detail_tag_filter_clear_btn"
-            @click="handleClearTagFilters"
-            :title="t('clearAllTags')"
-          >✕</button>
         </div>
 
         <div v-if="hasRelatedEvents" class="related_events_section">
@@ -257,6 +260,8 @@ export default {
       nearByKind: false
     })
 
+    const tagFilterExpanded = ref(false)
+
     const toggleSection = (key) => {
       expandedSections.value[key] = !expandedSections.value[key]
     }
@@ -278,6 +283,7 @@ export default {
 
     watch(() => props.event?.id, () => {
       expandedSections.value = { samePlace: false, aroundSameTime: false, nearByKind: false }
+      tagFilterExpanded.value = false
     })
 
     const hasRelatedEvents = computed(() => {
@@ -384,7 +390,8 @@ export default {
       hasActiveTagFilters,
       handleClearTagFilters,
       handleRemoveTag,
-      handleToggleTagNegative
+      handleToggleTagNegative,
+      tagFilterExpanded
     }
   }
 }
@@ -507,15 +514,26 @@ export default {
 
 
 .detail_tag_filter_panel {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 0.5rem;
   margin-top: 0.75rem;
-  padding: 0.5rem 0.75rem;
+  padding: 0.4rem 0.75rem;
   background: #f8fafc;
   border: 1px solid #e2e8f0;
   border-radius: 0.5rem;
+}
+
+.detail_tag_filter_header {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  cursor: pointer;
+  user-select: none;
+}
+
+.detail_tag_filter_caret {
+  font-size: 0.7rem;
+  color: #94a3b8;
+  flex-shrink: 0;
+  width: 0.9rem;
 }
 
 .detail_tag_filter_label {
@@ -524,19 +542,20 @@ export default {
   color: #64748b;
   text-transform: uppercase;
   letter-spacing: 0.03em;
-  flex-shrink: 0;
+  flex: 1;
 }
 
 .detail_tag_filter_chips {
   display: flex;
   flex-wrap: wrap;
   gap: 0.35rem;
-  flex: 1;
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid #e2e8f0;
 }
 
 .detail_tag_filter_clear_btn {
   flex-shrink: 0;
-  margin-left: auto;
   background: none;
   border: none;
   font-size: 0.85rem;
