@@ -1,5 +1,6 @@
 {
-  "description": "Dataset imported with 20 events",
+  "description": "Dataset imported with 14 events",
+  "filename": "BC2_dilmun_civilization.json",
   "events": [
     {
       "date": "01.01.3000",
@@ -37,6 +38,23 @@
         "Foundation"
       ],
       "type": "political"
+    },
+    {
+      "date": "01.01.2300",
+      "description": "On a door-socket relief, King Ur-Nanshe of Lagash had it carved that \"the ships of Dilmun brought him wood as tribute from foreign lands.\" It is the oldest surviving written record of Dilmun, and it is not a myth or a prayer but a caption for a picture of actual cargo ships arriving from across the gulf. Long before Dilmun was written about as a paradise, it was already known abroad by its ships and what they carried.",
+      "description_ru": "На рельефе дверного гнезда царь Лагаша Ур-Нанше велел высечь, что «корабли Дильмуна привезли ему дерево в качестве дани из чужих земель». Это древнейшая сохранившаяся письменная запись о Дильмуне, и это не миф и не молитва, а подпись к изображению настоящих грузовых кораблей, прибывших с другого берега залива. Задолго до того, как о Дильмуне стали писать как о рае, за его пределами его уже знали по кораблям и по тому, что они привозили.",
+      "era": "BC",
+      "latitude": 31.5717,
+      "longitude": 46.1478,
+      "name": "The Ur-Nanshe Relief Shows the First Dilmun Ship",
+      "name_ru": "Рельеф Ур-Нанше — первое изображение дильмунского корабля",
+      "source": "https://en.wikipedia.org/wiki/Dilmun",
+      "tags": [
+        "Dilmun",
+        "Trade",
+        "Maritime"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.2200",
@@ -111,6 +129,23 @@
       "type": "cultural"
     },
     {
+      "date": "01.01.2050",
+      "description": "Dilmun did not simply borrow Sumer's gods — it worshipped its own pair, Inzak and his consort Meskilak, at a cult center called Agarum. Dilmunite kings invoked Inzak by name in their own inscriptions, and his worship later spread into Mesopotamia itself, turning up in personal names at Ur and in the Sealand. A small trading kingdom, in other words, exported a god to the very civilization it imported ideas from.",
+      "description_ru": "Дильмун не просто заимствовал шумерских богов — он поклонялся собственной паре, Инзаку и его супруге Мескилак, в культовом центре под названием Агарум. Цари Дильмуна упоминали Инзака по имени в собственных надписях, а позже его культ распространился и в саму Месопотамию, встречаясь в личных именах жителей Ура и Приморья. Иными словами, небольшое торговое царство «экспортировало» бога в ту самую цивилизацию, у которой заимствовало идеи.",
+      "era": "BC",
+      "latitude": 26.22617453,
+      "longitude": 50.48418939,
+      "name": "Inzak and Meskilak — Dilmun's Own Gods",
+      "name_ru": "Инзак и Мескилак — собственные боги Дильмуна",
+      "source": "https://en.wikipedia.org/wiki/Inzak",
+      "tags": [
+        "Dilmun",
+        "Religious",
+        "Temple"
+      ],
+      "type": "religious"
+    },
+    {
       "date": "01.01.2000",
       "description": "In the 3rd and 2nd millennia BCE, Failaka was a vital part of Dilmun. The island was located just 50 km from the confluence of the Tigris and Euphrates rivers into the gulf, serving as an ideal staging post for ships from Sumerian Ur. During the Dilmun era, Failaka was known as \"Agarum,\" the land of Enzak, the great god of the Dilmun civilization, according to Sumerian cuneiform texts found on the island.",
       "description_ru": "В III–II тысячелетиях до н. э. Файлака была важнейшей частью Дильмуна. Остров находился всего в 50 км от места впадения рек Тигр и Евфрат в залив, выступая идеальной перевалочной базой для кораблей из шумерского Ура. В эпоху Дильмуна Файлака была известна как «Агарум», земля Энзака, великого бога цивилизации Дильмуна, согласно шумерским клинописным текстам, найденным на острове.",
@@ -126,7 +161,89 @@
         "Trade"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.01.2000",
+      "description": "Merchants noted that the weights and measures used at Dilmun matched those of the Indus Valley rather than the system used in southern Mesopotamia, even though Mesopotamian texts talk about Dilmun far more often. That single technical detail is a clue easy to miss: Dilmun's economy quietly leaned east toward the Indus world, not west toward the empires that happened to write most of the surviving records about it.",
+      "description_ru": "Купцы отмечали, что весовые и измерительные единицы, используемые в Дильмуне, совпадали с системой долины Инда, а не с системой Южной Месопотамии, хотя именно месопотамские тексты гораздо чаще упоминают Дильмун. Эта небольшая техническая деталь — подсказка, которую легко упустить: экономика Дильмуна была незаметно развёрнута на восток, к миру Инда, а не на запад, к державам, которые просто оставили больше сохранившихся записей о нём.",
+      "era": "BC",
+      "latitude": 26.23361,
+      "longitude": 50.52056,
+      "name": "Dilmun Weighs Its Goods the Indus Way, Not the Mesopotamian Way",
+      "name_ru": "Дильмун взвешивает товары по индской, а не месопотамской системе",
+      "source": "https://en.wikipedia.org/wiki/Dilmun",
+      "tags": [
+        "Dilmun",
+        "Trade",
+        "Standardization"
+      ],
+      "type": "scientific"
+    },
+    {
+      "date": "01.01.2000",
+      "description": "Among the offerings found at Barbar Temple, the single most famous object is a bull's head cast in copper. Scholars who studied it titled their report \"a contact with Early Dynastic Sumer\" — meaning the object itself is treated as physical proof of a direct artistic and religious link between Dilmun's temple and Sumer, not just as a nice find. A shrine built over a spring, in other words, also held evidence of exactly which distant culture it was in conversation with.",
+      "description_ru": "Среди приношений, найденных в храме Барбар, самый знаменитый предмет — голова быка, отлитая из меди. Учёные, изучавшие находку, назвали свой отчёт «контакт с раннединастическим Шумером» — то есть сам предмет рассматривается как вещественное доказательство прямой художественной и религиозной связи храма Дильмуна с Шумером, а не просто как красивая находка. Святилище, построенное над источником, иначе говоря, хранило и свидетельство того, с какой именно далёкой культурой оно было связано.",
+      "era": "BC",
+      "latitude": 26.22617453,
+      "longitude": 50.48418939,
+      "name": "The Copper Bull's Head of Barbar Temple",
+      "name_ru": "Медная голова быка из храма Барбар",
+      "source": "https://en.wikipedia.org/wiki/Barbar_Temple",
+      "tags": [
+        "Dilmun",
+        "Art",
+        "Copper"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1750",
+      "description": "A Ur-based copper merchant named Ea-nasir, tied to the Dilmun trade, received a furious clay tablet from a customer named Nanni complaining that the copper ingots he had bought were substandard. It is the oldest known written customer complaint on record — proof that Dilmun's copper trade was mundane enough by this point to produce petty consumer disputes between ordinary households, not just triumphant royal inscriptions about it.",
+      "description_ru": "Медный торговец из Ура по имени Эанацир, связанный с дильмунской торговлей, получил от разгневанного покупателя по имени Нанни глиняную табличку с жалобой на то, что купленные медные слитки оказались бракованными. Это древнейшая известная письменная жалоба покупателя — доказательство того, что дильмунская торговля медью к тому времени стала настолько обыденной, что порождала мелкие потребительские споры между обычными семьями, а не только торжественные царские надписи о ней.",
+      "era": "BC",
+      "latitude": 30.9625,
+      "longitude": 46.1053,
+      "name": "Ea-nasir's Bad Copper Produces History's Oldest Written Complaint",
+      "name_ru": "Плохая медь Эанацира порождает древнейшую письменную жалобу в истории",
+      "source": "https://en.wikipedia.org/wiki/Ea-n%C4%81%E1%B9%A3ir",
+      "tags": [
+        "Dilmun",
+        "Trade",
+        "Copper"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0694",
+      "description": "Assyrian king Sennacherib campaigned into northeastern Arabia and is recorded capturing the Bahraini islands around this time. Assyria had no seafaring tradition of its own, so reaching Dilmun's islands meant building an actual seagoing fleet — a costly, roundabout effort that shows how seriously a purely land-based empire took control of even this small, distant island chain.",
+      "description_ru": "Ассирийский царь Синаххериб вёл поход в северо-восточную Аравию и, согласно записям, примерно в это время захватил бахрейнские острова. У Ассирии не было собственной мореходной традиции, поэтому для того, чтобы добраться до островов Дильмуна, пришлось строить настоящий морской флот — дорогостоящее и непрямое усилие, показывающее, насколько серьёзно чисто сухопутная империя относилась к контролю даже над этой небольшой, далёкой островной цепью.",
+      "era": "BC",
+      "latitude": 26.0667,
+      "longitude": 50.5577,
+      "name": "Sennacherib Builds a Fleet Just to Reach the Bahrain Islands",
+      "name_ru": "Синаххериб строит флот, чтобы достичь островов Бахрейна",
+      "source": "https://en.wikipedia.org/wiki/Sennacherib",
+      "tags": [
+        "Dilmun",
+        "Invasion"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0539",
+      "description": "After the Achaemenid Persian conquest of Babylon in 539/538 BC, the name \"Dilmun\" disappears from surviving records, even though the same harbor at what is now Qal'at al-Bahrain kept functioning without real interruption. The place, the people, and the trade routes carried on largely unchanged — only the millennia-old name, tied to the Akkadian- and Sumerian-speaking empires that had used it, lost currency once those empires stopped existing to use it.",
+      "description_ru": "После завоевания Вавилона персами-Ахеменидами в 539/538 годах до н. э. название «Дильмун» исчезает из сохранившихся записей, хотя та же гавань на месте нынешнего Кальат-эль-Бахрейна продолжала работать практически без перерыва. Само место, население и торговые пути в основном сохранились без изменений — исчезло лишь тысячелетнее название, привязанное к аккадо- и шумероязычным державам, которые его использовали, и вышедшее из обихода, как только эти державы перестали существовать.",
+      "era": "BC",
+      "latitude": 26.23361,
+      "longitude": 50.52056,
+      "name": "Persian Conquest of Babylon Is the Last Time Anyone Writes Down the Name Dilmun",
+      "name_ru": "Персидское завоевание Вавилона — последний раз, когда записывают имя Дильмун",
+      "source": "https://en.wikipedia.org/wiki/Achaemenid_Empire",
+      "tags": [
+        "Dilmun",
+        "Empire"
+      ],
+      "type": "political"
     }
-  ],
-  "filename": "BC2_dilmun_civilization.json"
+  ]
 }
