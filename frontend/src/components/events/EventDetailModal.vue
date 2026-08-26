@@ -30,6 +30,15 @@
           >{{ tag.name }}</span>
         </div>
 
+        <div v-if="hasActiveTagFilters" class="tag_filter_notice">
+          <span class="tag_filter_notice_text">{{ t('filteredByTags') }} ({{ selectedTags.length }})</span>
+          <button
+            class="tag_filter_clear_btn"
+            @click="handleClearTagFilters"
+            :title="t('clearAllTags')"
+          >✕ {{ t('clearAllTags') }}</button>
+        </div>
+
         <div v-if="hasRelatedEvents" class="related_events_section">
           <div v-if="samePlace.length > 0" class="related_category">
             <div class="related_category_header">
@@ -199,12 +208,16 @@ export default {
       type: Array,
       default: () => []
     },
+    selectedTags: {
+      type: Array,
+      default: () => []
+    },
     navigationSource: {
       type: String,
       default: null
     }
   },
-  emits: ['close', 'focus-event', 'tag-clicked', 'select-event', 'edit-event', 'back'],
+  emits: ['close', 'focus-event', 'tag-clicked', 'select-event', 'edit-event', 'back', 'clear-tag-filters'],
   setup(props, { emit }) {
     const { t, formatEventDisplayDate, formatEventDisplayDateLong, formatEventDisplaySmart } = useLocale()
     const { canEditEvents } = useAuth()
@@ -253,8 +266,14 @@ export default {
              nearByKind.value.length > 0
     })
 
+    const hasActiveTagFilters = computed(() => props.selectedTags.length > 0)
+
     const closeModal = () => {
       emit('close')
+    }
+
+    const handleClearTagFilters = () => {
+      emit('clear-tag-filters')
     }
 
     const handleFocusEvent = () => {
@@ -334,7 +353,9 @@ export default {
       toggleSection,
       hasRelatedEvents,
       canRefreshAroundSameTime,
-      refreshAroundSameTime
+      refreshAroundSameTime,
+      hasActiveTagFilters,
+      handleClearTagFilters
     }
   }
 }
@@ -455,6 +476,40 @@ export default {
   margin-top: 0.75rem;
 }
 
+
+.tag_filter_notice {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+  padding: 0.5rem 0.75rem;
+  background: #fff7ed;
+  border: 1px solid #fed7aa;
+  border-radius: 0.5rem;
+}
+
+.tag_filter_notice_text {
+  font-size: 0.8rem;
+  color: #9a3412;
+}
+
+.tag_filter_clear_btn {
+  flex-shrink: 0;
+  background: none;
+  border: 1px solid #fdba74;
+  border-radius: 0.375rem;
+  padding: 0.2rem 0.5rem;
+  font-size: 0.75rem;
+  color: #9a3412;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+
+.tag_filter_clear_btn:hover {
+  background: #9a3412;
+  color: #fff7ed;
+}
 
 .related_events_section {
   margin-top: 1.25rem;

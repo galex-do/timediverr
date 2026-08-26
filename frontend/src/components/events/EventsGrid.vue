@@ -116,6 +116,7 @@
       :is-open="eventDetailModalOpen"
       :event="selectedDetailEvent"
       :all-events="events"
+      :selected-tags="selectedTags"
       :navigation-source="navigationSource"
       @close="closeEventDetail"
       @focus-event="$emit('focus-event', $event)"
@@ -123,6 +124,7 @@
       @select-event="handleSelectRelatedEvent"
       @edit-event="handleEditEvent"
       @back="handleBack"
+      @clear-tag-filters="$emit('clear-all-tags')"
     />
   </div>
 </template>
