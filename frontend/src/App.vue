@@ -66,6 +66,12 @@ button, input, select, textarea {
   font-family: inherit;
 }
 
+button {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
 #app {
   min-height: 100vh;
   display: flex;
