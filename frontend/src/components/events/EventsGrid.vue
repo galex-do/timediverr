@@ -333,13 +333,10 @@ export default {
       this.eventDetailModalOpen = true
     },
     handleDetailTagClicked(tag) {
+      // Adding/toggling a tag from inside the detail view should never
+      // navigate away — the detail modal stays open (see EventDetailModal),
+      // regardless of where it was opened from (map, timeline, etc).
       this.$emit('tag-clicked', tag)
-      if (this.navigationSource === 'timeline') {
-        this.eventDetailModalOpen = false
-        this.isBackNavigation = true
-        this.timelineModalOpen = true
-        this.navigationSource = null
-      }
     },
     handleBack() {
       if (this.navigationSource === 'timeline') {
