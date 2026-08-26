@@ -1,0 +1,337 @@
+{
+  "description": "Dataset imported with 20 events",
+  "filename": "BC2_dilmun_civilization.json",
+  "events": [
+    {
+      "date": "01.01.3000",
+      "description": "The first of three temples later built one on top of another at Barbar was raised directly over a natural spring bubbling up through the limestone, with its altars arranged around the water rather than around any statue. It's worth knowing why this detail matters: Bahrain's whole existence as a fertile, livable island in the middle of a salt sea depended on exactly this kind of freshwater welling up from underground, so the temple wasn't decorating a belief, it was built on top of the actual physical reason people could live there at all. Seeing sweet water pour out of the ground in the middle of the sea, without any visible source, is also very likely the kind of everyday miracle that got Dilmun mythologized as paradise in the first place.",
+      "description_ru": "Первый из трёх храмов, позднее возведённых один над другим в Барбаре, был поставлен прямо над природным источником, пробивающимся через известняк, а его алтари расположены вокруг воды, а не вокруг какой-либо статуи. Стоит понимать, почему эта деталь важна: само существование Бахрейна как плодородного, обитаемого острова посреди солёного моря зависело именно от такой пресной воды, поднимающейся из-под земли, — то есть храм не украшал верование, а был построен прямо над настоящей физической причиной, по которой здесь вообще можно было жить. Пресная вода, бьющая из-под земли посреди моря без всякого видимого источника, — это, вероятно, именно то повседневное чудо, из-за которого Дильмун и стали превращать в миф о рае.",
+      "era": "BC",
+      "latitude": 26.2262389,
+      "longitude": 50.4840306,
+      "name": "The Oldest Shrine at Barbar Is Built Over a Freshwater Spring",
+      "name_ru": "Древнейшее святилище Барбара возводят над источником пресной воды",
+      "source": "https://en.wikipedia.org/wiki/Barbar_Temple",
+      "tags": [
+        "Dilmun",
+        "Temple",
+        "Water"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.2500",
+      "description": "The oldest known written record of Dilmun is not a legend but a boast on a stone relief of King Ur-Nanshe of Lagash, who had it inscribed that 'boats from the land of Dilmun carried the wood for him.' It's worth knowing why this order of events matters: people often assume Dilmun started out as an imaginary paradise and was only later identified with a real trading island, but the historical record actually runs the other way — the very first time the name Dilmun appears anywhere, it is already doing the unglamorous work of a supply chain, moving timber for a king's building projects. The paradise reputation, in other words, was layered onto an already well-known trade partner, not the reverse.",
+      "description_ru": "Древнейшая известная письменная запись о Дильмуне — это не легенда, а хвастливая надпись на каменном рельефе царя Лагаша Ур-Нанше, где сказано, что «корабли из страны Дильмун привезли ему древесину». Важно понимать, в каком порядке всё происходило: часто думают, что Дильмун сначала был воображаемым раем, а потом его связали с реальным торговым островом, но исторические записи говорят об обратном — в самый первый раз, когда название Дильмун где-либо встречается, оно уже выполняет неприметную работу логистики, доставляя древесину для царских построек. Репутация рая, иначе говоря, была наложена позже на уже хорошо известного торгового партнёра, а не наоборот.",
+      "era": "BC",
+      "latitude": 31.5717,
+      "longitude": 46.1478,
+      "name": "Dilmun's First Written Mention Is a Timber Delivery, Not a Myth",
+      "name_ru": "Первое письменное упоминание Дильмуна — это не миф, а поставка древесины",
+      "source": "https://en.wikipedia.org/wiki/Ur-Nanshe",
+      "tags": [
+        "Dilmun",
+        "Trade",
+        "Legacy"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.2334",
+      "description": "Among Sargon of Akkad's proudest boasts was that ships of Meluhha, Magan, and Dilmun moored together at the quay of his capital city. It's worth knowing why one sentence like this is a big deal historically: it's essentially the oldest recorded evidence of a three-way international shipping network naming its participants, and the fact that the era's most powerful king chose to brag about Dilmun's ships specifically as a mark of his own prestige shows that Dilmun's merchants were already sophisticated and well-known enough to be worth name-dropping.",
+      "description_ru": "Одним из предметов особой гордости Саргона Аккадского было то, что у причала его столицы одновременно швартовались корабли Мелуххи, Магана и Дильмуна. Стоит понимать, почему одна такая фраза важна для истории: это, по сути, древнейшее зафиксированное свидетельство трёхсторонней международной судоходной сети с поимённым перечислением участников, и то, что самый могущественный царь своей эпохи выбрал именно корабли Дильмуна как повод для похвальбы собственным престижем, показывает, насколько узнаваемыми и искусными были к тому времени дильмунские купцы.",
+      "era": "BC",
+      "latitude": 33.0706,
+      "longitude": 44.2686,
+      "name": "Sargon of Akkad Boasts of Ships from Dilmun Docking at His Capital",
+      "name_ru": "Саргон Аккадский хвалится кораблями Дильмуна у своей столицы",
+      "source": "https://en.wikipedia.org/wiki/Sargon_of_Akkad",
+      "tags": [
+        "Dilmun",
+        "Trade",
+        "Akkadian"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.2300",
+      "description": "The artificial mound that would become Dilmun's capital and chief harbor started forming around this time, and it grew, through seven distinct stratified layers of continuous rebuilding, into the largest such mound anywhere in the Persian Gulf region. It's worth knowing why those seven layers matter: excavators found Kassite, Greek, Persian, and Portuguese material stacked directly on top of one another in the same spot, all the way up to the 18th century AD — meaning every single empire that ever wanted control of this harbor, across nearly 4,000 years, simply built its fort on the ruins of the last one instead of starting fresh.",
+      "description_ru": "Искусственный холм, которому предстояло стать столицей и главной гаванью Дильмуна, начал формироваться примерно в это время и, пройдя через семь чётко различимых слоёв непрерывной перестройки, превратился в крупнейший подобный холм во всём регионе Персидского залива. Стоит понимать, почему важны именно эти семь слоёв: раскопки обнаружили касситские, греческие, персидские и португальские находки, лежащие буквально друг на друге на одном и том же месте, вплоть до XVIII века — то есть каждая империя, желавшая контролировать эту гавань на протяжении почти 4000 лет, просто строила свою крепость на руинах предыдущей, а не начинала с чистого места.",
+      "era": "BC",
+      "latitude": 26.23361,
+      "longitude": 50.52056,
+      "name": "Qal'at al-Bahrain Rises as a Harbor Mound That Would Never Stop Being Rebuilt",
+      "name_ru": "Кальат-эль-Бахрейн вырастает как гавань, которую никогда не перестанут перестраивать",
+      "source": "https://en.wikipedia.org/wiki/Qal%27at_al-Bahrain",
+      "tags": [
+        "Dilmun",
+        "Foundation",
+        "City"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.2200",
+      "description": "For centuries, Mesopotamian records name Dilmun as their principal source of copper, even though the islands of Bahrain have no copper deposits of their own. It's worth knowing why this apparent contradiction is actually the interesting part: it reveals that Dilmun wasn't a producer at all, but the ancient world's version of a re-export hub, shipping in ore from Magan across the water and reselling it under its own well-trusted name — the same economic trick a modern port city plays when it becomes famous for goods it never actually makes, only moves and certifies.",
+      "description_ru": "На протяжении веков месопотамские записи называют Дильмун своим главным источником меди, хотя на самих островах Бахрейна собственных месторождений меди нет. Стоит понимать, почему это противоречие и есть самое интересное: оно показывает, что Дильмун вовсе не был производителем, а играл роль древнего реэкспортного узла — привозил руду по морю из Магана и перепродавал её под собственным, уже проверенным именем, тем же экономическим приёмом, каким современный портовый город становится знаменит товарами, которые он никогда сам не производит, а лишь перевозит и удостоверяет.",
+      "era": "BC",
+      "latitude": 26.23361,
+      "longitude": 50.52056,
+      "name": "Copper-Free Dilmun Becomes Mesopotamia's Main Copper Supplier",
+      "name_ru": "Не имеющий меди Дильмун становится главным поставщиком меди в Месопотамию",
+      "source": "https://en.wikipedia.org/wiki/Magan_(civilization)",
+      "tags": [
+        "Dilmun",
+        "Trade",
+        "Copper"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.2200",
+      "description": "Beginning around this period, the stony ground north of modern A'ali began filling with burial mounds on a scale later surveys estimate at roughly 350,000 graves, built up over many centuries by a trading population that likely never numbered anywhere close to that at any one time. It's worth knowing why the mismatch matters: this is one of the densest concentrations of ancient graves per square kilometer found anywhere on Earth, and it raises a genuine puzzle archaeologists are still working through — why a modest island population poured so much collective labor into building for the dead rather than for the living, a pattern that lines up strikingly with Dilmun's reputation as a sacred, deathless land in Mesopotamian myth.",
+      "description_ru": "Начиная примерно с этого периода, каменистая земля к северу от современного Аали начала заполняться погребальными курганами в масштабе, который более поздние обследования оценивают примерно в 350 000 могил, накопленных за многие столетия торговым населением, которое, вероятно, никогда одновременно не достигало и близкой к этому численности. Стоит понимать, почему это несовпадение важно: это одна из самых плотных концентраций древних могил на квадратный километр, известных на Земле, и она порождает настоящую загадку, над которой археологи до сих пор работают, — почему скромное островное население вложило столько совместного труда в постройки для мёртвых, а не для живых; эта картина поразительно совпадает с репутацией Дильмуна как священной, бессмертной земли в месопотамском мифе.",
+      "era": "BC",
+      "latitude": 26.15194,
+      "longitude": 50.52556,
+      "name": "Bahrain's North Fills with an Estimated 350,000 Burial Mounds",
+      "name_ru": "Север Бахрейна заполняется, по оценкам, 350 000 погребальных курганов",
+      "source": "https://en.wikipedia.org/wiki/Dilmun_Burial_Mounds",
+      "tags": [
+        "Dilmun",
+        "Burial",
+        "Death"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.2100",
+      "description": "In the Sumerian myth Enki and Ninhursag, Dilmun is described as a land 'where the raven utters no cry, where lions kill not,' where nobody grows old, gets sick, or dies. It's worth knowing why scholars keep circling back to this text: because a description this specific — no predators, no illness, no aging, life-giving fresh water flowing through a place otherwise surrounded by salt sea — reads like a direct template for the biblical Garden of Eden centuries later, making Dilmun one of the oldest documented ancestors of the entire literary idea of paradise.",
+      "description_ru": "В шумерском мифе «Энки и Нинхурсаг» Дильмун описан как страна, «где ворон не кричит, где лев не убивает», где никто не старится, не болеет и не умирает. Стоит понимать, почему учёные постоянно возвращаются к этому тексту: настолько конкретное описание — ни хищников, ни болезней, ни старости, живая пресная вода среди окружающего солёного моря — читается как прямой прообраз библейского Эдемского сада много веков позже, что делает Дильмун одним из самых ранних документально засвидетельствованных предков самой идеи рая в мировой литературе.",
+      "era": "BC",
+      "latitude": 26.2262389,
+      "longitude": 50.4840306,
+      "name": "Enki and Ninhursag Casts Dilmun as a World Without Death",
+      "name_ru": "'Энки и Нинхурсаг' изображает Дильмун миром без смерти",
+      "source": "https://en.wikipedia.org/wiki/Enki_and_Ninhursag",
+      "tags": [
+        "Dilmun",
+        "Religious",
+        "Legend"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.2100",
+      "description": "Archaeologists have identified a distinct round stamp-seal style, found only at Dilmun sites, that blends the circular shape favored in the Gulf with animal motifs borrowed from the Indus Valley tradition. It's worth knowing why a seal design is worth caring about: seals were the notarized signatures of the Bronze Age, used to certify that a sealed jar or bale of goods was authentic and untampered with, so the fact that Dilmun invented its own hybrid seal style — rather than simply borrowing Sumer's or the Indus world's — shows it functioned as an independent verifying authority trusted by two very different civilizations at once, not merely a relay station passing goods through unchanged.",
+      "description_ru": "Археологи выделили особый стиль круглых печатей-штампов, встречающийся только на дильмунских памятниках, который сочетает округлую форму, распространённую в Заливе, с фигурами животных, позаимствованными из традиции долины Инда. Стоит понимать, почему дизайн печати вообще имеет значение: печати были нотариальными подписями бронзового века — они удостоверяли, что запечатанный сосуд или связка товара подлинны и не вскрывались, — и то, что Дильмун изобрёл собственный, гибридный стиль печати, а не просто позаимствовал шумерский или индский, показывает, что он выступал самостоятельным удостоверяющим органом, которому доверяли две совершенно разные цивилизации одновременно, а не просто перевалочным пунктом, через который товары проходили неизменными.",
+      "era": "BC",
+      "latitude": 26.23361,
+      "longitude": 50.52056,
+      "name": "The Gulf-Type Seal Emerges as Dilmun's Own Invention",
+      "name_ru": "'Печать залива' становится собственным изобретением Дильмуна",
+      "source": "https://en.wikipedia.org/wiki/Dilmun",
+      "tags": [
+        "Dilmun",
+        "Trade",
+        "Art"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.2028",
+      "description": "A small clay receipt records garments loaded onto a boat bound for Dilmun in the very first year of Ibbi-Sin's reign — the last king of Sumer's Ur III empire, which would collapse within his lifetime. It's worth knowing why this unglamorous inventory slip matters more than most royal inscriptions: propaganda texts tell you what a king wanted people to believe, but a boring shipping receipt like this one tells you what was actually happening on an ordinary Tuesday — textiles going out to Dilmun, presumably copper coming back — giving historians a far more reliable window into the everyday mechanics of the trade than any boast ever could.",
+      "description_ru": "Небольшая глиняная квитанция фиксирует загрузку одежды на корабль, направлявшийся в Дильмун, в самый первый год правления Ибби-Суэна — последнего царя шумерской империи Ур III, которой суждено было рухнуть ещё при его жизни. Стоит понимать, почему эта неприметная товарная накладная важнее многих царских надписей: пропагандистские тексты рассказывают, во что царь хотел заставить людей верить, а скучная транспортная квитанция вроде этой показывает, что происходило в самый обычный день — ткани уходили в Дильмун, медь, судя по всему, приходила обратно, — и это даёт историкам куда более надёжное окно в повседневную механику торговли, чем любая похвальба.",
+      "era": "BC",
+      "latitude": 30.9625,
+      "longitude": 46.1053,
+      "name": "A Routine Robe Shipment to Dilmun Outlives the Empire That Sent It",
+      "name_ru": "Обычная партия одежды в Дильмун переживает отправившую её империю",
+      "source": "https://en.wikipedia.org/wiki/Dilmun",
+      "tags": [
+        "Dilmun",
+        "Trade"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.2000",
+      "description": "Around this time Failaka Island, sitting 50 kilometers from where the Tigris and Euphrates empty into the Persian Gulf, became a settled outpost of the wider Dilmun trading world, prized for controlling the shipping lanes running past it. It's worth knowing how long that same reason for wanting the island kept working: Alexander the Great's admirals would later rename it Ikaros, and it remained continuously inhabited for its strategic chokepoint value right up until the 1991 Gulf War — meaning empire after empire, across nearly 4,000 years and in completely different languages, kept fighting over the exact same patch of geography for the exact same reason.",
+      "description_ru": "Примерно в это время остров Файлака, расположенный в 50 километрах от места, где Тигр и Евфрат впадают в Персидский залив, стал заселённым форпостом более широкого торгового мира Дильмуна, ценным благодаря контролю над проходящими рядом морскими путями. Стоит понимать, как долго действовала эта же самая причина желать остров: позднее адмиралы Александра Македонского переименуют его в Икарос, и он оставался непрерывно населён благодаря своей стратегической важности как узкого места вплоть до Войны в Заливе 1991 года — то есть империя за империей, на протяжении почти 4000 лет и на совершенно разных языках, продолжали бороться за один и тот же кусок географии по одной и той же причине.",
+      "era": "BC",
+      "latitude": 29.438889,
+      "longitude": 48.333333,
+      "name": "Failaka Island Begins Nearly Four Thousand Years of Being Fought Over for the Same Reason",
+      "name_ru": "Остров Файлака начинает почти четыре тысячи лет борьбы за одну и ту же причину",
+      "source": "https://en.wikipedia.org/wiki/Failaka_Island",
+      "tags": [
+        "Dilmun",
+        "Trade"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.1900",
+      "description": "Mesopotamian tablets from this period refer to a distinct 'Dilmun standard' of weight, separate enough from the standard used in Ur that merchants needed conversion tables to trade between the two systems. It's worth knowing why having your own named weight standard is a big deal: in the Bronze Age, whoever set the rules for weighing goods held real economic authority, so a foreign trading partner recognizing and formally converting to Dilmun's own measurement system is the ancient equivalent of a currency being accepted as a trusted international standard, not evidence of a dependent outpost but of an economically independent power.",
+      "description_ru": "Месопотамские таблички этого периода упоминают отдельный «дильмунский стандарт» веса, настолько отличный от стандарта, использовавшегося в Уре, что купцам требовались таблицы пересчёта для торговли между двумя системами. Стоит понимать, почему собственный, признанный весовой стандарт — это серьёзно: в бронзовом веке тот, кто устанавливал правила взвешивания товаров, обладал реальной экономической властью, так что признание зарубежным торговым партнёром и формальный пересчёт в дильмунскую систему мер — это древний эквивалент признания валюты надёжным международным стандартом, а не признак зависимого форпоста, а признак экономически самостоятельной силы.",
+      "era": "BC",
+      "latitude": 26.23361,
+      "longitude": 50.52056,
+      "name": "Merchants Invent a Conversion Table Between the Dilmun and Ur Weight Standards",
+      "name_ru": "Купцы создают таблицу пересчёта между весовыми стандартами Дильмуна и Ура",
+      "source": "https://en.wikipedia.org/wiki/Dilmun",
+      "tags": [
+        "Dilmun",
+        "Trade",
+        "Standardization"
+      ],
+      "type": "scientific"
+    },
+    {
+      "date": "01.01.1900",
+      "description": "In the flood narrative folded into the Epic of Gilgamesh, the gods grant eternal life to the flood survivor Utnapishtim and settle him 'at the mouth of the rivers,' a location many scholars connect to Dilmun. It's worth knowing what's genuinely strange about this: the same real, working trading island that shipped ordinary copper ingots and generated Ea-nasir's customer complaints was, in the literary imagination of the very people writing those trade receipts, also the address where a human being had been made immortal — a documented business partner and a mythical land beyond death, held in mind as the very same place at once.",
+      "description_ru": "В истории о потопе, вплетённой в «Эпос о Гильгамеше», боги дарят вечную жизнь пережившему потоп Утнапиштиму и поселяют его «у устья рек» — месте, которое многие учёные связывают с Дильмуном. Стоит понимать, что здесь по-настоящему удивительно: тот же самый реальный, работающий торговый остров, откуда везли обычные медные слитки и откуда родом жалоба на Эанацира, в литературном воображении тех же самых людей, что писали эти торговые расписки, одновременно был и адресом, где человек обрёл бессмертие, — документально засвидетельствованный торговый партнёр и мифическая земля за пределами смерти держались в уме как одно и то же место.",
+      "era": "BC",
+      "latitude": 26.0667,
+      "longitude": 50.5577,
+      "name": "Gilgamesh's Search for Eternal Life Ends at Dilmun's Doorstep",
+      "name_ru": "Поиски вечной жизни Гильгамешем заканчиваются на пороге Дильмуна",
+      "source": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh",
+      "tags": [
+        "Dilmun",
+        "Religious",
+        "Legend"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1750",
+      "description": "A Ur-based copper merchant named Ea-nasir, a member of the guild known as the 'Traders of Dilmun,' received a furious clay tablet from a customer named Nanni complaining that the copper ingots he'd bought were substandard and that his servant had been mistreated during the exchange. It's worth knowing why this petty, almost comical dispute is genuinely valuable history: it's the oldest known written customer complaint on record, and unlike royal inscriptions bragging about trade, it proves the Dilmun copper trade had already become mundane enough to generate ordinary consumer disputes between regular households, not just triumphant statements by kings.",
+      "description_ru": "Медный торговец из Ура по имени Эанацир, состоявший в гильдии «Торговцы Дильмуна», получил от разгневанного покупателя по имени Нанни глиняную табличку с жалобой на то, что купленные медные слитки оказались бракованными, а его слугу во время сделки плохо обошлись. Стоит понимать, почему этот мелкий, почти комичный спор — по-настоящему ценный исторический источник: это древнейшая известная письменная жалоба покупателя, и, в отличие от царских надписей, хвастающихся торговлей, она доказывает, что дильмунская торговля медью успела стать настолько обыденной, что порождала рядовые потребительские споры между обычными семьями, а не только торжественные заявления царей.",
+      "era": "BC",
+      "latitude": 30.9625,
+      "longitude": 46.1053,
+      "name": "Ea-nasir's Bad Copper Produces History's Oldest Written Complaint",
+      "name_ru": "Плохая медь Эанацира порождает древнейшую письменную жалобу в истории",
+      "source": "https://en.wikipedia.org/wiki/Ea-n%C4%81%E1%B9%A3ir",
+      "tags": [
+        "Dilmun",
+        "Trade",
+        "Copper"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1500",
+      "description": "By around this time Dilmun had come under the rule of the so-called Sealand dynasty, a line of Akkadian-speaking kings from the swampy southern edge of Mesopotamia known mostly from brief king-list entries, whose last ruler Ea-gamil turns up on a tablet actually excavated at Qal'at al-Bahrain. It's worth knowing why this rediscovery is unusually recent: historians only pieced together how much territory the Sealand dynasty really controlled after a cache of about 450 tablets, originating from private antiquities collections with no documented find-spot, was finally published in 2009 — meaning the political history of who ruled Dilmun at this point is still, quite literally, being rewritten within living memory.",
+      "description_ru": "Примерно к этому времени Дильмун оказался под властью так называемой Приморской династии — линии аккадоязычных царей с болотистой южной окраины Месопотамии, известных в основном по кратким записям в царских списках, чей последний правитель Эа-гамиль упоминается на табличке, найденной именно при раскопках Кальат-эль-Бахрейна. Стоит понимать, почему это открытие удивительно недавнее: историки смогли по-настоящему оценить размах владений Приморской династии лишь после того, как в 2009 году был наконец опубликован клад из примерно 450 табличек, попавших в частные коллекции антикварного рынка без задокументированного места находки, — то есть политическая история о том, кто правил Дильмуном в этот период, буквально переписывается на памяти нынешнего поколения.",
+      "era": "BC",
+      "latitude": 26.23361,
+      "longitude": 50.52056,
+      "name": "A Barely-Documented Dynasty from the Marshes Absorbs Dilmun",
+      "name_ru": "Малоизвестная династия из болот поглощает Дильмун",
+      "source": "https://en.wikipedia.org/wiki/First_Sealand_dynasty",
+      "tags": [
+        "Dilmun",
+        "Empire"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1370",
+      "description": "Two surviving letters from this period were exchanged between Ili-ippashra, described as the governor of Dilmun under Kassite Babylon, and his friend Enlil-kidinni, governor of Nippur. It's worth knowing why these particular letters stand out from almost everything else written about Dilmun: they aren't royal proclamations or trade boasts but personal correspondence between two working administrators, complete with the small requests and familiar tone you'd expect between old friends stationed far apart — the closest thing that survives to Dilmun speaking for itself, even filtered through a Babylonian-appointed official.",
+      "description_ru": "Два сохранившихся письма этого периода были обменены между Или-иппашрой, названным правителем Дильмуна при касситском Вавилоне, и его другом Энлиль-кидинни, правителем Ниппура. Стоит понимать, почему именно эти письма выделяются среди почти всего остального, что написано о Дильмуне: это не царские прокламации и не торговые хвастовства, а личная переписка двух работающих чиновников, с обычными просьбами и тем непринуждённым тоном, какого и ждёшь от старых друзей, служащих далеко друг от друга, — самое близкое, что у нас есть, к тому, как Дильмун говорил бы сам за себя, хотя и через назначенного Вавилоном чиновника.",
+      "era": "BC",
+      "latitude": 32.1264,
+      "longitude": 45.2402,
+      "name": "Two Governors' Private Letters Give Dilmun Its Own Voice",
+      "name_ru": "Личная переписка двух правителей даёт Дильмуну собственный голос",
+      "source": "https://en.wikipedia.org/wiki/Dilmun",
+      "tags": [
+        "Dilmun",
+        "Diplomacy"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.1200",
+      "description": "Starting in this period, Assyrian royal inscriptions began adding 'ruler of Dilmun and Meluhha, of the Lower Sea and the Upper Sea' to the king's list of titles, alongside recorded tribute arriving from Dilmun. It's worth knowing why this phrase is more revealing than it looks: Meluhha, the Indus Valley world, had already ceased to exist as a political entity by this point, so an Assyrian king claiming to rule it was pure symbolic theater — a favorite trick of Mesopotamian kingship, where naming the far edges of the known world in your own titulature mattered more for royal image at home than any actual administrative control abroad.",
+      "description_ru": "Начиная с этого периода ассирийские царские надписи начали добавлять к перечню титулов царя «правитель Дильмуна и Мелуххи, Нижнего моря и Верхнего моря», вместе с записями о дани, поступающей из Дильмуна. Стоит понимать, почему эта фраза говорит больше, чем кажется на первый взгляд: Мелухха, мир долины Инда, к этому времени уже давно перестала существовать как политическая единица, так что заявление ассирийского царя о власти над ней было чистым символическим театром — любимым приёмом месопотамского царствования, где упоминание дальних краёв известного мира в собственном титуле значило больше для царского образа дома, чем какой-либо реальный административный контроль за морем.",
+      "era": "BC",
+      "latitude": 26.0667,
+      "longitude": 50.5577,
+      "name": "Assyrian Kings Start Calling Themselves 'Ruler of Dilmun' Without Conquering It",
+      "name_ru": "Ассирийские цари начинают называть себя 'правителями Дильмуна', не завоёвывая его",
+      "source": "https://en.wikipedia.org/wiki/Kassites",
+      "tags": [
+        "Dilmun",
+        "Empire"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0900",
+      "description": "As Middle Assyrian control over the region loosened, ancient sources describe piracy spreading through the Persian Gulf during this window, matching a sharp decline in Dilmun's commercial dominance. It's worth knowing why this pairing of events is worth remembering: it's a reminder that Bronze Age long-distance trade networks were exactly as fragile as modern shipping lanes are — remove the strong power guaranteeing safe passage across open water, and the very same routes that built a civilization's wealth become the reason it can no longer function.",
+      "description_ru": "По мере того как контроль Среднеассирийской державы над регионом слабел, древние источники описывают распространение пиратства по Персидскому заливу в этот период, что совпадает с резким упадком торгового господства Дильмуна. Стоит понимать, почему такое совпадение стоит запомнить: оно напоминает, что дальние торговые сети бронзового века были ровно настолько же уязвимы, как современные морские пути, — убери сильную власть, гарантирующую безопасный проход по открытой воде, и те же самые маршруты, что создали богатство цивилизации, становятся причиной, по которой она больше не может функционировать.",
+      "era": "BC",
+      "latitude": 26.0667,
+      "longitude": 50.5577,
+      "name": "Piracy Spreads Across the Gulf and Dilmun's Commercial Power Starts to Fade",
+      "name_ru": "Пиратство охватывает залив, и торговая мощь Дильмуна начинает угасать",
+      "source": "https://en.wikipedia.org/wiki/Dilmun",
+      "tags": [
+        "Dilmun",
+        "Decline"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0694",
+      "description": "Assyrian king Sennacherib is recorded campaigning into northeast Arabia and is believed to have captured the Bahraini islands around this time. It's worth knowing why this campaign took unusual effort: Assyria was fundamentally a land power with no seafaring tradition of its own, so reaching island territory in the Gulf meant Sennacherib had to build or commandeer an actual seagoing fleet, reportedly relying on captured Phoenician and Syrian shipwrights and crews — a costly, roundabout undertaking that shows how seriously a land empire took control of even a small, distant island chain like Dilmun.",
+      "description_ru": "Ассирийский царь Синаххериб, согласно записям, вёл кампанию в северо-восточной Аравии и, как считается, захватил бахрейнские острова примерно в это время. Стоит понимать, почему этот поход требовал непривычных усилий: Ассирия была по сути сухопутной державой без собственной мореходной традиции, так что для достижения островных территорий в заливе Синаххерибу пришлось строить или добывать настоящий морской флот, по сообщениям, силами захваченных финикийских и сирийских корабельщиков и команд, — дорогостоящее и непрямое предприятие, показывающее, насколько серьёзно сухопутная империя относилась к контролю даже над небольшой, далёкой островной цепью, такой как Дильмун.",
+      "era": "BC",
+      "latitude": 26.0667,
+      "longitude": 50.5577,
+      "name": "Sennacherib Builds a Fleet Just to Reach the Bahrain Islands",
+      "name_ru": "Синаххериб строит флот лишь для того, чтобы достичь островов Бахрейна",
+      "source": "https://en.wikipedia.org/wiki/Sennacherib",
+      "tags": [
+        "Dilmun",
+        "Invasion"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0567",
+      "description": "A Neo-Babylonian administrative record dated to this year states, without any fanfare, that Dilmun was under the control of the King of Babylon. It's worth knowing why this unremarkable bureaucratic line matters more than it seems: it is, as far as surviving Mesopotamian texts show, the last time the name 'Dilmun' is ever written down — a civilization that filled 2,500 years of trade receipts, royal boasts, and creation myth doesn't end with a dramatic collapse here, it simply stops being mentioned, absorbed so completely into someone else's empire that eventually nobody bothers writing its name anymore.",
+      "description_ru": "Новобавилонская административная запись, датированная этим годом, без всякой торжественности сообщает, что Дильмун находится под властью царя Вавилона. Стоит понимать, почему эта неприметная бюрократическая строка значит больше, чем кажется: насколько позволяют судить сохранившиеся месопотамские тексты, это последний раз, когда имя «Дильмун» вообще где-либо записано, — цивилизация, заполнившая 2500 лет торговых расписок, царских похвальб и мифов о творении, здесь заканчивается не драматичным крушением, а просто перестаёт упоминаться, настолько полно растворившись в чужой империи, что со временем уже никто не считает нужным записывать её имя.",
+      "era": "BC",
+      "latitude": 32.5355,
+      "longitude": 44.4275,
+      "name": "An Ordinary Babylonian Record Is the Last Time Anyone Writes Down the Name Dilmun",
+      "name_ru": "Обычная вавилонская запись — последний раз, когда кто-то записывает имя Дильмун",
+      "source": "https://en.wikipedia.org/wiki/Dilmun",
+      "tags": [
+        "Dilmun",
+        "Decline"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0539",
+      "description": "After the Achaemenid Persian conquest of Babylon in 539/538 BC, the name 'Dilmun' vanishes from the historical record entirely, even though the same harbor at what is now Qal'at al-Bahrain kept functioning without any real interruption. It's worth knowing why this is a rebranding rather than an ending: the physical place, the population, and even the trade routes carried on largely unchanged — only the millennia-old name, tied to the Akkadian- and Sumerian-language empires that had used it, lost currency once those empires themselves stopped existing to use it.",
+      "description_ru": "После завоевания Вавилона персами-Ахеменидами в 539/538 годах до н. э. название «Дильмун» полностью исчезает из исторических записей, хотя та же гавань на месте нынешнего Кальат-эль-Бахрейна продолжала работать практически без перерыва. Стоит понимать, почему это скорее переименование, чем конец: сама местность, население и даже торговые пути в основном сохранились без изменений — исчезло лишь тысячелетнее название, привязанное к аккадо- и шумероязычным державам, которые его использовали, и вышедшее из обращения именно тогда, когда сами эти державы перестали существовать, чтобы его употреблять.",
+      "era": "BC",
+      "latitude": 26.23361,
+      "longitude": 50.52056,
+      "name": "The Name Dilmun Disappears, but the Same Harbor Keeps Working Under a Persian Empire",
+      "name_ru": "Имя Дильмун исчезает, но та же гавань продолжает работать под властью Персии",
+      "source": "https://en.wikipedia.org/wiki/Achaemenid_Empire",
+      "tags": [
+        "Dilmun",
+        "Collapse"
+      ],
+      "type": "political"
+    }
+  ]
+}
