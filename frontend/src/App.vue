@@ -62,6 +62,10 @@ body {
   line-height: 1.6;
 }
 
+button, input, select, textarea {
+  font-family: inherit;
+}
+
 #app {
   min-height: 100vh;
   display: flex;
