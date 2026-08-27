@@ -3,3 +3,4 @@
 - [Merged task completion](merged-task-completion.md) — a task can appear assigned after merging; completion callbacks then fail because merged tasks cannot be reported done again.
 - [Dev-domain rate limiting](dev-domain-rate-limiting.md) — Replit's dev-domain 429s are infra-level, not app config; full-list refetches after single-item edits and "clear on any error" handlers turn them into visible outages.
 - [Dataset thematic breadth quality bar](dataset-thematic-breadth.md) — good examples are the Wales/Greece datasets; avoid piling up near-duplicate "mentioned in a foreign record" events, cover gods/tech/daily life/geography too.
+- [Dataset prose style & DB-import status](dataset-prose-style-and-import.md) — calibrate tone against Greece's tighter style, not flowery narrative files; a written dataset JSON is not auto-loaded into the app's DB.
