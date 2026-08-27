@@ -8,12 +8,18 @@
       "type": "historic",
       "name": "Nakbe Raises Mesoamerica's First Great Monuments",
       "name_ru": "Накбе возводит первые великие монументы Месоамерики",
-      "description": "The village of Nakbe, in the Guatemalan lowlands, begins raising platforms and temples over 12 meters tall — among the earliest monumental architecture anywhere in the Maya region. Its builders organize labor on a scale unseen before in the lowlands, work that requires a central authority able to feed and direct hundreds of people at once.\n\nNakbe's success lays the groundwork for the great Preclassic cities that soon rise nearby, including its neighbor and eventual successor, El Mirador.",
-      "description_ru": "Посёлок Накбе в гватемальской низменности начинает возводить платформы и храмы высотой более 12 метров — одну из первых монументальных построек во всём регионе майя. Его строители организуют труд в масштабах, невиданных ранее в низменностях, — работу, требующую центральной власти, способной прокормить и направлять сотни людей одновременно.\n\nУспех Накбе закладывает основу для великих доклассических городов, которые скоро появятся рядом, включая его соседа и будущего преемника — Эль-Мирадор.",
+      "description": "The village of Nakbe, in the Guatemalan lowlands, begins raising platforms and temples over 12 meters tall. It is among the earliest monumental architecture anywhere in the Maya region.\n\nIts builders organize labor on a scale unseen before in the lowlands. The work demands a central authority able to feed and direct hundreds of people at once. Nakbe's success lays the groundwork for the great Preclassic cities that soon rise nearby, including its neighbor and eventual successor, El Mirador.",
+      "description_ru": "Посёлок Накбе в гватемальской низменности начинает возводить платформы и храмы высотой более 12 метров. Это одна из первых монументальных построек во всём регионе майя.\n\nЕго строители организуют труд в масштабах, невиданных ранее в низменностях. Такая работа требует центральной власти, способной прокормить и направлять сотни людей одновременно. Успех Накбе закладывает основу для великих доклассических городов, которые скоро появятся рядом, включая его соседа и будущего преемника — Эль-Мирадор.",
       "latitude": 17.6828,
       "longitude": -89.8331,
       "source": "https://en.wikipedia.org/wiki/Nakbe",
-      "tags": ["Mayan", "Preclassic", "Architecture", "City", "Lowlands"]
+      "tags": [
+        "Mayan",
+        "Preclassic",
+        "Architecture",
+        "City",
+        "Lowlands"
+      ]
     },
     {
       "date": "01.01.0300",
@@ -21,12 +27,19 @@
       "type": "religious",
       "name": "San Bartolo's Murals Tell the Maize God's Story",
       "name_ru": "Росписи Сан-Бартоло рассказывают историю Бога кукурузы",
-      "description": "In a buried chamber at San Bartolo, Preclassic Maya painters cover the walls with some of the finest murals ever found from this era, depicting the birth, sacrifice and resurrection of the Maize God alongside a king performing bloodletting rites.\n\nA nearby painted text ranks among the earliest known examples of Maya writing, showing that both the religion and the script of later centuries are already taking shape.",
-      "description_ru": "В погребённой камере Сан-Бартоло доклассические художники майя покрывают стены одними из лучших росписей своей эпохи, изображая рождение, жертву и воскресение Бога кукурузы, а также царя, совершающего обряд кровопускания.\n\nРасположенный рядом расписной текст — один из самых ранних известных образцов письменности майя: уже в это время обретают свои черты и религия, и письмо позднейших веков.",
+      "description": "In a buried chamber at San Bartolo, Preclassic Maya painters cover the walls with some of the finest murals ever found from this era. The scenes depict the birth, sacrifice and resurrection of the Maize God, alongside a king performing bloodletting rites.\n\nNearby, a painted text ranks among the earliest known examples of Maya writing. It shows that both the religion and the script of later centuries are already taking shape.",
+      "description_ru": "В погребённой камере Сан-Бартоло доклассические художники майя покрывают стены одними из лучших росписей своей эпохи. Сцены изображают рождение, жертву и воскресение Бога кукурузы, а также царя, совершающего обряд кровопускания.\n\nРядом расположен расписной текст — один из самых ранних известных образцов письменности майя. Он показывает, что уже в это время обретают свои черты и религия, и письмо позднейших веков.",
       "latitude": 17.5,
       "longitude": -89.4,
       "source": "https://en.wikipedia.org/wiki/San_Bartolo_(Maya_site)",
-      "tags": ["Mayan", "Religious", "Art", "Mythology", "Writing", "Preclassic"]
+      "tags": [
+        "Mayan",
+        "Religious",
+        "Art",
+        "Mythology",
+        "Writing",
+        "Preclassic"
+      ]
     },
     {
       "date": "01.01.0300",
@@ -34,12 +47,18 @@
       "type": "historic",
       "name": "El Mirador Becomes the First Maya Superpower",
       "name_ru": "Эль-Мирадор становится первой сверхдержавой майя",
-      "description": "El Mirador grows into the dominant power of the Preclassic Maya world, an estimated cluster of some 800 interconnected settlements centered on royal residences, marketplaces and temples.\n\nIts La Danta pyramid, one of the most massive structures ever built in the ancient Americas, announces to every neighboring polity which city rules the Petén basin.",
-      "description_ru": "Эль-Мирадор превращается в главную силу доклассического мира майя — конгломерат из примерно 800 связанных между собой поселений с царскими резиденциями, рынками и храмами в центре.\n\nЕго пирамида Ла-Данта, одно из самых массивных сооружений древней Америки, недвусмысленно даёт понять соседним государствам, кто правит бассейном Петен.",
+      "description": "El Mirador grows into the dominant power of the Preclassic Maya world. Around it spreads a cluster of some 800 interconnected settlements, centered on royal residences, marketplaces and temples.\n\nIts La Danta pyramid ranks among the most massive structures ever built in the ancient Americas. To every neighboring polity, it announces plainly which city rules the Petén basin.",
+      "description_ru": "Эль-Мирадор превращается в главную силу доклассического мира майя. Вокруг него простирается конгломерат из примерно 800 связанных между собой поселений с царскими резиденциями, рынками и храмами в центре.\n\nЕго пирамида Ла-Данта входит в число самых массивных сооружений древней Америки. Соседним государствам она недвусмысленно даёт понять, кто правит бассейном Петен.",
       "latitude": 17.755,
       "longitude": -89.92056,
       "source": "https://en.wikipedia.org/wiki/El_Mirador",
-      "tags": ["Mayan", "Preclassic", "Political", "City", "Architecture"]
+      "tags": [
+        "Mayan",
+        "Preclassic",
+        "Political",
+        "City",
+        "Architecture"
+      ]
     },
     {
       "date": "01.01.0250",
@@ -47,12 +66,19 @@
       "type": "scientific",
       "name": "El Mirador's Engineers Pave the Jungle's First Highways",
       "name_ru": "Инженеры Эль-Мирадора прокладывают первые дороги в джунглях",
-      "description": "El Mirador's engineers link their city to Nakbe and other neighbors with sacbeob, raised stone causeways rising two to six meters above the swampy jungle floor and up to 50 meters wide.\n\nBuilt for royal processions, trade caravans and military movements alike, these engineered white roads let a single ruling elite project its authority across dozens of kilometers of otherwise impassable lowland terrain.",
-      "description_ru": "Инженеры Эль-Мирадора соединяют свой город с Накбе и другими соседями сакбеобами — приподнятыми каменными дорогами высотой от двух до шести метров над заболоченным дном джунглей и шириной до 50 метров.\n\nПостроенные для царских процессий, торговых караванов и военных передвижений, эти «белые дороги» позволяют единой правящей элите распространять свою власть на десятки километров труднопроходимой низменности.",
+      "description": "El Mirador's engineers link their city to Nakbe and other neighbors with sacbeob, raised stone causeways. The roads rise two to six meters above the swampy jungle floor and stretch up to 50 meters wide.\n\nRoyal processions, trade caravans and armies alike travel these engineered white roads. They let a single ruling elite project its authority across dozens of kilometers of otherwise impassable lowland terrain.",
+      "description_ru": "Инженеры Эль-Мирадора соединяют свой город с Накбе и другими соседями сакбеобами — приподнятыми каменными дорогами. Эти дороги возвышаются от двух до шести метров над заболоченным дном джунглей и достигают 50 метров в ширину.\n\nПо этим инженерным «белым дорогам» движутся царские процессии, торговые караваны и войска. Они позволяют единой правящей элите распространять свою власть на десятки километров труднопроходимой низменности.",
       "latitude": 17.755,
       "longitude": -89.92056,
       "source": "https://en.wikipedia.org/wiki/El_Mirador",
-      "tags": ["Mayan", "Scientific", "Engineering", "Technology", "Trade", "Preclassic"]
+      "tags": [
+        "Mayan",
+        "Scientific",
+        "Engineering",
+        "Technology",
+        "Trade",
+        "Preclassic"
+      ]
     },
     {
       "date": "01.01.0150",
@@ -60,12 +86,19 @@
       "type": "historic",
       "name": "El Mirador Collapses Under the Weight of Its Own Success",
       "name_ru": "Эль-Мирадор рушится под тяжестью собственного успеха",
-      "description": "El Mirador's builders burn immense amounts of wood to bake limestone into the lime plaster that coats its pyramids, floors and pottery in smooth white stucco.\n\nStripped of tree cover, the exposed soil washes downhill into the bajos that feed the city's farmland, burying the nutrient-rich muck under two to three meters of sterile clay. As harvest after harvest fails, El Mirador starves and empties within a few generations, leaving its temples to the jungle until a smaller Late Classic population returns to plunder them for stone.",
-      "description_ru": "Строители Эль-Мирадора выжигают огромные объёмы дерева, обжигая известняк для извести, которой покрывают пирамиды, полы и даже керамику слоем гладкой белой обмазки — стукко.\n\nЛишившись древесного покрова, открытая почва смывается по склонам в бахос — болотистые понижения, питающие городские поля, — и погребает богатый питательными веществами ил под слоем стерильной глины толщиной два-три метра. Урожай за урожаем гибнет, и Эль-Мирадор пустеет за несколько поколений, оставляя храмы джунглям, пока в позднеклассический период немногочисленные жители не возвращаются, чтобы разобрать их на строительный камень.",
+      "description": "The Maya of El Mirador cover their giant pyramids, floors and even pottery in a thick layer of lime plaster, known as stucco. Baking the limestone for this plaster demands enormous quantities of firewood.\n\nGeneration after generation, the builders cut down the surrounding tropical forest, and soil erosion sets in around the city. Rain washes the exposed clay and bare rock down into the bajos, the swampy lowlands where farmers grow their crops, burying the fertile soil under a thick layer of sterile mud. Harvest after harvest fails, and within a few generations the city is deserted; a smaller population returns only much later, to pick over its ruins for stone.",
+      "description_ru": "Майя Эль-Мирадора покрывают свои гигантские пирамиды, полы и даже керамику толстым слоем известковой обмазки — стукко. Обжиг известняка для этой обмазки требует огромных объёмов дров.\n\nПоколение за поколением строители вырубают окружающий тропический лес, и вокруг города начинается эрозия почвы. Дождь смывает обнажённую глину и голый камень в бахос — заболоченные низины, где земледельцы выращивают урожай, — погребая плодородную землю под толстым слоем бесплодного ила. Урожай за урожаем гибнет, и через несколько поколений город пустеет; лишь много позже туда возвращается небольшое население, чтобы разобрать руины на камень.",
       "latitude": 17.755,
       "longitude": -89.92056,
       "source": "https://en.wikipedia.org/wiki/El_Mirador",
-      "tags": ["Mayan", "Historic", "Environment", "Drought", "Collapse", "Preclassic"]
+      "tags": [
+        "Mayan",
+        "Historic",
+        "Environment",
+        "Drought",
+        "Collapse",
+        "Preclassic"
+      ]
     },
     {
       "date": "01.01.0090",
@@ -73,12 +106,18 @@
       "type": "political",
       "name": "Tikal's Royal Dynasty Takes Root",
       "name_ru": "В Тикале укореняется царская династия",
-      "description": "Later hieroglyphic records credit a ruler named Yax Ehb' Xook with founding Tikal's royal line, perhaps around the turn of the 1st century AD.\n\nAs larger Preclassic states like El Mirador falter, Tikal's dynasty steadily gathers strength in the vacuum, positioning the city to become, alongside Calakmul, one of the two great rival powers of the Classic Maya world.",
-      "description_ru": "Позднейшие иероглифические записи называют основателем царской линии Тикаля правителя Йаш-Эб-Шока, правившего, возможно, на рубеже I века н. э.\n\nПока крупные доклассические державы, такие как Эль-Мирадор, приходят в упадок, династия Тикаля неуклонно набирает силу в образовавшемся вакууме, готовя город стать вместе с Калакмулем одной из двух великих соперничающих сил классического мира майя.",
+      "description": "Later hieroglyphic records credit a ruler named Yax Ehb' Xook with founding Tikal's royal line. He rules, by these accounts, around the turn of the 1st century AD.\n\nLarger Preclassic states like El Mirador begin to falter around this time, and Tikal's young dynasty steadily gathers strength in the vacuum they leave behind. The city is positioning itself to become, alongside Calakmul, one of the two great rival powers of the Classic Maya world.",
+      "description_ru": "Позднейшие иероглифические записи называют основателем царской линии Тикаля правителя Йаш-Эб-Шока. По этим свидетельствам, он правит на рубеже I века н. э.\n\nПримерно в это время крупные доклассические державы, такие как Эль-Мирадор, начинают приходить в упадок, и молодая династия Тикаля неуклонно набирает силу в образовавшемся вакууме. Город готовится стать вместе с Калакмулем одной из двух великих соперничающих сил классического мира майя.",
       "latitude": 17.22194,
       "longitude": -89.62361,
       "source": "https://en.wikipedia.org/wiki/Tikal",
-      "tags": ["Mayan", "Political", "Dynasty", "Tikal", "Classic"]
+      "tags": [
+        "Mayan",
+        "Political",
+        "Dynasty",
+        "Tikal",
+        "Classic"
+      ]
     },
     {
       "date": "01.01.0292",
@@ -86,12 +125,19 @@
       "type": "scientific",
       "name": "The Long Count Reaches the Maya Lowlands",
       "name_ru": "Длинный счёт достигает низменностей майя",
-      "description": "Tikal's Stela 29 carries a Long Count inscription corresponding to 292 AD, the earliest date recorded on an unambiguously Maya monument.\n\nBuilt on a base-20 positional system with its own symbol for zero, the Long Count lets Maya scribes track vast spans of time with mathematical precision, anchoring dynastic histories, wars and prophecies to a single unbroken calendar that runs back to a mythical creation date.",
-      "description_ru": "Стела 29 из Тикаля несёт иероглифическую надпись Длинного счёта, соответствующую 292 году н. э. — самой ранней дате, зафиксированной на однозначно майяском монументе.\n\nПостроенный на двадцатичной позиционной системе со своим символом нуля, Длинный счёт позволяет писцам майя отслеживать огромные промежутки времени с математической точностью, привязывая династические хроники, войны и пророчества к единому непрерывному календарю, уходящему к мифической дате творения.",
+      "description": "Tikal's Stela 29 carries a Long Count inscription corresponding to 292 AD. It is the earliest date recorded on any unambiguously Maya monument.\n\nThe Long Count runs on a base-20 positional system with its own symbol for zero, letting Maya scribes track vast spans of time with mathematical precision. Scribes use it to anchor dynastic histories, wars and prophecies to a single unbroken calendar that runs back to a mythical creation date.",
+      "description_ru": "Стела 29 из Тикаля несёт надпись Длинного счёта, соответствующую 292 году н. э. Это самая ранняя дата, зафиксированная на однозначно майяском монументе.\n\nДлинный счёт построен на двадцатичной позиционной системе со своим символом нуля, что позволяет писцам майя отслеживать огромные промежутки времени с математической точностью. С его помощью писцы привязывают династические хроники, войны и пророчества к единому непрерывному календарю, уходящему к мифической дате творения.",
       "latitude": 17.22194,
       "longitude": -89.62361,
       "source": "https://en.wikipedia.org/wiki/Mesoamerican_Long_Count_calendar",
-      "tags": ["Mayan", "Scientific", "Calendar", "Mathematics", "Writing", "Tikal"]
+      "tags": [
+        "Mayan",
+        "Scientific",
+        "Calendar",
+        "Mathematics",
+        "Writing",
+        "Tikal"
+      ]
     },
     {
       "date": "01.01.0378",
@@ -99,12 +145,18 @@
       "type": "military",
       "name": "The Entrada: A Foreign Warlord Seizes Tikal's Throne",
       "name_ru": "Энтрада: чужой военачальник захватывает трон Тикаля",
-      "description": "The warlord Siyaj K'ak' arrives at Tikal on 16 January 378, backed by the distant power of Teotihuacan, and the city's own king dies that same day under suspicious circumstances.\n\nA new royal line beholden to the foreign intruder takes the throne, and within a generation Tikal's court has absorbed Teotihuacan fashions in dress, weaponry and imagery even as it remains, at its core, unmistakably Maya.",
-      "description_ru": "Военачальник Сиях-Кʼакʼ прибывает в Тикаль 16 января 378 года, опираясь на поддержку далёкого Теотиуакана, и в тот же день при подозрительных обстоятельствах умирает собственный царь города.\n\nТрон занимает новый царский род, обязанный чужому пришельцу, и уже через поколение двор Тикаля перенимает теотиуаканскую моду в одежде, оружии и образах, хотя в своей основе остаётся безусловно майяским.",
+      "description": "The warlord Siyaj K'ak' arrives at Tikal on 16 January 378, backed by the distant power of Teotihuacan. That same day, Tikal's own king dies under suspicious circumstances.\n\nA new royal line beholden to the foreign intruder takes the throne. Within a generation, Tikal's court has absorbed Teotihuacan fashions in dress, weaponry and imagery, even as the city remains, at its core, unmistakably Maya.",
+      "description_ru": "Военачальник Сиях-Кʼакʼ прибывает в Тикаль 16 января 378 года, опираясь на поддержку далёкого Теотиуакана. В тот же день при подозрительных обстоятельствах умирает собственный царь города.\n\nТрон занимает новый царский род, обязанный чужому пришельцу. Уже через поколение двор Тикаля перенимает теотиуаканскую моду в одежде, оружии и образах, хотя в своей основе город остаётся безусловно майяским.",
       "latitude": 17.22194,
       "longitude": -89.62361,
       "source": "https://en.wikipedia.org/wiki/Siyaj_K%CA%BCak%CA%BC",
-      "tags": ["Mayan", "Military", "Conquest", "Tikal", "Teotihuacan"]
+      "tags": [
+        "Mayan",
+        "Military",
+        "Conquest",
+        "Tikal",
+        "Teotihuacan"
+      ]
     },
     {
       "date": "09.02.0427",
@@ -112,12 +164,18 @@
       "type": "political",
       "name": "A New Dynasty Rises at Copán",
       "name_ru": "В Копане возникает новая династия",
-      "description": "K'inich Yax K'uk' Mo' is installed as the founding king of Copán on 9 February 427, receiving his royal scepter in a ceremony that also places a subordinate ruler at Quiriguá.\n\nHis line will govern Copán for sixteen generations and four centuries, transforming a modest valley on the Maya world's southeastern edge into one of its most sophisticated centers of art and astronomy.",
-      "description_ru": "Кʼинич Йаш Кʼукʼ Моʼ возводится на трон как основатель царской линии Копана 9 февраля 427 года, получив царский скипетр на церемонии, в ходе которой в Киригуа также ставится подчинённый правитель.\n\nЕго род будет управлять Копаном шестнадцать поколений и четыре века, превратив скромную долину на юго-восточном краю мира майя в один из самых утончённых центров искусства и астрономии.",
+      "description": "K'inich Yax K'uk' Mo' is installed as the founding king of Copán on 9 February 427. In the same ceremony where he receives his royal scepter, a subordinate ruler is placed at nearby Quiriguá.\n\nHis line will govern Copán for sixteen generations and four centuries. Under it, a modest valley on the Maya world's southeastern edge grows into one of its most sophisticated centers of art and astronomy.",
+      "description_ru": "Кʼинич Йаш Кʼукʼ Моʼ возводится на трон как основатель царской линии Копана 9 февраля 427 года. На той же церемонии, где он получает царский скипетр, подчинённый правитель ставится и в соседнем Киригуа.\n\nЕго род будет управлять Копаном шестнадцать поколений и четыре века. Под его властью скромная долина на юго-восточном краю мира майя превратится в один из самых утончённых центров искусства и астрономии.",
       "latitude": 14.8375,
       "longitude": -89.1425,
       "source": "https://en.wikipedia.org/wiki/K%27inich_Yax_K%27uk%27_Mo%27",
-      "tags": ["Mayan", "Political", "Dynasty", "Copan", "Classic"]
+      "tags": [
+        "Mayan",
+        "Political",
+        "Dynasty",
+        "Copan",
+        "Classic"
+      ]
     },
     {
       "date": "01.01.0400",
@@ -125,12 +183,18 @@
       "type": "cultural",
       "name": "Kaminaljuyu Becomes the Highlands' Gateway to Teotihuacan",
       "name_ru": "Каминальхуйю становится вратами нагорья к Теотиуакану",
-      "description": "Nestled in the Guatemalan highlands, Kaminaljuyu grows into a cosmopolitan crossroads where Maya lords adopt talud-tablero architecture and burial customs borrowed from distant Teotihuacan, blending them with local traditions in its elite Esperanza-phase tombs.\n\nIts control of obsidian and cacao routes between the Pacific coast and the lowland jungles makes it indispensable to any power seeking influence across the Maya world.",
-      "description_ru": "Расположенный в гватемальском нагорье Каминальхуйю превращается в космополитичный перекрёсток, где владыки майя перенимают архитектуру талуд-таблеро и погребальные обычаи, заимствованные у далёкого Теотиуакана, соединяя их с местными традициями в элитных гробницах фазы Эсперанса.\n\nКонтроль над путями обсидиана и какао между тихоокеанским побережьем и низменными джунглями делает его незаменимым для любой силы, стремящейся к влиянию в мире майя.",
+      "description": "Nestled in the Guatemalan highlands, Kaminaljuyu grows into a cosmopolitan crossroads. Its Maya lords adopt talud-tablero architecture and burial customs borrowed from distant Teotihuacan, blending them with local traditions in the elite tombs of its Esperanza phase.\n\nThe city controls the obsidian and cacao routes running between the Pacific coast and the lowland jungles. That control makes it indispensable to any power seeking influence across the Maya world.",
+      "description_ru": "Расположенный в гватемальском нагорье, Каминальхуйю превращается в космополитичный перекрёсток. Его владыки майя перенимают архитектуру талуд-таблеро и погребальные обычаи, заимствованные у далёкого Теотиуакана, соединяя их с местными традициями в элитных гробницах фазы Эсперанса.\n\nГород контролирует пути обсидиана и какао между тихоокеанским побережьем и низменными джунглями. Этот контроль делает его незаменимым для любой силы, стремящейся к влиянию в мире майя.",
       "latitude": 14.6328,
       "longitude": -90.5491,
       "source": "https://en.wikipedia.org/wiki/Kaminaljuyu",
-      "tags": ["Mayan", "Cultural", "Trade", "Highlands", "Teotihuacan"]
+      "tags": [
+        "Mayan",
+        "Cultural",
+        "Trade",
+        "Highlands",
+        "Teotihuacan"
+      ]
     },
     {
       "date": "01.01.0500",
@@ -138,12 +202,18 @@
       "type": "scientific",
       "name": "The Maya Formalize a Written Zero",
       "name_ru": "Майя закрепляют письменный ноль",
-      "description": "Across the Classic lowlands, Maya scribes write numbers with just three symbols: a dot for one, a bar for five, and a shell-shaped glyph for zero, combined in a vigesimal, base-20 positional system.\n\nThis elegant notation, centuries ahead of the zero's arrival in Europe, lets astronomer-priests calculate eclipses, planetary cycles and calendar dates spanning millions of days without losing precision.",
-      "description_ru": "По всей классической низменности писцы майя записывают числа всего тремя символами: точкой для единицы, чертой для пятёрки и глифом в форме ракушки для нуля, соединёнными в двадцатичной позиционной системе.\n\nЭта изящная система записи, на века опередившая появление нуля в Европе, позволяет жрецам-астрономам вычислять затмения, планетарные циклы и календарные даты, охватывающие миллионы дней, без потери точности.",
+      "description": "Across the Classic lowlands, Maya scribes write numbers with just three symbols: a dot for one, a bar for five, and a shell-shaped glyph for zero. They combine these in a vigesimal, base-20 positional system.\n\nThis elegant notation reaches the Maya centuries before the zero arrives in Europe. It lets astronomer-priests calculate eclipses, planetary cycles and calendar dates spanning millions of days without losing precision.",
+      "description_ru": "По всей классической низменности писцы майя записывают числа всего тремя символами: точкой для единицы, чертой для пятёрки и глифом в форме ракушки для нуля. Они соединяют их в двадцатичной позиционной системе.\n\nЭта изящная система появляется у майя на века раньше, чем ноль доходит до Европы. Она позволяет жрецам-астрономам вычислять затмения, планетарные циклы и календарные даты, охватывающие миллионы дней, без потери точности.",
       "latitude": 14.8375,
       "longitude": -89.1425,
       "source": "https://en.wikipedia.org/wiki/Maya_numerals",
-      "tags": ["Mayan", "Scientific", "Mathematics", "Astronomy", "Writing"]
+      "tags": [
+        "Mayan",
+        "Scientific",
+        "Mathematics",
+        "Astronomy",
+        "Writing"
+      ]
     },
     {
       "date": "01.01.0550",
@@ -151,12 +221,18 @@
       "type": "political",
       "name": "Calakmul Emerges as the Kingdom of the Snake",
       "name_ru": "Калакмуль возникает как царство Змеи",
-      "description": "Calakmul has grown into the seat of the Kaan, or Snake, dynasty, a sprawling network of allied and subjugated cities that rivals Tikal for dominance of the Maya lowlands.\n\nIts rulers wage a patient, decades-long campaign of alliances, royal marriages and proxy wars designed to encircle and isolate their great rival to the south.",
-      "description_ru": "Калакмуль превращается в резиденцию династии Каан, или Змеи, — обширной сети союзных и подчинённых городов, соперничающей с Тикалем за господство в низменностях майя.\n\nЕго правители ведут терпеливую, растянутую на десятилетия кампанию союзов, царских браков и войн через вассалов, призванную окружить и изолировать великого соперника на юге.",
+      "description": "Calakmul has grown into the seat of the Kaan, or Snake, dynasty. Around it spreads a sprawling network of allied and subjugated cities that rivals Tikal for dominance of the Maya lowlands.\n\nIts rulers wage a patient, decades-long campaign of alliances, royal marriages and proxy wars. The goal is simple: encircle and isolate their great rival to the south.",
+      "description_ru": "Калакмуль превращается в резиденцию династии Каан, или Змеи. Вокруг него простирается обширная сеть союзных и подчинённых городов, соперничающая с Тикалем за господство в низменностях майя.\n\nЕго правители ведут терпеливую, растянутую на десятилетия кампанию союзов, царских браков и войн через вассалов. Цель проста: окружить и изолировать великого соперника на юге.",
       "latitude": 18.1054,
       "longitude": -89.8108,
       "source": "https://en.wikipedia.org/wiki/Calakmul",
-      "tags": ["Mayan", "Political", "Calakmul", "Rivalry", "Classic"]
+      "tags": [
+        "Mayan",
+        "Political",
+        "Calakmul",
+        "Rivalry",
+        "Classic"
+      ]
     },
     {
       "date": "01.01.0562",
@@ -164,12 +240,18 @@
       "type": "military",
       "name": "Caracol Humbles Tikal in the First Recorded Star War",
       "name_ru": "Каракол смиряет Тикаль в первой зафиксированной звёздной войне",
-      "description": "The city of Caracol, backed by Calakmul, defeats Tikal in a so-called star war timed to the movements of Venus, capturing and likely sacrificing Tikal's king Wak Chan K'awiil.\n\nThe blow is so severe that Tikal erects no new dated monuments for over a century, a mysterious quiet period historians call the hiatus.",
-      "description_ru": "Город Каракол, опираясь на поддержку Калакмуля, разгромляет Тикаль в так называемой «звёздной войне», приурочённой к движению Венеры, захватив и, вероятно, принеся в жертву царя Тикаля Вак-Чан-Кʼавиля.\n\nУдар настолько тяжёл, что Тикаль не воздвигает новых датированных монументов более столетия — этот загадочный период историки называют «паузой».",
+      "description": "The city of Caracol, backed by Calakmul, defeats Tikal in a so-called star war, timed to the movements of Venus. Caracol's warriors capture Tikal's king, Wak Chan K'awiil, and likely sacrifice him.\n\nThe blow is so severe that Tikal erects no new dated monuments for over a century. Historians call this mysterious quiet period the hiatus.",
+      "description_ru": "Город Каракол, опираясь на поддержку Калакмуля, разгромляет Тикаль в так называемой «звёздной войне», приурочённой к движению Венеры. Воины Каракола захватывают царя Тикаля Вак-Чан-Кʼавиля и, вероятно, приносят его в жертву.\n\nУдар настолько тяжёл, что Тикаль не воздвигает новых датированных монументов более столетия. Историки называют этот загадочный период «паузой».",
       "latitude": 16.76389,
       "longitude": -89.1175,
       "source": "https://en.wikipedia.org/wiki/Caracol,_Belize",
-      "tags": ["Mayan", "Military", "Warfare", "Tikal", "Astronomy"]
+      "tags": [
+        "Mayan",
+        "Military",
+        "Warfare",
+        "Tikal",
+        "Astronomy"
+      ]
     },
     {
       "date": "01.01.0648",
@@ -177,12 +259,19 @@
       "type": "political",
       "name": "A Tikal Prince Defects and Founds a Rival Throne",
       "name_ru": "Принц Тикаля переходит на сторону врага и основывает соперничающий трон",
-      "description": "B'alaj Chan K'awiil, a prince of Tikal's own royal line who considers himself its rightful heir, breaks away and founds Dos Pilas as a new kingdom under the overlordship of Tikal's great rival, Calakmul.\n\nBacked by Calakmul's patronage, he rules Dos Pilas for nearly half a century as a forward base for war against his former home. Two of his children will carry the rivalry into the next generation: a son, Itzamnaaj K'awiil, born in exile at Calakmul's court, and a daughter, Wak Chanil Ajaw, who will leave to found her own royal line elsewhere.",
-      "description_ru": "Бʼалах-Чан-Кʼавиль, принц собственной царской линии Тикаля, считающий себя законным наследником, отделяется и основывает Дос-Пилас как новое царство под покровительством великого соперника Тикаля — Калакмуля.\n\nОпираясь на покровительство Калакмуля, он правит Дос-Пиласом почти полвека, превратив его в передовую базу для войны против собственной бывшей родины. Двое его детей продолжат эту вражду в следующем поколении: сын Итцамнаах-Кʼавиль, рождённый в изгнании при дворе Калакмуля, и дочь Вак-Чаниль-Ахав, которая позже покинет Дос-Пилас, чтобы основать собственную царскую линию.",
+      "description": "B'alaj Chan K'awiil is a prince of Tikal's own royal line, and he considers himself its rightful heir. He breaks away and founds Dos Pilas as a new kingdom, placing it under the overlordship of Tikal's great rival, Calakmul.\n\nBacked by Calakmul's patronage, he rules Dos Pilas for nearly half a century as a forward base for war against his former home. Two of his children will carry the rivalry into the next generation: a son, Itzamnaaj K'awiil, born in exile at Calakmul's court, and a daughter, Wak Chanil Ajaw, who will leave to found her own royal line elsewhere.",
+      "description_ru": "Бʼалах-Чан-Кʼавиль — принц собственной царской линии Тикаля, считающий себя её законным наследником. Он отделяется и основывает Дос-Пилас как новое царство, отдав его под покровительство великого соперника Тикаля — Калакмуля.\n\nОпираясь на покровительство Калакмуля, он правит Дос-Пиласом почти полвека, превратив его в передовую базу для войны против собственной бывшей родины. Двое его детей продолжат эту вражду в следующем поколении: сын Итцамнаах-Кʼавиль, рождённый в изгнании при дворе Калакмуля, и дочь Вак-Чаниль-Ахав, которая позже покинет Дос-Пилас, чтобы основать собственную царскую линию.",
       "latitude": 16.44583,
       "longitude": -90.29583,
       "source": "https://en.wikipedia.org/wiki/Dos_Pilas",
-      "tags": ["Mayan", "Political", "Dynasty", "Dos Pilas", "Rivalry", "Classic"]
+      "tags": [
+        "Mayan",
+        "Political",
+        "Dynasty",
+        "Dos Pilas",
+        "Rivalry",
+        "Classic"
+      ]
     },
     {
       "date": "24.03.0698",
@@ -190,12 +279,18 @@
       "type": "political",
       "name": "Itzamnaaj K'awiil Binds Dos Pilas Together With Ritual and Marriage",
       "name_ru": "Итцамнаах-Кʼавиль скрепляет Дос-Пилас ритуалом и родством",
-      "description": "Itzamnaaj K'awiil becomes king of Dos Pilas, ruling the Petexbatún kingdom from its lakeside capital in the southwestern Petén. Born in exile at Calakmul's court during his family's war with Tikal, he grows up an exile's son before inheriting the throne his father carved out by force.\n\nHe marks his 28-year reign with at least one great ritual circuit, a ceremonial procession to outlying shrines and subordinate towns that publicly reasserts his authority over the kingdom's frontier. Off the battlefield, his sister Wak Chanil Ajaw, remembered as Lady Six Sky, is sent to found a new royal line at Naranjo, weaving a family network that lets Dos Pilas press its rivals from multiple directions at once.",
-      "description_ru": "Итцамнаах-Кʼавиль становится царём Дос-Пиласа, правя царством Петешбатун из его столицы на берегу озера в юго-западном Петене. Рождённый в изгнании при дворе Калакмуля во время войны его семьи с Тикалем, он вырастает сыном изгнанника, прежде чем унаследовать трон, добытый его отцом силой.\n\nСвоё 28-летнее правление он отмечает по меньшей мере одним великим ритуальным обходом — торжественным шествием к отдалённым святилищам и подчинённым городам, публично подтверждающим его власть над окраинами царства. Вне поля битвы его сестру Вак-Чаниль-Ахав, известную как госпожа Шесть Небес, отправляют основать новую царскую линию в Наранхо, создавая семейную сеть, позволяющую Дос-Пиласу теснить соперников с нескольких сторон одновременно.",
+      "description": "Itzamnaaj K'awiil becomes king of Dos Pilas, ruling the Petexbatún kingdom from its lakeside capital in the southwestern Petén. He is born in exile at Calakmul's court, during his family's war with Tikal, and grows up as an exile's son. Eventually he inherits the throne his father carved out by force.\n\nHe marks his 28-year reign with at least one great ritual circuit: a ceremonial procession to outlying shrines and subordinate towns that publicly reasserts his authority over the kingdom's frontier. Off the battlefield, his sister Wak Chanil Ajaw, remembered as Lady Six Sky, is sent to found a new royal line at Naranjo. This dynastic move weaves a family network that lets Dos Pilas press its rivals from multiple directions at once.",
+      "description_ru": "Итцамнаах-Кʼавиль становится царём Дос-Пиласа, правя царством Петешбатун из его столицы на берегу озера в юго-западном Петене. Он рождается в изгнании при дворе Калакмуля, во время войны его семьи с Тикалем, и растёт сыном изгнанника. Со временем он наследует трон, добытый его отцом силой.\n\nСвоё 28-летнее правление он отмечает по меньшей мере одним великим ритуальным обходом: торжественным шествием к отдалённым святилищам и подчинённым городам, публично подтверждающим его власть над окраинами царства. Вне поля битвы его сестру Вак-Чаниль-Ахав, известную как госпожа Шесть Небес, отправляют основать новую царскую линию в Наранхо. Этот династический шаг создаёт семейную сеть, позволяющую Дос-Пиласу теснить соперников с нескольких сторон одновременно.",
       "latitude": 16.44583,
       "longitude": -90.29583,
       "source": "https://en.wikipedia.org/wiki/Itzamnaaj_K%27awiil",
-      "tags": ["Mayan", "Political", "Dos Pilas", "Naranjo", "Ritual"]
+      "tags": [
+        "Mayan",
+        "Political",
+        "Dos Pilas",
+        "Naranjo",
+        "Ritual"
+      ]
     },
     {
       "date": "01.01.0683",
@@ -203,12 +298,18 @@
       "type": "cultural",
       "name": "Pakal the Great Is Laid to Rest Beneath the Temple of Inscriptions",
       "name_ru": "Пакаль Великий обретает покой под Храмом Надписей",
-      "description": "King K'inich Janaab' Pakal of Palenque dies after a reign of nearly seven decades and is sealed inside a massive carved sarcophagus deep within the Temple of Inscriptions, its lid famously depicting him descending into the underworld.\n\nThe temple's namesake hieroglyphic panels record one of the longest continuous royal histories carved by any Classic Maya kingdom.",
-      "description_ru": "Царь Пакаля Кʼинич-Ханааб-Пакаль умирает после почти семидесятилетнего правления, и его тело помещают в массивный резной саркофаг в глубине Храма Надписей, крышка которого изображает его спуск в подземный мир.\n\nДавшие храму имя иероглифические панели фиксируют одну из самых длинных непрерывных династических хроник, вырезанных любым царством классических майя.",
+      "description": "King K'inich Janaab' Pakal of Palenque dies after a reign of nearly seven decades. His body is sealed inside a massive carved sarcophagus deep within the Temple of Inscriptions, its lid famously depicting him descending into the underworld.\n\nThe temple takes its name from hieroglyphic panels lining its walls. They record one of the longest continuous royal histories carved by any Classic Maya kingdom.",
+      "description_ru": "Царь Пакаля Кʼинич-Ханааб-Пакаль умирает после почти семидесятилетнего правления. Его тело помещают в массивный резной саркофаг в глубине Храма Надписей, крышка которого изображает его спуск в подземный мир.\n\nХрам получил своё имя благодаря иероглифическим панелям, покрывающим его стены. Они фиксируют одну из самых длинных непрерывных династических хроник, вырезанных любым царством классических майя.",
       "latitude": 17.48417,
       "longitude": -92.0463,
       "source": "https://en.wikipedia.org/wiki/Palenque",
-      "tags": ["Mayan", "Cultural", "Palenque", "Dynasty", "Death"]
+      "tags": [
+        "Mayan",
+        "Cultural",
+        "Palenque",
+        "Dynasty",
+        "Death"
+      ]
     },
     {
       "date": "01.01.0682",
@@ -216,12 +317,18 @@
       "type": "political",
       "name": "Jasaw Chan K'awiil I Ends Tikal's Century of Silence",
       "name_ru": "Хасав-Чан-Кʼавиль I прерывает вековое молчание Тикаля",
-      "description": "Jasaw Chan K'awiil I ascends Tikal's throne and ends more than a century without a single new dated monument, the long quiet later called the hiatus. He orders the city's first new stela in generations, publicly signaling that Tikal has recovered its strength since its defeat by Calakmul-backed Caracol.\n\nThe revival launches an ambitious building campaign that will culminate in his own funerary pyramid, Temple I, and sets the stage for a reckoning with Calakmul within his lifetime.",
-      "description_ru": "Хасав-Чан-Кʼавиль I восходит на трон Тикаля и прерывает более чем вековое молчание без единого нового датированного монумента — долгую тишину, которую позже назовут «паузой». Он заказывает первую за много поколений новую стелу города, публично заявляя, что Тикаль восстановил силы после поражения от Каракола, поддержанного Калакмулем.\n\nВозрождение запускает масштабную строительную программу, которая завершится его собственной погребальной пирамидой — Храмом I, — и готовит почву для решающего расчёта с Калакмулем ещё при его жизни.",
+      "description": "Jasaw Chan K'awiil I ascends Tikal's throne. His reign ends more than a century without a single new dated monument, the long quiet later called the hiatus. He orders the city's first new stela in generations, publicly signaling that Tikal has recovered its strength since its defeat by Calakmul-backed Caracol.\n\nThe revival launches an ambitious building campaign. It will culminate in his own funerary pyramid, Temple I, and sets the stage for a reckoning with Calakmul within his lifetime.",
+      "description_ru": "Хасав-Чан-Кʼавиль I восходит на трон Тикаля. Его правление прерывает более чем вековое молчание без единого нового датированного монумента — долгую тишину, которую позже назовут «паузой». Он заказывает первую за много поколений новую стелу города, публично заявляя, что Тикаль восстановил силы после поражения от Каракола, поддержанного Калакмулем.\n\nВозрождение запускает масштабную строительную программу. Она завершится его собственной погребальной пирамидой — Храмом I — и готовит почву для решающего расчёта с Калакмулем ещё при его жизни.",
       "latitude": 17.22194,
       "longitude": -89.62361,
       "source": "https://en.wikipedia.org/wiki/Tikal",
-      "tags": ["Mayan", "Political", "Tikal", "Revival", "Classic"]
+      "tags": [
+        "Mayan",
+        "Political",
+        "Tikal",
+        "Revival",
+        "Classic"
+      ]
     },
     {
       "date": "01.01.0695",
@@ -229,12 +336,18 @@
       "type": "military",
       "name": "Tikal Breaks Calakmul's Power for Good",
       "name_ru": "Тикаль окончательно ломает мощь Калакмуля",
-      "description": "Jasaw Chan K'awiil I leads Tikal to a decisive victory over Calakmul, capturing one of its leading nobles in battle and putting the humiliation on public record.\n\nThe defeat plunges the Snake Kingdom's dynasty into a decline from which it never fully recovers; Calakmul never again dares celebrate a military victory in stone.",
-      "description_ru": "Хасав-Чан-Кʼавиль I ведёт Тикаль к решающей победе над Калакмулем, захватывая в бою одного из его знатнейших вельмож и увековечивая это унижение на камне.\n\nПоражение ввергает династию царства Змеи в упадок, от которого она уже не восстановится; Калакмуль больше никогда не решится праздновать военную победу в камне.",
+      "description": "Jasaw Chan K'awiil I leads Tikal to a decisive victory over Calakmul. His warriors capture one of Calakmul's leading nobles in battle, and Tikal puts the humiliation on public record in stone.\n\nThe defeat plunges the Snake Kingdom's dynasty into a decline from which it never fully recovers; Calakmul never again dares celebrate a military victory of its own in stone.",
+      "description_ru": "Хасав-Чан-Кʼавиль I ведёт Тикаль к решающей победе над Калакмулем. Его воины захватывают в бою одного из знатнейших вельмож Калакмуля, и Тикаль увековечивает это унижение на камне.\n\nПоражение ввергает династию царства Змеи в упадок, от которого она уже не восстановится; Калакмуль больше никогда не решится увековечить в камне собственную военную победу.",
       "latitude": 17.22194,
       "longitude": -89.62361,
       "source": "https://en.wikipedia.org/wiki/Tikal",
-      "tags": ["Mayan", "Military", "Tikal", "Calakmul", "Rivalry"]
+      "tags": [
+        "Mayan",
+        "Military",
+        "Tikal",
+        "Calakmul",
+        "Rivalry"
+      ]
     },
     {
       "date": "28.10.0709",
@@ -242,12 +355,18 @@
       "type": "religious",
       "name": "Lady K'ab'al Xook Draws Blood Before the Vision Serpent",
       "name_ru": "Госпожа Кʼабʼаль-Шок проливает кровь перед Змеем Видения",
-      "description": "Yaxchilan's Lintel 24 immortalizes Lady K'ab'al Xook drawing a barbed rope through her pierced tongue on 28 October 709, while her husband King Itzamnaaj B'alam II holds a ceremonial torch beside her.\n\nRoyal bloodletting rituals like this are believed to summon the Vision Serpent, a conduit to ancestors and gods, confirming the sacred legitimacy of the ruling couple before their court.",
-      "description_ru": "Стеловая перемычка 24 в Йашчилане увековечивает госпожу Кʼабʼаль-Шок, протягивающую шипастую веревку через прокол в языке 28 октября 709 года, в то время как её муж, царь Итцамнаах-Балам II, держит рядом церемониальный факел.\n\nПодобные царские обряды кровопускания, как считалось, призывали Змея Видения — проводника к предкам и богам — подтверждая священную легитимность правящей пары перед двором.",
+      "description": "Yaxchilan's Lintel 24 immortalizes Lady K'ab'al Xook on 28 October 709, drawing a barbed rope through her pierced tongue. Beside her, her husband King Itzamnaaj B'alam II holds a ceremonial torch.\n\nRoyal bloodletting rituals like this are believed to summon the Vision Serpent, a conduit to ancestors and gods. Performing it publicly confirms the sacred legitimacy of the ruling couple before their court.",
+      "description_ru": "Стеловая перемычка 24 в Йашчилане увековечивает госпожу Кʼабʼаль-Шок 28 октября 709 года, протягивающую шипастую веревку через прокол в языке. Рядом с ней её муж, царь Итцамнаах-Балам II, держит церемониальный факел.\n\nСчитается, что подобные царские обряды кровопускания призывают Змея Видения — проводника к предкам и богам. Совершённый публично, этот обряд подтверждает священную легитимность правящей пары перед двором.",
       "latitude": 16.9,
       "longitude": -90.967,
       "source": "https://en.wikipedia.org/wiki/Yaxchilan",
-      "tags": ["Mayan", "Religious", "Ritual", "Yaxchilan", "Royalty"]
+      "tags": [
+        "Mayan",
+        "Religious",
+        "Ritual",
+        "Yaxchilan",
+        "Royalty"
+      ]
     },
     {
       "date": "01.01.0738",
@@ -255,12 +374,18 @@
       "type": "military",
       "name": "Quiriguá's King Captures and Beheads His Overlord of Copán",
       "name_ru": "Царь Киригуа захватывает и обезглавливает своего повелителя из Копана",
-      "description": "K'ak' Tiliw Chan Yopaat, the vassal king of Quiriguá, captures his overlord Uaxaclajuun Ub'aah K'awiil of Copán, known to history as 18-Rabbit, and has him beheaded.\n\nThe stunning upset ends a century of subordination to Copán and lets Quiriguá raise its own towering sandstone stelae as an independent Classic Maya kingdom in its own right.",
-      "description_ru": "Кʼакʼ-Тилив-Чан-Йопаат, вассальный царь Киригуа, захватывает своего повелителя Уашаклахун-Убах-Кʼавиля из Копана, известного истории как «18-Кролик», и приказывает его обезглавить.\n\nЭто неожиданное поражение кладёт конец столетию подчинения Копану и позволяет Киригуа возвести собственные высокие песчаниковые стелы уже как самостоятельному царству классических майя.",
+      "description": "K'ak' Tiliw Chan Yopaat, the vassal king of Quiriguá, captures his own overlord: Uaxaclajuun Ub'aah K'awiil of Copán, known to history as 18-Rabbit. He has the captured king beheaded.\n\nThe stunning upset ends a century of subordination to Copán. Quiriguá can now raise its own towering sandstone stelae as an independent Classic Maya kingdom in its own right.",
+      "description_ru": "Кʼакʼ-Тилив-Чан-Йопаат, вассальный царь Киригуа, захватывает собственного повелителя — Уашаклахун-Убах-Кʼавиля из Копана, известного истории как «18-Кролик». Он приказывает обезглавить захваченного царя.\n\nЭто неожиданное поражение кладёт конец столетию подчинения Копану. Теперь Киригуа может возводить собственные высокие песчаниковые стелы как самостоятельное царство классических майя.",
       "latitude": 15.26944,
       "longitude": -89.04028,
       "source": "https://en.wikipedia.org/wiki/Quirigu%C3%A1",
-      "tags": ["Mayan", "Military", "Quirigua", "Copan", "Rivalry"]
+      "tags": [
+        "Mayan",
+        "Military",
+        "Quirigua",
+        "Copan",
+        "Rivalry"
+      ]
     },
     {
       "date": "01.01.0756",
@@ -268,12 +393,18 @@
       "type": "cultural",
       "name": "Copán Carves the Longest Text in the Maya World",
       "name_ru": "Копан вырезает самый длинный текст в мире майя",
-      "description": "Reeling from the loss of its king to Quiriguá, Copán's next ruler rebuilds Temple 26 around a rededicated Hieroglyphic Stairway, doubling its length and lining its risers with over 2,000 glyph blocks recounting sixteen generations of kings, guarded by five life-size stone statues of seated rulers.\n\nIt remains the single longest hieroglyphic inscription ever carved in the Maya world.",
-      "description_ru": "Оправляясь от потери своего царя в войне с Киригуа, следующий правитель Копана перестраивает Храм 26 вокруг заново освящённой Иероглифической лестницы, удваивая её длину и покрывая ступени более чем 2000 глифовыми блоками, повествующими о шестнадцати поколениях царей, под охраной пяти статуй сидящих правителей в полный рост.\n\nЭто остаётся самой длинной иероглифической надписью, когда-либо вырезанной в мире майя.",
+      "description": "Reeling from the loss of its king to Quiriguá, Copán's next ruler rebuilds Temple 26 around a rededicated Hieroglyphic Stairway. He doubles its length and lines its risers with over 2,000 glyph blocks recounting sixteen generations of kings, guarded by five life-size stone statues of seated rulers.\n\nIt remains the single longest hieroglyphic inscription ever carved in the Maya world.",
+      "description_ru": "Оправляясь от потери своего царя в войне с Киригуа, следующий правитель Копана перестраивает Храм 26 вокруг заново освящённой Иероглифической лестницы. Он удваивает её длину и покрывает ступени более чем 2000 глифовыми блоками, повествующими о шестнадцати поколениях царей, под охраной пяти статуй сидящих правителей в полный рост.\n\nЭто остаётся самой длинной иероглифической надписью, когда-либо вырезанной в мире майя.",
       "latitude": 14.8375,
       "longitude": -89.1425,
       "source": "https://en.wikipedia.org/wiki/Cop%C3%A1n",
-      "tags": ["Mayan", "Cultural", "Copan", "Writing", "Art"]
+      "tags": [
+        "Mayan",
+        "Cultural",
+        "Copan",
+        "Writing",
+        "Art"
+      ]
     },
     {
       "date": "01.01.0790",
@@ -281,12 +412,18 @@
       "type": "cultural",
       "name": "Bonampak's Murals Capture the Court, the Battle, and the Blood",
       "name_ru": "Росписи Бонампака запечатлевают двор, битву и кровь",
-      "description": "Yaxchilan's king Shield Jaguar III installs a new lord at the nearby city of Bonampak and hires Yaxchilano artisans to commemorate it in a three-room mural cycle now called the Temple of the Murals.\n\nIts 281 painted figures move from courtly music and dance to a brutal battle and the torture of captives before nobles, offering the most vivid surviving record of Classic Maya warfare and court life.",
-      "description_ru": "Царь Йашчилана Щит-Ягуар III ставит нового владыку в соседнем городе Бонампак и нанимает йашчиланских мастеров, чтобы запечатлеть это в цикле росписей трёх комнат, ныне называемых Храмом Росписей.\n\n281 нарисованная фигура сменяет придворную музыку и танцы жестокой битвой и пыткой пленников перед знатью, оставляя самое яркое из сохранившихся свидетельств войны и придворной жизни классических майя.",
+      "description": "Yaxchilan's king Shield Jaguar III installs a new lord at the nearby city of Bonampak. To commemorate it, he hires Yaxchilano artisans to paint a three-room mural cycle, now called the Temple of the Murals.\n\nIts 281 painted figures move from courtly music and dance to a brutal battle and the torture of captives before nobles. Together they offer the most vivid surviving record of Classic Maya warfare and court life.",
+      "description_ru": "Царь Йашчилана Щит-Ягуар III ставит нового владыку в соседнем городе Бонампак. В честь этого он нанимает йашчиланских мастеров расписать цикл из трёх комнат, ныне называемых Храмом Росписей.\n\n281 нарисованная фигура сменяет придворную музыку и танцы жестокой битвой и пыткой пленников перед знатью. Вместе они оставляют самое яркое из сохранившихся свидетельств войны и придворной жизни классических майя.",
       "latitude": 16.704,
       "longitude": -91.065,
       "source": "https://en.wikipedia.org/wiki/Bonampak",
-      "tags": ["Mayan", "Cultural", "Art", "Bonampak", "Warfare"]
+      "tags": [
+        "Mayan",
+        "Cultural",
+        "Art",
+        "Bonampak",
+        "Warfare"
+      ]
     },
     {
       "date": "01.01.0800",
@@ -294,12 +431,18 @@
       "type": "historic",
       "name": "The Southern Lowlands Fall Silent",
       "name_ru": "Южные низменности умолкают",
-      "description": "The great southern lowland cities enter a swift and still-debated collapse driven by some combination of chronic warfare, overpopulation, environmental degradation and a punishing multi-decade drought.\n\nWithin roughly a century, Tikal, Calakmul, Copán and dozens of their rivals stop erecting dated monuments and are largely abandoned to the encroaching jungle.",
-      "description_ru": "Великие города южных низменностей вступают в быстрый и до сих пор обсуждаемый коллапс, вызванный сочетанием хронических войн, перенаселения, деградации окружающей среды и жестокой засухи, растянувшейся на десятилетия.\n\nПримерно за столетие Тикаль, Калакмуль, Копан и десятки их соперников прекращают ставить датированные монументы и оказываются в основном оставлены наступающим джунглям.",
+      "description": "The great southern lowland cities enter a swift collapse that scholars still debate. Chronic warfare, overpopulation, environmental degradation and a punishing multi-decade drought all likely play a part.\n\nWithin roughly a century, Tikal, Calakmul, Copán and dozens of their rivals stop erecting dated monuments. Most are largely abandoned to the encroaching jungle.",
+      "description_ru": "Великие города южных низменностей вступают в быстрый коллапс, который учёные до сих пор обсуждают. Свою роль, вероятно, играют хронические войны, перенаселение, деградация окружающей среды и жестокая засуха, растянувшаяся на десятилетия.\n\nПримерно за столетие Тикаль, Калакмуль, Копан и десятки их соперников прекращают ставить датированные монументы. Большинство городов оказываются в основном оставлены наступающим джунглям.",
       "latitude": 17.22194,
       "longitude": -89.62361,
       "source": "https://en.wikipedia.org/wiki/Maya_civilization",
-      "tags": ["Mayan", "Historic", "Collapse", "Drought", "Classic"]
+      "tags": [
+        "Mayan",
+        "Historic",
+        "Collapse",
+        "Drought",
+        "Classic"
+      ]
     },
     {
       "date": "01.01.0900",
@@ -307,12 +450,18 @@
       "type": "historic",
       "name": "While the South Empties, Uxmal and the North Flourish",
       "name_ru": "Пока юг пустеет, Ушмаль и север процветают",
-      "description": "As the southern lowlands empty out, the Puuc cities of the northern Yucatán, led by Uxmal, enter their own golden age, raising the intricately carved Governor's Palace and Pyramid of the Magician in a distinctive regional style.\n\nThe divergence shows that the Maya world is not collapsing uniformly, but fracturing into a new geography of power centered on the north.",
-      "description_ru": "Пока южные низменности пустеют, пуукские города северного Юкатана во главе с Ушмалем переживают собственный золотой век, возводя изысканно украшенный Дворец правителя и Пирамиду волшебника в узнаваемом региональном стиле.\n\nЭто расхождение показывает, что мир майя не рушится равномерно, а перестраивается в новую географию власти с центром на севере.",
+      "description": "As the southern lowlands empty out, the Puuc cities of the northern Yucatán enter their own golden age, led by Uxmal. There, builders raise the intricately carved Governor's Palace and the Pyramid of the Magician in a distinctive regional style.\n\nThe divergence shows that the Maya world is not collapsing uniformly. It is fracturing into a new geography of power, centered now on the north.",
+      "description_ru": "Пока южные низменности пустеют, пуукские города северного Юкатана во главе с Ушмалем переживают собственный золотой век. Там мастера возводят изысканно украшенный Дворец правителя и Пирамиду волшебника в узнаваемом региональном стиле.\n\nЭто расхождение показывает, что мир майя не рушится равномерно. Он перестраивается в новую географию власти, теперь с центром на севере.",
       "latitude": 20.35944,
       "longitude": -89.7713,
       "source": "https://en.wikipedia.org/wiki/Uxmal",
-      "tags": ["Mayan", "Historic", "Uxmal", "Architecture", "Yucatan"]
+      "tags": [
+        "Mayan",
+        "Historic",
+        "Uxmal",
+        "Architecture",
+        "Yucatan"
+      ]
     },
     {
       "date": "01.01.0909",
@@ -320,12 +469,18 @@
       "type": "historic",
       "name": "The Long Count Falls Silent at Toniná",
       "name_ru": "Длинный счёт умолкает в Тонине",
-      "description": "The western city of Toniná carves what will become the last Long Count date recorded on any Maya monument, formally closing the Classic period even as its own western neighbors have already fallen quiet.\n\nAfter centuries of tracking history to the day across dozens of rival kingdoms, no Maya city will raise a Long Count inscription again.",
-      "description_ru": "Западный город Тонина вырезает дату, которая станет последней записью Длинного счёта на каком-либо монументе майя, формально завершая классический период, хотя его собственные западные соседи уже умолкли ранее.\n\nПосле веков летописания истории день за днём в десятках соперничающих царств ни один город майя больше не воздвигнет надпись Длинного счёта.",
+      "description": "The western city of Toniná carves what will become the last Long Count date recorded on any Maya monument. Its own western neighbors have already fallen quiet by this point, and the date formally closes the Classic period.\n\nFor centuries, this calendar had tracked history to the day across dozens of rival kingdoms. After Toniná's final inscription, no Maya city will raise a Long Count date again.",
+      "description_ru": "Западный город Тонина вырезает дату, которая станет последней записью Длинного счёта на каком-либо монументе майя. Его собственные западные соседи к этому моменту уже умолкли, и эта дата формально завершает классический период.\n\nВеками этот календарь фиксировал историю день за днём в десятках соперничающих царств. После последней надписи Тонины ни один город майя больше не воздвигнет дату Длинного счёта.",
       "latitude": 16.9012,
       "longitude": -92.0,
       "source": "https://en.wikipedia.org/wiki/Tonin%C3%A1",
-      "tags": ["Mayan", "Historic", "Calendar", "Tonina", "Collapse"]
+      "tags": [
+        "Mayan",
+        "Historic",
+        "Calendar",
+        "Tonina",
+        "Collapse"
+      ]
     },
     {
       "date": "01.01.1000",
@@ -333,12 +488,18 @@
       "type": "religious",
       "name": "Chichen Itza Fuses Maya and Toltec Gods",
       "name_ru": "Чичен-Ица объединяет богов майя и тольтеков",
-      "description": "Rising to prominence as the Classic cities fade, Chichen Itza builds its Temple of Kukulcán in a hybrid Maya-Toltec style, its four staircases decorated with eagles and jaguars devouring human hearts, and dedicates a nearby platform to the planet Venus.\n\nThe feathered serpent god Kukulcán, closely related to the cult once carried from Teotihuacan, becomes the emblem of a new Postclassic religious order.",
-      "description_ru": "Набирая силу по мере угасания классических городов, Чичен-Ица строит Храм Кукулькана в смешанном майя-тольтекском стиле, чьи четыре лестницы украшены орлами и ягуарами, поглощающими человеческие сердца, и посвящает соседнюю платформу планете Венере.\n\nБог пернатого змея Кукулькан, тесно связанный с культом, некогда пришедшим из Теотиуакана, становится символом нового постклассического религиозного порядка.",
+      "description": "Chichen Itza rises to prominence as the Classic cities fade. It builds its Temple of Kukulcán in a hybrid Maya-Toltec style, its four staircases decorated with eagles and jaguars devouring human hearts, and dedicates a nearby platform to the planet Venus.\n\nThe feathered serpent god Kukulcán is closely related to a cult once carried south from Teotihuacan. He now becomes the emblem of a new Postclassic religious order.",
+      "description_ru": "Чичен-Ица набирает силу по мере угасания классических городов. Город строит Храм Кукулькана в смешанном майя-тольтекском стиле, чьи четыре лестницы украшены орлами и ягуарами, поглощающими человеческие сердца, и посвящает соседнюю платформу планете Венере.\n\nБог пернатого змея Кукулькан тесно связан с культом, некогда пришедшим с юга из Теотиуакана. Теперь он становится символом нового постклассического религиозного порядка.",
       "latitude": 20.68306,
       "longitude": -88.56861,
       "source": "https://en.wikipedia.org/wiki/Chichen_Itza",
-      "tags": ["Mayan", "Religious", "Chichen Itza", "Mythology", "Postclassic"]
+      "tags": [
+        "Mayan",
+        "Religious",
+        "Chichen Itza",
+        "Mythology",
+        "Postclassic"
+      ]
     },
     {
       "date": "01.01.1100",
@@ -346,12 +507,18 @@
       "type": "scientific",
       "name": "Maya Astronomers Time Their Wars to the Rhythms of Venus",
       "name_ru": "Астрономы майя соотносят свои войны с ритмами Венеры",
-      "description": "The Dresden Codex, a folding bark-paper book of Postclassic Yucatán, preserves tables that track the 584-day cycle of Venus with remarkable accuracy alongside the 260-day sacred calendar, helping priests predict eclipses and choose auspicious days for coronations and war.\n\nIts glyphs will later prove essential to modern scholars decoding Maya writing itself.",
-      "description_ru": "Дрезденский кодекс — складная книга из коровой бумаги постклассического Юкатана — сохраняет таблицы, отслеживающие 584-дневный цикл Венеры с поразительной точностью наряду со священным 260-дневным календарём, помогая жрецам предсказывать затмения и выбирать благоприятные дни для коронаций и войн.\n\nЕго глифы впоследствии окажутся незаменимыми для современных учёных, расшифровывавших саму письменность майя.",
+      "description": "The Dresden Codex is a folding bark-paper book from Postclassic Yucatán. It preserves tables that track the 584-day cycle of Venus with remarkable accuracy, alongside the 260-day sacred calendar, helping priests predict eclipses and choose auspicious days for coronations and war.\n\nIts glyphs will later prove essential to modern scholars decoding Maya writing itself.",
+      "description_ru": "Дрезденский кодекс — складная книга из коровой бумаги постклассического Юкатана. В ней сохраняются таблицы, отслеживающие 584-дневный цикл Венеры с поразительной точностью наряду со священным 260-дневным календарём, помогая жрецам предсказывать затмения и выбирать благоприятные дни для коронаций и войн.\n\nЕго глифы впоследствии окажутся незаменимыми для современных учёных, расшифровывавших саму письменность майя.",
       "latitude": 20.68306,
       "longitude": -88.56861,
       "source": "https://en.wikipedia.org/wiki/Dresden_Codex",
-      "tags": ["Mayan", "Scientific", "Astronomy", "Calendar", "Venus"]
+      "tags": [
+        "Mayan",
+        "Scientific",
+        "Astronomy",
+        "Calendar",
+        "Venus"
+      ]
     },
     {
       "date": "01.01.1220",
@@ -359,12 +526,18 @@
       "type": "military",
       "name": "Hunac Ceel Topples Chichen Itza and Founds the Cocom Dynasty",
       "name_ru": "Хунак-Кеель сокрушает Чичен-Ицу и основывает династию Коком",
-      "description": "Maya chronicles remember the general Hunac Ceel as the commander who defeats Chichen Itza, tracing the war's origin to the kidnapping of a lord's bride, and who founds the Cocom dynasty at Mayapan in the aftermath.\n\nAccording to legend, Hunac Ceel had earlier been thrown into Chichen Itza's sacred cenote as a sacrifice yet survived to claim the prophetic authority that justifies his conquest.",
-      "description_ru": "Хроники майя помнят полководца Хунак-Кееля как командующего, разгромившего Чичен-Ицу — войну, начало которой приписывают похищению невесты одного из владык, — и основавшего впоследствии династию Коком в Майяпане.\n\nПо легенде, Хунак-Кееля ранее бросили в священный сенот Чичен-Ицы как жертву, но он выжил и обрёл пророческий авторитет, оправдавший его завоевание.",
+      "description": "Maya chronicles remember the general Hunac Ceel as the commander who defeats Chichen Itza. They trace the war's origin to the kidnapping of a lord's bride, and credit Hunac Ceel with founding the Cocom dynasty at Mayapan in the aftermath.\n\nAccording to legend, Hunac Ceel had earlier been thrown into Chichen Itza's sacred cenote as a sacrifice. He survived, and that survival gave him the prophetic authority he later used to justify his conquest.",
+      "description_ru": "Хроники майя помнят полководца Хунак-Кееля как командующего, разгромившего Чичен-Ицу. Они возводят начало этой войны к похищению невесты одного из владык и приписывают Хунак-Кеелю основание династии Коком в Майяпане.\n\nПо легенде, Хунак-Кееля ранее бросили в священный сенот Чичен-Ицы как жертву. Он выжил, и это спасение дало ему пророческий авторитет, которым он позже оправдал своё завоевание.",
       "latitude": 20.62944,
       "longitude": -89.46056,
       "source": "https://en.wikipedia.org/wiki/Hunac_Ceel",
-      "tags": ["Mayan", "Military", "Mayapan", "Chichen Itza", "Conquest"]
+      "tags": [
+        "Mayan",
+        "Military",
+        "Mayapan",
+        "Chichen Itza",
+        "Conquest"
+      ]
     },
     {
       "date": "01.01.1300",
@@ -372,12 +545,18 @@
       "type": "political",
       "name": "Walled Mayapan Rules a Reunified Yucatán",
       "name_ru": "Обнесённый стеной Майяпан правит объединённым Юкатаном",
-      "description": "Encircled by a defensive wall and packed with the residences of subordinate lords brought in from across the peninsula to ensure their loyalty, Mayapan becomes the dominant capital of Postclassic Yucatán under the Cocom dynasty.\n\nMexican mercenaries from Tabasco help its rulers keep order over a system of tribute and hostage-taking that holds rival noble families in check for more than two centuries.",
-      "description_ru": "Окружённый защитной стеной и заполненный резиденциями подчинённых владык, привезённых со всего полуострова для обеспечения их верности, Майяпан становится главной столицей постклассического Юкатана при династии Коком.\n\nМексиканские наёмники из Табаско помогают его правителям поддерживать порядок в системе дани и заложничества, которая держит в узде соперничающие знатные семьи более двух веков.",
+      "description": "Mayapan becomes the dominant capital of Postclassic Yucatán under the Cocom dynasty. A defensive wall encircles the city, and inside it live subordinate lords brought in from across the peninsula, kept close to ensure their loyalty.\n\nMexican mercenaries from Tabasco help the Cocom kings keep order. Together with a system of tribute and hostage-taking, they hold rival noble families in check for more than two centuries.",
+      "description_ru": "Майяпан становится главной столицей постклассического Юкатана при династии Коком. Город окружён защитной стеной, а внутри живут подчинённые владыки, привезённые со всего полуострова и удерживаемые рядом для обеспечения их верности.\n\nМексиканские наёмники из Табаско помогают царям Коком поддерживать порядок. Вместе с системой дани и заложничества они держат в узде соперничающие знатные семьи более двух веков.",
       "latitude": 20.62944,
       "longitude": -89.46056,
       "source": "https://en.wikipedia.org/wiki/Mayapan",
-      "tags": ["Mayan", "Political", "Mayapan", "Postclassic", "Cocom"]
+      "tags": [
+        "Mayan",
+        "Political",
+        "Mayapan",
+        "Postclassic",
+        "Cocom"
+      ]
     },
     {
       "date": "01.01.1441",
@@ -385,12 +564,18 @@
       "type": "political",
       "name": "The Xiu Revolt Burns Mayapan and Shatters Yucatán",
       "name_ru": "Восстание Шиу сжигает Майяпан и раскалывает Юкатан",
-      "description": "The noble Xiu family, resentful of the Cocom dynasty's political machinations, rises in revolt and has nearly the entire Cocom line killed, then sacks and burns Mayapan itself.\n\nWith no capital left to hold the peninsula together, Yucatán fractures into a patchwork of small warring city-states — the fragmented political landscape the Spanish will find eight decades later.",
-      "description_ru": "Знатный род Шиу, недовольный политическими интригами династии Коком, поднимает восстание, уничтожает почти весь род Коком, а затем разграбляет и сжигает сам Майяпан.\n\nБез столицы, способной удерживать полуостров в единстве, Юкатан раскалывается на мозаику мелких воюющих городов-государств — именно этот раздробленный политический ландшафт застанут испанцы восемь десятилетий позже.",
+      "description": "The noble Xiu family grows resentful of the Cocom dynasty's political machinations and rises in revolt. They have nearly the entire Cocom line killed, then sack and burn Mayapan itself.\n\nWith no capital left to hold the peninsula together, Yucatán fractures into a patchwork of small warring city-states. It is this fragmented political landscape that the Spanish will find eight decades later.",
+      "description_ru": "Знатный род Шиу, недовольный политическими интригами династии Коком, поднимает восстание. Они уничтожают почти весь род Коком, а затем разграбляют и сжигают сам Майяпан.\n\nБез столицы, способной удерживать полуостров в единстве, Юкатан раскалывается на мозаику мелких воюющих городов-государств. Именно этот раздробленный политический ландшафт застанут испанцы восемь десятилетий позже.",
       "latitude": 20.62944,
       "longitude": -89.46056,
       "source": "https://en.wikipedia.org/wiki/Mayapan",
-      "tags": ["Mayan", "Political", "Mayapan", "Rebellion", "Postclassic"]
+      "tags": [
+        "Mayan",
+        "Political",
+        "Mayapan",
+        "Rebellion",
+        "Postclassic"
+      ]
     },
     {
       "date": "01.01.1511",
@@ -398,12 +583,18 @@
       "type": "historic",
       "name": "Shipwrecked Sailors Are Adopted Into Maya Society",
       "name_ru": "Потерпевшие крушение моряки становятся частью общества майя",
-      "description": "The caravel Santa María de la Barca wrecks off the Yucatán coast, and survivor Gonzalo Guerrero is enslaved by local Maya before earning his freedom and rising to become a trusted warrior for a Maya lord.\n\nTattooed, pierced and married into the nobility, he later refuses rescue by his own countrymen, choosing the children and community he has built among the Maya over return to Spain.",
-      "description_ru": "У берегов Юкатана разбивается каравелла «Санта-Мария-де-ла-Барка», и выживший Гонсало Герреро оказывается в рабстве у местных майя, прежде чем заслужить свободу и стать доверенным воином при дворе одного из владык майя.\n\nПокрытый татуировками, с проколотыми ушами и женатый на знатной майя, он позже отказывается от спасения соотечественниками, выбрав детей и общину, которую построил среди майя, вместо возвращения в Испанию.",
+      "description": "The caravel Santa María de la Barca wrecks off the Yucatán coast. Survivor Gonzalo Guerrero is enslaved by local Maya, but he earns his freedom and rises to become a trusted warrior for a Maya lord.\n\nHe is tattooed, pierced, and married into the nobility. When his own countrymen later offer to rescue him, he refuses, choosing the children and community he has built among the Maya over a return to Spain.",
+      "description_ru": "У берегов Юкатана разбивается каравелла «Санта-Мария-де-ла-Барка». Выживший Гонсало Герреро оказывается в рабстве у местных майя, но заслуживает свободу и становится доверенным воином при дворе одного из владык майя.\n\nОн покрыт татуировками, с проколотыми ушами, и женат на знатной майя. Когда соотечественники позже предлагают спасти его, он отказывается, выбрав детей и общину, которую построил среди майя, вместо возвращения в Испанию.",
       "latitude": 20.629,
       "longitude": -87.073,
       "source": "https://en.wikipedia.org/wiki/Gonzalo_Guerrero",
-      "tags": ["Mayan", "Historic", "Spanish Conquest", "Yucatan", "Guerrero"]
+      "tags": [
+        "Mayan",
+        "Historic",
+        "Spanish Conquest",
+        "Yucatan",
+        "Guerrero"
+      ]
     },
     {
       "date": "01.03.1517",
@@ -411,12 +602,18 @@
       "type": "military",
       "name": "The Maya Deal Spain Its First Defeat in the New World",
       "name_ru": "Майя наносят Испании первое поражение в Новом Свете",
-      "description": "Warriors of Chakán Putum ambush the Hernández de Córdoba expedition as it retreats from the town of Champotón, killing 55 Spaniards and wounding 52 more in an action the survivors bitterly remember as the Bad Fight.\n\nIt is the first major clash between Spain and the Maya, and its decisive Maya victory helps delay full conquest of Yucatán for decades.",
-      "description_ru": "Воины Чакан-Путума устраивают засаду на отступавшую от города Чампотон экспедицию Эрнандеса де Кордобы, убивая 55 испанцев и раня ещё 52 — уцелевшие с горечью назовут это сражение «Дурной битвой».\n\nЭто первое крупное столкновение Испании с майя, и решительная победа майя помогает отложить полное завоевание Юкатана на десятилетия.",
+      "description": "Warriors of Chakán Putum ambush the Hernández de Córdoba expedition as it retreats from the town of Champotón. They kill 55 Spaniards and wound 52 more, in an action the survivors bitterly remember as the Bad Fight.\n\nIt is the first major clash between Spain and the Maya. Its decisive Maya victory helps delay the full conquest of Yucatán for decades.",
+      "description_ru": "Воины Чакан-Путума устраивают засаду на отступавшую от города Чампотон экспедицию Эрнандеса де Кордобы. Они убивают 55 испанцев и ранят ещё 52 — уцелевшие с горечью назовут это сражение «Дурной битвой».\n\nЭто первое крупное столкновение Испании с майя. Решительная победа майя помогает отложить полное завоевание Юкатана на десятилетия.",
       "latitude": 19.35,
       "longitude": -90.72,
       "source": "https://en.wikipedia.org/wiki/Hern%C3%A1ndez_de_C%C3%B3rdoba_expedition",
-      "tags": ["Mayan", "Military", "Spanish Conquest", "Champoton", "Victory"]
+      "tags": [
+        "Mayan",
+        "Military",
+        "Spanish Conquest",
+        "Champoton",
+        "Victory"
+      ]
     },
     {
       "date": "01.01.1524",
@@ -424,12 +621,18 @@
       "type": "military",
       "name": "Pedro de Alvarado Burns the K'iche' Capital",
       "name_ru": "Педро де Альварадо сжигает столицу кʼичʼе",
-      "description": "The conquistador Pedro de Alvarado marches on Q'umarkaj, capital of the powerful K'iche' Maya kingdom, and after suppressing resistance has the captured K'iche' lords burned alive before putting the entire city to the torch.\n\nThe destruction of Q'umarkaj breaks the most formidable highland Maya kingdom the Spanish have yet encountered and opens Guatemala to conquest.",
-      "description_ru": "Конкистадор Педро де Альварадо выступает на Кʼумаркаах, столицу могущественного нагорного царства кʼичʼе, и после подавления сопротивления приказывает сжечь захваченных владык кʼичʼе живьём, а затем предаёт огню весь город.\n\nУничтожение Кʼумаркаах ломает самое грозное нагорное царство майя, с каким до тех пор сталкивались испанцы, и открывает Гватемалу для завоевания.",
+      "description": "The conquistador Pedro de Alvarado marches on Q'umarkaj, capital of the powerful K'iche' Maya kingdom. After suppressing resistance, he has the captured K'iche' lords burned alive, then puts the entire city to the torch.\n\nThe destruction of Q'umarkaj breaks the most formidable highland Maya kingdom the Spanish have yet encountered. It opens Guatemala to conquest.",
+      "description_ru": "Конкистадор Педро де Альварадо выступает на Кʼумаркаах, столицу могущественного нагорного царства кʼичʼе. Подавив сопротивление, он приказывает сжечь захваченных владык кʼичʼе живьём, а затем предаёт огню весь город.\n\nУничтожение Кʼумаркаах ломает самое грозное нагорное царство майя, с каким до тех пор сталкивались испанцы. Оно открывает Гватемалу для завоевания.",
       "latitude": 15.023528,
       "longitude": -91.1719889,
       "source": "https://en.wikipedia.org/wiki/Q%27umarkaj",
-      "tags": ["Mayan", "Military", "Spanish Conquest", "Kiche", "Alvarado"]
+      "tags": [
+        "Mayan",
+        "Military",
+        "Spanish Conquest",
+        "Kiche",
+        "Alvarado"
+      ]
     },
     {
       "date": "01.01.1546",
@@ -437,12 +640,18 @@
       "type": "political",
       "name": "Montejo's Twenty-Year War for a Land Without a Capital",
       "name_ru": "Двадцатилетняя война Монтехо за землю без столицы",
-      "description": "Francisco de Montejo's two-decade campaign to conquer Yucatán, launched from Spain in 1527, finally subdues the peninsula's warring city-states, but only after repeated defeats, betrayals and renewed Maya resistance force him to abandon and relaunch the invasion more than once.\n\nThe fragmented political landscape left by Mayapan's fall a century earlier denies the Spanish any single capital to capture or any single ruler to defeat, turning what elsewhere became quick conquests into one of the longest campaigns of the Spanish invasion of the Americas.",
-      "description_ru": "Двадцатилетняя кампания Франсиско де Монтехо по завоеванию Юкатана, начатая из Испании в 1527 году, наконец подчиняет воюющие города-государства полуострова, но лишь после череды поражений, предательств и возобновлявшегося сопротивления майя, вынуждавших его не раз прерывать и заново начинать вторжение.\n\nРаздробленный политический ландшафт, оставленный падением Майяпана столетием ранее, не оставляет испанцам ни единой столицы для захвата, ни единого правителя для разгрома, превратив то, что в других местах становилось быстрым завоеванием, в одну из самых долгих кампаний испанского вторжения в Америку.",
+      "description": "Francisco de Montejo launches his campaign to conquer Yucatán from Spain in 1527. Repeated defeats, betrayals and renewed Maya resistance force him to abandon and relaunch the invasion more than once, but after two decades he finally subdues the peninsula's warring city-states.\n\nMayapan's fall a century earlier had left the peninsula without a single capital to capture or a single ruler to defeat. That fragmented political landscape turns what elsewhere became quick conquests into one of the longest campaigns of the Spanish invasion of the Americas.",
+      "description_ru": "Франсиско де Монтехо начинает кампанию по завоеванию Юкатана, выступив из Испании в 1527 году. Череда поражений, предательств и возобновлявшегося сопротивления майя вынуждает его не раз прерывать и заново начинать вторжение, но спустя два десятилетия он наконец подчиняет воюющие города-государства полуострова.\n\nПадение Майяпана столетием ранее оставило полуостров без единой столицы для захвата и без единого правителя для разгрома. Этот раздробленный политический ландшафт превратил то, что в других местах становилось быстрым завоеванием, в одну из самых долгих кампаний испанского вторжения в Америку.",
       "latitude": 20.9674,
       "longitude": -89.5926,
       "source": "https://en.wikipedia.org/wiki/Spanish_conquest_of_Yucat%C3%A1n",
-      "tags": ["Mayan", "Political", "Spanish Conquest", "Yucatan", "Montejo"]
+      "tags": [
+        "Mayan",
+        "Political",
+        "Spanish Conquest",
+        "Yucatan",
+        "Montejo"
+      ]
     },
     {
       "date": "01.01.1697",
@@ -450,12 +659,18 @@
       "type": "military",
       "name": "Nojpetén Falls: The Last Independent Native Kingdom in the Americas",
       "name_ru": "Падение Ноджпетена: последнего независимого туземного царства Америк",
-      "description": "Martín de Ursúa leads 235 Spanish soldiers and 120 native laborers in an assault on Nojpetén, the island capital of the Itza kingdom on Lake Petén Itzá.\n\nIts fall ends nearly two centuries of Maya resistance since first Spanish contact and extinguishes the last independent native kingdom anywhere in the Americas.",
-      "description_ru": "Мартин де Урсуа возглавляет штурм Ноджпетена, островной столицы царства Ица на озере Петен-Ица, силами 235 испанских солдат и 120 туземных носильщиков.\n\nЕго падение кладёт конец почти двум векам сопротивления майя, продолжавшегося с момента первого контакта с испанцами, и стирает с карты последнее независимое туземное царство во всей Америке.",
+      "description": "Martín de Ursúa leads 235 Spanish soldiers and 120 native laborers in an assault on Nojpetén, the island capital of the Itza kingdom on Lake Petén Itzá.\n\nIts fall ends nearly two centuries of Maya resistance dating back to first Spanish contact. It also extinguishes the last independent native kingdom anywhere in the Americas.",
+      "description_ru": "Мартин де Урсуа возглавляет штурм Ноджпетена, островной столицы царства Ица на озере Петен-Ица, силами 235 испанских солдат и 120 туземных носильщиков.\n\nЕго падение кладёт конец почти двум векам сопротивления майя, продолжавшегося с момента первого контакта с испанцами. Оно также стирает с карты последнее независимое туземное царство во всей Америке.",
       "latitude": 16.92972,
       "longitude": -89.8916,
       "source": "https://en.wikipedia.org/wiki/Nojpet%C3%A9n",
-      "tags": ["Mayan", "Military", "Spanish Conquest", "Nojpeten", "Itza"]
+      "tags": [
+        "Mayan",
+        "Military",
+        "Spanish Conquest",
+        "Nojpeten",
+        "Itza"
+      ]
     },
     {
       "date": "01.01.1701",
@@ -463,12 +678,18 @@
       "type": "cultural",
       "name": "The Popol Vuh Preserves a Mythology the Conquerors Tried to Erase",
       "name_ru": "Пополь-Вух сохраняет мифологию, которую завоеватели пытались стереть",
-      "description": "The Dominican friar Francisco Ximénez transcribes and translates the K'iche' Popol Vuh, a sweeping account of creation, hero twins and royal genealogy that Maya scholars have preserved in secret since the Spanish conquest.\n\nThanks to that transcription, Maya cosmology survives colonial suppression, and today millions of people still speak Maya languages across Mexico and Central America.",
-      "description_ru": "Доминиканский монах Франсиско Хименес переписывает и переводит кʼичʼеский Пополь-Вух — обширное повествование о творении мира, героях-близнецах и царской генеалогии, которое учёные майя тайно сохраняли после испанского завоевания.\n\nБлагодаря этой записи космология майя переживает колониальные запреты, и сегодня миллионы людей по всей Мексике и Центральной Америке продолжают говорить на языках майя.",
+      "description": "The Dominican friar Francisco Ximénez transcribes and translates the K'iche' Popol Vuh. It is a sweeping account of creation, hero twins and royal genealogy that Maya scholars have preserved in secret since the Spanish conquest.\n\nThanks to that transcription, Maya cosmology survives colonial suppression. Today, millions of people still speak Maya languages across Mexico and Central America.",
+      "description_ru": "Доминиканский монах Франсиско Хименес переписывает и переводит кʼичʼеский Пополь-Вух. Это обширное повествование о творении мира, героях-близнецах и царской генеалогии, которое учёные майя тайно сохраняли после испанского завоевания.\n\nБлагодаря этой записи космология майя переживает колониальные запреты. Сегодня миллионы людей по всей Мексике и Центральной Америке продолжают говорить на языках майя.",
       "latitude": 14.9436,
       "longitude": -91.1198,
       "source": "https://en.wikipedia.org/wiki/Popol_Vuh",
-      "tags": ["Mayan", "Cultural", "Popol Vuh", "Mythology", "Legacy"]
+      "tags": [
+        "Mayan",
+        "Cultural",
+        "Popol Vuh",
+        "Mythology",
+        "Legacy"
+      ]
     }
   ]
 }
