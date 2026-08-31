@@ -1,5 +1,6 @@
 {
-  "description": "Dataset imported with 50 events",
+  "description": "Dataset imported with 57 events",
+  "filename": "BC1_ancient_japan.json",
   "events": [
     {
       "date": "01.01.8000",
@@ -106,6 +107,28 @@
         "Japanese",
         "Aristocracy",
         "Yayoi"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0023",
+      "description": "Emperor Suinin summoned two strongmen, Nomi no Sukune of Izumo and Taima no Kuehaya of Yamato, to settle which was stronger before the court. The two grappled barefoot and unarmed, and Nomi broke Taima's ribs with a kick before finishing him with a second kick to the back, killing him on the spot.\n\nThe Nihon Shoki, compiled centuries later in 720, recorded this brawl as the first sumo match between mortals and named Nomi no Sukune the sport's mythological ancestor. For centuries afterward the contest carried no weight classes or rounds and was fought without rules to the death, only gaining the ceremonial form and regulations associated with sumo today much later, under imperial patronage.",
+      "description_ru": "Император Суйнин призвал ко двору двух силачей — Номи-но Сукунэ из Идзумо и Тайма-но Куэхая из Ямато, — чтобы решить, кто сильнее. Противники боролись босиком и без оружия, и Номи сломал Тайме рёбра ударом ноги, а затем добил его вторым ударом в спину, убив на месте.\n\nНихон сёки, составленная веками позже, в 720 году, зафиксировала эту схватку как первый поединок сумо между смертными и назвала Номи-но Сукунэ мифическим родоначальником этого вида борьбы. Ещё долгие века состязание не имело ни весовых категорий, ни раундов и велось без правил до смерти противника, обретя церемониальную форму и регламент, знакомые сумо сегодня, лишь много позднее, под императорским покровительством.",
+      "era": "BC",
+      "latitude": 34.5166,
+      "longitude": 135.6833,
+      "name": "Nomi no Sukune Kills Taima no Kuehaya in Japan's First Sumo Match",
+      "name_ru": "Номи-но Сукунэ убивает Тайма-но Куэхая в первом поединке сумо",
+      "source": "https://en.wikipedia.org/wiki/Sumo",
+      "tags": [
+        "Japanese",
+        "Yayoi",
+        "Sumo",
+        "Nomi no Sukune",
+        "Wrestling",
+        "Emperor Suinin",
+        "Nihon Shoki",
+        "Origin myth"
       ],
       "type": "historic"
     },
@@ -330,6 +353,28 @@
       "type": "religious"
     },
     {
+      "date": "01.01.0600",
+      "description": "Prince Shōtoku, regent to Empress Suiko, relied on Otomono Sahito to gather intelligence on rival clans and monitor threats to the Asuka court from the shadows rather than the battlefield. Later tradition remembers Sahito as Japan's first shinobi, a covert agent operating outside the open warfare that defined most contests for power at the time.\n\nThe Kojiki preserves an even older strand of the same idea in its account of Yamato Takeru, who disguised himself as a serving woman to get close enough to assassinate two Kumaso chieftains. Historians treat both stories as legendary rather than verified fact, but they mark the earliest point at which Japanese sources describe disguise and infiltration as tools of statecraft, the root from which the later shinobi tradition of Iga and Kōga grew.",
+      "description_ru": "Принц Сётоку, регент при императрице Суйко, полагался на Отомоно Сахито в сборе сведений о соперничающих родах и слежке за угрозами двору Асука — действуя из тени, а не на поле боя. Позднейшее предание считает Сахито первым синоби Японии — тайным агентом, действовавшим за рамками открытой войны, определявшей тогдашнюю борьбу за власть.\n\nКодзики сохраняет ещё более раннюю версию той же идеи в рассказе о Ямато Такэру, который переоделся служанкой, чтобы приблизиться и убить двух вождей кумасо. Историки считают оба сюжета скорее легендой, чем подтверждённым фактом, но именно они отмечают самый ранний момент, когда японские источники описывают маскировку и проникновение как инструменты государственной политики — корень, из которого позже выросла традиция синоби Ига и Кога.",
+      "era": "AD",
+      "latitude": 34.4739,
+      "longitude": 135.8117,
+      "name": "Prince Shōtoku Employs the Spy Otomono Sahito",
+      "name_ru": "Принц Сётоку использует шпиона Отомоно Сахито",
+      "source": "https://en.wikipedia.org/wiki/Ninja",
+      "tags": [
+        "Japanese",
+        "Yamato",
+        "Shinobi",
+        "Espionage",
+        "Prince Shōtoku",
+        "Asuka",
+        "Origin myth",
+        "Covert operations"
+      ],
+      "type": "historic"
+    },
+    {
       "date": "01.01.0604",
       "description": "Traditionally attributed to Prince Shōtoku (聖徳太子 Shōtoku Taishi) and promulgated in 604 AD, the Seventeen Article Constitution (十七条憲法 Jūshichijō-kenpō) is Japan's first written administrative code. Drawing on Confucian ethics, Buddhist principles, and Chinese legalist thought, it mandates that officials act in harmony (和 wa), revere the Three Jewels of Buddhism, obey imperial commands, decide disputes impartially, and work without private interest. Not a legal code in the modern sense, it is a moral and political charter that defines the expected conduct of the ruling class — the foundation of Yamato statecraft.",
       "description_ru": "Традиционно приписываемая принцу Сётоку и обнародованная в 604 г., «Конституция семнадцати статей» (十七条憲法 Дзюситидзō-кэнпō) является первым письменным административным кодексом Японии. Опираясь на конфуцианскую этику, буддийские принципы и китайскую легалистскую мысль, она предписывает чиновникам действовать в согласии (和 ва), чтить Три драгоценности буддизма, повиноваться императорским повелениям и судить беспристрастно. Это моральная и политическая хартия, определяющая поведение правящего класса.",
@@ -409,6 +454,28 @@
       "type": "cultural"
     },
     {
+      "date": "01.01.0644",
+      "description": "Prince Naka-no-Ōe and the courtier Nakatomi no Kamatari met and became allies during a match of kemari, a court ball game in which players in a small circle kept a deerskin ball aloft using only their feet without letting it touch the ground. Chroniclers record that Naka-no-Ōe's shoe flew off during play and Kamatari retrieved it for him, an exchange that opened their friendship.\n\nThat alliance proved decisive the following year, when the two men led the assassination of the powerful minister Soga no Iruka at court and launched the Taika Reform that restructured Japan's government around a Chinese-style centralized state. Kemari itself endured as an aristocratic pastime long after, played today in ceremonial form at a handful of Kyoto shrines.",
+      "description_ru": "Принц Нака-но Оэ и придворный Накатоми-но Каматари познакомились и стали союзниками во время игры в кэмари — придворной игры в мяч, в которой игроки в небольшом кругу удерживали мяч из оленьей кожи в воздухе, касаясь его только ногами и не давая упасть на землю. Хронисты сообщают, что во время игры с Нака-но Оэ слетела туфля, и Каматари поднял её и вернул ему — этот жест положил начало их дружбе.\n\nЭтот союз оказался решающим уже в следующем году, когда оба возглавили убийство могущественного министра Сога-но Ирука при дворе и начали реформу Тайка, перестроившую японское государство по образцу централизованного китайского. Сама игра кэмари надолго пережила своих основателей как аристократическое развлечение и до сих пор в церемониальной форме проводится в нескольких храмах Киото.",
+      "era": "AD",
+      "latitude": 34.4761,
+      "longitude": 135.825,
+      "name": "A Game of Kemari Brings Kamatari and Prince Naka-no-Ōe Together",
+      "name_ru": "Игра в кэмари сближает Каматари и принца Нака-но Оэ",
+      "source": "https://en.wikipedia.org/wiki/Kemari",
+      "tags": [
+        "Japanese",
+        "Yamato",
+        "Kemari",
+        "Fujiwara no Kamatari",
+        "Prince Naka-no-Ōe",
+        "Court game",
+        "Isshi Incident",
+        "Sport"
+      ],
+      "type": "cultural"
+    },
+    {
       "date": "01.01.0645",
       "description": "The Taika Reform (大化の改新 Taika no Kaishin) of 645 AD follows a court coup in which Nakatomi no Kamatari and Prince Naka no Ōe assassinate Soga no Iruka and dismantle Soga dominance. The reform edicts — inspired by Tang administrative institutions — abolish private ownership of land and people by the nobility, establish a system of provincial governors appointed by the central court, standardise taxation as a percentage of rice yield, and institute a household registry for tax purposes. The reform is the foundational moment of the Japanese centralised state, though full implementation takes decades.",
       "description_ru": "Реформа Тайка (大化の改新 Тайка но Кайсин) 645 г. следует за дворцовым переворотом, в котором Накатоми-но-Камататри и принц Нака-но-Ōэ убивают Сога-но-Ирука и устраняют господство клана Сога. Эдикты реформы — вдохновлённые административными институтами Тан — отменяют частное владение землёй и людьми для знати, учреждают систему губернаторов провинций, назначаемых центральным двором, и стандартизируют налогообложение. Это основополагающий момент японского централизованного государства.",
@@ -464,6 +531,28 @@
         "Yamato"
       ],
       "type": "military"
+    },
+    {
+      "date": "01.01.0673",
+      "description": "Emperor Tenmu appointed his daughter Princess Ōku as the first documented saiō, an unmarried imperial princess sent to live at Ise Grand Shrine and serve the sun goddess Amaterasu as her ritual representative. She underwent a lengthy purification before departing the capital, cutting ties with ordinary court life to embody the imperial house's link to the shrine for the length of her service.\n\nThe office of saiō continued for roughly six centuries after Ōku, appearing later in the Aoi, Sakaki, and Yūgao chapters of The Tale of Genji as a fixture of Heian court life. Ise Grand Shrine itself remained, and remains, the most sacred site in Shinto, the shrine most closely tied to the imperial line's claimed descent from Amaterasu.",
+      "description_ru": "Император Тэмму назначил свою дочь, принцессу Оку, первой документально засвидетельствованной сайо — незамужней принцессой императорского дома, отправляемой жить при святилище Исэ и служить ритуальной представительницей богини солнца Аматэрасу. Перед отъездом из столицы она прошла длительное очищение, разорвав связи с обычной придворной жизнью, чтобы на срок своей службы воплощать связь императорского дома со святилищем.\n\nДолжность сайо просуществовала ещё около шести веков после Оку и позднее упоминается в главах «Аои», «Сакаки» и «Югао» «Повести о Гэндзи» как неотъемлемая часть хэйанской придворной жизни. Само святилище Исэ оставалось и остаётся самым священным местом синто — храмом, теснее всего связанным с притязаниями императорского рода на происхождение от Аматэрасу.",
+      "era": "AD",
+      "latitude": 34.4553,
+      "longitude": 136.7256,
+      "name": "Princess Ōku Becomes the First Saiō at Ise",
+      "name_ru": "Принцесса Оку становится первой сайо в Исэ",
+      "source": "https://en.wikipedia.org/wiki/Sai%C5%8D",
+      "tags": [
+        "Japanese",
+        "Yamato",
+        "Ise Grand Shrine",
+        "Saiō",
+        "Emperor Tenmu",
+        "Amaterasu",
+        "Shintoism",
+        "Holy Site"
+      ],
+      "type": "religious"
     },
     {
       "date": "01.01.0681",
@@ -522,6 +611,28 @@
         "Yamato"
       ],
       "type": "cultural"
+    },
+    {
+      "date": "26.06.0699",
+      "description": "The Imperial Court exiled the mountain ascetic En no Gyōja to the island of Izu Ōshima, accusing him of using sorcery to mislead the people after he had spent years training in the mountains around Katsuragi and building a following through austere fasting, meditation under waterfalls, and long treks across remote peaks. He is credited as the founder of Shugendō, a path blending mountain worship, Buddhist practice, and folk magic.\n\nPractitioners who followed his path became known as yamabushi, \"those who lie down in the mountains,\" wandering ascetics whose wilderness survival skills, secret medicinal knowledge, and reputation for supernatural powers later fed directly into the popular image of the shinobi. Folk tales recorded generations afterward in the Nihon Ryōiki claimed En no Gyōja commanded spirits and could fly, cementing his legend long after his exile ended.",
+      "description_ru": "Императорский двор сослал горного отшельника Эн-но Гёдзя на остров Идзу-Осима, обвинив его в том, что он колдовством вводит людей в заблуждение — после того как тот годами тренировался в горах Кацураги и собрал последователей суровым постом, медитацией под водопадами и долгими переходами по отдалённым вершинам. Его считают основателем сюгэндо — пути, сочетающего почитание гор, буддийскую практику и народную магию.\n\nПоследователей его пути стали называть ямабуси — «те, кто ложится в горах», — странствующих отшельников, чьи навыки выживания в диких местах, тайные знания о снадобьях и слава обладателей сверхъестественных сил позже напрямую питали народный образ синоби. Народные предания, записанные поколениями позже в «Нихон рёики», утверждали, что Эн-но Гёдзя повелевал духами и умел летать, закрепив его легенду задолго после окончания изгнания.",
+      "era": "AD",
+      "latitude": 34.4667,
+      "longitude": 135.6833,
+      "name": "The Court Banishes En no Gyōja, Founder of Shugendō",
+      "name_ru": "Двор изгоняет Эн-но Гёдзя, основателя сюгэндо",
+      "source": "https://en.wikipedia.org/wiki/En_no_Gy%C5%8Dja",
+      "tags": [
+        "Japanese",
+        "Yamato",
+        "En no Gyōja",
+        "Shugendō",
+        "Yamabushi",
+        "Mountain asceticism",
+        "Exile",
+        "Folk religion"
+      ],
+      "type": "religious"
     },
     {
       "date": "01.01.0701",
@@ -621,6 +732,28 @@
       "type": "cultural"
     },
     {
+      "date": "01.01.0733",
+      "description": "Miyake no Omi Kanatatari compiled the Izumo Fudoki under the supervision of the provincial official Izumo no Omi Hiroshima, weaving together local chronicles into the only regional gazetteer to survive from Nara-period Japan in complete form. Among the traditions it preserved was the story of the god Ōkuninushi ceding his earthly domain to Amaterasu's grandson Ninigi-no-Mikoto, who in gratitude built him a shrine of unmatched scale at Izumo.\n\nThat shrine, Izumo Taisha, is widely regarded as the oldest in Japan, predating even Ise, and its main hall lent its stepped, gabled design to an entire architectural style called taisha-zukuri. Local tradition long held the original hall stood far taller than the structure seen today, a claim archaeologists found support for in 2000 when they uncovered the remains of massive supporting pillars beneath the shrine grounds.",
+      "description_ru": "Мияке-но Оми Канататари составил «Идзумо-фудоки» под наблюдением провинциального чиновника Идзумо-но Оми Хиросимы, сведя воедино местные хроники в единственный региональный свод, дошедший от периода Нара в полном виде. Среди сохранённых им преданий — история о том, как бог Окунинуси уступил свои земные владения внуку Аматэрасу, Ниниги-но Микото, а тот в благодарность возвёл ему святилище невиданного масштаба в Идзумо.\n\nЭто святилище, Идзумо-тайся, считается древнейшим в Японии — старше даже Исэ, — а его ступенчатый двускатный главный зал дал название целому архитектурному стилю тайся-дзукури. Местное предание давно утверждало, что изначальный зал был намного выше нынешнего сооружения, и в 2000 году археологи нашли этому подтверждение, обнаружив под территорией святилища остатки массивных опорных столбов.",
+      "era": "AD",
+      "latitude": 35.4018,
+      "longitude": 132.6856,
+      "name": "The Izumo Fudoki Records the Kuni-yuzuri Myth Behind Izumo Taisha",
+      "name_ru": "«Идзумо-фудоки» фиксирует миф Куниюдзури, лежащий в основе Идзумо-тайся",
+      "source": "https://en.wikipedia.org/wiki/Izumo-taisha",
+      "tags": [
+        "Japanese",
+        "Nara",
+        "Izumo Taisha",
+        "Izumo Fudoki",
+        "Shintoism",
+        "Holy Site",
+        "Ōkuninushi",
+        "Architecture"
+      ],
+      "type": "cultural"
+    },
+    {
       "date": "01.01.0735",
       "description": "The Tenpyō smallpox epidemic (天平の疫病 Tenpyō no ekibyō) of 735–737 AD, entering Japan through Dazaifu in northern Kyushu from Korean and continental contacts, kills an estimated 25–35% of Japan's total population — the most catastrophic demographic event in Japanese history before the modern era. All four sons of the powerful Fujiwara no Fuhito die within months, severely disrupting the government. Emperor Shōmu responds with a massive Buddhist state response: ordering provincial monasteries (国分寺 kokubunji) and nunneries in every province and the construction of the Great Buddha at Tōdai-ji, explicitly as an appeal for divine protection.",
       "description_ru": "Эпидемия оспы в годы Тэмпё (天平の疫病) 735–737 гг., проникшая в Японию через Дадзайфу в северном Кюсю, уносит жизни от 25 до 35% всего населения Японии — наиболее катастрофическое демографическое событие в японской истории до Нового времени. Все четыре сына могущественного Фудзивара-но-Фухито погибают в течение нескольких месяцев. Император Сёму отвечает масштабной буддийской государственной реакцией: приказывает основать провинциальные монастыри в каждой провинции и возвести Великого Будду в Тōдайдзи.",
@@ -637,6 +770,28 @@
         "Nara"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.01.0735",
+      "description": "Kibi no Makibi came home to Heijō-kyō after seventeen years studying in Tang China as part of a Japanese embassy, bringing back a wealth of Chinese learning that reshaped court life. Among the imports credited to him were the board game go, played with black and white stones on a grid, and techniques of embroidery previously unknown at the Japanese court.\n\nGo spread through the aristocracy over the following centuries and appears repeatedly in Heian-period literature as a marker of a cultivated household, eventually becoming one of the two board games, alongside sugoroku, considered essential pastimes for a well-bred noble. Kibi's scholarly reputation from the same journey helped trigger the Fujiwara no Hirotsugu Rebellion five years later, when rivals resented the influence his learning had won him at court.",
+      "description_ru": "Киби-но Макиби вернулся в Хэйдзё-кё после семнадцати лет учёбы в танском Китае в составе японского посольства, привезя с собой богатство китайских знаний, изменивших придворную жизнь. Среди заимствований, приписываемых ему, — настольная игра го, в которую играют чёрными и белыми камнями на разлинованной доске, и техники вышивки, прежде неизвестные японскому двору.\n\nВ последующие века го распространилась среди знати и не раз упоминается в хэйанской литературе как признак утончённого дома, со временем став одной из двух настольных игр — наряду с сугороку, — которые считались обязательным времяпрепровождением для хорошо воспитанного аристократа. Учёная слава, которую Киби снискал в той же поездке, спустя пять лет отчасти спровоцировала восстание Фудзивара-но Хиротсугу, чьи соперники завидовали влиянию, добытому его образованностью при дворе.",
+      "era": "AD",
+      "latitude": 34.6851,
+      "longitude": 135.8048,
+      "name": "Kibi no Makibi Returns from Tang China with the Game of Go",
+      "name_ru": "Киби-но Макиби возвращается из танского Китая с игрой го",
+      "source": "https://en.wikipedia.org/wiki/Kibi_no_Makibi",
+      "tags": [
+        "Japanese",
+        "Nara",
+        "Kibi no Makibi",
+        "Go",
+        "Board game",
+        "Tang China",
+        "Court culture",
+        "Embroidery"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0741",
@@ -880,6 +1035,28 @@
       "type": "cultural"
     },
     {
+      "date": "01.01.0850",
+      "description": "The imperial court in Heian-kyō turned sumo into a regular fixture of its ceremonial calendar through the sumai no sechie, an annual tournament held before the emperor that combined the sport's older role as a religious offering with formal competition between wrestlers drawn from the provinces. Officials of the day drafted the first written rules for the contest, moving it away from the lethal, unregulated brawls the Nihon Shoki had described centuries earlier.\n\nThe tournament tied wrestling to the agricultural calendar and court ritual, framed as a way of divining the coming harvest and pleasing the kami rather than simple entertainment. That court patronage lasted through the height of the Heian period, and only faded once the imperial center lost real political power, after which sumo was repurposed under the samurai as a method of military training.",
+      "description_ru": "Императорский двор в Хэйан-кё превратил сумо в постоянную часть своего церемониального календаря через сумаи-но сэтиэ — ежегодный турнир перед лицом императора, сочетавший прежнюю роль борьбы как религиозного подношения с формальным состязанием борцов, присылаемых из провинций. Чиновники того времени составили первые письменные правила состязания, отойдя от смертельных нерегламентированных схваток, описанных веками раньше в «Нихон сёки».\n\nТурнир был привязан к сельскохозяйственному календарю и придворному ритуалу и воспринимался как способ предугадать будущий урожай и умилостивить ками, а не просто развлечение. Такое придворное покровительство сохранялось на протяжении расцвета периода Хэйан и угасло лишь после того, как императорский центр утратил реальную политическую власть, после чего сумо было переосмыслено самураями как метод военной подготовки.",
+      "era": "AD",
+      "latitude": 35.0257,
+      "longitude": 135.7622,
+      "name": "Sumai no Sechie Becomes an Annual Rite of the Imperial Court",
+      "name_ru": "Сумаи-но сэтиэ становится ежегодным обрядом императорского двора",
+      "source": "https://en.wikipedia.org/wiki/Sumo",
+      "tags": [
+        "Japanese",
+        "Heian",
+        "Sumo",
+        "Sumai no Sechie",
+        "Court ritual",
+        "Imperial court",
+        "Harvest ritual",
+        "Wrestling"
+      ],
+      "type": "cultural"
+    },
+    {
       "date": "01.01.0858",
       "description": "In 858 AD, Fujiwara no Yoshifusa (藤原良房) becomes regent (摂政 sesshō) for the nine-year-old Emperor Seiwa — the first time a non-imperial-family member has served as regent, and the founding moment of the Fujiwara regency system that dominates Japanese politics for the next 150 years. The Fujiwara consolidate power by marrying their daughters into the imperial family and then ruling as regents for the child emperors who result. The culmination of this system is Fujiwara no Michinaga (966–1028 AD), whose four daughters all become imperial consorts and who effectively controls the court for decades — the archetype of Heian court power.",
       "description_ru": "В 858 г. Фудзивара-но Ёсифуса (藤原良房) становится регентом (摂政 сэссё) при девятилетнем императоре Сэйва — первый случай, когда не-член императорской семьи служит регентом, и основополагающий момент системы регентства Фудзивара, доминирующей в японской политике на следующие 150 лет. Фудзивара консолидируют власть, выдавая дочерей за членов императорской семьи, а затем правя регентами при детях-императорах. Кульминация — Фудзивара-но Митинага (966–1028 гг.), чьи четыре дочери становятся императорскими наложницами.",
@@ -916,6 +1093,5 @@
       ],
       "type": "cultural"
     }
-  ],
-  "filename": "BC1_ancient_japan.json"
+  ]
 }
