@@ -1,11 +1,29 @@
 {
   "description": "Dataset imported with 36 events",
-  "filename": "AD3_aztec_civilization.json",
   "events": [
+    {
+      "date": "01.01.0700",
+      "description": "The temazcal was a low, domed steam bath heated by pouring water over volcanic stones that had been fired in an outside pit, chosen specifically because they could withstand the heat without cracking or exploding the way other rock would. Mexica physicians and midwives used the enclosed heat and steam as a standard treatment for fevers, skin ailments, and muscle pain, alongside herbal remedies applied inside the bath itself.\n\nMidwives relied on the temazcal most heavily around childbirth, using it to ease labor pains beforehand and to help a mother's body recover in the days after delivery. The practice survived the conquest largely intact, and indigenous midwives in parts of Mexico and Central America still use the temazcal for the same purpose today.",
+      "description_ru": "Темаскаль представлял собой невысокую купольную парную баню, нагреваемую водой, которую лили на вулканические камни, предварительно раскалённые в наружной яме, — их выбирали именно потому, что они выдерживали жар, не трескаясь и не взрываясь, в отличие от других пород. Врачеватели и повитухи использовали замкнутый жар и пар как стандартное средство от лихорадки, кожных болезней и мышечных болей, применяя внутри бани и травяные снадобья.\n\nЧасто повитухи прибегали к темаскалю при родах, используя его, чтобы облегчить схватки заранее и помочь телу матери восстановиться в первые дни после родов. Практика во многом пережила завоевание Америки, и коренные повитухи в отдельных областях Мексики и Центральной Америки используют темаскаль с той же целью и сегодня.",
+      "era": "AD",
+      "latitude": 17.48417,
+      "longitude": -92.0463,
+      "name": "Mesoamerican steam baths temazcal",
+      "name_ru": "Мезоамериканские паровые бани темаскаль",
+      "source": "https://en.wikipedia.org/wiki/Temazcal",
+      "tags": [
+        "Healthcare",
+        "Mayan",
+        "Medicine",
+        "Mesoamerican",
+        "Science"
+      ],
+      "type": "scientific"
+    },
     {
       "date": "24.05.1064",
       "description": "Mexica histories placed their origin at Aztlán, an island home shared with six other Nahua-speaking groups who all emerged from Chicomoztoc, \"the Place of the Seven Caves.\" Guided by their patron god Huitzilopochtli, the Mexica group broke away from the other six and began a long migration south toward the Valley of Mexico. Chroniclers tied the departure to a specific year, One Flint, later correlated by modern scholars to 1064 CE partly on the strength of a supernova recorded in Chinese and Japanese astronomical logs a decade earlier.\n\nWhere Aztlán actually stood is still disputed. Candidates range from an island in a lake in modern Nayarit to sites much farther north in what is now the southwestern United States, and some historians treat it as a founding myth rather than a mapped location. The uncertainty did not stop later Mexica rulers from sending expeditions back to search for it, or from using the Aztlán story to claim descent from a prestigious, half-remembered homeland.",
-      "description_ru": "История мешика возводила их происхождение к Ацтлану — острову, который они делили с шестью другими науатльскими народами, вышедшими из Чикомостока, «Места семи пещер». Ведомые своим богом-покровителем Уицилопочтли, мешика отделились от остальных шести групп и начали долгое переселение на юг, к долине Мехико. Хронисты связывали уход с конкретным годом, Се Текпатль, который современные исследователи условно соотносят с 1064 годом — отчасти по данным о вспышке сверхновой, зафиксированной китайскими и японскими астрономами десятилетием ранее.\n\nГде именно находился Ацтлан, до сих пор неясно. Среди версий — остров на озере в современном штате Наярит и места гораздо севернее, на территории нынешнего юго-запада США; некоторые историки вовсе считают Ацтлан не географической точкой, а основополагающим мифом. Неопределённость не мешала позднейшим правителям мешика отправлять экспедиции на его поиски и использовать легенду об Ацтлане, чтобы заявлять о происхождении из престижной, полузабытой прародины.",
+      "description_ru": "История мешика возводила их происхождение к Ацтлану — острову, который они делили с шестью другими науатльскими народами, вышедшими из Чикомостока, «Места семи пещер». Ведомые своим богом-покровителем Уицилопочтли, мешика отделились от остальных шести групп и начали долгое переселение на юг, к долине Мехико. Хронисты связывали уход с конкретным годом, Се Текпатль, который современные исследователи условно соотносят с 1064 годом — отчасти по данным о вспышке сверхновой, зафиксированной китайскими и японскими астрономами десятилетием ранее.\n\nГде именно находился Ацтлан, неизвестно. Среди версий — остров на озере в современном штате Наярит и места гораздо севернее, на территории нынешнего юго-запада США; некоторые историки вовсе считают Ацтлан не географической точкой, а мифом. Неопределённость не мешала правителям мешика позднее отправлять экспедиции на его поиски и использовать легенду об Ацтлане, чтобы заявлять о происхождении из престижной, полузабытой прародины.",
       "era": "AD",
       "latitude": 21.8833,
       "longitude": -105.4667,
@@ -13,71 +31,67 @@
       "name_ru": "Ацтлан — легендарная прародина мешика",
       "source": "https://en.wikipedia.org/wiki/Aztl%C3%A1n",
       "tags": [
+        "Legend",
         "Aztec",
         "Mesoamerican",
         "Migration",
-        "Origin",
-        "Mythology",
-        "Nahua"
+        "Tribal"
       ],
       "type": "cultural"
     },
     {
       "date": "01.01.1299",
       "description": "The wandering Mexica had settled at Chapultepec, \"Grasshopper Hill,\" a wooded rise with fresh springs on the western shore of Lake Texcoco, inside territory controlled by the Tepaneca of Azcapotzalco. Culhuacan's ruler Coxcoxtli joined forces with Azcapotzalco and the Xochimilca to attack the settlement and drove the Mexica off the hill by force.\n\nWith nowhere else to go, the survivors petitioned Culhuacan for refuge and were resettled at Tizapan, a stretch of land overrun with snakes that its own rulers considered nearly worthless. According to Culhuacan tradition, the Mexica ate the snakes and stayed, buying themselves a generation as unwelcome tenants before they were expelled again and pushed onward toward the lake's marshy islands.",
-      "description_ru": "Скитавшиеся мешика обосновались на Чапультепеке, «Холме кузнечиков» — лесистой возвышенности с родниками на западном берегу озера Тескоко, на территории, подконтрольной тепанекам Ацкапоцалько. Правитель Кулуакана Кошкоштли объединился с Ацкапоцалько и шочимильками, чтобы напасть на поселение, и силой согнал мешика с холма.\n\nОставшись без крова, уцелевшие мешика попросили убежища у Кулуакана и были поселены в Тисапане — земле, кишащей змеями, которую сами кулуаканцы считали почти бесполезной. Согласно преданиям Кулуакана, мешика ели этих змей и продержались там ещё поколение как непрошеные жильцы, прежде чем были вновь изгнаны и двинулись дальше, к болотистым островам озера.",
+      "description_ru": "Скитавшиеся мешика обосновались на Чапультепеке, «Холме кузнечиков» — лесистой возвышенности с родниками на западном берегу озера Тескоко, на территории, подконтрольной тепанекам Ацкапоцалько. Правитель Кулуакана Кошкоштли объединился с Ацкапоцалько и шочимильками, чтобы напасть на поселение, и силой согнал мешика с холма.\n\nОставшись без крова, уцелевшие мешика попросили убежища у Кулуакана и были поселены в Тисапане — земле, кишащей змеями, которую сами кулуаканцы считали бесполезной. Согласно преданиям Кулуакана, мешика ели этих змей и продержались там ещё поколение, прежде чем были вновь изгнаны и двинулись дальше, к болотистым островам озера.",
       "era": "AD",
       "latitude": 19.4204,
       "longitude": -99.1817,
-      "name": "Culhuacan and its allies drive the Mexica out of Chapultepec",
-      "name_ru": "Кулуакан и его союзники изгоняют мешика с холма Чапультепек",
+      "name": "Culhuacan drive the Mexica out of Chapultepec",
+      "name_ru": "Кулуакан изгоняет мешика с холма Чапультепек",
       "source": "https://en.wikipedia.org/wiki/Culhuacan_(altepetl)",
       "tags": [
+        "Legend",
         "Aztec",
+        "Exile",
         "Mesoamerican",
-        "Chapultepec",
-        "Culhuacan",
-        "Migration",
-        "Conflict"
+        "Migration"
       ],
       "type": "military"
     },
     {
       "date": "01.01.1325",
       "description": "After decades of expulsion and servitude, the Mexica reached a swampy island in the middle of Lake Texcoco still unclaimed by any of the valley's established powers. Their priests said Huitzilopochtli had promised a sign to mark the end of the migration: an eagle perched on a nopal cactus, and they found it exactly there. The Mexica built their first shrine on the spot and named the settlement Tenochtitlan, \"place of the prickly-pear cactus growing on a rock.\"\n\nThe island offered no farmland and no defensible walls were needed against outsiders reluctant to fight their way across open water. Within two centuries the Mexica turned that liability into an advantage, ringing the growing city with artificial garden plots and causeways and building it into the capital of the largest empire Mesoamerica had ever seen.",
-      "description_ru": "После десятилетий изгнаний и подневольной службы мешика добрались до болотистого острова посреди озера Тескоко, на который ещё не претендовала ни одна из утвердившихся сил долины. Их жрецы утверждали, что Уицилопочтли обещал знамение, отмечающее конец странствия: орла, сидящего на кактусе-нопале — и они нашли его именно там. Мешика построили на этом месте своё первое святилище и назвали поселение Теночтитланом, «местом кактуса, растущего на камне».\n\nОстров не давал пахотной земли, зато не требовал стен против чужаков, не желавших пробиваться туда через открытую воду. За два последующих века мешика превратили этот недостаток в преимущество, окружив разрастающийся город искусственными садовыми участками и дамбами и превратив его в столицу крупнейшей империи, какую только знала Мезоамерика.",
+      "description_ru": "После десятилетий изгнаний и подневольной службы мешика добрались до болотистого острова посреди озера Тескоко, на который ещё не претендовала ни одна из утвердившихся сил долины. Их жрецы утверждали, что Уицилопочтли обещал знамение, отмечающее конец странствия: орла, сидящего на кактусе-нопале — и они нашли его именно там. Мешика построили на этом месте своё первое святилище и назвали поселение Теночтитланом, «местом кактуса, растущего на камне».\n\nОстров не давал пахотной земли, зато не требовал стен против чужаков, не желавших пробиваться туда через открытую воду. За два последующих века мешика превратили этот недостаток в преимущество, окружив разрастающийся город искусственными садовыми участками и дамбами.",
       "era": "AD",
       "latitude": 19.4326,
       "longitude": -99.1332,
-      "name": "Tenochtitlan — an eagle, a cactus, and a new island capital",
-      "name_ru": "Теночтитлан — орёл, кактус и новая островная столица",
+      "name": "The founding of Tenochtitlan by Mexica",
+      "name_ru": "Основание мешика Теночтитлана",
       "source": "https://en.wikipedia.org/wiki/Tenochtitlan",
       "tags": [
+        "City",
+        "Legend",
         "Aztec",
-        "Mesoamerican",
-        "Tenochtitlan",
-        "Foundation",
         "Capital",
-        "Mexica"
+        "Foundation",
+        "Mesoamerican"
       ],
       "type": "historic"
     },
     {
       "date": "01.01.1337",
       "description": "Twelve years after Tenochtitlan's founding, a faction of Mexica dissatisfied with the ruling lineage split off from the main settlement and founded their own city, Tlatelolco, on the northern half of the same island. The breakaway group installed its own dynasty of rulers and kept a separate government from its southern neighbor for nearly a century and a half.\n\nDespite the political rivalry, the two cities grew physically inseparable, linked by causeways and shared shoreline, and Tenochtitlan came to depend heavily on Tlatelolco for one thing above all: its market, which grew into the busiest trading site anywhere in the Valley of Mexico.",
-      "description_ru": "Спустя двенадцать лет после основания Теночтитлана часть мешика, недовольная правящей династией, отделилась от основного поселения и основала собственный город — Тлателолько — на северной половине того же острова. Мятежная группа установила собственную династию правителей и почти полтора века сохраняла отдельное от южного соседа управление.\n\nНесмотря на политическое соперничество, оба города физически срослись, связанные дамбами и общей береговой линией, а Теночтитлан стал сильно зависеть от Тлателолько — прежде всего от его рынка, который превратился в самое оживлённое торговое место во всей долине Мехико.",
+      "description_ru": "Спустя двенадцать лет после основания Теночтитлана часть мешика, недовольная правящей династией, отделилась от основного поселения и основала собственный город — Тлателолько — на северной половине того же острова. Мятежная группа установила собственную династию и почти полтора века сохраняла отдельное от южного соседа управление.\n\nНесмотря на политическое соперничество, оба города физически срослись, связанные дамбами и общей береговой линией, а Теночтитлан стал сильно зависеть от Тлателолько — прежде всего от его рынка, который превратился в самое оживлённое торговое место во всей долине Мехико.",
       "era": "AD",
-      "latitude": 19.4494,
-      "longitude": -99.1367,
-      "name": "A dissident faction breaks away and founds Tlatelolco",
-      "name_ru": "Мятежная фракция откалывается и основывает Тлателолько",
+      "latitude": 19.45127659,
+      "longitude": -99.13764775,
+      "name": "Rebel Mexica found Tlatelolco",
+      "name_ru": "Мятежные мешика основывают Тлателолько",
       "source": "https://en.wikipedia.org/wiki/Tlatelolco_(altepetl)",
       "tags": [
+        "City",
         "Aztec",
         "Mesoamerican",
-        "Tlatelolco",
-        "Tenochtitlan",
-        "Foundation",
         "Rivalry"
       ],
       "type": "political"
@@ -85,20 +99,20 @@
     {
       "date": "01.01.1376",
       "description": "Tenochtitlan's Mexica settlers still lacked a ruler descended from the Toltecs, the ancestral dynasty every valley power used to legitimize its authority. The city's elders resolved this by requesting a royal bride from Culhuacan, the one local power that could still claim Toltec blood, and their choice, Acamapichtli, was installed as Tenochtitlan's first tlatoani.\n\nAs a Culhuacan-Mexica noble ruling a city that was still a tribute-paying vassal of Azcapotzalco, Acamapichtli's authority was real but limited: he answered to Tepanec overlords and led Tenochtitlan's warriors into their military campaigns rather than the city's own. His accession nonetheless gave the Mexica a legitimate royal line to build on once that vassalage ended.",
-      "description_ru": "У мешикских поселенцев Теночтитлана всё ещё не было правителя, происходившего от тольтеков — родовой линии, которой пользовалась для легитимации власти каждая держава долины. Городские старейшины решили эту проблему, попросив царскую невесту у Кулуакана — единственной местной державы, всё ещё претендовавшей на тольтекскую кровь, — и их избранник, Акамапичтли, был возведён в первые тлатоани Теночтитлана.\n\nБудучи кулуакано-мешикским знатным правителем города, остававшегося данником Ацкапоцалько, власть Акамапичтли была реальной, но ограниченной: он подчинялся тепанекским владыкам и вёл воинов Теночтитлана в чужие походы, а не в собственные. Тем не менее его воцарение дало мешика законную царскую линию, на которую можно было опереться, когда вассальная зависимость закончилась.",
+      "description_ru": "У мешикских поселенцев Теночтитлана всё ещё не было правителя, происходившего от тольтеков — родовой линии, которой пользовалась для легитимации власти каждая держава долины. Городские старейшины решили эту проблему, попросив царскую невесту у Кулуакана — единственной местной державы, всё ещё претендовавшей на тольтекскую кровь, — и их избранник, Акамапичтли, был возведён в первые тлатоани Теночтитлана.\n\nБудучи кулуакано-мешикским знатным правителем города, остававшегося данником Ацкапоцалько, власть Акамапичтли была реальной, но ограниченной: он подчинялся тепанекским владыкам и вёл воинов Теночтитлана в чужие походы, а не в собственные. Тем не менее его воцарение дало мешика законную царскую линию, на которую можно было опереться позднее.",
       "era": "AD",
       "latitude": 19.4326,
       "longitude": -99.1332,
       "name": "Acamapichtli becomes the first tlatoani of Tenochtitlan",
-      "name_ru": "Акамапичтли становится первым тлатоани Теночтитлана",
+      "name_ru": "Акамапичтли — первый тлатоани Теночтитлана",
       "source": "https://en.wikipedia.org/wiki/Acamapichtli",
       "tags": [
+        "Dynasty",
+        "King",
         "Aztec",
         "Mesoamerican",
-        "Tenochtitlan",
-        "Dynasty",
-        "Tlatoani",
-        "Political"
+        "Political",
+        "Toltec"
       ],
       "type": "political"
     },
@@ -107,38 +121,40 @@
       "description": "For decades Tenochtitlan had paid tribute to the Tepanec city of Azcapotzalco and fought its wars. Under the tlatoani Itzcoatl, Tenochtitlan joined with Texcoco and the smaller city of Tlacopan to rise against their former overlord and defeated the Tepanec army in the field, ending Azcapotzalco's dominance of the valley.\n\nThe three victorious cities formalized their partnership into what modern historians call the Aztec Triple Alliance, agreeing to divide tribute and conquered territory among themselves. Tenochtitlan, as the alliance's dominant military partner, used the arrangement to expand its own power far faster than either of its nominal equals.",
       "description_ru": "Десятилетиями Теночтитлан платил дань тепанекскому городу Ацкапоцалько и воевал в его войнах. При тлатоани Ицкоатле Теночтитлан объединился с Тескоко и небольшим городом Тлакопан, чтобы восстать против прежнего владыки, и разбил тепанекское войско в открытом бою, положив конец господству Ацкапоцалько в долине.\n\nТри города-победителя оформили союз, который современные историки называют Тройственным союзом ацтеков, договорившись делить между собой дань и завоёванные земли. Теночтитлан, как военно доминирующий партнёр союза, использовал это соглашение, чтобы наращивать собственную власть куда быстрее двух формально равных ему городов.",
       "era": "AD",
-      "latitude": 19.4839,
-      "longitude": -99.1817,
+      "latitude": 19.4839799,
+      "longitude": -99.18436646,
       "name": "Itzcoatl and the Triple Alliance topple Azcapotzalco",
       "name_ru": "Ицкоатль и Тройственный союз свергают Ацкапоцалько",
       "source": "https://en.wikipedia.org/wiki/Aztec_Triple_Alliance",
       "tags": [
-        "Aztec",
-        "Mesoamerican",
-        "Azcapotzalco",
-        "Triple Alliance",
         "War",
-        "Itzcoatl"
+        "Battle",
+        "Aztec",
+        "Independence",
+        "Mesoamerican",
+        "Rebellion"
       ],
       "type": "military"
     },
     {
       "date": "01.01.1429",
       "description": "During the war against Azcapotzalco, Itzcoatl's nephew Tlacaelel was promoted from a military command to cihuacoatl, an office that functioned as chief adviser and co-ruler alongside the tlatoani. He held the post through the reigns of four consecutive rulers, giving him a continuity of influence that outlasted any single king.\n\nFrom that position, Tlacaelel is credited with reworking Mexica religious doctrine to bind military conquest to cosmic necessity: the sun god Huitzilopochtli required a constant supply of captured war prisoners as sacrifices to keep the sun moving, which made further conquest a religious obligation rather than a political choice. The doctrine gave the empire's expansion a justification that outlived Tlacaelel himself.",
-      "description_ru": "Во время войны с Ацкапоцалько племянник Ицкоатля Тлакаэлель был повышен с военной должности до сиуакоатля — поста, действовавшего как главный советник и соправитель рядом с тлатоани. Он занимал эту должность при четырёх сменявших друг друга правителях, обеспечив себе влияние, пережившее любого отдельного царя.\n\nС этой позиции Тлакаэлелю приписывают переработку религиозной доктрины мешика, связавшую военные завоевания с космической необходимостью: бог солнца Уицилопочтли будто бы нуждался в постоянном притоке пленников для жертвоприношений, чтобы солнце продолжало двигаться, — а это превращало новые завоевания в религиозный долг, а не политический выбор. Эта доктрина пережила самого Тлакаэлеля и оправдывала расширение империи ещё долгие десятилетия.",
+      "description_ru": "Во время войны с Ацкапоцалько племянник Ицкоатля Тлакаэлель был повышен с военной должности до сиуакоатля — поста, действовавшего как главный советник и соправитель рядом с тлатоани. Он занимал эту должность при четырёх сменявших друг друга правителях, обеспечив себе влияние, пережившее любого отдельного царя.\n\nС этой позиции Тлакаэлелю приписывают переработку религиозной доктрины мешика, связавшую военные завоевания с космической необходимостью: бог солнца Уицилопочтли будто бы нуждался в постоянном притоке пленников для жертвоприношений, чтобы солнце продолжало двигаться, — а это превращало новые завоевания в религиозный долг. Эта доктрина пережила самого Тлакаэлеля и оправдывала расширение империи ещё долгие десятилетия.",
       "era": "AD",
       "latitude": 19.4326,
       "longitude": -99.1332,
       "name": "Tlacaelel becomes cihuacoatl and reshapes the empire's ideology",
-      "name_ru": "Тлакаэлель становится сиуакоатлем и переосмысляет идеологию империи",
+      "name_ru": "Тлакаэлель — первый сиуакоатль Теночтитлана",
       "source": "https://en.wikipedia.org/wiki/Tlacaelel",
       "tags": [
+        "Reform",
         "Aztec",
+        "Culture",
         "Mesoamerican",
-        "Tlacaelel",
-        "Religion",
+        "Pagan",
         "Political",
-        "Ideology"
+        "Religious",
+        "Sacrifice"
       ],
       "type": "political"
     },
@@ -149,16 +165,15 @@
       "era": "AD",
       "latitude": 19.4326,
       "longitude": -99.1332,
-      "name": "Itzcoatl orders the old histories burned",
-      "name_ru": "Ицкоатль приказывает сжечь старые летописи",
+      "name": "Itzcoatl rewrites Aztec history",
+      "name_ru": "Ицкоатль переписывает историю ацтеков",
       "source": "https://en.wikipedia.org/wiki/Itzcoatl",
       "tags": [
         "Aztec",
-        "Mesoamerican",
-        "Itzcoatl",
         "History",
-        "Codex",
-        "Political"
+        "Mesoamerican",
+        "Political",
+        "Propaganda"
       ],
       "type": "political"
     },
@@ -167,18 +182,17 @@
       "description": "Texcoco's exiled prince Nezahualcoyotl reclaimed his city's throne with Tenochtitlan's backing after Azcapotzalco's fall, ruling as the Triple Alliance's second-most-powerful partner for the next four decades. He is remembered less for conquest than for engineering and verse: he directed the construction of a dike across Lake Texcoco to hold back its brackish water from Tenochtitlan's freshwater canals, and composed poetry in Nahuatl that survived him in later transcriptions.\n\nHis verses return often to the same unresolved question — whether a ruler's monuments, songs, and even the flowers he prized could outlast death, or whether all of it, like the singer, was only lent for a season. Texcoco under his rule also built a reputation as the alliance's intellectual center, home to scholars, law codes, and a court library that no other valley city matched.",
       "description_ru": "Изгнанный принц Тескоко Несауалькойотль вернул себе трон родного города при поддержке Теночтитлана после падения Ацкапоцалько и правил следующие четыре десятилетия как второй по силе партнёр Тройственного союза. Его помнят не столько за завоевания, сколько за инженерные и поэтические труды: он руководил постройкой дамбы через озеро Тескоко, отделявшей его солоноватую воду от пресных каналов Теночтитлана, и сочинял стихи на науатле, дошедшие до нас в позднейших записях.\n\nЕго стихи снова и снова возвращаются к одному нерешённому вопросу — переживут ли смерть памятники, песни и даже любимые правителем цветы, или же всё это, как и сам певец, было лишь одолжено на сезон. Тескоко при его правлении также заслужил славу интеллектуального центра союза, где жили учёные, действовали своды законов и работала придворная библиотека, не имевшая равных в других городах долины.",
       "era": "AD",
-      "latitude": 19.5039,
-      "longitude": -98.8827,
+      "latitude": 19.49750235,
+      "longitude": -98.81712914,
       "name": "Nezahualcoyotl — the poet-king of Texcoco",
       "name_ru": "Несауалькойотль — царь-поэт Тескоко",
       "source": "https://en.wikipedia.org/wiki/Nezahualcoyotl",
       "tags": [
+        "City",
         "Aztec",
+        "Culture",
         "Mesoamerican",
-        "Texcoco",
-        "Nezahualcoyotl",
-        "Poetry",
-        "Culture"
+        "Poetry"
       ],
       "type": "cultural"
     },
@@ -194,51 +208,51 @@
       "source": "https://en.wikipedia.org/wiki/Moctezuma_I",
       "tags": [
         "Aztec",
-        "Mesoamerican",
-        "Famine",
+        "Climate Crisis",
         "Crisis",
-        "Moctezuma I",
-        "Climate"
+        "Famine",
+        "Mesoamerican"
       ],
       "type": "historic"
     },
     {
       "date": "01.01.1454",
       "description": "According to the Texcocan chronicler Ixtlilxochitl, the ritualized conflicts later called xochiyaoyotl, or flower wars, began as a direct response to the famine years: with granaries empty, priests reasoned that the gods were withholding rain because they had gone too long without sufficient captives for sacrifice. The Triple Alliance and neighboring states including Tlaxcala agreed to stage prearranged battles for the primary purpose of taking prisoners rather than territory.\n\nThe arrangement suited the Aztec state for another reason beyond religion: it kept Tlaxcala and other nearby powers militarily weakened and supplied with sacrificial captives without the cost of annexing and administering their land. The flower wars continued intermittently for the next sixty-five years, right up to the arrival of the Spanish.",
-      "description_ru": "По словам тескоканского летописца Иштлильшочитля, ритуализированные столкновения, позднее названные шочийаойотль, «цветочными войнами», возникли как прямой ответ на голодные годы: при пустых закромах жрецы рассудили, что боги удерживают дожди, поскольку слишком долго не получали достаточно пленников для жертвоприношений. Тройственный союз и соседние государства, включая Тласкалу, договорились устраивать заранее условленные битвы, главной целью которых было не завоевание земель, а взятие пленных.\n\nЭта договорённость устраивала ацтекское государство ещё по одной причине, помимо религиозной: она держала Тласкалу и другие соседние державы военно ослабленными и снабжала жертвенными пленниками без затрат на присоединение и управление их землёй. Цветочные войны с перерывами продолжались следующие шестьдесят пять лет — вплоть до прихода испанцев.",
+      "description_ru": "По словам тескоканского летописца Иштлильшочитля, ритуализированные столкновения, позднее названные шочийаойотль, «цветочными войнами», возникли как прямой ответ на голодные годы: при пустых закромах жрецы рассудили, что боги удерживают дожди, поскольку слишком долго не получали достаточно пленников для жертвоприношений. Тройственный союз и соседние государства, включая Тласкалу, договорились устраивать заранее условленные битвы, целью которых было не завоевание земель, а взятие пленных.\n\nЭта договорённость устраивала ацтекское государство ещё по одной причине, помимо религиозной: она держала Тласкалу и другие соседние державы военно ослабленными и снабжала жертвенными пленниками без затрат на присоединение и управление их землёй. Цветочные войны с перерывами продолжались следующие шестьдесят пять лет — вплоть до прихода испанцев.",
       "era": "AD",
       "latitude": 19.3182,
       "longitude": -98.2375,
-      "name": "The Flower Wars begin between the empire and Tlaxcala",
-      "name_ru": "Между империей и Тласкалой начинаются Цветочные войны",
+      "name": "The Flower Wars begin between Aztec empire and Tlaxcala",
+      "name_ru": "Цветочные войны между ацтекской империей и Тласкалой",
       "source": "https://en.wikipedia.org/wiki/Flower_war",
       "tags": [
+        "War",
         "Aztec",
+        "Conquest",
         "Mesoamerican",
-        "Flower War",
-        "Tlaxcala",
-        "Sacrifice",
-        "War"
+        "Religious",
+        "Sacrifice"
       ],
       "type": "military"
     },
     {
       "date": "01.01.1460",
       "description": "Tenochtitlan's island site had almost no farmland of its own, so the surrounding lake country carried the burden of feeding a rapidly growing population. Farmers around Xochimilco built chinampas — rectangular plots woven from reed fencing, staked into the lakebed, and built up layer by layer with mud dredged from the canals between them — creating some of the most productive farmland in Mesoamerica out of open water.\n\nThe standing water beneath each plot kept the soil constantly moist, letting farmers raise several harvests of maize, beans, chile, and flowers a year without waiting on rainfall. Willow trees planted along the plot edges anchored the soil with their roots, and the canal network doubled as a transport system: canoes loaded with produce could paddle straight from Xochimilco's chinampas into Tenochtitlan's own market canals.",
-      "description_ru": "Островное расположение Теночтитлана почти не оставляло городу собственной пахотной земли, поэтому основную тяжесть прокорма быстро растущего населения несли окрестные озёрные земли. Земледельцы вокруг Шочимилько строили чинампы — прямоугольные участки, сплетённые из тростниковых изгородей, вбитые в дно озера и наращённые слой за слоем илом, вычерпанным из каналов между ними, — превращая открытую воду в одну из самых плодородных пашен Мезоамерики.\n\nСтоячая вода под каждым участком постоянно увлажняла почву, позволяя земледельцам собирать по несколько урожаев маиса, фасоли, чили и цветов в год, не дожидаясь дождей. Ивы, высаженные по краям участков, укрепляли почву корнями, а сеть каналов одновременно служила транспортной системой: гружённые товаром каноэ могли плыть прямо от чинамп Шочимилько в рыночные каналы самого Теночтитлана.",
+      "description_ru": "Островное расположение Теночтитлана почти не оставляло городу собственной пахотной земли, поэтому основную тяжесть прокорма быстро растущего населения несли окрестные озёрные земли. Земледельцы вокруг Шочимилько строили чинампы — прямоугольные участки, сплетённые из тростниковых изгородей, вбитые в дно озера и наращённые слой за слоем илом, вычерпанным из каналов между ними, — превращая открытую воду в одну из самых плодородных пашен Мезоамерики.\n\nСтоячая вода под каждым участком постоянно увлажняла почву, позволяя земледельцам собирать по несколько урожаев маиса, фасоли, чили и цветов в год, не дожидаясь дождей. Ивы, высаженные по краям участков, укрепляли почву корнями, а сеть каналов одновременно служила транспортной системой: гружённые товаром каноэ могли плыть прямо от чинамп Шочимилько в каналы самого Теночтитлана.",
       "era": "AD",
       "latitude": 19.2647,
       "longitude": -99.1031,
-      "name": "Xochimilco's floating gardens feed the growing capital",
-      "name_ru": "Плавучие сады Шочимилько кормят растущую столицу",
+      "name": "Xochimilco's floating gardens feed Tenochtitlan",
+      "name_ru": "Плавучие сады Шочимилько кормят Теночтитлан",
       "source": "https://en.wikipedia.org/wiki/Chinampa",
       "tags": [
-        "Aztec",
-        "Mesoamerican",
-        "Xochimilco",
-        "Chinampa",
         "Agriculture",
-        "Engineering"
+        "Aztec",
+        "Engineering ⚙️",
+        "Innovation",
+        "Mesoamerican",
+        "Technology",
+        "Water"
       ],
       "type": "historic"
     },
@@ -247,38 +261,17 @@
       "description": "The pochteca were a hereditary class of long-distance merchants who traveled far beyond the empire's borders to trade in quetzal feathers, jade, cacao, jaguar pelts, and other luxury goods that fed the demands of Tenochtitlan's nobility. They organized themselves into their own guilds, followed their own internal laws, and answered to their own patron deity, Yacatecuhtli, \"Lord Who Guides.\"\n\nBecause their trade routes carried them through independent and even hostile territory, the pochteca doubled as the state's most reliable source of military intelligence, reporting back on the wealth, defenses, and internal politics of towns they visited. Rulers used pochteca reports of mistreatment or insult as pretexts for war, which made a merchant caravan as much an instrument of imperial policy as an army column.",
       "description_ru": "Почтека были наследственным сословием купцов дальней торговли, которые уходили далеко за пределы империи, добывая перья кецаля, нефрит, какао, шкуры ягуара и другие предметы роскоши, удовлетворявшие спрос теночтитланской знати. Они объединялись в собственные гильдии, жили по собственным внутренним законам и почитали собственное божество-покровителя — Йакатекутли, «Владыку, указывающего путь».\n\nПоскольку торговые пути вели их через независимые и порой враждебные земли, почтека одновременно служили государству самым надёжным источником военной разведки, докладывая о богатстве, обороне и внутренней политике посещённых городов. Правители использовали донесения почтека об оскорблениях или дурном обращении как повод для войны, так что торговый караван был инструментом имперской политики не в меньшей мере, чем военный отряд.",
       "era": "AD",
-      "latitude": 19.4494,
-      "longitude": -99.1367,
-      "name": "Pochteca — the merchant-spies of the empire",
-      "name_ru": "Почтека — купцы-разведчики империи",
+      "latitude": 19.45127659,
+      "longitude": -99.13764775,
+      "name": "Pochteca — the merchant-spies of the Aztec empire",
+      "name_ru": "Почтека — купцы-разведчики империи ацтеков",
       "source": "https://en.wikipedia.org/wiki/Pochteca",
       "tags": [
         "Aztec",
+        "Culture",
+        "Customs",
         "Mesoamerican",
-        "Pochteca",
-        "Trade",
-        "Economy",
-        "Espionage"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.1480",
-      "description": "Tenochtitlan depended on its neighbor Tlatelolco for the single largest marketplace in the Valley of Mexico, a plaza where tens of thousands of buyers and sellers gathered daily. Vendors organized by trade into designated rows: gold and feather-workers in one section, herb and medicine sellers in another, slaves, cloth, pottery, and cooked food each with their own assigned ground.\n\nA panel of market judges circulated constantly to settle disputes and punish cheating on the spot, and prices moved on cacao beans and lengths of cotton cloth used as informal currency rather than any minted coin. When Spanish soldiers first walked through the market in 1519, several later wrote that they had never seen anything of comparable size or order in any city of Spain.",
-      "description_ru": "Теночтитлан зависел от соседнего Тлателолько, где располагался крупнейший рынок долины Мехико — площадь, на которую ежедневно стекались десятки тысяч продавцов и покупателей. Торговцы располагались рядами по роду товара: золото и перьевые изделия — в одной части, травы и снадобья — в другой, рабы, ткани, керамика и готовая еда — каждый на своём отведённом месте.\n\nКоллегия рыночных судей постоянно обходила ряды, разрешая споры и наказывая за обман на месте, а цены измерялись какао-бобами и отрезами хлопковой ткани, заменявшими чеканную монету. Когда испанские солдаты в 1519 году впервые прошли по этому рынку, многие из них позже писали, что не видели ничего подобного по размаху и порядку ни в одном городе Испании.",
-      "era": "AD",
-      "latitude": 19.4494,
-      "longitude": -99.1367,
-      "name": "Tlatelolco — the greatest market in the Americas",
-      "name_ru": "Тлателолько — крупнейший рынок Америки",
-      "source": "https://en.wikipedia.org/wiki/Tlatelolco_(altepetl)",
-      "tags": [
-        "Aztec",
-        "Mesoamerican",
-        "Tlatelolco",
-        "Market",
-        "Trade",
-        "Economy"
+        "Trade"
       ],
       "type": "cultural"
     },
@@ -289,43 +282,40 @@
       "era": "AD",
       "latitude": 19.4326,
       "longitude": -99.1332,
-      "name": "Calmecac and telpochcalli train the empire's youth",
-      "name_ru": "Кальмекак и тельпочкалли воспитывают молодёжь империи",
+      "name": "Education in the Aztec Empire",
+      "name_ru": "Образование в империи Ацтеков",
       "source": "https://en.wikipedia.org/wiki/Calmecac",
       "tags": [
         "Aztec",
-        "Mesoamerican",
+        "Culture",
         "Education",
-        "Calmecac",
-        "Telpochcalli",
-        "Culture"
+        "Mesoamerican"
       ],
       "type": "cultural"
     },
     {
       "date": "01.01.1480",
-      "description": "The temazcal was a low, domed steam bath heated by pouring water over volcanic stones that had been fired in an outside pit, chosen specifically because they could withstand the heat without cracking or exploding the way other rock would. Mexica physicians and midwives used the enclosed heat and steam as a standard treatment for fevers, skin ailments, and muscle pain, alongside herbal remedies applied inside the bath itself.\n\nMidwives relied on the temazcal most heavily around childbirth, using it to ease labor pains beforehand and to help a mother's body recover in the days after delivery. The practice survived the conquest largely intact, and indigenous midwives in parts of Mexico and Central America still use the temazcal for the same purpose today.",
-      "description_ru": "Темаскаль представлял собой невысокую купольную парную баню, нагреваемую водой, которую лили на вулканические камни, предварительно раскалённые в наружной яме, — их выбирали именно потому, что они выдерживали жар, не трескаясь и не взрываясь, в отличие от других пород. Врачеватели и повитухи мешика использовали замкнутый жар и пар как стандартное средство от лихорадки, кожных болезней и мышечных болей, применяя внутри бани и травяные снадобья.\n\nОсобенно широко повитухи прибегали к темаскалю при родах, используя его, чтобы облегчить схватки заранее и помочь телу матери восстановиться в первые дни после родов. Практика во многом пережила завоевание, и коренные повитухи в отдельных областях Мексики и Центральной Америки используют темаскаль с той же целью и сегодня.",
+      "description": "Tenochtitlan depended on its neighbor Tlatelolco for the single largest marketplace in the Valley of Mexico, a plaza where tens of thousands of buyers and sellers gathered daily. Vendors organized by trade into designated rows: gold and feather-workers in one section, herb and medicine sellers in another, slaves, cloth, pottery, and cooked food each with their own assigned ground.\n\nA panel of market judges circulated constantly to settle disputes and punish cheating on the spot, and prices moved on cacao beans and lengths of cotton cloth used as informal currency rather than any minted coin. When Spanish soldiers first walked through the market in 1519, several later wrote that they had never seen anything of comparable size or order in any city of Spain.",
+      "description_ru": "Теночтитлан зависел от соседнего Тлателолько, где располагался крупнейший рынок долины Мехико — площадь, на которую ежедневно стекались десятки тысяч продавцов и покупателей. Торговцы располагались рядами по роду товара: золото и перьевые изделия — в одной части, травы и снадобья — в другой, рабы, ткани, керамика и готовая еда — каждый на своём отведённом месте.\n\nКоллегия рыночных судей постоянно обходила ряды, разрешая споры и наказывая за обман на месте, а цены измерялись какао-бобами и отрезами хлопковой ткани, заменявшими чеканную монету. Когда испанские солдаты в 1519 году впервые прошли по этому рынку, многие из них позже писали, что не видели ничего подобного по размаху и порядку ни в одном городе Испании.",
       "era": "AD",
-      "latitude": 19.4326,
-      "longitude": -99.1332,
-      "name": "Temazcal steam baths treat illness and childbirth",
-      "name_ru": "Паровые бани темаскаль лечат недуги и помогают при родах",
-      "source": "https://en.wikipedia.org/wiki/Temazcal",
+      "latitude": 19.45127659,
+      "longitude": -99.13764775,
+      "name": "Tlatelolco — the greatest market in the Americas",
+      "name_ru": "Тлателолько — крупнейший рынок Америки",
+      "source": "https://en.wikipedia.org/wiki/Tlatelolco_(altepetl)",
       "tags": [
         "Aztec",
+        "Culture",
+        "Economic",
         "Mesoamerican",
-        "Medicine",
-        "Temazcal",
-        "Childbirth",
-        "Science"
+        "Trade"
       ],
-      "type": "scientific"
+      "type": "cultural"
     },
     {
       "date": "19.12.1487",
-      "description": "Successive Mexica rulers had enlarged the Templo Mayor by building each new phase directly over the last, and Ahuitzotl completed the seventh and final major rebuilding, adding new shrines and a wall of carved serpent heads around the sacred precinct. The dedication ceremony was fixed to the last day of the month of Panquetzaliztli, sacred to the war god Huitzilopochtli — recorded in Aztec sources as day 7 Reed of the year 8 Reed, corresponding to 19 December 1487.\n\nSpanish-era chronicles describe rows of war captives brought from recent campaigns and sacrificed over several days to consecrate the new temple, though modern historians regard the specific casualty figures given in some of those accounts as almost certainly inflated for political effect. What is not disputed is the temple's function afterward: for the following three decades, until the Spanish arrived, it remained the empire's central stage for state ritual and human sacrifice.",
-      "description_ru": "Сменявшие друг друга правители мешика раз за разом расширяли Темпло Майор, надстраивая каждый новый ярус прямо поверх предыдущего, и Ауицотль завершил седьмую, последнюю крупную перестройку, добавив новые святилища и стену из резных змеиных голов вокруг священного участка. Церемонию освящения назначили на последний день месяца панкецалистли, посвящённого богу войны Уицилопочтли — источники ацтеков называют день 7 Тростник года 8 Тростник, что соответствует 19 декабря 1487 года.\n\nХроники испанской эпохи описывают ряды пленников, привезённых с недавних походов и принесённых в жертву на протяжении нескольких дней ради освящения нового храма, хотя современные историки считают конкретные цифры жертв, приводимые в некоторых из этих хроник, почти наверняка завышенными в политических целях. Бесспорно другое: в последующие три десятилетия, вплоть до прихода испанцев, храм оставался главной сценой государственных ритуалов и человеческих жертвоприношений империи.",
+      "description": "Successive Mexica rulers had enlarged the Templo Mayor by building each new phase directly over the last, and Ahuitzotl completed the seventh and final major rebuilding, adding new shrines and a wall of carved serpent heads around the sacred precinct. The dedication ceremony was fixed to the last day of the month of Panquetzaliztli, sacred to the war god Huitzilopochtli — recorded in Aztec sources as day 7 Reed of the year 8 Reed, corresponding to 19 December 1487.",
+      "description_ru": "Сменявшие друг друга правители мешика раз за разом расширяли Темпло Майор, надстраивая каждый новый ярус прямо поверх предыдущего, и Ауицотль завершил седьмую, последнюю крупную перестройку, добавив новые святилища и стену из резных змеиных голов вокруг священного участка. Церемонию освящения назначили на последний день месяца панкецалистли, посвящённого богу войны Уицилопочтли — источники ацтеков называют день 7 Тростник года 8 Тростник, что соответствует 19 декабря 1487 года.",
       "era": "AD",
       "latitude": 19.4326,
       "longitude": -99.1332,
@@ -333,12 +323,13 @@
       "name_ru": "Ауицотль освящает перестроенный Великий храм",
       "source": "https://en.wikipedia.org/wiki/Templo_Mayor",
       "tags": [
+        "Building 🏠",
+        "Architecture",
         "Aztec",
+        "Holy Site",
         "Mesoamerican",
-        "Templo Mayor",
-        "Ahuitzotl",
-        "Religion",
-        "Sacrifice"
+        "Sacrifice",
+        "Temple"
       ],
       "type": "religious"
     },
@@ -353,19 +344,18 @@
       "name_ru": "Монтесума II восходит на ацтекский трон",
       "source": "https://en.wikipedia.org/wiki/Moctezuma_II",
       "tags": [
+        "King",
         "Aztec",
+        "Empire",
         "Mesoamerican",
-        "Moctezuma II",
-        "Tlatoani",
-        "Political",
-        "Empire"
+        "Political"
       ],
       "type": "political"
     },
     {
       "date": "01.01.1510",
-      "description": "Sometime during Moctezuma II's reign, sculptors carved a basalt disk nearly twelve feet across into what is now known as the Aztec Sun Stone, covering its face with the calendar signs of the twenty day names, the four previous cosmic ages the Mexica believed had already ended in destruction, and the face of a solar deity at its center. It was never a functioning calendar in the sense of tracking dates day to day; scholars now read it primarily as a monument to Mexica cosmology and to the state's central claim that Tenochtitlan stood at the center of a sacred, cyclical universe.\n\nThe stone originally stood in the sacred precinct near the Templo Mayor, then vanished from view for over two and a half centuries after the conquest — Spanish authorities are believed to have buried it face-down in the main plaza. Workers repaving Mexico City's Zócalo rediscovered it on 17 December 1790, and it has been on public display, with one long interruption, ever since.",
-      "description_ru": "Где-то в годы правления Монтесумы II мастера вырезали из базальта диск почти четырёх метров в поперечнике, ныне известный как ацтекский Камень Солнца, покрыв его лицевую сторону знаками двадцати дней календаря, символами четырёх минувших космических эпох, которые, по представлениям мешика, уже завершились разрушением, и ликом солнечного божества в центре. Камень никогда не был действующим календарём в смысле повседневного отсчёта дат; исследователи сегодня читают его прежде всего как памятник космологии мешика и как воплощение главного государственного тезиса о том, что Теночтитлан стоит в центре священной, цикличной вселенной.\n\nПервоначально камень стоял в священном участке рядом с Темпло Майор, а затем более двух с половиной веков после завоевания оставался скрытым от глаз — считается, что испанские власти закопали его лицевой стороной вниз на главной площади. Рабочие, перестилавшие мостовую на мехиканском Сокало, обнаружили его 17 декабря 1790 года, и с тех пор, за одним долгим перерывом, он остаётся выставлен для обозрения.",
+      "description": "Sometime during Moctezuma II's reign, sculptors carved a basalt disk nearly twelve feet across into what is now known as the Aztec Sun Stone, covering its face with the calendar signs of the twenty day names, the four previous cosmic ages the Mexica believed had already ended in destruction, and the face of a solar deity at its center. It was never a functioning calendar in the sense of tracking dates day to day; scholars now read it primarily as a monument to Mexica cosmology and to the state's central claim that Tenochtitlan stood at the center of a sacred, cyclical universe.",
+      "description_ru": "Где-то в годы правления Монтесумы II мастера вырезали из базальта диск почти четырёх метров в поперечнике, ныне известный как ацтекский Камень Солнца, покрыв его лицевую сторону знаками двадцати дней календаря, символами четырёх минувших космических эпох, которые, по представлениям мешика, уже завершились разрушением, и ликом солнечного божества в центре. Камень никогда не был действующим календарём в смысле повседневного отсчёта дат; исследователи сегодня читают его прежде всего как памятник космологии мешика и как воплощение главного государственного тезиса о том, что Теночтитлан стоит в центре священной, цикличной вселенной.",
       "era": "AD",
       "latitude": 19.4326,
       "longitude": -99.1332,
@@ -373,12 +363,12 @@
       "name_ru": "Ацтекские мастера высекают Камень Солнца",
       "source": "https://en.wikipedia.org/wiki/Aztec_sun_stone",
       "tags": [
+        "Art",
         "Aztec",
-        "Mesoamerican",
-        "Sun Stone",
         "Calendar",
         "Cosmology",
-        "Art"
+        "Culture",
+        "Mesoamerican"
       ],
       "type": "scientific"
     },
@@ -389,36 +379,36 @@
       "era": "AD",
       "latitude": 19.4326,
       "longitude": -99.1332,
-      "name": "Omens trouble Moctezuma II in the years before the Spanish arrive",
-      "name_ru": "Дурные знамения тревожат Монтесуму II в преддверии прихода испанцев",
+      "name": "Omens trouble Moctezuma II",
+      "name_ru": "Дурные знамения тревожат Монтесуму II",
       "source": "https://en.wikipedia.org/wiki/Moctezuma_II",
       "tags": [
+        "Legend",
+        "Uncertain",
         "Aztec",
         "Mesoamerican",
-        "Omens",
-        "Moctezuma II",
-        "Florentine Codex",
-        "Religion"
+        "Mystery"
       ],
       "type": "religious"
     },
     {
       "date": "22.04.1519",
       "description": "Cortés brought a fleet of eleven ships and several hundred men to anchor off the coast near what would become Veracruz, following earlier Spanish expeditions that had already skirmished with coastal Maya towns and fought the Battle of Centla at Potonchan. Local Totonac communities, themselves resentful tribute-payers of the Aztec Empire, made contact with the newcomers within days.\n\nCortés founded the settlement of Villa Rica de la Vera Cruz on the coast, a formal legal step under Spanish law that let him claim to answer directly to the Crown rather than to his nominal superior, the governor of Cuba who had not authorized this deeper expedition. From Veracruz he began gathering the coastal alliances, above all with Tlaxcala, that would carry his small force all the way to Tenochtitlan.",
-      "description_ru": "Кортес привёл флот из одиннадцати кораблей и нескольких сотен человек к побережью неподалёку от будущей Веракрус, вслед за более ранними испанскими экспедициями, уже вступавшими в стычки с прибрежными городами майя и сражавшимися при Потончане в битве при Сентле. Местные тотонакские общины, сами обременённые данью Ацтекской империи, вступили в контакт с пришельцами уже через несколько дней.\n\nКортес основал на побережье поселение Вилья-Рика-де-ла-Вера-Крус — формальный правовой шаг по испанским законам, позволивший ему заявить, что он подчиняется напрямую короне, а не своему номинальному начальнику, губернатору Кубы, не санкционировавшему эту экспедицию вглубь материка. Из Веракрус он начал собирать прибрежные союзы — прежде всего с Тласкалой, — которые в итоге привели его небольшой отряд до самого Теночтитлана.",
+      "description_ru": "Кортес привёл флот из одиннадцати кораблей и нескольких сотен человек к побережью неподалёку от будущей Веракрус, вслед за более ранними испанскими экспедициями. Местные тотонакские общины, обременённые данью Ацтекской империи, вступили в контакт с пришельцами уже через несколько дней.\n\nКортес основал на побережье поселение Вилья-Рика-де-ла-Вера-Крус — формальный правовой шаг по испанским законам, позволивший ему заявить, что он подчиняется напрямую короне, а не своему номинальному начальнику, губернатору Кубы, не санкционировавшему эту экспедицию вглубь материка. Из Веракрус он начал собирать прибрежные союзы — прежде всего с Тласкалой, — которые в итоге привели его небольшой отряд до самого Теночтитлана.",
       "era": "AD",
       "latitude": 19.1738,
       "longitude": -96.1342,
       "name": "Hernán Cortés lands on the Gulf coast",
-      "name_ru": "Эрнан Кортес высаживается на побережье Мексиканского залива",
+      "name_ru": "Эрнан Кортес высаживается в Мексике",
       "source": "https://en.wikipedia.org/wiki/Fall_of_Tenochtitlan",
       "tags": [
         "Aztec",
+        "Conquest",
+        "Conquistadors",
+        "Cortés 👤",
         "Mesoamerican",
-        "Cortes",
-        "Spanish",
-        "Veracruz",
-        "Conquest"
+        "New World",
+        "Spanish"
       ],
       "type": "historic"
     },
@@ -433,59 +423,65 @@
       "name_ru": "Резня в Чолуле",
       "source": "https://en.wikipedia.org/wiki/Cholula_massacre",
       "tags": [
+        "War",
         "Aztec",
-        "Mesoamerican",
-        "Cholula",
+        "Conquest",
+        "Conquistadors",
+        "Cortés 👤",
         "Massacre",
-        "Cortes",
-        "Conquest"
+        "Mesoamerican",
+        "New World",
+        "Spanish"
       ],
       "type": "military"
     },
     {
       "date": "08.11.1519",
       "description": "Cortés's expedition crossed the Ixtapalapa causeway onto Tenochtitlan's island under close watch from a Mexica escort, and Moctezuma II came out to meet him partway rather than waiting inside the city. Nahua and Spanish accounts of the exact words exchanged diverge sharply, but both sides describe an outwardly courteous meeting: Moctezuma presented Cortés with gifts of gold and textiles and lodged the Spanish in the palace of his father, Axayacatl, at the heart of the city.\n\nThe hospitality put several hundred armed foreigners inside the most defensible compound in the Mexica capital, within a short walk of the Templo Mayor and the royal treasury. Cortés later admitted in his own letters to the Spanish king that he understood the arrangement was, from the start, a foothold rather than a friendly visit.",
-      "description_ru": "Экспедиция Кортеса пересекла дамбу Истапалапа и вошла на остров Теночтитлана под пристальным присмотром мешикского сопровождения, а Монтесума II вышел навстречу, не дожидаясь гостей внутри города. Науатльские и испанские источники сильно расходятся в передаче точных слов, которыми обменялись стороны, но оба описывают внешне учтивую встречу: Монтесума преподнёс Кортесу дары золотом и тканями и разместил испанцев во дворце своего отца, Ашаякатля, в самом сердце города.\n\nЭто гостеприимство поместило несколько сотен вооружённых чужеземцев в самый обороноспособный комплекс мешикской столицы, в двух шагах от Темпло Майор и царской сокровищницы. Позднее в письмах испанскому королю Кортес сам признавал, что с самого начала понимал: это была не дружественная встреча, а плацдарм.",
+      "description_ru": "Экспедиция Кортеса пересекла дамбу Истапалапа и вошла на остров Теночтитлана под присмотром ацтеков, а Монтесума II вышел навстречу, не дожидаясь гостей внутри города. Науатльские и испанские источники сильно расходятся в передаче точных слов, которыми обменялись стороны, но оба описывают внешне учтивую встречу: Монтесума преподнёс Кортесу дары золотом и тканями и разместил испанцев во дворце своего отца, Ашаякатля, в самом сердце города.\n\nЭто гостеприимство поместило несколько сотен вооружённых чужеземцев в самый обороноспособный комплекс мешикской столицы, в двух шагах от Темпло Майор и царской сокровищницы. Позднее в письмах испанскому королю Кортес сам признавал, что с самого начала понимал: это была не дружественная встреча, а плацдарм.",
       "era": "AD",
       "latitude": 19.4326,
       "longitude": -99.1332,
       "name": "Cortés and Moctezuma II meet in Tenochtitlan",
-      "name_ru": "Кортес и Монтесума II встречаются в Теночтитлане",
+      "name_ru": "Встреча Кортеса и Монтесумы II",
       "source": "https://en.wikipedia.org/wiki/Fall_of_Tenochtitlan",
       "tags": [
+        "Diplomacy",
         "Aztec",
+        "Conquistadors",
+        "Cortés 👤",
         "Mesoamerican",
-        "Moctezuma II",
-        "Cortes",
-        "Tenochtitlan",
-        "Diplomacy"
+        "New World",
+        "Spanish"
       ],
       "type": "political"
     },
     {
       "date": "14.11.1519",
-      "description": "Days after arriving, Cortés used a pretext — a report that Aztec forces on the coast had killed several Spaniards — to confront Moctezuma II directly and pressure him into relocating to the Spanish quarters at the palace of Axayacatl, ostensibly as a guest but under armed guard. Moctezuma continued to appear in public and issue orders, and most of the city's population still treated him as their ruler.\n\nThe arrangement let Cortés govern indirectly through a captive figurehead for several months, using Moctezuma's authority to keep the peace while a much smaller Spanish garrison held the city's political center. It was a strategy that depended entirely on the Mexica nobility continuing to accept a hostage tlatoani as legitimate, an assumption that would not hold once his usefulness to Cortés collided with his own people's anger.",
-      "description_ru": "Через несколько дней после прибытия Кортес использовал предлог — донесение о том, что ацтекские силы на побережье убили нескольких испанцев, — чтобы прямо потребовать от Монтесумы II переселиться в испанские покои во дворце Ашаякатля, формально как гостя, но под вооружённой охраной. Монтесума продолжал появляться на публике и отдавать распоряжения, и большая часть населения города по-прежнему считала его своим правителем.\n\nТакое положение позволило Кортесу несколько месяцев управлять городом опосредованно, через плененного правителя-марионетку, используя авторитет Монтесумы для сохранения порядка, пока гораздо меньший испанский гарнизон удерживал политический центр города. Стратегия целиком зависела от того, что мешикская знать продолжит признавать легитимность заложника-тлатоани, — допущение, которое рухнуло, как только его полезность для Кортеса столкнулась с гневом собственного народа.",
+      "description": "Days after arriving, Cortés used a pretext — a report that Aztec forces on the coast had killed several Spaniards — to confront Moctezuma II directly and pressure him into relocating to the Spanish quarters at the palace of Axayacatl, ostensibly as a guest but under armed guard. Moctezuma continued to appear in public and issue orders, and most of the city's population still treated him as their ruler.\n\nThe arrangement let Cortés govern indirectly through a captive figurehead for several months, using Moctezuma's authority to keep the peace while a much smaller Spanish garrison held the city's political center. It was a strategy that depended entirely on the Mexica nobility continuing to accept a hostage tlatoani as legitimate.",
+      "description_ru": "Через несколько дней после прибытия Кортес использовал предлог — донесение о том, что ацтекские силы на побережье убили нескольких испанцев, — чтобы прямо потребовать от Монтесумы II переселиться в испанские покои во дворце Ашаякатля, формально как гостя, но под вооружённой охраной. Монтесума продолжал появляться на публике и отдавать распоряжения, и большая часть населения города по-прежнему считала его своим правителем.\n\nТакое положение позволило Кортесу несколько месяцев управлять городом опосредованно, через плененного правителя-марионетку, используя авторитет Монтесумы для сохранения порядка, пока гораздо меньший испанский гарнизон удерживал политический центр города. Стратегия целиком зависела от того, что мешикская знать продолжит признавать легитимность заложника-тлатоани.",
       "era": "AD",
       "latitude": 19.4326,
       "longitude": -99.1332,
       "name": "Moctezuma II is taken hostage in his own palace",
-      "name_ru": "Монтесума II становится заложником в собственном дворце",
+      "name_ru": "Кортес берет Монтесуму II в заложники",
       "source": "https://en.wikipedia.org/wiki/Moctezuma_II",
       "tags": [
         "Aztec",
-        "Mesoamerican",
-        "Moctezuma II",
-        "Cortes",
+        "Conquest",
+        "Conquistadors",
+        "Cortés 👤",
         "Hostage",
-        "Conquest"
+        "Mesoamerican",
+        "New World",
+        "Spanish"
       ],
       "type": "political"
     },
     {
       "date": "22.05.1520",
-      "description": "With Cortés away on the coast confronting a rival Spanish force sent to arrest him, his deputy Pedro de Alvarado was left in command of the garrison in Tenochtitlan. Mexica nobles and warriors gathered in the sacred precinct, unarmed, to celebrate the feast of Toxcatl, honoring the god Tezcatlipoca with dancing.\n\nAlvarado's men sealed the courtyard's exits and killed the celebrants where they stood, later claiming they had uncovered a plot to attack the garrison, a justification most historians now treat with skepticism given the one-sided nature of the killing. The massacre destroyed whatever fragile calm had held since Moctezuma's capture, and the city rose in open revolt against the Spanish garrison within days.",
-      "description_ru": "Пока Кортес находился на побережье, разбираясь с соперничающим испанским отрядом, посланным его арестовать, командование гарнизоном в Теночтитлане было оставлено на его заместителя Педро де Альварадо. Мешикская знать и воины, безоружные, собрались на священном участке, чтобы отпраздновать праздник Тошкатль в честь бога Тескатлипоки, с танцами.\n\nЛюди Альварадо перекрыли выходы со двора и перебили празднующих на месте, позднее утверждая, что раскрыли заговор против гарнизона — объяснение, к которому большинство историков относятся скептически, учитывая полную односторонность бойни. Резня разрушила и без того хрупкое спокойствие, продержавшееся с момента пленения Монтесумы, и уже через несколько дней город открыто восстал против испанского гарнизона.",
+      "description": "With Cortés away on the coast confronting a rival Spanish force sent to arrest him, his deputy Pedro de Alvarado was left in command of the garrison in Tenochtitlan. Aztec nobles and warriors gathered in the sacred precinct, unarmed, to celebrate the feast of Toxcatl, honoring the god Tezcatlipoca with dancing.\n\nAlvarado's men sealed the courtyard's exits and killed the celebrants where they stood, later claiming they had uncovered a plot to attack the garrison, a justification most historians now treat with skepticism given the one-sided nature of the killing. The massacre destroyed whatever fragile calm had held since Moctezuma's capture, and the city rose in open revolt against the Spanish garrison within days.",
+      "description_ru": "Пока Кортес находился на побережье, разбираясь с соперничающим испанским отрядом, посланным его арестовать, командование гарнизоном в Теночтитлане было оставлено на его заместителя Педро де Альварадо. Ацтекская знать и воины, безоружные, собрались на священном участке, чтобы отпраздновать праздник Тошкатль в честь бога Тескатлипоки, с танцами.\n\nЛюди Альварадо перекрыли выходы со двора и перебили празднующих на месте, позднее утверждая, что раскрыли заговор против гарнизона — объяснение, к которому большинство историков относятся скептически, учитывая полную односторонность бойни. Резня разрушила и без того хрупкое спокойствие, продержавшееся с момента пленения Монтесумы, и через несколько дней город открыто восстал против испанского гарнизона.",
       "era": "AD",
       "latitude": 19.435,
       "longitude": -99.1314,
@@ -493,19 +489,22 @@
       "name_ru": "Резня в Великом храме во время праздника Тошкатль",
       "source": "https://en.wikipedia.org/wiki/Massacre_in_the_Great_Temple",
       "tags": [
+        "Alvarado 👤",
         "Aztec",
-        "Mesoamerican",
-        "Toxcatl",
-        "Alvarado",
+        "Conquest",
+        "Conquistadors",
+        "Holidays",
         "Massacre",
-        "Conquest"
+        "Mesoamerican",
+        "New World",
+        "Spanish"
       ],
       "type": "military"
     },
     {
       "date": "29.06.1520",
-      "description": "With Tenochtitlan in open revolt after the Toxcatl massacre, Cortés brought the still-captive Moctezuma II out onto a palace rooftop, reportedly hoping his appearance would calm the crowds below. Spanish accounts claim Moctezuma was struck by stones thrown by his own furious subjects; several Nahua accounts instead hold the Spanish responsible for killing him once he had stopped being useful to them.\n\nMoctezuma died within days of the incident, and his body was returned to the Mexica, who by most accounts refused him the funeral honors owed a Huey Tlatoani. His death left Tenochtitlan without a ruler in the middle of a siege, and the city's nobles moved quickly to select a successor from among Moctezuma's own relatives.",
-      "description_ru": "Когда Теночтитлан открыто восстал после резни на Тошкатль, Кортес вывел всё ещё плененного Монтесуму II на крышу дворца, рассчитывая, по некоторым сведениям, что его появление успокоит толпу внизу. Испанские источники утверждают, что Монтесуму поразили камни, брошенные его же разгневанными подданными; ряд науатльских свидетельств вместо этого возлагает вину за его гибель на самих испанцев, избавившихся от него, когда он перестал быть им полезен.\n\nМонтесума умер в течение нескольких дней после этого случая, и его тело вернули мешика, которые, по большинству свидетельств, отказали ему в погребальных почестях, положенных Уэй Тлатоани. Его смерть оставила Теночтитлан без правителя в разгар осады, и городская знать поспешила выбрать преемника среди родственников самого Монтесумы.",
+      "description": "With Tenochtitlan in open revolt after the Toxcatl massacre, Cortés brought the still-captive Moctezuma II out onto a palace rooftop, reportedly hoping his appearance would calm the crowds below. Spanish accounts claim Moctezuma was struck by stones thrown by his own furious subjects; several Nahua accounts instead hold the Spanish responsible for killing him once he had stopped being useful to them.\n\nMoctezuma died within days of the incident, and his body was returned to aztecs, who by most accounts refused him the funeral honors owed a Huey Tlatoani. His death left Tenochtitlan without a ruler in the middle of a siege, and the city's nobles moved quickly to select a successor from among Moctezuma's own relatives.",
+      "description_ru": "Когда Теночтитлан открыто восстал после резни на Тошкатль, Кортес вывел всё ещё плененного Монтесуму II на крышу дворца, рассчитывая, по некоторым сведениям, что его появление успокоит толпу внизу. Испанские источники утверждают, что Монтесуму поразили камни, брошенные его же разгневанными подданными; ряд науатльских свидетельств вместо этого возлагает вину за его гибель на самих испанцев, избавившихся от него, когда он перестал быть им полезен.\n\nМонтесума умер в течение нескольких дней после этого случая, и его тело вернули ацтекам, которые, по большинству свидетельств, отказали ему в погребальных почестях, положенных Уэй Тлатоани. Его смерть оставила Теночтитлан без правителя в разгар осады, и городская знать поспешила выбрать преемника среди родственников самого Монтесумы.",
       "era": "AD",
       "latitude": 19.4326,
       "longitude": -99.1332,
@@ -513,39 +512,46 @@
       "name_ru": "Монтесума II умирает в испанском плену",
       "source": "https://en.wikipedia.org/wiki/Moctezuma_II",
       "tags": [
+        "War",
+        "King",
         "Aztec",
-        "Mesoamerican",
-        "Moctezuma II",
-        "Death",
         "Conquest",
-        "Political"
+        "Conquistadors",
+        "Cortés 👤",
+        "Death",
+        "Mesoamerican",
+        "New World",
+        "Political",
+        "Spanish"
       ],
       "type": "political"
     },
     {
       "date": "30.06.1520",
-      "description": "With Moctezuma dead and the city fully mobilized against them, Cortés judged his position in Tenochtitlan untenable and ordered a retreat under cover of darkness along the Tlacopan causeway. Mexica warriors detected the movement almost immediately and attacked the retreating column from canoes on both sides of the narrow roadway, where the Spanish had no room to form a defensive line.\n\nSpanish soldiers weighed down with looted gold drowned in the causeway's canal gaps, and by most estimates the retreat killed a large majority of Cortés's force along with hundreds of Tlaxcalan allies. Spanish chroniclers named the retreat La Noche Triste, \"the Night of Sorrows,\" and Cortés reportedly wept beneath a tree on the lakeshore once the surviving remnant of his army had escaped the causeway.",
-      "description_ru": "После гибели Монтесумы, когда город полностью мобилизовался против них, Кортес счёл своё положение в Теночтитлане безнадёжным и приказал отступать под покровом темноты по дамбе Тлакопан. Мешикские воины почти сразу обнаружили движение и атаковали отступающую колонну с каноэ с обеих сторон узкой дороги, где испанцы не могли выстроить оборонительную линию.\n\nИспанские солдаты, отягощённые награбленным золотом, тонули в разрывах дамбы, и, по большинству оценок, отступление стоило жизни подавляющему большинству отряда Кортеса вместе с сотнями тласкаланских союзников. Испанские хронисты назвали это отступление Ла Ноче Тристе, «Ночью печали», а сам Кортес, по преданию, плакал под деревом на берегу озера, когда уцелевшие остатки его войска наконец выбрались с дамбы.",
+      "description": "With Moctezuma dead and the city fully mobilized against them, Cortés judged his position in Tenochtitlan untenable and ordered a retreat under cover of darkness along the Tlacopan causeway. Aztec warriors detected the movement almost immediately and attacked the retreating column from canoes on both sides of the narrow roadway, where the Spanish had no room to form a defensive line.\n\nSpanish soldiers weighed down with looted gold drowned in the causeway's canal gaps, and by most estimates the retreat killed a large majority of Cortés's force along with hundreds of Tlaxcalan allies. Spanish chroniclers named the retreat La Noche Triste, \"the Night of Sorrows,\" and Cortés reportedly wept beneath a tree on the lakeshore once the surviving remnant of his army had escaped the causeway.",
+      "description_ru": "После гибели Монтесумы, когда город полностью мобилизовался против них, Кортес счёл своё положение в Теночтитлане безнадёжным и приказал отступать под покровом темноты по дамбе Тлакопан. Ацтекские воины почти сразу обнаружили движение и атаковали отступающую колонну с каноэ с обеих сторон узкой дороги, где испанцы не могли выстроить оборонительную линию.\n\nИспанские солдаты, отягощённые награбленным золотом, тонули в разрывах дамбы, и, по большинству оценок, отступление стоило жизни подавляющему большинству отряда Кортеса вместе с сотнями тласкаланских союзников. Испанские хронисты назвали это отступление Ла Ноче Тристе, «Ночью печали», а сам Кортес, по преданию, плакал под деревом на берегу озера, когда уцелевшие остатки его войска наконец выбрались с дамбы.",
       "era": "AD",
       "latitude": 19.4326,
       "longitude": -99.1332,
-      "name": "La Noche Triste — the Spanish are driven from the city",
-      "name_ru": "Ла Ноче Тристе — испанцев изгоняют из города",
+      "name": "La Noche Triste — the Spanish are driven from Tenochtitlan",
+      "name_ru": "Ла Ноче Тристе — испанцев изгоняют из Теночтитлана",
       "source": "https://en.wikipedia.org/wiki/La_Noche_Triste",
       "tags": [
+        "War",
         "Aztec",
+        "Conquistadors",
+        "Cortés 👤",
         "Mesoamerican",
-        "Noche Triste",
-        "Cortes",
+        "New World",
         "Retreat",
-        "War"
+        "Spanish"
       ],
       "type": "military"
     },
     {
       "date": "07.07.1520",
-      "description": "A week after fleeing Tenochtitlan, Cortés's battered column, still trying to reach the safety of Tlaxcalan territory, was intercepted on the plains near Otumba by a much larger Mexica force determined to finish off the survivors of the causeway retreat. Heavily outnumbered and fighting in open ground for the first time since the retreat began, the Spanish and their Tlaxcalan allies faced near-certain destruction.\n\nCortés and a group of mounted lancers broke through the Mexica ranks and killed the army's field commander, Matlatzincatzin, whose fall and the loss of his feathered standard threw the surrounding warriors into confusion and triggered a general retreat. The unlikely victory let Cortés's survivors reach Tlaxcala intact, buying the time he needed to rebuild an army for a second campaign against the capital.",
-      "description_ru": "Через неделю после бегства из Теночтитлана истрёпанная колонна Кортеса, всё ещё пытавшаяся добраться до безопасных тласкаланских земель, была перехвачена на равнине близ Отумбы гораздо более крупным мешикским войском, решившим покончить с уцелевшими после отступления по дамбе. Многократно уступая в численности и впервые с начала отступления сражаясь на открытой местности, испанцы и их тласкаланские союзники оказались на грани полного разгрома.\n\nКортес во главе группы конных копейщиков прорвался сквозь мешикские ряды и убил полководца войска, Матлацинкацина, чьё падение и потеря его перьевого штандарта повергли окружавших его воинов в замешательство и вызвали общее отступление. Неожиданная победа позволила уцелевшим людям Кортеса невредимыми добраться до Тласкалы, дав ему время, необходимое для сбора нового войска для второго похода на столицу.",
+      "description": "A week after fleeing Tenochtitlan, Cortés's battered column, still trying to reach the safety of Tlaxcalan territory, was intercepted on the plains near Otumba by a much larger Aztec force determined to finish off the survivors of the causeway retreat. Heavily outnumbered and fighting in open ground for the first time since the retreat began, the Spanish and their Tlaxcalan allies faced near-certain destruction.\n\nCortés and a group of mounted lancers broke through the enemy ranks and killed the army's field commander, Matlatzincatzin, whose fall and the loss of his feathered standard threw the surrounding warriors into confusion and triggered a general retreat. The unlikely victory let Cortés's survivors reach Tlaxcala intact, buying the time he needed to rebuild an army for a second campaign against the capital.",
+      "description_ru": "Через неделю после бегства из Теночтитлана истрёпанная колонна Кортеса, всё ещё пытавшаяся добраться до безопасных тласкаланских земель, была перехвачена на равнине близ Отумбы гораздо более крупным ацтекским войском, решившим покончить с уцелевшими после отступления по дамбе. Многократно уступая в численности и впервые с начала отступления сражаясь на открытой местности, испанцы и их тласкаланские союзники оказались на грани разгрома.\n\nКортес во главе группы конных копейщиков прорвался сквозь ряды противника и убил полководца войска, Матлацинкацина, чьё падение и потеря его перьевого штандарта повергли окружавших его воинов в замешательство и вызвали общее отступление. Неожиданная победа позволила уцелевшим людям Кортеса невредимыми добраться до Тласкалы, дав ему время, необходимое для сбора нового войска для второго похода на столицу.",
       "era": "AD",
       "latitude": 19.7,
       "longitude": -98.75,
@@ -553,19 +559,20 @@
       "name_ru": "Битва при Отумбе",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Otumba",
       "tags": [
-        "Aztec",
-        "Mesoamerican",
-        "Otumba",
-        "Cortes",
+        "War",
         "Battle",
-        "Tlaxcala"
+        "Aztec",
+        "Conquistadors",
+        "Cortés 👤",
+        "Mesoamerican",
+        "Spanish"
       ],
       "type": "military"
     },
     {
       "date": "01.09.1520",
-      "description": "A smallpox outbreak, believed to have entered New Spain with an infected member of a Spanish relief expedition sent to arrest Cortés, spread from the coast into the Valley of Mexico and reached Tenochtitlan in the months after La Noche Triste. The Mexica population had no prior exposure to the disease and no inherited immunity, and the epidemic burned through the crowded island city far faster and more lethally than it moved through the Spanish ranks.\n\nThe outbreak killed a large share of Tenochtitlan's population within weeks, including much of the nobility and military leadership the city would need to organize its defense, and disrupted planting and food supply in the middle of an active war. Cortés, regrouping in Tlaxcala, benefited directly from an enemy capital weakened by a catastrophe his own side had unintentionally caused.",
-      "description_ru": "Вспышка оспы, по всей видимости, попавшая в Новую Испанию вместе с заражённым участником испанской карательной экспедиции, посланной арестовать Кортеса, распространилась с побережья в долину Мехико и достигла Теночтитлана в месяцы после Ла Ноче Тристе. У населения мешика не было ни предшествующего контакта с этой болезнью, ни унаследованного иммунитета, и эпидемия прошла по перенаселённому островному городу куда быстрее и смертоноснее, чем по испанским рядам.\n\nВспышка за считаные недели унесла жизни значительной части населения Теночтитлана, включая большую часть знати и военного руководства, необходимого городу для организации обороны, и нарушила посевы и снабжение продовольствием в разгар войны. Кортес, перегруппировывавшийся в Тласкале, напрямую выиграл от того, что вражеская столица оказалась ослаблена катастрофой, невольно вызванной его же стороной.",
+      "description": "A smallpox outbreak, believed to have entered New Spain with an infected member of a Spanish relief expedition sent to arrest Cortés, spread from the coast into the Valley of Mexico and reached Tenochtitlan in the months after La Noche Triste. The Aztec population had no prior exposure to the disease and no inherited immunity, and the epidemic burned through the crowded island city far faster and more lethally than it moved through the Spanish ranks.\n\nThe outbreak killed a large share of Tenochtitlan's population within weeks, including much of the nobility and military leadership the city would need to organize its defense, and disrupted planting and food supply in the middle of an active war. Cortés, regrouping in Tlaxcala, benefited directly from an enemy capital weakened by a catastrophe his own side had unintentionally caused.",
+      "description_ru": "Вспышка оспы, по всей видимости, попавшая в Новую Испанию вместе с заражённым участником испанской карательной экспедиции, посланной арестовать Кортеса, распространилась с побережья в долину Мехико и достигла Теночтитлана в месяцы после Ла Ноче Тристе. У ацтеков не было ни предшествующего контакта с этой болезнью, ни унаследованного иммунитета, и эпидемия прошла по перенаселённому островному городу куда быстрее и смертоноснее, чем по испанским рядам.\n\nВспышка за считаные недели унесла жизни значительной части населения Теночтитлана, включая большую часть знати и военного руководства, необходимого городу для организации обороны, и нарушила посевы и снабжение продовольствием в разгар войны. Кортес, перегруппировывавшийся в Тласкале, напрямую выиграл от того, что вражеская столица оказалась ослаблена катастрофой, невольно вызванной его же стороной.",
       "era": "AD",
       "latitude": 19.4326,
       "longitude": -99.1332,
@@ -574,11 +581,12 @@
       "source": "https://en.wikipedia.org/wiki/Fall_of_Tenochtitlan",
       "tags": [
         "Aztec",
-        "Mesoamerican",
-        "Smallpox",
-        "Epidemic",
         "Conquest",
-        "Crisis"
+        "Conquistadors",
+        "Crisis",
+        "Mesoamerican",
+        "Plague",
+        "Spanish"
       ],
       "type": "historic"
     },
@@ -589,35 +597,34 @@
       "era": "AD",
       "latitude": 19.4326,
       "longitude": -99.1332,
-      "name": "Cuitláhuac reigns eighty days before smallpox kills him",
-      "name_ru": "Куитлауак правит восемьдесят дней и умирает от оспы",
+      "name": "Cuitláhuac reigns in Tenochtitlan",
+      "name_ru": "Куитлауак возглавляет Теночтитлан",
       "source": "https://en.wikipedia.org/wiki/Cuitl%C3%A1huac",
       "tags": [
+        "King",
         "Aztec",
+        "Crisis",
+        "Death",
         "Mesoamerican",
-        "Cuitlahuac",
-        "Smallpox",
-        "Tlatoani",
-        "Conquest"
+        "Plague"
       ],
       "type": "political"
     },
     {
       "date": "01.02.1521",
-      "description": "With Cuitláhuac dead of smallpox after only eighty days on the throne, Tenochtitlan's nobles elected the young Cuauhtémoc, a nephew and son-in-law of Moctezuma II, as Huey Tlatoani. He inherited a capital already weakened by epidemic and battle losses, facing a Spanish force that had spent the intervening months rebuilding its army and gathering thousands of Indigenous allies eager to see the Aztec Empire fall.\n\nCuauhtémoc organized what defense the city could still mount, repairing damaged causeways and stockpiling weapons, but he ruled a diminished capital rather than the empire his predecessors had commanded. His reign would last only as long as Tenochtitlan itself held out.",
-      "description_ru": "После смерти Куитлауака от оспы, процарствовавшего лишь восемьдесят дней, знать Теночтитлана избрала Уэй Тлатоани молодого Куаутемока — племянника и зятя Монтесумы II. Он унаследовал столицу, уже ослабленную эпидемией и боевыми потерями, перед лицом испанского войска, которое за прошедшие месяцы восстановило свои силы и собрало тысячи коренных союзников, жаждавших увидеть падение Ацтекской империи.\n\nКуаутемок организовал ту оборону, какую город ещё мог выставить, восстанавливая повреждённые дамбы и накапливая оружие, но правил уже уменьшившейся столицей, а не империей, которой командовали его предшественники. Его правлению суждено было продлиться ровно столько, сколько продержится сам Теночтитлан.",
+      "description": "With Cuitláhuac dead of smallpox after only eighty days on the throne, Tenochtitlan's nobles elected the young Cuauhtémoc, a nephew and son-in-law of Moctezuma II, as Huey Tlatoani. He inherited a capital already weakened by epidemic and battle losses, facing a Spanish force that had spent the intervening months rebuilding its army and gathering thousands of Indigenous allies eager to see the Aztec Empire fall.",
+      "description_ru": "После смерти Куитлауака от оспы, процарствовавшего лишь восемьдесят дней, знать Теночтитлана избрала Уэй Тлатоани молодого Куаутемока — племянника и зятя Монтесумы II. Он унаследовал столицу, уже ослабленную эпидемией и боевыми потерями, перед лицом испанского войска, которое за прошедшие месяцы восстановило свои силы и собрало тысячи коренных союзников, жаждавших увидеть падение Ацтекской империи.",
       "era": "AD",
       "latitude": 19.4326,
       "longitude": -99.1332,
-      "name": "Cuauhtémoc becomes the last independent tlatoani",
-      "name_ru": "Куаутемок становится последним независимым тлатоани",
+      "name": "Cuauhtémoc, the last ruler of Aztec Empire",
+      "name_ru": "Куаутемок — последний правитель империи ацтеков",
       "source": "https://en.wikipedia.org/wiki/Cuauht%C3%A9moc",
       "tags": [
+        "King",
         "Aztec",
-        "Mesoamerican",
-        "Cuauhtemoc",
-        "Tlatoani",
         "Conquest",
+        "Mesoamerican",
         "Political"
       ],
       "type": "political"
@@ -625,20 +632,22 @@
     {
       "date": "26.05.1521",
       "description": "Cortés returned to the Valley of Mexico with a rebuilt force that now included thousands of warriors from Tlaxcala and other cities eager to break Mexica dominance, along with a small fleet of brigantines built in sections at Tlaxcala and carried overland to Lake Texcoco. He cut the causeways linking Tenochtitlan to the mainland and severed the freshwater aqueduct from Chapultepec, opening a siege meant to starve the city rather than storm it outright.\n\nThe brigantines gave the Spanish control of the open lake for the first time, letting them intercept canoes trying to smuggle in food and block Tenochtitlan's defenders from using the water as an escape route the way they had during La Noche Triste. What followed was less a single battle than a slow, grinding campaign of nearly three months to take the city block by flooded block.",
-      "description_ru": "Кортес вернулся в долину Мехико с восстановленным войском, в которое теперь входили тысячи воинов из Тласкалы и других городов, жаждавших сломить господство мешика, а также небольшой флот бригантин, построенных по частям в Тласкале и перенесённых по суше к озеру Тескоко. Он перерезал дамбы, соединявшие Теночтитлан с материком, и разрушил пресноводный акведук из Чапультепека, начав осаду, целью которой было уморить город голодом, а не брать его штурмом.\n\nБригантины впервые дали испанцам господство над открытой водой озера, позволив перехватывать каноэ, пытавшиеся тайно доставить в город продовольствие, и лишить защитников Теночтитлана возможности использовать воду как путь к бегству, как это было во время Ла Ноче Тристе. Дальше последовала не одна битва, а медленная, изнурительная кампания длиной почти в три месяца — за каждый затопленный квартал города.",
+      "description_ru": "Кортес вернулся в долину Мехико с восстановленным войском, в которое теперь входили тысячи воинов из Тласкалы и других городов, жаждавших сломить господство ацтеков, а также небольшой флот бригантин, построенных по частям в Тласкале и перенесённых по суше к озеру Тескоко. Он перерезал дамбы, соединявшие Теночтитлан с материком, и разрушил пресноводный акведук из Чапультепека, начав осаду, целью которой было уморить город голодом, а не брать его штурмом.\n\nБригантины впервые дали испанцам господство над открытой водой озера, позволив перехватывать каноэ, пытавшиеся тайно доставить в город продовольствие, и лишить защитников Теночтитлана возможности использовать воду как путь к бегству, как это было во время Ла Ноче Тристе. Дальше последовала не одна битва, а медленная, изнурительная кампания длиной почти в три месяца — за каждый затопленный квартал города.",
       "era": "AD",
       "latitude": 19.4326,
       "longitude": -99.1332,
-      "name": "The siege of Tenochtitlan begins",
-      "name_ru": "Начинается осада Теночтитлана",
+      "name": "The siege of Tenochtitlan by Cortés begins",
+      "name_ru": "Осада Теночтитлана Кортесом",
       "source": "https://en.wikipedia.org/wiki/Fall_of_Tenochtitlan",
       "tags": [
+        "War",
         "Aztec",
+        "Conquistadors",
+        "Cortés 👤",
         "Mesoamerican",
+        "New World",
         "Siege",
-        "Tenochtitlan",
-        "Cortes",
-        "War"
+        "Spanish"
       ],
       "type": "military"
     },
@@ -654,31 +663,35 @@
       "source": "https://en.wikipedia.org/wiki/Fall_of_Tenochtitlan",
       "tags": [
         "Aztec",
-        "Mesoamerican",
+        "Conquest",
+        "Conquistadors",
+        "Cortés 👤",
+        "Destruction",
         "Fall",
-        "Tenochtitlan",
-        "Cortes",
-        "Conquest"
+        "Mesoamerican",
+        "New World",
+        "Spanish"
       ],
       "type": "military"
     },
     {
       "date": "01.09.1521",
-      "description": "At Cuauhtémoc's own request, Cortés had allowed the surviving Mexica to leave the fallen city unharmed after the surrender. When the gold and treasure recovered from Tenochtitlan fell far short of what the Spanish soldiers had expected as their share of the spoils, suspicion fell on Cuauhtémoc as someone hiding the rest.\n\nSpanish captors subjected Cuauhtémoc and the ruler of Tlacopan, Tetlepanquetzal, to torture by fire, slowly burning the soles of their feet over hot coals in an attempt to force them to reveal a hidden treasure that, by most historical accounts, no longer existed in the quantities the Spanish imagined. Neither man gave up any location, and Cuauhtémoc reportedly survived the torture with permanent injuries to his feet.",
-      "description_ru": "По собственной просьбе Куаутемока Кортес позволил уцелевшим мешика беспрепятственно покинуть павший город после капитуляции. Когда золото и сокровища, найденные в Теночтитлане, оказались намного скромнее той доли, на которую рассчитывали испанские солдаты, подозрение пало на Куаутемока как на человека, скрывающего остальное.\n\nИспанские тюремщики подвергли Куаутемока и правителя Тлакопана Тетлепанкецаля пытке огнём, медленно обжигая подошвы их ног на раскалённых углях в попытке заставить их выдать местонахождение спрятанного сокровища, которого, по мнению большинства историков, уже не существовало в тех масштабах, какие воображали испанцы. Ни один из них не выдал никакого места, а Куаутемок, по преданию, пережил пытку с необратимыми повреждениями ступней.",
+      "description": "At Cuauhtémoc's own request, Cortés had allowed the surviving aztecs to leave the fallen city unharmed after the surrender. When the gold and treasure recovered from Tenochtitlan fell far short of what the Spanish soldiers had expected as their share of the spoils, suspicion fell on Cuauhtémoc as someone hiding the rest.\n\nSpanish captors subjected Cuauhtémoc and the ruler of Tlacopan, Tetlepanquetzal, to torture by fire, slowly burning the soles of their feet over hot coals in an attempt to force them to reveal a hidden treasure that, by most historical accounts, no longer existed in the quantities the Spanish imagined.",
+      "description_ru": "По собственной просьбе Куаутемока Кортес позволил уцелевшим ацтекам беспрепятственно покинуть павший город после капитуляции. Когда золото и сокровища, найденные в Теночтитлане, оказались намного скромнее той доли, на которую рассчитывали испанские солдаты, подозрение пало на Куаутемока как на человека, скрывающего остальное.\n\nИспанские тюремщики подвергли Куаутемока и правителя Тлакопана Тетлепанкецаля пытке огнём, медленно обжигая подошвы их ног на раскалённых углях в попытке заставить их выдать местонахождение спрятанного сокровища, которого, по мнению большинства историков, не существовало в тех масштабах, какие воображали испанцы.",
       "era": "AD",
       "latitude": 19.4326,
       "longitude": -99.1332,
       "name": "Cuauhtémoc is tortured for gold that was never found",
-      "name_ru": "Куаутемока пытают, добиваясь золота, которого не было",
+      "name_ru": "Вождей ацтеков пытают в поисках золота",
       "source": "https://en.wikipedia.org/wiki/Cuauht%C3%A9moc",
       "tags": [
         "Aztec",
+        "Conquest",
+        "Conquistadors",
+        "Cruelty",
         "Mesoamerican",
-        "Cuauhtemoc",
-        "Torture",
-        "Cortes",
-        "Conquest"
+        "New World",
+        "Spanish"
       ],
       "type": "military"
     },
@@ -693,12 +706,15 @@
       "name_ru": "Мехико вырастает на руинах Теночтитлана",
       "source": "https://en.wikipedia.org/wiki/Fall_of_Tenochtitlan",
       "tags": [
+        "City",
         "Aztec",
+        "Colonization",
+        "Conquistadors",
+        "Legacy",
         "Mesoamerican",
-        "Mexico City",
-        "New Spain",
-        "Colonial",
-        "Legacy"
+        "New World",
+        "Spain",
+        "Spanish"
       ],
       "type": "historic"
     },
@@ -709,18 +725,23 @@
       "era": "AD",
       "latitude": 18.1,
       "longitude": -91,
-      "name": "Cortés executes Cuauhtémoc",
-      "name_ru": "Кортес казнит Куаутемока",
+      "name": "Cortés executes Cuauhtémoc in expedition",
+      "name_ru": "Кортес казнит Куаутемока в походе",
       "source": "https://en.wikipedia.org/wiki/Cuauht%C3%A9moc",
       "tags": [
         "Aztec",
-        "Mesoamerican",
-        "Cuauhtemoc",
+        "Conquest",
+        "Conquistadors",
+        "Cortés 👤",
+        "Cruelty",
         "Execution",
-        "Cortes",
-        "Conquest"
+        "Expedition",
+        "Mesoamerican",
+        "New World",
+        "Spanish"
       ],
       "type": "political"
     }
-  ]
+  ],
+  "filename": "AD3_aztec_civilization.json"
 }
