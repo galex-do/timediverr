@@ -1,6 +1,5 @@
 {
   "description": "Dataset imported with 54 events",
-  "filename": "AD1_heian_japan.json",
   "events": [
     {
       "date": "01.01.0901",
@@ -72,6 +71,7 @@
         "Japanese",
         "Animism",
         "Deification",
+        "Divination",
         "Religious",
         "Shintoism",
         "Heian"
@@ -182,20 +182,18 @@
       "description": "Court seamstresses at Heian-kyō settled on the jūnihitoe, formally the itsutsuginu-karaginu-mo, as the defining formal dress of noblewomen and their ladies-in-waiting. The costume layered numerous kimono-like robes called hitoe on top of one another, cutting the outer layers larger and thinner so the colors of the garments underneath showed at the sleeves and hem.\n\nA woman's skill lay in choosing color combinations for the hidden layers, known as kasane no irome, that signaled the season and her taste to anyone glimpsing the edges of fabric peeking out; a badly matched combination could damage a lady's reputation at court as surely as a clumsy poem. The style grew so associated with Heian refinement that later centuries preserved it as ceremonial dress for the empress and top-ranking women long after daily fashions moved on.",
       "description_ru": "Придворные швеи Хэйан-кё закрепили дзюнихитоэ, официально итицугину-караги-мо, как главный формальный наряд знатных женщин и их придворных дам. Костюм состоял из множества кимоноподобных одежд хитоэ, надетых одна на другую: верхние слои кроились крупнее и тоньше нижних, чтобы цвета одежд под ними проступали на рукавах и подоле.\n\nМастерство женщины заключалось в подборе цветовых сочетаний скрытых слоёв, касанэ-но ирômэ, которые сообщали окружающим о времени года и её вкусе по одним лишь выглядывающим краям ткани; неудачное сочетание могло повредить репутации дамы при дворе не хуже неуклюжего стихотворения. Стиль настолько прочно стал ассоциироваться с хэйанской изысканностью, что последующие века сохраняли его как церемониальное одеяние императрицы и знатнейших женщин ещё долго после того, как повседневная мода изменилась.",
       "era": "AD",
-      "latitude": 35.0116,
-      "longitude": 135.7681,
-      "name": "Jūnihitoe Layered Robes Define Heian Noblewomen's Dress",
-      "name_ru": "Многослойное одеяние дзюнихитоэ определяет наряд хэйанской знати",
+      "latitude": 35.01926,
+      "longitude": 135.76314211,
+      "name": "Heian jūnihitoe robe",
+      "name_ru": "Хэйанское одеяние дзюнихитоэ",
       "source": "https://en.wikipedia.org/wiki/J%C5%ABnihitoe",
       "tags": [
         "Japanese",
-        "Heian",
-        "Jūnihitoe",
-        "Court fashion",
-        "Noblewomen",
-        "Kimono",
-        "Court customs",
-        "Textile"
+        "Aristocracy",
+        "Culture",
+        "Fashion",
+        "Textile",
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -204,20 +202,17 @@
       "description": "Aristocratic men and women at the Heian court took up ohaguro, dyeing their teeth black with a solution of iron filings steeped in vinegar and mixed with tannin from vegetable sources. Black teeth marked a person as an adult of refined standing, and the practice fell mainly to married women and court nobles rather than commoners.\n\nBeyond fashion, the iron-tannin mixture worked as a genuine dental sealant that helped prevent tooth decay, a practical benefit alongside its social meaning. Ohaguro persisted among Japan's upper classes for nearly a millennium after its rise in the Heian court, only fading once the Meiji government's opening to Western customs made it fall out of favor in the late 19th century.",
       "description_ru": "Мужчины и женщины хэйанской аристократии переняли обычай охагуро, окрашивая зубы в чёрный цвет раствором железных опилок, настоянных на уксусе и смешанных с растительным танином. Чёрные зубы отмечали человека как взрослого высокого положения, и обычай в основном соблюдали замужние женщины и придворная знать, а не простолюдины.\n\nПомимо моды, железно-танинная смесь работала как настоящий стоматологический герметик, предотвращавший разрушение зубов, — практическая польза наряду с социальным значением. Охагуро сохранялось среди высших слоёв японского общества почти тысячелетие после своего распространения при хэйанском дворе и исчезло лишь тогда, когда открытие страны западным обычаям в эпоху Мэйдзи вывело его из моды к концу XIX века.",
       "era": "AD",
-      "latitude": 35.0116,
-      "longitude": 135.7681,
-      "name": "Ohaguro Teeth-Blackening Becomes an Aristocratic Custom",
-      "name_ru": "Окрашивание зубов охагуро становится обычаем аристократии",
+      "latitude": 35.01926,
+      "longitude": 135.76314211,
+      "name": "Heian Ohaguro Teeth-Blackening",
+      "name_ru": "Хэйанское окрашивание зубов охагуро",
       "source": "https://en.wikipedia.org/wiki/Ohaguro",
       "tags": [
         "Japanese",
-        "Heian",
-        "Ohaguro",
-        "Teeth blackening",
         "Aristocracy",
-        "Court customs",
-        "Beauty practice",
-        "Tradition"
+        "Culture",
+        "Fashion",
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -308,6 +303,7 @@
       "source": "https://en.wikipedia.org/wiki/Abe_no_Seimei",
       "tags": [
         "Japanese",
+        "Culture",
         "Political",
         "Shintoism",
         "Heian"
@@ -1004,20 +1000,17 @@
       "description": "Minamoto no Yoritomo grew alarmed at how far his samurai's archery skills had slipped and organized yabusame, mounted archery at full gallop against fixed targets, as formal training to rebuild them. Riders raced a straight course firing turnip-headed arrows at a row of wooden targets, a discipline that demanded controlling the horse with the legs alone since both hands stayed occupied with bow and arrow.\n\nYoritomo staged the exercises at Tsurugaoka Hachiman-gū in Kamakura, the shrine he had built as the spiritual center of his new warrior government, folding a practical military drill into a public ritual of the shogunate he was consolidating. The practice endured long after its original purpose faded, and yabusame is still performed today at Tsurugaoka Hachiman-gū and at Kyoto's Shimogamo Shrine during the Aoi Matsuri festival.",
       "description_ru": "Минамото-но Ёритомо, встревоженный тем, насколько ослабли стрелковые навыки его самураев, организовал ябусамэ — стрельбу из лука верхом на полном скаку по неподвижным мишеням — как формальную тренировку для их восстановления. Всадники мчались по прямой дорожке, выпуская стрелы с репообразными наконечниками по ряду деревянных мишеней — дисциплина, требовавшая управлять лошадью одними ногами, поскольку обе руки были заняты луком и стрелой.\n\nЁритомо проводил эти состязания у святилища Цуругаока Хатиман-гу в Камакуре — храма, построенного им как духовный центр нового воинского правительства, — превратив практическую военную тренировку в публичный ритуал сёгуната, который он укреплял. Традиция пережила своё изначальное предназначение, и ябусамэ до сих пор проводится в Цуругаока Хатиман-гу, а также в киотском святилище Симогамо во время фестиваля Аой Мацури.",
       "era": "AD",
-      "latitude": 35.3258,
-      "longitude": 139.5564,
-      "name": "Minamoto no Yoritomo Formalizes Yabusame as Mounted Archery Training",
-      "name_ru": "Минамото-но Ёритомо утверждает ябусамэ как конную стрелковую подготовку",
+      "latitude": 35.32587071,
+      "longitude": 139.55631673,
+      "name": "Minamoto no Yoritomo Formalizes Yabusame",
+      "name_ru": "Минамото-но Ёритомо утверждает ябусамэ",
       "source": "https://en.wikipedia.org/wiki/Yabusame",
       "tags": [
         "Japanese",
-        "Heian",
-        "Yabusame",
-        "Minamoto no Yoritomo",
-        "Mounted archery",
+        "Discipline",
         "Kamakura",
-        "Samurai training",
-        "Tsurugaoka Hachiman-gū"
+        "Military",
+        "Heian"
       ],
       "type": "military"
     },
@@ -1062,5 +1055,6 @@
       ],
       "type": "political"
     }
-  ]
+  ],
+  "filename": "AD1_heian_japan.json"
 }

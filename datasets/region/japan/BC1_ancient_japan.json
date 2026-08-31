@@ -1,6 +1,5 @@
 {
   "description": "Dataset imported with 57 events",
-  "filename": "BC1_ancient_japan.json",
   "events": [
     {
       "date": "01.01.8000",
@@ -115,22 +114,40 @@
       "description": "Emperor Suinin summoned two strongmen, Nomi no Sukune of Izumo and Taima no Kuehaya of Yamato, to settle which was stronger before the court. The two grappled barefoot and unarmed, and Nomi broke Taima's ribs with a kick before finishing him with a second kick to the back, killing him on the spot.\n\nThe Nihon Shoki, compiled centuries later in 720, recorded this brawl as the first sumo match between mortals and named Nomi no Sukune the sport's mythological ancestor. For centuries afterward the contest carried no weight classes or rounds and was fought without rules to the death, only gaining the ceremonial form and regulations associated with sumo today much later, under imperial patronage.",
       "description_ru": "Император Суйнин призвал ко двору двух силачей — Номи-но Сукунэ из Идзумо и Тайма-но Куэхая из Ямато, — чтобы решить, кто сильнее. Противники боролись босиком и без оружия, и Номи сломал Тайме рёбра ударом ноги, а затем добил его вторым ударом в спину, убив на месте.\n\nНихон сёки, составленная веками позже, в 720 году, зафиксировала эту схватку как первый поединок сумо между смертными и назвала Номи-но Сукунэ мифическим родоначальником этого вида борьбы. Ещё долгие века состязание не имело ни весовых категорий, ни раундов и велось без правил до смерти противника, обретя церемониальную форму и регламент, знакомые сумо сегодня, лишь много позднее, под императорским покровительством.",
       "era": "BC",
-      "latitude": 34.5166,
-      "longitude": 135.6833,
+      "latitude": 34.54650051,
+      "longitude": 135.847857,
       "name": "Nomi no Sukune Kills Taima no Kuehaya in Japan's First Sumo Match",
-      "name_ru": "Номи-но Сукунэ убивает Тайма-но Куэхая в первом поединке сумо",
+      "name_ru": "Первый поединок сумо",
       "source": "https://en.wikipedia.org/wiki/Sumo",
       "tags": [
         "Japanese",
-        "Yayoi",
-        "Sumo",
-        "Nomi no Sukune",
-        "Wrestling",
-        "Emperor Suinin",
-        "Nihon Shoki",
-        "Origin myth"
+        "Legend",
+        "Culture",
+        "Sport",
+        "Yayoi"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.01.0004",
+      "description": "Ise-jingu is home to the most important goddess of the Japanese pantheon, Amaterasu Omikami (the goddess of the sun and progenitor of the imperial family). Worship of the gods (kami) took place in the open air. The site at Ise was a fenced forest clearing, the center of which was marked by sacred stones or a single wooden pole, where, according to the Japanese, the deity descended",
+      "description_ru": "В Исэ-дзингу почитают самую главную богиню японского пантеона — Аматэрасу Омиками (богиню Солнца и прародительницу императорского рода). Поклонение богам (ками) происходило на природе. Место в Исэ представляло собой огороженную лесную поляну, центр которой обозначали священные камни или одиночный деревянный столб, куда, как верили японцы, спускалось божество.",
+      "era": "BC",
+      "latitude": 34.4553,
+      "longitude": 136.7256,
+      "name": "Ise-Jingu — the sacred place of Amaterasu Omikami",
+      "name_ru": "Исэ-Дзингу — священное место Аматэрасу Омиками",
+      "source": "https://en.wikipedia.org/wiki/Ise_Shrine",
+      "tags": [
+        "Japanese",
+        "Divination",
+        "Holy Site",
+        "Religious",
+        "Shintoism",
+        "Sun",
+        "Yayoi"
+      ],
+      "type": "religious"
     },
     {
       "date": "01.01.0057",
@@ -364,13 +381,11 @@
       "source": "https://en.wikipedia.org/wiki/Ninja",
       "tags": [
         "Japanese",
-        "Yamato",
-        "Shinobi",
+        "Legend",
+        "Uncertain",
         "Espionage",
-        "Prince Shōtoku",
-        "Asuka",
-        "Origin myth",
-        "Covert operations"
+        "Intelligence",
+        "Yamato"
       ],
       "type": "historic"
     },
@@ -397,6 +412,24 @@
     },
     {
       "date": "01.01.0607",
+      "description": "In 607 AD, Prince Shōtoku sends Ono no Imoko (小野妹子) to the Sui court with a letter that begins 'The Son of Heaven in the land of the rising sun addresses the Son of Heaven in the land of the setting sun' — a diplomatically explosive formulation that implicitly claims equality with the Chinese emperor rather than the subordinate 'vassal of Han' status assumed by earlier Japanese rulers. Emperor Yang of Sui is reportedly irritated by the phrasing. The mission inaugurates a series of official embassies (遣隋使 Kentōshi) that bring back Buddhist texts, art, administrative models, and scholars who transform Yamato culture.",
+      "description_ru": "В 607 г. принц Сётоку направляет Ōно-но-Имоко (小野妹子) ко двору Суй с письмом, начинающимся словами «Сын Неба в стране восходящего солнца обращается к Сыну Неба в стране заходящего солнца» — дипломатически взрывная формулировка, имплицитно претендующая на равенство с китайским императором, а не на подчинённый статус вассала. Миссия открывает серию официальных посольств (遣隋使), привозящих буддийские тексты, искусство и административные модели, преобразующие культуру Ямато.",
+      "era": "AD",
+      "latitude": 34.66780552,
+      "longitude": 112.41580009,
+      "name": "First Embassy to Sui China",
+      "name_ru": "Посольство Ямато в Суйский Китай",
+      "source": "https://en.wikipedia.org/wiki/Japanese_missions_to_Tang_China",
+      "tags": [
+        "Japanese",
+        "Chinese",
+        "Diplomacy",
+        "Yamato"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0607",
       "description": "Hōryū-ji (法隆寺, 'Temple of the Flourishing Law') in Ikaruga, Nara Prefecture, commissioned by Prince Shōtoku and constructed from 607 AD, is the oldest surviving wooden building on earth. Rebuilt after a fire c. 670 AD (dendrochronology dates the oldest surviving timbers to 594–711 AD), its Western Precinct contains the five-storey pagoda and Golden Hall (kondō) — both of which have stood continuously for over 1,300 years. The complex holds Japan's most important collection of Asuka-period Buddhist art including the Kudara Kannon, Tamamushi Shrine, and bronze Shakyamuni Triad.",
       "description_ru": "Хōрюдзи (法隆寺, «Храм расцветающей Дхармы») в Икаруга, префектура Нара, заказанный принцем Сётоку и строившийся с 607 г., является старейшим сохранившимся деревянным зданием на Земле. Перестроенный после пожара около 670 г. (дендрохронология датирует древнейшие балки 594–711 гг.), его западный двор содержит пятиярусную пагоду и Золотой зал (кондō) — оба стоят непрерывно более 1300 лет. ",
       "era": "AD",
@@ -416,24 +449,6 @@
         "Buddhism"
       ],
       "type": "cultural"
-    },
-    {
-      "date": "01.01.0607",
-      "description": "In 607 AD, Prince Shōtoku sends Ono no Imoko (小野妹子) to the Sui court with a letter that begins 'The Son of Heaven in the land of the rising sun addresses the Son of Heaven in the land of the setting sun' — a diplomatically explosive formulation that implicitly claims equality with the Chinese emperor rather than the subordinate 'vassal of Han' status assumed by earlier Japanese rulers. Emperor Yang of Sui is reportedly irritated by the phrasing. The mission inaugurates a series of official embassies (遣隋使 Kentōshi) that bring back Buddhist texts, art, administrative models, and scholars who transform Yamato culture.",
-      "description_ru": "В 607 г. принц Сётоку направляет Ōно-но-Имоко (小野妹子) ко двору Суй с письмом, начинающимся словами «Сын Неба в стране восходящего солнца обращается к Сыну Неба в стране заходящего солнца» — дипломатически взрывная формулировка, имплицитно претендующая на равенство с китайским императором, а не на подчинённый статус вассала. Миссия открывает серию официальных посольств (遣隋使), привозящих буддийские тексты, искусство и административные модели, преобразующие культуру Ямато.",
-      "era": "AD",
-      "latitude": 34.66780552,
-      "longitude": 112.41580009,
-      "name": "First Embassy to Sui China",
-      "name_ru": "Посольство Ямато в Суйский Китай",
-      "source": "https://en.wikipedia.org/wiki/Japanese_missions_to_Tang_China",
-      "tags": [
-        "Japanese",
-        "Chinese",
-        "Diplomacy",
-        "Yamato"
-      ],
-      "type": "historic"
     },
     {
       "date": "01.01.0630",
@@ -458,20 +473,16 @@
       "description": "Prince Naka-no-Ōe and the courtier Nakatomi no Kamatari met and became allies during a match of kemari, a court ball game in which players in a small circle kept a deerskin ball aloft using only their feet without letting it touch the ground. Chroniclers record that Naka-no-Ōe's shoe flew off during play and Kamatari retrieved it for him, an exchange that opened their friendship.\n\nThat alliance proved decisive the following year, when the two men led the assassination of the powerful minister Soga no Iruka at court and launched the Taika Reform that restructured Japan's government around a Chinese-style centralized state. Kemari itself endured as an aristocratic pastime long after, played today in ceremonial form at a handful of Kyoto shrines.",
       "description_ru": "Принц Нака-но Оэ и придворный Накатоми-но Каматари познакомились и стали союзниками во время игры в кэмари — придворной игры в мяч, в которой игроки в небольшом кругу удерживали мяч из оленьей кожи в воздухе, касаясь его только ногами и не давая упасть на землю. Хронисты сообщают, что во время игры с Нака-но Оэ слетела туфля, и Каматари поднял её и вернул ему — этот жест положил начало их дружбе.\n\nЭтот союз оказался решающим уже в следующем году, когда оба возглавили убийство могущественного министра Сога-но Ирука при дворе и начали реформу Тайка, перестроившую японское государство по образцу централизованного китайского. Сама игра кэмари надолго пережила своих основателей как аристократическое развлечение и до сих пор в церемониальной форме проводится в нескольких храмах Киото.",
       "era": "AD",
-      "latitude": 34.4761,
-      "longitude": 135.825,
+      "latitude": 34.47875519,
+      "longitude": 135.82032681,
       "name": "A Game of Kemari Brings Kamatari and Prince Naka-no-Ōe Together",
       "name_ru": "Игра в кэмари сближает Каматари и принца Нака-но Оэ",
       "source": "https://en.wikipedia.org/wiki/Kemari",
       "tags": [
         "Japanese",
-        "Yamato",
-        "Kemari",
-        "Fujiwara no Kamatari",
-        "Prince Naka-no-Ōe",
-        "Court game",
-        "Isshi Incident",
-        "Sport"
+        "Culture",
+        "Sport",
+        "Yamato"
       ],
       "type": "cultural"
     },
@@ -490,6 +501,7 @@
         "Reform",
         "Bureaucracy",
         "Centralization",
+        "Milestone ⭐️",
         "Standardization",
         "Yamato"
       ],
@@ -544,13 +556,11 @@
       "source": "https://en.wikipedia.org/wiki/Sai%C5%8D",
       "tags": [
         "Japanese",
-        "Yamato",
-        "Ise Grand Shrine",
-        "Saiō",
-        "Emperor Tenmu",
-        "Amaterasu",
+        "Culture",
+        "Holy Site",
+        "Religious",
         "Shintoism",
-        "Holy Site"
+        "Yamato"
       ],
       "type": "religious"
     },
@@ -593,6 +603,29 @@
       "type": "historic"
     },
     {
+      "date": "01.01.0690",
+      "description": "In Shintoism, divine energy (kami) is believed to be purified and renewed only in a completely clean, new place. Aging, decay, and dirt weaken the spirit. Since the 7th century, Ise-Jingu Shrine has been torn down and rebuilt every 20 years. Each of the 60 main buildings in the complex has two identical adjacent sites — West and East. While one is occupied by an active shrine, an exact replica is built on the other.\n\nEach carpenter participates in construction two or three times in their life: the first time they learn, the second time they build themselves, and the third time they supervise the process and pass on their knowledge to younger generations. Construction is carried out using ancient techniques, without using a single nail. Over the course of its history, Ise-Jingu Shrine has been rebuilt more than 60 times.",
+      "description_ru": "В синтоизме считается, что божественная энергия (ками) очищается и обновляется только в абсолютно чистом, новом месте. Старение, тление и грязь ослабляют дух. C VII века святилище Исэ-Дзингу сносится и отстраивается заново раз в 20 лет. У каждого из 60 основных зданий в комплексе есть два абсолютно одинаковых соседних участка — Западный и Восточный. Пока один занят действующим храмом, на втором строится его точная копия.\n\nКаждый плотник за свою жизнь участвует в стройке два или три раза: первый раз учится, второй раз строит сам, третий — руководит процессом и передает знания молодым. Строительство ведется по старинной технологии, без единого гвоздя. За всё время Исэ-Дзингу был перестроен более 60 раз.",
+      "era": "AD",
+      "latitude": 34.4553,
+      "longitude": 136.7256,
+      "name": "Ise-Jingu is being rebuilt for the first time",
+      "name_ru": "Исэ-Дзингу перестраивают первый раз",
+      "source": "https://en.wikipedia.org/wiki/Ise_Shrine",
+      "tags": [
+        "Japanese",
+        "Building 🏠",
+        "Architecture",
+        "Art",
+        "Culture",
+        "Religious",
+        "Restoration",
+        "Shintoism",
+        "Temple"
+      ],
+      "type": "religious"
+    },
+    {
       "date": "01.01.0694",
       "description": "Fujiwara-kyō (藤原京), established in 694 AD under Empress Jitō and serving as the capital until 710 AD, is Japan's first city designed on a full Chinese-style grid plan (条坊制 jōbōsei), with a north-south central boulevard, a regular block system, a palace precinct at the north, and official market areas designated by law. Though smaller than its successor Nara, it is the first settlement in Japan to function as a true capital city in the continental sense — concentrating the court, bureaucracy, temples, and population in a single planned urban space. Its site in Kashihara (Nara Prefecture) is currently under excavation.",
       "description_ru": "Фудзивара-кё (藤原京), основанная в 694 г. при императрице Дзитō и служившая столицей до 710 г., является первым городом в Японии, спроектированным по полному китайскому плану сетки (条坊制 дзōбōсэй): центральный бульвар с севера на юг, регулярная квартальная система, дворцовый квартал на севере и официальные рыночные территории. Первое поселение в Японии, функционирующее как подлинная столица в континентальном смысле — концентрирующее двор, бюрократию, храмы и население в едином спланированном городском пространстве.",
@@ -624,13 +657,11 @@
       "source": "https://en.wikipedia.org/wiki/En_no_Gy%C5%8Dja",
       "tags": [
         "Japanese",
-        "Yamato",
-        "En no Gyōja",
-        "Shugendō",
-        "Yamabushi",
-        "Mountain asceticism",
+        "Legend",
+        "Culture",
         "Exile",
-        "Folk religion"
+        "Philosophy",
+        "Yamato"
       ],
       "type": "religious"
     },
@@ -732,24 +763,45 @@
       "type": "cultural"
     },
     {
-      "date": "01.01.0733",
-      "description": "Miyake no Omi Kanatatari compiled the Izumo Fudoki under the supervision of the provincial official Izumo no Omi Hiroshima, weaving together local chronicles into the only regional gazetteer to survive from Nara-period Japan in complete form. Among the traditions it preserved was the story of the god Ōkuninushi ceding his earthly domain to Amaterasu's grandson Ninigi-no-Mikoto, who in gratitude built him a shrine of unmatched scale at Izumo.\n\nThat shrine, Izumo Taisha, is widely regarded as the oldest in Japan, predating even Ise, and its main hall lent its stepped, gabled design to an entire architectural style called taisha-zukuri. Local tradition long held the original hall stood far taller than the structure seen today, a claim archaeologists found support for in 2000 when they uncovered the remains of massive supporting pillars beneath the shrine grounds.",
-      "description_ru": "Мияке-но Оми Канататари составил «Идзумо-фудоки» под наблюдением провинциального чиновника Идзумо-но Оми Хиросимы, сведя воедино местные хроники в единственный региональный свод, дошедший от периода Нара в полном виде. Среди сохранённых им преданий — история о том, как бог Окунинуси уступил свои земные владения внуку Аматэрасу, Ниниги-но Микото, а тот в благодарность возвёл ему святилище невиданного масштаба в Идзумо.\n\nЭто святилище, Идзумо-тайся, считается древнейшим в Японии — старше даже Исэ, — а его ступенчатый двускатный главный зал дал название целому архитектурному стилю тайся-дзукури. Местное предание давно утверждало, что изначальный зал был намного выше нынешнего сооружения, и в 2000 году археологи нашли этому подтверждение, обнаружив под территорией святилища остатки массивных опорных столбов.",
+      "date": "01.11.0733",
+      "description": "According to myth, Okuninushi created the Japanese islands and ruled the land. Later, Amaterasu demanded that power be ceded to her descendants (the emperors). Okuninushi agreed to retreat into the shadows, but in exchange, he demanded that a magnificent palace, equal to the heavenly one, be built for him. This palace became Izumo Shrine. Today, Okuninushi is revered as the chief god of marriage, love, and good human relationships (enmusubi). Millions of Japanese come here to ask for a meeting with their life partner.\n\nThis shrine, Izumo-taisha, is considered the oldest in Japan — and its stepped, gabled main hall gave its name to the entire architectural style of taisha-zukuri. The main visual symbol of Izumo-taisha is colossal amulets made of rice straw.\n\nIn October of the lunar calendar (usually November), all of Japan celebrates the \"Godless Month\" (Kannazuki), as all 8 million Shinto deities leave their home shrines. But in Izumo Province, this month is called Kamiarizuki — \"Month of the Gods' Presence.\" All the deities gather here for an annual council to determine the destinies and love matches of people for the coming year. Special long inns have even been built on the shrine grounds for the visiting deities to rest.",
+      "description_ru": "Согласно мифам, Окунинуси создал Японские острова и правил землей. Позже Аматэрасу потребовала отдать власть её потомкам (императорам). Окунинуси согласился уйти в тень, но взамен потребовал, чтобы для него построили великолепный дворец, равный небесному. Этим дворцом и стало святилище Идзумо. Сегодня Окунинуси почитается как главный бог брака, любви и добрых человеческих отношений (энмусуби). Сюда приезжают миллионы японцев, чтобы попросить о встрече со спутником жизни.\n\nЭто святилище, Идзумо-тайся, считается древнейшим в Японии — а его ступенчатый двускатный главный зал дал название целому архитектурному стилю тайся-дзукури. Главный визуальный символ Идзумо-тайся — колоссальные обереги из рисовой соломы.\n\nВ октябре по лунному календарю (обычно это ноябрь) вся Япония отмечает месяц «Без богов» (Каннадзуки), потому что все 8 миллионов синтоистских божеств покидают свои домашние храмы. Но в провинции Идзумо этот месяц называют Камиаридзуки — «Месяц присутствия богов». Все божества собираются здесь на ежегодный совет, чтобы распределить судьбы и любовные союзы людей на следующий год. На территории храма даже построены специальные длинные гостиницы для отдыха прибывших богов.",
       "era": "AD",
       "latitude": 35.4018,
       "longitude": 132.6856,
-      "name": "The Izumo Fudoki Records the Kuni-yuzuri Myth Behind Izumo Taisha",
-      "name_ru": "«Идзумо-фудоки» фиксирует миф Куниюдзури, лежащий в основе Идзумо-тайся",
+      "name": "Izumo-Taisha Ancient Shrine",
+      "name_ru": "Древнее святилище Идзумо-Тайся",
       "source": "https://en.wikipedia.org/wiki/Izumo-taisha",
       "tags": [
         "Japanese",
-        "Nara",
-        "Izumo Taisha",
-        "Izumo Fudoki",
-        "Shintoism",
+        "Building 🏠",
+        "Legend",
+        "Architecture",
         "Holy Site",
-        "Ōkuninushi",
-        "Architecture"
+        "Religious",
+        "Shintoism",
+        "Temple",
+        "Nara"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0735",
+      "description": "Kibi no Makibi came home to Heijō-kyō after seventeen years studying in Tang China as part of a Japanese embassy, bringing back a wealth of Chinese learning that reshaped court life. Among the imports credited to him were the board game go, played with black and white stones on a grid, and techniques of embroidery previously unknown at the Japanese court.\n\nGo spread through the aristocracy over the following centuries and appears repeatedly in Heian-period literature as a marker of a cultivated household, eventually becoming one of the two board games, alongside sugoroku, considered essential pastimes for a well-bred noble. Kibi's scholarly reputation from the same journey helped trigger the Fujiwara no Hirotsugu Rebellion five years later, when rivals resented the influence his learning had won him at court.",
+      "description_ru": "Киби-но Макиби вернулся в Хэйдзё-кё после семнадцати лет учёбы в танском Китае в составе японского посольства, привезя с собой богатство китайских знаний, изменивших придворную жизнь. Среди заимствований, приписываемых ему, — настольная игра го, в которую играют чёрными и белыми камнями на разлинованной доске, и техники вышивки, прежде неизвестные японскому двору.\n\nГо распространилась среди знати и не раз упоминается в хэйанской литературе как признак утончённого дома, со временем став одной из двух настольных игр — наряду с сугороку, — которые считались обязательным времяпрепровождением для воспитанного аристократа. Учёная слава, которую Киби снискал в той же поездке, спустя пять лет отчасти спровоцировала восстание Фудзивара-но Хиротсугу, чьи соперники завидовали влиянию, добытому его образованностью при дворе.",
+      "era": "AD",
+      "latitude": 34.69040973,
+      "longitude": 135.79434156,
+      "name": "Kibi no Makibi brings the game of Go to Japan",
+      "name_ru": "Киби-но Макиби привозит в Японию игру го",
+      "source": "https://en.wikipedia.org/wiki/Kibi_no_Makibi",
+      "tags": [
+        "Japanese",
+        "Chinese",
+        "Culture",
+        "Games",
+        "Tang",
+        "Nara"
       ],
       "type": "cultural"
     },
@@ -770,28 +822,6 @@
         "Nara"
       ],
       "type": "historic"
-    },
-    {
-      "date": "01.01.0735",
-      "description": "Kibi no Makibi came home to Heijō-kyō after seventeen years studying in Tang China as part of a Japanese embassy, bringing back a wealth of Chinese learning that reshaped court life. Among the imports credited to him were the board game go, played with black and white stones on a grid, and techniques of embroidery previously unknown at the Japanese court.\n\nGo spread through the aristocracy over the following centuries and appears repeatedly in Heian-period literature as a marker of a cultivated household, eventually becoming one of the two board games, alongside sugoroku, considered essential pastimes for a well-bred noble. Kibi's scholarly reputation from the same journey helped trigger the Fujiwara no Hirotsugu Rebellion five years later, when rivals resented the influence his learning had won him at court.",
-      "description_ru": "Киби-но Макиби вернулся в Хэйдзё-кё после семнадцати лет учёбы в танском Китае в составе японского посольства, привезя с собой богатство китайских знаний, изменивших придворную жизнь. Среди заимствований, приписываемых ему, — настольная игра го, в которую играют чёрными и белыми камнями на разлинованной доске, и техники вышивки, прежде неизвестные японскому двору.\n\nВ последующие века го распространилась среди знати и не раз упоминается в хэйанской литературе как признак утончённого дома, со временем став одной из двух настольных игр — наряду с сугороку, — которые считались обязательным времяпрепровождением для хорошо воспитанного аристократа. Учёная слава, которую Киби снискал в той же поездке, спустя пять лет отчасти спровоцировала восстание Фудзивара-но Хиротсугу, чьи соперники завидовали влиянию, добытому его образованностью при дворе.",
-      "era": "AD",
-      "latitude": 34.6851,
-      "longitude": 135.8048,
-      "name": "Kibi no Makibi Returns from Tang China with the Game of Go",
-      "name_ru": "Киби-но Макиби возвращается из танского Китая с игрой го",
-      "source": "https://en.wikipedia.org/wiki/Kibi_no_Makibi",
-      "tags": [
-        "Japanese",
-        "Nara",
-        "Kibi no Makibi",
-        "Go",
-        "Board game",
-        "Tang China",
-        "Court culture",
-        "Embroidery"
-      ],
-      "type": "cultural"
     },
     {
       "date": "01.01.0741",
@@ -1039,20 +1069,17 @@
       "description": "The imperial court in Heian-kyō turned sumo into a regular fixture of its ceremonial calendar through the sumai no sechie, an annual tournament held before the emperor that combined the sport's older role as a religious offering with formal competition between wrestlers drawn from the provinces. Officials of the day drafted the first written rules for the contest, moving it away from the lethal, unregulated brawls the Nihon Shoki had described centuries earlier.\n\nThe tournament tied wrestling to the agricultural calendar and court ritual, framed as a way of divining the coming harvest and pleasing the kami rather than simple entertainment. That court patronage lasted through the height of the Heian period, and only faded once the imperial center lost real political power, after which sumo was repurposed under the samurai as a method of military training.",
       "description_ru": "Императорский двор в Хэйан-кё превратил сумо в постоянную часть своего церемониального календаря через сумаи-но сэтиэ — ежегодный турнир перед лицом императора, сочетавший прежнюю роль борьбы как религиозного подношения с формальным состязанием борцов, присылаемых из провинций. Чиновники того времени составили первые письменные правила состязания, отойдя от смертельных нерегламентированных схваток, описанных веками раньше в «Нихон сёки».\n\nТурнир был привязан к сельскохозяйственному календарю и придворному ритуалу и воспринимался как способ предугадать будущий урожай и умилостивить ками, а не просто развлечение. Такое придворное покровительство сохранялось на протяжении расцвета периода Хэйан и угасло лишь после того, как императорский центр утратил реальную политическую власть, после чего сумо было переосмыслено самураями как метод военной подготовки.",
       "era": "AD",
-      "latitude": 35.0257,
-      "longitude": 135.7622,
-      "name": "Sumai no Sechie Becomes an Annual Rite of the Imperial Court",
-      "name_ru": "Сумаи-но сэтиэ становится ежегодным обрядом императорского двора",
+      "latitude": 35.01926,
+      "longitude": 135.76314211,
+      "name": "Sumai no Sechie — an Annual Rite of the Japanese Court",
+      "name_ru": "Турнир сумо становится ежегодным обрядом японского двора",
       "source": "https://en.wikipedia.org/wiki/Sumo",
       "tags": [
         "Japanese",
-        "Heian",
-        "Sumo",
-        "Sumai no Sechie",
-        "Court ritual",
-        "Imperial court",
-        "Harvest ritual",
-        "Wrestling"
+        "Ceremonial",
+        "Culture",
+        "Sport",
+        "Heian"
       ],
       "type": "cultural"
     },
@@ -1093,5 +1120,6 @@
       ],
       "type": "cultural"
     }
-  ]
+  ],
+  "filename": "BC1_ancient_japan.json"
 }

@@ -194,7 +194,7 @@
         "Chinese",
         "Civil War",
         "Destruction",
-        "Plundering",
+        "Pillage",
         "Jin"
       ],
       "type": "military"
@@ -539,7 +539,8 @@
       "source": "https://en.wikipedia.org/wiki/Emperor_Wen_of_Sui",
       "tags": [
         "Chinese",
-        "Dynasty"
+        "Dynasty",
+        "Sui"
       ],
       "type": "political"
     },
