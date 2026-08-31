@@ -1,6 +1,29 @@
 {
-  "description": "Dataset imported with 30 events",
+  "description": "Dataset imported with 32 events",
+  "filename": "AD1_china_after_han.json",
   "events": [
+    {
+      "date": "01.01.0220",
+      "description": "Chen Qun (陳群), a minister of the newly founded Wei state, persuades Cao Pi to replace the old Han practice of relying on local recommendation alone with the jiupin zhongzheng (九品中正制), the Nine-Rank System, under which specially appointed rectifiers in each commandery evaluate candidates for office on a scale of nine grades based on reputation, conduct, and ability, feeding the results into a formal ranking that guides appointment across the bureaucracy.\n\nThe system is meant to replace favouritism with structured, documented evaluation, but the rectifiers are themselves drawn from great aristocratic families, and over the following century the top ranks fill almost exclusively with sons of the already powerful, entrenching a hereditary aristocracy rather than opening office to talent. Only centuries later does the imperial examination system finally break this pattern, but the Nine-Rank System stands as the first sustained attempt by a Chinese state to formalize civil-service selection on paper rather than through raw patronage.",
+      "description_ru": "Чэнь Цюнь (陳群), министр новообразованного государства Вэй, убеждает Цао Пи заменить старую ханьскую практику опоры на одни лишь местные рекомендации системой цзюпинь чжунчжэн (九品中正制), «Системой девяти рангов», в которой особые уполномоченные-«ректификаторы» в каждом округе оценивают кандидатов на должности по девятибалльной шкале, исходя из репутации, поведения и способностей, и передают результаты в формальный рейтинг, определяющий назначения по всей бюрократии.\n\nСистема задумана как замена покровительству структурированной, документированной оценкой, но сами ректификаторы происходят из знатных аристократических родов, и на протяжении следующего столетия высшие ранги заполняются почти исключительно сыновьями уже влиятельных семей, закрепляя наследственную аристократию, а не открывая доступ к должностям по таланту. Лишь спустя века систему окончательно ломает система государственных экзаменов, но «Система девяти рангов» остаётся первой последовательной попыткой китайского государства формализовать отбор чиновников на бумаге, а не через прямое покровительство.",
+      "era": "AD",
+      "latitude": 34.66780552,
+      "longitude": 112.41580009,
+      "name": "Cao Wei Establishes the Nine-Rank System for Selecting Officials",
+      "name_ru": "Цао Вэй вводит систему девяти рангов для отбора чиновников",
+      "source": "https://en.wikipedia.org/wiki/Nine-rank_system",
+      "tags": [
+        "Chinese",
+        "Wei",
+        "Nine-rank system",
+        "Bureaucracy",
+        "Chen Qun",
+        "Cao Pi",
+        "Administration",
+        "Luoyang"
+      ],
+      "type": "political"
+    },
     {
       "date": "01.01.0221",
       "description": "Liu Bei (刘备), a distant descendant of Han who fought for twenty years to restore the dynasty, proclaimed himself Emperor of Han in Chengdu (成都), naming his state Shu Han (蜀汉), claiming continuity with the legitimate Han line. He did not recognize Wei Cao Pi as legitimate, considering it a usurper's state.\n\nThe configuration of the Three Kingdoms—Wei in the north, Shu Han in the southwest, and Wu in the southeast—represented a strategic impasse that none of the three states could overcome. All three were governed by competent administrators and generals. The impasse would last sixty years.\nThe Three Kingdoms configuration — Wei in the north (controlling the Yellow River basin and the Han population heartland), Shu Han in the southwest (controlling Sichuan's agricultural wealth but geographically isolated), and Wu in the southeast (controlling the Yangtze and maritime trade) — represents a genuine strategic deadlock that none of the three can break. All three states are run by highly capable administrators and generals; all three know this. The deadlock will last sixty years.",
@@ -393,6 +416,28 @@
       "type": "cultural"
     },
     {
+      "date": "01.01.0480",
+      "description": "Zu Chongzhi (祖沖之), an astronomer and mathematician at the Liu Song court in Jiankang, calculates the value of pi (圓周率 yuánzhōulǜ) to between 3.1415926 and 3.1415927, a precision unmatched anywhere in the world for the next eight hundred years. He reaches the result using the method of exhausting a circle with inscribed polygons of up to 24,576 sides, an approach requiring enormous manual arithmetic carried out with counting rods.\n\nZu also proposes the fraction 355/113, later called Milü in his honour, as a remarkably accurate approximation of pi, and works with his son Zu Geng on formulas for the volume of a sphere using a principle equivalent to what is now known in the West as Cavalieri's principle. His astronomical work includes a revised calendar, the Daming calendar, that corrects for the precession of the equinoxes, though palace politics delay its adoption until after his death.",
+      "description_ru": "Цзу Чунчжи (祖沖之), астроном и математик при дворе Лю Сун в Цзянькане, вычисляет значение числа пи (圓周率 юаньчжоулюй) в промежутке между 3,1415926 и 3,1415927 — точность, не превзойдённую нигде в мире следующие восемьсот лет. Он получает результат методом исчерпывания круга вписанными многоугольниками до 24 576 сторон — подход, требующий колоссальных ручных вычислений со счётными палочками.\n\nЦзу также предлагает дробь 355/113, позже названную в его честь Милюй, как поразительно точное приближение числа пи, а вместе с сыном Цзу Гэном выводит формулы объёма шара, используя принцип, эквивалентный тому, что на Западе позже назовут принципом Кавальери. Его астрономические труды включают пересмотренный календарь Даминли, учитывающий прецессию равноденствий, хотя дворцовые интриги откладывают его принятие до времени уже после смерти учёного.",
+      "era": "AD",
+      "latitude": 32.06,
+      "longitude": 118.79,
+      "name": "Zu Chongzhi Calculates Pi to Seven Decimal Places",
+      "name_ru": "Цзу Чунчжи вычисляет число пи с точностью до седьмого знака",
+      "source": "https://en.wikipedia.org/wiki/Zu_Chongzhi",
+      "tags": [
+        "Chinese",
+        "Liu Song",
+        "Zu Chongzhi",
+        "Mathematics",
+        "Pi",
+        "Astronomy",
+        "Science",
+        "Jiankang"
+      ],
+      "type": "scientific"
+    },
+    {
       "date": "01.01.0494",
       "description": "Emperor Xiaowen of Northern Wei (北魏孝文帝), one of the most consequential rulers in Chinese history despite governing a 'barbarian' dynasty, implements a sweeping sinicization programme: the capital is moved from Pingcheng (modern Datong) to Luoyang — the Han and Western Jin capital — to immerse the court in the heartland of Chinese civilisation. Simultaneously, he bans Xianbei-language use at court, mandates the adoption of Chinese surnames (his own Tuoba 拓跋 family name becomes Yuan 元), requires Xianbei nobles to marry Chinese aristocratic women, and orders the adoption of Han Chinese clothing.\n\nXiaowen's sinicization is controversial even in his own time: Xianbei traditionalists resist it as cultural suicide, and a later Xianbei military revolt (523 AD) is partly a reaction against the imposed cultural transformation. But Xiaowen's logic is sound: the Northern Wei rules a predominantly Chinese population on a Chinese institutional framework, and governance requires cultural legitimacy with that population. His reform effectively completes the absorption of the Tuoba Xianbei into Chinese civilisation — the ruling class becomes Chinese within two generations.",
       "description_ru": "Император Сяовэнь Северной Вэй (北魏孝文帝), один из наиболее значительных правителей китайской истории при всей «варварской» природе своей династии, проводит масштабную программу китаизации: столица переносится из Пинчэна (совр. Датун) в Луоян. Одновременно он запрещает использование языка сяньби при дворе, предписывает принятие китайских фамилий (его собственная фамилия Тоба 拓跋 становится Юань 元), требует от сяньбийских аристократов жениться на китаянках и предписывает ношение китайского платья.\n\nКитаизация Сяовэня спорна даже в его время: традиционалисты сяньби сопротивляются ей как культурному самоубийству. Но логика Сяовэня верна: Северная Вэй правит преимущественно китайским населением, и управление требует культурной легитимности. Его реформа эффективно завершает поглощение Тоба-сяньби китайской цивилизацией — правящий класс становится китайским в течение двух поколений.",
@@ -563,6 +608,5 @@
       ],
       "type": "military"
     }
-  ],
-  "filename": "AD1_china_after_han.json"
+  ]
 }

@@ -1,5 +1,6 @@
 {
-  "description": "Dataset imported with 30 events",
+  "description": "Dataset imported with 31 events",
+  "filename": "BC3_chinese_shang_dynasty.json",
   "events": [
     {
       "date": "01.01.1585",
@@ -389,6 +390,26 @@
       "type": "cultural"
     },
     {
+      "date": "01.01.1200",
+      "description": "Bronze chopsticks (箸 zhù), six pairs of them, are recovered from tombs at Yin (殷), the Shang capital near modern Anyang, among the earliest physical evidence of the eating utensil later called kuaizi (筷子). At this stage they appear to serve mainly as cooking tools, used to retrieve pieces of meat and vegetables from boiling cauldrons rather than to eat with directly at the table.\n\nThe shift from cooking implement to personal utensil follows the spread of small, bite-sized food preparation across Chinese cuisine, itself driven by the scarcity of fuel and the practice of chopping ingredients finely before cooking. Chopsticks eventually displace the knife at the Chinese table entirely, a divergence from other ancient civilisations that cements one of the most distinctive and durable features of Chinese daily life.",
+      "description_ru": "Шесть пар бронзовых палочек для еды (箸 чжу) найдены в гробницах в Инь (殷) — шанской столице близ современного Аньяна — среди самых ранних вещественных свидетельств столового прибора, позже названного куайцзы (筷子). На этом этапе они, по-видимому, служат в основном кухонным инструментом — доставать куски мяса и овощей из кипящих котлов, а не есть ими непосредственно за столом.\n\nПереход от кухонного инструмента к личному столовому прибору сопровождает распространение в китайской кухне мелко нарезанной пищи, вызванное нехваткой топлива и практикой мелко рубить ингредиенты перед готовкой. Со временем палочки полностью вытесняют нож с китайского стола — расхождение с другими древними цивилизациями, закрепившее одну из самых узнаваемых и стойких черт китайского быта.",
+      "era": "BC",
+      "latitude": 36.11874093,
+      "longitude": 114.32630539,
+      "name": "Bronze Chopsticks Appear at the Shang Capital of Yin",
+      "name_ru": "В шанской столице Инь появляются бронзовые палочки для еды",
+      "source": "https://en.wikipedia.org/wiki/Chopsticks",
+      "tags": [
+        "Chinese",
+        "Shang",
+        "Chopsticks",
+        "Daily life",
+        "Cuisine",
+        "Bronze"
+      ],
+      "type": "cultural"
+    },
+    {
       "date": "01.01.1196",
       "description": "The 'Houmuwu' square cauldron (后母戊大方鼎) — its inscription reading 'great fang ding of Hou Mu Wu' — is the largest bronze vessel ever cast in the ancient world, weighing 832.84 kilograms and standing 133 cm tall, with a capacity of 206 litres. Cast in multiple sections by a coordinated team of at least 70–80 craftsmen working simultaneously in a purpose-built pit, it was commissioned by a late Shang king for his mother 'Mu Wu' — most likely Wu Ding's son casting it for Fu Hao herself, though the exact identification remains debated. Discovered at Anyang in 1939, hidden from Japanese forces during World War II, and now in the National Museum of China in Beijing, the vessel is the single most iconic artifact of the Shang period.",
       "description_ru": "Квадратный котёл «Хоу Му У» (后母戊大方鼎) — с надписью «великий фан дин Хоу Му У» — крупнейший бронзовый сосуд, когда-либо отлитый в древнем мире: он весит 832,84 кг, высота 133 см, ёмкость 206 литров. Отлитый в нескольких секциях командой не менее 70–80 мастеров, работавших одновременно в специально вырытой яме, он был заказан позднешанским царём для его матери «Му У» — предположительно сыном У Дина, заказавшим сосуд для самой Фу Хао, хотя точная идентификация остаётся предметом споров. Обнаруженный в Аньяне в 1939 году, спрятанный от японских сил во Второй мировой войне, он хранится в Национальном музее Китая в Пекине и является самым знаковым артефактом эпохи Шан.",
@@ -564,6 +585,5 @@
       ],
       "type": "military"
     }
-  ],
-  "filename": "BC3_chinese_shang_dynasty.json"
+  ]
 }

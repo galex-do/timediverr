@@ -1,5 +1,6 @@
 {
-  "description": "Dataset imported with 21 events",
+  "description": "Dataset imported with 27 events",
+  "filename": "BC4_chinese_zhou_dynasty.json",
   "events": [
     {
       "date": "01.01.1500",
@@ -215,6 +216,28 @@
       "type": "cultural"
     },
     {
+      "date": "01.01.0548",
+      "description": "The Zuo Zhuan (左傳), a historical commentary on the Spring and Autumn Annals, records a minister of the state of Wey being compared unfavourably to a poor player of weiqi (圍棋, \"the surrounding game\"), the earliest surviving textual reference to the board game later known in the West as Go. Two players alternate placing black and white stones on a grid of intersecting lines, aiming to surround more territory than the opponent, a rule set so simple to state and so difficult to master that the game becomes a lifelong pursuit for serious players.\n\nWeiqi later joins calligraphy, painting, and the guqin zither as one of the Four Arts expected of a cultivated Chinese scholar, its strategic depth treated as training for statecraft and military thinking alike. Centuries after this first mention, envoys and scholars carry the game from China to Korea and Japan, where it takes root as an equally serious cultural institution under its Japanese name, igo.",
+      "description_ru": "«Цзо-чжуань» (左傳), исторический комментарий к «Чуньцю» («Веснам и осеням»), фиксирует, как министра царства Вэй с неодобрением сравнивают со слабым игроком в вэйци (圍棋, «игра в окружение») — древнейшее из сохранившихся текстовых упоминаний настольной игры, позднее известной на Западе как го. Два игрока по очереди выставляют чёрные и белые камни на сетке пересекающихся линий, стремясь окружить больше территории, чем соперник, — правило, простое в формулировке и невероятно трудное в освоении, из-за чего игра становится делом всей жизни для серьёзных игроков.\n\nПозже вэйци вместе с каллиграфией, живописью и цитрой гуцинь входит в число Четырёх искусств, ожидаемых от образованного китайского учёного, а её стратегическая глубина рассматривается как тренировка государственного и военного мышления. Спустя века после этого первого упоминания посланники и учёные переносят игру из Китая в Корею и Японию, где она укореняется как столь же серьёзный культурный институт под японским названием иго.",
+      "era": "BC",
+      "latitude": 35.7167,
+      "longitude": 115.0167,
+      "name": "The Zuo Zhuan Records the Earliest Known Mention of Weiqi (Go)",
+      "name_ru": "«Цзо-чжуань» фиксирует древнейшее упоминание вэйци (го)",
+      "source": "https://en.wikipedia.org/wiki/Go_(game)",
+      "tags": [
+        "Chinese",
+        "Zhou",
+        "Weiqi",
+        "Go",
+        "Board game",
+        "Four Arts",
+        "Zuo Zhuan",
+        "Wey"
+      ],
+      "type": "cultural"
+    },
+    {
       "date": "01.01.0512",
       "description": "Sun Wu (孫武), known as Sun Tzu (孫子), presents his thirteen-chapter military treatise Bīngfǎ (兵法, The Art of War) to King Helü (闔閭) of the southeastern state of Wu and is appointed commander of the Wu army. The text is the earliest surviving systematic work of military theory in any tradition, addressing strategy, tactics, intelligence, logistics, terrain, fire, and the psychology of command. It consistently privileges deception, flexibility, and the avoidance of direct attrition over brute force: 'the supreme art of war is to subdue the enemy without fighting.'",
       "description_ru": "Сунь У (孫武), известный как Сунь-цзы (孫子), представляет свой тринадцатиглавный военный трактат Бинфа (兵法, «Искусство войны») вану Хэлюю (闔閭) юго-восточного государства У и назначается командующим армией У. Трактат — древнейший сохранившийся систематический труд по военной теории в любой традиции: он рассматривает стратегию, тактику, разведку, логистику, рельеф, применение огня и психологию командования. Последовательно отдаётся предпочтение обману, гибкости и уклонению от прямого противоборства: «высшее искусство войны — подчинить врага без боя».",
@@ -343,6 +366,28 @@
       "type": "cultural"
     },
     {
+      "date": "01.01.0440",
+      "description": "Mozi (墨子), founder of Mohism, spends three years carving and testing a wooden bird (木鳶 mùyuān) that finally takes to the air, only to break apart after a single day aloft. The philosopher Han Feizi later records the episode as an example of impractical effort, noting that a craftsman who builds a wheel hub in a day accomplishes more useful work than three years spent on a bird that flies once.\n\nLu Ban (魯班), the master carpenter later deified as the patron of Chinese builders, is credited with improving on the design, constructing a wooden magpie that reportedly stayed airborne for three days without descending. Later Chinese writers treat the story as the origin point of the kite, a device that spreads from this craftsman's rivalry into military signalling, festival flying, and eventually the folding paper kites still flown across China today.",
+      "description_ru": "Мо-цзы (墨子), основатель моизма, три года вырезает и испытывает деревянную птицу (木鳶 муюань), которая наконец поднимается в воздух — но разваливается уже через день полёта. Философ Хань Фэй-цзы позже приводит этот случай как пример непрактичных усилий, замечая, что ремесленник, за день сделавший ступицу колеса, совершает больше полезной работы, чем три года труда над птицей, летающей лишь однажды.\n\nЛу Бань (魯班), мастер-плотник, позже обожествлённый как покровитель китайских строителей, по преданию, улучшил конструкцию, построив деревянную сороку, продержавшуюся в воздухе три дня, не опускаясь. Позднейшие китайские авторы считают эту историю точкой отсчёта воздушного змея — устройства, которое из соперничества двух мастеров распространилось на военную сигнализацию, праздничные запуски и, в конце концов, складные бумажные змеи, до сих пор запускаемые по всему Китаю.",
+      "era": "BC",
+      "latitude": 35.087,
+      "longitude": 117.1674,
+      "name": "Mozi and Lu Ban's Rival Wooden Kites",
+      "name_ru": "Соперничающие деревянные воздушные змеи Мо-цзы и Лу Баня",
+      "source": "https://en.wikipedia.org/wiki/Kite",
+      "tags": [
+        "Chinese",
+        "Zhou",
+        "Mozi",
+        "Lu Ban",
+        "Kite",
+        "Mohism",
+        "Invention",
+        "Warring States"
+      ],
+      "type": "scientific"
+    },
+    {
       "date": "01.01.0400",
       "description": "The crossbow (弩 nǔ) — featuring a precision bronze trigger mechanism of considerable mechanical sophistication — becomes the dominant infantry weapon of the Warring States period. Unlike a composite bow, the crossbow requires minimal training to operate effectively, enabling rapid expansion of professional armies from specialist archer corps to mass conscript forces. The standardised bronze trigger components — cast to interchangeable tolerances across entire state arsenals — represent the earliest known application of standardised interchangeable parts in military manufacturing.\n\nQin state's systematic crossbow production, documented by vast numbers of standardised trigger components recovered from the tomb complex of Qin Shi Huang at Xi'an, demonstrates the industrial scale of this weapons system. Crossbow bolts penetrate armour that arrows cannot, making cavalry charges against massed crossbowmen exceptionally costly and reshaping the tactical relationship between infantry, cavalry, and chariot across the Warring States battlefield.",
       "description_ru": "Арбалет (弩 ну) — снабжённый точным бронзовым спусковым механизмом значительной механической сложности — становится господствующим пехотным оружием периода Сражающихся царств. В отличие от составного лука, арбалет требует минимальной подготовки, обеспечивая быстрое расширение профессиональных армий от специализированных стрелецких корпусов до массовых призывных сил. Стандартизированные бронзовые компоненты спускового механизма — отлитые по взаимозаменяемым допускам в целых государственных арсеналах — представляют древнейшее известное применение взаимозаменяемых деталей в военном производстве.\n\nСистематическое производство арбалетов в государстве Цинь, документированное огромным числом стандартизированных компонентов из комплекса гробниц Цинь Ши Хуана, демонстрирует промышленный масштаб этой системы вооружения.",
@@ -362,6 +407,28 @@
         "Zhou"
       ],
       "type": "scientific"
+    },
+    {
+      "date": "01.01.0400",
+      "description": "Liubo (六博, \"six sticks\"), a board game for two players who race carved pieces around a square board marked with TLV-shaped paths while throwing bamboo sticks to determine moves, becomes a fixture of aristocratic leisure across the Warring States. Sets recovered from Chu tombs include lacquered boards, ivory or bone pieces, and dice-like sticks, showing the game was valuable enough to bury with the dead for use in the afterlife.\n\nLiubo carries none of the strategic depth of weiqi, relying heavily on the luck of the throw, and Han-dynasty writers already describe games that end in furious arguments over cheating. The game remains popular for roughly a thousand years before falling out of use by the Tang dynasty, its exact rules eventually lost and only partially reconstructed by modern scholars from surviving boards and tomb texts.",
+      "description_ru": "Любо (六博, «шесть палочек») — настольная игра для двух игроков, передвигающих резные фишки по квадратной доске с путями в форме букв T, L и V, бросая бамбуковые палочки для определения хода, — становится непременной частью аристократического досуга эпохи Воюющих царств. Наборы, найденные в гробницах царства Чу, включают лакированные доски, фишки из кости или слоновой кости и палочки наподобие игральных костей, что говорит о ценности игры, достаточной, чтобы класть её в могилу для загробной жизни.\n\nЛюбо лишена стратегической глубины вэйци, во многом завися от удачи броска, и уже ханьские авторы описывают партии, заканчивающиеся яростными спорами о жульничестве. Игра остаётся популярной около тысячи лет, выходя из употребления к династии Тан, а её точные правила со временем утрачиваются и лишь частично восстанавливаются современными учёными по сохранившимся доскам и текстам из гробниц.",
+      "era": "BC",
+      "latitude": 30.3667,
+      "longitude": 112.1667,
+      "name": "Liubo Board Game Spreads Among Warring States Nobility",
+      "name_ru": "Настольная игра любо распространяется среди знати Воюющих царств",
+      "source": "https://en.wikipedia.org/wiki/Liubo",
+      "tags": [
+        "Chinese",
+        "Zhou",
+        "Liubo",
+        "Board game",
+        "Chu",
+        "Warring States",
+        "Aristocracy",
+        "Archaeology"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0356",
@@ -388,26 +455,70 @@
       "type": "political"
     },
     {
-      "date": "01.06.0256",
-      "description": "King Nan of Zhou (周赧王 Zhōu Nǎn Wáng), the last Zhou king, leads an ill-fated military coalition against the rising state of Qin and is defeated. Qin forces capture Luoyang and the Zhou royal domain. King Nan surrenders the Zhou territories, the royal sacrificial bronze vessels, and the ancestral population registers to Qin — the physical, ritual, and administrative substance of the dynasty. He dies shortly after, and Qin extinguishes the Zhou royal lineage entirely.",
-      "description_ru": "Ван Нань Чжоу (周赧王) возглавляет военную коалицию против набирающего силу государства Цинь, но терпит поражение. Войска Цинь захватывают Лоян и царский удел. Ван Нань передаёт Цинь территории, царские жертвенные бронзовые сосуды и родовые списки населения — материальную, ритуальную и административную основу династии. Вскоре после этого он умирает, и Цинь полностью уничтожает царскую линию Чжоу.",
+      "date": "01.01.0320",
+      "description": "The Zhan Guo Ce (戰國策), a compilation of speeches and stratagems from the Warring States period, describes the streets of Linzi (臨淄), capital of the wealthy state of Qi, filled with residents playing cuju (蹴鞠, \"kick ball\") alongside music, cockfighting, and other pastimes, evidence that the game is already a widespread urban amusement rather than a recent novelty. Players kick a leather ball stuffed with hair or feathers, competing to keep it airborne or drive it toward a target without using their hands.\n\nThe game's military value is not lost on later rulers: Han dynasty generals adopt cuju as a training exercise to sharpen soldiers' footwork and endurance, and a treatise on strategy is later devoted specifically to it. Cuju continues to develop for well over a millennium after this account, eventually incorporating a raised goal net, before its popularity fades in China even as similar kicking games take root independently elsewhere in the world.",
+      "description_ru": "«Чжаньго цэ» (戰國策), сборник речей и стратагем эпохи Воюющих царств, описывает улицы Линьцзы (臨淄), столицы богатого царства Ци, заполненные жителями, играющими в цуцзюй (蹴鞠, «бить по мячу ногой») наряду с музыкой, петушиными боями и другими развлечениями, — свидетельство того, что игра уже широко распространена в городах, а не является новинкой. Игроки бьют ногами по кожаному мячу, набитому волосом или перьями, стараясь удержать его в воздухе или направить к цели, не касаясь руками.\n\nВоенную пользу игры позже оценили полководцы: генералы династии Хань используют цуцзюй как тренировку, оттачивающую работу ног и выносливость солдат, а позднее ей посвящается отдельный трактат о стратегии. Цуцзюй продолжает развиваться более тысячелетия после этого свидетельства, обзаведясь со временем приподнятой сеткой ворот, прежде чем её популярность в Китае угасает — как раз тогда, когда похожие игры в мяч ногой независимо возникают в других частях света.",
       "era": "BC",
-      "latitude": 34.66780552,
-      "longitude": 112.41580009,
-      "name": "Zhou Dynasty Extinguished by Qin",
-      "name_ru": "Династия Чжоу уничтожена государством Цинь",
-      "source": "https://en.wikipedia.org/wiki/Zhou_dynasty",
+      "latitude": 36.8129,
+      "longitude": 118.3587,
+      "name": "Cuju Football Recorded Among the Common People of Linzi",
+      "name_ru": "Игра в цуцзюй фиксируется среди простого народа Линьцзы",
+      "source": "https://en.wikipedia.org/wiki/Cuju",
       "tags": [
         "Chinese",
-        "War",
-        "Dynasty",
-        "Overthrow",
-        "Qin",
-        "Regicide",
-        "Warring States",
-        "Zhou"
+        "Zhou",
+        "Cuju",
+        "Football",
+        "Qi",
+        "Linzi",
+        "Sport",
+        "Warring States"
       ],
-      "type": "political"
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0307",
+      "description": "King Wuling of Zhao (趙武靈王) orders his court and army to abandon the long, wide-sleeved robes traditional to Chinese nobility and adopt hufu (胡服), the fitted trousers and short tunics worn by the nomadic peoples on Zhao's northern frontier, so that soldiers can fight as mounted archers instead of from slow, road-bound war chariots. The reform, known as hufu qishe (胡服騎射, \"nomad dress, mounted archery\"), meets fierce resistance from conservative nobles who consider trousers beneath the dignity of civilised Chinese dress.\n\nWuling overrides the objections by demonstrating the new cavalry's effectiveness himself, and Zhao's mounted archers go on to seize territory from the nomadic Loufan and Linhu peoples that the old chariot-based army could never have reached. The episode marks one of the earliest recorded moments in which a Chinese state deliberately imported foreign dress and foreign military technique together, over strong cultural objection, because it worked.",
+      "description_ru": "Улинван Чжао (趙武靈王) приказывает двору и армии отказаться от длинных широкорукавных одежд, традиционных для китайской знати, и перенять хуфу (胡服) — облегающие штаны и короткие туники кочевых народов северной границы Чжао, — чтобы солдаты могли сражаться конными лучниками вместо медленных боевых колесниц, привязанных к дорогам. Реформа, известная как хуфу цише (胡服騎射, «одежда кочевников, конная стрельба»), встречает яростное сопротивление консервативной знати, считающей штаны недостойными цивилизованного китайского одеяния.\n\nУлинван преодолевает возражения, лично демонстрируя эффективность новой конницы, и конные лучники Чжао захватывают у кочевых лоуфаней и линьху земли, недостижимые для прежней колесничной армии. Этот эпизод — один из самых ранних зафиксированных случаев, когда китайское государство сознательно заимствовало чужеземную одежду вместе с чужеземной военной техникой вопреки сильному культурному сопротивлению — просто потому, что это работало.",
+      "era": "BC",
+      "latitude": 36.625,
+      "longitude": 114.5391,
+      "name": "King Wuling of Zhao Orders Hufu Qishe — Nomad Dress for Cavalry Archery",
+      "name_ru": "Улинван Чжао вводит хуфу цише — одежду кочевников для конных лучников",
+      "source": "https://en.wikipedia.org/wiki/King_Wuling_of_Zhao",
+      "tags": [
+        "Chinese",
+        "Zhou",
+        "King Wuling",
+        "Zhao",
+        "Fashion",
+        "Cavalry",
+        "Military reform",
+        "Warring States"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.05.0278",
+      "description": "Qu Yuan (屈原), a minister and poet of the state of Chu whose exile inspired the Li Sao and other verses later collected in the Chu Ci (楚辭), drowns himself in the Miluo River in despair after Qin forces capture the Chu capital, an act he takes as a final protest against the corrupt court that had exiled him for opposing an alliance with Qin. Local boatmen, according to tradition, row out and beat drums to drive fish away from his body and throw rice wrapped in leaves into the water so that fish would eat the rice instead of the poet's remains.\n\nThat rice, zongzi (粽子), and the racing boats used to search for him became the two central rituals of the Duanwu festival (端午節), observed on the fifth day of the fifth lunar month for more than two thousand years since. Qu Yuan himself is remembered as the founding figure of Chinese romantic poetry, and the Chu Ci stands alongside the Shijing as one of the two great wellsprings of the Chinese literary tradition.",
+      "description_ru": "Цюй Юань (屈原), министр и поэт царства Чу, чьё изгнание вдохновило поэму «Лисао» и другие стихи, позже собранные в «Чу цы» (楚辭), в отчаянии топится в реке Мило после того, как войска Цинь захватывают столицу Чу, — этот поступок он считает последним протестом против продажного двора, изгнавшего его за противодействие союзу с Цинь. По преданию, местные лодочники выплывают на реку, бьют в барабаны, чтобы отпугнуть рыб от его тела, и бросают в воду рис, завёрнутый в листья, чтобы рыбы ели рис, а не останки поэта.\n\nЭтот рис, цзунцзы (粽子), и лодки, на которых его искали, стали двумя главными обрядами праздника Дуаньу (端午節), отмечаемого в пятый день пятого лунного месяца уже более двух тысяч лет. Самого Цюй Юаня чтят как основоположника китайской лирической поэзии, а «Чу цы» наряду с «Шицзин» считается одним из двух великих истоков китайской литературной традиции.",
+      "era": "BC",
+      "latitude": 28.8136,
+      "longitude": 113.0698,
+      "name": "Qu Yuan Drowns in the Miluo River, Giving Rise to the Dragon Boat Festival",
+      "name_ru": "Цюй Юань тонет в реке Мило, что рождает Праздник драконьих лодок",
+      "source": "https://en.wikipedia.org/wiki/Qu_Yuan",
+      "tags": [
+        "Chinese",
+        "Zhou",
+        "Qu Yuan",
+        "Chu",
+        "Poetry",
+        "Dragon Boat Festival",
+        "Duanwu",
+        "Chu Ci"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0256",
@@ -429,7 +540,28 @@
         "Water"
       ],
       "type": "scientific"
+    },
+    {
+      "date": "01.06.0256",
+      "description": "King Nan of Zhou (周赧王 Zhōu Nǎn Wáng), the last Zhou king, leads an ill-fated military coalition against the rising state of Qin and is defeated. Qin forces capture Luoyang and the Zhou royal domain. King Nan surrenders the Zhou territories, the royal sacrificial bronze vessels, and the ancestral population registers to Qin — the physical, ritual, and administrative substance of the dynasty. He dies shortly after, and Qin extinguishes the Zhou royal lineage entirely.",
+      "description_ru": "Ван Нань Чжоу (周赧王) возглавляет военную коалицию против набирающего силу государства Цинь, но терпит поражение. Войска Цинь захватывают Лоян и царский удел. Ван Нань передаёт Цинь территории, царские жертвенные бронзовые сосуды и родовые списки населения — материальную, ритуальную и административную основу династии. Вскоре после этого он умирает, и Цинь полностью уничтожает царскую линию Чжоу.",
+      "era": "BC",
+      "latitude": 34.66780552,
+      "longitude": 112.41580009,
+      "name": "Zhou Dynasty Extinguished by Qin",
+      "name_ru": "Династия Чжоу уничтожена государством Цинь",
+      "source": "https://en.wikipedia.org/wiki/Zhou_dynasty",
+      "tags": [
+        "Chinese",
+        "War",
+        "Dynasty",
+        "Overthrow",
+        "Qin",
+        "Regicide",
+        "Warring States",
+        "Zhou"
+      ],
+      "type": "political"
     }
-  ],
-  "filename": "BC4_chinese_zhou_dynasty.json"
+  ]
 }
