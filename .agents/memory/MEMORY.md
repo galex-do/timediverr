@@ -4,3 +4,4 @@
 - [Dev-domain rate limiting](dev-domain-rate-limiting.md) — Replit's dev-domain 429s are infra-level, not app config; full-list refetches after single-item edits and "clear on any error" handlers turn them into visible outages.
 - [Dataset thematic breadth quality bar](dataset-thematic-breadth.md) — good examples are the Wales/Greece datasets; avoid piling up near-duplicate "mentioned in a foreign record" events, cover gods/tech/daily life/geography too.
 - [Dataset prose style & DB-import status](dataset-prose-style-and-import.md) — calibrate tone against Greece's tighter style, not flowery narrative files; a written dataset JSON is not auto-loaded into the app's DB.
+- [New civilization-era dataset files](new-era-dataset-files.md) — how to add a whole new period (e.g. a dynasty) as its own file: naming, filename field, chronological non-overlap with neighboring files, event count.

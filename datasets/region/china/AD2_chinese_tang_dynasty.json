@@ -1,0 +1,669 @@
+{
+  "description": "Dataset imported with 32 events",
+  "filename": "AD2_chinese_tang_dynasty.json",
+  "events": [
+    {
+      "date": "01.06.0618",
+      "description": "Li Yuan (李渊), Duke of Tang and a cousin of the Sui imperial house, forces the abdication of the child emperor Yang You in Chang'an (长安) after the murder of the tyrannical Emperor Yang of Sui by his own officers, and proclaims himself Emperor Gaozu (高祖), founder of the Tang dynasty (唐朝). He takes the reign name from his hereditary title and keeps Chang'an as his capital, inheriting the Sui dynasty's canals, granaries, and centralized bureaucracy rather than rebuilding from ruin.\n\nGaozu spends his six-year reign putting down rival warlords who had carved up the collapsing Sui empire, a task his son Li Shimin (李世民) largely carries out on the battlefield. The dynasty Li Yuan founds this year will rule, with one brief interruption, for nearly three centuries and is remembered by later generations as the high point of premodern Chinese civilization — its poetry, cosmopolitan capital, and administrative model shaping East Asia for a thousand years after its fall.",
+      "description_ru": "Ли Юань (李渊), герцог Тан и двоюродный брат правящего дома Суй, вынуждает отречься малолетнего императора Ян Ю в Чанъане (长安) после убийства тиранического императора Яна Суй его же офицерами и провозглашает себя императором Гаоцзу (高祖), основателем династии Тан (唐朝). Он берёт девиз правления от своего наследственного титула и сохраняет Чанъань столицей, унаследовав суйские каналы, зернохранилища и централизованную бюрократию, а не отстраивая всё заново на руинах.\n\nГаоцзу проводит свои шесть лет правления, подавляя соперничающих военачальников, растащивших рушащуюся империю Суй, — задачу, которую на полях сражений в основном выполняет его сын Ли Шиминь (李世民). Основанная в этом году династия будет править, с одним кратким перерывом, почти три века и войдёт в память потомков как вершина домодернового китайского цивилизационного развития — её поэзия, космополитичная столица и административная модель формировали Восточную Азию тысячу лет после её падения.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "Li Yuan Founds the Tang Dynasty",
+      "name_ru": "Ли Юань основывает династию Тан",
+      "source": "https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Tang",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Dynasty",
+        "Founding",
+        "Li Yuan",
+        "Chang'an"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0621",
+      "description": "Sogdian and Persian émigrés fleeing the Arab conquest of Sassanid Persia establish Zoroastrian fire temples (祆祠, xianci) in Chang'an and other major Tang cities, continuing to venerate Ahura Mazda and tend sacred flames under the same policy of religious tolerance that later admits Nestorian Christianity and Manichaeism. The Tang court creates a special office, the sabao (萨保), to administer and liaise with these communities of western immigrants without requiring them to abandon their own faith or customs.\n\nZoroastrianism never spreads meaningfully beyond these expatriate communities into the broader Chinese population, remaining an ethnic religion of Sogdian and Persian traders rather than a missionary faith competing with Buddhism or Daoism, but its temples persist in Chang'an for over two centuries as visible proof of how far west the Tang capital's networks of trade and refuge extended — the same roads that carried silk east carried the last adherents of a dying Persian empire in the other direction.",
+      "description_ru": "Согдийские и персидские переселенцы, бежавшие от арабского завоевания сасанидской Персии, основывают зороастрийские храмы огня (祆祠, сяньцы) в Чанъане и других крупных танских городах, продолжая почитать Ахура Мазду и поддерживать священное пламя в рамках той же политики веротерпимости, которая позже допустит несторианское христианство и манихейство. Танский двор учреждает особое ведомство, сабао (萨保), для управления этими общинами западных переселенцев и связи с ними, не требуя от них отказа от собственной веры или обычаев.\n\nЗороастризм так и не распространяется сколько-нибудь заметно за пределы этих общин переселенцев на широкое китайское население, оставаясь этнической религией согдийских и персидских торговцев, а не миссионерской верой, соперничающей с буддизмом или даосизмом, но его храмы существуют в Чанъане более двух столетий как наглядное свидетельство того, насколько далеко на запад простирались сети торговли и убежища танской столицы — те же дороги, что несли шёлк на восток, несли в обратном направлении последних приверженцев гибнущей персидской державы.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "Zoroastrian Fire Temples Rise in Chang'an",
+      "name_ru": "Зороастрийские храмы огня появляются в Чанъане",
+      "source": "https://en.wikipedia.org/wiki/Zoroastrianism_in_China",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Zoroastrian",
+        "Religious",
+        "Persian",
+        "Sogdian",
+        "Chang'an",
+        "Foreign religion"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.07.0626",
+      "description": "Li Shimin (李世民), the Tang founder's second son and the general most responsible for winning the dynasty's early wars, ambushes and kills his elder brother Crown Prince Li Jiancheng and younger brother Li Yuanji at the Xuanwu Gate (玄武门) of the Chang'an palace, fearing they intend to move against him first. Within days his father Gaozu, left with no other credible heir and no army loyal enough to punish his own most capable son, abdicates in Li Shimin's favor.\n\nLi Shimin takes the throne as Emperor Taizong (太宗), and the brutal fratricide that put him there becomes one of the most-debated episodes in Chinese historiography — later court historians, writing under Taizong's own supervision, present it as a reluctant act of self-defense against a jealous, plotting elder brother. Whatever the truth of that framing, Taizong goes on to rule as one of the most capable and most celebrated emperors in Chinese history, a contradiction Chinese chroniclers wrestle with for centuries afterward.",
+      "description_ru": "Ли Шиминь (李世民), второй сын основателя Тан и полководец, более всех способствовавший победе династии в её ранних войнах, устраивает засаду и убивает старшего брата, наследного принца Ли Цзяньчэна, и младшего брата Ли Юаньцзи у ворот Сюаньу (玄武门) чанъаньского дворца, опасаясь, что они намерены выступить против него первыми. Через несколько дней его отец Гаоцзу, оставшийся без другого достойного наследника и без войска, преданного настолько, чтобы покарать собственного самого способного сына, отрекается в пользу Ли Шиминя.\n\nЛи Шиминь восходит на престол как император Тайцзун (太宗), и жестокое братоубийство, приведшее его к власти, становится одним из самых обсуждаемых эпизодов китайской историографии — позднейшие придворные историки, писавшие под надзором самого Тайцзуна, представляют это как вынужденную самооборону против завистливого, плетущего заговор старшего брата. Какова бы ни была истина в этой трактовке, Тайцзун правит как один из самых способных и прославленных императоров китайской истории — противоречие, над которым китайские летописцы бьются веками после.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "The Xuanwu Gate Incident",
+      "name_ru": "Инцидент у ворот Сюаньу",
+      "source": "https://en.wikipedia.org/wiki/Xuanwu_Gate_Incident",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Taizong",
+        "Coup",
+        "Succession",
+        "Chang'an"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0629",
+      "description": "The Buddhist monk Xuanzang (玄奘), frustrated by contradictions between different Chinese translations of Buddhist scripture, leaves Chang'an without imperial permission — border crossings to the west being officially forbidden — and sets out alone across the Gobi Desert toward India to obtain original Sanskrit texts and study at the source. His sixteen-year, ten-thousand-kilometer journey takes him through the Central Asian oasis kingdoms, over the Hindu Kush, and across the Indian subcontinent, where he studies for years at the great Buddhist university of Nalanda.\n\nXuanzang returns to Chang'an in 645 to a hero's welcome, imperial pardon forgotten, carrying hundreds of Sanskrit manuscripts and Buddhist relics. Taizong, more interested in Xuanzang's intelligence about Central Asian geography and politics than in his theology, sets him up with a state-sponsored translation bureau that produces authoritative Chinese versions of key sutras for the rest of his life. His own travel account, the Great Tang Records on the Western Regions, and the folk legends it inspired eventually crystallize centuries later into the novel Journey to the West, one of China's four great classical novels.",
+      "description_ru": "Буддийский монах Сюаньцзан (玄奘), разочарованный противоречиями между разными китайскими переводами буддийских писаний, покидает Чанъань без разрешения императора — пересечение западной границы официально запрещено — и в одиночку отправляется через пустыню Гоби в Индию, чтобы добыть подлинные санскритские тексты и учиться у первоисточника. Его шестнадцатилетнее, десятитысячекилометровое путешествие проходит через среднеазиатские оазисные царства, через Гиндукуш и через весь Индийский субконтинент, где он годами учится в великом буддийском университете Наланда.\n\nСюаньцзан возвращается в Чанъань в 645 году как герой, о запрете давно забыто, привезя сотни санскритских рукописей и буддийских реликвий. Тайцзуна больше интересуют сведения Сюаньцзана о географии и политике Средней Азии, чем его богословие, и император учреждает для него государственное бюро переводов, которое до конца его жизни выпускает авторитетные китайские версии ключевых сутр. Его собственный путевой отчёт, «Записки о западных странах эпохи Великой Тан», и вдохновлённые им народные легенды столетия спустя оформятся в роман «Путешествие на Запад» — один из четырёх великих классических романов Китая.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "Xuanzang Sets Out for India in Defiance of the Emperor",
+      "name_ru": "Сюаньцзан отправляется в Индию вопреки запрету императора",
+      "source": "https://en.wikipedia.org/wiki/Xuanzang",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Xuanzang",
+        "Buddhism",
+        "Religious",
+        "Silk Road",
+        "Translation"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.0630",
+      "description": "Tang general Li Jing (李靖) leads a surprise winter campaign deep into the steppe and shatters the Eastern Turkic Khaganate, capturing Khagan Illig and ending the confederation that had extracted tribute from the fledgling Tang state only a few years earlier. Turkic and other steppe leaders across the frontier respond by offering Emperor Taizong the unprecedented title Tian Kehan (天可汗), \"Heavenly Khan\", a supreme overlordship recognized by nomadic peoples that no Chinese emperor had held before.\n\nThe title lets Taizong rule simultaneously as a Chinese emperor governing through Confucian bureaucracy and as a steppe khan commanding the loyalty of Turkic, Tiele, and other nomadic tribes on their own terms, a dual legitimacy that becomes a defining feature of the early Tang state and opens the overland routes into Central Asia that later carry Silk Road trade, Buddhist pilgrims, and Tang military garrisons deep into the Tarim Basin.",
+      "description_ru": "Танский полководец Ли Цзин (李靖) проводит внезапный зимний поход вглубь степи и сокрушает Восточно-тюркский каганат, захватив в плен кагана Иллига и положив конец конфедерации, которая ещё несколько лет назад взимала дань с молодого танского государства. Тюркские и другие степные вожди вдоль границы в ответ предлагают императору Тайцзуну беспрецедентный титул Тянь Кэхань (天可汗), «Небесный каган», — верховную власть, признаваемую кочевыми народами, которой прежде не обладал ни один китайский император.\n\nТитул позволяет Тайцзуну одновременно управлять как китайский император через конфуцианскую бюрократию и как степной каган, командующий верностью тюркских, тэлэских и других кочевых племён на их собственных условиях, — двойная легитимность, ставшая определяющей чертой раннего танского государства и открывшая сухопутные пути в Центральную Азию, по которым позже пойдут шёлковый торговый путь, буддийские паломники и танские военные гарнизоны вглубь Таримской впадины.",
+      "era": "AD",
+      "latitude": 47.9,
+      "longitude": 106.9,
+      "name": "Taizong Defeats the Eastern Turkic Khaganate and Becomes 'Heavenly Khan'",
+      "name_ru": "Тайцзун побеждает Восточно-тюркский каганат и становится «Небесным каганом»",
+      "source": "https://en.wikipedia.org/wiki/Emperor_Taizong_of_Tang",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Taizong",
+        "Military",
+        "Turkic",
+        "Steppe",
+        "Khan"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0635",
+      "description": "Alopen (阿罗本), a missionary of the Church of the East — the branch of Christianity Chinese sources call Jingjiao (景教), \"Luminous Teaching\" — arrives in Chang'an from the Byzantine-influenced West (referred to in Chinese as Daqin) carrying sacred books and images. Emperor Taizong receives him, orders the scriptures translated into Chinese, and three years later issues an edict tolerating the new religion and authorizing a monastery to be built in the capital.\n\nThe Nestorian community persists in Chang'an for over two centuries, one of several foreign faiths — alongside Zoroastrianism and Manichaeism — that Tang China's cosmopolitan capital absorbs without requiring conversion or exclusive loyalty from its practitioners. Chinese Nestorianism leaves comparatively little trace after the ninth century, but the episode captures how open Tang Chang'an was, at its height, to religious traffic arriving along the same roads that carried silk and spices.",
+      "description_ru": "Алопен (阿罗本), миссионер Церкви Востока — направления христианства, которое китайские источники называют Цзинцзяо (景教), «Лучезарное учение», — прибывает в Чанъань с испытавшего византийское влияние Запада (в китайских источниках именуемого Дацинь), привозя священные книги и образа. Император Тайцзун принимает его, приказывает перевести писания на китайский язык, а три года спустя издаёт указ о терпимости к новой религии и разрешает построить в столице монастырь.\n\nНесторианская община существует в Чанъане более двух столетий — одна из нескольких иноземных вер, наряду с зороастризмом и манихейством, которые космополитичная столица танского Китая впитывает, не требуя от приверженцев обращения или исключительной преданности. Китайское несторианство почти не оставляет следа после IX века, но сам эпизод показывает, насколько открытым был Чанъань в пору своего расцвета для религиозного оборота, шедшего по тем же дорогам, что несли шёлк и пряности.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "Nestorian Christian Missionaries Reach Chang'an",
+      "name_ru": "Несторианские христианские миссионеры прибывают в Чанъань",
+      "source": "https://en.wikipedia.org/wiki/Xi%27an_Stele",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Nestorian",
+        "Christianity",
+        "Religious",
+        "Chang'an",
+        "Foreign religion"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.0653",
+      "description": "Jurists working under Emperor Gaozong finish the Tanglü shuyi (唐律疏議), a detailed line-by-line commentary on the Tang Code (唐律) — a penal code first drafted under Taizong in 624 and repeatedly revised over the following decades — that fixes its final, authoritative form at 502 articles across twelve sections. The Code fuses Legalist precision about punishment with Confucian principles about hierarchy and moral obligation, grading penalties by the offender's and victim's relative social status, kinship distance, and official rank rather than applying uniform rules to everyone.\n\nThe Tang Code becomes the most influential legal text in East Asian history, copied nearly wholesale into the law codes of Japan, Korea, and Vietnam, and it remains the oldest complete Chinese legal code to survive to the present day, giving historians a uniquely detailed window into how Tang society understood crime, family obligation, and the proper reach of state power.",
+      "description_ru": "Правоведы при императоре Гаоцзуне завершают «Танлюй шуи» (唐律疏議) — подробный построчный комментарий к Танскому кодексу (唐律), уголовному своду, впервые составленному при Тайцзуне в 624 году и неоднократно пересматривавшемуся в последующие десятилетия, — закрепляя его окончательную, авторитетную форму из 502 статей в двенадцати разделах. Кодекс соединяет легистскую точность в вопросах наказания с конфуцианскими принципами иерархии и морального долга, определяя тяжесть наказания в зависимости от относительного социального положения, степени родства и служебного ранга преступника и потерпевшего, а не применяя единые правила ко всем.\n\nТанский кодекс становится самым влиятельным правовым текстом в истории Восточной Азии, почти целиком скопированным в своды законов Японии, Кореи и Вьетнама, и остаётся древнейшим полностью сохранившимся китайским правовым кодексом, дающим историкам уникально подробное окно в то, как танское общество понимало преступление, семейный долг и должные пределы государственной власти.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "The Tang Code Is Completed",
+      "name_ru": "Завершён Танский кодекс",
+      "source": "https://en.wikipedia.org/wiki/Tang_Code",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Law",
+        "Administration",
+        "Gaozong",
+        "Reform"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0655",
+      "description": "Wu Zhao (武曌), a former junior concubine of Emperor Taizong who was recalled from a Buddhist convent by his son and successor Gaozong, engineers the removal of Empress Wang on accusations of witchcraft and infanticide and is installed as empress consort in her place, over the objections of senior ministers who see a former palace woman of modest birth rising to the top of the court hierarchy. She quickly becomes Gaozong's closest political partner, co-ruling in practice as the emperor's health declines through recurring illness.\n\nWu's rise from concubine to empress, achieved through court intrigue that later Confucian historians treat as scandalous precisely because it worked, lays the groundwork for a political dominance that will outlast Gaozong's own reign — within thirty-five years she will set aside the pretense of ruling through her husband and sons altogether and take the throne in her own name, the only woman in over two thousand years of Chinese imperial history to do so.",
+      "description_ru": "У Чжао (武曌), бывшая младшая наложница императора Тайцзуна, возвращённая из буддийского монастыря его сыном и преемником Гаоцзуном, добивается устранения императрицы Ван по обвинению в колдовстве и детоубийстве и занимает её место в качестве императрицы-консорта, вопреки возражениям высших сановников, видящих, как бывшая дворцовая женщина скромного происхождения поднимается на вершину придворной иерархии. Она быстро становится ближайшим политическим партнёром Гаоцзуна, фактически соправительницей по мере ухудшения здоровья императора из-за периодических болезней.\n\nВосхождение У от наложницы до императрицы, достигнутое через придворные интриги, которые позднейшие конфуцианские историки считают скандальными именно потому, что они сработали, закладывает основу политического господства, которое переживёт само правление Гаоцзуна: спустя тридцать пять лет она полностью отбросит видимость правления через мужа и сыновей и взойдёт на престол под собственным именем — единственная женщина за более чем две тысячи лет китайской имперской истории, сделавшая это.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "Wu Zetian Becomes Empress Consort",
+      "name_ru": "У Цзэтянь становится императрицей-консортом",
+      "source": "https://en.wikipedia.org/wiki/Wu_Zetian",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Wu Zetian",
+        "Women",
+        "Court",
+        "Politics"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0660",
+      "description": "A combined Tang and Silla (新罗) force invades the Korean kingdom of Baekje (百济) by land and sea, capturing its capital Sabi and ending a six-century-old state as part of Tang China's broader campaign to dominate the Korean peninsula alongside its Silla ally. Tang general Su Dingfang leads the naval expedition across the Yellow Sea while Silla forces attack overland, coordinating a pincer that Baekje's defenses cannot withstand.\n\nThe conquest sets up an eight-year Tang-Silla campaign against the peninsula's remaining independent power, Goguryeo, and briefly extends direct Tang administrative control over parts of Korea before Silla, having used Tang power to eliminate its rivals, turns on its former ally and drives Tang forces off the peninsula entirely by 676 — a pattern of using and then discarding Chinese military backing that recurs throughout Korean dealings with Tang.",
+      "description_ru": "Объединённые войска Тан и Силла (新罗) вторгаются в корейское царство Пэкче (百济) с суши и моря, захватывая его столицу Сабисон и уничтожая государство с шестивековой историей в рамках более широкой кампании танского Китая по установлению контроля над Корейским полуостровом вместе с союзной Силлой. Танский полководец Су Динфан ведёт морскую экспедицию через Жёлтое море, пока войска Силла наступают по суше, координируя клещи, устоять перед которыми оборона Пэкче не может.\n\nЗавоевание открывает восьмилетнюю совместную кампанию Тан и Силла против последней независимой силы полуострова, Когурё, и на короткое время распространяет прямое танское административное управление на часть Кореи, прежде чем Силла, использовав танскую мощь для устранения соперников, обращается против бывшего союзника и полностью вытесняет танские войска с полуострова к 676 году — модель использования и последующего отказа от китайской военной поддержки, повторяющаяся на протяжении всей корейской истории отношений с Тан.",
+      "era": "AD",
+      "latitude": 36.2758,
+      "longitude": 126.9099,
+      "name": "Tang-Silla Alliance Conquers Baekje",
+      "name_ru": "Союз Тан и Силла завоёвывает Пэкче",
+      "source": "https://en.wikipedia.org/wiki/Baekje%E2%80%93Tang_War",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Military",
+        "Korea",
+        "Baekje",
+        "Silla",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0675",
+      "description": "Stonecutters complete the Fengxian Temple (奉先寺) at the Longmen Grottoes (龙门石窟) near Luoyang, an open-air Buddhist shrine dominated by a seventeen-meter Vairocana Buddha carved directly into the limestone cliff face, flanked by bodhisattvas, guardian kings, and heavenly generals trampling demons underfoot. Court records credit Empress Wu Zetian, ruling jointly with the ailing Gaozong from Luoyang, with substantial patronage of the project — later tradition holds that the serene, faintly smiling Vairocana face was deliberately modeled on Wu's own features, an act of religious self-promotion consistent with her broader use of Buddhist prophecy to legitimize female rule.\n\nThe Fengxian complex marks the artistic peak of three centuries of continuous grotto carving at Longmen, a site where more than one hundred thousand Buddhist images were eventually cut into two limestone cliffs facing each other across the Yi River, and it stands as one of the finest surviving examples of Tang Buddhist sculpture anywhere in China.",
+      "description_ru": "Камнетёсы завершают храм Фэнсянь (奉先寺) в пещерах Лунмэнь (龙门石窟) близ Лояна — открытое буддийское святилище, в центре которого высечен прямо в известняковой скале семнадцатиметровый Будда Вайрочана, окружённый бодхисаттвами, царями-хранителями и небесными полководцами, попирающими демонов. Придворные записи приписывают императрице У Цзэтянь, правившей совместно с болезненным Гаоцзуном из Лояна, значительное покровительство проекту — позднейшая традиция утверждает, что безмятежный, чуть улыбающийся лик Вайрочаны намеренно вылеплен по чертам самой У, что согласуется с её более широким использованием буддийских пророчеств для легитимации женской власти.\n\nКомплекс Фэнсянь знаменует художественную вершину трёх веков непрерывной резьбы в Лунмэне — месте, где в конечном счёте в двух известняковых утёсах, обращённых друг к другу через реку И, было высечено более ста тысяч буддийских изображений, — и остаётся одним из лучших сохранившихся образцов танской буддийской скульптуры во всём Китае.",
+      "era": "AD",
+      "latitude": 34.5561,
+      "longitude": 112.4692,
+      "name": "The Fengxian Temple at Longmen Is Completed",
+      "name_ru": "Завершено строительство храма Фэнсянь в Лунмэне",
+      "source": "https://en.wikipedia.org/wiki/Longmen_Grottoes",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Wu Zetian",
+        "Buddhism",
+        "Art",
+        "Sculpture",
+        "Luoyang"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0680",
+      "description": "Examiners administering the jinshi (进士) track of the imperial examination — already the most prestigious of several degree paths open to candidates regardless of family background — begin formally weighting skill at composing regulated verse alongside classical scholarship and policy essays, cementing poetry as a practical career skill rather than a purely aesthetic pursuit. A young man of modest background who could turn a technically flawless couplet under exam conditions had a genuine route into the imperial bureaucracy that birth alone could not guarantee.\n\nThe reform, which later intensifies further under Xuanzong and Wu Zetian's expanded examination system, helps explain why Tang China produces such an enormous body of accomplished verse from officials, provincial governors, and failed examination candidates alike — nearly the entire literate bureaucratic class trains rigorously in poetic composition as a condition of career advancement, embedding literary skill into the machinery of the state itself rather than leaving it to leisured aristocrats alone.",
+      "description_ru": "Экзаменаторы, проводящие экзамен на степень цзиньши (进士) — уже самую престижную из нескольких экзаменационных ступеней, открытых кандидатам независимо от происхождения, — начинают формально учитывать умение слагать регулярные стихи наравне с классической учёностью и политическими сочинениями, закрепляя поэзию как практический профессиональный навык, а не чисто эстетическое занятие. Юноша скромного происхождения, способный сложить технически безупречное двустишие в условиях экзамена, получал подлинный путь в имперскую бюрократию, которого одно лишь происхождение обеспечить не могло.\n\nЭта реформа, которая позже усиливается ещё больше при расширенной экзаменационной системе Сюаньцзуна и У Цзэтянь, отчасти объясняет, почему танский Китай производит столь огромный корпус искусных стихов от чиновников, провинциальных губернаторов и провалившихся кандидатов в равной мере — почти весь грамотный бюрократический класс проходит строгую подготовку в стихосложении как условие карьерного роста, встраивая литературное мастерство в саму государственную машину, а не оставляя его лишь досужим аристократам.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "Poetry Composition Is Added to the Imperial Examinations",
+      "name_ru": "Сочинение стихов включено в государственные экзамены",
+      "source": "https://en.wikipedia.org/wiki/Imperial_examination",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Examination",
+        "Poetry",
+        "Bureaucracy",
+        "Reform"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.10.0690",
+      "description": "Wu Zetian (武则天), having ruled through two of her own sons as regent and dowager empress since Gaozong's death, sets the pretense aside entirely, deposes her son Emperor Ruizong, and proclaims herself emperor in her own right, founding a new dynasty she names Zhou (周) after the ancient dynasty of Confucian legend and moving the capital to Luoyang. She circulates a Buddhist sutra prophesying the imminent rule of a female bodhisattva-king to give her unprecedented seizure of the throne religious legitimacy that Confucian tradition, which bars women from sovereign rule outright, could never supply.\n\nShe governs for fifteen years through a secret police apparatus that terrorizes the old aristocracy, but also through genuine administrative competence — expanding the imperial examination system to recruit officials from outside the entrenched noble clans, patronizing Buddhist institutions on a massive scale, and keeping the empire stable and prosperous. She remains, to this day, the only woman to have ruled China as sovereign emperor in her own name across more than two thousand years of imperial history.",
+      "description_ru": "У Цзэтянь (武则天), правившая через двух собственных сыновей в качестве регентши и вдовствующей императрицы со времени смерти Гаоцзуна, окончательно отбрасывает видимость, свергает сына, императора Жуйцзуна, и провозглашает себя императором в собственном праве, основав новую династию, названную Чжоу (周) в честь древней династии конфуцианской легенды, и перенеся столицу в Лоян. Она распространяет буддийскую сутру, пророчащую скорое правление женщины-бодхисаттвы-царя, чтобы придать своему беспрецедентному захвату престола религиозную легитимность, которую конфуцианская традиция, вовсе запрещающая женщинам суверенную власть, дать не могла.\n\nОна правит пятнадцать лет через аппарат тайной полиции, терроризирующий старую знать, но также благодаря подлинной административной компетентности — расширяя систему государственных экзаменов для набора чиновников вне укоренившихся знатных кланов, покровительствуя буддийским учреждениям в огромных масштабах и сохраняя империю стабильной и процветающей. Она остаётся по сей день единственной женщиной, правившей Китаем как суверенный император под собственным именем за более чем две тысячи лет имперской истории.",
+      "era": "AD",
+      "latitude": 34.6678,
+      "longitude": 112.4158,
+      "name": "Wu Zetian Proclaims Herself Emperor",
+      "name_ru": "У Цзэтянь провозглашает себя императором",
+      "source": "https://en.wikipedia.org/wiki/Wu_Zetian",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Wu Zetian",
+        "Women",
+        "Dynasty",
+        "Zhou",
+        "Luoyang"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0700",
+      "description": "Kilns supplying Chang'an and Luoyang's wealthy elite perfect sancai (三彩), \"three-color\" lead-glazed earthenware, running amber, green, and cream glazes together over unglazed biscuit so the colors bleed and pool into unpredictable, painterly patterns during firing. Workshops mass-produce sancai as burial goods rather than everyday tableware, modeling camels loaded with Central Asian trade goods, foreign merchants with deep-set eyes and heavy beards, dancing court ladies, and fierce guardian tomb beasts meant to protect the deceased in the afterlife.\n\nThe camel and foreign-merchant figures in particular record, in fired clay, exactly the kind of Silk Road cosmopolitanism visible in Chang'an's Western Market, providing archaeologists with a durable visual catalogue of who traveled the trade routes into Tang China and what they carried. Sancai wares are exported themselves along the same routes, influencing ceramic traditions from Korea and Japan to the Islamic world, where later potters develop their own three-color glazing traditions in imitation.",
+      "description_ru": "Печи, снабжающие богатую элиту Чанъани и Лояна, доводят до совершенства саньцай (三彩), «трёхцветную» свинцово-глазурованную керамику, покрывая необожжённый черепок янтарной, зелёной и кремовой глазурями вместе, так что при обжиге цвета растекаются и сливаются в непредсказуемые, почти живописные узоры. Мастерские массово производят саньцай как погребальный инвентарь, а не повседневную посуду, лепя верблюдов, гружёных среднеазиатскими товарами, иноземных купцов с глубоко посаженными глазами и густыми бородами, танцующих придворных дам и свирепых зверей-стражей гробниц, призванных защищать усопшего в загробном мире.\n\nОсобенно фигурки верблюдов и иноземных купцов запечатлевают в обожжённой глине именно тот тип космополитизма Шёлкового пути, что виден на Западном рынке Чанъани, давая археологам прочный визуальный каталог того, кто путешествовал по торговым путям в танский Китай и что они везли. Изделия саньцай сами экспортируются по тем же путям, влияя на керамические традиции от Кореи и Японии до исламского мира, где позднейшие гончары развивают собственные традиции трёхцветной глазури в подражание им.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "Tang Sancai Tomb Figurines Reach Their Peak",
+      "name_ru": "Танские фигурки саньцай достигают расцвета",
+      "source": "https://en.wikipedia.org/wiki/Sancai",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Sancai",
+        "Pottery",
+        "Art",
+        "Craftsmanship",
+        "Trade"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.03.0705",
+      "description": "A palace coup led by ministers Zhang Jianzhi and general Li Duozuo, backed by the imperial guard, forces the elderly and ailing Wu Zetian to abdicate and reinstates her son Zhongzong as Tang emperor, ending the fifteen-year Zhou interregnum and restoring the dynastic name, capital at Chang'an, and formal institutions Wu Zetian had set aside. Wu dies within the year, and later Tang historiography works to erase and delegitimize her reign, striking her from the official dynastic sequence even as later generations remain fascinated by the woman who ruled a Confucian empire in her own name.\n\nThe restoration proves less stable than the reign it replaces — Zhongzong is dominated and reportedly poisoned by his own wife Empress Wei, who is attempting to repeat Wu Zetian's path to power, and it takes another palace coup in 710, this one led by the future Emperor Xuanzong, to finally settle Tang succession and open the path to the dynasty's second golden age.",
+      "description_ru": "Дворцовый переворот во главе с министром Чжан Цзяньчжи и полководцем Ли Дуоцзо, поддержанный императорской гвардией, вынуждает престарелую и болезненную У Цзэтянь отречься и восстанавливает на престоле её сына Чжунцзуна как танского императора, завершая пятнадцатилетнее междуцарствие Чжоу и возвращая династическое имя, столицу в Чанъане и формальные учреждения, отменённые У Цзэтянь. У умирает в том же году, а позднейшая танская историография старается стереть и делегитимизировать её правление, вычёркивая её из официальной династической последовательности, хотя последующие поколения остаются заворожены женщиной, правившей конфуцианской империей под собственным именем.\n\nРеставрация оказывается менее устойчивой, чем правление, которое она сменила: Чжунцзуна подчиняет и, по некоторым сведениям, отравляет собственная жена, императрица Вэй, пытающаяся повторить путь У Цзэтянь к власти, и лишь новый дворцовый переворот в 710 году, на этот раз во главе с будущим императором Сюаньцзуном, окончательно устанавливает танское престолонаследие и открывает путь ко второму золотому веку династии.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "The Tang Dynasty Is Restored",
+      "name_ru": "Восстановление династии Тан",
+      "source": "https://en.wikipedia.org/wiki/Emperor_Zhongzong_of_Tang",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Restoration",
+        "Wu Zetian",
+        "Coup",
+        "Succession"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0712",
+      "description": "Li Longji (李隆基) takes the throne as Emperor Xuanzong (玄宗) after clearing the last of the palace factions that destabilized succession following Wu Zetian's fall, and begins the Kaiyuan era (开元, \"Opening of Prime\"), a nearly three-decade stretch of stable, competent governance that later Chinese tradition remembers as the high point of the entire dynasty. He staffs his government with capable chief ministers, reforms taxation and the military recruitment system, and reduces the size of the standing bureaucracy while expanding the empire's road and canal network for grain transport.\n\nUnder Xuanzong's early rule Tang China reaches its greatest territorial extent and its most self-confident cosmopolitanism, with Chang'an functioning as the largest and most diverse city on Earth. The prosperity, cultural flourishing, and imperial overreach of the Kaiyuan era together set up both the poetic golden age of the mid-eighth century and the catastrophic rebellion that will end it.",
+      "description_ru": "Ли Лунцзи (李隆基) восходит на престол как император Сюаньцзун (玄宗), устранив последние дворцовые группировки, дестабилизировавшие престолонаследие после падения У Цзэтянь, и открывает эру Кайюань (开元, «Открытие изначального») — почти три десятилетия стабильного, компетентного правления, которое позднейшая китайская традиция помнит как вершину всей династии. Он подбирает способных главных министров, реформирует налогообложение и систему военного набора, сокращает разросшуюся бюрократию, одновременно расширяя дорожную и канальную сеть для перевозки зерна.\n\nПри раннем правлении Сюаньцзуна танский Китай достигает наибольшего территориального размаха и наиболее уверенного космополитизма, а Чанъань функционирует как крупнейший и самый разнообразный город на Земле. Процветание, культурный расцвет и имперское перенапряжение эры Кайюань вместе закладывают основу как поэтического золотого века середины VIII века, так и катастрофического восстания, которое его завершит.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "Xuanzong's Reign Begins the Kaiyuan Golden Age",
+      "name_ru": "Начало правления Сюаньцзуна открывает золотой век Кайюань",
+      "source": "https://en.wikipedia.org/wiki/Emperor_Xuanzong_of_Tang",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Xuanzong",
+        "Golden Age",
+        "Reform",
+        "Prosperity"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0717",
+      "description": "Japan dispatches one of its largest kentōshi (遣唐使), \"Tang embassy\" missions, sending several hundred officials, students, and Buddhist monks across the dangerous sea crossing to study Tang law, Buddhism, city planning, and court ritual at the source. Among the students on this and nearby missions is Abe no Nakamaro, who passes the Tang civil examination, serves for decades in the Tang bureaucracy under a Chinese name, and never manages to return home, becoming a celebrated case of full cultural assimilation.\n\nOver roughly two and a half centuries of intermittent missions beginning in 630, Japanese embassies carry back to Nara and Heian Japan the Tang legal code as the model for Japan's own ritsuryo system, the grid-planned layout of Chang'an as the template for the Japanese capitals at Nara and Kyoto, Chinese writing and Buddhist scripture, and countless smaller cultural borrowings from tea to court dress, making the kentōshi missions one of history's most concentrated and consequential programs of deliberate cultural transmission between two societies.",
+      "description_ru": "Япония направляет одно из своих крупнейших посольств кэнтоси (遣唐使), «посольство в Тан», отправив несколько сотен чиновников, студентов и буддийских монахов через опасный морской переход, чтобы изучить у первоисточника танское право, буддизм, градостроительство и придворный ритуал. Среди студентов этой и соседних миссий — Абэ-но Накамаро, который сдаёт танский государственный экзамен, десятилетиями служит в танской бюрократии под китайским именем и так и не может вернуться на родину, став прославленным примером полной культурной ассимиляции.\n\nЗа примерно два с половиной века периодических миссий, начавшихся в 630 году, японские посольства привозят в Нара и хэйанскую Японию танский свод законов как образец для собственной японской системы рицурё, сетчатую планировку Чанъани как образец для японских столиц Нара и Киото, китайскую письменность и буддийские писания и бесчисленные более мелкие культурные заимствования — от чая до придворного одеяния, — делая миссии кэнтоси одной из самых сосредоточенных и значимых в истории программ намеренной культурной передачи между двумя обществами.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "Japanese Embassies to Tang China Peak",
+      "name_ru": "Расцвет японских посольств в танском Китае",
+      "source": "https://en.wikipedia.org/wiki/Japanese_missions_to_Tang_China",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Japan",
+        "Diplomacy",
+        "Culture",
+        "Buddhism",
+        "Exchange"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0725",
+      "description": "The Buddhist monk and astronomer Yi Xing (一行), commissioned by Emperor Xuanzong to reform the imperial calendar, organizes a coordinated survey using thirteen observation stations stretching from Jiaozhou in modern Vietnam to a site south of Lake Baikal, each measuring the sun's shadow length and the elevation of the pole star on the same days at widely separated latitudes. By comparing shadow measurements against the straight-line ground distance between stations, Yi Xing calculates how much the shadow's length changes per fixed unit of north-south distance — the first scientifically organized measurement of the length of a meridian arc in world history, conducted without any awareness that the Earth was a sphere.\n\nYi Xing folds the results into a sweeping calendar reform, the Dayan calendar, and also builds an improved astronomical clock and armillary sphere driven by a water-powered escapement mechanism, an early ancestor of the mechanical clock escapement that would not appear in Europe for another six centuries. His meridian survey stands as one of the most methodologically sophisticated scientific undertakings anywhere in the eighth-century world.",
+      "description_ru": "Буддийский монах и астроном И Син (一行), которому император Сюаньцзун поручает реформу императорского календаря, организует скоординированную съёмку с тринадцатью наблюдательными пунктами, растянувшимися от Цзяочжоу на территории современного Вьетнама до места южнее озера Байкал, каждый из которых в одни и те же дни измеряет длину солнечной тени и высоту Полярной звезды на далеко разнесённых широтах. Сравнивая измерения тени с известным расстоянием по прямой между пунктами, И Син вычисляет, насколько меняется длина тени на фиксированную единицу расстояния север-юг, — первое в мировой истории научно организованное измерение длины дуги меридиана, проведённое без какого-либо понимания того, что Земля представляет собой шар.\n\nИ Син включает результаты в масштабную календарную реформу, календарь Даянь, а также строит усовершенствованные астрономические часы и армиллярную сферу с водяным приводом со спусковым механизмом — раннего предка механического часового спуска, который не появится в Европе ещё шесть столетий. Его меридианная съёмка остаётся одним из методологически наиболее изощрённых научных начинаний во всём мире VIII века.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "Yi Xing Measures the Length of a Meridian Arc",
+      "name_ru": "И Син измеряет длину дуги меридиана",
+      "source": "https://en.wikipedia.org/wiki/Yi_Xing",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Science",
+        "Astronomy",
+        "Yi Xing",
+        "Innovation"
+      ],
+      "type": "scientific"
+    },
+    {
+      "date": "01.01.0730",
+      "description": "Chang'an's population, swollen by merchants, monks, students, envoys, and refugees from across Asia, passes roughly one million within its walls and suburbs, making it by a wide margin the largest and most cosmopolitan city on Earth during the Kaiyuan era. The city is laid out on a rigid grid of 108 walled wards, each locked at night to a drumbeat curfew, with the enormous Western Market alone hosting Sogdian, Persian, Arab, Turkic, Indian, Japanese, and Korean merchants trading silk, spices, glassware, and horses under a single roof of stalls.\n\nForeign residents live openly as Zoroastrian, Manichaean, and Nestorian Christian communities alongside the dominant Buddhist and Daoist population, foreign fashions and foreign music from Central Asia become genuinely fashionable among the Chinese elite rather than merely tolerated, and Chang'an's grid-and-ward city plan is copied wholesale by Japan's own capitals at Nara and later Kyoto, transmitting Tang urban design across the East Asian world.",
+      "description_ru": "Население Чанъани, растущее за счёт торговцев, монахов, студентов, послов и беженцев со всей Азии, превышает миллион человек в пределах стен и предместий, делая его с большим отрывом крупнейшим и самым космополитичным городом на Земле в эпоху Кайюань. Город спланирован по жёсткой сетке из 108 обнесённых стенами кварталов, каждый из которых запирается на ночь под барабанный сигнал комендантского часа, а один лишь огромный Западный рынок принимает согдийских, персидских, арабских, тюркских, индийских, японских и корейских купцов, торгующих шёлком, специями, стеклом и лошадьми под одной крышей торговых рядов.\n\nИностранные жители открыто живут зороастрийскими, манихейскими и несторианскими христианскими общинами наряду с преобладающим буддийским и даосским населением, иноземные моды и музыка из Средней Азии становятся по-настоящему модными среди китайской элиты, а не просто терпимыми, а сама сетчато-квартальная планировка Чанъани целиком копируется японскими столицами в Наре и позднее Киото, перенося танский градостроительный образец по всему восточноазиатскому миру.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "Chang'an Becomes the World's Largest City",
+      "name_ru": "Чанъань становится крупнейшим городом мира",
+      "source": "https://en.wikipedia.org/wiki/Chang%27an",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Chang'an",
+        "Cosmopolitan",
+        "Trade",
+        "Silk Road",
+        "Urban planning"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0736",
+      "description": "Polo (击鞠, jiju, or by its Persian-derived name, buluoqiu) — brought east along the Silk Road from Sassanid Persia through Central Asia — becomes a fashionable obsession among Tang aristocrats, with emperors including Xuanzong himself playing on purpose-built palace grounds and commissioning polo fields, and court poets writing verses celebrating star players' horsemanship. Tomb murals and Tang sancai ceramic figurines from this period frequently depict mounted polo players in mid-swing, immortalizing the sport's popularity in the archaeological record.\n\nUnusually for a physically demanding equestrian sport, Tang women of the aristocracy play polo too, sometimes on donkeys rather than horses in a gentler variant, a detail that reflects the relatively unrestricted mobility and public visibility Tang elite women enjoy compared to women in many later Chinese dynasties. Polo's popularity at court doubles as informal cavalry training, and military officials are known to have used their skill on the polo field as evidence of fitness for military command.",
+      "description_ru": "Поло (击鞠, цзицзюй, или по персидскому названию «булоцю») — принесённое на восток по Шёлковому пути из сасанидской Персии через Среднюю Азию, — становится модной страстью танской знати: императоры, включая самого Сюаньцзуна, играют на специально построенных дворцовых полях и заказывают устройство площадок для игры, а придворные поэты слагают стихи, восхваляющие мастерство верховой езды лучших игроков. Гробничные фрески и керамические фигурки танского саньцай этой эпохи часто изображают всадников-игроков в поло в момент удара, увековечивая популярность спорта в археологических находках.\n\nНеобычно для физически тяжёлого конного спорта, знатные танские женщины тоже играют в поло, иногда на ослах, а не на лошадях, в более мягком варианте игры, — деталь, отражающая относительно свободную подвижность и публичную видимость танских знатных женщин по сравнению с женщинами многих позднейших китайских династий. Популярность поло при дворе служит и неформальной кавалерийской подготовкой, а мастерство на поле для поло, как известно, использовалось военными чиновниками как довод в пользу пригодности к военному командованию.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "Polo Becomes a Craze at the Tang Court",
+      "name_ru": "Поло становится повальным увлечением при танском дворе",
+      "source": "https://en.wikipedia.org/wiki/Polo#China",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Sport",
+        "Polo",
+        "Women",
+        "Court",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0740",
+      "description": "Tang court paintings, tomb murals, and figurines from the Kaiyuan and Tianbao eras repeatedly show aristocratic women riding horses astride rather than sidesaddle, playing polo, hunting with falcons, and — most strikingly to later Chinese observers — wearing men's riding robes and boots as ordinary fashion rather than costume. Princess Taiping and other elite women hold genuine political influence at court, and women of good family circulate in public with a freedom of movement and dress that later Song and Ming dynasty commentators, writing after foot-binding and stricter seclusion norms had taken hold, view with a mixture of fascination and disapproval.\n\nHistorians treat Tang women's relative social latitude as connected to the dynasty's partial Xianbei steppe heritage through its ruling Li family, whose Central Asian frontier culture placed less emphasis on female seclusion than mainstream Han Confucian tradition, and to the precedent Wu Zetian's own rule as sovereign emperor set for female visibility at the highest level of the state. The era stands as a documented high-water mark for women's social freedom in premodern Chinese history, one that later dynasties do not sustain.",
+      "description_ru": "Танские придворные картины, гробничные фрески и статуэтки эпох Кайюань и Тяньбао неоднократно изображают знатных женщин, скачущих верхом по-мужски, а не боком, играющих в поло, охотящихся с соколами и — что особенно поражает позднейших китайских наблюдателей — носящих мужские дорожные халаты и сапоги как обычную моду, а не костюм. Принцесса Тайпин и другие знатные женщины обладают подлинным политическим влиянием при дворе, а женщины из хороших семей появляются на публике со свободой передвижения и одеяния, которую позднейшие сунские и минские комментаторы, писавшие уже после утверждения бинтования ног и более строгих норм затворничества, воспринимают со смесью восхищения и неодобрения.\n\nИсторики связывают относительную социальную свободу танских женщин с частично сяньбийским степным наследием правящего дома Ли, чья центральноазиатская пограничная культура придавала меньше значения женскому затворничеству, чем господствующая ханьская конфуцианская традиция, а также с прецедентом, который создало собственное правление У Цзэтянь как суверенного императора для женской видимости на высшем уровне государства. Эта эпоха остаётся задокументированным пиком социальной свободы женщин в домодерновой китайской истории — пиком, который последующие династии не сохраняют.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "Tang Women Ride, Hunt, and Dress in Men's Clothes",
+      "name_ru": "Танские женщины ездят верхом, охотятся и носят мужскую одежду",
+      "source": "https://en.wikipedia.org/wiki/Women_in_the_Tang_dynasty",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Women",
+        "Fashion",
+        "Daily life",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0744",
+      "description": "Li Bai (李白), already famous across the empire for verses celebrating wine, wandering, and Daoist immortality with an effortless, almost reckless brilliance, meets the younger, more disciplined Du Fu (杜甫) in Luoyang, and the two poets travel and drink together for a time before their paths diverge. Between them they represent the two poles of a Tang poetic tradition that later Chinese literary history treats as the unmatched summit of the classical verse form — Li Bai the romantic genius who wrote as if poetry cost him nothing, Du Fu the meticulous craftsman whose later poems chronicle the An Lushan Rebellion's devastation with a moral seriousness Li Bai never attempted.\n\nBoth men fail at the conventional path to court office that the examination system was meant to reward, and both die in relative obscurity, but their combined body of some three thousand surviving poems becomes required memorization for every literate Chinese person for the next twelve centuries. The Complete Tang Poems, an eighteenth-century compilation of surviving verse from the dynasty, runs to roughly 49,000 poems by more than 2,200 poets — testimony to how thoroughly poetry saturated Tang educated life, not just its two most famous practitioners.",
+      "description_ru": "Ли Бо (李白), уже прославленный по всей империи стихами, воспевающими вино, странствия и даосское бессмертие с лёгкой, почти безрассудной гениальностью, встречает в Лояне младшего, более дисциплинированного Ду Фу (杜甫), и некоторое время поэты странствуют и пьют вместе, прежде чем их пути расходятся. Вдвоём они представляют два полюса танской поэтической традиции, которую позднейшая китайская литературная история считает непревзойдённой вершиной классической стихотворной формы, — Ли Бо, романтический гений, писавший так, будто поэзия не стоила ему никаких усилий, и Ду Фу, скрупулёзный мастер, чьи поздние стихи летописуют разрушения восстания Ань Лушаня с моральной серьёзностью, к которой Ли Бо никогда не стремился.\n\nОба терпят неудачу на обычном пути к придворной должности, который должна была вознаграждать экзаменационная система, и оба умирают в относительной безвестности, но их совокупное наследие — около трёх тысяч сохранившихся стихотворений — становится обязательным для заучивания наизусть каждым грамотным китайцем на следующие двенадцать столетий. «Полное собрание танских стихов», составленное в XVIII веке из сохранившихся стихов эпохи, насчитывает около 49000 стихотворений более чем 2200 поэтов — свидетельство того, насколько глубоко поэзия пропитывала образованную жизнь Тан, а не только двух её самых знаменитых представителей.",
+      "era": "AD",
+      "latitude": 34.6678,
+      "longitude": 112.4158,
+      "name": "Li Bai and Du Fu Meet — the Golden Age of Tang Poetry",
+      "name_ru": "Ли Бо и Ду Фу встречаются — золотой век танской поэзии",
+      "source": "https://en.wikipedia.org/wiki/Li_Bai",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Poetry",
+        "Li Bai",
+        "Du Fu",
+        "Literature",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0745",
+      "description": "Yang Yuhuan (杨玉环), formerly married to one of Xuanzong's own sons, is brought into the aging emperor's household and granted the rank of Guifei (贵妃), the highest grade of imperial consort, becoming his consuming favorite in the twilight of the Kaiyuan golden age. Court chroniclers and later poets describe Xuanzong showering her extended family with offices and privilege — most damagingly her distant cousin Yang Guozhong, who rises to chief minister largely on the strength of the connection and proves catastrophically incompetent at managing the frontier tensions building toward crisis.\n\nYang Guifei becomes one of the most mythologized women in Chinese literary history, celebrated in Bai Juyi's narrative poem \"Song of Everlasting Sorrow\" as the embodiment of both consuming imperial love and the political blindness it enables — later tradition holds Xuanzong grew so absorbed in her that he neglected the state business that had made his early reign so successful, setting the stage for the rebellion that destroys them both.",
+      "description_ru": "Ян Юйхуань (杨玉环), прежде состоявшая в браке с одним из сыновей Сюаньцзуна, вводится в дом стареющего императора и получает ранг гуйфэй (贵妃), высшую степень императорской наложницы, становясь его безраздельной фавориткой на закате золотого века Кайюань. Придворные летописцы и позднейшие поэты описывают, как Сюаньцзун осыпает её родню должностями и привилегиями — губительнее всего в случае с её дальним родственником Ян Гочжуном, поднявшимся до первого министра во многом благодаря этой связи и оказавшимся катастрофически некомпетентным в управлении нарастающей пограничной напряжённостью.\n\nЯн Гуйфэй становится одной из самых мифологизированных женщин в китайской литературной истории, воспетой в поэме Бо Цзюйи «Вечная печаль» как воплощение и всепоглощающей императорской любви, и порождаемой ею политической слепоты — позднейшая традиция утверждает, что Сюаньцзун настолько увлёкся ею, что забросил государственные дела, некогда обеспечившие успех его раннего правления, подготовив почву для восстания, которое погубит их обоих.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "Yang Guifei Becomes Xuanzong's Favored Consort",
+      "name_ru": "Ян Гуйфэй становится любимой наложницей Сюаньцзуна",
+      "source": "https://en.wikipedia.org/wiki/Yang_Guifei",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Yang Guifei",
+        "Xuanzong",
+        "Court",
+        "Women",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.07.0751",
+      "description": "An Abbasid Arab army under Ziyad ibn Salih defeats a Tang expeditionary force commanded by the Korean-born general Gao Xianzhi near the Talas River in Central Asia, when Karluk mercenaries fighting alongside the Tang switch sides mid-battle. The defeat halts further Tang westward expansion into Central Asia and marks the effective end of direct Chinese military presence in the region, a vacuum the Abbasid Caliphate and later Turkic and Islamic states fill in the centuries that follow.\n\nAmong the Tang prisoners marched back to Samarkand, later Arab accounts report, are skilled papermakers, and Chinese papermaking technology — closely guarded for centuries — spreads into the Islamic world within a generation, reaching Baghdad by the 790s and Europe through Muslim Spain centuries later. A single battle fought over steppe politics ends up transmitting one of China's most consequential inventions to the rest of the world, arguably a bigger long-term consequence than the battle's military outcome itself.",
+      "description_ru": "Арабское аббасидское войско под командованием Зияда ибн Салиха разбивает танский экспедиционный корпус во главе с полководцем корейского происхождения Гао Сяньчжи близ реки Талас в Средней Азии, когда карлукские наёмники, сражавшиеся на стороне Тан, в разгар битвы переходят на другую сторону. Поражение останавливает дальнейшую танскую экспансию в Среднюю Азию и фактически завершает прямое китайское военное присутствие в регионе — вакуум, который в последующие века заполняют Аббасидский халифат, а позже тюркские и исламские государства.\n\nСреди танских пленников, уведённых в Самарканд, по позднейшим арабским сведениям, оказываются искусные бумажных дел мастера, и китайская технология изготовления бумаги, веками державшаяся в строгом секрете, распространяется в исламском мире в течение одного поколения, достигнув Багдада к 790-м годам и Европы через мусульманскую Испанию столетия спустя. Одна битва, разыгранная из-за степной политики, в итоге передаёт остальному миру одно из самых значительных изобретений Китая — возможно, более весомое долгосрочное последствие, чем сам военный исход сражения.",
+      "era": "AD",
+      "latitude": 42.9,
+      "longitude": 71.3667,
+      "name": "The Battle of Talas Sends Chinese Papermaking West",
+      "name_ru": "Битва при Таласе отправляет китайское бумагоделие на запад",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Talas",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Military",
+        "Talas",
+        "Papermaking",
+        "Silk Road",
+        "Technology"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.12.0755",
+      "description": "An Lushan (安禄山), a general of Sogdian-Turkic descent who had risen to command roughly a sixth of the empire's entire military as governor of three northeastern frontier provinces, rebels against Xuanzong and marches on the twin capitals, declaring himself emperor of a new Yan dynasty after seizing Luoyang and then Chang'an. Xuanzong flees west toward Sichuan, and along the road his own mutinous soldiers force him to have Yang Guifei's cousin Yang Guozhong killed and then Yang Guifei herself strangled at Mawei, blaming the consort's family for the catastrophe.\n\nThe eight-year war that follows, fought with help from Uyghur cavalry mercenaries whom the Tang court pays in silk and grants license to plunder captured cities, kills an almost unimaginable number of people — census records show the empire's registered population collapsing from roughly 53 million before the rebellion to under 17 million after, a figure that reflects mass death, displacement, and collapsed administration rather than population decline alone. The Tang dynasty survives the rebellion but never fully recovers central authority, ceding effective autonomy to regional military governors for the remaining century and a half of its existence.",
+      "description_ru": "Ань Лушань (安禄山), полководец согдийско-тюркского происхождения, поднявшийся до командования примерно шестой частью всей военной мощи империи в должности губернатора трёх северо-восточных пограничных провинций, восстаёт против Сюаньцзуна и идёт на обе столицы, провозгласив себя императором новой династии Янь после захвата Лояна, а затем Чанъани. Сюаньцзун бежит на запад, в Сычуань, и по дороге его собственные взбунтовавшиеся солдаты вынуждают его казнить кузена Ян Гуйфэй, Ян Гочжуна, а затем удушить саму Ян Гуйфэй на склоне Мавэй, возложив на семью наложницы вину за катастрофу.\n\nПоследовавшая восьмилетняя война, в которой участвуют наёмные уйгурские конники, которым танский двор платит шёлком и разрешает грабить захваченные города, уносит почти невообразимое число жизней — переписи показывают падение зарегистрированного населения империи примерно с 53 миллионов до восстания до менее чем 17 миллионов после, цифра, отражающая массовую гибель, переселение и распад администрации, а не только демографический спад. Танская династия переживает восстание, но так и не восстанавливает полностью центральную власть, уступая фактическую автономию региональным военным губернаторам на оставшиеся полтора века своего существования.",
+      "era": "AD",
+      "latitude": 34.6678,
+      "longitude": 112.4158,
+      "name": "The An Lushan Rebellion Shatters the Tang Golden Age",
+      "name_ru": "Восстание Ань Лушаня разрушает золотой век Тан",
+      "source": "https://en.wikipedia.org/wiki/An_Lushan_Rebellion",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "War",
+        "An Lushan",
+        "Rebellion",
+        "Decline",
+        "Military"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.07.0756",
+      "description": "Fleeing the fallen capital with Xuanzong's court, imperial guardsmen halt the column at the Mawei courier station near Chang'an and refuse to march further until Yang Guifei is put to death, holding her responsible alongside her already-executed cousin Yang Guozhong for the corruption and neglect that let An Lushan's rebellion succeed. Xuanzong, unable to save her without risking the mutiny of his own remaining army, has his eunuch Gao Lishi strangle her with a length of silk in a Buddhist chapel by the road.\n\nThe scene becomes one of the most retold episodes in Chinese literature, most famously in Bai Juyi's \"Song of Everlasting Sorrow,\" written half a century later, which imagines Xuanzong's inconsolable grief and a Daoist priest's supernatural search for Yang Guifei's spirit in the afterlife. The story's staying power lies in its ambiguity — is Yang Guifei a scapegoat sacrificed to a mutinous army, or the emblem of an empire so distracted by love and luxury that it let catastrophe approach unchecked — a tension later paintings, operas, and films continue to explore.",
+      "description_ru": "Отступая со двором Сюаньцзуна из павшей столицы, императорская гвардия останавливает колонну на почтовой станции Мавэй близ Чанъани и отказывается идти дальше, пока Ян Гуйфэй не будет казнена, возлагая на неё, наравне с уже казнённым кузеном Ян Гочжуном, ответственность за коррупцию и небрежение, позволившие восстанию Ань Лушаня преуспеть. Сюаньцзун, не в силах спасти её, не рискуя мятежом оставшегося войска, приказывает евнуху Гао Лиши удушить её шёлковым шнуром в придорожной буддийской часовне.\n\nЭта сцена становится одним из самых пересказываемых эпизодов китайской литературы, наиболее известным по поэме Бо Цзюйи «Вечная печаль», написанной полвека спустя, которая рисует неутешное горе Сюаньцзуна и сверхъестественные поиски даосским жрецом духа Ян Гуйфэй в загробном мире. Живучесть этой истории кроется в её двойственности — была ли Ян Гуйфэй козлом отпущения, принесённым в жертву взбунтовавшемуся войску, или символом империи, настолько отвлечённой любовью и роскошью, что позволила катастрофе беспрепятственно приблизиться, — напряжение, которое продолжают исследовать позднейшие картины, оперы и фильмы.",
+      "era": "AD",
+      "latitude": 34.325,
+      "longitude": 108.478,
+      "name": "Yang Guifei Is Strangled at Mawei",
+      "name_ru": "Ян Гуйфэй удушена на склоне Мавэй",
+      "source": "https://en.wikipedia.org/wiki/Yang_Guifei",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Yang Guifei",
+        "Tragedy",
+        "Rebellion",
+        "Poetry",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0760",
+      "description": "Lu Yu (陆羽), an orphan raised by Buddhist monks who abandoned monastic life to travel the tea-growing regions of southern China, completes the Cha Jing (茶经), the Classic of Tea — the world's first comprehensive treatise on tea cultivation, processing, brewing technique, and the specific utensils proper tea preparation requires. He treats tea drinking not as mere refreshment but as a disciplined aesthetic and almost spiritual practice, prescribing the correct water, the correct heat, and the correct vessel with an exactness previously reserved for ritual or medicine.\n\nThe Classic of Tea transforms tea from a regional southern habit into a defining feature of Tang elite culture and, later, of Chinese civilization broadly, and Lu Yu himself is deified in later centuries as the Sage of Tea (茶圣), with tea merchants burning incense before his image for good fortune. Tea drinking, systematized in Lu Yu's book, spreads to Japan through Buddhist monks within a few decades and eventually develops there into the formal tea ceremony.",
+      "description_ru": "Лу Юй (陆羽), сирота, воспитанный буддийскими монахами и оставивший монашескую жизнь ради странствий по чаевозделывающим областям южного Китая, завершает «Ча цзин» (茶经), «Канон чая» — первый в мире всеобъемлющий трактат о выращивании чая, его обработке, технике заваривания и особой утвари, необходимой для правильного приготовления напитка. Он трактует чаепитие не как простое утоление жажды, а как дисциплинированную эстетическую и почти духовную практику, предписывая правильную воду, правильный жар и правильный сосуд с точностью, прежде свойственной лишь ритуалу или медицине.\n\n«Канон чая» превращает чаепитие из регионального южного обычая в определяющую черту танской элитарной культуры, а затем и китайской цивилизации в целом, а сам Лу Юй в последующие века обожествляется как Чайный мудрец (茶圣), и торговцы чаем воскуряют благовония перед его изображением ради удачи. Чаепитие, систематизированное в книге Лу Юя, за несколько десятилетий распространяется в Японию через буддийских монахов и со временем перерастает там в формальную чайную церемонию.",
+      "era": "AD",
+      "latitude": 30.2084,
+      "longitude": 112.2431,
+      "name": "Lu Yu Writes the Classic of Tea",
+      "name_ru": "Лу Юй пишет «Канон чая»",
+      "source": "https://en.wikipedia.org/wiki/Lu_Yu",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Tea",
+        "Lu Yu",
+        "Culture",
+        "Daily life"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0781",
+      "description": "The Church of the East monk Jingjing (景净) composes and a Nestorian Christian congregation erects a stone stele in Chang'an titled \"Stele to the Propagation in China of the Luminous Religion from Daqin\" (大秦景教流行中國碑), inscribed with over 1,800 Chinese characters plus Syriac text, recounting the arrival of Alopen in 635, the succession of emperors who tolerated the faith, and a summary of basic Christian doctrine phrased heavily in Buddhist and Daoist vocabulary to make it intelligible to a Chinese audience.\n\nThe stele is buried, probably during the Buddhist persecution of 845 that also swept up other foreign religions, and lies hidden for roughly eight centuries until Chinese laborers rediscover it in 1625, at which point Jesuit missionaries newly arrived in China seize on it as proof that Christianity had reached the empire a thousand years before their own mission. It remains the single most important primary source for the history of Christianity in Tang China.",
+      "description_ru": "Монах Церкви Востока Цзинцзин (景净) составляет, а несторианская христианская община воздвигает в Чанъане каменную стелу под названием «Стела о распространении в Китае лучезарного учения из Дациня» (大秦景教流行中國碑), несущую более 1800 китайских иероглифов вместе с сирийским текстом, повествующую о прибытии Алопена в 635 году, о череде императоров, терпевших эту веру, и об основах христианского учения, изложенных в терминах, заимствованных из буддийской и даосской лексики, чтобы сделать их понятными китайской аудитории.\n\nСтела оказывается закопанной, вероятно, во время буддийских гонений 845 года, затронувших и другие иноземные религии, и остаётся скрытой около восьми веков, пока китайские рабочие не находят её вновь в 1625 году, когда недавно прибывшие в Китай иезуитские миссионеры используют её как доказательство того, что христианство достигло империи на тысячу лет раньше их собственной миссии. Она остаётся важнейшим первоисточником по истории христианства в танском Китае.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "The Nestorian Stele Records Christianity's First Century in China",
+      "name_ru": "Несторианская стела фиксирует первый век христианства в Китае",
+      "source": "https://en.wikipedia.org/wiki/Xi%27an_Stele",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Nestorian",
+        "Christianity",
+        "Religious",
+        "Chang'an",
+        "Inscription"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.0808",
+      "description": "A Taoist alchemical text, the Taishang Shengzu Jindan Mijue (太上聖祖金丹秘訣), records a formula mixing six parts sulfur, six parts saltpeter, and one part birthwort herb — the earliest confirmed written reference anywhere to what modern chemistry recognizes as a proto-gunpowder mixture, discovered not through military research but through Taoist alchemists' centuries-long search for an elixir of immortality. Roughly fifty years later another Taoist text, the Zhenyuan miaodao yaolüe, records alchemists accidentally setting their own hands, faces, and workshops on fire while experimenting with similar sulfur-saltpeter mixtures — an early written warning about an explosive property discovered by painful trial and error.\n\nIt takes roughly another century for anyone to apply the mixture to warfare, with the first military use of gunpowder-based weapons recorded around 904 during the empire's final chaotic decade, but the ninth-century alchemical formulas mark the documented beginning of one of the Four Great Inventions later credited to Chinese civilization, born from the same restless alchemical tradition that also drove advances in Tang metallurgy and medicine.",
+      "description_ru": "Даосский алхимический текст «Тайшан шэнцзу цзиньдань мицзюэ» (太上聖祖金丹秘訣) фиксирует рецепт из шести частей серы, шести частей селитры и одной части кирказона — древнейшее подтверждённое письменное упоминание того, что современная химия признаёт прото-порохом, обнаруженное не в ходе военных изысканий, а в результате многовекового поиска даосскими алхимиками эликсира бессмертия. Примерно пятьдесят лет спустя другой даосский текст, «Чжэньюань мяодао яолюэ», фиксирует, как алхимики случайно обжигают себе руки, лица и поджигают собственные мастерские, экспериментируя с подобными серно-селитряными смесями, — раннее письменное предупреждение о взрывоопасном свойстве, открытом путём болезненных проб и ошибок.\n\nПрименить смесь к военному делу удаётся лишь примерно столетие спустя: первое военное применение оружия на основе пороха зафиксировано около 904 года, в последнее хаотичное десятилетие империи, — но алхимические рецепты IX века отмечают документированное начало одного из четырёх великих изобретений, позже приписанных китайской цивилизации, рождённого той же неугомонной алхимической традицией, что двигала и достижения танской металлургии и медицины.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "The Earliest Written Gunpowder Formula Is Recorded",
+      "name_ru": "Записан древнейший письменный рецепт пороха",
+      "source": "https://en.wikipedia.org/wiki/Gunpowder",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Gunpowder",
+        "Alchemy",
+        "Science",
+        "Innovation",
+        "Taoism"
+      ],
+      "type": "scientific"
+    },
+    {
+      "date": "01.01.0845",
+      "description": "Emperor Wuzong, a committed Taoist convinced that Buddhism's enormous tax-exempt monastic landholdings and untaxed clergy were draining the treasury and undermining the state, orders the empire-wide destruction or secularization of Buddhist monasteries, melting down temple bronze statues and bells for coinage, confiscating monastic estates, and forcing more than two hundred thousand monks and nuns back into lay, tax-paying life. Nestorian Christian, Zoroastrian, and Manichaean establishments — the same foreign faiths that had coexisted with Buddhism in Chang'an for two centuries — are swept up in the same purge as suspect foreign religions.\n\nWuzong dies within a year of launching the persecution and his successor reverses the harshest measures, allowing Buddhism to slowly recover much of its social presence, but Chinese Buddhism never fully regains the massive land-owning, tax-exempt institutional power it held before 845, and Nestorian Christianity in China never meaningfully recovers at all, effectively ending a two-century presence that the Xi'an stele had once proudly documented.",
+      "description_ru": "Император Уцзун, убеждённый даос, полагавший, что огромные не облагаемые налогом монастырские земельные владения буддизма и не платящее налогов духовенство истощают казну и подрывают государство, приказывает по всей империи разрушить или обратить в мирское владение буддийские монастыри, переплавляя храмовые бронзовые статуи и колокола на монету, конфискуя монастырские угодья и принуждая более двухсот тысяч монахов и монахинь вернуться к мирской, облагаемой налогом жизни. Несторианские христианские, зороастрийские и манихейские заведения — те же иноземные веры, что два столетия сосуществовали с буддизмом в Чанъане, — попадают под ту же чистку как подозрительные иноземные религии.\n\nУцзун умирает через год после начала гонений, и его преемник отменяет самые суровые меры, позволяя буддизму постепенно восстановить значительную часть общественного присутствия, но китайский буддизм так и не возвращает полностью то огромное землевладельческое, не облагаемое налогом институциональное могущество, каким обладал до 845 года, а несторианское христианство в Китае вовсе не оправляется по-настоящему, фактически завершив двухвековое присутствие, которое некогда с гордостью документировала сианьская стела.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "Emperor Wuzong Launches the Huichang Persecution of Buddhism",
+      "name_ru": "Император Уцзун начинает гонения Хуэйчан на буддизм",
+      "source": "https://en.wikipedia.org/wiki/Persecution_of_Buddhists#Huichang_persecution",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Buddhism",
+        "Persecution",
+        "Wuzong",
+        "Religious",
+        "Decline"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.05.0868",
+      "description": "A craftsman working near Dunhuang produces a printed scroll of the Diamond Sutra, a core Mahayana Buddhist text, using carved wooden blocks inked and pressed onto paper — a printing technique Chinese Buddhist workshops had been refining for over a century to mass-produce devotional texts and images cheaply for a growing lay audience. The scroll's colophon states plainly that it was made \"for universal free distribution\" by a man named Wang Jie on behalf of his parents, dating it precisely to the fifteenth day of the fourth month of the ninth year of the Xiantong era.\n\nSealed inside the Mogao Caves near Dunhuang for nearly a millennium alongside tens of thousands of other manuscripts, the scroll survives undisturbed until a wandering Taoist monk discovers the sealed library cave in 1900, and the British explorer Aurel Stein acquires it in 1907, whereupon it becomes recognized as the oldest complete, dated, printed book known anywhere in the world — physical proof that Tang China had already turned printing from a curiosity into a functioning technology for religious mass production, six centuries before Gutenberg's press in Europe.",
+      "description_ru": "Мастер, работающий близ Дуньхуана, изготавливает печатный свиток «Алмазной сутры», ключевого текста махаянского буддизма, с помощью вырезанных деревянных досок, покрытых краской и оттиснутых на бумаге, — технику печати, которую китайские буддийские мастерские совершенствовали более столетия для дешёвого массового производства благочестивых текстов и изображений для растущей мирской аудитории. Колофон свитка прямо гласит, что он изготовлен «для всеобщего бесплатного распространения» неким Ван Цзе от имени его родителей, точно датируя его пятнадцатым днём четвёртого месяца девятого года эры Сяньтун.\n\nЗапечатанный в пещерах Могао близ Дуньхуана почти на тысячелетие вместе с десятками тысяч других рукописей, свиток остаётся нетронутым, пока странствующий даосский монах не обнаруживает запечатанную пещеру-библиотеку в 1900 году, а британский исследователь Аурел Стейн не приобретает его в 1907 году, после чего он признаётся древнейшей полностью сохранившейся, датированной печатной книгой в мире — вещественным доказательством того, что танский Китай уже превратил печать из диковинки в действующую технологию массового религиозного производства за шесть веков до печатного станка Гутенберга в Европе.",
+      "era": "AD",
+      "latitude": 40.1421,
+      "longitude": 94.6619,
+      "name": "The Diamond Sutra — the World's Oldest Dated Printed Book",
+      "name_ru": "«Алмазная сутра» — древнейшая в мире датированная печатная книга",
+      "source": "https://en.wikipedia.org/wiki/Diamond_Sutra",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Printing",
+        "Buddhism",
+        "Diamond Sutra",
+        "Technology",
+        "Dunhuang"
+      ],
+      "type": "scientific"
+    },
+    {
+      "date": "01.12.0874",
+      "description": "Huang Chao (黄巢), a failed examination candidate turned salt smuggler, raises an army amid years of famine and rapacious taxation in the impoverished provinces the central government could no longer administer effectively, and leads a rebellion that sweeps across nearly the whole empire, sacking both Luoyang and Chang'an and declaring himself emperor of a new Qi dynasty in 881. Contemporary accounts, likely exaggerated but reflecting real horror, describe his starving armies resorting to cannibalism during prolonged sieges, and his sack of the southern port of Guangzhou is remembered for a massacre of the city's large foreign merchant community — Arab, Persian, and other traders who had built Guangzhou into a major hub of maritime Silk Road commerce.\n\nTang loyalist forces, heavily dependent by this point on regional military governors and Shatuo Turkic cavalry allies rather than any effective central army, eventually crush the rebellion by 884, but the war leaves the dynasty a hollow shell — the emperor a puppet of whichever warlord controls Chang'an, taxation and law enforcement effectively regionalized, and the stage set for the dynasty's final collapse within a generation.",
+      "description_ru": "Хуан Чао (黄巢), провалившийся на экзаменах кандидат, ставший контрабандистом соли, поднимает войско в разгар многолетнего голода и непомерных поборов в обнищавших провинциях, которыми центральное правительство уже не могло эффективно управлять, и возглавляет восстание, охватившее почти всю империю, разграбившее и Лоян, и Чанъань и провозгласившее его в 881 году императором новой династии Ци. Современные свидетельства, вероятно преувеличенные, но отражающие реальный ужас, описывают, как его голодающие войска прибегают к каннибализму во время затяжных осад, а разграбление южного порта Гуанчжоу запоминается резнёй крупной иноземной купеческой общины города — арабских, персидских и других торговцев, превративших Гуанчжоу в крупный узел морского Шёлкового пути.\n\nТанские верные силы, к этому времени сильно зависящие от региональных военных губернаторов и союзной тюркской конницы шато, а не от какой-либо действенной центральной армии, в конце концов подавляют восстание к 884 году, но война оставляет от династии лишь пустую оболочку — император становится марионеткой того военачальника, что контролирует Чанъань, налогообложение и правопорядок фактически регионализированы, а сцена подготовлена для окончательного краха династии в течение одного поколения.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "The Huang Chao Rebellion Breaks the Empire's Back",
+      "name_ru": "Восстание Хуан Чао ломает хребет империи",
+      "source": "https://en.wikipedia.org/wiki/Huang_Chao_Rebellion",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Rebellion",
+        "Huang Chao",
+        "War",
+        "Decline",
+        "Military"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.06.0907",
+      "description": "Zhu Wen (朱温), a former Huang Chao rebel who defected to the Tang side and rose to become the most powerful warlord controlling the puppet court, forces the last Tang emperor, the child Emperor Ai, to abdicate in his favor, ending the Tang dynasty after nearly three centuries and founding the Later Liang, the first of five short-lived dynasties that will contest the north over the next half-century. He has the deposed emperor and much of the remaining Tang imperial clan murdered soon after, closing off any hope of restoration.\n\nZhu Wen's usurpation opens the chaotic Five Dynasties and Ten Kingdoms period, a fifty-three-year era of fragmented, competing regional states before the Song dynasty reunifies China in 960. Later Chinese historiography treats the Tang collapse as a cautionary parable of empire — a dynasty that once commanded a cosmopolitan capital of a million people and the world's most sophisticated bureaucracy, undone gradually by regional militarization the central court itself had been forced to authorize after An Lushan, ending not in one battle but in the slow accumulation of power by men just like Zhu Wen.",
+      "description_ru": "Чжу Вэнь (朱温), бывший мятежник Хуан Чао, перешедший на танскую сторону и ставший самым могущественным военачальником, контролирующим марионеточный двор, вынуждает последнего танского императора, малолетнего императора Ай, отречься в его пользу, завершая почти трёхвековую историю династии Тан и основывая Поздняя Лян — первую из пяти недолговечных династий, которые в течение следующего полувека будут оспаривать друг у друга север страны. Вскоре после этого он приказывает убить свергнутого императора и большую часть оставшегося танского императорского рода, закрывая всякую надежду на реставрацию.\n\nУзурпация Чжу Вэня открывает хаотичную эпоху Пяти династий и десяти царств — пятьдесят три года раздробленных, соперничающих региональных государств, прежде чем династия Сун воссоединит Китай в 960 году. Позднейшая китайская историография трактует крах Тан как поучительную притчу об империи: держава, некогда управлявшая космополитичной столицей с миллионным населением и самой изощрённой бюрократией мира, была постепенно погублена региональной милитаризацией, которую сам центральный двор был вынужден узаконить после Ань Лушаня, и закончила своё существование не в одной битве, а в медленном накоплении власти такими людьми, как сам Чжу Вэнь.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "Zhu Wen Deposes the Last Tang Emperor",
+      "name_ru": "Чжу Вэнь свергает последнего танского императора",
+      "source": "https://en.wikipedia.org/wiki/Zhu_Wen",
+      "tags": [
+        "Chinese",
+        "Tang",
+        "Fall",
+        "Zhu Wen",
+        "Dynasty",
+        "Decline",
+        "War"
+      ],
+      "type": "political"
+    }
+  ]
+}
