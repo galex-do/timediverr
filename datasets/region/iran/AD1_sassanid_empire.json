@@ -1,5 +1,6 @@
 {
-  "description": "Dataset imported with 43 events",
+  "description": "Dataset imported with 49 events",
+  "filename": "AD1_sassanid_empire.json",
   "events": [
     {
       "date": "01.04.0226",
@@ -45,6 +46,28 @@
         "Zoroastrian"
       ],
       "type": "religious"
+    },
+    {
+      "date": "01.01.0230",
+      "description": "Ardashir I, fresh from founding the Sassanid Empire, builds a fortified palace at Gur (later Firuzabad) whose three great domed halls solve a problem that had defied builders for centuries: how to set a round dome atop a square room. His masons answer it with the squinch, a small arch thrown across each corner of the square chamber that converts it into an octagon simple enough to support a circular dome above.\n\nThe domed chamber at Firuzabad is the earliest surviving building anywhere to use this technique, giving Persia a strong claim to having invented the squinch outright. The idea spreads outward from Sassanid Persia into Byzantine, and later Islamic, architecture, eventually making possible the great domed mosques, churches, and mausolea of the medieval world — an engineering solution born in a fortress in the Persian desert.",
+      "description_ru": "Ардашир I, только что основавший империю Сасанидов, строит укреплённый дворец в Гуре (позднее Фирузабад), три больших купольных зала которого решают задачу, веками ставившую builders в тупик: как установить круглый купол на квадратном помещении. Его каменщики находят решение в виде сквинча — небольшой арки, перекинутой через каждый угол квадратной комнаты и превращающей её в восьмиугольник, на который уже несложно опереть круглый купол.\n\nКупольный зал в Фирузабаде — древнейшее из сохранившихся зданий в мире, где применена эта техника, что даёт Персии веское основание считаться изобретательницей сквинча. Идея распространяется из сасанидской Персии в византийскую, а позже исламскую архитектуру, со временем сделав возможными великие купольные мечети, церкви и мавзолеи средневекового мира — инженерное решение, рождённое в крепости персидской пустыни.",
+      "era": "AD",
+      "latitude": 28.8467,
+      "longitude": 52.7147,
+      "name": "Ardashir I's Palace at Firuzabad Introduces the Squinch Dome",
+      "name_ru": "Дворец Ардашира I в Фирузабаде вводит купол на парусах-сквинчах",
+      "source": "https://en.wikipedia.org/wiki/Sasanian_architecture",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Ardashir I",
+        "Architecture",
+        "Squinch",
+        "Dome",
+        "Engineering",
+        "Firuzabad"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0240",
@@ -110,6 +133,27 @@
         "Shapur I 👑"
       ],
       "type": "military"
+    },
+    {
+      "date": "01.01.0260",
+      "description": "Builders at the Sassanid capital of Ctesiphon raise the great iwan later called Taq Kasra, an arched brick vault soaring roughly 37 meters high, spanning 26 meters, and running 50 meters deep as the ceremonial facade of the imperial palace. Historians disagree on exactly when it was built — some crediting Shapur I in the mid-third century, others arguing construction began under Khosrow I after his campaigns against Byzantium in the 540s — but either way it stands as the grandest work of Sassanid architecture to survive into the present.\n\nThe vault's builders lay its bricks at an eighteen-degree tilt from vertical so each course leans against the one before it and the rear wall, allowing the enormous catenary arch to rise without wooden scaffolding underneath, a technique unmatched in scale until the modern era. Long after the palace around it crumbled and the Arab conquest ended Sassanid rule, the arch itself remained standing over the Tigris floodplain, today ranking as the second-largest single-span vault of unreinforced brick ever built.",
+      "description_ru": "Строители сасанидской столицы Ктесифон возводят большой айван, позднее названный Так-е Кесра, — арочный кирпичный свод высотой около 37 метров, пролётом 26 метров и глубиной 50 метров, служащий парадным фасадом императорского дворца. Историки расходятся во мнениях о точном времени постройки: одни приписывают её Шапуру I в середине III века, другие полагают, что строительство началось при Хосрове I после его походов против Византии в 540-х годах, — но в любом случае это величайшее произведение сасанидской архитектуры, дошедшее до наших дней.\n\nСтроители свода укладывают кирпичи с наклоном в восемнадцать градусов от вертикали, так что каждый ряд опирается на предыдущий и на заднюю стену, позволяя огромной цепной арке подниматься без деревянных лесов снизу — техника, не имевшая равных по масштабу вплоть до Нового времени. Долгое время после того, как окружавший его дворец обрушился, а арабское завоевание положило конец правлению Сасанидов, сама арка продолжала стоять над поймой Тигра и сегодня считается вторым по величине однопролётным сводом из неармированного кирпича в мире.",
+      "era": "AD",
+      "latitude": 33.0936,
+      "longitude": 44.5808,
+      "name": "Taq Kasra Rises at Ctesiphon as the World's Great Brick Vault",
+      "name_ru": "Так-е Кесра поднимается в Ктесифоне как величайший в мире кирпичный свод",
+      "source": "https://en.wikipedia.org/wiki/Taq_Kasra",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Taq Kasra",
+        "Ctesiphon",
+        "Architecture",
+        "Engineering",
+        "Shapur I"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0262",
@@ -774,6 +818,28 @@
       "type": "political"
     },
     {
+      "date": "01.01.0600",
+      "description": "Sassanid court art and later Persian poetry depict Khosrow II and his nobles playing chogan, a fast horseback game in which riders use long-handled mallets to drive a wooden ball toward a goal, already established as a favored pastime of the Persian aristocracy and military elite. Fields for the game are laid out beside royal palaces, and skill at chogan is treated as a mark of horsemanship and courtly refinement worth boasting about in verse.\n\nBeyond entertainment, chogan doubles as cavalry training, sharpening the same skills of horse control, quick direction changes, and hand-eye coordination that Sassanid mounted archers and lancers relied on in battle. The game spreads along trade and diplomatic routes into Byzantium, Central Asia, and eventually South Asia, where centuries later British colonists encounter a descendant of it in India and carry the game to the West under its Balti name, polo.",
+      "description_ru": "Сасанидское придворное искусство и позднейшая персидская поэзия изображают Хосрова II и его вельмож играющими в чоуган — быструю конную игру, в которой всадники длинными молотками на рукояти гонят деревянный мяч к воротам, уже прочно закрепившуюся как любимое развлечение персидской знати и военной элиты. Поля для игры разбивают рядом с царскими дворцами, а мастерство в чоугане считается признаком наездничества и придворной утончённости, достойным воспевания в стихах.\n\nПомимо развлечения, чоуган служит и конной тренировкой, оттачивая те же навыки управления лошадью, быстрой смены направления и координации, на которые полагались сасанидские конные лучники и копейщики в бою. Игра распространяется по торговым и дипломатическим путям в Византию, Среднюю Азию и в конечном счёте в Южную Азию, где столетия спустя британские колонисты застают её потомка в Индии и переносят игру на Запад под балтийским названием — поло.",
+      "era": "AD",
+      "latitude": 33.0936,
+      "longitude": 44.5808,
+      "name": "Chogan — Sassanid Persia's Game of Polo",
+      "name_ru": "Чоуган — сасанидская игра в поло",
+      "source": "https://en.wikipedia.org/wiki/Chovgan",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Chogan",
+        "Polo",
+        "Khosrow II",
+        "Sport",
+        "Cavalry",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
       "date": "01.12.0602",
       "description": "When Phocas murders Emperor Maurice and seizes the Byzantine throne, Khosrow II declares war in the name of avenging his patron — an ideologically powerful justification resonating both with his court and the eastern Byzantine populations who also regarded Phocas as a usurper. The real motivation is territorial opportunity: Byzantium is in chaos, its eastern armies leaderless, its treasury depleted, and its provincial administration collapsing. Khosrow's generals advance simultaneously on multiple fronts across the Byzantine east.\n\nWhat begins as a punitive expedition becomes an existential war: Sassanid armies under Shahrbaraz and Shahin advance into Syria, Palestine, and Egypt with a speed not seen since Alexander the Great. By the war's peak, the Sassanid Empire controls more formerly Roman territory than at any point since the Achaemenid era. Khosrow II is at the height of his power — and utterly unprepared for what Heraclius's counteroffensive will do to his overstretched armies.",
       "description_ru": "Когда Фока убивает Маврикия и захватывает Византийский трон, Хосров II объявляет войну во имя мести своему покровителю — идеологически мощное обоснование, находящее отклик как при его дворе, так и среди восточных Византийских народов, тоже считавших Фоку узурпатором. Реальная мотивация — возможности: Византия в хаосе, её восточные армии без командиров, казна истощена, провинциальное управление рушится. Полководцы Хосрова наступают одновременно на нескольких фронтах.\n\nТо, что начинается как карательная экспедиция, превращается в экзистенциальную войну: сасанидские армии под командованием Шахрбараза и Шахина наступают на Сирию, Палестину и Египет со скоростью, невиданной со времён Александра Великого. На пике войны Сасанидская империя контролирует больше бывшей Римской территории, чем в любой момент со времён ахеменидской эпохи.",
@@ -813,6 +879,27 @@
         "Syria"
       ],
       "type": "military"
+    },
+    {
+      "date": "01.01.0615",
+      "description": "Barbad, court musician and poet-singer to Khosrow II Parviz, becomes the most celebrated musician of the Sassanid era, playing the barbat lute and singing verses of his own composition at royal banquets from a position of such favor that later Persian tradition credits him with inventing an entire system of court music. He is remembered as organizing thirty Khosrovani melodies for the days of the month, seven royal modes for the days of the week, and 360 individual songs corresponding to the days of the Zoroastrian calendar year.\n\nBarbad's melodies are known to us only through their names and through admiring references in later New Persian poetry by Ferdowsi and Nizami, since no Sassanid musical notation survives, but the scale of the system attributed to him — a complete musical calendar matched to the rhythms of the Zoroastrian year — reflects how central music and poetry were to Sassanid court ceremony. His legendary status as the founding figure of Persian classical music persists into the present, with concert halls and music festivals across Iran still carrying his name.",
+      "description_ru": "Барбад, придворный музыкант и певец-поэт Хосрова II Парвиза, становится самым прославленным музыкантом сасанидской эпохи: он играет на лютне барбат и поёт собственные стихи на царских пирах, пользуясь таким расположением, что позднейшая персидская традиция приписывает ему создание целой системы придворной музыки. Ему приписывают создание тридцати мелодий «хосровани» для дней месяца, семи царских ладов для дней недели и 360 отдельных песен, соответствующих дням зороастрийского календарного года.\n\nМелодии Барбада известны нам лишь по названиям и по восхищённым упоминаниям в позднейшей новоперсидской поэзии Фирдоуси и Низами, поскольку сасанидская музыкальная запись не сохранилась, но масштаб приписываемой ему системы — полный музыкальный календарь, согласованный с ритмами зороастрийского года — отражает, насколько центральное место музыка и поэзия занимали в сасанидской придворной церемонии. Его легендарный статус основоположника персидской классической музыки сохраняется и поныне: концертные залы и музыкальные фестивали по всему Ирану до сих пор носят его имя.",
+      "era": "AD",
+      "latitude": 33.0936,
+      "longitude": 44.5808,
+      "name": "Barbad Composes the Royal Music of Khosrow II's Court",
+      "name_ru": "Барбад сочиняет придворную музыку двора Хосрова II",
+      "source": "https://en.wikipedia.org/wiki/Barbad_the_Poet-Musician",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Barbad",
+        "Music",
+        "Khosrow II",
+        "Culture",
+        "Poetry"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0619",
@@ -962,7 +1049,28 @@
         "Sassanid"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.07.0651",
+      "description": "In the chaos following Yazdegerd III's murder at Merv, later Persian historical tradition remembers a noblewoman named Apranik rallying scattered Sassanid soldiers and local fighters in the Nahavand region to continue resisting the advancing Arab armies, leading raids from mountain strongholds after the empire's formal government had already collapsed. Sources describing her come mainly from later Islamic-era Persian chronicles rather than contemporary Sassanid records, and the details of her campaigns are impossible to verify with certainty.\n\nWhatever the precise historical facts, her story reflects a real pattern documented elsewhere in this period: Sassanid resistance did not end neatly with Yazdegerd's death but sputtered on for years across Iran's mountainous regions, particularly in Tabaristan and the Alborz range where geography sheltered holdouts from Arab cavalry for generations. Apranik's memory endures in Iranian national tradition as a symbol of resistance to conquest, a rare instance of a woman commander in Persian popular memory of this era.",
+      "description_ru": "В хаосе после убийства Йездигерда III в Мерве позднейшая персидская историческая традиция сохраняет память о знатной женщине по имени Апраник, которая собрала рассеянных сасанидских воинов и местных ополченцев в области Нехавенд, чтобы продолжить сопротивление наступающим арабским армиям, возглавляя набеги из горных крепостей уже после формального падения имперской власти. Источники, описывающие её, происходят в основном из позднейших персидских хроник исламской эпохи, а не из современных Сасанидам записей, и подробности её походов невозможно достоверно проверить.\n\nКаковы бы ни были точные исторические факты, её история отражает реальную закономерность, задокументированную в другие моменты этого периода: сасанидское сопротивление не закончилось сразу со смертью Йездигерда, а тлело ещё годами в горных областях Ирана, особенно в Табаристане и хребте Эльбурс, где рельеф укрывал очаги сопротивления от арабской конницы на протяжении поколений. Память об Апраник сохраняется в иранской национальной традиции как символ сопротивления завоеванию — редкий случай женщины-военачальницы в персидской народной памяти этой эпохи.",
+      "era": "AD",
+      "latitude": 34.1936,
+      "longitude": 48.3606,
+      "name": "Apranik Leads Persian Resistance After the Fall of the Last Shahanshah",
+      "name_ru": "Апраник возглавляет персидское сопротивление после гибели последнего шаханшаха",
+      "source": "https://en.wikipedia.org/wiki/Muslim_conquest_of_Persia",
+      "tags": [
+        "Persian",
+        "Sassanid",
+        "Apranik",
+        "Resistance",
+        "Women",
+        "Military",
+        "Arab conquest",
+        "Nahavand"
+      ],
+      "type": "military"
     }
-  ],
-  "filename": "AD1_sassanid_empire.json"
+  ]
 }
