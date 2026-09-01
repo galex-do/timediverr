@@ -1,7 +1,22 @@
 {
   "description": "Dataset imported with 67 events",
-  "filename": "BC3_parthian_empire.json",
   "events": [
+    {
+      "date": "01.09.0238",
+      "description": "Arsaces needed a powerful fortress in his new northern lands to assert his claim to the region and create a fortified base in case of a Seleucid counterattack. Nisa was built as the dynastic seat of the Arsacids; their necropolis and treasury were located here.",
+      "description_ru": "Аршаку нужна была мощная крепость на новых северных землях, чтобы обозначить свое право на владение регионом и создать укрепленную базу на случай контрудара Селевкидов. Ниса строилась как династическое гнездо Аршакидов, здесь был их некрополь и сокровищница.\n",
+      "era": "BC",
+      "latitude": 37.967,
+      "longitude": 58.195,
+      "name": "The founding of Parthian Nisa",
+      "name_ru": "Основание парфянской Нисы",
+      "tags": [
+        "Parthian",
+        "Arsacid",
+        "City"
+      ],
+      "type": "historic"
+    },
     {
       "date": "01.01.0238",
       "description": "Arsaces I and the Parni tribe conquer Parthia from Seleucid satrap Andragoras, deposing him and establishing firm control over the region; this consolidates Arsacid power in the former Seleucid satrapy",
@@ -19,22 +34,6 @@
         "Conquest"
       ],
       "type": "military"
-    },
-    {
-      "date": "01.09.0238",
-      "description": "Arsaces needed a powerful fortress in his new northern lands to assert his claim to the region and create a fortified base in case of a Seleucid counterattack. Nisa was built as the dynastic seat of the Arsacids; their necropolis and treasury were located here.",
-      "description_ru": "Аршаку нужна была мощная крепость на новых северных землях, чтобы обозначить свое право на владение регионом и создать укрепленную базу на случай контрудара Селевкидов. Ниса строилась как династическое гнездо Аршакидов, здесь был их некрополь и сокровищница.\n",
-      "era": "BC",
-      "latitude": 37.967,
-      "longitude": 58.195,
-      "name": "The founding of Parthian Nisa",
-      "name_ru": "Основание парфянской Нисы",
-      "tags": [
-        "Parthian",
-        "Arsacid",
-        "City"
-      ],
-      "type": "historic"
     },
     {
       "date": "01.01.0237",
@@ -209,24 +208,6 @@
       "type": "military"
     },
     {
-      "date": "01.01.0138",
-      "description": "Death of Mithridates I the Great; he transformed Parthia from a small kingdom into a major empire stretching from Bactria to Mesopotamia, earning comparison to Cyrus the Great",
-      "description_ru": "Смерть Митридата I Великого; он превратил Парфию из небольшого царства в великую империю, простирающуюся от Бактрии до Месопотамии, заслужив сравнение с Киром Великим",
-      "era": "BC",
-      "latitude": 37.9513,
-      "longitude": 58.211,
-      "name": "Death of Mithridates I",
-      "name_ru": "Смерть Митридата I Парфянского",
-      "source": "https://en.wikipedia.org/wiki/Mithridates_I_of_Parthia",
-      "tags": [
-        "Parthian",
-        "Arsacid",
-        "Death",
-        "Mithridates I 👑"
-      ],
-      "type": "political"
-    },
-    {
       "date": "02.01.0138",
       "description": "Phraates II becomes King of Parthia, inheriting a vast empire but facing immediate challenges from Seleucid counterattacks and nomadic invasions from the east",
       "description_ru": "Фраат II наследует обширную империю и сталкивается с селевкидскими контратаками и кочевниками на востоке",
@@ -241,6 +222,24 @@
         "Arsacid",
         "Dynasty",
         "King"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0138",
+      "description": "Death of Mithridates I the Great; he transformed Parthia from a small kingdom into a major empire stretching from Bactria to Mesopotamia, earning comparison to Cyrus the Great",
+      "description_ru": "Смерть Митридата I Великого; он превратил Парфию из небольшого царства в великую империю, простирающуюся от Бактрии до Месопотамии, заслужив сравнение с Киром Великим",
+      "era": "BC",
+      "latitude": 37.9513,
+      "longitude": 58.211,
+      "name": "Death of Mithridates I",
+      "name_ru": "Смерть Митридата I Парфянского",
+      "source": "https://en.wikipedia.org/wiki/Mithridates_I_of_Parthia",
+      "tags": [
+        "Parthian",
+        "Arsacid",
+        "Death",
+        "Mithridates I 👑"
       ],
       "type": "political"
     },
@@ -397,22 +396,22 @@
     },
     {
       "date": "01.01.0067",
-      "description": "Plutarch records that the Cilician pirates crushed by Pompey's campaign in 67 BC practice secret initiation rites devoted to Mithra, the ancient Persian god of covenant, light, and the sworn oath, already venerated for centuries in the Zoroastrian pantheon alongside Ahura Mazda and Anahita. Roman soldiers who mop up the pirate strongholds along the Anatolian coast carry the cult home with them, and within two centuries Mithraism becomes one of the most widespread mystery religions in the Roman Empire, especially among soldiers and merchants along the frontiers.\n\nRoman Mithraism reshapes the god considerably from his Persian origin, adding an initiatory bull-slaying myth and underground temples called mithraea that bear little resemblance to Zoroastrian fire worship, but the name, the association with the sun and oath-keeping, and the transmission route through the Iranian-influenced East all trace back to Persia. At its height Mithraic shrines are found from Roman Britain to the Syrian desert, making the export of this one Persian deity's name one of the most far-reaching religious migrations of the ancient world.",
-      "description_ru": "Плутарх сообщает, что киликийские пираты, разгромленные в ходе кампании Помпея в 67 году до н. э., практикуют тайные посвятительные обряды в честь Митры — древнего персидского бога договора, света и клятвы, уже веками почитаемого в зороастрийском пантеоне наряду с Ахура Маздой и Анахитой. Римские солдаты, зачищающие пиратские опорные пункты на анатолийском побережье, увозят культ с собой домой, и в течение двух веков митраизм становится одной из самых распространённых мистериальных религий Римской империи, особенно среди солдат и торговцев на границах.\n\nРимский митраизм значительно переосмысляет бога по сравнению с персидским первоисточником, добавляя посвятительный миф об убийстве быка и подземные храмы-митреумы, мало напоминающие зороастрийское почитание огня, но само имя, связь с солнцем и хранением клятвы, а также путь передачи через испытавший иранское влияние Восток восходят к Персии. В расцвете митраистские святилища встречаются от римской Британии до сирийской пустыни, что делает распространение имени этого персидского божества одной из самых далеко идущих религиозных миграций древнего мира.",
+      "description": "Plutarch records that the Cilician pirates crushed by Pompey's campaign in 67 BC practice secret initiation rites devoted to Mithra, the ancient Persian god of covenant, light, and the sworn oath, already venerated for centuries in the Zoroastrian pantheon alongside Ahura Mazda and Anahita. Roman soldiers who mop up the pirate strongholds along the Anatolian coast carry the cult home with them, and within two centuries Mithraism becomes one of the most widespread mystery religions in the Roman Empire, especially among soldiers and merchants along the frontiers.\n\nRoman Mithraism reshapes the god considerably from his Persian origin, adding an initiatory bull-slaying myth and underground temples called mithraea that bear little resemblance to Zoroastrian fire worship, but the name, the association with the sun and oath-keeping, and the transmission route through the Iranian-influenced East all trace back to Persia.",
+      "description_ru": "Плутарх сообщает, что киликийские пираты, разгромленные в ходе кампании Помпея, практикуют тайные посвятительные обряды в честь Митры — древнего персидского бога договора, света и клятвы, веками почитаемого в зороастрийском пантеоне наряду с Ахура Маздой и Анахитой. Римские солдаты увозят культ с собой домой, и в течение двух веков митраизм становится одной из самых распространённых мистериальных религий Римской империи, особенно среди солдат и торговцев на границах.\n\nРимский митраизм значительно переосмысляет бога по сравнению с персидским первоисточником, добавляя посвятительный миф об убийстве быка и подземные храмы-митреумы, мало напоминающие зороастрийское почитание огня, но само имя, связь с солнцем и хранением клятвы, а также путь передачи через испытавший иранское влияние Восток восходят к Персии.",
       "era": "BC",
-      "latitude": 36.7,
-      "longitude": 34.6167,
-      "name": "Roman Legions Encounter Mithra Through Pirates and Carry the Cult West",
-      "name_ru": "Римские легионы через пиратов знакомятся с культом Митры и несут его на запад",
+      "latitude": 36.7971892,
+      "longitude": 34.62203979,
+      "name": "Rome adopts Zoroastrian worship of Mithra",
+      "name_ru": "Рим перенимает зороастрийское почитание Митры",
       "source": "https://en.wikipedia.org/wiki/Mithraism",
       "tags": [
         "Persian",
-        "Parthian",
-        "Mithra",
-        "Religious",
         "Roman",
-        "Zoroastrian",
-        "Cultural export"
+        "Parthian",
+        "Cultural Continuity",
+        "Religious",
+        "Syncretism",
+        "Zoroastrian"
       ],
       "type": "religious"
     },
@@ -455,27 +454,6 @@
       "type": "military"
     },
     {
-      "date": "09.06.0053",
-      "description": "Parthian forces under General Surena destroy the Roman army of Marcus Licinius Crassus. Seven Roman legions are routed, and Crassus is killed. It is one of Rome's greatest military disasters. The captured Roman legionary eagles from Carrhae are brought back to Parthia as trophies; these standards become a symbol of Roman humiliation, and their return becomes a matter of national honor for Rome.",
-      "description_ru": "Парфянские войска под командованием полководца Сурены уничтожают римскую армию Марка Лициния Красса. Семь римских легионов разбиты, Красс убит. Это одна из величайших военных катастроф Рима. Захваченные римские легионные орлы с Карр доставлены в Парфию как трофеи; эти штандарты становятся символом римского унижения, и их возвращение станет делом национальной чести",
-      "era": "BC",
-      "latitude": 36.864,
-      "longitude": 39.029,
-      "name": "Battle of Carrhae",
-      "name_ru": "Поражение Рима при Каррах",
-      "source": "https://en.wikipedia.org/wiki/Battle_of_Carrhae",
-      "tags": [
-        "Roman",
-        "Parthian",
-        "War",
-        "Battle",
-        "Crassus 👤",
-        "Death",
-        "Failure"
-      ],
-      "type": "military"
-    },
-    {
       "date": "01.07.0053",
       "description": "According to Plutarch, after the battle at Carrhae, where the Roman general Crassus was killed, his head and hand were brought to Artashat, where the wedding of the Parthian prince Pacorus and the sister of the Armenian king Artavazd II was taking place. Euripides' play 'The Bacchae' was being performed at the palace, and the remains of the Roman general were used as theatrical props, much to the delight of the Parthian nobility.",
       "description_ru": "По свидетельству Плутарха, после сражения в Каррах, где был убит римский полководец Красс, его голову и руку привезли в Арташат, где проходила свадьба парфянского принца Пакора и сестры царя Армении Артавазда II. Во дворце давали пьесу Еврипида 'Вакханки', и останки римского полководца были использованы как театральный реквизит, что вызвало восторг парфянского дворянства",
@@ -495,6 +473,27 @@
         "Crassus 👤"
       ],
       "type": "political"
+    },
+    {
+      "date": "09.06.0053",
+      "description": "Parthian forces under General Surena destroy the Roman army of Marcus Licinius Crassus. Seven Roman legions are routed, and Crassus is killed. It is one of Rome's greatest military disasters. The captured Roman legionary eagles from Carrhae are brought back to Parthia as trophies; these standards become a symbol of Roman humiliation, and their return becomes a matter of national honor for Rome.",
+      "description_ru": "Парфянские войска под командованием полководца Сурены уничтожают римскую армию Марка Лициния Красса. Семь римских легионов разбиты, Красс убит. Это одна из величайших военных катастроф Рима. Захваченные римские легионные орлы с Карр доставлены в Парфию как трофеи; эти штандарты становятся символом римского унижения, и их возвращение станет делом национальной чести",
+      "era": "BC",
+      "latitude": 36.864,
+      "longitude": 39.029,
+      "name": "Battle of Carrhae",
+      "name_ru": "Поражение Рима при Каррах",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Carrhae",
+      "tags": [
+        "Roman",
+        "Parthian",
+        "War",
+        "Battle",
+        "Crassus 👤",
+        "Death",
+        "Failure"
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.0052",
@@ -1289,5 +1288,6 @@
       ],
       "type": "political"
     }
-  ]
+  ],
+  "filename": "BC3_parthian_empire.json"
 }

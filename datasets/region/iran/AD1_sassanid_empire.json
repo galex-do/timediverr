@@ -1,6 +1,5 @@
 {
   "description": "Dataset imported with 49 events",
-  "filename": "AD1_sassanid_empire.json",
   "events": [
     {
       "date": "01.04.0226",
@@ -49,23 +48,23 @@
     },
     {
       "date": "01.01.0230",
-      "description": "Ardashir I, fresh from founding the Sassanid Empire, builds a fortified palace at Gur (later Firuzabad) whose three great domed halls solve a problem that had defied builders for centuries: how to set a round dome atop a square room. His masons answer it with the squinch, a small arch thrown across each corner of the square chamber that converts it into an octagon simple enough to support a circular dome above.\n\nThe domed chamber at Firuzabad is the earliest surviving building anywhere to use this technique, giving Persia a strong claim to having invented the squinch outright. The idea spreads outward from Sassanid Persia into Byzantine, and later Islamic, architecture, eventually making possible the great domed mosques, churches, and mausolea of the medieval world — an engineering solution born in a fortress in the Persian desert.",
-      "description_ru": "Ардашир I, только что основавший империю Сасанидов, строит укреплённый дворец в Гуре (позднее Фирузабад), три больших купольных зала которого решают задачу, веками ставившую builders в тупик: как установить круглый купол на квадратном помещении. Его каменщики находят решение в виде сквинча — небольшой арки, перекинутой через каждый угол квадратной комнаты и превращающей её в восьмиугольник, на который уже несложно опереть круглый купол.\n\nКупольный зал в Фирузабаде — древнейшее из сохранившихся зданий в мире, где применена эта техника, что даёт Персии веское основание считаться изобретательницей сквинча. Идея распространяется из сасанидской Персии в византийскую, а позже исламскую архитектуру, со временем сделав возможными великие купольные мечети, церкви и мавзолеи средневекового мира — инженерное решение, рождённое в крепости персидской пустыни.",
+      "description": "Ardashir I, fresh from founding the Sassanid Empire, builds a fortified palace at Gur (later Firuzabad) whose three great domed halls solve a problem that had defied builders for centuries: how to set a round dome atop a square room. His masons answer it with the squinch, a small arch thrown across each corner of the square chamber that converts it into an octagon simple enough to support a circular dome above.\n\nThe domed chamber at Firuzabad is the earliest surviving building anywhere to use this technique, giving Persia a strong claim to having invented the squinch outright. The idea spreads outward from Sassanid Persia into Byzantine, and later Islamic, architecture, eventually making possible the great domed mosques, churches, and mausolea of the medieval world",
+      "description_ru": "Ардашир I, только что основавший империю Сасанидов, строит укреплённый дворец в Гуре (позднее Фирузабад), три больших купольных зала которого решают задачу, веками ставившую строителей в тупик: как установить круглый купол на квадратном помещении. Его каменщики находят решение в виде сквинча — небольшой арки, перекинутой через каждый угол квадратной комнаты и превращающей её в восьмиугольник, на который уже несложно опереть круглый купол.\n\nКупольный зал в Фирузабаде — древнейшее из сохранившихся зданий в мире, где применена эта техника, что даёт Персии веское основание считаться изобретательницей сквинча. Идея распространяется из сасанидской Персии в византийскую, а позже исламскую архитектуру, со временем сделав возможными великие купольные мечети, церкви и мавзолеи средневекового мира",
       "era": "AD",
-      "latitude": 28.8467,
-      "longitude": 52.7147,
+      "latitude": 28.89798266,
+      "longitude": 52.53919601,
       "name": "Ardashir I's Palace at Firuzabad Introduces the Squinch Dome",
-      "name_ru": "Дворец Ардашира I в Фирузабаде вводит купол на парусах-сквинчах",
+      "name_ru": "Дворец Ардашира I в Фирузабаде",
       "source": "https://en.wikipedia.org/wiki/Sasanian_architecture",
       "tags": [
         "Persian",
-        "Sassanid",
-        "Ardashir I",
+        "Building 🏠",
         "Architecture",
-        "Squinch",
-        "Dome",
-        "Engineering",
-        "Firuzabad"
+        "Ardashir I 👑",
+        "Construction",
+        "Engineering ⚙️",
+        "Palace",
+        "Sassanid"
       ],
       "type": "cultural"
     },
@@ -136,22 +135,23 @@
     },
     {
       "date": "01.01.0260",
-      "description": "Builders at the Sassanid capital of Ctesiphon raise the great iwan later called Taq Kasra, an arched brick vault soaring roughly 37 meters high, spanning 26 meters, and running 50 meters deep as the ceremonial facade of the imperial palace. Historians disagree on exactly when it was built — some crediting Shapur I in the mid-third century, others arguing construction began under Khosrow I after his campaigns against Byzantium in the 540s — but either way it stands as the grandest work of Sassanid architecture to survive into the present.\n\nThe vault's builders lay its bricks at an eighteen-degree tilt from vertical so each course leans against the one before it and the rear wall, allowing the enormous catenary arch to rise without wooden scaffolding underneath, a technique unmatched in scale until the modern era. Long after the palace around it crumbled and the Arab conquest ended Sassanid rule, the arch itself remained standing over the Tigris floodplain, today ranking as the second-largest single-span vault of unreinforced brick ever built.",
-      "description_ru": "Строители сасанидской столицы Ктесифон возводят большой айван, позднее названный Так-е Кесра, — арочный кирпичный свод высотой около 37 метров, пролётом 26 метров и глубиной 50 метров, служащий парадным фасадом императорского дворца. Историки расходятся во мнениях о точном времени постройки: одни приписывают её Шапуру I в середине III века, другие полагают, что строительство началось при Хосрове I после его походов против Византии в 540-х годах, — но в любом случае это величайшее произведение сасанидской архитектуры, дошедшее до наших дней.\n\nСтроители свода укладывают кирпичи с наклоном в восемнадцать градусов от вертикали, так что каждый ряд опирается на предыдущий и на заднюю стену, позволяя огромной цепной арке подниматься без деревянных лесов снизу — техника, не имевшая равных по масштабу вплоть до Нового времени. Долгое время после того, как окружавший его дворец обрушился, а арабское завоевание положило конец правлению Сасанидов, сама арка продолжала стоять над поймой Тигра и сегодня считается вторым по величине однопролётным сводом из неармированного кирпича в мире.",
+      "description": "Builders at the Sassanid capital of Ctesiphon raise the great iwan later called Taq Kasra, an arched brick vault soaring roughly 37 meters high, spanning 26 meters, and running 50 meters deep as the ceremonial facade of the imperial palace. Historians disagree on exactly when it was built, but either way it stands as the grandest work of Sassanid architecture to survive into the present.\n\nThe vault's builders lay its bricks at an eighteen-degree tilt from vertical so each course leans against the one before it and the rear wall, allowing the enormous catenary arch to rise without wooden scaffolding underneath, a technique unmatched in scale until the modern era. Long after the palace around it crumbled and the Arab conquest ended Sassanid rule, the arch itself remained standing over the Tigris floodplain, today ranking as the second-largest single-span vault of unreinforced brick ever built.",
+      "description_ru": "Строители сасанидской столицы Ктесифон возводят большой айван, позднее названный Так-е Кесра, — арочный кирпичный свод высотой около 37 метров, пролётом 26 метров и глубиной 50 метров, служащий парадным фасадом императорского дворца. Историки расходятся во мнениях о точном времени постройки, но в любом случае это ярчайшее произведение сасанидской архитектуры, дошедшее до наших дней.\n\nСтроители свода укладывают кирпичи с наклоном в восемнадцать градусов от вертикали, так что каждый ряд опирается на предыдущий и на заднюю стену, позволяя огромной цепной арке подниматься без деревянных лесов снизу — техника, не имевшая равных по масштабу вплоть до Нового времени. Долгое время после того, как окружавший его дворец обрушился, а арабское завоевание положило конец правлению Сасанидов, сама арка продолжала стоять над поймой Тигра и сегодня считается вторым по величине однопролётным сводом из неармированного кирпича в мире.",
       "era": "AD",
-      "latitude": 33.0936,
-      "longitude": 44.5808,
-      "name": "Taq Kasra Rises at Ctesiphon as the World's Great Brick Vault",
-      "name_ru": "Так-е Кесра поднимается в Ктесифоне как величайший в мире кирпичный свод",
+      "latitude": 33.094,
+      "longitude": 44.581,
+      "name": "Taq Kasra Rises at Ctesiphon",
+      "name_ru": "Так-е Кесра возведена в Ктесифоне",
       "source": "https://en.wikipedia.org/wiki/Taq_Kasra",
       "tags": [
         "Persian",
-        "Sassanid",
-        "Taq Kasra",
-        "Ctesiphon",
+        "Building 🏠",
         "Architecture",
-        "Engineering",
-        "Shapur I"
+        "Construction",
+        "Engineering ⚙️",
+        "Innovation",
+        "Palace",
+        "Sassanid"
       ],
       "type": "cultural"
     },
@@ -353,6 +353,27 @@
         "Zoroastrian"
       ],
       "type": "cultural"
+    },
+    {
+      "date": "01.01.0370",
+      "description": "Atashkade, or \"house of fire,\" are religious buildings in Zoroastrianism. These temples were built not as gathering halls for the faithful, but as \"houses of refuge\" for preserving the sacred fire (atara), which Zoroastrians considered the earthly embodiment of divine light and purity.\n\nUnder the Sassanids, the classic Zoroastrian temple emerged. The heart of the temple, the chahar-taq, is a square structure with four arches facing the cardinal directions, crowned with a dome. This design symbolized balance and simplicity. The sacred fire itself was housed in a small, dark, completely enclosed room within the temple complex, inaccessible to sunlight. In the very center of this dark room, a large incense burner (made of stone, marble, or bronze) was placed on a high three-step pedestal. A flame was kept burning in it 24 hours a day, fed only by clean, dry wood (such as sandalwood) and incense.\n\nThe architectural complex was almost always built next to a natural body of water, a spring, or an artificial pool in front of the entrance. In Zoroastrianism, water and fire are the two main elements of ritual purity, which must be in harmony.",
+      "description_ru": "Аташкаде, «дом огня» — культовые сооружения зороастризма. Эти храмы строились не как залы для собрания верующих, а как «дома-убежища» для сохранения священного огня (атара), который зороастрийцы считают земным воплощением божественного света и чистоты.\n\nПри Сасанидах сформировался классический тип зороастрийского храма. Сердце храма, чахар-так — квадратное сооружение с четырьмя арками по сторонам света, увенчанное куполом. Эта конструкция символизировала баланс и простоту. Непосредственно священный огонь находился в небольшой, темной, полностью закрытой комнате внутри храмового комплекса, недоступной для солнечного света. В самом центре темной комнаты ставилась большая чаша-курильница (из камня, мрамора или бронзы) на высоком трехступенчатом постаменте. В ней круглосуточно поддерживалось пламя, которое питалось только чистой сухой древесиной (например, сандалом) и благовониями.\n\nАрхитектурный ансамбль почти всегда возводился рядом с естественным водоемом, источником или искусственным бассейном перед входом. Вода и огонь в зороастризме — два главных элемента ритуальной чистоты, которые должны находиться в гармонии.",
+      "era": "AD",
+      "latitude": 31.8811153,
+      "longitude": 54.37319934,
+      "name": "Fire temples in Zoroastrian Persia",
+      "name_ru": "Храмы огня в зороастрийской Персии",
+      "source": "https://en.wikipedia.org/wiki/Fire_temple",
+      "tags": [
+        "Persian",
+        "Architecture",
+        "Culture",
+        "Religious",
+        "Sassanid",
+        "Temple",
+        "Zoroastrian"
+      ],
+      "type": "religious"
     },
     {
       "date": "01.01.0379",
@@ -712,25 +733,6 @@
     },
     {
       "date": "01.01.0562",
-      "description": "The Derbent Pass — a narrow coastal corridor approximately three kilometers wide between the Caspian Sea and the southern foothills of the Caucasus—was the only practical invasion route connecting the Arab south with the Khazar north. The Sassanid Persians understood this geography well: in the 5th and 6th centuries, they built a powerful defensive system along this corridor, including the city and fortress of Derbent (Darband in Persian, Bab al-Abwab—\"Gate of Gates\" in Arabic) and a series of walls extending from the Caspian shore into the mountains, designed to block Hunnic and steppe cavalry from raiding south. Originally built of adobe, the fortress was rebuilt under Khosrow from hewn red limestone.",
-      "description_ru": "Дербентский проход — узкий прибрежный коридор шириной примерно три километра между Каспийским морем и южными предгорьями Кавказа — был единственным практически пригодным маршрутом вторжения, соединявшим арабский юг с хазарским севером. Сасанидские персы прекрасно понимали эту географию: в V–VI веках они построили мощную оборонительную систему вдоль этого коридора, включая город и крепость Дербент (Дарбанд по-персидски, Баб аль-Абваб — «Врата ворот» по-арабски) и ряд стен от каспийского берега в горы, призванных блокировать гуннскую и степную конницу от набегов на юг. Изначально возведенная из сырца, при Хосрове крепость была перестроена из тесаного красного известняка.",
-      "era": "AD",
-      "latitude": 42.05267051,
-      "longitude": 48.27431202,
-      "name": "Construction of the Darband Fortress",
-      "name_ru": "Возведение крепости Дарбанд",
-      "source": "https://en.wikipedia.org/wiki/Derbent",
-      "tags": [
-        "Persian",
-        "City",
-        "Defense",
-        "Fortification",
-        "Sassanid"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.0562",
       "description": "Khosrow I and the Byzantine emperor Justinian I sign the Treaty of 562 — a fifty-year peace defining the Caucasian border, establishing regulated merchant crossing points, and requiring Byzantium to pay Persia an annual subsidy of 500 pounds of gold for the 'defence of the Caucasus passes'. The treaty is notable for its formal diplomatic equality: for the first time in Roman diplomatic history, a non-Roman power is treated as an equal sovereign rather than a subordinate client or barbarian enemy.\n\nThe term 'Two Eyes of the World' — applied to the two empires in later sources — captures this moment of equilibrium. The peace lasts less than forty years: the assassination of Maurice by Phocas in 602 gives Khosrow II the pretext — and the opportunity — to end the balance permanently. But in 562 the world has two poles of civilisation, one centred in Constantinople, one in Ctesiphon, and both would have seemed equally likely to outlast the other.",
       "description_ru": "Хосров I и Византийский Юстиниан I подписывают договор 562 года — пятидесятилетний мир, определяющий кавказскую границу, устанавливающий регулируемые торговые переходы и обязывающий Византию выплачивать Персии ежегодную субсидию в 500 фунтов золота за «охрану кавказских перевалов». Персы согласились покинуть Лазику (западная Грузия), передав её Византии. Договор примечателен формальным дипломатическим равенством: впервые в римской дипломатической истории неримская держава рассматривается как равный суверен, а не подчинённый вассал или варварский враг.\n\nВыражение «Два ока мира» — применённое к двум империям в позднейших источниках — отражает этот момент равновесия. Мир продержится менее сорока лет: убийство Маврикия Фокой в 602 году даст Хосрову II повод — и возможность — навсегда нарушить этот баланс.",
       "era": "AD",
@@ -751,6 +753,25 @@
         "Tribute"
       ],
       "type": "political"
+    },
+    {
+      "date": "01.01.0562",
+      "description": "The Derbent Pass — a narrow coastal corridor approximately three kilometers wide between the Caspian Sea and the southern foothills of the Caucasus—was the only practical invasion route connecting the Arab south with the Khazar north. The Sassanid Persians understood this geography well: in the 5th and 6th centuries, they built a powerful defensive system along this corridor, including the city and fortress of Derbent (Darband in Persian, Bab al-Abwab—\"Gate of Gates\" in Arabic) and a series of walls extending from the Caspian shore into the mountains, designed to block Hunnic and steppe cavalry from raiding south. Originally built of adobe, the fortress was rebuilt under Khosrow from hewn red limestone.",
+      "description_ru": "Дербентский проход — узкий прибрежный коридор шириной примерно три километра между Каспийским морем и южными предгорьями Кавказа — был единственным практически пригодным маршрутом вторжения, соединявшим арабский юг с хазарским севером. Сасанидские персы прекрасно понимали эту географию: в V–VI веках они построили мощную оборонительную систему вдоль этого коридора, включая город и крепость Дербент (Дарбанд по-персидски, Баб аль-Абваб — «Врата ворот» по-арабски) и ряд стен от каспийского берега в горы, призванных блокировать гуннскую и степную конницу от набегов на юг. Изначально возведенная из сырца, при Хосрове крепость была перестроена из тесаного красного известняка.",
+      "era": "AD",
+      "latitude": 42.05267051,
+      "longitude": 48.27431202,
+      "name": "Construction of the Darband Fortress",
+      "name_ru": "Возведение крепости Дарбанд",
+      "source": "https://en.wikipedia.org/wiki/Derbent",
+      "tags": [
+        "Persian",
+        "City",
+        "Defense",
+        "Fortification",
+        "Sassanid"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.0579",
@@ -822,20 +843,18 @@
       "description": "Sassanid court art and later Persian poetry depict Khosrow II and his nobles playing chogan, a fast horseback game in which riders use long-handled mallets to drive a wooden ball toward a goal, already established as a favored pastime of the Persian aristocracy and military elite. Fields for the game are laid out beside royal palaces, and skill at chogan is treated as a mark of horsemanship and courtly refinement worth boasting about in verse.\n\nBeyond entertainment, chogan doubles as cavalry training, sharpening the same skills of horse control, quick direction changes, and hand-eye coordination that Sassanid mounted archers and lancers relied on in battle. The game spreads along trade and diplomatic routes into Byzantium, Central Asia, and eventually South Asia, where centuries later British colonists encounter a descendant of it in India and carry the game to the West under its Balti name, polo.",
       "description_ru": "Сасанидское придворное искусство и позднейшая персидская поэзия изображают Хосрова II и его вельмож играющими в чоуган — быструю конную игру, в которой всадники длинными молотками на рукояти гонят деревянный мяч к воротам, уже прочно закрепившуюся как любимое развлечение персидской знати и военной элиты. Поля для игры разбивают рядом с царскими дворцами, а мастерство в чоугане считается признаком наездничества и придворной утончённости, достойным воспевания в стихах.\n\nПомимо развлечения, чоуган служит и конной тренировкой, оттачивая те же навыки управления лошадью, быстрой смены направления и координации, на которые полагались сасанидские конные лучники и копейщики в бою. Игра распространяется по торговым и дипломатическим путям в Византию, Среднюю Азию и в конечном счёте в Южную Азию, где столетия спустя британские колонисты застают её потомка в Индии и переносят игру на Запад под балтийским названием — поло.",
       "era": "AD",
-      "latitude": 33.0936,
-      "longitude": 44.5808,
+      "latitude": 33.094,
+      "longitude": 44.581,
       "name": "Chogan — Sassanid Persia's Game of Polo",
       "name_ru": "Чоуган — сасанидская игра в поло",
       "source": "https://en.wikipedia.org/wiki/Chovgan",
       "tags": [
         "Persian",
-        "Sassanid",
-        "Chogan",
-        "Polo",
-        "Khosrow II",
-        "Sport",
+        "Aristocracy",
         "Cavalry",
-        "Culture"
+        "Culture",
+        "Sassanid",
+        "Sport"
       ],
       "type": "cultural"
     },
@@ -885,19 +904,18 @@
       "description": "Barbad, court musician and poet-singer to Khosrow II Parviz, becomes the most celebrated musician of the Sassanid era, playing the barbat lute and singing verses of his own composition at royal banquets from a position of such favor that later Persian tradition credits him with inventing an entire system of court music. He is remembered as organizing thirty Khosrovani melodies for the days of the month, seven royal modes for the days of the week, and 360 individual songs corresponding to the days of the Zoroastrian calendar year.\n\nBarbad's melodies are known to us only through their names and through admiring references in later New Persian poetry by Ferdowsi and Nizami, since no Sassanid musical notation survives, but the scale of the system attributed to him — a complete musical calendar matched to the rhythms of the Zoroastrian year — reflects how central music and poetry were to Sassanid court ceremony. His legendary status as the founding figure of Persian classical music persists into the present, with concert halls and music festivals across Iran still carrying his name.",
       "description_ru": "Барбад, придворный музыкант и певец-поэт Хосрова II Парвиза, становится самым прославленным музыкантом сасанидской эпохи: он играет на лютне барбат и поёт собственные стихи на царских пирах, пользуясь таким расположением, что позднейшая персидская традиция приписывает ему создание целой системы придворной музыки. Ему приписывают создание тридцати мелодий «хосровани» для дней месяца, семи царских ладов для дней недели и 360 отдельных песен, соответствующих дням зороастрийского календарного года.\n\nМелодии Барбада известны нам лишь по названиям и по восхищённым упоминаниям в позднейшей новоперсидской поэзии Фирдоуси и Низами, поскольку сасанидская музыкальная запись не сохранилась, но масштаб приписываемой ему системы — полный музыкальный календарь, согласованный с ритмами зороастрийского года — отражает, насколько центральное место музыка и поэзия занимали в сасанидской придворной церемонии. Его легендарный статус основоположника персидской классической музыки сохраняется и поныне: концертные залы и музыкальные фестивали по всему Ирану до сих пор носят его имя.",
       "era": "AD",
-      "latitude": 33.0936,
-      "longitude": 44.5808,
+      "latitude": 33.094,
+      "longitude": 44.581,
       "name": "Barbad Composes the Royal Music of Khosrow II's Court",
       "name_ru": "Барбад сочиняет придворную музыку двора Хосрова II",
       "source": "https://en.wikipedia.org/wiki/Barbad_the_Poet-Musician",
       "tags": [
         "Persian",
-        "Sassanid",
-        "Barbad",
-        "Music",
-        "Khosrow II",
+        "Ceremonial",
         "Culture",
-        "Poetry"
+        "Music",
+        "Poetry",
+        "Sassanid"
       ],
       "type": "cultural"
     },
@@ -1057,20 +1075,20 @@
       "era": "AD",
       "latitude": 34.1936,
       "longitude": 48.3606,
-      "name": "Apranik Leads Persian Resistance After the Fall of the Last Shahanshah",
-      "name_ru": "Апраник возглавляет персидское сопротивление после гибели последнего шаханшаха",
+      "name": "Persian resistance to Islamic conquest",
+      "name_ru": "Персидское сопротивление исламскому завоеванию",
       "source": "https://en.wikipedia.org/wiki/Muslim_conquest_of_Persia",
       "tags": [
+        "Arabian",
         "Persian",
+        "War",
+        "Islamic",
+        "Rashidun",
         "Sassanid",
-        "Apranik",
-        "Resistance",
-        "Women",
-        "Military",
-        "Arab conquest",
-        "Nahavand"
+        "Resistance"
       ],
       "type": "military"
     }
-  ]
+  ],
+  "filename": "AD1_sassanid_empire.json"
 }

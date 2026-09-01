@@ -1,6 +1,5 @@
 {
   "description": "Dataset imported with 101 events",
-  "filename": "BC2_achaemenid_empire.json",
   "events": [
     {
       "date": "01.01.0645",
@@ -24,33 +23,12 @@
       "type": "religious"
     },
     {
-      "date": "01.01.0550",
-      "description": "Xenophon records in the Cyropaedia that Cyrus the Great, on securing the Median throne alongside his own, adopts the long, flowing Median robe and the practice of wearing sleeves and a tiara for himself and his court nobles, judging the dignified drape of Median dress better suited to a king appearing before his subjects than plain Persian dress. The look becomes standard court costume in later Achaemenid reliefs at Persepolis, where kings and courtiers appear in the same layered robes.\n\nOrdinary Persians and the mounted troops who formed the backbone of the army continued to wear the fitted tunic and trousers — anaxyrides to the Greeks — practical garments suited to riding and archery that Greek writers mock as barbarous precisely because they cover the legs individually rather than draping them. The contrast between ceremonial Median robes at court and practical Persian trousers in the field captures a broader Achaemenid pattern of absorbing the customs of conquered peoples into a composite imperial identity.",
-      "description_ru": "Ксенофонт в «Киропедии» сообщает, что Кир Великий, заняв мидийский престол наряду с персидским, перенимает для себя и своих придворных длинное свободное мидийское одеяние с рукавами и тиару, посчитав, что достойный вид мидийской одежды больше подобает царю, являющемуся перед подданными, чем простое персидское платье. Этот облик становится стандартным придворным костюмом на позднейших ахеменидских рельефах Персеполя, где цари и придворные изображены в одинаковых многослойных одеяниях.\n\nПростые персы и конные воины, составлявшие костяк армии, продолжали носить облегающую тунику и штаны — «анаксириды» по-гречески, — практичную одежду, удобную для верховой езды и стрельбы из лука, которую греческие авторы высмеивают как варварскую именно за то, что она облегает каждую ногу отдельно, а не свисает драпировкой. Контраст между церемониальными мидийскими одеяниями при дворе и практичными персидскими штанами в поле отражает более широкую ахеменидскую модель — включение обычаев покорённых народов в составную имперскую идентичность.",
-      "era": "BC",
-      "latitude": 30.2026,
-      "longitude": 53.1739,
-      "name": "Cyrus Adopts the Median Robe While Persians Keep Their Riding Trousers",
-      "name_ru": "Кир перенимает мидийское одеяние, тогда как персы сохраняют штаны для верховой езды",
-      "source": "https://en.wikipedia.org/wiki/Achaemenid_dress",
-      "tags": [
-        "Persian",
-        "Achaemenid",
-        "Cyrus the Great",
-        "Fashion",
-        "Median",
-        "Court customs",
-        "Culture"
-      ],
-      "type": "cultural"
-    },
-    {
       "date": "01.01.0549",
       "description": "Cyrus proclaims himself 'King of Kings' after defeating Media, establishing title that will define Persian imperial ideology for centuries; begins transforming tribal kingdom into multinational empire",
       "description_ru": "Кир провозглашает себя 'Царем царей' после победы над Мидией, учреждая титул, который будет определять персидскую имперскую идеологию веками; начинает преобразование племенного царства в многонациональную империю",
       "era": "BC",
-      "latitude": 30.2026,
-      "longitude": 53.1678,
+      "latitude": 30.20235476,
+      "longitude": 53.17715406,
       "name": "Cyrus Proclaims 'King of Kings'",
       "name_ru": "Становление империи Ахеменидов",
       "source": "https://en.wikipedia.org/wiki/Cyrus_the_Great",
@@ -67,11 +45,32 @@
     },
     {
       "date": "01.01.0548",
+      "description": "Xenophon records in the Cyropaedia that Cyrus the Great, on securing the Median throne alongside his own, adopts the long, flowing Median robe and the practice of wearing sleeves and a tiara for himself and his court nobles, judging the dignified drape of Median dress better suited to a king appearing before his subjects than plain Persian dress. The look becomes standard court costume in later Achaemenid reliefs at Persepolis, where kings and courtiers appear in the same layered robes.\n\nOrdinary Persians and the mounted troops who formed the backbone of the army continued to wear the fitted tunic and trousers — anaxyrides to the Greeks — practical garments suited to riding and archery that Greek writers mock as barbarous precisely because they cover the legs individually rather than draping them. ",
+      "description_ru": "Ксенофонт сообщает, что Кир Великий, заняв мидийский престол наряду с персидским, перенимает для себя и своих придворных длинное свободное мидийское одеяние с рукавами и тиару, посчитав, что достойный вид мидийской одежды больше подобает царю, являющемуся перед подданными, чем простое персидское платье. Этот облик становится стандартным придворным костюмом на позднейших ахеменидских рельефах Персеполя, где цари и придворные изображены в одинаковых многослойных одеяниях.\n\nПростые персы и конные воины, составлявшие костяк армии, продолжали носить облегающую тунику и штаны — «анаксириды» по-гречески, — практичную одежду, удобную для верховой езды и стрельбы из лука, которую греческие авторы высмеивают как варварскую именно за то, что она облегает каждую ногу отдельно, а не свисает драпировкой. ",
+      "era": "BC",
+      "latitude": 30.20235476,
+      "longitude": 53.17715406,
+      "name": "Cyrus Adopts the Median Royal Robe",
+      "name_ru": "Кир перенимает мидийское королевское одеяние",
+      "source": "https://en.wikipedia.org/wiki/Achaemenid_dress",
+      "tags": [
+        "Persian",
+        "Medes",
+        "Achaemenid",
+        "Aristocracy",
+        "Culture",
+        "Cyrus the Great 👑",
+        "Fashion"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0548",
       "description": "Cyrus establishes policy of cultural and religious tolerance, allowing conquered peoples to maintain customs, languages and religions - revolutionary approach that ensures stability and loyalty",
       "description_ru": "Кир устанавливает политику культурной и религиозной терпимости, позволяя завоеванным народам сохранять обычаи, языки и религии - революционный подход, обеспечивающий стабильность и лояльность",
       "era": "BC",
-      "latitude": 30.2026,
-      "longitude": 53.1678,
+      "latitude": 30.20235476,
+      "longitude": 53.17715406,
       "name": "Policy of Imperial Tolerance of Cyrus",
       "name_ru": "Политика имперской терпимости Кира",
       "source": "https://en.wikipedia.org/wiki/Cyrus_the_Great",
@@ -86,6 +85,28 @@
         "Tolerance"
       ],
       "type": "political"
+    },
+    {
+      "date": "01.01.0546",
+      "description": "Construction begins on Pasargadae, first dynastic capital of Persian Empire, featuring Cyrus's tomb and palace complex with innovative architectural synthesis of various cultures",
+      "description_ru": "Начинается строительство Пасаргад, первой династической столицы Персидской империи, с гробницей Кира и дворцовым комплексом. Кир брал от покоренных народов архитектурные особенности и подходы, и применял их при строительстве дворца. Также Кир любил сады, и в Пасаргадах были разбиты обширные сады и серьезная система ирригации.",
+      "era": "BC",
+      "latitude": 30.20235476,
+      "longitude": 53.17715406,
+      "name": "Foundation of Pasargadae",
+      "name_ru": "Основание Пасаргад",
+      "source": "https://en.wikipedia.org/wiki/Pasargadae",
+      "tags": [
+        "Persian",
+        "Achaemenid",
+        "Building 🏠",
+        "City",
+        "Architecture",
+        "Capital",
+        "Cyrus the Great 👑",
+        "Palace"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.0546",
@@ -110,45 +131,23 @@
       "type": "military"
     },
     {
-      "date": "01.01.0546",
-      "description": "Construction begins on Pasargadae, first dynastic capital of Persian Empire, featuring Cyrus's tomb and palace complex with innovative architectural synthesis of various cultures",
-      "description_ru": "Начинается строительство Пасаргад, первой династической столицы Персидской империи, с гробницей Кира и дворцовым комплексом. Кир брал от покоренных народов архитектурные особенности и подходы, и применял их при строительстве дворца. Также Кир любил сады, и в Пасаргадах были разбиты обширные сады и серьезная система ирригации.",
-      "era": "BC",
-      "latitude": 30.2026,
-      "longitude": 53.1678,
-      "name": "Foundation of Pasargadae",
-      "name_ru": "Основание Пасаргад",
-      "source": "https://en.wikipedia.org/wiki/Pasargadae",
-      "tags": [
-        "Persian",
-        "Achaemenid",
-        "Building 🏠",
-        "City",
-        "Architecture",
-        "Capital",
-        "Cyrus the Great 👑",
-        "Palace"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.0546",
+      "date": "01.01.0545",
       "description": "Cyrus the Great lays out a formal quadripartite garden at his new capital of Pasargadae, dividing the grounds into four sections with stone water channels, pools, and pavilions arranged along strict geometric axes. The Old Persian word for this walled, irrigated paradise-on-earth, pairidaeza (\"walled around\"), passes into Greek as paradeisos and from there into nearly every European language as \"paradise\".\n\nArchaeologists excavating Pasargadae in the twentieth century uncovered the stone-lined channels feeding Cyrus's garden largely intact, confirming it as the earliest known example of the Persian charbagh, or four-part garden. The design—water as the organizing axis, shade trees and fruit trees planted in formal rows, the whole enclosed against the desert beyond—becomes the template later carried into Islamic garden design from Isfahan to the Alhambra and the Taj Mahal.",
       "description_ru": "Кир Великий разбивает в своей новой столице Пасаргадах регулярный четырёхчастный сад, разделив территорию на четыре участка каменными водными каналами, бассейнами и павильонами, расположенными по строгим геометрическим осям. Древнеперсидское слово для этого огороженного, орошаемого рая на земле, «паиридаэза» («обнесённое стеной»), переходит в греческий как «парадейсос», а оттуда почти во все европейские языки как «рай» (paradise).\n\nАрхеологи, раскопавшие Пасаргады в XX веке, обнаружили каменные каналы сада Кира почти нетронутыми, подтвердив, что это древнейший известный образец персидского чарбага — четырёхчастного сада. Схема — вода как организующая ось, тенистые и плодовые деревья, высаженные регулярными рядами, всё это огорожено от окружающей пустыни — становится образцом, позже перенесённым в исламское садовое искусство от Исфахана до Альгамбры и Тадж-Махала.",
       "era": "BC",
-      "latitude": 30.1928,
-      "longitude": 53.1739,
-      "name": "Cyrus Builds the Royal Garden at Pasargadae — Root of the Word 'Paradise'",
-      "name_ru": "Кир создаёт царский сад в Пасаргадах — источник слова «рай»",
-      "source": "https://en.wikipedia.org/wiki/Pasargadae",
+      "latitude": 30.19962863,
+      "longitude": 53.17792654,
+      "name": "Cyrus Builds the Royal Garden at Pasargadae",
+      "name_ru": "Кир создаёт царский сад в Пасаргадах",
+      "source": "https://en.wikipedia.org/wiki/Paradise_garden",
       "tags": [
         "Persian",
         "Achaemenid",
-        "Cyrus the Great",
-        "Garden",
-        "Pasargadae",
+        "Agriculture",
         "Architecture",
-        "Culture"
+        "Culture",
+        "Cyrus the Great 👑",
+        "Engineering ⚙️"
       ],
       "type": "cultural"
     },
@@ -177,8 +176,8 @@
       "description": "Cyrus establishes innovative administrative system combining central authority with local autonomy, appointing both Persian governors and local rulers to share power",
       "description_ru": "Кир строит инновационную административную систему, в которой единое правительство стоит над множеством стран, народов, религий и языков. Система простояла несколько веков и сохранилась и после завершения правления Ахеменидов",
       "era": "BC",
-      "latitude": 30.2026,
-      "longitude": 53.1678,
+      "latitude": 30.20235476,
+      "longitude": 53.17715406,
       "name": "Administrative Innovation",
       "name_ru": "Административные инновации Кира",
       "source": "https://en.wikipedia.org/wiki/Cyrus_the_Great",
@@ -210,6 +209,24 @@
         "Expansion"
       ],
       "type": "military"
+    },
+    {
+      "date": "01.01.0540",
+      "description": "Herodotus described the Arius region as extremely fertile. Artacoana flourished thanks to its location in the Harirud River valley, which supplied the city with water and made it a vital trade hub on the route to India and Central Asia. To maintain control of the region, the Persians built strongholds. Artacoana became one of the Achaemenid Empire's outposts in the East.",
+      "description_ru": "Геродот описывал регион Ария как чрезвычайно плодородный. Артакоана процветала благодаря своему расположению в долине реки Харируд, которая обеспечивала город водой и делала его важнейшим торговым узлом на пути в Индию и Центральную Азию. Чтобы удерживать контроль над регионом, персы строили опорные пункты. Артакоана стала одним из форпостов ахеменидской империи на Востоке",
+      "era": "BC",
+      "latitude": 34.34583668,
+      "longitude": 62.18842149,
+      "name": "The Persians found Artacoana in Aria",
+      "name_ru": "Основание персами Артакоаны в Арии",
+      "source": "https://en.wikipedia.org/wiki/Artacoana",
+      "tags": [
+        "Persian",
+        "Achaemenid",
+        "City",
+        "Fortification"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.0540",
@@ -248,24 +265,6 @@
         "Fortification"
       ],
       "type": "military"
-    },
-    {
-      "date": "01.01.0540",
-      "description": "Herodotus described the Arius region as extremely fertile. Artacoana flourished thanks to its location in the Harirud River valley, which supplied the city with water and made it a vital trade hub on the route to India and Central Asia. To maintain control of the region, the Persians built strongholds. Artacoana became one of the Achaemenid Empire's outposts in the East.",
-      "description_ru": "Геродот описывал регион Ария как чрезвычайно плодородный. Артакоана процветала благодаря своему расположению в долине реки Харируд, которая обеспечивала город водой и делала его важнейшим торговым узлом на пути в Индию и Центральную Азию. Чтобы удерживать контроль над регионом, персы строили опорные пункты. Артакоана стала одним из форпостов ахеменидской империи на Востоке",
-      "era": "BC",
-      "latitude": 34.34583668,
-      "longitude": 62.18842149,
-      "name": "The Persians found Artacoana in Aria",
-      "name_ru": "Основание персами Артакоаны в Арии",
-      "source": "https://en.wikipedia.org/wiki/Artacoana",
-      "tags": [
-        "Persian",
-        "Achaemenid",
-        "City",
-        "Fortification"
-      ],
-      "type": "historic"
     },
     {
       "date": "12.10.0539",
@@ -361,8 +360,8 @@
       "description": "Cyrus creates professional standing army with elite Immortals guard unit of 10,000 soldiers, revolutionizing Persian military organization",
       "description_ru": "Кир создает профессиональную постоянную армию с элитным подразделением гвардии Бессмертных из 10 000 солдат. Бессмертные играли роль царской стражи, а также элитного войска в завоевательных походах.",
       "era": "BC",
-      "latitude": 30.2026,
-      "longitude": 53.1678,
+      "latitude": 30.20235476,
+      "longitude": 53.17715406,
       "name": "Formation of Immortals Guard",
       "name_ru": "Формирование гвардии Бессмертных",
       "source": "https://en.wikipedia.org/wiki/Immortals_(Achaemenid_Empire)",
@@ -441,8 +440,8 @@
       "description": "Cyrus's body returned to Pasargadae for burial in simple stone tomb; inscription reads 'O man, whoever you are and wherever you come from, for I know you will come, I am Cyrus who won the Persians their empire. Do not begrudge me this bit of earth that covers my bones'",
       "description_ru": "Тело Кира возвращено в Пасаргады для захоронения в простой каменной гробнице; надпись гласит: 'О человек, кто бы ты ни был и откуда бы ни пришел, ибо я знаю, что ты придешь, я - Кир, который завоевал персам их империю. Не жалей для меня этого клочка земли, покрывающего мои кости'",
       "era": "BC",
-      "latitude": 30.2026,
-      "longitude": 53.1678,
+      "latitude": 30.19413904,
+      "longitude": 53.1671977,
       "name": "Tomb of Cyrus",
       "name_ru": "Гробница Кира",
       "source": "https://en.wikipedia.org/wiki/Tomb_of_Cyrus",
@@ -483,8 +482,8 @@
       "description": "Cambyses II succeeded his father in Pasargadae. During his coronation, the new emperor, beginning with Cambyses, underwent certain rituals: entering the temple, removing his clothes, donning the robes worn by Cyrus the Great, and performing symbolic acts, including eating and drinking.",
       "description_ru": "Камбиз II наследует власть отца в Пасаргадах. Во время коронации новый император, начиная с Камбиза, проходил определенные ритуалы: входил в храм, снимал одежду, надевал одеяния, которые носил Кир Великий, и совершал символические действия, включающие еду и питье.",
       "era": "BC",
-      "latitude": 30.2026,
-      "longitude": 53.1678,
+      "latitude": 30.20235476,
+      "longitude": 53.17715406,
       "name": "Cambyses II Becomes Emperor of Persia",
       "name_ru": "Камбиз II — император Персии",
       "source": "https://en.wikipedia.org/wiki/Cambyses_II",
@@ -518,22 +517,40 @@
       "type": "military"
     },
     {
-      "date": "01.03.0522",
-      "description": "Cambyses dies mysteriously during return from Egypt; power is seized by the magician (Mede priest) Gaumata, who pretended to be Bardiya (Smerdis), the long-killed brother of Cambyses",
-      "description_ru": "Камбиз умирает при неизвестных обстоятельствах во время возвращения из Египта; власть захватывает маг (мидийский жрец) Гаумата, который выдавал себя за Бардию (Смердиса), давно убитого брата Камбиза",
+      "date": "30.12.0522",
+      "description": "The Izla Range served as a natural barrier between the Mesopotamian plains and the Armenian Highlands. The Persian general Vaumis waged the first battle against the rebellious Armenians and defeated them, blocking their access to the Tigris and Euphrates.",
+      "description_ru": "Хребет Изала служил естественным барьером между равнинами Двуречья и Армянским нагорьем. Персидский полководец Ваумиса дает первый бой мятежным армянам и побеждает их, блокируя армянам доступ к Тигру и Евфрату",
       "era": "BC",
-      "latitude": 30.2026,
-      "longitude": 53.1678,
-      "name": "Gaumata Seizes Persian Rule",
-      "name_ru": "Гаумата захватывает власть в Персии",
-      "source": "https://en.wikipedia.org/wiki/Darius_I",
+      "latitude": 37.33754462,
+      "longitude": 41.16010666,
+      "name": "Suppression of the Armenian uprising at Izla",
+      "name_ru": "Подавление армянского восстания при Изла",
+      "tags": [
+        "Persian",
+        "Armenian",
+        "Achaemenid",
+        "Civil War",
+        "War",
+        "Battle"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.10.0522",
+      "description": "After the assassination of the impostor, the conspirators decided that Darius would become the new king. He was crowned the new King of Kings. Darius's rise to power was not peaceful. Many provinces that had not recognized him rebelled.\n",
+      "description_ru": "После убийства самозванца заговорщики решили, что новым царем станет Дарий. Он был коронован как новый Царь Царей. Приход Дария к власти не был мирным. Многие провинции, не признавшие его, восстали.",
+      "era": "BC",
+      "latitude": 32.1897,
+      "longitude": 48.2583,
+      "name": "Darius — King of Persia",
+      "name_ru": "Дарий - царь Персии",
       "tags": [
         "Persian",
         "Achaemenid",
         "Civil War",
         "Dynasty",
-        "Death",
-        "Imposter"
+        "King",
+        "Darius I 👑"
       ],
       "type": "political"
     },
@@ -556,62 +573,24 @@
       "type": "political"
     },
     {
-      "date": "01.10.0522",
-      "description": "After the assassination of the impostor, the conspirators decided that Darius would become the new king. He was crowned the new King of Kings. Darius's rise to power was not peaceful. Many provinces that had not recognized him rebelled.\n",
-      "description_ru": "После убийства самозванца заговорщики решили, что новым царем станет Дарий. Он был коронован как новый Царь Царей. Приход Дария к власти не был мирным. Многие провинции, не признавшие его, восстали.",
+      "date": "01.03.0522",
+      "description": "Cambyses dies mysteriously during return from Egypt; power is seized by the magician (Mede priest) Gaumata, who pretended to be Bardiya (Smerdis), the long-killed brother of Cambyses",
+      "description_ru": "Камбиз умирает при неизвестных обстоятельствах во время возвращения из Египта; власть захватывает маг (мидийский жрец) Гаумата, который выдавал себя за Бардию (Смердиса), давно убитого брата Камбиза",
       "era": "BC",
-      "latitude": 32.1897,
-      "longitude": 48.2583,
-      "name": "Darius — King of Persia",
-      "name_ru": "Дарий - царь Персии",
+      "latitude": 30.20235476,
+      "longitude": 53.17715406,
+      "name": "Gaumata Seizes Persian Rule",
+      "name_ru": "Гаумата захватывает власть в Персии",
+      "source": "https://en.wikipedia.org/wiki/Darius_I",
       "tags": [
         "Persian",
         "Achaemenid",
         "Civil War",
         "Dynasty",
-        "King",
-        "Darius I 👑"
+        "Death",
+        "Imposter"
       ],
       "type": "political"
-    },
-    {
-      "date": "30.12.0522",
-      "description": "The Izla Range served as a natural barrier between the Mesopotamian plains and the Armenian Highlands. The Persian general Vaumis waged the first battle against the rebellious Armenians and defeated them, blocking their access to the Tigris and Euphrates.",
-      "description_ru": "Хребет Изала служил естественным барьером между равнинами Двуречья и Армянским нагорьем. Персидский полководец Ваумиса дает первый бой мятежным армянам и побеждает их, блокируя армянам доступ к Тигру и Евфрату",
-      "era": "BC",
-      "latitude": 37.33754462,
-      "longitude": 41.16010666,
-      "name": "Suppression of the Armenian uprising at Izla",
-      "name_ru": "Подавление армянского восстания при Изла",
-      "tags": [
-        "Persian",
-        "Armenian",
-        "Achaemenid",
-        "Civil War",
-        "War",
-        "Battle"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "30.05.0521",
-      "description": "The Persian commander Dadarsi defeated the Armenian army at the Tigris fortress, shifting the balance of power in favor of the Persians. This event is recorded in the Behistun Inscription. The exact location of the Tigris fortress remains a subject of debate.",
-      "description_ru": "Персидский полководец Дадаршиш разгромил армянское войско при крепости Тигра, сместив баланс сил в сторону персов. Это событие зафиксировано в Бехистунской надписи. Точное местоположение крепости Тигра остается предметом дискуссий.",
-      "era": "BC",
-      "latitude": 37.94148997,
-      "longitude": 41.9657135,
-      "name": "Suppression of the Armenian uprising at the Tigris fortress",
-      "name_ru": "Подавление армянского восстания при крепости Тигра",
-      "source": "https://en.wikipedia.org/wiki/Behistun_Inscription",
-      "tags": [
-        "Persian",
-        "Armenian",
-        "Achaemenid",
-        "Civil War",
-        "War",
-        "Battle"
-      ],
-      "type": "military"
     },
     {
       "date": "01.12.0521",
@@ -652,6 +631,26 @@
       "type": "cultural"
     },
     {
+      "date": "30.05.0521",
+      "description": "The Persian commander Dadarsi defeated the Armenian army at the Tigris fortress, shifting the balance of power in favor of the Persians. This event is recorded in the Behistun Inscription. The exact location of the Tigris fortress remains a subject of debate.",
+      "description_ru": "Персидский полководец Дадаршиш разгромил армянское войско при крепости Тигра, сместив баланс сил в сторону персов. Это событие зафиксировано в Бехистунской надписи. Точное местоположение крепости Тигра остается предметом дискуссий.",
+      "era": "BC",
+      "latitude": 37.94148997,
+      "longitude": 41.9657135,
+      "name": "Suppression of the Armenian uprising at the Tigris fortress",
+      "name_ru": "Подавление армянского восстания при крепости Тигра",
+      "source": "https://en.wikipedia.org/wiki/Behistun_Inscription",
+      "tags": [
+        "Persian",
+        "Armenian",
+        "Achaemenid",
+        "Civil War",
+        "War",
+        "Battle"
+      ],
+      "type": "military"
+    },
+    {
       "date": "01.01.0520",
       "description": "Darius reorganizes empire into 20 satrapies (provinces), each with satrap (governor), military commander, and royal secretary creating efficient administrative system",
       "description_ru": "Дарий делит империю на 20 сатрапий, каждая с сатрапом (губернатором), военачальником и царским секретарем. Сатрапии платили империи дань, поставляли войска при необходимости; в остальном в вопросах культуры, законодательства, традиций и языка имели определенную автономность.",
@@ -672,27 +671,6 @@
     },
     {
       "date": "01.01.0518",
-      "description": "Darius introduced a single coin throughout the empire—the gold daric and the silver siglos. The daric, weighing 8.4 grams, was minted from 95% gold and depicted the crowned Persian king himself, running or kneeling, holding a bow and spear. The silver siglos, weighing 5.6 grams, was used for everyday transactions. The state strictly controlled the exchange rate — the daric was always equal to 20 siglos. This currency standard simplified trade and tax collection across vast territories.",
-      "description_ru": "Дарий вводит единую монету по всей империи - золотой дарик и серебряный сигль. Дарик весом 8.4г чеканился из 95% золота; на ней был изображен сам персидский царь в короне, бегущий или преклонивший колено, с луком и копьем в руках. Серебряный сигль весом 5.6г служил для повседневных расчетов. Государство строго контролировало курс - дарик всегда был равен 20 сиглям. Стандарт валюты упрощал торговлю и сбор налогов на огромных территориях",
-      "era": "BC",
-      "latitude": 32.1897,
-      "longitude": 48.2583,
-      "name": "Persian Imperial Coinage",
-      "name_ru": "Персидская имперская монета",
-      "source": "https://en.wikipedia.org/wiki/Achaemenid_coinage",
-      "tags": [
-        "Persian",
-        "Achaemenid",
-        "Currency",
-        "Darius I 👑",
-        "Economic",
-        "Standardization",
-        "Trade"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "01.01.0518",
       "description": "Construction begins on Persepolis, ceremonial capital and showcase of imperial power, featuring Apadana palace with distinctive Persian column capitals and extensive reliefs. Nowruz (New Year) was traditionally celebrated in Persepolis.",
       "description_ru": "Начинается строительство Персеполя, церемониальной столицы и витрины имперской мощи, с дворцом Ападана с характерными персидскими капителями колонн и обширными рельефами. В Персеполе традиционно праздновался Навруз (Новый год)",
       "era": "BC",
@@ -710,6 +688,27 @@
         "Capital",
         "Darius I 👑",
         "Palace"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0518",
+      "description": "Darius introduced a single coin throughout the empire—the gold daric and the silver siglos. The daric, weighing 8.4 grams, was minted from 95% gold and depicted the crowned Persian king himself, running or kneeling, holding a bow and spear. The silver siglos, weighing 5.6 grams, was used for everyday transactions. The state strictly controlled the exchange rate — the daric was always equal to 20 siglos. This currency standard simplified trade and tax collection across vast territories.",
+      "description_ru": "Дарий вводит единую монету по всей империи - золотой дарик и серебряный сигль. Дарик весом 8.4г чеканился из 95% золота; на ней был изображен сам персидский царь в короне, бегущий или преклонивший колено, с луком и копьем в руках. Серебряный сигль весом 5.6г служил для повседневных расчетов. Государство строго контролировало курс - дарик всегда был равен 20 сиглям. Стандарт валюты упрощал торговлю и сбор налогов на огромных территориях",
+      "era": "BC",
+      "latitude": 32.1897,
+      "longitude": 48.2583,
+      "name": "Persian Imperial Coinage",
+      "name_ru": "Персидская имперская монета",
+      "source": "https://en.wikipedia.org/wiki/Achaemenid_coinage",
+      "tags": [
+        "Persian",
+        "Achaemenid",
+        "Currency",
+        "Darius I 👑",
+        "Economic",
+        "Standardization",
+        "Trade"
       ],
       "type": "historic"
     },
@@ -817,22 +816,22 @@
     },
     {
       "date": "01.01.0500",
-      "description": "Soviet archaeologists excavating a frozen Scythian burial mound in the Pazyryk Valley of the Altai Mountains in 1949 recover a densely knotted wool carpet, preserved for roughly two and a half thousand years by ice that sealed the tomb shortly after burial. Radiocarbon dating and stylistic analysis place its weaving in the fifth century BC, making it the oldest known knotted-pile carpet in the world by a wide margin.\n\nThe carpet's central field of stepped crosses is bordered by rows of griffins, deer, and mounted horsemen whose dress, horse trappings, and riding style closely match figures carved on the Achaemenid reliefs at Persepolis, leading most scholars to attribute its manufacture to Achaemenid Persia or a closely related Iranian-speaking culture on the empire's fringe, even though it was found thousands of kilometers away in a Scythian chieftain's grave. Its survival by accident of ice and burial offers rare physical proof of a craft — Persian carpet weaving — otherwise known mainly through later written accounts and paintings.",
-      "description_ru": "Советские археологи, раскопавшие в 1949 году промёрзший скифский курган в Пазырыкской долине Алтая, обнаруживают плотно завязанный шерстяной ковёр, сохранившийся около двух с половиной тысяч лет благодаря льду, запечатавшему могилу вскоре после захоронения. Радиоуглеродный анализ и стилистическое изучение относят его изготовление к V веку до н. э., что делает его древнейшим из известных ворсовых ковров в мире с большим отрывом от прочих находок.\n\nЦентральное поле ковра со ступенчатыми крестами окаймлено рядами грифонов, оленей и всадников, чья одежда, конская упряжь и манера верховой езды почти точно совпадают с фигурами на ахеменидских рельефах Персеполя, что заставляет большинство учёных приписывать его изготовление ахеменидской Персии или близкой ираноязычной культуре на окраине державы, хотя найден он был за тысячи километров, в могиле скифского вождя. Его случайная сохранность благодаря льду и захоронению даёт редкое вещественное подтверждение ремесла — персидского ковроткачества, — иначе известного в основном по позднейшим письменным свидетельствам и изображениям.",
+      "description": "Carpets were originally woven by the nomadic tribes of Ancient Persia for purely practical purposes—to protect them from the cold in their tents. The Pazyryk carpet, miraculously preserved in the Siberian permafrost of the Altai Mountains, is considered the oldest knotted pile carpet in the world. The carpet's central panel, with stepped crosses, is bordered by rows of griffins, deer, and horsemen, whose clothing, horse harness, and riding style almost exactly match the figures on the Achaemenid reliefs of Persepolis, leading most scholars to attribute its manufacture to Achaemenid Persia.\n\nEach carpet is an encrypted story. The central element (medallion) symbolizes the all-seeing eye or the sun. The border/frame represents the boundaries of the earthly world or the protective walls of a garden; it protects the interior of the carpet (and the house) from chaos and evil forces. The tree of life signifies the path to heaven, birds represent good news, and pomegranates represent abundance. The color of the thread was chosen to convey a particular mood or blessing. Ancient craftsmen would deliberately allow tiny errors in symmetry or color. They believed that \"only God is perfect,\" and that human striving to create a perfect object is arrogant.",
+      "description_ru": "Первоначально ковры плели кочевые племена Древней Персии для чисто практических целей — защиты от холода в шатрах. Самым древним узелковым ворсовым ковром в мире считается Пазырыкский ковер, чудом сохранившийся в Сибирской мерзлоте на Алтае. Центральное поле ковра со ступенчатыми крестами окаймлено рядами грифонов, оленей и всадников, чья одежда, конская упряжь и манера верховой езды почти точно совпадают с фигурами на ахеменидских рельефах Персеполя, что заставляет большинство учёных приписывать его изготовление ахеменидской Персии.\n\nКаждый ковер — это зашифрованная история. Центральный элемент (медальон) символизирует всевидящее око или солнце. Бордюр/рамка олицетворяет границы земного мира или защитные стены сада; он оберегает внутреннее пространство ковра (и дома) от хаоса и злых сил. Древо жизни означает путь к небу, птицы — добрую весть, а гранаты — изобилие. Цвет нити выбирался для передачи определенного настроения или благословения. Старинные мастера сознательно допускали крошечную ошибку в симметрии или цвете. Они верили, что «только Бог совершенен», а стремление человека создать идеальную вещь — это гордыня.",
       "era": "BC",
-      "latitude": 30.2026,
-      "longitude": 53.1739,
-      "name": "The Pazyryk Carpet — the World's Oldest Surviving Knotted Rug",
-      "name_ru": "Пазырыкский ковёр — древнейший из сохранившихся ворсовых ковров мира",
+      "latitude": 30.20235476,
+      "longitude": 53.17715406,
+      "name": "Persian carpet weaving",
+      "name_ru": "Персидское ковроткачество",
       "source": "https://en.wikipedia.org/wiki/Pazyryk_rug",
       "tags": [
         "Persian",
         "Achaemenid",
-        "Carpet",
-        "Textile",
-        "Craftsmanship",
-        "Archaeology",
-        "Culture"
+        "Art",
+        "Craft",
+        "Culture",
+        "Philosophy",
+        "Textile"
       ],
       "type": "cultural"
     },
@@ -1026,8 +1025,8 @@
       "era": "BC",
       "latitude": 32.1897,
       "longitude": 48.2583,
-      "name": "Mobilization for Greek Invasion",
-      "name_ru": "Мобилизация для вторжения в Грецию",
+      "name": "Persian mobilization for Greek Invasion",
+      "name_ru": "Мобилизация Персии для вторжения в Грецию",
       "source": "https://en.wikipedia.org/wiki/Second_Persian_invasion_of_Greece",
       "tags": [
         "Greek",
@@ -1035,67 +1034,6 @@
         "Achaemenid",
         "War",
         "Army",
-        "Xerxes I 👑"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.01.0480",
-      "description": "Persian engineers construct pontoon bridges across Hellespont strait using hundreds of ships, allowing army to cross from Asia to Europe - remarkable feat of military engineering",
-      "description_ru": "Персидские инженеры строят понтонные мосты через пролив Геллеспонт, используя сотни кораблей, что позволяет армии переправиться из Азии в Европу",
-      "era": "BC",
-      "latitude": 40.19667529,
-      "longitude": 26.40971661,
-      "name": "Hellespont Bridge Construction",
-      "name_ru": "Понтонный мост через Геллеспонт",
-      "source": "https://en.wikipedia.org/wiki/Xerxes%27_Pontoon_Bridges",
-      "tags": [
-        "Persian",
-        "Achaemenid",
-        "Bridge",
-        "Engineering ⚙️",
-        "Infrastructure",
-        "Innovation"
-      ],
-      "type": "historic"
-    },
-    {
-      "date": "20.08.0480",
-      "description": "300 Spartans and allies make legendary stand at Thermopylae pass, delaying Persian army for three days before betrayal allows Persians to outflank Greek position",
-      "description_ru": "300 спартанцев и союзников совершают легендарный подвиг в Фермопильском ущелье, задерживая персидскую армию на три дня, прежде чем предательство позволяет персам обойти греческие позиции",
-      "era": "BC",
-      "latitude": 38.8,
-      "longitude": 22.5367,
-      "name": "Battle of Thermopylae",
-      "name_ru": "Битва при Фермопилах",
-      "source": "https://en.wikipedia.org/wiki/Battle_of_Thermopylae",
-      "tags": [
-        "Greek",
-        "Persian",
-        "Achaemenid",
-        "Sparta",
-        "War",
-        "Battle"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "15.09.0480",
-      "description": "Persian forces capture and burn Athens including Acropolis; population evacuated to Salamis, but destruction of sacred sites enrages Greek city-states",
-      "description_ru": "Персидские силы захватывают и сжигают Афины, включая Акрополь. Население эвакуируется на Саламин, однако разрушение священных мест приводит в ярость греческие города-государства",
-      "era": "BC",
-      "latitude": 37.9755,
-      "longitude": 23.7348,
-      "name": "Sacking of Athens",
-      "name_ru": "Персия разрушает Афины",
-      "source": "https://en.wikipedia.org/wiki/Second_Persian_invasion_of_Greece",
-      "tags": [
-        "Greek",
-        "Persian",
-        "Achaemenid",
-        "War",
-        "Conquest",
-        "Destruction",
         "Xerxes I 👑"
       ],
       "type": "military"
@@ -1122,6 +1060,67 @@
         "Xerxes I 👑"
       ],
       "type": "military"
+    },
+    {
+      "date": "15.09.0480",
+      "description": "Persian forces capture and burn Athens including Acropolis; population evacuated to Salamis, but destruction of sacred sites enrages Greek city-states",
+      "description_ru": "Персидские силы захватывают и сжигают Афины, включая Акрополь. Население эвакуируется на Саламин, однако разрушение священных мест приводит в ярость греческие города-государства",
+      "era": "BC",
+      "latitude": 37.9755,
+      "longitude": 23.7348,
+      "name": "Sacking of Athens",
+      "name_ru": "Персия разрушает Афины",
+      "source": "https://en.wikipedia.org/wiki/Second_Persian_invasion_of_Greece",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Achaemenid",
+        "War",
+        "Conquest",
+        "Destruction",
+        "Xerxes I 👑"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "20.08.0480",
+      "description": "300 Spartans and allies make legendary stand at Thermopylae pass, delaying Persian army for three days before betrayal allows Persians to outflank Greek position",
+      "description_ru": "300 спартанцев и союзников совершают легендарный подвиг в Фермопильском ущелье, задерживая персидскую армию на три дня, прежде чем предательство позволяет персам обойти греческие позиции",
+      "era": "BC",
+      "latitude": 38.8,
+      "longitude": 22.5367,
+      "name": "Battle of Thermopylae",
+      "name_ru": "Битва при Фермопилах",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Thermopylae",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Achaemenid",
+        "Sparta",
+        "War",
+        "Battle"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0480",
+      "description": "Persian engineers construct pontoon bridges across Hellespont strait using hundreds of ships, allowing army to cross from Asia to Europe - remarkable feat of military engineering",
+      "description_ru": "Персидские инженеры строят понтонные мосты через пролив Геллеспонт, используя сотни кораблей, что позволяет армии переправиться из Азии в Европу",
+      "era": "BC",
+      "latitude": 40.19667529,
+      "longitude": 26.40971661,
+      "name": "Hellespont Bridge Construction",
+      "name_ru": "Понтонный мост через Геллеспонт",
+      "source": "https://en.wikipedia.org/wiki/Xerxes%27_Pontoon_Bridges",
+      "tags": [
+        "Persian",
+        "Achaemenid",
+        "Bridge",
+        "Engineering ⚙️",
+        "Infrastructure",
+        "Innovation"
+      ],
+      "type": "historic"
     },
     {
       "date": "27.08.0479",
@@ -1310,22 +1309,21 @@
     },
     {
       "date": "01.01.0450",
-      "description": "Herodotus records in his Histories that the Persians are in the habit of debating the most important matters of state while drunk on wine, then reconsidering the same decision the next day while sober — and if it still holds up, adopting it, but discarding it if it does not. Matters first debated sober are given the same treatment in reverse, reheard once more under the influence of wine before being finalized.\n\nHerodotus offers the custom as evidence of Persian seriousness rather than excess, a system built on the belief that wine loosens inhibition enough to surface a courtier's true opinion, while sobriety supplies the judgement to filter it. Persian wine culture more broadly draws frequent comment from Greek visitors, who note the elaborate court banquets, the large drinking vessels reserved for the king's use, and the social status attached to particular vineyards on the Iranian plateau.",
-      "description_ru": "Геродот сообщает в «Истории», что персы имеют обыкновение обсуждать важнейшие государственные дела в состоянии опьянения вином, а на следующий день пересматривать то же решение уже трезвыми — и если оно выдерживает проверку, принимают его, а если нет, отвергают. Вопросы, впервые обсуждённые трезвыми, проходят ту же процедуру в обратном порядке — их заново рассматривают уже под воздействием вина, прежде чем принять окончательно.\n\nГеродот приводит этот обычай как свидетельство персидской серьёзности, а не распущенности — система построена на убеждении, что вино достаточно ослабляет сдержанность, чтобы выявить истинное мнение придворного, тогда как трезвость даёт рассудительность для его проверки. Персидская культура вина в целом часто привлекает внимание греческих гостей, отмечающих пышные придворные пиршества, крупные сосуды для питья, предназначенные лишь для царя, и социальный престиж, связанный с определёнными виноградниками Иранского нагорья.",
+      "description": "Herodotus records in his Histories that the Persians are in the habit of debating the most important matters of state while drunk on wine, then reconsidering the same decision the next day while sober — and if it still holds up, adopting it, but discarding it if it does not. Matters first debated sober are given the same treatment in reverse, reheard once more under the influence of wine before being finalized.\n\nHerodotus offers the custom as evidence of Persian seriousness rather than excess, a system built on the belief that wine loosens inhibition enough to surface a courtier's true opinion, while sobriety supplies the judgement to filter it.",
+      "description_ru": "Геродот сообщает в «Истории», что персы имеют обыкновение обсуждать важнейшие государственные дела в состоянии опьянения вином, а на следующий день пересматривать то же решение уже трезвыми — и если оно выдерживает проверку, принимают его, а если нет, отвергают. Вопросы, впервые обсуждённые трезвыми, проходят ту же процедуру в обратном порядке — их заново рассматривают уже под воздействием вина, прежде чем принять окончательно.\n\nГеродот приводит этот обычай как свидетельство персидской серьёзности, а не распущенности — система построена на убеждении, что вино достаточно ослабляет сдержанность, чтобы выявить истинное мнение придворного, тогда как трезвость даёт рассудительность для его проверки.",
       "era": "BC",
-      "latitude": 29.9375,
-      "longitude": 52.8917,
-      "name": "Herodotus Describes the Persian Custom of Deciding Twice — Sober and Drunk",
-      "name_ru": "Геродот описывает персидский обычай принимать решения дважды — трезвым и пьяным",
+      "latitude": 29.9342,
+      "longitude": 52.8906,
+      "name": "Persian Custom of Deciding Twice",
+      "name_ru": "Персидский обычай принимать решение дважды",
       "source": "https://en.wikipedia.org/wiki/Herodotus",
       "tags": [
         "Persian",
         "Achaemenid",
-        "Herodotus",
-        "Wine",
-        "Court customs",
+        "Aristocracy",
         "Culture",
-        "Daily life"
+        "Customs",
+        "Wine"
       ],
       "type": "cultural"
     },
@@ -1453,26 +1451,6 @@
       "type": "political"
     },
     {
-      "date": "01.01.0404",
-      "description": "Darius II dies; Artaxerxes II becomes shahanshah of Persia but faces immediate revolt by younger brother Cyrus the Younger, who claims throne",
-      "description_ru": "Дарий II умирает; Артаксеркс II становится шахиншахом, но сталкивается с немедленным восстанием младшего брата Кира Младшего, который претендует на трон",
-      "era": "BC",
-      "latitude": 30.2026,
-      "longitude": 53.1678,
-      "name": "Artaxerxes II Becomes Emperor of Persia",
-      "name_ru": "Артаксеркс II — император Персии",
-      "source": "https://en.wikipedia.org/wiki/Artaxerxes_II",
-      "tags": [
-        "Persian",
-        "Achaemenid",
-        "Civil War",
-        "Dynasty",
-        "King",
-        "Rebellion"
-      ],
-      "type": "political"
-    },
-    {
       "date": "01.02.0404",
       "description": "Egyptian satrap Amyrtaeus revolts successfully, establishing 28th Dynasty as independent kingdom and ending Persian rule in Egypt for 60 years",
       "description_ru": "Египетский сатрап Амиртей успешно восстает, основывая 28-ю династию как независимое царство и завершая персидское правление в Египте на 60 лет",
@@ -1486,6 +1464,26 @@
         "Persian",
         "Egypt",
         "Independence",
+        "Rebellion"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0404",
+      "description": "Darius II dies; Artaxerxes II becomes shahanshah of Persia but faces immediate revolt by younger brother Cyrus the Younger, who claims throne",
+      "description_ru": "Дарий II умирает; Артаксеркс II становится шахиншахом, но сталкивается с немедленным восстанием младшего брата Кира Младшего, который претендует на трон",
+      "era": "BC",
+      "latitude": 30.20235476,
+      "longitude": 53.17715406,
+      "name": "Artaxerxes II Becomes Emperor of Persia",
+      "name_ru": "Артаксеркс II — император Персии",
+      "source": "https://en.wikipedia.org/wiki/Artaxerxes_II",
+      "tags": [
+        "Persian",
+        "Achaemenid",
+        "Civil War",
+        "Dynasty",
+        "King",
         "Rebellion"
       ],
       "type": "political"
@@ -1537,17 +1535,15 @@
       "era": "BC",
       "latitude": 31.8974,
       "longitude": 54.3675,
-      "name": "Persian Engineers Build the Yakhchal — a Desert Refrigerator Cooled by the Badgir",
-      "name_ru": "Персидские инженеры строят яхчал — пустынный холодильник, охлаждаемый бадгиром",
+      "name": "Persian yakhchal - the refrigerator of the desert",
+      "name_ru": "Персидский яхчал — холодильник пустыни",
       "source": "https://en.wikipedia.org/wiki/Yakhch%C4%81l",
       "tags": [
         "Persian",
         "Achaemenid",
-        "Yakhchal",
-        "Badgir",
-        "Engineering",
+        "Building 🏠",
         "Architecture",
-        "Desert",
+        "Engineering ⚙️",
         "Innovation"
       ],
       "type": "scientific"
@@ -1649,6 +1645,7 @@
         "Babylonian",
         "Achaemenid",
         "Reform",
+        "Mother of God",
         "Pagan",
         "Religious",
         "Syncretism",
@@ -1773,8 +1770,8 @@
       "description": "Bagoas poisons Emperor Arses and most of royal family; installs distant relative Darius III as emperor, last ruler of Achaemenid Empire",
       "description_ru": "Багой отравляет императора Арсеса и большую часть царской семьи; приводит к власти дальнего родственника Дария III, последнего правителя династии Ахеменидов",
       "era": "BC",
-      "latitude": 30.2026,
-      "longitude": 53.1678,
+      "latitude": 30.20235476,
+      "longitude": 53.17715406,
       "name": "Darius III Becomes Emperor of Persia",
       "name_ru": "Дарий III — император Персии",
       "source": "https://en.wikipedia.org/wiki/Darius_III",
@@ -1787,48 +1784,6 @@
         "Regicide"
       ],
       "type": "political"
-    },
-    {
-      "date": "01.01.0334",
-      "description": "Alexander crosses Hellespont into Asia with 35,000 troops, beginning conquest of Persian Empire; visits Troy and pays homage to Achilles",
-      "description_ru": "Александр переправляется через Геллеспонт в Азию с 35 000 воинов, начиная завоевание Персидской империи; посещает Трою и отдает дань уважения Ахиллу",
-      "era": "BC",
-      "latitude": 40.19667529,
-      "longitude": 26.40971661,
-      "name": "Alexander Invades Persian Empire",
-      "name_ru": "Александр вторгается в Персидскую империю",
-      "source": "https://en.wikipedia.org/wiki/Alexander_the_Great",
-      "tags": [
-        "Greek",
-        "Persian",
-        "Macedonian",
-        "Achaemenid",
-        "War",
-        "Alexander the Great 👤",
-        "Invasion"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.05.0334",
-      "description": "Alexander defeats Persian satrapal army at Battle of Granicus River, opening Asia Minor to Macedonian conquest and revealing Persian tactical weakness",
-      "description_ru": "Александр побеждает персидскую армию в битве при реке Граник, открывая Малую Азию для македонского завоевания",
-      "era": "BC",
-      "latitude": 40.29406071,
-      "longitude": 27.2347641,
-      "name": "Battle of Granicus",
-      "name_ru": "Битва при Гранике",
-      "source": "https://en.wikipedia.org/wiki/Battle_of_the_Granicus",
-      "tags": [
-        "Greek",
-        "Persian",
-        "Macedonian",
-        "Achaemenid",
-        "War",
-        "Battle",
-        "Alexander the Great 👤"
-      ],
-      "type": "military"
     },
     {
       "date": "11.06.0334",
@@ -1854,23 +1809,46 @@
       "type": "military"
     },
     {
-      "date": "01.01.0333",
-      "description": "Alexander cuts Gordian Knot at Gordium according to legend, symbolically claiming destiny to rule Asia as prophesied",
-      "description_ru": "Александр разрубает Гордиев узел в Гордионе согласно легенде, символически заявляя о судьбе править Азией, как предсказано",
+      "date": "01.05.0334",
+      "description": "Alexander defeats Persian satrapal army at Battle of Granicus River, opening Asia Minor to Macedonian conquest and revealing Persian tactical weakness",
+      "description_ru": "Александр побеждает персидскую армию в битве при реке Граник, открывая Малую Азию для македонского завоевания",
       "era": "BC",
-      "latitude": 39.6511,
-      "longitude": 31.9958,
-      "name": "Gordian Knot",
-      "name_ru": "Александр разрубает Гордиев узел",
-      "source": "https://en.wikipedia.org/wiki/Gordian_Knot",
+      "latitude": 40.29406071,
+      "longitude": 27.2347641,
+      "name": "Battle of Granicus",
+      "name_ru": "Битва при Гранике",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_the_Granicus",
       "tags": [
         "Greek",
+        "Persian",
         "Macedonian",
-        "Legend",
-        "Alexander the Great 👤",
-        "Culture"
+        "Achaemenid",
+        "War",
+        "Battle",
+        "Alexander the Great 👤"
       ],
-      "type": "cultural"
+      "type": "military"
+    },
+    {
+      "date": "01.01.0334",
+      "description": "Alexander crosses Hellespont into Asia with 35,000 troops, beginning conquest of Persian Empire; visits Troy and pays homage to Achilles",
+      "description_ru": "Александр переправляется через Геллеспонт в Азию с 35 000 воинов, начиная завоевание Персидской империи; посещает Трою и отдает дань уважения Ахиллу",
+      "era": "BC",
+      "latitude": 40.19667529,
+      "longitude": 26.40971661,
+      "name": "Alexander Invades Persian Empire",
+      "name_ru": "Александр вторгается в Персидскую империю",
+      "source": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Macedonian",
+        "Achaemenid",
+        "War",
+        "Alexander the Great 👤",
+        "Invasion"
+      ],
+      "type": "military"
     },
     {
       "date": "05.11.0333",
@@ -1894,6 +1872,25 @@
       "type": "military"
     },
     {
+      "date": "01.01.0333",
+      "description": "Alexander cuts Gordian Knot at Gordium according to legend, symbolically claiming destiny to rule Asia as prophesied",
+      "description_ru": "Александр разрубает Гордиев узел в Гордионе согласно легенде, символически заявляя о судьбе править Азией, как предсказано",
+      "era": "BC",
+      "latitude": 39.6511,
+      "longitude": 31.9958,
+      "name": "Gordian Knot",
+      "name_ru": "Александр разрубает Гордиев узел",
+      "source": "https://en.wikipedia.org/wiki/Gordian_Knot",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Legend",
+        "Alexander the Great 👤",
+        "Culture"
+      ],
+      "type": "cultural"
+    },
+    {
       "date": "01.11.0332",
       "description": "Egypt surrenders to Alexander without resistance; Egyptians welcome him as liberator from Persian rule, crowning him pharaoh",
       "description_ru": "Египет сдается Александру без сопротивления; египтяне приветствуют его как освободителя от персидского правления, коронуя фараоном",
@@ -1912,29 +1909,6 @@
         "War",
         "Alexander the Great 👤",
         "Conquest"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.10.0331",
-      "description": "Alexander decisively defeats Darius III and his satraps (Armenia, Bactria, Syria) at the Battle of Gaugamela; Darius flees again. Organized Persian resistance is almost exhausted.",
-      "description_ru": "Александр решительно побеждает Дария III и его сатрапов (Армения, Бактрия, Сирия) в битве при Гавгамелах; Дарий снова бежит. Организованное персидское сопротивление на этом почти исчерпано",
-      "era": "BC",
-      "latitude": 36.56053182,
-      "longitude": 43.39342117,
-      "name": "Battle of Gaugamela",
-      "name_ru": "Битва при Гавгамелах",
-      "source": "https://en.wikipedia.org/wiki/Battle_of_Gaugamela",
-      "tags": [
-        "Greek",
-        "Persian",
-        "Armenian",
-        "Macedonian",
-        "Achaemenid",
-        "War",
-        "Battle",
-        "Alexander the Great 👤",
-        "Bactria"
       ],
       "type": "military"
     },
@@ -1961,22 +1935,86 @@
       "type": "political"
     },
     {
-      "date": "01.01.0330",
-      "description": "Alexander captures Susa without resistance, seizing massive Persian treasury containing 50,000 talents of gold and silver",
-      "description_ru": "Александр захватывает Сузы без сопротивления, овладевая массивной персидской казной, содержащей 50 000 талантов золота и серебра",
+      "date": "01.10.0331",
+      "description": "Alexander decisively defeats Darius III and his satraps (Armenia, Bactria, Syria) at the Battle of Gaugamela; Darius flees again. Organized Persian resistance is almost exhausted.",
+      "description_ru": "Александр решительно побеждает Дария III и его сатрапов (Армения, Бактрия, Сирия) в битве при Гавгамелах; Дарий снова бежит. Организованное персидское сопротивление на этом почти исчерпано",
       "era": "BC",
-      "latitude": 32.1897,
-      "longitude": 48.2583,
-      "name": "Capture of Susa",
-      "name_ru": "Александр берет Сузы",
-      "source": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+      "latitude": 36.56053182,
+      "longitude": 43.39342117,
+      "name": "Battle of Gaugamela",
+      "name_ru": "Битва при Гавгамелах",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Gaugamela",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Armenian",
+        "Macedonian",
+        "Achaemenid",
+        "War",
+        "Battle",
+        "Alexander the Great 👤",
+        "Bactria"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.07.0330",
+      "description": "Darius III murdered by his own satrap Bessus in Bactria while fleeing Alexander; Alexander gives Darius royal funeral, claiming role as legitimate successor",
+      "description_ru": "Дарий III убит своим собственным сатрапом Бессом в Бактрии во время бегства от Александра; Александр дает Дарию царские похороны, претендуя на роль законного преемника",
+      "era": "BC",
+      "latitude": 36.75,
+      "longitude": 54.75,
+      "name": "Death of Darius III",
+      "name_ru": "Смерть Дария III",
+      "source": "https://en.wikipedia.org/wiki/Darius_III",
+      "tags": [
+        "Persian",
+        "Achaemenid",
+        "Dynasty",
+        "Assassination",
+        "Death",
+        "Regicide"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.05.0330",
+      "description": "Alexander burns Persepolis palace complex, destroying architectural masterpiece and symbol of Persian imperial power; act marks symbolic end of Achaemenid Empire",
+      "description_ru": "Александр сжигает дворцовый комплекс Персеполя, уничтожая архитектурный шедевр и символ персидской имперской мощи; акт знаменует символический конец династии Ахеменидов",
+      "era": "BC",
+      "latitude": 29.9342,
+      "longitude": 52.8906,
+      "name": "Burning of Persepolis",
+      "name_ru": "Александр сжигает Персеполь",
+      "source": "https://en.wikipedia.org/wiki/Persepolis",
       "tags": [
         "Greek",
         "Persian",
         "Macedonian",
         "War",
+        "Alexander the Great 👤",
+        "Destruction"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.03.0330",
+      "description": "Alexander captures Persepolis; allows troops to plunder ceremonial capital for several days, seizing immense wealth accumulated over 200 years",
+      "description_ru": "Александр захватывает Персеполь; позволяет войскам грабить церемониальную столицу несколько дней, овладевая огромным богатством, накопленным за 200 лет",
+      "era": "BC",
+      "latitude": 29.9342,
+      "longitude": 52.8906,
+      "name": "Capture of Persepolis",
+      "name_ru": "Александр захватывает Персеполь",
+      "source": "https://en.wikipedia.org/wiki/Persepolis",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Macedonian",
+        "War",
+        "Alexander the Great 👤",
         "Conquest",
-        "Treasure"
+        "Pillage"
       ],
       "type": "military"
     },
@@ -2004,65 +2042,25 @@
       "type": "political"
     },
     {
-      "date": "01.03.0330",
-      "description": "Alexander captures Persepolis; allows troops to plunder ceremonial capital for several days, seizing immense wealth accumulated over 200 years",
-      "description_ru": "Александр захватывает Персеполь; позволяет войскам грабить церемониальную столицу несколько дней, овладевая огромным богатством, накопленным за 200 лет",
+      "date": "01.01.0330",
+      "description": "Alexander captures Susa without resistance, seizing massive Persian treasury containing 50,000 talents of gold and silver",
+      "description_ru": "Александр захватывает Сузы без сопротивления, овладевая массивной персидской казной, содержащей 50 000 талантов золота и серебра",
       "era": "BC",
-      "latitude": 29.9342,
-      "longitude": 52.8906,
-      "name": "Capture of Persepolis",
-      "name_ru": "Александр захватывает Персеполь",
-      "source": "https://en.wikipedia.org/wiki/Persepolis",
+      "latitude": 32.1897,
+      "longitude": 48.2583,
+      "name": "Capture of Susa",
+      "name_ru": "Александр берет Сузы",
+      "source": "https://en.wikipedia.org/wiki/Alexander_the_Great",
       "tags": [
         "Greek",
         "Persian",
         "Macedonian",
         "War",
-        "Alexander the Great 👤",
         "Conquest",
-        "Pillage"
+        "Treasure"
       ],
       "type": "military"
-    },
-    {
-      "date": "01.05.0330",
-      "description": "Alexander burns Persepolis palace complex, destroying architectural masterpiece and symbol of Persian imperial power; act marks symbolic end of Achaemenid Empire",
-      "description_ru": "Александр сжигает дворцовый комплекс Персеполя, уничтожая архитектурный шедевр и символ персидской имперской мощи; акт знаменует символический конец династии Ахеменидов",
-      "era": "BC",
-      "latitude": 29.9342,
-      "longitude": 52.8906,
-      "name": "Burning of Persepolis",
-      "name_ru": "Александр сжигает Персеполь",
-      "source": "https://en.wikipedia.org/wiki/Persepolis",
-      "tags": [
-        "Greek",
-        "Persian",
-        "Macedonian",
-        "War",
-        "Alexander the Great 👤",
-        "Destruction"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.07.0330",
-      "description": "Darius III murdered by his own satrap Bessus in Bactria while fleeing Alexander; Alexander gives Darius royal funeral, claiming role as legitimate successor",
-      "description_ru": "Дарий III убит своим собственным сатрапом Бессом в Бактрии во время бегства от Александра; Александр дает Дарию царские похороны, претендуя на роль законного преемника",
-      "era": "BC",
-      "latitude": 36.75,
-      "longitude": 54.75,
-      "name": "Death of Darius III",
-      "name_ru": "Смерть Дария III",
-      "source": "https://en.wikipedia.org/wiki/Darius_III",
-      "tags": [
-        "Persian",
-        "Achaemenid",
-        "Dynasty",
-        "Assassination",
-        "Death",
-        "Regicide"
-      ],
-      "type": "political"
     }
-  ]
+  ],
+  "filename": "BC2_achaemenid_empire.json"
 }
