@@ -1,0 +1,306 @@
+{
+  "description": "Dataset imported with 15 events",
+  "filename": "AD2_chinese_sui_dynasty.json",
+  "events": [
+    {
+      "date": "01.01.0582",
+      "description": "The First Turkic Khaganate, a nomadic steppe empire stretching from Manchuria to the Caspian Sea, poses the single greatest external threat to the newly founded Sui dynasty. Rather than meet the Khaganate in open battle, Emperor Wen's court exploits internal succession rivalries among the Turkic nobility, arming and favoring one claimant against another until the Khaganate splits permanently into an Eastern Turkic Khaganate and a Western Turkic Khaganate, each too weak alone to threaten Sui China the way the unified steppe empire once had.\n\nSui forces reinforce the divide-and-rule strategy by repairing and extending stretches of the old Qin- and Han-era Great Wall along the northern frontier, and the eastern khaganate's remaining rulers are gradually drawn into a tributary relationship with the Sui court. The tactic sets a template — using diplomacy, marriage alliances, and calculated favoritism to fracture steppe confederations rather than fighting them outright — that both Sui and Tang emperors reuse repeatedly against Turkic and other nomadic powers over the following century.",
+      "description_ru": "Первый Тюркский каганат, кочевая степная держава, простиравшаяся от Маньчжурии до Каспийского моря, представляет собой главную внешнюю угрозу для только что основанной династии Суй. Вместо того чтобы сойтись с каганатом в открытом сражении, двор императора Вэня использует внутренние распри претендентов на престол среди тюркской знати, вооружая и поддерживая то одного, то другого претендента, пока каганат окончательно не раскалывается на Восточный и Западный Тюркские каганаты, каждый из которых по отдельности уже слишком слаб, чтобы угрожать суйскому Китаю так, как это делала единая степная держава.\n\nСуйские войска подкрепляют стратегию разделения ремонтом и продлением участков старой Великой стены циньско-ханьской эпохи вдоль северной границы, а оставшиеся правители восточного каганата постепенно втягиваются в даннические отношения с суйским двором. Этот приём — использование дипломатии, брачных союзов и расчётливого фаворитизма для раскола степных конфедераций вместо открытой войны с ними — становится образцом, который и суйские, и танские императоры неоднократно применяют против тюркских и других кочевых держав в течение следующего столетия.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "Emperor Wen's Diplomacy Splits the Turkic Khaganate",
+      "name_ru": "Дипломатия императора Вэня раскалывает Тюркский каганат",
+      "source": "https://en.wikipedia.org/wiki/Sui_dynasty",
+      "tags": [
+        "Chinese",
+        "Sui",
+        "Turkic",
+        "Diplomacy",
+        "Military"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0583",
+      "description": "Emperor Wen promulgates the Kaihuang Code, a systematic penal and administrative code named for his Kaihuang (\"Opening Emperorship\") reign era that softens some of the brutal corporal punishments common under earlier northern dynasties and organizes law into clear categories of offense and penalty. Alongside it, his court formalizes the Three Departments and Six Ministries system (三省六部), dividing the central government into departments responsible for drafting policy, reviewing it, and executing it, with six ministries beneath them handling personnel, revenue, rites, military affairs, justice, and public works.\n\nBoth reforms prove remarkably durable: the Tang dynasty inherits and refines the Three Departments and Six Ministries structure almost unchanged as the backbone of its own government, and the Kaihuang Code becomes the direct ancestor of the Tang Code compiled decades later, which in turn shapes legal systems across East Asia for the next thousand years. Emperor Wen's brief, harsh, and administratively brilliant reign leaves institutional fingerprints on Chinese government far outweighing the dynasty's short lifespan.",
+      "description_ru": "Император Вэнь обнародует «Кайхуан люй», систематизированный уголовный и административный кодекс, названный по его девизу правления Кайхуан («Открытие императорства»), смягчающий часть жестоких телесных наказаний, обычных при прежних северных династиях, и упорядочивающий право по чётким категориям проступков и наказаний. Одновременно его двор оформляет систему трёх ведомств и шести министерств (三省六部), разделяя центральное правительство на ведомства, отвечающие за разработку политики, её рассмотрение и исполнение, с шестью министерствами под ними, ведающими кадрами, доходами, обрядами, военными делами, правосудием и общественными работами.\n\nОбе реформы оказываются на удивление долговечными: династия Тан наследует и совершенствует структуру трёх ведомств и шести министерств почти без изменений как костяк собственного правительства, а «Кайхуан люй» становится прямым предком танского свода законов, составленного десятилетиями позже, который, в свою очередь, формирует правовые системы Восточной Азии на следующую тысячу лет. Короткое, суровое и административно блестящее правление императора Вэня оставляет институциональный след в китайском государственном устройстве, намного превосходящий краткий век самой династии.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "Emperor Wen Codifies the Kaihuang Code and Reorganizes the State",
+      "name_ru": "Император Вэнь кодифицирует «Кайхуан люй» и реорганизует государство",
+      "source": "https://en.wikipedia.org/wiki/Emperor_Wen_of_Sui",
+      "tags": [
+        "Chinese",
+        "Sui",
+        "Law",
+        "Government",
+        "Reform",
+        "Emperor Wen"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0590",
+      "description": "Emperor Wen, who had been raised partly in a Buddhist convent and credited his own rise to power to Buddhist merit, sponsors a nationwide campaign distributing fragments of Buddhist relics to newly built stupas in cities across the reunified empire, explicitly modeling the gesture on the Indian emperor Ashoka's legendary third-century-BC distribution of the Buddha's relics to stupas throughout his own realm. The campaign serves a calculated political purpose alongside genuine piety: after centuries of north-south division, a shared religious infrastructure reaching into both former Northern and former Southern Dynasties territory helps knit the reunified population into a single political community under Sui rule.\n\nEmperor Wen's patronage helps Buddhism recover from the harsh persecution it suffered under the preceding Northern Zhou dynasty and cements the faith's position as the dominant religious force in Chinese public life for the following centuries, a status Buddhism holds through the Sui and deep into the Tang dynasty until the Huichang persecution of 845.",
+      "description_ru": "Император Вэнь, отчасти выросший в буддийском монастыре и приписывавший собственное возвышение буддийским заслугам, спонсирует общеимперскую кампанию по распределению фрагментов буддийских реликвий по новопостроенным ступам в городах воссоединённой империи, прямо уподобляя этот жест легендарному распределению реликвий Будды индийским императором Ашокой по ступам своего царства в III веке до н.э. Кампания преследует не только искреннее благочестие, но и расчётливую политическую цель: после веков раскола на север и юг общая религиозная инфраструктура, охватывающая земли как бывших Северных, так и бывших Южных династий, помогает сплотить воссоединённое население в единую политическую общность под властью Суй.\n\nПокровительство императора Вэня помогает буддизму оправиться от суровых гонений, пережитых при предшествующей династии Северная Чжоу, и закрепляет за верой положение господствующей религиозной силы в китайской общественной жизни на последующие столетия — статус, который буддизм сохраняет при Суй и глубоко в эпоху Тан, вплоть до гонений Хуэйчан 845 года.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "Emperor Wen Distributes Buddhist Relics Across the Empire",
+      "name_ru": "Император Вэнь распределяет буддийские реликвии по всей империи",
+      "source": "https://en.wikipedia.org/wiki/Emperor_Wen_of_Sui",
+      "tags": [
+        "Chinese",
+        "Sui",
+        "Buddhism",
+        "Religious",
+        "Emperor Wen",
+        "Unification"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.0598",
+      "description": "Emperor Wen, angered by a Goguryeo raid into Sui's Liaoxi frontier region, launches a large punitive expedition by land and sea against the Korean kingdom of Goguryeo — the first of what will become four costly Sui invasions of the peninsula over the following two decades. The campaign collapses well short of its goal: the land force is crippled by flooding, disease, and supply failures on the difficult Liaodong terrain before it ever reaches serious combat, while the naval component is scattered and wrecked by a storm, forcing Emperor Wen to abandon the invasion and accept a face-saving nominal submission from Goguryeo's king instead of a real victory.\n\nThe defeat previews the fatal pattern that will destroy the Sui dynasty within Emperor Yang's reign: an overconfident court repeatedly throwing enormous conscripted armies and requisitioned resources at a stubborn, well-fortified Goguryeo across brutal terrain and logistics lines, draining the treasury and the peasantry's patience without ever achieving the conquest the throne's prestige had already promised.",
+      "description_ru": "Император Вэнь, разгневанный набегом Когурё на суйский пограничный район Ляоси, направляет крупную карательную экспедицию по суше и морю против корейского царства Когурё — первую из четырёх дорогостоящих суйских вторжений на полуостров за последующие два десятилетия. Поход рушится, не достигнув цели: сухопутные силы, ослабленные наводнениями, болезнями и перебоями со снабжением на труднопроходимой ляодунской местности, терпят крах ещё до серьёзных боевых столкновений, а морская часть экспедиции рассеяна и разбита штормом, вынуждая императора Вэня отказаться от вторжения и удовольствоваться формальным изъявлением покорности со стороны когурёского вана вместо настоящей победы.\n\nЭто поражение предвосхищает роковую закономерность, которая погубит династию Суй уже при императоре Яне: самонадеянный двор снова и снова бросает огромные призывные армии и реквизированные ресурсы на упорное, хорошо укреплённое Когурё через жестокую местность и растянутые линии снабжения, истощая казну и терпение крестьянства, так и не добившись завоевания, которое уже было обещано престижем трона.",
+      "era": "AD",
+      "latitude": 40.8,
+      "longitude": 123.4,
+      "name": "The First Sui–Goguryeo War Ends in Disaster",
+      "name_ru": "Первая суйско-когурёская война заканчивается катастрофой",
+      "source": "https://en.wikipedia.org/wiki/Goguryeo%E2%80%93Sui_War",
+      "tags": [
+        "Chinese",
+        "Sui",
+        "Goguryeo",
+        "Korea",
+        "War",
+        "Military"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "13.07.0604",
+      "description": "Crown Prince Yang Guang, who had displaced his elder brother as heir years earlier through calculated shows of frugality and filial devotion that concealed a far more extravagant private character, ascends the throne as Emperor Yang upon Emperor Wen's death at the Renshou Palace. Later Tang-era historians, writing to justify the dynasty that replaced Sui, allege that Yang Guang murdered his own father and then forced himself on Emperor Wen's favorite consort within hours of the old emperor's death — a story modern historians treat with real skepticism as likely dynastic propaganda, though its persistence for over a millennium shows how completely Emperor Yang's later reputation as a tyrant colored even uncertain accounts of his succession.\n\nWhatever the truth of his father's death, Emperor Yang inherits a reunified, wealthy, and stable empire built by three decades of his father's careful administration, and proceeds within his first years on the throne to spend that inheritance on construction projects, military campaigns, and court display on a scale that will exhaust it within a single generation.",
+      "description_ru": "Наследный принц Ян Гуан, вытеснивший старшего брата с поста наследника годами ранее рассчитанными демонстрациями скромности и сыновней преданности, скрывавшими куда более распущенный частный нрав, восходит на престол как император Ян после смерти императора Вэня во дворце Женьшоу. Позднейшие танские историки, писавшие, чтобы оправдать сменившую Суй династию, утверждают, что Ян Гуан убил собственного отца, а затем овладел любимой наложницей императора Вэня в считаные часы после смерти старого императора, — историю, к которой современные историки относятся с явным скепсисом как к вероятной династической пропаганде, хотя её живучесть на протяжении более тысячелетия показывает, насколько полно позднейшая репутация императора Яна как тирана окрасила даже сомнительные рассказы о его воцарении.\n\nКаковы бы ни были обстоятельства смерти отца, император Ян наследует воссоединённую, богатую и стабильную империю, выстроенную тремя десятилетиями осторожного управления его отца, и уже в первые годы правления принимается тратить это наследство на строительные проекты, военные походы и придворную роскошь в масштабе, который истощит его в течение одного поколения.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "Yang Guang Becomes Emperor Yang Amid Rumors of Patricide",
+      "name_ru": "Ян Гуан становится императором Яном на фоне слухов об отцеубийстве",
+      "source": "https://en.wikipedia.org/wiki/Emperor_Yang_of_Sui",
+      "tags": [
+        "Chinese",
+        "Sui",
+        "Emperor Yang",
+        "Succession",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.03.0605",
+      "description": "Under the supervision of the official Ma Shumou and using an enormous conscripted labor force, Emperor Yang completes the Tongji Canal (通濟渠), linking the Sui court's new eastern capital of Luoyang to the Huai River and onward toward the wealthy rice-growing region around Yangzhou — the first major artificial waterway of what will become the full Grand Canal system. Contemporary and later accounts describe the human cost as staggering, with laborer death tolls from exhaustion, disease, and accidents during construction commonly cited in the hundreds of thousands, though exact figures are impossible to verify.\n\nWhatever the immediate suffering it caused, the Tongji Canal solves a structural problem that had constrained Chinese governance for centuries: the empire's political center in the arid north could never easily move grain and goods from the fertile, food-surplus south without a reliable inland water route, since the great rivers of China run west to east rather than north to south. The canal network Emperor Yang begins here will remain the single most important transportation artery in China for the next thousand years, still in partial use today.",
+      "description_ru": "Под надзором сановника Ма Шумоу и с использованием огромной массы принудительно набранных работников император Ян завершает канал Тунцзи (通濟渠), соединяющий новую восточную столицу суйского двора Лоян с рекой Хуайхэ и далее с богатым рисоводческим районом вокруг Янчжоу — первый крупный искусственный водный путь будущей полной системы Великого канала. Современники и позднейшие свидетельства описывают человеческую цену как ошеломляющую: число погибших рабочих от истощения, болезней и несчастных случаев во время строительства обычно оценивается в сотни тысяч, хотя точные цифры проверить невозможно.\n\nКаковы бы ни были непосредственные страдания, которые он причинил, канал Тунцзи решает структурную проблему, веками сдерживавшую китайское управление: политический центр империи на засушливом севере никогда не мог легко перемещать зерно и товары из плодородного, производящего избыток продовольствия юга без надёжного внутреннего водного пути, поскольку великие реки Китая текут с запада на восток, а не с севера на юг. Сеть каналов, которую здесь начинает император Ян, остаётся важнейшей транспортной артерией Китая на следующую тысячу лет и частично используется по сей день.",
+      "era": "AD",
+      "latitude": 34.6678,
+      "longitude": 112.4158,
+      "name": "The Tongji Canal Opens the Grand Canal's First Major Segment",
+      "name_ru": "Канал Тунцзи открывает первый крупный участок Великого канала",
+      "source": "https://en.wikipedia.org/wiki/Grand_Canal_(China)",
+      "tags": [
+        "Chinese",
+        "Sui",
+        "Grand Canal",
+        "Engineering",
+        "Infrastructure",
+        "Emperor Yang"
+      ],
+      "type": "scientific"
+    },
+    {
+      "date": "01.05.0605",
+      "description": "Emperor Yang's court introduces the jinshi (進士) degree, a written examination testing classical scholarship and composition open in principle to candidates regardless of aristocratic birth, marking the first systematic use of competitive written examinations to select imperial officials in Chinese history. The innovation builds on Emperor Wen's earlier moves away from the old Nine-Rank System, which had let hereditary aristocratic clans control access to office for centuries, replacing pedigree with a demonstrated command of texts and prose as the formal gateway to government service.\n\nThe Sui examination system remains small in scale and still coexists with plenty of aristocratic patronage and recommendation, so its immediate effect on who actually governs China is modest. But the principle it establishes — that office should be earned through tested merit rather than inherited entirely through blood — becomes the seed of the imperial examination system that the Tang dynasty inherits, expands, and turns into the dominant channel of bureaucratic recruitment for the next thirteen centuries.",
+      "description_ru": "Двор императора Яна вводит степень цзиньши (進士) — письменный экзамен, проверяющий классическую учёность и умение сочинять, в принципе открытый для кандидатов независимо от знатности происхождения, что знаменует первое в китайской истории систематическое применение состязательных письменных экзаменов для отбора имперских чиновников. Это новшество опирается на более ранние шаги императора Вэня по отходу от старой Системы девяти рангов, веками позволявшей наследственным аристократическим кланам контролировать доступ к должностям, заменяя родословную продемонстрированным владением текстами и слогом как формальным пропуском на государственную службу.\n\nСуйская экзаменационная система остаётся небольшой по масштабу и всё ещё сосуществует с немалым аристократическим покровительством и рекомендациями, так что её непосредственное влияние на то, кто реально управляет Китаем, скромно. Но заложенный ею принцип — что должность следует заслуживать проверенными знаниями, а не получать целиком по наследству крови, — становится семенем имперской экзаменационной системы, которую унаследует, расширит и превратит в главный канал бюрократического отбора на следующие тринадцать столетий династия Тан.",
+      "era": "AD",
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "name": "Imperial Examinations Begin Under the Jinshi Degree",
+      "name_ru": "Государственные экзамены начинаются со степени цзиньши",
+      "source": "https://en.wikipedia.org/wiki/Imperial_examination",
+      "tags": [
+        "Chinese",
+        "Sui",
+        "Examination",
+        "Government",
+        "Reform",
+        "Emperor Yang"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.09.0605",
+      "description": "Emperor Yang orders the wholesale reconstruction of Luoyang as a second imperial capital alongside Chang'an, conscripting reportedly around a million laborers to raise new palace complexes, city walls, and a planned grid of wards within roughly a year — an almost unbelievable pace of construction that later chroniclers cite as an early sign of the emperor's disregard for the human cost of his ambitions. Luoyang's location, closer to the Grand Canal's grain-shipping routes and the fertile North China Plain than the more defensively positioned but logistically awkward Chang'an, makes it a more practical seat of government for provisioning the court and army.\n\nRebuilt Luoyang becomes Emperor Yang's preferred residence for much of his reign and a key terminus of the Grand Canal network then under construction, and the Tang dynasty later maintains it as an alternate capital in its own right, particularly favored during Empress Wu Zetian's reign when she rules from Luoyang for extended periods and renames it \"Divine Capital.\"",
+      "description_ru": "Император Ян приказывает полностью отстроить Лоян как вторую императорскую столицу наряду с Чанъанью, призвав, по сообщениям, около миллиона работников для возведения новых дворцовых комплексов, городских стен и спланированной сетки кварталов примерно за год — почти невероятный темп строительства, который позднейшие летописцы приводят как раннее свидетельство пренебрежения императора человеческой ценой своих замыслов. Расположение Лояна, более близкое к путям зернового судоходства Великого канала и плодородной Северо-Китайской равнине, чем оборонительно выгодная, но логистически неудобная Чанъань, делает его более практичной резиденцией правительства для снабжения двора и армии.\n\nОтстроенный заново Лоян становится любимой резиденцией императора Яна на значительную часть его правления и ключевым конечным пунктом строящейся сети Великого канала, а династия Тан позже сохраняет его как полноценную запасную столицу, особенно почитаемую в правление императрицы У Цзэтянь, которая подолгу правит именно из Лояна и переименовывает его в «Священную столицу».",
+      "era": "AD",
+      "latitude": 34.6678,
+      "longitude": 112.4158,
+      "name": "Emperor Yang Rebuilds Luoyang as an Eastern Capital",
+      "name_ru": "Император Ян отстраивает Лоян как восточную столицу",
+      "source": "https://en.wikipedia.org/wiki/Emperor_Yang_of_Sui",
+      "tags": [
+        "Chinese",
+        "Sui",
+        "Luoyang",
+        "Construction",
+        "Emperor Yang",
+        "Capital"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0607",
+      "description": "The official Pei Ju (裴矩), who had spent years gathering intelligence from Sogdian and other Central Asian merchants passing through the Hexi Corridor trade hub of Zhangye, presents Emperor Yang with a detailed geographic and political survey of the Western Regions (西域) and persuades him to actively court the oasis kingdoms and trading peoples along the Silk Road with gifts, honors, and diplomatic missions rather than leaving those relationships to merchants alone. Pei Ju's approach reopens a level of official Chinese engagement with Central Asia that had lapsed since the political fragmentation of the preceding centuries.\n\nThe renewed contact accelerates the flow of Central Asian goods, music, fashion, and religious ideas — including the Zoroastrian, Manichaean, and Nestorian Christian communities that will flourish openly in the Tang capitals a generation later — into Sui China's cosmopolitan cities, and Pei Ju's own compiled geography of the Western Regions becomes a standard reference work for Tang officials managing the empire's frontier and foreign trade policy after Sui's fall.",
+      "description_ru": "Сановник Пэй Цзюй (裴矩), годами собиравший сведения от согдийских и других среднеазиатских купцов, проходивших через торговый узел Ганьсуского коридора Чжанъе, представляет императору Яну подробный географический и политический обзор Западного края (西域) и убеждает его активно привлекать оазисные царства и торговые народы Шёлкового пути дарами, почестями и посольствами, а не оставлять эти отношения на откуп одним лишь купцам. Подход Пэй Цзюя восстанавливает уровень официального китайского взаимодействия со Средней Азией, ослабевший со времён политической раздробленности предыдущих столетий.\n\nВозобновлённые контакты ускоряют приток среднеазиатских товаров, музыки, моды и религиозных идей — включая зороастрийские, манихейские и несторианские христианские общины, которые открыто расцветут в танских столицах поколением позже, — в космополитичные города суйского Китая, а составленная самим Пэй Цзюем география Западного края становится стандартным справочником для танских чиновников, ведающих пограничной и внешнеторговой политикой империи после падения Суй.",
+      "era": "AD",
+      "latitude": 38.9256,
+      "longitude": 100.4497,
+      "name": "Pei Ju Reopens Sui China's Relations With the Western Regions",
+      "name_ru": "Пэй Цзюй восстанавливает связи суйского Китая с Западным краем",
+      "source": "https://en.wikipedia.org/wiki/Emperor_Yang_of_Sui",
+      "tags": [
+        "Chinese",
+        "Sui",
+        "Silk Road",
+        "Diplomacy",
+        "Trade",
+        "Western Regions"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.08.0609",
+      "description": "Emperor Yang completes the Yongji Canal (永濟渠), the northernmost segment of the Grand Canal system, extending the waterway from the Yellow River basin up toward the Sui military staging grounds near modern Beijing, intended chiefly to move grain and troops efficiently for the coming campaigns against Goguryeo in Korea. Combined with the Tongji Canal linking Luoyang to the south and the Jiangnan Canal reaching Hangzhou, the network now connects the Yangtze delta's rice surplus in the far south to the empire's military frontier in the far north through a single continuous inland waterway.\n\nThe completed canal system stands as one of the largest civil engineering projects in the pre-modern world, and while its construction under brutal, forced conditions contributes directly to the popular unrest that will topple the Sui dynasty within a decade, the canal itself outlives the dynasty that built it by well over a thousand years, remaining central to Chinese grain transport, trade, and unification of the country's north and south through the Tang, Song, Yuan, Ming, and Qing dynasties.",
+      "description_ru": "Император Ян завершает канал Юнцзи (永濟渠), самый северный участок системы Великого канала, продлевая водный путь от бассейна Хуанхэ к суйским военным плацдармам близ современного Пекина, предназначенный прежде всего для эффективной переброски зерна и войск для предстоящих походов против Когурё в Корее. Вместе с каналом Тунцзи, соединяющим Лоян с югом, и каналом Цзяннань, доходящим до Ханчжоу, сеть теперь связывает рисовый избыток дельты Янцзы на далёком юге с военной границей империи на далёком севере единым непрерывным внутренним водным путём.\n\nЗавершённая система каналов остаётся одним из крупнейших гражданских инженерных проектов домодернового мира, и хотя её строительство в жестоких, принудительных условиях напрямую способствует народным волнениям, которые свергнут династию Суй в течение десятилетия, сам канал переживает построившую его династию более чем на тысячу лет, оставаясь центральным для зернового транспорта, торговли и объединения севера и юга страны при династиях Тан, Сун, Юань, Мин и Цин.",
+      "era": "AD",
+      "latitude": 39.9042,
+      "longitude": 116.4074,
+      "name": "The Grand Canal Is Linked to the Northern Frontier",
+      "name_ru": "Великий канал соединяется с северной границей",
+      "source": "https://en.wikipedia.org/wiki/Grand_Canal_(China)",
+      "tags": [
+        "Chinese",
+        "Sui",
+        "Grand Canal",
+        "Engineering",
+        "Infrastructure",
+        "Emperor Yang"
+      ],
+      "type": "scientific"
+    },
+    {
+      "date": "01.09.0609",
+      "description": "Qimin Khan, the Sui-aligned ruler of the Eastern Turkic Khaganate installed with Chinese backing after the earlier split of the steppe empire, travels to meet Emperor Yang at Yulin on the northern frontier, where the emperor receives him inside an enormous mobile pavilion reportedly capable of seating several thousand guests, staged amid a military and ceremonial display meant to overawe the Turkic ruler and his retinue with Sui wealth and power. Yulin becomes the site of an extravagant demonstration of soft-power diplomacy, complete with feasting, gifts, and a calculated show of Sui's ability to project both hospitality and military force to the steppe frontier simultaneously.\n\nThe meeting exemplifies Emperor Yang's preferred style of frontier management — dazzling client rulers with spectacle and generosity to secure loyalty rather than relying purely on garrisons — a strategy that works reasonably well with the cooperative Qimin Khan but proves far less effective against the far more determined resistance Emperor Yang encounters simultaneously on his eastern frontier with Goguryeo, where spectacle counts for nothing against fortified cities and hostile terrain.",
+      "description_ru": "Цимин-хан, союзный Суй правитель Восточного Тюркского каганата, поставленный на престол при китайской поддержке после раскола степной державы, приезжает на встречу с императором Яном в Юйлине на северной границе, где император принимает его в огромном передвижном шатре, вмещавшем, по сообщениям, несколько тысяч гостей, среди военной и церемониальной демонстрации, призванной ошеломить тюркского правителя и его свиту богатством и мощью Суй. Юйлинь становится местом пышной демонстрации дипломатии мягкой силы, с пирами, дарами и расчётливым показом способности Суй одновременно проецировать на степную границу и гостеприимство, и военную силу.\n\nЭта встреча воплощает излюбленный стиль пограничного управления императора Яна — ослеплять зависимых правителей зрелищем и щедростью ради верности, вместо того чтобы полагаться лишь на гарнизоны, — стратегию, неплохо работающую с покладистым Цимин-ханом, но оказывающуюся куда менее действенной против гораздо более упорного сопротивления, с которым император Ян одновременно сталкивается на своей восточной границе с Когурё, где зрелищность не значит ничего перед укреплёнными городами и враждебной местностью.",
+      "era": "AD",
+      "latitude": 38.2833,
+      "longitude": 109.7333,
+      "name": "Emperor Yang Stages a Lavish Display for the Turkic Khan at Yulin",
+      "name_ru": "Император Ян устраивает пышный приём тюркскому хану в Юйлине",
+      "source": "https://en.wikipedia.org/wiki/Emperor_Yang_of_Sui",
+      "tags": [
+        "Chinese",
+        "Sui",
+        "Turkic",
+        "Diplomacy",
+        "Emperor Yang",
+        "Ceremony"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0611",
+      "description": "As Emperor Yang mobilizes for his first Goguryeo campaign, requisitioning grain, draft animals, and men from an already exhausted peasantry across Shandong province, a local leader named Wang Bo raises an armed band in the Changbai Mountains and begins openly resisting conscription and tax collection, composing a widely circulated satirical song mocking the futility of dying in Liaodong for the emperor's ambitions. Wang Bo's revolt is neither the largest nor the last of the era, but it is among the first organized peasant uprisings of the Sui's final decade, breaking out even before the first Goguryeo campaign has formally ended in failure.\n\nOver the following six years, dozens of similar local rebellions erupt across the empire — some led by peasant leaders like Wang Bo, others by disaffected local officials and even Sui generals — as the government's demands for war and canal labor collide with famine and administrative breakdown in the provinces. By 617, this patchwork of uprisings has grown into a genuine civil war engulfing most of the empire, of which the Tang founder Li Yuan's own rebellion the following year is only the most successful example.",
+      "description_ru": "Пока император Ян готовится к первому походу на Когурё, реквизируя зерно, тягловый скот и людей у и без того истощённого крестьянства провинции Шаньдун, некий Ван Бо поднимает вооружённый отряд в горах Чанбайшань и открыто сопротивляется набору в армию и сбору налогов, сочиняя широко разошедшуюся сатирическую песню, высмеивающую бессмысленность гибели в Ляодуне ради амбиций императора. Восстание Ван Бо не самое крупное и не последнее в ту эпоху, но одно из первых организованных крестьянских выступлений последнего десятилетия Суй, вспыхнувшее ещё до того, как первый когурёский поход официально завершился провалом.\n\nЗа последующие шесть лет по всей империи вспыхивают десятки подобных местных мятежей — одни во главе с крестьянскими вожаками вроде Ван Бо, другие возглавляемые недовольными местными чиновниками и даже суйскими полководцами, — по мере того как требования войны и канальных работ сталкиваются с голодом и распадом управления в провинциях. К 617 году это лоскутное одеяло восстаний перерастает в настоящую гражданскую войну, охватившую большую часть империи, из которой собственное восстание танского основателя Ли Юаня годом позже — лишь самый удачливый пример.",
+      "era": "AD",
+      "latitude": 36.6,
+      "longitude": 118,
+      "name": "Wang Bo's Uprising Lights the Fuse of Nationwide Rebellion",
+      "name_ru": "Восстание Ван Бо зажигает искру общенационального мятежа",
+      "source": "https://en.wikipedia.org/wiki/Sui_dynasty",
+      "tags": [
+        "Chinese",
+        "Sui",
+        "Rebellion",
+        "Peasants",
+        "Decline",
+        "War"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0612",
+      "description": "Emperor Yang personally leads what ancient chroniclers describe as over a million conscripted soldiers, plus an even larger number of laborers and porters, against the Korean kingdom of Goguryeo, aiming to succeed where his father's 598 expedition had failed. The campaign collapses into disaster: a Sui army sent ahead to cross the Salsu River is lured into a trap by the Goguryeo general Eulji Mundeok and almost entirely destroyed, and Goguryeo's fortified cities along the Liaodong frontier withstand repeated Sui sieges through the harsh Manchurian winter, forcing a humiliating withdrawal.\n\nUndeterred, Emperor Yang launches two further invasions in 613 and 614, each cut short not by Goguryeo's resistance alone but by rebellion and desertion within his own ranks and territory, including a serious revolt led by the official Yang Xuangan that forces the emperor to abandon his second campaign mid-course. The three failed wars, fought at a cost historians estimate in the millions of lives and an exhausted treasury, do more than any single factor to destroy the Sui dynasty's legitimacy and trigger the nationwide rebellions of its final years.",
+      "description_ru": "Император Ян лично ведёт, по описаниям древних летописцев, более миллиона призванных солдат, а также ещё большее число носильщиков и рабочих, против корейского царства Когурё, стремясь преуспеть там, где потерпел неудачу поход его отца в 598 году. Кампания оборачивается катастрофой: суйское войско, посланное вперёд для переправы через реку Сальсу, заманивается в ловушку когурёским полководцем Ыльчи Мундоком и почти полностью уничтожается, а укреплённые города Когурё вдоль ляодунской границы выдерживают повторные суйские осады в течение суровой маньчжурской зимы, вынуждая к унизительному отступлению.\n\nНе сломленный этим, император Ян начинает ещё два похода в 613 и 614 годах, каждый из которых прерывается не столько сопротивлением Когурё, сколько мятежами и дезертирством в собственных войсках и владениях, включая серьёзный бунт под предводительством сановника Ян Сюаньганя, вынудивший императора прервать второй поход на полпути. Три неудачные войны, стоившие, по оценкам историков, миллионов жизней и истощившие казну, сильнее любого иного фактора подрывают легитимность династии Суй и провоцируют общенациональные восстания её последних лет.",
+      "era": "AD",
+      "latitude": 39.6,
+      "longitude": 125.3,
+      "name": "Emperor Yang Launches the First of Three Ruinous Goguryeo Campaigns",
+      "name_ru": "Император Ян начинает первый из трёх губительных походов на Когурё",
+      "source": "https://en.wikipedia.org/wiki/Goguryeo%E2%80%93Sui_War",
+      "tags": [
+        "Chinese",
+        "Sui",
+        "Goguryeo",
+        "Korea",
+        "War",
+        "Military",
+        "Decline"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0616",
+      "description": "With rebel bands controlling much of the north and Sui authority collapsing across the provinces, Emperor Yang withdraws from his capitals to Jiangdu (modern Yangzhou) in the wealthy south, traveling down the Grand Canal he himself had built on an enormous ceremonial barge, and effectively abandons active governance of the disintegrating empire to remain in relative safety and comfort near the Yangtze delta. Court accounts describe him spending his final years in Jiangdu increasingly absorbed in feasting, poetry, and denial, reportedly remarking to a mirror that his own handsome head would make a fine target for whoever eventually took it.\n\nThe retreat to Jiangdu, intended as a refuge, instead isolates Emperor Yang from the loyalist forces and provincial governors who might otherwise have rallied around him in the north, and cuts him off from his own increasingly mutinous imperial guard, composed largely of northern soldiers desperate to return home rather than remain stranded in the unfamiliar south — a grievance that will trigger the palace coup which ends both his reign and his life within two years.",
+      "description_ru": "Пока мятежные отряды контролируют большую часть севера, а суйская власть рушится по всем провинциям, император Ян покидает свои столицы и удаляется в Цзянду (современный Янчжоу) на богатом юге, спускаясь по построенному им самим Великому каналу на огромной церемониальной барке, и фактически перестаёт управлять распадающейся империей, оставаясь в относительной безопасности и комфорте близ дельты Янцзы. Придворные свидетельства описывают, как он проводит последние годы в Цзянду, всё больше погружаясь в пиршества, стихи и отрицание реальности, и, по преданию, глядя в зеркало, замечает, что его собственная красивая голова станет неплохой добычей для того, кто в конце концов её возьмёт.\n\nОтступление в Цзянду, задуманное как убежище, вместо этого отрезает императора Яна от верных ему сил и провинциальных губернаторов, которые могли бы сплотиться вокруг него на севере, и отрывает его от собственной всё более мятежной императорской гвардии, состоящей в основном из северных солдат, отчаянно желающих вернуться домой, а не оставаться заброшенными на чужом юге, — обида, которая спустя два года спровоцирует дворцовый переворот, положивший конец и его правлению, и его жизни.",
+      "era": "AD",
+      "latitude": 32.3947,
+      "longitude": 119.4353,
+      "name": "Emperor Yang Retreats to Jiangdu as the Empire Unravels",
+      "name_ru": "Император Ян удаляется в Цзянду, пока империя рушится",
+      "source": "https://en.wikipedia.org/wiki/Emperor_Yang_of_Sui",
+      "tags": [
+        "Chinese",
+        "Sui",
+        "Emperor Yang",
+        "Decline",
+        "Jiangdu",
+        "Rebellion"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "11.04.0618",
+      "description": "Yuwen Huaji, a commander of the Xiaoguo imperial guard stationed with Emperor Yang at Jiangdu, leads his mutinous, homesick northern troops in a palace coup, forcing his way into the emperor's chambers. Emperor Yang, cornered and reportedly asking to be executed by poison rather than the sword out of vanity about preserving his corpse, is strangled instead on Yuwen Huaji's orders, and most of the remaining imperial family present at Jiangdu is killed alongside him.\n\nThe murder ends the Sui dynasty's 37-year existence in name as well as fact, though real power in the capital region had already passed to the rebel general Li Yuan, who had seized Chang'an the previous winter and now moves quickly to establish himself as founder of the Tang dynasty, formally accepting the abdication of a Sui puppet child-emperor within months. Sui China, brief as it was, leaves behind a reunified empire, a durable government structure, and above all a Grand Canal and set of institutional reforms so effective that the Tang dynasty which rose from Sui's ashes builds nearly its entire golden age directly on Sui foundations.",
+      "description_ru": "Юйвэнь Хуацзи, командир императорской гвардии Сяого, расквартированной с императором Яном в Цзянду, во главе взбунтовавшихся, тоскующих по дому северных солдат совершает дворцовый переворот, прорываясь в покои императора. Император Ян, загнанный в угол и, по преданию, просивший казнить его ядом, а не мечом из тщеславной заботы о сохранности своего тела, вместо этого удушен по приказу Юйвэнь Хуацзи, а большая часть оставшейся императорской семьи, находившейся в Цзянду, гибнет вместе с ним.\n\nЭто убийство завершает 37-летнее существование династии Суй и по названию, и по факту, хотя реальная власть в столичном регионе уже перешла к мятежному полководцу Ли Юаню, захватившему Чанъань предыдущей зимой и теперь спешно утверждающему себя основателем династии Тан, формально приняв отречение суйского марионеточного императора-ребёнка в течение нескольких месяцев. Недолговечный суйский Китай оставляет после себя воссоединённую империю, прочную государственную структуру и, прежде всего, Великий канал и набор институциональных реформ настолько действенных, что династия Тан, восставшая из пепла Суй, строит почти весь свой золотой век прямо на суйском фундаменте.",
+      "era": "AD",
+      "latitude": 32.3947,
+      "longitude": 119.4353,
+      "name": "Yuwen Huaji's Coup Ends Emperor Yang's Life and the Sui Dynasty",
+      "name_ru": "Переворот Юйвэнь Хуацзи обрывает жизнь императора Яна и династию Суй",
+      "source": "https://en.wikipedia.org/wiki/Emperor_Yang_of_Sui",
+      "tags": [
+        "Chinese",
+        "Sui",
+        "Fall",
+        "Yuwen Huaji",
+        "Emperor Yang",
+        "Dynasty",
+        "Decline"
+      ],
+      "type": "political"
+    }
+  ]
+}
