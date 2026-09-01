@@ -1,26 +1,6 @@
 {
   "description": "Dataset imported with 44 events",
-  "filename": "BC5_chinese_qin_and_han_period.json",
   "events": [
-    {
-      "date": "01.01.0221",
-      "description": "After defeating the last of the six rival kingdoms — Qi (齐) falls in 221 BC — Ying Zheng (嬴政), king of Qin, rejects the old Zhou title of king (王 wáng) and creates a new compound title: Huangdi (皇帝, Emperor), combining the characters for the mythical Three Sovereigns and Five Emperors to assert unprecedented and unchallengeable authority. He designates himself Shi Huangdi (始皇帝, 'First August Emperor'), numbers his successors as Second, Third, and on for ten thousand generations — a sequence cut short after the second. The unified territory spans approximately 2.2 million square kilometres, administered through 36 commanderies (郡 jùn) replacing the Zhou feudal states.\n\nQin Shi Huang is the pivotal individual in the formation of the Chinese state. He is 38 years old at unification and will live only eleven more years, but in that time he reshapes every institutional, infrastructural, and cultural dimension of Chinese governance. His very name — 'Qín Shǐ Huángdì' — becomes the etymological source of the Western name 'China' via Sanskrit Cīna and Arabic Sīn.",
-      "description_ru": "Покорив последнее из шести соперничающих царств — Ци (齐) пало в 221 г. до н. э., — Ин Чжэн (嬴政), ван Цинь, отвергает старый чжоуский титул вана (王) и создаёт новый составной титул: Хуанди (皇帝, Император), объединяя иероглифы мифических Трёх Государей и Пяти Императоров, чтобы утвердить беспрецедентную и неоспоримую власть. Он именует себя Ши Хуанди (始皇帝, «Первый Август Император»), нумеруя преемников как Второго, Третьего — вплоть до десяти тысяч поколений; последовательность обрывается на втором. Объединённая территория охватывает около 2,2 млн кв. км, управляемых через 36 округов (郡 цзюнь) вместо чжоуских феодальных государств.\n\nЦинь Ши Хуан — ключевая личность в формировании китайского государства. На момент объединения ему 38 лет; он проживёт ещё одиннадцать лет, однако за это время переформирует каждое институциональное, инфраструктурное и культурное измерение китайского управления.",
-      "era": "BC",
-      "latitude": 34.41432712,
-      "longitude": 108.85743141,
-      "name": "Qin Shi Huang Unifies China",
-      "name_ru": "Цинь Ши Хуан объединяет Китай",
-      "source": "https://en.wikipedia.org/wiki/Qin_Shi_Huang",
-      "tags": [
-        "Chinese",
-        "Dynasty",
-        "Empire",
-        "Qin",
-        "Ying Zheng 👑"
-      ],
-      "type": "political"
-    },
     {
       "date": "01.06.0221",
       "description": "Within months of unification, the Qin government implements standardisations: the small seal script (小篆 xiǎozhuàn) becomes the single written form of Chinese, displacing the six distinct regional scripts used by the Zhou states; the ban liang (半两, 'half-ounce') bronze coin becomes the single currency; weights and measures are standardised to Qin specifications; and chariot axle widths are fixed so that all vehicles fit the established road ruts across the empire. These measures are enforced through bronze calibration tools — standardised containers and weighing instruments — distributed to officials throughout the commanderies.\n\nThe Qin small seal script evolves quickly into the clerical script (隶书 lìshū) under administrative pressure, and from there into the standard script that remains the basis of Chinese writing to the present day. A Chinese writer of the 21st century can read a Han dynasty text with modest training; the Qin script unification made this two-thousand-year continuity possible.",
@@ -40,6 +20,25 @@
         "Writing"
       ],
       "type": "cultural"
+    },
+    {
+      "date": "01.01.0221",
+      "description": "After defeating the last of the six rival kingdoms — Qi (齐) falls in 221 BC — Ying Zheng (嬴政), king of Qin, rejects the old Zhou title of king (王 wáng) and creates a new compound title: Huangdi (皇帝, Emperor), combining the characters for the mythical Three Sovereigns and Five Emperors to assert unprecedented and unchallengeable authority. He designates himself Shi Huangdi (始皇帝, 'First August Emperor'), numbers his successors as Second, Third, and on for ten thousand generations — a sequence cut short after the second. The unified territory spans approximately 2.2 million square kilometres, administered through 36 commanderies (郡 jùn) replacing the Zhou feudal states.\n\nQin Shi Huang is the pivotal individual in the formation of the Chinese state. He is 38 years old at unification and will live only eleven more years, but in that time he reshapes every institutional, infrastructural, and cultural dimension of Chinese governance. His very name — 'Qín Shǐ Huángdì' — becomes the etymological source of the Western name 'China' via Sanskrit Cīna and Arabic Sīn.",
+      "description_ru": "Покорив последнее из шести соперничающих царств — Ци (齐) пало в 221 г. до н. э., — Ин Чжэн (嬴政), ван Цинь, отвергает старый чжоуский титул вана (王) и создаёт новый составной титул: Хуанди (皇帝, Император), объединяя иероглифы мифических Трёх Государей и Пяти Императоров, чтобы утвердить беспрецедентную и неоспоримую власть. Он именует себя Ши Хуанди (始皇帝, «Первый Август Император»), нумеруя преемников как Второго, Третьего — вплоть до десяти тысяч поколений; последовательность обрывается на втором. Объединённая территория охватывает около 2,2 млн кв. км, управляемых через 36 округов (郡 цзюнь) вместо чжоуских феодальных государств.\n\nЦинь Ши Хуан — ключевая личность в формировании китайского государства. На момент объединения ему 38 лет; он проживёт ещё одиннадцать лет, однако за это время переформирует каждое институциональное, инфраструктурное и культурное измерение китайского управления.",
+      "era": "BC",
+      "latitude": 34.41432712,
+      "longitude": 108.85743141,
+      "name": "Qin Shi Huang Unifies China",
+      "name_ru": "Цинь Ши Хуан объединяет Китай",
+      "source": "https://en.wikipedia.org/wiki/Qin_Shi_Huang",
+      "tags": [
+        "Chinese",
+        "Dynasty",
+        "Empire",
+        "Qin",
+        "Ying Zheng 👑"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.0215",
@@ -205,6 +204,27 @@
       "type": "military"
     },
     {
+      "date": "01.02.0206",
+      "description": "At Hongmeng (鸿门), Xiang Yu's advisor Fan Zeng (范增) urges his lord to assassinate Liu Bang during a banquet — the moment when Xiang Yu controls the larger army and Liu Bang is a guest at his mercy. Xiang Yu hesitates; Liu Bang's general Fan Kuai (樊哙) breaks into the feast armed, providing a distraction, and Liu Bang slips out on the pretext of relieving himself and flees on horseback. Xiang Yu lets him go.\n\nThe Feast at Hongmen is one of the most analyzed episodes in Chinese historical literature: the moment when Xiang Yu's determination could have destroyed the entire future Han Dynasty.",
+      "description_ru": "В Хунмэне (鸿门) советник Сян Юя Фань Цзэн (范增) убеждает своего господина убить Лю Бана во время пира — в момент, когда Сян Юй располагает большей армией, а Лю Бан беззащитен как гость. Сян Юй колеблется; генерал Лю Бана Фань Куай (樊哙) врывается на пир вооружённым, отвлекая врагов, и Лю Бан под предлогом нужды ускользает верхом. Сян Юй отпускает его.\n\nПир в Хунмэне — один из наиболее анализируемых эпизодов китайской исторической литературы: момент, когда решимость Сян Юя могла бы уничтожить всю будущую династию Хань",
+      "era": "BC",
+      "latitude": 34.38,
+      "longitude": 109.2,
+      "name": "Liu Bang escapes assassination at Hongmeng",
+      "name_ru": "Лю Бан избегает убийства в Хунмэне",
+      "source": "https://en.wikipedia.org/wiki/Feast_at_Hongmen",
+      "tags": [
+        "Chinese",
+        "Civil War",
+        "Legend",
+        "Assassination",
+        "Failure",
+        "Han",
+        "Liu Bang 👤"
+      ],
+      "type": "political"
+    },
+    {
       "date": "01.01.0206",
       "description": "Liu Bang (刘邦), a minor official from the state of Chu leading a mixed rebel force, reaches Xianyang ahead of Xiang Yu and accepts the surrender of Zi Ying (子婴), the last Qin ruler, at the Zhi Road outside the capital. Crucially, Liu Bang restrains his troops from looting the palace and treasury — preserving the administrative records, legal codes, and geographical maps of the Qin state. His advisor Xiao He (萧何) specifically secures the Qin bureaucratic archives, which will become the administrative foundation of the Han dynasty.\n\nLiu Bang's restraint contrasts sharply with Xiang Yu's behaviour: when Xiang Yu arrives weeks later, he burns the Epang Palace (阿房宫) — reportedly for three months — loots the imperial treasury, murders Zi Ying, and massacres the population of Xianyang. The contrast in conduct between the two men begins to define their reputations and ultimately determines which of them will win the subsequent civil war.",
       "description_ru": "Лю Бан (刘邦), мелкий чиновник из Чу, ведущий смешанные повстанческие силы, достигает Сяньяна раньше Сян Юя и принимает капитуляцию последнего правителя Цинь Цзы Ина (子婴). Важно, что Лю Бан удерживает войска от мародёрства во дворце и казне — сохраняя административные записи, своды законов и географические карты циньского государства. Его советник Сяо Хэ (萧何) специально обеспечивает сохранность бюрократических архивов Цинь, которые станут административной основой династии Хань.\n\nСдержанность Лю Бана резко контрастирует с поведением Сян Юя: прибыв несколькими неделями позже, тот сжигает дворец Эпанчун (阿房宫) — по преданию, три месяца, — грабит императорскую казну, убивает Цзы Ина и учиняет резню среди населения Сяньяна.",
@@ -227,21 +247,18 @@
       "type": "political"
     },
     {
-      "date": "01.02.0206",
-      "description": "At Hongmeng (鸿门), Xiang Yu's advisor Fan Zeng (范增) urges his lord to assassinate Liu Bang during a banquet — the moment when Xiang Yu controls the larger army and Liu Bang is a guest at his mercy. Xiang Yu hesitates; Liu Bang's general Fan Kuai (樊哙) breaks into the feast armed, providing a distraction, and Liu Bang slips out on the pretext of relieving himself and flees on horseback. Xiang Yu lets him go.\n\nThe Feast at Hongmen is one of the most analyzed episodes in Chinese historical literature: the moment when Xiang Yu's determination could have destroyed the entire future Han Dynasty.",
-      "description_ru": "В Хунмэне (鸿门) советник Сян Юя Фань Цзэн (范增) убеждает своего господина убить Лю Бана во время пира — в момент, когда Сян Юй располагает большей армией, а Лю Бан беззащитен как гость. Сян Юй колеблется; генерал Лю Бана Фань Куай (樊哙) врывается на пир вооружённым, отвлекая врагов, и Лю Бан под предлогом нужды ускользает верхом. Сян Юй отпускает его.\n\nПир в Хунмэне — один из наиболее анализируемых эпизодов китайской исторической литературы: момент, когда решимость Сян Юя могла бы уничтожить всю будущую династию Хань",
+      "date": "01.06.0202",
+      "description": "Liu Bang (刘邦), proclaimed Emperor Gaozu (高祖), establishes the Han dynasty — selecting as its basis the administrative framework of the Qin state, retained intact in Xiao He's secured archives, but drastically reducing the most oppressive Qin laws. The new dynasty begins with a pragmatic compromise: the centralised commandery system is retained in areas around the capital, while large vassal kingdoms are granted to Liu Bang's generals — a hybrid arrangement that replicates the Zhou's structural vulnerability but is politically necessary.\n\nLiu Bang's own biography is remarkable: he is the son of a peasant farmer, worked as a minor official (泗水亭长 Sìshuǐ tíngzhǎng, a local constable) before the rebellion, and reaches the throne through thirteen years of war and political manoeuvre. He and the later founding emperor Wang Mang are the only two Chinese emperors of commoner birth. Gaozu's legacy is the institutional hybrid that defines the Han: Qin administrative machinery operated through Confucian social norms.",
+      "description_ru": "Лю Бан (刘邦), провозглашённый императором Гаоцзу (高祖), основывает династию Хань — выбирая её основой административный каркас циньского государства, сохранённый в архивах Сяо Хэ, но резко сокращая репрессивные циньские законы. Новая династия начинается с прагматичного компромисса: система округов сохраняется в районах вокруг столицы, тогда как крупные вассальные царства переходят полководцам Лю Бана.\n\nБиография самого Лю Бана замечательна: сын крестьянина, до восстания работавший мелким чиновником (泗水亭长, местный пристав). Гаоцзу и последующий основатель Ван Ман — единственные два китайских императора незнатного происхождения.",
       "era": "BC",
-      "latitude": 34.38,
-      "longitude": 109.2,
-      "name": "Liu Bang escapes assassination at Hongmeng",
-      "name_ru": "Лю Бан избегает убийства в Хунмэне",
-      "source": "https://en.wikipedia.org/wiki/Feast_at_Hongmen",
+      "latitude": 34.41432712,
+      "longitude": 108.85743141,
+      "name": "The founding of the Han Dynasty",
+      "name_ru": "Основание династии Хань",
+      "source": "https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han",
       "tags": [
         "Chinese",
-        "Civil War",
-        "Legend",
-        "Assassination",
-        "Failure",
+        "Dynasty",
         "Han",
         "Liu Bang 👤"
       ],
@@ -269,22 +286,45 @@
       "type": "military"
     },
     {
-      "date": "01.06.0202",
-      "description": "Liu Bang (刘邦), proclaimed Emperor Gaozu (高祖), establishes the Han dynasty — selecting as its basis the administrative framework of the Qin state, retained intact in Xiao He's secured archives, but drastically reducing the most oppressive Qin laws. The new dynasty begins with a pragmatic compromise: the centralised commandery system is retained in areas around the capital, while large vassal kingdoms are granted to Liu Bang's generals — a hybrid arrangement that replicates the Zhou's structural vulnerability but is politically necessary.\n\nLiu Bang's own biography is remarkable: he is the son of a peasant farmer, worked as a minor official (泗水亭长 Sìshuǐ tíngzhǎng, a local constable) before the rebellion, and reaches the throne through thirteen years of war and political manoeuvre. He and the later founding emperor Wang Mang are the only two Chinese emperors of commoner birth. Gaozu's legacy is the institutional hybrid that defines the Han: Qin administrative machinery operated through Confucian social norms.",
-      "description_ru": "Лю Бан (刘邦), провозглашённый императором Гаоцзу (高祖), основывает династию Хань — выбирая её основой административный каркас циньского государства, сохранённый в архивах Сяо Хэ, но резко сокращая репрессивные циньские законы. Новая династия начинается с прагматичного компромисса: система округов сохраняется в районах вокруг столицы, тогда как крупные вассальные царства переходят полководцам Лю Бана.\n\nБиография самого Лю Бана замечательна: сын крестьянина, до восстания работавший мелким чиновником (泗水亭长, местный пристав). Гаоцзу и последующий основатель Ван Ман — единственные два китайских императора незнатного происхождения.",
+      "date": "01.10.0200",
+      "description": "Emperor Gaozu leads a personal relief expedition to the besieged town of Mayi (马邑) in Shanxi and is ambushed by the Xiongnu chanyu (单于, supreme ruler) Modu (冒顿) with 300,000 cavalry. The Han advance force of 320,000 infantry is cut off from the main army at Baideng (白登山, White Ascent Mountain) for seven days in the depth of winter. Relief is negotiated — through what later tradition claims was a bribe to the chanyu's chief consort — and Gaozu escapes, but the engagement demonstrates that Han armies cannot defeat Xiongnu cavalry in the open steppe.\n\nThe resulting Heqin (和亲, 'harmonious kinship') policy acknowledges military parity by sending a Chinese imperial princess as wife to the Xiongnu chanyu each year, accompanied by vast quantities of silk, grain, wine, and metal goods — essentially tribute, dressed in matrimonial language. The Heqin policy is a source of deep shame in Chinese political culture and drives the later desire of Emperor Wu to achieve a decisive reversal.",
+      "description_ru": "Император Гаоцзу лично ведёт экспедицию для деблокады осаждённого города Маи (马邑) и попадает в засаду шаньюя сюнну (单于) Модэ (冒顿). Передовые силы Хань отрезаны от главной армии у Байдэна (白登山) на семь дней в разгар зимы. Гаоцзу спасается бегством, армия дает бой, однако сражение показывает, что армии Хань не могут победить конницу сюнну в открытой степи.\n\nВытекающая политика хэцинь (和亲, «гармоничное родство») признаёт военный паритет, ежегодно отправляя китайскую «имперскую принцессу» в жёны шаньюю вместе с огромными количествами шёлка, зерна, вина и металлических изделий — по существу, дань, облачённая в брачную риторику.",
+      "era": "BC",
+      "latitude": 40.1,
+      "longitude": 113.3,
+      "name": "Battle of Baideng and the Heqin Policy",
+      "name_ru": "Битва при Байдэне и политика хэцинь",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Baideng",
+      "tags": [
+        "Chinese",
+        "War",
+        "Battle",
+        "Han",
+        "Huns",
+        "Liu Bang 👤",
+        "Treaty",
+        "Tribute"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0200",
+      "description": "Jiaodi (角抵, \"horn butting\"), a wrestling contest whose name recalls an old legend of combatants fighting while wearing horned headgear in imitation of the mythical horned warrior Chiyou, becomes a fixture of court entertainment under the Qin and early Han emperors. Bouts pit strongmen against each other in feats of grappling, throwing, and raw strength performed before the emperor and assembled officials, often alongside acrobatics and music as part of the same spectacle.\n\nEmperor Wu of Han stages especially lavish jiaodi displays to impress foreign envoys visiting Chang'an, using the contests as a show of Han vigor and wealth to rivals and tributary states alike. The sport survives under various names through later dynasties, eventually contributing to the wrestling traditions still practiced in China today under the name shuai jiao.",
+      "description_ru": "Цзяоди (角抵, «бодание рогами») — борцовское состязание, чьё название восходит к древней легенде о бойцах, сражавшихся в рогатых шлемах в подражание мифическому рогатому воину Чию, — становится неотъемлемой частью придворных развлечений при дворах Цинь и ранней Хань. В поединках силачи меряются захватами, бросками и грубой силой перед лицом императора и собравшихся сановников, часто наряду с акробатикой и музыкой в рамках одного представления.\n\nИмператор У-ди устраивает особенно пышные показы цзяоди, чтобы впечатлить иностранных послов, прибывающих в Чанъань, используя состязания как демонстрацию ханьской мощи и богатства соперникам и вассальным государствам. Вид борьбы переживает под разными названиями последующие династии, со временем внося вклад в борцовские традиции, практикуемые в Китае и сегодня под именем шуайцзяо.",
       "era": "BC",
       "latitude": 34.41432712,
       "longitude": 108.85743141,
-      "name": "The founding of the Han Dynasty",
-      "name_ru": "Основание династии Хань",
-      "source": "https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han",
+      "name": "Jiaodi Wrestling Entertains Han Imperial Court",
+      "name_ru": "Борьба цзяоди при китайском императорском дворе",
+      "source": "https://en.wikipedia.org/wiki/Shuai_jiao",
       "tags": [
         "Chinese",
-        "Dynasty",
+        "Culture",
+        "Entertainment",
         "Han",
-        "Liu Bang 👤"
+        "Sport"
       ],
-      "type": "political"
+      "type": "cultural"
     },
     {
       "date": "01.01.0200",
@@ -306,50 +346,6 @@
         "Liu Bang 👤"
       ],
       "type": "political"
-    },
-    {
-      "date": "01.01.0200",
-      "description": "Jiaodi (角抵, \"horn butting\"), a wrestling contest whose name recalls an old legend of combatants fighting while wearing horned headgear in imitation of the mythical horned warrior Chiyou, becomes a fixture of court entertainment under the Qin and early Han emperors. Bouts pit strongmen against each other in feats of grappling, throwing, and raw strength performed before the emperor and assembled officials, often alongside acrobatics and music as part of the same spectacle.\n\nEmperor Wu of Han stages especially lavish jiaodi displays to impress foreign envoys visiting Chang'an, using the contests as a show of Han vigor and wealth to rivals and tributary states alike. The sport survives under various names through later dynasties, eventually contributing to the wrestling traditions still practiced in China today under the name shuai jiao.",
-      "description_ru": "Цзяоди (角抵, «бодание рогами») — борцовское состязание, чьё название восходит к древней легенде о бойцах, сражавшихся в рогатых шлемах в подражание мифическому рогатому воину Чию, — становится неотъемлемой частью придворных развлечений при дворах Цинь и ранней Хань. В поединках силачи меряются захватами, бросками и грубой силой перед лицом императора и собравшихся сановников, часто наряду с акробатикой и музыкой в рамках одного представления.\n\nИмператор У-ди Ханьский устраивает особенно пышные показы цзяоди, чтобы впечатлить иностранных послов, прибывающих в Чанъань, используя состязания как демонстрацию ханьской мощи и богатства соперникам и вассальным государствам. Вид борьбы переживает под разными названиями последующие династии, со временем внося вклад в борцовские традиции, практикуемые в Китае и сегодня под именем шуайцзяо.",
-      "era": "BC",
-      "latitude": 34.41432712,
-      "longitude": 108.85743141,
-      "name": "Jiaodi Wrestling Entertains the Qin and Han Imperial Courts",
-      "name_ru": "Борьба цзяоди развлекает императорские дворы Цинь и Хань",
-      "source": "https://en.wikipedia.org/wiki/Shuai_jiao",
-      "tags": [
-        "Chinese",
-        "Qin",
-        "Han",
-        "Jiaodi",
-        "Wrestling",
-        "Court entertainment",
-        "Sport",
-        "Xianyang"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.10.0200",
-      "description": "Emperor Gaozu leads a personal relief expedition to the besieged town of Mayi (马邑) in Shanxi and is ambushed by the Xiongnu chanyu (单于, supreme ruler) Modu (冒顿) with 300,000 cavalry. The Han advance force of 320,000 infantry is cut off from the main army at Baideng (白登山, White Ascent Mountain) for seven days in the depth of winter. Relief is negotiated — through what later tradition claims was a bribe to the chanyu's chief consort — and Gaozu escapes, but the engagement demonstrates that Han armies cannot defeat Xiongnu cavalry in the open steppe.\n\nThe resulting Heqin (和亲, 'harmonious kinship') policy acknowledges military parity by sending a Chinese imperial princess as wife to the Xiongnu chanyu each year, accompanied by vast quantities of silk, grain, wine, and metal goods — essentially tribute, dressed in matrimonial language. The Heqin policy is a source of deep shame in Chinese political culture and drives the later desire of Emperor Wu to achieve a decisive reversal.",
-      "description_ru": "Император Гаоцзу лично ведёт экспедицию для деблокады осаждённого города Маи (马邑) и попадает в засаду шаньюя сюнну (单于) Модэ (冒顿). Передовые силы Хань отрезаны от главной армии у Байдэна (白登山) на семь дней в разгар зимы. Гаоцзу спасается бегством, армия дает бой, однако сражение показывает, что армии Хань не могут победить конницу сюнну в открытой степи.\n\nВытекающая политика хэцинь (和亲, «гармоничное родство») признаёт военный паритет, ежегодно отправляя китайскую «имперскую принцессу» в жёны шаньюю вместе с огромными количествами шёлка, зерна, вина и металлических изделий — по существу, дань, облачённая в брачную риторику.",
-      "era": "BC",
-      "latitude": 40.1,
-      "longitude": 113.3,
-      "name": "Battle of Baideng and the Heqin Policy",
-      "name_ru": "Битва при Байдэне и политика хэцинь",
-      "source": "https://en.wikipedia.org/wiki/Battle_of_Baideng",
-      "tags": [
-        "Chinese",
-        "War",
-        "Battle",
-        "Han",
-        "Huns",
-        "Liu Bang 👤",
-        "Treaty",
-        "Tribute"
-      ],
-      "type": "military"
     },
     {
       "date": "01.01.0180",
@@ -468,25 +464,6 @@
       "type": "cultural"
     },
     {
-      "date": "01.01.0119",
-      "description": "Emperor Wu launches the largest Han military operation in history: two simultaneous columns, each 50,000 cavalry plus 100,000 infantry, are sent deep into the Gobi Desert north of the Ordos to engage the Xiongnu. The western column under Wei Qing (卫青) encircles and destroys the Xiongnu main force commanded by Chanyu Yizhixie; the eastern column under Huo Qubing (霍去病), 23 years old, pursues fleeing Xiongnu forces north of the Gobi to the shores of Lake Baikal. Together they kill or capture 80,000–90,000 Xiongnu warriors. The Chanyu flees northward and cannot be found.\n\nMobei breaks the strategic power of the Xiongnu confederation: they lose their southern pasture lands, their best warriors, and — as Huo Qubing captures their sacred mountain Yin Shan — their spiritual heartland. The Han subsequently establish four new commanderies in the Gansu corridor, opening the land route that Zhang Qian had scouted. Huo Qubing dies at age 24; Wei Qing in 106 BC — the two commanders who ended the Xiongnu threat to Han China.",
-      "description_ru": "Император У развёртывает крупнейшую военную операцию в истории Хань: две армии одновременно отправляются в глубь пустыни Гоби к северу от Ордоса. Западная колонна под командованием Вэй Цина (卫青) окружает и уничтожает главные силы сюнну; восточная под командованием Хо Цюйбина (霍去病), которому 23 года, преследует бегущих сюнну к северу от Гоби до берегов Байкала. Вместе они убивают или берут в плен 80 000–90 000 воинов сюнну. Мобэй разрушает стратегическую мощь конфедерации сюнну: они теряют южные пастбища, лучших воинов и — после захвата Хо Цюйбином их священной горы Иньшань — духовную родину.",
-      "era": "BC",
-      "latitude": 46,
-      "longitude": 108,
-      "name": "Battle of Mobei — Decisive Defeat of the Xiongnu",
-      "name_ru": "Хань громит сюнну при Мобэй",
-      "source": "https://en.wikipedia.org/wiki/Battle_of_Mobei",
-      "tags": [
-        "Chinese",
-        "War",
-        "Battle",
-        "Han",
-        "Huns"
-      ],
-      "type": "military"
-    },
-    {
       "date": "01.06.0119",
       "description": "To fund Emperor Wu's vast military campaigns — which within a decade exhaust the treasury reserves accumulated during the Wen-Jing reign — the Han government implements state monopolies on salt and iron production and distribution, two commodities essential to every household. The policy, proposed by the merchant Sang Hongyang (桑弘羊), nationalises industries previously operated by large private merchant families, driving them out and replacing them with government-managed smelters and salt works. The government also establishes price-stabilisation granaries (平准 píngjǔn) and uniform transportation pricing.",
       "description_ru": "Для финансирования обширных военных кампаний императора У — в течение десятилетия истощивших казначейские резервы — правительство Хань вводит государственные монополии на производство и распределение соли и железа, товаров первой необходимости для каждого домохозяйства. Политика, предложенная купцом Сан Хунъяном (桑弘羊), национализирует отрасли, прежде эксплуатировавшиеся крупными купеческими семьями.",
@@ -505,6 +482,25 @@
         "Salt"
       ],
       "type": "political"
+    },
+    {
+      "date": "01.01.0119",
+      "description": "Emperor Wu launches the largest Han military operation in history: two simultaneous columns, each 50,000 cavalry plus 100,000 infantry, are sent deep into the Gobi Desert north of the Ordos to engage the Xiongnu. The western column under Wei Qing (卫青) encircles and destroys the Xiongnu main force commanded by Chanyu Yizhixie; the eastern column under Huo Qubing (霍去病), 23 years old, pursues fleeing Xiongnu forces north of the Gobi to the shores of Lake Baikal. Together they kill or capture 80,000–90,000 Xiongnu warriors. The Chanyu flees northward and cannot be found.\n\nMobei breaks the strategic power of the Xiongnu confederation: they lose their southern pasture lands, their best warriors, and — as Huo Qubing captures their sacred mountain Yin Shan — their spiritual heartland. The Han subsequently establish four new commanderies in the Gansu corridor, opening the land route that Zhang Qian had scouted. Huo Qubing dies at age 24; Wei Qing in 106 BC — the two commanders who ended the Xiongnu threat to Han China.",
+      "description_ru": "Император У развёртывает крупнейшую военную операцию в истории Хань: две армии одновременно отправляются в глубь пустыни Гоби к северу от Ордоса. Западная колонна под командованием Вэй Цина (卫青) окружает и уничтожает главные силы сюнну; восточная под командованием Хо Цюйбина (霍去病), которому 23 года, преследует бегущих сюнну к северу от Гоби до берегов Байкала. Вместе они убивают или берут в плен 80 000–90 000 воинов сюнну. Мобэй разрушает стратегическую мощь конфедерации сюнну: они теряют южные пастбища, лучших воинов и — после захвата Хо Цюйбином их священной горы Иньшань — духовную родину.",
+      "era": "BC",
+      "latitude": 46,
+      "longitude": 108,
+      "name": "Battle of Mobei — Decisive Defeat of the Xiongnu",
+      "name_ru": "Хань громит сюнну при Мобэй",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Mobei",
+      "tags": [
+        "Chinese",
+        "War",
+        "Battle",
+        "Han",
+        "Huns"
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.0115",
@@ -553,18 +549,17 @@
       "era": "BC",
       "latitude": 34.30515867,
       "longitude": 108.85648727,
-      "name": "The Nine Chapters on the Mathematical Art Takes Shape in Han China",
-      "name_ru": "«Девять глав о математическом искусстве» складывается в ханьском Китае",
+      "name": "The Nine Chapters on the Mathematical Art",
+      "name_ru": "«Девять глав о математическом искусстве»",
       "source": "https://en.wikipedia.org/wiki/The_Nine_Chapters_on_the_Mathematical_Art",
       "tags": [
         "Chinese",
+        "Education",
+        "Engineering ⚙️",
         "Han",
         "Mathematics",
-        "Nine Chapters",
-        "Counting rods",
         "Science",
-        "Education",
-        "Chang'an"
+        "Text"
       ],
       "type": "scientific"
     },
@@ -748,18 +743,18 @@
       "era": "AD",
       "latitude": 34.66780552,
       "longitude": 112.41580009,
-      "name": "Ban Zhao Completes the Book of Han and Writes Lessons for Women",
-      "name_ru": "Бань Чжао завершает «Книгу Хань» и пишет «Наставления для женщин»",
+      "name": "Ban Zhao Completes the Book of Han",
+      "name_ru": "Бань Чжао завершает «Книгу Хань»",
       "source": "https://en.wikipedia.org/wiki/Ban_Zhao",
       "tags": [
         "Chinese",
-        "Han",
-        "Ban Zhao",
-        "Book of Han",
-        "Historiography",
-        "Women",
+        "Astronomy",
+        "Confucianism",
+        "Culture",
         "Education",
-        "Confucianism"
+        "Han",
+        "History",
+        "Text"
       ],
       "type": "cultural"
     },
@@ -878,5 +873,6 @@
       ],
       "type": "political"
     }
-  ]
+  ],
+  "filename": "BC5_chinese_qin_and_han_period.json"
 }

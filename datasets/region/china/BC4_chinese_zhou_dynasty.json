@@ -1,6 +1,5 @@
 {
   "description": "Dataset imported with 27 events",
-  "filename": "BC4_chinese_zhou_dynasty.json",
   "events": [
     {
       "date": "01.01.1500",
@@ -217,23 +216,19 @@
     },
     {
       "date": "01.01.0548",
-      "description": "The Zuo Zhuan (左傳), a historical commentary on the Spring and Autumn Annals, records a minister of the state of Wey being compared unfavourably to a poor player of weiqi (圍棋, \"the surrounding game\"), the earliest surviving textual reference to the board game later known in the West as Go. Two players alternate placing black and white stones on a grid of intersecting lines, aiming to surround more territory than the opponent, a rule set so simple to state and so difficult to master that the game becomes a lifelong pursuit for serious players.\n\nWeiqi later joins calligraphy, painting, and the guqin zither as one of the Four Arts expected of a cultivated Chinese scholar, its strategic depth treated as training for statecraft and military thinking alike. Centuries after this first mention, envoys and scholars carry the game from China to Korea and Japan, where it takes root as an equally serious cultural institution under its Japanese name, igo.",
-      "description_ru": "«Цзо-чжуань» (左傳), исторический комментарий к «Чуньцю» («Веснам и осеням»), фиксирует, как министра царства Вэй с неодобрением сравнивают со слабым игроком в вэйци (圍棋, «игра в окружение») — древнейшее из сохранившихся текстовых упоминаний настольной игры, позднее известной на Западе как го. Два игрока по очереди выставляют чёрные и белые камни на сетке пересекающихся линий, стремясь окружить больше территории, чем соперник, — правило, простое в формулировке и невероятно трудное в освоении, из-за чего игра становится делом всей жизни для серьёзных игроков.\n\nПозже вэйци вместе с каллиграфией, живописью и цитрой гуцинь входит в число Четырёх искусств, ожидаемых от образованного китайского учёного, а её стратегическая глубина рассматривается как тренировка государственного и военного мышления. Спустя века после этого первого упоминания посланники и учёные переносят игру из Китая в Корею и Японию, где она укореняется как столь же серьёзный культурный институт под японским названием иго.",
+      "description": "The Zuo Zhuan (左傳), a historical commentary on the Spring and Autumn Annals, records a minister of the state of Wey being compared unfavourably to a poor player of weiqi (圍棋, \"the surrounding game\"), the earliest surviving textual reference to the board game later known in the West as Go. Two players alternate placing black and white stones on a grid of intersecting lines, aiming to surround more territory than the opponent, a rule set so simple to state and so difficult to master that the game becomes a lifelong pursuit for serious players.\n\nWeiqi later joins calligraphy, painting, and the guqin zither as one of the Four Arts expected of a cultivated Chinese scholar, its strategic depth treated as training for statecraft and military thinking alike.",
+      "description_ru": "«Цзо-чжуань» (左傳), исторический комментарий к «Чуньцю» («Веснам и осеням»), фиксирует, как министра царства Вэй с неодобрением сравнивают со слабым игроком в вэйци (圍棋, «игра в окружение») — древнейшее из сохранившихся текстовых упоминаний настольной игры, позднее известной на Западе как го. Два игрока по очереди выставляют чёрные и белые камни на сетке пересекающихся линий, стремясь окружить больше территории, чем соперник, — правило, простое в формулировке, но трудное в освоении, из-за чего игра становится делом жизни для серьёзных игроков.\n\nПозже вэйци вместе с каллиграфией, живописью и цитрой гуцинь входит в число Четырёх искусств, ожидаемых от образованного китайского учёного, а её стратегическая глубина рассматривается как тренировка государственного и военного мышления.",
       "era": "BC",
       "latitude": 35.7167,
       "longitude": 115.0167,
-      "name": "The Zuo Zhuan Records the Earliest Known Mention of Weiqi (Go)",
-      "name_ru": "«Цзо-чжуань» фиксирует древнейшее упоминание вэйци (го)",
+      "name": "The first mention of the Go game (Weiqi)",
+      "name_ru": "Первое упоминание игры го (вэйци)",
       "source": "https://en.wikipedia.org/wiki/Go_(game)",
       "tags": [
         "Chinese",
-        "Zhou",
-        "Weiqi",
-        "Go",
-        "Board game",
-        "Four Arts",
-        "Zuo Zhuan",
-        "Wey"
+        "Culture",
+        "Games",
+        "Zhou"
       ],
       "type": "cultural"
     },
@@ -373,19 +368,38 @@
       "latitude": 35.087,
       "longitude": 117.1674,
       "name": "Mozi and Lu Ban's Rival Wooden Kites",
-      "name_ru": "Соперничающие деревянные воздушные змеи Мо-цзы и Лу Баня",
+      "name_ru": "Деревянные воздушные змеи Мо-цзы и Лу Баня",
       "source": "https://en.wikipedia.org/wiki/Kite",
       "tags": [
         "Chinese",
-        "Zhou",
-        "Mozi",
-        "Lu Ban",
-        "Kite",
+        "Culture",
+        "Engineering ⚙️",
+        "Innovation",
         "Mohism",
-        "Invention",
-        "Warring States"
+        "Zhou"
       ],
       "type": "scientific"
+    },
+    {
+      "date": "01.01.0400",
+      "description": "Liubo (六博, \"six sticks\"), a board game for two players who race carved pieces around a square board marked with TLV-shaped paths while throwing bamboo sticks to determine moves, becomes a fixture of aristocratic leisure across the Warring States. Sets recovered from Chu tombs include lacquered boards, ivory or bone pieces, and dice-like sticks, showing the game was valuable enough to bury with the dead for use in the afterlife.\n\nLiubo carries none of the strategic depth of weiqi, relying heavily on the luck of the throw, and Han-dynasty writers already describe games that end in furious arguments over cheating. The game remains popular for roughly a thousand years before falling out of use by the Tang dynasty, its exact rules eventually lost and only partially reconstructed by modern scholars from surviving boards and tomb texts.",
+      "description_ru": "Любо (六博, «шесть палочек») — настольная игра для двух игроков, передвигающих резные фишки по квадратной доске с путями в форме букв T, L и V, бросая бамбуковые палочки для определения хода, — становится непременной частью аристократического досуга эпохи Воюющих царств. Наборы, найденные в гробницах царства Чу, включают лакированные доски, фишки из кости или слоновой кости и палочки наподобие игральных костей, что говорит о ценности игры, достаточной, чтобы класть её в могилу для загробной жизни.\n\nЛюбо лишена стратегической глубины вэйци, во многом завися от удачи броска, и уже ханьские авторы описывают партии, заканчивающиеся яростными спорами о жульничестве. Игра остаётся популярной около тысячи лет, выходя из употребления к династии Тан, а её точные правила со временем утрачиваются и лишь частично восстанавливаются современными учёными по сохранившимся доскам и текстам из гробниц.",
+      "era": "BC",
+      "latitude": 30.3667,
+      "longitude": 112.1667,
+      "name": "Liubo Board Game Spreads Among Warring States Nobility",
+      "name_ru": "Настольная игра любо распространяется в Китае",
+      "source": "https://en.wikipedia.org/wiki/Liubo",
+      "tags": [
+        "Chinese",
+        "Aristocracy",
+        "Culture",
+        "Entertainment",
+        "Games",
+        "Warring States",
+        "Zhou"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0400",
@@ -407,28 +421,6 @@
         "Zhou"
       ],
       "type": "scientific"
-    },
-    {
-      "date": "01.01.0400",
-      "description": "Liubo (六博, \"six sticks\"), a board game for two players who race carved pieces around a square board marked with TLV-shaped paths while throwing bamboo sticks to determine moves, becomes a fixture of aristocratic leisure across the Warring States. Sets recovered from Chu tombs include lacquered boards, ivory or bone pieces, and dice-like sticks, showing the game was valuable enough to bury with the dead for use in the afterlife.\n\nLiubo carries none of the strategic depth of weiqi, relying heavily on the luck of the throw, and Han-dynasty writers already describe games that end in furious arguments over cheating. The game remains popular for roughly a thousand years before falling out of use by the Tang dynasty, its exact rules eventually lost and only partially reconstructed by modern scholars from surviving boards and tomb texts.",
-      "description_ru": "Любо (六博, «шесть палочек») — настольная игра для двух игроков, передвигающих резные фишки по квадратной доске с путями в форме букв T, L и V, бросая бамбуковые палочки для определения хода, — становится непременной частью аристократического досуга эпохи Воюющих царств. Наборы, найденные в гробницах царства Чу, включают лакированные доски, фишки из кости или слоновой кости и палочки наподобие игральных костей, что говорит о ценности игры, достаточной, чтобы класть её в могилу для загробной жизни.\n\nЛюбо лишена стратегической глубины вэйци, во многом завися от удачи броска, и уже ханьские авторы описывают партии, заканчивающиеся яростными спорами о жульничестве. Игра остаётся популярной около тысячи лет, выходя из употребления к династии Тан, а её точные правила со временем утрачиваются и лишь частично восстанавливаются современными учёными по сохранившимся доскам и текстам из гробниц.",
-      "era": "BC",
-      "latitude": 30.3667,
-      "longitude": 112.1667,
-      "name": "Liubo Board Game Spreads Among Warring States Nobility",
-      "name_ru": "Настольная игра любо распространяется среди знати Воюющих царств",
-      "source": "https://en.wikipedia.org/wiki/Liubo",
-      "tags": [
-        "Chinese",
-        "Zhou",
-        "Liubo",
-        "Board game",
-        "Chu",
-        "Warring States",
-        "Aristocracy",
-        "Archaeology"
-      ],
-      "type": "cultural"
     },
     {
       "date": "01.01.0356",
@@ -461,18 +453,15 @@
       "era": "BC",
       "latitude": 36.8129,
       "longitude": 118.3587,
-      "name": "Cuju Football Recorded Among the Common People of Linzi",
-      "name_ru": "Игра в цуцзюй фиксируется среди простого народа Линьцзы",
+      "name": "Cuju Football played by common people of Linzi",
+      "name_ru": "Игра в цуцзюй распространяется в Линьцзы",
       "source": "https://en.wikipedia.org/wiki/Cuju",
       "tags": [
         "Chinese",
-        "Zhou",
-        "Cuju",
-        "Football",
-        "Qi",
-        "Linzi",
+        "Culture",
         "Sport",
-        "Warring States"
+        "Warring States",
+        "Zhou"
       ],
       "type": "cultural"
     },
@@ -483,63 +472,41 @@
       "era": "BC",
       "latitude": 36.625,
       "longitude": 114.5391,
-      "name": "King Wuling of Zhao Orders Hufu Qishe — Nomad Dress for Cavalry Archery",
-      "name_ru": "Улинван Чжао вводит хуфу цише — одежду кочевников для конных лучников",
+      "name": "King Wuling of Zhao Orders Hufu Qishe",
+      "name_ru": "Улинван Чжао вводит хуфу цише",
       "source": "https://en.wikipedia.org/wiki/King_Wuling_of_Zhao",
       "tags": [
         "Chinese",
-        "Zhou",
-        "King Wuling",
-        "Zhao",
-        "Fashion",
+        "Reform",
+        "Aristocracy",
         "Cavalry",
-        "Military reform",
-        "Warring States"
+        "Culture",
+        "Fashion",
+        "Warring States",
+        "Zhou"
       ],
       "type": "military"
     },
     {
-      "date": "01.05.0278",
+      "date": "05.05.0278",
       "description": "Qu Yuan (屈原), a minister and poet of the state of Chu whose exile inspired the Li Sao and other verses later collected in the Chu Ci (楚辭), drowns himself in the Miluo River in despair after Qin forces capture the Chu capital, an act he takes as a final protest against the corrupt court that had exiled him for opposing an alliance with Qin. Local boatmen, according to tradition, row out and beat drums to drive fish away from his body and throw rice wrapped in leaves into the water so that fish would eat the rice instead of the poet's remains.\n\nThat rice, zongzi (粽子), and the racing boats used to search for him became the two central rituals of the Duanwu festival (端午節), observed on the fifth day of the fifth lunar month for more than two thousand years since. Qu Yuan himself is remembered as the founding figure of Chinese romantic poetry, and the Chu Ci stands alongside the Shijing as one of the two great wellsprings of the Chinese literary tradition.",
       "description_ru": "Цюй Юань (屈原), министр и поэт царства Чу, чьё изгнание вдохновило поэму «Лисао» и другие стихи, позже собранные в «Чу цы» (楚辭), в отчаянии топится в реке Мило после того, как войска Цинь захватывают столицу Чу, — этот поступок он считает последним протестом против продажного двора, изгнавшего его за противодействие союзу с Цинь. По преданию, местные лодочники выплывают на реку, бьют в барабаны, чтобы отпугнуть рыб от его тела, и бросают в воду рис, завёрнутый в листья, чтобы рыбы ели рис, а не останки поэта.\n\nЭтот рис, цзунцзы (粽子), и лодки, на которых его искали, стали двумя главными обрядами праздника Дуаньу (端午節), отмечаемого в пятый день пятого лунного месяца уже более двух тысяч лет. Самого Цюй Юаня чтят как основоположника китайской лирической поэзии, а «Чу цы» наряду с «Шицзин» считается одним из двух великих истоков китайской литературной традиции.",
       "era": "BC",
-      "latitude": 28.8136,
-      "longitude": 113.0698,
-      "name": "Qu Yuan Drowns in the Miluo River, Giving Rise to the Dragon Boat Festival",
-      "name_ru": "Цюй Юань тонет в реке Мило, что рождает Праздник драконьих лодок",
+      "latitude": 28.88384539,
+      "longitude": 113.03878069,
+      "name": "Birth of the Dragon Boat Festival",
+      "name_ru": "Рождение праздника драконьих лодок",
       "source": "https://en.wikipedia.org/wiki/Qu_Yuan",
       "tags": [
         "Chinese",
-        "Zhou",
-        "Qu Yuan",
-        "Chu",
+        "Culture",
+        "Holidays",
         "Poetry",
-        "Dragon Boat Festival",
-        "Duanwu",
-        "Chu Ci"
+        "Self-sacrifice",
+        "Suicide",
+        "Zhou"
       ],
       "type": "cultural"
-    },
-    {
-      "date": "01.01.0256",
-      "description": "The hydraulic engineer Li Bing (李冰), governor of Shu under Qin authority, constructs the Dujiangyan (都江堰) irrigation and flood-control system on the Min River (岷江). The system divides the river into an inner channel for irrigation and an outer channel for flood discharge using a fish-snout shaped artificial island (鱼嘴 yúzuǐ), a spillway levee (飞沙堰 fēishāyàn), and a stone intake gorge (宝瓶口 bǎopínkǒu) — without any dam, making the system self-regulating through seasonal variation in river flow.\n\nThe Chengdu Plain, previously subject to alternating flood and drought, becomes one of China's most productive agricultural regions within a generation of the system's completion, providing the surplus grain that fuels Qin's final military campaigns. Dujiangyan remains in continuous operation to the present day - the oldest functioning large-scale hydraulic infrastructure in the world.",
-      "description_ru": "Инженер-гидравлик Ли Бин (李冰), губернатор области Шу под властью Цинь, строит ирригационную систему и систему защиты от паводков Дуцзянъянь (都江堰) на реке Минь (岷江). Система делит реку на внутренний канал для орошения и внешний канал для сброса паводков с помощью рыбьеголового искусственного острова (鱼嘴 юйцзуй), дамбы-водосброса (飞沙堰 фэйшаянь) и каменного водозаборного горла (宝瓶口 баопинкоу) — без плотины, что делает систему саморегулируемой в зависимости от сезонного расхода реки.\n\nЧэндуская равнина, прежде страдавшая от чередующихся паводков и засух, в течение одного поколения становится одним из наиболее продуктивных сельскохозяйственных районов Китая. Дуцзянъянь работает непрерывно по сей день и является старейшей действующей крупной гидравлической инфраструктурой в мире.",
-      "era": "BC",
-      "latitude": 31.00086024,
-      "longitude": 103.60536575,
-      "name": "Dujiangyan Irrigation System",
-      "name_ru": "Ирригационная система Дуцзянъянь",
-      "source": "https://en.wikipedia.org/wiki/Dujiangyan",
-      "tags": [
-        "Chinese",
-        "Agriculture",
-        "Engineering ⚙️",
-        "Innovation",
-        "Qin",
-        "Warring States",
-        "Water"
-      ],
-      "type": "scientific"
     },
     {
       "date": "01.06.0256",
@@ -562,6 +529,28 @@
         "Zhou"
       ],
       "type": "political"
+    },
+    {
+      "date": "01.01.0256",
+      "description": "The hydraulic engineer Li Bing (李冰), governor of Shu under Qin authority, constructs the Dujiangyan (都江堰) irrigation and flood-control system on the Min River (岷江). The system divides the river into an inner channel for irrigation and an outer channel for flood discharge using a fish-snout shaped artificial island (鱼嘴 yúzuǐ), a spillway levee (飞沙堰 fēishāyàn), and a stone intake gorge (宝瓶口 bǎopínkǒu) — without any dam, making the system self-regulating through seasonal variation in river flow.\n\nThe Chengdu Plain, previously subject to alternating flood and drought, becomes one of China's most productive agricultural regions within a generation of the system's completion, providing the surplus grain that fuels Qin's final military campaigns. Dujiangyan remains in continuous operation to the present day - the oldest functioning large-scale hydraulic infrastructure in the world.",
+      "description_ru": "Инженер-гидравлик Ли Бин (李冰), губернатор области Шу под властью Цинь, строит ирригационную систему и систему защиты от паводков Дуцзянъянь (都江堰) на реке Минь (岷江). Система делит реку на внутренний канал для орошения и внешний канал для сброса паводков с помощью рыбьеголового искусственного острова (鱼嘴 юйцзуй), дамбы-водосброса (飞沙堰 фэйшаянь) и каменного водозаборного горла (宝瓶口 баопинкоу) — без плотины, что делает систему саморегулируемой в зависимости от сезонного расхода реки.\n\nЧэндуская равнина, прежде страдавшая от чередующихся паводков и засух, в течение одного поколения становится одним из наиболее продуктивных сельскохозяйственных районов Китая. Дуцзянъянь работает непрерывно по сей день и является старейшей действующей крупной гидравлической инфраструктурой в мире.",
+      "era": "BC",
+      "latitude": 31.00086024,
+      "longitude": 103.60536575,
+      "name": "Dujiangyan Irrigation System",
+      "name_ru": "Ирригационная система Дуцзянъянь",
+      "source": "https://en.wikipedia.org/wiki/Dujiangyan",
+      "tags": [
+        "Chinese",
+        "Agriculture",
+        "Engineering ⚙️",
+        "Innovation",
+        "Qin",
+        "Warring States",
+        "Water"
+      ],
+      "type": "scientific"
     }
-  ]
+  ],
+  "filename": "BC4_chinese_zhou_dynasty.json"
 }

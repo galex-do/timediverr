@@ -1,6 +1,5 @@
 {
   "description": "Dataset imported with 31 events",
-  "filename": "BC3_chinese_shang_dynasty.json",
   "events": [
     {
       "date": "01.01.1585",
@@ -402,10 +401,9 @@
       "tags": [
         "Chinese",
         "Shang",
-        "Chopsticks",
-        "Daily life",
+        "Bronze",
         "Cuisine",
-        "Bronze"
+        "Culture"
       ],
       "type": "cultural"
     },
@@ -585,5 +583,6 @@
       ],
       "type": "military"
     }
-  ]
+  ],
+  "filename": "BC3_chinese_shang_dynasty.json"
 }
