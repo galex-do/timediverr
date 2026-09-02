@@ -1,0 +1,371 @@
+{
+  "filename": "west_francia_capetians.json",
+  "description": "West Francia's emergence from the Carolingian Empire after the Treaty of Verdun, the West Frankish crown's long decline under Viking pressure and the rise of the great regional princes — the Robertians above all — and the 987 election of Hugh Capet, which founded the dynasty that ruled France for the next eight centuries.",
+  "events": [
+    {
+      "date": "10.08.0843",
+      "era": "AD",
+      "type": "political",
+      "name": "Charles the Bald becomes King of West Francia",
+      "name_ru": "Карл Лысый становится королём Западно-Франкского королевства",
+      "description": "Charles the Bald inherited the western third of the Carolingian Empire when the Treaty of Verdun ended three years of civil war among Louis the Pious's surviving sons. His share ran from the Scheldt and the Meuse in the north down the Rhône valley to the Mediterranean, a line drawn to satisfy three brothers rather than to follow any old Roman or ethnic border. Laon became his effective capital, and his kingdom took the name Francia Occidentalis — West Francia.\n\nThe borders of 843 would shift again within a generation, and Charles spent much of his reign defending them from his own relatives and from Viking raiders. But West Francia held together where Middle Francia later did not, bound by its rivers, its Gallo-Roman aristocracy, and thirty-four years of Charles's own rule — longer than either of his brothers held their shares. Later chroniclers and historians treat the kingdom he shaped as the direct ancestor of the Kingdom of France.",
+      "description_ru": "Карл Лысый получил западную треть Каролингской империи, когда Верденский договор положил конец трёхлетней гражданской войне между уцелевшими сыновьями Людовика Благочестивого. Его доля простиралась от Шельды и Мааса на севере через долину Роны до Средиземного моря — граница, проведённая ради согласия трёх братьев, а не по старым римским или этническим рубежам. Ланн стал его фактической столицей, а королевство получило название Francia Occidentalis — Западно-Франкское королевство.\n\nГраницы 843 года вновь сместятся уже в следующем поколении, и Карл провёл значительную часть правления, защищая их от собственных родственников и от набегов викингов. Но Западная Франкия, в отличие от позднее распавшейся Средней Франкии, сохранила единство благодаря рекам, галло-римской знати и тридцати четырём годам правления самого Карла — дольше, чем правил каждый из его братьев своей долей. Позднейшие хронисты и историки считают созданное им королевство прямым предком Французского королевства.",
+      "latitude": 49.1593,
+      "longitude": 5.3835,
+      "source": "https://en.wikipedia.org/wiki/West_Francia",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Historic",
+        "Foundation",
+        "Dynasty"
+      ]
+    },
+    {
+      "date": "25.06.0864",
+      "era": "AD",
+      "type": "political",
+      "name": "The Edict of Pîtres — Charles the Bald fortifies the rivers against the Northmen",
+      "name_ru": "Питрский эдикт — Карл Лысый укрепляет реки против норманнов",
+      "description": "At Pîtres in 864, Charles the Bald issued a capitulary aimed squarely at the Viking fleets that used West Francia's rivers to strike deep inland. He ordered fortified bridges built across the Seine and other navigable rivers at key towns, structures wide enough to block longships from sailing past, and he required every man who owned or could afford a horse to serve as a mounted soldier ready to intercept raiders before they escaped with their plunder. The edict also tightened royal control over coinage, restricting minting to a handful of authorized mints and standardizing the silver denier.\n\nThe bridge-forts at places like Pîtres itself and nearby Pont-de-l'Arche marked one of the few sustained, centrally organized responses to the Viking threat that a Carolingian king managed to mount. The cavalry provisions outlived their original purpose, feeding into the mounted warrior culture that would define French chivalry for the next seven centuries.",
+      "description_ru": "В 864 году в Питре Карл Лысый издал капитулярий, направленный именно против флотов викингов, использовавших реки Западной Франкии для набегов в глубь страны. Он приказал возвести укреплённые мосты через Сену и другие судоходные реки в ключевых городах — достаточно широкие, чтобы преградить путь драккарам, — и обязал каждого, кто владел лошадью или мог её содержать, служить конным воином, готовым перехватить налётчиков прежде, чем те скроются с добычей. Эдикт также усилил королевский контроль над чеканкой монеты, ограничив её несколькими дозволенными монетными дворами и стандартизировав серебряный денье.\n\nМостовые крепости в самом Питре и соседнем Пон-де-л'Арш стали одним из немногих устойчивых, централизованно организованных ответов каролингского короля на угрозу викингов. Положения о конной службе пережили свою первоначальную цель, положив начало культуре конного воина, которая на следующие семь столетий определит французское рыцарство.",
+      "latitude": 49.2967,
+      "longitude": 1.1666,
+      "source": "https://en.wikipedia.org/wiki/Edict_of_Pistres",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Military",
+        "Cavalry",
+        "Currency",
+        "Administration"
+      ]
+    },
+    {
+      "date": "02.07.0866",
+      "era": "AD",
+      "type": "military",
+      "name": "Robert the Strong dies at Brissarthe — the Robertian dynasty's founding sacrifice",
+      "name_ru": "Роберт Сильный погибает при Бриссарте — жертва, положившая начало династии Робертинов",
+      "description": "Robert the Strong held more counties than almost any other magnate in West Francia — Anjou, Blois, Tours, Orléans, and his native Worms — built up through decades of loyal service against Bretons and Vikings alike. In the summer of 866 he marched against a combined Breton and Danish Viking force raiding the Loire valley, catching part of it off guard at the village of Brissarthe. His cavalry broke into the church where the raiders had barricaded themselves, but Robert was killed in the fighting, struck down at the height of what was otherwise a Frankish victory.\n\nRobert's death left no crown behind, no title higher than count — but two sons, Odo and Robert, who would each in time seize the West Frankish throne itself, and a grandson, Hugh Capet, who would found a dynasty that ruled France for centuries. The family took its name, Robertian, from the count who never wore a crown but whose land, wealth, and reputation his descendants inherited.",
+      "description_ru": "Роберт Сильный владел бóльшим числом графств, чем почти любой другой магнат Западной Франкии — Анжу, Блуа, Тур, Орлеан и родной Вормс, — накопленных за десятилетия верной службы против бретонцев и викингов. Летом 866 года он выступил против объединённого бретонско-датского войска викингов, разорявшего долину Луары, застав часть его врасплох у деревни Бриссарт. Его конница ворвалась в церковь, где укрылись налётчики, но в разгар боя, завершившегося франкской победой, сам Роберт был убит.\n\nСмерть Роберта не оставила после себя короны — лишь графский титул, — но двух сыновей, Эда и Роберта, каждый из которых со временем захватит западно-франкский престол, и внука, Гуго Капета, который основал династию, правившую Францией на протяжении веков. Семья получила имя Робертины по графу, который так и не носил корону, но чьи земли, богатство и репутацию унаследовали его потомки.",
+      "latitude": 47.599,
+      "longitude": -0.438,
+      "source": "https://en.wikipedia.org/wiki/Robert_the_Strong",
+      "tags": [
+        "Frankish",
+        "Military",
+        "War",
+        "Battle",
+        "Death",
+        "Dynasty"
+      ]
+    },
+    {
+      "date": "25.12.0875",
+      "era": "AD",
+      "type": "political",
+      "name": "Charles the Bald crowned Emperor — the imperial title returns to a Carolingian king",
+      "name_ru": "Карл Лысый коронован императором — императорский титул возвращается к каролингскому королю",
+      "description": "When Emperor Louis II of Italy died without a son in 875, Charles the Bald crossed the Alps at the invitation of Pope John VIII, who wanted a strong protector against Saracen raids on Italy's coast. Charles received the royal crown of Italy at Pavia and, on Christmas Day, the imperial insignia in Rome — the first Carolingian since the empire's division to rule as emperor while also ruling West Francia. He styled himself with a motto combining his father's and grandfather's formulas: renewal of the empire of the Romans and the Franks.\n\nThe honor proved costly. Louis the German, Charles's own brother and a rival claimant to the title, invaded and ravaged West Francia in retaliation, forcing Charles to abandon his Italian ambitions to defend his own kingdom. He returned to Italy again in 877 to answer another papal plea, but died crossing the Alps on the way home, having held the imperial title for less than two years.",
+      "description_ru": "Когда в 875 году император Людовик II Итальянский умер, не оставив сына, Карл Лысый перешёл через Альпы по приглашению папы Иоанна VIII, искавшего сильного защитника от набегов сарацин на побережье Италии. Карл получил королевскую корону Италии в Павии, а в день Рождества — императорские инсигнии в Риме, став первым со времён раздела империи Каролингом, правившим одновременно как император и как король Западной Франкии. Он принял девиз, соединивший формулы отца и деда: обновление империи римлян и франков.\n\nЭта честь обошлась дорого. Людовик Немецкий, родной брат Карла и соперник за титул, в отместку вторгся в Западную Франкию и разорил её, вынудив Карла оставить итальянские замыслы ради защиты собственного королевства. В 877 году он вновь отправился в Италию по новой просьбе папы, но умер, переходя Альпы на обратном пути, продержав императорский титул менее двух лет.",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "source": "https://en.wikipedia.org/wiki/Charles_the_Bald",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Religious",
+        "Historic",
+        "Dynasty"
+      ]
+    },
+    {
+      "date": "14.06.0877",
+      "era": "AD",
+      "type": "political",
+      "name": "The Capitulary of Quierzy — Charles the Bald lets countships become hereditary",
+      "name_ru": "Кьерзийский капитулярий — Карл Лысый допускает наследственность графских титулов",
+      "description": "Before departing on his second Italian campaign in 877, Charles the Bald gathered clergy and nobles at the royal palace of Quierzy to settle who would govern West Francia in his absence. Distrustful of his own son Louis the Stammerer, Charles forbade him from certain palaces and hunting forests and stripped him of the right to appoint new counts to vacant offices — that power he reserved for his own regents. But in a clause meant only to cover his time away, Charles also ruled that if a count died on campaign with the king, his son could inherit the county rather than have it revert to the crown.\n\nThe clause was never meant to be permanent, but Charles died the same year without revoking it, and the great magnates of the kingdom — the counts of Flanders among them — treated it as precedent. Within a generation, countships that had once been royal appointments passed from father to son as a matter of course, and the crown's ability to reward loyal service with land had begun to slip away for good.",
+      "description_ru": "Перед вторым итальянским походом 877 года Карл Лысый собрал духовенство и знать в королевском дворце Кьерзи, чтобы решить, кто будет управлять Западной Франкией в его отсутствие. Не доверяя собственному сыну Людовику Заике, Карл запретил ему появляться в некоторых дворцах и охотничьих угодьях и лишил его права назначать графов на освободившиеся должности — это право он оставил за своими регентами. Но в положении, задуманном лишь на время отлучки короля, Карл также постановил: если граф погибнет в походе вместе с королём, его сын сможет унаследовать графство, вместо того чтобы оно возвращалось короне.\n\nЭто положение никогда не задумывалось как постоянное, но Карл в том же году умер, так и не отменив его, и знатнейшие магнаты королевства — в их числе графы Фландрии — стали считать его прецедентом. Уже через поколение графства, некогда бывшие королевскими назначениями, стали переходить от отца к сыну как нечто само собой разумеющееся, и способность короны вознаграждать верную службу землёй начала безвозвратно ослабевать.",
+      "latitude": 49.585,
+      "longitude": 3.317,
+      "source": "https://en.wikipedia.org/wiki/Capitulary_of_Quierzy",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Law",
+        "Feudalism",
+        "Dynasty"
+      ]
+    },
+    {
+      "date": "01.01.0880",
+      "era": "AD",
+      "type": "cultural",
+      "name": "The Sequence of Saint Eulalia — the first poem written in French",
+      "name_ru": "Кантилена о святой Евлалии — первое стихотворение на французском языке",
+      "description": "Around 880, a monk somewhere in northern France — likely at Saint-Amand Abbey — composed twenty-nine verses recounting the martyrdom of Eulalia of Mérida, a young Christian killed under Roman persecution centuries earlier. He wrote not in Latin but in the vernacular Romance speech of his own day, the language later ages would call Old French, making the poem the earliest surviving piece of French literature and one of the first substantial texts in any Romance vernacular. In it, Eulalia refuses pagan bribery and torture, survives being burned at the stake, and is finally beheaded before ascending to heaven as a dove.\n\nThe poem survives in a single manuscript, bound together with sermons of Gregory of Nazianzus and preserved today in the municipal library of Valenciennes. It followed the Oaths of Strasbourg of 842 by less than forty years, part of the same slow drift by which spoken Gallo-Romance had grown distinct enough from Latin that poets began writing it down.",
+      "description_ru": "Около 880 года некий монах, вероятно, из аббатства Сент-Аман, сочинил двадцать девять строф, повествующих о мученичестве Евлалии Меридской — юной христианки, казнённой за века до этого во время римских гонений. Он писал не на латыни, а на разговорном романском наречии своего времени — языке, который позднее назовут старофранцузским, — сделав это стихотворение древнейшим сохранившимся памятником французской литературы и одним из первых значительных текстов на любом романском наречии. В нём Евлалия отвергает языческие посулы и пытки, чудом переживает сожжение на костре и в конце концов обезглавлена, после чего возносится на небо в облике голубки.\n\nПоэма сохранилась в единственной рукописи, переплетённой вместе с проповедями Григория Назианзина, и хранится сегодня в муниципальной библиотеке Валансьена. Она появилась менее чем через сорок лет после Страсбургских клятв 842 года — часть того же медленного процесса, в ходе которого разговорный галло-романский язык отдалился от латыни настолько, что поэты начали записывать его на письме.",
+      "latitude": 50.45,
+      "longitude": 3.4167,
+      "source": "https://en.wikipedia.org/wiki/Sequence_of_Saint_Eulalia",
+      "tags": [
+        "Frankish",
+        "Culture",
+        "Literature",
+        "Religious",
+        "Christian"
+      ]
+    },
+    {
+      "date": "01.02.0888",
+      "era": "AD",
+      "type": "political",
+      "name": "Odo of Paris elected King of West Francia — a count's shield becomes a crown",
+      "name_ru": "Эд Парижский избран королём Западно-Франкского королевства — щит графа становится короной",
+      "description": "When the nobles of West Francia deposed the incompetent Emperor Charles the Fat in 887, they did not turn to a Carolingian at all. Odo, Count of Paris and son of Robert the Strong, had led the city's defense during the long Viking siege of 885–886 and emerged as the kingdom's most capable soldier. In February 888 the assembled magnates elected him king and had him crowned at Compiègne — the first time since Charlemagne's line took power that a non-Carolingian wore the West Frankish crown.\n\nOdo's ten-year reign was fought for at every turn. A rival faction crowned the fifteen-year-old Carolingian heir Charles the Simple in 893, and Odo spent his final years locked in civil war against his own former allies rather than ruling in peace. He kept the throne until his death in 898, but the precedent he set — that the crown could go to the ablest count rather than the next Carolingian — would return decades later with his own family.",
+      "description_ru": "Когда в 887 году знать Западной Франкии низложила бездарного императора Карла Толстого, она обратилась вовсе не к Каролингу. Эд, граф Парижский и сын Роберта Сильного, руководил обороной города во время долгой осады викингами в 885–886 годах и заслужил славу лучшего полководца королевства. В феврале 888 года собравшиеся магнаты избрали его королём и короновали в Компьене — впервые с тех пор, как власть захватила династия Карла Великого, западно-франкскую корону надел не Каролинг.\n\nЗа десятилетнее правление Эда пришлось бороться на каждом шагу. В 893 году враждебная партия короновала пятнадцатилетнего каролингского наследника Карла Простоватого, и последние годы жизни Эд провёл не в мирном правлении, а в гражданской войне против собственных бывших союзников. Он удерживал трон до своей смерти в 898 году, но заданный им прецедент — что корона может достаться самому способному графу, а не очередному Каролингу, — вернётся десятилетия спустя вместе с его же семьёй.",
+      "latitude": 49.418,
+      "longitude": 2.826,
+      "source": "https://en.wikipedia.org/wiki/Odo_of_France",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Military",
+        "Dynasty",
+        "Succession"
+      ]
+    },
+    {
+      "date": "01.01.0898",
+      "era": "AD",
+      "type": "political",
+      "name": "Charles the Simple becomes undisputed King of West Francia",
+      "name_ru": "Карл Простоватый становится единовластным королём Западно-Франкского королевства",
+      "description": "Charles, posthumous son of Louis the Stammerer, had been passed over for the crown as a child in favor of older, more established candidates, then crowned in 893 at Reims Cathedral by a faction of nobles opposed to King Odo — a rival king in title only for five years while Odo held the real power. Only when Odo died on 1 January 898 did the rebellion's gamble pay off: Odo's own supporters accepted Charles as sole king rather than prolong the civil war, and the Carolingian line resumed the throne it had lost a decade earlier.\n\nCharles ruled for the next twenty-four years, the longest reign of any West Frankish king of this period. His nickname — simplex, better rendered as \"straightforward\" than \"simple-minded\" — reflected later chroniclers' view of a king who trusted his advisors too readily, a trait that would eventually cost him both his throne and his freedom.",
+      "description_ru": "Карл, посмертный сын Людовика Заики, в детстве был обойдён престолом в пользу более взрослых и признанных претендентов, а в 893 году коронован в Реймсском соборе фракцией знати, враждебной королю Эду, — оставаясь пять лет королём лишь по титулу, пока реальная власть находилась у Эда. Лишь после смерти Эда 1 января 898 года расчёт мятежников оправдался: сторонники самого Эда предпочли признать Карла единственным королём, чем продолжать гражданскую войну, и династия Каролингов вернула себе престол, утраченный десятилетием ранее.\n\nКарл правил следующие двадцать четыре года — дольше любого другого западно-франкского короля этого периода. Его прозвище — simplex, точнее переводимое как «простодушный», а не «недалёкий», — отражало взгляд позднейших хронистов на короля, слишком легко доверявшегося советникам; эта черта в конце концов стоила ему и трона, и свободы.",
+      "latitude": 49.2583,
+      "longitude": 4.0317,
+      "source": "https://en.wikipedia.org/wiki/Charles_the_Simple",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Historic",
+        "Dynasty",
+        "Succession"
+      ]
+    },
+    {
+      "date": "01.01.0910",
+      "era": "AD",
+      "type": "religious",
+      "name": "Foundation of Cluny Abbey — a monastery answerable to no lord but the Pope",
+      "name_ru": "Основание Клюнийского аббатства — монастырь, подчинённый лишь папе",
+      "description": "In 910, Duke William I of Aquitaine, called William the Pious, founded a modest Benedictine monastery on hunting land at Cluny in Burgundy and installed the monk Berno as its first abbot. What made the charter unusual was what William gave up: he renounced all rights of ownership and oversight for himself and his heirs, placing the abbey directly under the protection of the Pope alone, free from the authority of any king, bishop, or count. Cluny's monks were left to elect their own abbot and follow the Rule of Saint Benedict without local lords or clergy interfering in the abbey's affairs.\n\nThat independence let Cluny become the center of a reform movement that spread across dozens of dependent priories over the following two centuries, restoring stricter monastic discipline at a time when many Frankish monasteries had become extensions of noble families' estates. The church built there would later be, briefly, the largest in Christendom, before Saint Peter's Basilica in Rome surpassed it.",
+      "description_ru": "В 910 году герцог Аквитании Гильом I, прозванный Благочестивым, основал скромный бенедиктинский монастырь на охотничьих землях в Клюни в Бургундии и назначил монаха Берно его первым аббатом. Необычность устава заключалась в том, от чего отказался сам Гильом: он отрёкся от всех прав собственности и надзора для себя и своих наследников, поставив аббатство под защиту одного лишь папы, свободным от власти любого короля, епископа или графа. Монахи Клюни сами избирали своего аббата и следовали Уставу святого Бенедикта, не подчиняясь вмешательству местных сеньоров или духовенства.\n\nЭта независимость позволила Клюни стать центром реформаторского движения, распространившегося за следующие два века на десятки зависимых приорий и восстановившего строгую монашескую дисциплину в эпоху, когда многие франкские монастыри превратились в придаток владений знатных семей. Построенная там церковь позднее ненадолго стала крупнейшей в христианском мире, пока её не превзошёл римский собор Святого Петра.",
+      "latitude": 46.4333,
+      "longitude": 4.6579,
+      "source": "https://en.wikipedia.org/wiki/Cluny_Abbey",
+      "tags": [
+        "Frankish",
+        "Religious",
+        "Christian",
+        "Reform",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "20.07.0911",
+      "era": "AD",
+      "type": "military",
+      "name": "Siege of Chartres — Frankish cavalry breaks Rollo's army",
+      "name_ru": "Осада Шартра — франкская конница разбивает войско Роллона",
+      "description": "In July 911, the Viking leader Rollo led a large force south from the Seine to besiege the cathedral city of Chartres. Robert, Marquis of Neustria — the future King Robert I — gathered an army together with Richard, Duke of Burgundy, and several regional counts, and broke the siege in a pitched battle outside the city walls. Robert's heavily armored cavalry cut deep into Rollo's ranks, inflicting heavy losses and forcing the Vikings to withdraw.\n\nThe defeat convinced Rollo to negotiate rather than raid further, and King Charles the Simple used the opening to offer him land, baptism, and a formal place in the kingdom rather than endless war — the settlement that established the county, and later duchy, of Rouen on the Channel coast. Chartres showed that West Francia's counts, not only its king, could now field the armies that decided the kingdom's fate.",
+      "description_ru": "В июле 911 года предводитель викингов Роллон повёл крупное войско с Сены на юг, чтобы осадить кафедральный город Шартр. Роберт, маркиз Нейстрии — будущий король Роберт I, — собрал армию вместе с герцогом Бургундии Ричардом и несколькими окрестными графами и снял осаду в полевом сражении у городских стен. Тяжеловооружённая конница Роберта врезалась в ряды Роллона, нанеся ему тяжёлые потери и вынудив викингов отступить.\n\nПоражение убедило Роллона вести переговоры вместо дальнейших набегов, и король Карл Простоватый воспользовался этим, предложив ему земли, крещение и признанное место в королевстве вместо бесконечной войны — соглашение, установившее графство, а позднее герцогство Руанское на побережье Ла-Манша. Битва при Шартре показала, что теперь не только король, но и графы Западной Франкии способны выставить войско, решающее судьбу королевства.",
+      "latitude": 48.456,
+      "longitude": 1.484,
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Chartres_(911)",
+      "tags": [
+        "Frankish",
+        "Military",
+        "War",
+        "Battle",
+        "Vassalage"
+      ]
+    },
+    {
+      "date": "29.06.0922",
+      "era": "AD",
+      "type": "political",
+      "name": "Robert I proclaimed King — the Robertians seize the crown",
+      "name_ru": "Роберт I провозглашён королём — Робертины захватывают корону",
+      "description": "By 922, Charles the Simple's favoritism toward a Lotharingian courtier named Hagano had alienated much of the West Frankish nobility, who rose in a second rebellion against him. This time they turned not to another Carolingian but to Robert, Marquis of Neustria — brother of the earlier king Odo and son of Robert the Strong — who let himself be elected king and was crowned at Reims on 29 June 922 while Charles fled toward Lotharingia.\n\nRobert was already in his mid-fifties, the most powerful lay magnate in the kingdom, and had spent thirty years defending West Francia's frontiers rather than seeking its throne. His acceptance of the crown broke a decades-old pattern in which Robertian counts had propped up Carolingian kings rather than replacing them outright, setting the family on a collision course with Charles that neither side would fully win.",
+      "description_ru": "К 922 году благосклонность Карла Простоватого к лотарингскому придворному по имени Аганон оттолкнула от него значительную часть западно-франкской знати, поднявшей второй мятеж. На этот раз она обратилась не к другому Каролингу, а к Роберту, маркизу Нейстрии — брату прежнего короля Эда и сыну Роберта Сильного, — который согласился на избрание и был коронован в Реймсе 29 июня 922 года, пока Карл бежал в сторону Лотарингии.\n\nРоберту было уже за пятьдесят, он оставался самым могущественным светским магнатом королевства и тридцать лет защищал рубежи Западной Франкии, вместо того чтобы добиваться её трона. Его согласие принять корону нарушило десятилетиями складывавшийся порядок, при котором графы из рода Робертинов поддерживали каролингских королей, но не заменяли их напрямую, — и поставило семью на путь столкновения с Карлом, из которого ни одна из сторон не выйдет победителем полностью.",
+      "latitude": 49.2583,
+      "longitude": 4.0317,
+      "source": "https://en.wikipedia.org/wiki/Robert_I_of_France",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Historic",
+        "Dynasty",
+        "Succession"
+      ]
+    },
+    {
+      "date": "15.06.0923",
+      "era": "AD",
+      "type": "military",
+      "name": "Battle of Soissons — Robert I dies winning his own civil war",
+      "name_ru": "Битва при Суассоне — Роберт I погибает, выигрывая собственную гражданскую войну",
+      "description": "Charles the Simple returned from exile in 923 with a mixed force reported to include Norman allies, determined to retake the throne Robert I had claimed the previous year. The two armies met at Soissons on 15 June. Robert's forces won the field and captured Charles, but Robert himself was killed in the fighting, struck down according to tradition in personal combat at the battle's height.\n\nRobert's death left his own cause without a king barely a year into his reign. His son-in-law, Duke Rudolph of Burgundy, stepped into the vacancy, while the defeated and captured Charles the Simple was handed over to Herbert II, Count of Vermandois, and locked away in the castle of Péronne — ending, in a single day, both the brief Robertian kingship and Charles's twenty-four years on the throne.",
+      "description_ru": "В 923 году Карл Простоватый вернулся из изгнания с разношёрстным войском, в котором, по сообщениям, были и норманнские союзники, намереваясь вернуть трон, занятый годом ранее Робертом I. Armии встретились при Суассоне 15 июня. Войско Роберта одержало победу и захватило Карла в плен, но сам Роберт погиб в бою — по преданию, в личном поединке в разгар сражения.\n\nСмерть Роберта оставила его собственное дело без короля спустя едва ли год правления. Его зять, герцог Бургундии Рудольф, занял освободившееся место, а разбитый и плененный Карл Простоватый был передан Герберту II, графу Вермандуа, и заточён в замке Перонн — так за один день закончилось и краткое царствование Робертина, и двадцать четыре года правления Карла.",
+      "latitude": 49.3852,
+      "longitude": 3.3226,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Soissons_(923)",
+      "tags": [
+        "Frankish",
+        "Military",
+        "War",
+        "Battle",
+        "Death",
+        "Dynasty"
+      ]
+    },
+    {
+      "date": "13.07.0923",
+      "era": "AD",
+      "type": "political",
+      "name": "Rudolph of Burgundy elected King — a second family takes the crown",
+      "name_ru": "Рудольф Бургундский избран королём — корону получает вторая династия",
+      "description": "With Robert I dead and Charles the Simple a prisoner, the West Frankish nobles who had backed the rebellion needed a new candidate within weeks. They settled on Rudolph, Duke of Burgundy, Robert's own son-in-law, who was crowned at the church of Saint-Médard in Soissons on 13 July 923 — barely a month after the battle that had killed his predecessor. Rudolph belonged to neither the Carolingian nor the Robertian line, adding a third family to the contest for West Francia's throne within a single year.\n\nHis thirteen-year reign was fought province by province rather than ruled from any secure center; Aquitaine and other southern regions frequently ignored his authority altogether. Rudolph's kingship illustrated how far royal power in West Francia had fallen: the crown now went to whichever magnate the assembled counts found least objectionable, not to whoever held the strongest hereditary claim.",
+      "description_ru": "После гибели Роберта I и пленения Карла Простоватого западно-франкской знати, поддержавшей мятеж, за несколько недель понадобился новый кандидат. Выбор пал на Рудольфа, герцога Бургундского, зятя Роберта, коронованного в церкви Сен-Медар в Суассоне 13 июля 923 года — всего через месяц после битвы, унёсшей жизнь его предшественника. Рудольф не принадлежал ни к Каролингам, ни к Робертинам, добавив в борьбу за западно-франкский престол уже третью династию в течение одного года.\n\nЕго тринадцатилетнее правление проходило в борьбе за каждую провинцию, а не из единого прочного центра: Аквитания и другие южные области нередко вовсе игнорировали его власть. Царствование Рудольфа показало, насколько ослабела королевская власть в Западной Франкии: корону теперь получал не тот, у кого были самые веские наследственные права, а тот из магнатов, кого собравшиеся графы находили наименее неприемлемым.",
+      "latitude": 49.3852,
+      "longitude": 3.3226,
+      "source": "https://en.wikipedia.org/wiki/Rudolph_of_France",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Historic",
+        "Dynasty",
+        "Succession"
+      ]
+    },
+    {
+      "date": "07.10.0929",
+      "era": "AD",
+      "type": "historic",
+      "name": "Charles the Simple dies a prisoner at Péronne",
+      "name_ru": "Карл Простоватый умирает пленником в Перонне",
+      "description": "After his capture at the Battle of Soissons in 923, Charles the Simple spent his final six years locked in the castle of Péronne under the guard of Herbert II, Count of Vermandois — a count who had once been among his own supporters. Herbert used the deposed king as a bargaining chip in his dealings with Rudolph and other magnates rather than releasing or executing him outright, keeping Charles alive but powerless in a fortress he would never leave.\n\nCharles died at Péronne on 7 October 929 and was buried nearby at the abbey of Saint-Fursy. His wife Eadgifu and their young son had already fled to the safety of her father's court in England after Soissons; that son would return in 936 as Louis IV to reclaim the Carolingian throne his father had lost.",
+      "description_ru": "После пленения в битве при Суассоне в 923 году Карл Простоватый провёл последние шесть лет жизни взаперти в замке Перонн под стражей Герберта II, графа Вермандуа, — графа, некогда бывшего в числе его сторонников. Герберт использовал низложенного короля как разменную монету в отношениях с Рудольфом и другими магнатами, вместо того чтобы освободить его или казнить, — держа Карла живым, но бессильным, в крепости, которую тот уже не покинет.\n\nКарл умер в Перонне 7 октября 929 года и был похоронен неподалёку, в аббатстве Сен-Фюрси. Его жена Эдгива и их малолетний сын ещё после Суассона бежали под защиту двора её отца в Англии; этот сын вернётся в 936 году как Людовик IV, чтобы вернуть каролингский престол, утраченный его отцом.",
+      "latitude": 49.9319,
+      "longitude": 2.9309,
+      "source": "https://en.wikipedia.org/wiki/Charles_the_Simple",
+      "tags": [
+        "Frankish",
+        "Historic",
+        "Political",
+        "Death",
+        "Dynasty"
+      ]
+    },
+    {
+      "date": "01.01.0936",
+      "era": "AD",
+      "type": "political",
+      "name": "Louis IV returns from England to reclaim the Carolingian throne",
+      "name_ru": "Людовик IV возвращается из Англии, чтобы вернуть каролингский престол",
+      "description": "After King Rudolph died without a male heir in January 936, the West Frankish nobles — led by Hugh the Great, the powerful Duke of the Franks and son of the former king Robert I — sent for Charles the Simple's exiled son, then a teenager living at the court of his uncle, King Æthelstan of England. Louis crossed the Channel and was crowned at Laon later that year, restoring the Carolingian line to the throne it had held for most of the previous century, though now clearly at the sufferance of the Robertian family that controlled the kingdom's greatest duchy.\n\nHis nickname, d'Outremer or \"from overseas\", stuck for the rest of his reign and captured the reality of his kingship: a Carolingian restored to a throne that Hugh the Great, not Louis, could have taken for himself. The eighteen years that followed were spent contesting Hugh's dominance rather than commanding it away, a pattern that would define West Frankish kingship until the Carolingian line finally ran out.",
+      "description_ru": "После того как в январе 936 года король Рудольф умер, не оставив наследника мужского пола, западно-франкская знать во главе с Гуго Великим — могущественным герцогом франков и сыном бывшего короля Роберта I — послала за изгнанным сыном Карла Простоватого, тогда ещё подростком жившим при дворе своего дяди, короля Англии Этельстана. Людовик пересёк Ла-Манш и был коронован в Ланне позже в том же году, вернув Каролингам престол, которым они владели бóльшую часть предыдущего столетия, — хотя теперь уже явно с молчаливого согласия рода Робертинов, контролировавшего крупнейшее герцогство королевства.\n\nПрозвище д'Утремер, «Заморский», закрепилось за ним на весь срок правления и точно отражало суть его царствования: Каролинг, восстановленный на престоле, который мог бы занять сам Гуго Великий. Последующие восемнадцать лет прошли не в укреплении собственной власти, а в противостоянии господству Гуго — модель, которая будет определять западно-франкскую монархию вплоть до окончательного пресечения каролингской линии.",
+      "latitude": 49.5641,
+      "longitude": 3.6229,
+      "source": "https://en.wikipedia.org/wiki/Louis_IV_of_France",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Historic",
+        "Dynasty",
+        "Succession"
+      ]
+    },
+    {
+      "date": "16.06.0956",
+      "era": "AD",
+      "type": "historic",
+      "name": "Death of Hugh the Great — the kingmaker who never took the crown",
+      "name_ru": "Смерть Гуго Великого — «делателя королей», так и не принявшего корону",
+      "description": "Hugh the Great, Duke of the Franks and Count of Paris, had spent over three decades as the single most powerful lay lord in West Francia — richer and more widely obeyed than the Carolingian kings whose thrones he propped up. He had helped bring Louis IV back from England in 936, later turned against him, made peace again, and controlled more territory in his own right than the crown governed directly, yet he never claimed the kingship his father Robert I had briefly held.\n\nHugh died at Dourdan on 16 June 956, leaving his vast holdings and ducal title to his teenage son, also named Hugh, who would grow up during the reigns of two more Carolingian kings before finally taking the step his father never did. The nickname later chroniclers gave the younger Hugh — Capet — would become the name of the dynasty that ruled France for the next eight centuries.",
+      "description_ru": "Гуго Великий, герцог франков и граф Парижский, более трёх десятилетий оставался самым могущественным светским сеньором Западной Франкии — богаче и влиятельнее каролингских королей, чьи троны он же и поддерживал. Он помог вернуть Людовика IV из Англии в 936 году, позднее выступил против него, вновь заключил мир и контролировал больше земель лично, чем корона управляла напрямую, — но так и не притязал на королевский титул, который недолго носил его отец Роберт I.\n\nГуго умер в Дурдане 16 июня 956 года, оставив свои обширные владения и герцогский титул сыну-подростку, также названному Гуго, которому предстояло вырасти при правлении ещё двух каролингских королей, прежде чем он наконец сделает шаг, на который так и не решился его отец. Прозвище, данное позднейшими хронистами младшему Гуго — Капет, — станет именем династии, правившей Францией следующие восемь столетий.",
+      "latitude": 48.5333,
+      "longitude": 1.9833,
+      "source": "https://en.wikipedia.org/wiki/Hugh_the_Great",
+      "tags": [
+        "Frankish",
+        "Historic",
+        "Political",
+        "Dynasty",
+        "Vassalage"
+      ]
+    },
+    {
+      "date": "01.01.0973",
+      "era": "AD",
+      "type": "scientific",
+      "name": "Gerbert of Aurillac brings the abacus and the armillary sphere to Reims",
+      "name_ru": "Герберт Орильякский привозит в Реймс абак и армиллярную сферу",
+      "description": "Gerbert, a monk from Aquitaine who had studied mathematics and Arabic learning in Catalonia and at Córdoba, was appointed master of the cathedral school of Reims in 973 by Archbishop Adalberon. There he reintroduced tools that had been lost to Latin Europe since the fall of Rome: an abacus divided into columns for calculating with Hindu-Arabic numerals, and an armillary sphere he built himself to demonstrate the movement of the stars and planets to his students. His pupil Richer later wrote that Gerbert could perform calculations that left contemporaries, still working with Roman numerals, far behind.\n\nGerbert remained at Reims for most of the next two decades, becoming Archbishop Adalberon's closest advisor and, alongside him, one of the two men who would persuade the West Frankish nobility to set aside the Carolingian claim in 987 in favor of Hugh Capet. He later became Archbishop of Reims himself and, in 999, the first French pope, taking the name Sylvester II.",
+      "description_ru": "Герберт, монах из Аквитании, изучавший математику и арабскую науку в Каталонии и Кордове, был назначен архиепископом Адальбероном главой соборной школы Реймса в 973 году. Там он вернул в латинскую Европу инструменты, утраченные со времён падения Рима: абак, разделённый на разряды для вычислений с индийско-арабскими цифрами, и армиллярную сферу, которую он сам построил, чтобы показывать ученикам движение звёзд и планет. Его ученик Рихер позднее писал, что Герберт умел производить вычисления, намного опережая современников, всё ещё пользовавшихся римскими цифрами.\n\nГерберт оставался в Реймсе большую часть следующих двух десятилетий, став ближайшим советником архиепископа Адальберона и вместе с ним — одним из двух людей, убедивших западно-франкскую знать в 987 году отказаться от каролингских притязаний в пользу Гуго Капета. Позднее он сам стал архиепископом Реймса, а в 999 году — первым французом на папском престоле, приняв имя Сильвестр II.",
+      "latitude": 49.2583,
+      "longitude": 4.0317,
+      "source": "https://en.wikipedia.org/wiki/Pope_Sylvester_II",
+      "tags": [
+        "Frankish",
+        "Science",
+        "Education",
+        "Astronomy",
+        "Mathematics",
+        "Religious"
+      ]
+    },
+    {
+      "date": "22.05.0987",
+      "era": "AD",
+      "type": "historic",
+      "name": "Death of Louis V — the last Carolingian king of France",
+      "name_ru": "Смерть Людовика V — последнего каролингского короля Франции",
+      "description": "Louis V had been crowned co-king alongside his father Lothair as a child and succeeded him in March 986, but his reign was troubled from the start by quarrels with his mother and with Archbishop Adalberon of Reims, whom Louis suspected of favoring the powerful duke Hugh Capet over the crown. In May 987, Louis summoned Adalberon to answer charges of treason at his palace in Compiègne. Before the archbishop could be tried, Louis went hunting in the forest of Halatte near Senlis and died there on 22 May 987 in a riding accident, still in his early twenties and without a son.\n\nHis death ended the Carolingian dynasty's three-century hold on the West Frankish throne — chroniclers of the time, including Gerbert of Aurillac himself, wrote that with Louis \"died the race of Charlemagne.\" The throne now stood open, and Hugh Capet, already the kingdom's most powerful magnate, was the obvious candidate the nobility would turn to within weeks.",
+      "description_ru": "Людовик V был коронован соправителем своего отца Лотаря ещё ребёнком и унаследовал престол в марте 986 года, но его правление с самого начала омрачали ссоры с матерью и с архиепископом Реймса Адальбероном, которого Людовик подозревал в том, что тот отдаёт предпочтение могущественному герцогу Гуго Капету, а не короне. В мае 987 года Людовик вызвал Адальберона в свой дворец в Компьене, чтобы тот ответил на обвинения в измене. Не дожидаясь суда над архиепископом, Людовик отправился на охоту в лес Алатт близ Санлиса и погиб там 22 мая 987 года в результате несчастного случая на охоте, не дожив до двадцати пяти лет и не оставив сына.\n\nЕго смерть положила конец трёхвековому владению каролингской династии западно-франкским престолом — современные хронисты, включая самого Герберта Орильякского, писали, что вместе с Людовиком «угас род Карла Великого». Трон теперь оставался свободным, и Гуго Капет, уже самый могущественный магнат королевства, стал очевидным кандидатом, к которому знать обратится уже через несколько недель.",
+      "latitude": 49.2064,
+      "longitude": 2.5867,
+      "source": "https://en.wikipedia.org/wiki/Louis_V_of_France",
+      "tags": [
+        "Frankish",
+        "Historic",
+        "Political",
+        "Death",
+        "Dynasty"
+      ]
+    },
+    {
+      "date": "01.06.0987",
+      "era": "AD",
+      "type": "political",
+      "name": "Hugh Capet crowned King of the Franks — the Capetian dynasty begins",
+      "name_ru": "Гуго Капет коронован королём франков — начало династии Капетингов",
+      "description": "With Louis V dead and no Carolingian heir beyond a discredited rival claimant, Charles of Lorraine, the assembled bishops and nobles turned to Hugh Capet, Duke of the Franks and the most powerful lord in the kingdom. Archbishop Adalberon of Reims argued before the assembly that the crown belonged to merit and capability rather than to birthright alone, and the nobles elected Hugh king. He was crowned rex Francorum at Noyon on 1 June 987, and crowned again a month later at Paris on 3 July to reinforce the claim.\n\nHugh moved quickly to secure the succession his own family had waited three generations for, having his son Robert crowned co-king before the year was out rather than risk another contested election. The House of Capet he founded would rule France in an unbroken male line for the next 341 years, and its cadet branches would occupy the French throne, with only brief interruptions, all the way to 1848.",
+      "description_ru": "После смерти Людовика V и при отсутствии каролингского наследника, если не считать дискредитированного соперника Карла Лотарингского, собравшиеся епископы и знать обратились к Гуго Капету, герцогу франков и самому могущественному сеньору королевства. Архиепископ Реймса Адальберон убеждал собрание, что корона должна принадлежать не только по праву рождения, но и по заслугам и способностям, и знать избрала Гуго королём. Он был коронован как rex Francorum в Нуайоне 1 июня 987 года и повторно коронован месяц спустя в Париже, 3 июля, чтобы укрепить своё право.\n\nГуго поспешил закрепить преемственность, которой его семья ждала три поколения, короновав своего сына Роберта соправителем ещё до конца того же года, чтобы не рисковать новыми оспариваемыми выборами. Основанный им дом Капетингов правил Францией по непрерывной мужской линии следующие 341 год, а его младшие ветви занимали французский престол, с недолгими перерывами, вплоть до 1848 года.",
+      "latitude": 49.5822,
+      "longitude": 2.9958,
+      "source": "https://en.wikipedia.org/wiki/Hugh_Capet",
+      "tags": [
+        "Frankish",
+        "Political",
+        "Dynasty",
+        "Foundation",
+        "Capetian"
+      ]
+    }
+  ]
+}
