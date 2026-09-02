@@ -1,0 +1,604 @@
+{
+  "filename": "capetian_france.json",
+  "description": "The high and early Capetian monarchy from the aftermath of Hugh Capet's coronation to the eve of the Valois succession: the Peace and Truce of God movement, the French crown's own involvement in and promotion of the Crusades from Clermont through Saint Louis, the birth of Gothic architecture at Saint-Denis and its flowering at Notre-Dame and Chartres, the founding of the University of Paris and the Sorbonne, the Albigensian Crusade's absorption of Languedoc, the suppression of the Knights Templar, and the start of the Avignon Papacy — ending with the extinction of the direct Capetian line in 1328.",
+  "events": [
+    {
+      "date": "01.06.0989",
+      "era": "AD",
+      "type": "religious",
+      "name": "The Peace of God proclaimed at the Council of Charroux",
+      "name_ru": "Мир Божий провозглашён на Соборе в Шарру",
+      "description": "Bishops of Aquitaine gathered at Charroux Abbey and proclaimed the Peace of God, threatening excommunication against anyone who struck unarmed clergy, peasants, or the poor, or who plundered church property. The council answered a real collapse of order: as Carolingian authority dissolved into a patchwork of castellans and knights, the Church stepped into the vacuum with spiritual sanctions since no king could yet enforce order across so fragmented a kingdom. Later councils widened the list of protected people and property year after year.\n\nThe movement spread from Aquitaine across Burgundy, Languedoc, and eventually northern France, drawing huge crowds who swore communal oaths over relics to keep the peace. It gave the medieval church a direct role in restraining warfare for the first time, and it set a precedent — protecting the defenseless from armed men — that French kings later invoked as they built their own claim to be the guarantors of order in the realm.",
+      "description_ru": "Епископы Аквитании собрались в аббатстве Шарру и провозгласили «Мир Божий», угрожая отлучением всякому, кто поднимет руку на безоружное духовенство, крестьян или бедняков, либо разграбит церковное имущество. Собор стал ответом на подлинный распад порядка: пока каролингская власть рассыпалась на лоскутное одеяло владений кастелянов и рыцарей, Церковь заняла образовавшуюся пустоту духовными санкциями, поскольку ни один король ещё не мог обеспечить порядок в столь раздробленном королевстве. Последующие соборы год за годом расширяли перечень защищаемых людей и имущества.\n\nДвижение распространилось из Аквитании на Бургундию, Лангедок и в конце концов на северную Францию, собирая огромные толпы, приносившие над мощами общие клятвы хранить мир. Оно впервые дало средневековой церкви прямую роль в сдерживании войн и создало прецедент — защиту беззащитных от вооружённых людей, — на который позднее опирались французские короли, выстраивая собственные притязания на роль гарантов порядка в королевстве.",
+      "latitude": 46.1467,
+      "longitude": 0.4141,
+      "source": "https://en.wikipedia.org/wiki/Council_of_Charroux",
+      "tags": [
+        "Capetian",
+        "Religious",
+        "Christian",
+        "Reform",
+        "Peace Movement",
+        "Aquitaine"
+      ]
+    },
+    {
+      "date": "01.01.1020",
+      "era": "AD",
+      "type": "cultural",
+      "name": "Bishop Fulbert Rebuilds Chartres Cathedral and Its School",
+      "name_ru": "Епископ Фульберт восстанавливает Шартрский собор и его школу",
+      "description": "Fulbert, bishop of Chartres from 1006, rebuilt the cathedral after a fire destroyed the earlier church and turned its attached school into one of the most respected centers of learning in Latin Christendom. Students traveled from across France, Germany, and Italy to study the seven liberal arts under Fulbert and his successors, with particular strength in medicine, astronomy, and the mathematical works that Gerbert of Aurillac had reintroduced a generation earlier. Fulbert himself had trained partly under Gerbert, carrying that inheritance of quadrivium studies directly into Chartres's classrooms.\n\nThe School of Chartres remained a center of natural philosophy for the next two centuries, producing scholars such as Thierry of Chartres and William of Conches who wrote commentaries reconciling Plato's Timaeus with Christian doctrine and studied the physical causes of natural phenomena. Long before Paris eclipsed it as the kingdom's intellectual capital, Chartres showed that a cathedral school under an energetic bishop could rival the old monastic centers of learning.",
+      "description_ru": "Фульберт, епископ Шартра с 1006 года, восстановил собор после пожара, уничтожившего прежнюю церковь, и превратил школу при нём в один из самых уважаемых центров учёности латинского христианского мира. Студенты съезжались туда со всей Франции, Германии и Италии, чтобы изучать семь свободных искусств под руководством Фульберта и его преемников, с особым упором на медицину, астрономию и математические труды, вновь введённые в оборот поколением ранее Гербертом Орийакским. Сам Фульберт отчасти учился у Герберта, принеся в шартрские классы наследие квадривиума.\n\nШартрская школа оставалась центром натурфилософии на протяжении двух последующих веков, дав таких учёных, как Тьерри Шартрский и Гильом из Конша, писавших комментарии, примирявшие платоновский «Тимей» с христианским учением, и изучавших физические причины природных явлений. Задолго до того как Париж затмил её как интеллектуальную столицу королевства, Шартр показал, что соборная школа при энергичном епископе способна соперничать со старыми монастырскими центрами знания.",
+      "latitude": 48.4478,
+      "longitude": 1.488,
+      "source": "https://en.wikipedia.org/wiki/School_of_Chartres",
+      "tags": [
+        "Capetian",
+        "Cultural",
+        "Education",
+        "Chartres",
+        "Science",
+        "Christian"
+      ]
+    },
+    {
+      "date": "01.01.1027",
+      "era": "AD",
+      "type": "religious",
+      "name": "The Truce of God declared at the Council of Toulouges",
+      "name_ru": "Провозглашение «Божьего перемирия» на соборе в Тулуже",
+      "description": "Clergy and nobles of Roussillon assembled at Toulouges and swore to suspend all private warfare from Saturday evening to Monday morning, extending the earlier Peace of God's protection of people into a protection of time itself. The oath-takers pledged to attack no one during the holy days surrounding the Sabbath, under threat of excommunication and burial ban for anyone who broke it. Bishop Oliba of Vic, a driving force behind the Catalan peace councils, helped spread the practice north into French territory.\n\nLater synods extended the truce to cover Advent, Lent, and the feast days of major saints, shrinking the calendar days on which armed men could legally fight each other to only about eighty a year by the end of the eleventh century. The custom never eliminated feudal warfare, but it introduced the idea that the Church, not the king, could dictate when war was permissible — a claim that would echo through the crusading movement it helped inspire.",
+      "description_ru": "Духовенство и знать Руссильона собрались в Тулуже и поклялись прекращать всякую частную войну с вечера субботы до утра понедельника, распространив прежнюю защиту людей по «Миру Божьему» на защиту самого времени. Давшие клятву обязались не нападать ни на кого в святые дни, окружающие субботний покой, под угрозой отлучения и запрета на церковное погребение для нарушителей. Епископ Олиба Викский, движущая сила каталонских миротворческих соборов, способствовал распространению этого обычая на французские земли.\n\nПоследующие соборы распространили перемирие на Адвент, Великий пост и праздники крупных святых, сократив число дней в году, когда вооружённым людям дозволялось на законных основаниях сражаться друг с другом, примерно до восьмидесяти к концу одиннадцатого века. Обычай не искоренил феодальные войны, но утвердил идею, что именно Церковь, а не король, может диктовать, когда война допустима, — притязание, которое впоследствии отозвалось в породившем его крестоносном движении.",
+      "latitude": 42.6558,
+      "longitude": 2.8508,
+      "source": "https://en.wikipedia.org/wiki/Peace_and_Truce_of_God",
+      "tags": [
+        "Capetian",
+        "Religious",
+        "Christian",
+        "Reform",
+        "Peace Movement"
+      ]
+    },
+    {
+      "date": "01.01.1092",
+      "era": "AD",
+      "type": "political",
+      "name": "Philip I Abducts Bertrade de Montfort and Is Excommunicated for Bigamy",
+      "name_ru": "Филипп I похищает Бертраду де Монфор и отлучается от Церкви за двоежёнство",
+      "description": "Philip I repudiated his wife Bertha of Holland on invented grounds of consanguinity and took Bertrade de Montfort, the wife of his own vassal Fulk IV of Anjou, as his new queen — a scandal that shocked even a court accustomed to political marriages. Bertrade had left Fulk voluntarily to join Philip, and the king had a bishop perform a wedding despite Bertrade's living husband, making the union bigamous under canon law. Ivo of Chartres, one of the most respected bishops in the kingdom, refused to recognize the marriage and was briefly imprisoned for his defiance.\n\nThe papacy excommunicated Philip repeatedly over the following decade, most sharply at the Council of Clermont in 1095, where Urban II renewed the sentence in the same assembly that launched the First Crusade — a reminder that the king whose kingdom would supply most of the crusade's soldiers could not himself take the cross while excommunicate. Philip and Bertrade were only fully reconciled with the Church in 1104, after Philip did public penance, and the scandal left the early Capetian monarchy's moral authority visibly weaker than its ambitions.",
+      "description_ru": "Филипп I отверг свою жену Берту Голландскую под надуманным предлогом кровного родства и взял в новые королевы Бертраду де Монфор, жену собственного вассала Фулька IV Анжуйского, — скандал, потрясший даже двор, привычный к политическим бракам. Бертрада сама покинула Фулька ради Филиппа, и король заставил епископа провести обряд венчания, хотя законный муж Бертрады был жив, что делало союз двоежёнством по каноническому праву. Иво Шартрский, один из самых уважаемых епископов королевства, отказался признать этот брак и за своё неповиновение ненадолго оказался в заточении.\n\nПапство на протяжении следующего десятилетия неоднократно отлучало Филиппа от Церкви, особенно резко на Клермонском соборе 1095 года, где Урбан II подтвердил отлучение на том же собрании, что положило начало Первому крестовому походу, — напоминание о том, что король, чьё королевство должно было дать походу большинство воинов, сам не мог принять крест, будучи отлучённым. Филипп и Бертрада полностью примирились с Церковью лишь в 1104 году, после того как король принёс публичное покаяние, а скандал заметно ослабил моральный авторитет ранней капетингской монархии на фоне её растущих притязаний.",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "source": "https://en.wikipedia.org/wiki/Philip_I_of_France",
+      "tags": [
+        "Capetian",
+        "Political",
+        "Religious",
+        "Papacy",
+        "Dynasty"
+      ]
+    },
+    {
+      "date": "27.11.1095",
+      "era": "AD",
+      "type": "religious",
+      "name": "The Council of Clermont — Urban II Preaches the First Crusade on French Soil",
+      "name_ru": "Клермонский собор — Урбан II проповедует Первый крестовый поход на французской земле",
+      "description": "Pope Urban II closed a ten-day church council at Clermont with an open-air sermon to a crowd of French bishops, nobles, and commoners gathered in a field outside the city because no building could hold them. He promised remission of sins to anyone who took up arms to liberate Jerusalem, and the crowd is said to have answered with the cry 'Deus vult' — God wills it — before rushing to sew red crosses onto their cloaks. Urban, himself a Frenchman born near Châtillon-sur-Marne and a former monk of Cluny, spent the following months touring French cities in person to recruit further, bypassing the German emperor and the English king entirely.\n\nThe response overwhelmingly came from France: the crusade's leading commanders — Raymond of Toulouse, Godfrey of Bouillon, Robert of Normandy, Hugh of Vermandois, the French king's own brother — were drawn from French or French-speaking lands, and the Muslim chroniclers who later wrote of the crusaders simply called them 'al-Faranj', the Franks. Clermont gave the French nobility a common cause that briefly outweighed their feuds with each other and with their own king.",
+      "description_ru": "Папа Урбан II завершил десятидневный церковный собор в Клермоне проповедью под открытым небом перед толпой французских епископов, знати и простолюдинов, собравшихся в поле за городом, поскольку ни одно здание не смогло бы их вместить. Он обещал отпущение грехов всякому, кто возьмётся за оружие ради освобождения Иерусалима, и толпа, по преданию, ответила криком «Deus vult» — «Так хочет Бог», — после чего люди бросились нашивать красные кресты на плащи. Сам Урбан, француз родом из-под Шатийон-сюр-Марн и бывший монах Клюни, в последующие месяцы лично объезжал французские города, вербуя всё новых участников и вовсе минуя германского императора и английского короля.\n\nОтклик пришёл преимущественно из Франции: главные предводители похода — Раймунд Тулузский, Готфрид Бульонский, Роберт Нормандский, Гуго Вермандуа (родной брат французского короля) — происходили из французских или франкоязычных земель, а мусульманские хронисты позднее называли крестоносцев просто «аль-Фаранж» — франками. Клермон дал французской знати общее дело, ненадолго заслонившее её собственные распри друг с другом и с королём.",
+      "latitude": 45.7772,
+      "longitude": 3.087,
+      "source": "https://en.wikipedia.org/wiki/Council_of_Clermont",
+      "tags": [
+        "Capetian",
+        "Religious",
+        "Crusade",
+        "Papacy",
+        "Christian",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.03.1096",
+      "era": "AD",
+      "type": "military",
+      "name": "Peter the Hermit Leads the People's Crusade out of France",
+      "name_ru": "Пётр Пустынник ведёт «Крестьянский крестовый поход» из Франции",
+      "description": "Peter the Hermit, a charismatic preacher from Amiens, gathered tens of thousands of poor knights, peasants, and townspeople who could not wait for the great princes to organize their armies and marched east from northern France months ahead of the official crusade. His followers massacred Jewish communities in the Rhineland as they passed through German lands, then continued into Byzantine territory, where Emperor Alexios I fed them and ferried them across the Bosphorus to keep them from looting Constantinople's suburbs.\n\nOnce in Anatolia, the poorly armed and undisciplined host ignored warnings to wait for the main crusader army and pushed toward Nicaea, where a Seljuk force under Kilij Arslan ambushed and annihilated most of them at Civetot in October 1096. Peter himself had left the camp to negotiate supplies in Constantinople and survived; the disaster reduced the People's Crusade to a byword for popular religious enthusiasm outrunning military judgment, and the professional armies that followed under Raymond of Toulouse and Godfrey of Bouillon were careful not to repeat its mistakes.",
+      "description_ru": "Пётр Пустынник, харизматичный проповедник из Амьена, собрал десятки тысяч бедных рыцарей, крестьян и горожан, не пожелавших дожидаться, пока великие князья соберут свои войска, и повёл их на восток из северной Франции за много месяцев до официального похода. Его последователи устраивали избиения еврейских общин Рейнской области по пути следования, а затем вступили на византийскую территорию, где император Алексей I кормил их и переправлял через Босфор, лишь бы уберечь пригороды Константинополя от разграбления.\n\nОказавшись в Анатолии, плохо вооружённое и недисциплинированное войско, невзирая на предупреждения дождаться основной армии крестоносцев, двинулось к Никее, где сельджукский отряд под командованием Кылыч-Арслана устроил засаду и почти полностью уничтожил его при Циветоте в октябре 1096 года. Сам Пётр в это время вёл переговоры о снабжении в Константинополе и уцелел; катастрофа сделала «Крестьянский крестовый поход» символом того, как народный религиозный порыв опережает военное благоразумие, и профессиональные армии, последовавшие под началом Раймунда Тулузского и Готфрида Бульонского, старались не повторить его ошибок.",
+      "latitude": 49.8941,
+      "longitude": 2.2958,
+      "source": "https://en.wikipedia.org/wiki/People%27s_Crusade",
+      "tags": [
+        "Capetian",
+        "Military",
+        "Crusade",
+        "Christian",
+        "War"
+      ]
+    },
+    {
+      "date": "01.01.1115",
+      "era": "AD",
+      "type": "political",
+      "name": "Louis VI Wages War on the Robber-Baron Castellans of the Île-de-France",
+      "name_ru": "Людовик VI ведёт войну против баронов-разбойников Иль-де-Франса",
+      "description": "Louis VI spent the first decades of his reign fighting not foreign kings but his own vassals: petty castellans who had turned their fortified towers into bases for robbing merchants, pilgrims, and the peasants of the royal domain around Paris and Orléans. Thomas de Marle, lord of Coucy, was the most notorious of them, torturing prisoners for ransom and burning villages until the Church excommunicated him at the Council of Beauvais. Louis answered with siege after siege, personally leading armies of mounted knights against castles that had never before faced a king willing to campaign against his own nobility rather than merely issue proclamations.\n\nSuger, the abbot of Saint-Denis who later wrote Louis's biography, described a king who wore out horses and armor riding from siege to siege, prizing the humbling of a single unruly castellan as highly as any foreign victory. By the end of his reign the royal domain, though still small compared to the lands held by the dukes of Normandy or Aquitaine, was for the first time genuinely governed rather than merely claimed, and later Capetian kings inherited a crown with real, exercised authority over its own core territory.",
+      "description_ru": "Людовик VI провёл первые десятилетия своего правления, воюя не с иноземными королями, а с собственными вассалами: мелкими кастелянами, превратившими укреплённые башни в базы для грабежа купцов, паломников и крестьян королевского домена вокруг Парижа и Орлеана. Самым известным из них был Тома де Марль, сеньор Куси, пытавший пленников ради выкупа и сжигавший деревни, пока Церковь не отлучила его на Бовезийском соборе. Людовик отвечал осадой за осадой, лично возглавляя отряды конных рыцарей против замков, никогда прежде не сталкивавшихся с королём, готовым воевать против собственной знати, а не просто издавать указы.\n\nСюжер, аббат Сен-Дени, позднее описавший жизнь короля, рисовал государя, изнашивавшего коней и доспехи, переезжая от осады к осаде, и ценившего усмирение одного строптивого кастеляна не меньше любой победы над внешним врагом. К концу его правления королевский домен, хотя по-прежнему невелик по сравнению с владениями герцогов Нормандии или Аквитании, впервые оказался не просто заявленным, но действительно управляемым, и последующие капетингские короли унаследовали корону с реальной, осуществимой властью над собственной коренной территорией.",
+      "latitude": 49.5217,
+      "longitude": 3.3225,
+      "source": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+      "tags": [
+        "Capetian",
+        "Political",
+        "Military",
+        "Feudalism",
+        "Vassalage"
+      ]
+    },
+    {
+      "date": "11.06.1144",
+      "era": "AD",
+      "type": "cultural",
+      "name": "Abbot Suger Consecrates the New Choir of Saint-Denis — Gothic Architecture Is Born",
+      "name_ru": "Аббат Сюжер освящает новый хор Сен-Дени — рождение готической архитектуры",
+      "description": "Abbot Suger, chief adviser to two French kings, rebuilt the east end of the royal abbey church of Saint-Denis using pointed arches, ribbed vaults, and stained-glass windows large enough to flood the choir with colored light — an ensemble of techniques borrowed piecemeal from earlier buildings but combined here for the first time into a single coherent style. Suger wrote that he wanted the church's radiance to lift worshippers' minds from material things toward the divine light of God, and he had the new choir consecrated in a single ceremony attended by King Louis VII, the queen, and a gathering of French bishops and abbots.\n\nThe style built at Saint-Denis had no name yet — later generations, admiring classical Rome, would dismissively call it 'Gothic' after the barbarian Goths — but architects who saw it went home and copied its ribbed vaults and light-filled walls at Sens, Noyon, and Laon, and eventually at Chartres and Notre-Dame de Paris. Saint-Denis was already the burial church of the French kings; Suger's rebuilding made it also the birthplace of the architectural style that would define French royal identity for the next three centuries.",
+      "description_ru": "Сюжер, главный советник двух французских королей, перестроил восточную часть королевской аббатской церкви Сен-Дени, применив стрельчатые арки, нервюрные своды и витражные окна, достаточно большие, чтобы залить хор цветным светом, — сочетание приёмов, заимствованных по частям из более ранних построек, но впервые собранных здесь в единый стиль. Сюжер писал, что хотел, чтобы сияние церкви возносило мысли молящихся от вещественного к божественному свету Бога, и новый хор был освящён на единой церемонии в присутствии короля Людовика VII, королевы и собрания французских епископов и аббатов.\n\nУ стиля, рождённого в Сен-Дени, тогда ещё не было названия — позднейшие поколения, восхищаясь классическим Римом, презрительно назовут его «готическим» в честь варваров-готов, — но зодчие, увидевшие постройку, возвращались домой и повторяли её нервюрные своды и залитые светом стены в Сансе, Нуайоне, Лане, а затем и в Шартре, и в Нотр-Даме Парижском. Сен-Дени уже был усыпальницей французских королей; перестройка Сюжера сделала его ещё и колыбелью архитектурного стиля, определившего облик французской королевской власти на следующие три столетия.",
+      "latitude": 48.9354,
+      "longitude": 2.36,
+      "source": "https://en.wikipedia.org/wiki/Basilica_of_Saint-Denis",
+      "tags": [
+        "Capetian",
+        "Cultural",
+        "Architecture",
+        "Christian",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "31.03.1146",
+      "era": "AD",
+      "type": "religious",
+      "name": "Bernard of Clairvaux Preaches the Second Crusade at Vézelay",
+      "name_ru": "Бернард Клервоский проповедует Второй крестовый поход в Везле",
+      "description": "Bernard of Clairvaux, the Cistercian abbot whose letters and sermons carried more moral authority in France than almost any bishop, preached to a vast crowd assembled on the hillside outside Vézelay after the crusader County of Edessa fell to Muslim forces the previous year. King Louis VII, seeking to atone for having burned a church full of people during an earlier war against Champagne, knelt before Bernard and took the cross on the spot, and the crowd's enthusiasm was reportedly so great that Bernard ran out of cloth crosses and began tearing his own robe into strips.\n\nUnlike the First Crusade, which the pope had launched and princes had led, the Second Crusade was preached and organized largely by Bernard himself, with Pope Eugenius III's blessing but from Rome at a careful distance. Louis VII departed the following year with Queen Eleanor of Aquitaine at his side, but the campaign ended in failure outside Damascus in 1148, and Bernard's later attempts to explain why God had allowed the disaster tested the credibility of crusading preaching itself.",
+      "description_ru": "Бернард Клервоский, цистерцианский аббат, чьи письма и проповеди пользовались во Франции моральным авторитетом, каким не обладал почти ни один епископ, обратился с проповедью к огромной толпе, собравшейся на склоне холма у Везле после того, как годом ранее крестоносное графство Эдесса пало под натиском мусульманских сил. Король Людовик VII, искавший искупления за сожжение церкви с людьми во время прежней войны против Шампани, преклонил колени перед Бернардом и тут же принял крест, а восторг толпы был, по преданию, столь велик, что у Бернарда закончились матерчатые кресты и он принялся рвать на полосы собственную рясу.\n\nВ отличие от Первого крестового похода, начатого папой и возглавленного князьями, Второй поход был проповедан и организован главным образом самим Бернардом — с благословения папы Евгения III, наблюдавшего за происходящим из Рима на почтительном расстоянии. Людовик VII отправился в поход годом позже вместе с королевой Алиенорой Аквитанской, но кампания завершилась провалом под Дамаском в 1148 году, и позднейшие попытки Бернарда объяснить, почему Бог допустил эту катастрофу, серьёзно подорвали доверие к самой крестоносной проповеди.",
+      "latitude": 47.4667,
+      "longitude": 3.7461,
+      "source": "https://en.wikipedia.org/wiki/Second_Crusade",
+      "tags": [
+        "Capetian",
+        "Religious",
+        "Crusade",
+        "Christian"
+      ]
+    },
+    {
+      "date": "01.01.1163",
+      "era": "AD",
+      "type": "cultural",
+      "name": "Notre-Dame de Paris — Bishop Maurice de Sully Lays the Cornerstone",
+      "name_ru": "Нотр-Дам де Пари — епископ Морис де Сюлли закладывает первый камень",
+      "description": "Bishop Maurice de Sully tore down Paris's aging Merovingian-era cathedral and began an entirely new church on the eastern tip of the Île de la Cité, built in the pointed-arch style already proven at Saint-Denis but on a scale no French cathedral had yet attempted. Construction proceeded in stages over nearly two centuries — the choir first, then the nave, then the west facade with its twin towers and rose window — funded by donations that de Sully solicited from across the city and beyond, since a project this large exceeded any single patron's resources.\n\nNotre-Dame's flying buttresses, added as engineers realized the tall clerestory walls needed external support, became one of the defining innovations of mature Gothic architecture, letting builders raise walls higher and fill them with more glass than any earlier design allowed. The cathedral rose alongside the growing power of the Capetian monarchy itself, and French kings and the university across the river would use it for coronations, funerals, and public ceremony for the rest of the medieval period.",
+      "description_ru": "Епископ Морис де Сюлли снёс обветшавший меровингский собор Парижа и начал строительство совершенно нового храма на восточной оконечности острова Сите, в стрельчатом стиле, уже опробованном в Сен-Дени, но в масштабе, прежде не достигавшемся ни в одном французском соборе. Строительство велось поэтапно почти два века — сначала хор, затем неф, затем западный фасад с двумя башнями и розой, — на пожертвования, которые де Сюлли собирал по всему городу и за его пределами, поскольку проект такого масштаба превышал возможности любого отдельного покровителя.\n\nАркбутаны Нотр-Дама, добавленные, когда зодчие поняли, что высокие стены клеристория нуждаются во внешней опоре, стали одним из определяющих новшеств зрелой готики, позволив строителям поднимать стены выше и заполнять их бóльшим количеством стекла, чем допускал любой прежний замысел. Собор рос вместе с усилением власти самой капетингской монархии, и французские короли и университет на другом берегу реки использовали его для коронаций, похорон и торжественных церемоний до конца средневековья.",
+      "latitude": 48.853,
+      "longitude": 2.3499,
+      "source": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+      "tags": [
+        "Capetian",
+        "Cultural",
+        "Architecture",
+        "Christian",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "10.06.1194",
+      "era": "AD",
+      "type": "cultural",
+      "name": "Fire Destroys Chartres Cathedral — Its High Gothic Rebuilding Begins",
+      "name_ru": "Пожар уничтожает Шартрский собор — начинается его высокоготическая перестройка",
+      "description": "A catastrophic fire swept through Chartres, destroying most of the town and the earlier Romanesque cathedral built after Fulbert's time, leaving only the west facade, its two towers, and the crypt standing. When the relic housed in the cathedral, a tunic believed to have been worn by the Virgin Mary at Christ's birth, was found intact in the crypt days later, the clergy took it as a sign that the Virgin wanted an even grander church built in its place, and donations poured in from nobles and commoners alike to fund the rebuilding.\n\nThe new cathedral, largely complete within thirty years, is considered the high point of French Gothic architecture: its flying buttresses, its 176 stained-glass windows filled with the famous cobalt-blue glass known as 'Chartres blue', and its two mismatched spires make it one of the best-preserved medieval cathedrals in Europe. Unlike Notre-Dame or Reims, Chartres survived the following centuries almost without alteration, giving later generations a rare, nearly complete window into thirteenth-century French religious art and engineering.",
+      "description_ru": "Страшный пожар пронёсся по Шартру, уничтожив бóльшую часть города и прежний романский собор, построенный ещё во времена Фульберта, оставив нетронутыми лишь западный фасад с двумя башнями и крипту. Когда через несколько дней в крипте нашли невредимой реликвию собора — тунику, которую, как считалось, носила Дева Мария при рождении Христа, — духовенство восприняло это как знак того, что Богородица желает ещё более величественного храма на этом месте, и пожертвования потекли от знати и простых горожан.\n\nНовый собор, в основном завершённый за тридцать лет, считается вершиной французской готики: его аркбутаны, 176 витражных окон со знаменитым кобальтово-синим «шартрским стеклом» и две непохожие друг на друга башни делают его одним из наиболее сохранившихся средневековых соборов Европы. В отличие от Нотр-Дама или Реймса, Шартр пережил последующие века почти без изменений, дав потомкам редкое, почти полное окно в религиозное искусство и инженерное мастерство Франции тринадцатого века.",
+      "latitude": 48.4478,
+      "longitude": 1.488,
+      "source": "https://en.wikipedia.org/wiki/Chartres_Cathedral",
+      "tags": [
+        "Capetian",
+        "Cultural",
+        "Architecture",
+        "Christian"
+      ]
+    },
+    {
+      "date": "01.01.1200",
+      "era": "AD",
+      "type": "cultural",
+      "name": "Philip II Grants the University of Paris Its First Royal Charter",
+      "name_ru": "Филипп II даёт Парижскому университету первую королевскую хартию",
+      "description": "After a tavern brawl in Paris left several German students dead at the hands of the provost's men, the assembled masters of the schools clustered around Notre-Dame threatened to leave the city entirely rather than remain unprotected. King Philip II Augustus, unwilling to lose the scholars whose presence had made Paris a center of learning to rival Chartres or Bologna, issued a charter placing all students and masters under Church courts rather than royal or municipal justice, exempting them from the ordinary law that had failed to protect them.\n\nThe charter transformed a loose collection of cathedral and monastic schools into a self-governing corporation of masters and students — a universitas — that Pope Innocent III's statutes of 1215 later formalized further, with faculties of arts, theology, law, and medicine. The University of Paris became the most prestigious center of theological study in Latin Christendom, training figures like Thomas Aquinas and giving the French crown, almost by accident, one of medieval Europe's most influential institutions on its own doorstep.",
+      "description_ru": "После трактирной драки в Париже, в которой люди прево убили нескольких немецких студентов, собравшиеся магистры школ, теснившихся вокруг Нотр-Дама, пригрозили вовсе покинуть город, если останутся без защиты. Король Филипп II Август, не желавший терять учёных, чьё присутствие сделало Париж центром знания, способным соперничать с Шартром или Болоньей, издал хартию, передававшую всех студентов и магистров под юрисдикцию церковных, а не королевских или городских судов, освободив их от обычного правосудия, не сумевшего их защитить.\n\nХартия превратила разрозненное собрание соборных и монастырских школ в самоуправляющуюся корпорацию магистров и студентов — universitas, — которую статуты папы Иннокентия III 1215 года позднее закрепили с факультетами искусств, богословия, права и медицины. Парижский университет стал самым авторитетным центром богословского образования в латинском христианском мире, воспитав таких мыслителей, как Фома Аквинский, и почти случайно подарив французской короне одно из самых влиятельных учреждений средневековой Европы у самого её порога.",
+      "latitude": 48.8496,
+      "longitude": 2.3441,
+      "source": "https://en.wikipedia.org/wiki/University_of_Paris",
+      "tags": [
+        "Capetian",
+        "Cultural",
+        "Education",
+        "Foundation",
+        "Law"
+      ]
+    },
+    {
+      "date": "06.03.1204",
+      "era": "AD",
+      "type": "military",
+      "name": "Philip II Augustus Conquers Normandy — Château Gaillard Falls",
+      "name_ru": "Филипп II Август завоёвывает Нормандию — падение Шато-Гайара",
+      "description": "Philip II Augustus had summoned his vassal John of England to the French royal court to answer charges of murdering his nephew Arthur of Brittany, and when John refused to appear, the court of French peers declared all his continental fiefs forfeit to the crown. Philip marched into Normandy to make the judgment real, besieging Château Gaillard, the immense fortress Richard the Lionheart had built on a cliff above the Seine specifically to block a French advance on Rouen. After a siege of many months, French sappers found an unguarded latrine shaft into the outer bailey and forced their way inside, and the garrison surrendered.\n\nRouen itself fell within weeks, and by the end of 1204 Philip had annexed Normandy, Anjou, Maine, and Touraine — territories the English crown had held since William the Conqueror and Henry II Plantagenet — roughly doubling the size of the royal domain in a single campaign. The conquest made the Capetian monarchy, for the first time since Hugh Capet's coronation, the strongest single power in France, richer and more populous than any of its own vassals, and it set the stage for the crown's continuing rivalry with the English kings who never accepted the loss.",
+      "description_ru": "Филипп II Август вызвал своего вассала Иоанна Английского в королевский суд, чтобы тот ответил на обвинение в убийстве племянника Артура Бретонского, а когда Иоанн отказался явиться, суд французских пэров объявил все его континентальные владения конфискованными в пользу короны. Филипп вступил в Нормандию, чтобы привести приговор в исполнение, осадив Шато-Гайар — колоссальную крепость, построенную Ричардом Львиное Сердце на скале над Сеной специально для того, чтобы блокировать французское наступление на Руан. После многомесячной осады французские сапёры обнаружили неохраняемую отдушину отхожего места, ведущую во внешний двор, и ворвались внутрь, вынудив гарнизон сдаться.\n\nРуан пал через несколько недель, и к концу 1204 года Филипп присоединил Нормандию, Анжу, Мэн и Турень — земли, которыми английская корона владела со времён Вильгельма Завоевателя и Генриха II Плантагенета, — почти удвоив королевский домен за одну кампанию. Завоевание впервые со времён коронации Гуго Капета сделало капетингскую монархию сильнейшей отдельной державой Франции, богаче и многолюднее любого из собственных вассалов, и заложило основу для длительного соперничества короны с английскими королями, так и не смирившимися с этой потерей.",
+      "latitude": 49.2385,
+      "longitude": 1.4098,
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Ch%C3%A2teau_Gaillard",
+      "tags": [
+        "Capetian",
+        "Military",
+        "War",
+        "Conquest",
+        "Feudalism"
+      ]
+    },
+    {
+      "date": "22.07.1209",
+      "era": "AD",
+      "type": "military",
+      "name": "The Massacre at Béziers Opens the Albigensian Crusade",
+      "name_ru": "Резня в Безье открывает Альбигойский крестовый поход",
+      "description": "Pope Innocent III called for a crusade against the Cathars of Languedoc after a papal legate was murdered there, and an army of mostly northern French nobles under the papal legate Arnaud Amalric marched south and laid siege to Béziers, a town sheltering both Cathars and Catholics behind its walls. When the citizens refused to surrender their heretics, the crusaders stormed the town on the feast of Mary Magdalene, and Amalric, asked how to tell Catholics from Cathars in the chaos, is said to have answered 'kill them all, God will know his own.'\n\nContemporary chroniclers put the death toll at between seven and twenty thousand, with the last survivors burned alive inside the church of Mary Magdalene where they had taken refuge. The massacre was meant to terrorize the rest of Languedoc into surrender, and it worked: Carcassonne capitulated within weeks without a fight. Béziers made the Albigensian Crusade the first crusade waged by French Catholics against fellow Christians on French soil, a campaign that Simon de Montfort would lead for the next decade and that ultimately delivered the independent county of Toulouse to the French crown.",
+      "description_ru": "Папа Иннокентий III призвал к крестовому походу против катаров Лангедока после убийства там папского легата, и войско, состоявшее в основном из северофранцузской знати, под началом легата Арно Амори двинулось на юг и осадило Безье — город, укрывавший за своими стенами как катаров, так и католиков. Когда горожане отказались выдать еретиков, крестоносцы взяли город штурмом в день памяти Марии Магдалины, и Амори, когда его спросили, как в этой сумятице отличить католиков от катаров, будто бы ответил: «Убивайте всех, Бог узнает своих».\n\nСовременные хронисты называют цифры от семи до двадцати тысяч погибших, а последние уцелевшие были сожжены заживо в церкви Марии Магдалины, где искали убежища. Резня должна была устрашить остальной Лангедок и заставить его сдаться — и это сработало: Каркассон капитулировал без боя уже через несколько недель. Безье сделал Альбигойский крестовый поход первым походом французских католиков против таких же христиан на французской земле — кампанией, которую следующее десятилетие возглавит Симон де Монфор и которая в итоге передаст независимое графство Тулузское французской короне.",
+      "latitude": 43.3442,
+      "longitude": 3.2158,
+      "source": "https://en.wikipedia.org/wiki/Massacre_at_B%C3%A9ziers",
+      "tags": [
+        "Capetian",
+        "Military",
+        "War",
+        "Crusade",
+        "Religious",
+        "Christian"
+      ]
+    },
+    {
+      "date": "12.09.1213",
+      "era": "AD",
+      "type": "military",
+      "name": "Battle of Muret — Simon de Montfort Crushes the Occitan Coalition",
+      "name_ru": "Битва при Мюре — Симон де Монфор разбивает окситанскую коалицию",
+      "description": "King Peter II of Aragon, fresh from a decisive victory over the Almohads at Las Navas de Tolosa the year before, crossed the Pyrenees to defend his brother-in-law Raymond VI of Toulouse against the northern French crusaders devastating Languedoc. Peter's combined Aragonese-Occitan army heavily outnumbered Simon de Montfort's crusading force outside the small town of Muret, but Montfort split his cavalry into three tight formations and charged directly at the enemy camp rather than waiting to be encircled by superior numbers.\n\nPeter II died in the fighting, cut down while trying to rally his own troops after his soldiers mistook him for a lesser knight due to an exchange of armor, and his army collapsed into a rout. The victory removed the one foreign power capable of stopping the Albigensian Crusade and left Raymond VI's Toulouse permanently exposed; Montfort was granted most of Raymond's lands the following year, and the battle marked the end of the Crown of Aragon's ambitions to expand north of the Pyrenees into Occitania.",
+      "description_ru": "Король Педро II Арагонский, годом ранее одержавший решающую победу над Альмохадами при Лас-Навас-де-Толоса, перешёл Пиренеи, чтобы защитить своего зятя Раймунда VI Тулузского от северофранцузских крестоносцев, разорявших Лангедок. Объединённое арагоно-окситанское войско Педро значительно превосходило численностью крестоносный отряд Симона де Монфора у небольшого города Мюре, но Монфор разделил свою конницу на три плотных построения и атаковал прямо лагерь противника, не дожидаясь окружения превосходящими силами.\n\nПедро II погиб в бою, сражённый в попытке собрать свои войска после того, как его солдаты по ошибке приняли его за рядового рыцаря из-за обмена доспехами, и его армия обратилась в бегство. Победа устранила единственную внешнюю силу, способную остановить Альбигойский крестовый поход, и оставила Тулузу Раймунда VI навсегда беззащитной; в следующем году Монфор получил бóльшую часть его земель, а битва положила конец притязаниям арагонской короны на расширение к северу от Пиренеев, в Окситанию.",
+      "latitude": 43.4667,
+      "longitude": 1.3167,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Muret",
+      "tags": [
+        "Capetian",
+        "Military",
+        "War",
+        "Battle",
+        "Crusade"
+      ]
+    },
+    {
+      "date": "08.11.1226",
+      "era": "AD",
+      "type": "political",
+      "name": "Blanche of Castile Becomes Regent for the Boy King Louis IX",
+      "name_ru": "Бланка Кастильская становится регентшей при малолетнем короле Людовике IX",
+      "description": "When Louis VIII died of dysentery after only three years on the throne, he left the crown to his twelve-year-old son Louis IX and named his widow, Blanche of Castile, regent until the boy came of age. A foreign-born queen ruling France provoked immediate resistance: a coalition of great barons led by Peter Mauclerc of Brittany and Hugh X of Lusignan tried to seize the young king or force Blanche from power, and rumors spread, never substantiated, that she and the papal legate were lovers.\n\nBlanche out-maneuvered every challenge, at one point rallying Parisian militia to escort her son safely back to the capital when barons threatened to intercept the royal party on the road, and she negotiated separately with each rebel lord rather than let them unite into a single front. She governed as regent again decades later while Louis was on crusade in Egypt, and her firm, often ruthless management of the kingdom during both regencies is credited with preserving the centralized monarchy Philip II had built, keeping it intact through the vulnerable years of a child king's minority.",
+      "description_ru": "Когда Людовик VIII умер от дизентерии, процарствовав всего три года, он оставил корону своему двенадцатилетнему сыну Людовику IX, назначив регентшей до его совершеннолетия свою вдову Бланку Кастильскую. Иностранное происхождение королевы, правящей Францией, сразу вызвало сопротивление: коалиция крупных баронов во главе с Пьером Моклерком Бретонским и Гуго X де Лузиньяном пыталась захватить юного короля или вынудить Бланку отказаться от власти, а не подтверждённые ничем слухи приписывали ей связь с папским легатом.\n\nБланка переиграла каждый вызов: однажды она подняла парижское ополчение, чтобы благополучно сопроводить сына обратно в столицу, когда бароны угрожали перехватить королевский поезд на дороге, и вела переговоры с каждым мятежным сеньором по отдельности, не позволяя им объединиться в единый фронт. Десятилетия спустя она вновь правила как регентша, пока Людовик находился в крестовом походе в Египте, и её твёрдое, порой безжалостное управление королевством в оба регентства считается заслугой, сохранившей централизованную монархию, выстроенную Филиппом II, нетронутой в уязвимые годы малолетства короля.",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "source": "https://en.wikipedia.org/wiki/Blanche_of_Castile",
+      "tags": [
+        "Capetian",
+        "Political",
+        "Dynasty",
+        "Succession"
+      ]
+    },
+    {
+      "date": "12.04.1229",
+      "era": "AD",
+      "type": "political",
+      "name": "Treaty of Paris Ends the Albigensian Crusade",
+      "name_ru": "Парижский договор завершает Альбигойский крестовый поход",
+      "description": "Twenty years of crusading warfare in Languedoc ended not with a final battle but with a negotiated settlement: Raymond VII of Toulouse, exhausted and facing renewed royal armies, submitted to the twelve-year-old Louis IX and his regent Blanche of Castile at Notre-Dame de Paris. Raymond did public penance stripped to the waist before the cathedral, surrendered a large part of his county directly to the crown, and agreed to demolish the walls of Toulouse and several other towns that had resisted the crusaders.\n\nThe treaty betrothed Raymond's only child, Joan, to Alphonse of Poitiers, the king's brother, with the marriage contract guaranteeing that if Raymond died without a male heir, the entire county of Toulouse would pass to the French crown — which is exactly what happened when both Alphonse and Joan died childless in 1271. The settlement also established the Inquisition in Languedoc to root out surviving Cathar belief, but its lasting effect was political: for the first time, the wealthy, independent-minded south of France was bound by treaty into eventual absorption by the Capetian monarchy in Paris.",
+      "description_ru": "Двадцать лет крестоносной войны в Лангедоке завершились не последней битвой, а заключённым соглашением: Раймунд VII Тулузский, изнурённый и стоявший перед лицом новых королевских армий, покорился двенадцатилетнему Людовику IX и его регентше Бланке Кастильской у собора Нотр-Дам де Пари. Раймунд принёс публичное покаяние, обнажённый до пояса перед собором, уступил короне значительную часть своего графства и согласился снести стены Тулузы и нескольких других сопротивлявшихся крестоносцам городов.\n\nДоговор обручил единственную дочь Раймунда, Жанну, с Альфонсом Пуатье, братом короля, а брачный контракт гарантировал, что если Раймунд умрёт без наследника мужского пола, всё графство Тулузское перейдёт французской короне, — что и произошло, когда Альфонс и Жанна оба умерли бездетными в 1271 году. Договор также учредил в Лангедоке инквизицию для искоренения остатков катарской веры, но его главным последствием стало политическое: впервые богатый и своевольный юг Франции оказался связан договором, предопределившим его окончательное поглощение капетингской монархией Парижа.",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "source": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1229)",
+      "tags": [
+        "Capetian",
+        "Political",
+        "Crusade",
+        "Feudalism",
+        "Succession"
+      ]
+    },
+    {
+      "date": "01.01.1230",
+      "era": "AD",
+      "type": "scientific",
+      "name": "Villard de Honnecourt Compiles His Sketchbook of Cathedral Engineering",
+      "name_ru": "Виллар де Оннекур составляет альбом чертежей соборного строительства",
+      "description": "Villard de Honnecourt, a master builder or draughtsman from Picardy about whom almost nothing else is known, filled a portfolio of some thirty-three parchment leaves with drawings of cathedral floor plans, structural details from the great building sites at Reims, Laon, and Cambrai, and mechanical devices only loosely connected to architecture — a water-powered sawmill, a screw-jack, an automated crossbow, and a diagram for a perpetual-motion machine driven by unevenly weighted mallets. The notebook mixed careful, evidently first-hand technical observation of construction methods with copied models, animal studies, and geometric tricks for laying out figures.\n\nNo other manuscript from the age of the Gothic cathedrals gives such a direct look at how a working master mason thought and recorded his craft, since builders' knowledge was normally passed down orally within workshops and guilds rather than written. The sketchbook survives today in the Bibliothèque nationale de France, and its mixture of practical engineering and open-ended mechanical experimentation makes it one of the earliest surviving records of Western technical drawing as a discipline in its own right.",
+      "description_ru": "Виллар де Оннекур, мастер-строитель или чертёжник из Пикардии, о котором почти ничего более не известно, заполнил альбом примерно из тридцати трёх пергаментных листов чертежами планов соборов, конструктивными деталями с крупных строек в Реймсе, Лане и Камбре и механическими устройствами, лишь отчасти связанными с зодчеством, — водяной лесопилкой, винтовым домкратом, автоматическим арбалетом и схемой вечного двигателя, приводимого в движение неравномерно нагруженными молотками. Записная книжка сочетала тщательные, явно сделанные с натуры технические наблюдения над строительными приёмами с копиями чужих образцов, зарисовками животных и геометрическими приёмами построения фигур.\n\nНи одна другая рукопись эпохи готических соборов не даёт столь прямого взгляда на то, как мыслил и фиксировал своё ремесло работающий мастер-каменщик, поскольку знания строителей обычно передавались устно внутри мастерских и цехов, а не записывались. Альбом хранится сегодня в Национальной библиотеке Франции, и сочетание в нём практической инженерии со свободным механическим экспериментированием делает его одним из древнейших сохранившихся свидетельств западного технического чертежа как самостоятельной дисциплины.",
+      "latitude": 50.0975,
+      "longitude": 3.2544,
+      "source": "https://en.wikipedia.org/wiki/Villard_de_Honnecourt",
+      "tags": [
+        "Capetian",
+        "Scientific",
+        "Architecture",
+        "Culture"
+      ]
+    },
+    {
+      "date": "26.04.1248",
+      "era": "AD",
+      "type": "religious",
+      "name": "Sainte-Chapelle Consecrated to House the Crown of Thorns",
+      "name_ru": "Освящена Сент-Шапель — для хранения тернового венца Христа",
+      "description": "Louis IX had bought what was believed to be Christ's Crown of Thorns from the cash-strapped Latin emperor of Constantinople in 1239, paying a sum so enormous — more than half the crown's annual revenue — that he had the relic carried the final miles into Paris on foot, walking barefoot himself as an act of public devotion. To house it he commissioned a two-story palace chapel on the Île de la Cité built almost entirely of stained glass held up by a minimal stone skeleton, an engineering feat that pushed Gothic wall-dissolving techniques further than any building before it.\n\nThe upper chapel's fifteen windows, rising nearly fifteen meters and depicting over a thousand biblical scenes in glowing color, were reserved for the king and his court, while a plainer lower chapel served the palace staff below. Sainte-Chapelle fused two ambitions that defined Louis IX's kingship: the relic collection that made Paris a rival to Constantinople and Rome as a center of Christian devotion, and an architectural showpiece meant to display the sacred character of the French crown itself.",
+      "description_ru": "Людовик IX купил то, что считалось терновым венцом Христа, у испытывавшего денежные затруднения латинского императора Константинополя в 1239 году, заплатив сумму настолько огромную — более половины годового дохода короны, — что последние мили до Парижа реликвию несли пешком, а сам король шёл босиком в знак публичного благочестия. Чтобы разместить её, он заказал двухъярусную дворцовую капеллу на острове Сите, почти целиком построенную из витражного стекла на минимальном каменном каркасе, — инженерное достижение, продвинувшее готические приёмы растворения стены дальше, чем любое прежнее здание.\n\nПятнадцать окон верхней капеллы высотой почти пятнадцать метров, изображавших более тысячи библейских сцен в сияющих красках, предназначались для короля и его двора, тогда как более скромная нижняя капелла служила дворцовой челяди. Сент-Шапель соединила два устремления, определявшие правление Людовика IX: собрание реликвий, сделавшее Париж соперником Константинополя и Рима как центра христианского благочестия, и архитектурную витрину, призванную явить священный характер самой французской короны.",
+      "latitude": 48.8554,
+      "longitude": 2.345,
+      "source": "https://en.wikipedia.org/wiki/Sainte-Chapelle",
+      "tags": [
+        "Capetian",
+        "Religious",
+        "Architecture",
+        "Christian",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "25.08.1248",
+      "era": "AD",
+      "type": "political",
+      "name": "Louis IX Sails from Aigues-Mortes on the Seventh Crusade",
+      "name_ru": "Людовик IX отплывает из Эг-Морта в Седьмой крестовый поход",
+      "description": "France's Mediterranean coastline offered no port capable of loading a crusading fleet, so Louis IX built one from nothing on marshland he had purchased from the monks of Psalmodi Abbey, ringing it with walls and a single great tower, the Constance Tower, to guard the harbor. Aigues-Mortes gave the French crown, for the first time, a royal port on the Mediterranean independent of Marseille or the Italian maritime republics that had carried earlier crusaders east.\n\nLouis embarked from the new port with his queen, his brothers, and a fleet largely chartered from Genoa, sailing first to winter in Cyprus before landing in Egypt the following year. The crusade was Louis's own initiative, vowed during a severe illness in 1244 and prepared for four years with unprecedented royal financing and administration; unlike the mixed levies that Venice and Genoa had transported on earlier crusades, this was a royal army answering directly to the French crown rather than to competing baronial contingents.",
+      "description_ru": "На средиземноморском побережье Франции не нашлось порта, способного принять крестоносный флот, и Людовик IX построил его на пустом месте — на болотистых землях, купленных у монахов аббатства Псалмоди, обнеся их стенами с единственной большой башней, Констанс, охранявшей гавань. Эг-Морт впервые дал французской короне собственный средиземноморский порт, независимый от Марселя или итальянских морских республик, перевозивших более ранних крестоносцев на восток.\n\nЛюдовик отплыл из нового порта вместе с королевой, братьями и флотом, в основном зафрахтованным в Генуе, направившись сначала на зимовку на Кипр, а годом позже — в Египет. Поход был личной инициативой Людовика, данной обетом во время тяжёлой болезни 1244 года и готовившейся четыре года при небывалом королевском финансировании и организации; в отличие от смешанных ополчений, которые Венеция и Генуя перевозили в более ранних походах, это была королевская армия, подчинявшаяся непосредственно французской короне, а не соперничающим баронским отрядам.",
+      "latitude": 43.5666,
+      "longitude": 4.1912,
+      "source": "https://en.wikipedia.org/wiki/Aigues-Mortes",
+      "tags": [
+        "Capetian",
+        "Political",
+        "Crusade",
+        "Foundation"
+      ]
+    },
+    {
+      "date": "06.04.1250",
+      "era": "AD",
+      "type": "military",
+      "name": "Louis IX Is Captured Retreating from Al Mansurah",
+      "name_ru": "Людовик IX попадает в плен при отступлении от Эль-Мансуры",
+      "description": "After capturing Damietta and pushing up the Nile toward Cairo, Louis IX's army stormed into the fortified town of Al Mansurah, where his brother Robert of Artois led the vanguard too far ahead and was cut off and killed along with most of the Knights Templar in the assault. The crusader army, weakened by the loss and by disease spreading through its camp, tried to retreat back down the Nile toward Damietta, but Ayyubid forces trapped the exhausted column at Fariskur.\n\nLouis himself, too sick with dysentery to ride, was captured along with most of his remaining nobles in one of the worst defeats a French king ever suffered in the field. He negotiated his own ransom — 400,000 livres tournois plus the surrender of Damietta — while his wife, Queen Margaret of Provence, who had stayed behind in Damietta and given birth days after the disaster, organized the city's defense and the ransom payment herself. Louis remained in the Holy Land for four more years after his release, refusing to return home until he had done what he could to shore up the crusader states.",
+      "description_ru": "Взяв Дамьетту и продвигаясь вверх по Нилу к Каиру, армия Людовика IX ворвалась в укреплённый город Эль-Мансура, где его брат Робер Артуа увёл авангард слишком далеко вперёд и был отрезан и убит вместе с большинством участвовавших в штурме тамплиеров. Ослабленная этой потерей и распространившейся в лагере болезнью армия крестоносцев попыталась отступить вниз по Нилу к Дамьетте, но силы Айюбидов настигли измождённую колонну у Фарискура.\n\nСам Людовик, слишком больной дизентерией, чтобы держаться в седле, попал в плен вместе с большинством оставшихся вельмож — одно из тяжелейших поражений, которое когда-либо терпел французский король в поле. Он сам вёл переговоры о собственном выкупе — 400 000 турских ливров и сдача Дамьетты, — пока его жена, королева Маргарита Прованская, оставшаяся в Дамьетте и родившая через несколько дней после катастрофы, сама организовывала оборону города и сбор выкупа. Людовик оставался на Святой земле ещё четыре года после освобождения, отказываясь возвращаться домой, пока не сделал всё возможное для укрепления государств крестоносцев.",
+      "latitude": 31.0409,
+      "longitude": 31.3785,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Mansurah_(1250)",
+      "tags": [
+        "Capetian",
+        "Military",
+        "Crusade",
+        "War"
+      ]
+    },
+    {
+      "date": "01.01.1254",
+      "era": "AD",
+      "type": "political",
+      "name": "Louis IX's Grand Ordonnance Reforms Royal Justice",
+      "name_ru": "Великий ордонанс Людовика IX реформирует королевское правосудие",
+      "description": "Returning from four years in the Holy Land, Louis IX issued a sweeping ordinance reforming how the crown's own officials, the baillis and seneschals who administered royal justice and taxation in the provinces, were to behave: it banned them from taking gifts, accepting hospitality, or engaging in trade within their own districts, and required them to submit to a forty-day review by royal investigators, the enquêteurs, before leaving office. The enquêteurs traveled the kingdom hearing complaints directly from peasants and townspeople against royal officials, an unprecedented mechanism for holding the crown's own administration accountable to the people it governed.\n\nThe same reforms restricted trial by combat in royal courts, promoted the use of sworn testimony and written evidence instead, and established the quarantaine-le-roi, a mandatory forty-day cooling-off period before a feud between noble families could lawfully turn violent, extending royal authority into disputes that earlier kings had left to local custom. Louis's reputation for personal justice — famously hearing petitioners' cases himself while seated under an oak tree at Vincennes — combined with these institutional changes to make thirteenth-century France a byword for good royal government across Christian Europe.",
+      "description_ru": "Вернувшись после четырёх лет на Святой земле, Людовик IX издал масштабный ордонанс, определявший поведение собственных должностных лиц короны — бальи и сенешалей, управлявших королевским правосудием и налогами в провинциях: он запретил им принимать подарки, пользоваться гостеприимством или заниматься торговлей на территории собственного округа и обязал проходить сорокадневную проверку королевскими дознавателями, анкетёрами, прежде чем покинуть должность. Анкетёры разъезжали по королевству, выслушивая жалобы крестьян и горожан прямо на королевских чиновников, — небывалый прежде механизм подотчётности собственной администрации короны перед управляемыми ею людьми.\n\nТе же реформы ограничили судебный поединок в королевских судах, поощряя вместо этого присяжные показания и письменные доказательства, и учредили «королевские сорок дней» — обязательную сорокадневную отсрочку, прежде чем вражда между знатными семьями могла на законных основаниях перейти к насилию, распространив королевскую власть на споры, которые прежние короли оставляли местному обычаю. Слава Людовика как справедливого правителя — он, как известно, лично выслушивал просителей, сидя под дубом в Венсене, — в сочетании с этими институциональными переменами сделала Францию тринадцатого века образцом доброго королевского правления для всей христианской Европы.",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "source": "https://en.wikipedia.org/wiki/Louis_IX_of_France",
+      "tags": [
+        "Capetian",
+        "Political",
+        "Law",
+        "Reform"
+      ]
+    },
+    {
+      "date": "01.01.1257",
+      "era": "AD",
+      "type": "cultural",
+      "name": "Robert de Sorbon Founds the College of the Sorbonne",
+      "name_ru": "Робер де Сорбон основывает коллегию Сорбонны",
+      "description": "Robert de Sorbon, a theologian who had risen from a poor family in the Ardennes to become King Louis IX's own confessor, founded a residential college in Paris where poor students of theology could live and study for free while pursuing the long, expensive course of study a doctorate in divinity required. Louis IX granted the college its first buildings on the Left Bank, near the schools clustered around the University of Paris, and endowed it with additional funds; Robert himself drew up statutes governing admission, discipline, and the shared library that made the college's books available to any qualified scholar.\n\nThe College of the Sorbonne grew into the theological heart of the University of Paris, and later centuries used its name loosely for the university as a whole even though it began as one college among many rather than the university itself. Its library, assembled from donations and bequests, became one of the largest and most consulted collections in medieval Europe, giving generations of masters and students access to theological texts that few individual scholars could otherwise have afforded to own.",
+      "description_ru": "Робер де Сорбон, богослов, поднявшийся из бедной семьи в Арденнах до духовника самого короля Людовика IX, основал в Париже общежительную коллегию, где бедные студенты богословия могли жить и учиться бесплатно, проходя долгий и дорогостоящий курс, требовавшийся для докторской степени по богословию. Людовик IX предоставил коллегии первые здания на левом берегу, рядом со школами, теснившимися вокруг Парижского университета, и выделил дополнительные средства; сам Робер составил уставы, регулировавшие приём, дисциплину и общую библиотеку, книги которой становились доступны любому подготовленному учёному.\n\nКоллегия Сорбонны выросла в богословское сердце Парижского университета, и позднейшие века свободно применяли её название ко всему университету, хотя изначально она была лишь одной коллегией среди многих, а не самим университетом. Её библиотека, собранная из пожертвований и завещаний, стала одним из крупнейших и наиболее востребованных собраний средневековой Европы, дав поколениям магистров и студентов доступ к богословским текстам, которые немногие учёные могли позволить себе приобрести сами.",
+      "latitude": 48.8499,
+      "longitude": 2.3436,
+      "source": "https://en.wikipedia.org/wiki/Sorbonne_University",
+      "tags": [
+        "Capetian",
+        "Cultural",
+        "Education",
+        "Foundation",
+        "Religious"
+      ]
+    },
+    {
+      "date": "08.08.1269",
+      "era": "AD",
+      "type": "scientific",
+      "name": "Peter Peregrinus Writes the First Treatise on Magnetism",
+      "name_ru": "Пётр Перегрин пишет первый трактат о магнетизме",
+      "description": "Peter Peregrinus, a French military engineer serving with Charles of Anjou's army besieging Lucera in southern Italy, used his time in camp to write the Epistola de magnete, a letter to a friend back home describing years of his own experiments with lodestones. He was the first writer in the Latin West to describe a magnetic compass with a pivoted needle and a graduated dial for taking precise bearings, and he correctly identified that every magnet has two poles that cannot be separated, since cutting a lodestone in half produces two smaller magnets rather than isolated poles.\n\nPeregrinus described his experiments in careful, reproducible steps rather than citing ancient authorities, floating magnetized needles on water and mapping the resulting field lines around a spherical lodestone he called a terrella, or 'little earth'. His treatise circulated in manuscript for over two centuries before print editions appeared, and later scientists including William Gilbert, whose own 1600 work on magnetism drew directly on Peregrinus's terrella experiments, treated the Epistola as the foundation of the experimental study of magnetism.",
+      "description_ru": "Пётр Перегрин, французский военный инженер, служивший в войске Карла Анжуйского при осаде Лучеры на юге Италии, использовал время в лагере, чтобы написать «Epistola de magnete» — письмо другу на родине, описывающее годы собственных опытов с магнитным железняком. Он первым в латинском мире описал магнитный компас с закреплённой на оси стрелкой и градуированной шкалой для точного определения направлений и верно установил, что у всякого магнита два полюса неразделимы, поскольку разрезание магнитного камня пополам даёт два меньших магнита, а не изолированные полюса.\n\nПерегрин описывал свои опыты последовательными, воспроизводимыми шагами, а не ссылками на древних авторитетов, — он подвешивал намагниченные иглы на воде и наносил на карту линии поля вокруг сферического магнита, который называл «маленькой землёй» (terrella). Его трактат более двух веков распространялся в рукописях, прежде чем появились печатные издания, а позднейшие учёные, включая Уильяма Гилберта, чей собственный труд о магнетизме 1600 года прямо опирался на опыты Перегрина с terrella, считали «Epistola» основой экспериментального изучения магнетизма.",
+      "latitude": 41.5001,
+      "longitude": 15.3336,
+      "source": "https://en.wikipedia.org/wiki/Petrus_Peregrinus_de_Maricourt",
+      "tags": [
+        "Capetian",
+        "Scientific",
+        "Crusade"
+      ]
+    },
+    {
+      "date": "25.08.1270",
+      "era": "AD",
+      "type": "military",
+      "name": "Louis IX Dies of Dysentery on Crusade Outside Tunis",
+      "name_ru": "Людовик IX умирает от дизентерии в крестовом походе под Тунисом",
+      "description": "Louis IX launched a second crusade in 1270, diverting the fleet to Tunis first on his brother Charles of Anjou's advice that the Hafsid emir might convert to Christianity and provide a base for a later assault on Egypt — a strategic gamble that proved disastrous. The crusader camp outside Tunis was struck by dysentery within weeks of landing, and the disease killed Louis's own son John Tristan before spreading through the army and finally striking the king himself.\n\nLouis died in his camp, reportedly with the words 'Jerusalem, Jerusalem' among his last, becoming the only French king to lead a crusade twice and the last Western European monarch to lead a crusade in person. Charles of Anjou arrived from Sicily days after his brother's death and negotiated a treaty with the Hafsids that ended the campaign without further fighting; Louis's reputation for piety and justice led Pope Boniface VIII to canonize him in 1297, and Saint Louis became the model against which every later French king measured his own claim to sacred kingship.",
+      "description_ru": "Людовик IX начал в 1270 году второй крестовый поход, направив флот сперва к Тунису по совету брата, Карла Анжуйского, рассчитывавшего, что хафсидский эмир может принять христианство и предоставить базу для последующего удара по Египту, — расчёт, обернувшийся катастрофой. Уже через несколько недель после высадки лагерь крестоносцев под Тунисом поразила дизентерия, унёсшая жизнь родного сына Людовика, Жана Тристана, прежде чем распространиться по армии и в конце концов поразить самого короля.\n\nЛюдовик умер в своём лагере, по преданию, с словами «Иерусалим, Иерусалим» на устах, став единственным французским королём, дважды возглавившим крестовый поход, и последним западноевропейским монархом, лично возглавившим крестовый поход. Карл Анжуйский прибыл с Сицилии через несколько дней после смерти брата и заключил с Хафсидами договор, завершивший кампанию без дальнейших боёв; репутация Людовика как благочестивого и справедливого правителя побудила папу Бонифация VIII канонизировать его в 1297 году, и Людовик Святой стал образцом, по которому впоследствии всякий французский король сверял собственные притязания на священный характер власти.",
+      "latitude": 36.8065,
+      "longitude": 10.1815,
+      "source": "https://en.wikipedia.org/wiki/Eighth_Crusade",
+      "tags": [
+        "Capetian",
+        "Military",
+        "Crusade",
+        "Christian",
+        "Death"
+      ]
+    },
+    {
+      "date": "10.04.1302",
+      "era": "AD",
+      "type": "political",
+      "name": "Philip IV Convenes France's First Estates-General",
+      "name_ru": "Филипп IV созывает первые Генеральные штаты Франции",
+      "description": "Locked in an escalating conflict with Pope Boniface VIII over whether the French crown could tax the clergy without papal consent, Philip IV summoned representatives of the clergy, nobility, and townspeople to Notre-Dame de Paris to rally public support behind the crown rather than the pope. It was the first time a French king had assembled all three orders of the kingdom together in a single body, a format later generations would call the Estates-General, though the term itself only came into use much later.\n\nThe assembly overwhelmingly backed Philip, accusing Boniface of heresy and illegitimate election in a formal declaration, and the meeting demonstrated a new source of royal legitimacy: rather than relying only on feudal homage or ecclesiastical sanction, the king could now claim to speak for the collective will of his kingdom's estates. Philip's advisers, trained lawyers steeped in revived Roman law, used the assembly's declaration to justify the crown's independence from papal authority, a precedent that shaped French constitutional thought for centuries even though the Estates-General itself met only irregularly afterward.",
+      "description_ru": "Втянутый в разгоравшийся конфликт с папой Бонифацием VIII из-за права французской короны облагать духовенство налогами без папского согласия, Филипп IV созвал представителей духовенства, дворянства и горожан к Нотр-Дам де Пари, чтобы сплотить общественную поддержку вокруг короны, а не папы. Это был первый случай, когда французский король собрал все три сословия королевства в едином собрании — формат, который позднейшие поколения назовут Генеральными штатами, хотя сам термин вошёл в обиход значительно позже.\n\nСобрание безоговорочно поддержало Филиппа, обвинив Бонифация в ереси и незаконном избрании в официальном заявлении, и эта встреча продемонстрировала новый источник королевской легитимности: отныне король мог опираться не только на феодальную вассальную присягу или церковное благословение, но и заявлять, что выражает волю сословий своего королевства. Советники Филиппа, юристы, воспитанные на возрождённом римском праве, использовали заявление собрания, чтобы обосновать независимость короны от папской власти, — прецедент, определивший французскую конституционную мысль на века вперёд, хотя сами Генеральные штаты впредь созывались лишь нерегулярно.",
+      "latitude": 48.853,
+      "longitude": 2.3499,
+      "source": "https://en.wikipedia.org/wiki/Estates_General_(France)",
+      "tags": [
+        "Capetian",
+        "Political",
+        "Papacy",
+        "Historic"
+      ]
+    },
+    {
+      "date": "07.09.1303",
+      "era": "AD",
+      "type": "political",
+      "name": "The Outrage of Anagni — Philip IV's Agents Seize Pope Boniface VIII",
+      "name_ru": "Ананьинское оскорбление — люди Филиппа IV захватывают папу Бонифация VIII",
+      "description": "After Boniface VIII issued the bull Unam Sanctam declaring that all temporal power must submit to the papacy, Philip IV sent his chief minister Guillaume de Nogaret to Italy with orders to bring the pope back to France to face trial before a general council on charges of heresy and simony. Nogaret joined forces with Sciarra Colonna, head of a Roman noble family with its own grudge against Boniface, and the two led an armed band into Anagni, the pope's hometown, and stormed the papal palace.\n\nBoniface, in his eighties, refused to resign and reportedly dared his captors to kill him rather than submit, and though the townspeople of Anagni drove the attackers out after three days, the elderly pope never recovered from the shock of being physically seized in his own residence. He died in Rome a month later, and the episode marked the first time in centuries a king had used direct force against a reigning pope; it broke the papacy's ability to check royal power in France and opened the path to a papal court that would soon relocate to Avignon under French influence.",
+      "description_ru": "После того как Бонифаций VIII издал буллу Unam Sanctam, провозгласившую подчинение всякой светской власти папству, Филипп IV направил в Италию своего главного советника Гийома де Ногаре с приказом доставить папу во Францию на суд перед вселенским собором по обвинению в ереси и симонии. Ногаре объединился со Скьяррой Колонна, главой римского знатного рода, имевшего собственные счёты с Бонифацием, и оба во главе вооружённого отряда ворвались в Ананьи, родной город папы, и взяли штурмом папский дворец.\n\nВосьмидесятилетний Бонифаций отказался отречься от престола и, по преданию, предложил похитителям убить его, но не заставить подчиниться, и хотя жители Ананьи через три дня изгнали нападавших, престарелый папа так и не оправился от потрясения, пережитого при физическом захвате в собственной резиденции. Он умер в Риме месяц спустя, и этот эпизод стал первым за много веков случаем, когда король применил прямое насилие против правящего папы; он подорвал способность папства сдерживать королевскую власть во Франции и открыл путь к переносу папского двора в Авиньон под французским влиянием.",
+      "latitude": 41.7453,
+      "longitude": 13.1519,
+      "source": "https://en.wikipedia.org/wiki/Pope_Boniface_VIII",
+      "tags": [
+        "Capetian",
+        "Political",
+        "Papacy",
+        "Historic"
+      ]
+    },
+    {
+      "date": "22.07.1306",
+      "era": "AD",
+      "type": "political",
+      "name": "Philip IV Expels the Jews from France",
+      "name_ru": "Филипп IV изгоняет евреев из Франции",
+      "description": "Philip IV, whose wars and building projects had left the crown chronically short of money, ordered the arrest of every Jew in the kingdom on a single day, the confiscation of their property, and their expulsion from France within a month, following the same playbook he had already used against the Lombard bankers and would soon turn against the Knights Templar. Royal officials seized outstanding debts owed to Jewish moneylenders for the crown's own benefit, canceling a portion owed by Christian debtors while keeping the rest, and sold confiscated houses, synagogues, and cemeteries to fund the royal treasury.\n\nAn estimated hundred thousand people were forced to leave with little more than they could carry, most resettling in the Holy Roman Empire, the Iberian kingdoms, or the Comtat Venaissin around Avignon, which remained under direct papal rather than French rule. The expulsion proved less permanent than Philip intended — his son Louis X recalled Jewish communities to France in 1315 to help refill an emptied treasury — but it established a pattern of financially motivated expulsion, confiscation, and recall that recurred in France through the rest of the fourteenth century.",
+      "description_ru": "Филипп IV, чья казна была хронически истощена войнами и строительными проектами, приказал в один день арестовать всех евреев королевства, конфисковать их имущество и в течение месяца изгнать их из Франции, повторив тот же приём, что уже применил против ломбардских банкиров и вскоре обратит против тамплиеров. Королевские чиновники взыскивали в пользу короны долги перед еврейскими ростовщиками, списывая часть долга христианским должникам, а остальное удерживая себе, и продавали конфискованные дома, синагоги и кладбища для пополнения королевской казны.\n\nПо оценкам, около ста тысяч человек были вынуждены уйти, унося с собой немногим больше того, что могли унести на себе, — большинство расселилось в Священной Римской империи, на Пиренейском полуострове или в Конта-Венессен вокруг Авиньона, остававшемся под прямой властью папы, а не Франции. Изгнание оказалось менее окончательным, чем задумывал Филипп: его сын Людовик X вернул еврейские общины во Францию в 1315 году, чтобы пополнить опустевшую казну, — но оно установило образец продиктованных финансовой выгодой изгнаний, конфискаций и возвращений, повторявшийся во Франции на протяжении всего четырнадцатого века.",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "source": "https://en.wikipedia.org/wiki/History_of_the_Jews_in_France",
+      "tags": [
+        "Capetian",
+        "Political",
+        "Religious",
+        "Historic"
+      ]
+    },
+    {
+      "date": "13.10.1307",
+      "era": "AD",
+      "type": "political",
+      "name": "Philip IV Orders the Mass Arrest of the Knights Templar",
+      "name_ru": "Филипп IV приказывает массово арестовать тамплиеров",
+      "description": "At dawn, royal officials across France simultaneously arrested every Knight Templar they could find, acting on sealed orders Philip IV had distributed weeks earlier and opened only the night before, so that no branch of the order could warn another. The Templars, a military-religious order that had guarded pilgrims and pilgrimage routes to Jerusalem for nearly two centuries, had become one of medieval Europe's largest financial institutions, holding deposits and extending credit to kings including Philip himself, who owed the order substantial debts.\n\nUnder torture, many Templars confessed to charges invented largely by Philip's ministers — spitting on the cross, idol worship, forbidden initiation rites — confessions that were later retracted by knights who insisted on their innocence once away from the torturers, though some retractions cost the confessors their lives as relapsed heretics. Pope Clement V, dependent on Philip's protection and unwilling to confront him directly, dissolved the order at the Council of Vienne in 1312 rather than fully exonerating it, and Philip absorbed much of the order's French property into the crown's own hands or those of the rival Knights Hospitaller.",
+      "description_ru": "На рассвете королевские чиновники по всей Франции одновременно арестовали всех рыцарей-тамплиеров, каких смогли найти, действуя по запечатанным приказам, разосланным Филиппом IV за несколько недель и вскрытым лишь накануне вечером, чтобы ни одно отделение ордена не успело предупредить другое. Тамплиеры, военно-религиозный орден, почти два века охранявший паломников и пути паломничества в Иерусалим, превратились в одно из крупнейших финансовых учреждений средневековой Европы, принимая вклады и предоставляя кредиты королям, в том числе самому Филиппу, задолжавшему ордену значительные суммы.\n\nПод пытками многие тамплиеры признавались в обвинениях, изобретённых по большей части министрами Филиппа, — плевках на распятие, поклонении идолам, запретных обрядах посвящения, — признаниях, которые рыцари позднее отзывали, оказавшись вне рук палачей, хотя некоторым отказ от признания стоил жизни как «впавшим в ересь повторно». Папа Климент V, зависевший от покровительства Филиппа и не желавший открытого противостояния с ним, распустил орден на Вьеннском соборе 1312 года, так и не оправдав его полностью, а Филипп присвоил бóльшую часть французского имущества ордена короне или передал его соперничавшим госпитальерам.",
+      "latitude": 48.8606,
+      "longitude": 2.3623,
+      "source": "https://en.wikipedia.org/wiki/Knights_Templar",
+      "tags": [
+        "Capetian",
+        "Political",
+        "Religious",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.1309",
+      "era": "AD",
+      "type": "religious",
+      "name": "Clement V Moves the Papal Court to Avignon",
+      "name_ru": "Климент V переносит папский двор в Авиньон",
+      "description": "After the disastrous confrontation between Boniface VIII and Philip IV left the papacy weakened and the Roman nobility's own feuding made the city dangerous for any pope, the French-born archbishop of Bordeaux was elected Pope Clement V in 1305 through a conclave that Philip IV's influence had helped deadlock in his favor. Clement never set foot in Rome during his pontificate, moving instead through French and Provençal cities before settling the papal court permanently at Avignon, a city that, though not yet French territory itself, sat directly on France's southeastern border and well within the French crown's political orbit.\n\nThe move gave Philip IV effective leverage over the papacy at exactly the moment he needed it, securing Clement's cooperation in dissolving the Knights Templar and in posthumously absolving Guillaume de Nogaret for the attack on Boniface VIII at Anagni. Later popes built an enormous fortified palace at Avignon and stayed there for nearly seventy years, a period contemporaries and later historians alike called the papacy's 'Babylonian captivity' — an era during which the bishop of Rome governed the universal Church from French soil, widely perceived across Christian Europe as subordinate to French royal interests.",
+      "description_ru": "После того как катастрофическое столкновение Бонифация VIII с Филиппом IV ослабило папство, а собственные распри римской знати сделали город опасным для любого папы, французский по происхождению архиепископ Бордоский был избран папой Климентом V в 1305 году на конклаве, исход которого во многом определило влияние Филиппа IV, помогшего вывести собрание из тупика в его пользу. Климент за весь свой понтификат так и не ступил в Рим, переезжая по французским и провансальским городам, пока не обосновал папский двор окончательно в Авиньоне — городе, хотя формально ещё не французском, но лежавшем прямо на юго-восточной границе Франции и полностью в орбите французской короны.\n\nЭтот переезд дал Филиппу IV реальные рычаги влияния на папство именно тогда, когда они были ему нужны, обеспечив содействие Климента в роспуске ордена тамплиеров и в посмертном оправдании Гийома де Ногаре за нападение на Бонифация VIII в Ананьи. Позднейшие папы возвели в Авиньоне огромный укреплённый дворец и оставались там почти семьдесят лет — период, который современники и позднейшие историки назвали «Авиньонским пленением» папства: эпоху, когда епископ Римский управлял вселенской Церковью с французской земли, повсеместно воспринимаясь в христианской Европе как подчинённый французским королевским интересам.",
+      "latitude": 43.9493,
+      "longitude": 4.8055,
+      "source": "https://en.wikipedia.org/wiki/Avignon_Papacy",
+      "tags": [
+        "Capetian",
+        "Religious",
+        "Papacy",
+        "Christian",
+        "Historic"
+      ]
+    },
+    {
+      "date": "18.03.1314",
+      "era": "AD",
+      "type": "religious",
+      "name": "Jacques de Molay Is Burned at the Stake in Paris",
+      "name_ru": "Жак де Моле сожжён на костре в Париже",
+      "description": "Jacques de Molay, the last Grand Master of the Knights Templar, had spent seven years in French custody since the mass arrests of 1307, alternately confessing under torture and retracting his confessions when brought before Church tribunals. A papal commission sentenced him and the order's other senior officers to life imprisonment rather than death, but when de Molay stood before Notre-Dame to hear the sentence read publicly, he suddenly retracted his confession one final time, declaring the Templars innocent and the charges against them fabricated.\n\nPhilip IV, furious at the public defiance, had de Molay and Geoffroi de Charney condemned as relapsed heretics that same evening without further trial and burned at the stake on a small island in the Seine near the royal palace. Chroniclers later claimed de Molay cursed Philip IV and Pope Clement V from the flames, summoning them to face divine judgment within the year — a story that gained enormous currency after both men did, in fact, die within twelve months of the execution, cementing the Templars' suppression as one of the medieval monarchy's most notorious acts.",
+      "description_ru": "Жак де Моле, последний великий магистр тамплиеров, провёл семь лет под французской стражей после массовых арестов 1307 года, то признаваясь под пытками, то отзывая признания перед церковными трибуналами. Папская комиссия приговорила его и других высших чинов ордена к пожизненному заключению, а не к смерти, но когда де Моле вывели к Нотр-Даму для публичного оглашения приговора, он неожиданно в последний раз отказался от своего признания, объявив тамплиеров невиновными, а обвинения против них — вымышленными.\n\nРазгневанный публичным неповиновением, Филипп IV в тот же вечер без дальнейшего суда осудил де Моле и Жоффруа де Шарне как повторно впавших в ересь и приказал сжечь их на костре на небольшом острове на Сене неподалёку от королевского дворца. Хронисты позднее утверждали, что де Моле из пламени проклял Филиппа IV и папу Климента V, призвав их предстать перед Божьим судом в течение года, — история, приобретшая огромную известность после того, как оба действительно умерли в течение двенадцати месяцев после казни, закрепив за разгромом тамплиеров славу одного из самых зловещих деяний французской монархии.",
+      "latitude": 48.8534,
+      "longitude": 2.3489,
+      "source": "https://en.wikipedia.org/wiki/Jacques_de_Molay",
+      "tags": [
+        "Capetian",
+        "Religious",
+        "Death",
+        "Historic"
+      ]
+    },
+    {
+      "date": "29.05.1328",
+      "era": "AD",
+      "type": "political",
+      "name": "Philip VI Crowned — the Direct Capetian Line Ends",
+      "name_ru": "Коронация Филиппа VI — конец прямой капетингской линии",
+      "description": "Charles IV died without a surviving son, the third Capetian king in a row to leave no male heir after three and a half centuries in which the dynasty had produced one without fail, and the closest male claimant by blood was Edward III of England, Charles's nephew through his sister Isabella. French noblemen and lawyers, unwilling to see the crown pass to an English king, invoked an old Frankish legal principle, later called Salic law, holding that succession could not pass through or to a woman, and awarded the throne instead to Charles's cousin, Philip of Valois.\n\nPhilip VI was crowned at Reims in the traditional ceremony of French kings, becoming the first monarch of the House of Valois, a cadet branch of the Capetian family that would rule France for the next two centuries. Edward III initially accepted the decision and even paid homage to Philip for his French territories, but he later revived his claim to the French throne itself, and the dispute over the very succession settled in 1328 became the immediate pretext for the Hundred Years' War.",
+      "description_ru": "Карл IV умер, не оставив выжившего сына, — уже третий подряд капетингский король, не оставивший наследника мужского пола, хотя за три с половиной века династия ни разу не давала сбоя, — и ближайшим претендентом по крови оказался Эдуард III Английский, племянник Карла через его сестру Изабеллу. Французская знать и юристы, не желая видеть корону перешедшей к английскому королю, обратились к старому франкскому правовому принципу, позднее названному Салическим законом, согласно которому наследование не может переходить через женщину или к женщине, и передали трон вместо этого двоюродному брату Карла, Филиппу Валуа.\n\nФилипп VI был коронован в Реймсе по традиционному обряду французских королей, став первым монархом дома Валуа — младшей ветви капетингского рода, которой предстояло править Францией следующие два столетия. Эдуард III поначалу принял это решение и даже принёс Филиппу оммаж за свои французские владения, но позднее возобновил собственные притязания на сам французский престол, — и спор о престолонаследии, решённый в 1328 году, стал непосредственным поводом к Столетней войне.",
+      "latitude": 49.2583,
+      "longitude": 4.0317,
+      "source": "https://en.wikipedia.org/wiki/Philip_VI_of_France",
+      "tags": [
+        "Capetian",
+        "Political",
+        "Dynasty",
+        "Succession",
+        "Historic"
+      ]
+    }
+  ]
+}
