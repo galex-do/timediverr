@@ -3,184 +3,166 @@
   "events": [
     {
       "date": "01.01.1245",
+      "description": "The Golden Horde adopted the Chinese system of identification, carved on metal. A pai za was a plaque—iron, silver, or gold, depending on the owner's rank — that could be presented at any post office to immediately receive fresh horses, food, and overnight accommodations, no questions asked. It served as a travel document, an expense guarantee, and diplomatic credentials all in a single item small enough to be worn on a belt.\n\nThe system worked so well that it was regularly counterfeited and misused by businessmen claiming privileges they weren't entitled to, forcing the khans to constantly combat counterfeit plaques circulating in their own lands.",
+      "description_ru": "Золотая Орда переняла у Китая систему удостоверения личности, вырезанную на металле. Пайцза представляла собой табличку — железную, серебряную или золотую в зависимости от ранга владельца, — которую можно было предъявить на любой почтовой станции, чтобы немедленно получить свежих лошадей, еду и ночлег без лишних вопросов. Она служила одновременно проездным документом, гарантией расходов и дипломатическим удостоверением в одном предмете, достаточно маленьком, чтобы носить его на поясе. \n\nСистема работала настолько хорошо, что её регулярно подделывали и использовали не по праву дельцы, претендовавшие на непричитающиеся им привилегии, вынуждая ханов постоянно бороться с поддельными табличками, ходившими по их собственным землям. ",
       "era": "AD",
-      "latitude": 47.9958,
-      "longitude": 47.3181,
-      "name": "The Golden Tablet That Worked Like a Passport",
-      "name_ru": "Золотая табличка, работавшая как паспорт",
-      "description": "Long before passports existed, the Golden Horde ran an empire-wide identity system carved in metal. A paiza was a tablet, made of iron, silver, or gold depending on the bearer's rank, that its holder could show at any relay station to demand fresh horses, food, and lodging on the spot, no questions asked. It functioned as travel document, expense account, and diplomatic credential in one object small enough to hang from a belt. The system worked so well for legitimate couriers and foreign merchants that it was also, predictably, forged and abused by opportunists claiming privileges they had not earned, forcing the khans to repeatedly crack down on fake tablets circulating through their own territory. It is a detail that undercuts the image of the steppe as lawless: the Horde ran a bureaucratic verification problem that would be instantly familiar to anyone who has ever dealt with counterfeit credentials today.",
-      "description_ru": "Задолго до появления паспортов Золотая Орда управляла общеимперской системой удостоверения личности, вырезанной на металле. Пайцза представляла собой табличку — железную, серебряную или золотую в зависимости от ранга владельца, — которую можно было предъявить на любой почтовой станции, чтобы немедленно получить свежих лошадей, еду и ночлег без лишних вопросов. Она служила одновременно проездным документом, гарантией расходов и дипломатическим удостоверением в одном предмете, достаточно маленьком, чтобы носить его на поясе. Система работала настолько хорошо для законных гонцов и иностранных купцов, что её, разумеется, тоже подделывали и использовали не по праву дельцы, претендовавшие на непричитающиеся им привилегии, вынуждая ханов постоянно бороться с поддельными табличками, ходившими по их собственным землям. Эта деталь разрушает образ степи как царства беззакония: Орда сталкивалась с проблемой проверки подлинности документов, мгновенно узнаваемой для всех, кто хоть раз имел дело с поддельными удостоверениями сегодня.",
+      "latitude": 47.20726814,
+      "longitude": 102.84087181,
+      "name": "Paitsza as a Mongolian passport",
+      "name_ru": "Пайцза как монгольский паспорт",
       "source": "https://en.wikipedia.org/wiki/Paiza",
       "tags": [
-        "Golden Horde",
-        "Mongolian",
-        "Administration",
-        "Culture",
-        "Sarai"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.1253",
-      "era": "AD",
-      "latitude": 47.9958,
-      "longitude": 47.3181,
-      "name": "The Friar Who Filed the First Field Report on Asia",
-      "name_ru": "Монах, составивший первый полевой отчёт об Азии",
-      "description": "In 1253, a Flemish Franciscan friar named William of Rubruck set out from Constantinople, funded by King Louis IX of France, on a journey that took him through the Golden Horde's territory and across the entire Mongol Empire to the Great Khan's court at Karakorum. What makes his trip remarkable is not the distance but the method: Rubruck traveled as an ordinary, unarmed missionary relying on Mongol hospitality and relay infrastructure, and returned home to write the Itinerarium, a detailed, skeptical, first-hand account of Mongol customs, diet, religion, and government decades before Marco Polo made the same journey more famous. Rubruck's report is now considered more geographically precise and less embellished than Polo's. History gave the fame to the merchant who came after him, while the friar who actually did the harder, earlier work of description was left as a footnote read mainly by specialists.",
-      "description_ru": "В 1253 году фламандский монах-францисканец Виллем де Рубрук отправился из Константинополя на средства французского короля Людовика IX в путешествие, которое провело его через земли Золотой Орды и через всю Монгольскую империю ко двору великого хана в Каракоруме. Примечательно в этой поездке не расстояние, а сам метод: Рубрук путешествовал как обычный безоружный миссионер, полагаясь на монгольское гостеприимство и почтовую инфраструктуру, а по возвращении написал «Путешествие» — подробный, скептический отчёт очевидца о монгольских обычаях, еде, религии и устройстве власти, составленный за десятилетия до того, как тот же путь прославил Марко Поло. Отчёт Рубрука сегодня считается более точным географически и менее приукрашенным, чем записки Поло. Слава досталась купцу, прошедшему этим путём позже, а монах, проделавший более раннюю и трудную работу описания, остался лишь сноской, которую читают в основном специалисты.",
-      "source": "https://en.wikipedia.org/wiki/William_of_Rubruck",
-      "tags": [
+        "Chinese",
         "Golden Horde",
         "Mongolian",
         "Culture",
-        "Trade",
-        "Sarai"
+        "Administration"
       ],
       "type": "cultural"
     },
     {
       "date": "01.01.1261",
+      "description": "In 1261, the Mongol khans of the Golden Horde personally permitted the establishment of a Russian Orthodox diocese right in their capital, Sarai, and exempted the clergy from tribute and military service. The rationale was not religious tolerance, but rather the accounting of the sacred: Mongol religious policy proceeded from the premise that any god, priest, or prayer could be backed by real power, and therefore it was worth securing the blessing of all faiths—including the church, whose flock the khans mercilessly imposed tribute on.\n\nTwo centuries later, the same protected and wealthy church would bless the princes who rose up against the Horde—meaning that the empire that had ruled Russia for centuries had, for much of that time, quietly financed the institution that helped end its own power.",
+      "description_ru": "В 1261 году монгольские ханы Золотой Орды лично разрешили учредить русскую православную епархию прямо в собственной столице, Сарае, и освободили духовенство от дани и воинской повинности. Логика была не в веротерпимости, а в бухгалтерии священного: монгольская религиозная политика исходила из того, что за любым богом, жрецом и молитвой может стоять реальная сила, а значит, стоило заручиться благословением всех вер — включая церковь, чью паству ханы при этом безжалостно облагали данью. \n\nСпустя два века та же самая защищённая и разбогатевшая церковь благословит князей, поднявшихся против Орды, — а значит, империя, века правившая Русью, немалую часть этого времени незаметно финансировала институт, который помог положить конец её же власти.",
       "era": "AD",
-      "latitude": 47.9958,
-      "longitude": 47.3181,
-      "name": "The Church the Conquerors Paid For",
-      "name_ru": "Церковь, которую содержали завоеватели",
-      "description": "Here is a fact that resists the usual picture of a barbarian horde: in 1261, the Mongol khans of the Golden Horde personally authorized a Russian Orthodox bishopric inside their own capital, Sarai, and granted its clergy exemption from tribute and conscription. The logic was not tolerance in the modern sense but bookkeeping of the sacred: Mongol religious policy assumed every god, priest, and prayer might carry real power, so every faith's blessings were worth collecting, including those of a church whose flock the khans otherwise taxed without mercy. The Sarai eparchy grew wealthy and secure precisely because its conquerors feared offending whatever it was praying to. Two centuries later, that same protected, enriched Church would bless the princes who finally rose against the Horde — which means the empire that ruled Rus for 240 years spent much of that time quietly funding the institution that helped end its rule.",
-      "description_ru": "Вот факт, который не вписывается в привычный образ дикой орды: в 1261 году монгольские ханы Золотой Орды лично разрешили учредить русскую православную епархию прямо в собственной столице, Сарае, и освободили её духовенство от дани и воинской повинности. Логика была не в веротерпимости в современном смысле, а в бухгалтерии священного: монгольская религиозная политика исходила из того, что за любым богом, жрецом и молитвой может стоять реальная сила, а значит, стоило заручиться благословением всех вер — включая церковь, чью паству ханы при этом безжалостно облагали данью. Сарайская епархия богатела и чувствовала себя в безопасности именно потому, что завоеватели боялись оскорбить неведомо кого своим пренебрежением. Спустя два века та же самая защищённая и разбогатевшая церковь благословит князей, поднявшихся против Орды, — а значит, империя, правившая Русью 240 лет, немалую часть этого времени незаметно финансировала институт, который помог положить конец её же власти.",
+      "latitude": 47.23816056,
+      "longitude": 47.37414122,
+      "name": "Russian Orthodox Diocese in the Golden Horde",
+      "name_ru": "Русская православная епархия в Золотой орде",
       "source": "https://en.wikipedia.org/wiki/Golden_Horde",
       "tags": [
+        "Slavic",
         "Golden Horde",
         "Mongolian",
         "Rus",
         "Religious",
-        "Sarai"
+        "Orthodox"
       ],
       "type": "religious"
     },
     {
       "date": "01.09.1262",
+      "description": "Baybars was born in the Kipchak steppe, the same territory the Golden Horde ruled, and was sold into slavery as a young man before rising through the ranks of Egypt's slave-soldier caste to become Mamluk Sultan in 1260. Two years later, Khan Berke of the Golden Horde, the first Mongol ruler to convert to Islam, went to war against his own cousin Hulagu's Ilkhanate in Persia and formed a lasting alliance with Baybars' Egypt against them. The alliance meant a state built partly on human trafficking out of the steppe was now the diplomatic partner of the very sultan that same trade had once supplied, bound together not by blood but by a shared religion overriding shared ancestry. It marked the first open war between two Mongol-ruled states, proving that Genghis Khan's empire was already less a single family than a set of rivals who happened to share a surname.",
+      "description_ru": "Бейбарс родился в кипчакской степи — на той самой территории, которой правила Золотая Орда, — и в юности был продан в рабство, прежде чем дослужиться в египетской касте воинов-рабов до титула мамлюкского султана в 1260 году. Два года спустя хан Берке, первый монгольский правитель, принявший ислам, начал войну против государства собственного двоюродного брата Хулагу — иранского Ильханата — и заключил прочный союз с Египтом Бейбарса против него. Этот союз означал, что государство, отчасти построенное на работорговле из той же степи, стало дипломатическим партнёром именно того султана, которого некогда снабжала эта же торговля, — их связывала не кровь, а общая вера, перевесившая общее происхождение. Это был первый открытый военный конфликт между двумя монгольскими государствами, доказавший, что империя Чингисхана уже давно была не единой семьёй, а набором соперников, которых объединяла разве что общая фамилия.",
       "era": "AD",
       "latitude": 43.3,
       "longitude": 44.7,
       "name": "The Slave Who Became Sultan, and the Horde That Called Him Ally",
       "name_ru": "Раб, ставший султаном, и Орда, назвавшая его союзником",
-      "description": "Baybars was born in the Kipchak steppe, the same territory the Golden Horde ruled, and was sold into slavery as a young man before rising through the ranks of Egypt's slave-soldier caste to become Mamluk Sultan in 1260. Two years later, Khan Berke of the Golden Horde, the first Mongol ruler to convert to Islam, went to war against his own cousin Hulagu's Ilkhanate in Persia and formed a lasting alliance with Baybars' Egypt against them. The alliance meant a state built partly on human trafficking out of the steppe was now the diplomatic partner of the very sultan that same trade had once supplied, bound together not by blood but by a shared religion overriding shared ancestry. It marked the first open war between two Mongol-ruled states, proving that Genghis Khan's empire was already less a single family than a set of rivals who happened to share a surname.",
-      "description_ru": "Бейбарс родился в кипчакской степи — на той самой территории, которой правила Золотая Орда, — и в юности был продан в рабство, прежде чем дослужиться в египетской касте воинов-рабов до титула мамлюкского султана в 1260 году. Два года спустя хан Берке, первый монгольский правитель, принявший ислам, начал войну против государства собственного двоюродного брата Хулагу — иранского Ильханата — и заключил прочный союз с Египтом Бейбарса против него. Этот союз означал, что государство, отчасти построенное на работорговле из той же степи, стало дипломатическим партнёром именно того султана, которого некогда снабжала эта же торговля, — их связывала не кровь, а общая вера, перевесившая общее происхождение. Это был первый открытый военный конфликт между двумя монгольскими государствами, доказавший, что империя Чингисхана уже давно была не единой семьёй, а набором соперников, которых объединяла разве что общая фамилия.",
       "source": "https://en.wikipedia.org/wiki/Berke%E2%80%93Hulegu_war",
       "tags": [
         "Golden Horde",
         "Mongolian",
-        "Berke Khan 👑",
+        "Religious",
         "War",
-        "Religious"
+        "Berke Khan 👑"
       ],
       "type": "military"
     },
     {
       "date": "01.01.1287",
+      "description": "Decades before Mamai perfected the trick, a general named Nogai had already discovered how to run the western Golden Horde without ever holding its throne. Based near the Danube, far from the capital at Sarai, Nogai built a personal power base so dominant that he made and unmade at least three khans between the 1280s and 1290s, marrying into the Byzantine imperial family and conducting his own foreign policy as though he were a sovereign in every respect but title. The one thing Mongol law would not grant him was legitimacy, since he was not a direct descendant of Batu's line, and no accumulation of power could substitute for the right bloodline. His eventual defeat and death around 1300 at the hands of Khan Toqta briefly restored central authority, but the precedent he set outlived him. When Mamai rose to the same kind of shadow-rule roughly seventy years later, he was not improvising; he was repeating a proven playbook.",
+      "description_ru": "За десятилетия до того, как Мамай довёл этот приём до совершенства, полководец по имени Ногай уже открыл способ управлять западной частью Золотой Орды, ни разу не заняв её трон. Обосновавшись у Дуная, вдали от столичного Сарая, Ногай выстроил личную власть настолько прочную, что в 1280–1290-х годах возводил на трон и свергал по меньшей мере трёх ханов, породнился с византийской императорской семьёй и вёл собственную внешнюю политику так, будто был сувереном во всём, кроме титула. Единственное, чего монгольский закон не мог ему даровать, — легитимность: он не происходил напрямую от линии Батыя, и никакое накопление власти не могло заменить нужную родословную. Его поражение и гибель около 1300 года от рук хана Тохты ненадолго восстановили центральную власть, но заданный им прецедент пережил его самого. Когда спустя примерно семьдесят лет Мамай пришёл к такому же теневому правлению, он не импровизировал — он повторял уже проверенный сценарий.",
       "era": "AD",
       "latitude": 45.27,
       "longitude": 28.45,
       "name": "The First Man Who Ruled Everything and Owned Nothing",
       "name_ru": "Первый, кто правил всем и не владел ничем",
-      "description": "Decades before Mamai perfected the trick, a general named Nogai had already discovered how to run the western Golden Horde without ever holding its throne. Based near the Danube, far from the capital at Sarai, Nogai built a personal power base so dominant that he made and unmade at least three khans between the 1280s and 1290s, marrying into the Byzantine imperial family and conducting his own foreign policy as though he were a sovereign in every respect but title. The one thing Mongol law would not grant him was legitimacy, since he was not a direct descendant of Batu's line, and no accumulation of power could substitute for the right bloodline. His eventual defeat and death around 1300 at the hands of Khan Toqta briefly restored central authority, but the precedent he set outlived him. When Mamai rose to the same kind of shadow-rule roughly seventy years later, he was not improvising; he was repeating a proven playbook.",
-      "description_ru": "За десятилетия до того, как Мамай довёл этот приём до совершенства, полководец по имени Ногай уже открыл способ управлять западной частью Золотой Орды, ни разу не заняв её трон. Обосновавшись у Дуная, вдали от столичного Сарая, Ногай выстроил личную власть настолько прочную, что в 1280–1290-х годах возводил на трон и свергал по меньшей мере трёх ханов, породнился с византийской императорской семьёй и вёл собственную внешнюю политику так, будто был сувереном во всём, кроме титула. Единственное, чего монгольский закон не мог ему даровать, — легитимность: он не происходил напрямую от линии Батыя, и никакое накопление власти не могло заменить нужную родословную. Его поражение и гибель около 1300 года от рук хана Тохты ненадолго восстановили центральную власть, но заданный им прецедент пережил его самого. Когда спустя примерно семьдесят лет Мамай пришёл к такому же теневому правлению, он не импровизировал — он повторял уже проверенный сценарий.",
       "source": "https://en.wikipedia.org/wiki/Nogai_Khan",
       "tags": [
         "Golden Horde",
         "Mongolian",
-        "Nogai Khan 👑",
+        "Crisis",
         "Political",
-        "Crisis"
+        "Nogai Khan 👑"
       ],
       "type": "political"
     },
     {
       "date": "01.01.1304",
+      "description": "By 1304, the four khanates carved out of Genghis Khan's empire, including the Golden Horde, had spent decades fighting each other over succession and territory, undermining the very idea of a unified Mongol world their grandfathers had built. That year the ruling khans agreed to a general peace, recognizing the Great Khan in China as nominal overlord while accepting the practical independence of each khanate, formally acknowledging what had been true in practice for a generation. It was less reconciliation than an admission of stalemate dressed as diplomacy. The peace held only imperfectly, and localized fighting continued in places, but the gesture mattered: it was the closest the sprawling, feuding descendants of one conqueror ever came to holding a single family meeting, on a scale spanning from Korea to the Volga, to formally agree they would no longer pretend to be one country.",
+      "description_ru": "К 1304 году четыре ханства, на которые распалась империя Чингисхана, включая Золотую Орду, десятилетиями воевали друг с другом за престолонаследие и территории, подрывая саму идею единого монгольского мира, построенного их дедами. В этом году правящие ханы договорились об общем мире, признав великого хана в Китае номинальным сюзереном при сохранении фактической независимости каждого ханства — формально закрепив то, что на практике существовало уже целое поколение. Это было скорее не примирение, а признание тупика, облечённое в форму дипломатии. Мир соблюдался далеко не безупречно, и локальные столкновения продолжались то тут, то там, но сам жест имел значение: это был самый близкий момент, когда разбросанные и враждующие потомки одного завоевателя, на пространстве от Кореи до Волги, собрались на подобие семейного совета, чтобы официально признать — они больше не будут притворяться единой страной.",
       "era": "AD",
       "latitude": 47.9958,
       "longitude": 47.3181,
       "name": "The Family That Stopped Fighting, For a While",
       "name_ru": "Семья, на время прекратившая воевать",
-      "description": "By 1304, the four khanates carved out of Genghis Khan's empire, including the Golden Horde, had spent decades fighting each other over succession and territory, undermining the very idea of a unified Mongol world their grandfathers had built. That year the ruling khans agreed to a general peace, recognizing the Great Khan in China as nominal overlord while accepting the practical independence of each khanate, formally acknowledging what had been true in practice for a generation. It was less reconciliation than an admission of stalemate dressed as diplomacy. The peace held only imperfectly, and localized fighting continued in places, but the gesture mattered: it was the closest the sprawling, feuding descendants of one conqueror ever came to holding a single family meeting, on a scale spanning from Korea to the Volga, to formally agree they would no longer pretend to be one country.",
-      "description_ru": "К 1304 году четыре ханства, на которые распалась империя Чингисхана, включая Золотую Орду, десятилетиями воевали друг с другом за престолонаследие и территории, подрывая саму идею единого монгольского мира, построенного их дедами. В этом году правящие ханы договорились об общем мире, признав великого хана в Китае номинальным сюзереном при сохранении фактической независимости каждого ханства — формально закрепив то, что на практике существовало уже целое поколение. Это было скорее не примирение, а признание тупика, облечённое в форму дипломатии. Мир соблюдался далеко не безупречно, и локальные столкновения продолжались то тут, то там, но сам жест имел значение: это был самый близкий момент, когда разбросанные и враждующие потомки одного завоевателя, на пространстве от Кореи до Волги, собрались на подобие семейного совета, чтобы официально признать — они больше не будут притворяться единой страной.",
       "source": "https://en.wikipedia.org/wiki/Division_of_the_Mongol_Empire",
       "tags": [
         "Golden Horde",
         "Mongolian",
-        "Political",
         "Legacy",
+        "Political",
         "Sarai"
       ],
       "type": "political"
     },
     {
       "date": "22.11.1318",
+      "description": "Under the Horde's yarlyk system, Russian princes had to travel to Sarai in person to have their right to rule renewed by the khan, turning routine administration into a recurring gamble with their lives. Prince Mikhail of Tver did exactly that in 1318, arriving voluntarily to answer accusations pressed by his rival, the prince of Moscow, after a war between their two cities. He was held for weeks, publicly humiliated in a wooden collar, and finally executed on the khan's order, his body reportedly left exposed as a warning. His son later assassinated the Moscow prince responsible in revenge, and was executed for it in turn a decade after that. The story shows the yarlyk system's real cost with unusual clarity: a piece of paper granting the right to govern was only ever as safe as the journey required to renew it, and Mikhail's journey proved fatal.",
+      "description_ru": "По ярлычной системе Орды русские князья были обязаны лично являться в Сарай, чтобы хан подтвердил их право на власть, — рутинная процедура превращалась в постоянную игру со своей жизнью. Именно так поступил тверской князь Михаил в 1318 году, добровольно прибыв, чтобы ответить на обвинения, выдвинутые его соперником, московским князем, после войны между их городами. Его продержали несколько недель, публично унизили в деревянной колодке и в конце концов казнили по приказу хана, а тело, по преданию, оставили непогребённым в назидание. Его сын позднее в отместку убил виновного московского князя, а спустя десятилетие сам был за это казнён. Эта история с необычной ясностью показывает истинную цену ярлычной системы: бумага, дающая право править, была не безопаснее, чем поездка, необходимая для её продления, — а поездка Михаила оказалась смертельной.",
       "era": "AD",
       "latitude": 47.9958,
       "longitude": 47.3181,
       "name": "The Prince Who Walked Into the Lion's Den",
       "name_ru": "Князь, вошедший в логово льва",
-      "description": "Under the Horde's yarlyk system, Russian princes had to travel to Sarai in person to have their right to rule renewed by the khan, turning routine administration into a recurring gamble with their lives. Prince Mikhail of Tver did exactly that in 1318, arriving voluntarily to answer accusations pressed by his rival, the prince of Moscow, after a war between their two cities. He was held for weeks, publicly humiliated in a wooden collar, and finally executed on the khan's order, his body reportedly left exposed as a warning. His son later assassinated the Moscow prince responsible in revenge, and was executed for it in turn a decade after that. The story shows the yarlyk system's real cost with unusual clarity: a piece of paper granting the right to govern was only ever as safe as the journey required to renew it, and Mikhail's journey proved fatal.",
-      "description_ru": "По ярлычной системе Орды русские князья были обязаны лично являться в Сарай, чтобы хан подтвердил их право на власть, — рутинная процедура превращалась в постоянную игру со своей жизнью. Именно так поступил тверской князь Михаил в 1318 году, добровольно прибыв, чтобы ответить на обвинения, выдвинутые его соперником, московским князем, после войны между их городами. Его продержали несколько недель, публично унизили в деревянной колодке и в конце концов казнили по приказу хана, а тело, по преданию, оставили непогребённым в назидание. Его сын позднее в отместку убил виновного московского князя, а спустя десятилетие сам был за это казнён. Эта история с необычной ясностью показывает истинную цену ярлычной системы: бумага, дающая право править, была не безопаснее, чем поездка, необходимая для её продления, — а поездка Михаила оказалась смертельной.",
       "source": "https://en.wikipedia.org/wiki/Mikhail_of_Tver",
       "tags": [
         "Golden Horde",
-        "Rus",
         "Moscow",
-        "Mikhail of Tver 👑",
-        "Crisis"
+        "Rus",
+        "Crisis",
+        "Mikhail of Tver 👑"
       ],
       "type": "political"
     },
     {
       "date": "01.01.1320",
+      "description": "During the reign of the Golden Horde's most powerful khan, Özbeg, an entire ethnic identity was quietly assembling itself around his own name. Linguists still argue over what 'Özbeg' originally meant — a compound of öz ('self') and beg ('lord'), roughly 'one's own master,' or perhaps a name honoring an unrelated Turkic ruler from a century earlier — but the effect is not disputed: the Turkic and Mongol clans loyal to his court began calling themselves Özbeg's people, and the label outlived his khanate by seven centuries. Today it names a country, Uzbekistan, and over 30 million people, almost none of whom trace any direct lineage to the Golden Horde's Volga heartland. It is a strange kind of immortality: a name born from uncertain etymology and one man's personal authority, still printed on passports long after anyone remembers why.",
+      "description_ru": "В правление самого могущественного хана Золотой Орды, Узбека, вокруг его собственного имени незаметно складывалась целая этническая идентичность. Лингвисты до сих пор спорят о первоначальном значении слова «Узбек» — то ли это сочетание öz («сам») и beg («господин»), примерно «сам себе господин», то ли имя в честь другого, не связанного с ним тюркского правителя веком ранее, — но результат бесспорен: тюркские и монгольские кланы, верные его двору, начали называть себя людьми Узбека, и это имя пережило его ханство на семь веков. Сегодня оно называет целую страну, Узбекистан, и более 30 миллионов человек, почти никто из которых не может проследить прямую родословную до волжского центра Золотой Орды. Это странное бессмертие: имя, рождённое из неясной этимологии и личного авторитета одного человека, до сих пор печатается в паспортах спустя долгое время после того, как все забыли, откуда оно взялось.",
       "era": "AD",
       "latitude": 47.9958,
       "longitude": 47.3181,
       "name": "The People Named After a Word That Might Just Mean 'Being Yourself'",
       "name_ru": "Народ, чьё имя, возможно, означает просто «быть собой»",
-      "description": "During the reign of the Golden Horde's most powerful khan, Özbeg, an entire ethnic identity was quietly assembling itself around his own name. Linguists still argue over what 'Özbeg' originally meant — a compound of öz ('self') and beg ('lord'), roughly 'one's own master,' or perhaps a name honoring an unrelated Turkic ruler from a century earlier — but the effect is not disputed: the Turkic and Mongol clans loyal to his court began calling themselves Özbeg's people, and the label outlived his khanate by seven centuries. Today it names a country, Uzbekistan, and over 30 million people, almost none of whom trace any direct lineage to the Golden Horde's Volga heartland. It is a strange kind of immortality: a name born from uncertain etymology and one man's personal authority, still printed on passports long after anyone remembers why.",
-      "description_ru": "В правление самого могущественного хана Золотой Орды, Узбека, вокруг его собственного имени незаметно складывалась целая этническая идентичность. Лингвисты до сих пор спорят о первоначальном значении слова «Узбек» — то ли это сочетание öz («сам») и beg («господин»), примерно «сам себе господин», то ли имя в честь другого, не связанного с ним тюркского правителя веком ранее, — но результат бесспорен: тюркские и монгольские кланы, верные его двору, начали называть себя людьми Узбека, и это имя пережило его ханство на семь веков. Сегодня оно называет целую страну, Узбекистан, и более 30 миллионов человек, почти никто из которых не может проследить прямую родословную до волжского центра Золотой Орды. Это странное бессмертие: имя, рождённое из неясной этимологии и личного авторитета одного человека, до сих пор печатается в паспортах спустя долгое время после того, как все забыли, откуда оно взялось.",
       "source": "https://en.wikipedia.org/wiki/Uzbeks",
       "tags": [
         "Golden Horde",
         "Mongolian",
         "Culture",
-        "Özbeg Khan 👑",
-        "Legacy"
+        "Legacy",
+        "Özbeg Khan 👑"
       ],
       "type": "cultural"
     },
     {
       "date": "01.01.1327",
+      "description": "In 1327 the city of Tver rose up and slaughtered the Horde's tax officials; Khan Uzbeg's response was to send a punitive army south — led not by Mongols, but by the neighboring Russian prince Ivan of Moscow, who helped burn his rival city to the ground. His reward was extraordinary: the khan granted him the right to collect tribute from every Russian principality on the Horde's behalf, a monopoly so lucrative that his contemporaries nicknamed him Kalita, 'Moneybag.' Rather than skim quietly, Ivan used the surplus, and the authority that came with being the khan's trusted collector, to buy land, titles, and influence from weaker princes. Moscow's rise to dominance over Rus, one of medieval Europe's great success stories, began not with a battle won against its Mongol overlords, but with a tax contract signed in their service.",
+      "description_ru": "В 1327 году Тверь восстала и перебила ордынских сборщиков дани; ответом хана Узбека стала карательная армия, отправленная на юг, — которую возглавили не монголы, а соседний русский князь Иван Московский, помогавший сжигать город-соперник дотла. Награда была впечатляющей: хан даровал ему право собирать дань со всех русских княжеств от имени Орды — монополию настолько прибыльную, что современники прозвали его Калитой, «Денежным мешком». Вместо того чтобы просто тихо утаивать часть сборов, Иван использовал излишек и авторитет доверенного ханского сборщика, чтобы скупать земли, титулы и влияние у более слабых князей. Возвышение Москвы над Русью — одна из великих историй успеха средневековой Европы — началось не с победы над монгольскими владыками, а с налогового контракта, подписанного у них на службе.",
       "era": "AD",
       "latitude": 55.7522,
       "longitude": 37.6156,
       "name": "Moneybags: The Prince Who Got Rich Collecting Someone Else's Taxes",
       "name_ru": "Калита: князь, разбогатевший на сборе чужих налогов",
-      "description": "In 1327 the city of Tver rose up and slaughtered the Horde's tax officials; Khan Uzbeg's response was to send a punitive army south — led not by Mongols, but by the neighboring Russian prince Ivan of Moscow, who helped burn his rival city to the ground. His reward was extraordinary: the khan granted him the right to collect tribute from every Russian principality on the Horde's behalf, a monopoly so lucrative that his contemporaries nicknamed him Kalita, 'Moneybag.' Rather than skim quietly, Ivan used the surplus, and the authority that came with being the khan's trusted collector, to buy land, titles, and influence from weaker princes. Moscow's rise to dominance over Rus, one of medieval Europe's great success stories, began not with a battle won against its Mongol overlords, but with a tax contract signed in their service.",
-      "description_ru": "В 1327 году Тверь восстала и перебила ордынских сборщиков дани; ответом хана Узбека стала карательная армия, отправленная на юг, — которую возглавили не монголы, а соседний русский князь Иван Московский, помогавший сжигать город-соперник дотла. Награда была впечатляющей: хан даровал ему право собирать дань со всех русских княжеств от имени Орды — монополию настолько прибыльную, что современники прозвали его Калитой, «Денежным мешком». Вместо того чтобы просто тихо утаивать часть сборов, Иван использовал излишек и авторитет доверенного ханского сборщика, чтобы скупать земли, титулы и влияние у более слабых князей. Возвышение Москвы над Русью — одна из великих историй успеха средневековой Европы — началось не с победы над монгольскими владыками, а с налогового контракта, подписанного у них на службе.",
       "source": "https://en.wikipedia.org/wiki/Ivan_I_of_Moscow",
       "tags": [
         "Golden Horde",
         "Moscow",
         "Rus",
-        "Ivan Kalita 👑",
-        "Political"
+        "Political",
+        "Ivan Kalita 👑"
       ],
       "type": "political"
     },
     {
       "date": "01.01.1330",
+      "description": "It is tempting to imagine the 'Golden Horde' as a self-description — a proud, glittering empire calling itself golden. The reality is more bureaucratic and, once explained, almost funnier: the Mongols organized their world into color-coded compass directions, where white meant west, blue meant east, and gold marked the imperial center, the seat of supreme authority, reportedly reflected in an actual gold-colored tent belonging to the khan. Russian chroniclers translated this administrative color code as Zolotaya Orda, 'Golden Horde,' and later European historians simply carried the phrase over. The people who lived under this empire never called themselves that; they called their state the Ulugh Ulus, the 'Great State.' The name history remembers best turns out to be a foreign translation of an internal filing system — proof that even empires can be immortalized by their own paperwork.",
+      "description_ru": "Так и тянет вообразить «Золотую Орду» как самоназвание — гордую, сверкающую империю, называющую саму себя золотой. Реальность оказывается куда более бюрократической и, если разобраться, почти забавной: монголы делили мир на цветовые обозначения сторон света, где белый означал запад, синий — восток, а золотой отмечал имперский центр, средоточие верховной власти, — что, по преданию, отражалось в настоящем шатре золотого цвета, принадлежавшем хану. Русские летописцы перевели этот административный цветовой код как «Золотая Орда», а позднейшие европейские историки просто позаимствовали это выражение. Люди, жившие в этой империи, никогда так себя не называли — они именовали своё государство «Улуг Улус», «Великое государство». Оказывается, имя, которое лучше всего запомнила история, — это иностранный перевод внутренней системы делопроизводства: доказательство того, что даже империи может обессмертить их собственное канцелярское дело.",
       "era": "AD",
       "latitude": 47.9958,
       "longitude": 47.3181,
       "name": "The Empire Named After the Color of a Tent",
       "name_ru": "Империя, названная в честь цвета шатра",
-      "description": "It is tempting to imagine the 'Golden Horde' as a self-description — a proud, glittering empire calling itself golden. The reality is more bureaucratic and, once explained, almost funnier: the Mongols organized their world into color-coded compass directions, where white meant west, blue meant east, and gold marked the imperial center, the seat of supreme authority, reportedly reflected in an actual gold-colored tent belonging to the khan. Russian chroniclers translated this administrative color code as Zolotaya Orda, 'Golden Horde,' and later European historians simply carried the phrase over. The people who lived under this empire never called themselves that; they called their state the Ulugh Ulus, the 'Great State.' The name history remembers best turns out to be a foreign translation of an internal filing system — proof that even empires can be immortalized by their own paperwork.",
-      "description_ru": "Так и тянет вообразить «Золотую Орду» как самоназвание — гордую, сверкающую империю, называющую саму себя золотой. Реальность оказывается куда более бюрократической и, если разобраться, почти забавной: монголы делили мир на цветовые обозначения сторон света, где белый означал запад, синий — восток, а золотой отмечал имперский центр, средоточие верховной власти, — что, по преданию, отражалось в настоящем шатре золотого цвета, принадлежавшем хану. Русские летописцы перевели этот административный цветовой код как «Золотая Орда», а позднейшие европейские историки просто позаимствовали это выражение. Люди, жившие в этой империи, никогда так себя не называли — они именовали своё государство «Улуг Улус», «Великое государство». Оказывается, имя, которое лучше всего запомнила история, — это иностранный перевод внутренней системы делопроизводства: доказательство того, что даже империи может обессмертить их собственное канцелярское дело.",
       "source": "https://en.wikipedia.org/wiki/Golden_Horde",
       "tags": [
         "Golden Horde",
@@ -193,32 +175,32 @@
     },
     {
       "date": "01.01.1335",
+      "description": "The word 'horde' now suggests a formless, destructive mass, which makes the reality of its namesake capital almost hard to believe: New Sarai, on the lower Volga, held an estimated 75,000 to 100,000 residents at its peak in the 1330s, likely outnumbering Paris and rivaling the largest cities anywhere in Christian Europe. Excavations reveal neighborhoods for Muslims, Nestorian Christians, Russian Orthodox Christians, and pagan Mongols living within the same walls, alongside workshops producing glazed pottery, coinage, and jewelry traded across a network stretching from China to Venice. Genoese and Venetian merchants kept permanent trading posts nearby, treating the khan's court as a serious commercial partner rather than a threat to flee. The empire remembered mainly for conquest built, almost as an afterthought, one of the most cosmopolitan cities of the medieval world — and then let time erase nearly all trace of it.",
+      "description_ru": "Слово «орда» сегодня ассоциируется с бесформенной разрушительной массой, что делает реальность одноимённой столицы почти невероятной: Новый Сарай на нижней Волге в пору расцвета в 1330-х годах насчитывал, по оценкам, от 75 до 100 тысяч жителей — вероятно, больше, чем Париж, и сравнимо с крупнейшими городами христианской Европы. Раскопки обнаруживают кварталы мусульман, несторианских христиан, русских православных и монголов-язычников, живших в пределах одних и тех же стен, а также мастерские, производившие поливную керамику, монеты и украшения, расходившиеся по торговой сети от Китая до Венеции. Генуэзские и венецианские купцы держали здесь постоянные торговые представительства, считая ханский двор серьёзным деловым партнёром, а не угрозой, от которой нужно бежать. Империя, которую помнят в основном за завоевания, почти между делом построила один из самых космополитичных городов средневекового мира — а затем позволила времени стереть о нём почти все следы.",
       "era": "AD",
       "latitude": 47.9958,
       "longitude": 47.3181,
       "name": "A Steppe Capital Bigger Than Paris",
       "name_ru": "Столица в степи, превосходившая Париж",
-      "description": "The word 'horde' now suggests a formless, destructive mass, which makes the reality of its namesake capital almost hard to believe: New Sarai, on the lower Volga, held an estimated 75,000 to 100,000 residents at its peak in the 1330s, likely outnumbering Paris and rivaling the largest cities anywhere in Christian Europe. Excavations reveal neighborhoods for Muslims, Nestorian Christians, Russian Orthodox Christians, and pagan Mongols living within the same walls, alongside workshops producing glazed pottery, coinage, and jewelry traded across a network stretching from China to Venice. Genoese and Venetian merchants kept permanent trading posts nearby, treating the khan's court as a serious commercial partner rather than a threat to flee. The empire remembered mainly for conquest built, almost as an afterthought, one of the most cosmopolitan cities of the medieval world — and then let time erase nearly all trace of it.",
-      "description_ru": "Слово «орда» сегодня ассоциируется с бесформенной разрушительной массой, что делает реальность одноимённой столицы почти невероятной: Новый Сарай на нижней Волге в пору расцвета в 1330-х годах насчитывал, по оценкам, от 75 до 100 тысяч жителей — вероятно, больше, чем Париж, и сравнимо с крупнейшими городами христианской Европы. Раскопки обнаруживают кварталы мусульман, несторианских христиан, русских православных и монголов-язычников, живших в пределах одних и тех же стен, а также мастерские, производившие поливную керамику, монеты и украшения, расходившиеся по торговой сети от Китая до Венеции. Генуэзские и венецианские купцы держали здесь постоянные торговые представительства, считая ханский двор серьёзным деловым партнёром, а не угрозой, от которой нужно бежать. Империя, которую помнят в основном за завоевания, почти между делом построила один из самых космополитичных городов средневекового мира — а затем позволила времени стереть о нём почти все следы.",
       "source": "https://en.wikipedia.org/wiki/Sarai_(city)",
       "tags": [
         "Golden Horde",
         "Mongolian",
-        "Trade",
         "Culture",
+        "Trade",
         "Sarai"
       ],
       "type": "cultural"
     },
     {
       "date": "01.01.1340",
+      "description": "Genghis Khan's grandsons conquered the Kipchak steppe speaking Mongolian; within roughly a century, their own descendants ruling that same steppe were speaking Kipchak Turkic instead. The Golden Horde's Mongol aristocracy was always a small ruling minority governing a vastly larger Turkic-speaking population, and rather than imposing their language on their subjects, the Mongols were gradually absorbed into the culture they had conquered, adopting Kipchak as the administrative and everyday language of court and chancery. By the time the empire fragmented, its successor khanates in Kazan, Crimea, and Central Asia were essentially Turkic states with a thin, fading layer of Mongol royal ancestry at the top. It is one of history's clearer demonstrations that military conquest and cultural conquest are not the same event: an army can occupy a territory in a season, while the territory can quietly occupy the army's grandchildren over a lifetime.",
+      "description_ru": "Внуки Чингисхана завоёвывали кипчакскую степь, говоря по-монгольски; спустя примерно столетие их собственные потомки, правившие той же степью, говорили уже на кипчакском тюркском. Монгольская знать Золотой Орды всегда была немногочисленным правящим меньшинством, управлявшим гораздо более многочисленным тюркоязычным населением, и вместо того чтобы навязать подданным свой язык, монголы постепенно растворились в культуре завоёванных, сделав кипчакский языком двора и канцелярии. К моменту распада империи её ханства-преемники в Казани, Крыму и Средней Азии были по сути тюркскими государствами с истончившимся слоем монгольского царского происхождения наверху. Это одна из самых наглядных исторических демонстраций того, что военное завоевание и культурное завоевание — разные вещи: армия может занять территорию за один сезон, тогда как территория способна незаметно завоевать внуков этой армии за одну человеческую жизнь.",
       "era": "AD",
       "latitude": 47.9958,
       "longitude": 47.3181,
       "name": "The Conquerors Who Forgot Their Own Language",
       "name_ru": "Завоеватели, забывшие собственный язык",
-      "description": "Genghis Khan's grandsons conquered the Kipchak steppe speaking Mongolian; within roughly a century, their own descendants ruling that same steppe were speaking Kipchak Turkic instead. The Golden Horde's Mongol aristocracy was always a small ruling minority governing a vastly larger Turkic-speaking population, and rather than imposing their language on their subjects, the Mongols were gradually absorbed into the culture they had conquered, adopting Kipchak as the administrative and everyday language of court and chancery. By the time the empire fragmented, its successor khanates in Kazan, Crimea, and Central Asia were essentially Turkic states with a thin, fading layer of Mongol royal ancestry at the top. It is one of history's clearer demonstrations that military conquest and cultural conquest are not the same event: an army can occupy a territory in a season, while the territory can quietly occupy the army's grandchildren over a lifetime.",
-      "description_ru": "Внуки Чингисхана завоёвывали кипчакскую степь, говоря по-монгольски; спустя примерно столетие их собственные потомки, правившие той же степью, говорили уже на кипчакском тюркском. Монгольская знать Золотой Орды всегда была немногочисленным правящим меньшинством, управлявшим гораздо более многочисленным тюркоязычным населением, и вместо того чтобы навязать подданным свой язык, монголы постепенно растворились в культуре завоёванных, сделав кипчакский языком двора и канцелярии. К моменту распада империи её ханства-преемники в Казани, Крыму и Средней Азии были по сути тюркскими государствами с истончившимся слоем монгольского царского происхождения наверху. Это одна из самых наглядных исторических демонстраций того, что военное завоевание и культурное завоевание — разные вещи: армия может занять территорию за один сезон, тогда как территория способна незаметно завоевать внуков этой армии за одну человеческую жизнь.",
       "source": "https://en.wikipedia.org/wiki/Kipchaks",
       "tags": [
         "Golden Horde",
@@ -231,13 +213,13 @@
     },
     {
       "date": "01.01.1350",
+      "description": "Some conquests leave ruins; this one left vocabulary so ordinary that no one notices it anymore. The Russian word for money, dengi, comes directly from the Turkic tenge, a coin denomination used across the Golden Horde's Volga territories — meaning that for centuries, every Russian who has ever counted their cash has been quietly speaking Tatar. Stranger still is the word tьма, which today simply means 'darkness' or 'an enormous, uncountable number,' as in the phrase 'a myriad myriad.' It descends from the Mongol military term tümen, a unit of exactly ten thousand soldiers, the largest organized formation on the medieval steppe. A word for a precise, countable army division slowly drifted, over centuries of Russian usage, into a word for something too vast to count at all — as if the language itself remembered how overwhelming ten thousand horsemen once felt, long after anyone remembered why.",
+      "description_ru": "Одни завоевания оставляют после себя руины, а это оставило слова настолько привычные, что их уже никто не замечает. Русское слово «деньги» напрямую происходит от тюркского «тенге» — денежной единицы, использовавшейся на волжских землях Золотой Орды, а значит, века напролёт каждый русский, пересчитывающий наличность, незаметно для себя говорил по-татарски. Ещё удивительнее слово «тьма», сегодня означающее просто «темнота» или «огромное, неисчислимое количество», как в выражении «тьма тьмущая». Оно восходит к монгольскому военному термину «тюмен» — воинскому подразделению ровно в десять тысяч человек, крупнейшему организованному формированию средневековой степи. Слово, обозначавшее точное, исчислимое войсковое подразделение, за века бытования в русском языке постепенно превратилось в обозначение чего-то настолько огромного, что сосчитать невозможно, — как будто сам язык запомнил, насколько ошеломляющими когда-то казались десять тысяч всадников, даже когда все уже забыли почему.",
       "era": "AD",
       "latitude": 47.9958,
       "longitude": 47.3181,
       "name": "Two Words Hiding a Secret Origin",
       "name_ru": "Два слова, скрывающие тайное происхождение",
-      "description": "Some conquests leave ruins; this one left vocabulary so ordinary that no one notices it anymore. The Russian word for money, dengi, comes directly from the Turkic tenge, a coin denomination used across the Golden Horde's Volga territories — meaning that for centuries, every Russian who has ever counted their cash has been quietly speaking Tatar. Stranger still is the word tьма, which today simply means 'darkness' or 'an enormous, uncountable number,' as in the phrase 'a myriad myriad.' It descends from the Mongol military term tümen, a unit of exactly ten thousand soldiers, the largest organized formation on the medieval steppe. A word for a precise, countable army division slowly drifted, over centuries of Russian usage, into a word for something too vast to count at all — as if the language itself remembered how overwhelming ten thousand horsemen once felt, long after anyone remembered why.",
-      "description_ru": "Одни завоевания оставляют после себя руины, а это оставило слова настолько привычные, что их уже никто не замечает. Русское слово «деньги» напрямую происходит от тюркского «тенге» — денежной единицы, использовавшейся на волжских землях Золотой Орды, а значит, века напролёт каждый русский, пересчитывающий наличность, незаметно для себя говорил по-татарски. Ещё удивительнее слово «тьма», сегодня означающее просто «темнота» или «огромное, неисчислимое количество», как в выражении «тьма тьмущая». Оно восходит к монгольскому военному термину «тюмен» — воинскому подразделению ровно в десять тысяч человек, крупнейшему организованному формированию средневековой степи. Слово, обозначавшее точное, исчислимое войсковое подразделение, за века бытования в русском языке постепенно превратилось в обозначение чего-то настолько огромного, что сосчитать невозможно, — как будто сам язык запомнил, насколько ошеломляющими когда-то казались десять тысяч всадников, даже когда все уже забыли почему.",
       "source": "https://en.wiktionary.org/wiki/%D1%82%D1%8C%D0%BC%D0%B0",
       "tags": [
         "Golden Horde",
@@ -250,13 +232,13 @@
     },
     {
       "date": "01.01.1357",
+      "description": "When Taidula, the influential mother of Khan Jani Beg, went blind, the Golden Horde's court reportedly summoned a Russian churchman rather than relying solely on its own physicians: Metropolitan Alexius of Moscow, who traveled to the khan's court and, according to the accounts later celebrated in Russian hagiography, restored her sight through prayer. Whatever actually happened medically, the political effect was concrete and lasting, since a grateful Taidula became a protector of the Russian Orthodox Church's privileges at court for years afterward, at a time when the Church already held valuable tax exemptions the khans had granted it. A conquered people's spiritual authority curing the conqueror's own family became, in effect, a diplomatic asset the Church could spend for decades, a reminder that dependence on the Horde was never a purely one-directional relationship.",
+      "description_ru": "Когда Тайдула, влиятельная мать хана Джанибека, ослепла, ордынский двор, по преданию, обратился не только к собственным лекарям, но и к русскому священнослужителю: митрополит Московский Алексий отправился к ханскому двору и, согласно рассказам, позднее прославленным в русской агиографии, вернул ей зрение молитвой. Что бы ни произошло на самом деле с медицинской точки зрения, политический эффект оказался вполне конкретным и долгим: благодарная Тайдула на годы вперёд стала покровительницей привилегий Русской православной церкви при дворе — в то время, когда церковь уже пользовалась ценными налоговыми льготами, дарованными ей ханами. Духовный авторитет покорённого народа, исцеливший семью самих завоевателей, фактически превратился в дипломатический актив, которым церковь могла пользоваться десятилетиями, — напоминание о том, что зависимость от Орды никогда не была улицей с односторонним движением.",
       "era": "AD",
       "latitude": 47.9958,
       "longitude": 47.3181,
       "name": "The Blind Queen and the Moscow Monk",
       "name_ru": "Слепая ханша и московский монах",
-      "description": "When Taidula, the influential mother of Khan Jani Beg, went blind, the Golden Horde's court reportedly summoned a Russian churchman rather than relying solely on its own physicians: Metropolitan Alexius of Moscow, who traveled to the khan's court and, according to the accounts later celebrated in Russian hagiography, restored her sight through prayer. Whatever actually happened medically, the political effect was concrete and lasting, since a grateful Taidula became a protector of the Russian Orthodox Church's privileges at court for years afterward, at a time when the Church already held valuable tax exemptions the khans had granted it. A conquered people's spiritual authority curing the conqueror's own family became, in effect, a diplomatic asset the Church could spend for decades, a reminder that dependence on the Horde was never a purely one-directional relationship.",
-      "description_ru": "Когда Тайдула, влиятельная мать хана Джанибека, ослепла, ордынский двор, по преданию, обратился не только к собственным лекарям, но и к русскому священнослужителю: митрополит Московский Алексий отправился к ханскому двору и, согласно рассказам, позднее прославленным в русской агиографии, вернул ей зрение молитвой. Что бы ни произошло на самом деле с медицинской точки зрения, политический эффект оказался вполне конкретным и долгим: благодарная Тайдула на годы вперёд стала покровительницей привилегий Русской православной церкви при дворе — в то время, когда церковь уже пользовалась ценными налоговыми льготами, дарованными ей ханами. Духовный авторитет покорённого народа, исцеливший семью самих завоевателей, фактически превратился в дипломатический актив, которым церковь могла пользоваться десятилетиями, — напоминание о том, что зависимость от Орды никогда не была улицей с односторонним движением.",
       "source": "https://en.wikipedia.org/wiki/Alexius,_Metropolitan_of_Kiev",
       "tags": [
         "Golden Horde",
@@ -269,13 +251,13 @@
     },
     {
       "date": "01.01.1360",
+      "description": "Between 1359 and 1381 the Golden Horde went through a period Russian chronicles bluntly called the Zamyatnya, 'the Great Troubles,' during which roughly twenty different men claimed the throne — some ruling for less than a year, several murdered by the next claimant within months of taking power. To put that in perspective: while England spent that same generation debating a single king's fitness to rule, the Horde was cycling through leadership faster than most modern nations change their head of government. The chaos was not a sign of weakness alone; it was a structural problem, since only descendants of Genghis Khan could legally hold the title of khan, which meant ambitious non-royal warlords could seize all the real power in the empire yet never claim the crown itself — a contradiction that would soon produce the most famous kingmaker in Golden Horde history.",
+      "description_ru": "Между 1359 и 1381 годами Золотая Орда пережила период, который русские летописи прямо называли «Великой замятнёй»: за эти два десятилетия трон успели занять примерно двадцать разных претендентов — некоторые правили меньше года, а нескольких убил следующий претендент спустя считаные месяцы после прихода к власти. Для сравнения: пока Англия то же поколение спорила о пригодности одного-единственного короля к правлению, Орда меняла руководство быстрее, чем большинство современных государств меняют главу правительства. Этот хаос был не просто признаком слабости, а структурной проблемой: законно носить титул хана могли только потомки Чингисхана, а значит, честолюбивые полководцы не царской крови могли захватить всю реальную власть в империи, но никогда не могли претендовать на саму корону, — противоречие, которое вскоре породит самого известного «делателя королей» в истории Золотой Орды.",
       "era": "AD",
       "latitude": 47.9958,
       "longitude": 47.3181,
       "name": "Twenty Khans in Twenty Years",
       "name_ru": "Двадцать ханов за двадцать лет",
-      "description": "Between 1359 and 1381 the Golden Horde went through a period Russian chronicles bluntly called the Zamyatnya, 'the Great Troubles,' during which roughly twenty different men claimed the throne — some ruling for less than a year, several murdered by the next claimant within months of taking power. To put that in perspective: while England spent that same generation debating a single king's fitness to rule, the Horde was cycling through leadership faster than most modern nations change their head of government. The chaos was not a sign of weakness alone; it was a structural problem, since only descendants of Genghis Khan could legally hold the title of khan, which meant ambitious non-royal warlords could seize all the real power in the empire yet never claim the crown itself — a contradiction that would soon produce the most famous kingmaker in Golden Horde history.",
-      "description_ru": "Между 1359 и 1381 годами Золотая Орда пережила период, который русские летописи прямо называли «Великой замятнёй»: за эти два десятилетия трон успели занять примерно двадцать разных претендентов — некоторые правили меньше года, а нескольких убил следующий претендент спустя считаные месяцы после прихода к власти. Для сравнения: пока Англия то же поколение спорила о пригодности одного-единственного короля к правлению, Орда меняла руководство быстрее, чем большинство современных государств меняют главу правительства. Этот хаос был не просто признаком слабости, а структурной проблемой: законно носить титул хана могли только потомки Чингисхана, а значит, честолюбивые полководцы не царской крови могли захватить всю реальную власть в империи, но никогда не могли претендовать на саму корону, — противоречие, которое вскоре породит самого известного «делателя королей» в истории Золотой Орды.",
       "source": "https://en.wikipedia.org/wiki/Great_Troubles",
       "tags": [
         "Golden Horde",
@@ -288,184 +270,184 @@
     },
     {
       "date": "01.10.1362",
+      "description": "Eighteen years before Kulikovo, a lesser-known battle at the Blue Waters already showed the Golden Horde could be beaten in open combat, though almost no one outside specialist history remembers it today. In 1362, the Grand Duchy of Lithuania under Grand Duke Algirdas defeated a coalition of Horde commanders, permanently pulling the vast territory of Kiev and much of modern Ukraine out of the Horde's direct control and into Lithuania's expanding orbit. It happened during the Horde's own Great Troubles, while rival khans were busy fighting each other rather than defending the frontier, which meant the empire's internal chaos handed away territory almost as an afterthought. Kulikovo gets remembered as the symbolic turning point because Moscow told that story afterward; Blue Waters, fought by a state with no interest in Russian chronicles, simply happened first and is largely forgotten for exactly that reason.",
+      "description_ru": "За восемнадцать лет до Куликова малоизвестное сражение на Синих Водах уже показало, что Орду можно победить в открытом бою, хотя сегодня об этом помнят разве что специалисты. В 1362 году Великое княжество Литовское под началом великого князя Ольгерда разгромило коалицию ордынских военачальников, навсегда выведя огромную территорию Киева и большей части современной Украины из-под прямого контроля Орды в расширяющуюся орбиту Литвы. Это произошло во время собственной «Великой замятни» Орды, пока соперничающие ханы были заняты войной друг с другом, а не обороной границы, — то есть внутренний хаос империи фактически отдал территорию почти между делом. Куликово запомнилось как символический перелом, потому что впоследствии эту историю рассказывала Москва; Синие Воды, за которыми стояло государство, не заинтересованное в русских летописях, попросту случились раньше и по этой самой причине оказались почти забыты.",
       "era": "AD",
       "latitude": 48.658,
       "longitude": 30.783,
       "name": "The Battle Nobody Remembers That Cracked an Empire",
       "name_ru": "Забытая битва, давшая трещину империи",
-      "description": "Eighteen years before Kulikovo, a lesser-known battle at the Blue Waters already showed the Golden Horde could be beaten in open combat, though almost no one outside specialist history remembers it today. In 1362, the Grand Duchy of Lithuania under Grand Duke Algirdas defeated a coalition of Horde commanders, permanently pulling the vast territory of Kiev and much of modern Ukraine out of the Horde's direct control and into Lithuania's expanding orbit. It happened during the Horde's own Great Troubles, while rival khans were busy fighting each other rather than defending the frontier, which meant the empire's internal chaos handed away territory almost as an afterthought. Kulikovo gets remembered as the symbolic turning point because Moscow told that story afterward; Blue Waters, fought by a state with no interest in Russian chronicles, simply happened first and is largely forgotten for exactly that reason.",
-      "description_ru": "За восемнадцать лет до Куликова малоизвестное сражение на Синих Водах уже показало, что Орду можно победить в открытом бою, хотя сегодня об этом помнят разве что специалисты. В 1362 году Великое княжество Литовское под началом великого князя Ольгерда разгромило коалицию ордынских военачальников, навсегда выведя огромную территорию Киева и большей части современной Украины из-под прямого контроля Орды в расширяющуюся орбиту Литвы. Это произошло во время собственной «Великой замятни» Орды, пока соперничающие ханы были заняты войной друг с другом, а не обороной границы, — то есть внутренний хаос империи фактически отдал территорию почти между делом. Куликово запомнилось как символический перелом, потому что впоследствии эту историю рассказывала Москва; Синие Воды, за которыми стояло государство, не заинтересованное в русских летописях, попросту случились раньше и по этой самой причине оказались почти забыты.",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Blue_Waters",
       "tags": [
         "Golden Horde",
         "Mongolian",
-        "War",
         "Crisis",
+        "War",
         "Political"
       ],
       "type": "military"
     },
     {
       "date": "01.01.1370",
+      "description": "For nearly two decades, the most powerful man in the western Golden Horde was not a khan at all. Mamai, a talented military commander and administrator, was not descended from Genghis Khan, so Mongol law barred him outright from the throne — no army, wealth, or political skill could override that single genealogical fact. His solution was to rule through a rotating series of puppet khans, at least four of whom historians describe as his direct creations, holding real authority as beklerbek, 'lord of lords,' while a rubber-stamp Chinggisid sat on the throne he controlled. It is a peculiar kind of power: total in practice, permanently borrowed in name. Mamai's carefully constructed shadow-rule eventually collided with a rising rival named Tokhtamysh, who did carry the required royal bloodline — a genealogical technicality that would decide the outcome of their war.",
+      "description_ru": "Почти два десятилетия самым влиятельным человеком в западной части Золотой Орды был вовсе не хан. Мамай, талантливый военачальник и администратор, не происходил от Чингисхана, и монгольский закон однозначно закрывал ему путь к трону — ни армия, ни богатство, ни политическое мастерство не могли перевесить этот единственный факт происхождения. Его решением стало правление через череду сменявшихся марионеточных ханов — по меньшей мере четверых из них историки называют его прямыми ставленниками, — при этом реальная власть оставалась у него как у беклербека, «господина господ», пока формальный чингисид восседал на подконтрольном ему троне. Это странный вид власти: всеобъемлющий на практике и навсегда заимствованный по названию. Тщательно выстроенное теневое правление Мамая в итоге столкнулось с набирающим силу соперником по имени Тохтамыш, который как раз и обладал нужной царской кровью, — генеалогическая формальность, решившая исход их войны.",
       "era": "AD",
       "latitude": 45.3453,
       "longitude": 36.4707,
       "name": "The Kingmaker Who Could Never Be King",
       "name_ru": "«Делатель королей», который никогда не мог стать королём",
-      "description": "For nearly two decades, the most powerful man in the western Golden Horde was not a khan at all. Mamai, a talented military commander and administrator, was not descended from Genghis Khan, so Mongol law barred him outright from the throne — no army, wealth, or political skill could override that single genealogical fact. His solution was to rule through a rotating series of puppet khans, at least four of whom historians describe as his direct creations, holding real authority as beklerbek, 'lord of lords,' while a rubber-stamp Chinggisid sat on the throne he controlled. It is a peculiar kind of power: total in practice, permanently borrowed in name. Mamai's carefully constructed shadow-rule eventually collided with a rising rival named Tokhtamysh, who did carry the required royal bloodline — a genealogical technicality that would decide the outcome of their war.",
-      "description_ru": "Почти два десятилетия самым влиятельным человеком в западной части Золотой Орды был вовсе не хан. Мамай, талантливый военачальник и администратор, не происходил от Чингисхана, и монгольский закон однозначно закрывал ему путь к трону — ни армия, ни богатство, ни политическое мастерство не могли перевесить этот единственный факт происхождения. Его решением стало правление через череду сменявшихся марионеточных ханов — по меньшей мере четверых из них историки называют его прямыми ставленниками, — при этом реальная власть оставалась у него как у беклербека, «господина господ», пока формальный чингисид восседал на подконтрольном ему троне. Это странный вид власти: всеобъемлющий на практике и навсегда заимствованный по названию. Тщательно выстроенное теневое правление Мамая в итоге столкнулось с набирающим силу соперником по имени Тохтамыш, который как раз и обладал нужной царской кровью, — генеалогическая формальность, решившая исход их войны.",
       "source": "https://en.wikipedia.org/wiki/Mamai",
       "tags": [
         "Golden Horde",
         "Mongolian",
-        "Mamai 👑",
+        "Crisis",
         "Political",
-        "Crisis"
+        "Mamai 👑"
       ],
       "type": "political"
     },
     {
       "date": "11.08.1378",
+      "description": "Two years before Kulikovo made him famous, Prince Dmitry of Moscow had already beaten a Golden Horde army once, at the Vozha River, in a battle that gets almost no attention next to its celebrated sequel. Mamai, the kingmaker running the western Horde through puppet khans, sent his general Begich to punish Moscow for withholding tribute; Dmitry met the invading force directly, encircled it, and won decisively, killing Begich in the process. It was the first clear field victory by a united Russian army against Horde forces in over a century of vassalage, proving Moscow's growing military confidence well before Kulikovo made that same claim on a larger, better-remembered stage. Mamai's decision to personally lead the far larger invasion that ended at Kulikovo two years later was, in part, a direct response to this earlier defeat: history's famous battle had an unglamorous, half-forgotten dress rehearsal.",
+      "description_ru": "За два года до того, как Куликово прославило московского князя Дмитрия, он уже однажды побеждал войско Золотой Орды — на реке Воже, в битве, о которой почти не вспоминают рядом со знаменитым продолжением. Мамай, «делатель королей», правивший западной Ордой через марионеточных ханов, отправил своего военачальника Бегича наказать Москву за невыплату дани; Дмитрий встретил вторгшееся войско в лоб, окружил его и одержал решительную победу, убив Бегича в бою. Это была первая ясная полевая победа объединённого русского войска над ордынскими силами больше чем за столетие вассальной зависимости — она доказала растущую военную уверенность Москвы задолго до того, как то же самое, но на куда более крупной и памятной сцене, повторит Куликово. Решение Мамая лично возглавить куда более крупное вторжение, закончившееся Куликовом два года спустя, отчасти было прямым ответом на это более раннее поражение: у знаменитой битвы истории была неброская, полузабытая генеральная репетиция.",
       "era": "AD",
       "latitude": 54.717,
       "longitude": 39.444,
       "name": "The Dress Rehearsal Everyone Forgets",
       "name_ru": "Забытая генеральная репетиция",
-      "description": "Two years before Kulikovo made him famous, Prince Dmitry of Moscow had already beaten a Golden Horde army once, at the Vozha River, in a battle that gets almost no attention next to its celebrated sequel. Mamai, the kingmaker running the western Horde through puppet khans, sent his general Begich to punish Moscow for withholding tribute; Dmitry met the invading force directly, encircled it, and won decisively, killing Begich in the process. It was the first clear field victory by a united Russian army against Horde forces in over a century of vassalage, proving Moscow's growing military confidence well before Kulikovo made that same claim on a larger, better-remembered stage. Mamai's decision to personally lead the far larger invasion that ended at Kulikovo two years later was, in part, a direct response to this earlier defeat: history's famous battle had an unglamorous, half-forgotten dress rehearsal.",
-      "description_ru": "За два года до того, как Куликово прославило московского князя Дмитрия, он уже однажды побеждал войско Золотой Орды — на реке Воже, в битве, о которой почти не вспоминают рядом со знаменитым продолжением. Мамай, «делатель королей», правивший западной Ордой через марионеточных ханов, отправил своего военачальника Бегича наказать Москву за невыплату дани; Дмитрий встретил вторгшееся войско в лоб, окружил его и одержал решительную победу, убив Бегича в бою. Это была первая ясная полевая победа объединённого русского войска над ордынскими силами больше чем за столетие вассальной зависимости — она доказала растущую военную уверенность Москвы задолго до того, как то же самое, но на куда более крупной и памятной сцене, повторит Куликово. Решение Мамая лично возглавить куда более крупное вторжение, закончившееся Куликовом два года спустя, отчасти было прямым ответом на это более раннее поражение: у знаменитой битвы истории была неброская, полузабытая генеральная репетиция.",
       "source": "https://en.wikipedia.org/wiki/Battle_of_the_Vozha_River",
       "tags": [
         "Golden Horde",
         "Moscow",
         "Rus",
-        "Mamai 👑",
-        "War"
+        "War",
+        "Mamai 👑"
       ],
       "type": "military"
     },
     {
       "date": "26.08.1382",
+      "description": "Two years after Prince Dmitry of Moscow defeated Mamai at Kulikovo in 1380 — a battle still taught as the moment Rus first stood up to its Mongol overlords — the new, legitimate khan Tokhtamysh marched on Moscow to prove that victory had changed nothing. When the city's defenders refused to surrender, Tokhtamysh's forces reportedly offered safe passage to a delegation of Lithuanian princes inside the walls if the gates were opened; the moment they were, the army poured in, burned the city, and massacred much of its population. Dmitry, the hero of Kulikovo, was away raising troops and returned to ashes. Within months Moscow resumed paying tribute as though the famous battle had never happened. It is the part of the story rarely mentioned alongside Kulikovo: the Mongol yoke did not end in 1380, and would not end for another century.",
+      "description_ru": "Спустя два года после того, как московский князь Дмитрий разгромил Мамая на Куликовом поле в 1380 году — сражении, которое до сих пор преподают как момент, когда Русь впервые дала отпор монгольским владыкам, — новый, законный хан Тохтамыш двинулся на Москву, чтобы доказать: эта победа ничего не изменила. Когда защитники города отказались сдаться, войска Тохтамыша, по преданию, предложили безопасный проход делегации литовских князей внутри стен, если ворота будут открыты; как только это произошло, армия ворвалась в город, сожгла его и перебила значительную часть населения. Дмитрий, герой Куликова, в это время собирал войска и вернулся на пепелище. Уже через несколько месяцев Москва вновь платила дань, как будто знаменитой битвы никогда и не было. Это та часть истории, о которой редко вспоминают рядом с Куликовом: монгольское иго не закончилось в 1380 году и не закончится ещё целый век.",
       "era": "AD",
       "latitude": 55.7522,
       "longitude": 37.6156,
       "name": "The Sack That Undid a Famous Victory",
       "name_ru": "Разгром, перечеркнувший знаменитую победу",
-      "description": "Two years after Prince Dmitry of Moscow defeated Mamai at Kulikovo in 1380 — a battle still taught as the moment Rus first stood up to its Mongol overlords — the new, legitimate khan Tokhtamysh marched on Moscow to prove that victory had changed nothing. When the city's defenders refused to surrender, Tokhtamysh's forces reportedly offered safe passage to a delegation of Lithuanian princes inside the walls if the gates were opened; the moment they were, the army poured in, burned the city, and massacred much of its population. Dmitry, the hero of Kulikovo, was away raising troops and returned to ashes. Within months Moscow resumed paying tribute as though the famous battle had never happened. It is the part of the story rarely mentioned alongside Kulikovo: the Mongol yoke did not end in 1380, and would not end for another century.",
-      "description_ru": "Спустя два года после того, как московский князь Дмитрий разгромил Мамая на Куликовом поле в 1380 году — сражении, которое до сих пор преподают как момент, когда Русь впервые дала отпор монгольским владыкам, — новый, законный хан Тохтамыш двинулся на Москву, чтобы доказать: эта победа ничего не изменила. Когда защитники города отказались сдаться, войска Тохтамыша, по преданию, предложили безопасный проход делегации литовских князей внутри стен, если ворота будут открыты; как только это произошло, армия ворвалась в город, сожгла его и перебила значительную часть населения. Дмитрий, герой Куликова, в это время собирал войска и вернулся на пепелище. Уже через несколько месяцев Москва вновь платила дань, как будто знаменитой битвы никогда и не было. Это та часть истории, о которой редко вспоминают рядом с Куликовом: монгольское иго не закончилось в 1380 году и не закончится ещё целый век.",
       "source": "https://en.wikipedia.org/wiki/Siege_of_Moscow_(1382)",
       "tags": [
         "Golden Horde",
         "Moscow",
         "Rus",
-        "Tokhtamysh 👑",
-        "Crisis"
+        "Crisis",
+        "Tokhtamysh 👑"
       ],
       "type": "military"
     },
     {
       "date": "14.04.1395",
+      "description": "Tokhtamysh owed his throne to Timur, the Central Asian conqueror who had backed his rise against Mamai — and then, once secure, Tokhtamysh turned on his patron and raided Timurid territory, apparently unable to resist testing his new power. Timur's response was not a border skirmish but a systematic dismantling: after crushing Tokhtamysh's army at the Terek River in 1395, his forces marched deep into Golden Horde territory and razed Sarai itself, along with other major trading cities, severing the very trade routes that had made the Horde rich. Timur had no interest in ruling the Volga steppe; he simply wanted his former protégé permanently humbled, and left. The Golden Horde technically survived the war, but its economy and unity did not — within decades it began splitting into smaller khanates, undone less by any single defeat than by one conqueror's determination to settle a personal score thoroughly.",
+      "description_ru": "Тохтамыш был обязан своим троном Тимуру — среднеазиатскому завоевателю, поддержавшему его возвышение против Мамая, — а затем, укрепившись у власти, Тохтамыш обратился против своего покровителя и совершил набег на тимуридские земли, явно не удержавшись от искушения испытать новую силу. Ответом Тимура стала не пограничная стычка, а систематический разгром: разбив армию Тохтамыша на реке Терек в 1395 году, его войска продвинулись вглубь территории Золотой Орды и разрушили сам Сарай вместе с другими крупными торговыми городами, перерезав те самые торговые пути, что некогда обогатили Орду. Тимур не имел никакого интереса управлять волжской степью — он лишь хотел окончательно унизить бывшего протеже и ушёл. Формально Золотая Орда пережила эту войну, но её экономика и единство — нет: спустя несколько десятилетий она начала распадаться на более мелкие ханства, подорванная не столько одним поражением, сколько решимостью одного завоевателя основательно свести личные счёты.",
       "era": "AD",
       "latitude": 43.583,
       "longitude": 47.45,
       "name": "The War Fought Over a Grudge That Broke an Empire",
       "name_ru": "Война из-за личной обиды, сломавшая империю",
-      "description": "Tokhtamysh owed his throne to Timur, the Central Asian conqueror who had backed his rise against Mamai — and then, once secure, Tokhtamysh turned on his patron and raided Timurid territory, apparently unable to resist testing his new power. Timur's response was not a border skirmish but a systematic dismantling: after crushing Tokhtamysh's army at the Terek River in 1395, his forces marched deep into Golden Horde territory and razed Sarai itself, along with other major trading cities, severing the very trade routes that had made the Horde rich. Timur had no interest in ruling the Volga steppe; he simply wanted his former protégé permanently humbled, and left. The Golden Horde technically survived the war, but its economy and unity did not — within decades it began splitting into smaller khanates, undone less by any single defeat than by one conqueror's determination to settle a personal score thoroughly.",
-      "description_ru": "Тохтамыш был обязан своим троном Тимуру — среднеазиатскому завоевателю, поддержавшему его возвышение против Мамая, — а затем, укрепившись у власти, Тохтамыш обратился против своего покровителя и совершил набег на тимуридские земли, явно не удержавшись от искушения испытать новую силу. Ответом Тимура стала не пограничная стычка, а систематический разгром: разбив армию Тохтамыша на реке Терек в 1395 году, его войска продвинулись вглубь территории Золотой Орды и разрушили сам Сарай вместе с другими крупными торговыми городами, перерезав те самые торговые пути, что некогда обогатили Орду. Тимур не имел никакого интереса управлять волжской степью — он лишь хотел окончательно унизить бывшего протеже и ушёл. Формально Золотая Орда пережила эту войну, но её экономика и единство — нет: спустя несколько десятилетий она начала распадаться на более мелкие ханства, подорванная не столько одним поражением, сколько решимостью одного завоевателя основательно свести личные счёты.",
       "source": "https://en.wikipedia.org/wiki/Battle_of_the_Terek_River",
       "tags": [
         "Golden Horde",
         "Mongolian",
-        "Tokhtamysh 👑",
+        "Crisis",
         "War",
-        "Crisis"
+        "Tokhtamysh 👑"
       ],
       "type": "military"
     },
     {
       "date": "01.01.1406",
+      "description": "Tokhtamysh, the khan who sacked Moscow and briefly reunited the Golden Horde before Timur destroyed his armies twice, spent his final decade proving how hard it is to fall from that height gracefully. Driven from the Volga by rival khans backed by his own former ally Edigu, he wandered between Lithuania, the Crimean steppe, and finally Siberia, at one point even managing to seize the small, newly formed Siberian Khanate as a consolation kingdom far from his former capital. It did not save him: in 1406, still hunted by rivals, he was killed near Tyumen, ending the career of a ruler once powerful enough to burn Moscow to the ground and negotiate as an equal with the Lithuanian grand duchy. His fall illustrates a pattern the Horde repeated often in its final century: the same civil wars and rival-khan politics that let ambitious men rise fast also guaranteed no one stayed on top for very long.",
+      "description_ru": "Тохтамыш, хан, разоривший Москву и ненадолго объединивший Золотую Орду прежде, чем Тимур дважды разгромил его войска, провёл последнее десятилетие жизни, доказывая, как трудно падать с такой высоты достойно. Изгнанный с Волги соперничающими ханами, которых поддерживал его же бывший союзник Едигей, он скитался между Литвой, крымской степью и наконец Сибирью, где однажды даже сумел захватить небольшое, только что образовавшееся Сибирское ханство как утешительное владение вдали от прежней столицы. Это его не спасло: в 1406 году, всё ещё преследуемый соперниками, он был убит близ Тюмени, завершив путь правителя, некогда достаточно могущественного, чтобы сжечь Москву дотла и вести переговоры на равных с литовским великим князем. Его падение иллюстрирует закономерность, не раз повторявшуюся в последнем веке существования Орды: те же гражданские войны и борьба ханов-соперников, что позволяли честолюбцам быстро подниматься, гарантировали и то, что никто не удерживался на вершине надолго.",
       "era": "AD",
       "latitude": 57.1522,
       "longitude": 65.5272,
       "name": "The Khan Who Outlived His Own Empire's Trust",
       "name_ru": "Хан, переживший доверие собственной империи",
-      "description": "Tokhtamysh, the khan who sacked Moscow and briefly reunited the Golden Horde before Timur destroyed his armies twice, spent his final decade proving how hard it is to fall from that height gracefully. Driven from the Volga by rival khans backed by his own former ally Edigu, he wandered between Lithuania, the Crimean steppe, and finally Siberia, at one point even managing to seize the small, newly formed Siberian Khanate as a consolation kingdom far from his former capital. It did not save him: in 1406, still hunted by rivals, he was killed near Tyumen, ending the career of a ruler once powerful enough to burn Moscow to the ground and negotiate as an equal with the Lithuanian grand duchy. His fall illustrates a pattern the Horde repeated often in its final century: the same civil wars and rival-khan politics that let ambitious men rise fast also guaranteed no one stayed on top for very long.",
-      "description_ru": "Тохтамыш, хан, разоривший Москву и ненадолго объединивший Золотую Орду прежде, чем Тимур дважды разгромил его войска, провёл последнее десятилетие жизни, доказывая, как трудно падать с такой высоты достойно. Изгнанный с Волги соперничающими ханами, которых поддерживал его же бывший союзник Едигей, он скитался между Литвой, крымской степью и наконец Сибирью, где однажды даже сумел захватить небольшое, только что образовавшееся Сибирское ханство как утешительное владение вдали от прежней столицы. Это его не спасло: в 1406 году, всё ещё преследуемый соперниками, он был убит близ Тюмени, завершив путь правителя, некогда достаточно могущественного, чтобы сжечь Москву дотла и вести переговоры на равных с литовским великим князем. Его падение иллюстрирует закономерность, не раз повторявшуюся в последнем веке существования Орды: те же гражданские войны и борьба ханов-соперников, что позволяли честолюбцам быстро подниматься, гарантировали и то, что никто не удерживался на вершине надолго.",
       "source": "https://en.wikipedia.org/wiki/Tokhtamysh",
       "tags": [
         "Golden Horde",
         "Mongolian",
-        "Tokhtamysh 👑",
         "Crisis",
-        "Political"
+        "Political",
+        "Tokhtamysh 👑"
       ],
       "type": "political"
     },
     {
       "date": "01.01.1441",
+      "description": "Timur's blow in 1395 never fully healed. Over the following half-century the Golden Horde did not collapse in a single dramatic moment but dissolved the way an old rope frays — strand by strand, each one still recognizably part of the whole. The Khanate of Kazan broke away in 1438, controlling the middle Volga; the Crimean Khanate followed around 1441, founded by Hacı I Giray and destined to outlast every other successor state by nearly three centuries; the Khanate of Astrakhan and Siberian Khanate split off soon after, alongside the semi-independent Nogai Horde on the steppe between them. What remained of the original center, clinging to the old capital and the old name, shrank into what historians now simply call the Great Horde — a shadow of an empire, still calling itself great, still collecting what tribute it could, while its own former provinces built new capitals and stopped asking its permission.",
+      "description_ru": "Удар, нанесённый Тимуром в 1395 году, так и не зажил до конца. В последующие полвека Золотая Орда не рухнула в один драматичный момент, а расползлась, как старая верёвка, — прядь за прядью, каждая из которых всё ещё узнаваемо принадлежала целому. В 1438 году отделилось Казанское ханство, взявшее под контроль среднюю Волгу; около 1441 года последовало Крымское ханство, основанное Хаджи I Гераем и которому суждено было пережить все прочие осколки почти на три века; вскоре откололись Астраханское и Сибирское ханства, а между ними на степи возникла полунезависимая Ногайская орда. То, что осталось от прежнего центра — цеплявшееся за старую столицу и старое имя, — сжалось до того, что историки сегодня попросту называют Большой Ордой: тень империи, всё ещё именующая себя великой, всё ещё собирающая какую-то дань, пока её собственные бывшие провинции строили новые столицы и переставали спрашивать её разрешения.",
       "era": "AD",
       "latitude": 44.9521,
       "longitude": 34.1024,
       "name": "One Empire Becomes Five",
       "name_ru": "Одна империя становится пятью",
-      "description": "Timur's blow in 1395 never fully healed. Over the following half-century the Golden Horde did not collapse in a single dramatic moment but dissolved the way an old rope frays — strand by strand, each one still recognizably part of the whole. The Khanate of Kazan broke away in 1438, controlling the middle Volga; the Crimean Khanate followed around 1441, founded by Hacı I Giray and destined to outlast every other successor state by nearly three centuries; the Khanate of Astrakhan and Siberian Khanate split off soon after, alongside the semi-independent Nogai Horde on the steppe between them. What remained of the original center, clinging to the old capital and the old name, shrank into what historians now simply call the Great Horde — a shadow of an empire, still calling itself great, still collecting what tribute it could, while its own former provinces built new capitals and stopped asking its permission.",
-      "description_ru": "Удар, нанесённый Тимуром в 1395 году, так и не зажил до конца. В последующие полвека Золотая Орда не рухнула в один драматичный момент, а расползлась, как старая верёвка, — прядь за прядью, каждая из которых всё ещё узнаваемо принадлежала целому. В 1438 году отделилось Казанское ханство, взявшее под контроль среднюю Волгу; около 1441 года последовало Крымское ханство, основанное Хаджи I Гераем и которому суждено было пережить все прочие осколки почти на три века; вскоре откололись Астраханское и Сибирское ханства, а между ними на степи возникла полунезависимая Ногайская орда. То, что осталось от прежнего центра — цеплявшееся за старую столицу и старое имя, — сжалось до того, что историки сегодня попросту называют Большой Ордой: тень империи, всё ещё именующая себя великой, всё ещё собирающая какую-то дань, пока её собственные бывшие провинции строили новые столицы и переставали спрашивать её разрешения.",
       "source": "https://en.wikipedia.org/wiki/Crimean_Khanate",
       "tags": [
         "Golden Horde",
         "Mongolian",
+        "Political",
         "Crimea",
-        "Fragmentation",
-        "Political"
+        "Fragmentation"
       ],
       "type": "political"
     },
     {
       "date": "01.11.1480",
+      "description": "After 240 years, it is reasonable to expect the end of the Mongol-Tatar yoke over Rus to arrive as a great battle, the mirror image of the invasion that began it. Instead, in the autumn of 1480, the armies of Akhmat Khan of the Great Horde and Grand Prince Ivan III of Moscow simply faced each other across the Ugra River for weeks, exchanging arrow fire and skirmishes but never committing to a full engagement. Winter approached, supplies ran short on both sides, and Ivan reportedly received word of unrest and a threatening ally elsewhere; Akhmat withdrew first, was assassinated by a rival khan months later, and the confrontation that Russian historians would eventually call the 'Great Stand on the Ugra River' quietly became the accepted end date of Mongol domination. An empire's two-and-a-half-century grip on another nation ended not with a decisive clash, but with both sides deciding, separately, to simply go home.",
+      "description_ru": "После 240 лет господства логично было бы ожидать, что конец монголо-татарского ига над Русью наступит в великой битве, зеркально повторяющей нашествие, с которого оно началось. Вместо этого осенью 1480 года войска хана Ахмата из Большой Орды и великого князя московского Ивана III несколько недель просто стояли друг напротив друга на реке Угре, обмениваясь стрельбой и стычками, но так и не решившись на полное сражение. Приближалась зима, у обеих сторон заканчивались припасы, а Иван, по свидетельствам, получил известия о беспорядках и об угрожающем союзнике на другом направлении; Ахмат отступил первым, спустя несколько месяцев был убит соперничающим ханом, а противостояние, которое русские историки впоследствии назовут «Великим стоянием на реке Угре», незаметно стало общепринятой датой окончания монгольского владычества. Двухвековая с половиной хватка одной империи над другим народом закончилась не решающим столкновением, а тем, что обе стороны, независимо друг от друга, решили просто разойтись по домам.",
       "era": "AD",
       "latitude": 54.4636,
       "longitude": 35.9391,
       "name": "The War That Ended Without a Battle",
       "name_ru": "Война, закончившаяся без единого сражения",
-      "description": "After 240 years, it is reasonable to expect the end of the Mongol-Tatar yoke over Rus to arrive as a great battle, the mirror image of the invasion that began it. Instead, in the autumn of 1480, the armies of Akhmat Khan of the Great Horde and Grand Prince Ivan III of Moscow simply faced each other across the Ugra River for weeks, exchanging arrow fire and skirmishes but never committing to a full engagement. Winter approached, supplies ran short on both sides, and Ivan reportedly received word of unrest and a threatening ally elsewhere; Akhmat withdrew first, was assassinated by a rival khan months later, and the confrontation that Russian historians would eventually call the 'Great Stand on the Ugra River' quietly became the accepted end date of Mongol domination. An empire's two-and-a-half-century grip on another nation ended not with a decisive clash, but with both sides deciding, separately, to simply go home.",
-      "description_ru": "После 240 лет господства логично было бы ожидать, что конец монголо-татарского ига над Русью наступит в великой битве, зеркально повторяющей нашествие, с которого оно началось. Вместо этого осенью 1480 года войска хана Ахмата из Большой Орды и великого князя московского Ивана III несколько недель просто стояли друг напротив друга на реке Угре, обмениваясь стрельбой и стычками, но так и не решившись на полное сражение. Приближалась зима, у обеих сторон заканчивались припасы, а Иван, по свидетельствам, получил известия о беспорядках и об угрожающем союзнике на другом направлении; Ахмат отступил первым, спустя несколько месяцев был убит соперничающим ханом, а противостояние, которое русские историки впоследствии назовут «Великим стоянием на реке Угре», незаметно стало общепринятой датой окончания монгольского владычества. Двухвековая с половиной хватка одной империи над другим народом закончилась не решающим столкновением, а тем, что обе стороны, независимо друг от друга, решили просто разойтись по домам.",
       "source": "https://en.wikipedia.org/wiki/Great_Stand_on_the_Ugra_River",
       "tags": [
+        "Milestone ⭐️",
         "Golden Horde",
         "Moscow",
         "Rus",
-        "Milestone ⭐️",
         "Crisis"
       ],
       "type": "military"
     },
     {
       "date": "10.06.1502",
+      "description": "It is tempting to assume Moscow delivered the Golden Horde's final blow, given how the story is usually told. It did not. In 1502 the rump Great Horde, all that remained of Batu's once-vast empire, was destroyed not by Rus but by a fellow descendant of the same Mongol world: Mengli I Giray, khan of the breakaway Crimean Khanate, attacked and annihilated the Great Horde's forces near Sarai, sacking what was left of the old capital and driving its last khan, Sheikh Ahmed, into permanent exile. Mengli Giray had allied with Ivan III of Moscow against their common rival, meaning Rus helped end the Golden Horde diplomatically without ever striking the last blow itself. The empire that had once ruled from China's border to Eastern Europe vanished not in a war against the people it had conquered, but in a war between its own descendants — fittingly, since the Horde's history had always been, at its core, a family argument that spilled across continents.",
+      "description_ru": "Соблазнительно предположить, что последний удар по Золотой Орде нанесла Москва, — так эту историю обычно и рассказывают. Но это не так. В 1502 году остаток Большой Орды, всё, что уцелело от некогда необъятной империи Батыя, был уничтожен не Русью, а таким же потомком того же монгольского мира: Менгли I Гирей, хан отколовшегося Крымского ханства, атаковал и разгромил войска Большой Орды близ Сарая, разграбив остатки старой столицы и обратив последнего хана, Шейха Ахмеда, в вечное изгнание. Менгли Гирей был союзником московского Ивана III против общего противника, а значит, Русь помогла покончить с Золотой Ордой дипломатически, так и не нанеся последний удар собственноручно. Империя, некогда правившая от границ Китая до Восточной Европы, исчезла не в войне против покорённых ею народов, а в войне между её собственными потомками — что по-своему справедливо, ведь история Орды по сути всегда была семейной ссорой, расплескавшейся на целые континенты.",
       "era": "AD",
       "latitude": 47.9958,
       "longitude": 47.3181,
       "name": "The Final Extinguishing",
       "name_ru": "Последнее угасание",
-      "description": "It is tempting to assume Moscow delivered the Golden Horde's final blow, given how the story is usually told. It did not. In 1502 the rump Great Horde, all that remained of Batu's once-vast empire, was destroyed not by Rus but by a fellow descendant of the same Mongol world: Mengli I Giray, khan of the breakaway Crimean Khanate, attacked and annihilated the Great Horde's forces near Sarai, sacking what was left of the old capital and driving its last khan, Sheikh Ahmed, into permanent exile. Mengli Giray had allied with Ivan III of Moscow against their common rival, meaning Rus helped end the Golden Horde diplomatically without ever striking the last blow itself. The empire that had once ruled from China's border to Eastern Europe vanished not in a war against the people it had conquered, but in a war between its own descendants — fittingly, since the Horde's history had always been, at its core, a family argument that spilled across continents.",
-      "description_ru": "Соблазнительно предположить, что последний удар по Золотой Орде нанесла Москва, — так эту историю обычно и рассказывают. Но это не так. В 1502 году остаток Большой Орды, всё, что уцелело от некогда необъятной империи Батыя, был уничтожен не Русью, а таким же потомком того же монгольского мира: Менгли I Гирей, хан отколовшегося Крымского ханства, атаковал и разгромил войска Большой Орды близ Сарая, разграбив остатки старой столицы и обратив последнего хана, Шейха Ахмеда, в вечное изгнание. Менгли Гирей был союзником московского Ивана III против общего противника, а значит, Русь помогла покончить с Золотой Ордой дипломатически, так и не нанеся последний удар собственноручно. Империя, некогда правившая от границ Китая до Восточной Европы, исчезла не в войне против покорённых ею народов, а в войне между её собственными потомками — что по-своему справедливо, ведь история Орды по сути всегда была семейной ссорой, расплескавшейся на целые континенты.",
       "source": "https://en.wikipedia.org/wiki/Sack_of_Sarai_(1502)",
       "tags": [
         "Golden Horde",
+        "Crisis",
         "Crimea",
-        "Sheikh Ahmed 👑",
         "Fall",
-        "Crisis"
+        "Sheikh Ahmed 👑"
       ],
       "type": "military"
     },
     {
       "date": "01.01.1503",
+      "description": "There is an irony sitting at the center of this entire story, easy to miss because it took two and a half centuries to complete. Muscovite Russia did not defeat the Golden Horde by rejecting everything it represented; it defeated it by quietly absorbing the Horde's own toolkit — a population census for reliable taxation, a courier relay network for fast communication across enormous distances, the concept of one ruler holding unquestioned, centralized authority over subjects rather than sharing power with rival nobles, and the habit of treating tribute as a prince's right rather than a burden to be justified. Ivan III, who watched Akhmat Khan withdraw from the Ugra River, went on to call himself sovereign of all Rus in terms borrowed directly from Mongol political vocabulary. The empire that had dominated Rus for generations did not simply fall; in a sense, it won by teaching its student exactly how to become an empire too.",
+      "description_ru": "В центре всей этой истории таится ирония, которую легко упустить, поскольку на её раскрытие ушло два с половиной века. Московская Русь одолела Золотую Орду не отказом от всего, что та собой воплощала, а тихим усвоением собственного инструментария Орды — переписи населения для надёжного сбора налогов, курьерской сети для быстрой связи на огромных расстояниях, представления о единоличной, неоспоримой централизованной власти правителя над подданными вместо разделения власти со знатными соперниками, и привычки считать дань правом князя, а не бременем, которое нужно оправдывать. Иван III, наблюдавший, как хан Ахмат отступает от Угры, впоследствии стал именовать себя государем всея Руси в выражениях, напрямую заимствованных из монгольского политического словаря. Империя, веками господствовавшая над Русью, не просто пала — в каком-то смысле она победила, научив своего ученика в точности тому, как самому стать империей.",
       "era": "AD",
       "latitude": 55.7522,
       "longitude": 37.6156,
       "name": "Moscow's Quiet Revenge",
       "name_ru": "Тихая месть Москвы",
-      "description": "There is an irony sitting at the center of this entire story, easy to miss because it took two and a half centuries to complete. Muscovite Russia did not defeat the Golden Horde by rejecting everything it represented; it defeated it by quietly absorbing the Horde's own toolkit — a population census for reliable taxation, a courier relay network for fast communication across enormous distances, the concept of one ruler holding unquestioned, centralized authority over subjects rather than sharing power with rival nobles, and the habit of treating tribute as a prince's right rather than a burden to be justified. Ivan III, who watched Akhmat Khan withdraw from the Ugra River, went on to call himself sovereign of all Rus in terms borrowed directly from Mongol political vocabulary. The empire that had dominated Rus for generations did not simply fall; in a sense, it won by teaching its student exactly how to become an empire too.",
-      "description_ru": "В центре всей этой истории таится ирония, которую легко упустить, поскольку на её раскрытие ушло два с половиной века. Московская Русь одолела Золотую Орду не отказом от всего, что та собой воплощала, а тихим усвоением собственного инструментария Орды — переписи населения для надёжного сбора налогов, курьерской сети для быстрой связи на огромных расстояниях, представления о единоличной, неоспоримой централизованной власти правителя над подданными вместо разделения власти со знатными соперниками, и привычки считать дань правом князя, а не бременем, которое нужно оправдывать. Иван III, наблюдавший, как хан Ахмат отступает от Угры, впоследствии стал именовать себя государем всея Руси в выражениях, напрямую заимствованных из монгольского политического словаря. Империя, веками господствовавшая над Русью, не просто пала — в каком-то смысле она победила, научив своего ученика в точности тому, как самому стать империей.",
       "source": "https://en.wikipedia.org/wiki/Ivan_III_of_Russia",
       "tags": [
         "Golden Horde",
