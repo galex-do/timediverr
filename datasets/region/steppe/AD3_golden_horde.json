@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 36 events",
+  "description": "Dataset imported with 38 events",
   "events": [
     {
       "date": "01.01.1245",
@@ -163,6 +163,27 @@
         "Kingsmaker",
         "Murder",
         "Overthrow"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1293",
+      "description": "Decades before Moscow perfected the tactic, Grand Prince Andrei of Gorodets showed how it worked: when his brother Dmitry refused to give up the grand princely throne, Andrei went to Khan Tokhta and came back with an army. Tokhta's brother Dyuden led the campaign, sacking Vladimir, Moscow, and a dozen other towns before Dmitry finally abdicated. Only Tver held out, forcing Tokhta to send a second army against it alone. The lesson every Rus' prince took from 1293 was the same one Yury of Moscow would apply against Tver a generation later: a domestic rival was easier to beat with Horde soldiers than with your own.",
+      "description_ru": "За десятилетия до того, как Москва довела этот приём до совершенства, великий князь Андрей Городецкий показал, как он работает: когда брат Дмитрий отказался уступить великокняжеский престол, Андрей отправился к хану Тохте и вернулся с войском. Поход возглавил ханский брат Дюдень, разоривший Владимир, Москву и ещё десяток городов, пока Дмитрий наконец не отрёкся. Устояла только Тверь, из-за чего Тохте пришлось посылать против неё отдельное войско. Урок 1293 года усвоил каждый русский князь — тот же самый, что через поколение применит против Твери Юрий Московский: домашнего соперника проще одолеть ордынским войском, чем собственным.",
+      "era": "AD",
+      "latitude": 56.129,
+      "longitude": 40.407,
+      "name": "Prince Andrei Uses a Mongol Army to Crush His Own Brother",
+      "name_ru": "Князь Андрей руками ордынцев громит родного брата",
+      "source": "https://en.wikipedia.org/wiki/Golden_Horde",
+      "tags": [
+        "Golden Horde",
+        "Moscow",
+        "Tver",
+        "Rus",
+        "Rivalry",
+        "War",
+        "Political"
       ],
       "type": "political"
     },
@@ -396,6 +417,24 @@
         "Aristocracy"
       ],
       "type": "cultural"
+    },
+    {
+      "date": "26.09.1347",
+      "description": "When Khan Jani Beg started taxing Christian clergy to pay for his campaigns, it was his mother, Khatun Taydula, who stepped in and reversed it. On 26 September 1347 she issued a yarlyk exempting the Russian Orthodox Church and its metropolitan from tribute and forced labor, backed by two more in the following years. Successive khans had granted the Church similar protection since the 1260s, in keeping with the Mongol tradition of exempting all religions' clergy from tax — a policy that cost the Horde little and bought it a Church willing to preach obedience to Tatar rule from every pulpit in Rus'. It also let the Church accumulate land and wealth no prince could touch, funding the monastery-building boom of the 14th century even as everyone else paid up.",
+      "description_ru": "Когда хан Джанибек начал облагать налогом христианское духовенство, чтобы финансировать свои походы, вмешалась его мать, ханша Тайдула, и отменила это решение. 26 сентября 1347 года она выдала ярлык, освобождавший Русскую православную церковь и её митрополита от дани и трудовых повинностей, а в последующие годы выдала ещё два таких же. Начиная с 1260-х годов ханы предоставляли Церкви подобную защиту, следуя монгольской традиции освобождать духовенство всех религий от налогов, — политика, которая почти ничего не стоила Орде, но обеспечивала ей Церковь, готовую с каждого амвона проповедовать покорность ордынской власти. Она же позволяла Церкви накапливать земли и богатства, недоступные никакому князю, финансируя монастырский строительный бум XIV века, пока все остальные платили дань.",
+      "era": "AD",
+      "latitude": 47.23816056,
+      "longitude": 47.37414122,
+      "name": "Khatun Taydula Shields the Russian Church From Taxation",
+      "name_ru": "Ханша Тайдула освобождает русскую церковь от податей",
+      "source": "https://en.wikipedia.org/wiki/Taydula_Khatun",
+      "tags": [
+        "Golden Horde",
+        "Rus",
+        "Religious",
+        "Political"
+      ],
+      "type": "political"
     },
     {
       "date": "01.09.1357",
