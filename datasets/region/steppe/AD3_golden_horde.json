@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 38 events",
+  "description": "Dataset imported with 41 events",
   "events": [
     {
       "date": "01.01.1245",
@@ -437,6 +437,23 @@
       "type": "political"
     },
     {
+      "date": "01.01.1348",
+      "description": "Pskov had governed itself in practice for over a century — its own posadnik, its own trade with the Hanseatic League, its own defense against the Livonian Order — while formally remaining a dependent borough of Novgorod. In 1348 that fiction ended: a treaty recognized Pskov as a fully independent republic in its own right, with its own veche and courts, no longer answerable to Novgorod's assemblies. Both cities kept paying Horde tribute and neither was ever garrisoned by Mongol troops — the split was a purely Rus' affair, a reminder that not every fracture of this period ran through Sarai.",
+      "description_ru": "Псков более века фактически управлял собой сам — со своим посадником, собственной торговлей с Ганзой, собственной обороной от Ливонского ордена — оставаясь при этом формально пригородом Новгорода. В 1348 году эта видимость закончилась: договор признал Псков полностью самостоятельной республикой со своим вечем и судом, более не подчинённой новгородским собраниям. Оба города продолжали платить дань Орде, и ни один монгольский гарнизон так и не встал в их землях, — раскол был чисто русским делом, напоминанием, что не каждый разлом этой эпохи проходил через Сарай.",
+      "era": "AD",
+      "latitude": 57.8194,
+      "longitude": 28.3319,
+      "name": "Pskov Splits Off From Novgorod",
+      "name_ru": "Псков отделяется от Новгорода",
+      "source": "https://en.wikipedia.org/wiki/Pskov_Republic",
+      "tags": [
+        "Novgorod",
+        "Rus",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
       "date": "01.09.1357",
       "description": "When Taidula, the influential mother of Khan Jani Beg, went blind, the Horde's court reportedly summoned Metropolitan Alexius of Moscow, who traveled to Sarai and, according to accounts later celebrated in Russian hagiography, restored her sight through prayer. Whatever happened medically, the political effect was lasting: a grateful Taidula protected the Russian Orthodox Church's tax exemptions and privileges at court for years afterward. ",
       "description_ru": "Когда Тайдула, влиятельная мать хана Джанибека, ослепла, ордынский двор, по преданию, обратился к митрополиту Московскому Алексию, который отправился в Сарай и, согласно рассказам, позднее прославленным в русской агиографии, вернул ей зрение молитвой. Что бы ни произошло на самом деле, политический эффект оказался долгим: благодарная Тайдула на годы вперёд стала покровительницей налоговых льгот и привилегий Русской церкви при дворе. ",
@@ -472,6 +489,25 @@
         "Crisis",
         "Political",
         "Succession"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1360",
+      "description": "When Ivan II of Moscow died in 1359, his heir Dmitry — the future Donskoy — was nine years old, too young for the khan to trust with the grand princely title. Khan Nawruz gave it instead to Dmitry of Suzdal, ruler of the rival Nizhny Novgorod-Suzdal principality and head of a third Rus' power center outside the Tver-Moscow rivalry. Moscow's boyars and Metropolitan Alexei refused to accept it: they raised an army, marched on Vladimir, and by 1363 had forced Suzdal's Dmitry to give up the title for good. He made peace three years later by marrying his daughter Eudoxia to the boy he had tried to displace. It would not be the last time the two men's fates crossed: in 1382 Dmitry of Suzdal sided with Khan Tokhtamysh against his own son-in-law, sending his sons to help take Moscow.",
+      "description_ru": "Когда в 1359 году умер Иван II Московский, его наследнику Дмитрию — будущему Донскому — было девять лет, и хан не доверил ребёнку великокняжеский титул. Хан Наврус отдал его Дмитрию Суздальскому, правителю соперничающего Нижегородско-Суздальского княжества — третьего русского центра силы вне тверско-московского противостояния. Московские бояре и митрополит Алексий не смирились: они собрали войско, выступили на Владимир и к 1363 году окончательно вынудили суздальского Дмитрия отказаться от титула. Три года спустя он помирился, выдав свою дочь Евдокию замуж за мальчика, которого пытался отстранить от власти. Их судьбы пересекутся снова: в 1382 году Дмитрий Суздальский встанет на сторону хана Тохтамыша против собственного зятя, отправив сыновей помогать брать Москву.",
+      "era": "AD",
+      "latitude": 56.3269,
+      "longitude": 44.0059,
+      "name": "Dmitry of Suzdal Takes the Grand Princely Throne From a Child",
+      "name_ru": "Дмитрий Суздальский отбирает великокняжеский престол у ребёнка",
+      "source": "https://en.wikipedia.org/wiki/Dmitry_of_Suzdal",
+      "tags": [
+        "Golden Horde",
+        "Moscow",
+        "Rus",
+        "Rivalry",
+        "Political"
       ],
       "type": "political"
     },
@@ -629,6 +665,23 @@
         "Tokhtamysh 👑"
       ],
       "type": "military"
+    },
+    {
+      "date": "01.01.1404",
+      "description": "Smolensk was another Rus' principality the Mongols never sacked, and like Novgorod it simply paid tribute from a distance for over a century. But unlike Novgorod, it sat on Lithuania's border, and Grand Duke Vytautas wanted it outright. He seized the city in 1395, lost it to a local uprising, and took it back for good in 1404, ending Smolensk's own line of princes within a few more years of mopping-up fighting. It was an exit from the Horde's orbit that Novgorod and the northeastern principalities never had: from then on Smolensk paid no tribute to Sarai at all — it simply belonged to Lithuania, and its fate would be decided in wars between Vilnius and Moscow instead, until Moscow finally retook it in 1514.",
+      "description_ru": "Смоленск был ещё одним русским княжеством, которое монголы так и не разорили, и, как и Новгород, веками платил дань на расстоянии. Но, в отличие от Новгорода, он граничил с Литвой, а великий князь Витовт хотел заполучить его целиком. Он взял город в 1395 году, потерял его из-за местного восстания и окончательно вернул в 1404 году, положив конец собственной смоленской княжеской династии в последующие годы. Это был выход из орбиты Орды, которого никогда не было у Новгорода и северо-восточных княжеств: с тех пор Смоленск вовсе не платил дань в Сарай — он просто принадлежал Литве, и его судьбу отныне решали войны между Вильно и Москвой, пока Москва не отвоевала его в 1514 году.",
+      "era": "AD",
+      "latitude": 54.7818,
+      "longitude": 32.0401,
+      "name": "Smolensk Falls to Lithuania, Escaping Horde Tribute for Good",
+      "name_ru": "Смоленск переходит под власть Литвы, навсегда покинув данников Орды",
+      "source": "https://en.wikipedia.org/wiki/Smolensk",
+      "tags": [
+        "Golden Horde",
+        "Rus",
+        "Political"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.1406",
