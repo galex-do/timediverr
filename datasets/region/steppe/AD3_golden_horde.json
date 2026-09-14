@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 41 events",
+  "description": "Dataset imported with 45 events",
   "events": [
     {
       "date": "01.01.1245",
@@ -186,6 +186,25 @@
         "Political"
       ],
       "type": "political"
+    },
+    {
+      "date": "01.01.1299",
+      "description": "Kyiv had been the seat of the Rus' Orthodox Church for over three centuries, but by 1299 it was a ruined backwater — sacked by the Mongols in 1240 and repeatedly raided since. Metropolitan Maximus, acting on the khan's instructions, abandoned the city and moved the metropolitan chair north to Vladimir, the seat of the grand princes and safely inside the Horde's tributary heartland. It was a quiet admission that the center of Rus' political and religious life had shifted away from Kyiv for good. The move also set a precedent: a generation later, in 1326, Maximus's successors would relocate the seat again, this time to Moscow — cementing the young principality's claim to be the moral capital of all Rus', not just its wealthiest city.",
+      "description_ru": "Киев более трёх веков оставался кафедрой русской церкви, но к 1299 году превратился в разорённую окраину — разграбленный монголами в 1240 году и с тех пор неоднократно опустошавшийся набегами. Митрополит Максим, действуя по указанию хана, покинул город и перенёс митрополичью кафедру на север, во Владимир — резиденцию великих князей, надёжно укрытую в податном сердце Орды. Это было молчаливым признанием того, что центр политической и церковной жизни Руси окончательно сместился от Киева. Перенос создал прецедент: поколением позже, в 1326 году, преемники Максима перенесут кафедру снова — на этот раз в Москву, — закрепив за молодым княжеством статус духовной столицы всей Руси, а не просто самого богатого города.",
+      "era": "AD",
+      "latitude": 56.129,
+      "longitude": 40.407,
+      "name": "The Metropolitan's Seat Moves From Kyiv to Vladimir",
+      "name_ru": "Митрополичья кафедра переезжает из Киева во Владимир",
+      "source": "https://en.wikipedia.org/wiki/Maximos,_Metropolitan_of_Kiev",
+      "tags": [
+        "Golden Horde",
+        "Moscow",
+        "Rus",
+        "Religious",
+        "Political"
+      ],
+      "type": "religious"
     },
     {
       "date": "01.01.1300",
@@ -454,6 +473,24 @@
       "type": "political"
     },
     {
+      "date": "01.01.1352",
+      "description": "The plague had been burning through the Golden Horde's own cities since 1346 — it broke out among the Mongols besieging Genoese Caffa in Crimea, then spread to Sarai and Astrakhan — but it never reached Rus' from that direction. The border between Christian Rus' and the Muslim Horde stayed closed for religious reasons, and the disease instead traveled the long way around: west across Europe, then east again from the Baltic. It reached Pskov in the spring of 1352, killing large numbers of the population before spreading on to Novgorod and south into the rest of the Rus' lands. Chroniclers described it as divine punishment for sin, comparing it to the Plagues of Egypt. The Horde's own trade network had helped launch the epidemic in Crimea; the Horde's own closed frontier was, for once, what kept it out of Rus' the longest.",
+      "description_ru": "Чума бушевала в городах самой Золотой Орды с 1346 года — она вспыхнула среди монголов, осаждавших генуэзскую Каффу в Крыму, а затем перекинулась на Сарай и Астрахань, — но с этой стороны так и не пришла на Русь. Граница между христианской Русью и мусульманской Ордой оставалась закрытой по религиозным причинам, и болезнь пошла в обход: на запад через всю Европу, а затем снова на восток со стороны Балтики. Весной 1352 года она достигла Пскова, унеся множество жизней, а затем распространилась на Новгород и дальше на юг, в остальные русские земли. Летописцы описывали её как божью кару за грехи, сравнивая с египетскими казнями. Собственная торговая сеть Орды помогла запустить эпидемию в Крыму, а собственная закрытая граница Орды, как ни странно, дольше всего удерживала её от Руси.",
+      "era": "AD",
+      "latitude": 57.8194,
+      "longitude": 28.3319,
+      "name": "The Black Death Reaches Rus' Through Pskov",
+      "name_ru": "Чёрная смерть приходит на Русь через Псков",
+      "source": "https://en.wikipedia.org/wiki/Black_Death_in_Russia",
+      "tags": [
+        "Golden Horde",
+        "Novgorod",
+        "Rus",
+        "Crisis"
+      ],
+      "type": "historic"
+    },
+    {
       "date": "01.09.1357",
       "description": "When Taidula, the influential mother of Khan Jani Beg, went blind, the Horde's court reportedly summoned Metropolitan Alexius of Moscow, who traveled to Sarai and, according to accounts later celebrated in Russian hagiography, restored her sight through prayer. Whatever happened medically, the political effect was lasting: a grateful Taidula protected the Russian Orthodox Church's tax exemptions and privileges at court for years afterward. ",
       "description_ru": "Когда Тайдула, влиятельная мать хана Джанибека, ослепла, ордынский двор, по преданию, обратился к митрополиту Московскому Алексию, который отправился в Сарай и, согласно рассказам, позднее прославленным в русской агиографии, вернул ей зрение молитвой. Что бы ни произошло на самом деле, политический эффект оказался долгим: благодарная Тайдула на годы вперёд стала покровительницей налоговых льгот и привилегий Русской церкви при дворе. ",
@@ -578,6 +615,25 @@
       "type": "military"
     },
     {
+      "date": "01.09.1380",
+      "description": "Before marching to face Mamai's army, Dmitry of Moscow stopped at the Trinity Monastery to ask its founder, Sergius of Radonezh, for a blessing — but only after making sure he had exhausted every peaceful option first. Sergius gave it, and sent two of his monks, Alexander Peresvet and Rodion Oslyabya, to fight alongside the army. It was one of the only times the ascetic Sergius involved himself in politics at all, and later generations read it as the moment the Orthodox Church openly backed Moscow's claim to lead a unified Rus' against the Horde. Peresvet died in the battle's opening duel; Sergius's monastery, meanwhile, kept growing — its monks would go on to found roughly forty more monasteries across Rus' by the century's end.",
+      "description_ru": "Прежде чем выступить против войска Мамая, Дмитрий Московский заехал в Троицкий монастырь попросить благословения у его основателя, Сергия Радонежского, — но лишь убедившись, что исчерпал все мирные пути. Сергий благословил его и отправил с войском двух своих монахов, Александра Пересвета и Родиона Ослябю. Это был едва ли не единственный случай, когда аскет Сергий вообще вмешался в политику, и позднейшие поколения увидели в этом момент, когда церковь открыто поддержала притязания Москвы на роль объединителя Руси против Орды. Пересвет погиб в поединке, открывшем битву; монастырь же Сергия продолжал расти — к концу века его ученики основали ещё около сорока обителей по всей Руси.",
+      "era": "AD",
+      "latitude": 56.3084,
+      "longitude": 38.133,
+      "name": "Sergius of Radonezh Blesses Dmitry Before Kulikovo",
+      "name_ru": "Сергий Радонежский благословляет Дмитрия перед Куликовской битвой",
+      "source": "https://en.wikipedia.org/wiki/Sergius_of_Radonezh",
+      "tags": [
+        "Golden Horde",
+        "Moscow",
+        "Rus",
+        "Religious",
+        "War"
+      ],
+      "type": "religious"
+    },
+    {
       "date": "01.10.1380",
       "description": "Weeks after Mamai's army was mauled by Moscow at Kulikovo, a rival khan named Tokhtamysh, backed by Timur, caught what remained of Mamai's forces at the Kalka River and destroyed them. With his chief rival broken, Tokhtamysh became the first ruler in two decades to hold both halves of the Golden Horde, ending the Great Troubles. Unlike Mamai, he descended directly from Genghis Khan, giving him the legal legitimacy his predecessor's power could never buy. He would use his newly unified Horde to remind Moscow exactly who still ruled.",
       "description_ru": "Через несколько недель после того, как войско Мамая было разгромлено Москвой на Куликовом поле, соперничавший с ним хан Тохтамыш, при поддержке Тамерлана, настиг остатки армии Мамая на реке Калке и уничтожил их. \n\nСокрушив главного соперника, Тохтамыш стал первым за два десятилетия правителем, объединившим обе половины Золотой Орды, положив конец «Великой замятне». В отличие от Мамая, он был прямым потомком Чингисхана, что давало ему законную легитимность, которую власть его предшественника так и не смогла купить.",
@@ -644,6 +700,25 @@
         "Tokhtamysh 👑"
       ],
       "type": "military"
+    },
+    {
+      "date": "01.09.1382",
+      "description": "No Rus' principality was more exposed to the Horde than Ryazan, sitting directly on the steppe frontier, and its prince Oleg had to survive accordingly. In 1380 he sided with Mamai against Dmitry of Moscow ahead of Kulikovo, then found himself on the losing side once Dmitry won. Two years later, when Tokhtamysh sacked Moscow, Ryazan's exposed position pulled Oleg back toward the Horde again — until Dmitry, freshly humbled but still standing, forced him to publicly submit as his vassal once more. Ryazan never had the luxury of picking a permanent side the way Moscow or Tver could: it flipped with whichever power stood closest to its undefended border, a survival strategy its neighbors called betrayal and its own princes saw as the only realistic one available.",
+      "description_ru": "Ни одно русское княжество не было так открыто для Орды, как Рязань, стоявшая прямо на степной границе, и его князю Олегу приходилось выживать соответственно. В 1380 году он встал на сторону Мамая против Дмитрия Московского накануне Куликовской битвы, а затем оказался на стороне проигравших после победы Дмитрия. Два года спустя, когда Тохтамыш разграбил Москву, уязвимое положение Рязани снова потянуло Олега к Орде — пока Дмитрий, недавно униженный, но всё ещё стоявший на ногах, не заставил его вновь публично признать себя вассалом. У Рязани никогда не было роскоши раз и навсегда выбрать сторону, как у Москвы или Твери: она склонялась к той силе, что оказывалась ближе к её незащищённой границе, — стратегия выживания, которую соседи называли предательством, а собственные князья считали единственно реалистичной.",
+      "era": "AD",
+      "latitude": 54.6269,
+      "longitude": 39.6916,
+      "name": "Oleg of Ryazan Switches Sides Between Moscow and the Horde",
+      "name_ru": "Олег Рязанский мечется между Москвой и Ордой",
+      "source": "https://en.wikipedia.org/wiki/Grand_Principality_of_Moscow",
+      "tags": [
+        "Golden Horde",
+        "Moscow",
+        "Rus",
+        "Rivalry",
+        "Political"
+      ],
+      "type": "political"
     },
     {
       "date": "14.04.1395",
