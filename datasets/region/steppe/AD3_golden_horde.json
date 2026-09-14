@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 31 events",
+  "description": "Dataset imported with 36 events",
   "events": [
     {
       "date": "01.01.1245",
@@ -208,9 +208,30 @@
       "type": "political"
     },
     {
+      "date": "01.01.1317",
+      "description": "Yury of Moscow had already allied with Novgorod against Tver, but he needed the Horde to actually win. In 1317, after two years at Sarai, he married Khan Uzbeg's sister Konchaka, who converted to Orthodoxy as Agafya, and used the marriage to get Mikhail of Tver stripped of the grand princely title. Yury marched home with a Tatar army to enforce it, but Mikhail defeated him at Bortenevo and captured Konchaka along with Yury's brother. Held hostage in Tver, Konchaka died in captivity soon after, probably of natural causes — but Yury told the khan she had been poisoned on Mikhail's orders. The marriage had failed on the battlefield, yet it still worked: her death gave Yury the accusation that would destroy Tver's prince at Sarai the following year.",
+      "description_ru": "Юрий Московский уже заключил союз с Новгородом против Твери, но для настоящей победы ему была нужна Орда. В 1317 году, после двух лет при дворе в Сарае, он женился на сестре хана Узбека Кончаке, принявшей православие под именем Агафья, и с помощью этого брака добился, чтобы Михаила Тверского лишили титула великого князя. Юрий вернулся домой с татарским войском, чтобы закрепить это решение, но Михаил разбил его при Бортеневе и взял в плен Кончаку вместе с братом Юрия. Пленённая в Твери, Кончака вскоре умерла — вероятно, от естественных причин, — но Юрий заявил хану, что её отравили по приказу Михаила. Брак, проигранный на поле боя, всё же сработал: её смерть дала Юрию обвинение, которое год спустя погубит тверского князя в Сарае.",
+      "era": "AD",
+      "latitude": 56.62,
+      "longitude": 34.83,
+      "name": "Yury of Moscow Marries Khan Uzbeg's Sister to Outflank Tver",
+      "name_ru": "Юрий Московский женится на сестре хана Узбека, чтобы обойти Тверь",
+      "source": "https://en.wikipedia.org/wiki/Yury_of_Moscow",
+      "tags": [
+        "Golden Horde",
+        "Moscow",
+        "Tver",
+        "Rus",
+        "Marriage",
+        "Rivalry",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
       "date": "22.11.1318",
-      "description": "Under the Horde's yarlyk system, Russian princes had to travel to Sarai in person for the khan to confirm their right to rule. In 1318 Mikhail of Tver did so to answer charges pressed by his rival, the prince of Moscow, after a war between their cities. Khan Uzbeg held him for weeks, had him publicly humiliated, and ordered his execution, leaving the body exposed as a warning. Mikhail's son later avenged him by killing the Moscow prince responsible, and was executed for it a decade afterward — a cycle the yarlyk system did nothing to stop.",
-      "description_ru": "По ярлычной системе Орды русские князья были обязаны лично являться в Сарай, чтобы хан подтвердил их право на власть. В 1318 году так поступил тверской князь Михаил, чтобы ответить на обвинения своего соперника, московского князя, после войны между их городами. Хан Узбек продержал его несколько недель, публично унизил и приказал казнить, оставив тело непогребённым в назидание. Сын Михаила позднее отомстил, убив виновного московского князя, и был за это казнён десятилетие спустя.",
+      "description": "Under the Horde's yarlyk system, Russian princes had to travel to Sarai in person for the khan to confirm their right to rule. In 1318 Mikhail of Tver did so to answer charges pressed by his rival, the prince of Moscow, after a war between their cities. Khan Uzbeg held him for weeks, had him publicly humiliated, and ordered his execution, leaving the body exposed as a warning.",
+      "description_ru": "По ярлычной системе Орды русские князья были обязаны лично являться в Сарай, чтобы хан подтвердил их право на власть. В 1318 году так поступил тверской князь Михаил, чтобы ответить на обвинения своего соперника, московского князя, после войны между их городами. Хан Узбек продержал его несколько недель, публично унизил и приказал казнить, оставив тело непогребённым в назидание.",
       "era": "AD",
       "latitude": 47.23816056,
       "longitude": 47.37414122,
@@ -248,6 +269,28 @@
         "Legacy"
       ],
       "type": "cultural"
+    },
+    {
+      "date": "21.11.1325",
+      "description": "Seven years after Yury of Moscow's accusations got his father executed, Dmitry of Tver got his revenge in person. In 1325 Yury finally traveled to Sarai to answer a new round of charges, and Dmitry — who had spent years building his own case against him — confronted and killed him there, in the middle of the Horde's own capital. Khan Uzbeg had Dmitry arrested on the spot but, for reasons no chronicle explains, waited a full year before ordering his execution on 15 September 1326. Killing a rival without the khan's permission, even in a blood feud the khan himself had provoked, was treated as a crime against Horde authority — not an acceptable way to settle a Russian succession dispute.",
+      "description_ru": "Спустя семь лет после того, как обвинения Юрия Московского привели к казни его отца, Дмитрий Тверской отомстил лично. В 1325 году Юрий наконец прибыл в Сарай, чтобы ответить на новые обвинения, и Дмитрий, годами готовивший против него собственное дело, настиг и убил его прямо в ордынской столице. Хан Узбек немедленно арестовал Дмитрия, но зачем-то выждал целый год — летописи не объясняют почему, — прежде чем казнить его 15 сентября 1326 года. Убийство соперника без ханского разрешения, пусть даже в кровной вражде, которую сам хан и спровоцировал, было расценено как преступление против власти Орды, а не как допустимый способ решать русский династический спор.",
+      "era": "AD",
+      "latitude": 47.23816056,
+      "longitude": 47.37414122,
+      "name": "Dmitry of Tver Avenges His Father by Killing Yury of Moscow",
+      "name_ru": "Дмитрий Тверской мстит за отца, убив Юрия Московского",
+      "source": "https://en.wikipedia.org/wiki/Dmitry_of_Tver",
+      "tags": [
+        "Golden Horde",
+        "Moscow",
+        "Tver",
+        "Rus",
+        "Revenge",
+        "Murder",
+        "Rivalry",
+        "Political"
+      ],
+      "type": "political"
     },
     {
       "date": "15.08.1327",
