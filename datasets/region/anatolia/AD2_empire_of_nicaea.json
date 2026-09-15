@@ -1,0 +1,346 @@
+{
+  "description": "Dataset imported with 18 events",
+  "filename": "AD2_empire_of_nicaea.json",
+  "events": [
+    {
+      "date": "01.05.1204",
+      "era": "AD",
+      "type": "historic",
+      "name": "Theodore Laskaris Flees Constantinople and Rallies Resistance in Bithynia",
+      "name_ru": "Феодор Ласкарь бежит из Константинополя и поднимает сопротивление в Вифинии",
+      "description": "When Constantinople fell to the Fourth Crusade in April 1204, Theodore Laskaris — son-in-law of the deposed emperor Alexios III Angelos — was captured by the crusaders but escaped and crossed the Bosporus into Bithynia. Rather than surrender Byzantine Anatolia to the Latins, he began rallying the local Greek population and aristocracy around Nicaea in his father-in-law's name, forging an alliance of convenience with the Seljuk sultan of Rum to secure his eastern flank. His position remained precarious for a full year: rival claimants contested his authority, and the Latin Empire pressed from the west. Only after Bulgarian tsar Kaloyan crushed the Latins at Adrianople in 1205, removing their capacity to campaign in Asia Minor, could Theodore consolidate control over Bithynia unopposed. What began as one nobleman's improvised flight would become the nucleus of Byzantine restoration.",
+      "description_ru": "Когда в апреле 1204 года Константинополь пал под ударами Четвёртого крестового похода, Феодор Ласкарь — зять свергнутого императора Алексея III Ангела — был схвачен крестоносцами, но бежал и переправился через Босфор в Вифинию. Не желая уступать латинянам византийскую Анатолию, он начал собирать вокруг Никеи местное греческое население и знать от имени тестя, заключив вынужденный союз с сельджукским султаном Рума ради безопасности восточного фланга. Целый год его положение оставалось шатким: соперники оспаривали его власть, а Латинская империя наступала с запада. Лишь после того как болгарский царь Калоян разгромил латинян при Адрианополе в 1205 году, лишив их сил для похода в Малую Азию, Феодор смог беспрепятственно закрепить контроль над Вифинией. То, что начиналось как импровизированное бегство одного вельможи, стало ядром византийского возрождения.",
+      "latitude": 40.4306,
+      "longitude": 29.7217,
+      "source": "https://en.wikipedia.org/wiki/Theodore_I_Laskaris",
+      "tags": [
+        "Byzantine",
+        "Nicaea",
+        "Foundation",
+        "Political",
+        "War"
+      ]
+    },
+    {
+      "date": "06.04.1208",
+      "era": "AD",
+      "type": "political",
+      "name": "Theodore I Laskaris Is Crowned Emperor at Nicaea",
+      "name_ru": "Феодор I Ласкарь коронован императором в Никее",
+      "description": "Three years after rallying resistance in Bithynia, Theodore Laskaris formalized his authority: the bishops of Asia Minor elected a new Patriarch of Constantinople in exile, Michael IV Autoreianos, who in turn crowned Theodore Byzantine emperor at Nicaea on 6 April 1208. The ceremony solved a genuine problem of legitimacy — no sitting patriarch had survived the sack of 1204 to anoint anyone, and without a patriarch's blessing no claimant's title carried real weight in Orthodox eyes. By creating a parallel patriarchate at Nicaea, Theodore gave his fledgling state something the Latin-occupied capital and the rival successor states in Epirus and Trebizond all lacked: an unbroken, canonically defensible chain of imperial and ecclesiastical authority. The Empire of Nicaea now had an emperor, a patriarch, and a capital, transforming a refugee movement into a functioning state built to outlast the occupation of Constantinople.",
+      "description_ru": "Через три года после того как Феодор Ласкарь собрал сопротивление в Вифинии, он оформил свою власть официально: епископы Малой Азии избрали нового патриарха Константинопольского в изгнании, Михаила IV Авториана, который 6 апреля 1208 года короновал Феодора византийским императором в Никее. Церемония решала подлинную проблему легитимности — ни один действующий патриарх не пережил разгром 1204 года, чтобы помазать претендента на престол, а без патриаршего благословения ни один титул не имел веса в глазах православных. Создав параллельную патриархию в Никее, Феодор дал своему молодому государству то, чего не хватало ни занятой латинянами столице, ни соперничающим преемникам в Эпире и Трапезунде: непрерывную, канонически защитимую цепь имперской и церковной власти. У Никейской империи теперь были император, патриарх и столица — беженское движение превратилось в государство, построенное пережить оккупацию Константинополя.",
+      "latitude": 40.4306,
+      "longitude": 29.7217,
+      "source": "https://en.wikipedia.org/wiki/Theodore_I_Laskaris",
+      "tags": [
+        "Byzantine",
+        "Nicaea",
+        "Coronation",
+        "Religious",
+        "Political"
+      ]
+    },
+    {
+      "date": "15.10.1211",
+      "era": "AD",
+      "type": "military",
+      "name": "Theodore I Loses the Battle of the Rhyndacus to the Latins",
+      "name_ru": "Феодор I терпит поражение от латинян в битве при Риндаке",
+      "description": "Six months after narrowly surviving a Seljuk invasion in the east — where the sultan Kaykhusraw I died attacking Nicaean forces at Antioch on the Maeander — Theodore I faced a second crisis on his western frontier. Latin emperor Henry of Flanders, seeing Nicaea's army battered from the eastern campaign, struck across the Rhyndacus river near Lopadion on 15 October 1211 with a small but disciplined force of knights and infantry. The Nicaeans were routed despite outnumbering the Latins, a defeat serious enough that Theodore could no longer contest Latin control of the remaining exclave around Pegai. The loss forced him to accept that Nicaea could not fight a two-front war indefinitely, setting the stage for a negotiated settlement rather than continued campaigning — a recognition of limits that would define Nicaean strategy toward the Latin Empire for decades.",
+      "description_ru": "Через полгода после того как едва пережил вторжение сельджуков с востока — где султан Кейхосров I погиб, атакуя никейские войска при Антиохии-на-Меандре, — Феодор I столкнулся со вторым кризисом на западной границе. Латинский император Генрих Фландрский, видя, что никейская армия измотана восточным походом, 15 октября 1211 года ударил через реку Риндак у Лопадия небольшим, но дисциплинированным отрядом рыцарей и пехоты. Никейцы были разгромлены, несмотря на численный перевес, — поражение оказалось достаточно серьёзным, чтобы Феодор больше не мог оспаривать латинский контроль над оставшимся анклавом у Пиг. Потеря заставила его признать, что Никея не может бесконечно вести войну на два фронта, что подготовило почву для переговорного урегулирования вместо продолжения похода — признание пределов возможного, которое определит никейскую стратегию в отношении Латинской империи на десятилетия вперёд.",
+      "latitude": 40.1667,
+      "longitude": 28.5667,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_the_Rhyndacus_(1211)",
+      "tags": [
+        "Byzantine",
+        "Nicaea",
+        "Latin Empire",
+        "War",
+        "Defeat"
+      ]
+    },
+    {
+      "date": "01.01.1214",
+      "era": "AD",
+      "type": "political",
+      "name": "Treaty of Nymphaeum Fixes the Nicaea-Latin Frontier",
+      "name_ru": "Нимфейский договор устанавливает границу между Никеей и Латинской империей",
+      "description": "Three years of inconclusive fighting after the Rhyndacus defeat convinced both sides to negotiate rather than keep bleeding for marginal territory. Theodore I Laskaris and Latin emperor Henry of Flanders concluded the Treaty of Nymphaeum in 1214, drawing a fixed border across northwestern Asia Minor: the Latins kept a narrow coastal strip including Nicomedia and the approaches to the Bosporus, while Nicaea received the bulk of Bithynia and the Aegean coastline further south. The settlement held for decades, freeing Theodore from the immediate threat of Latin expansion and letting him turn his attention toward securing his southern and eastern borders instead. It was the first formal recognition by a European power that the Empire of Nicaea was a durable state rather than a temporary refugee encampment, and it bought the young empire the breathing room it needed to build lasting institutions.",
+      "description_ru": "Три года безрезультатных боёв после поражения при Риндаке убедили обе стороны, что выгоднее договориться, чем и дальше проливать кровь за второстепенные земли. Феодор I Ласкарь и латинский император Генрих Фландрский заключили в 1214 году Нимфейский договор, установивший чёткую границу через северо-запад Малой Азии: латиняне сохранили узкую прибрежную полосу с Никомидией и подступами к Босфору, а Никея получила основную часть Вифинии и эгейское побережье южнее. Соглашение продержалось десятилетиями, избавив Феодора от непосредственной угрозы латинской экспансии и позволив ему обратить внимание на укрепление южных и восточных границ. Это было первое официальное признание европейской державой того, что Никейская империя — не временный лагерь беженцев, а прочное государство, и оно дало молодой империи передышку, необходимую для построения устойчивых институтов.",
+      "latitude": 38.4236,
+      "longitude": 27.4189,
+      "source": "https://en.wikipedia.org/wiki/Treaty_of_Nymphaeum_(1214)",
+      "tags": [
+        "Byzantine",
+        "Nicaea",
+        "Latin Empire",
+        "Treaty",
+        "Political"
+      ]
+    },
+    {
+      "date": "01.12.1221",
+      "era": "AD",
+      "type": "political",
+      "name": "John III Vatatzes Succeeds Theodore I Amid a Succession Dispute",
+      "name_ru": "Иоанн III Ватац наследует Феодору I на фоне кризиса престолонаследия",
+      "description": "When Theodore I Laskaris died in November 1221, the throne did not pass to a son — he had none surviving — but to his son-in-law, John Vatatzes, a capable general married to Theodore's eldest daughter, Irene Laskarina. Theodore's own brothers, Alexios and Isaac Laskaris, considered themselves the rightful heirs by blood and refused to accept a son-in-law's claim over their own, especially given Vatatzes' comparatively modest aristocratic pedigree. Unable to prevail at court, the brothers fled to Constantinople and appealed to the Latin emperor Robert of Courtenay for military backing to unseat him. John III's succession therefore began not as a settled transition but as an open crisis, one that would only be resolved on the battlefield rather than through negotiation — a pattern of contested inheritance that would recur throughout the Laskarid dynasty's brief history.",
+      "description_ru": "Когда в ноябре 1221 года Феодор I Ласкарь умер, престол перешёл не к сыну — сыновей у него не осталось в живых, — а к зятю, Иоанну Ватацу, способному полководцу, женатому на старшей дочери Феодора Ирине Ласкарине. Родные братья Феодора, Алексей и Исаак Ласкарисы, считали себя законными наследниками по крови и отказывались признавать право зятя выше собственного, тем более что происхождение Ватаца было куда скромнее. Не сумев одержать верх при дворе, братья бежали в Константинополь и обратились к латинскому императору Роберту де Куртене за военной поддержкой, чтобы свергнуть его. Так воцарение Иоанна III началось не как упорядоченный переход власти, а как открытый кризис, который предстояло разрешить не переговорами, а на поле боя, — модель оспариваемого наследования, которая будет повторяться на протяжении всей недолгой истории династии Ласкарисов.",
+      "latitude": 40.4306,
+      "longitude": 29.7217,
+      "source": "https://en.wikipedia.org/wiki/John_III_Doukas_Vatatzes",
+      "tags": [
+        "Byzantine",
+        "Nicaea",
+        "Succession",
+        "Political"
+      ]
+    },
+    {
+      "date": "01.01.1224",
+      "era": "AD",
+      "type": "military",
+      "name": "Battle of Poimanenon Crushes the Latin-Backed Rebellion",
+      "name_ru": "Битва при Пиманионе подавляет мятеж, поддержанный латинянами",
+      "description": "The succession dispute that began with Theodore I's death came to a head in 1224 at Poimanenon, where John III Vatatzes met the combined forces of his rivals Alexios and Isaac Laskaris and their Latin sponsors in open battle. The Nicaean army won decisively, breaking the rebellion and eliminating the last serious internal challenge to Vatatzes' authority. The victory did more than settle a family quarrel: the defeated Latin Empire, already weakened by years of attrition, was forced into major territorial concessions the following year, ceding most of its remaining possessions in Asia Minor. Emboldened, John III crossed into Europe for the first time, seizing the strategic city of Adrianople in Thrace in 1225. What had opened as a contested succession closed as Nicaea's decisive military and diplomatic turning point, marking its transformation from a regional Anatolian power into a genuine contender for Constantinople itself.",
+      "description_ru": "Кризис престолонаследия, начавшийся со смертью Феодора I, разрешился в 1224 году при Пиманионе, где Иоанн III Ватац сошёлся в открытом бою с объединёнными силами соперников — Алексея и Исаака Ласкарисов — и их латинских покровителей. Никейское войско одержало решительную победу, сломив мятеж и устранив последнюю серьёзную внутреннюю угрозу власти Ватаца. Победа значила больше, чем улаживание семейной распри: разбитая Латинская империя, и без того ослабленная годами истощения, на следующий год была вынуждена пойти на крупные территориальные уступки, отдав большую часть оставшихся владений в Малой Азии. Воодушевлённый успехом, Иоанн III впервые переправился в Европу, захватив в 1225 году стратегически важный Адрианополь во Фракии. То, что началось как оспариваемое наследование, завершилось решающим военным и дипломатическим переломом для Никеи, ознаменовавшим её превращение из региональной анатолийской державы в настоящего претендента на Константинополь.",
+      "latitude": 40.1333,
+      "longitude": 27.95,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Poimanenon",
+      "tags": [
+        "Byzantine",
+        "Nicaea",
+        "Latin Empire",
+        "War",
+        "Victory"
+      ]
+    },
+    {
+      "date": "01.01.1227",
+      "era": "AD",
+      "type": "military",
+      "name": "Epirus Expels Nicaea from Adrianople",
+      "name_ru": "Эпир изгоняет никейцев из Адрианополя",
+      "description": "John III's foothold in Europe proved short-lived. Theodore Komnenos Doukas, ruler of the rival Byzantine successor state of Epirus and recently crowned as his own rival emperor at Thessalonica, saw Nicaea's expansion into Thrace as an intolerable challenge to his own ambitions of restoring Byzantium from the west rather than the east. In 1227 his forces drove the Nicaean garrison out of Adrianople and annexed much of Thrace for Epirus instead, reversing John III's gains of only two years earlier. The setback confirmed that Nicaea was not the only Byzantine successor state with imperial ambitions: Epirus, controlling Greece and much of the southern Balkans, was a genuine rival for the eventual restoration of Constantinople, and the two Greek states would remain locked in competition for the next three decades until one of them proved decisive.",
+      "description_ru": "Закрепление Иоанна III в Европе оказалось недолгим. Феодор Комнин Дука, правитель соперничающего византийского преемника — Эпира, — незадолго до этого коронованный в Фессалонике собственным императором-соперником, счёл экспансию Никеи во Фракию нетерпимым вызовом собственным замыслам восстановить Византию с запада, а не с востока. В 1227 году его войска выбили никейский гарнизон из Адрианополя и присоединили большую часть Фракии к Эпиру, обратив вспять успехи Иоанна III, достигнутые лишь двумя годами ранее. Неудача подтвердила, что Никея была не единственным византийским преемником с имперскими притязаниями: Эпир, контролировавший Грецию и значительную часть южных Балкан, оставался настоящим соперником в борьбе за будущее восстановление Константинополя, и оба греческих государства будут соперничать друг с другом ещё три десятилетия, пока один из них не одержит окончательный верх.",
+      "latitude": 41.6771,
+      "longitude": 26.5557,
+      "source": "https://en.wikipedia.org/wiki/Despotate_of_Epirus",
+      "tags": [
+        "Byzantine",
+        "Nicaea",
+        "Epirus",
+        "War",
+        "Rivalry"
+      ]
+    },
+    {
+      "date": "01.01.1235",
+      "era": "AD",
+      "type": "military",
+      "name": "Nicaea and Bulgaria Jointly Besiege Constantinople",
+      "name_ru": "Никея и Болгария совместно осаждают Константинополь",
+      "description": "With Epirus's ambitions checked by Bulgaria's crushing victory over Theodore Komnenos Doukas at Klokotnitsa in 1230, John III saw an opening to attempt what no Nicaean ruler had yet dared: taking Constantinople itself. He sealed an alliance with Tsar Ivan Asen II of Bulgaria through the restoration of the Bulgarian patriarchate and a marriage between his son Theodore and Asen's daughter Elena, and in 1235 the two powers launched a joint campaign against the Latin capital. Nicaean ships blockaded the city by sea while Bulgarian and Nicaean troops besieged it by land through 1236, but the Latin garrison held out with help from a Venetian fleet, and the coalition failed to breach the walls. The failure taught John III a lasting lesson: Constantinople could not be taken by a sudden strike, only worn down gradually by controlling the territory and trade routes around it — a strategy he pursued patiently for the rest of his reign.",
+      "description_ru": "Когда амбиции Эпира были подорваны сокрушительной победой Болгарии над Феодором Комнином Дукой при Клокотнице в 1230 году, Иоанн III увидел возможность решиться на то, чего ещё не пытался ни один никейский правитель, — взять сам Константинополь. Он скрепил союз с царём Болгарии Иваном Асенем II восстановлением болгарской патриархии и браком своего сына Феодора с дочерью Асеня Еленой, и в 1235 году обе державы начали совместный поход против латинской столицы. Никейский флот блокировал город с моря, а болгарские и никейские войска осаждали его с суши вплоть до 1236 года, но латинский гарнизон устоял благодаря помощи венецианского флота, и коалиции не удалось пробить стены. Неудача преподала Иоанну III важный урок: Константинополь нельзя взять внезапным ударом — его можно только постепенно измотать, установив контроль над окрестными землями и торговыми путями, — стратегию, которой он терпеливо придерживался до конца своего правления.",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Constantinople_(1235)",
+      "tags": [
+        "Byzantine",
+        "Nicaea",
+        "Bulgaria",
+        "Latin Empire",
+        "War",
+        "Siege"
+      ]
+    },
+    {
+      "date": "01.01.1238",
+      "era": "AD",
+      "type": "cultural",
+      "name": "Nikephoros Blemmydes Founds a School for the Nicaean Court",
+      "name_ru": "Никифор Влеммид основывает школу для никейского двора",
+      "description": "Displaced from Constantinople as a child by the Fourth Crusade, the physician's son Nikephoros Blemmydes grew up studying medicine, philosophy, mathematics, astronomy, and theology across the cities of Nicaean Asia Minor. By the late 1230s he had become the most learned man in the empire and founded a school where he tutored the future emperor Theodore II Laskaris alongside the historian George Akropolites, transmitting the full range of classical Greek learning to the next generation of Nicaean leadership. Blemmydes' scholarship extended beyond teaching: he collected and preserved rare manuscripts, including a copy of missing books from Ovid's Fasti, and later wrote influential treatises on logic and physics still studied today. His school reflected a deliberate policy under John III of treating cultural continuity as seriously as military reconquest — Nicaea would restore Byzantium not just as territory, but as a civilization.",
+      "description_ru": "Оторванный от Константинополя ещё ребёнком после Четвёртого крестового похода, сын врача Никифор Влеммид рос, изучая медицину, философию, математику, астрономию и богословие в городах никейской Малой Азии. К концу 1230-х годов он стал самым учёным человеком империи и основал школу, где обучал будущего императора Феодора II Ласкаря вместе с историком Георгием Акрополитом, передавая следующему поколению никейских правителей всю полноту классической греческой учёности. Учёные занятия Влеммида не ограничивались преподаванием: он собирал и сохранял редкие рукописи, включая список утраченных книг из «Фаст» Овидия, а позже написал влиятельные труды по логике и физике, изучаемые и поныне. Его школа отражала осознанную политику Иоанна III, считавшего культурную преемственность не менее важной, чем военное отвоевание земель, — Никея восстанавливала Византию не только как территорию, но и как цивилизацию.",
+      "latitude": 40.4306,
+      "longitude": 29.7217,
+      "source": "https://en.wikipedia.org/wiki/Nikephoros_Blemmydes",
+      "tags": [
+        "Byzantine",
+        "Nicaea",
+        "Culture",
+        "Science",
+        "Education"
+      ]
+    },
+    {
+      "date": "01.01.1246",
+      "era": "AD",
+      "type": "political",
+      "name": "John III Vatatzes Annexes Thessalonica and Bulgarian Thrace",
+      "name_ru": "Иоанн III Ватац присоединяет Фессалонику и болгарскую Фракию",
+      "description": "A decade after the failed siege of Constantinople, John III turned his patient strategy of encirclement into concrete gains. Taking advantage of Ivan Asen II's death in 1241, which left Bulgaria without its ablest ruler, John III imposed his overlordship on Thessalonica in 1242 and by 1246 annexed the city outright along with a large swath of Bulgarian Thrace, absorbing territory from both of his former rivals in a single sweeping campaign. Thessalonica had been Epirus's second capital and the seat of its own rival imperial claim; its loss effectively ended Epirus's ability to compete for Constantinople on equal terms. By 1247 John III's forces held a near-continuous ring of territory around the Latin capital, from Asia Minor across the Aegean into Thrace and Macedonia. The empire founded as a refugee government in Bithynia four decades earlier now controlled more Byzantine territory than either of its rivals in Epirus or Trebizond.",
+      "description_ru": "Через десять лет после неудачной осады Константинополя Иоанн III обратил свою терпеливую стратегию окружения в конкретные приобретения. Воспользовавшись смертью Ивана Асеня II в 1241 году, лишившей Болгарию её самого способного правителя, Иоанн III в 1242 году установил сюзеренитет над Фессалоникой, а к 1246 году прямо присоединил город вместе с обширной полосой болгарской Фракии, отобрав земли сразу у обоих прежних соперников в одном стремительном походе. Фессалоника была второй столицей Эпира и центром его собственных императорских притязаний; её потеря фактически лишила Эпир возможности на равных бороться за Константинополь. К 1247 году войска Иоанна III удерживали почти сплошное кольцо земель вокруг латинской столицы — от Малой Азии через Эгейское море до Фракии и Македонии. Империя, основанная сорок лет назад как беженское правительство в Вифинии, теперь контролировала больше византийских земель, чем любой из её соперников — Эпир или Трапезунд.",
+      "latitude": 40.6401,
+      "longitude": 22.9444,
+      "source": "https://en.wikipedia.org/wiki/John_III_Doukas_Vatatzes",
+      "tags": [
+        "Byzantine",
+        "Nicaea",
+        "Epirus",
+        "Bulgaria",
+        "Conquest",
+        "Political"
+      ]
+    },
+    {
+      "date": "01.01.1250",
+      "era": "AD",
+      "type": "cultural",
+      "name": "John III Vatatzes Builds Prosperity Through Domestic Self-Sufficiency",
+      "name_ru": "Иоанн III Ватац строит процветание через внутреннюю самодостаточность",
+      "description": "Unlike most medieval rulers who measured success purely in battles and territory, John III Vatatzes built his reputation equally on domestic governance. Despite suffering from epilepsy, he provided active leadership in both war and peace, encouraging justice and charity while carefully developing the internal prosperity and commerce of Nicaean Asia Minor. His realm became known for its bountiful harvest festivals and orderly administration, a deliberate contrast with the impoverished, garrison-like Latin Empire it was slowly encircling. Popular memory would come to credit him with almost saintly frugality and care for ordinary subjects rather than courtly extravagance. Half a century after his death, the Orthodox Church formally canonized him as a saint under the name John Vatatzes the Merciful, and a cult of veneration spread quickly among the Greek population of western Asia Minor — an unusually durable legacy for a ruler remembered mainly as a soldier and statesman.",
+      "description_ru": "В отличие от большинства средневековых правителей, измерявших успех исключительно битвами и территорией, Иоанн III Ватац строил свою репутацию в равной мере на внутреннем управлении. Несмотря на эпилепсию, он деятельно руководил и на войне, и в мирное время, поощряя справедливость и милосердие, тщательно развивая внутреннее процветание и торговлю никейской Малой Азии. Его владения славились обильными праздниками урожая и упорядоченным управлением — намеренный контраст с обнищавшей, похожей на военный гарнизон Латинской империей, которую он медленно окружал. Народная память приписывала ему почти святую скромность и заботу о простых подданных вместо придворной роскоши. Через полвека после его смерти православная церковь канонизировала его как святого под именем Иоанна Ватаца Милостивого, и почитание быстро распространилось среди греческого населения западной Малой Азии — необычно долгая память о правителе, известном прежде всего как воин и государственный деятель.",
+      "latitude": 38.4236,
+      "longitude": 27.4189,
+      "source": "https://en.wikipedia.org/wiki/John_III_Doukas_Vatatzes",
+      "tags": [
+        "Byzantine",
+        "Nicaea",
+        "Economic",
+        "Culture"
+      ]
+    },
+    {
+      "date": "04.11.1254",
+      "era": "AD",
+      "type": "political",
+      "name": "Theodore II Laskaris Succeeds and Purges the Aristocracy",
+      "name_ru": "Феодор II Ласкарь наследует престол и проводит чистку знати",
+      "description": "John III Vatatzes died at Nymphaion on 3 November 1254, and his only son Theodore II succeeded him the following day without contest — a rare smooth transition in Laskarid history. The new emperor had been raised and educated by the scholar Nikephoros Blemmydes and had already served as his father's lieutenant in Asia Minor, but he harbored deep resentment toward the aristocratic families who had long treated him coldly for his father's relatively humble Vatatzes lineage. On taking the throne, Theodore dismissed a wide swath of high officials and army commanders of noble birth and replaced them with loyal friends of his own choosing, including several of low social origin such as the courtier George Mouzalon. The purge secured Theodore's personal control over the government, but it left the displaced aristocracy nursing grievances that would erupt violently within just four years of his reign.",
+      "description_ru": "Иоанн III Ватац умер в Нимфее 3 ноября 1254 года, и на следующий день ему без каких-либо споров наследовал единственный сын Феодор II — редкий случай гладкого перехода власти в истории династии Ласкарисов. Новый император был воспитан и обучен учёным Никифором Влеммидом и уже служил наместником отца в Малой Азии, но затаил глубокую обиду на знатные семьи, долгие годы холодно относившиеся к нему из-за сравнительно скромного происхождения рода Ватацев. Взойдя на трон, Феодор отстранил значительную часть высших чиновников и военачальников знатного происхождения, заменив их преданными людьми по собственному выбору, включая нескольких незнатного происхождения, таких как придворный Георгий Музалон. Чистка обеспечила Феодору личный контроль над управлением, но оставила отстранённую знать с обидами, которые прорвутся насилием всего через четыре года его правления.",
+      "latitude": 40.4306,
+      "longitude": 29.7217,
+      "source": "https://en.wikipedia.org/wiki/Theodore_II_Laskaris",
+      "tags": [
+        "Byzantine",
+        "Nicaea",
+        "Political",
+        "Succession"
+      ]
+    },
+    {
+      "date": "01.01.1256",
+      "era": "AD",
+      "type": "military",
+      "name": "Theodore II Forces Epirus to Cede Dyrrachium",
+      "name_ru": "Феодор II вынуждает Эпир уступить Диррахий",
+      "description": "Two years into his reign, Theodore II turned to the unfinished business of his father's rivalry with Epirus. In 1256, after repelling a Bulgarian invasion of Thrace and Macedonia, he pressed Michael II Komnenos Doukas, the ruler of Epirus, into ceding the strategic Adriatic port of Dyrrachium to Nicaea. The concession extended Nicaean influence across the Balkans from the Aegean nearly to the Adriatic coast, squeezing Epirus's territory from multiple directions at once. Theodore also reorganized the Nicaean military during these years, recruiting more heavily from the native peasantry of Asia Minor rather than relying solely on foreign mercenaries and the established aristocracy — a policy that widened the army's manpower base but further alienated the noble families he had already sidelined. Michael II, humiliated and squeezed, began seeking allies of his own among the Latin powers of the Balkans and Italy.",
+      "description_ru": "На третьем году правления Феодор II занялся незавершённым делом отцовского соперничества с Эпиром. В 1256 году, отразив болгарское вторжение во Фракию и Македонию, он вынудил правителя Эпира Михаила II Комнина Дуку уступить Никее стратегический адриатический порт Диррахий. Уступка распространила никейское влияние по Балканам от Эгейского моря почти до адриатического побережья, сжимая владения Эпира сразу с нескольких сторон. В эти же годы Феодор реорганизовал никейское войско, набирая больше воинов из коренного крестьянства Малой Азии, а не полагаясь только на иноземных наёмников и знать, — политика, расширившая базу армии, но ещё больше отдалившая уже отстранённые знатные семьи. Униженный и стеснённый Михаил II начал искать собственных союзников среди латинских держав Балкан и Италии.",
+      "latitude": 41.3231,
+      "longitude": 19.4414,
+      "source": "https://en.wikipedia.org/wiki/Theodore_II_Laskaris",
+      "tags": [
+        "Byzantine",
+        "Nicaea",
+        "Epirus",
+        "War",
+        "Conquest"
+      ]
+    },
+    {
+      "date": "23.08.1258",
+      "era": "AD",
+      "type": "political",
+      "name": "George Mouzalon Is Assassinated, Michael Palaiologos Seizes the Regency",
+      "name_ru": "Убийство Георгия Музалона и захват регентства Михаилом Палеологом",
+      "description": "Theodore II died at Magnesia on 16 August 1258, leaving the throne to his seven-year-old son John IV under the regency of George Mouzalon, the low-born courtier Theodore had elevated over the heads of the old aristocracy. The arrangement lasted only days. The nobles Theodore had purged four years earlier saw their chance, and within a week of the funeral a group of soldiers and aristocrats murdered Mouzalon and his brothers inside a monastery church during a memorial service. Michael Palaiologos, a nobleman with his own distant claim to the throne through the Doukas line and a reputation as Nicaea's most capable general, stepped into the resulting power vacuum and had himself installed as regent for the child emperor. What began as revenge against a resented favorite ended with the empire's most ambitious aristocrat in effective control of the government, setting the stage for a far more consequential seizure of power.",
+      "description_ru": "Феодор II умер в Магнесии 16 августа 1258 года, оставив трон семилетнему сыну Иоанну IV под регентством Георгия Музалона — незнатного придворного, которого Феодор возвысил над головами старой знати. Устройство продержалось всего несколько дней. Знать, отстранённая Феодором четырьмя годами ранее, увидела свой шанс, и уже через неделю после похорон группа солдат и аристократов убила Музалона и его братьев в монастырской церкви во время поминальной службы. Михаил Палеолог, знатный вельможа с собственными, хоть и отдалёнными правами на престол по линии Дук и репутацией самого способного никейского полководца, воспользовался образовавшимся вакуумом власти и добился назначения регентом при малолетнем императоре. То, что началось как месть ненавистному фавориту, завершилось тем, что самый честолюбивый аристократ империи получил фактический контроль над правительством, подготовив почву для куда более значимого захвата власти.",
+      "latitude": 37.5814,
+      "longitude": 27.5347,
+      "source": "https://en.wikipedia.org/wiki/John_IV_Laskaris",
+      "tags": [
+        "Byzantine",
+        "Nicaea",
+        "Political",
+        "Regency",
+        "Assassination"
+      ]
+    },
+    {
+      "date": "01.01.1259",
+      "era": "AD",
+      "type": "political",
+      "name": "Michael Palaiologos Crowns Himself Co-Emperor as Michael VIII",
+      "name_ru": "Михаил Палеолог коронует себя соправителем под именем Михаила VIII",
+      "description": "Regent in name only, Michael Palaiologos moved quickly to convert his control of the government into a formal claim on the throne itself. On 1 January 1259, he had himself crowned co-emperor alongside the eight-year-old John IV, taking the name Michael VIII — a title that placed him, on paper, as an equal partner in rule but that in practice made him the empire's sole effective decision-maker. The coronation was a calculated escalation: a regent could be removed once his ward came of age, but a crowned co-emperor with an experienced power base among the military and bureaucracy was far harder to dislodge. Patriarch Arsenios Autoreianos, who performed the ceremony, would later regret his role bitterly, but at the time there was little practical alternative to accepting the arrangement. The Laskarid dynasty's dynastic exclusivity, intact since 1204, was now formally broken.",
+      "description_ru": "Оставаясь регентом лишь по названию, Михаил Палеолог поспешил превратить контроль над правительством в официальное право на сам престол. 1 января 1259 года он короновался соправителем рядом с восьмилетним Иоанном IV, приняв имя Михаил VIII, — титул, формально уравнивавший его в правлении, но фактически сделавший его единственным реальным правителем империи. Коронация была расчётливой эскалацией: регента можно было отстранить по достижении подопечным совершеннолетия, но коронованного соправителя с опытной опорой в армии и чиновничестве сместить было куда труднее. Патриарх Арсений Авториан, проведший церемонию, впоследствии горько сожалел о своей роли, но в тот момент реальной альтернативы принять такое положение дел почти не было. Династическая исключительность Ласкарисов, нерушимая с 1204 года, теперь была формально нарушена.",
+      "latitude": 40.4306,
+      "longitude": 29.7217,
+      "source": "https://en.wikipedia.org/wiki/Michael_VIII_Palaiologos",
+      "tags": [
+        "Byzantine",
+        "Nicaea",
+        "Political",
+        "Coronation",
+        "Usurpation"
+      ]
+    },
+    {
+      "date": "01.09.1259",
+      "era": "AD",
+      "type": "military",
+      "name": "Battle of Pelagonia Shatters the Anti-Nicaean Coalition",
+      "name_ru": "Битва при Пелагонии сокрушает антиникейскую коалицию",
+      "description": "Alarmed by Nicaea's growing power, Michael II of Epirus assembled the broadest anti-Nicaean coalition yet, allying with the Principality of Achaea under William of Villehardouin and the Kingdom of Sicily under Manfred of Hohenstaufen. The combined army met a Nicaean force commanded by Michael VIII's brother John Palaiologos, with the general Alexios Strategopoulos, on the plain of Pelagonia in 1259. Internal distrust doomed the coalition before the fighting even began: Michael II's illegitimate son John Doukas defected to the Nicaeans mid-battle, and the coalition's Latin and Greek contingents fought with little coordination. The result was a rout. William of Villehardouin and several other Latin lords were captured, and Epirus's alliance with the western powers collapsed entirely. Pelagonia removed the last serious military obstacle standing between Nicaea and Constantinople, clearing the way for the campaign that would end the Latin occupation within two years.",
+      "description_ru": "Встревоженный растущей мощью Никеи, Михаил II Эпирский собрал самую широкую антиникейскую коалицию из всех — заключив союз с Ахейским княжеством Гийома де Виллардуэна и Сицилийским королевством Манфреда Гогенштауфена. Объединённое войско встретилось с никейскими силами под командованием брата Михаила VIII, Иоанна Палеолога, и полководца Алексея Стратигопула на равнине Пелагонии в 1259 году. Взаимное недоверие погубило коалицию ещё до начала боя: незаконнорождённый сын Михаила II, Иоанн Дука, перешёл на сторону никейцев прямо во время сражения, а латинские и греческие отряды коалиции действовали несогласованно. Итогом стал разгром. Гийом де Виллардуэн и несколько других латинских сеньоров попали в плен, а союз Эпира с западными державами полностью развалился. Пелагония устранила последнее серьёзное военное препятствие между Никеей и Константинополем, открыв путь походу, который менее чем через два года положит конец латинской оккупации.",
+      "latitude": 41.0297,
+      "longitude": 21.3347,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Pelagonia",
+      "tags": [
+        "Byzantine",
+        "Nicaea",
+        "Epirus",
+        "War",
+        "Victory"
+      ]
+    },
+    {
+      "date": "25.07.1261",
+      "era": "AD",
+      "type": "military",
+      "name": "Alexios Strategopoulos Retakes Constantinople for Nicaea",
+      "name_ru": "Алексей Стратигопул отвоёвывает Константинополь для Никеи",
+      "description": "With the Latin Empire's western allies broken at Pelagonia, Michael VIII sent Alexios Strategopoulos toward Constantinople in July 1261, ostensibly just to probe Bulgarian territory near the city with a modest force of about eight hundred men. Local farmers informed Strategopoulos that the city's Latin garrison and much of the Venetian fleet were away raiding the Nicaean-held island of Daphnousia, leaving Constantinople almost undefended. On the night of 25 July, a small party slipped through the unguarded Gate of the Spring, opened it from inside, and let the main force in; the Latin emperor Baldwin II fled by ship at dawn, abandoning his crown and sword in the panic. Fifty-seven years after Theodore I's flight into Bithynia, a Nicaean army walked into Constantinople almost without a fight, ending the Latin Empire and restoring Byzantine rule to the city where it had begun.",
+      "description_ru": "После того как западные союзники Латинской империи были разгромлены при Пелагонии, Михаил VIII в июле 1261 года направил Алексея Стратигопула к Константинополю якобы лишь для разведки болгарских земель близ города с небольшим отрядом около восьмисот человек. Местные крестьяне сообщили Стратигопулу, что латинский гарнизон города и большая часть венецианского флота ушли в набег на никейский остров Дафнусия, оставив Константинополь почти без защиты. В ночь на 25 июля небольшой отряд проник через неохраняемые Пиговские ворота, открыл их изнутри и впустил основные силы; латинский император Балдуин II на рассвете бежал на корабле, бросив в панике корону и меч. Спустя пятьдесят семь лет после бегства Феодора I в Вифинию никейское войско почти без боя вошло в Константинополь, положив конец Латинской империи и вернув византийскую власть городу, где она когда-то началась.",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "source": "https://en.wikipedia.org/wiki/Reconquest_of_Constantinople",
+      "tags": [
+        "Byzantine",
+        "Nicaea",
+        "Latin Empire",
+        "War",
+        "Victory"
+      ]
+    },
+    {
+      "date": "25.12.1261",
+      "era": "AD",
+      "type": "political",
+      "name": "Michael VIII Blinds John IV Laskaris, Ending the Laskarid Line",
+      "name_ru": "Михаил VIII ослепляет Иоанна IV Ласкаря, обрывая линию Ласкарисов",
+      "description": "Michael VIII had not brought young John IV Laskaris along on the triumphal entry into Constantinople; the boy was left behind at Nicaea while his co-emperor claimed sole credit for the restoration. On John's eleventh birthday, 25 December 1261, Michael had him blinded on imperial orders, a mutilation that under Byzantine law permanently disqualified a person from holding the throne. The act ended the Laskarid dynasty that had carried Byzantium through fifty-seven years of exile and formally cleared the way for Michael's own Palaiologan line to rule the restored empire without a rival claimant. Patriarch Arsenios Autoreianos, who had crowned Michael two years earlier, excommunicated him for the crime, triggering a schism within the Orthodox Church that would fester for decades. John spent the rest of his long life imprisoned as a monk in Bithynia, the last living reminder of the government-in-exile that had once saved Byzantium from extinction.",
+      "description_ru": "Михаил VIII не взял с собой юного Иоанна IV Ласкаря при триумфальном входе в Константинополь: мальчика оставили в Никее, пока соправитель единолично присваивал себе честь восстановления империи. В одиннадцатый день рождения Иоанна, 25 декабря 1261 года, Михаил приказал его ослепить — увечье, которое по византийскому праву навсегда лишало человека права на престол. Этот акт положил конец династии Ласкарисов, пронёсшей Византию через пятьдесят семь лет изгнания, и формально расчистил путь роду Палеологов к единоличному правлению восстановленной империей. Патриарх Арсений Авториан, короновавший Михаила двумя годами ранее, отлучил его за это преступление от церкви, вызвав раскол в православной церкви, тлевший десятилетиями. Иоанн провёл остаток долгой жизни в заточении как монах в Вифинии — последнее живое напоминание о правительстве в изгнании, некогда спасшем Византию от исчезновения.",
+      "latitude": 40.4306,
+      "longitude": 29.7217,
+      "source": "https://en.wikipedia.org/wiki/John_IV_Laskaris",
+      "tags": [
+        "Byzantine",
+        "Nicaea",
+        "Political",
+        "Decline"
+      ]
+    }
+  ]
+}
