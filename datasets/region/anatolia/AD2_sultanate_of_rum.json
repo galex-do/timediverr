@@ -1,0 +1,469 @@
+{
+  "description": "Dataset imported with 26 events",
+  "filename": "AD2_sultanate_of_rum.json",
+  "events": [
+    {
+      "date": "01.01.1077",
+      "era": "AD",
+      "type": "historic",
+      "name": "Suleiman ibn Qutalmish Founds the Sultanate of Rum",
+      "name_ru": "Сулейман ибн Кутулмыш основывает Румский султанат",
+      "latitude": 40.4267,
+      "longitude": 29.7211,
+      "description": "Suleiman ibn Qutalmish, a cousin of the Great Seljuk sultans, seizes the Byzantine city of Nicaea and makes it his capital, founding what will become the Sultanate of Rum. He is exploiting the chaos that followed the Byzantine defeat at Manzikert six years earlier, when Turkoman warbands flooded into a suddenly undefended Anatolia. Suleiman styles himself an independent ruler rather than a mere Seljuk governor, giving Turkish Anatolia its first lasting state. The name Rum, Arabic and Persian for Rome, reflects that this new Turkish sultanate rules territory the Muslim world still thought of as Byzantine, Roman land. From Nicaea, barely 90 kilometres from Constantinople, Suleiman's descendants will rule central Anatolia for more than two centuries, gradually turning the peninsula from a Greek Christian heartland into a Turkish Muslim one.",
+      "description_ru": "Сулейман ибн Кутулмыш, двоюродный брат сельджукских султанов, захватывает византийский город Никею и делает его своей столицей, положив начало государству, которое станет Румским султанатом. Он пользуется хаосом, наступившим после разгрома византийцев при Манцикерте шестью годами ранее, когда тюркские отряды хлынули во внезапно оставшуюся без защиты Анатолию. Сулейман объявляет себя независимым правителем, а не просто сельджукским наместником, — так тюркская Анатолия получает своё первое устойчивое государство. Название «Рум» — арабское и персидское обозначение Рима — отражает то, что новый тюркский султанат правит землёй, которую мусульманский мир по-прежнему считал византийской, римской. Из Никеи, всего в 90 километрах от Константинополя, потомки Сулеймана будут править центральной Анатолией более двух веков, постепенно превращая полуостров из греческого христианского в тюркский мусульманский.",
+      "source": "https://en.wikipedia.org/wiki/Sultanate_of_Rum",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Byzantine",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.1086",
+      "era": "AD",
+      "type": "military",
+      "name": "Suleiman ibn Qutalmish Dies Fighting Tutush Near Aleppo",
+      "name_ru": "Сулейман ибн Кутулмыш гибнет в бою с Тутушем под Алеппо",
+      "latitude": 36.2021,
+      "longitude": 37.1343,
+      "description": "Suleiman ibn Qutalmish, founder of the Sultanate of Rum, pushes south from Anatolia into northern Syria and seizes Antioch from the Byzantines, briefly extending his rule far beyond the Anatolian plateau. His ambitions collide with those of Tutush I, ruler of Seljuk Syria and brother of the Great Seljuk Sultan Malik-Shah I, who marches against him to defend his own claim to the region. The two Seljuk cousins meet in battle near Aleppo, and Suleiman is killed, either in the fighting or by his own hand rather than face capture. His death triggers a succession crisis: Malik-Shah, alarmed at a distant relative expanding so aggressively, takes Suleiman's young son Kilij Arslan hostage to Isfahan, and the fledgling Sultanate of Rum is left leaderless for six years, its territory administered by a Great Seljuk-appointed governor.",
+      "description_ru": "Сулейман ибн Кутулмыш, основатель Румского султаната, продвигается из Анатолии на юг, в северную Сирию, и отбирает у византийцев Антиохию, ненадолго распространив свою власть далеко за пределы Анатолийского плоскогорья. Его амбиции сталкиваются с притязаниями Тутуша I, правителя сельджукской Сирии и брата великого сельджукского султана Малик-шаха I, который выступает против него, защищая собственные права на область. Два сельджукских родственника сходятся в битве под Алеппо, и Сулейман погибает — либо в бою, либо от собственной руки, не желая попасть в плен. Его смерть вызывает кризис престолонаследия: встревоженный столь агрессивным усилением дальнего родственника, Малик-шах увозит малолетнего сына Сулеймана, Кылыч-Арслана, заложником в Исфахан, и молодой Румский султанат на шесть лет остаётся без правителя, а его землями управляет наместник, назначенный великими сельджуками.",
+      "source": "https://en.wikipedia.org/wiki/Suleiman_ibn_Qutalmish",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "War",
+        "Political"
+      ]
+    },
+    {
+      "date": "01.01.1092",
+      "era": "AD",
+      "type": "political",
+      "name": "Kilij Arslan I Is Freed and Restores Seljuk Rule at Nicaea",
+      "name_ru": "Кылыч-Арслан I освобождается и восстанавливает сельджукскую власть в Никее",
+      "latitude": 40.4267,
+      "longitude": 29.7211,
+      "description": "The death of the Great Seljuk Sultan Malik-Shah I throws the whole Seljuk world into a succession crisis, and in the confusion the captive Kilij Arslan, son of the Sultanate of Rum's founder Suleiman ibn Qutalmish, is released from his long detention in Isfahan. He makes his way back to Anatolia and reclaims his father's capital at Nicaea, ending six years in which the fledgling sultanate had been leaderless and administered as a Great Seljuk dependency. Kilij Arslan spends his early reign consolidating control over the Turkoman warbands scattered across Anatolia and extending his authority east toward Malatya, building the sultanate into a genuine regional power rather than a contested borderland. His restoration comes just five years before the sultanate faces its first true external threat: the armies of the First Crusade, marching straight toward his capital.",
+      "description_ru": "Смерть великого сельджукского султана Малик-шаха I ввергает весь сельджукский мир в кризис престолонаследия, и в этой неразберихе пленный Кылыч-Арслан, сын основателя Румского султаната Сулеймана ибн Кутулмыша, освобождается из долгого заточения в Исфахане. Он возвращается в Анатолию и вновь занимает отцовскую столицу — Никею, положив конец шести годам, в течение которых молодой султанат оставался без правителя и управлялся как зависимая территория великих сельджуков. В начале правления Кылыч-Арслан занят прежде всего установлением контроля над разрозненными тюркскими отрядами по всей Анатолии и распространением своей власти на восток, к Малатье, превращая султанат в подлинную региональную державу, а не в спорную пограничную область. Его возвращение к власти происходит всего за пять лет до того, как султанат столкнётся с первой настоящей внешней угрозой — армиями Первого крестового похода, идущими прямиком к его столице.",
+      "source": "https://en.wikipedia.org/wiki/Kilij_Arslan_I",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Political"
+      ]
+    },
+    {
+      "date": "19.06.1097",
+      "era": "AD",
+      "type": "military",
+      "name": "The First Crusade Storms Nicaea, Driving the Seljuks to Konya",
+      "name_ru": "Первый крестовый поход берёт Никею и вытесняет сельджуков в Конью",
+      "latitude": 40.4267,
+      "longitude": 29.7211,
+      "description": "The combined armies of the First Crusade, marching overland toward Jerusalem with Byzantine support, besiege Kilij Arslan I's capital at Nicaea for five weeks. Kilij Arslan is away campaigning against rival Turkoman lords in the east and rushes back too late; his relief attack is beaten off, and on 19 June the garrison surrenders, tricked into opening secret negotiations with the Byzantines rather than the crusaders, who wake to find imperial banners already flying over the walls. The Byzantines reclaim the city for the empire, denying the crusaders the plunder they expected and souring relations between the two allied forces from the outset. Robbed of his capital so close to Constantinople, Kilij Arslan permanently relocates the Sultanate of Rum's seat of power to Konya, deep in the Anatolian interior, a move that will define the geography of Turkish rule in Anatolia for the rest of the sultanate's existence.",
+      "description_ru": "Объединённые силы Первого крестового похода, идущие по суше к Иерусалиму при поддержке Византии, пять недель осаждают столицу Кылыч-Арслана I — Никею. Сам султан в это время воюет с соперничающими тюркскими вождями на востоке и возвращается слишком поздно: его попытка деблокировать город отбита, а 19 июня гарнизон сдаётся, тайно договорившись с византийцами, а не с крестоносцами, — те просыпаются и обнаруживают, что над стенами уже развеваются имперские знамёна. Византия возвращает город себе, лишая крестоносцев ожидаемой добычи и с самого начала портя отношения между союзниками. Лишившись столицы в такой близости от Константинополя, Кылыч-Арслан окончательно переносит центр власти Румского султаната в Конью, вглубь анатолийского нагорья, — этот шаг определит географию тюркского владычества в Анатолии до самого конца существования султаната.",
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Nicaea_(1097)",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Byzantine",
+        "Crusade",
+        "War"
+      ]
+    },
+    {
+      "date": "01.09.1101",
+      "era": "AD",
+      "type": "military",
+      "name": "Kilij Arslan I Annihilates the Crusader Armies of 1101",
+      "name_ru": "Кылыч-Арслан I уничтожает крестоносные армии 1101 года",
+      "latitude": 39.7767,
+      "longitude": 34.8,
+      "description": "Alarmed by news of the First Crusade's success at Jerusalem, three fresh waves of crusaders, mostly Lombards, Franks and Germans, march across Anatolia the following summer, aiming to reinforce the new Crusader States. Kilij Arslan I, having learned from Nicaea's fall, now commands a coalition of Turkish and Danishmendid forces who shadow and harass the crusader columns rather than meeting them in a single pitched battle. One by one the three armies are cut off from water and supplies in the Anatolian interior and destroyed near Mersivan, Heraclea and along the Cilician coast, with tens of thousands killed or enslaved and only a handful of leaders escaping. The catastrophe is one of the worst crusader defeats of the era and proves that the Sultanate of Rum, so recently humbled at Nicaea, has become the single greatest obstacle to any land route across Anatolia.",
+      "description_ru": "Встревоженные вестью об успехе Первого крестового похода под Иерусалимом, следующим летом через Анатолию проходят три новые волны крестоносцев — в основном ломбардцы, франки и немцы, — стремящиеся усилить недавно созданные государства крестоносцев. Кылыч-Арслан I, извлёкший урок из падения Никеи, теперь возглавляет коалицию тюркских и данишмендидских сил, которые преследуют и изматывают колонны крестоносцев, избегая одного решающего сражения. Одна за другой три армии отрезаются от воды и припасов в глубине Анатолии и уничтожаются близ Мерсивана, Гераклеи и на киликийском побережье: десятки тысяч убиты или обращены в рабство, спастись удаётся лишь горстке предводителей. Эта катастрофа — одно из тяжелейших поражений крестоносцев той эпохи, и она доказывает, что Румский султанат, совсем недавно униженный под Никеей, стал главным препятствием на любом сухопутном пути через Анатолию.",
+      "source": "https://en.wikipedia.org/wiki/Crusade_of_1101",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Crusade",
+        "War"
+      ]
+    },
+    {
+      "date": "01.01.1107",
+      "era": "AD",
+      "type": "military",
+      "name": "Kilij Arslan I Drowns Fleeing the Battle of the Khabur River",
+      "name_ru": "Кылыч-Арслан I тонет, спасаясь после битвы на реке Хабур",
+      "latitude": 35.5,
+      "longitude": 40.6,
+      "description": "Kilij Arslan I, having twice destroyed crusader armies and restored his sultanate's fortunes, turns his ambitions south and seizes Mosul from its Great Seljuk governor, pushing the Sultanate of Rum's power further into Upper Mesopotamia than it will ever reach again. The Great Seljuk Sultan Muhammad I Tapar sends an army to reclaim the city, and the two Turkish forces clash on the banks of the Khabur River. Kilij Arslan's army is routed, and the sultan himself drowns attempting to escape across the river, ending a reign that had rescued the sultanate from near-destruction at Nicaea and rebuilt it into a serious regional power. His death plunges Rum into another succession struggle among his sons, and the Danishmendid emirate to the east, checked for years by Kilij Arslan's strength, is left free to grow into the sultanate's principal Turkish rival for the next two generations.",
+      "description_ru": "Кылыч-Арслан I, дважды разгромивший армии крестоносцев и вернувший своему султанату силу, обращает взор на юг и отбирает Мосул у его сельджукского наместника, продвинув власть Румского султаната в Верхнюю Месопотамию дальше, чем когда-либо впоследствии. Великий сельджукский султан Мухаммад I Тапар посылает войско, чтобы вернуть город, и два тюркских войска сходятся на берегах реки Хабур. Армия Кылыч-Арслана разбита, а сам султан тонет, пытаясь переправиться через реку, — так заканчивается правление, которое спасло султанат от почти полного краха под Никеей и превратило его в серьёзную региональную державу. Его смерть ввергает Рум в новую борьбу за престол между сыновьями, а данишмендидский эмират на востоке, годами сдерживаемый силой Кылыч-Арслана, получает свободу вырасти в главного тюркского соперника султаната на два следующих поколения.",
+      "source": "https://en.wikipedia.org/wiki/Kilij_Arslan_I",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "War"
+      ]
+    },
+    {
+      "date": "01.01.1116",
+      "era": "AD",
+      "type": "political",
+      "name": "Mesud I Seizes the Sultanate With Danishmendid Backing",
+      "name_ru": "Масуд I захватывает султанат при поддержке данишмендидов",
+      "latitude": 37.8746,
+      "longitude": 32.4932,
+      "description": "The decade following Kilij Arslan I's death is consumed by a fratricidal contest between his sons for control of the Sultanate of Rum. Mesud, one of the younger sons, allies himself with the Danishmendid emir Ghazi Gumushtigin, the sultanate's most powerful Turkish neighbor, and with Danishmendid troops behind him drives out his brother Malik Shah, who had held Konya with Byzantine backing. Mesud's victory ties the Sultanate of Rum's fortunes closely to the Danishmendids for the next generation, a dependence he will only shake off decades later. His reign, though it begins as a client of a rival dynasty, will prove to be one of the longest and steadiest of the sultanate's history, stabilizing Rum after two decades of near-continuous succession warfare and setting it up to face the coming Second Crusade from a position of real strength.",
+      "description_ru": "Десятилетие после смерти Кылыч-Арслана I проходит в братоубийственной борьбе его сыновей за власть над Румским султанатом. Масуд, один из младших сыновей, заключает союз с данишмендидским эмиром Гази Гюмюштегином — самым могущественным тюркским соседом султаната — и с данишмендидскими войсками изгоняет своего брата Малик-шаха, удерживавшего Конью при поддержке Византии. Победа Масуда тесно привязывает судьбу Румского султаната к данишмендидам на следующее поколение — зависимость, от которой он избавится лишь десятилетия спустя. Его правление, начавшееся с положения вассала соперничающей династии, окажется одним из самых долгих и устойчивых в истории султаната: оно стабилизирует Рум после двадцати лет почти непрерывных междоусобных войн и позволит встретить надвигающийся Второй крестовый поход в положении подлинной силы.",
+      "source": "https://en.wikipedia.org/wiki/Mesud_I",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Political"
+      ]
+    },
+    {
+      "date": "01.10.1147",
+      "era": "AD",
+      "type": "military",
+      "name": "Mesud I Annihilates Conrad III's Crusaders Near Dorylaeum",
+      "name_ru": "Масуд I уничтожает крестоносцев Конрада III под Дорилеем",
+      "latitude": 39.7767,
+      "longitude": 30.5206,
+      "description": "Half a century after the First Crusade's armies crossed Anatolia, the Second Crusade attempts the same route, led by King Conrad III of Germany with Byzantine guides who, whether through incompetence or ill intent, lead the army away from the coastal road and its supply points. Mesud I's cavalry, employing the same harassment tactics that had shattered the Crusade of 1101, encircle and cut down the German army near Dorylaeum, the very site of an earlier Turkish defeat by the First Crusade in 1097. Conrad himself is wounded and barely escapes with a fraction of his force; chroniclers describe nine-tenths of the German army as destroyed. Weeks later a separate French army under Louis VII suffers a similar mauling further south at Mount Cadmus. Together the two disasters prove that the Sultanate of Rum, four decades after nearly losing everything at Nicaea, now commands the length and breadth of the Anatolian plateau.",
+      "description_ru": "Через полвека после того, как через Анатолию прошли войска Первого крестового похода, тем же путём пытается пройти Второй крестовый поход во главе с германским королём Конрадом III, которого византийские проводники — то ли по некомпетентности, то ли из злого умысла — уводят с прибрежной дороги и её пунктов снабжения. Конница Масуда I, применяя ту же тактику изматывающих наскоков, что сокрушила Крестовый поход 1101 года, окружает и истребляет германское войско близ Дорилея — на том самом месте, где тюрки потерпели поражение от Первого крестового похода в 1097 году. Сам Конрад ранен и едва спасается с остатками войска; хронисты сообщают, что девять десятых германской армии уничтожены. Несколько недель спустя южнее, у горы Кадм, схожий разгром терпит отдельная французская армия под командованием Людовика VII. Вместе эти две катастрофы доказывают, что Румский султанат спустя четыре десятилетия после почти полной гибели под Никеей теперь безраздельно господствует на всём Анатолийском плоскогорье.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Dorylaeum_(1147)",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Crusade",
+        "War"
+      ]
+    },
+    {
+      "date": "01.01.1178",
+      "era": "AD",
+      "type": "political",
+      "name": "Kilij Arslan II Annexes the Last Danishmendid Lands",
+      "name_ru": "Кылыч-Арслан II присоединяет последние земли данишмендидов",
+      "latitude": 39.7477,
+      "longitude": 37.0179,
+      "description": "Kilij Arslan II, Mesud I's son and the sultanate's longest-reigning ruler, spends much of his reign chipping away at the Danishmendid emirate that had once made and unmade his own father's power. Playing the rival Danishmendid branches at Sivas and Malatya against each other, and taking advantage of a succession dispute after Nasr al-Din Muhammad's death, he finally absorbs the last independent Danishmendid territory around Sivas and Malatya into the Sultanate of Rum. For the first time since the sultanate's founding a century earlier, all of central and eastern Anatolia's Turkish population answers to a single Seljuk ruler rather than competing emirates. The annexation roughly doubles the territory and population under Kilij Arslan's direct control and alarms the Byzantine Emperor Manuel I Komnenos, who sees a unified Turkish Anatolia as an unacceptable threat and begins preparing the invasion that will end two years later at Myriokephalon.",
+      "description_ru": "Кылыч-Арслан II, сын Масуда I и самый долго правивший султан, значительную часть своего правления посвящает постепенному ослаблению данишмендидского эмирата, который некогда возвышал, а затем и подрывал власть его собственного отца. Стравливая соперничающие ветви данишмендидов в Сивасе и Малатье и пользуясь спором о престолонаследии после смерти Насир ад-Дина Мухаммада, он наконец присоединяет последние независимые данишмендидские земли вокруг Сиваса и Малатьи к Румскому султанату. Впервые с основания султаната столетием ранее всё тюркское население центральной и восточной Анатолии подчиняется единому сельджукскому правителю, а не соперничающим эмиратам. Присоединение примерно удваивает территорию и население под прямой властью Кылыч-Арслана и тревожит византийского императора Мануила I Комнина, который видит в объединённой тюркской Анатолии недопустимую угрозу и начинает готовить поход, который завершится два года спустя при Мириокефале.",
+      "source": "https://en.wikipedia.org/wiki/Danishmendids",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Political"
+      ]
+    },
+    {
+      "date": "01.01.1186",
+      "era": "AD",
+      "type": "political",
+      "name": "Kilij Arslan II Divides the Sultanate Among His Eleven Sons",
+      "name_ru": "Кылыч-Арслан II делит султанат между одиннадцатью сыновьями",
+      "latitude": 37.8746,
+      "longitude": 32.4932,
+      "description": "Kilij Arslan II, now elderly and having just crushed a Byzantine invasion at Myriokephalon and absorbed the Danishmendid lands, makes a decision that will undo much of what he built: following steppe Turkish custom rather than a single line of succession, he partitions the unified Sultanate of Rum among eleven of his sons, granting each a city or province, with Konya itself going to his eldest, Qutb al-Din Malikshah. The old sultan seems to have intended a confederation under his eldest son's nominal seniority, but the brothers begin fighting each other for supremacy even before his death. The partition squanders the very unity Kilij Arslan had spent his reign assembling, and the resulting civil war between his sons will consume the sultanate for the next two decades, drawing in Byzantine intervention and briefly making Rum vulnerable to outside powers just as it had reached the height of its regional power.",
+      "description_ru": "Кылыч-Арслан II, уже пожилой, только что разгромивший византийское вторжение при Мириокефале и присоединивший данишмендидские земли, принимает решение, которое сведёт на нет многое из построенного им: следуя степному тюркскому обычаю, а не принципу единого престолонаследия, он делит объединённый Румский султанат между одиннадцатью сыновьями, отдавая каждому город или область, а саму Конью — старшему, Кутб ад-Дину Малик-шаху. Старый султан, видимо, замышлял конфедерацию под номинальным старшинством старшего сына, но братья начинают борьбу за верховенство ещё при его жизни. Раздел растрачивает то самое единство, которое Кылыч-Арслан собирал всё своё правление, и последовавшая междоусобная война между его сыновьями поглотит султанат на два следующих десятилетия, вовлечёт в неё Византию и ненадолго сделает Рум уязвимым для внешних сил именно тогда, когда он достиг пика своего регионального могущества.",
+      "source": "https://en.wikipedia.org/wiki/Kilij_Arslan_II",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Political"
+      ]
+    },
+    {
+      "date": "01.01.1205",
+      "era": "AD",
+      "type": "political",
+      "name": "Kaykhusraw I Reclaims the Throne After a Decade of Civil War",
+      "name_ru": "Кайхосров I возвращает трон после десятилетия гражданской войны",
+      "latitude": 37.8746,
+      "longitude": 32.4932,
+      "description": "Kaykhusraw I, youngest son of Kilij Arslan II, briefly held Konya after his father's death but was driven out by his brother Suleiman II in 1196 and spent nine years in exile at the Byzantine court in Constantinople, forging Greek connections that will mark his family for generations. Suleiman II dies in 1204 in the middle of a campaign, and his young son Kilij Arslan III inherits a throne he cannot hold. Amid the chaos following the Fourth Crusade's sack of Constantinople that same year, Kaykhusraw seizes the opportunity, returns from exile, and deposes his nephew to reclaim the sultanate he had lost nine years earlier. His restoration finally ends the fratricidal wars that had consumed the Sultanate of Rum since his father's 1186 partition, and he moves quickly to reunify the sultanate's fragmented territory and rebuild its strength.",
+      "description_ru": "Кайхосров I, младший сын Кылыч-Арслана II, ненадолго удерживал Конью после смерти отца, но в 1196 году был изгнан братом Сулейманом II и провёл девять лет в изгнании при византийском дворе в Константинополе, завязав греческие связи, которые будут отмечать его род на протяжении поколений. Сулейман II умирает в 1204 году в разгар похода, и его юный сын Кылыч-Арслан III наследует трон, который не в силах удержать. Пользуясь хаосом после разграбления Константинополя Четвёртым крестовым походом в том же году, Кайхосров возвращается из изгнания и свергает племянника, вновь заняв султанский престол, утраченный девятью годами ранее. Его возвращение наконец завершает братоубийственные войны, терзавшие Румский султанат со времён раздела 1186 года, и он немедленно берётся за воссоединение раздробленных земель султаната и восстановление его силы.",
+      "source": "https://en.wikipedia.org/wiki/Kaykhusraw_I",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Byzantine",
+        "Political"
+      ]
+    },
+    {
+      "date": "01.01.1207",
+      "era": "AD",
+      "type": "military",
+      "name": "Kaykhusraw I Captures Antalya, Rum's First Mediterranean Port",
+      "name_ru": "Кайхосров I захватывает Анталью — первый средиземноморский порт Рума",
+      "latitude": 36.8969,
+      "longitude": 30.7133,
+      "description": "Two years into his restored reign, Kaykhusraw I turns his attention to the Mediterranean coast, where the port city of Attaleia has changed hands repeatedly between local Christian lords, Cypriot forces, and Italian merchant interests since Byzantine central authority collapsed after 1204. Kaykhusraw besieges and captures the city, giving the landlocked Sultanate of Rum, until now confined to the Anatolian interior, its first outlet onto open water and access to Mediterranean trade routes. Antalya becomes Rum's southern gateway for merchants and, later, its base for naval ambitions, and Kaykhusraw negotiates trade agreements with Cyprus and Italian city-states to secure the new port's commerce. The conquest marks a turning point in the sultanate's character: no longer purely a horse-and-steppe power of the interior plateau, Rum begins to develop as a maritime and commercial state as well.",
+      "description_ru": "Спустя два года после возвращения на престол Кайхосров I обращает взгляд на средиземноморское побережье, где портовый город Атталия с 1204 года, после крушения центральной власти Византии, неоднократно переходил из рук в руки между местными христианскими владетелями, кипрскими силами и итальянскими торговыми интересами. Кайхосров осаждает и берёт город, дав до того замкнутому в анатолийском нагорье Румскому султанату первый выход к открытой воде и средиземноморским торговым путям. Анталья становится южными воротами Рума для купцов, а позднее и базой для морских амбиций, и Кайхосров заключает торговые соглашения с Кипром и итальянскими городами-государствами, чтобы закрепить торговлю через новый порт. Завоевание знаменует поворот в характере султаната: отныне Рум развивается не только как сухопутная держава конных степняков, но и как морское и торговое государство.",
+      "source": "https://en.wikipedia.org/wiki/Kaykhusraw_I",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Trade",
+        "War"
+      ]
+    },
+    {
+      "date": "17.06.1211",
+      "era": "AD",
+      "type": "military",
+      "name": "Kaykhusraw I Dies in Battle Against Nicaea at Antioch on the Maeander",
+      "name_ru": "Кайхосров I гибнет в битве с Никеей при Антиохии-на-Меандре",
+      "latitude": 37.8898,
+      "longitude": 28.1892,
+      "description": "Kaykhusraw I's years in Byzantine exile gave him a personal rivalry with Theodore I Laskaris, the general who founded the Empire of Nicaea from the wreckage of Byzantium after 1204 and became its emperor. The two men, whose lives had been intertwined for over a decade, finally meet in open battle near the ruins of ancient Antioch on the Maeander, in western Anatolia. Sources describe the two commanders fighting a personal duel amid the general melee: Kaykhusraw unhorses Theodore, but as the sultan raises his sword for the killing blow, one of Theodore's guards strikes off the sultan's own head. Kaykhusraw's death in the moment of apparent victory hands Nicaea the field, and his sudden loss opens yet another succession dispute among his sons, this one to be decided by which of them can secure backing from the Seljuk court and the sultanate's provincial governors fastest.",
+      "description_ru": "Годы византийского изгнания связали Кайхосрова I личным соперничеством с Феодором I Ласкарисом, полководцем, основавшим на обломках Византии после 1204 года Никейскую империю и ставшим её императором. Спустя более чем десятилетие их переплетённых судеб двое сходятся в открытом сражении близ развалин древней Антиохии-на-Меандре, в западной Анатолии. По свидетельствам источников, полководцы бьются в личном поединке посреди общей схватки: Кайхосров выбивает Феодора из седла, но пока султан заносит меч для смертельного удара, один из телохранителей Феодора отсекает голову самому султану. Гибель Кайхосрова в миг кажущейся победы отдаёт поле боя Никее, а его внезапная смерть открывает новый спор о престолонаследии между его сыновьями — на этот раз решится он тем, кто из них быстрее заручится поддержкой сельджукского двора и провинциальных наместников султаната.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Antioch_on_the_Meander",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Byzantine",
+        "War"
+      ]
+    },
+    {
+      "date": "01.01.1221",
+      "era": "AD",
+      "type": "historic",
+      "name": "Kayqubad I Seizes Alanya and Builds a Mediterranean Shipyard",
+      "name_ru": "Кайкубад I захватывает Аланью и строит средиземноморскую верфь",
+      "latitude": 36.5438,
+      "longitude": 32,
+      "description": "Kayqubad I, who has just won a fresh succession contest against his brother Kaykaus I's chosen heirs, opens his reign the way it will continue: with an ambitious building and conquest program. He besieges and captures the fortress-port of Candeloro on the southern coast, renames it Alaiye after himself, today's Alanya, and transforms it into Rum's second Mediterranean harbor after Antalya. On the rocky peninsula he raises a citadel, the octagonal Kızıl Kule red tower to guard the shipyards, and Rum's first purpose-built naval dockyard, from which the sultanate launches its own war fleet for the first time in its history. Kayqubad makes Alanya a winter capital, spending part of each year there overseeing the coast, and the city becomes a showcase of Seljuk architecture and a symbol of a sultanate now confident enough to project power onto the sea as well as the steppe.",
+      "description_ru": "Кайкубад I, только что выигравший очередную борьбу за престол против ставленников своего брата Кайкауса I, начинает правление так, как будет его вести и дальше: с честолюбивой программы строительства и завоеваний. Он осаждает и берёт крепость-порт Канделоро на южном побережье, переименовывает её в свою честь в Алайе — нынешнюю Аланью — и превращает во вторую средиземноморскую гавань Рума после Антальи. На скалистом полуострове он возводит цитадель, восьмигранную Красную башню Кызыл-Куле для защиты верфей, и первую в истории султаната военно-морскую верфь, с которой Рум впервые в своей истории спускает на воду собственный боевой флот. Кайкубад делает Аланью зимней столицей, проводя там часть каждого года, наблюдая за побережьем, и город становится витриной сельджукской архитектуры и символом султаната, обретшего уверенность проецировать силу не только на степь, но и на море.",
+      "source": "https://en.wikipedia.org/wiki/Alanya",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Trade",
+        "Historic"
+      ]
+    },
+    {
+      "date": "01.01.1230",
+      "era": "AD",
+      "type": "military",
+      "name": "Kayqubad I Crushes the Khwarezmians at Yassıçemen",
+      "name_ru": "Кайкубад I разбивает хорезмийцев при Яссычемене",
+      "latitude": 39.75,
+      "longitude": 38.3,
+      "description": "Jalal al-Din Mangburni, the last ruler of the Khwarezmian Empire, has spent years fleeing the Mongol conquest of Central Asia, carving out a fragile realm in the east while devastating everything in his path, including the Georgian kingdom and Seljuk border territory. Kayqubad I forms a coalition with the Ayyubids of Syria to stop him before he can seize more of eastern Anatolia, and the combined armies meet Jalal al-Din's forces on the plain of Yassıçemen, between Sivas and Erzincan. The Khwarezmian army, exhausted from years of campaigning and undermined by defections among Jalal al-Din's own commanders, is routed, and Jalal al-Din himself flees the field to be murdered by Kurdish tribesmen not long after. The victory removes the one remaining threat to eastern Anatolia, but it also strips away the buffer state that had been unknowingly shielding Rum from the Mongol armies now bearing down from the east.",
+      "description_ru": "Джалал ад-Дин Манкбурны, последний правитель Хорезмской империи, годами спасается от монгольского завоевания Средней Азии, выкраивая непрочное владение на востоке и опустошая всё на своём пути, включая Грузинское царство и приграничные земли сельджуков. Кайкубад I заключает союз с сирийскими Айюбидами, чтобы остановить его прежде, чем тот захватит новые земли восточной Анатолии, и объединённые войска встречают силы Джалал ад-Дина на равнине Яссычемен, между Сивасом и Эрзинджаном. Хорезмийское войско, измотанное годами походов и подорванное изменой среди собственных военачальников Джалал ад-Дина, разбито, а сам он бежит с поля боя и вскоре гибнет от рук курдских горцев. Победа устраняет последнюю угрозу для восточной Анатолии, но вместе с тем уничтожает буферное государство, которое, само того не желая, заслоняло Рум от монгольских войск, уже надвигающихся с востока.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Yass%C4%B1%C3%A7imen",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Mongol",
+        "War"
+      ]
+    },
+    {
+      "date": "01.01.1237",
+      "era": "AD",
+      "type": "political",
+      "name": "Kaykhusraw II Marries the Georgian Princess Tamar",
+      "name_ru": "Кайхосров II женится на грузинской царевне Тамар",
+      "latitude": 37.8746,
+      "longitude": 32.4932,
+      "description": "Kaykhusraw II, newly succeeded to the throne on his father Kayqubad I's death, marries Tamar, a Georgian Bagrationi princess who is the daughter of Sultan-shah, a Seljuk prince who had married into the Georgian royal family, and granddaughter of Queen Rusudan of Georgia. Known at the Seljuk court as Gurju Khatun, the Georgian Lady, she becomes Kaykhusraw's favorite consort and one of the most influential women in the sultanate's history, later serving as patron to the mystic poet Rumi after he settles in Konya. The marriage seals a period of unusually close ties between Rum and Georgia, two states that had fought each other for decades but now share a common and growing anxiety about the Mongol armies advancing from the east. Gurju Khatun's influence at court will long outlast her husband: after his death she remarries the powerful Seljuk vizier Mu'in al-Din Pervane, remaining a central figure in Rum's politics for another generation.",
+      "description_ru": "Кайхосров II, только что унаследовавший престол после смерти отца, Кайкубада I, женится на Тамар — грузинской царевне из рода Багратиони, дочери Султан-шаха, сельджукского принца, породнившегося с грузинским царским домом, и внучке грузинской царицы Русудан. При сельджукском дворе её называют Гюрджю-хатун, «грузинской госпожой»; она становится любимой женой Кайхосрова и одной из самых влиятельных женщин в истории султаната, а позднее — покровительницей мистического поэта Руми после его поселения в Конье. Брак скрепляет период необычно тесных связей между Румом и Грузией — двумя государствами, десятилетиями воевавшими друг с другом, но теперь разделяющими общую и растущую тревогу перед монгольскими войсками, надвигающимися с востока. Влияние Гюрджю-хатун при дворе переживёт её мужа: после его смерти она вновь выходит замуж — за могущественного сельджукского визиря Муин ад-Дина Перване — и остаётся центральной фигурой румской политики ещё на поколение.",
+      "source": "https://en.wikipedia.org/wiki/Tamar_(daughter_of_Rusudan_of_Georgia)",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Georgia",
+        "Marriage",
+        "Political"
+      ]
+    },
+    {
+      "date": "01.01.1240",
+      "era": "AD",
+      "type": "religious",
+      "name": "Baba Ishak Leads the Babai Revolt of Anatolian Turkmen",
+      "name_ru": "Баба Исхак возглавляет восстание бабаитов среди анатолийских туркмен",
+      "latitude": 37.9,
+      "longitude": 38.5,
+      "description": "Baba Ishak, a wandering preacher based near Kefersud in southeastern Anatolia, blends folk mysticism with grievances that have been building for years among Turkmen nomads pushed onto marginal land by the Seljuk state's taxes and its favoritism toward settled Persian-speaking bureaucrats and city dwellers. He declares himself a prophet and calls his followers to holy war against Kaykhusraw II's government, and the revolt spreads rapidly across the Turkmen-populated regions between Amasya and Malatya, defeating the first Seljuk armies sent against it. Kaykhusraw is forced to hire Frankish mercenaries to finally crush the rebels in battle, and Baba Ishak himself is captured and executed. The revolt permanently exposes how alienated the sultanate's own Turkmen tribal base has become from a court that had grown increasingly Persianized, and it drains military resources and cohesion at the worst possible moment, just three years before the Mongol army arrives at Rum's eastern border.",
+      "description_ru": "Баба Исхак, странствующий проповедник из окрестностей Кеферсуда на юго-востоке Анатолии, соединяет народный мистицизм с недовольством, годами копившимся среди туркменских кочевников, вытесненных на скудные земли налогами сельджукского государства и его благосклонностью к осёдлым персоязычным чиновникам и горожанам. Он объявляет себя пророком и призывает последователей к священной войне против власти Кайхосрова II, и восстание быстро охватывает туркменские области между Амасьей и Малатьей, разбивая первые посланные против него сельджукские войска. Кайхосрову приходится нанять франкских наёмников, чтобы наконец разгромить мятежников в бою; сам Баба Исхак схвачен и казнён. Восстание навсегда обнажает, насколько собственная туркменская племенная опора султаната отдалилась от двора, всё сильнее перенимавшего персидские обычаи, и истощает военные силы и сплочённость страны в самый неподходящий момент — всего за три года до появления монгольского войска на восточной границе Рума.",
+      "source": "https://en.wikipedia.org/wiki/Baba_Ishak",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Religious"
+      ]
+    },
+    {
+      "date": "26.06.1243",
+      "era": "AD",
+      "type": "military",
+      "name": "The Mongols Crush the Sultanate at Köse Dağ",
+      "name_ru": "Монголы разбивают султанат в битве при Кёсе-даге",
+      "latitude": 40.1667,
+      "longitude": 37.9333,
+      "description": "A Mongol army under the general Baiju, already occupying Georgia and Armenia, advances into eastern Anatolia, and Kaykhusraw II musters the largest force the Sultanate of Rum has ever assembled, drawing on Georgian, Frankish and other allied contingents alongside his own Seljuk and Turkmen troops. The two armies meet near Köse Dağ, a mountain pass between Erzincan and Sivas, and despite outnumbering the Mongols, the Seljuk-led coalition collapses within hours: contemporary accounts blame poor coordination among the mixed contingents and panic after early Mongol feints. Kaykhusraw flees the field before the battle is even fully decided, and the road into the Anatolian interior lies open. Rather than occupy the sultanate outright, the Mongols impose crushing tribute and reduce Rum to a vassal state answering to the Mongol Ilkhanate, ending the sultanate's century and a half of effective independence and beginning seven decades of slow disintegration under foreign overlordship.",
+      "description_ru": "Монгольское войско под командованием полководца Байджу, уже занявшее Грузию и Армению, продвигается в восточную Анатолию, и Кайхосров II собирает крупнейшую армию за всю историю Румского султаната, привлекая грузинские, франкские и другие союзные отряды в дополнение к собственным сельджукским и туркменским войскам. Две армии сходятся у Кёсе-дага, горного перевала между Эрзинджаном и Сивасом, и, несмотря на численный перевес, коалиция под сельджукским началом рассыпается за несколько часов: современники винят плохую слаженность разноплемённых отрядов и панику после первых монгольских ложных отступлений. Кайхосров бежит с поля боя ещё до исхода сражения, и путь вглубь Анатолии открыт. Вместо того чтобы напрямую занять султанат, монголы облагают его непосильной данью и превращают Рум в вассала монгольского Ильханата, положив конец полутора векам его действительной независимости и начав семь десятилетий медленного распада под чужеземным господством.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_K%C3%B6se_Da%C4%9F",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Mongol",
+        "War"
+      ]
+    },
+    {
+      "date": "01.01.1244",
+      "era": "AD",
+      "type": "cultural",
+      "name": "Rumi Meets Shams-e Tabrizi in Konya",
+      "name_ru": "Руми встречает Шамса Тебризи в Конье",
+      "latitude": 37.8746,
+      "longitude": 32.4932,
+      "description": "Jalal al-Din Rumi, a respected but conventional theology teacher who had settled in Konya as a young child when his family fled the Mongol advance from Balkh, encounters a wandering, unkempt dervish named Shams-e Tabrizi in the streets of the Seljuk capital. The meeting between the two men, exact circumstances disputed but the encounter itself well attested, transforms Rumi overnight from a respectable jurist and lecturer into an ecstatic mystic who abandons his students and scholarly routine to spend months in seclusion with Shams. Rumi's own disciples, resentful of the stranger's hold over their teacher, eventually drive Shams away and, by some accounts, are responsible for his disappearance and death. The loss only deepens Rumi's mystical devotion, and out of his grief he begins composing the poetry, including what will become the vast Masnavi, that will make him one of the most widely read poets in the world, still read in Konya and far beyond eight centuries later.",
+      "description_ru": "Джалал ад-Дин Руми, уважаемый, но вполне традиционный преподаватель богословия, поселившийся в Конье ещё ребёнком, когда его семья бежала от монгольского нашествия из Балха, встречает на улицах сельджукской столицы странствующего, неопрятного дервиша по имени Шамс Тебризи. Точные обстоятельства встречи двух мужчин остаются предметом споров, но сам факт хорошо засвидетельствован: она в одночасье превращает Руми из почтенного законоведа и лектора в исступлённого мистика, который забрасывает учеников и учёные занятия ради месяцев затворничества рядом с Шамсом. Собственные ученики Руми, возмущённые властью чужака над учителем, в конце концов изгоняют Шамса, а по некоторым свидетельствам, причастны к его исчезновению и гибели. Утрата лишь углубляет мистическую преданность Руми, и из этого горя рождаются стихи — включая будущую огромную «Маснави», — которые сделают его одним из самых читаемых поэтов мира: его читают в Конье и далеко за её пределами и восемь веков спустя.",
+      "source": "https://en.wikipedia.org/wiki/Rumi",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Cultural",
+        "Religious"
+      ]
+    },
+    {
+      "date": "01.01.1251",
+      "era": "AD",
+      "type": "scientific",
+      "name": "The Vizier Karatay Builds His Madrasa in Konya",
+      "name_ru": "Визирь Каратай строит своё медресе в Конье",
+      "latitude": 37.8746,
+      "longitude": 32.4932,
+      "description": "Jalal al-Din Karatay, a former Christian slave who rose to become one of the most powerful viziers of the Seljuk court, serving as regent during the minority of successive sultans, completes a madrasa in Konya beside the ruins of the Seljuk palace. Unlike most religious schools of the period, the Karatay Madrasa is designed around the study of the mathematical and astronomical sciences alongside theology, and its central dome is covered in geometric star-patterned tilework in turquoise, black and white that maps the constellations onto the ceiling in a deliberate fusion of Islamic cosmology and decorative art. The building becomes one of the finest surviving examples of Seljuk architecture and tilework, its craftsmanship reflecting a sultanate whose court, even as Mongol overlordship tightens around it politically, continues to draw scholars, architects and scientists from across the Persian and Islamic world. Karatay's own career, from slave to kingmaker, embodies the social mobility still possible within the Seljuk administrative system.",
+      "description_ru": "Джалал ад-Дин Каратай, бывший невольник-христианин, поднявшийся до одного из самых влиятельных визирей сельджукского двора и правивший как регент при малолетних султанах, завершает строительство медресе в Конье рядом с руинами сельджукского дворца. В отличие от большинства религиозных школ той эпохи, медресе Каратая построено с расчётом на изучение математических и астрономических наук наряду с богословием, а его центральный купол покрыт геометрическим звёздчатым изразцовым узором из бирюзового, чёрного и белого цветов, намеренно переносящим созвездия на потолок — слияние исламской космологии и декоративного искусства. Здание становится одним из лучших сохранившихся образцов сельджукской архитектуры и керамического убранства, а его мастерство отражает двор султаната, который, даже всё туже стягиваемый монгольским владычеством политически, продолжает притягивать учёных, зодчих и естествоиспытателей со всего персидского и исламского мира. Собственная карьера Каратая, от раба до создателя королей, воплощает социальную подвижность, всё ещё возможную в сельджукской системе управления.",
+      "source": "https://en.wikipedia.org/wiki/Karatay_Medrese",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Scientific",
+        "Cultural"
+      ]
+    },
+    {
+      "date": "17.12.1273",
+      "era": "AD",
+      "type": "religious",
+      "name": "Rumi Dies in Konya, and the Whirling Dervishes Take Shape",
+      "name_ru": "Руми умирает в Конье, и рождается орден кружащихся дервишей",
+      "latitude": 37.8746,
+      "longitude": 32.4932,
+      "description": "Jalal al-Din Rumi dies in Konya after a long illness, mourned so widely that Christians and Jews are said to have joined Muslims in his funeral procession, a testament to how far his reputation for spiritual generosity had spread beyond his own faith. His followers, who had already begun gathering around his teachings and the practice of the sama, the ecstatic turning dance meant to induce mystical union with God, organize themselves in the years after his death into a formal Sufi order, the Mevleviye, led by his son Sultan Walad and headquartered at Rumi's tomb in Konya. Known in the West as the Whirling Dervishes, the order will spread across the Ottoman Empire in the centuries to come and survive into the present day as one of the most recognizable expressions of Islamic mysticism. Rumi's death, in the same decade the Sultanate of Rum itself is disintegrating under Mongol pressure, marks the moment the sultanate's greatest cultural legacy takes on a life independent of the state that produced it.",
+      "description_ru": "Джалал ад-Дин Руми умирает в Конье после долгой болезни; его оплакивают так широко, что, по преданию, к мусульманам в похоронной процессии присоединились христиане и иудеи — свидетельство того, насколько далеко за пределы собственной веры распространилась его слава духовной щедрости. Его последователи, уже собиравшиеся вокруг его учения и практики сама — экстатического кружения, призванного вызвать мистическое единение с Богом, — в годы после его смерти оформляются в суфийский орден Мевлеви во главе с его сыном Султаном Веледом, с центром у гробницы Руми в Конье. Известный на Западе как орден кружащихся дервишей, он распространится по всей Османской империи в последующие века и сохранится до наших дней как одно из самых узнаваемых проявлений исламского мистицизма. Смерть Руми, пришедшаяся на то же десятилетие, когда сам Румский султанат распадается под монгольским давлением, отмечает момент, когда величайшее культурное наследие султаната обретает жизнь, независимую от породившего его государства.",
+      "source": "https://en.wikipedia.org/wiki/Rumi",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Religious",
+        "Cultural"
+      ]
+    },
+    {
+      "date": "15.04.1277",
+      "era": "AD",
+      "type": "military",
+      "name": "Baybars Invades Anatolia and Defeats the Mongols at Elbistan",
+      "name_ru": "Бейбарс вторгается в Анатолию и разбивает монголов при Эльбистане",
+      "latitude": 38.2014,
+      "longitude": 37.1883,
+      "description": "The Mamluk Sultan Baybars of Egypt, having already broken the myth of Mongol invincibility once at Ain Jalut, answers a secret invitation from the Seljuk vizier Mu'in al-Din Pervane and disaffected Seljuk nobles who hope a Mamluk victory can free Rum from Mongol vassalage. Baybars leads a Mamluk army north through the Cilician Gates and meets a Mongol Ilkhanate garrison force near Elbistan in eastern Anatolia, inflicting a heavy defeat and killing several senior Mongol commanders. Rather than press his advantage and hold the territory, Baybars advances only as far as Kayseri, where he is proclaimed sultan in a ceremonial gesture, then withdraws south again when the promised broader Seljuk uprising and reinforcements fail to materialize, judging his position in hostile territory too exposed to sustain. His brief, spectacular raid demonstrates that the Mongols can be beaten in Anatolia, but its immediate effect is to trigger a brutal Mongol reprisal against the Seljuk state that had invited him.",
+      "description_ru": "Мамлюкский султан Египта Бейбарс, уже однажды развеявший миф о непобедимости монголов при Айн-Джалуте, отвечает на тайное приглашение сельджукского визиря Муин ад-Дина Перване и недовольных сельджукских вельмож, надеющихся, что победа мамлюков поможет освободить Рум от монгольского вассалитета. Бейбарс проводит мамлюкское войско на север через Киликийские ворота и встречает монгольский ильханидский гарнизонный отряд близ Эльбистана в восточной Анатолии, нанося ему тяжёлое поражение и убивая нескольких старших монгольских военачальников. Не воспользовавшись преимуществом для удержания территории, Бейбарс продвигается лишь до Кайсери, где его торжественно провозглашают султаном, а затем вновь отходит на юг, когда обещанное более широкое сельджукское восстание и подкрепления так и не подоспевают, — он считает своё положение на враждебной территории слишком уязвимым. Его короткий, эффектный набег доказывает, что монголов можно бить в Анатолии, но непосредственным результатом становится жестокая монгольская расправа над сельджукским государством, пригласившим его.",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Elbistan",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Mongol",
+        "Mamluk",
+        "War"
+      ]
+    },
+    {
+      "date": "12.05.1277",
+      "era": "AD",
+      "type": "political",
+      "name": "The Karamanids Seize Konya and Enthrone a Pretender",
+      "name_ru": "Караманиды захватывают Конью и возводят на трон самозванца",
+      "latitude": 37.8746,
+      "longitude": 32.4932,
+      "description": "In the chaos following Baybars' raid and withdrawal, Mehmed Bey, leader of the Karamanid Turkmen of the Taurus mountains, sees his chance to strike at a Seljuk state weakened by Mongol overlordship and internal betrayal. He marches on Konya, occupies the Seljuk capital for several weeks, and installs a supposed son of the deposed sultan Kaykaus II on the throne as a puppet known as Jimri, distributing looted treasury funds to his own Turkmen followers to secure their loyalty. It is the first time in the sultanate's two-century history that Konya falls to a rival Turkish power rather than a Byzantine, crusader or Mongol army, a humiliation that exposes just how hollow Seljuk central authority has become. The Karamanid occupation lasts only weeks before an Ilkhanid relief force drives Mehmed Bey out and executes Jimri, but the episode announces the Karamanids as the sultanate's most dangerous internal Turkish rival for the remainder of its existence.",
+      "description_ru": "В хаосе после набега и ухода Бейбарса Мехмед-бей, вождь караманидских туркмен Тавра, видит шанс ударить по сельджукскому государству, ослабленному монгольским владычеством и внутренним предательством. Он идёт на Конью, на несколько недель занимает сельджукскую столицу и сажает на трон марионетку по имени Джимри — якобы сына свергнутого султана Кайкауса II, — раздавая захваченную казну своим туркменским сторонникам ради их верности. Впервые за два века истории султаната Конья попадает в руки не Византии, не крестоносцев и не монголов, а соперничающей тюркской силы — унижение, обнажающее, насколько пустой стала центральная власть сельджуков. Караманидское владычество длится всего несколько недель, прежде чем ильханидский карательный отряд изгоняет Мехмед-бея и казнит Джимри, но этот эпизод возвещает о караманидах как самом опасном внутреннем тюркском сопернике султаната до конца его существования.",
+      "source": "https://en.wikipedia.org/wiki/Karamanids",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Political"
+      ]
+    },
+    {
+      "date": "02.08.1277",
+      "era": "AD",
+      "type": "political",
+      "name": "Ilkhan Abaqa Executes the Pervane and Purges Rum's Nobles",
+      "name_ru": "Ильхан Абака казнит Перване и устраивает расправу над знатью Рума",
+      "latitude": 38.7312,
+      "longitude": 35.4787,
+      "description": "The Mongol Ilkhan Abaqa marches into Anatolia in person to punish the Seljuk state for the treachery behind Baybars' invasion, bringing an army said by contemporary chroniclers to number in the tens of thousands. He orders a systematic massacre of the population of Kayseri and other towns that had welcomed the Mamluk sultan, and summons the vizier Mu'in al-Din Pervane, the sultanate's true ruler in all but name for over a decade, to answer for his double game of secretly negotiating with both the Mongols and the Mamluks. Abaqa has Pervane executed, and, according to several chronicles, has the body served at a banquet to underline the totality of Mongol vengeance. The purge eliminates the one figure who had managed, however cynically, to preserve some measure of Seljuk autonomy under Mongol overlordship, and it leaves the Sultanate of Rum's remaining sultans as powerless figureheads directly answerable to Ilkhanid governors for the rest of its existence.",
+      "description_ru": "Монгольский ильхан Абака лично выступает в Анатолию, чтобы покарать сельджукское государство за измену, стоявшую за вторжением Бейбарса, приведя войско, которое современные хронисты оценивают в десятки тысяч. Он приказывает устроить систематическую резню населения Кайсери и других городов, встречавших мамлюкского султана, и вызывает к себе визиря Муин ад-Дина Перване, более десятилетия бывшего истинным правителем султаната без формального титула, — держать ответ за двойную игру с тайными переговорами и с монголами, и с мамлюками. Абака приказывает казнить Перване и, по свидетельству нескольких хроник, подать его тело на пиру, подчёркивая полноту монгольской мести. Расправа устраняет единственную фигуру, которой удавалось, пусть и цинично, сохранять хоть какую-то долю сельджукской самостоятельности под монгольским владычеством, и оставляет уцелевших султанов Рума бессильными марионетками, напрямую подчинёнными ильханидским наместникам до конца существования султаната.",
+      "source": "https://en.wikipedia.org/wiki/Mu%27in_al-Din_Parwana",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Mongol",
+        "Political"
+      ]
+    },
+    {
+      "date": "01.01.1299",
+      "era": "AD",
+      "type": "political",
+      "name": "Osman Renounces Rum's Authority, Founding the Ottoman Beylik",
+      "name_ru": "Осман отказывается от власти Рума и основывает Османский бейлик",
+      "latitude": 39.9964,
+      "longitude": 30.1801,
+      "description": "Osman, leader of a minor Turkmen frontier band based at Sogut on the sultanate's northwestern border with the shrinking Byzantine Empire, has spent two decades raiding Byzantine territory and expanding his own following while the Sultanate of Rum, now a hollow Mongol vassal state ruled through Ilkhanid governors, becomes too weak and distracted to control its own frontier lords. With Seljuk central authority no longer capable of enforcing even nominal obedience, Osman stops acknowledging any sultan's overlordship and begins minting coin and issuing decrees in his own name, marking the practical birth of an independent principality out of what had been a Seljuk border command. His small beylik, one of a dozen similar Turkmen frontier states carving themselves out of the sultanate's collapsing territory, will prove the most successful of them all: within two centuries the dynasty he founds will conquer Constantinople itself and transform a frontier warband into the Ottoman Empire.",
+      "description_ru": "Осман, вождь небольшого туркменского пограничного отряда, обосновавшегося в Сёгюте на северо-западной границе султаната с угасающей Византийской империей, два десятилетия совершает набеги на византийские земли и наращивает собственную дружину, пока Румский султанат, ставший пустой монгольской вассальной территорией под управлением ильханидских наместников, слишком слаб и рассеян, чтобы удерживать под контролем собственных пограничных владетелей. Когда сельджукская центральная власть уже не в силах добиться даже формального повиновения, Осман перестаёт признавать власть какого-либо султана и начинает чеканить монету и издавать указы от своего имени — так фактически рождается независимое княжество из бывшего сельджукского пограничного удела. Его небольшой бейлик, один из десятка похожих туркменских пограничных государств, выкраивающих себя из распадающихся владений султаната, окажется самым успешным из всех: за два века основанная им династия завоюет сам Константинополь и превратит пограничную дружину в Османскую империю.",
+      "source": "https://en.wikipedia.org/wiki/Osman_I",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Byzantine",
+        "Political"
+      ]
+    },
+    {
+      "date": "01.01.1308",
+      "era": "AD",
+      "type": "historic",
+      "name": "Mesud II's Death Ends the Sultanate of Rum",
+      "name_ru": "Смерть Масуда II кладёт конец Румскому султанату",
+      "latitude": 37.8746,
+      "longitude": 32.4932,
+      "description": "Mesud II, who had been installed and reinstalled several times over two decades as a powerless Ilkhanid puppet sultan while real authority in Anatolia dissolved into a patchwork of Turkmen beyliks, dies leaving no effective successor able to claim the title with any authority beyond a shrinking pocket of territory around Konya. No new sultan is proclaimed, and the Ilkhanate, itself entering its own final decades of decline, simply absorbs what remains of direct Seljuk administration into its provincial system. The Sultanate of Rum, founded by Suleiman ibn Qutalmish's seizure of Nicaea in 1077, formally ceases to exist after two hundred and thirty-one years, its former territory already almost entirely divided among the Karamanids, the Germiyanids, the nascent Ottomans, and a dozen other Turkmen principalities that will spend the next century fighting for supremacy in Anatolia. Among all these successor states, it is Osman's small frontier beylik that will ultimately reunite Anatolia under Ottoman rule.",
+      "description_ru": "Масуд II, которого за два десятилетия несколько раз возводили и низлагали как бессильного ильханидского марионеточного султана, пока реальная власть в Анатолии распадалась на лоскутное одеяло туркменских бейликов, умирает, не оставив преемника, способного удержать титул хоть с какой-то властью за пределами сжимающегося клочка земли вокруг Коньи. Нового султана не провозглашают, и Ильханат, сам вступающий в последние десятилетия собственного упадка, просто включает остатки прямого сельджукского управления в свою провинциальную систему. Румский султанат, основанный захватом Никеи Сулейманом ибн Кутулмышем в 1077 году, формально прекращает существование спустя двести тридцать один год: его бывшие земли уже почти полностью поделены между караманидами, гермиянидами, зарождающимися османами и десятком других туркменских княжеств, которым предстоит ещё столетие бороться за господство в Анатолии. Из всех этих государств-наследников именно небольшому пограничному бейлику Османа суждено в итоге вновь объединить Анатолию под османской властью.",
+      "source": "https://en.wikipedia.org/wiki/Mesud_II",
+      "tags": [
+        "Rum Sultanate",
+        "Seljuk",
+        "Historic"
+      ]
+    }
+  ]
+}
