@@ -487,18 +487,21 @@
       "description": "Alexios and David Comnenus, grandsons of the deposed Byzantine Emperor Andronicus I, with the support of their aunt Tamar's Georgian army, take Trebizond, a stronghold on the Black Sea coast of Anatolia, and declare themselves the true, legitimate emperors of Byzantium, in opposition to the usurpers of the Angeloi. A few days later, Constantinople, which they had planned to march on, falls to the Crusaders—and now the Empire of Trebizond becomes one of the centers of power, battling for the remnants of the empire.",
       "description_ru": "Алексей и Давид Комнины, внуки свергнутого византийского императора Андроника I, при поддержке грузинской армии своей тети Тамары берут Трапезунд — опорный пункт на черноморском побережье Анатолии, и объявляют себя настоящими, законными императорами Византии, в отличие от узурпаторов Ангелов. Несколько дней спустя Константинополь, в который они планировали идти маршем, падает под ударами крестоносцев — и теперь Трапезундская империя становится одним из центров силы, борющимся за осколки империи.",
       "era": "AD",
-      "latitude": 41.0027,
-      "longitude": 39.7168,
+      "latitude": 41.00316014,
+      "longitude": 39.71978724,
       "name": "The founding of the Empire of Trebizond",
       "name_ru": "Основание Трапезундской империи",
       "source": "https://en.wikipedia.org/wiki/Empire_of_Trebizond",
       "tags": [
         "Byzantine",
+        "Greek",
         "Roman",
         "Georgian",
         "Trebizond",
         "Foundation",
         "Bagratid",
+        "Komnenos",
+        "Dynasty",
         "Political"
       ],
       "type": "political"

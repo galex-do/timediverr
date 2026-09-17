@@ -12,13 +12,15 @@
       "name_ru": "Карл Великий коронован императором римлян",
       "source": "https://en.wikipedia.org/wiki/Coronation_of_Charlemagne",
       "tags": [
-        "Dynasty",
-        "Carolingian",
-        "Charlemagne 👑",
-        "Christian",
-        "Emperor",
+        "Roman",
+        "Frankish",
+        "Papacy",
         "Empire",
-        "Frankish"
+        "Christian",
+        "Carolingian",
+        "Dynasty",
+        "Emperor",
+        "Charlemagne 👑"
       ],
       "type": "political"
     },
@@ -33,11 +35,11 @@
       "name_ru": "Смерть Карла Великого",
       "source": "https://en.wikipedia.org/wiki/Charlemagne",
       "tags": [
-        "Dynasty",
+        "Frankish",
         "Carolingian",
-        "Charlemagne 👑",
+        "Dynasty",
         "Death",
-        "Frankish"
+        "Charlemagne 👑"
       ],
       "type": "historic"
     },
@@ -52,13 +54,15 @@
       "name_ru": "Раздел Каролингской империи",
       "source": "https://en.wikipedia.org/wiki/Treaty_of_Verdun",
       "tags": [
-        "Dynasty",
-        "Carolingian",
-        "Charles the Bald 👑",
+        "France",
+        "Frankish",
         "Empire",
+        "Foundation",
+        "Carolingian",
+        "Dynasty",
+        "Charles the Bald 👑",
         "Fragmentation",
-        "Treaty",
-        "Frankish"
+        "Treaty"
       ],
       "type": "political"
     },
@@ -73,13 +77,13 @@
       "name_ru": "Оттон I разбивает мадьяр на Лехфельде",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Lechfeld",
       "tags": [
-        "Holy Roman Empire",
-        "War",
-        "Battle",
-        "Eastern",
+        "German",
         "Magyar",
         "Saxon",
-        "Frankish"
+        "Frankish",
+        "Holy Roman Empire",
+        "War",
+        "Battle"
       ],
       "type": "military"
     },
@@ -95,12 +99,12 @@
       "source": "https://en.wikipedia.org/wiki/Otto_I,_Holy_Roman_Emperor",
       "tags": [
         "German",
+        "Saxon",
         "Holy Roman Empire",
-        "Emperor",
+        "Papacy",
         "Empire",
         "Foundation",
-        "Papacy",
-        "Saxon"
+        "Emperor"
       ],
       "type": "political"
     },
@@ -117,10 +121,10 @@
       "tags": [
         "German",
         "Holy Roman Empire",
-        "Catholic",
-        "Christian",
         "Foundation",
-        "Religious"
+        "Religious",
+        "Christian",
+        "Catholic"
       ],
       "type": "religious"
     },
@@ -138,8 +142,8 @@
         "German",
         "Holy Roman Empire",
         "Dynasty",
-        "King",
         "Emperor",
+        "King",
         "Political",
         "Salian"
       ],
@@ -158,13 +162,13 @@
       "tags": [
         "German",
         "Holy Roman Empire",
-        "Reform",
-        "Catholic",
-        "Christian",
-        "Council",
-        "Elections",
         "Papacy",
-        "Religious"
+        "Religious",
+        "Christian",
+        "Catholic",
+        "Council",
+        "Reform",
+        "Elections"
       ],
       "type": "religious"
     },
@@ -181,10 +185,11 @@
       "tags": [
         "German",
         "Holy Roman Empire",
-        "Catholic",
-        "Christian",
-        "Crisis",
         "Papacy",
+        "Religious",
+        "Christian",
+        "Catholic",
+        "Crisis",
         "Political"
       ],
       "type": "political"
@@ -201,11 +206,11 @@
       "source": "https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor",
       "tags": [
         "German",
+        "Norman",
         "Holy Roman Empire",
+        "Papacy",
         "Civil War",
         "Crisis",
-        "Norman",
-        "Papacy",
         "Pillage",
         "Political",
         "Robert Guiscard 👤",
@@ -226,10 +231,10 @@
       "tags": [
         "German",
         "Holy Roman Empire",
-        "Reform",
         "Papacy",
-        "Political",
         "Religious",
+        "Political",
+        "Reform",
         "Treaty"
       ],
       "type": "political"
@@ -247,10 +252,10 @@
       "tags": [
         "German",
         "Holy Roman Empire",
+        "Hohenstaufen",
         "Dynasty",
         "King",
-        "Friedrich Barbarossa 👑",
-        "Hohenstaufen"
+        "Friedrich Barbarossa 👑"
       ],
       "type": "political"
     },
@@ -267,11 +272,11 @@
       "tags": [
         "German",
         "Holy Roman Empire",
+        "Papacy",
+        "Hohenstaufen",
         "Dynasty",
         "Emperor",
-        "Friedrich Barbarossa 👑",
-        "Hohenstaufen",
-        "Papacy"
+        "Friedrich Barbarossa 👑"
       ],
       "type": "political"
     },
@@ -287,12 +292,12 @@
       "source": "https://en.wikipedia.org/wiki/Albert_the_Bear",
       "tags": [
         "German",
-        "Holy Roman Empire",
-        "War",
-        "Expansion",
-        "Foundation",
+        "Slavic",
         "Saxon",
-        "Slavic"
+        "Holy Roman Empire",
+        "Foundation",
+        "War",
+        "Expansion"
       ],
       "type": "political"
     },
@@ -310,9 +315,9 @@
         "German",
         "Italian",
         "Holy Roman Empire",
-        "Friedrich Barbarossa 👑",
         "Hohenstaufen",
         "Law",
+        "Friedrich Barbarossa 👑",
         "Lombard League"
       ],
       "type": "political"
@@ -329,12 +334,12 @@
       "tags": [
         "German",
         "Italian",
+        "Saxon",
         "Holy Roman Empire",
         "War",
+        "Welfen",
         "Friedrich Barbarossa 👑",
-        "Lombard League",
-        "Saxon",
-        "Welfen"
+        "Lombard League"
       ],
       "type": "political"
     },
@@ -354,8 +359,8 @@
         "Holy Roman Empire",
         "War",
         "Battle",
-        "Friedrich Barbarossa 👑",
         "Hohenstaufen",
+        "Friedrich Barbarossa 👑",
         "Lombard League"
       ],
       "type": "military"
@@ -374,11 +379,12 @@
         "German",
         "Holy Roman Empire",
         "Crisis",
-        "Exile",
-        "Friedrich Barbarossa 👑",
         "Hohenstaufen",
+        "Welfen",
         "Political",
-        "Welfen"
+        "Deposition",
+        "Exile",
+        "Friedrich Barbarossa 👑"
       ],
       "type": "political"
     },
@@ -416,16 +422,16 @@
       "source": "https://en.wikipedia.org/wiki/Battle_of_Iconium_(1190)",
       "tags": [
         "German",
+        "Turkic",
+        "Oguz",
         "Holy Roman Empire",
-        "Third",
+        "Christian",
+        "Islamic",
+        "Crusade",
         "War",
         "Battle",
-        "Christian",
         "Friedrich Barbarossa 👑",
-        "Islamic",
-        "Oguz",
-        "Turkic",
-        "Crusade"
+        "Third"
       ],
       "type": "military"
     },
@@ -442,13 +448,13 @@
       "tags": [
         "German",
         "Holy Roman Empire",
-        "Third",
-        "Death",
+        "Crusade",
+        "Hohenstaufen",
         "Emperor",
+        "Death",
         "Failure",
         "Friedrich Barbarossa 👑",
-        "Hohenstaufen",
-        "Crusade"
+        "Third"
       ],
       "type": "historic"
     },
@@ -464,13 +470,13 @@
       "source": "https://en.wikipedia.org/wiki/Henry_VI,_Holy_Roman_Emperor",
       "tags": [
         "Italian",
+        "Norman",
         "Holy Roman Empire",
+        "Sicily",
         "War",
         "Conquest",
-        "Expansion",
         "Hohenstaufen",
-        "Norman",
-        "Sicily"
+        "Expansion"
       ],
       "type": "military"
     },
@@ -488,38 +494,39 @@
         "German",
         "Holy Roman Empire",
         "Civil War",
-        "Dynasty",
         "Hohenstaufen",
-        "Welfen"
+        "Welfen",
+        "Dynasty"
       ],
       "type": "military"
     },
     {
       "date": "27.07.1214",
-      "description": "On 27 July 1214, Philip II of France defeated the coalition of Emperor Otto IV, King John of England, and Count Ferrand of Flanders at Bouvines in Flanders. Otto fled the field and never recovered political credibility; his rival Frederick II consolidated control of the empire. The battle ended English ambitions to recover Normandy and strengthened the Capetian monarchy decisively. For the Holy Roman Empire it confirmed Frederick II's supremacy and demonstrated that German imperial power projected beyond the Rhine was vulnerable to French military superiority. ",
+      "description": "Philip II of France defeated the coalition of Emperor Otto IV, King John of England, and Count Ferrand of Flanders at Bouvines in Flanders. Otto fled the field and never recovered political credibility; his rival Frederick II consolidated control of the empire. The battle ended English ambitions to recover Normandy and strengthened the Capetian monarchy decisively. For the Holy Roman Empire it confirmed Frederick II's supremacy and demonstrated that German imperial power projected beyond the Rhine was vulnerable to French military superiority. ",
       "description_ru": "Филипп II Французский разгромил коалицию императора Оттона IV, короля Иоанна Английского и графа Феррана Фландрского при Бувине во Фландрии. Оттон бежал с поля боя и так и не восстановил политического авторитета; его соперник Фридрих II укрепил власть над империей. Битва пресекла английские амбиции по возвращению Нормандии и решительно усилила Капетингскую монархию. Для Священной Римской империи она подтвердила превосходство Фридриха II и показала, что германская имперская мощь, проецируемая за Рейн, уязвима перед французским военным превосходством.",
       "era": "AD",
       "latitude": 50.59,
       "longitude": 3.21,
-      "name": "Battle of Bouvines",
-      "name_ru": "Битва при Бувине",
+      "name": "Philip II of France wins at Bouvines",
+      "name_ru": "Филипп II Французский побеждает при Бувине",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Bouvines",
       "tags": [
         "German",
+        "France",
+        "French",
+        "England",
         "Holy Roman Empire",
         "War",
         "Battle",
         "Capetian",
-        "England",
-        "France",
-        "French"
+        "Philip Augustus 👑"
       ],
       "type": "military"
     },
     {
       "date": "22.11.1220",
-      "description": "On 22 November 1220, Pope Honorius III crowned Frederick II emperor in Rome. Known as the Stupor Mundi — Wonder of the World — Frederick was the most intellectually exceptional medieval emperor. Raised in Norman Sicily, he was fluent in six languages, maintained a court of Muslim scholars, conducted scientific experiments, and authored a treatise on falconry. He pursued an anti-papal policy while claiming devotion to the crusade ideal, recovering Jerusalem by negotiation in 1229 while personally excommunicated. His reign saw the culmination of Hohenstaufen power but also the structural weakening of imperial authority in Germany through concessions to the princes.",
-      "description_ru": "22 ноября 1220 года папа Гонорий III короновал Фридриха II императором в Риме. Известный как Stupor Mundi — Диво Мира, — Фридрих был наиболее интеллектуально выдающимся средневековым императором. Воспитанный в Нормандской Сицилии, он владел шестью языками, содержал двор мусульманских учёных, проводил научные эксперименты и написал трактат о соколиной охоте. Он проводил антипапскую политику, заявляя о приверженности идеалу крестового похода, и вернул Иерусалим путём переговоров в 1229 году, будучи лично отлучён от церкви.",
+      "description": "Pope Honorius III crowned Frederick II emperor in Rome. Known as Stupor Mundi—the Wonder of the World—Frederick was the most intellectually accomplished medieval emperor. Raised in Norman Sicily, he spoke six languages, maintained a court of Muslim scholars, conducted scientific experiments, and wrote a treatise on falconry.\n\nAlthough Frederick II was politically dangerous to Rome, ironically, Cencio Savelli (Honorius III) had once been the young Frederick's personal tutor and mentor, and trusted him greatly. The Pope hoped that the high title of emperor would strengthen Frederick's authority and give him sufficient strength to launch a campaign to the Holy Land, which Frederick had long postponed.",
+      "description_ru": "Папа Гонорий III короновал Фридриха II императором в Риме. Известный как Stupor Mundi — Диво Мира, — Фридрих был наиболее интеллектуально выдающимся средневековым императором. Воспитанный в Нормандской Сицилии, он владел шестью языками, содержал двор мусульманских учёных, проводил научные эксперименты и написал трактат о соколиной охоте. \n\nХотя для Рима Фридрих II был скорее политически опасен, по иронии судьбы Ченчио Савелли (Гонорий III) когда-то был личным воспитателем и учителем юного Фридриха, и очень ему доверял. Папа надеялся, что высокий титул императора укрепит авторитет Фридриха и даст ему достаточно сил, чтобы начать поход в Святую Землю, который Фридрих давно откладывал.",
       "era": "AD",
       "latitude": 41.90216525,
       "longitude": 12.45367348,
@@ -530,10 +537,12 @@
         "German",
         "Italian",
         "Holy Roman Empire",
+        "Papacy",
+        "Christian",
+        "Hohenstaufen",
         "Dynasty",
         "Emperor",
-        "Friedrich II 👑",
-        "Hohenstaufen"
+        "Friedrich II 👑"
       ],
       "type": "political"
     },
@@ -548,20 +557,43 @@
       "name_ru": "Тевтонский орден получает Пруссию",
       "source": "https://en.wikipedia.org/wiki/Golden_Bull_of_Rimini",
       "tags": [
+        "Teuton",
         "Holy Roman Empire",
         "Christian",
-        "Colonization",
-        "Expansion",
-        "Hohenstaufen",
+        "Catholic",
         "Order",
-        "Teutons"
+        "Hohenstaufen",
+        "Colonization",
+        "Expansion"
       ],
       "type": "political"
     },
     {
+      "date": "29.09.1227",
+      "description": "Frederick had promised to go to war for Jerusalem back in 1215, at his coronation. For the next 12 years, he was preoccupied with the kingdom's internal affairs. In 1227, the new Pope, Gregory IX, harshly demanded that Frederick fulfill his obligations. Frederick began gathering an army, but a plague broke out in the camp. Frederick took the fleet to sea, but this did not save the crusaders. Frederick II himself fell gravely ill. The emperor sent the fleet to the Holy Land under the command of one of his commanders, and returned home.\n\nPope Gregory IX decided that Frederick had orchestrated the whole affair to evade his duty once again, ignored the ambassadors, and declared the emperor excommunicated. Frederick posed enormous political risks for the Papal States, which was caught between territories—he inherited Germany (the Holy Roman Empire) from his father and the Kingdom of Sicily from his mother. The opportunity to deprive such an emperor of the Church's support was a perfect opportunity.",
+      "description_ru": "Фридрих пообещал отправиться воевать за Иерусалим еще в 1215 году при коронации. И следующие 12 лет занимался внутренними делами королевства. В 1227 году новый Папа Григорий IX жестко потребовал от Фридриха исполнения обязательств. Фридрих начал собирать воинство, но в лагере разгорелась чума. Фридрих вывел флот в море, но это не уберегло крестоносцев. Тяжело заболел и сам Фридрих II. Император отправил флот в Святую землю под началом одного из командиров, а сам вернулся домой.\n\nПапа Григорий IX решил, что Фридрих всё подстроил, чтобы в очередной раз избежать своего долга, не стал слушать послов и объявил императора отлученным от церкви. Фридрих создавал огромные политические риски для Папского государства, зажатого между территориями — от отца ему досталась Германия (Священная Римская империя), а от матери — Сицилийское королевство; возможность лишить поддержки церкви такого императора была как нельзя кстати.",
+      "era": "AD",
+      "latitude": 38.11127837,
+      "longitude": 13.35323811,
+      "name": "The Pope excommunicates Frederick II from the Catholic Church",
+      "name_ru": "Папа отлучает Фридриха II от церкви",
+      "source": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor",
+      "tags": [
+        "Holy Roman Empire",
+        "Papacy",
+        "Christian",
+        "Crusade",
+        "Excommunication",
+        "Hohenstaufen",
+        "Friedrich II 👑",
+        "Plague 🦠"
+      ],
+      "type": "religious"
+    },
+    {
       "date": "18.02.1229",
-      "description": "The excommunicated Holy Roman Emperor Friedrich II signed the Treaty of Jaffa with Sultan al-Kamil of Egypt, returning Jerusalem, Bethlehem and Nazareth to the Christian world without a military campaign. The agreement guaranteed Muslims continued access to the Temple Mount. The next day, Friedrich crowned himself king of Jerusalem in the Church of the Holy Sepulchre, since not a single prelate agreed to perform the ceremony for the excommunicated man. The treaty was condemned by the pope and the crusader barons as a shameful compromise",
-      "description_ru": "Отлучённый от церкви император Фридрих II подписал Яффский договор с султаном аль-Камилем Египетским, вернув христианскому миру Иерусалим, Вифлеем и Назарет без военного похода. Соглашение гарантировало мусульманам сохранение доступа к Храмовой горе. На следующий день Фридрих короновал себя королём Иерусалима в церкви Гроба Господня, так как ни один прелат не соглашался совершить обряд для отлучённого. Договор был осуждён папой и крестоносными баронами как позорный компромисс",
+      "description": "The excommunicated Emperor Frederick II announced he was embarking on a crusade. He was a disgraced emperor and lacked a strong army. Instead of war, Frederick began a correspondence with Sultan al-Kamil of Egypt. They found common ground: instead of ultimatums, they exchanged mathematical and philosophical problems. Frederick admired Arabic science, and the sultan was astonished that a European monarch was quoting Aristotle in Arabic. Eventually, al-Kamil, preoccupied with an internal conflict, offered Frederick a compromise.\n\nThe Treaty of Jaffa restored Jerusalem, Bethlehem, and Nazareth to the Christian world without a military campaign. The agreement guaranteed Muslim access to the Temple Mount. The following day, Frederick crowned himself King of Jerusalem in the Church of the Holy Sepulchre, as no prelate would perform the rites for the excommunicated. Frederick's actions infuriated Pope Gregory IX.",
+      "description_ru": "Отлучённый от церкви император Фридрих II объявил, что отправляется в Крестовый поход. Он был опальным императором и не имел сильного войска. Вместо войны Фридрих начал переписку с султаном аль-Камилем Египетским. Они нашли общий язык: вместо ультиматумов они слали друг другу математические и философские задачи. Фридрих восхищался арабской наукой, а султан был поражен тем, что европейский монарх цитирует Аристотеля на арабском языке. В конце концов аль-Камиль, занятый внутренним конфликтом, предложил Фридриху компромисс.\n\nЯффский договор вернул христианскому миру Иерусалим, Вифлеем и Назарет без военного похода. Соглашение гарантировало мусульманам сохранение доступа к Храмовой горе. На следующий день Фридрих сам короновал себя королём Иерусалима в церкви Гроба Господня, так как ни один прелат не соглашался совершить обряд для отлучённого. Действия Фридриха привели папу Григория IX в бешенство.  ",
       "era": "AD",
       "latitude": 31.778,
       "longitude": 35.235,
@@ -571,15 +603,17 @@
       "tags": [
         "Egypt",
         "Holy Roman Empire",
-        "Diplomacy",
         "Christian",
-        "Hohenstaufen",
         "Islamic",
+        "Crusade",
+        "Diplomacy",
+        "Hohenstaufen",
+        "Adventure",
+        "Friedrich II 👑",
         "Sixth",
-        "Treaty",
-        "Crusade"
+        "Treaty"
       ],
-      "type": "military"
+      "type": "political"
     },
     {
       "date": "01.08.1231",
@@ -594,12 +628,12 @@
       "tags": [
         "Italian",
         "Holy Roman Empire",
-        "Code",
-        "Friedrich II 👑",
-        "Hohenstaufen",
+        "Sicily",
         "Kingdom",
+        "Hohenstaufen",
         "Law",
-        "Sicily"
+        "Code",
+        "Friedrich II 👑"
       ],
       "type": "political"
     },
@@ -615,13 +649,13 @@
       "source": "https://en.wikipedia.org/wiki/Battle_of_Legnica",
       "tags": [
         "German",
+        "Mongolian",
+        "Polish",
         "Holy Roman Empire",
         "War",
         "Battle",
         "Invasion",
-        "Mongolian",
         "Nomads",
-        "Polish",
         "Silesia"
       ],
       "type": "military"
@@ -638,14 +672,14 @@
       "source": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor",
       "tags": [
         "Holy Roman Empire",
-        "Dynasty",
         "Crisis",
+        "Hohenstaufen",
+        "Dynasty",
+        "Emperor",
+        "Political",
         "Death",
         "Decline",
-        "Emperor",
-        "Friedrich II 👑",
-        "Hohenstaufen",
-        "Political"
+        "Friedrich II 👑"
       ],
       "type": "historic"
     },
@@ -662,12 +696,12 @@
       "tags": [
         "Italian",
         "Holy Roman Empire",
+        "Hohenstaufen",
         "Dynasty",
-        "Charles of Anjou 👑",
         "Death",
+        "Charles of Anjou 👑",
         "End",
-        "Execution",
-        "Hohenstaufen"
+        "Execution"
       ],
       "type": "historic"
     },
@@ -706,9 +740,9 @@
         "Holy Roman Empire",
         "Civil War",
         "Battle",
+        "Political",
         "Brabant",
-        "Cologne",
-        "Political"
+        "Cologne"
       ],
       "type": "military"
     },
@@ -725,12 +759,12 @@
       "tags": [
         "German",
         "Holy Roman Empire",
-        "Dynasty",
-        "Assassination",
         "Crisis",
+        "Dynasty",
+        "Political",
         "Death",
-        "Habsburg",
-        "Political"
+        "Assassination",
+        "Habsburg"
       ],
       "type": "historic"
     },
@@ -767,14 +801,14 @@
       "source": "https://en.wikipedia.org/wiki/Battle_of_M%C3%BChldorf",
       "tags": [
         "German",
+        "Bavarian",
         "Holy Roman Empire",
         "Civil War",
         "Battle",
+        "Wittelsbach",
         "Dynasty",
         "Austria",
-        "Bavarian",
-        "Habsburg",
-        "Wittelsbach"
+        "Habsburg"
       ],
       "type": "military"
     },
@@ -791,12 +825,12 @@
       "tags": [
         "German",
         "Holy Roman Empire",
-        "Dynasty",
-        "Catholic",
-        "Christian",
         "Papacy",
         "Religious",
-        "Wittelsbach"
+        "Christian",
+        "Catholic",
+        "Wittelsbach",
+        "Dynasty"
       ],
       "type": "religious"
     },
@@ -813,9 +847,9 @@
       "tags": [
         "German",
         "Holy Roman Empire",
-        "Black Death",
         "Crisis",
-        "Plague"
+        "Black Death",
+        "Plague 🦠"
       ],
       "type": "historic"
     },
@@ -832,9 +866,10 @@
       "tags": [
         "German",
         "Holy Roman Empire",
+        "Law",
         "Administration",
-        "Elections",
-        "Law"
+        "Constitution",
+        "Elections"
       ],
       "type": "political"
     },
@@ -851,9 +886,9 @@
       "tags": [
         "German",
         "Holy Roman Empire",
-        "Alliance",
-        "Foundation",
         "Hanseatic League",
+        "Foundation",
+        "Alliance",
         "Trade"
       ],
       "type": "political"
@@ -871,11 +906,12 @@
       "tags": [
         "German",
         "Holy Roman Empire",
-        "Reform",
-        "Catholic",
+        "Papacy",
+        "Religious",
         "Christian",
+        "Catholic",
         "Council",
-        "Papacy"
+        "Reform"
       ],
       "type": "religious"
     },
@@ -890,17 +926,17 @@
       "name_ru": "Ян Гус сожжён на Констанцском соборе",
       "source": "https://en.wikipedia.org/wiki/Jan_Hus",
       "tags": [
-        "Holy Roman Empire",
-        "Christian",
-        "Crisis",
         "Czech",
-        "Execution",
-        "Hussite",
-        "Martyr",
+        "Holy Roman Empire",
         "Papacy",
-        "Protestant",
+        "Religious",
+        "Christian",
         "Reformation",
-        "Religious"
+        "Martyr",
+        "Protestant",
+        "Hussite",
+        "Crisis",
+        "Execution"
       ],
       "type": "religious"
     },
@@ -911,21 +947,21 @@
       "era": "AD",
       "latitude": 50.07814996,
       "longitude": 14.42130983,
-      "name": "Hussite Wars Begin",
-      "name_ru": "Начало гуситских войн",
+      "name": "Hussite Wars Begin in Bohemia",
+      "name_ru": "Начало гуситских войн в Богемии",
       "source": "https://en.wikipedia.org/wiki/First_Defenestration_of_Prague",
       "tags": [
         "German",
-        "Holy Roman Empire",
-        "War",
+        "Slavic",
         "Bohemia",
-        "Catholic",
-        "Christian",
-        "Crisis",
         "Czech",
-        "Hussite",
+        "Holy Roman Empire",
         "Religious",
-        "Slavic"
+        "Christian",
+        "Catholic",
+        "Hussite",
+        "Crisis",
+        "War"
       ],
       "type": "political"
     },
@@ -941,17 +977,17 @@
       "source": "https://en.wikipedia.org/wiki/Battle_of_V%C3%ADtkov_Hill",
       "tags": [
         "German",
-        "Holy Roman Empire",
-        "War",
-        "Battle",
-        "Bohemia",
-        "Catholic",
-        "Christian",
-        "Czech",
-        "Hussite",
-        "Religious",
         "Slavic",
-        "Crusade"
+        "Bohemia",
+        "Czech",
+        "Holy Roman Empire",
+        "Religious",
+        "Christian",
+        "Catholic",
+        "Crusade",
+        "Hussite",
+        "War",
+        "Battle"
       ],
       "type": "military"
     },
@@ -966,16 +1002,17 @@
       "name_ru": "Гуситы разбивают крестоносцев при Домажлице",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Doma%C5%BElice",
       "tags": [
+        "Bohemia",
+        "Czech",
         "Holy Roman Empire",
+        "Religious",
+        "Christian",
+        "Catholic",
+        "Crusade",
+        "Hussite",
         "War",
         "Battle",
-        "Bohemia",
-        "Catholic",
-        "Christian",
-        "Czech",
-        "Hussite",
-        "Religious",
-        "Crusade"
+        "Underdog"
       ],
       "type": "military"
     },
@@ -990,14 +1027,15 @@
       "name_ru": "Завершение гуситских войн",
       "source": "https://en.wikipedia.org/wiki/Basel_Compacts",
       "tags": [
-        "Holy Roman Empire",
-        "War",
         "Bohemia",
-        "Catholic",
         "Czech",
-        "Hussite",
-        "Peace",
+        "Holy Roman Empire",
         "Religious",
+        "Christian",
+        "Catholic",
+        "Hussite",
+        "War",
+        "Peace",
         "Treaty"
       ],
       "type": "political"
@@ -1034,11 +1072,11 @@
       "source": "https://en.wikipedia.org/wiki/Battle_of_Nancy",
       "tags": [
         "German",
+        "France",
         "Holy Roman Empire",
         "War",
         "Battle",
         "Burgundy",
-        "France",
         "Habsburg",
         "Lorraine",
         "Swiss"
@@ -1079,9 +1117,9 @@
       "tags": [
         "German",
         "Holy Roman Empire",
+        "Law",
         "Reform",
-        "Habsburg",
-        "Law"
+        "Habsburg"
       ],
       "type": "political"
     },
@@ -1099,8 +1137,8 @@
         "German",
         "Holy Roman Empire",
         "Dynasty",
-        "Death",
         "Emperor",
+        "Death",
         "Habsburg"
       ],
       "type": "historic"

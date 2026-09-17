@@ -1,368 +1,428 @@
 {
   "description": "Dataset imported with 33 events",
-  "filename": "AD1_empire_of_trebizond.json",
   "events": [
     {
       "date": "01.01.1081",
+      "description": "Long before the Empire of Trebizond existed, the city already had a habit of running itself. Theodore Gabras, a Byzantine aristocrat of uncertain origin, took control of Trebizond and the surrounding province of Chaldia as a personal domain around 1081, ruling it as a quasi-independent prince rather than a loyal provincial governor answering to Constantinople. \n\nThe family kept this grip on the region for two generations, treating Trebizond as a hereditary possession even while nominally serving the Byzantine emperor. ",
+      "description_ru": "Задолго до появления Трапезундской империи Трапезунд уже привык управлять собой сам. Феодор Гаврас, византийский аристократ неясного происхождения, взял под личный контроль Трапезунд и окружающую провинцию Халдия, управляя им как полунезависимый князь, а не как верный провинциальный наместник, подчинённый Константинополю. \n\nСемья удерживала власть над регионом два поколения, обращаясь с Трапезундом как с наследственным владением, формально служа при этом византийскому императору.",
       "era": "AD",
-      "type": "historic",
-      "name": "The Gabras Family Establishes Autonomous Rule Over Chaldia",
-      "name_ru": "Род Гаврасов устанавливает самовластное правление в Халдии",
-      "description": "Long before the Empire of Trebizond existed, the city already had a habit of running itself. Theodore Gabras, a Byzantine aristocrat of uncertain origin, took control of Trebizond and the surrounding province of Chaldia as a personal domain around 1081, ruling it as a quasi-independent prince rather than a loyal provincial governor answering to Constantinople. The family kept this grip on the region for two generations, treating Trebizond as a hereditary possession even while nominally serving the Byzantine emperor. That habit of local autonomy would echo directly in 1204, when the Komnenos brothers built an entire breakaway empire on the same city, and again centuries later, when a branch of the same Gabras line ended up ruling the Crimean Principality of Theodoro, the last surviving fragment of Trebizond's world.",
-      "description_ru": "Задолго до появления Трапезундской империи город уже привык управлять собой сам. Феодор Гаврас, византийский аристократ неясного происхождения, взял под личный контроль Трапезунд и окружающую провинцию Халдия около 1081 года, управляя им как полунезависимый князь, а не как верный провинциальный наместник, подчинённый Константинополю. Семья удерживала эту власть над регионом два поколения, обращаясь с Трапезундом как с наследственным владением, формально служа при этом византийскому императору. Эта привычка к местной самостоятельности напрямую отзовётся в 1204 году, когда братья Комнины построят на том же городе целую отколовшуюся империю, а веками позже — когда ветвь того же рода Гаврасов будет управлять крымским княжеством Феодоро, последним уцелевшим осколком трапезундского мира.",
-      "latitude": 41.0027,
-      "longitude": 39.7168,
+      "latitude": 41.00316014,
+      "longitude": 39.71978724,
+      "name": "The Gabras Family Establishes Rule Over Chaldia",
+      "name_ru": "Род Гаврасов устанавливает правление в Халдии",
       "source": "https://en.wikipedia.org/wiki/Gabras",
       "tags": [
-        "Trebizond",
         "Byzantine",
-        "Political"
-      ]
+        "Trebizond",
+        "Political",
+        "Independence"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.1139",
+      "description": "Theodore Gabras's descendant Constantine Gabras inherited the family's grip on Trebizond and Chaldia and, through the 1120s and 1130s, governed the region so independently that he stopped functioning as a Byzantine official in anything but name. Emperor John II Komnenos, busy campaigning across Anatolia and unwilling to tolerate a breakaway province on the empire's northeastern frontier, marched against him in 1139 to force the region back under direct imperial control. \n\nThe campaign brought no lasting result: Byzantine authority over Trebizond remained loose and intermittent for the rest of the century, and the local elite's appetite for self-rule never really went away.",
+      "description_ru": "Потомок Феодора Гавраса, Константин Гаврас, унаследовал контроль семьи над Трапезундом и Халдией и управлял регионом настолько независимо, что фактически перестал быть византийским чиновником хоть в чём-то, кроме титула. Император Иоанн II Комнин, занятый походами по всей Анатолии и не желавший терпеть отколовшуюся провинцию на северо-восточной границе империи, в 1139 году выступил против него, чтобы вернуть регион под прямой императорский контроль. \n\nПоход не принёс прочного результата: византийская власть над Трапезундом оставалась слабой и непостоянной до конца века, а тяга местной знати к самоуправлению никуда не делась.",
       "era": "AD",
-      "type": "political",
-      "name": "Emperor John II Komnenos Marches Against Constantine Gabras",
-      "name_ru": "Император Иоанн II Комнин выступает против Константина Гавраса",
-      "description": "Theodore Gabras's descendant Constantine Gabras inherited the family's grip on Trebizond and Chaldia and, through the 1120s and 1130s, governed the region so independently that he stopped functioning as a Byzantine official in anything but name. Emperor John II Komnenos, busy campaigning across Anatolia and unwilling to tolerate a breakaway province on the empire's northeastern frontier, marched against him in 1139 to force the region back under direct imperial control. The campaign brought no lasting result: Byzantine authority over Trebizond remained loose and intermittent for the rest of the century, and the local elite's appetite for self-rule never really went away. Sixty-five years later, when the Byzantine state itself collapsed in 1204, that same appetite gave the Komnenos brothers exactly the local footing they needed to found an empire of their own.",
-      "description_ru": "Потомок Феодора Гавраса, Константин Гаврас, унаследовал контроль семьи над Трапезундом и Халдией и в 1120-1130-х годах управлял регионом настолько независимо, что фактически перестал быть византийским чиновником хоть в чём-то, кроме титула. Император Иоанн II Комнин, занятый походами по всей Анатолии и не желавший терпеть отколовшуюся провинцию на северо-восточной границе империи, в 1139 году выступил против него, чтобы вернуть регион под прямой императорский контроль. Поход не принёс прочного результата: византийская власть над Трапезундом оставалась слабой и непостоянной до конца века, а тяга местной знати к самоуправлению никуда не делась. Шестьдесят пять лет спустя, когда сама Византия рухнула в 1204 году, именно эта тяга дала братьям Комнинам ту самую местную опору, что позволила им основать собственную империю.",
-      "latitude": 41.0027,
-      "longitude": 39.7168,
+      "latitude": 41.00316014,
+      "longitude": 39.71978724,
+      "name": "Byzantium suppresses the independence of Trebizond",
+      "name_ru": "Византия подавляет независимость Трапезунда",
       "source": "https://en.wikipedia.org/wiki/Gabras",
       "tags": [
-        "Trebizond",
         "Byzantine",
+        "Roman",
+        "Trebizond",
+        "War",
+        "Conquest",
         "Political"
-      ]
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.1205",
+      "description": "Alexios I's brother, David, wasted no time after founding the empire. Leading his own army, David advanced west along the Black Sea coast through Paphlagonia and captured lands as far as Heraclea Pontica, briefly bringing Trebizond's western border into direct contact with the rival Empire of Nicaea — another major Byzantine remnant that had emerged from the ruins of the Fourth Crusade.\n\nFor several years, it seemed that Trebizond, rather than Nicaea, might become the main contender for the Byzantine legacy in Anatolia. This expansion relied entirely on the weakness of Trebizond's neighbors in the chaos following the fall of Constantinople and did not anticipate a clash with the Nicaean state, which was determined to unite the Byzantine lands under its own, rather than Trebizond's, authority.",
+      "description_ru": "Брат Алексея I, Давид, не терял времени после основания империи. Возглавляя собственное войско, Давид продвинулся на запад вдоль черноморского побережья через Пафлагонию и захватил земли вплоть до Гераклеи Понтийской, ненадолго приведя западную границу Трапезунда в прямое соприкосновение с соперничающей Никейской империей — другим крупным византийским осколком, возникшим из руин Четвёртого крестового похода. \n\nНа несколько лет показалось, что именно Трапезунд, а не Никея, может стать главным претендентом на византийское наследие в Анатолии. Экспансия целиком опиралась на слабость соседей Трапезунда в хаосе после падения Константинополя и не ожидала столкновения с никейским государством, твёрдо намеренным объединить византийские земли под собственной, а не трапезундской, властью.",
       "era": "AD",
-      "type": "military",
-      "name": "David Komnenos Pushes Trebizond's Border West",
-      "name_ru": "Давид Комнин продвигает границу Трапезунда на запад",
-      "description": "Alexios I's brother David wasted no time after Trebizond's founding in 1204. Leading his own troops rather than waiting on his brother in the capital, David pushed west along the Black Sea coast through Paphlagonia and captured territory as far as Heraclea Pontica, briefly bringing Trebizond's western border into direct contact with the rival Empire of Nicaea, the other major Byzantine successor state to emerge from the Fourth Crusade's wreckage. For a few years it looked like Trebizond, not Nicaea, might become the dominant claimant to the Byzantine legacy in Anatolia. The expansion depended entirely on the weakness of Trebizond's neighbors in the chaos following Constantinople's fall, and it would not survive contact with a Nicaean state determined to reunify Byzantine territory under its own rule rather than Trebizond's.",
-      "description_ru": "Брат Алексея I, Давид, не терял времени после основания Трапезунда в 1204 году. Возглавляя собственное войско, а не дожидаясь брата в столице, Давид продвинулся на запад вдоль черноморского побережья через Пафлагонию и захватил земли вплоть до Гераклеи Понтийской, ненадолго приведя западную границу Трапезунда в прямое соприкосновение с соперничающей Никейской империей — другим крупным византийским государством-преемником, возникшим из руин Четвёртого крестового похода. На несколько лет показалось, что именно Трапезунд, а не Никея, может стать главным претендентом на византийское наследие в Анатолии. Экспансия целиком опиралась на слабость соседей Трапезунда в хаосе после падения Константинополя и не могла пережить столкновения с никейским государством, твёрдо намеренным объединить византийские земли под собственной, а не трапезундской, властью.",
-      "latitude": 41.2814,
-      "longitude": 31.4358,
+      "latitude": 41.2845,
+      "longitude": 31.4143,
+      "name": "Trebizond advances towards Constantinople",
+      "name_ru": "Трапезунд продвигается к Константинополю",
       "source": "https://en.wikipedia.org/wiki/Empire_of_Trebizond",
       "tags": [
-        "Trebizond",
         "Byzantine",
-        "Political"
-      ]
+        "Trebizond",
+        "Conquest",
+        "Political",
+        "Expansion"
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.1214",
+      "description": "Theodore I Laskaris, the founder and ruler of the Empire of Nicaea, considered Byzantium's lands rightfully his, and by 1214 his forces had recaptured virtually all of David Comnenus's conquests along the Paphlagonian coast, pushing Trebizond back to the east. This defeat ended Trebizond's chances of competing with Nicaea for leadership in the Byzantine world — a role Nicaea would decisively assume after recapturing Constantinople itself in 1261.\n\nFrom that moment on, the rulers of Trebizond ceased contesting the title of the main Byzantine successor state and resigned themselves to a more modest, but also more secure, role as a wealthy but politically secondary power on the southeastern shore of the Black Sea.",
+      "description_ru": "Феодор I Ласкарис, основатель и правитель Никейской империи, считал земли Византии по праву своими, и к 1214 году его войска отвоевали практически все завоевания Давида Комнина вдоль пафлагонского побережья, отбросив Трапезунд обратно на восток. Поражение положило конец шансам Трапезунда соперничать с Никеей за лидерство в византийском мире — роль, которую Никея решительно займёт, отвоевав в 1261 году сам Константинополь. \n\nС этого момента правители Трапезунда перестали оспаривать титул главного византийского государства-преемника и смирились с более скромной, но и более прочной ролью богатой, но политически второстепенной державы на юго-восточном берегу Чёрного моря.",
       "era": "AD",
-      "type": "military",
+      "latitude": 41.2845,
+      "longitude": 31.4143,
       "name": "Nicaea Reconquers Trebizond's Western Gains",
-      "name_ru": "Никея отвоёвывает западные завоевания Трапезунда",
-      "description": "David Komnenos's western conquests lasted barely a decade. Theodore I Laskaris, the founder and ruler of the Empire of Nicaea, refused to accept a rival Byzantine successor state holding ground he considered rightfully his, and by 1214 his forces had rolled back essentially all of David's gains along the Paphlagonian coast, pushing Trebizond's border back east. The defeat ended any realistic chance that Trebizond could compete with Nicaea for leadership of the Byzantine world, a role Nicaea would go on to fill decisively when it recaptured Constantinople itself in 1261. From this point on, Trebizond's rulers stopped contesting the title of leading Byzantine successor state and settled instead into a smaller, more durable role as a wealthy but politically marginal power on the Black Sea's southeastern shore.",
-      "description_ru": "Западные завоевания Давида Комнина продержались едва ли десятилетие. Феодор I Ласкарис, основатель и правитель Никейской империи, отказывался мириться с тем, что соперничающее византийское государство-преемник удерживает земли, которые он считал по праву своими, и к 1214 году его войска отвоевали практически все завоевания Давида вдоль пафлагонского побережья, отбросив границу Трапезунда обратно на восток. Поражение положило конец любым реальным шансам Трапезунда соперничать с Никеей за лидерство в византийском мире — роль, которую Никея решительно займёт, отвоевав в 1261 году сам Константинополь. С этого момента правители Трапезунда перестали оспаривать титул главного византийского государства-преемника и смирились с более скромной, но и более прочной ролью богатой, но политически второстепенной державы на юго-восточном берегу Чёрного моря.",
-      "latitude": 41.2814,
-      "longitude": 31.4358,
+      "name_ru": "Никея отвоёвывает западные приобретения Трапезунда",
       "source": "https://en.wikipedia.org/wiki/Empire_of_Trebizond",
       "tags": [
-        "Trebizond",
         "Byzantine",
-        "War"
-      ]
+        "Greek",
+        "Nicaea",
+        "Trebizond",
+        "War",
+        "Conquest"
+      ],
+      "type": "military"
     },
     {
       "date": "01.02.1214",
+      "description": "That same year, as Nicaea was recapturing Trebizond's western conquests, the Seljuk Sultanate of Rum, under Sultan Keykavus I, arrived from the south and captured Sinop — Trebizond's most valuable western port and the fulcrum of its control over the southern Black Sea coast.\n\nThe loss of Sinop was more significant than its size would suggest: the city lay on the most direct sea route between Constantinople and the Caucasus, and whoever controlled it controlled a disproportionate share of Black Sea trade.",
+      "description_ru": "В том же году, когда Никея отвоёвывала западные завоевания Трапезунда, с юга пришел сельджукский Румский султанат под властью султана Кейкавуса I и захватил Синоп — самый ценный западный порт Трапезунда и опору его контроля над южным черноморским побережьем. \n\nПотеря Синопа значила больше, чем можно было судить по его размерам: город лежал на самом прямом морском пути между Константинополем и Кавказом, и тот, кто им владел, контролировал непропорционально большую долю черноморской торговли.",
       "era": "AD",
-      "type": "political",
-      "name": "The Seljuks Capture Sinope from Trebizond",
-      "name_ru": "Сельджуки захватывают Синоп у Трапезунда",
-      "description": "In the same year that Nicaea was rolling back Trebizond's western conquests, an entirely different enemy struck from the south: the Seljuk Sultanate of Rum, under Sultan Kaykaus I, captured Sinope, Trebizond's most valuable western port and the anchor of its control over the southern Black Sea coast. Trebizond emerged from 1214 with two separate defeats delivered by two unrelated powers within months of each other, reduced to a narrow strip of coastline it would spend the rest of the century trying to expand back out of. Sinope's loss mattered more than its size suggested: the city sat on the most direct sea route between Constantinople and the Caucasus, and whoever held it controlled a disproportionate share of Black Sea trade. Trebizond would not fully recover it for another forty years.",
-      "description_ru": "В том же году, когда Никея отвоёвывала западные завоевания Трапезунда, с юга ударил уже совсем другой противник: сельджукский Румский султанат под властью султана Кейкавуса I захватил Синоп — самый ценный западный порт Трапезунда и опору его контроля над южным черноморским побережьем. Трапезунд вышел из 1214 года с двумя отдельными поражениями от двух не связанных друг с другом держав в течение нескольких месяцев, сократившись до узкой полосы побережья, из которой он будет пытаться вырваться весь оставшийся век. Потеря Синопа значила больше, чем можно было судить по его размерам: город лежал на самом прямом морском пути между Константинополем и Кавказом, и тот, кто им владел, контролировал непропорционально большую долю черноморской торговли. Полностью вернуть его Трапезунду удастся лишь сорок лет спустя.",
       "latitude": 42.0231,
       "longitude": 35.1531,
+      "name": "The Seljuks Capture Sinope from Trebizond",
+      "name_ru": "Сельджуки отвовевывают Синоп у Трапезунда",
       "source": "https://en.wikipedia.org/wiki/Empire_of_Trebizond",
       "tags": [
+        "Byzantine",
+        "Turkic",
+        "Oguz",
+        "Sultanate of Rum",
         "Trebizond",
+        "War",
+        "Conquest",
         "Political"
-      ]
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.1223",
-      "description": "The Seljuk Sultanate of Rum, having taken Sinope from Trebizond in 1214, tried to finish the job: a Seljuk army under a commander named Melik laid siege to the capital itself in the winter of 1222-1223. According to Trapezuntine chroniclers, the city came close to falling before an unusually violent storm broke the siege, and the retreating Seljuk army was then cut apart by the Matzoukaites, fierce mountain tribes loyal to Trebizond, who captured Melik himself. Trebizond's own historians later treated the victory as the moment it shook off Seljuk overlordship for good, though modern scholars see it as just one round in a decades-long tug-of-war with Rum over Sinope and the Black Sea coast rather than a clean break.",
-      "description_ru": "Румский сельджукский султанат, отобравший у Трапезунда Синоп в 1214 году, попытался довести дело до конца: зимой 1222-1223 годов сельджукское войско под командованием некоего Мелика осадило саму столицу. По сведениям трапезундских летописцев, город был близок к падению, пока необычайно сильная буря не сорвала осаду, а отступавшее сельджукское войско было разбито мацукаитами — свирепыми горными племенами, верными Трапезунду, — которые взяли Мелика в плен. Трапезундские историки позже считали эту победу моментом, когда империя окончательно сбросила сельджукское владычество, хотя современные учёные видят в этом лишь один эпизод многолетнего противостояния с Румом за Синоп и черноморское побережье, а не окончательный разрыв.",
+      "description": "The Seljuk Sultanate of Rum, having taken Sinope from Trebizond in 1214, tried to finish the job: a Seljuk army under a commander named Melik laid siege to the capital itself in the winter of 1222-1223. According to Trapezuntine chroniclers, the city came close to falling before an unusually violent storm broke the siege, and the retreating Seljuk army was then cut apart by the Matzoukaites, fierce mountain tribes loyal to Trebizond, who captured Melik himself. ",
+      "description_ru": "Румский султанат, отобравший у Трапезунда Синоп в 1214 году, попытался довести дело до конца: зимой 1222-1223 годов сельджукское войско осадило саму столицу. По сведениям трапезундских летописцев, город был близок к падению, пока необычайно сильная буря не сорвала осаду, а отступавшее сельджукское войско было разбито мацукаитами — свирепыми горными племенами, верными Трапезунду, — которые взяли военачальника в плен. ",
       "era": "AD",
-      "latitude": 41.0027,
-      "longitude": 39.7168,
-      "name": "The Storm That Saved Trebizond",
-      "name_ru": "Буря, спасшая Трапезунд",
+      "latitude": 41.00316014,
+      "longitude": 39.71978724,
+      "name": "A storm saves Trebizond from the Seljuks",
+      "name_ru": "Буря спасает Трапезунд от сельджуков",
       "source": "https://en.wikipedia.org/wiki/Siege_of_Trebizond_(1222%E2%80%931223)",
       "tags": [
+        "Byzantine",
+        "Greek",
+        "Turkic",
+        "Sultanate of Rum",
         "Trebizond",
-        "War"
+        "War",
+        "Battle",
+        "Siege"
       ],
       "type": "military"
     },
     {
       "date": "26.06.1243",
+      "description": "Trebizond never fought the Mongols directly — it didn't have to. When a Mongol army under the general Baiju crushed the Seljuk Sultanate of Rum at Köse Dağ in June 1243, Seljuk power across Anatolia collapsed overnight, and Emperor Manuel I of Trebizond read the outcome correctly: he submitted to the Mongols as a tributary before anyone forced the issue. \n\nIt was a low-cost trade: Trebizond kept its own emperor, its own church, and its own administration, and in exchange gained a Mongol shield against the very Seljuk neighbor that had besieged it twenty years earlier. The submission also opened trade routes east that would make Trebizond rich within a generation, turning a moment of strategic surrender into the foundation of the empire's later prosperity.",
+      "description_ru": "Когда монгольское войско под командованием полководца Байджу разгромило Румский сельджукский султанат при Кёсе-Даге в июне 1243 года, сельджукская власть в Анатолии рухнула в одночасье, и император Трапезунда Мануил I верно оценил ситуацию: он подчинился монголам как данник, не дожидаясь принуждения. \n\nЭто была недорогая сделка: Трапезунд сохранил своего императора, свою церковь и своё управление, а взамен получил монгольский щит против того самого сельджукского соседа, что осаждал его двадцатью годами ранее. Подчинение также открыло восточные торговые пути, которые уже через поколение сделают Трапезунд богатым, превратив момент стратегической капитуляции в основу будущего процветания империи.",
       "era": "AD",
-      "type": "political",
+      "latitude": 41.00316014,
+      "longitude": 39.71978724,
       "name": "Trebizond Submits to the Mongols After Köse Dağ",
       "name_ru": "Трапезунд подчиняется монголам после Кёсе-Дага",
-      "description": "Trebizond never fought the Mongols directly — it didn't have to. When a Mongol army under the general Baiju crushed the Seljuk Sultanate of Rum at Köse Dağ in June 1243, Seljuk power across Anatolia collapsed overnight, and Emperor Manuel I of Trebizond read the outcome correctly: he submitted to the Mongols as a tributary before anyone forced the issue. It was a low-cost trade: Trebizond kept its own emperor, its own church, and its own administration, and in exchange gained a Mongol shield against the very Seljuk neighbor that had besieged it twenty years earlier. The submission also opened trade routes east that would make Trebizond rich within a generation, turning a moment of strategic surrender into the foundation of the empire's later prosperity.",
-      "description_ru": "Трапезунд никогда не воевал с монголами напрямую — в этом не было нужды. Когда монгольское войско под командованием полководца Байджу разгромило Румский сельджукский султанат при Кёсе-Даге в июне 1243 года, сельджукская власть в Анатолии рухнула в одночасье, и император Трапезунда Мануил I верно оценил ситуацию: он подчинился монголам как данник, не дожидаясь принуждения. Это была недорогая сделка: Трапезунд сохранил своего императора, свою церковь и своё управление, а взамен получил монгольский щит против того самого сельджукского соседа, что осаждал его двадцатью годами ранее. Подчинение также открыло восточные торговые пути, которые уже через поколение сделают Трапезунд богатым, превратив момент стратегической капитуляции в основу будущего процветания империи.",
-      "latitude": 40.1667,
-      "longitude": 37.9333,
       "source": "https://en.wikipedia.org/wiki/Battle_of_K%C3%B6se_Da%C4%9F",
       "tags": [
-        "Trebizond",
+        "Byzantine",
+        "Greek",
         "Mongolian",
-        "Political"
-      ]
+        "Trebizond",
+        "Political",
+        "Tribute",
+        "Vassalage"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.1246",
+      "description": "Three years after submitting to Mongol rule, Emperor Manuel I of Trebizond reportedly traveled to distant Mongolia to attend the enthronement of the Great Khan Guyuk, along with a remarkable gathering of ambassadors and vassal rulers from across Eurasia, including a papal legate sent by Pope Innocent IV and representatives of the Russian princes.\n\nHis personal presence, rather than the dispatch of an envoy, may have demonstrated how seriously Trebizond took its new status as a Mongol tributary and how much its rulers valued demonstrative loyalty to the Mongol court. However, the actual presence of the Byzantine emperor in Karakorum has not been confirmed.",
+      "description_ru": "Через три года после подчинения монгольской власти император Трапезунда Мануил I, по некоторым сведениям, отправился в далёкую Монголию, чтобы присутствовать на возведении на трон великого хана Гуюка — вместе с примечательным собранием послов и вассальных правителей со всей Евразии, включая папского легата, посланного папой Иннокентием IV, и представителей русских князей. \n\nЛичное присутствие, а не отправка посланника, могло показывать, насколько серьёзно Трапезунд относился к своему новому положению монгольского данника и насколько его правители ценили демонстративную верность монгольскому двору. Однако фактическое присутствие византийского императора в Каракоруме не было подтверждено.",
       "era": "AD",
-      "type": "political",
+      "latitude": 47.20726814,
+      "longitude": 102.84087181,
       "name": "Manuel I Attends the Enthronement of Güyük Khan",
-      "name_ru": "Мануил I присутствует на возведении на трон хана Гуюка",
-      "description": "Three years after submitting to Mongol overlordship, Emperor Manuel I of Trebizond reportedly traveled all the way to Mongolia to attend the enthronement of Güyük as Great Khan in 1246, alongside a remarkable gathering of envoys and vassal rulers from across Eurasia, including a papal legate sent by Pope Innocent IV and representatives of Rus' princes. Making the journey in person, rather than sending a delegate, signaled how seriously Trebizond took its new position as a Mongol tributary and how much value its rulers placed on visible loyalty to the Mongol court. It also gave Trebizond a rare front-row view of Mongol imperial politics at their height, at a court where representatives of nearly every power between the Pacific and the Mediterranean were gathered in one place for the first and only time.",
-      "description_ru": "Через три года после подчинения монгольской власти император Трапезунда Мануил I, по некоторым сведениям, отправился в далёкую Монголию, чтобы присутствовать на возведении на трон великого хана Гуюка в 1246 году — вместе с примечательным собранием послов и вассальных правителей со всей Евразии, включая папского легата, посланного папой Иннокентием IV, и представителей русских князей. Личное присутствие, а не отправка посланника, показывало, насколько серьёзно Трапезунд относился к своему новому положению монгольского данника и насколько его правители ценили демонстративную верность монгольскому двору. Это также дало Трапезунду редкую возможность увидеть монгольскую имперскую политику на её вершине — при дворе, где представители почти всех держав от Тихого океана до Средиземноморья собрались в одном месте впервые и в последний раз.",
-      "latitude": 47.9,
-      "longitude": 106.9,
+      "name_ru": "Коронация хана Гуюка в Монголии",
       "source": "https://en.wikipedia.org/wiki/Empire_of_Trebizond",
       "tags": [
-        "Trebizond",
         "Mongolian",
+        "Trebizond",
+        "King",
+        "Uncertain",
         "Political"
-      ]
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.1254",
+      "description": "Manuel I spent his reign rebuilding what David Komnenos had lost a generation earlier, and in 1254 he succeeded where predecessors had failed, recapturing Sinope from Seljuk control and briefly restoring Trebizond's grip on the whole southern Black Sea coast. The Seljuk Sultanate of Rum, weakened by its own submission to the Mongols after Köse Dağ eleven years earlier, was in no position to mount an effective defense of a port it could no longer reliably project power to. \n\nContemporaries remembered Manuel as a capable general who kept the peace at home as well as winning ground abroad, a rarer combination in Trebizond's history than either achievement alone, given how often its own emperors would later be deposed or murdered by their own court rather than by foreign enemies.",
+      "description_ru": "Мануил I провёл своё правление, восстанавливая то, что потерял поколением ранее Давид Комнин, и в 1254 году добился того, что не удавалось предшественникам, — отвоевал Синоп у сельджуков и на время вернул Трапезунду контроль над всем южным черноморским побережьем. Румский сельджукский султанат, ослабленный собственным подчинением монголам после Кёсе-Дага одиннадцатью годами ранее, был не в состоянии эффективно защищать порт, к которому уже не мог надёжно проецировать силу. \n\nСовременники запомнили Мануила как способного полководца, сохранявшего мир внутри страны не хуже, чем добивавшегося успехов за её пределами, — сочетание в истории Трапезунда более редкое, чем любое из этих достижений по отдельности, если учесть, как часто последующих императоров будут свергать или убивать собственные придворные, а не внешние враги.",
       "era": "AD",
-      "type": "military",
-      "name": "Manuel I Retakes Sinope from the Seljuks",
-      "name_ru": "Мануил I отвоёвывает Синоп у сельджуков",
-      "description": "Manuel I spent his reign rebuilding what David Komnenos had lost a generation earlier, and in 1254 he succeeded where predecessors had failed, recapturing Sinope from Seljuk control and briefly restoring Trebizond's grip on the whole southern Black Sea coast. The Seljuk Sultanate of Rum, weakened by its own submission to the Mongols after Köse Dağ eleven years earlier, was in no position to mount an effective defense of a port it could no longer reliably project power to. Contemporaries remembered Manuel as a capable general who kept the peace at home as well as winning ground abroad, a rarer combination in Trebizond's history than either achievement alone, given how often its own emperors would later be deposed or murdered by their own court rather than by foreign enemies.",
-      "description_ru": "Мануил I провёл своё правление, восстанавливая то, что потерял поколением ранее Давид Комнин, и в 1254 году добился того, что не удавалось предшественникам, — отвоевал Синоп у сельджуков и на время вернул Трапезунду контроль над всем южным черноморским побережьем. Румский сельджукский султанат, ослабленный собственным подчинением монголам после Кёсе-Дага одиннадцатью годами ранее, был не в состоянии эффективно защищать порт, к которому уже не мог надёжно проецировать силу. Современники запомнили Мануила как способного полководца, сохранявшего мир внутри страны не хуже, чем добивавшегося успехов за её пределами, — сочетание в истории Трапезунда более редкое, чем любое из этих достижений по отдельности, если учесть, как часто последующих императоров будут свергать или убивать собственные придворные, а не внешние враги.",
       "latitude": 42.0231,
       "longitude": 35.1531,
+      "name": "Manuel I Retakes Sinope from the Seljuks",
+      "name_ru": "Трапезунд отвоёвывает Синоп у сельджуков",
       "source": "https://en.wikipedia.org/wiki/Manuel_I_of_Trebizond",
       "tags": [
+        "Byzantine",
+        "Turkic",
+        "Oguz",
+        "Sultanate of Rum",
         "Trebizond",
-        "War"
-      ]
+        "War",
+        "Conquest"
+      ],
+      "type": "military"
     },
     {
       "date": "01.06.1254",
-      "era": "AD",
-      "type": "historic",
-      "name": "Manuel I Mints Trebizond's First Silver Coinage",
-      "name_ru": "Мануил I чеканит первую серебряную монету Трапезунда",
       "description": "Manuel I backed his military recovery of Sinope with an economic declaration of independence: he became the first Trapezuntine emperor to issue his own silver coinage, a coin known as the asper, stamped with his own image rather than borrowing the coinage of Constantinople or the Seljuk sultans. The move gave Trebizond's booming trans-Asian trade a currency it could fully control, at exactly the moment the empire's position as a Mongol tributary was opening Silk Road routes that would make it wealthy. The Trapezuntine asper went on to become one of the most widely circulated and trusted currencies of the eastern Black Sea for the next two centuries, used by Genoese and Venetian merchants alongside their own coinages and outlasting several of the political structures that first minted it.",
       "description_ru": "Мануил I подкрепил военное возвращение Синопа экономическим заявлением о независимости: он стал первым трапезундским императором, начавшим чеканить собственную серебряную монету — аспр, с собственным изображением, а не заимствованную у Константинополя или сельджукских султанов монету. Этот шаг дал бурно растущей трансазиатской торговле Трапезунда валюту, которую империя полностью контролировала, — именно в тот момент, когда её положение монгольского данника открывало пути Шёлкового пути, готовые сделать её богатой. Трапезундский аспр стал одной из самых широко обращавшихся и надёжных валют восточного Причерноморья на следующие два столетия, использовался генуэзскими и венецианскими купцами наряду с их собственными монетами и пережил не одну из политических структур, впервые его отчеканивших.",
-      "latitude": 41.0027,
-      "longitude": 39.7168,
+      "era": "AD",
+      "latitude": 41.00316014,
+      "longitude": 39.71978724,
+      "name": "Manuel I Mints Trebizond's First Silver Coinage",
+      "name_ru": "Мануил I чеканит первую серебряную монету Трапезунда",
       "source": "https://en.wikipedia.org/wiki/Manuel_I_of_Trebizond",
       "tags": [
+        "Byzantine",
+        "Greek",
         "Trebizond",
-        "Trade"
-      ]
+        "Trade",
+        "Currency 🪙"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.1258",
       "description": "When the Mongols under Hulagu Khan destroyed Baghdad in February 1258 and ended the Abbasid Caliphate, one of the unintended casualties was Baghdad's role as the great meeting point of east-west trade. Merchants rerouted north instead, through the new Mongol capital at Tabriz and down to the Black Sea coast at Trebizond, which as a Mongol tributary already had safe-conduct guarantees the caliphate's former routes no longer offered. The city became the western terminus of the Silk Road almost overnight, filling with Persian silk, Central Asian spices, and the Genoese and Venetian merchants who came to buy them. Western travelers heading east now started their journeys from Trebizond's harbor rather than from ports further south — including, a generation later, Marco Polo on his way home.",
-      "description_ru": "Когда монголы под предводительством Хулагу-хана разрушили Багдад в феврале 1258 года и покончили с Аббасидским халифатом, одной из непреднамеренных жертв стала роль Багдада как главного перекрёстка торговли между Востоком и Западом. Купцы проложили путь севернее — через новую монгольскую столицу в Тебризе и дальше к черноморскому побережью, в Трапезунд, который как данник монголов уже располагал гарантиями безопасного проезда, каких больше не давали прежние маршруты халифата. Город почти в одночасье превратился в западный конец Шёлкового пути, наполнившись персидским шёлком, среднеазиатскими пряностями и генуэзскими и венецианскими купцами, приезжавшими их скупать. Западные путешественники, направлявшиеся на восток, теперь начинали путь из гавани Трапезунда, а не из портов южнее, — в их числе поколением позже окажется и Марко Поло, возвращавшийся домой.",
+      "description_ru": "Когда монголы под предводительством Хулагу-хана разрушили Багдад в феврале 1258 года и покончили с Аббасидским халифатом, одной из непреднамеренных жертв стала роль Багдада как главного перекрёстка торговли между Востоком и Западом. Купцы проложили путь севернее — через новую монгольскую столицу в Тебризе и дальше к черноморскому побережью, в Трапезунд, который как данник монголов уже располагал гарантиями безопасного проезда, каких больше не давали прежние маршруты халифата. \n\nГород почти в одночасье превратился в западный конец Шёлкового пути, наполнившись персидским шёлком, среднеазиатскими пряностями и генуэзскими и венецианскими купцами, приезжавшими их скупать. Западные путешественники, направлявшиеся на восток, теперь начинали путь из гавани Трапезунда.",
       "era": "AD",
-      "latitude": 41.0027,
-      "longitude": 39.7168,
+      "latitude": 41.00316014,
+      "longitude": 39.71978724,
       "name": "The Silk Road Bends North to Trebizond",
-      "name_ru": "Шёлковый путь поворачивает на север, к Трапезунду",
+      "name_ru": "Трапезунд — часть Шелкового пути",
       "source": "https://en.wikipedia.org/wiki/Empire_of_Trebizond",
       "tags": [
+        "Byzantine",
+        "Greek",
         "Trebizond",
+        "Silk Road",
         "Trade",
-        "Silk Road"
+        "Rise"
       ],
       "type": "historic"
     },
     {
       "date": "01.01.1260",
-      "description": "Manuel I spent part of the wealth and stability of his long reign on a building that would outlast his empire by centuries: a new church dedicated to the Holy Wisdom, built on a hill outside the city walls between 1238 and 1263. Later architectural historians would call it one of the finest surviving examples of Byzantine church architecture anywhere, its walls covered in frescoes and its design blending Constantinopolitan, Georgian, and Seljuk influences — a physical record of exactly which cultures Trebizond sat between. The church kept functioning as a monastery for centuries after the Ottoman conquest of 1461, with monks recorded in residence as late as 1701, before finally being converted for other use once its isolation outside the city stopped protecting it.",
-      "description_ru": "Часть богатства и стабильности своего долгого правления Мануил I вложил в постройку, которая пережила его империю на века: новый храм, посвящённый Святой Софии, был возведён на холме за городскими стенами между 1238 и 1263 годами. Позднейшие историки архитектуры назовут его одним из лучших сохранившихся образцов византийского церковного зодчества, со стенами, покрытыми фресками, и убранством, сочетающим константинопольские, грузинские и сельджукские влияния, — физическим свидетельством того, между какими культурами в точности находился Трапезунд. Храм продолжал действовать как монастырь ещё долгие века после османского завоевания 1461 года, монахи упоминаются там вплоть до 1701 года, — пока его удалённость от города наконец не перестала его защищать и он не был обращён в иное использование.",
+      "description": "A new church dedicated to the Holy Wisdom, built on a hill outside the city walls between 1238 and 1263. Later architectural historians would call it one of the finest surviving examples of Byzantine church architecture anywhere, its walls covered in frescoes and its design blending Constantinopolitan, Georgian, and Seljuk influences — a physical record of exactly which cultures Trebizond sat between. \n\nThe church kept functioning as a monastery for centuries after the Ottoman conquest of 1461, with monks recorded in residence as late as 1701, before finally being converted for other use once its isolation outside the city stopped protecting it.",
+      "description_ru": "Новый храм, посвящённый Святой Софии, был возведён на холме за городскими стенами между 1238 и 1263 годами. Позднейшие историки архитектуры назовут его одним из лучших сохранившихся образцов византийского церковного зодчества, со стенами, покрытыми фресками, и убранством, сочетающим константинопольские, грузинские и сельджукские влияния, — физическим свидетельством того, между какими культурами в точности находился Трапезунд. \n\nХрам продолжал действовать как монастырь ещё долгие века после османского завоевания 1461 года, монахи упоминаются там вплоть до 1701 года, — пока его удалённость от города наконец не перестала его защищать и он не был обращён в иное использование.",
       "era": "AD",
-      "latitude": 41.0126,
-      "longitude": 39.7,
+      "latitude": 41.00309941,
+      "longitude": 39.69607115,
       "name": "The Hagia Sophia of Trebizond Is Built",
       "name_ru": "Строительство трапезундской Айя-Софии",
       "source": "https://en.wikipedia.org/wiki/Hagia_Sophia,_Trabzon",
       "tags": [
-        "Trebizond",
         "Byzantine",
-        "Religious"
+        "Trebizond",
+        "Religious",
+        "Christian",
+        "Architecture",
+        "Building 🏠",
+        "Temple"
       ],
       "type": "religious"
     },
     {
       "date": "01.01.1282",
-      "description": "For nearly eighty years, every ruler of Trebizond had styled himself 'Emperor and Autocrat of the Romans,' the same title claimed by Constantinople — a fiction Trebizond kept alive even after the rival Nicaean dynasty retook the real capital in 1261. In 1282, Emperor John II finally gave it up: under a treaty with Michael VIII Palaiologos, he stripped off his imperial regalia in front of Constantinople's walls before entering the city to marry Michael's daughter Eudokia, formally accepting the lesser rank of despot. His successors quietly revived a scaled-down version of the imperial title — 'Emperor of all the East, Iberia and Perateia' — that stopped short of claiming Rome outright, a compromise that let Trebizond keep its dignity without provoking a war it had no chance of winning.",
-      "description_ru": "Почти восемьдесят лет каждый правитель Трапезунда именовал себя «императором и самодержцем ромеев» — тем же титулом, на который претендовал Константинополь, — вымыслом, который Трапезунд поддерживал даже после того, как соперничающая никейская династия отвоевала настоящую столицу в 1261 году. В 1282 году император Иоанн II наконец отказался от него: по договору с Михаилом VIII Палеологом он снял императорские регалии перед стенами Константинополя, прежде чем войти в город и жениться на дочери Михаила Евдокии, формально приняв низший титул деспота. Его преемники тихо возродили урезанную версию императорского титула — «император всего Востока, Иверии и Перат», — не претендуя прямо на Рим, — компромисс, позволивший Трапезунду сохранить достоинство, не провоцируя войну, которую он не мог выиграть.",
+      "description": "For nearly eighty years, every ruler of Trebizond had styled himself 'Emperor and Autocrat of the Romans,' the same title claimed by Constantinople — a fiction Trebizond kept alive even after the rival Nicaean dynasty retook the real capital in 1261. In 1282, Emperor John II finally gave it up: under a treaty with Michael VIII Palaiologos, he stripped off his imperial regalia in front of Constantinople's walls before entering the city to marry Michael's daughter Eudokia, formally accepting the lesser rank of despot.",
+      "description_ru": "Почти восемьдесят лет каждый правитель Трапезунда именовал себя «императором и самодержцем ромеев» — тем же титулом, на который претендовал Константинополь, — вымыслом, который Трапезунд поддерживал даже после того, как соперничающая никейская династия отвоевала настоящую столицу в 1261 году. В 1282 году император Иоанн II наконец отказался от него: по договору с Михаилом VIII Палеологом он снял императорские регалии перед стенами Константинополя, прежде чем войти в город и жениться на дочери Михаила Евдокии, формально приняв низший титул регионального деспота.",
       "era": "AD",
       "latitude": 41.0082,
       "longitude": 28.9784,
-      "name": "John II Trades the Imperial Crown for a Byzantine Bride",
-      "name_ru": "Иоанн II меняет императорскую корону на византийскую невесту",
+      "name": "Trebizond renounces Byzantine ambitions",
+      "name_ru": "Трапезунд отказывается от византийских амбиций",
       "source": "https://en.wikipedia.org/wiki/John_II_of_Trebizond",
       "tags": [
-        "Trebizond",
         "Byzantine",
-        "Marriage"
+        "Roman",
+        "Nicaea",
+        "Trebizond",
+        "Marriage",
+        "Palaiologos",
+        "Dynasty"
       ],
       "type": "political"
     },
     {
       "date": "01.01.1295",
-      "description": "After twenty-four years away, Marco Polo's final leg home from the Mongol court took him through Trebizond, the Black Sea port that had become the standard western gateway for anyone traveling the overland routes to Persia, Central Asia, and China. By 1295, the city's harbor was crowded with Genoese and Venetian trading houses built specifically to handle exactly this kind of traffic, and merchants like Polo's own family had been using the route for decades. Polo's account of his travels, dictated after his return to Venice, helped cement Trebizond's reputation across Europe as the last civilized stop before the true unknown of Asia — a reputation the city's rulers actively cultivated, since the transit trade passing through its gates was the main thing keeping their small, militarily weak state solvent.",
-      "description_ru": "После двадцати четырёх лет отсутствия последний отрезок пути Марко Поло домой из монгольских владений пролегал через Трапезунд — черноморский порт, ставший стандартными западными воротами для всех, кто путешествовал сухопутными маршрутами в Персию, Среднюю Азию и Китай. К 1295 году гавань города была заполнена генуэзскими и венецианскими торговыми домами, построенными именно для такого рода потока, а купцы вроде семьи самого Поло пользовались этим маршрутом десятилетиями. Рассказ Поло о своих странствиях, надиктованный после возвращения в Венецию, укрепил репутацию Трапезунда в Европе как последней цивилизованной остановки перед подлинной неизвестностью Азии, — репутацию, которую правители города сознательно культивировали, ведь именно транзитная торговля через его ворота удерживала на плаву их маленькое, военно слабое государство.",
+      "description": "After twenty-four years of absence, the final leg of Marco Polo's journey home from the Mongol dominions passed through Trebizond, a Black Sea port that became the western gateway for all those traveling overland to Persia, Central Asia, and China. The city's harbor was filled with Genoese and Venetian trading houses.\n\nPolo's account of his travels, dictated after his return to Venice, cemented Trebizond's reputation in Europe as the last civilized stop before the true unknown of Asia — a reputation the city's rulers consciously cultivated, for it was the transit trade through its gates that kept their small state afloat.",
+      "description_ru": "После двадцати четырёх лет отсутствия последний отрезок пути Марко Поло домой из монгольских владений пролегал через Трапезунд — черноморский порт, ставший западными воротами для всех, кто путешествовал по суше в Персию, Среднюю Азию и Китай. Гавань города была заполнена генуэзскими и венецианскими торговыми домами. \n\nРассказ Поло о своих странствиях, надиктованный после возвращения в Венецию, укрепил репутацию Трапезунда в Европе как последней цивилизованной остановки перед подлинной неизвестностью Азии, — репутацию, которую правители города сознательно культивировали, ведь именно транзитная торговля через его ворота удерживала на плаву их маленькое государство.",
       "era": "AD",
-      "latitude": 41.0027,
-      "longitude": 39.7168,
+      "latitude": 41.00316014,
+      "longitude": 39.71978724,
       "name": "Marco Polo Passes Through Trebizond on His Way Home",
-      "name_ru": "Марко Поло проезжает через Трапезунд по пути домой",
+      "name_ru": "Марко Поло посещает Трапезунд по пути домой",
       "source": "https://en.wikipedia.org/wiki/Marco_Polo",
       "tags": [
+        "Byzantine",
+        "Italian",
         "Trebizond",
+        "Venetian",
+        "Silk Road",
         "Trade",
-        "Silk Road"
+        "Marco Polo 👤"
       ],
       "type": "cultural"
     },
     {
-      "date": "01.01.1295",
-      "era": "AD",
-      "type": "cultural",
-      "name": "Gregory Chioniades Passes Through Trebizond to Study Persian Astronomy",
-      "name_ru": "Григорий Хиониад проезжает через Трапезунд, направляясь изучать персидскую астрономию",
-      "description": "A Constantinople-born scholar named George — later known by his monastic name Gregory Chioniades — decided that mastering astronomy meant traveling to Persia, since the observatory at Maragheh, built under the Mongol Ilkhanate, was producing the most advanced astronomical tables in the world. He stopped first at Trebizond, the natural waypoint for anyone traveling the Mongol-secured routes east, where Emperor Alexios II gave him assistance and support for the onward journey. From Trebizond, Chioniades continued to Tabriz and then deeper into Persia, eventually settling for a time as an Orthodox bishop in the Mongol capital while pursuing the astronomical texts he had come for. His stop in Trebizond was brief, but it placed the city at the starting point of one of the most significant transfers of scientific knowledge between the Islamic world and Byzantium.",
-      "description_ru": "Уроженец Константинополя по имени Георгий — позднее известный под монашеским именем Григорий Хиониад — решил, что для освоения астрономии необходимо отправиться в Персию, поскольку обсерватория в Мараге, построенная при монгольском Ильханате, производила самые передовые астрономические таблицы в мире. Он остановился сначала в Трапезунде — естественном перевалочном пункте для всех, кто следовал безопасными благодаря монголам путями на восток, — где император Алексей II оказал ему помощь и поддержку для дальнейшего пути. Из Трапезунда Хиониад продолжил путь в Тебриз, а затем вглубь Персии, со временем на некоторое время обосновавшись православным епископом в монгольской столице, продолжая поиск нужных ему астрономических текстов. Его остановка в Трапезунде была недолгой, но именно она сделала город отправной точкой одного из важнейших случаев передачи научного знания между исламским миром и Византией.",
-      "latitude": 41.0027,
-      "longitude": 39.7168,
-      "source": "https://en.wikipedia.org/wiki/Gregory_Chioniades",
-      "tags": [
-        "Trebizond",
-        "Byzantine"
-      ]
-    },
-    {
       "date": "01.01.1300",
+      "description": "Chioniades, a Byzantine scholar, astronomer, physician, and bishop, returned from Persia with translations of Persian and Arabic astronomical texts, including tables based on the works of the great Maragha scholar Nasir al-Din al-Tusi, and founded an astronomical academy in Trebizond to teach what he had learned.\n\nThrough Chioniades and the academy he founded, several genuine innovations of Islamic astronomy first penetrated the Byzantine world, including a universal, latitude-independent astrolabe and a geometric construction known as the \"at-Tusi couple,\" which would later be reflected in Nicolaus Copernicus's own astronomical models. The academy briefly transformed the small Black Sea empire into an unexpected conduit of communication between the observatories of Persia and the universities of Europe.",
+      "description_ru": "Хиониад, византийский ученый, астроном, врач и епископ, вернулся из Персии с переводами персидских и арабских астрономических текстов, включая таблицы, основанные на трудах великого марагинского учёного Насир ад-Дина ат-Туси, и основал в Трапезунде астрономическую академию, чтобы преподавать усвоенное. \n\nЧерез Хиониада и основанную им академию в византийский мир впервые проникли несколько подлинных новшеств исламской астрономии, включая универсальную, не зависящую от широты астролябию и геометрическое построение, известное как «пара ат-Туси», которое веками позже отзовётся в собственных астрономических моделях Николая Коперника. Академия ненадолго сделала маленькую черноморскую империю неожиданным каналом связи между обсерваториями Персии и университетами Европы.",
       "era": "AD",
-      "type": "scientific",
+      "latitude": 41.00316014,
+      "longitude": 39.71978724,
       "name": "Chioniades Founds an Astronomical Academy at Trebizond",
       "name_ru": "Хиониад основывает в Трапезунде астрономическую академию",
-      "description": "Chioniades eventually returned from Persia bearing translations of Persian and Arabic astronomical texts, including tables built on the work of the great Maragheh polymath Nasir al-Din al-Tusi, and founded an astronomical academy at Trebizond to teach what he had learned. Through Chioniades and the academy he established, several genuine innovations from Islamic astronomy reached the Byzantine world for the first time, including the universal, latitude-independent astrolabe and a geometric device known as the Tusi couple, which centuries later would echo in Nicolaus Copernicus's own astronomical models. Trebizond's role as a relay station for this knowledge was largely a function of geography and Mongol protection rather than any deliberate scientific ambition of its own, but the academy briefly made a small Black Sea empire an unlikely conduit between the observatories of Persia and the universities of Europe.",
-      "description_ru": "Хиониад в итоге вернулся из Персии с переводами персидских и арабских астрономических текстов, включая таблицы, основанные на трудах великого марагинского учёного Насир ад-Дина ат-Туси, и основал в Трапезунде астрономическую академию, чтобы преподавать усвоенное. Через Хиониада и основанную им академию в византийский мир впервые проникли несколько подлинных новшеств исламской астрономии, включая универсальную, не зависящую от широты астролябию и геометрическое построение, известное как «пара ат-Туси», которое веками позже отзовётся в собственных астрономических моделях Николая Коперника. Роль Трапезунда как передаточного звена для этого знания была во многом следствием географии и монгольской защиты, а не собственных научных амбиций города, но академия ненадолго сделала маленькую черноморскую империю неожиданным каналом связи между обсерваториями Персии и университетами Европы.",
-      "latitude": 41.0027,
-      "longitude": 39.7168,
       "source": "https://en.wikipedia.org/wiki/Gregory_Chioniades",
       "tags": [
+        "Byzantine",
+        "Greek",
         "Trebizond",
-        "Byzantine"
-      ]
+        "Astronomy",
+        "Education",
+        "Mathematics"
+      ],
+      "type": "scientific"
     },
     {
       "date": "01.01.1332",
+      "description": "The death of Alexios II in 1330, after a long and stable reign, left Trebizond without a clear mechanism for a peaceful succession, and the empire's internal fissures revealed themselves almost immediately. Two factions emerged with opposing views on Trebizond's future: the Scholaroi, who favored closer ties with Constantinople and the rest of the Byzantine world, and the Amiciantarei, representing the local landowning nobility determined to keep Byzantine oversight at bay.\n\nThe two sides began to directly compete for control of the imperial throne itself, deposing and installing emperors as the balance of power shifted between them. This struggle exhausted the empire for decades.",
+      "description_ru": "Смерть Алексея II в 1330 году, после долгого и стабильного правления, оставила Трапезунд без ясного механизма мирного престолонаследия, и внутренние трещины империи раскрылись почти сразу. Сформировались две группировки с противоположными взглядами на будущее Трапезунда: схоларои, склонявшиеся к более тесному сближению с Константинополем и остальным византийским миром, и амициантареи, представлявшие местную землевладельческую знать, твёрдо намеренную держать византийский надзор на расстоянии. \n\nСтороны начали напрямую бороться за контроль над самим императорским престолом, свергая и возводя императоров по мере смещения баланса сил между ними. Эта борьба истощала империю десятки лет.",
       "era": "AD",
-      "type": "political",
-      "name": "Trebizond's Factions Plunge the Empire into Civil War",
-      "name_ru": "Фракции Трапезунда ввергают империю в гражданскую войну",
-      "description": "The death of Alexios II in 1330, after a long and stable reign, left Trebizond without an obvious mechanism for peaceful succession, and the empire's fault lines split open almost immediately. Two factions formed around competing visions for Trebizond's future: the Scholaroi, who favored closer alignment with Constantinople and the wider Byzantine world, and the Amytzantarantes, who represented local landowning nobles determined to keep Byzantine oversight at arm's length. Rather than settling into a stable balance, the two sides began fighting directly over control of the imperial throne itself, deposing and installing emperors as the balance of power shifted between them. What started as a succession dispute hardened into a self-sustaining cycle of factional violence that would drain Trebizond's strength for the better part of two decades.",
-      "description_ru": "Смерть Алексея II в 1330 году, после долгого и стабильного правления, оставила Трапезунд без ясного механизма мирного престолонаследия, и внутренние трещины империи раскрылись почти сразу. Сформировались две группировки с противоположными взглядами на будущее Трапезунда: схоларои, склонявшиеся к более тесному сближению с Константинополем и остальным византийским миром, и амициантареи, представлявшие местную землевладельческую знать, твёрдо намеренную держать византийский надзор на расстоянии. Вместо того чтобы прийти к устойчивому равновесию, стороны начали напрямую бороться за контроль над самим императорским престолом, свергая и возводя императоров по мере смещения баланса сил между ними. То, что начиналось как спор о престолонаследии, превратилось в самоподдерживающийся цикл фракционного насилия, истощавший силы Трапезунда добрую половину следующих двух десятилетий.",
-      "latitude": 41.0027,
-      "longitude": 39.7168,
+      "latitude": 41.00316014,
+      "longitude": 39.71978724,
+      "name": "Civil War in the Empire of Trebizond",
+      "name_ru": "Гражданская война в Трапезундской империи",
       "source": "https://en.wikipedia.org/wiki/Empire_of_Trebizond",
       "tags": [
-        "Trebizond",
         "Byzantine",
-        "Political"
-      ]
+        "Greek",
+        "Trebizond",
+        "Civil War",
+        "Crisis",
+        "Political",
+        "Succession"
+      ],
+      "type": "political"
     },
     {
       "date": "01.03.1347",
+      "description": "While the empire's factions were still vying for the throne in 1347, Turkish raiders from neighboring Anatolian emirates saw an opportunity and struck, capturing the city of Oinaion and laying siege to Trebizond itself. The city's defenders, distracted and divided by the ongoing conflict between the scholaroi and the amiciantarei, were unable to mount the concerted resistance that had repelled the Seljuk siege a century earlier. Trebizond survived the attack, but the raid revealed how severely the civil war had undermined the empire's ability to defend its borders.",
+      "description_ru": "Пока в 1347 году фракции империи всё ещё боролись за престол, турецкие налётчики из соседних анатолийских эмиратов увидели возможность и нанесли удар, захватив город Ойнеон и взяв в осаду сам Трапезунд. Защитники города, отвлечённые и расколотые продолжавшимся противостоянием схолароев и амициантареев, не смогли организовать согласованный отпор, что веком ранее отбросил сельджукскую осаду. Трапезунд пережил нападение, но набег обнажил, насколько сильно гражданская война подорвала способность империи защищать собственные границы.",
       "era": "AD",
-      "type": "military",
+      "latitude": 41.12630598,
+      "longitude": 37.2860527,
       "name": "Turkish Raiders Besiege Trebizond and Seize Oinaion",
       "name_ru": "Турецкие налётчики осаждают Трапезунд и захватывают Ойнеон",
-      "description": "Trebizond's civil wars picked the worst possible moment to peak. With the empire's factions still fighting for control of the throne in 1347, Turkish raiders from neighboring Anatolian emirates saw an undefended opportunity and struck, capturing the town of Oinaion outright and pressing on to lay siege to Trebizond itself. The city's defenders, distracted and divided by the ongoing factional conflict between the Scholaroi and the Amytzantarantes, could not mount the kind of coordinated response that had driven off the Seljuk siege of the previous century. Trebizond survived the immediate assault, but the raid exposed exactly how much the internal civil war had degraded the empire's ability to defend its own frontier, an exposure that invited further predation from Trebizond's other, more organized neighbors within the year.",
-      "description_ru": "Гражданские войны в Трапезунде выбрали для своего пика наихудший момент. Пока в 1347 году фракции империи всё ещё боролись за престол, турецкие налётчики из соседних анатолийских эмиратов увидели незащищённую возможность и нанесли удар, захватив город Ойнеон и продолжив осаду самого Трапезунда. Защитники города, отвлечённые и расколотые продолжавшимся противостоянием схолароев и амициантареев, не смогли организовать тот согласованный отпор, что веком ранее отбросил сельджукскую осаду. Трапезунд пережил непосредственное нападение, но набег обнажил, насколько сильно гражданская война подорвала способность империи защищать собственные границы, — обнажение, которое в течение того же года пригласило и других, более организованных соседей Трапезунда попытать удачи.",
-      "latitude": 41.0027,
-      "longitude": 39.7168,
       "source": "https://en.wikipedia.org/wiki/Empire_of_Trebizond",
       "tags": [
+        "Turkic",
         "Trebizond",
-        "War"
-      ]
+        "War",
+        "Conquest",
+        "Decline"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.09.1347",
+      "description": "That same year, as Trebizond was ravaged by civil war and losing cities in external conflicts, an even more deadly scourge arrived on its shores: the Black Death, carried along Mongol and Genoese trade routes from the Crimean port of Kaffa, where the plague had already devastated the population during the siege of the city. Trebizond, whose prosperity depended entirely on the same trade network that spread the disease, could not isolate itself from it.\n\nThe mortality rate in Trebizond and Kerasount was colossal. Modern historians agree that the city lost between a third and a half of its population. Due to the high density of residents within Trebizond's fortified walls, the disease spread rapidly. The plague affected all segments of the population.",
+      "description_ru": "В тот же год, когда Трапезунд горел в гражданской войне и терял города во внешних конфликтах, к его берегам пришла ещё более смертоносная напасть: Чёрная смерть, принесённая по монгольским и генуэзским торговым путям из крымского порта Каффа, где чума уже опустошила население во время осады города. Трапезунд, чьё благополучие целиком держалось на той же торговой сети, по которой распространялась болезнь, не мог отгородиться от неё.\n\nСмертность в Трапезунде и Керасунте была колоссальной. Современные историки сходятся на том, что город потерял от трети до половины своего населения. Из-за высокой плотности жителей внутри крепостных стен Трапезунда, болезнь распространялась молниеносно. Мор затронул все слои населения.",
+      "era": "AD",
+      "latitude": 41.00316014,
+      "longitude": 39.71978724,
+      "name": "The Black Death Reaches Trebizond from Caffa",
+      "name_ru": "Чёрная смерть приходит в Трапезунд из Каффы",
+      "source": "https://en.wikipedia.org/wiki/Empire_of_Trebizond",
+      "tags": [
+        "Byzantine",
+        "Greek",
+        "Trebizond",
+        "Crisis",
+        "Black Death",
+        "Plague 🦠"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.06.1348",
+      "description": "A fierce economic struggle for a trade monopoly in the Black Sea raged between the Empire of Trebizond and the Republic of Genoa. Not long before, pogroms against the Genoese had occurred in Trebizond itself. Taking advantage of the turmoil and civil war within the empire, the Genoese fleet dealt a crushing blow to the imperial possessions, capturing the port city of Kerasount.\n\nThe Emperor of Trebizond, Michael the Great Komnenos, hemmed in on all sides (at the same time, the Turks were advancing on Oinaion and besieging Trebizond itself), was forced to accept a humiliating peace. In 1349, he officially returned the fortified quarter of Leontokastron to the Genoese.",
+      "description_ru": "Между Трапезундской империей и Генуэзской республикой шла острая экономическая борьба за торговую монополию в Черном море. Незадолго до этого в самом Трапезунде произошли погромы генуэзцев. Воспользовавшись суматохой и гражданской войной в империи, генуэзский флот нанес сокрушительный удар по имперским владениям, захватив портовый город Керасунт. \n\nТрапезундский император Михаил Великий Комнин, зажатый со всех сторон (в то же время турки наступали на Ойнеон и осаждали сам Трапезунд), был вынужден пойти на унизительный мир. В 1349 году он официально вернул генуэзцам их укрепленный квартал Леонтокастрон.",
       "era": "AD",
-      "type": "historic",
-      "name": "The Genoese Seize the Port of Kerasus",
-      "name_ru": "Генуэзцы захватывают порт Керасунт",
-      "description": "Trebizond's Genoese trading partners, present in the city for decades as merchants operating under imperial license, took advantage of the same civil-war chaos that had already cost Trebizond the town of Oinaion to Turkish raiders. In 1348, Genoese forces seized outright control of the port town of Kerasus, further down the Black Sea coast, converting a commercial relationship built on licensed access into direct territorial control. The seizure was a small piece of a much larger pattern across the fourteenth century, in which Genoa steadily traded its role as tenant merchant for that of territorial power all along the Black Sea coast, from Caffa in Crimea to Kerasus in Trebizond's own backyard, at the expense of exactly the local rulers whose hospitality had let Genoese merchants in during more stable times.",
-      "description_ru": "Генуэзские торговые партнёры Трапезунда, десятилетиями присутствовавшие в городе как купцы, действовавшие по императорской лицензии, воспользовались тем же хаосом гражданской войны, что уже стоил Трапезунду города Ойнеон, захваченного турецкими налётчиками. В 1348 году генуэзские силы взяли под прямой контроль портовый город Керасунт, расположенный дальше по черноморскому побережью, превратив коммерческие отношения, основанные на лицензированном доступе, в прямое территориальное владение. Этот захват был лишь небольшой частью гораздо более широкой картины XIV века, в которой Генуя последовательно меняла роль арендатора-купца на роль территориальной державы вдоль всего черноморского побережья — от Каффы в Крыму до Керасунта в самом тылу Трапезунда, — за счёт тех самых местных правителей, чьё гостеприимство впустило генуэзских купцов в более стабильные времена.",
-      "latitude": 40.9128,
-      "longitude": 38.3895,
+      "latitude": 40.92166038,
+      "longitude": 38.39043617,
+      "name": "The Genoese seize the Trebizond port of Kerasunt",
+      "name_ru": "Генуэзцы захватывают Трапезундский порт Керасунт",
       "source": "https://en.wikipedia.org/wiki/Empire_of_Trebizond",
       "tags": [
+        "Italian",
+        "Genoa",
         "Trebizond",
-        "Genoa"
-      ]
+        "Civil War",
+        "Conquest"
+      ],
+      "type": "military"
     },
     {
-      "date": "01.09.1348",
+      "date": "13.12.1349",
+      "description": "Nearly two decades of factional warfare between the Scholaroi and the Amytzantarantes had left a succession of Trapezuntine emperors deposed, blinded, or assassinated, and by the late 1340s the empire was too exhausted internally to respond effectively to real external threats gathering on its borders. \n\nIn 1349, the reigning Emperor Michael finally abdicated in favor of his nephew Alexios III, a change of ruler that succeeded, where two decades of violence had not, in bringing the internal fighting to a lasting close. Alexios III would go on to rule for over forty years, giving Trebizond a rare stretch of internal stability.",
+      "description_ru": "Почти два десятилетия фракционной войны между схолароями и амициантареями оставили череду трапезундских императоров свергнутыми, ослеплёнными или убитыми, а к концу 1340-х годов империя была настолько истощена изнутри, что не могла эффективно реагировать на реальные внешние угрозы, копившиеся у её границ. \n\nВ 1349 году правивший император Михаил отрёкся в пользу племянника Алексея III — смена правителя, которой удалось то, чего не добились два десятилетия насилия: прекратить внутреннюю борьбу. Алексей III правил более сорока лет, дав Трапезунду редкий период стабильности.",
       "era": "AD",
-      "type": "historic",
-      "name": "The Black Death Reaches Trebizond from Caffa",
-      "name_ru": "Чёрная смерть приходит в Трапезунд из Каффы",
-      "description": "The same year Trebizond lost Kerasus to the Genoese, an even deadlier arrival reached its shores: the Black Death, carried along Mongol and Genoese trade routes from the Crimean port of Caffa, where the plague had already devastated the population during a siege of the city. Trebizond, whose entire prosperity rested on exactly the trade network the plague was traveling through, had no way to seal itself off from the disease without also cutting off the commerce that kept it solvent. The epidemic was the same one simultaneously tearing through Western Europe and about to reach the principalities of Rus' through the Baltic, and it ravaged a Trapezuntine population already weakened by years of civil war and foreign raids, arriving at the lowest point of the empire's fourteenth-century crisis rather than at a moment it could have absorbed the blow.",
-      "description_ru": "В тот же год, когда Трапезунд потерял Керасунт в пользу генуэзцев, к его берегам пришла ещё более смертоносная напасть: Чёрная смерть, принесённая по монгольским и генуэзским торговым путям из крымского порта Каффа, где чума уже опустошила население во время осады города. Трапезунд, чьё благополучие целиком держалось на той же торговой сети, по которой распространялась болезнь, не мог отгородиться от неё, не отрезав заодно и торговлю, которая удерживала его на плаву. Это была та же эпидемия, что одновременно опустошала Западную Европу и вскоре достигнет русских княжеств через Балтику, и она обрушилась на население Трапезунда, и без того ослабленное годами гражданской войны и иноземных набегов, — в самой низшей точке кризиса империи XIV века, а не в момент, когда она могла бы смягчить этот удар.",
-      "latitude": 41.0027,
-      "longitude": 39.7168,
-      "source": "https://en.wikipedia.org/wiki/Empire_of_Trebizond",
-      "tags": [
-        "Trebizond",
-        "Crisis"
-      ]
-    },
-    {
-      "date": "01.01.1349",
-      "era": "AD",
-      "type": "political",
+      "latitude": 41.00316014,
+      "longitude": 39.71978724,
       "name": "Emperor Michael Abdicates, Ending Two Decades of Civil War",
-      "name_ru": "Император Михаил отрекается, завершая два десятилетия гражданской войны",
-      "description": "Nearly two decades of factional warfare between the Scholaroi and the Amytzantarantes had left a succession of Trapezuntine emperors deposed, blinded, or assassinated, and by the late 1340s the empire was too exhausted internally to respond effectively to real external threats gathering on its borders. In 1349, the reigning Emperor Michael finally abdicated in favor of his nephew Alexios III, a change of ruler that succeeded, where two decades of violence had not, in bringing the internal fighting to a lasting close. Alexios III would go on to rule for over forty years, giving Trebizond a rare stretch of internal stability just as it faced mounting pressure from Turkish raiders and Genoese rivals — pressure the empire had barely survived encountering while still consumed by its own civil wars.",
-      "description_ru": "Почти два десятилетия фракционной войны между схолароями и амициантареями оставили череду трапезундских императоров свергнутыми, ослеплёнными или убитыми, а к концу 1340-х годов империя была настолько истощена изнутри, что не могла эффективно реагировать на реальные внешние угрозы, копившиеся у её границ. В 1349 году правивший император Михаил наконец отрёкся в пользу племянника Алексея III — смена правителя, которой удалось то, чего не добились два десятилетия насилия: прочно прекратить внутреннюю борьбу. Алексей III правил затем более сорока лет, дав Трапезунду редкий период внутренней стабильности как раз тогда, когда на него нарастало давление турецких налётчиков и генуэзских соперников, — давление, которое империя едва пережила, всё ещё поглощённая собственными гражданскими войнами.",
-      "latitude": 41.0027,
-      "longitude": 39.7168,
-      "source": "https://en.wikipedia.org/wiki/Empire_of_Trebizond",
+      "name_ru": "Император Трапезунда отрекается от престола",
+      "source": "https://en.wikipedia.org/wiki/Michael_of_Trebizond",
       "tags": [
-        "Trebizond",
         "Byzantine",
-        "Political"
-      ]
+        "Greek",
+        "Trebizond",
+        "Komnenos",
+        "Dynasty",
+        "Emperor",
+        "Political",
+        "Abdication"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.1350",
-      "description": "Alexios III inherited an empire too poor and too small to defend itself by force, so he leaned into a strategy his predecessors had used only occasionally: marrying the famously beautiful daughters of the Grand Komnenos dynasty to the rulers of neighboring Turkish emirates, with dowries generous enough to buy real protection. It became Trebizond's defining diplomatic tool for the rest of its existence — later emperors would marry daughters to the khans of the Kara Koyunlu and Aq Qoyunlu confederations, securing alliances no army the empire could field would have managed. Contemporary chroniclers in both Byzantium and the Islamic world wrote admiringly of the Trapezuntine princesses' beauty and the size of their dowries, not entirely aware that the marriages were substituting for a military the empire could no longer afford.",
-      "description_ru": "Алексей III унаследовал империю, слишком бедную и слишком маленькую, чтобы обороняться силой, поэтому он сделал ставку на стратегию, которую предшественники применяли лишь изредка: выдавать знаменитых своей красотой дочерей династии Великих Комнинов замуж за правителей соседних тюркских эмиратов, с приданым, достаточно щедрым, чтобы купить настоящую защиту. Это стало главным дипломатическим инструментом Трапезунда до самого конца его существования — позднейшие императоры будут выдавать дочерей за ханов конфедераций Кара-Коюнлу и Ак-Коюнлу, обеспечивая союзы, каких не добилось бы никакое войско, которое могла выставить империя. Современные летописцы и в Византии, и в исламском мире восхищённо писали о красоте трапезундских принцесс и размере их приданого, не вполне отдавая себе отчёт в том, что браки замещали армию, которую империя уже не могла себе позволить.",
+      "description": "Alexios III inherited an empire too poor and too small to defend itself by force, so he leaned into a strategy his predecessors had used only occasionally: marrying the famously beautiful daughters of the Grand Komnenos dynasty to the rulers of neighboring Turkish emirates, with dowries generous enough to buy real protection. \n\nIt became Trebizond's defining diplomatic tool for the rest of its existence — later emperors would marry daughters to the khans of the Kara Koyunlu and Aq Qoyunlu confederations, securing alliances no army the empire could field would have managed. Contemporary chroniclers in both Byzantium and the Islamic world wrote admiringly of the Trapezuntine princesses' beauty and the size of their dowries, not entirely aware that the marriages were substituting for a military the empire could no longer afford.",
+      "description_ru": "Алексей III унаследовал империю, слишком бедную и слишком маленькую, чтобы обороняться силой, поэтому он сделал ставку на стратегию, которую предшественники применяли лишь изредка: выдавать знаменитых своей красотой дочерей династии Великих Комнинов замуж за правителей соседних тюркских эмиратов, с приданым, достаточно щедрым, чтобы купить настоящую защиту. \n\nЭто стало главным дипломатическим инструментом Трапезунда до самого конца его существования — позднейшие императоры будут выдавать дочерей за ханов конфедераций Кара-Коюнлу и Ак-Коюнлу, обеспечивая союзы, каких не добилось бы никакое войско, которое могла выставить империя. Современные летописцы и в Византии, и в исламском мире восхищённо писали о красоте трапезундских принцесс и размере их приданого, не отдавая себе отчёт в том, что браки замещали армию, которую империя уже не могла себе позволить.",
       "era": "AD",
-      "latitude": 41.0027,
-      "longitude": 39.7168,
+      "latitude": 41.00316014,
+      "longitude": 39.71978724,
       "name": "Trebizond Marries Its Daughters to Survive",
-      "name_ru": "Трапезунд выживает через браки своих дочерей",
+      "name_ru": "Трапезунд выдает дочерей за тюркских эмиров",
       "source": "https://en.wikipedia.org/wiki/Alexios_III_of_Trebizond",
       "tags": [
+        "Greek",
         "Trebizond",
+        "Diplomacy",
         "Marriage",
+        "Komnenos",
+        "Dynasty",
         "Political"
       ],
       "type": "cultural"
@@ -370,169 +430,170 @@
     {
       "date": "28.07.1402",
       "description": "By the 1390s, Trebizond faced a threat unlike anything it had dealt with before: not a temporary raid but the rising Ottoman state, which was absorbing one Anatolian principality after another. Emperor Manuel III made the calculated bet that Tamerlane's expanding Central Asian empire, then on a collision course with the Ottomans, was the lesser danger, and aligned Trebizond with him. The bet paid off in July 1402, when Tamerlane crushed and captured the Ottoman sultan Bayezid I at the Battle of Ankara, shattering Ottoman power into competing factions for nearly two decades. Trebizond got a reprieve it hadn't earned by its own strength — the same gift of time the battle handed to Constantinople — but Tamerlane's empire collapsed with his death in 1405, and the respite would not last forever.",
-      "description_ru": "К 1390-м годам Трапезунд столкнулся с угрозой, непохожей на всё, с чем ему приходилось иметь дело раньше: не временным набегом, а растущим Османским государством, поглощавшим одно анатолийское княжество за другим. Император Мануил III сделал расчётливую ставку: посчитал, что расширяющаяся среднеазиатская держава Тамерлана, идущая на столкновение с османами, представляет меньшую опасность, и связал с ней судьбу Трапезунда. Ставка сыграла в июле 1402 года, когда Тамерлан разгромил и пленил османского султана Баязида I в битве при Анкаре, расколов османскую власть на соперничающие группировки почти на два десятилетия. Трапезунд получил отсрочку, которую не заслужил собственной силой, — тот же дар времени, что битва подарила и Константинополю, — но империя Тамерлана рухнула с его смертью в 1405 году, и передышка не могла длиться вечно.",
+      "description_ru": "К 1390-м годам Трапезунд столкнулся с угрозой, непохожей на всё, с чем ему приходилось иметь дело раньше: растущим Османским государством, поглощавшим одно анатолийское княжество за другим. Император Мануил III посчитал, что расширяющаяся среднеазиатская держава Тамерлана, идущая на столкновение с османами, менее опасна, и связал с ней судьбу Трапезунда. Ставка сыграла, когда Тамерлан разгромил и пленил османского султана Баязида I в битве при Анкаре, расколов османскую власть на соперничающие группировки почти на два десятилетия.",
       "era": "AD",
-      "latitude": 41.0027,
-      "longitude": 39.7168,
-      "name": "Manuel III Bets on Tamerlane",
-      "name_ru": "Мануил III делает ставку на Тамерлана",
+      "latitude": 41.00316014,
+      "longitude": 39.71978724,
+      "name": "Trebizond bets on Tamerlane in Anatolia",
+      "name_ru": "Трапезунд делает ставку на Тамерлана в Анатолии",
       "source": "https://en.wikipedia.org/wiki/Empire_of_Trebizond",
       "tags": [
+        "Byzantine",
+        "Greek",
+        "Mongolian",
         "Trebizond",
         "Political",
-        "War"
+        "Vassalage"
       ],
       "type": "political"
     },
     {
       "date": "01.01.1420",
+      "description": "After Tamerlane's death in 1405, most of eastern Anatolia and the Caucasus descended into a scramble for power among rival Turkic confederations, and Kara Yusuf, ruler of the Kara Koyunlu ('Black Sheep') Turks, emerged as one of the strongest players by devastating much of Armenia and defeating his regional rivals. Emperor Alexios IV of Trebizond, watching this new and unpredictable power rise on his eastern flank, chose the same tool his predecessors had relied on: he married a daughter to Kara Yusuf's son Jihan Shah around 1420, and separately agreed to pay Jihan Shah the same tribute Trebizond had previously owed to Tamerlane himself. The arrangement bought peace with a genuinely dangerous neighbor for the price of a marriage and an ongoing payment, a trade Trebizond's rulers made again and again because they rarely had a cheaper alternative.",
+      "description_ru": "После смерти Тамерлана в 1405 году бо́льшая часть Восточной Анатолии и Кавказа погрузилась в схватку за власть между соперничающими тюркскими конфедерациями, и Кара-Юсуф, правитель тюрок Кара-Коюнлу («чёрные бараны»), выдвинулся в число сильнейших игроков, опустошив значительную часть Армении и разгромив региональных соперников. \n\nИмператор Трапезунда Алексей IV прибег к тому же средству, на которое опирались предшественники: около 1420 года он выдал дочь замуж за сына Кара-Юсуфа, Джихан-шаха, и отдельно согласился платить Джихан-шаху ту же дань, которую Трапезунд прежде выплачивал самому Тамерлану. Договорённость купила мир с по-настоящему опасным соседом ценой одного брака и постоянных выплат.",
       "era": "AD",
-      "type": "political",
+      "latitude": 41.00316014,
+      "longitude": 39.71978724,
       "name": "Alexios IV Marries His Daughter to the Kara Koyunlu Khan's Son",
       "name_ru": "Алексей IV выдаёт дочь замуж за сына хана Кара-Коюнлу",
-      "description": "After Tamerlane's death in 1405, most of eastern Anatolia and the Caucasus descended into a scramble for power among rival Turkic confederations, and Kara Yusuf, ruler of the Kara Koyunlu ('Black Sheep') Turks, emerged as one of the strongest players by devastating much of Armenia and defeating his regional rivals. Emperor Alexios IV of Trebizond, watching this new and unpredictable power rise on his eastern flank, chose the same tool his predecessors had relied on: he married a daughter to Kara Yusuf's son Jihan Shah around 1420, and separately agreed to pay Jihan Shah the same tribute Trebizond had previously owed to Tamerlane himself. The arrangement bought peace with a genuinely dangerous neighbor for the price of a marriage and an ongoing payment, a trade Trebizond's rulers made again and again because they rarely had a cheaper alternative.",
-      "description_ru": "После смерти Тамерлана в 1405 году бо́льшая часть Восточной Анатолии и Кавказа погрузилась в схватку за власть между соперничающими тюркскими конфедерациями, и Кара-Юсуф, правитель тюрок Кара-Коюнлу («чёрные бараны»), выдвинулся в число сильнейших игроков, опустошив значительную часть Армении и разгромив региональных соперников. Император Трапезунда Алексей IV, наблюдая за возвышением этой новой и непредсказуемой силы на своём восточном фланге, прибег к тому же средству, на которое опирались предшественники: около 1420 года он выдал дочь замуж за сына Кара-Юсуфа, Джихан-шаха, и отдельно согласился платить Джихан-шаху ту же дань, которую Трапезунд прежде выплачивал самому Тамерлану. Договорённость купила мир с по-настоящему опасным соседом ценой одного брака и постоянных выплат — сделка, которую правители Трапезунда заключали снова и снова, поскольку более дешёвой альтернативы у них почти не было.",
-      "latitude": 41.0027,
-      "longitude": 39.7168,
       "source": "https://en.wikipedia.org/wiki/Alexios_IV_of_Trebizond",
       "tags": [
+        "Greek",
+        "Turkic",
         "Trebizond",
+        "Diplomacy",
         "Marriage",
-        "Political"
-      ]
+        "Komnenos",
+        "Dynasty",
+        "Political",
+        "Treaty",
+        "Tribute"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.1427",
+      "description": "Alexios IV's marriage diplomacy also extended to Constantinople. In 1427, his youngest daughter, Maria, married the Byzantine Emperor John VIII Palaiologos, directly linking the ruling house of Trebizond with the Palaiologos dynasty at a time when both empires were threatened by the same Ottoman threat from the west and south. The marriage brought prestige to Trebizond — the daughter of the Grand Comneni now sat next to the throne of the very empire whose title the rulers of Trebizond had once claimed — but it did not bring a military alliance capable of changing the fate of either state.",
+      "description_ru": "Брачная дипломатия Алексея IV распространялась и в направлении Константинополя. В 1427 году его младшая дочь Мария вышла замуж за византийского императора Иоанна VIII Палеолога, напрямую связав правящий дом Трапезунда с династией Палеологов в момент, когда обеим империям с запада и юга угрожала одна и та же османская опасность. Брак принёс Трапезунду престиж — дочь Великих Комнинов теперь сидела рядом с троном той самой империи, чей титул некогда присваивали себе трапезундские правители, — но не принёс военного союза, способного изменить судьбу хоть одного из государств.",
       "era": "AD",
-      "type": "political",
-      "name": "Alexios IV Marries His Daughter Maria to the Byzantine Emperor",
-      "name_ru": "Алексей IV выдаёт дочь Марию замуж за византийского императора",
-      "description": "Alexios IV's marriage diplomacy extended in the other direction too, back toward Constantinople rather than away from it. In 1427, his youngest daughter Maria married the Byzantine emperor John VIII Palaiologos, tying Trebizond's ruling house directly into the Palaiologan dynasty at a moment when both empires faced the same rising Ottoman threat from the west and south. The marriage carried real prestige for Trebizond — a Grand Komnenos daughter now sat beside the throne of the empire whose title Trebizond's own rulers had once claimed for themselves — but it brought no military alliance capable of changing either state's fate. Constantinople fell in 1453 and Trebizond in 1461, and the marriage between their ruling houses did nothing to prevent either outcome, a reminder that dynastic ties bought prestige far more reliably than they bought armies.",
-      "description_ru": "Брачная дипломатия Алексея IV распространялась и в другую сторону — обратно к Константинополю, а не от него. В 1427 году его младшая дочь Мария вышла замуж за византийского императора Иоанна VIII Палеолога, напрямую связав правящий дом Трапезунда с династией Палеологов в момент, когда обеим империям с запада и юга угрожала одна и та же растущая османская опасность. Брак принёс Трапезунду немалый престиж — дочь Великих Комнинов теперь сидела рядом с троном той самой империи, чей титул некогда присваивали себе трапезундские правители, — но не принёс военного союза, способного изменить судьбу хоть одного из государств. Константинополь пал в 1453 году, Трапезунд — в 1461-м, и брак между их правящими домами ничуть не предотвратил ни того, ни другого исхода, — напоминание о том, что династические связи покупали престиж куда надёжнее, чем армии.",
       "latitude": 41.0082,
       "longitude": 28.9784,
+      "name": "Alexios IV Marries His Daughter Maria to the Byzantine Emperor",
+      "name_ru": "Император Трапезунда выдает дочь за византийского императора",
       "source": "https://en.wikipedia.org/wiki/Alexios_IV_of_Trebizond",
       "tags": [
+        "Byzantine",
+        "Roman",
         "Trebizond",
+        "Alliance",
+        "Diplomacy",
         "Marriage",
-        "Byzantine"
-      ]
-    },
-    {
-      "date": "06.07.1439",
-      "description": "As the Ottoman threat closed in, Emperor John IV looked for allies wherever Trebizond might find them, including in Western Christendom. He sent the humanist scholar George Amiroutzes as his envoy to the Council of Florence in 1439, the same council at which the Byzantine emperor and the Pope proclaimed a union between the Orthodox and Catholic churches in hopes of securing Western military help against the Ottomans. The union brought Trebizond nothing concrete — Western Europe would not send meaningful aid to Constantinople in 1453 or to Trebizond afterward — but it showed how thoroughly the empire's rulers understood their position by the mid-fifteenth century: too weak to survive on marriage alliances with Turkic khans alone, and reaching for whatever else might buy time.",
-      "description_ru": "По мере приближения османской угрозы император Иоанн IV искал союзников везде, где Трапезунд мог их найти, включая западное христианство. В 1439 году он отправил на Флорентийский собор своим послом учёного-гуманиста Георгия Амируци — тот самый собор, на котором византийский император и папа римский провозгласили унию православной и католической церквей в надежде добиться западной военной помощи против османов. Уния не принесла Трапезунду ничего конкретного — Западная Европа не пришлёт значимой помощи ни Константинополю в 1453 году, ни Трапезунду впоследствии, — но она показала, насколько ясно правители империи понимали своё положение к середине XV века: слишком слабые, чтобы выжить на одних лишь брачных союзах с тюркскими ханами, они хватались за всё, что могло купить время.",
-      "era": "AD",
-      "latitude": 43.7696,
-      "longitude": 11.2558,
-      "name": "John IV Sends an Envoy to the Council of Florence",
-      "name_ru": "Иоанн IV отправляет посла на Флорентийский собор",
-      "source": "https://en.wikipedia.org/wiki/John_IV_of_Trebizond",
-      "tags": [
-        "Trebizond",
-        "Religious",
-        "Byzantine"
+        "Palaiologos",
+        "Dynasty"
       ],
-      "type": "religious"
+      "type": "political"
     },
     {
       "date": "01.01.1442",
-      "description": "The Ottomans made their first serious attempt on Trebizond itself in 1442, when Sultan Murad II sent a force to take the city by sea. High surf and difficult landing conditions along the Black Sea coast wrecked the attempt before it could properly begin, and the Ottoman force withdrew without taking the city. It bought Trebizond another decade and a half, but the failure was a matter of weather and logistics rather than Trapezuntine strength, and everyone on both sides understood it. Murad's son Mehmed II would not make the same mistake twice: when the Ottomans returned under his command nineteen years later, they came by land, methodically, with a plan that left Trebizond no equivalent stroke of luck to rely on.",
-      "description_ru": "Первую серьёзную попытку взять сам Трапезунд османы предприняли в 1442 году, когда султан Мурад II отправил войско, чтобы захватить город с моря. Сильный прибой и трудные условия высадки на черноморском побережье сорвали попытку прежде, чем она успела толком начаться, и османское войско отступило, не взяв города. Это дало Трапезунду ещё полтора десятилетия, но неудача объяснялась погодой и логистикой, а не силой самого Трапезунда, и это понимали обе стороны. Сын Мурада, Мехмед II, не повторит эту ошибку дважды: когда девятнадцать лет спустя османы вернутся уже под его командованием, они придут по суше, методично, с планом, не оставлявшим Трапезунду шанса рассчитывать на такую же удачу.",
+      "description": "The Ottomans made their first serious attempt to take Trebizond in 1442, when Sultan Murad II sent an army to capture the city from the sea. Strong surf and difficult landing conditions on the Black Sea coast thwarted the attempt before it could properly begin, and the Ottoman army retreated without taking the city. The failure was attributed to weather and logistics, not the strength of Trebizond itself, and both sides understood this.",
+      "description_ru": "Первую серьёзную попытку взять Трапезунд османы предприняли в 1442 году, когда султан Мурад II отправил войско, чтобы захватить город с моря. Сильный прибой и трудные условия высадки на черноморском побережье сорвали попытку прежде, чем она успела толком начаться, и османское войско отступило, не взяв города. Неудача объяснялась погодой и логистикой, а не силой самого Трапезунда, и это понимали обе стороны.",
       "era": "AD",
-      "latitude": 41.0027,
-      "longitude": 39.7168,
+      "latitude": 41.01288786,
+      "longitude": 39.72293615,
       "name": "Murad II's Failed Landing at Trebizond",
-      "name_ru": "Неудачная высадка Мурада II у Трапезунда",
+      "name_ru": "Неудачная высадка османов у Трапезунда",
       "source": "https://en.wikipedia.org/wiki/Empire_of_Trebizond",
       "tags": [
+        "Turkic",
+        "Oguz",
+        "Ottoman",
         "Trebizond",
-        "War"
+        "War",
+        "Battle"
       ],
       "type": "military"
     },
     {
       "date": "01.01.1456",
       "description": "While Sultan Mehmed II was occupied besieging Belgrade in 1456, the Ottoman governor of Amasya took the opportunity to launch his own attack on Trebizond without waiting for orders from the sultan. The raid was beaten back, but not before the Ottomans had taken large numbers of prisoners and extracted a heavy tribute payment from the city, a preview of the price Trebizond would keep paying for Ottoman restraint. The episode showed how thin Trebizond's independence had become by the mid-1450s: even a subordinate Ottoman official, acting on his own initiative and without the sultan's main army, could extract real concessions from an empire that had once bargained as an equal with the Mongols and the Seljuks.",
-      "description_ru": "Пока султан Мехмед II в 1456 году был занят осадой Белграда, османский наместник Амасьи воспользовался случаем и предпринял собственное нападение на Трапезунд, не дожидаясь приказа султана. Набег отбили, но не раньше, чем османы захватили множество пленных и вытребовали у города тяжёлую дань — предвестие той цены, которую Трапезунду предстояло и дальше платить за османскую сдержанность. Этот эпизод показал, насколько призрачной стала независимость Трапезунда к середине 1450-х годов: даже подчинённый османский чиновник, действуя по собственной инициативе и без главного войска султана, мог добиться реальных уступок от империи, некогда торговавшейся на равных с монголами и сельджуками.",
+      "description_ru": "Пока султан Мехмед II был занят осадой Белграда, османский наместник Амасьи воспользовался случаем и предпринял собственное нападение на Трапезунд, не дожидаясь приказа султана. Набег отбили, но не раньше, чем османы захватили множество пленных и вытребовали у города тяжёлую дань — предвестие той цены, которую Трапезунду предстояло и дальше платить за османскую сдержанность.",
       "era": "AD",
-      "latitude": 41.0027,
-      "longitude": 39.7168,
-      "name": "The Amasya Raid",
-      "name_ru": "Набег из Амасьи",
+      "latitude": 41.00316014,
+      "longitude": 39.71978724,
+      "name": "The Ottoman raid from Amasya to Trebizond",
+      "name_ru": "Набег османов из Амасьи на Трапезунд",
       "source": "https://en.wikipedia.org/wiki/Empire_of_Trebizond",
       "tags": [
+        "Greek",
+        "Turkic",
+        "Oguz",
+        "Ottoman",
         "Trebizond",
-        "War"
+        "War",
+        "Invasion",
+        "Pillage"
       ],
       "type": "military"
     },
     {
       "date": "01.01.1458",
-      "description": "John IV's most consequential marriage alliance came late: his daughter Theodora, also known as Despina Khatun, married Uzun Hasan, khan of the powerful Aq Qoyunlu confederation, in exchange for a promise to defend Trebizond against the Ottomans. The promise would prove hollow when the moment actually came in 1461, but the marriage mattered far beyond Trebizond's own survival — Theodora's granddaughter, also named Theodora, married into the family that founded the Safavid dynasty of Iran, meaning the future Shah Ismail I, founder of one of the great early modern Islamic empires, carried Trapezuntine Greek blood through his grandmother. A small Black Sea empire on the verge of extinction ended up quietly present in the bloodline of Persia's next ruling house.",
-      "description_ru": "Самый значимый брачный союз Иоанна IV сложился поздно: его дочь Феодора, также известная как Деспина-хатун, вышла замуж за Узун-Хасана, хана могущественной конфедерации Ак-Коюнлу, в обмен на обещание защитить Трапезунд от османов. Когда в 1461 году настал решающий момент, обещание окажется пустым, но брак имел значение куда шире, чем судьба самого Трапезунда: внучка Феодоры, тоже носившая имя Феодора, вошла в семью, основавшую сефевидскую династию Ирана, — а значит, будущий шах Исмаил I, основатель одной из великих ранненовых исламских империй, нёс через бабушку трапезундскую греческую кровь. Маленькая черноморская империя на грани исчезновения незаметно осталась в родословной следующей правящей династии Персии.",
+      "description": "John IV's most consequential marriage alliance came late: his daughter Theodora, also known as Despina Khatun, married Uzun Hasan, khan of the powerful Aq Qoyunlu confederation, in exchange for a promise to defend Trebizond against the Ottomans. The promise would prove hollow when the moment actually came in 1461, but the marriage mattered far beyond Trebizond's own survival — Theodora's granddaughter, also named Theodora, married into the family that founded the Safavid dynasty of Iran, meaning the future Shah Ismail I, founder of one of the great early modern Islamic empires, carried Trapezuntine Greek blood through his grandmother.",
+      "description_ru": "Самый значимый брачный союз Иоанна IV сложился поздно: его дочь Феодора, также известная как Деспина-хатун, вышла замуж за Узун-Хасана, хана могущественной конфедерации Ак-Коюнлу, в обмен на обещание защитить Трапезунд от османов. Когда в 1461 году настал решающий момент, обещание окажется пустым, но брак имел значение куда шире, чем судьба самого Трапезунда: внучка Феодоры, тоже носившая имя Феодора, вошла в семью, основавшую сефевидскую династию Ирана, — а значит, будущий шах Исмаил I, основатель одной из великих ранненовых исламских империй, нёс через бабушку трапезундскую греческую кровь.",
       "era": "AD",
-      "latitude": 41.0027,
-      "longitude": 39.7168,
+      "latitude": 41.00316014,
+      "longitude": 39.71978724,
       "name": "Theodora of Trebizond Marries Uzun Hasan",
       "name_ru": "Феодора Трапезундская выходит замуж за Узун-Хасана",
       "source": "https://en.wikipedia.org/wiki/Uzun_Hasan",
       "tags": [
+        "Greek",
+        "Turkic",
+        "Oguz",
         "Trebizond",
+        "Diplomacy",
         "Marriage",
         "Political"
       ],
       "type": "political"
     },
     {
-      "date": "01.01.1458",
-      "description": "Not every Trapezuntine legacy ended with the empire itself. George, a Cretan-born scholar whose family traced its origins to Trebizond and who took the surname Trapezuntios in honor of it, moved to Italy in the 1420s or 1430s, mastered Latin under the humanist teacher Vittorino da Feltre, and built a career as a translator of Aristotle and secretary to Pope Nicholas V. His 1458 attack on Plato, the Comparatio Aristotelis et Platonis, provoked a furious rebuttal from the scholar Bessarion and became one of the defining intellectual feuds of the early Renaissance. George never held political power and never saw Trebizond itself fall, but through him and other Greek émigré scholars, a sliver of Trapezuntine and Byzantine learning fed directly into the Italian Renaissance, long after the empire that gave him his name had stopped existing.",
-      "description_ru": "Не каждое наследие Трапезунда закончилось вместе с самой империей. Георгий, учёный родом с Крита, чья семья возводила происхождение к Трапезунду и в честь этого носившая фамилию Трапезундский, переехал в Италию в 1420-х или 1430-х годах, освоил латынь под руководством гуманиста Витторино да Фельтре и сделал карьеру переводчика Аристотеля и секретаря папы Николая V. Его выпад против Платона 1458 года, «Сравнение Аристотеля и Платона», вызвал яростный ответ учёного Виссариона и стал одной из главных интеллектуальных распрей раннего Возрождения. Георгий никогда не обладал политической властью и не застал падения самого Трапезунда, но через него и других греческих учёных-эмигрантов частица трапезундской и византийской учёности напрямую влилась в итальянский Ренессанс — спустя долгое время после того, как империя, давшая ему имя, перестала существовать.",
-      "era": "AD",
-      "latitude": 41.9028,
-      "longitude": 12.4964,
-      "name": "George of Trebizond Carries Greek Learning to Renaissance Italy",
-      "name_ru": "Георгий Трапезундский переносит греческую учёность в Италию Ренессанса",
-      "source": "https://en.wikipedia.org/wiki/George_of_Trebizond",
-      "tags": [
-        "Trebizond",
-        "Byzantine",
-        "Cultural"
-      ],
-      "type": "cultural"
-    },
-    {
       "date": "01.07.1461",
-      "era": "AD",
-      "type": "political",
-      "name": "Sinope Surrenders to Mehmed II Without a Fight",
-      "name_ru": "Синоп сдаётся Мехмеду II без боя",
       "description": "Mehmed II, having taken Constantinople in 1453, set out in 1461 to finish off what remained of Byzantine and post-Byzantine independence in Anatolia, starting with Sinope. Rather than risk a costly siege, Mehmed intimidated the emir of Sinope into surrendering his entire realm without a battle, absorbing at a stroke the same port that Trebizond had fought Nicaea and the Seljuks over two centuries earlier and finally recovered under Manuel I in 1254. The bloodless capture removed a potential refuge or ally from Trebizond's western flank and let Mehmed redirect his full army east toward the Trapezuntine capital itself without needing to leave a besieging force behind him. It was the opening move in a campaign that would end, within weeks, at the walls of Trebizond.",
       "description_ru": "Мехмед II, взяв Константинополь в 1453 году, в 1461 году отправился покончить с тем, что оставалось от византийской и постъвизантийской независимости в Анатолии, начав с Синопа. Вместо того чтобы рисковать дорогостоящей осадой, Мехмед запугал эмира Синопа настолько, что тот сдал всё своё владение без боя, разом присоединив тот самый порт, из-за которого Трапезунд два века назад воевал с Никеей и сельджуками и который окончательно вернул себе при Мануиле I в 1254 году. Бескровный захват лишил Трапезунд потенциального убежища или союзника на западном фланге и позволил Мехмеду направить всё войско на восток, к самой трапезундской столице, не оставляя позади осадный отряд. Это был первый ход в кампании, которая через несколько недель завершится у стен Трапезунда.",
+      "era": "AD",
       "latitude": 42.0231,
       "longitude": 35.1531,
+      "name": "Sinope Surrenders to Mehmed II Without a Fight",
+      "name_ru": "Синоп сдаётся Мехмеду II без боя",
       "source": "https://en.wikipedia.org/wiki/Siege_of_Trebizond_(1461)",
       "tags": [
         "Trebizond",
         "Political"
-      ]
+      ],
+      "type": "political"
     },
     {
       "date": "15.08.1461",
+      "description": "Having secured Sinop without a fight, Mehmed II turned his army south and east to neutralize Uzun Hassan—the very same Ak Koyunlu Khan with whom Trebizond had formed a family alliance for its defense—before Trebizond itself had time to fully comprehend what was happening.\n\nThen the Ottoman army appeared before the walls of Trebizond and besieged the city from land and sea. After a month of hopeless relief and without an ally willing or able to intervene, Emperor David surrendered his capital. This marked the end of the last independent Byzantine successor state; David and his family were captured by the Ottomans, and the imperial line of the Grand Comneni came to an end.",
+      "description_ru": "Обеспечив себе Синоп без боя, Мехмед II повернул войско на юг и восток, чтобы нейтрализовать Узун-Хасана — того самого хана Ак-Коюнлу, с которым Трапезунд породнился ради защиты, — прежде чем в самом Трапезунде успели до конца осознать, что происходит. \n\nЗатем османское войско появилось под стенами Трапезунда и осадило город с суши и моря; после месяца без надежды на подмогу и без союзника, готового или способного вмешаться, император Давид сдал свою столицу. Это положило конец последнему независимому византийскому государству-преемнику; Давид с семьёй попал в османский плен, и императорская линия Великих Комнинов пресеклась.",
       "era": "AD",
-      "type": "military",
+      "latitude": 41.00316014,
+      "longitude": 39.71978724,
       "name": "The Fall of Trebizond",
       "name_ru": "Падение Трапезунда",
-      "description": "After securing Sinope without a fight, Mehmed II swung his army south and east to neutralize Uzun Hasan — the same Aq Qoyunlu khan Trebizond had married into for protection — before anyone in Trebizond fully grasped what was coming. The Ottoman army then appeared beneath Trebizond's walls and laid siege to the city by land and sea; after a month with no relief in sight and no ally willing or able to intervene, Emperor David surrendered his capital on terms on 15 August 1461. It ended the last independent Byzantine successor state and, with it, the final continuous thread of the Roman Empire's political existence on its own soil — David and his family were taken into Ottoman captivity, and the imperial line of the Grand Komnenoi came to an end.",
-      "description_ru": "Обеспечив себе Синоп без боя, Мехмед II повернул войско на юг и восток, чтобы нейтрализовать Узун-Хасана — того самого хана Ак-Коюнлу, с которым Трапезунд породнился ради защиты, — прежде чем в самом Трапезунде успели до конца осознать, что происходит. Затем османское войско появилось под стенами Трапезунда и осадило город с суши и моря; после месяца без надежды на подмогу и без союзника, готового или способного вмешаться, император Давид сдал свою столицу на определённых условиях 15 августа 1461 года. Это положило конец последнему независимому византийскому государству-преемнику, а вместе с ним — и последней непрерывной нити политического существования Римской империи на собственной земле: Давид с семьёй попал в османский плен, и императорская линия Великих Комнинов пресеклась.",
-      "latitude": 41.0027,
-      "longitude": 39.7168,
       "source": "https://en.wikipedia.org/wiki/Siege_of_Trebizond_(1461)",
       "tags": [
-        "Trebizond",
         "Byzantine",
-        "War"
-      ]
+        "Greek",
+        "Turkic",
+        "Oguz",
+        "Ottoman",
+        "Trebizond",
+        "War",
+        "Conquest",
+        "Mehmed II 👑"
+      ],
+      "type": "military"
     },
     {
       "date": "30.12.1475",
@@ -545,11 +606,12 @@
       "name_ru": "Падение последнего римского государства: Феодоро",
       "source": "https://en.wikipedia.org/wiki/Principality_of_Theodoro",
       "tags": [
-        "Trebizond",
         "Byzantine",
+        "Trebizond",
         "Crimea"
       ],
       "type": "historic"
     }
-  ]
+  ],
+  "filename": "AD1_empire_of_trebizond.json"
 }

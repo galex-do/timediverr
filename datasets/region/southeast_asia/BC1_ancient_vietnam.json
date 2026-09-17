@@ -12,8 +12,8 @@
       "name_ru": "Первые гоминины во Вьетнаме",
       "source": "https://en.wikipedia.org/wiki/Prehistory_of_Vietnam",
       "tags": [
-        "Neolithic",
-        "Vietnamese"
+        "Vietnamese",
+        "Neolithic"
       ],
       "type": "historic"
     },
@@ -28,9 +28,9 @@
       "name_ru": "Культура Шон Ви во Вьетнаме",
       "source": "https://en.wikipedia.org/wiki/Prehistory_of_Vietnam",
       "tags": [
+        "Vietnamese",
         "Culture",
-        "Neolithic",
-        "Vietnamese"
+        "Neolithic"
       ],
       "type": "historic"
     },
@@ -45,9 +45,9 @@
       "name_ru": "Культура Хоабинь в ЮВА",
       "source": "https://en.wikipedia.org/wiki/Hoabinhian",
       "tags": [
+        "Vietnamese",
         "Culture",
-        "Neolithic",
-        "Vietnamese"
+        "Neolithic"
       ],
       "type": "historic"
     },
@@ -62,11 +62,11 @@
       "name_ru": "Культура Бак Шон (Северный Вьетнам)",
       "source": "https://en.wikipedia.org/wiki/Hoabinhian",
       "tags": [
+        "Vietnamese",
         "Culture",
-        "Maritime",
         "Neolithic",
         "Hoabinhian",
-        "Vietnamese"
+        "Maritime"
       ],
       "type": "historic"
     },
@@ -81,9 +81,9 @@
       "name_ru": "Пещера Лаанг Спеан в Камбодже",
       "source": "https://en.wikipedia.org/wiki/Laang_Spean",
       "tags": [
+        "Khmer",
         "Neolithic",
-        "Cambodia",
-        "Khmer"
+        "Cambodia"
       ],
       "type": "historic"
     },
@@ -98,10 +98,10 @@
       "name_ru": "Культура Да Бут во Вьетнаме",
       "source": "https://en.wikipedia.org/wiki/Prehistory_of_Vietnam",
       "tags": [
-        "Maritime",
+        "Vietnamese",
         "Neolithic",
-        "Settlement",
-        "Vietnamese"
+        "Maritime",
+        "Settlement"
       ],
       "type": "historic"
     },
@@ -116,12 +116,12 @@
       "name_ru": "Рисосеяние в Северном Вьетнаме",
       "source": "https://en.wikipedia.org/wiki/Prehistory_of_Vietnam",
       "tags": [
-        "Agriculture",
+        "Vietnamese",
         "Culture",
-        "Food",
         "Neolithic",
-        "Rice",
-        "Vietnamese"
+        "Agriculture",
+        "Food",
+        "Rice"
       ],
       "type": "historic"
     },
@@ -136,12 +136,12 @@
       "name_ru": "Анимизм и культы духов материковой ЮВА",
       "source": "https://en.wikipedia.org/wiki/Prehistory_of_Vietnam",
       "tags": [
-        "Animism",
-        "Culture",
-        "Pagan",
-        "Religious",
         "Khmer",
-        "Vietnamese"
+        "Vietnamese",
+        "Religious",
+        "Pagan",
+        "Animism",
+        "Culture"
       ],
       "type": "religious"
     },
@@ -156,10 +156,10 @@
       "name_ru": "Культура Бау Тро во Вьетнаме",
       "source": "https://en.wikipedia.org/wiki/Prehistory_of_Vietnam",
       "tags": [
+        "Vietnamese",
         "Culture",
-        "Maritime",
         "Neolithic",
-        "Vietnamese"
+        "Maritime"
       ],
       "type": "historic"
     },
@@ -174,10 +174,10 @@
       "name_ru": "Бронзовый век Камбоджи",
       "source": "https://en.wikipedia.org/wiki/Samrong_Sen",
       "tags": [
+        "Khmer",
         "Bronze Age",
         "Settlement",
-        "Cambodia",
-        "Khmer"
+        "Cambodia"
       ],
       "type": "historic"
     },
@@ -192,12 +192,12 @@
       "name_ru": "Вьетнамский миф о сотворении",
       "source": "https://en.wikipedia.org/wiki/Lac_Long_Quan",
       "tags": [
-        "Legend",
-        "Animalism",
-        "Pagan",
-        "Religious",
         "Vietnamese",
-        "Văn Lang"
+        "Văn Lang",
+        "Religious",
+        "Pagan",
+        "Animalism",
+        "Legend"
       ],
       "type": "religious"
     },
@@ -212,10 +212,10 @@
       "name_ru": "Начало бронзового века во Вьетнаме",
       "source": "https://en.wikipedia.org/wiki/Phung_Nguyen_culture",
       "tags": [
-        "Bronze Age",
-        "Culture",
         "Vietnamese",
-        "Văn Lang"
+        "Văn Lang",
+        "Culture",
+        "Bronze Age"
       ],
       "type": "historic"
     },
@@ -230,12 +230,12 @@
       "name_ru": "Нефрит и жадеит в гробницах Вьетнама",
       "source": "https://en.wikipedia.org/wiki/Phung_Nguyen_culture",
       "tags": [
-        "Bronze Age",
-        "Burial",
+        "Vietnamese",
         "Culture",
-        "Jade",
+        "Burial",
         "Trade",
-        "Vietnamese"
+        "Bronze Age",
+        "Jade"
       ],
       "type": "cultural"
     },
@@ -250,10 +250,10 @@
       "name_ru": "Ремесленные специализации Вьетнама",
       "source": "https://en.wikipedia.org/wiki/Phung_Nguyen_culture",
       "tags": [
-        "Bronze Age",
-        "Civilization",
+        "Vietnamese",
         "Trade",
-        "Vietnamese"
+        "Bronze Age",
+        "Civilization"
       ],
       "type": "historic"
     },
@@ -268,11 +268,11 @@
       "name_ru": "Высокогорное рисоводство в Северном Вьетнаме",
       "source": "https://en.wikipedia.org/wiki/Prehistory_of_Vietnam",
       "tags": [
+        "Vietnamese",
         "Agriculture",
         "Civilization",
         "Food",
-        "Rice",
-        "Vietnamese"
+        "Rice"
       ],
       "type": "historic"
     },
@@ -287,10 +287,10 @@
       "name_ru": "Культура Донг Дау во Вьетнаме",
       "source": "https://en.wikipedia.org/wiki/Prehistory_of_Vietnam",
       "tags": [
-        "Bronze Age",
-        "Culture",
         "Vietnamese",
-        "Văn Lang"
+        "Văn Lang",
+        "Culture",
+        "Bronze Age"
       ],
       "type": "historic"
     },
@@ -305,10 +305,10 @@
       "name_ru": "Торговля на вьетнамском побережье",
       "source": "https://en.wikipedia.org/wiki/Sa_Huynh_culture",
       "tags": [
-        "Maritime",
+        "Vietnamese",
         "Trade",
-        "Sa Huỳnh",
-        "Vietnamese"
+        "Maritime",
+        "Sa Huỳnh"
       ],
       "type": "historic"
     },
@@ -323,9 +323,9 @@
       "name_ru": "Бронзовые топоры, втульчатые орудия и аграрная экспансия",
       "source": "https://en.wikipedia.org/wiki/Prehistory_of_Vietnam",
       "tags": [
+        "Vietnamese",
         "Agriculture",
-        "Bronze Age",
-        "Vietnamese"
+        "Bronze Age"
       ],
       "type": "historic"
     },
@@ -340,11 +340,11 @@
       "name_ru": "Традиции захоронений в урнах Са Хуинь",
       "source": "https://en.wikipedia.org/wiki/Sa_Huynh_culture",
       "tags": [
-        "Burial",
+        "Vietnamese",
         "Culture",
+        "Burial",
         "Maritime",
-        "Sa Huỳnh",
-        "Vietnamese"
+        "Sa Huỳnh"
       ],
       "type": "cultural"
     },
@@ -359,11 +359,11 @@
       "name_ru": "Водяной буйвол в культуре Вьетнама",
       "source": "https://www.ethosspirit.com/blog/the-water-buffalo-of-northern-vietnam-power-culture-and-family",
       "tags": [
-        "Agriculture",
-        "Culture",
-        "Husbandry",
+        "Vietnamese",
         "Religious",
-        "Vietnamese"
+        "Culture",
+        "Agriculture",
+        "Husbandry"
       ],
       "type": "cultural"
     },
@@ -379,8 +379,8 @@
       "source": "https://en.wikipedia.org/wiki/Baiyue",
       "tags": [
         "Chinese",
-        "Trade",
-        "Vietnamese"
+        "Vietnamese",
+        "Trade"
       ],
       "type": "historic"
     },
@@ -395,12 +395,12 @@
       "name_ru": "Культура Го Мун во Вьетнаме",
       "source": "https://en.wikipedia.org/wiki/Prehistory_of_Vietnam",
       "tags": [
-        "Bronze",
-        "Bronze Age",
+        "Vietnamese",
+        "Văn Lang",
         "Culture",
         "Metallurgy",
-        "Vietnamese",
-        "Văn Lang"
+        "Bronze",
+        "Bronze Age"
       ],
       "type": "historic"
     },
@@ -416,9 +416,10 @@
       "source": "https://en.wikipedia.org/wiki/Baiyue",
       "tags": [
         "Chinese",
-        "History",
         "Zhou",
-        "Vietnamese"
+        "Vietnamese",
+        "History",
+        "Text"
       ],
       "type": "historic"
     },
@@ -433,11 +434,11 @@
       "name_ru": "Ван Ланг — царство ванов Хунг",
       "source": "https://en.wikipedia.org/wiki/Van_Lang",
       "tags": [
-        "Foundation",
-        "Kingdom",
-        "Monarchy",
         "Vietnamese",
-        "Văn Lang"
+        "Văn Lang",
+        "Kingdom",
+        "Foundation",
+        "Monarchy"
       ],
       "type": "political"
     },
@@ -452,10 +453,10 @@
       "name_ru": "Фонг Тяу — столица Ван Ланга",
       "source": "https://en.wikipedia.org/wiki/H%C3%B9ng_king",
       "tags": [
-        "Capital",
-        "Religious",
         "Vietnamese",
-        "Văn Lang"
+        "Văn Lang",
+        "Capital",
+        "Religious"
       ],
       "type": "political"
     },
@@ -470,10 +471,10 @@
       "name_ru": "Культура Донгшон во Вьетнаме",
       "source": "https://en.wikipedia.org/wiki/Dong_Son_culture",
       "tags": [
-        "Bronze Age",
-        "Culture",
         "Vietnamese",
-        "Văn Lang"
+        "Văn Lang",
+        "Culture",
+        "Bronze Age"
       ],
       "type": "historic"
     },
@@ -488,12 +489,12 @@
       "name_ru": "Металлургическая революция Донгшона",
       "source": "https://en.wikipedia.org/wiki/Dong_Son_culture",
       "tags": [
+        "Vietnamese",
+        "Metallurgy",
         "Bronze",
         "Bronze Age",
         "Civilization",
-        "Innovation",
-        "Metallurgy",
-        "Vietnamese"
+        "Innovation"
       ],
       "type": "historic"
     },
@@ -508,11 +509,11 @@
       "name_ru": "Лодочная культура и речные войны Донгшона",
       "source": "https://en.wikipedia.org/wiki/Dong_Son_culture",
       "tags": [
-        "Burial",
-        "Culture",
-        "Maritime",
+        "Vietnamese",
         "Religious",
-        "Vietnamese"
+        "Culture",
+        "Burial",
+        "Maritime"
       ],
       "type": "cultural"
     },
@@ -527,13 +528,13 @@
       "name_ru": "Чонг Донг — бронзовый барабан Донгшона",
       "source": "https://en.wikipedia.org/wiki/Dong_Son_drum",
       "tags": [
-        "Art",
-        "Bronze",
-        "Bronze Age",
-        "Culture",
-        "Metallurgy",
         "Vietnamese",
-        "Văn Lang"
+        "Văn Lang",
+        "Culture",
+        "Art",
+        "Metallurgy",
+        "Bronze",
+        "Bronze Age"
       ],
       "type": "cultural"
     },
@@ -548,12 +549,12 @@
       "name_ru": "Иконография барабанов Донгшона",
       "source": "https://en.wikipedia.org/wiki/Dong_Son_drum",
       "tags": [
-        "Cosmology",
-        "Culture",
-        "Pagan",
-        "Religious",
         "Vietnamese",
-        "Văn Lang"
+        "Văn Lang",
+        "Religious",
+        "Pagan",
+        "Culture",
+        "Cosmology"
       ],
       "type": "religious"
     },
@@ -568,11 +569,11 @@
       "name_ru": "Железная ковка в Са Хуинь",
       "source": "https://en.wikipedia.org/wiki/Sa_Huynh_culture",
       "tags": [
+        "Vietnamese",
         "Culture",
         "Iron",
         "Metallurgy",
-        "Sa Huỳnh",
-        "Vietnamese"
+        "Sa Huỳnh"
       ],
       "type": "scientific"
     },
@@ -587,11 +588,11 @@
       "name_ru": "Вооружение Донгшона",
       "source": "https://en.wikipedia.org/wiki/Dong_Son_culture",
       "tags": [
-        "Bronze",
-        "Metallurgy",
-        "Weapon",
         "Vietnamese",
-        "Văn Lang"
+        "Văn Lang",
+        "Metallurgy",
+        "Bronze",
+        "Weapon"
       ],
       "type": "historic"
     },
@@ -606,13 +607,13 @@
       "name_ru": "Аграрные праздники ванов Хунг",
       "source": "https://en.wikipedia.org/wiki/H%C3%B9ng_king",
       "tags": [
-        "Cuisine",
-        "Culture",
-        "Food",
-        "Holidays",
-        "Religious",
         "Vietnamese",
-        "Văn Lang"
+        "Văn Lang",
+        "Religious",
+        "Culture",
+        "Cuisine",
+        "Food",
+        "Holidays"
       ],
       "type": "religious"
     },
@@ -628,10 +629,10 @@
       "source": "https://en.wikipedia.org/wiki/Baiyue",
       "tags": [
         "Chinese",
-        "Diplomacy",
-        "History",
         "Vietnamese",
-        "Văn Lang"
+        "Văn Lang",
+        "Diplomacy",
+        "History"
       ],
       "type": "historic"
     },
@@ -646,10 +647,10 @@
       "name_ru": "Ван Ланг — 15 административных областей",
       "source": "https://en.wikipedia.org/wiki/Van_Lang",
       "tags": [
-        "Administration",
-        "Political",
         "Vietnamese",
-        "Văn Lang"
+        "Văn Lang",
+        "Political",
+        "Administration"
       ],
       "type": "political"
     },
@@ -664,10 +665,10 @@
       "name_ru": "Лак-лорды — воинская аристократия Ван Ланга",
       "source": "https://en.wikipedia.org/wiki/Van_Lang",
       "tags": [
-        "Aristocracy",
-        "Political",
         "Vietnamese",
-        "Văn Lang"
+        "Văn Lang",
+        "Political",
+        "Aristocracy"
       ],
       "type": "political"
     },
@@ -682,11 +683,11 @@
       "name_ru": "Элитные захоронения Донгшона",
       "source": "https://en.wikipedia.org/wiki/Dong_Son_culture",
       "tags": [
-        "Burial",
-        "Culture",
-        "Religious",
         "Vietnamese",
-        "Văn Lang"
+        "Văn Lang",
+        "Religious",
+        "Culture",
+        "Burial"
       ],
       "type": "cultural"
     },
@@ -702,10 +703,10 @@
       "source": "https://en.wikipedia.org/wiki/Sa_Huynh_culture",
       "tags": [
         "Indian",
-        "Maritime",
+        "Vietnamese",
         "Trade",
-        "Sa Huỳnh",
-        "Vietnamese"
+        "Maritime",
+        "Sa Huỳnh"
       ],
       "type": "historic"
     },
@@ -720,9 +721,9 @@
       "name_ru": "Ме Линь — вождество в дельте Красной реки",
       "source": "https://en.wikipedia.org/wiki/Van_Lang",
       "tags": [
-        "Political",
         "Vietnamese",
-        "Văn Lang"
+        "Văn Lang",
+        "Political"
       ],
       "type": "political"
     },
@@ -737,10 +738,10 @@
       "name_ru": "Барабаны Донгшона как дипломатическая валюта",
       "source": "https://en.wikipedia.org/wiki/Dong_Son_drum",
       "tags": [
-        "Diplomacy",
-        "Trade",
         "Vietnamese",
-        "Văn Lang"
+        "Văn Lang",
+        "Diplomacy",
+        "Trade"
       ],
       "type": "cultural"
     },
@@ -755,9 +756,9 @@
       "name_ru": "Царство Ван Ланг на своём пике",
       "source": "https://en.wikipedia.org/wiki/Van_Lang",
       "tags": [
-        "Golden Age",
         "Vietnamese",
-        "Văn Lang"
+        "Văn Lang",
+        "Golden Age"
       ],
       "type": "political"
     }

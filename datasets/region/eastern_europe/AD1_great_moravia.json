@@ -12,11 +12,13 @@
       "name_ru": "Освящение нитранской церкви",
       "source": "https://en.wikipedia.org/wiki/Pribina",
       "tags": [
-        "Christian",
-        "Expansion",
-        "Moravian",
         "Slavic",
-        "Frankish"
+        "Moravian",
+        "Frankish",
+        "Foundation",
+        "Religious",
+        "Christian",
+        "Expansion"
       ],
       "type": "religious"
     },
@@ -31,12 +33,12 @@
       "name_ru": "Моймир I присоединяет Нитру к Моравии",
       "source": "https://en.wikipedia.org/wiki/Mojmir_I_of_Moravia",
       "tags": [
-        "War",
-        "Annexation",
-        "Conquest",
-        "Great Moravia",
-        "Moravian",
         "Slavic",
+        "Moravian",
+        "Great Moravia",
+        "War",
+        "Conquest",
+        "Annexation",
         "Unification"
       ],
       "type": "political"
@@ -52,15 +54,15 @@
       "name_ru": "Разворот Великой Моравии на восток",
       "source": "https://en.wikipedia.org/wiki/Rastislav_of_Moravia",
       "tags": [
-        "Roman",
-        "Diplomacy",
         "Byzantine",
-        "Christian",
-        "Great Moravia",
+        "Roman",
         "Moravian",
-        "Political",
+        "Frankish",
+        "Great Moravia",
         "Religious",
-        "Frankish"
+        "Christian",
+        "Diplomacy",
+        "Political"
       ],
       "type": "political"
     },
@@ -75,13 +77,13 @@
       "name_ru": "Микульчицы — дворцовая столица Великой Моравии",
       "source": "https://en.wikipedia.org/wiki/Mikul%C4%8Dice",
       "tags": [
-        "Architecture",
+        "Slavic",
+        "Moravian",
+        "Great Moravia",
         "Capital",
         "Culture",
-        "Great Moravia",
-        "Moravian",
-        "Palace",
-        "Slavic"
+        "Architecture",
+        "Palace"
       ],
       "type": "cultural"
     },
@@ -96,12 +98,12 @@
       "name_ru": "Моравское ювелирное искусство",
       "source": "https://en.wikipedia.org/wiki/Great_Moravia#Culture",
       "tags": [
-        "Craft",
-        "Culture",
-        "Great Moravia",
-        "Jewelry",
+        "Slavic",
         "Moravian",
-        "Slavic"
+        "Great Moravia",
+        "Culture",
+        "Craft",
+        "Jewelry"
       ],
       "type": "cultural"
     },
@@ -116,16 +118,16 @@
       "name_ru": "Посольство Великой Моравии в Константинополь",
       "source": "https://en.wikipedia.org/wiki/Cyril_and_Methodius",
       "tags": [
-        "Roman",
-        "Diplomacy",
-        "Byzantine",
-        "Christian",
-        "Great Moravia",
-        "Methodius 👤",
         "Milestone ⭐️",
+        "Byzantine",
+        "Roman",
+        "Slavic",
         "Moravian",
+        "Great Moravia",
+        "Christian",
+        "Diplomacy",
         "Political",
-        "Slavic"
+        "Methodius 👤"
       ],
       "type": "political"
     },
@@ -140,14 +142,14 @@
       "name_ru": "Старославянский язык — первый литературный язык славян",
       "source": "https://en.wikipedia.org/wiki/Old_Church_Slavonic",
       "tags": [
+        "Slavic",
+        "Moravian",
+        "Great Moravia",
+        "Religious",
         "Christian",
         "Culture",
-        "Great Moravia",
         "Language",
-        "Methodius 👤",
-        "Moravian",
-        "Religious",
-        "Slavic"
+        "Methodius 👤"
       ],
       "type": "scientific"
     },
@@ -162,14 +164,14 @@
       "name_ru": "Миссия Кирилла и Мефодия в Рим ",
       "source": "https://en.wikipedia.org/wiki/Cyril_and_Methodius#In_Rome",
       "tags": [
-        "Diplomacy",
-        "Christian",
-        "Great Moravia",
-        "Methodius 👤",
+        "Slavic",
         "Moravian",
+        "Great Moravia",
         "Papacy",
         "Religious",
-        "Slavic"
+        "Christian",
+        "Diplomacy",
+        "Methodius 👤"
       ],
       "type": "religious"
     },
@@ -184,15 +186,15 @@
       "name_ru": "Профранкский переворот в Моравии",
       "source": "https://en.wikipedia.org/wiki/Rastislav_of_Moravia",
       "tags": [
-        "Betrayal",
-        "Christian",
-        "Great Moravia",
-        "Moravian",
-        "Overthrow",
-        "Religious",
-        "Saint",
         "Slavic",
-        "Frankish"
+        "Moravian",
+        "Frankish",
+        "Great Moravia",
+        "Religious",
+        "Christian",
+        "Saint",
+        "Betrayal",
+        "Overthrow"
       ],
       "type": "political"
     },
@@ -207,13 +209,13 @@
       "name_ru": "Мефодий осужден и заключен франкскими епископами",
       "source": "https://en.wikipedia.org/wiki/Methodius_of_Thessaloniki",
       "tags": [
-        "Bavarian",
-        "Great Moravia",
-        "Methodius 👤",
         "Moravian",
+        "Bavarian",
+        "Frankish",
+        "Great Moravia",
         "Papacy",
-        "Prisoner",
-        "Frankish"
+        "Methodius 👤",
+        "Prisoner"
       ],
       "type": "religious"
     },
@@ -228,13 +230,13 @@
       "name_ru": "Папа Римский оправдывает Мефодия и славянское богослужение",
       "source": "https://en.wikipedia.org/wiki/Industriae_tuae",
       "tags": [
-        "Christian",
-        "Great Moravia",
-        "Methodius 👤",
+        "Slavic",
         "Moravian",
+        "Great Moravia",
         "Papacy",
         "Religious",
-        "Slavic"
+        "Christian",
+        "Methodius 👤"
       ],
       "type": "religious"
     },
@@ -249,11 +251,11 @@
       "name_ru": "Великая Моравия на пике",
       "source": "https://en.wikipedia.org/wiki/Svatopluk_I_of_Moravia",
       "tags": [
-        "Expansion",
-        "Golden Age",
-        "Great Moravia",
+        "Slavic",
         "Moravian",
-        "Slavic"
+        "Great Moravia",
+        "Expansion",
+        "Golden Age"
       ],
       "type": "political"
     },
@@ -268,13 +270,14 @@
       "name_ru": "Ученики Мефодия изгнаны из Моравии",
       "source": "https://en.wikipedia.org/wiki/Methodius_of_Thessaloniki",
       "tags": [
+        "Slavic",
+        "Moravian",
+        "Great Moravia",
+        "Religious",
         "Christian",
         "Death",
         "Exile",
-        "Great Moravia",
-        "Methodius 👤",
-        "Moravian",
-        "Slavic"
+        "Methodius 👤"
       ],
       "type": "religious"
     },
@@ -289,13 +292,13 @@
       "name_ru": "Великая Моравия начинает распадаться",
       "source": "https://en.wikipedia.org/wiki/Svatopluk_I_of_Moravia",
       "tags": [
-        "Civil War",
-        "War",
-        "Crisis",
-        "Fragmentation",
-        "Great Moravia",
-        "Moravian",
         "Slavic",
+        "Moravian",
+        "Great Moravia",
+        "Civil War",
+        "Crisis",
+        "War",
+        "Fragmentation",
         "Succession"
       ],
       "type": "political"
@@ -311,14 +314,14 @@
       "name_ru": "Мадьярские племена переходят Карпаты",
       "source": "https://en.wikipedia.org/wiki/Hungarian_conquest_of_the_Carpathian_Basin",
       "tags": [
-        "War",
-        "Finno-Ugric",
-        "Great Moravia",
-        "Invasion",
         "Magyar",
-        "Migration",
+        "Slavic",
+        "Finno-Ugric",
         "Moravian",
-        "Slavic"
+        "Great Moravia",
+        "War",
+        "Invasion",
+        "Migration"
       ],
       "type": "military"
     },
@@ -333,13 +336,13 @@
       "name_ru": "Мадьяры разбивают баварцев у Братиславы",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Bratislava_(907)",
       "tags": [
-        "War",
-        "Battle",
-        "Bavarian",
-        "Great Moravia",
         "Magyar",
         "Moravian",
-        "Frankish"
+        "Bavarian",
+        "Frankish",
+        "Great Moravia",
+        "War",
+        "Battle"
       ],
       "type": "military"
     }

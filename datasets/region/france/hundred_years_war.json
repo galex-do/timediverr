@@ -154,8 +154,8 @@
         "Hundred Years",
         "Parliament",
         "Political",
-        "Reform",
-        "Law"
+        "Law",
+        "Reform"
       ],
       "type": "political"
     },
@@ -322,8 +322,8 @@
     },
     {
       "date": "05.08.1392",
-      "description": "Riding through the forest near Le Mans on campaign against the Duke of Brittany, King Charles VI suddenly turned on his own escort, killing four men before being wrestled from his horse and disarmed. The episode was the first clear onset of a recurring mental illness, its cause never diagnosed though contemporaries blamed everything from poison to sorcery, that would leave the king incapacitated for months at a time for the rest of his thirty-year reign.\n\nWith the king periodically unfit to rule, his uncles and his younger brother Louis of Orléans competed for control of the government and its revenues, a rivalry that hardened into open factionalism.",
-      "description_ru": "Во время похода против герцога Бретонского король Карл VI, проезжая лесом близ Ле-Мана, внезапно набросился на собственную свиту, убив четверых человек, прежде чем его стащили с коня и обезоружили. Этот приступ стал первым явным проявлением повторяющейся душевной болезни — её причину так и не установили, хотя современники винили то яд, то колдовство, — которая будет по нескольку месяцев кряду выводить короля из строя на протяжении оставшихся тридцати лет его правления.\n\nПока король периодически оказывался неспособен править, его дядья и младший брат Людовик Орлеанский боролись за контроль над правительством и его доходами — соперничество, перешедшее в открытую вражду партий.",
+      "description": "Riding through the forest near Le Mans on campaign against the Duke of Brittany, King Charles VI suddenly turned on his own escort, killing four men before being wrestled from his horse and disarmed. The episode was the first clear onset of a recurring mental illness, its cause never diagnosed though contemporaries blamed everything from poison to sorcery, that would leave the king incapacitated for months at a time for the rest of his thirty-year reign. During periods of exacerbation, he forgot his name and did not recognize his wife, and also believed that he was made of glass, and demanded to wear iron strips on his clothes so as not to “break.”\n\nWith the king periodically unfit to rule, his uncles and his younger brother Louis of Orléans competed for control of the government and its revenues, a rivalry that hardened into open factionalism.",
+      "description_ru": "Во время похода против герцога Бретонского король Карл VI, проезжая лесом близ Ле-Мана, внезапно набросился на собственную свиту, убив четверых человек, прежде чем его стащили с коня и обезоружили. Этот приступ стал первым явным проявлением душевной болезни — её причину так и не установили, хотя современники винили то яд, то колдовство, — которая будет по месяцами выводить короля из строя на протяжении еще тридцати лет его правления. В периоды обострений он забывал свое имя и не узнавал жену, а также верил, что сделан из стекла, и требовал носить железные полосы на одежде, чтобы не «разбиться»\n\nПока король периодически оказывался неспособен править, его дядья и младший брат Людовик Орлеанский боролись за контроль над правительством и его доходами — соперничество, перешедшее в открытую вражду партий.",
       "era": "AD",
       "latitude": 48.0061,
       "longitude": 0.1996,

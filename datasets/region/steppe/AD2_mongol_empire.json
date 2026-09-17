@@ -713,7 +713,7 @@
         "Italian",
         "Mongolian",
         "Yuan",
-        "Venice",
+        "Venetian",
         "Silk Road",
         "Trade",
         "Marco Polo 👤"
@@ -841,6 +841,7 @@
       "name_ru": "Газан-хан обращает Ильханство в Ислам",
       "source": "https://en.wikipedia.org/wiki/Ghazan",
       "tags": [
+        "Ilkhanate",
         "Mongolian",
         "Religious",
         "Islamic",
@@ -861,12 +862,14 @@
       "name_ru": "Хан Узбек обращает Золотую Орду в Ислам",
       "source": "https://en.wikipedia.org/wiki/%C3%96zbeg_Khan",
       "tags": [
+        "Turkic",
         "Golden Horde",
         "Mongolian",
         "Religious",
         "Islamic",
         "Sunni",
         "Adoption",
+        "King",
         "Trade"
       ],
       "type": "religious"
@@ -901,6 +904,7 @@
       "name_ru": "Падение монгольского Ильханства в Иране",
       "source": "https://en.wikipedia.org/wiki/Ilkhanate",
       "tags": [
+        "Ilkhanate",
         "Mongolian",
         "Kingdom",
         "Islamic",
@@ -959,10 +963,12 @@
       "era": "AD",
       "latitude": 53.6535154,
       "longitude": 38.65492344,
-      "name": "Battle of Kulikovo — Rus Defeats the Golden Horde",
-      "name_ru": "Русь побеждает Золотую Орду на Куликовом поле",
+      "name": "Rus' defeats Mamai's army at Kulikovo Field",
+      "name_ru": "Русь побеждает войско Мамая на Куликовом поле",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Kulikovo",
       "tags": [
+        "Slavic",
+        "Turkic",
         "Golden Horde",
         "Mongolian",
         "Moscow",
@@ -970,7 +976,9 @@
         "Crisis",
         "War",
         "Rebellion",
-        "Battle"
+        "Battle",
+        "Dmitry Donskoy 👑",
+        "Mamai 👑"
       ],
       "type": "military"
     }

@@ -14,10 +14,10 @@
       "tags": [
         "Phoenician",
         "City",
+        "Trade",
         "Colonization",
         "Expansion",
-        "Seamen",
-        "Trade"
+        "Seamen"
       ],
       "type": "historic"
     },
@@ -34,11 +34,11 @@
       "tags": [
         "Phoenician",
         "City",
+        "Trade",
         "Colonization",
         "Expansion",
         "Fishing",
-        "Seamen",
-        "Trade"
+        "Seamen"
       ],
       "type": "historic"
     },
@@ -54,10 +54,10 @@
       "source": "https://en.wikipedia.org/wiki/Caesarea_in_Mauretania",
       "tags": [
         "Roman",
-        "City",
         "Berber",
         "Capital",
-        "Kingdom"
+        "Kingdom",
+        "City"
       ],
       "type": "historic"
     },
@@ -73,12 +73,12 @@
       "source": "https://en.wikipedia.org/wiki/Juba_II",
       "tags": [
         "Roman",
-        "King",
         "Berber",
-        "Hostage",
         "Kingdom",
-        "Numidians",
-        "Political"
+        "King",
+        "Political",
+        "Hostage",
+        "Numidians"
       ],
       "type": "political"
     },
@@ -94,10 +94,10 @@
       "source": "https://en.wikipedia.org/wiki/Chellah",
       "tags": [
         "Roman",
-        "City",
         "African",
-        "Architecture",
-        "Berber"
+        "Berber",
+        "City",
+        "Architecture"
       ],
       "type": "historic"
     },
@@ -114,9 +114,9 @@
       "tags": [
         "Roman",
         "African",
-        "Annexation",
         "Berber",
-        "Political"
+        "Political",
+        "Annexation"
       ],
       "type": "political"
     },
@@ -132,12 +132,12 @@
       "source": "https://en.wikipedia.org/wiki/Volubilis",
       "tags": [
         "Roman",
+        "Berber",
         "City",
+        "Culture",
+        "Architecture",
         "Administration",
         "Agriculture",
-        "Architecture",
-        "Berber",
-        "Culture",
         "Olives"
       ],
       "type": "cultural"
@@ -155,8 +155,8 @@
       "tags": [
         "Roman",
         "Berber",
-        "Decline",
         "Political",
+        "Decline",
         "Retreat"
       ],
       "type": "political"
@@ -173,12 +173,12 @@
       "source": "https://en.wikipedia.org/wiki/Uqba_ibn_Nafi",
       "tags": [
         "Arabian",
-        "Umayyad",
-        "War",
         "Berber",
-        "Conquest",
+        "Umayyad",
+        "Religious",
         "Islamic",
-        "Religious"
+        "War",
+        "Conquest"
       ],
       "type": "military"
     },
@@ -194,11 +194,11 @@
       "source": "https://en.wikipedia.org/wiki/Dihya",
       "tags": [
         "Arabian",
-        "War",
         "Berber",
-        "Conquest",
-        "Islamic",
         "Religious",
+        "Islamic",
+        "War",
+        "Conquest",
         "Resistance"
       ],
       "type": "military"
@@ -215,13 +215,13 @@
       "source": "https://en.wikipedia.org/wiki/Musa_ibn_Nusayr",
       "tags": [
         "Arabian",
-        "Umayyad",
-        "War",
-        "Annexation",
         "Berber",
-        "Conquest",
+        "Umayyad",
         "Islamic",
-        "Political"
+        "War",
+        "Conquest",
+        "Political",
+        "Annexation"
       ],
       "type": "political"
     },
@@ -237,14 +237,14 @@
       "source": "https://en.wikipedia.org/wiki/Berber_Revolt",
       "tags": [
         "Arabian",
-        "Umayyad",
-        "War",
         "Berber",
+        "Umayyad",
+        "Religious",
         "Islamic",
-        "Political",
-        "Radicalism",
+        "War",
         "Rebellion",
-        "Religious"
+        "Political",
+        "Radicalism"
       ],
       "type": "military"
     },
@@ -260,11 +260,11 @@
       "source": "https://en.wikipedia.org/wiki/Idris_I_of_Morocco",
       "tags": [
         "Berber",
-        "Foundation",
-        "Idrisid",
-        "Islamic",
-        "Kingdom",
         "Morocco",
+        "Kingdom",
+        "Foundation",
+        "Islamic",
+        "Idrisid",
         "Political"
       ],
       "type": "political"
@@ -280,14 +280,14 @@
       "name_ru": "Убийство Идриса I агентом Аббасидов",
       "source": "https://en.wikipedia.org/wiki/Idris_I_of_Morocco",
       "tags": [
-        "King",
-        "Abbasid",
-        "Assassination",
         "Berber",
-        "Idrisid",
-        "Islamic",
+        "Abbasid",
         "Morocco",
-        "Political"
+        "Islamic",
+        "Idrisid",
+        "King",
+        "Political",
+        "Assassination"
       ],
       "type": "political"
     },
@@ -302,13 +302,13 @@
       "name_ru": "Идрис II основывает Фес в Магрибе",
       "source": "https://en.wikipedia.org/wiki/Idris_II_of_Morocco",
       "tags": [
-        "City",
         "Berber",
+        "Morocco",
         "Capital",
+        "City",
         "Foundation",
-        "Idrisid",
         "Islamic",
-        "Morocco"
+        "Idrisid"
       ],
       "type": "historic"
     },
@@ -324,14 +324,14 @@
       "source": "https://en.wikipedia.org/wiki/University_of_al-Qarawiyyin",
       "tags": [
         "Arabian",
-        "Building 🏠",
-        "Architecture",
-        "Culture",
-        "Education",
-        "Islamic",
         "Qurayshite",
         "Religious",
-        "Temple"
+        "Islamic",
+        "Culture",
+        "Architecture",
+        "Building 🏠",
+        "Temple",
+        "Education"
       ],
       "type": "cultural"
     },
@@ -347,13 +347,13 @@
       "source": "https://en.wikipedia.org/wiki/Al-Andalusiyyin_Mosque",
       "tags": [
         "Arabian",
-        "Building 🏠",
-        "Architecture",
-        "Culture",
-        "Idrisid",
-        "Islamic",
         "Qurayshite",
         "Religious",
+        "Islamic",
+        "Culture",
+        "Idrisid",
+        "Architecture",
+        "Building 🏠",
         "Temple"
       ],
       "type": "religious"
@@ -369,12 +369,13 @@
       "name_ru": "Зарождение движения альморавидов",
       "source": "https://en.wikipedia.org/wiki/Abdallah_ibn_Yasin",
       "tags": [
-        "Dynasty",
-        "Almoravid",
         "Berber",
+        "Morocco",
         "Foundation",
         "Islamic",
-        "Morocco"
+        "Almoravid",
+        "Dynasty",
+        "Movement"
       ],
       "type": "religious"
     },
@@ -389,15 +390,15 @@
       "name_ru": "Альморавиды захватывают Сижилмасу",
       "source": "https://en.wikipedia.org/wiki/Sijilmasa",
       "tags": [
-        "War",
-        "Almoravid",
         "Berber",
-        "Conquest",
-        "Gold",
-        "Islamic",
         "Morocco",
-        "Route",
-        "Trade"
+        "Islamic",
+        "War",
+        "Conquest",
+        "Almoravid",
+        "Gold",
+        "Trade",
+        "Route"
       ],
       "type": "military"
     },
@@ -412,16 +413,16 @@
       "name_ru": "Альморавиды берут путь через Сахару под контроль",
       "source": "https://en.wikipedia.org/wiki/Aoudaghost",
       "tags": [
-        "War",
         "African",
-        "Almoravid",
         "Berber",
-        "Conquest",
         "Ghana",
-        "Islamic",
         "Morocco",
-        "Route",
-        "Trade"
+        "Islamic",
+        "War",
+        "Conquest",
+        "Almoravid",
+        "Trade",
+        "Route"
       ],
       "type": "military"
     },
@@ -436,14 +437,14 @@
       "name_ru": "Альморавиды основывают Марракеш",
       "source": "https://en.wikipedia.org/wiki/Marrakesh",
       "tags": [
-        "City",
         "African",
-        "Almoravid",
-        "Architecture",
         "Berber",
+        "Morocco",
         "Capital",
+        "City",
         "Islamic",
-        "Morocco"
+        "Almoravid",
+        "Architecture"
       ],
       "type": "historic"
     },
@@ -458,14 +459,14 @@
       "name_ru": "Альморавиды впервые сражаются в Иберии",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Sagrajas",
       "tags": [
+        "Berber",
+        "Castile",
+        "Morocco",
+        "Christian",
+        "Islamic",
         "War",
         "Battle",
         "Almoravid",
-        "Berber",
-        "Castile",
-        "Christian",
-        "Islamic",
-        "Morocco",
         "Reconquista"
       ],
       "type": "military"
@@ -481,14 +482,14 @@
       "name_ru": "Альморавидская Куббат в Марракеш",
       "source": "https://en.wikipedia.org/wiki/Almoravid_Koubba",
       "tags": [
-        "Building 🏠",
+        "Berber",
+        "Morocco",
+        "Islamic",
+        "Culture",
+        "Art",
         "Almoravid",
         "Architecture",
-        "Art",
-        "Berber",
-        "Culture",
-        "Islamic",
-        "Morocco"
+        "Building 🏠"
       ],
       "type": "cultural"
     }

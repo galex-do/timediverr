@@ -13,11 +13,11 @@
       "source": "https://en.wikipedia.org/wiki/Rigveda",
       "tags": [
         "Indian",
+        "Religious",
         "Hinduism",
-        "Indo-Aryan",
         "Literature",
         "Oral Tradition",
-        "Religious",
+        "Indo-Aryan",
         "Text",
         "Vedic"
       ],
@@ -53,10 +53,10 @@
       "source": "https://en.wikipedia.org/wiki/Rudra",
       "tags": [
         "Indian",
-        "Culture",
+        "Religious",
         "Hinduism",
-        "Indo-Aryan",
-        "Religious"
+        "Culture",
+        "Indo-Aryan"
       ],
       "type": "religious"
     },
@@ -72,9 +72,9 @@
       "source": "https://en.wikipedia.org/wiki/Vishnu",
       "tags": [
         "Indian",
+        "Religious",
         "Hinduism",
-        "Indo-Aryan",
-        "Religious"
+        "Indo-Aryan"
       ],
       "type": "religious"
     },
@@ -108,9 +108,9 @@
       "source": "https://en.wikipedia.org/wiki/Vedanga_Jyotisha",
       "tags": [
         "Indian",
+        "Oral Tradition",
         "Astronomy",
         "Indo-Aryan",
-        "Oral Tradition",
         "Vedic"
       ],
       "type": "scientific"
@@ -127,11 +127,11 @@
       "source": "https://en.wikipedia.org/wiki/Rigveda",
       "tags": [
         "Indian",
+        "Religious",
         "Hinduism",
-        "Indo-Aryan",
         "Literature",
         "Oral Tradition",
-        "Religious",
+        "Indo-Aryan",
         "Vedic"
       ],
       "type": "religious"
@@ -148,10 +148,10 @@
       "source": "https://en.wikipedia.org/wiki/Kuru_Kingdom",
       "tags": [
         "Indian",
-        "Foundation",
-        "Indo-Aryan",
         "Kingdom",
-        "Political"
+        "Foundation",
+        "Political",
+        "Indo-Aryan"
       ],
       "type": "political"
     },
@@ -184,9 +184,9 @@
       "source": "https://en.wikipedia.org/wiki/Iron_Age_in_India",
       "tags": [
         "Indian",
-        "Indo-Aryan",
         "Iron",
-        "Metallurgy"
+        "Metallurgy",
+        "Indo-Aryan"
       ],
       "type": "historic"
     },
@@ -220,13 +220,13 @@
       "source": "https://en.wikipedia.org/wiki/Samaveda",
       "tags": [
         "Indian",
-        "Culture",
+        "Religious",
         "Hinduism",
-        "Indo-Aryan",
+        "Culture",
         "Literature",
         "Music",
         "Oral Tradition",
-        "Religious",
+        "Indo-Aryan",
         "Text",
         "Vedic"
       ],
@@ -244,11 +244,11 @@
       "source": "https://en.wikipedia.org/wiki/Yajurveda",
       "tags": [
         "Indian",
+        "Religious",
         "Hinduism",
-        "Indo-Aryan",
         "Literature",
         "Oral Tradition",
-        "Religious",
+        "Indo-Aryan",
         "Text",
         "Vedic"
       ],
@@ -266,10 +266,10 @@
       "source": "https://en.wikipedia.org/wiki/Nasadiya_Sukta",
       "tags": [
         "Indian",
-        "Agnosticism",
+        "Religious",
         "Hinduism",
         "Philosophy",
-        "Religious",
+        "Agnosticism",
         "Text",
         "Vedic"
       ],
@@ -287,10 +287,10 @@
       "source": "https://en.wikipedia.org/wiki/Ashvamedha",
       "tags": [
         "Indian",
-        "Culture",
-        "Hinduism",
-        "Indo-Aryan",
         "Religious",
+        "Hinduism",
+        "Culture",
+        "Indo-Aryan",
         "Sacrifice",
         "Vedic"
       ],
@@ -308,11 +308,11 @@
       "source": "https://en.wikipedia.org/wiki/Atharvaveda",
       "tags": [
         "Indian",
+        "Religious",
         "Hinduism",
-        "Indo-Aryan",
         "Literature",
         "Oral Tradition",
-        "Religious",
+        "Indo-Aryan",
         "Text",
         "Vedic"
       ],
@@ -330,9 +330,9 @@
       "source": "https://en.wikipedia.org/wiki/Kuru_Kingdom",
       "tags": [
         "Indian",
-        "Indo-Aryan",
         "Kingdom",
-        "Political"
+        "Political",
+        "Indo-Aryan"
       ],
       "type": "political"
     },
@@ -348,11 +348,11 @@
       "source": "https://en.wikipedia.org/wiki/Varna_(Hinduism)",
       "tags": [
         "Indian",
-        "Administration",
-        "Culture",
         "Hinduism",
-        "Indo-Aryan",
-        "Law"
+        "Culture",
+        "Law",
+        "Administration",
+        "Indo-Aryan"
       ],
       "type": "cultural"
     },
@@ -368,12 +368,12 @@
       "source": "https://en.wikipedia.org/wiki/Brahmana",
       "tags": [
         "Indian",
-        "Culture",
+        "Religious",
         "Hinduism",
-        "Indo-Aryan",
+        "Culture",
         "Literature",
         "Oral Tradition",
-        "Religious",
+        "Indo-Aryan",
         "Vedic"
       ],
       "type": "religious"
@@ -390,10 +390,10 @@
       "source": "https://en.wikipedia.org/wiki/Purusha_sukta",
       "tags": [
         "Indian",
-        "Hinduism",
-        "Indo-Aryan",
-        "Philosophy",
         "Religious",
+        "Hinduism",
+        "Philosophy",
+        "Indo-Aryan",
         "Vedic"
       ],
       "type": "religious"
@@ -410,11 +410,11 @@
       "source": "https://en.wikipedia.org/wiki/Agnicayana",
       "tags": [
         "Indian",
-        "Culture",
-        "Hinduism",
-        "Indo-Aryan",
-        "Oral Tradition",
         "Religious",
+        "Hinduism",
+        "Culture",
+        "Oral Tradition",
+        "Indo-Aryan",
         "Vedic"
       ],
       "type": "cultural"
@@ -431,10 +431,10 @@
       "source": "https://en.wikipedia.org/wiki/Shatapatha_Brahmana",
       "tags": [
         "Indian",
+        "Religious",
         "Hinduism",
         "Oral Tradition",
         "Philosophy",
-        "Religious",
         "Text",
         "Vedic"
       ],
@@ -453,8 +453,8 @@
       "tags": [
         "Indian",
         "Hinduism",
-        "Mathematics",
         "Oral Tradition",
+        "Mathematics",
         "Science",
         "Vedic"
       ],
@@ -473,9 +473,9 @@
       "tags": [
         "Indian",
         "Kingdom",
+        "Religious",
         "Philosophy",
         "Political",
-        "Religious",
         "Rise"
       ],
       "type": "political"
@@ -492,9 +492,9 @@
       "source": "https://en.wikipedia.org/wiki/Parshvanatha",
       "tags": [
         "Indian",
+        "Religious",
         "Jainism",
-        "Philosophy",
-        "Religious"
+        "Philosophy"
       ],
       "type": "religious"
     },
@@ -510,11 +510,11 @@
       "source": "https://en.wikipedia.org/wiki/Brihadaranyaka_Upanishad",
       "tags": [
         "Indian",
+        "Religious",
         "Hinduism",
         "Literature",
         "Oral Tradition",
         "Philosophy",
-        "Religious",
         "Text"
       ],
       "type": "religious"
@@ -531,10 +531,10 @@
       "source": "https://en.wikipedia.org/wiki/Ayurveda",
       "tags": [
         "Indian",
-        "Culture",
         "Hinduism",
-        "Medicine",
-        "Oral Tradition"
+        "Culture",
+        "Oral Tradition",
+        "Medicine"
       ],
       "type": "scientific"
     },
@@ -550,11 +550,11 @@
       "source": "https://en.wikipedia.org/wiki/Aranyaka",
       "tags": [
         "Indian",
+        "Religious",
         "Hinduism",
         "Literature",
         "Oral Tradition",
         "Philosophy",
-        "Religious",
         "Vedic"
       ],
       "type": "religious"
@@ -571,9 +571,9 @@
       "source": "https://en.wikipedia.org/wiki/Karma_in_Hinduism",
       "tags": [
         "Indian",
+        "Religious",
         "Hinduism",
-        "Philosophy",
-        "Religious"
+        "Philosophy"
       ],
       "type": "religious"
     },
@@ -589,10 +589,10 @@
       "source": "https://en.wikipedia.org/wiki/Chandogya_Upanishad",
       "tags": [
         "Indian",
+        "Religious",
         "Hinduism",
         "Oral Tradition",
         "Philosophy",
-        "Religious",
         "Text",
         "Vedic"
       ],
@@ -610,10 +610,10 @@
       "source": "https://en.wikipedia.org/wiki/Ashrama_(stage)",
       "tags": [
         "Indian",
-        "Culture",
+        "Religious",
         "Hinduism",
-        "Philosophy",
-        "Religious"
+        "Culture",
+        "Philosophy"
       ],
       "type": "cultural"
     },
@@ -629,9 +629,10 @@
       "source": "https://en.wikipedia.org/wiki/Shramana",
       "tags": [
         "Indian",
+        "Religious",
         "Jainism",
         "Philosophy",
-        "Religious"
+        "Movement"
       ],
       "type": "religious"
     },
@@ -647,10 +648,10 @@
       "source": "https://en.wikipedia.org/wiki/Mahabharata",
       "tags": [
         "Indian",
-        "Legend",
+        "Religious",
         "Culture",
         "Literature",
-        "Religious",
+        "Legend",
         "Text"
       ],
       "type": "cultural"
@@ -667,8 +668,8 @@
       "source": "https://en.wikipedia.org/wiki/Magadha",
       "tags": [
         "Indian",
-        "Foundation",
         "Kingdom",
+        "Foundation",
         "Political"
       ],
       "type": "political"
@@ -685,8 +686,8 @@
       "source": "https://en.wikipedia.org/wiki/Mahajanapadas",
       "tags": [
         "Indian",
-        "Foundation",
         "Kingdom",
+        "Foundation",
         "Political"
       ],
       "type": "political"
@@ -703,8 +704,8 @@
       "source": "https://en.wikipedia.org/wiki/Kosala",
       "tags": [
         "Indian",
-        "Foundation",
         "Kingdom",
+        "Foundation",
         "Political"
       ],
       "type": "political"
@@ -740,10 +741,10 @@
       "source": "https://en.wikipedia.org/wiki/Punch-marked_coins",
       "tags": [
         "Indian",
-        "Currency",
         "Magadha",
         "Silver",
-        "Trade"
+        "Trade",
+        "Currency 🪙"
       ],
       "type": "historic"
     },
@@ -759,9 +760,10 @@
       "source": "https://en.wikipedia.org/wiki/Mahavira",
       "tags": [
         "Indian",
-        "Jainism",
+        "Vaishali",
         "Religious",
-        "Vaishali"
+        "Jainism",
+        "Birth"
       ],
       "type": "religious"
     },
@@ -777,8 +779,8 @@
       "source": "https://en.wikipedia.org/wiki/Mahavira",
       "tags": [
         "Indian",
-        "Jainism",
-        "Religious"
+        "Religious",
+        "Jainism"
       ],
       "type": "religious"
     }

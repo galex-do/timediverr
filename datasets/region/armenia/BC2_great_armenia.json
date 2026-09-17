@@ -413,14 +413,15 @@
       "era": "BC",
       "latitude": 34.78303829,
       "longitude": 48.12157631,
-      "name": "Tigran the Great - King of Kings",
-      "name_ru": "Тигран Великий - Царь Царей",
+      "name": "Tigran the Great — King of Kings",
+      "name_ru": "Тигран Великий — Царь Царей",
       "source": "https://en.wikipedia.org/wiki/Tigranes_the_Great",
       "tags": [
         "Armenian",
         "Parthian",
         "War",
         "Conquest",
+        "King",
         "Artaxiad",
         "Peace",
         "Tigranes the Great 👤"
@@ -452,8 +453,8 @@
       "era": "BC",
       "latitude": 37.9781854,
       "longitude": 41.3837117,
-      "name": "Tigranocerta - new armenian capital",
-      "name_ru": "Тигранакерт - новая столица Армении",
+      "name": "Tigranocerta — new armenian capital",
+      "name_ru": "Тигранакерт — новая столица Армении",
       "source": "https://en.wikipedia.org/wiki/Tigranocerta",
       "tags": [
         "Armenian",
@@ -871,7 +872,7 @@
     {
       "date": "01.05.0114",
       "description": "A Parthian protégé appeared in the Roman camp to bow to Emperor Trajan and lay the crown at his feet, expecting him to place it on his head. Instead of returning the crown, Trajan publicly declared: \"Armenia will not be given over to anyone to govern; it will become a Roman province, and a Roman legate will govern it.\" He declared Armenia a Roman province and installed a governor in Artaxata.",
-      "description_ru": "Ставленник Парфии является в римский лагерь на поклон к императору Траяну и кладет корону в ноги императору, ожидая, что тот возложит её на голову. Вместо того чтобы вернуть корону, Траян при всех объявил: «Армения не будет отдана никому в управление; она станет римской провинцией, и ею будет управлять римский легат». Он объявил Армению римской провинцией и посадил в Арташате губернатора. \n\n",
+      "description_ru": "Ставленник Парфии является в римский лагерь на поклон к императору Траяну и кладет корону в ноги императору, ожидая, что тот возложит её на голову. Вместо того чтобы вернуть корону, Траян при всех объявил: «Армения не будет отдана никому в управление; она станет римской провинцией, и ею будет управлять римский легат». Он объявил Армению римской провинцией и посадил в Арташате губернатора. \n",
       "era": "AD",
       "latitude": 39.87916461,
       "longitude": 44.57530439,
@@ -936,8 +937,8 @@
       "era": "AD",
       "latitude": 40.1614,
       "longitude": 44.2911,
-      "name": "Vagharshapat is the capital of Armenia",
-      "name_ru": "Вагаршапат - столица Армении",
+      "name": "Vagharshapat — the capital of Armenia",
+      "name_ru": "Вагаршапат — столица Армении",
       "source": "https://en.wikipedia.org/wiki/Vagharshapat",
       "tags": [
         "Armenian",
@@ -972,8 +973,8 @@
       "description": "The Roman Emperor Caracalla invited the Armenian King Khosrow I and his sons to a diplomatic meeting in Edessa, during which he treacherously arrested him and attempted to annex Armenia as a Roman province. The capture of the legitimate monarch sparked a powerful uprising in Armenia against Rome. The Roman troops sent to suppress the rebellion (under the command of the freedman Theocritus) were defeated.",
       "description_ru": "Император Рима Каракалла приглашает армянского царя Хосрова I с сыновьями на дипломатическую встречу в Эдессе, в ходе которой вероломно арестовывает его и пытается аннексировать Армению как римскую провинцию. Пленение законного монарха вызвало мощное восстание в Армении против Рима. Римские войска, отправленные на подавление мятежа (под командованием вольноотпущенника Феокрита), потерпели поражение.",
       "era": "AD",
-      "latitude": 37.14549737,
-      "longitude": 38.78402352,
+      "latitude": 36.2034,
+      "longitude": 36.1639,
       "name": "Caracalla captures the King of Armenia",
       "name_ru": "Каракалла пленит царя Армении",
       "source": "https://en.wikipedia.org/wiki/Caracalla%27s_Parthian_war",
@@ -1346,8 +1347,8 @@
         "Council",
         "Culture",
         "Arsacid",
-        "Reform",
-        "Law"
+        "Law",
+        "Reform"
       ],
       "type": "religious"
     },

@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 41 events",
+  "description": "Dataset imported with 39 events",
   "events": [
     {
       "date": "01.01.0321",
@@ -13,11 +13,11 @@
       "source": "https://en.wikipedia.org/wiki/Chandragupta_Maurya",
       "tags": [
         "Indian",
-        "Chandragupta 👑",
+        "Magadha",
         "Empire",
         "Kingdom",
-        "Magadha",
         "Mauryan",
+        "Chandragupta 👑",
         "Overthrow"
       ],
       "type": "political"
@@ -34,10 +34,10 @@
       "source": "https://en.wikipedia.org/wiki/Arthashastra",
       "tags": [
         "Indian",
-        "Administration",
-        "Law",
         "Literature",
-        "Mauryan"
+        "Mauryan",
+        "Law",
+        "Administration"
       ],
       "type": "scientific"
     },
@@ -55,9 +55,9 @@
         "Greek",
         "Indian",
         "War",
+        "Mauryan",
         "Chandragupta 👑",
-        "Expansion",
-        "Mauryan"
+        "Expansion"
       ],
       "type": "military"
     },
@@ -73,9 +73,9 @@
       "source": "https://en.wikipedia.org/wiki/Arthashastra",
       "tags": [
         "Indian",
+        "Mauryan",
         "Chandragupta 👑",
-        "Intelligence",
-        "Mauryan"
+        "Intelligence"
       ],
       "type": "historic"
     },
@@ -91,12 +91,12 @@
       "source": "https://en.wikipedia.org/wiki/Maurya_Empire",
       "tags": [
         "Indian",
-        "Administration",
-        "Chandragupta 👑",
-        "Currency",
-        "Economic",
         "Mauryan",
-        "Standardization"
+        "Currency 🪙",
+        "Economic",
+        "Standardization",
+        "Administration",
+        "Chandragupta 👑"
       ],
       "type": "historic"
     },
@@ -131,9 +131,9 @@
       "tags": [
         "Greek",
         "Indian",
+        "History",
         "Administration",
         "Army",
-        "History",
         "Text"
       ],
       "type": "historic"
@@ -150,10 +150,10 @@
       "source": "https://en.wikipedia.org/wiki/Jain_Agamas",
       "tags": [
         "Indian",
-        "Jainism",
-        "Literature",
         "Religious",
-        "Schism"
+        "Jainism",
+        "Schism",
+        "Literature"
       ],
       "type": "religious"
     },
@@ -169,11 +169,11 @@
       "source": "https://en.wikipedia.org/wiki/Chandragupta_Maurya",
       "tags": [
         "Indian",
-        "Chandragupta 👑",
+        "Religious",
         "Jainism",
         "Mauryan",
         "Political",
-        "Religious"
+        "Chandragupta 👑"
       ],
       "type": "historic"
     },
@@ -189,11 +189,11 @@
       "source": "https://en.wikipedia.org/wiki/Digambara",
       "tags": [
         "Indian",
-        "Chandragupta 👑",
-        "Culture",
-        "Jainism",
         "Religious",
-        "Schism"
+        "Jainism",
+        "Schism",
+        "Culture",
+        "Chandragupta 👑"
       ],
       "type": "religious"
     },
@@ -209,10 +209,10 @@
       "source": "https://en.wikipedia.org/wiki/Bindusara",
       "tags": [
         "Indian",
-        "War",
-        "Expansion",
         "Kingdom",
-        "Mauryan"
+        "War",
+        "Mauryan",
+        "Expansion"
       ],
       "type": "military"
     },
@@ -228,11 +228,11 @@
       "source": "https://en.wikipedia.org/wiki/Devi_(wife_of_Ashoka)",
       "tags": [
         "Indian",
-        "Marriage",
-        "Ashoka the Great 👑",
         "Culture",
+        "Marriage",
         "Mauryan",
-        "Political"
+        "Political",
+        "Ashoka the Great 👑"
       ],
       "type": "historic"
     },
@@ -250,8 +250,8 @@
         "Greek",
         "Indian",
         "Seleucid",
-        "Diplomacy",
-        "Culture"
+        "Culture",
+        "Diplomacy"
       ],
       "type": "historic"
     },
@@ -267,11 +267,11 @@
       "source": "https://en.wikipedia.org/wiki/Ashoka",
       "tags": [
         "Indian",
-        "Civil War",
-        "Ashoka the Great 👑",
-        "Kingdom",
         "Magadha",
-        "Mauryan"
+        "Kingdom",
+        "Civil War",
+        "Mauryan",
+        "Ashoka the Great 👑"
       ],
       "type": "political"
     },
@@ -288,9 +288,9 @@
       "tags": [
         "Indian",
         "War",
+        "Conquest",
         "Battle",
-        "Ashoka the Great 👑",
-        "Conquest"
+        "Ashoka the Great 👑"
       ],
       "type": "military"
     },
@@ -306,12 +306,12 @@
       "source": "https://en.wikipedia.org/wiki/Ashoka",
       "tags": [
         "Indian",
+        "Religious",
+        "Buddhism",
         "Adoption",
-        "Ashoka the Great 👑",
         "Philosophy",
         "Political",
-        "Religious",
-        "Buddhism"
+        "Ashoka the Great 👑"
       ],
       "type": "religious"
     },
@@ -327,10 +327,10 @@
       "source": "https://en.wikipedia.org/wiki/Ashoka",
       "tags": [
         "Indian",
-        "Ashoka the Great 👑",
-        "Pilgrimage",
         "Religious",
-        "Buddhism"
+        "Buddhism",
+        "Pilgrimage",
+        "Ashoka the Great 👑"
       ],
       "type": "religious"
     },
@@ -364,12 +364,12 @@
       "source": "https://en.wikipedia.org/wiki/Edicts_of_Ashoka",
       "tags": [
         "Indian",
-        "Ashoka the Great 👑",
-        "Code",
-        "Law",
-        "Political",
         "Religious",
-        "Writing"
+        "Writing",
+        "Political",
+        "Law",
+        "Ashoka the Great 👑",
+        "Code"
       ],
       "type": "historic"
     },
@@ -385,10 +385,10 @@
       "source": "https://en.wikipedia.org/wiki/Pillars_of_Ashoka",
       "tags": [
         "Indian",
-        "Architecture",
-        "Ashoka the Great 👑",
+        "Religious",
         "Mauryan",
-        "Religious"
+        "Architecture",
+        "Ashoka the Great 👑"
       ],
       "type": "cultural"
     },
@@ -404,11 +404,11 @@
       "source": "https://en.wikipedia.org/wiki/Maurya_Empire",
       "tags": [
         "Indian",
+        "Road",
+        "Trade",
         "Ashoka the Great 👑",
         "Communication",
-        "Infrastructure",
-        "Road",
-        "Trade"
+        "Infrastructure"
       ],
       "type": "cultural"
     },
@@ -425,10 +425,10 @@
       "tags": [
         "Greek",
         "Indian",
+        "Buddhism",
         "Diplomacy",
-        "Ashoka the Great 👑",
         "Mauryan",
-        "Buddhism"
+        "Ashoka the Great 👑"
       ],
       "type": "historic"
     },
@@ -444,9 +444,9 @@
       "source": "https://en.wikipedia.org/wiki/Third_Buddhist_council",
       "tags": [
         "Indian",
-        "Council",
         "Religious",
         "Buddhism",
+        "Council",
         "Theravada"
       ],
       "type": "religious"
@@ -464,10 +464,10 @@
       "tags": [
         "Greek",
         "Indian",
-        "Diplomacy",
-        "Missionary",
         "Religious",
-        "Buddhism"
+        "Buddhism",
+        "Missionary",
+        "Diplomacy"
       ],
       "type": "religious"
     },
@@ -483,9 +483,9 @@
       "source": "https://en.wikipedia.org/wiki/Art_of_Mathura",
       "tags": [
         "Indian",
-        "Culture",
-        "Jainism",
         "Religious",
+        "Jainism",
+        "Culture",
         "Sculpture"
       ],
       "type": "cultural"
@@ -502,10 +502,10 @@
       "source": "https://en.wikipedia.org/wiki/Sanghamitta",
       "tags": [
         "Indian",
-        "Holy Site",
-        "Missionary",
         "Religious",
-        "Buddhism"
+        "Buddhism",
+        "Missionary",
+        "Holy Site"
       ],
       "type": "religious"
     },
@@ -521,10 +521,10 @@
       "source": "https://en.wikipedia.org/wiki/Mahinda_(Buddhist_monk)",
       "tags": [
         "Indian",
-        "Adoption",
-        "Missionary",
         "Religious",
-        "Buddhism"
+        "Buddhism",
+        "Missionary",
+        "Adoption"
       ],
       "type": "religious"
     },
@@ -540,11 +540,11 @@
       "source": "https://en.wikipedia.org/wiki/Edicts_of_Ashoka",
       "tags": [
         "Indian",
-        "Ashoka the Great 👑",
         "Culture",
-        "Ecology",
+        "Mauryan",
         "Law",
-        "Mauryan"
+        "Ashoka the Great 👑",
+        "Ecology"
       ],
       "type": "historic"
     },
@@ -560,10 +560,10 @@
       "source": "https://en.wikipedia.org/wiki/Edicts_of_Ashoka",
       "tags": [
         "Indian",
-        "Ashoka the Great 👑",
-        "Justice",
+        "Mauryan",
         "Law",
-        "Mauryan"
+        "Ashoka the Great 👑",
+        "Justice"
       ],
       "type": "historic"
     },
@@ -579,12 +579,12 @@
       "source": "https://en.wikipedia.org/wiki/Sanchi",
       "tags": [
         "Indian",
-        "Building 🏠",
-        "Architecture",
-        "Ashoka the Great 👑",
-        "Mauryan",
         "Religious",
-        "Buddhism"
+        "Buddhism",
+        "Mauryan",
+        "Architecture",
+        "Building 🏠",
+        "Ashoka the Great 👑"
       ],
       "type": "cultural"
     },
@@ -600,11 +600,11 @@
       "source": "https://en.wikipedia.org/wiki/Ashoka",
       "tags": [
         "Indian",
-        "Ashoka the Great 👑",
         "Crisis",
-        "Decline",
         "Mauryan",
-        "Political"
+        "Political",
+        "Ashoka the Great 👑",
+        "Decline"
       ],
       "type": "historic"
     },
@@ -620,11 +620,11 @@
       "source": "https://en.wikipedia.org/wiki/Ashoka",
       "tags": [
         "Indian",
+        "Mauryan",
         "King",
-        "Ashoka the Great 👑",
         "Death",
-        "Decline",
-        "Mauryan"
+        "Ashoka the Great 👑",
+        "Decline"
       ],
       "type": "historic"
     },
@@ -640,9 +640,10 @@
       "source": "https://en.wikipedia.org/wiki/Satavahana_dynasty",
       "tags": [
         "Indian",
-        "Independence",
         "Kingdom",
+        "Dynasty",
         "Political",
+        "Independence",
         "Satavahana"
       ],
       "type": "political"
@@ -659,9 +660,9 @@
       "source": "https://en.wikipedia.org/wiki/Barabar_Caves",
       "tags": [
         "Indian",
-        "Architecture",
+        "Religious",
         "Mauryan",
-        "Religious"
+        "Architecture"
       ],
       "type": "cultural"
     },
@@ -679,9 +680,9 @@
         "Greek",
         "Indian",
         "Seleucid",
+        "Invasion",
         "Antiochus III 👑",
-        "Elephants",
-        "Invasions"
+        "Elephants"
       ],
       "type": "military"
     },
@@ -700,6 +701,7 @@
         "Indian",
         "War",
         "Culture",
+        "Cultural Continuity",
         "Greco-Bactria"
       ],
       "type": "military"
@@ -716,9 +718,9 @@
       "source": "https://en.wikipedia.org/wiki/Brahma_Sutras",
       "tags": [
         "Indian",
+        "Religious",
         "Literature",
-        "Philosophy",
-        "Religious"
+        "Philosophy"
       ],
       "type": "religious"
     },
@@ -734,10 +736,10 @@
       "source": "https://en.wikipedia.org/wiki/Pushyamitra_Shunga",
       "tags": [
         "Indian",
-        "Culture",
-        "Overthrow",
-        "Political",
         "Religious",
+        "Culture",
+        "Political",
+        "Overthrow",
         "Vedic"
       ],
       "type": "religious"
@@ -755,8 +757,8 @@
       "tags": [
         "Indian",
         "Empire",
-        "Fall",
         "Mauryan",
+        "Fall",
         "Overthrow"
       ],
       "type": "political"

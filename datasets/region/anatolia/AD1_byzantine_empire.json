@@ -78,10 +78,10 @@
       "tags": [
         "Byzantine",
         "Roman",
+        "Law",
         "Reform",
         "Administration",
-        "Code",
-        "Law"
+        "Code"
       ],
       "type": "historic"
     },
@@ -222,10 +222,10 @@
       "tags": [
         "Byzantine",
         "Roman",
+        "Law",
         "Reform",
         "Administration",
         "Code",
-        "Law",
         "Text"
       ],
       "type": "historic"
@@ -246,7 +246,8 @@
         "Civil War",
         "Crisis",
         "Rebellion",
-        "Massacre"
+        "Massacre",
+        "Taxes"
       ],
       "type": "historic"
     },
@@ -294,8 +295,8 @@
     },
     {
       "date": "27.12.0537",
-      "description": "The new Church of the Holy Wisdom (Hagia Sophia) is consecrated in Constantinople — its dome 31 metres in diameter rising 55 metres above the floor on a ring of 40 windows that makes it appear to float on light, built in just five years by teams of 10,000 workers under the mathematicians Anthemius of Tralles and Isidore of Miletus. It is the largest interior space in the world for nearly a thousand years and the theological heart of the Byzantine world. At the dedication Justinian reportedly exclaimed 'Solomon, I have surpassed thee!'.",
-      "description_ru": "Новая Церковь Святой Премудрости освящается в Константинополе — её купол диаметром 31 метр возвышается на 55 метров на кольце из 40 окон, создающих ощущение, что он парит на свету. Она является крупнейшим внутренним пространством в мире почти тысячу лет и теологическим сердцем византийского мира. При посвящении Юстиниан воскликнул: «Соломон, я превзошёл тебя!».",
+      "description": "The new third Church of the Holy Wisdom (Hagia Sophia) is consecrated in Constantinople — its dome 31 metres in diameter rising 55 metres above the floor on a ring of 40 windows that makes it appear to float on light, built in just five years by teams of 10,000 workers under the mathematicians Anthemius of Tralles and Isidore of Miletus. It is the largest interior space in the world for nearly a thousand years and the theological heart of the Byzantine world. At the dedication Justinian reportedly exclaimed 'Solomon, I have surpassed thee!'.",
+      "description_ru": "Новая, третья Церковь Святой Премудрости освящается в Константинополе — её купол диаметром 31 метр возвышается на 55 метров на кольце из 40 окон, создающих ощущение, что он парит на свету. Она является крупнейшим внутренним пространством в мире почти тысячу лет и теологическим сердцем византийского мира. При посвящении Юстиниан воскликнул: «Соломон, я превзошёл тебя!».",
       "era": "AD",
       "latitude": 41.0086,
       "longitude": 28.9802,
@@ -313,7 +314,8 @@
         "Temple",
         "Engineering ⚙️",
         "Medieval",
-        "Wonders"
+        "Wonders",
+        "Restoration"
       ],
       "type": "cultural"
     },
@@ -335,6 +337,27 @@
         "Plague 🦠"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.01.0548",
+      "description": "After Constantinople's wooden basilicas were destroyed in the Nika Revolt, Emperor Justinian completely reimagined the city's architecture and ordered churches built exclusively from stone, brick, and marble. In 548, the Church of Hagia Irene was rebuilt and reconsecrated. It remains in this form to this day.",
+      "description_ru": "Поскольку деревянные базилики Константинополя сгорели в огне восстания Ника, император Юстиниан полностью переосмыслил архитектуру города и велел строить храмы только из камня, кирпича и мрамора. В 548 году церковь Святой Ирины была перестроена и повторно освящена. В этой форме она сохранилась до сегодняшнего дня.",
+      "era": "AD",
+      "latitude": 41.00975078,
+      "longitude": 28.98103774,
+      "name": "Restoration of the Church of Hagia Irene in Constantinople",
+      "name_ru": "Восстановление церкви Святой Ирины в Константинополе",
+      "tags": [
+        "Byzantine",
+        "Roman",
+        "Christian",
+        "Architecture",
+        "Building 🏠",
+        "Temple",
+        "Justinian",
+        "Restoration"
+      ],
+      "type": "religious"
     },
     {
       "date": "01.01.0550",
@@ -865,8 +888,8 @@
       "description": "Byzantine forces capture Antioch — once the third city of the Roman Empire and the city where followers of Jesus were first called 'Christians' — ending three centuries of Arab rule. The reconquest of Syria in the 960s under Nikephoros II Phokas and John I Tzimiskes brings Byzantine armies within sight of Jerusalem and represents the empire's maximum eastern territorial recovery since Heraclius. The emperors choose not to reconquer Jerusalem, preferring to extract tribute from the Fatimid caliph — a decision that frustrates Byzantine subjects and later provides context for the appeal to the Crusades.",
       "description_ru": "Византийские силы захватывают Антиохию — некогда третий город Римской империи, город, где последователей Иисуса впервые назвали «христианами», — завершая три века арабского правления. Отвоевание Сирии в 960-х годах при Никифоре II Фоке и Иоанне I Цимиске приблизило византийские армии к Иерусалиму и стало максимальным территориальным завоеванием империи на востоке со времен Ираклия. Императоры решили не отвоевывать Иерусалим, предпочтя взимать дань с фатимидского халифа — решение, которое вызвало недовольство византийских подданных и впоследствии послужило основанием для обращения к крестовым походам.",
       "era": "AD",
-      "latitude": 36.2,
-      "longitude": 36.16,
+      "latitude": 36.2034,
+      "longitude": 36.1639,
       "name": "Byzantium recaptures Antioch from the Arabs",
       "name_ru": "Византия отвоевывает Антиохию у арабов",
       "source": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Arab_Wars",
@@ -981,14 +1004,15 @@
       "era": "AD",
       "latitude": 38.94,
       "longitude": 42.53,
-      "name": "The defeat of Byzantium in Anatolia",
-      "name_ru": "Поражение Византии в Анатолии",
+      "name": "The defeat of Byzantium in Anatolia near Manzikert",
+      "name_ru": "Поражение Византии в Анатолии при Манцикерте",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Manzikert",
       "tags": [
         "Byzantine",
         "Roman",
         "Turkic",
         "Oguz",
+        "Seljuk Empire",
         "Crisis",
         "War",
         "Battle",
@@ -1037,6 +1061,7 @@
         "Byzantine",
         "Roman",
         "Norman",
+        "Turkic",
         "War",
         "Battle",
         "Robert Guiscard 👤"
@@ -1057,6 +1082,8 @@
         "Byzantine",
         "Greek",
         "Roman",
+        "Komnenos",
+        "Dynasty",
         "Emperor"
       ],
       "type": "political"
@@ -1180,6 +1207,8 @@
         "Byzantine",
         "Roman",
         "Crisis",
+        "Komnenos",
+        "Dynasty",
         "Political",
         "Overthrow",
         "Usurpation"
@@ -1216,38 +1245,19 @@
       "type": "military"
     },
     {
-      "date": "01.01.1205",
-      "description": "Theodore I Laskaris establishes the Empire of Nicaea as the primary Byzantine successor state in Anatolia, creating the government in exile that preserves Byzantine institutions, law, court culture, and Orthodox Christianity through the Latin occupation. Of the three Byzantine successor states (Nicaea, the Despotate of Epirus, and the Empire of Trebizond), Nicaea proves most strategically situated and best governed, reconquering western Anatolia and positioning itself to retake Constantinople when the Latin Empire weakens. The fifty-seven years of the Nicaean empire constitute one of the most remarkable exercises in political resilience in medieval history.",
-      "description_ru": "Феодор I Ласкарь учреждает Никейскую империю как основное византийское государство-преемник в Анатолии, создавая правительство в изгнании, сохраняющее византийские институты, право, придворную культуру и православие. Из трёх государств-преемников Никея оказывается наиболее стратегически выгодно расположенной и лучше управляемой. Пятьдесят семь лет Никейской империи представляют собой одно из наиболее замечательных проявлений политической стойкости в средневековой истории.",
-      "era": "AD",
-      "latitude": 40.43166097,
-      "longitude": 29.70926285,
-      "name": "Empire of Nicaea — Byzantium in Exile, Preserving the Flame",
-      "name_ru": "Никейская империя — преемник Византии",
-      "source": "https://en.wikipedia.org/wiki/Empire_of_Nicaea",
-      "tags": [
-        "Byzantine",
-        "Roman",
-        "Empire",
-        "Foundation",
-        "Political",
-        "Decline"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "25.07.1261",
-      "description": "A Nicaean force under the general Alexios Strategopoulos opportunistically enters Constantinople through an unguarded gate while the Latin garrison is occupied elsewhere, restoring Byzantine control after fifty-seven years of Latin occupation. Emperor Michael VIII Palaiologos enters the city in triumph, walking barefoot to Hagia Sophia as a sign of humility, and is crowned in the great church. The restoration is real but precarious: Constantinople's population has collapsed from perhaps 400,000 to 35,000, its infrastructure is ruined, and the restored empire — truncated to Constantinople, parts of Greece, and coastal Anatolia — faces Ottoman beyliks in the east and a hostile Latin west simultaneously.",
-      "description_ru": "Никейские силы под командованием Алексея Стратигопула проникают в Константинополь через незащищённые ворота, восстанавливая контроль над городом после пятидесяти семи лет латинской оккупации. Михаил VIII Палеолог входит в город с триумфом, идя босиком к Святой Софии в знак смирения. Восстановление реально, но шатко: население Константинополя сократилось кратно; империя — усечённая до Константинополя, части Греции и прибрежной Анатолии — окружена угрозами.",
+      "date": "15.08.1261",
+      "description": "When messengers informed Michael that Alexius Stratigopoulos and his reconnaissance detachment had occupied Constantinople, the Emperor of Nicaea initially disbelieved. When evidence was presented, he immediately set out for the capital. On August 15, the feast of the Dormition of the Virgin Mary, he triumphantly entered Constantinople through the Golden Gate.\n\nThe returning Greeks found the once-great metropolis in ruins. Over the 57 years of Latin rule, many neighborhoods had burned, palaces had fallen into disrepair, and valuables and relics had been plundered or sold off by the Crusaders. Although Stratigopoulos had returned their holy city to the Greeks, the reborn Byzantium turned out to be a \"political ghost\" of its glorious past — with weak borders, a depleted treasury, and powerful enemies in both the West and the East.",
+      "description_ru": "Когда вестники сообщили Михаилу, что Алексей Стратигопул с разведотрядом занял Константинополь, император Никеи сперва не поверил. Когда были представлены доказательства, он незамедлительно направился к столице. 15 августа, в день Успения Святой Богородицы, он торжественно вошел в Константинополь через Золотые ворота.\n\nВернувшиеся греки застали некогда величайший мегаполис в руинах. За 57 лет латинского владычества многие кварталы сгорели, дворцы обветшали, а ценности и реликвии были разграблены или распроданы крестоносцами. Хотя Стратигопул вернул грекам их священный город, возродившаяся Византия оказалась «политическим призраком» своего великого прошлого — со слабыми границами, истощенной казной и сильными врагами как на Западе, так и на Востоке.",
       "era": "AD",
       "latitude": 41.0082,
       "longitude": 28.9784,
-      "name": "Michael VIII Palaiologos Recaptures Constantinople",
-      "name_ru": "Михаил VIII Палеолог возвращает Константинополь",
+      "name": "Michael VIII Palaiologos enters Constantinople",
+      "name_ru": "Император Никеи прибывает в Константинополь",
       "source": "https://en.wikipedia.org/wiki/Michael_VIII_Palaiologos",
       "tags": [
         "Byzantine",
         "Greek",
+        "Nicaea",
         "Emperor",
         "Political",
         "Rise"
@@ -1269,10 +1279,10 @@
         "Roman",
         "Turkic",
         "Oguz",
+        "Ottoman",
         "War",
         "Battle",
-        "Decline",
-        "Ottoman"
+        "Decline"
       ],
       "type": "military"
     },
@@ -1291,10 +1301,10 @@
         "Roman",
         "Turkic",
         "Oguz",
+        "Ottoman",
         "War",
         "Decline",
-        "Expansion",
-        "Ottoman"
+        "Expansion"
       ],
       "type": "historic"
     },
@@ -1314,12 +1324,12 @@
         "Slavic",
         "Turkic",
         "Oguz",
+        "Ottoman",
+        "Serbian",
         "War",
         "Battle",
         "Decline",
-        "Expansion",
-        "Serbian",
-        "Ottoman"
+        "Expansion"
       ],
       "type": "military"
     },
@@ -1338,6 +1348,7 @@
         "Roman",
         "Turkic",
         "Oguz",
+        "Ottoman",
         "France",
         "Genoa",
         "Holy Roman Empire",
@@ -1346,15 +1357,14 @@
         "Crusade",
         "War",
         "Battle",
-        "Croatia",
-        "Ottoman"
+        "Croatia"
       ],
       "type": "military"
     },
     {
       "date": "28.07.1402",
-      "description": "The Mongol-Timurid conqueror Timur (Tamerlane) defeats and captures Sultan Bayezid I at the Battle of Ankara — displaying the sultan in a golden cage, according to tradition — shattering the Ottoman state into competing successor principalities for a decade. The battle gives Byzantium perhaps fifty years of unexpected reprieve: Bayezid's siege of Constantinople is lifted, and the Ottoman succession crisis allows Byzantine diplomacy to survive by playing rival claimants against each other. Emperor Manuel II uses this gift of time to consolidate what remains of the empire, but cannot reconstitute the Byzantine military capacity destroyed across the preceding centuries.",
-      "description_ru": "Завоеватель Тимур (Тамерлан) разбивает и захватывает султана Баязида I при Анкаре — по преданию, выставляя султана в золотой клетке, — сокрушая Osmanское государство на десятилетие. \n\nБитва даёт Византии 50 лет неожиданной передышки: осада Константинополя снята, османский кризис преемства позволяет Византии выжить. Мануил II использует это время для консолидации оставшейся империи, но восстановить военный потенциал не может.",
+      "description": "The Mongol-Timurid conqueror Timur (Tamerlane) defeats and captures Sultan Bayezid I at the Battle of Ankara — displaying the sultan in a golden cage, according to tradition — shattering the Ottoman state into competing successor principalities for a decade. \n\nThe battle gives Byzantium perhaps fifty years of unexpected reprieve: Bayezid's siege of Constantinople is lifted, and the Ottoman succession crisis allows Byzantine diplomacy to survive by playing rival claimants against each other. Emperor Manuel II uses this gift of time to consolidate what remains of the empire, but cannot reconstitute the Byzantine military capacity destroyed across the preceding centuries.",
+      "description_ru": "Завоеватель Тимур (Тамерлан) разбивает и захватывает султана Баязида I при Анкаре — по преданию, выставляя султана в золотой клетке, — сокрушая Османское государство на десятилетие. \n\nБитва даёт Византии 50 лет неожиданной передышки: осада Константинополя снята, османский кризис преемства позволяет Византии выжить. Мануил II использует это время для консолидации оставшейся империи, но восстановить военный потенциал не может.",
       "era": "AD",
       "latitude": 39.92,
       "longitude": 32.86,
@@ -1366,10 +1376,10 @@
         "Turkic",
         "Mongolian",
         "Oguz",
+        "Ottoman",
         "War",
         "Battle",
-        "Tamerlane 👤",
-        "Ottoman"
+        "Tamerlane 👑"
       ],
       "type": "military"
     }

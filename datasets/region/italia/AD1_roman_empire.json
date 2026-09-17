@@ -14,9 +14,9 @@
       "tags": [
         "Roman",
         "Political",
+        "Law",
         "Reform",
         "Administration",
-        "Law",
         "Octavian 👑"
       ],
       "type": "political"
@@ -152,6 +152,8 @@
       "source": "https://en.wikipedia.org/wiki/Augustus",
       "tags": [
         "Roman",
+        "Claudii",
+        "Dynasty",
         "Emperor",
         "Political",
         "Death",
@@ -172,15 +174,19 @@
       "tags": [
         "Roman",
         "Crisis",
+        "Claudii",
+        "Julii",
+        "Dynasty",
         "Emperor",
-        "Political"
+        "Political",
+        "Madness"
       ],
       "type": "political"
     },
     {
       "date": "24.01.0041",
-      "description": "Conspirators led by the praetorian tribune Cassius Chaerea ambushed the emperor in the cryptoporticus—a narrow underground passage (gallery) connecting the imperial palace (Domus Tiberiana) with the Palatine Games. The Palatine Games were underway on the hill at the time, and Caligula was returning from a theatrical performance for lunch.\n\nThe conspirators surrounded him in the passageway and stabbed him repeatedly. His wife, Milonia Caesonia, and their young daughter, Julia Drusilla, were also killed.",
-      "description_ru": "Заговорщики во главе с преторианским трибуном Кассием Хереей подстерегли императора в криптопортике — узком подземном переходе (галерее), который соединял императорский дворец (Domus Tiberiana) с местом проведения Палатинских игр. В это время на холме проходили Палатинские игры, и Калигула возвращался с театрального представления на обед.\n\nЗаговорщики окружили его в проходе и нанесли множество ножевых ранений. Вслед за ним были убиты его жена Милония Цезония и их маленькая дочь Юлия Друзилла",
+      "description": "Conspirators led by the praetorian tribune Cassius Chaerea ambushed the emperor in the cryptoporticus—a narrow underground passage (gallery) connecting the imperial palace (Domus Tiberiana) with the Palatine Games. The Palatine Games were underway on the hill at the time, and Caligula was returning from a theatrical performance for lunch.\n\nThe conspirators surrounded him in the passageway and stabbed him repeatedly. His wife, Milonia Caesonia, and their young daughter, Julia Drusilla, were also killed.\n\nThe Senate attempted to erase the memory of Caligula: statues were toppled or re-carved with other faces, his name was erased from public inscriptions, coins bearing his image were confiscated or defaced — a measure later historians called damnatio memoriae, “the condemnation of memory.”",
+      "description_ru": "Заговорщики во главе с преторианским трибуном Кассием Хереей подстерегли императора в криптопортике — узком подземном переходе (галерее), который соединял императорский дворец (Domus Tiberiana) с местом проведения Палатинских игр. В это время на холме проходили Палатинские игры, и Калигула возвращался с театрального представления на обед.\n\nЗаговорщики окружили его в проходе и нанесли множество ножевых ранений. Вслед за ним были убиты его жена Милония Цезония и их маленькая дочь Юлия Друзилла.\n\nСенат постарался стереть память о Калигуле: статуи сбрасывали или перевысекали с другими лицами, имя стирали с общественных надписей, монеты с его изображением изымали или портили — эту меру позднейшие историки назвали damnatio memoriae, «осуждение памяти». \n",
       "era": "AD",
       "latitude": 41.89001442,
       "longitude": 12.48714745,
@@ -209,6 +215,8 @@
       "source": "https://en.wikipedia.org/wiki/Claudius",
       "tags": [
         "Roman",
+        "Claudii",
+        "Dynasty",
         "Emperor"
       ],
       "type": "political"
@@ -322,6 +330,8 @@
       "source": "https://en.wikipedia.org/wiki/Nero",
       "tags": [
         "Roman",
+        "Domitii",
+        "Dynasty",
         "Emperor",
         "Nero 👑"
       ],
@@ -501,9 +511,29 @@
         "Empire",
         "Civil War",
         "Crisis",
+        "Emperor",
         "Political"
       ],
       "type": "historic"
+    },
+    {
+      "date": "21.12.0069",
+      "description": "Vespasian ended the devastating Year of the Four Emperors, becoming the last of them. Titus Flavius ​​Vespasian was an experienced general of humble origin. He managed to stop the civil war, impose strict order on the state, and establish a new Flavian dynasty.\n\nAfter Nero, Rome's treasury was completely empty. Vespasian introduced numerous new taxes, including a tax on public toilets. With an iron grip, he harshly fought corruption, cut court expenses, recalculated all taxes, and within 10 years of his reign, completely eliminated the enormous national debt, making Rome rich and prosperous.",
+      "description_ru": "Веспасиан положил конец разрушительному Году четырёх императоров, став последним из них. Тит Флавий Веспасиан был опытным генералом незнатного происхождения. Он сумел остановить гражданскую войну, навести в государстве жесткий порядок и основать новую династию Флавиев.\n\nПосле Нерона казна Рима была абсолютно пуста. Веспасиан ввел множество новых налогов, включая налог на общественные туалеты. Обладая железной хваткой, он жестко боролся с коррупцией, урезал придворные расходы, пересчитал все налоги и за 10 лет правления полностью ликвидировал гигантский госдолг, сделав Рим богатым и процветающим.",
+      "era": "AD",
+      "latitude": 41.88879242,
+      "longitude": 12.48667538,
+      "name": "Vespasian — Emperor of Rome",
+      "name_ru": "Веспасиан — император Рима",
+      "tags": [
+        "Roman",
+        "Flavian",
+        "Dynasty",
+        "Emperor",
+        "Administration",
+        "Taxes"
+      ],
+      "type": "political"
     },
     {
       "date": "08.09.0070",
@@ -586,8 +616,8 @@
     },
     {
       "date": "18.09.0096",
-      "description": "The elderly senator Marcus Cocceius Nerva is chosen by the Senate as emperor after the assassination of the tyrannical Domitian — the first time in 27 years the Senate rather than the Praetorian Guard plays the decisive role in succession. Nerva immediately institutes the practice of adopting the most capable available man as heir (rather than biological succession), choosing the general Trajan as his adopted son and successor. This principle of adoptive succession — used by Trajan, Hadrian, Antoninus Pius, and Marcus Aurelius — produces the 'Five Good Emperors' and the most prosperous and stable century in Roman history (96–180 AD).",
-      "description_ru": "Пожилой сенатор Марк Кокцей Нерва избирается Сенатом императором после убийства тиранического Домициана — впервые за 27 лет Сенат, а не преторианская гвардия, играет решающую роль в престолонаследии. Нерва немедленно вводит практику усыновления наиболее способного доступного человека в качестве наследника, избирая полководца Траяна. Этот принцип усыновления — использованный Траяном, Адрианом, Антонином Пием и Марком Аврелием — порождает «пятерых хороших императоров» и наиболее процветающее столетие в истории Рима (96–180 гг. н. э.).",
+      "description": "The elderly senator Marcus Cocceius Nerva is chosen by the Senate as emperor after the assassination of the tyrannical Domitian — the first time in 27 years the Senate rather than the Praetorian Guard plays the decisive role in succession. \n\nNerva immediately institutes the practice of adopting the most capable available man as heir (rather than biological succession), choosing the general Trajan as his adopted son and successor. This principle of adoptive succession — used by Trajan, Hadrian, Antoninus Pius, and Marcus Aurelius — produces the 'Five Good Emperors' and the most prosperous and stable century in Roman history (96–180 AD).",
+      "description_ru": "Пожилой сенатор Марк Кокцей Нерва избирается Сенатом императором после убийства тирана Домициана — впервые за 27 лет Сенат, а не преторианская гвардия, играет решающую роль в престолонаследии. \n\nНерва немедленно вводит практику усыновления наиболее способного доступного человека в качестве наследника, избирая полководца Траяна, популярного в армии. Этот принцип усыновления — использованный Траяном, Адрианом, Антонином Пием и Марком Аврелием — порождает «пятерых хороших императоров» и наиболее процветающее столетие в истории Рима (96–180 гг. н. э.).",
       "era": "AD",
       "latitude": 41.88879242,
       "longitude": 12.48667538,
@@ -606,18 +636,19 @@
     },
     {
       "date": "28.01.0098",
-      "description": "Marcus Ulpius Traianus succeeds Nerva — the first emperor born in a Roman province (Hispania Baetica, modern Spain) rather than in Italy. The Senate bestows on him the unprecedented title of Optimus Princeps ('Best Emperor') — the only time in Roman history this title is conferred. Under Trajan, the empire reaches its greatest territorial extent, with the conquests of Dacia, the annexation of the Nabataean kingdom as Arabia Petraea, and the Parthian campaign that briefly extends Roman rule to the Persian Gulf. He is also a major builder: the Forum of Trajan and its column, the Via Traiana, the expanded harbour at Ostia.",
-      "description_ru": "Марк Ульпий Траян наследует Нерве — первый император, рождённый в римской провинции (Испания Бэтика, совр. Испания), а не в Италии. Сенат удостаивает его беспрецедентного титула Optimus Princeps («Лучший Принцепс») — единственный раз в истории Рима. При Траяне империя достигает наибольшей территориальной протяжённости: завоевание Дакии, аннексия Набатейского царства как Аравии Петрейской, парфянский поход. Он также крупный строитель: Форум Траяна, Виа Траяна, расширение порта в Остии.",
+      "description": "Marcus Ulpius Traianus succeeds Nerva — the first emperor born in a Roman province (Hispania Baetica, modern-day Spain) rather than Italy. Trajan came to power peacefully through official adoption and the appointment of the current emperor, Nerva, as co-emperor, as Rome's military leader.\n\nWhen Nerva died and Trajan assumed the title of Augustus, he did not immediately travel to Rome, but spent about a year and a half on the German and Danubian borders, inspecting troops and fortifying the frontiers, demonstrating confidence in the legitimacy of his authority.",
+      "description_ru": "Марк Ульпий Траян наследует Нерве — первый император, рождённый в римской провинции (Испания Бэтика, совр. Испания), а не в Италии. Траян пришел к власти мирным путем через официальное усыновление и назначение соправителем действующего императора Нервы как военный лидер Рима.\n\nКогда Нерва умер и Траян принял титул августа, он не поехал сразу в Рим, а провел еще около полутора лет на германской и дунайской границах, инспектируя войска и укрепляя рубежи, демонстрируя уверенность в легитимности своей власти.",
       "era": "AD",
       "latitude": 41.88879242,
       "longitude": 12.48667538,
-      "name": "Trajan Becomes Emperor, Rome's Greatest Military Ruler",
-      "name_ru": "Траян — величайший военный правитель Рима",
+      "name": "Trajan — Emperor-Soldier of Rome",
+      "name_ru": "Траян — император-солдат Рима",
       "source": "https://en.wikipedia.org/wiki/Trajan",
       "tags": [
         "Roman",
         "Emperor",
         "Golden Age",
+        "Succession",
         "Trajan 👑"
       ],
       "type": "political"
@@ -662,13 +693,13 @@
     },
     {
       "date": "11.08.0117",
-      "description": "Hadrian, originally from Italica in Spain, ascends the throne on Trajan's death, immediately abandoning Trajan's newly conquered Mesopotamian and Armenian territories as strategically unsustainable — a controversial but arguably correct assessment of Roman overstretch. He is the most widely-travelled emperor in Roman history, spending more than half his 21-year reign outside Italy inspecting provinces, reviewing troops, and overseeing construction projects. His strategic doctrine — consolidating existing frontiers rather than expanding — represents a fundamental shift in Roman imperial thinking, codified in the great frontier fortifications he builds across the empire: the most famous of which is Hadrian's Wall in Britain.",
-      "description_ru": "Адриан, родом из Италики в Испании, восходит на трон после смерти Траяна, немедленно отказываясь от новозавоёванных месопотамских и армянских территорий как стратегически неустойчивых. Он — наиболее широко путешествовавший из всех римских императоров: более половины своего 21-летнего правления он проводит вне Италии, инспектируя провинции и строительные проекты. \n\nЕго стратегическая доктрина — укрепление существующих границ вместо расширения — воплощается в великих пограничных фортификациях по всей империи, наиболее известное из которых — Вал Адриана в Британии.",
+      "description": "Hadrian, originally from Italica in Spain, ascended the throne after the death of Trajan, his uncle-in-law, immediately abandoning the newly conquered Mesopotamian and Armenian territories as strategically unstable. He was the most widely traveled of all Roman emperors: he spent more than half of his 21-year reign outside Italy, inspecting provinces and construction projects.\n\nHis strategic doctrine — strengthening existing borders rather than expanding them — was embodied in great border fortifications throughout the empire, the most famous of which was Hadrian's Wall in Britain.",
+      "description_ru": "Адриан, родом из Италики в Испании, восходит на трон после смерти Траяна, своего дворюродного дяди, немедленно отказываясь от новозавоёванных месопотамских и армянских территорий как стратегически неустойчивых. Он — наиболее широко путешествовавший из всех римских императоров: более половины своего 21-летнего правления он проводит вне Италии, инспектируя провинции и строительные проекты. \n\nЕго стратегическая доктрина — укрепление существующих границ вместо расширения — воплощается в великих пограничных фортификациях по всей империи, наиболее известное из которых — Вал Адриана в Британии.",
       "era": "AD",
-      "latitude": 41.94517569,
-      "longitude": 12.77403116,
-      "name": "Hadrian — Emperor of Rome",
-      "name_ru": "Адриан — император Рима",
+      "latitude": 41.89296549,
+      "longitude": 12.48539865,
+      "name": "Hadrian — Emperor-Builder of Rome",
+      "name_ru": "Адриан — император-строитель Рима",
       "source": "https://en.wikipedia.org/wiki/Hadrian",
       "tags": [
         "Roman",
@@ -721,23 +752,44 @@
     },
     {
       "date": "01.01.0132",
-      "description": "The Bar Kokhba revolt (132–135 AD) — the third and most devastating of the Jewish-Roman wars — is led by Simon bar Kokhba, hailed by Rabbi Akiva as the messiah. The rebels briefly re-establish a Jewish state and mint their own coins; the Romans deploy up to eight full legions to suppress it. When the revolt is finally crushed at the siege of Beitar in 135 AD, Cassius Dio reports 580,000 Jews killed in battle and hundreds of thousands more dead from famine and disease. The province is comprehensively depopulated and renamed; the Jewish Diaspora as a defining condition of Jewish life begins in earnest.",
-      "description_ru": "Восстание Бар-Кохбы (132–135 гг. н. э.) — третья и наиболее разрушительная из иудео-римских войн — возглавляется Симоном Бар-Кохбой, провозглашённым рабби Акивой мессией. Повстанцы на краткое время восстанавливают иудейское государство. Для его подавления римляне разворачивают до восьми полных легионов. Когда восстание окончательно подавлено при осаде Бетара в 135 г., Кассий Дион сообщает о 580 000 иудеев, погибших в боях, и сотнях тысяч умерших от голода и болезней.",
+      "description": "The Bar Kokhba revolt went down in history as the Third Jewish War and ended in a major national catastrophe, ultimately leading to the expulsion of the Jewish people from their homeland. The \"last straw\" for a new war was Hadrian's actions, which saw him rebuild Jerusalem as a Roman city and erect a temple to Jupiter on the site of a Jewish shrine.\n\nThe revolt was led by Shimon bar Kosva. One of the greatest spiritual leaders of Judaism at the time, Rabbi Akiva, proclaimed Shimon the long-awaited Messiah (Mashiach). He was given a new name — Bar Kokhba, which means \"Son of the Star.\" The rebels were initially successful, defeating the Roman legions and establishing their own government.\n\nA frightened Hadrian was forced to transfer his best legions to the area and, over the course of three years, slowly suppress the rebellion using scorched-earth tactics.",
+      "description_ru": "Восстание Бар-Кохбы вошло в историю как Третья Иудейская война и закончилось величайшей национальной катастрофой, которая в итоге привела к изгнанию еврейского народа из родных земель. «Последней каплей» для новой войны послужили действия Адриана, решившего перестроить Иерусалим в римский город и возвести храм Юпитера на месте иудейской святыни.\n\nВосстание возглавил Шимон бар Косва. Один из величайших духовных лидеров иудаизма того времени, рабби Акива, провозгласил Шимона долгожданным Мессией (Машиахом). Ему дали новое имя — Бар-Кохба, что в переводе означает «Сын звезды». На первом этапе повстанцы преуспели, разбили римские легионы и организовали собственное правительство.\n\nНапуганный Адриан был вынужден перебросить сюда свои лучшие легионы и в течение трех лет медленно, используя тактику выжженой земли, подавлять восстание. ",
       "era": "AD",
-      "latitude": 31.7017361,
-      "longitude": 35.11161804,
-      "name": "Bar Kokhba Revolt, Jews Expelled from Judea",
-      "name_ru": "Восстание Бар-Кохбы — евреи изгнаны из Иудеи",
+      "latitude": 31.778,
+      "longitude": 35.235,
+      "name": "Bar Kokhba Revolt",
+      "name_ru": "Восстание Бар-Кохбы",
       "source": "https://en.wikipedia.org/wiki/Bar_Kokhba_revolt",
       "tags": [
         "Roman",
         "Judaic",
+        "Religious",
         "War",
         "Rebellion",
-        "Hadrian 👑",
-        "Siege"
+        "Hadrian 👑"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.01.0135",
+      "description": "Against the rebellious Judea, Hadrian mobilized about a third of the empire's armed forces—between 10 and 12 legions, along with auxiliary troops. Ultimately, the Jewish revolt was suppressed. Hundreds of thousands of Jews perished; the Romans also suffered enormous losses. The Jews abandoned Jerusalem; its neighborhoods were razed, and the Aelia Capitolina was erected. A grand temple to Jupiter Capitolinus was erected on the Temple Mount, the Jewish sanctuary, and an equestrian statue of Hadrian himself was erected nearby. A temple to Aphrodite was built on the site where the Church of the Holy Sepulchre now stands.\n\nThe city was resettled with Roman veterans, Syrians, and Greeks. Jews were forbidden, under penalty of death, from even approaching the city within sight of it. An exception was made only once a year (on the day of mourning on the 9th of Av), when, in exchange for bribes to the Roman soldiers, they were allowed to come and mourn the destruction of the Temple.",
+      "description_ru": "Против восставшей Иудеи Адриан мобилизовал около трети всех вооруженных сил империи — от 10 до 12 легионов вместе со вспомогательными войсками. В конце концов иудейский мятеж был подавлен. Сотни тысяч евреев погибли; римляне тоже понесли огромные потери. Евреи покинули Иерусалим; его кварталы были снесены, и возведена Элия Капитолина. На Храмовой горе, святыне иудеев, воздвигли грандиозный храм Юпитера Капитолийского, а рядом установили конную статую самого Адриана. На месте, где сегодня стоит Храм Гроба Господня, построили храм Афродиты. \n\nГород заселили римскими ветеранами, сирийцами и греками. Евреям под страхом смертной казни запретили даже приближаться к городу ближе, чем на расстояние, с которого его можно было увидеть. Исключение делалось лишь один раз в году (в день скорби 9 Ава), когда за взятки римским солдатам им разрешали прийти и оплакать разрушение Храма.",
+      "era": "AD",
+      "latitude": 31.778,
+      "longitude": 35.235,
+      "name": "Jews expelled from Judea",
+      "name_ru": "Изгнание евреев из Иудеи",
+      "tags": [
+        "Roman",
+        "Jerusalem",
+        "Judaic",
+        "Religious",
+        "Rebellion",
+        "Destruction",
+        "Exile",
+        "Fall"
+      ],
+      "type": "military"
     },
     {
       "date": "10.07.0138",
@@ -746,8 +798,8 @@
       "era": "AD",
       "latitude": 41.88879242,
       "longitude": 12.48667538,
-      "name": "Antoninus Pius, emperor of Rome",
-      "name_ru": "Антонин Пий — император Рима",
+      "name": "Antoninus Pius — Emperor-Peacemaker of Rome",
+      "name_ru": "Антонин Пий — император-миротворец Рима",
       "source": "https://en.wikipedia.org/wiki/Antoninus_Pius",
       "tags": [
         "Roman",
@@ -793,28 +845,9 @@
       "type": "political"
     },
     {
-      "date": "01.04.0193",
-      "description": "Commodus's murder by palace conspirators on December 31, 192 AD unleashes the Year of the Five Emperors (193 AD): Pertinax (murdered by the Praetorians after 87 days), Didius Julianus (who literally auctions the throne to the highest bidder), and three provincial claimants — Septimius Severus, Pescennius Niger, and Clodius Albinus — plunge the empire into civil war. Septimius Severus, commanding the Danubian legions, wins: he is the first emperor of African birth (from Leptis Magna in modern Libya), the first to make the military overtly the basis of power rather than a politely maintained fiction, and the last emperor to lead Rome to significant territorial expansion.",
-      "description_ru": "Убийство Коммода заговорщиками 31 декабря 192 г. н. э. развязывает Год пяти императоров (193 г.): Пертинакс (убитый преторианцами через 87 дней), Дидий Юлиан (буквально выставивший трон на аукцион) и три провинциальных претендента — Септимий Север, Песценний Нигер и Клодий Альбин — погружают империю в гражданскую войну. Побеждает Септимий Север — первый африканского происхождения (из Лептис Магна в совр. Ливии) и первый открыто сделавший армию основой власти.",
-      "era": "AD",
-      "latitude": 41.88879242,
-      "longitude": 12.48667538,
-      "name": "Year of the Five Emperors in Rome",
-      "name_ru": "Год пяти императоров в Риме",
-      "source": "https://en.wikipedia.org/wiki/Year_of_the_Five_Emperors",
-      "tags": [
-        "Roman",
-        "Civil War",
-        "Crisis",
-        "Political",
-        "Septimius Severus 👑"
-      ],
-      "type": "political"
-    },
-    {
       "date": "26.12.0211",
-      "description": "Septimius Severus died in 211 AD having bequeathed the empire jointly to his two sons Caracalla and Geta — a double-headed rule that immediately collapses into murderous rivalry. Caracalla has Geta killed in December 211 AD while Geta shelters in the arms of their mother Julia Domna; he then orders the execution of approximately 20,000 of Geta's alleged supporters including the distinguished jurist Papinian. The fratricide sets the tone for Caracalla's reign of paranoia and violence; the one genuinely consequential act of his reign is the Edict of Caracalla the following year, which may have been issued partly to raise tax revenues by expanding the citizenship base.",
-      "description_ru": "Септимий Север умер в 211 г. н. э., завещав империю совместно двум сыновьям — Каракалле и Гете, — двуглавое правление, немедленно переходящее в смертоносное соперничество. Каракалла убивает Гету в декабре 211 г., когда тот ищет убежища на руках матери Юлии Домны; затем он приказывает казнить около 20 000 предполагаемых сторонников Геты, в том числе выдающегося юриста Папиниана. Братоубийство задаёт тон правлению Каракаллы — эпохе паранойи и насилия.",
+      "description": "Septimius Severus died in 211 AD having bequeathed the empire jointly to his two sons Caracalla and Geta — a double-headed rule that immediately collapses into murderous rivalry. Caracalla has Geta killed in December 211 AD while Geta shelters in the arms of their mother Julia Domna; he then orders the execution of approximately 20,000 of Geta's alleged supporters including the distinguished jurist Papinian. The fratricide sets the tone for Caracalla's reign of paranoia and violence.\n\nCaracalla was born Lucius Septimius Bassianus and, at the age of seven, was renamed Marcus Aurelius Antoninus to associate his family with the beloved Antonine dynasty. However, the nickname \"Caracalla\" stuck—derived from the long, hooded Gallic cloak he wore constantly, which he made fashionable in the army and the capital. Ancient historians rarely used his formal name even during his lifetime, and modern history has followed suit: emperors adopted the name \"Antoninus\" to emulate the prestige of Marcus Aurelius and Antoninus Pius, but the only Antoninus truly remembered by history is known by the name of his cloak.",
+      "description_ru": "Септимий Север умер, завещав империю совместно двум сыновьям — Каракалле и Гете, — двуглавое правление, немедленно переходящее в смертоносное соперничество. Каракалла убивает Гету в декабре, когда тот ищет убежища на руках матери Юлии Домны; затем он приказывает казнить около 20 000 предполагаемых сторонников Геты, в том числе выдающегося юриста Папиниана. Братоубийство задаёт тон правлению Каракаллы — эпохе паранойи и насилия.\n\nКаракалла родился под именем Луций Септимий Бассиан, в семь лет был переименован в Марка Аврелия Антонина, чтобы связать свою семью с любимой народом династией Антонинов. Однако закрепилось за ним прозвище «Каракалла» — от названия длинного галльского плаща с капюшоном, который он носил постоянно и сделал модным в армии и столице. Античные историки почти не использовали его официальное имя даже при его жизни, и современная история полностью последовала их примеру: императоры брали имя «Антонин», чтобы позаимствовать престиж Марка Аврелия и Антонина Пия, но тот единственный Антонин, которого история действительно помнит, известен по имени его плаща.",
       "era": "AD",
       "latitude": 41.88879242,
       "longitude": 12.48667538,
@@ -825,15 +858,18 @@
         "Roman",
         "Crisis",
         "Emperor",
+        "Brotherhood",
         "Caracalla 👑",
-        "Murder"
+        "Massacre",
+        "Murder",
+        "Succession"
       ],
       "type": "political"
     },
     {
       "date": "01.01.0212",
-      "description": "The Constitutio Antoniniana (212 AD) extends Roman citizenship to virtually all free inhabitants of the empire — perhaps 30–35 million people — eliminating the centuries-old distinction between Roman citizens and provincial subjects. It is the single most sweeping act of legal enfranchisement in antiquity, at a stroke making Roman law the applicable framework for every free person from Scotland to Mesopotamia. Its immediate motivation was likely financial (citizens paid the inheritance tax while non-citizens did not), but its long-term consequence is the homogenisation of Roman legal culture and the erosion of the distinction between 'Roman' and 'provincial' that ultimately dissolves the Roman-barbarian boundary.",
-      "description_ru": "Constitutio Antoniniana (212 г. н. э.) распространяет римское гражданство практически на всех свободных жителей империи — предположительно 30–35 миллионов человек — устраняя вековое различие между гражданами Рима и провинциальными подданными. Это единственный наиболее масштабный акт правового наделения гражданством в античности, единым росчерком делающий римское право применимой системой для каждого свободного человека от Шотландии до Месопотамии. Его долгосрочным следствием является гомогенизация римской правовой культуры.",
+      "description": "The Constitutio Antoniniana extended Roman citizenship to virtually all free inhabitants of the empire—an estimated 30–35 million people—eliminating the centuries-old distinction between Roman citizens and provincial subjects. This move made Roman law applicable to every free person from Scotland to Mesopotamia. Its long-term effect was the homogenization of Roman legal culture.\n\nThe reasons cited for this were Caracalla's desperate need for funds to pay increased salaries for the Praetorians and the army—the only force that kept him on the throne after the fratricide. He imposed citizen taxes on the entire population of the empire; furthermore, he could now recruit legions from the population of any province of the empire.",
+      "description_ru": "Constitutio Antoniniana распространяет римское гражданство практически на всех свободных жителей империи — предположительно 30–35 миллионов человек — устраняя вековое различие между гражданами Рима и провинциальными подданными. Этот шаг сделал римское право применимой системой для каждого свободного человека от Шотландии до Месопотамии. Его долгосрочным следствием является гомогенизация римской правовой культуры.\n\nВ качестве причин называют то, что Каракалле отчаянно требовались деньги, чтобы платить повышенное жалование преторианцам и армии — единственной силе, удерживавшей его на троне после братоубийства. Он обложил все население империи налогами граждан; кроме того, теперь он мог комплектовать легионы населением любых провинций империи.",
       "era": "AD",
       "latitude": 41.89296549,
       "longitude": 12.48539865,
@@ -843,9 +879,11 @@
       "tags": [
         "Roman",
         "Empire",
+        "Law",
         "Reform",
         "Administration",
-        "Law"
+        "Caracalla 👑",
+        "Taxes"
       ],
       "type": "historic"
     },
@@ -936,8 +974,8 @@
       "description": "Shapur I of the Sassanid Empire launches his second great invasion of Roman territory, capturing and sacking Antioch on the Orontes — the third-largest city in the empire and capital of Roman Syria. Roman forces are shattered at the Battle of Barbalissos (253 AD) and the subsequent sack of Antioch; Shapur's own inscription at Naqsh-e Rostam boasts the capture of 37 cities and the seizure of vast populations enslaved and deported to Persia. The invasion reveals the catastrophic vulnerability of Rome's eastern frontier and sets the stage for the even more catastrophic confrontation with Valerian that ends with the emperor's own capture eight years later.",
       "description_ru": "Шапур I Сасанидской империи предпринимает второе великое вторжение на римскую территорию, захватывая и разграбляя Антиохию на Оронте — третий по величине город империи и столицу Римской Сирии. Римские войска разгромлены в битве при Барбалиссе (253 г. н. э.); надпись Шапура в Накш-э-Ростаме хвалится захватом 37 городов и огромным числом порабощённых и вывезенных в Персию. Вторжение обнажает катастрофическую уязвимость восточной границы Рима и подготавливает почву для ещё более катастрофического столкновения с самим Валерианом.",
       "era": "AD",
-      "latitude": 36.2,
-      "longitude": 36.16,
+      "latitude": 36.2034,
+      "longitude": 36.1639,
       "name": "Sassanids capture roman Antioch",
       "name_ru": "Сасаниды захватывают римскую Антиохию",
       "source": "https://en.wikipedia.org/wiki/Shapur_I",
@@ -1191,10 +1229,10 @@
       "tags": [
         "Roman",
         "Economic",
+        "Law",
         "Reform",
         "Administration",
-        "Deficit",
-        "Law"
+        "Deficit"
       ],
       "type": "historic"
     },
@@ -1317,11 +1355,33 @@
         "Christian",
         "Human Rights",
         "Tolerance",
+        "Law",
         "Reform",
-        "Constantine the Great 👑",
-        "Law"
+        "Constantine the Great 👑"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.01.0324",
+      "description": "The land originally belonged to the wealthy Roman Lateran family, but was confiscated by Nero for the benefit of the state. Emperor Constantine received the land as the dowry of his wife, Fausta. After the Edict of Milan, Constantine donated the Lateran Palace and the land to the Bishop of Rome (the Pope). The Lateran Palace became the official residence of the popes for the next thousand years (until the 14th century). Next to the palace, Constantine began construction of the Lateran Basilica, which was consecrated in 324. Officially, she is titled \"Mother and head of all the churches of Rome and the world.\"",
+      "description_ru": "Земля изначально принадлежала богатому римскому семейству Латеранов, но была конфискована еще Нероном в пользу государства. Император Константин получил этот участок как приданое своей жены Фаусты. После издания Миланского эдикта Константин подарил Латеранский дворец и землю римскому епископу (папе). Латеранский дворец стал официальной резиденцией римских пап на следующие тысячу лет (вплоть до XIV века). Рядом с дворцом Константин начал строить ту самую Латеранскую базилику, которая была освящена в 324 году. Официально она титулуется как «Мать и глава всех церквей Рима и мира» ",
+      "era": "AD",
+      "latitude": 41.88633637,
+      "longitude": 12.5057888,
+      "name": "Consecration of the Lateran Basilica in Rome",
+      "name_ru": "Освящение Латеранской базилики в Риме",
+      "source": "https://en.wikipedia.org/wiki/Archbasilica_of_Saint_John_Lateran",
+      "tags": [
+        "Roman",
+        "Religious",
+        "Christian",
+        "Holy Site",
+        "Architecture",
+        "Building 🏠",
+        "Temple",
+        "Constantine the Great 👑"
+      ],
+      "type": "religious"
     },
     {
       "date": "18.09.0324",
@@ -1357,10 +1417,53 @@
         "Religious",
         "Christian",
         "Council",
-        "Constantine the Great 👑",
-        "Law"
+        "Law",
+        "Constantine the Great 👑"
       ],
       "type": "cultural"
+    },
+    {
+      "date": "01.01.0326",
+      "description": "In 325, Constantine convened the First Council of Nicaea, after which he instructed the Bishop of Jerusalem to locate sites associated with the earthly life of Jesus Christ. A year later, Empress Helena (Constantine's mother) arrived in the city on an official visit and with enormous sums of money.\n\nBy order of Constantine, the main Roman sanctuaries were destroyed. The Temple of Aphrodite (Venus), which stood in the center of the city, was razed to the ground. Under the foundations of the demolished Temple of Aphrodite, Helena's workers discovered ancient Jewish tombs and, according to Christian tradition, the True Cross. Constantine allocated colossal funds from the treasury to build the first majestic Church of the Holy Sepulchre on this site.",
+      "description_ru": "В 325 году Константин созвал Первый Никейский собор, после чего поручил епископу Иерусалима найти места, связанные с земной жизнью Иисуса Христа. Через год в город с официальным визитом и огромными деньгами прибыла императрица Елена (мать Константина). \n\nПо приказу Константина были уничтожены главные римские святилища. Храм Афродиты (Венеры), стоявший в центре города, срыли до основания. Под фундаментом снесённого храма Афродиты рабочие Елены обнаружили древние еврейские гробницы и, как считается в христианской традиции, Животворящий Крест. Константин выделил колоссальные средства из казны, чтобы построить на этом месте первый величественный Храм Гроба Господня",
+      "era": "AD",
+      "latitude": 31.778,
+      "longitude": 35.235,
+      "name": "The Christian Revival of Jerusalem",
+      "name_ru": "Христианское возрождение Иерусалима",
+      "source": "https://en.wikipedia.org/wiki/Church_of_the_Holy_Sepulchre",
+      "tags": [
+        "Roman",
+        "Jerusalem",
+        "Christian",
+        "Holy Site",
+        "Destruction",
+        "Architecture",
+        "Building 🏠",
+        "Temple",
+        "Restoration"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.0330",
+      "description": "The temple was designed with great symbolism. Since it commemorated the Ascension into heaven, Constantine ordered the construction of a circular rotunda (or octagon) without a roof—the open sky itself served as the temple's dome. Pilgrims could pray and gaze directly into the sky. In the center of the temple, a natural rock outcrop stood on the floor, where, according to legend, the footprint of Jesus Christ was left before his ascension.",
+      "description_ru": "Храм был спроектирован очень символично. Поскольку он знаменовал вознесение на небо, Константин приказал построить круглую ротонду (или октагон), у которой не было крыши — куполом храма служило само открытое небо. Паломники могли молиться и смотреть прямо в высь. В центре храма на полу находился естественный скальный выступ, на котором, по преданию, остался отпечаток стопы Иисуса Христа перед вознесением.",
+      "era": "AD",
+      "latitude": 31.77893174,
+      "longitude": 35.2450633,
+      "name": "Chapel of the Ascension of Christ built on the Mount of Olives",
+      "name_ru": "Возведен храм Вознесения Христа на Елеонской горе",
+      "source": "https://en.wikipedia.org/wiki/Chapel_of_the_Ascension",
+      "tags": [
+        "Roman",
+        "Christian",
+        "Holy Site",
+        "Architecture",
+        "Building 🏠",
+        "Temple"
+      ],
+      "type": "religious"
     },
     {
       "date": "11.05.0330",
@@ -1385,6 +1488,28 @@
       "type": "historic"
     },
     {
+      "date": "01.01.0337",
+      "description": "Constantine the Great ordered the construction of the first church, concurrent with the large-scale reconstruction of the ancient Greek colony of Byzantium into the new capital of the empire, Constantinople. Construction was completed by the end of his reign. Initially, it was a large three-aisled wooden basilica.\n\nEmperor Constantine dedicated this basilica not to a real woman or holy martyr, but to a divine attribute—Holy Myrrh. Besides Myrrh, Constantine also built churches in Constantinople dedicated to Holy Wisdom and Holy Power.",
+      "description_ru": "Константин Великий приказал заложить первую церковь одновременно с масштабной перестройкой древнегреческой колонии Византий в новую столицу империи — Константинополь. Строительство завершили к концу его правления. Изначально это была большая трёхнефная деревянная базилика. \n\nИмператор Константин посвятил эту базилику не реальной женщине или святой мученице, а божественному качеству — Святому Миру. Помимо Мира, Константин возвел в Константинополе храмы в честь Святой Мудрости и святой Силы.",
+      "era": "AD",
+      "latitude": 41.00975078,
+      "longitude": 28.98103774,
+      "name": "Church of Saint Irene built in Constantinople",
+      "name_ru": "Возведена церковь Святой Ирины в Константинополе",
+      "source": "https://en.wikipedia.org/wiki/Hagia_Irene",
+      "tags": [
+        "Roman",
+        "Religious",
+        "Christian",
+        "Metaphysics",
+        "Philosophy",
+        "Architecture",
+        "Building 🏠",
+        "Temple"
+      ],
+      "type": "religious"
+    },
+    {
       "date": "22.05.0337",
       "description": "Constantine I dies on May 22, 337 AD near Nicomedia — conspicuously choosing to be baptised only on his deathbed, having delayed the sacrament for decades despite being the empire's leading Christian patron. His death immediately triggers a bloodbath: his three surviving sons divide the empire and then systematically murder virtually every other male relative — roughly a dozen princes — to eliminate rivals, an act of dynastic violence that removes most of the experienced military talent in the empire. The three heirs (Constantine II, Constantius II, and Constans) then fight each other, leaving only Constantius II alive by 353 AD.",
       "description_ru": "Константин I умирает близ Никомедии — показательно выбрав крещение только на смертном одре, откладывая таинство десятилетиями, несмотря на то что он является ведущим христианским покровителем империи. Его смерть немедленно провоцирует кровавую бойню: трое выживших сыновей систематически убивают практически всех остальных мужчин-родственников, устраняя соперников. Трое наследников затем воюют друг с другом.",
@@ -1404,6 +1529,48 @@
         "Constantine the Great 👑"
       ],
       "type": "historic"
+    },
+    {
+      "date": "31.05.0339",
+      "description": "On the site of the cave where Jesus was born, Emperor Hadrian ordered a sacred grove to be planted in honor of the pagan god Adonis, in an attempt to erase the memory of Christ. Empress Helena ordered the grove cut down and the cave excavated. A magnificent five-aisled basilica was erected there, its floor paved with stunning Byzantine mosaics.\n\nThis mosaic later miraculously saved the basilica from destruction by the Sassanids three centuries later. They saw the Magi in the mosaic, wearing traditional Persian garb, bringing gifts to the infant Jesus; and out of respect for them, they spared the temple.",
+      "description_ru": "На месте пещеры, где родился Иисус, по приказу императора Адриана была высажена священная роща в честь языческого бога Адониса, чтобы стереть память о Христе. Императрица Елена приказала вырубить рощу и раскопать пещеру. Здесь возвели великолепную пятинефную базилику и выложили пол потрясающей византийской мозаикой. \n\nЭта мозаика позднее чудесным образом спасла базилику от уничтожения Сасанидами спустя 3 века - они увидели на мозаике волхвов, приносящих дары младенцу Иисусу, в традиционных персидских одеждах; и из уважения к ним не стали разорять храм.",
+      "era": "AD",
+      "latitude": 31.70429648,
+      "longitude": 35.20728707,
+      "name": "Church of the Nativity of Christ consecrated",
+      "name_ru": "Освящена базилика Рождества Христова",
+      "source": "https://en.wikipedia.org/wiki/Church_of_the_Nativity",
+      "tags": [
+        "Roman",
+        "Israel",
+        "Religious",
+        "Christian",
+        "Holy Site",
+        "Architecture",
+        "Building 🏠",
+        "Temple"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.0360",
+      "description": "It was founded by Constantine the Great in the 320s, simultaneously with Hagia Irene. Construction was lengthy, and was completed by Constantine's son, Constantius II. The church was solemnly consecrated in 360. It was a classical wooden basilica dedicated to one of the hypostases of God—Holy Wisdom.\n\nThe first church of Hagia Sophia burned completely in 404 during the popular riots that erupted over the exile of John Chrysostom.",
+      "description_ru": "Её заложил Константин Великий в 320-х годах одновременно со Святой Ириной. Строительство было долгим, и завершил его сын Константина — Констанций II. Храм торжественно освятили в 360 году. Это была классическая деревянная базилика, посвященная одной из ипостасей Бога — Святой Мудрости.\n\nПервая церковь Софии полностью сгорела в 404 году во время народных бунтов, вспыхнувших из-за изгнания Иоанна Златоуста.",
+      "era": "AD",
+      "latitude": 41.0086,
+      "longitude": 28.9802,
+      "name": "The Church of Hagia Sophia in Constantinople",
+      "name_ru": "Освящена церковь Святой Софии в Константинополе",
+      "source": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+      "tags": [
+        "Roman",
+        "Christian",
+        "Philosophy",
+        "Architecture",
+        "Building 🏠",
+        "Temple"
+      ],
+      "type": "religious"
     },
     {
       "date": "06.11.0360",
@@ -1472,8 +1639,8 @@
       "description": "At the Battle of Adrianople Emperor Valens leads roughly 15,000 Roman soldiers against the Visigothic forces encamped in their wagon-laager outside Adrianople (modern Edirne, Turkey) without waiting for the western emperor Gratian's reinforcements. The Roman infantry is surrounded and annihilated when Gothic cavalry charges into the exposed flanks; Valens himself is killed — one of only two Roman emperors to die in battle against a foreign enemy. \n\nThe battle is the most catastrophic Roman military defeat since Cannae: approximately two-thirds of the eastern field army is destroyed, a loss from which the empire never recovers its military predominance over the barbarian peoples.",
       "description_ru": "В битве при Адрианополе император Валент ведёт около 15 000 римских солдат против вестготских сил без ожидания подкреплений западного императора Грациана. Римская пехота окружена и уничтожена, когда готская кавалерия атакует открытые фланги; сам Валент убит — один из двух римских императоров, погибших в бою с иноземным врагом. \n\nБитва — наиболее катастрофическое военное поражение Рима со времён Канн: уничтожены примерно две трети восточной полевой армии.",
       "era": "AD",
-      "latitude": 41.68,
-      "longitude": 26.55,
+      "latitude": 41.67744755,
+      "longitude": 26.55204535,
       "name": "Battle of Adrianople, Emperor Valens Killed by the Visigoths",
       "name_ru": "Император Валент убит вестготами при Адрианополе",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Adrianople_(378)",
@@ -1548,9 +1715,10 @@
         "Egypt",
         "Religious",
         "Christian",
+        "Pagan",
         "Destruction"
       ],
-      "type": "historic"
+      "type": "religious"
     },
     {
       "date": "01.01.0393",
@@ -1570,7 +1738,8 @@
         "Destruction",
         "Theodosian",
         "Dynasty",
-        "Law"
+        "Law",
+        "End"
       ],
       "type": "historic"
     },

@@ -13,12 +13,12 @@
       "source": "https://www.metmuseum.org/toah/hd/phoe/hd_phoe.htm",
       "tags": [
         "Phoenician",
-        "Sidon",
-        "City-State",
         "Byblos",
-        "Maritime",
+        "Sidon",
+        "Tyre",
+        "City-State",
         "Trade",
-        "Tyre"
+        "Maritime"
       ],
       "type": "political"
     },
@@ -34,12 +34,12 @@
       "source": "https://phoenicia.org/glass.html",
       "tags": [
         "Phoenician",
+        "Tyre",
         "Craft",
+        "Trade",
         "Glass",
         "Innovation",
-        "Technology",
-        "Trade",
-        "Tyre"
+        "Technology"
       ],
       "type": "scientific"
     },
@@ -55,11 +55,11 @@
       "source": "https://www.worldhistory.org/Melqart/",
       "tags": [
         "Phoenician",
-        "Building 🏠",
-        "Pagan",
+        "Tyre",
         "Religious",
-        "Temple",
-        "Tyre"
+        "Pagan",
+        "Building 🏠",
+        "Temple"
       ],
       "type": "religious"
     },
@@ -113,8 +113,8 @@
         "Phoenician",
         "Sidon",
         "City",
-        "Colonization",
         "Copper",
+        "Colonization",
         "Cyprus",
         "Seamen"
       ],
@@ -134,10 +134,10 @@
         "Carthage",
         "Phoenician",
         "City",
+        "Trade",
         "Colonization",
         "Emporium",
-        "Seamen",
-        "Trade"
+        "Seamen"
       ],
       "type": "historic"
     },
@@ -153,12 +153,12 @@
       "source": "https://phoenician.org/phoenician_colonies/",
       "tags": [
         "Phoenician",
+        "Tyre",
         "City",
         "Colonization",
         "Emporium",
         "Maritime",
-        "Seamen",
-        "Tyre"
+        "Seamen"
       ],
       "type": "historic"
     },
@@ -190,8 +190,8 @@
       "name_ru": "Соломон основывает Пальмиру",
       "source": "https://en.wikipedia.org/wiki/Palmyra",
       "tags": [
-        "Judaic",
         "Israel",
+        "Judaic",
         "City",
         "Fortification",
         "Trade"
@@ -209,12 +209,12 @@
       "name_ru": "Союз Хирама I с Соломоном",
       "source": "https://www.worldhistory.org/phoenicia/",
       "tags": [
-        "Judaic",
         "Phoenician",
+        "Tyre",
         "Israel",
+        "Judaic",
         "Alliance",
-        "Temple",
-        "Tyre"
+        "Temple"
       ],
       "type": "political"
     },
@@ -229,15 +229,15 @@
       "name_ru": "Строительство Храма Соломона",
       "source": "https://www.britannica.com/place/Temple-of-Jerusalem",
       "tags": [
-        "Judaic",
         "Phoenician",
+        "Tyre",
         "Israel",
         "Jerusalem",
-        "Ancient",
-        "Holy Site",
+        "Judaic",
         "Religious",
+        "Holy Site",
         "Temple",
-        "Tyre",
+        "Ancient",
         "Wonders"
       ],
       "type": "cultural"
@@ -254,10 +254,10 @@
       "source": "https://www.metmuseum.org/toah/hd/phoe/hd_phoe.htm",
       "tags": [
         "Phoenician",
+        "Trade",
         "Expansion",
         "Maritime",
-        "Seamen",
-        "Trade"
+        "Seamen"
       ],
       "type": "historic"
     },
@@ -274,10 +274,10 @@
       "tags": [
         "Phoenician",
         "City",
+        "Trade",
         "Colonization",
         "Expansion",
-        "Seamen",
-        "Trade"
+        "Seamen"
       ],
       "type": "historic"
     },
@@ -311,10 +311,10 @@
       "tags": [
         "Assyrian",
         "Phoenician",
-        "Sidon",
         "Byblos",
-        "Tribute",
-        "Tyre"
+        "Sidon",
+        "Tyre",
+        "Tribute"
       ],
       "type": "political"
     },
@@ -331,12 +331,12 @@
       "tags": [
         "Carthage",
         "Phoenician",
+        "Tyre",
         "City",
+        "Foundation",
         "Colonization",
         "Emporium",
-        "Foundation",
-        "Seamen",
-        "Tyre"
+        "Seamen"
       ],
       "type": "historic"
     },
@@ -351,11 +351,11 @@
       "name_ru": "Основание финикийцами Сефеле",
       "tags": [
         "Phoenician",
+        "Tyre",
         "City",
-        "Colonization",
-        "Expansion",
         "Trade",
-        "Tyre"
+        "Colonization",
+        "Expansion"
       ],
       "type": "historic"
     },
@@ -390,11 +390,11 @@
       "source": "https://phoenician.org/phoenician_colonies/",
       "tags": [
         "Phoenician",
-        "Colonization",
+        "Sicily",
         "Fortification",
+        "Colonization",
         "Maritime",
-        "Seamen",
-        "Sicily"
+        "Seamen"
       ],
       "type": "historic"
     },
@@ -410,12 +410,12 @@
       "source": "https://en.wikipedia.org/wiki/M%C3%A1laga",
       "tags": [
         "Phoenician",
+        "Tyre",
         "City",
+        "Salt",
         "Colonization",
         "Expansion",
-        "Fishing",
-        "Salt",
-        "Tyre"
+        "Fishing"
       ],
       "type": "historic"
     },
@@ -431,10 +431,10 @@
       "source": "https://phoenician.org/phoenician_colonies/",
       "tags": [
         "Phoenician",
+        "Sicily",
         "City",
         "Colonization",
-        "Seamen",
-        "Sicily"
+        "Seamen"
       ],
       "type": "historic"
     },
@@ -471,10 +471,11 @@
       "name_ru": "Карфаген обретает независимость",
       "source": "https://en.wikipedia.org/wiki/Ancient_Carthage",
       "tags": [
+        "Milestone ⭐️",
         "Carthage",
         "Phoenician",
-        "Independence",
-        "Tyre"
+        "Tyre",
+        "Independence"
       ],
       "type": "political"
     },
@@ -491,8 +492,8 @@
       "tags": [
         "Phoenician",
         "Sidon",
-        "Glass",
-        "Trade"
+        "Trade",
+        "Glass"
       ],
       "type": "historic"
     },
@@ -529,11 +530,11 @@
         "Phoenician",
         "Sidon",
         "Craft",
+        "Trade",
         "Glass",
         "Innovation",
         "Science",
-        "Technology",
-        "Trade"
+        "Technology"
       ],
       "type": "scientific"
     },
@@ -549,8 +550,9 @@
       "source": "https://www.metmuseum.org/toah/hd/phoe/hd_phoe.htm",
       "tags": [
         "Phoenician",
+        "Tyre",
         "Trade",
-        "Tyre"
+        "Dye"
       ],
       "type": "historic"
     },
@@ -567,10 +569,10 @@
       "tags": [
         "Babylonian",
         "Phoenician",
-        "Chaldean",
+        "Tyre",
         "War",
-        "Siege",
-        "Tyre"
+        "Chaldean",
+        "Siege"
       ],
       "type": "military"
     },
@@ -585,11 +587,11 @@
       "name_ru": "Карфагенская экспансия в Иберии",
       "source": "https://en.wikipedia.org/wiki/Ancient_Carthage",
       "tags": [
-        "Carthage",
-        "Expansion",
         "Iberia",
+        "Carthage",
+        "Silver",
         "Mining",
-        "Silver"
+        "Expansion"
       ],
       "type": "political"
     },
@@ -606,11 +608,11 @@
       "tags": [
         "Babylonian",
         "Phoenician",
-        "Chaldean",
+        "Tyre",
         "War",
         "Conquest",
         "Destruction",
-        "Tyre"
+        "Chaldean"
       ],
       "type": "political"
     },
@@ -647,12 +649,12 @@
       "tags": [
         "Persian",
         "Phoenician",
-        "Sidon",
-        "War",
         "Byblos",
+        "Sidon",
+        "Tyre",
+        "War",
         "Conquest",
         "Cyrus the Great 👑",
-        "Tyre",
         "Vassalage"
       ],
       "type": "military"
@@ -709,10 +711,10 @@
       "tags": [
         "Greek",
         "Phoenician",
+        "Tyre",
         "Culture",
-        "Herodotus 👤",
         "History",
-        "Tyre"
+        "Herodotus 👤"
       ],
       "type": "cultural"
     },
@@ -749,9 +751,9 @@
       "tags": [
         "Greek",
         "Phoenician",
+        "Sicily",
         "War",
         "Destruction",
-        "Sicily",
         "Siege"
       ],
       "type": "military"
@@ -789,8 +791,8 @@
         "Phoenician",
         "Sidon",
         "War",
-        "Destruction",
         "Rebellion",
+        "Destruction",
         "Siege"
       ],
       "type": "military"
@@ -809,11 +811,11 @@
         "Greek",
         "Macedonian",
         "Phoenician",
+        "Tyre",
         "War",
-        "Alexander the Great 👤",
         "Conquest",
-        "Fall",
-        "Tyre"
+        "Alexander the Great 👤",
+        "Fall"
       ],
       "type": "military"
     },
@@ -832,10 +834,10 @@
         "Persian",
         "Macedonian",
         "Phoenician",
+        "Tyre",
         "War",
         "Alexander the Great 👤",
-        "Siege",
-        "Tyre"
+        "Siege"
       ],
       "type": "military"
     },
@@ -852,9 +854,9 @@
       "tags": [
         "Greek",
         "Carthage",
+        "Sicily",
         "War",
-        "Invasion",
-        "Sicily"
+        "Invasion"
       ],
       "type": "military"
     },
@@ -870,8 +872,8 @@
       "source": "https://en.wikipedia.org/wiki/Ancient_Carthage",
       "tags": [
         "Carthage",
-        "Reform",
         "Political",
+        "Reform",
         "Republic"
       ],
       "type": "political"
@@ -888,10 +890,10 @@
       "source": "https://en.wikipedia.org/wiki/Ancient_Carthage",
       "tags": [
         "Carthage",
+        "Trade",
         "Expansion",
         "Golden Age",
-        "Maritime",
-        "Trade"
+        "Maritime"
       ],
       "type": "historic"
     },
@@ -908,10 +910,10 @@
       "tags": [
         "Greek",
         "Carthage",
+        "Sicily",
         "War",
         "Invasion",
-        "Pyrrhus 👤",
-        "Sicily"
+        "Pyrrhus 👤"
       ],
       "type": "military"
     },
@@ -928,10 +930,10 @@
       "tags": [
         "Roman",
         "Carthage",
-        "First",
+        "Sicily",
         "Punic",
         "War",
-        "Sicily"
+        "First"
       ],
       "type": "military"
     },
@@ -948,10 +950,10 @@
       "tags": [
         "Roman",
         "Carthage",
-        "First",
         "Punic",
         "War",
         "Battle",
+        "First",
         "Naval"
       ],
       "type": "military"
@@ -969,12 +971,12 @@
       "tags": [
         "Roman",
         "Carthage",
-        "First",
+        "Sicily",
         "Punic",
         "War",
         "Battle",
-        "Naval",
-        "Sicily"
+        "First",
+        "Naval"
       ],
       "type": "military"
     },
@@ -1009,13 +1011,13 @@
       "name_ru": "Гамилькар Барка завоевывает Иберию",
       "source": "https://phoenician.org/carthage_hannibal_barca/",
       "tags": [
-        "Carthage",
-        "Barcid",
-        "Conquest",
-        "Expansion",
         "Iberia",
+        "Carthage",
+        "Conquest",
+        "Silver",
         "Mining",
-        "Silver"
+        "Barcid",
+        "Expansion"
       ],
       "type": "military"
     },
@@ -1030,11 +1032,11 @@
       "name_ru": "Основание Нового Карфагена",
       "source": "https://phoenician.org/carthage_hannibal_barca/",
       "tags": [
+        "Iberia",
         "Carthage",
         "City",
         "Barcid",
-        "Colonization",
-        "Iberia"
+        "Colonization"
       ],
       "type": "historic"
     },
@@ -1051,13 +1053,13 @@
       "tags": [
         "Roman",
         "Carthage",
-        "Second",
         "Punic",
         "War",
         "Battle",
         "Ambush",
         "Hannibal 👤",
         "Numidians",
+        "Second",
         "Tactics"
       ],
       "type": "military"
@@ -1075,7 +1077,6 @@
       "tags": [
         "Roman",
         "Carthage",
-        "Second",
         "Punic",
         "War",
         "Battle",
@@ -1083,6 +1084,7 @@
         "Hannibal 👤",
         "Numidians",
         "Scipio 👤",
+        "Second",
         "Tactics"
       ],
       "type": "military"
@@ -1099,12 +1101,13 @@
       "source": "https://en.wikipedia.org/wiki/Hannibal%27s_crossing_of_the_Alps",
       "tags": [
         "Carthage",
-        "Second",
         "Punic",
         "War",
+        "Adventure",
         "Barcid",
         "Elephants",
-        "Hannibal 👤"
+        "Hannibal 👤",
+        "Second"
       ],
       "type": "military"
     },
@@ -1120,13 +1123,13 @@
       "source": "https://phoenician.org/carthage_hannibal_barca/",
       "tags": [
         "Roman",
+        "Iberia",
         "Carthage",
-        "Second",
         "Punic",
         "War",
         "Barcid",
         "Hannibal 👤",
-        "Iberia"
+        "Second"
       ],
       "type": "military"
     },
@@ -1143,12 +1146,12 @@
       "tags": [
         "Roman",
         "Carthage",
-        "Second",
         "Punic",
         "War",
         "Battle",
         "Ambush",
-        "Hannibal 👤"
+        "Hannibal 👤",
+        "Second"
       ],
       "type": "military"
     },
@@ -1165,11 +1168,11 @@
       "tags": [
         "Roman",
         "Carthage",
-        "Second",
         "Punic",
         "War",
         "Battle",
         "Hannibal 👤",
+        "Second",
         "Tactics"
       ],
       "type": "military"
@@ -1187,10 +1190,10 @@
         "Greek",
         "Roman",
         "Carthage",
-        "Second",
         "Punic",
         "War",
-        "Overthrow"
+        "Overthrow",
+        "Second"
       ],
       "type": "political"
     },
@@ -1208,11 +1211,11 @@
         "Greek",
         "Roman",
         "Carthage",
-        "Second",
         "Punic",
         "War",
-        "Archimedes 👤",
         "Engineering ⚙️",
+        "Archimedes 👤",
+        "Second",
         "Siege"
       ],
       "type": "military"
@@ -1230,10 +1233,10 @@
         "Greek",
         "Roman",
         "Carthage",
-        "Second",
         "Punic",
         "War",
-        "Assassination"
+        "Assassination",
+        "Second"
       ],
       "type": "political"
     },
@@ -1250,11 +1253,11 @@
         "Greek",
         "Roman",
         "Carthage",
-        "Second",
         "Punic",
         "War",
         "Legend",
         "Archimedes 👤",
+        "Second",
         "Siege"
       ],
       "type": "military"
@@ -1272,10 +1275,10 @@
       "tags": [
         "Roman",
         "Carthage",
-        "Second",
         "Punic",
         "War",
         "Hannibal 👤",
+        "Second",
         "Siege"
       ],
       "type": "military"
@@ -1292,13 +1295,13 @@
       "source": "https://en.wikipedia.org/wiki/Battle_of_Carthago_Nova",
       "tags": [
         "Roman",
+        "Iberia",
         "Carthage",
-        "Second",
         "Punic",
         "War",
         "Battle",
-        "Iberia",
-        "Scipio 👤"
+        "Scipio 👤",
+        "Second"
       ],
       "type": "military"
     },
@@ -1315,10 +1318,10 @@
       "tags": [
         "Roman",
         "Carthage",
-        "Second",
         "Punic",
         "War",
-        "Battle"
+        "Battle",
+        "Second"
       ],
       "type": "military"
     },
@@ -1335,11 +1338,11 @@
       "tags": [
         "Roman",
         "Carthage",
-        "Second",
         "Punic",
         "War",
         "Invasion",
-        "Scipio 👤"
+        "Scipio 👤",
+        "Second"
       ],
       "type": "military"
     },
@@ -1356,11 +1359,11 @@
       "tags": [
         "Roman",
         "Carthage",
-        "Second",
         "Punic",
         "War",
         "Battle",
-        "Scipio 👤"
+        "Scipio 👤",
+        "Second"
       ],
       "type": "military"
     },
@@ -1377,13 +1380,13 @@
       "tags": [
         "Roman",
         "Carthage",
-        "Second",
         "Punic",
         "War",
         "Battle",
         "Elephants",
         "Hannibal 👤",
-        "Scipio 👤"
+        "Scipio 👤",
+        "Second"
       ],
       "type": "military"
     },
@@ -1400,10 +1403,10 @@
       "tags": [
         "Roman",
         "Carthage",
-        "Second",
         "Punic",
         "War",
         "Peace",
+        "Second",
         "Treaty"
       ],
       "type": "political"
@@ -1415,14 +1418,14 @@
       "era": "BC",
       "latitude": 36.853,
       "longitude": 10.323,
-      "name": "Carthage Pays War Indemnity",
-      "name_ru": "Карфаген выплачивает военную контрибуцию",
+      "name": "Carthage Pays War Indemnity to Rome",
+      "name_ru": "Карфаген выплачивает военную контрибуцию Риму",
       "source": "https://en.wikipedia.org/wiki/Ancient_Carthage",
       "tags": [
         "Roman",
         "Carthage",
-        "Contribution",
         "Economic",
+        "Contribution",
         "Treaty"
       ],
       "type": "political"
@@ -1440,9 +1443,9 @@
       "tags": [
         "Roman",
         "Carthage",
-        "Third",
         "Punic",
-        "War"
+        "War",
+        "Third"
       ],
       "type": "military"
     },
@@ -1459,12 +1462,12 @@
       "tags": [
         "Roman",
         "Carthage",
-        "Third",
         "Punic",
         "War",
         "Destruction",
         "End",
-        "Fall"
+        "Fall",
+        "Third"
       ],
       "type": "military"
     }

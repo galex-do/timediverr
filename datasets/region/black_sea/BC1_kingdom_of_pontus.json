@@ -36,11 +36,11 @@
         "Greek",
         "Persian",
         "Pontus",
+        "Kingdom",
+        "Foundation",
         "Diadochi",
         "War",
-        "Anatolia",
-        "Foundation",
-        "Kingdom"
+        "Anatolia"
       ],
       "type": "political"
     },
@@ -57,11 +57,11 @@
       "tags": [
         "Greek",
         "Pontus",
-        "Building 🏠",
-        "Anatolia",
         "Architecture",
+        "Building 🏠",
+        "Tomb",
         "Death",
-        "Tomb"
+        "Anatolia"
       ],
       "type": "cultural"
     },
@@ -77,8 +77,8 @@
       "source": "https://en.wikipedia.org/wiki/Ariobarzanes_of_Pontus",
       "tags": [
         "Greek",
-        "Pontus",
         "Seleucid",
+        "Pontus",
         "Diplomacy",
         "Expansion",
         "Maritime"
@@ -100,7 +100,7 @@
         "Celtic",
         "Pontus",
         "War",
-        "Invasions"
+        "Invasion"
       ],
       "type": "military"
     },
@@ -116,12 +116,12 @@
       "source": "https://en.wikipedia.org/wiki/Mithridates_II_of_Pontus",
       "tags": [
         "Greek",
-        "Pontus",
         "Seleucid",
+        "Pontus",
+        "Alliance",
         "Diplomacy",
         "Marriage",
-        "Dynasty",
-        "Alliance"
+        "Dynasty"
       ],
       "type": "political"
     },
@@ -138,8 +138,8 @@
       "tags": [
         "Greek",
         "Celtic",
-        "Pontus",
         "Seleucid",
+        "Pontus",
         "War",
         "Battle",
         "Syrian Wars"
@@ -179,12 +179,12 @@
       "source": "https://en.wikipedia.org/wiki/Laodice_III",
       "tags": [
         "Greek",
-        "Pontus",
         "Seleucid",
+        "Pontus",
+        "Alliance",
         "Diplomacy",
         "Marriage",
         "Dynasty",
-        "Alliance",
         "Antiochus III 👑"
       ],
       "type": "political"
@@ -202,8 +202,8 @@
       "tags": [
         "Greek",
         "Pontus",
-        "War",
         "City-State",
+        "War",
         "Maritime",
         "Siege"
       ],
@@ -222,8 +222,8 @@
         "Greek",
         "Armenian",
         "Pergamon",
-        "Pontus",
         "Bithynian",
+        "Pontus",
         "War",
         "Contribution"
       ],
@@ -242,9 +242,9 @@
       "tags": [
         "Greek",
         "Pontus",
-        "War",
-        "City-State",
         "Capital",
+        "City-State",
+        "War",
         "Conquest",
         "Maritime"
       ],
@@ -264,8 +264,8 @@
         "Greek",
         "Roman",
         "Pontus",
-        "King",
-        "Alliance"
+        "Alliance",
+        "King"
       ],
       "type": "political"
     },
@@ -283,10 +283,10 @@
         "Greek",
         "Roman",
         "Pergamon",
-        "Pontus",
         "Bithynian",
-        "War",
-        "Alliance"
+        "Pontus",
+        "Alliance",
+        "War"
       ],
       "type": "military"
     },
@@ -304,8 +304,8 @@
         "Greek",
         "Pontus",
         "Dynasty",
-        "Assassination",
         "Death",
+        "Assassination",
         "Medicine",
         "Mithridates VI Eupator 👑"
       ],
@@ -335,8 +335,8 @@
       "era": "BC",
       "latitude": 42.0231,
       "longitude": 35.1531,
-      "name": "Mithridates VI Seizes Power",
-      "name_ru": "Митридат VI захватывает власть",
+      "name": "Mithridates VI Seizes Power in Pontus",
+      "name_ru": "Митридат VI захватывает власть в Понте",
       "source": "https://en.wikipedia.org/wiki/Mithridates_VI_Eupator",
       "tags": [
         "Greek",
@@ -360,10 +360,10 @@
       "tags": [
         "Greek",
         "Pontus",
+        "Political",
         "Assassination",
         "Conspiracy",
-        "Mithridates VI Eupator 👑",
-        "Political"
+        "Mithridates VI Eupator 👑"
       ],
       "type": "political"
     },
@@ -378,8 +378,8 @@
       "name_ru": "Понт защищает Херсонес",
       "tags": [
         "Greek",
-        "Pontus",
         "Scythian",
+        "Pontus",
         "War",
         "Battle"
       ],
@@ -397,8 +397,8 @@
       "source": "https://en.wikipedia.org/wiki/Mithridates_VI_Eupator",
       "tags": [
         "Greek",
-        "Pontus",
         "Scythian",
+        "Pontus",
         "War",
         "Conquest",
         "Vassalage"
@@ -417,8 +417,8 @@
       "source": "https://en.wikipedia.org/wiki/Paerisades_V",
       "tags": [
         "Greek",
-        "Pontus",
         "Scythian",
+        "Pontus",
         "Bosporan",
         "Vassalage"
       ],
@@ -436,11 +436,11 @@
       "source": "https://en.wikipedia.org/wiki/Scythian_revolt_against_Mithridates_VI",
       "tags": [
         "Greek",
-        "Pontus",
         "Scythian",
+        "Pontus",
         "War",
-        "Bosporan",
-        "Rebellion"
+        "Rebellion",
+        "Bosporan"
       ],
       "type": "military"
     },
@@ -455,8 +455,8 @@
       "name_ru": "Понт подавляет восстание в Крыму",
       "tags": [
         "Greek",
-        "Pontus",
         "Scythian",
+        "Pontus",
         "War",
         "Vassalage"
       ],
@@ -473,9 +473,10 @@
       "name_ru": "Раздел Пафлагонии",
       "tags": [
         "Greek",
-        "Pontus",
         "Bithynian",
-        "Annexation"
+        "Pontus",
+        "Annexation",
+        "Fragmentation"
       ],
       "type": "historic"
     },
@@ -491,11 +492,11 @@
       "source": "https://en.wikipedia.org/wiki/Mithridates_VI_Eupator",
       "tags": [
         "Greek",
+        "Georgian",
         "Pontus",
-        "Colchis",
-        "Vassalage",
         "Wood",
-        "Georgian"
+        "Colchis",
+        "Vassalage"
       ],
       "type": "political"
     },
@@ -529,8 +530,8 @@
         "Greek",
         "Roman",
         "Pontus",
-        "Mithridates VI Eupator 👑",
-        "Political"
+        "Political",
+        "Mithridates VI Eupator 👑"
       ],
       "type": "political"
     },
@@ -547,8 +548,8 @@
         "Greek",
         "Armenian",
         "Pontus",
-        "Marriage",
         "Alliance",
+        "Marriage",
         "Artaxiad",
         "Mithridates VI Eupator 👑",
         "Tigranes the Great 👤"
@@ -622,8 +623,8 @@
       "era": "BC",
       "latitude": 40.7667,
       "longitude": 29.9167,
-      "name": "Mithridates Overruns Asia Minor",
-      "name_ru": "Митридат захватывает Малую Азию",
+      "name": "Mithridates of Pontus overruns Asia Minor",
+      "name_ru": "Митридат Понтийский захватывает Малую Азию",
       "source": "https://en.wikipedia.org/wiki/First_Mithridatic_War",
       "tags": [
         "Greek",
@@ -648,8 +649,8 @@
       "tags": [
         "Greek",
         "Roman",
-        "Pontus",
         "Athens",
+        "Pontus",
         "Mithridatic",
         "War",
         "Expansion"
@@ -717,7 +718,7 @@
         "Pontus",
         "Mithridatic",
         "War",
-        "Invasions"
+        "Invasion"
       ],
       "type": "military"
     },
@@ -753,11 +754,11 @@
       "tags": [
         "Greek",
         "Roman",
-        "Pontus",
         "Bithynian",
+        "Pontus",
         "Mithridatic",
-        "War",
         "Alliance",
+        "War",
         "Annexation"
       ],
       "type": "military"
@@ -848,8 +849,8 @@
         "War",
         "Battle",
         "Destruction",
+        "Pillage",
         "Mithridates VI Eupator 👑",
-        "Plundering",
         "Tigranes the Great 👤"
       ],
       "type": "military"
@@ -905,10 +906,10 @@
       "name_ru": "Сражение Помпея в долине Кура",
       "tags": [
         "Roman",
+        "Caucasian Albania",
         "Mithridatic",
         "War",
         "Battle",
-        "Caucasian Albania",
         "Expedition",
         "Pompey the Great 👤"
       ],
@@ -928,10 +929,10 @@
         "Greek",
         "Roman",
         "Pontus",
+        "City",
         "Mithridatic",
         "War",
         "Battle",
-        "City",
         "Fall",
         "Mithridates VI Eupator 👑",
         "Pompey the Great 👤"
@@ -985,12 +986,12 @@
       "name_ru": "Помпей покидает Кавказ",
       "tags": [
         "Roman",
+        "Georgian",
         "Mithridatic",
         "War",
         "Colchis",
         "Expedition",
-        "Pompey the Great 👤",
-        "Georgian"
+        "Pompey the Great 👤"
       ],
       "type": "historic"
     },
@@ -1005,8 +1006,8 @@
       "name_ru": "Митридат возвращает власть в Крыму",
       "tags": [
         "Greek",
-        "Pontus",
         "Scythian",
+        "Pontus",
         "Mithridatic",
         "War",
         "Mithridates VI Eupator 👑"

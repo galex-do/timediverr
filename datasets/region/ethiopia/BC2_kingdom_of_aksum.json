@@ -12,10 +12,10 @@
       "name_ru": "Возвышение Аксумского царства",
       "source": "https://en.wikipedia.org/wiki/Kingdom_of_Aksum",
       "tags": [
+        "Aksumite",
         "Ethiopian",
-        "Foundation",
         "Kingdom",
-        "Aksumite"
+        "Foundation"
       ],
       "type": "political"
     },
@@ -32,11 +32,11 @@
       "tags": [
         "Greek",
         "Roman",
+        "Aksumite",
         "Diplomacy",
         "History",
-        "Text",
         "Trade",
-        "Aksumite"
+        "Text"
       ],
       "type": "historic"
     },
@@ -53,11 +53,11 @@
       "tags": [
         "Greek",
         "Roman",
-        "Economic",
+        "Aksumite",
         "Ethiopian",
-        "Navigation",
         "Trade",
-        "Aksumite"
+        "Economic",
+        "Navigation"
       ],
       "type": "historic"
     },
@@ -72,9 +72,9 @@
       "name_ru": "Греческий — Lingua Franca в Аксуме",
       "tags": [
         "Greek",
+        "Aksumite",
         "Ethiopian",
-        "Language",
-        "Aksumite"
+        "Language"
       ],
       "type": "cultural"
     },
@@ -89,12 +89,12 @@
       "name_ru": "Гадарат — царь Аксума",
       "source": "https://en.wikipedia.org/wiki/Kingdom_of_Aksum",
       "tags": [
-        "King",
         "Arabia",
-        "Conquest",
-        "Ethiopian",
         "Aksumite",
-        "Sabaean"
+        "Ethiopian",
+        "Sabaean",
+        "Conquest",
+        "King"
       ],
       "type": "political"
     },
@@ -110,9 +110,9 @@
       "source": "https://en.wikipedia.org/wiki/Monumentum_Adulitanum",
       "tags": [
         "Greek",
+        "Aksumite",
         "Ethiopian",
-        "Text",
-        "Aksumite"
+        "Text"
       ],
       "type": "historic"
     },
@@ -127,10 +127,10 @@
       "name_ru": "Семброутес — «Царь царей» Аксума",
       "source": "https://en.wikipedia.org/wiki/Kingdom_of_Aksum",
       "tags": [
-        "King",
-        "Empire",
+        "Aksumite",
         "Ethiopian",
-        "Aksumite"
+        "Empire",
+        "King"
       ],
       "type": "political"
     },
@@ -147,11 +147,11 @@
       "tags": [
         "Persian",
         "Roman",
+        "Aksumite",
         "Chinese",
-        "Diplomacy",
-        "Manichaean",
         "Religious",
-        "Aksumite"
+        "Manichaean",
+        "Diplomacy"
       ],
       "type": "historic"
     },
@@ -166,11 +166,11 @@
       "name_ru": "Первые аксумские монеты",
       "source": "https://en.wikipedia.org/wiki/Aksumite_currency",
       "tags": [
-        "Currency",
-        "Economic",
+        "Aksumite",
         "Gold",
         "Silver",
-        "Aksumite"
+        "Currency 🪙",
+        "Economic"
       ],
       "type": "historic"
     },
@@ -185,13 +185,13 @@
       "name_ru": "Великая стела Аксума",
       "source": "https://en.wikipedia.org/wiki/Obelisk_of_Axum",
       "tags": [
-        "Ancient",
-        "Architecture",
-        "Burial",
+        "Aksumite",
         "Ethiopian",
         "Sculpture",
-        "Wonders",
-        "Aksumite"
+        "Burial",
+        "Architecture",
+        "Ancient",
+        "Wonders"
       ],
       "type": "cultural"
     },
@@ -206,11 +206,11 @@
       "name_ru": "Первые монеты Аксума на геэзе",
       "source": "https://en.wikipedia.org/wiki/Aksumite_currency",
       "tags": [
-        "Culture",
-        "Currency",
+        "Aksumite",
         "Ethiopian",
+        "Culture",
         "Language",
-        "Aksumite"
+        "Currency 🪙"
       ],
       "type": "cultural"
     },
@@ -226,13 +226,13 @@
       "source": "https://en.wikipedia.org/wiki/Frumentius",
       "tags": [
         "Greek",
-        "Phoenician",
-        "Christian",
-        "Education",
+        "Aksumite",
         "Ethiopian",
+        "Phoenician",
         "Religious",
+        "Christian",
         "Saint",
-        "Aksumite"
+        "Education"
       ],
       "type": "religious"
     },
@@ -247,13 +247,13 @@
       "name_ru": "Аксум принимает христианство",
       "source": "https://en.wikipedia.org/wiki/Ezana_of_Axum",
       "tags": [
-        "King",
-        "Adoption",
-        "Christian",
-        "Currency",
+        "Aksumite",
         "Ethiopian",
         "Religious",
-        "Aksumite"
+        "Christian",
+        "Adoption",
+        "King",
+        "Currency 🪙"
       ],
       "type": "religious"
     },
@@ -268,12 +268,13 @@
       "name_ru": "Церковь Богоматери Сионской в Аксуме",
       "source": "https://en.wikipedia.org/wiki/Church_of_Our_Lady_Mary_of_Zion",
       "tags": [
-        "Building 🏠",
-        "Legend",
-        "Christian",
+        "Aksumite",
         "Ethiopian",
+        "Religious",
+        "Christian",
+        "Building 🏠",
         "Temple",
-        "Aksumite"
+        "Legend"
       ],
       "type": "religious"
     },
@@ -288,13 +289,13 @@
       "name_ru": "Аксум завоевывает Куш и Мероэ",
       "source": "https://en.wikipedia.org/wiki/Ezana_of_Axum",
       "tags": [
-        "War",
-        "Battle",
-        "Conquest",
+        "Aksumite",
         "Ethiopian",
+        "War",
+        "Conquest",
+        "Battle",
         "Fall",
-        "Kush",
-        "Aksumite"
+        "Kush"
       ],
       "type": "military"
     },
@@ -309,12 +310,12 @@
       "name_ru": "Аксумский дворец Та'акха Марьям",
       "source": "https://en.wikipedia.org/wiki/Kingdom_of_Aksum",
       "tags": [
-        "Building 🏠",
-        "Architecture",
-        "Engineering ⚙️",
+        "Aksumite",
         "Ethiopian",
+        "Architecture",
+        "Building 🏠",
         "Palace",
-        "Aksumite"
+        "Engineering ⚙️"
       ],
       "type": "historic"
     },
@@ -329,11 +330,11 @@
       "name_ru": "Геэз превращается в полный силлабарий",
       "source": "https://en.wikipedia.org/wiki/Ge%27ez_script",
       "tags": [
-        "Culture",
+        "Aksumite",
         "Ethiopian",
+        "Culture",
         "Language",
-        "Writing",
-        "Aksumite"
+        "Writing"
       ],
       "type": "cultural"
     },
@@ -349,13 +350,13 @@
       "source": "https://en.wikipedia.org/wiki/Nine_Saints",
       "tags": [
         "Roman",
-        "Christian",
-        "Education",
+        "Aksumite",
         "Ethiopian",
-        "Persecution",
         "Religious",
+        "Christian",
         "Saint",
-        "Aksumite"
+        "Education",
+        "Persecution"
       ],
       "type": "religious"
     },
@@ -370,13 +371,14 @@
       "name_ru": "Основание монастыря Дебре Дамо",
       "source": "https://en.wikipedia.org/wiki/Debre_Damo",
       "tags": [
+        "Aksumite",
+        "Ethiopian",
+        "Religious",
+        "Christian",
+        "Architecture",
         "Building 🏠",
         "Legend",
-        "Architecture",
-        "Christian",
-        "Ethiopian",
-        "Monastery",
-        "Aksumite"
+        "Monastery"
       ],
       "type": "religious"
     },
@@ -391,13 +393,13 @@
       "name_ru": "Резня христиан в Наджране",
       "source": "https://en.wikipedia.org/wiki/Aksumite_invasion_of_Himyar",
       "tags": [
-        "Judaic",
         "Arabia",
+        "Judaic",
+        "Religious",
         "Christian",
         "Himyarite",
         "Massacre",
-        "Persecution",
-        "Religious"
+        "Persecution"
       ],
       "type": "political"
     },
@@ -412,14 +414,14 @@
       "name_ru": "Вторжение Аксума в Йемен",
       "source": "https://en.wikipedia.org/wiki/Kaleb_of_Axum",
       "tags": [
+        "Arabia",
+        "Aksumite",
+        "Christian",
         "War",
+        "Conquest",
         "Battle",
         "King",
-        "Arabia",
-        "Christian",
-        "Conquest",
-        "Himyarite",
-        "Aksumite"
+        "Himyarite"
       ],
       "type": "military"
     },
@@ -434,11 +436,11 @@
       "name_ru": "Йемен выходит из-под контроля Аксума",
       "source": "https://en.wikipedia.org/wiki/Abraha",
       "tags": [
-        "War",
         "Arabia",
+        "Aksumite",
+        "War",
         "Overthrow",
-        "Usurpation",
-        "Aksumite"
+        "Usurpation"
       ],
       "type": "political"
     },
@@ -453,12 +455,12 @@
       "name_ru": "Возведение собора Аль-Калис в Сане",
       "source": "https://en.wikipedia.org/wiki/Al-Qalis_Church",
       "tags": [
-        "Building 🏠",
         "Arabia",
-        "Christian",
+        "Aksumite",
         "Religious",
-        "Temple",
-        "Aksumite"
+        "Christian",
+        "Building 🏠",
+        "Temple"
       ],
       "type": "religious"
     },
@@ -473,17 +475,17 @@
       "name_ru": "Год слона",
       "source": "https://en.wikipedia.org/wiki/Year_of_the_Elephant",
       "tags": [
-        "Arabian",
-        "War",
-        "Legend",
         "Arabia",
-        "Christian",
-        "Elephants",
-        "Islamic",
-        "Plague",
+        "Arabian",
+        "Aksumite",
         "Qurayshite",
         "Religious",
-        "Aksumite"
+        "Christian",
+        "Islamic",
+        "War",
+        "Legend",
+        "Elephants",
+        "Plague 🦠"
       ],
       "type": "military"
     },
@@ -498,11 +500,11 @@
       "name_ru": "Дворец царицы Савской",
       "source": "https://en.wikipedia.org/wiki/Dungur",
       "tags": [
-        "Building 🏠",
-        "Architecture",
+        "Aksumite",
         "Ethiopian",
-        "Palace",
-        "Aksumite"
+        "Architecture",
+        "Building 🏠",
+        "Palace"
       ],
       "type": "historic"
     },
@@ -518,12 +520,12 @@
       "source": "https://en.wikipedia.org/wiki/Aksumite%E2%80%93Persian_wars",
       "tags": [
         "Persian",
+        "Aksumite",
+        "Sassanid",
         "War",
         "Conquest",
         "Decline",
-        "Himyarite",
-        "Sassanid",
-        "Aksumite"
+        "Himyarite"
       ],
       "type": "military"
     },
@@ -538,13 +540,13 @@
       "name_ru": "Мусульманские беженцы в Аксуме",
       "source": "https://en.wikipedia.org/wiki/Migration_to_Abyssinia",
       "tags": [
-        "Diplomacy",
+        "Aksumite",
+        "Religious",
         "Christian",
         "Islamic",
-        "Persecution",
-        "Religious",
+        "Diplomacy",
         "Tolerance",
-        "Aksumite"
+        "Persecution"
       ],
       "type": "religious"
     },
@@ -559,13 +561,13 @@
       "name_ru": "Арабский флот разоряет Адулис",
       "source": "https://en.wikipedia.org/wiki/Kingdom_of_Aksum",
       "tags": [
-        "War",
         "Arabia",
-        "Decline",
-        "Destruction",
+        "Aksumite",
         "Rashidun",
+        "War",
+        "Destruction",
         "Trade",
-        "Aksumite"
+        "Decline"
       ],
       "type": "political"
     },
@@ -580,10 +582,10 @@
       "name_ru": "Вторжения беджа и изоляция Аксума",
       "source": "https://en.wikipedia.org/wiki/Kingdom_of_Aksum",
       "tags": [
-        "Decline",
+        "Aksumite",
         "Ethiopian",
         "Invasion",
-        "Aksumite"
+        "Decline"
       ],
       "type": "political"
     },
@@ -598,12 +600,12 @@
       "name_ru": "Царица Гудит разрушает Аксум",
       "source": "https://en.wikipedia.org/wiki/Gudit",
       "tags": [
+        "Aksumite",
+        "Ethiopian",
         "War",
         "Destruction",
-        "Ethiopian",
-        "Fall",
         "Invasion",
-        "Aksumite"
+        "Fall"
       ],
       "type": "political"
     }

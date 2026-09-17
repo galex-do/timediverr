@@ -1,426 +1,463 @@
 {
   "description": "Dataset imported with 24 events",
-  "filename": "AD2_despotate_of_epirus.json",
   "events": [
     {
       "date": "01.01.1205",
+      "description": "When the Fourth Crusade shattered the Byzantine Empire in 1204, Michael I Komnenos Doukas, an illegitimate cousin of the deposed Angelos emperors, fled to the mountainous northwest corner of Greece and built a new state around the fortress town of Arta. Unlike the more centralized flight to Nicaea, Epirus began as a loose patchwork of Greek nobles, fortified towns, and Vlach and Albanian highland clans that Michael stitched together through marriage, force, and negotiation with the Venetians who now controlled much of the Aegean coast. Within a few years he had absorbed most of Epirus, Aetolia, and Thessaly, making his despotate the most immediately successful of the three Byzantine successor states even as Nicaea and Trebizond were still consolidating their own territories. Arta, rather than Constantinople, became the improbable capital of a Byzantine revival in the far northwest.",
+      "description_ru": "Когда Четвёртый крестовый поход сокрушил Византийскую империю, Михаил I Комнин Дука, незаконнорождённый родственник свергнутых императоров Ангелов, бежал в гористый северо-запад Греции и построил новое государство вокруг крепости Арта. Эпир начинался как рыхлое объединение греческой знати, укреплённых городов и валашских и албанских горных кланов, которые Михаил связал воедино браками, силой и переговорами с венецианцами, контролировавшими побережье Эгейского моря. \n\nЗа несколько лет он подчинил себе большую часть Эпира, Этолии и Фессалии, сделав своё государство самым быстрым успехом среди трёх византийских государств-преемников, пока Никея и Трапезунд ещё только укрепляли свои земли. Арта стала неожиданной столицей византийского возрождения на дальнем северо-западе.",
       "era": "AD",
-      "type": "political",
+      "latitude": 39.165655,
+      "longitude": 20.98768473,
       "name": "Michael I Komnenos Doukas Founds the Despotate of Epirus",
       "name_ru": "Михаил I Комнин Дука основывает Деспотат Эпира",
-      "description": "When the Fourth Crusade shattered the Byzantine Empire in 1204, Michael I Komnenos Doukas, an illegitimate cousin of the deposed Angelos emperors, fled to the mountainous northwest corner of Greece and built a new state around the fortress town of Arta. Unlike the more centralized flight to Nicaea, Epirus began as a loose patchwork of Greek nobles, fortified towns, and Vlach and Albanian highland clans that Michael stitched together through marriage, force, and negotiation with the Venetians who now controlled much of the Aegean coast. Within a few years he had absorbed most of Epirus, Aetolia, and Thessaly, making his despotate the most immediately successful of the three Byzantine successor states even as Nicaea and Trebizond were still consolidating their own territories. Arta, rather than Constantinople, became the improbable capital of a Byzantine revival in the far northwest.",
-      "description_ru": "Когда Четвёртый крестовый поход в 1204 году сокрушил Византийскую империю, Михаил I Комнин Дука, незаконнорождённый родственник свергнутых императоров Ангелов, бежал в гористый северо-запад Греции и построил новое государство вокруг крепости Арта. В отличие от более централизованного бегства в Никею, Эпир начинался как рыхлое объединение греческой знати, укреплённых городов и валашских и албанских горных кланов, которые Михаил связал воедино браками, силой и переговорами с венецианцами, контролировавшими побережье Эгейского моря. За несколько лет он подчинил себе большую часть Эпира, Этолии и Фессалии, сделав своё государство самым быстрым успехом среди трёх византийских государств-преемников, пока Никея и Трапезунд ещё только укрепляли свои земли. Арта, а не Константинополь, стала неожиданной столицей византийского возрождения на дальнем северо-западе.",
-      "latitude": 39.1611,
-      "longitude": 20.9836,
       "source": "https://en.wikipedia.org/wiki/Despotate_of_Epirus",
       "tags": [
-        "Epirus",
         "Byzantine",
+        "Greek",
+        "Epirus",
+        "Kingdom",
         "Foundation",
+        "King",
         "Political"
-      ]
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.1215",
+      "description": "Michael I's success earned him not only subjects but also enemies: around 1214–1215, he was assassinated by a servant, presumably out of personal vendetta. With no legitimate heir, power passed to his half-brother, Theodore Comnenus Doukas, who spent years as a hostage and courtier at the Nicaean court of Theodore I Lascaris before returning to Epirus.\n\nTheodore proved more ambitious than his predecessor: while Michael focused on holding Epirus itself, Theodore immediately began advancing eastward, into Macedonia and Thessaly, considering the fragmented Latin lands of the southern Balkans legitimate prey. His accession marked the moment when Epirus began directly competing with Nicaea for the right to one day recapture Constantinople.",
+      "description_ru": "Успех Михаила I создал ему не только подданных, но и врагов: около 1214–1215 годов он был убит слугой, предположительно из личной мести. Законного наследника не было, и власть перешла к его сводному брату Феодору Комнину Дуке, который провёл годы заложником и придворным при никейском дворе Феодора I Ласкаря, прежде чем вернуться в Эпир. \n\nФеодор оказался честолюбивее предшественника: если Михаил сосредоточился на удержании самого Эпира, то Феодор сразу начал продвигаться на восток, в Македонию и Фессалию, считая раздробленные латинские земли южных Балкан законной добычей. Его воцарение стало моментом, когда Эпир начал напрямую соперничать с Никеей за право однажды вернуть Константинополь.",
       "era": "AD",
-      "type": "political",
-      "name": "Michael I Is Assassinated, His Half-Brother Theodore Succeeds",
-      "name_ru": "Михаил I убит, ему наследует сводный брат Феодор",
-      "description": "Michael I's success made him enemies as well as subjects, and around 1214 or 1215 he was murdered by a servant, reportedly in revenge for a private grievance rather than a political conspiracy. He left no legitimate heir old enough to rule, and power passed to his half-brother Theodore Komnenos Doukas, who had spent years as a hostage and courtier at the Nicaean court of Theodore I Laskaris before returning to Epirus. Theodore proved far more ambitious than his predecessor: where Michael had focused on securing Epirus itself, Theodore immediately began pushing east into Macedonia and Thessaly, treating the fractured Latin territories of the southern Balkans as fair game. His accession marked the moment Epirus stopped being merely a refuge for Byzantine loyalists and started competing directly with Nicaea for the right to eventually reclaim Constantinople itself.",
-      "description_ru": "Успех Михаила I создал ему не только подданных, но и врагов: около 1214–1215 годов он был убит слугой, предположительно из личной мести, а не по политическому заговору. Законного наследника, достаточно взрослого для правления, не осталось, и власть перешла к его сводному брату Феодору Комнину Дуке, который провёл годы заложником и придворным при никейском дворе Феодора I Ласкаря, прежде чем вернуться в Эпир. Феодор оказался куда честолюбивее предшественника: если Михаил сосредоточился на удержании самого Эпира, то Феодор сразу начал продвигаться на восток, в Македонию и Фессалию, считая раздробленные латинские земли южных Балкан законной добычей. Его воцарение стало моментом, когда Эпир перестал быть просто убежищем византийских лоялистов и начал напрямую соперничать с Никеей за право однажды вернуть Константинополь.",
-      "latitude": 39.1611,
-      "longitude": 20.9836,
+      "latitude": 39.165655,
+      "longitude": 20.98768473,
+      "name": "Theodore succeeds the throne of Epirus",
+      "name_ru": "Феодор наследует трон Эпира",
       "source": "https://en.wikipedia.org/wiki/Michael_I_Komnenos_Doukas",
       "tags": [
-        "Epirus",
         "Byzantine",
-        "Political"
-      ]
+        "Greek",
+        "Epirus",
+        "King",
+        "Political",
+        "Expansion",
+        "Succession"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.1222",
+      "description": "As Epirus's rulers built a rival empire, its clergy built a rival church. John Apokaukos, the learned bishop of Naupaktos and a former student in Constantinople, became the intellectual architect of an Epirote ecclesiastical establishment that refused to recognize the authority of the Patriarch of Constantinople now residing in exile at Nicaea. Apokaukos and his fellow Epirote bishops argued that since the legitimate patriarchal throne had fallen with the city itself, a synod of local bishops could consecrate its own metropolitans and even crown emperors.",
+      "description_ru": "Пока правители Эпира строили соперничающую империю, его духовенство строило соперничающую церковь. Иоанн Апокавк, учёный епископ Навпакта и бывший студент Константинополя, стал идейным архитектором эпирской церковной организации, отказавшейся признавать власть патриарха Константинопольского, находившегося в изгнании в Никее. Апокавк и другие эпирские епископы утверждали, что раз законный патриарший престол пал вместе с самим городом, синод местных епископов вправе сам посвящать митрополитов и даже короновать императоров.",
       "era": "AD",
-      "type": "religious",
-      "name": "Bishop John Apokaukos Champions an Independent Epirote Church",
-      "name_ru": "Епископ Иоанн Апокавк отстаивает независимость эпирской церкви",
-      "description": "As Epirus's rulers built a rival empire, its clergy built a rival church. John Apokaukos, the learned bishop of Naupaktos and a former student in Constantinople, became the intellectual architect of an Epirote ecclesiastical establishment that refused to recognize the authority of the Patriarch of Constantinople now residing in exile at Nicaea. Apokaukos and his fellow Epirote bishops argued that since the legitimate patriarchal throne had fallen with the city itself, a synod of local bishops could consecrate its own metropolitans and even crown emperors, as it did for Theodore in 1227. His extensive surviving letters and legal rulings offer a rare window into everyday life, marriage disputes, and local governance in occupied Byzantine Greece. The standoff between the two exiled Byzantine churches, Epirote and Nicaean, mirrored the political rivalry between their states and was not resolved until Constantinople's recapture in 1261.",
-      "description_ru": "Пока правители Эпира строили соперничающую империю, его духовенство строило соперничающую церковь. Иоанн Апокавк, учёный епископ Навпакта и бывший студент Константинополя, стал идейным архитектором эпирской церковной организации, отказавшейся признавать власть патриарха Константинопольского, находившегося теперь в изгнании в Никее. Апокавк и другие эпирские епископы утверждали, что раз законный патриарший престол пал вместе с самим городом, синод местных епископов вправе сам посвящать митрополитов и даже короновать императоров, как это произошло с Феодором в 1227 году. Его обширная переписка и судебные решения дают редкое представление о повседневной жизни, брачных спорах и местном управлении в оккупированной византийской Греции. Противостояние двух изгнанных византийских церквей, эпирской и никейской, отражало политическое соперничество их государств и не разрешилось вплоть до взятия Константинополя в 1261 году.",
-      "latitude": 38.3908,
-      "longitude": 21.8281,
+      "latitude": 38.3929689,
+      "longitude": 21.82827294,
+      "name": "Independence of the Epirus Church from Constantinople",
+      "name_ru": "Независимость эпирской церкви от Константинополя",
       "source": "https://en.wikipedia.org/wiki/John_Apokaukos",
       "tags": [
-        "Epirus",
         "Byzantine",
-        "Religious"
-      ]
+        "Greek",
+        "Epirus",
+        "Religious",
+        "Christian",
+        "Orthodox",
+        "Independence"
+      ],
+      "type": "religious"
     },
     {
       "date": "01.01.1224",
-      "era": "AD",
-      "type": "military",
-      "name": "Theodore Captures Thessalonica From the Latins",
-      "name_ru": "Феодор отвоёвывает Фессалонику у латинян",
       "description": "After nearly a decade absorbing Thessaly and the Latin-held towns of Macedonia, Theodore Komnenos Doukas took the prize that transformed Epirus from a regional power into an empire in waiting: Thessalonica, the second city of Byzantium, still held by the descendants of the crusader lord Boniface of Montferrat since 1204. The Latin kingdom of Thessalonica had been weakening for years, squeezed by Bulgarian raids and a disputed succession, and Theodore's army took the city with little resistance. Overnight, Epirus controlled the wealthiest and most populous Greek city outside Constantinople itself, along with most of Macedonia and western Thrace. The conquest gave Theodore a claim to Byzantine restoration that rivaled Nicaea's, and within three years he would use his new capital to make that claim explicit by having himself crowned emperor.",
-      "description_ru": "После почти десяти лет присоединения Фессалии и латинских городов Македонии Феодор Комнин Дука взял приз, превративший Эпир из региональной державы в потенциальную империю: Фессалонику, второй город Византии, всё ещё удерживаемый потомками крестоносца Бонифация Монферратского с 1204 года. Латинское королевство Фессалоники годами слабело под болгарскими набегами и спорным престолонаследием, и войско Феодора взяло город почти без сопротивления. За одну ночь Эпир получил богатейший и самый населённый греческий город после самого Константинополя, а с ним и большую часть Македонии и западной Фракии. Завоевание дало Феодору право на византийское возрождение, соперничавшее с притязаниями Никеи, и через три года он сделает это притязание явным, короновавшись императором в новой столице.",
+      "description_ru": "После почти десяти лет присоединения Фессалии и латинских городов Македонии Феодор Комнин Дука захватил Фессалонику, второй город Византии, удерживаемый потомками крестоносца Бонифация Монферратского с 1204 года. Латинское королевство Фессалоники годами слабело под болгарскими набегами и спорным престолонаследием, и войско Феодора взяло город почти без сопротивления. \n\nЗа одну ночь Эпир получил богатейший и самый населённый греческий город после самого Константинополя, а с ним и большую часть Македонии и западной Фракии. Завоевание дало Феодору право на византийское возрождение, соперничавшее с притязаниями Никеи.",
+      "era": "AD",
       "latitude": 40.6401,
       "longitude": 22.9444,
+      "name": "Theodore Captures Thessalonica From the Latins",
+      "name_ru": "Эпир отвоёвывает Фессалонику у латинян",
       "source": "https://en.wikipedia.org/wiki/Theodore_Komnenos_Doukas",
       "tags": [
-        "Epirus",
         "Byzantine",
-        "Conquest",
-        "War"
-      ]
+        "Greek",
+        "Latin Empire",
+        "French",
+        "Epirus",
+        "War",
+        "Conquest"
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.1227",
+      "description": "With Thessalonica secured and his armies dominant across the southern Balkans, Theodore Komnenos Doukas had himself crowned Roman emperor, likely by the Archbishop of Ohrid rather than a properly consecrated patriarch. For the next fifteen years, historians refer to his state not as the Despotate but as the Empire of Thessalonica, and Theodore openly rivaled John III Vatatzes of Nicaea for the title of legitimate Byzantine emperor and the eventual right to recapture Constantinople.",
+      "description_ru": "Закрепив власть над Фессалоникой и располагая сильнейшей армией на южных Балканах, Феодор Комнин Дука короновался ромейским императором, вероятно, руками архиепископа Охридского. Следующие пятнадцать лет историки называют его государство не Деспотатом, а Фессалоникийской империей, и Феодор открыто соперничал с Иоанном III Ватацем Никейским за титул законного византийского императора и будущее право отвоевать Константинополь. ",
       "era": "AD",
-      "type": "political",
+      "latitude": 40.6401,
+      "longitude": 22.9444,
       "name": "Theodore Crowns Himself Emperor at Thessalonica",
       "name_ru": "Феодор коронуется императором в Фессалонике",
-      "description": "With Thessalonica secured and his armies dominant across the southern Balkans, Theodore Komnenos Doukas had himself crowned Roman emperor, likely by the Archbishop of Ohrid rather than a properly consecrated patriarch. For the next fifteen years, historians refer to his state not as the Despotate but as the Empire of Thessalonica, and Theodore openly rivaled John III Vatatzes of Nicaea for the title of legitimate Byzantine emperor and the eventual right to recapture Constantinople. Two emperors now claimed the same throne from two different cities eight hundred kilometers apart, each denouncing the other's coronation as uncanonical. Theodore held the stronger hand militarily in 1227, controlling more territory and a richer capital than Nicaea, and his ambitions extended toward Constantinople itself, then still held by the enfeebled Latin Empire.",
-      "description_ru": "Закрепив власть над Фессалоникой и располагая сильнейшей армией на южных Балканах, Феодор Комнин Дука короновался ромейским императором, вероятно, руками архиепископа Охридского, а не законно посвящённого патриарха. Следующие пятнадцать лет историки называют его государство не Деспотатом, а Фессалоникийской империей, и Феодор открыто соперничал с Иоанном III Ватацем Никейским за титул законного византийского императора и будущее право отвоевать Константинополь. Два императора теперь претендовали на один и тот же трон из двух городов, разделённых восемьюстами километрами, каждый объявляя коронацию соперника неканоничной. В 1227 году военное превосходство было на стороне Феодора: он владел большей территорией и более богатой столицей, чем Никея, а его амбиции простирались на сам Константинополь, всё ещё удерживаемый слабеющей Латинской империей.",
-      "latitude": 40.6401,
-      "longitude": 22.9444,
       "source": "https://en.wikipedia.org/wiki/Empire_of_Thessalonica",
       "tags": [
-        "Epirus",
         "Byzantine",
+        "Greek",
+        "Epirus",
+        "Emperor",
         "Political"
-      ]
-    },
-    {
-      "date": "01.01.1230",
-      "era": "AD",
-      "type": "military",
-      "name": "Defeat at Klokotnitsa Splits Epirus From the Thessalonian Empire",
-      "name_ru": "Поражение при Клокотнице отделяет Эпир от Фессалоникийской империи",
-      "description": "Theodore's imperial ambitions collapsed in a single afternoon when Ivan Asen II of Bulgaria crushed his army at Klokotnitsa, capturing and blinding him, a defeat remembered in Bulgarian history as the making of the Second Bulgarian Empire. The disaster shattered Theodore's realm into pieces: his brother Manuel salvaged a rump Empire of Thessalonica along the Aegean coast, while in the west the original heartland around Arta broke away under Michael II Komnenos Doukas, an illegitimate son of the founder Michael I. Michael II refused to recognize Thessalonica's authority and rebuilt Epirus as an independent despotate in its own right, distinct from the fading imperial project his uncle had built. The split meant that after 1230, Epirus and Thessalonica pursued separate, often rival, futures rather than the single Balkan empire Theodore had briefly assembled.",
-      "description_ru": "Имперские амбиции Феодора рухнули в один день, когда Иван Асень II Болгарский разгромил его войско при Клокотнице, взяв его в плен и ослепив — поражение, которое болгарская история помнит как момент становления Второго Болгарского царства. Катастрофа раздробила державу Феодора: его брат Мануил спас урезанную Фессалоникийскую империю на эгейском побережье, а на западе исконные земли вокруг Арты отделились под властью Михаила II Комнина Дуки, незаконнорождённого сына основателя Михаила I. Михаил II отказался признавать власть Фессалоники и восстановил Эпир как независимый деспотат, отдельный от угасающего имперского проекта своего дяди. С 1230 года Эпир и Фессалоника пошли разными, часто соперничающими путями, вместо единой балканской империи, которую ненадолго собрал Феодор.",
-      "latitude": 39.1611,
-      "longitude": 20.9836,
-      "source": "https://en.wikipedia.org/wiki/Michael_II_Komnenos_Doukas",
-      "tags": [
-        "Epirus",
-        "Byzantine",
-        "War",
-        "Decline"
-      ]
-    },
-    {
-      "date": "01.01.1246",
-      "era": "AD",
-      "type": "political",
-      "name": "Theodore Returns From Captivity, Then Loses Thessalonica for Good",
-      "name_ru": "Феодор возвращается из плена и окончательно теряет Фессалонику",
-      "description": "Released from Bulgarian captivity around 1237 but blind and barred from ruling in his own name, Theodore Komnenos Doukas made his way back to Thessalonica and became the power behind the throne of his sons John and Demetrios, who reigned there as figureheads through the 1240s. It was an uneasy arrangement, a blind former emperor directing policy through weaker relatives while Nicaea steadily out-maneuvered them both diplomatically and militarily. The arrangement finally collapsed in 1246, when John III Vatatzes of Nicaea marched into Macedonia and annexed Thessalonica outright, ending the last vestige of the empire Theodore had built two decades earlier. Theodore himself was taken into Nicaean custody, closing the career of the one Epirote ruler who had come closest to reversing 1204 and retaking Constantinople under his own banner rather than Nicaea's.",
-      "description_ru": "Освобождённый из болгарского плена около 1237 года, но ослеплённый и лишённый права царствовать от своего имени, Феодор Комнин Дука вернулся в Фессалонику и стал реальной властью за троном своих сыновей Иоанна и Димитрия, правивших там номинально в 1240-х годах. Это было шаткое устройство — слепой бывший император, направлявший политику через более слабых родственников, пока Никея неуклонно переигрывала их и дипломатически, и на поле боя. Устройство рухнуло окончательно в 1246 году, когда Иоанн III Ватац Никейский вошёл в Македонию и присоединил Фессалонику напрямую, положив конец последним остаткам империи, построенной Феодором двадцатью годами ранее. Сам Феодор оказался под никейской стражей, завершив карьеру единственного эпирского правителя, который был так близок к тому, чтобы обратить вспять 1204 год и вернуть Константинополь под собственным, а не никейским знаменем.",
-      "latitude": 40.6401,
-      "longitude": 22.9444,
-      "source": "https://en.wikipedia.org/wiki/Theodore_Komnenos_Doukas",
-      "tags": [
-        "Epirus",
-        "Nicaea",
-        "Byzantine",
-        "Decline"
-      ]
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.1250",
+      "description": "Michael II Komnenos Doukas marked his despotate's recovery from the Klokotnitsa disaster by founding the Church of the Parigoritissa, the Virgin of Consolation, in his capital Arta. Its unusual octagonal design packs a soaring central dome, supported on tiers of piers, over what is otherwise a fairly compact three-storey building, an engineering approach without close parallel elsewhere in the Byzantine world. \n\nDamaged sometime after Michael's death, the church was rebuilt in 1290 by his son Nikephoros I and Nikephoros's wife Anna Kantakouzene, who commissioned the mosaic of Christ Pantokrator surrounded by prophets that still crowns its dome. Later frescoes were added over the following three centuries.",
+      "description_ru": "Михаил II Комнин Дука отметил восстановление своего деспотата после катастрофы при Клокотнице основанием церкви Богородицы Паригоритиссы, «Утешительницы», в своей столице Арте. Необычная восьмигранная конструкция несёт устремлённый ввысь центральный купол на ярусах опор над в остальном довольно компактным трёхэтажным зданием — инженерное решение, почти не имеющее прямых параллелей в византийском мире. \n\nПовреждённая после смерти Михаила, церковь была восстановлена в 1290 году его сыном Никифором I и его женой Анной Кантакузиной, заказавшими мозаику Христа Пантократора в окружении пророков, до сих пор венчающую купол. В последующие три века добавлялись новые фрески.",
       "era": "AD",
-      "type": "cultural",
-      "name": "Arta's Church of the Parigoritissa Announces Epirus's Ambitions in Stone",
-      "name_ru": "Церковь Паригоритиссы в Арте заявляет об амбициях Эпира в камне",
-      "description": "Michael II Komnenos Doukas marked his despotate's recovery from the Klokotnitsa disaster by founding the Church of the Parigoritissa, the Virgin of Consolation, in his capital Arta. Its unusual octagonal design packs a soaring central dome, supported on tiers of piers, over what is otherwise a fairly compact three-storey building, an engineering approach without close parallel elsewhere in the Byzantine world. Damaged sometime after Michael's death, the church was rebuilt in 1290 by his son Nikephoros I and Nikephoros's wife Anna Kantakouzene, who commissioned the mosaic of Christ Pantokrator surrounded by prophets that still crowns its dome. Later frescoes were added over the following three centuries. The church stood as Epirus's answer to Nicaea's and Constantinople's own claims to Byzantine cultural continuity: proof that a self-styled Roman capital in the northwest Greek mountains could still commission architecture worthy of an empire.",
-      "description_ru": "Михаил II Комнин Дука отметил восстановление своего деспотата после катастрофы при Клокотнице основанием церкви Богородицы Паригоритиссы, «Утешительницы», в своей столице Арте. Необычная восьмигранная конструкция несёт устремлённый ввысь центральный купол на ярусах опор над в остальном довольно компактным трёхэтажным зданием — инженерное решение, почти не имеющее прямых параллелей в византийском мире. Повреждённая после смерти Михаила, церковь была восстановлена в 1290 году его сыном Никифором I и его женой Анной Кантакузиной, заказавшими мозаику Христа Пантократора в окружении пророков, до сих пор венчающую купол. В последующие три века добавлялись новые фрески. Церковь стала эпирским ответом на притязания Никеи и самого Константинополя на непрерывность византийской культуры: доказательством того, что самопровозглашённая ромейская столица в горах северо-западной Греции способна заказывать архитектуру, достойную империи.",
-      "latitude": 39.1611,
-      "longitude": 20.9836,
+      "latitude": 39.15877957,
+      "longitude": 20.98347902,
+      "name": "Arta's Church of the Parigoritissa",
+      "name_ru": "Церковь Паригоритиссы в Арте",
       "source": "https://en.wikipedia.org/wiki/Church_of_the_Parigoritissa",
       "tags": [
-        "Epirus",
         "Byzantine",
+        "Greek",
+        "Epirus",
         "Religious",
-        "Culture"
-      ]
+        "Christian",
+        "Orthodox",
+        "Culture",
+        "Architecture",
+        "Building 🏠",
+        "Temple"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.1259",
-      "era": "AD",
-      "type": "political",
-      "name": "Michael II Marries His Daughter to Manfred of Sicily, Ceding Corfu",
-      "name_ru": "Михаил II выдаёт дочь за Манфреда Сицилийского, уступая Корфу",
       "description": "Facing renewed pressure from an increasingly powerful Nicaea, Michael II Komnenos Doukas sought Western allies the way his uncle Theodore never had to. He married his daughter Helena to Manfred, the Hohenstaufen king of Sicily, handing over Corfu and the Adriatic port of Durazzo as her dowry, and separately allied with William of Villehardouin, the Frankish prince of Achaea, sealed by another daughter's marriage. The coalition brought together Epirus, Sicily, and Frankish Achaea against a common Nicaean threat, but it also meant permanently surrendering Epirus's most valuable coastal territory to a foreign crown in exchange for military support. The alliance would be tested within months at the battle of Pelagonia, where internal distrust among the allies, rather than any lack of numbers, would decide the outcome and reshape the balance of power across the southern Balkans.",
-      "description_ru": "Столкнувшись с растущим давлением всё более могущественной Никеи, Михаил II Комнин Дука искал западных союзников так, как никогда не приходилось его дяде Феодору. Он выдал дочь Елену замуж за Манфреда, штауфенского короля Сицилии, отдав в приданое Корфу и адриатический порт Диррахий, и отдельно заключил союз с Гийомом де Виллардуэном, франкским князем Ахеи, скреплённый браком другой дочери. Коалиция объединила Эпир, Сицилию и франкскую Ахею против общей никейской угрозы, но также означала безвозвратную уступку самой ценной прибрежной территории Эпира иностранной короне в обмен на военную поддержку. Союз будет испытан уже через несколько месяцев в битве при Пелагонии, где взаимное недоверие союзников, а не нехватка сил, решит исход сражения и переустроит баланс сил на южных Балканах.",
-      "latitude": 39.1611,
-      "longitude": 20.9836,
+      "description_ru": "Столкнувшись с растущим давлением Никеи, Михаил II Комнин Дука искал западных союзников так, как никогда не приходилось его дяде Феодору. Он выдал дочь Елену замуж за Манфреда, штауфенского короля Сицилии, отдав в приданое Корфу и адриатический порт Диррахий, и отдельно заключил союз с Гийомом де Виллардуэном, франкским князем Ахеи, скреплённый браком другой дочери. \n\nКоалиция объединила Эпир, Сицилию и франкскую Ахею против общей никейской угрозы, но также означала безвозвратную уступку самой ценной прибрежной территории Эпира иностранной короне в обмен на военную поддержку.",
+      "era": "AD",
+      "latitude": 39.165655,
+      "longitude": 20.98768473,
+      "name": "Despot of Epirus marries his daughter to Manfred of Sicily",
+      "name_ru": "Деспот Эпира выдаёт дочь за Манфреда Сицилийского",
       "source": "https://en.wikipedia.org/wiki/Michael_II_Komnenos_Doukas",
       "tags": [
-        "Epirus",
         "Byzantine",
-        "Political",
-        "Diplomacy"
-      ]
+        "Greek",
+        "Epirus",
+        "Sicily",
+        "Alliance",
+        "Diplomacy",
+        "Marriage",
+        "Political"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.1267",
+      "description": "The rout at Pelagonia in 1259 cost Michael II his Latin allies and much of his credibility, but not his throne: unlike the coalition's Frankish partners, Epirus itself was never conquered, and Michael clung to power in Arta until his death around 1266 or 1268. His son and successor Nikephoros I inherited a despotate now squeezed between a resurgent Byzantine Empire, restored to Constantinople in 1261, and ambitious Western powers eyeing the Balkans. \n\nRather than risk direct absorption by Constantinople, Nikephoros aligned Epirus with Charles of Anjou, the new Angevin king of Naples, formalized in the 1267 Treaty of Viterbo that divided nominal claims to Byzantine territory between the Angevins and the exiled Latin claimants. The arrangement kept Epirus formally independent for another generation, at the price of permanent entanglement in Italian dynastic politics.",
+      "description_ru": "Разгром при Пелагонии стоил Михаилу II латинских союзников и большей части авторитета, но не престола: в отличие от франкских участников коалиции, сам Эпир так и не был завоёван, и Михаил удерживал власть в Арте до своей смерти . Его сын и преемник Никифор I унаследовал деспотат, зажатый между возрождённой Византийской империей, вернувшейся в Константинополь в 1261 году, и честолюбивыми западными державами, посматривавшими на Балканы. \n\nЧтобы избежать прямого поглощения Константинополем, Никифор сблизился с Карлом Анжуйским, новым анжуйским королём Неаполя, что было закреплено Витербским договором 1267 года, разделившим номинальные права на византийские земли между анжуйцами и изгнанными латинскими претендентами. Эта договорённость сохранила формальную независимость Эпира ещё на поколение — ценой постоянной вовлечённости в итальянскую династическую политику.",
       "era": "AD",
-      "type": "political",
-      "name": "Epirus Survives Pelagonia and Turns to the Angevins for Protection",
-      "name_ru": "Эпир переживает Пелагонию и обращается за защитой к анжуйцам",
-      "description": "The rout at Pelagonia in 1259 cost Michael II his Latin allies and much of his credibility, but not his throne: unlike the coalition's Frankish partners, Epirus itself was never conquered, and Michael clung to power in Arta until his death around 1266 or 1268. His son and successor Nikephoros I inherited a despotate now squeezed between a resurgent Byzantine Empire, restored to Constantinople in 1261, and ambitious Western powers eyeing the Balkans. Rather than risk direct absorption by Constantinople, Nikephoros aligned Epirus with Charles of Anjou, the new Angevin king of Naples, formalized in the 1267 Treaty of Viterbo that divided nominal claims to Byzantine territory between the Angevins and the exiled Latin claimants. The arrangement kept Epirus formally independent for another generation, at the price of permanent entanglement in Italian dynastic politics.",
-      "description_ru": "Разгром при Пелагонии в 1259 году стоил Михаилу II латинских союзников и большей части авторитета, но не престола: в отличие от франкских участников коалиции, сам Эпир так и не был завоёван, и Михаил удерживал власть в Арте до своей смерти около 1266–1268 годов. Его сын и преемник Никифор I унаследовал деспотат, зажатый между возрождённой Византийской империей, вернувшейся в Константинополь в 1261 году, и честолюбивыми западными державами, посматривавшими на Балканы. Чтобы избежать прямого поглощения Константинополем, Никифор сблизился с Карлом Анжуйским, новым анжуйским королём Неаполя, что было закреплено Витербским договором 1267 года, разделившим номинальные права на византийские земли между анжуйцами и изгнанными латинскими претендентами. Эта договорённость сохранила формальную независимость Эпира ещё на поколение — ценой постоянной вовлечённости в итальянскую династическую политику.",
-      "latitude": 39.1611,
-      "longitude": 20.9836,
+      "latitude": 39.165655,
+      "longitude": 20.98768473,
+      "name": "Epirus turns to the Angevins for Protection",
+      "name_ru": "Эпир обращается за защитой к анжуйцам",
       "source": "https://en.wikipedia.org/wiki/Nikephoros_I_Komnenos_Doukas",
       "tags": [
-        "Epirus",
         "Byzantine",
-        "Political",
-        "Diplomacy"
-      ]
+        "Greek",
+        "Epirus",
+        "Diplomacy",
+        "Political"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.1318",
+      "description": "Thomas I Komnenos Doukas had ruled Epirus since the late 1290s, navigating pressure from a reunified Byzantine Empire without losing his despotate's independence. His downfall came from within his own extended family: his nephew Nicholas Orsini, the Italian count palatine of Cephalonia and son of an Epirote princess, murdered him in 1318 and seized Arta and the south. \n\nIt was the first time an Italian noble house rather than a Greek dynasty controlled the historic core of Epirus, a decisive break from a century of Komnenodoukas rule. Nicholas failed to hold the whole state together: Ioannina and the north broke away under Byzantine control rather than accept his rule, and his own attempt to secure Venetian backing to recover it went nowhere. Within five years, Nicholas would meet the same fate he had inflicted on his uncle, murdered in turn by his own brother.",
+      "description_ru": "Фома I Комнин Дука правил Эпиром с конца 1290-х годов, лавируя под давлением воссоединённой Византийской империи, но сохраняя независимость деспотата. Его гибель пришла изнутри собственной большой семьи: племянник Николай Орсини, итальянский граф-палатин Кефалонии и сын эпирской принцессы, убил его и захватил Арту с югом страны. \n\nВпервые исторический центр Эпира оказался под властью итальянского знатного рода, а не греческой династии. Николаю не удалось удержать государство целиком: Иоаннина и север отделились под византийский контроль, не приняв его власть, а его попытка заручиться венецианской поддержкой для их возврата ни к чему не привела. Не пройдёт и пяти лет, как Николая постигнет та же участь, что и его дядю, — его убьёт собственный брат.",
       "era": "AD",
-      "type": "political",
-      "name": "Nicholas Orsini Murders His Uncle Thomas I, an Italian Dynasty Takes Epirus",
-      "name_ru": "Николай Орсини убивает дядю Фому I, к власти в Эпире приходит итальянская династия",
-      "description": "Thomas I Komnenos Doukas had ruled Epirus since the late 1290s, navigating pressure from a reunified Byzantine Empire without losing his despotate's independence. His downfall came from within his own extended family: his nephew Nicholas Orsini, the Italian count palatine of Cephalonia and son of an Epirote princess, murdered him in 1318 and seized Arta and the south. It was the first time an Italian noble house rather than a Greek dynasty controlled the historic core of Epirus, a decisive break from a century of Komnenodoukas rule. Nicholas failed to hold the whole state together: Ioannina and the north broke away under Byzantine control rather than accept his rule, and his own attempt to secure Venetian backing to recover it went nowhere. Within five years, Nicholas would meet the same fate he had inflicted on his uncle, murdered in turn by his own brother.",
-      "description_ru": "Фома I Комнин Дука правил Эпиром с конца 1290-х годов, лавируя под давлением воссоединённой Византийской империи, но сохраняя независимость деспотата. Его гибель пришла изнутри собственной большой семьи: племянник Николай Орсини, итальянский граф-палатин Кефалонии и сын эпирской принцессы, убил его в 1318 году и захватил Арту с югом страны. Впервые исторический центр Эпира оказался под властью итальянского знатного рода, а не греческой династии — решительный разрыв со столетним правлением Комнинодук. Николаю не удалось удержать государство целиком: Иоаннина и север отделились под византийский контроль, не приняв его власть, а его попытка заручиться венецианской поддержкой для их возврата ни к чему не привела. Не пройдёт и пяти лет, как Николая постигнет та же участь, что и его дядю, — его убьёт собственный брат.",
-      "latitude": 39.1611,
-      "longitude": 20.9836,
+      "latitude": 39.165655,
+      "longitude": 20.98768473,
+      "name": "An Italian Dynasty Takes Epirus",
+      "name_ru": "К власти в Эпире приходит итальянская династия",
       "source": "https://en.wikipedia.org/wiki/Nicholas_Orsini",
       "tags": [
-        "Epirus",
         "Byzantine",
-        "Political"
-      ]
+        "Greek",
+        "Italian",
+        "Epirus",
+        "Dynasty",
+        "Political",
+        "Assassination",
+        "Overthrow"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.1323",
+      "description": "John Orsini repeated his brother Nicholas's crime almost exactly, murdering him in 1323 to take control of both Cephalonia and Epirus. He did not enjoy Nicholas's independence for long: within a year his own Angevin overlord stripped him of Cephalonia, and with his island power base gone, John had little choice but to make peace with Byzantine emperor Andronikos II, recognizing Byzantine suzerainty over Epirus in exchange for being confirmed in his despotate and marrying into the Palaiologan family. \n\nHe converted to Orthodox Christianity, adopted the Byzantine title of despotes, and spent the following decade balancing pro-Angevin and pro-Byzantine factions within his own court, at one point forced to submit to the Duke of Athens after a siege of Arta, then breaking free again to annex Thessaly in 1332. He died suddenly in 1335, reportedly poisoned by his own wife.",
+      "description_ru": "Иоанн Орсини почти в точности повторил преступление брата Николая, убив его в 1323 году, чтобы завладеть и Кефалонией, и Эпиром. Независимости Николая ему хватило ненадолго: уже через год анжуйский сюзерен лишил его Кефалонии, и, потеряв островную опору, Иоанн был вынужден заключить мир с византийским императором Андроником II, признав византийский сюзеренитет над Эпиром в обмен на подтверждение своего деспотата и брак с представительницей рода Палеологов. \n\nОн принял православие, получил византийский титул деспота и следующее десятилетие лавировал между проанжуйской и провизантийской партиями при собственном дворе, однажды был вынужден подчиниться герцогу Афинскому после осады Арты, а затем вновь освободился и присоединил Фессалию в 1332 году. Он внезапно умер в 1335 году, по слухам, отравленный собственной женой.",
       "era": "AD",
-      "type": "political",
-      "name": "John II Orsini Murders His Brother and Accepts Byzantine Overlordship",
-      "name_ru": "Иоанн II Орсини убивает брата и признаёт византийский сюзеренитет",
-      "description": "John Orsini repeated his brother Nicholas's crime almost exactly, murdering him in 1323 to take control of both Cephalonia and Epirus. He did not enjoy Nicholas's independence for long: within a year his own Angevin overlord stripped him of Cephalonia, and with his island power base gone, John had little choice but to make peace with Byzantine emperor Andronikos II, recognizing Byzantine suzerainty over Epirus in exchange for being confirmed in his despotate and marrying into the Palaiologan family. He converted to Orthodox Christianity, adopted the Byzantine title of despotes, and spent the following decade balancing pro-Angevin and pro-Byzantine factions within his own court, at one point forced to submit to the Duke of Athens after a siege of Arta, then breaking free again to annex Thessaly in 1332. He died suddenly in 1335, reportedly poisoned by his own wife.",
-      "description_ru": "Иоанн Орсини почти в точности повторил преступление брата Николая, убив его в 1323 году, чтобы завладеть и Кефалонией, и Эпиром. Независимости Николая ему хватило ненадолго: уже через год анжуйский сюзерен лишил его Кефалонии, и, потеряв островную опору, Иоанн был вынужден заключить мир с византийским императором Андроником II, признав византийский сюзеренитет над Эпиром в обмен на подтверждение своего деспотата и брак с представительницей рода Палеологов. Он принял православие, получил византийский титул деспота и следующее десятилетие лавировал между проанжуйской и провизантийской партиями при собственном дворе, однажды был вынужден подчиниться герцогу Афинскому после осады Арты, а затем вновь освободился и присоединил Фессалию в 1332 году. Он внезапно умер в 1335 году, по слухам, отравленный собственной женой.",
-      "latitude": 39.1611,
-      "longitude": 20.9836,
+      "latitude": 39.165655,
+      "longitude": 20.98768473,
+      "name": "John II Orsini Murders His Brother in Epirus",
+      "name_ru": "Иоанн II Орсини убивает брата в Эпире ",
       "source": "https://en.wikipedia.org/wiki/John_II_Orsini",
       "tags": [
-        "Epirus",
         "Byzantine",
-        "Political"
-      ]
+        "Greek",
+        "Italian",
+        "Epirus",
+        "Political",
+        "Assassination",
+        "Overthrow",
+        "Vassalage"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.1338",
+      "description": "John II Orsini's death in 1335 left Epirus in the hands of his seven-year-old son Nikephoros II, under the regency of his mother Anna Palaiologina. Byzantine emperor Andronikos III Palaiologos seized the opening, invading in 1336, annexing Epirote Thessaly, and advancing on Ioannina. When Anna came to negotiate in 1338, Andronikos refused to recognize her son as even a vassal ruler and simply installed his own governors across Epirus.",
+      "description_ru": "Смерть Иоанна II Орсини в 1335 году оставила Эпир в руках его семилетнего сына Никифора II под регентством матери, Анны Палеологины. Византийский император Андроник III Палеолог воспользовался моментом, вторгшись в 1336 году, присоединив эпирскую Фессалию и продвинувшись к Иоаннине. Когда в 1338 году Анна прибыла на переговоры, Андроник отказался признать её сына даже вассальным правителем и просто назначил по всему Эпиру собственных наместников.",
       "era": "AD",
-      "type": "military",
+      "latitude": 39.67137194,
+      "longitude": 20.86046219,
       "name": "Andronikos III Annexes Epirus Into the Byzantine Empire",
       "name_ru": "Андроник III присоединяет Эпир к Византийской империи",
-      "description": "John II Orsini's death in 1335 left Epirus in the hands of his seven-year-old son Nikephoros II, under the regency of his mother Anna Palaiologina. Byzantine emperor Andronikos III Palaiologos seized the opening, invading in 1336, annexing Epirote Thessaly, and advancing on Ioannina. When Anna came to negotiate in 1338, Andronikos refused to recognize her son as even a vassal ruler and simply installed his own governors across Epirus, ending 130 years of local dynastic rule outright rather than through the usual arrangement of tribute and nominal loyalty. It was the first time since 1205 that Epirus had no ruler of its own at all, Greek, Italian, or otherwise. Andronikos kept the young Nikephoros's mother as a hostage in Constantinople and arranged his eventual marriage into the powerful Kantakouzenos family to neutralize any future claim to independent rule.",
-      "description_ru": "Смерть Иоанна II Орсини в 1335 году оставила Эпир в руках его семилетнего сына Никифора II под регентством матери, Анны Палеологины. Византийский император Андроник III Палеолог воспользовался моментом, вторгшись в 1336 году, присоединив эпирскую Фессалию и продвинувшись к Иоаннине. Когда в 1338 году Анна прибыла на переговоры, Андроник отказался признать её сына даже вассальным правителем и просто назначил по всему Эпиру собственных наместников, разом покончив со ста тридцатью годами местного династического правления, а не ограничившись обычной данью и номинальной верностью. Впервые с 1205 года у Эпира вообще не было собственного правителя — ни греческого, ни итальянского. Андроник удерживал мать юного Никифора заложницей в Константинополе и устроил его будущий брак с влиятельным родом Кантакузинов, чтобы нейтрализовать любые будущие притязания на независимое правление.",
-      "latitude": 39.665,
-      "longitude": 20.8537,
       "source": "https://en.wikipedia.org/wiki/Nikephoros_II_Orsini",
       "tags": [
-        "Epirus",
         "Byzantine",
+        "Greek",
+        "Epirus",
+        "War",
         "Conquest",
-        "War"
-      ]
+        "Annexation"
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.1339",
+      "description": "Epirus's pro-independence nobles were not ready to accept direct Byzantine rule. They smuggled the exiled boy-ruler Nikephoros II out to the court of Catherine of Valois, the Angevin titular Empress of Constantinople in Taranto, hoping her backing could restore him. In late 1338, with Catherine's encouragement, the Epirotes rose up in Arta, seized the city and its Byzantine governor Theodore Synadenos, and brought Nikephoros back across the Adriatic to lead them. \n\nAndronikos III and his general John Kantakouzenos reacted swiftly, besieging Nikephoros at the fortress of Thomokastron and negotiating his surrender with a promise of safety. Rather than punish him, the Byzantines absorbed him: Nikephoros was married to Kantakouzenos's daughter, given a Byzantine court title, and brought to Constantinople, closing off any further Epirote challenge to Byzantine rule for over a decade.",
+      "description_ru": "Эпирская знать, стремившаяся к независимости, не желала мириться с прямым византийским правлением. Изгнанного мальчика-правителя Никифора II тайно переправили ко двору Екатерины Валуа, анжуйской титулярной императрицы Константинопольской в Таранто, в надежде на её поддержку для восстановления его власти. В конце 1338 года, с одобрения Екатерины, эпироты восстали в Арте, захватили город и византийского наместника Феодора Синадина и переправили Никифора обратно через Адриатику, чтобы он возглавил восстание. \n\nАндроник III и его полководец Иоанн Кантакузин отреагировали быстро, осадив Никифора в крепости Томокастрон и добившись его сдачи под обещание безопасности. Вместо наказания византийцы включили его в свою систему: Никифора женили на дочери Кантакузина, дали ему византийский придворный титул и увезли в Константинополь, закрыв на десятилетие с лишним любую эпирскую угрозу византийскому правлению.",
       "era": "AD",
-      "type": "military",
-      "name": "An Angevin-Backed Revolt in Arta Fails to Restore Epirote Independence",
-      "name_ru": "Анжуйское восстание в Арте не восстанавливает независимость Эпира",
-      "description": "Epirus's pro-independence nobles were not ready to accept direct Byzantine rule. They smuggled the exiled boy-ruler Nikephoros II out to the court of Catherine of Valois, the Angevin titular Empress of Constantinople in Taranto, hoping her backing could restore him. In late 1338, with Catherine's encouragement, the Epirotes rose up in Arta, seized the city and its Byzantine governor Theodore Synadenos, and brought Nikephoros back across the Adriatic to lead them. Andronikos III and his general John Kantakouzenos reacted swiftly, besieging Nikephoros at the fortress of Thomokastron and negotiating his surrender with a promise of safety. Rather than punish him, the Byzantines absorbed him: Nikephoros was married to Kantakouzenos's daughter, given a Byzantine court title, and brought to Constantinople, closing off any further Epirote challenge to Byzantine rule for over a decade.",
-      "description_ru": "Эпирская знать, стремившаяся к независимости, не желала мириться с прямым византийским правлением. Изгнанного мальчика-правителя Никифора II тайно переправили ко двору Екатерины Валуа, анжуйской титулярной императрицы Константинопольской в Таранто, в надежде на её поддержку для восстановления его власти. В конце 1338 года, с одобрения Екатерины, эпироты восстали в Арте, захватили город и византийского наместника Феодора Синадина и переправили Никифора обратно через Адриатику, чтобы он возглавил восстание. Андроник III и его полководец Иоанн Кантакузин отреагировали быстро, осадив Никифора в крепости Томокастрон и добившись его сдачи под обещание безопасности. Вместо наказания византийцы включили его в свою систему: Никифора женили на дочери Кантакузина, дали ему византийский придворный титул и увезли в Константинополь, закрыв на десятилетие с лишним любую эпирскую угрозу византийскому правлению.",
-      "latitude": 39.1611,
-      "longitude": 20.9836,
+      "latitude": 39.165655,
+      "longitude": 20.98768473,
+      "name": "An Angevin-Backed Revolt in Arta",
+      "name_ru": "Анжуйское восстание в Арте",
       "source": "https://en.wikipedia.org/wiki/Nikephoros_II_Orsini",
       "tags": [
-        "Epirus",
         "Byzantine",
+        "Greek",
+        "Epirus",
         "War",
-        "Defeat"
-      ]
+        "Rebellion"
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.1348",
+      "description": "A decade of Byzantine civil war between John V Palaiologos and John VI Kantakouzenos left Epirus poorly defended and gave Serbia's expansionist emperor Stefan Dušan an opening he had been waiting for. Having already absorbed Macedonia and Albania in a string of campaigns, Dušan's forces overran Epirus and Thessaly in the late 1340s, adding Greece's northwest to what was already the largest state in the Balkans, stretching from the Danube to the Gulf of Corinth. Dušan appointed his half-brother Simeon Uroš as governor.",
+      "description_ru": "Десятилетие византийской гражданской войны между Иоанном V Палеологом и Иоанном VI Кантакузином оставило Эпир слабо защищённым и дало экспансионистскому сербскому императору Стефану Душану давно ожидаемую возможность. Уже присоединив Македонию и Албанию серией походов, войска Душана в конце 1340-х годов заняли Эпир и Фессалию, добавив северо-запад Греции к и без того крупнейшему государству Балкан, простиравшемуся от Дуная до Коринфского залива. Душан назначил сводного брата Симеона Уроша наместником.",
       "era": "AD",
-      "type": "military",
-      "name": "Serbian Emperor Stefan Dušan Conquers Epirus",
-      "name_ru": "Сербский император Стефан Душан завоёвывает Эпир",
-      "description": "A decade of Byzantine civil war between John V Palaiologos and John VI Kantakouzenos left Epirus poorly defended and gave Serbia's expansionist emperor Stefan Dušan an opening he had been waiting for. Having already absorbed Macedonia and Albania in a string of campaigns, Dušan's forces overran Epirus and Thessaly in the late 1340s, adding Greece's northwest to what was already the largest state in the Balkans, stretching from the Danube to the Gulf of Corinth. Dušan did not rule Epirus directly from Serbia; instead he installed relatives as regional governors, including his half-brother Simeon Uroš, who received Epirus and Acarnania in 1347. For the first time, Epirus's rulers answered not to Constantinople, Nicaea, Italy, or their own dynasty, but to a Serbian imperial court that itself claimed the title of Emperor of the Serbs and Greeks.",
-      "description_ru": "Десятилетие византийской гражданской войны между Иоанном V Палеологом и Иоанном VI Кантакузином оставило Эпир слабо защищённым и дало экспансионистскому сербскому императору Стефану Душану давно ожидаемую возможность. Уже присоединив Македонию и Албанию серией походов, войска Душана в конце 1340-х годов заняли Эпир и Фессалию, добавив северо-запад Греции к и без того крупнейшему государству Балкан, простиравшемуся от Дуная до Коринфского залива. Душан не управлял Эпиром напрямую из Сербии, а назначал наместниками родственников, в том числе сводного брата Симеона Уроша, получившего Эпир и Акарнанию в 1347 году. Впервые правители Эпира подчинялись не Константинополю, не Никее, не Италии и не собственной династии, а сербскому императорскому двору, который сам претендовал на титул императора сербов и греков.",
-      "latitude": 39.1611,
-      "longitude": 20.9836,
+      "latitude": 39.165655,
+      "longitude": 20.98768473,
+      "name": "Serbian Emperor Conquers Epirus",
+      "name_ru": "Сербский император завоёвывает Эпир",
       "source": "https://en.wikipedia.org/wiki/Simeon_Uro%C5%A1",
       "tags": [
-        "Epirus",
         "Byzantine",
-        "Conquest",
-        "War"
-      ]
+        "Greek",
+        "Slavic",
+        "Serbian",
+        "Epirus",
+        "War",
+        "Conquest"
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.1356",
-      "era": "AD",
-      "type": "military",
-      "name": "Nikephoros II Orsini Returns From Byzantium to Reclaim Epirus",
-      "name_ru": "Никифор II Орсини возвращается из Византии, чтобы вернуть Эпир",
       "description": "Stefan Dušan's death in 1355 threw Serbia's Balkan conquests into disarray, and Nikephoros II Orsini, the former boy-ruler now grown and married into the Kantakouzenos family in Constantinople, seized the moment to reclaim the inheritance the Byzantines had taken from him seventeen years earlier. Landing in Thessaly in the spring of 1356, he exploited the death of the region's Serbian governor to take control, then advanced into Epirus itself, driving out Simeon Uroš, Dušan's half-brother and the sitting Serbian ruler of Arta, who happened to be married to Nikephoros's own sister. Nikephoros set aside his Kantakouzenos wife to strengthen local alliances and secured the towns of the region, but the mountainous countryside beyond the walled towns remained effectively ungovernable, overrun by autonomous Albanian clans his predecessors had never fully subdued.",
-      "description_ru": "Смерть Стефана Душана в 1355 году внесла хаос в сербские балканские завоевания, и Никифор II Орсини, бывший мальчик-правитель, выросший и женившийся на представительнице рода Кантакузинов в Константинополе, воспользовался моментом, чтобы вернуть наследство, отнятое у него византийцами семнадцатью годами ранее. Высадившись в Фессалии весной 1356 года, он воспользовался смертью местного сербского наместника, чтобы взять область под контроль, а затем двинулся в сам Эпир, изгнав Симеона Уроша — сводного брата Душана и действовавшего сербского правителя Арты, который к тому же был женат на его собственной сестре. Никифор развёлся с женой из рода Кантакузинов ради укрепления местных союзов и закрепился в городах области, но горная сельская местность за пределами крепостных стен оставалась фактически неуправляемой, занятой самостоятельными албанскими кланами, которых его предшественники так и не смогли покорить полностью.",
-      "latitude": 39.1611,
-      "longitude": 20.9836,
+      "description_ru": "Смерть Стефана Душана в 1355 году внесла хаос в сербские балканские завоевания, и Никифор II Орсини, бывший мальчик-правитель, выросший и женившийся на представительнице рода Кантакузинов в Константинополе, воспользовался моментом, чтобы вернуть наследство, отнятое у него византийцами. Высадившись в Фессалии весной 1356 года, он воспользовался смертью местного сербского наместника, чтобы взять область под контроль, а затем двинулся в сам Эпир, изгнав Симеона Уроша — сводного брата Душана и действовавшего сербского правителя Арты, который к тому же был женат на его собственной сестре. \n\nНикифор развёлся с женой из рода Кантакузинов ради укрепления местных союзов и закрепился в городах области, но горная сельская местность за пределами крепостных стен оставалась фактически неуправляемой, занятой самостоятельными албанскими кланами, которых его предшественники так и не смогли покорить полностью.",
+      "era": "AD",
+      "latitude": 39.165655,
+      "longitude": 20.98768473,
+      "name": "Nikephoros II Orsini Returns From Byzantium to Reclaim Epirus",
+      "name_ru": "Никифор II Орсини возвращается из Византии в Эпир",
       "source": "https://en.wikipedia.org/wiki/Nikephoros_II_Orsini",
       "tags": [
+        "Byzantine",
+        "Greek",
+        "Albanian",
+        "Slavic",
+        "Serbian",
         "Epirus",
         "War",
         "Conquest"
-      ]
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.1359",
+      "description": "The Albanian clans Nikephoros II Orsini could not control in the countryside proved his undoing. Near the river Achelous in Aetolia in 1359, an Albanian force under the chieftain Karl Thopia met Nikephoros's army in battle and destroyed it, killing Nikephoros himself. With no ruling dynasty left standing, Epirus fractured for good: Albanian clans carved the south into two new statelets, the Despotate of Arta and the Despotate of Angelokastron and Lepanto, while only the city of Ioannina in the north held out under continued Greek administration. ",
+      "description_ru": "У реки Ахелой в Этолии в 1359 году местное албанское войско под предводительством вождя Карла Топии встретилось с армией Никифора и уничтожило её, убив самого правителя. Не осталось ни одной правящей династии, и Эпир распался: албанские кланы разделили юг на два новых государства — Деспотат Арты и Деспотат Ангелокастрона и Лепанто, — только город Иоаннина на севере удержался под греческим управлением. ",
       "era": "AD",
-      "type": "military",
-      "name": "Albanian Clans Kill Nikephoros II and Fracture Epirus at Achelous",
-      "name_ru": "Албанские кланы убивают Никифора II и раскалывают Эпир при Ахелое",
-      "description": "The Albanian clans Nikephoros II Orsini could not control in the countryside proved his undoing. Near the river Achelous in Aetolia in 1359, an Albanian force under the chieftain Karl Thopia met Nikephoros's army in battle and destroyed it, killing Nikephoros himself. With no ruling dynasty left standing, Epirus fractured for good: Albanian clans carved the south into two new statelets, the Despotate of Arta and the Despotate of Angelokastron and Lepanto, while only the city of Ioannina in the north held out under continued Greek administration. It was the definitive end of any single ruler governing the territory Michael I had unified a century and a half earlier. Epirus would never again exist as one state under one crown; from Achelous onward, its history splits into separate, parallel threads of Albanian, Serbian, Italian, and Greek local rule.",
-      "description_ru": "Албанские кланы, которых Никифор II Орсини не смог подчинить в сельской местности, стали причиной его гибели. У реки Ахелой в Этолии в 1359 году албанское войско под предводительством вождя Карла Топии встретилось с армией Никифора и уничтожило её, убив самого правителя. Не осталось ни одной правящей династии, и Эпир окончательно распался: албанские кланы разделили юг на два новых государства — Деспотат Арты и Деспотат Ангелокастрона и Лепанто, — тогда как только город Иоаннина на севере удержался под продолжающимся греческим управлением. Это стало окончательным концом единого правления над территорией, объединённой Михаилом I полтора века назад. Эпир больше никогда не существовал как единое государство под одной короной: с битвы при Ахелое его история распадается на отдельные, параллельные линии албанского, сербского, итальянского и греческого местного правления.",
       "latitude": 38.9,
       "longitude": 21.1,
+      "name": "Albanian Clans Kill Nikephoros II and Fracture Epirus",
+      "name_ru": "Албанские кланы убивают Никифора II и раскалывают Эпир",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Achelous_(1359)",
       "tags": [
+        "Greek",
+        "Albanian",
         "Epirus",
         "War",
-        "Decline",
-        "Defeat"
-      ]
+        "Battle",
+        "Collapse",
+        "Decline"
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.1367",
+      "description": "With Arta and the south lost to Albanian clans, Ioannina became the last redoubt of organized government in Epirus, and around 1367 it fell under the rule of Thomas Preljubović, a Serbian nobleman married to Maria Angelina Doukaina Palaiologina, a descendant of the old Epirote ruling house. \n\nThomas held the city for seventeen years through a combination of fortification, harsh taxation, and a deeply unpopular alliance with the Ottoman Turks, whom he used as mercenaries against the surrounding Albanian clans besieging Ioannina. Contemporary chroniclers, largely hostile, describe a paranoid and vindictive ruler who blinded and mutilated rivals and alienated even his own nobility and clergy.",
+      "description_ru": "После потери Арты и юга под властью албанских кланов Иоаннина осталась последним оплотом организованной власти в Эпире, и около 1367 года перешла под правление Фомы Прелюбовича, сербского вельможи, женатого на Марии Ангелине Дукене Палеологине, потомице старого эпирского правящего дома. \n\nФома удерживал город семнадцать лет сочетанием укреплений, жестоких налогов и глубоко непопулярного союза с турками-османами, которых он использовал как наёмников против окружавших Иоаннину албанских кланов. Современные хронисты, в основном враждебные ему, описывают параноидального и мстительного правителя, ослеплявшего и калечившего соперников и оттолкнувшего даже собственную знать и духовенство.",
       "era": "AD",
-      "type": "political",
-      "name": "Thomas Preljubović Rules Ioannina Through Terror and Ottoman Alliance",
-      "name_ru": "Фома Прелюбович правит Иоанниной через террор и союз с османами",
-      "description": "With Arta and the south lost to Albanian clans, Ioannina became the last redoubt of organized government in Epirus, and around 1367 it fell under the rule of Thomas Preljubović, a Serbian nobleman married to Maria Angelina Doukaina Palaiologina, a descendant of the old Epirote ruling house. Thomas held the city for seventeen years through a combination of fortification, harsh taxation, and a deeply unpopular alliance with the Ottoman Turks, whom he used as mercenaries against the surrounding Albanian clans besieging Ioannina. Contemporary chroniclers, largely hostile, describe a paranoid and vindictive ruler who blinded and mutilated rivals and alienated even his own nobility and clergy. His reign illustrates how far Epirus's fragments had drifted from any unified Byzantine restoration project: survival now meant playing outside powers, including the rising Ottoman state, against local rivals just to hold a single walled city.",
-      "description_ru": "После потери Арты и юга под властью албанских кланов Иоаннина осталась последним оплотом организованной власти в Эпире, и около 1367 года она перешла под правление Фомы Прелюбовича, сербского вельможи, женатого на Марии Ангелине Дукене Палеологине, потомице старого эпирского правящего дома. Фома удерживал город семнадцать лет сочетанием укреплений, жестоких налогов и глубоко непопулярного союза с турками-османами, которых он использовал как наёмников против окружавших Иоаннину албанских кланов. Современные хронисты, в основном враждебные ему, описывают параноидального и мстительного правителя, ослеплявшего и калечившего соперников и оттолкнувшего даже собственную знать и духовенство. Его правление показывает, насколько далеко разошлись осколки Эпира с единым проектом византийского возрождения: выживание теперь означало натравливать внешние силы, включая набирающее мощь османское государство, на местных соперников — ради удержания одного-единственного укреплённого города.",
-      "latitude": 39.665,
-      "longitude": 20.8537,
+      "latitude": 39.67137194,
+      "longitude": 20.86046219,
+      "name": "Thomas Preljubović Rules Ioannina",
+      "name_ru": "Фома Прелюбович правит Иоанниной",
       "source": "https://en.wikipedia.org/wiki/Thomas_Preljubovi%C4%87",
       "tags": [
+        "Byzantine",
+        "Slavic",
+        "Serbian",
         "Epirus",
         "Political",
-        "Byzantine"
-      ]
+        "Governor"
+      ],
+      "type": "political"
     },
     {
       "date": "23.12.1384",
-      "era": "AD",
-      "type": "political",
-      "name": "Thomas Preljubović Is Assassinated; His Widow Rules Ioannina Alone",
-      "name_ru": "Фома Прелюбович убит; его вдова правит Иоанниной единолично",
       "description": "Thomas Preljubović's cruelty finally caught up with him: on 23 December 1384, his own palace guards stabbed him to death in a conspiracy that his wife Maria Angelina Doukaina Palaiologina was widely believed to have helped organize. Rather than remarry immediately or hand power to a male relative, Maria assumed rule of Ioannina herself, styling herself basilissa, empress, in her own right for roughly a year, an unusual instance of a woman openly holding sovereign power in the fractured late-Byzantine world. Maria and Thomas had been noted patrons of religious art during his reign, commissioning icons and manuscripts that still survive, a cultural legacy oddly at odds with his political reputation. Maria's solo rule proved a transitional arrangement rather than a lasting one: within a year she remarried, bringing a new foreign-born ruler, the Florentine nobleman Esau de' Buondelmonti, into control of the city.",
-      "description_ru": "Жестокость Фомы Прелюбовича в итоге настигла его: 23 декабря 1384 года собственная дворцовая стража заколола его в результате заговора, в организации которого многие подозревали его жену Марию Ангелину Дукену Палеологину. Вместо того чтобы сразу выйти замуж вновь или передать власть родственнику-мужчине, Мария сама взяла на себя правление Иоанниной, назвав себя василиссой, императрицей, примерно на год — необычный случай, когда женщина открыто держала суверенную власть в раздробленном поздневизантийском мире. Мария и Фома были известны как покровители религиозного искусства в его правление, заказывая иконы и рукописи, сохранившиеся до наших дней, — культурное наследие, странно не сочетающееся с его политической репутацией. Единоличное правление Марии оказалось переходным, а не постоянным: в течение года она вышла замуж вновь, приведя к власти в городе нового чужеземного правителя — флорентийского дворянина Исава Буондельмонти.",
-      "latitude": 39.665,
-      "longitude": 20.8537,
+      "description_ru": "Жестокость Фомы Прелюбовича в итоге настигла его: собственная дворцовая стража заколола его в результате заговора, в организации которого многие подозревали его жену Марию Ангелину Дукену Палеологину. После этого Мария сама взяла на себя правление Иоанниной, назвав себя василиссой, императрицей, примерно на год — необычный случай, когда женщина открыто держала суверенную власть в раздробленном поздневизантийском мире. \n\nМария и Фома были известны как покровители религиозного искусства в его правление, заказывая иконы и рукописи, сохранившиеся до наших дней, — культурное наследие, странно не сочетающееся с его политической репутацией. Единоличное правление Марии оказалось переходным, а не постоянным: в течение года она вышла замуж вновь, приведя к власти в городе нового чужеземного правителя — флорентийского дворянина Исава Буондельмонти.",
+      "era": "AD",
+      "latitude": 39.67137194,
+      "longitude": 20.86046219,
+      "name": "Thomas Preljubović Is Assassinated in Ioannina ",
+      "name_ru": "Убийство Фомы Прелюбовича в Иоаннине",
       "source": "https://en.wikipedia.org/wiki/Maria_Angelina_Doukaina_Palaiologina",
       "tags": [
+        "Greek",
         "Epirus",
+        "Culture",
         "Political",
-        "Culture"
-      ]
+        "Conspiracy",
+        "Murder"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.1385",
+      "description": "Esau de' Buondelmonti, a Florentine nobleman with no prior connection to Byzantium, became ruler of Ioannina in 1385 through his marriage to the widowed basilissa Maria Angelina Doukaina Palaiologina, and was granted the Byzantine title of despot to legitimize his rule over the last unconquered fragment of the old despotate's heartland. His twenty-six-year reign was comparatively stable after decades of assassination and civil strife, though it unfolded against a backdrop of mounting Ottoman power across the Balkans following their victory at Kosovo in 1389. \n\nEsau maintained Ioannina's precarious independence through tribute and careful diplomacy rather than military strength, a pattern increasingly common among the small Christian states that survived in the Ottoman sultans' shadow. ",
+      "description_ru": "Исав Буондельмонти, флорентийский дворянин, прежде не имевший связей с Византией, стал правителем Иоаннины в 1385 году благодаря браку с овдовевшей василиссой Марией Ангелиной Дукеной Палеологиной и получил византийский титул деспота, узаконивший его власть над последним непокорённым осколком Эпира. Его двадцатишестилетнее правление оказалось сравнительно стабильным после десятилетий убийств и междоусобиц, хотя проходило на фоне растущей османской мощи на Балканах после победы турок на Косовом поле в 1389 году. \n\nИсав удерживал шаткую независимость Иоаннины данью и осторожной дипломатией, а не военной силой — модель, всё более распространённая среди малых христианских государств, выживавших в тени османских султанов.",
       "era": "AD",
-      "type": "political",
-      "name": "A Florentine Nobleman Rules Ioannina as Its Byzantine-Style Despot",
-      "name_ru": "Флорентийский дворянин правит Иоанниной как деспот на византийский лад",
-      "description": "Esau de' Buondelmonti, a Florentine nobleman with no prior connection to Byzantium, became ruler of Ioannina in 1385 through his marriage to the widowed basilissa Maria Angelina Doukaina Palaiologina, and was granted the Byzantine title of despot to legitimize his rule over the last unconquered fragment of the old despotate's heartland. His twenty-six-year reign was comparatively stable after decades of assassination and civil strife, though it unfolded against a backdrop of mounting Ottoman power across the Balkans following their victory at Kosovo in 1389. Esau maintained Ioannina's precarious independence through tribute and careful diplomacy rather than military strength, a pattern increasingly common among the small Christian states that survived in the Ottoman sultans' shadow. His death in 1411 without an obvious heir opened a succession crisis that the ambitious Italian count Carlo Tocco of Cephalonia was ready to exploit.",
-      "description_ru": "Исав Буондельмонти, флорентийский дворянин, прежде не имевший связей с Византией, стал правителем Иоаннины в 1385 году благодаря браку с овдовевшей василиссой Марией Ангелиной Дукеной Палеологиной и получил византийский титул деспота, узаконивший его власть над последним непокорённым осколком старого деспотата. Его двадцатишестилетнее правление оказалось сравнительно стабильным после десятилетий убийств и междоусобиц, хотя проходило на фоне растущей османской мощи на Балканах после победы турок на Косовом поле в 1389 году. Исав удерживал шаткую независимость Иоаннины данью и осторожной дипломатией, а не военной силой — модель, всё более распространённая среди малых христианских государств, выживавших в тени османских султанов. Его смерть в 1411 году без явного наследника открыла кризис престолонаследия, которым не преминул воспользоваться честолюбивый итальянский граф Карло Токко Кефалонийский.",
-      "latitude": 39.665,
-      "longitude": 20.8537,
+      "latitude": 39.67137194,
+      "longitude": 20.86046219,
+      "name": "A Florentine Nobleman Rules Ioannina as Its Despot",
+      "name_ru": "Флорентийский дворянин правит Иоанниной как деспот",
       "source": "https://en.wikipedia.org/wiki/Esau_de%27_Buondelmonti",
       "tags": [
+        "Byzantine",
+        "Italian",
         "Epirus",
-        "Political",
-        "Byzantine"
-      ]
+        "Florence",
+        "King",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1411",
+      "description": "Until 1411, the city was ruled by Despot Esau de Buondelmonti. After his death in early 1411, power formally passed to his young son Giorgio, with his mother, Eudokia Balšić, unpopular with the people, serving as regent. The archons of Ioannina rebelled, overthrew Eudokia and her son, and expelled them from the city just two months after Esau's death.\n\nLost in leadership and under constant threat of attack from hostile Albanian clans, the city's residents decided to seek an external protector. The choice fell on Carlo I Tocco, already a powerful ruler of the neighboring Ionian Islands (Count of Cephalonia and Zakynthos) and nephew of the late Despot Esau.",
+      "description_ru": "До 1411 года городом правил деспот Исав де Буондельмонти. После его смерти в начале 1411 года власть формально перешла к его малолетнему сыну Джорджо, при котором регентом стала его мать — Евдокия Балшич, непопулярная в народе. Архонты Иоаннины подняли восстание, свергли Евдокию с сыном и изгнали их из города всего через два месяца после смерти Исава.\n\nОказавшись без правителя и под постоянной угрозой нападения со стороны враждебных албанских кланов, жители города решили обратиться к внешнему защитнику. Выбор пал на Карло I Токко, который уже был могущественным правителем соседних Ионических островов (графом Кефалинии и Закинфа) и племянником покойного деспота Исава",
+      "era": "AD",
+      "latitude": 39.67137194,
+      "longitude": 20.86046219,
+      "name": "Carlo I Tocco - Despot of Ioannina",
+      "name_ru": "Карло I Токко — деспот Иоаннины",
+      "source": "https://en.wikipedia.org/wiki/Carlo_I_Tocco",
+      "tags": [
+        "Greek",
+        "Italian",
+        "Epirus",
+        "King",
+        "Overthrow"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.1416",
+      "description": "Carlo I Tocco, the Italian Count Palatine of Cephalonia and Zakynthos and Despot of Ioannina since 1411, conquered Arta in 1416, wresting it from the Albanian Despotate of Arta. For the first time in fifty-seven years, a single ruler once again controlled both halves of historical Epirus, north and south, Greek and Albanian populations, under a single dynasty of Italian origin, ruling in the Byzantine style with Byzantine court titles.",
+      "description_ru": "Карло I Токко, итальянский граф-палатин Кефалонии и Закинфа и деспот Иоаннины с 1411, в 1416 году завоевал Арту, отняв её у албанского Деспотата Арты. Впервые за пятьдесят семь лет один правитель вновь контролировал обе половины исторического Эпира, север и юг, греческое и албанское население, — под властью единой итальянской по происхождению династии, правившей в византийском стиле с византийскими придворными титулами.",
       "era": "AD",
-      "type": "military",
+      "latitude": 39.165655,
+      "longitude": 20.98768473,
       "name": "Carlo I Tocco Reunites Ioannina and Arta Under One Ruler",
-      "name_ru": "Карло I Токко воссоединяет Иоаннину и Арту под властью одного правителя",
-      "description": "Carlo I Tocco, the Italian count palatine of Cephalonia and Zakynthos, took Ioannina in 1411 after Esau de' Buondelmonti's death left the succession contested, becoming despot of the city his predecessors had governed for over a century. He did not stop there: in 1416, he conquered Arta from the Albanian-ruled Despotate of Arta, the statelet carved out of Epirus's old heartland after the 1359 battle of Achelous. For the first time in fifty-seven years, one ruler again controlled both halves of historic Epirus, north and south, Greek and Albanian populations alike, under a single Italian-descended dynasty ruling in the Byzantine style with Byzantine court titles. Tocco's brief reunification came remarkably late, as the Ottoman Empire was by now the dominant power across the southern Balkans, and his restored despotate would survive barely a decade before facing direct Ottoman conquest.",
-      "description_ru": "Карло I Токко, итальянский граф-палатин Кефалонии и Закинфа, взял Иоаннину в 1411 году, когда смерть Исава Буондельмонти вызвала спор о наследовании, став деспотом города, которым его предшественники правили более столетия. На этом он не остановился: в 1416 году он завоевал Арту, отняв её у албанского Деспотата Арты — государства, выделившегося из старых эпирских земель после битвы при Ахелое 1359 года. Впервые за пятьдесят семь лет один правитель вновь контролировал обе половины исторического Эпира, север и юг, греческое и албанское население, — под властью единой итальянской по происхождению династии, правившей в византийском стиле с византийскими придворными титулами. Воссоединение Токко произошло удивительно поздно: к этому времени Османская империя уже господствовала на южных Балканах, и восстановленный деспотат просуществует едва ли десятилетие, прежде чем столкнётся с прямым османским завоеванием.",
-      "latitude": 39.1611,
-      "longitude": 20.9836,
+      "name_ru": "Карло I Токко отбивает Арту у албанского деспотата",
       "source": "https://en.wikipedia.org/wiki/Carlo_I_Tocco",
       "tags": [
+        "Greek",
+        "Albanian",
+        "Italian",
         "Epirus",
-        "Byzantine",
+        "War",
         "Conquest"
-      ]
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.1430",
+      "description": "In 1430, the Ottoman general Sinan Pasha advanced on Ioannina under Carlo II Tocco, Carlo I's successor, and the city's notables chose negotiation over a doomed defense. Rather than storming the walls, the Ottomans accepted a formal surrender and issued an ahdname, a sultanic charter of capitulation guaranteeing the city's Christian inhabitants continued possession of their property, freedom of worship, and a measure of local self-governance under Ottoman suzerainty. \n\nThe peaceful transfer spared Ioannina the destruction that conquered cities typically suffered and set a template the Ottomans would reuse elsewhere in the Balkans when local elites cooperated rather than resisted.",
+      "description_ru": "В 1430 году османский полководец Синан-паша выступил на Иоаннину, которой правил Карло II Токко, преемник Карло I, и городская знать предпочла переговоры обречённой обороне. Вместо штурма стен османы приняли официальную капитуляцию и выдали ахднаме — султанскую грамоту, гарантировавшую христианским жителям города сохранение имущества, свободу вероисповедания и определённую местную автономию под османским сюзеренитетом. \n\nМирная передача избавила Иоаннину от разрушений, обычно постигавших завоёванные города, и создала образец, который османы впоследствии применяли на Балканах там, где местная знать предпочитала сотрудничество сопротивлению.",
       "era": "AD",
-      "type": "military",
-      "name": "Ottomans Take Ioannina by Negotiated Surrender, Not Siege",
-      "name_ru": "Османы занимают Иоаннину путём переговоров, а не осады",
-      "description": "In 1430, the Ottoman general Sinan Pasha advanced on Ioannina under Carlo II Tocco, Carlo I's successor, and the city's notables chose negotiation over a doomed defense. Rather than storming the walls, the Ottomans accepted a formal surrender and issued an ahdname, a sultanic charter of capitulation guaranteeing the city's Christian inhabitants continued possession of their property, freedom of worship, and a measure of local self-governance under Ottoman suzerainty. The peaceful transfer spared Ioannina the destruction that conquered cities typically suffered and set a template the Ottomans would reuse elsewhere in the Balkans when local elites cooperated rather than resisted. Carlo II retained the rest of his coastal and island territories for the moment, but the fall of Ioannina without a fight signaled that the old despotate's remaining fragments could no longer resist Ottoman power through diplomacy or fortification alone.",
-      "description_ru": "В 1430 году османский полководец Синан-паша выступил на Иоаннину, которой правил Карло II Токко, преемник Карло I, и городская знать предпочла переговоры обречённой обороне. Вместо штурма стен османы приняли официальную капитуляцию и выдали ахднаме — султанскую грамоту, гарантировавшую христианским жителям города сохранение имущества, свободу вероисповедания и определённую местную автономию под османским сюзеренитетом. Мирная передача избавила Иоаннину от разрушений, обычно постигавших завоёванные города, и создала образец, который османы впоследствии применяли на Балканах там, где местная знать предпочитала сотрудничество сопротивлению. Карло II на тот момент сохранил остальные прибрежные и островные владения, но падение Иоаннины без боя показало, что уцелевшие осколки старого деспотата больше не способны сдерживать османскую мощь ни дипломатией, ни укреплениями.",
-      "latitude": 39.665,
-      "longitude": 20.8537,
+      "latitude": 39.67137194,
+      "longitude": 20.86046219,
+      "name": "Ottomans Take Ioannina by Negotiated Surrender",
+      "name_ru": "Османы занимают Иоаннину путём переговоров",
       "source": "https://en.wikipedia.org/wiki/Carlo_II_Tocco",
       "tags": [
+        "Greek",
+        "Turkic",
+        "Oguz",
+        "Ottoman",
         "Epirus",
-        "Byzantine",
-        "Conquest"
-      ]
+        "Conquest",
+        "Diplomacy",
+        "Vassalage"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.1449",
+      "description": "Nineteen years after Ioannina's surrender, the Ottomans moved against Carlo II Tocco's remaining mainland territory, and Arta fell to Ottoman forces in 1449. Carlo II retreated to his family's holdings across the Ionian Sea in Cephalonia, Zakynthos, and Leukas, continuing to style himself despot of Epirus in exile even though the mainland state the title referred to no longer existed under Christian rule. ",
+      "description_ru": "Через девятнадцать лет после капитуляции Иоаннины османы выступили против оставшихся материковых владений Карло II Токко, и Арта пала под османскими ударами в 1449 году. Карло II отступил во владения своей семьи на другом берегу Ионического моря — на Кефалонию, Закинф и Лефкаду, — продолжая именовать себя деспотом Эпира в изгнании, хотя материковое государство, к которому относился этот титул, больше не существовало под христианским правлением.",
       "era": "AD",
-      "type": "military",
-      "name": "Arta Falls to the Ottomans, Ending the Despotate on the Mainland",
-      "name_ru": "Арта падает под ударами османов, деспотат на материке прекращает существование",
-      "description": "Nineteen years after Ioannina's surrender, the Ottomans moved against Carlo II Tocco's remaining mainland territory, and Arta, the city Michael I Komnenos Doukas had made his capital two hundred and forty-four years earlier, fell to Ottoman forces in 1449. Carlo II retreated to his family's holdings across the Ionian Sea in Cephalonia, Zakynthos, and Leukas, continuing to style himself despot of Epirus in exile even though the mainland state the title referred to no longer existed under Christian rule. The fall of Arta marked the effective end of the Despotate of Epirus as a mainland Balkan power, closing a story that had run continuously, if turbulently, from a refugee prince's improvised state in 1205 through Komnenodoukas emperors, Orsini usurpers, a Serbian imperial governor, and a Florentine and then Italian despot, longer than either Nicaea or Trebizond survived.",
-      "description_ru": "Через девятнадцать лет после капитуляции Иоаннины османы выступили против оставшихся материковых владений Карло II Токко, и Арта — город, ставший столицей Михаила I Комнина Дуки двести сорок четыре года назад, — пала под османскими ударами в 1449 году. Карло II отступил во владения своей семьи на другом берегу Ионического моря — на Кефалонию, Закинф и Лефкаду, — продолжая именовать себя деспотом Эпира в изгнании, хотя материковое государство, к которому относился этот титул, больше не существовало под христианским правлением. Падение Арты означало фактический конец Деспотата Эпира как материковой балканской державы, завершив историю, длившуюся непрерывно, пусть и бурно, с импровизированного государства беглого принца в 1205 году через императоров Комнинодук, узурпаторов Орсини, сербского имперского наместника и флорентийского, а затем итальянского деспота — дольше, чем просуществовали Никея или Трапезунд.",
-      "latitude": 39.1611,
-      "longitude": 20.9836,
+      "latitude": 39.165655,
+      "longitude": 20.98768473,
+      "name": "Arta Falls to the Ottomans",
+      "name_ru": "Арта падает под ударами османов",
       "source": "https://en.wikipedia.org/wiki/Carlo_II_Tocco",
       "tags": [
+        "Greek",
+        "Turkic",
+        "Oguz",
+        "Ottoman",
         "Epirus",
-        "Byzantine",
         "Conquest",
         "Decline"
-      ]
-    },
-    {
-      "date": "01.01.1479",
-      "era": "AD",
-      "type": "historic",
-      "name": "The Ottomans Seize the Tocco Islands, Extinguishing the Dynasty",
-      "name_ru": "Османы захватывают острова Токко, династия прекращает существование",
-      "description": "Carlo II Tocco's descendants clung to Cephalonia, Zakynthos, and Leukas for another thirty years after losing Arta, the last fragments of a title that once governed most of northwestern Greece. The Ottoman-Venetian War of 1463 to 1479 sealed their fate: as the war wound down, Ottoman forces overran the remaining Tocco island territories, and the family that had once reunified Epirus under Carlo I lost its last independent holdings. Some Tocco family members found refuge in Venetian and Neapolitan territory, and descendants continued to use titular claims to Epirus for generations, but no Tocco ever again governed Epirote territory. The extinction of the Tocco despotate closed the final chapter of a Byzantine successor state that had outlasted Nicaea's fifty-seven years and nearly matched Trebizond's own long twilight, ending 274 years after Michael I Komnenos Doukas first raised his standard at Arta.",
-      "description_ru": "Потомки Карло II Токко удерживали Кефалонию, Закинф и Лефкаду ещё тридцать лет после потери Арты — последние осколки титула, некогда охватывавшего большую часть северо-западной Греции. Османско-венецианская война 1463–1479 годов решила их судьбу: к её завершению османские войска заняли оставшиеся островные владения Токко, и род, некогда воссоединивший Эпир при Карло I, лишился последних независимых владений. Часть семьи Токко нашла убежище на венецианских и неаполитанских землях, а потомки ещё поколениями носили титулярные притязания на Эпир, но ни один Токко больше никогда не правил эпирскими землями. Исчезновение деспотата Токко закрыло последнюю главу истории византийского государства-преемника, пережившего пятьдесят семь лет Никеи и почти сравнявшегося с долгим закатом Трапезунда, завершившись через двести семьдесят четыре года после того, как Михаил I Комнин Дука впервые поднял знамя в Арте.",
-      "latitude": 38.25,
-      "longitude": 20.55,
-      "source": "https://en.wikipedia.org/wiki/Carlo_II_Tocco",
-      "tags": [
-        "Epirus",
-        "Byzantine",
-        "Decline"
-      ]
+      ],
+      "type": "military"
     }
-  ]
+  ],
+  "filename": "AD2_despotate_of_epirus.json"
 }

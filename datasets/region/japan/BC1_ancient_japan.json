@@ -373,6 +373,44 @@
       "type": "religious"
     },
     {
+      "date": "01.01.0596",
+      "description": "According to a legend from the ancient chronicle \"Ionokuni Fudoki,\" the god Okuninushi healed his dying companion, Sukunabikona, by immersing him in the hot waters of Dogo. He instantly recovered and joyfully danced on a stone. This stone (Tama-no-ishi) is still on display near the main building.\n\nIn 596, the famous Prince Shotoku visited the resort, leaving an enthusiastic description of the local natural beauty. Later, in the 7th century, the emperors Jomei and Saimei vacationed here. Since then, Dogo has firmly established its status as a \"royal\" resort.",
+      "description_ru": "По легенде из древней хроники «Ионокуни Фудоки», бог Окунинуси исцелил своего умирающего спутника Сукунабикону, опустив его в горячие воды Дого. Тот мгновенно выздоровел и в радости станцевал на камне. Этот камень (Тама-но-иси) до сих пор выставлен у главного здания.\n\nВ 596 году курорт посетил знаменитый принц Сётоку, оставивший восторженное описание здешней природы. Позже, в VII веке, здесь отдыхали императоры Дзёмэй и Саймэй. С тех пор за Дого прочно закрепился статус «королевского» курорта.",
+      "era": "AD",
+      "latitude": 33.85205833,
+      "longitude": 132.78638899,
+      "name": "Onsen Dogo in Japan",
+      "name_ru": "Онсэн Дого в Японии",
+      "source": "https://en.wikipedia.org/wiki/D%C5%8Dgo_Onsen",
+      "tags": [
+        "Japanese",
+        "Nara",
+        "Culture",
+        "Recreation",
+        "Healthcare"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0596",
+      "description": "In Japanese culture, onsen is not just a hot bath, but a profound spiritual philosophy, a tradition of health care, and an important social phenomenon. There's even a special term, \"onsen bunka\" (温泉文化), for hot spring culture, which is now officially recognized as one of the foundations of Japanese identity.\n\nOnsen embrace the concept of Hadaka no Tsukiai (裸の付き合い), which literally translates as \"naked relationships\" or \"naked communication.\" When people take off their clothes and enter the water, all social status, expensive suits, watches, and ranks disappear.\n\nThe pinnacle of onsen culture is considered to be rotenburo (露天風呂), open-air baths. The ideal rotenburo is designed so that the pool, made of rough natural stone or fragrant cypress wood (hinoki), blends seamlessly into the landscape. While relaxing in a rotenburo, one can enjoy the natural surroundings.",
+      "description_ru": "В японской культуре онсэн — это не только горячая купальня, но глубокая духовная философия, традиция заботы о здоровье и важный социальный феномен. Существует даже специальный термин «онсэн-бунка» (温泉文化) — культура горячих источников, которая сегодня официально признается одной из основ японской идентичности.\n\nВ онсэне действует концепция Хадака но Цукиай (裸の付き合い), что буквально переводится как «голые отношения» или «общение в обнаженном виде». Когда люди снимают одежду и заходят в воду, исчезают все социальные статусы, дорогие костюмы, часы и ранги.\n\nВысшей точкой онсэн-культуры считаются ротэнбуро (露天風呂) — ванны на открытом воздухе. Идеальный ротэнбуро устроен так, чтобы бассейн из грубого природного камня или ароматного дерева кипариса (хиноки) органично вписывался в ландшафт. Отдыхая в ротэнбуро, человек может наслаждаться окружающей его природой.",
+      "era": "AD",
+      "latitude": 33.85205833,
+      "longitude": 132.78638899,
+      "name": "Onsen culture in Japan",
+      "name_ru": "Культура онсэн в Японии",
+      "source": "https://en.wikipedia.org/wiki/Onsen",
+      "tags": [
+        "Japanese",
+        "Culture",
+        "Philosophy",
+        "Recreation",
+        "Healthcare"
+      ],
+      "type": "cultural"
+    },
+    {
       "date": "01.01.0600",
       "description": "Prince Shōtoku, regent to Empress Suiko, relied on Otomono Sahito to gather intelligence on rival clans and monitor threats to the Asuka court from the shadows rather than the battlefield. Later tradition remembers Sahito as Japan's first shinobi, a covert agent operating outside the open warfare that defined most contests for power at the time.\n\nThe Kojiki preserves an even older strand of the same idea in its account of Yamato Takeru, who disguised himself as a serving woman to get close enough to assassinate two Kumaso chieftains. Historians treat both stories as legendary rather than verified fact, but they mark the earliest point at which Japanese sources describe disguise and infiltration as tools of statecraft, the root from which the later shinobi tradition of Iga and Kōga grew.",
       "description_ru": "Принц Сётоку, регент при императрице Суйко, полагался на Отомоно Сахито в сборе сведений о соперничающих родах и слежке за угрозами двору Асука — действуя из тени, а не на поле боя. Позднейшее предание считает Сахито первым синоби Японии — тайным агентом, действовавшим за рамками открытой войны, определявшей тогдашнюю борьбу за власть.\n\nКодзики сохраняет ещё более раннюю версию той же идеи в рассказе о Ямато Такэру, который переоделся служанкой, чтобы приблизиться и убить двух вождей кумасо. Историки считают оба сюжета скорее легендой, чем подтверждённым фактом, но именно они отмечают самый ранний момент, когда японские источники описывают маскировку и проникновение как инструменты государственной политики — корень, из которого позже выросла традиция синоби Ига и Кога.",
@@ -406,9 +444,9 @@
         "Japanese",
         "Yamato",
         "Buddhism",
+        "Law",
         "Code",
         "Confucianism",
-        "Law",
         "Legalism"
       ],
       "type": "cultural"
@@ -600,10 +638,10 @@
       "tags": [
         "Japanese",
         "Yamato",
+        "Law",
         "Administration",
         "Bureaucracy",
-        "Code",
-        "Law"
+        "Code"
       ],
       "type": "historic"
     },
@@ -684,9 +722,9 @@
         "Japanese",
         "Yamato",
         "Chinese",
+        "Law",
         "Bureaucracy",
-        "Code",
-        "Law"
+        "Code"
       ],
       "type": "historic"
     },
@@ -792,6 +830,24 @@
     },
     {
       "date": "01.01.0735",
+      "description": "The Tenpyō smallpox epidemic (天平の疫病 Tenpyō no ekibyō) of 735–737 AD, entering Japan through Dazaifu in northern Kyushu from Korean and continental contacts, kills an estimated 25–35% of Japan's total population — the most catastrophic demographic event in Japanese history before the modern era. All four sons of the powerful Fujiwara no Fuhito die within months, severely disrupting the government. Emperor Shōmu responds with a massive Buddhist state response: ordering provincial monasteries (国分寺 kokubunji) and nunneries in every province and the construction of the Great Buddha at Tōdai-ji, explicitly as an appeal for divine protection.",
+      "description_ru": "Эпидемия оспы в годы Тэмпё (天平の疫病) 735–737 гг., проникшая в Японию через Дадзайфу в северном Кюсю, уносит жизни от 25 до 35% всего населения Японии — наиболее катастрофическое демографическое событие в японской истории до Нового времени. Все четыре сына могущественного Фудзивара-но-Фухито погибают в течение нескольких месяцев. Император Сёму отвечает масштабной буддийской государственной реакцией: приказывает основать провинциальные монастыри в каждой провинции и возвести Великого Будду в Тōдайдзи.",
+      "era": "AD",
+      "latitude": 33.51427723,
+      "longitude": 130.52163363,
+      "name": "Great Tenpyō Smallpox Epidemic",
+      "name_ru": "Великая эпидемия оспы Тэмпё",
+      "source": "https://en.wikipedia.org/wiki/735%E2%80%93737_Japanese_smallpox_epidemic",
+      "tags": [
+        "Japanese",
+        "Nara",
+        "Buddhism",
+        "Plague 🦠"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0735",
       "description": "Kibi no Makibi came home to Heijō-kyō after seventeen years studying in Tang China as part of a Japanese embassy, bringing back a wealth of Chinese learning that reshaped court life. Among the imports credited to him were the board game go, played with black and white stones on a grid, and techniques of embroidery previously unknown at the Japanese court.\n\nGo spread through the aristocracy over the following centuries and appears repeatedly in Heian-period literature as a marker of a cultivated household, eventually becoming one of the two board games, alongside sugoroku, considered essential pastimes for a well-bred noble. Kibi's scholarly reputation from the same journey helped trigger the Fujiwara no Hirotsugu Rebellion five years later, when rivals resented the influence his learning had won him at court.",
       "description_ru": "Киби-но Макиби вернулся в Хэйдзё-кё после семнадцати лет учёбы в танском Китае в составе японского посольства, привезя с собой богатство китайских знаний, изменивших придворную жизнь. Среди заимствований, приписываемых ему, — настольная игра го, в которую играют чёрными и белыми камнями на разлинованной доске, и техники вышивки, прежде неизвестные японскому двору.\n\nГо распространилась среди знати и не раз упоминается в хэйанской литературе как признак утончённого дома, со временем став одной из двух настольных игр — наряду с сугороку, — которые считались обязательным времяпрепровождением для воспитанного аристократа. Учёная слава, которую Киби снискал в той же поездке, спустя пять лет отчасти спровоцировала восстание Фудзивара-но Хиротсугу, чьи соперники завидовали влиянию, добытому его образованностью при дворе.",
       "era": "AD",
@@ -809,24 +865,6 @@
         "Games"
       ],
       "type": "cultural"
-    },
-    {
-      "date": "01.01.0735",
-      "description": "The Tenpyō smallpox epidemic (天平の疫病 Tenpyō no ekibyō) of 735–737 AD, entering Japan through Dazaifu in northern Kyushu from Korean and continental contacts, kills an estimated 25–35% of Japan's total population — the most catastrophic demographic event in Japanese history before the modern era. All four sons of the powerful Fujiwara no Fuhito die within months, severely disrupting the government. Emperor Shōmu responds with a massive Buddhist state response: ordering provincial monasteries (国分寺 kokubunji) and nunneries in every province and the construction of the Great Buddha at Tōdai-ji, explicitly as an appeal for divine protection.",
-      "description_ru": "Эпидемия оспы в годы Тэмпё (天平の疫病) 735–737 гг., проникшая в Японию через Дадзайфу в северном Кюсю, уносит жизни от 25 до 35% всего населения Японии — наиболее катастрофическое демографическое событие в японской истории до Нового времени. Все четыре сына могущественного Фудзивара-но-Фухито погибают в течение нескольких месяцев. Император Сёму отвечает масштабной буддийской государственной реакцией: приказывает основать провинциальные монастыри в каждой провинции и возвести Великого Будду в Тōдайдзи.",
-      "era": "AD",
-      "latitude": 33.51427723,
-      "longitude": 130.52163363,
-      "name": "Great Tenpyō Smallpox Epidemic",
-      "name_ru": "Великая эпидемия оспы Тэмпё",
-      "source": "https://en.wikipedia.org/wiki/735%E2%80%93737_Japanese_smallpox_epidemic",
-      "tags": [
-        "Japanese",
-        "Nara",
-        "Buddhism",
-        "Plague 🦠"
-      ],
-      "type": "historic"
     },
     {
       "date": "01.01.0741",
@@ -861,8 +899,8 @@
       "tags": [
         "Japanese",
         "Nara",
-        "Reform",
-        "Law"
+        "Law",
+        "Reform"
       ],
       "type": "historic"
     },
@@ -1057,23 +1095,6 @@
     },
     {
       "date": "01.01.0850",
-      "description": "By c. 850–900 AD, two phonetic syllabaries adapted from Chinese characters are in widespread use: hiragana (平仮名), developed by simplifying cursive Chinese characters (primarily used by women for literature and correspondence) and katakana (片仮名), developed from abbreviated character components (used by monks as glosses in Buddhist texts). Together they give Japanese an indigenous writing system capable of expressing the full phonetic range of the spoken language — the breakthrough that enables the explosion of vernacular Japanese literature in the Heian period: the kana poetry anthologies, diaries, and eventually novels including The Tale of Genji (c. 1010 AD).",
-      "description_ru": "К около 850–900 гг. н. э. две фонетические слоговые азбуки, адаптированные из китайских иероглифов, получают широкое распространение: хирагана (平仮名), разработанная упрощением скорописных китайских иероглифов (преимущественно используемая женщинами для литературы и переписки), и катакана (片仮名), разработанная из сокращённых компонентов иероглифов (использовалась монахами как глоссы в буддийских текстах). Вместе они дают японскому языку исконную систему письма, способную передать полный фонетический диапазон разговорной речи.",
-      "era": "AD",
-      "latitude": 35.01926,
-      "longitude": 135.76314211,
-      "name": "Hiragana and Katakana Invented",
-      "name_ru": "Изобретение хираганы и катаканы",
-      "source": "https://en.wikipedia.org/wiki/Kana",
-      "tags": [
-        "Japanese",
-        "Heian",
-        "Writing"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.0850",
       "description": "The imperial court in Heian-kyō turned sumo into a regular fixture of its ceremonial calendar through the sumai no sechie, an annual tournament held before the emperor that combined the sport's older role as a religious offering with formal competition between wrestlers drawn from the provinces. Officials of the day drafted the first written rules for the contest, moving it away from the lethal, unregulated brawls the Nihon Shoki had described centuries earlier.\n\nThe tournament tied wrestling to the agricultural calendar and court ritual, framed as a way of divining the coming harvest and pleasing the kami rather than simple entertainment. That court patronage lasted through the height of the Heian period, and only faded once the imperial center lost real political power, after which sumo was repurposed under the samurai as a method of military training.",
       "description_ru": "Императорский двор в Хэйан-кё превратил сумо в постоянную часть своего церемониального календаря через сумаи-но сэтиэ — ежегодный турнир перед лицом императора, сочетавший прежнюю роль борьбы как религиозного подношения с формальным состязанием борцов, присылаемых из провинций. Чиновники того времени составили первые письменные правила состязания, отойдя от смертельных нерегламентированных схваток, описанных веками раньше в «Нихон сёки».\n\nТурнир был привязан к сельскохозяйственному календарю и придворному ритуалу и воспринимался как способ предугадать будущий урожай и умилостивить ками, а не просто развлечение. Такое придворное покровительство сохранялось на протяжении расцвета периода Хэйан и угасло лишь после того, как императорский центр утратил реальную политическую власть, после чего сумо было переосмыслено самураями как метод военной подготовки.",
       "era": "AD",
@@ -1093,6 +1114,23 @@
       "type": "cultural"
     },
     {
+      "date": "01.01.0850",
+      "description": "By c. 850–900 AD, two phonetic syllabaries adapted from Chinese characters are in widespread use: hiragana (平仮名), developed by simplifying cursive Chinese characters (primarily used by women for literature and correspondence) and katakana (片仮名), developed from abbreviated character components (used by monks as glosses in Buddhist texts). Together they give Japanese an indigenous writing system capable of expressing the full phonetic range of the spoken language — the breakthrough that enables the explosion of vernacular Japanese literature in the Heian period: the kana poetry anthologies, diaries, and eventually novels including The Tale of Genji (c. 1010 AD).",
+      "description_ru": "К около 850–900 гг. н. э. две фонетические слоговые азбуки, адаптированные из китайских иероглифов, получают широкое распространение: хирагана (平仮名), разработанная упрощением скорописных китайских иероглифов (преимущественно используемая женщинами для литературы и переписки), и катакана (片仮名), разработанная из сокращённых компонентов иероглифов (использовалась монахами как глоссы в буддийских текстах). Вместе они дают японскому языку исконную систему письма, способную передать полный фонетический диапазон разговорной речи.",
+      "era": "AD",
+      "latitude": 35.01926,
+      "longitude": 135.76314211,
+      "name": "Hiragana and Katakana Invented",
+      "name_ru": "Изобретение хираганы и катаканы",
+      "source": "https://en.wikipedia.org/wiki/Kana",
+      "tags": [
+        "Japanese",
+        "Heian",
+        "Writing"
+      ],
+      "type": "cultural"
+    },
+    {
       "date": "01.01.0858",
       "description": "In 858 AD, Fujiwara no Yoshifusa (藤原良房) becomes regent (摂政 sesshō) for the nine-year-old Emperor Seiwa — the first time a non-imperial-family member has served as regent, and the founding moment of the Fujiwara regency system that dominates Japanese politics for the next 150 years. The Fujiwara consolidate power by marrying their daughters into the imperial family and then ruling as regents for the child emperors who result. The culmination of this system is Fujiwara no Michinaga (966–1028 AD), whose four daughters all become imperial consorts and who effectively controls the court for decades — the archetype of Heian court power.",
       "description_ru": "В 858 г. Фудзивара-но Ёсифуса (藤原良房) становится регентом (摂政 сэссё) при девятилетнем императоре Сэйва — первый случай, когда не-член императорской семьи служит регентом, и основополагающий момент системы регентства Фудзивара, доминирующей в японской политике на следующие 150 лет. Фудзивара консолидируют власть, выдавая дочерей за членов императорской семьи, а затем правя регентами при детях-императорах. Кульминация — Фудзивара-но Митинага (966–1028 гг.), чьи четыре дочери становятся императорскими наложницами.",
@@ -1106,6 +1144,7 @@
         "Japanese",
         "Heian",
         "Fujiwara",
+        "Kingsmaker",
         "Regency",
         "Trick"
       ],

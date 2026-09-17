@@ -3,24 +3,6 @@
   "events": [
     {
       "date": "01.01.0800",
-      "description": "The Nuragic civilization of Sardinia creates the Mont'e Prama statues — monumental stone warriors standing over 2 meters tall. These are the oldest large-scale stone sculptures in the western Mediterranean after Egypt. The statues depict boxers, archers, and warriors with round shields. Buried and rediscovered in 1974, they remain among Sardinia's greatest archaeological treasures.",
-      "description_ru": "Нурагическая цивилизация Сардинии создаёт статуи Монте-Прама — каменных воинов высотой более 2 метров. Это древнейшие крупные каменные скульптуры в западном Средиземноморье после Египта. Статуи изображают боксёров, лучников и воинов с круглыми щитами. Погребённые и переоткрытые в 1974 году, они остаются одним из величайших археологических сокровищ Сардинии.",
-      "era": "BC",
-      "latitude": 39.9458,
-      "longitude": 8.4581,
-      "name": "Mont'e Prama Giant Statues",
-      "name_ru": "Гиганты Монте-Прама",
-      "source": "https://en.wikipedia.org/wiki/Giants_of_Mont%27e_Prama",
-      "tags": [
-        "Sardinian",
-        "Culture",
-        "Art",
-        "Sculpture"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.0800",
       "description": "The oldest known Phoenician inscription in the western Mediterranean, is erected at Nora in southern Sardinia. This stone monument marks the establishment of one of the earliest Phoenician trading posts on the island. Phoenician merchants from Tyre and Sidon trade peacefully with the Nuragic civilization, exchanging eastern goods for Sardinia's rich copper, lead, and silver resources.",
       "description_ru": "Древнейшая известная финикийская надпись в западном Средиземноморье. Этот каменный памятник знаменует основание одного из первых финикийских торговых постов на острове. Финикийские купцы из Тира и Сидона мирно торгуют с нурагической цивилизацией, обменивая восточные товары на медь, свинец и серебро с Сардинии.",
       "era": "BC",
@@ -39,6 +21,24 @@
         "Text"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.01.0800",
+      "description": "The Nuragic civilization of Sardinia creates the Mont'e Prama statues — monumental stone warriors standing over 2 meters tall. These are the oldest large-scale stone sculptures in the western Mediterranean after Egypt. The statues depict boxers, archers, and warriors with round shields. Buried and rediscovered in 1974, they remain among Sardinia's greatest archaeological treasures.",
+      "description_ru": "Нурагическая цивилизация Сардинии создаёт статуи Монте-Прама — каменных воинов высотой более 2 метров. Это древнейшие крупные каменные скульптуры в западном Средиземноморье после Египта. Статуи изображают боксёров, лучников и воинов с круглыми щитами. Погребённые и переоткрытые в 1974 году, они остаются одним из величайших археологических сокровищ Сардинии.",
+      "era": "BC",
+      "latitude": 39.9458,
+      "longitude": 8.4581,
+      "name": "Mont'e Prama Giant Statues",
+      "name_ru": "Гиганты Монте-Прама",
+      "source": "https://en.wikipedia.org/wiki/Giants_of_Mont%27e_Prama",
+      "tags": [
+        "Sardinian",
+        "Culture",
+        "Art",
+        "Sculpture"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0770",
@@ -347,8 +347,8 @@
       "era": "BC",
       "latitude": 41.8902,
       "longitude": 12.4922,
-      "name": "Servian Reforms",
-      "name_ru": "Реформы Сервия Туллия",
+      "name": "Reforms of Servius Tullius in Rome",
+      "name_ru": "Реформы Сервия Туллия в Риме ",
       "source": "https://en.wikipedia.org/wiki/Servius_Tullius",
       "tags": [
         "Roman",
@@ -474,9 +474,9 @@
         "Roman",
         "Foundation",
         "Culture",
+        "Revolution",
         "Exile",
-        "Republic",
-        "Revolution"
+        "Republic"
       ],
       "type": "political"
     },
@@ -615,8 +615,8 @@
         "Roman",
         "Human Rights",
         "Political",
-        "Reform",
         "Democracy",
+        "Reform",
         "Republic"
       ],
       "type": "political"
@@ -672,8 +672,8 @@
       "source": "https://en.wikipedia.org/wiki/Spurius_Cassius_Vecellinus",
       "tags": [
         "Roman",
-        "Reform",
-        "Law"
+        "Law",
+        "Reform"
       ],
       "type": "political"
     },
@@ -766,8 +766,8 @@
       "source": "https://en.wikipedia.org/wiki/Twelve_Tables",
       "tags": [
         "Roman",
-        "Code",
         "Law",
+        "Code",
         "Public"
       ],
       "type": "political"
@@ -786,8 +786,8 @@
         "Roman",
         "Drama",
         "Legend",
-        "Justice",
-        "Law"
+        "Law",
+        "Justice"
       ],
       "type": "political"
     },
@@ -804,8 +804,8 @@
       "tags": [
         "Roman",
         "Human Rights",
-        "Reform",
         "Law",
+        "Reform",
         "Republic"
       ],
       "type": "political"
@@ -1032,9 +1032,9 @@
       "tags": [
         "Roman",
         "Political",
+        "Law",
         "Reform",
         "Equality",
-        "Law",
         "Republic"
       ],
       "type": "political"
@@ -1151,25 +1151,6 @@
     },
     {
       "date": "01.01.0340",
-      "description": "Rome's Latin allies revolt against Roman hegemony in the Latin War. According to tradition, consul Publius Decius Mus performs devotio — ritually sacrificing himself to the gods in battle to ensure Roman victory. The war ends with dissolution of the Latin League and integration of Latins into Roman citizenship.",
-      "description_ru": "Латинские союзники Рима восстают против римской гегемонии. По преданию, консул Публий Деций Мус совершает devotio — ритуально жертвует собой богам в бою, чтобы обеспечить победу Рима. Война заканчивается роспуском Латинского союза и интеграцией латинов в римское гражданство.",
-      "era": "BC",
-      "latitude": 41.2167,
-      "longitude": 13.5667,
-      "name": "Latin War",
-      "name_ru": "Латинская война",
-      "source": "https://en.wikipedia.org/wiki/Latin_War",
-      "tags": [
-        "Roman",
-        "Latin League",
-        "War",
-        "Conquest",
-        "Self-sacrifice"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.01.0340",
       "description": "At Mount Vesuvius, consul Titus Manlius Torquatus executes his own son for disobeying orders by engaging in single combat with a Latin champion — though victorious. \"Manlian discipline\" becomes proverbial for severity.",
       "description_ru": "У горы Везувий консул Тит Манлий Торкват казнит на месте собственного сына за неповиновение приказам, который во время разведки сразился с чемпионом латинов, несмотря на наказ консула не вступать в бой вне строя. \"Манлиева дисциплина\" становится нарицательной для обозначения суровости.",
       "era": "BC",
@@ -1185,6 +1166,25 @@
         "Legend",
         "Death",
         "Discipline"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0340",
+      "description": "Rome's Latin allies revolt against Roman hegemony in the Latin War. According to tradition, consul Publius Decius Mus performs devotio — ritually sacrificing himself to the gods in battle to ensure Roman victory. The war ends with dissolution of the Latin League and integration of Latins into Roman citizenship.",
+      "description_ru": "Латинские союзники Рима восстают против римской гегемонии. По преданию, консул Публий Деций Мус совершает devotio — ритуально жертвует собой богам в бою, чтобы обеспечить победу Рима. Война заканчивается роспуском Латинского союза и интеграцией латинов в римское гражданство.",
+      "era": "BC",
+      "latitude": 41.2167,
+      "longitude": 13.5667,
+      "name": "Latin War",
+      "name_ru": "Латинская война",
+      "source": "https://en.wikipedia.org/wiki/Latin_War",
+      "tags": [
+        "Roman",
+        "Latin League",
+        "War",
+        "Conquest",
+        "Self-sacrifice"
       ],
       "type": "military"
     },
@@ -1594,8 +1594,8 @@
       "tags": [
         "Roman",
         "Political",
-        "Equality",
         "Law",
+        "Equality",
         "Republic"
       ],
       "type": "political"
@@ -2138,8 +2138,8 @@
       "era": "BC",
       "latitude": 40.07360539,
       "longitude": 8.49586487,
-      "name": "Battle of Cornus",
-      "name_ru": "Битва при Корне",
+      "name": "Battle of Rome and Carthage at Cornus",
+      "name_ru": "Сражение Рима и Карфагена при Корне",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Cornus",
       "tags": [
         "Roman",
@@ -2410,19 +2410,21 @@
       "type": "historic"
     },
     {
-      "date": "01.01.0177",
-      "description": "The Romans founded the military fortress of Luni to combat the local Ligurian tribes. The city was founded at the mouth of the Magra River. In ancient times, it stood directly on the coast of the Ligurian Sea and was a powerful seaport, but over time, the sea receded. The famous snow-white Carrara marble (then known as Lunian marble) from the neighboring Apuan Alps was exported to Rome and other regions of the Empire through the port of Luni.",
-      "description_ru": "Римляне заложили военную крепость Луни для борьбы с местными племенами лигуров. Город был основан в устье реки Магра. В древности он стоял прямо на побережье Лигурийского моря и был мощным морским портом, но со временем море отступило. Через порт Луни в Рим и другие регионы Империи вывозили знаменитый белоснежный каррарский мрамор из соседних Апуанских Альп (тогда его называли лунийским мрамором)",
+      "date": "01.01.0178",
+      "description": "This place was first mentioned in Roman chronicles in 178 BC under the name \"Cumaean Waters\" (Aquae Cumanae). The city was located on the Phlegraean Fields, a volcanic zone with high hydrothermal activity. The Romans quickly recognized the benefits of the local hot springs and sulfur vapors for treating illnesses, and the first vacationers flocked to the area.\n\nBy 100 BC, Baiae had transformed from a mere health resort into a fashionable social resort. Roman patricians began buying up land along the coast en masse and building luxurious private villas. Engineers learned to pipe hot water from thermal springs directly into home baths and create artificial therapeutic grottoes. Julius Caesar, Pompey the Great, and Cicero built their residences here.",
+      "description_ru": "Впервые это место упоминается в римских хрониках в 178 году до н. э. под названием «Кумские воды» (Aquae Cumanae). Город располагался на Флегрейских полях — вулканической зоне с высокой гидротермальной активностью. Римляне быстро оценили пользу местных горячих источников и серных испарений для лечения болезней, и сюда потянулись первые отдыхающие.\n\nБлиже к 100 году до н. э. Байи превратился из просто лечебного места в модный светский курорт. Римская знать (патриции) стала массово скупать земли на побережье и строить роскошные частные виллы. Инженеры научились проводить горячую воду из термальных источников прямо в домашние бани, а также создавать искусственные лечебные гроты. Здесь возвели свои резиденции Юлий Цезарь, Помпей Великий и Цицерон.",
       "era": "BC",
-      "latitude": 44.06402996,
-      "longitude": 10.0169456,
-      "name": "The founding of the Roman fortress of Luni",
-      "name_ru": "Основание римской крепости Луни",
+      "latitude": 40.81296475,
+      "longitude": 14.07129765,
+      "name": "Baiae — an ancient Roman spa town",
+      "name_ru": "Байи — древнеримский город-курорт",
+      "source": "https://en.wikipedia.org/wiki/Baiae",
       "tags": [
         "Roman",
         "City",
-        "Fortification",
-        "Expansion"
+        "Entertainment",
+        "Recreation",
+        "Healthcare"
       ],
       "type": "historic"
     },
@@ -2443,6 +2445,23 @@
         "Rebellion"
       ],
       "type": "military"
+    },
+    {
+      "date": "01.01.0177",
+      "description": "The Romans founded the military fortress of Luni to combat the local Ligurian tribes. The city was founded at the mouth of the Magra River. In ancient times, it stood directly on the coast of the Ligurian Sea and was a powerful seaport, but over time, the sea receded. The famous snow-white Carrara marble (then known as Lunian marble) from the neighboring Apuan Alps was exported to Rome and other regions of the Empire through the port of Luni.",
+      "description_ru": "Римляне заложили военную крепость Луни для борьбы с местными племенами лигуров. Город был основан в устье реки Магра. В древности он стоял прямо на побережье Лигурийского моря и был мощным морским портом, но со временем море отступило. Через порт Луни в Рим и другие регионы Империи вывозили знаменитый белоснежный каррарский мрамор из соседних Апуанских Альп (тогда его называли лунийским мрамором)",
+      "era": "BC",
+      "latitude": 44.06402996,
+      "longitude": 10.0169456,
+      "name": "The founding of the Roman fortress of Luni",
+      "name_ru": "Основание римской крепости Луни",
+      "tags": [
+        "Roman",
+        "City",
+        "Fortification",
+        "Expansion"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.0171",
@@ -2486,6 +2505,25 @@
     },
     {
       "date": "01.01.0167",
+      "description": "Rome abolishes the tributum, direct tax on Roman citizens, paid for by the wealth flowing from conquered territories and provinces. Citizens would not pay direct taxes again until the crisis of the Empire three centuries later.",
+      "description_ru": "Рим отменяет tributum, прямой налог на римских граждан. Казна была переполнена военной добычей после ряда военных побед, а поступления от провинций полностью покрывали расходы республики. Это решение подчеркивало статус римлян как привилегированного класса ",
+      "era": "BC",
+      "latitude": 41.89318911,
+      "longitude": 12.48506606,
+      "name": "Direct Citizen Tax Abolished",
+      "name_ru": "Отмена прямого налога на граждан",
+      "source": "https://en.wikipedia.org/wiki/Tributum",
+      "tags": [
+        "Roman",
+        "Wealth",
+        "Political",
+        "Administration",
+        "Taxes"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0167",
       "description": "Following their victory over Macedonia, the Romans transferred the island of Delos to Athenian control and declared it a tax-free zone (atelia). All merchants from Phoenicia, Egypt, and Italy, who had previously paid tolls at the Rhodes harbor, immediately transferred their ships to Delos.",
       "description_ru": "Римляне по итогу победы над Македонией передали остров Делос под управление Афин и объявили его зоной, свободной от налогов (ателия). Все купцы из Финикии, Египта и Италии, которые раньше платили пошлину в гавани Родоса, мгновенно перевели свои корабли на Делос.",
       "era": "BC",
@@ -2500,25 +2538,6 @@
         "Trade",
         "Route",
         "Maritime",
-        "Taxes"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.0167",
-      "description": "Rome abolishes the tributum, direct tax on Roman citizens, paid for by the wealth flowing from conquered territories and provinces. Citizens would not pay direct taxes again until the crisis of the Empire three centuries later.",
-      "description_ru": "Рим отменяет tributum, прямой налог на римских граждан. Казна была переполнена военной добычей после ряда военных побед, а поступления от провинций полностью покрывали расходы республики. Это решение подчеркивало статус римлян как привилегированного класса ",
-      "era": "BC",
-      "latitude": 41.89318911,
-      "longitude": 12.48506606,
-      "name": "Direct Citizen Tax Abolished",
-      "name_ru": "Отмена прямого налога на граждан",
-      "source": "https://en.wikipedia.org/wiki/Tributum",
-      "tags": [
-        "Roman",
-        "Wealth",
-        "Political",
-        "Administration",
         "Taxes"
       ],
       "type": "political"
@@ -2612,9 +2631,9 @@
       "source": "https://en.wikipedia.org/wiki/Lex_Calpurnia",
       "tags": [
         "Roman",
+        "Law",
         "Innovation",
         "Justice",
-        "Law",
         "Trial"
       ],
       "type": "political"
@@ -2693,9 +2712,9 @@
       "tags": [
         "Roman",
         "Political",
+        "Law",
         "Reform",
-        "Elections",
-        "Law"
+        "Elections"
       ],
       "type": "political"
     },
@@ -2830,6 +2849,7 @@
         "Religious",
         "Pagan",
         "Architecture",
+        "Building 🏠",
         "Temple",
         "Trade"
       ],
@@ -2888,9 +2908,9 @@
         "Roman",
         "War",
         "Political",
+        "Law",
         "Army",
         "Innovation",
-        "Law",
         "Marius 👤"
       ],
       "type": "political"
@@ -2909,10 +2929,10 @@
         "Roman",
         "Gallic",
         "Germanic",
+        "Teuton",
         "Battle",
         "Failure",
-        "Marius 👤",
-        "Teutons"
+        "Marius 👤"
       ],
       "type": "military"
     },
@@ -2929,11 +2949,31 @@
       "tags": [
         "Roman",
         "Germanic",
+        "Teuton",
         "Battle",
-        "Marius 👤",
-        "Teutons"
+        "Marius 👤"
       ],
       "type": "military"
+    },
+    {
+      "date": "01.01.0100",
+      "description": "Tribune Saturninus proposes radical land reforms for Marius's veterans, using violence to pass legislation. When Saturninus murders a political rival, Marius reluctantly enforces the senatus consultum ultimum against his own ally, who is killed by a mob.",
+      "description_ru": "Политический кризис усиливается. Трибун Сатурнин предлагает радикальные реформы для ветеранов Мария, применяя насилие для принятия законов. Когда люди Сатурнина убивают на выборах кандидата от оппозиции, Марий неохотно исполняет чрезвычайный указ Сената, арестовывая Сатурнина. Марию не удается скрыть своего союзника от толпы, и Сатурнина забивают камнями",
+      "era": "BC",
+      "latitude": 41.89318911,
+      "longitude": 12.48506606,
+      "name": "Violence of Saturninus",
+      "name_ru": "Насилие трибуна Сатурнина",
+      "source": "https://en.wikipedia.org/wiki/Lucius_Appuleius_Saturninus",
+      "tags": [
+        "Roman",
+        "Crisis",
+        "Political",
+        "Marius 👤",
+        "Murder",
+        "Outrage"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.0100",
@@ -2955,26 +2995,6 @@
         "Tactics"
       ],
       "type": "historic"
-    },
-    {
-      "date": "01.01.0100",
-      "description": "Tribune Saturninus proposes radical land reforms for Marius's veterans, using violence to pass legislation. When Saturninus murders a political rival, Marius reluctantly enforces the senatus consultum ultimum against his own ally, who is killed by a mob.",
-      "description_ru": "Политический кризис усиливается. Трибун Сатурнин предлагает радикальные реформы для ветеранов Мария, применяя насилие для принятия законов. Когда люди Сатурнина убивают на выборах кандидата от оппозиции, Марий неохотно исполняет чрезвычайный указ Сената, арестовывая Сатурнина. Марию не удается скрыть своего союзника от толпы, и Сатурнина забивают камнями",
-      "era": "BC",
-      "latitude": 41.89318911,
-      "longitude": 12.48506606,
-      "name": "Violence of Saturninus",
-      "name_ru": "Насилие трибуна Сатурнина",
-      "source": "https://en.wikipedia.org/wiki/Lucius_Appuleius_Saturninus",
-      "tags": [
-        "Roman",
-        "Crisis",
-        "Political",
-        "Marius 👤",
-        "Murder",
-        "Outrage"
-      ],
-      "type": "political"
     },
     {
       "date": "01.01.0100",
@@ -3003,8 +3023,8 @@
       "era": "BC",
       "latitude": 42.54712083,
       "longitude": 9.41706419,
-      "name": "Foundation of Colonia Mariana",
-      "name_ru": "Мариана - колония Рима на Корсике ",
+      "name": "Foundation of Colonia Mariana on Corsica",
+      "name_ru": "Мариана — колония Рима на Корсике ",
       "source": "https://en.wikipedia.org/wiki/Ancient_Corsica",
       "tags": [
         "Roman",
@@ -3030,6 +3050,7 @@
         "Italian",
         "Civil War",
         "Crisis",
+        "War",
         "Political",
         "Italy",
         "Murder",
@@ -3053,10 +3074,30 @@
         "Civil War",
         "Crisis",
         "Political",
-        "Italy",
-        "Law"
+        "Law",
+        "Italy"
       ],
       "type": "political"
+    },
+    {
+      "date": "01.01.0089",
+      "description": "Pompeii was a large, fortified Samnite city. In the early first century BCE, Pompeii rebelled against Rome during the Social War. In 89 BCE, the great Roman general Lucius Cornelius Sulla besieged the city and took it by storm. Pompeii was stripped of its independence and made a colony of the Roman Empire, resettling thousands of Roman veterans there.\n\nThe city quickly became Romanized. Thanks to its mild climate, proximity to the sea, and fertile soil (which produced the best grapes for Roman wines), Pompeii became an elite summer residence for the Roman nobility. Luxurious villas, baths, and theaters were built here.",
+      "description_ru": "Помпеи был крупным защищенным городом самнитов. В начале I века до н. э. Помпеи восстали против Рима в ходе Союзнической войны. В 89 году до н. э. великий римский полководец Луций Корнелий Сулла осадил город и взял его штурмом. Помпеи лишили независимости и сделали колонией Римской империи, переселив сюда тысячи римских ветеранов.\n\nГород быстро латинизировался. Благодаря мягкому климату, близости к морю и плодородной почве (на которой рос лучший виноград для римских вин), Помпеи превратились в элитный дачный пригород для римской знати. Здесь строились роскошные виллы, термы и театры",
+      "era": "BC",
+      "latitude": 40.75039435,
+      "longitude": 14.48849916,
+      "name": "Sulla captures Pompeii",
+      "name_ru": "Сулла захватывает Помпеи",
+      "source": "https://en.wikipedia.org/wiki/Pompeii",
+      "tags": [
+        "Roman",
+        "City",
+        "Conquest",
+        "Recreation",
+        "Expansion",
+        "Sulla 👤"
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.0088",
@@ -3162,8 +3203,8 @@
         "Roman",
         "Senate",
         "Political",
-        "Reform",
         "Law",
+        "Reform",
         "Oligarchy",
         "Sulla 👤"
       ],
@@ -3211,8 +3252,8 @@
       "era": "BC",
       "latitude": 41.89285767,
       "longitude": 12.48382151,
-      "name": "Tabularium State Archives",
-      "name_ru": "Табулярий — государственный архив",
+      "name": "Tabularium State Archives of Rome",
+      "name_ru": "Табулярий — государственный архив Рима",
       "source": "https://en.wikipedia.org/wiki/Tabularium",
       "tags": [
         "Roman",
@@ -3293,10 +3334,10 @@
       "tags": [
         "Roman",
         "Political",
-        "Reform",
-        "Crassus 👤",
         "Democracy",
         "Law",
+        "Reform",
+        "Crassus 👤",
         "Pompey the Great 👤"
       ],
       "type": "political"
@@ -3334,8 +3375,8 @@
         "Mithridatic",
         "War",
         "Political",
-        "Cicero 👤",
         "Law",
+        "Cicero 👤",
         "Pompey the Great 👤"
       ],
       "type": "political"
@@ -3393,8 +3434,8 @@
       "name_ru": "Суд над Публием Клодием Пульхером",
       "tags": [
         "Roman",
-        "Claudii",
         "Blasphemy",
+        "Claudii",
         "Political",
         "Cicero 👤",
         "Trial"
@@ -3432,8 +3473,8 @@
       "source": "https://en.wikipedia.org/wiki/Julius_Caesar",
       "tags": [
         "Roman",
-        "Crassus 👤",
         "Debt",
+        "Crassus 👤",
         "Julius Caesar 👤"
       ],
       "type": "political"
@@ -3490,8 +3531,8 @@
         "Roman",
         "Crisis",
         "Political",
-        "Julius Caesar 👤",
         "Law",
+        "Julius Caesar 👤",
         "Outrage"
       ],
       "type": "political"
@@ -3508,8 +3549,8 @@
       "source": "https://en.wikipedia.org/wiki/Cicero",
       "tags": [
         "Roman",
-        "Claudii",
         "Crisis",
+        "Claudii",
         "Political",
         "Cicero 👤",
         "Revenge"
@@ -3527,8 +3568,8 @@
       "name_ru": "Возвращение Цицерона в Рим",
       "tags": [
         "Roman",
-        "Claudii",
         "Crisis",
+        "Claudii",
         "Political",
         "Cicero 👤",
         "Pompey the Great 👤"
@@ -3749,9 +3790,9 @@
       "tags": [
         "Roman",
         "Senate",
-        "Claudii",
         "Crisis",
         "Destruction",
+        "Claudii",
         "Political"
       ],
       "type": "political"
@@ -3768,8 +3809,8 @@
       "source": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher",
       "tags": [
         "Roman",
-        "Claudii",
         "Crisis",
+        "Claudii",
         "Political",
         "Death",
         "Murder",
@@ -3800,8 +3841,8 @@
       "era": "BC",
       "latitude": 41.89296549,
       "longitude": 12.48539865,
-      "name": "Mark Antony - tribune of the plebs and augur",
-      "name_ru": "Марк Антоний - народный трибун и авгур",
+      "name": "Mark Antony — tribune of the plebs and augur of Rome",
+      "name_ru": "Марк Антоний — народный трибун и авгур Рима",
       "tags": [
         "Roman",
         "Senate",
@@ -3813,8 +3854,8 @@
     },
     {
       "date": "01.08.0049",
-      "description": "Caesar defeats Pompey's forces at Ilerda in Spain without a major battle, maneuvering them into surrender. His famous clemency — releasing enemy soldiers rather than killing them — wins converts but also spares future enemies.",
-      "description_ru": "Цезарь побеждает испанские легионы, лояльные Помпею, при Илерде в Испании без крупного сражения, маневрами лишая их снабжения и принуждая к сдаче. Его знаменитое милосердие — освобождение вражеских солдат вместо их убийства — привлекает сторонников, но также щадит будущих врагов.",
+      "description": "Caesar defeats Pompey's forces at Ilerda in Spain without a major battle, maneuvering them into surrender. His famous clemency — releasing enemy soldiers rather than killing them — wins converts but also spares future enemies.\n\nAccording to Plutarch, Caesar first suffered from epilepsy during the Spanish campaign. Subsequently, attacks began to plague him during moments of intense nervous tension (before battles and during debates in the Senate).",
+      "description_ru": "Цезарь побеждает испанские легионы, лояльные Помпею, при Илерде в Испании без крупного сражения, маневрами лишая их снабжения и принуждая к сдаче. Его знаменитое милосердие — освобождение вражеских солдат вместо их убийства — привлекает сторонников, но также щадит будущих врагов.\n\nВ испанском походе по свидетельству Плутарха Цезаря впервые настигла падучая. В дальнейшем приступы стали преследовать его в моменты сильного нервного напряжения (перед сражениями и во время споров в Сенате)",
       "era": "BC",
       "latitude": 41.617,
       "longitude": 0.621,
@@ -3825,6 +3866,8 @@
         "Roman",
         "Civil War",
         "Battle",
+        "Disease",
+        "Epileptic",
         "Julius Caesar 👤"
       ],
       "type": "military"
@@ -4049,8 +4092,8 @@
     },
     {
       "date": "01.01.0045",
-      "description": "Caesar introduces the Julian Calendar, replacing the chaotic Roman calendar that had drifted 80 days out of alignment with the seasons. Based on Egyptian astronomy, it establishes the 365-day year with leap years — remaining in use until 1582 when refined by Pope Gregory XIII.",
-      "description_ru": "Цезарь вводит Юлианский календарь, заменяя хаотичный римский календарь, который сместился на 80 дней от сезонов. Основанный на египетской астрономии, он устанавливает 365-дневный год с високосными годами — используется до 1582 года, когда уточнён папой Григорием XIII.",
+      "description": "Before Caesar, the Roman calendar was lunar, consisted of 355 days, and was constantly \"lagging\" behind the actual seasons. It was the pontiffs who were responsible for adjusting it (by adding an entire extra month), and they exploited this for their own ends.\n\nCaesar took this tool of influence from them and introduced a solar calendar. He added 1-2 days to the 29-day lunar months to create a solar cycle of 365 days. To align the lagging calendar with the solar cycle, Caesar was forced to take an unprecedented step. He had the year 46 BCE artificially stretched, lasting an incredible 445 days. It went down in history as the \"year of confusion.\"",
+      "description_ru": "До Цезаря римский календарь был лунным, состоял из 355 дней и постоянно «отставал» от реальных времен года. Корректировать его (добавлять целый лишний месяц) должны были жрецы-понтифики, которые использовали это в своих целях.\n\nЦезарь забрал у них этот инструмент влияния и ввел солнечный календарь. Он добавил к лунным 29-дневным месяцам по 1-2 дня, чтобы в сумме получить солнечный цикл 365 дней. Чтобы привязать отставший календарь к солнечному циклу, Цезарю пришлось пойти на беспрецедентный шаг. 46-й год до н. э. по его приказу был искусственно растянут и длился невероятные 445 дней. В историю он вошел как «год путаницы».",
       "era": "BC",
       "latitude": 41.89296549,
       "longitude": 12.48539865,
@@ -4312,8 +4355,8 @@
       "era": "BC",
       "latitude": 41.0125,
       "longitude": 24.2847,
-      "name": "Battle of Philippi",
-      "name_ru": "Битва при Филиппах",
+      "name": "The defeat of Brutus and Cassius at Philippi",
+      "name_ru": "Разгром Брута и Кассия при Филиппах",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Philippi",
       "tags": [
         "Roman",
@@ -4375,8 +4418,8 @@
       "name_ru": "Женитьба Октавиана",
       "tags": [
         "Roman",
-        "Claudii",
         "Marriage",
+        "Claudii",
         "Political",
         "Octavian 👑"
       ],
@@ -4426,8 +4469,8 @@
       "era": "BC",
       "latitude": 31.206667,
       "longitude": 29.900278,
-      "name": "Octavia visits Mark Antony",
-      "name_ru": "Октавия прибывает к Антонию",
+      "name": "Octavia visits Mark Antony in Egypt ",
+      "name_ru": "Октавия прибывает к Антонию в Египет ",
       "tags": [
         "Roman",
         "Egypt",

@@ -14,9 +14,9 @@
       "tags": [
         "Korean",
         "Culture",
-        "Maritime",
-        "Neolithic",
         "Pottery",
+        "Neolithic",
+        "Maritime",
         "Settlement"
       ],
       "type": "historic"
@@ -33,9 +33,9 @@
       "source": "https://en.wikipedia.org/wiki/Jeulmun_pottery_period",
       "tags": [
         "Korean",
-        "Maritime",
+        "Trade",
         "Neolithic",
-        "Trade"
+        "Maritime"
       ],
       "type": "historic"
     },
@@ -51,12 +51,12 @@
       "source": "https://en.wikipedia.org/wiki/Korean_shamanism",
       "tags": [
         "Korean",
-        "Animism",
-        "Burial",
-        "Culture",
-        "Neolithic",
+        "Religious",
         "Pagan",
-        "Religious"
+        "Animism",
+        "Culture",
+        "Burial",
+        "Neolithic"
       ],
       "type": "religious"
     },
@@ -72,13 +72,13 @@
       "source": "https://en.wikipedia.org/wiki/Gojoseon",
       "tags": [
         "Korean",
-        "Legend",
+        "Gojoseon",
+        "Religious",
         "Animalism",
         "Animism",
-        "Holidays",
+        "Legend",
         "Political",
-        "Religious",
-        "Gojoseon"
+        "Holidays"
       ],
       "type": "historic"
     },
@@ -94,11 +94,11 @@
       "source": "https://en.wikipedia.org/wiki/Sanshin",
       "tags": [
         "Korean",
-        "Animism",
-        "Culture",
-        "Divination",
+        "Gojoseon",
         "Religious",
-        "Gojoseon"
+        "Animism",
+        "Divination",
+        "Culture"
       ],
       "type": "religious"
     },
@@ -114,9 +114,9 @@
       "source": "https://en.wikipedia.org/wiki/Korean_mythology",
       "tags": [
         "Korean",
-        "Divination",
+        "Gojoseon",
         "Religious",
-        "Gojoseon"
+        "Divination"
       ],
       "type": "religious"
     },
@@ -132,10 +132,10 @@
       "source": "https://en.wikipedia.org/wiki/Korean_shamanism",
       "tags": [
         "Korean",
-        "Culture",
-        "Pagan",
+        "Gojoseon",
         "Religious",
-        "Gojoseon"
+        "Pagan",
+        "Culture"
       ],
       "type": "religious"
     },
@@ -151,11 +151,11 @@
       "source": "https://en.wikipedia.org/wiki/Mumun_pottery_period",
       "tags": [
         "Korean",
+        "Gojoseon",
+        "Culture",
         "Agriculture",
         "Bronze Age",
-        "Culture",
-        "Mumun",
-        "Gojoseon"
+        "Mumun"
       ],
       "type": "historic"
     },
@@ -171,10 +171,11 @@
       "source": "https://en.wikipedia.org/wiki/Liaoning_bronze_dagger_culture",
       "tags": [
         "Korean",
-        "Bronze",
+        "Gojoseon",
         "Culture",
-        "Weapon",
-        "Gojoseon"
+        "Aristocracy",
+        "Bronze",
+        "Weapon"
       ],
       "type": "cultural"
     },
@@ -190,10 +191,10 @@
       "source": "https://en.wikipedia.org/wiki/Gochang,_Hwasun_and_Ganghwa_Dolmen_Sites",
       "tags": [
         "Korean",
-        "Megalithic",
-        "Mumun",
+        "Gojoseon",
         "Religious",
-        "Gojoseon"
+        "Megalithic",
+        "Mumun"
       ],
       "type": "cultural"
     },
@@ -209,11 +210,11 @@
       "source": "https://en.wikipedia.org/wiki/Mumun_pottery_period",
       "tags": [
         "Korean",
-        "Agriculture",
+        "Gojoseon",
         "Culture",
+        "Agriculture",
         "Food",
-        "Rice",
-        "Gojoseon"
+        "Rice"
       ],
       "type": "historic"
     },
@@ -229,11 +230,11 @@
       "source": "https://en.wikipedia.org/wiki/Gija_Joseon",
       "tags": [
         "Chinese",
-        "Korean",
-        "Uncertain",
-        "Political",
         "Zhou",
-        "Gojoseon"
+        "Korean",
+        "Gojoseon",
+        "Uncertain",
+        "Political"
       ],
       "type": "historic"
     },
@@ -249,12 +250,12 @@
       "source": "https://en.wikipedia.org/wiki/Three_Heavenly_Seals",
       "tags": [
         "Korean",
-        "Art",
-        "Bronze",
-        "Culture",
-        "Metallurgy",
+        "Gojoseon",
         "Religious",
-        "Gojoseon"
+        "Culture",
+        "Art",
+        "Metallurgy",
+        "Bronze"
       ],
       "type": "cultural"
     },
@@ -270,11 +271,11 @@
       "source": "https://en.wikipedia.org/wiki/Three_Heavenly_Seals",
       "tags": [
         "Korean",
-        "Art",
-        "Bronze",
+        "Gojoseon",
         "Culture",
+        "Art",
         "Metallurgy",
-        "Gojoseon"
+        "Bronze"
       ],
       "type": "cultural"
     },
@@ -290,10 +291,10 @@
       "source": "https://en.wikipedia.org/wiki/Mumun_pottery_period",
       "tags": [
         "Korean",
+        "Gojoseon",
         "Administration",
         "Civilization",
-        "Mumun",
-        "Gojoseon"
+        "Mumun"
       ],
       "type": "political"
     },
@@ -309,10 +310,10 @@
       "source": "https://en.wikipedia.org/wiki/Gojoseon",
       "tags": [
         "Korean",
-        "Aristocracy",
-        "Burial",
+        "Gojoseon",
         "Culture",
-        "Gojoseon"
+        "Burial",
+        "Aristocracy"
       ],
       "type": "historic"
     },
@@ -328,10 +329,10 @@
       "source": "https://en.wikipedia.org/wiki/Gojoseon",
       "tags": [
         "Korean",
-        "Code",
-        "Justice",
+        "Gojoseon",
         "Law",
-        "Gojoseon"
+        "Code",
+        "Justice"
       ],
       "type": "political"
     },
@@ -347,10 +348,10 @@
       "source": "https://en.wikipedia.org/wiki/Gojoseon",
       "tags": [
         "Chinese",
-        "Korean",
-        "Diplomacy",
         "Yan",
-        "Gojoseon"
+        "Korean",
+        "Gojoseon",
+        "Diplomacy"
       ],
       "type": "political"
     },
@@ -366,9 +367,9 @@
       "source": "https://en.wikipedia.org/wiki/Gojoseon",
       "tags": [
         "Korean",
+        "Gojoseon",
         "Iron",
-        "Metallurgy",
-        "Gojoseon"
+        "Metallurgy"
       ],
       "type": "historic"
     },
@@ -384,8 +385,8 @@
       "source": "https://en.wikipedia.org/wiki/Samhan",
       "tags": [
         "Korean",
-        "Federation",
-        "Political"
+        "Political",
+        "Federation"
       ],
       "type": "political"
     },
@@ -401,13 +402,13 @@
       "source": "https://en.wikipedia.org/wiki/Gojoseon",
       "tags": [
         "Chinese",
-        "Korean",
-        "War",
-        "Battle",
-        "Conquest",
-        "Invasion",
         "Yan",
-        "Gojoseon"
+        "Korean",
+        "Gojoseon",
+        "War",
+        "Conquest",
+        "Battle",
+        "Invasion"
       ],
       "type": "military"
     },
@@ -423,10 +424,10 @@
       "source": "https://en.wikipedia.org/wiki/Wiman_Joseon",
       "tags": [
         "Chinese",
-        "Korean",
-        "Migration",
         "Qin",
-        "Gojoseon"
+        "Korean",
+        "Gojoseon",
+        "Migration"
       ],
       "type": "historic"
     },
@@ -442,9 +443,9 @@
       "source": "https://en.wikipedia.org/wiki/Wiman_Joseon",
       "tags": [
         "Korean",
+        "Gojoseon",
         "Betrayal",
-        "Overthrow",
-        "Gojoseon"
+        "Overthrow"
       ],
       "type": "political"
     },
@@ -460,11 +461,11 @@
       "source": "https://en.wikipedia.org/wiki/Wiman_Joseon",
       "tags": [
         "Chinese",
-        "Korean",
         "Han",
+        "Korean",
+        "Gojoseon",
         "Trade",
-        "Wealth",
-        "Gojoseon"
+        "Wealth"
       ],
       "type": "political"
     },
@@ -480,9 +481,9 @@
       "source": "https://en.wikipedia.org/wiki/Wiman_Joseon",
       "tags": [
         "Korean",
+        "Gojoseon",
         "Army",
-        "Expansion",
-        "Gojoseon"
+        "Expansion"
       ],
       "type": "military"
     },
@@ -498,11 +499,11 @@
       "source": "https://en.wikipedia.org/wiki/Gojoseon",
       "tags": [
         "Chinese",
-        "Korean",
-        "Diplomacy",
-        "Crisis",
         "Han",
-        "Gojoseon"
+        "Korean",
+        "Gojoseon",
+        "Crisis",
+        "Diplomacy"
       ],
       "type": "political"
     },
@@ -518,12 +519,12 @@
       "source": "https://en.wikipedia.org/wiki/Gojoseon%E2%80%93Han_War",
       "tags": [
         "Chinese",
+        "Han",
         "Korean",
+        "Gojoseon",
         "War",
         "Conquest",
-        "Han",
-        "Siege",
-        "Gojoseon"
+        "Siege"
       ],
       "type": "military"
     },
@@ -539,12 +540,12 @@
       "source": "https://en.wikipedia.org/wiki/Wiman_Joseon",
       "tags": [
         "Chinese",
+        "Han",
         "Korean",
+        "Gojoseon",
         "War",
         "Conquest",
-        "Han",
-        "Siege",
-        "Gojoseon"
+        "Siege"
       ],
       "type": "military"
     },
@@ -560,11 +561,11 @@
       "source": "https://en.wikipedia.org/wiki/Lelang_Commandery",
       "tags": [
         "Chinese",
-        "Korean",
-        "War",
-        "Annexation",
         "Han",
-        "Gojoseon"
+        "Korean",
+        "Gojoseon",
+        "War",
+        "Annexation"
       ],
       "type": "political"
     },
@@ -580,10 +581,10 @@
       "source": "https://en.wikipedia.org/wiki/Lelang_Commandery",
       "tags": [
         "Chinese",
+        "Han",
         "Korean",
         "War",
-        "Guerilla",
-        "Han"
+        "Guerilla"
       ],
       "type": "political"
     },
@@ -599,9 +600,10 @@
       "source": "https://en.wikipedia.org/wiki/Silla",
       "tags": [
         "Korean",
-        "Legend",
+        "Silla",
+        "Kingdom",
         "Foundation",
-        "Kingdom"
+        "Legend"
       ],
       "type": "political"
     },
@@ -617,9 +619,9 @@
       "source": "https://en.wikipedia.org/wiki/Goguryeo",
       "tags": [
         "Korean",
-        "Foundation",
         "Goguryeo",
-        "Kingdom"
+        "Kingdom",
+        "Foundation"
       ],
       "type": "political"
     },
@@ -635,9 +637,9 @@
       "source": "https://en.wikipedia.org/wiki/Gojoseon",
       "tags": [
         "Korean",
+        "Religious",
         "Culture",
-        "Holidays",
-        "Religious"
+        "Holidays"
       ],
       "type": "religious"
     },
@@ -653,8 +655,8 @@
       "source": "https://en.wikipedia.org/wiki/Baekje",
       "tags": [
         "Korean",
-        "Foundation",
         "Kingdom",
+        "Foundation",
         "Trade"
       ],
       "type": "political"
@@ -671,11 +673,11 @@
       "source": "https://en.wikipedia.org/wiki/Lelang_Commandery",
       "tags": [
         "Chinese",
+        "Han",
         "Korean",
-        "War",
-        "Battle",
         "Goguryeo",
-        "Han"
+        "War",
+        "Battle"
       ],
       "type": "military"
     }

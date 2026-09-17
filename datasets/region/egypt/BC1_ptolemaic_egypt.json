@@ -49,8 +49,8 @@
       "era": "BC",
       "latitude": 31.503,
       "longitude": 34.467,
-      "name": "Battle of Gaza",
-      "name_ru": "Битва при Газе",
+      "name": "Diadochi Battle of Gaza",
+      "name_ru": "Битва диадохов при Газе",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Gaza_(312_BC)",
       "tags": [
         "Greek",
@@ -432,6 +432,28 @@
       "type": "scientific"
     },
     {
+      "date": "01.01.0250",
+      "description": "According to Greek legend, the city was named after Canopus (Canobus), the faithful helmsman of King Menelaus. Returning from the destruction of Troy, Menelaus's ship landed on the shores of Egypt, where Canopus died from a snake bite and was buried there.\n\nDuring the Ptolemaic and Roman eras, Canopus reached the height of its wealth and influence. The city was renowned for its magnificent Serapeum — the temple of the god Serapis, renowned for its oracle and miraculous healing practices. Canopus gained a reputation for luxury, entertainment, and the \"gay life.\" Roman and Greek authors often described it as a resort with riotous nightly celebrations, luxurious villas, and a thriving trade in incense and ointments.",
+      "description_ru": "По греческой легенде, город получил свое название в честь Канопа (Канобуса) — верного кормчего царя Менелая. Возвращаясь после разрушения Трои, корабль Менелая причалил к берегам Египта, где Каноп скончался от укуса змеи и был здесь похоронен.\n\nВ эпохи Птолемеев и Рима Канопус достиг пика своего богатства и влияния. Город был знаменит своим великолепным Серапеумом — храмом бога Сераписа, славившийся своим оракулом и практиками чудесного исцеления. Канопус снискал славу места роскоши, развлечений и «веселой жизни». Римские и греческие авторы часто описывали его как курорт с шумными ночными празднествами, роскошными виллами и развитой торговлей благовониями и мазями.",
+      "era": "BC",
+      "latitude": 31.31903439,
+      "longitude": 30.06534219,
+      "name": "Canopus — resort of the Ptolemaic Egypt",
+      "name_ru": "Канопус — курорт времен Птолемеев",
+      "source": "https://en.wikipedia.org/wiki/Canopus,_Egypt",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Ptolemaic",
+        "City",
+        "Religious",
+        "Culture",
+        "Entertainment",
+        "Recreation"
+      ],
+      "type": "historic"
+    },
+    {
       "date": "01.01.0246",
       "description": "Ptolemy III Euergetes becomes king; he will lead the most successful military campaign in Ptolemaic history, temporarily conquering vast Seleucid territories during the Third Syrian War",
       "description_ru": "Птолемей III Эвергет, сын Птолемея II и Арсинои I, проведёт самую успешную военную кампанию в птолемеевской истории, временно завоевав обширные селевкидские территории во время Третьей Сирийской войны",
@@ -449,6 +471,25 @@
         "King"
       ],
       "type": "political"
+    },
+    {
+      "date": "01.01.0245",
+      "description": "Callimachus creates the Pinakes, the first systematic library catalog in history; this bibliography of the Library of Alexandria organizes works by author and subject, establishing principles still used today",
+      "description_ru": "Каллимах создаёт 'Пинаки', первый систематический библиотечный каталог в истории; эта библиография Александрийской библиотеки организует работы по автору и теме, устанавливая принципы, используемые по сей день",
+      "era": "BC",
+      "latitude": 31.2,
+      "longitude": 29.9,
+      "name": "Callimachus Creates First Library Catalog",
+      "name_ru": "Каллимах создаёт первый библиотечный каталог",
+      "source": "https://en.wikipedia.org/wiki/Pinakes",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Ptolemaic",
+        "Culture",
+        "Library"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0245",
@@ -471,23 +512,23 @@
       "type": "cultural"
     },
     {
-      "date": "01.01.0245",
-      "description": "Callimachus creates the Pinakes, the first systematic library catalog in history; this bibliography of the Library of Alexandria organizes works by author and subject, establishing principles still used today",
-      "description_ru": "Каллимах создаёт 'Пинаки', первый систематический библиотечный каталог в истории; эта библиография Александрийской библиотеки организует работы по автору и теме, устанавливая принципы, используемые по сей день",
+      "date": "01.01.0240",
+      "description": "Eratosthenes of Cyrene becomes chief librarian of the Library of Alexandria; he will calculate the Earth's circumference with remarkable accuracy using shadows and geometry",
+      "description_ru": "Эратосфен Киренский становится главным библиотекарем Александрийской библиотеки; он вычислит окружность Земли с замечательной точностью, используя тени и геометрию",
       "era": "BC",
       "latitude": 31.2,
       "longitude": 29.9,
-      "name": "Callimachus Creates First Library Catalog",
-      "name_ru": "Каллимах создаёт первый библиотечный каталог",
-      "source": "https://en.wikipedia.org/wiki/Pinakes",
+      "name": "Eratosthenes Becomes Chief Librarian",
+      "name_ru": "Эратосфен становится главным библиотекарем",
+      "source": "https://en.wikipedia.org/wiki/Eratosthenes",
       "tags": [
         "Greek",
         "Egypt",
         "Ptolemaic",
-        "Culture",
-        "Library"
+        "Library",
+        "Science"
       ],
-      "type": "cultural"
+      "type": "scientific"
     },
     {
       "date": "01.01.0240",
@@ -505,25 +546,6 @@
         "Ptolemaic",
         "Geography",
         "Mathematics",
-        "Science"
-      ],
-      "type": "scientific"
-    },
-    {
-      "date": "01.01.0240",
-      "description": "Eratosthenes of Cyrene becomes chief librarian of the Library of Alexandria; he will calculate the Earth's circumference with remarkable accuracy using shadows and geometry",
-      "description_ru": "Эратосфен Киренский становится главным библиотекарем Александрийской библиотеки; он вычислит окружность Земли с замечательной точностью, используя тени и геометрию",
-      "era": "BC",
-      "latitude": 31.2,
-      "longitude": 29.9,
-      "name": "Eratosthenes Becomes Chief Librarian",
-      "name_ru": "Эратосфен становится главным библиотекарем",
-      "source": "https://en.wikipedia.org/wiki/Eratosthenes",
-      "tags": [
-        "Greek",
-        "Egypt",
-        "Ptolemaic",
-        "Library",
         "Science"
       ],
       "type": "scientific"
@@ -550,7 +572,7 @@
     {
       "date": "01.01.0237",
       "description": "Construction begins on the Temple of Horus at Edfu, one of the best-preserved ancient Egyptian temples. Edfu was considered the site of the legendary battle between the god Horus (the falcon) and his uncle Seth (the god of chaos). It was important to the Ptolemies to demonstrate that they were not invaders in Egypt, but legitimate rulers who respected Egyptian culture. By building the temple here, the Ptolemies emphasized the victory of order over chaos, personifying this very \"order\" themselves.",
-      "description_ru": "Начинается строительство Храма Хора в Эдфу, одного из наиболее хорошо сохранившихся древнеегипетских храмов. Эдфу считался местом легендарной битвы между богом Хором (соколом) и его дядей Сетом (богом хаоса). Птолемеям важно было показать, что они в Египте являются не захватчиками, а законными правителями, уважающими египетскую культуру. Построив здесь храм, Птолемеи подчеркивали победу порядка над хаосом, олицетворяя собой этот самый «порядок»",
+      "description_ru": "Начинается строительство Храма Хора в Эдфу, одного из наиболее хорошо сохранившихся древнеегипетских храмов. Эдфу считался местом легендарной битвы между богом Хором (соколом) и его дядей Сетом (богом хаоса). Птолемеям важно было показать, что они в Египте являются не захватчиками, а законными правителями, уважающими египетскую культуру. Построив здесь храм, Птолемеи подчеркивали победу порядка над хаосом, олицетворяя собой этот самый «порядок».",
       "era": "BC",
       "latitude": 24.978,
       "longitude": 32.873,
@@ -610,8 +632,8 @@
     },
     {
       "date": "01.01.0206",
-      "description": "Theban Revolt begins in Upper Egypt; native Egyptian leaders proclaim independence and establish a rival dynasty at Thebes that will last for nearly two decades, challenging Ptolemaic authority",
-      "description_ru": "Начинается Фиванское восстание в Верхнем Египте; местные египетские вожди провозглашают независимость и основывают соперничающую династию в Фивах, которая продержится почти два десятилетия, бросая вызов птолемеевской власти",
+      "description": "Ten years after the Battle of Raphia, Upper Egypt, with its capital in Thebes, seceded from Alexandria, proclaiming its own dynasty of native pharaohs (Hugronaphor and Ankhmakhis). The Egyptians, having taken part in the war against the Seleucids, realized their potential and were no longer willing to accept their secondary status in the Hellenistic state.",
+      "description_ru": "Через 10 лет после битвы при Рафии Верхний Египет со столицей в Фивах откололся от Александрии, провозгласив собственную династию коренных фараонов (Хугронафора и Анхмахиса). Египтяне, принявшие участие в войне с Селевкидами, осознали свои возможности и больше не хотели мириться со своим второстепенным статусом в эллинистическом государстве.",
       "era": "BC",
       "latitude": 25.731,
       "longitude": 32.639,
@@ -621,7 +643,8 @@
       "tags": [
         "Egypt",
         "Ptolemaic",
-        "Rebellion"
+        "Rebellion",
+        "Independence"
       ],
       "type": "political"
     },
@@ -642,6 +665,28 @@
         "Crisis",
         "Dynasty",
         "King"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0204",
+      "description": "When Ptolemy IV died in 204 BC, his chief minister Sosibius and the royal favorite Agathocles concealed the king's death for weeks while they secured the palace and the treasury. To eliminate any rival claim to the regency, they had Ptolemy's sister-wife, Queen Arsinoe III, murdered, then presented the six-year-old Ptolemy V to the army as sole heir once their position was safe. The cover-up briefly worked, but Alexandria's mob eventually turned on the conspirators: Agathocles and his family were torn apart in the streets once the truth of the queen's death became known.",
+      "description_ru": "Когда умер Птолемей IV, его первый министр Сосибий и царский фаворит Агафокл несколько недель скрывали смерть царя, пока укрепляли свою власть над дворцом и казной. Чтобы устранить любого соперника в борьбе за регентство, они убили сестру-жену Птолемея, царицу Арсиною III, а затем, обезопасив своё положение, представили армии шестилетнего Птолемея V как единственного наследника. \n\nКакое-то время заговор скрывали успешно, но александрийская толпа в итоге обратилась против заговорщиков: когда правда о смерти царицы вышла наружу, Агафокла и его семью растерзали прямо на улицах.",
+      "era": "BC",
+      "latitude": 31.206667,
+      "longitude": 29.900278,
+      "name": "The Regicide of Arsinoe III",
+      "name_ru": "Убийство Арсинои III в Александрии",
+      "source": "https://en.wikipedia.org/wiki/Arsinoe_III",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Ptolemaic",
+        "Crisis",
+        "Dynasty",
+        "Conspiracy",
+        "Lynching",
+        "Murder"
       ],
       "type": "political"
     },
@@ -687,8 +732,8 @@
     },
     {
       "date": "01.01.0194",
-      "description": "Ptolemy V marries Cleopatra I, daughter of Antiochus III; this marriage ends the Fifth Syrian War but brings Seleucid influence into the Ptolemaic court that will persist for generations",
-      "description_ru": "Птолемей V женится на Клеопатре I, дочери Антиоха III; этот брак завершает Пятую Сирийскую войну, но приносит селевкидское влияние в птолемеевский двор, которое сохранится на поколения",
+      "description": "Ptolemy V marries Cleopatra I, daughter of Antiochus III. She is the first Cleopatra in Ptolemaic history; prior to this, Ptolemaic queens were traditionally named Arsinoe, Berenice, or Philopatra. The marriage became the main condition of the peace treaty that ended the Fifth Syrian War, in which Egypt suffered a crushing defeat. The bride's father, the powerful Syrian king Antiochus III the Great, forced this alliance on Egypt to consolidate his conquests.\n\nAccording to the Egyptian side, Antiochus III gave his daughter a colossal dowry — Coele-Syria (a region encompassing Palestine and Phoenicia), over which Egypt and Syria had fought for over a century. However, Antiochus retained de facto military and administrative control over the region. Cleopatra was intended to serve as his agent of influence at the Alexandrian court.",
+      "description_ru": "Птолемей V женится на Клеопатре I, дочери Антиоха III. Это первая Клеопатра в истории Птолемеев; до этого цариц Птолемеев традиционно звали Арсиноя, Береника или Филопатра. Брак стал главным условием мирного договора, завершившего Пятую Сирийскую войну, в которой Египет потерпел сокрушительное поражение. Отец невесты, могущественный сирийский царь Антиох III Великий, навязал Египту этот союз, чтобы закрепить свои завоевания.\n\nПо заверению египетской стороны, Антиох III отдал за дочерью колоссальное приданое — Келесирию (регион, включавший Палестину и Финикию), из-за которой Египет и Сирия воевали больше века, однако фактический военный и административный контроль над регионом Антиох сохранил за собой. Клеопатра же должна была стать его агентом влияния при Александрийском дворе.",
       "era": "BC",
       "latitude": 31.206667,
       "longitude": 29.900278,
@@ -709,8 +754,8 @@
     },
     {
       "date": "01.01.0186",
-      "description": "The Great Theban Revolt is finally suppressed by Ptolemaic forces; the last rebel pharaoh is captured and executed, but the revolt demonstrated the fragility of Greek rule over native Egyptians",
-      "description_ru": "Великое Фиванское восстание окончательно подавлено птолемеевскими войсками; последний фараон-повстанец захвачен и казнён, но восстание показало хрупкость греческого правления над  египтянами",
+      "description": "The Great Theban Revolt was finally suppressed by Ptolemaic troops; an army under the Ptolemaic general Colanus stormed Thebes. The last rebel pharaoh was captured and executed.\n\nTo calm the region and prevent a new outbreak of guerrilla warfare, Ptolemy V Epiphanes issued an amnesty decree: ordinary rebels who returned to their homes were forgiven their debts, had their confiscated lands returned, and were guaranteed their personal safety.",
+      "description_ru": "Великое Фиванское восстание окончательно подавлено птолемеевскими войсками; армия под командованием птолемеевского полководца Колана взяла штурмом Фивы. Последний фараон-повстанец захвачен и казнён. \n\nЧтобы успокоить регион и не допустить новой вспышки партизанской войны, Птолемей V Эпифан издал указ об амнистии: рядовым повстанцам, вернувшимся в свои дома, простили долги, вернули конфискованные земли и гарантировали личную безопасность.",
       "era": "BC",
       "latitude": 25.731,
       "longitude": 32.639,
@@ -724,6 +769,28 @@
         "Rebellion"
       ],
       "type": "military"
+    },
+    {
+      "date": "01.01.0180",
+      "description": "The cult of Isis spread throughout the Mediterranean from Egypt; temples to Isis were built in Greece, Rome, and throughout the Hellenistic world. Isis protects women, mothers, and sailors, offering her followers a hope of immortality and personal protection that is unusual among Greek gods.",
+      "description_ru": "Культ Исиды распространяется по всему Средиземноморью из Египта; храмы Исиды строятся в Греции, Риме и по всему эллинистическому миру. Исида защищает женщин, матерей и мореходов, предлагает своим последователям нетипичную для греческих богов надежду на бессмертие и личную защиту.",
+      "era": "BC",
+      "latitude": 31.1819,
+      "longitude": 29.8969,
+      "name": "Spread of Isis Cult Throughout Mediterranean",
+      "name_ru": "Распространение культа Исиды по Средиземноморью",
+      "source": "https://en.wikipedia.org/wiki/Isis",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Ptolemaic",
+        "Religious",
+        "Pagan",
+        "Syncretism",
+        "Mother of God",
+        "Culture"
+      ],
+      "type": "religious"
     },
     {
       "date": "01.01.0180",
@@ -747,26 +814,72 @@
       "type": "political"
     },
     {
-      "date": "01.01.0180",
-      "description": "The cult of Isis spread throughout the Mediterranean from Egypt; temples to Isis were built in Greece, Rome, and throughout the Hellenistic world. Isis protects women, mothers, and sailors, offering her followers a hope of immortality and personal protection that is unusual among Greek gods.",
-      "description_ru": "Культ Исиды распространяется по всему Средиземноморью из Египта; храмы Исиды строятся в Греции, Риме и по всему эллинистическому миру. Исида защищает женщин, матерей и мореходов, предлагает своим последователям нетипичную для греческих богов надежду на бессмертие и личную защиту.",
+      "date": "01.01.0169",
+      "description": "Exploiting Egypt's plans to reclaim Coele-Syria, Antiochus IV Epiphanes struck first, crushing the Ptolemaic army near Pelusium and marching unopposed to Memphis, where he captured the young King Ptolemy VI and had himself crowned as the boy's protector. Rather than accept a Seleucid puppet, the Alexandrians proclaimed Ptolemy VI's younger brother, Ptolemy VIII, and sister Cleopatra II as new co-rulers in his place, leaving Egypt with two rival kings — one a Seleucid captive, the other besieged in his own capital — until Rome intervened the following year.",
+      "description_ru": "Пользуясь тем, что Египет готовился вернуть себе Келесирию, Антиох IV Эпифан нанёс удар первым: разгромил птолемеевскую армию у Пелусия и беспрепятственно дошёл до Мемфиса, где захватил юного царя Птолемея VI и провозгласил себя его опекуном. Не желая мириться с селевкидской марионеткой, александрийцы провозгласили новыми соправителями младшего брата Птолемея VI — Птолемея VIII — и сестру Клеопатру II, оставив Египет с двумя соперничающими царями: одним — пленником Селевкидов, другим — осаждённым в собственной столице, — пока год спустя не вмешался Рим.",
       "era": "BC",
-      "latitude": 31.1819,
-      "longitude": 29.8969,
-      "name": "Spread of Isis Cult Throughout Mediterranean",
-      "name_ru": "Распространение культа Исиды по Средиземноморью",
-      "source": "https://en.wikipedia.org/wiki/Isis",
+      "latitude": 29.844,
+      "longitude": 31.25,
+      "name": "Antiochus IV Invades Egypt and Captures Ptolemy VI",
+      "name_ru": "Антиох IV вторгается в Египет и захватывает Птолемея VI",
+      "source": "https://en.wikipedia.org/wiki/Antiochus_IV_Epiphanes",
       "tags": [
         "Greek",
         "Egypt",
         "Ptolemaic",
-        "Religious",
-        "Pagan",
-        "Syncretism",
-        "Mother of God",
-        "Culture"
+        "Seleucid",
+        "Crisis",
+        "War",
+        "Invasion",
+        "Syrian Wars"
       ],
-      "type": "religious"
+      "type": "military"
+    },
+    {
+      "date": "01.01.0168",
+      "description": "With Antiochus IV's army camped outside Alexandria and Egypt on the verge of Seleucid conquest, a lone Roman envoy, Gaius Popillius Laenas, met the king at Eleusis and handed him the Senate's demand to withdraw immediately. When Antiochus asked for time to consult his advisers, Popillius drew a circle in the sand around him with his walking stick and told him to answer before stepping out of it. Antiochus, unwilling to risk war with Rome, agreed on the spot and marched his army home, and Rome's authority over the Hellenistic world was never seriously challenged again.",
+      "description_ru": "Когда армия Антиоха IV стояла лагерем под стенами Александрии и Египет был на грани селевкидского завоевания, одинокий римский посол Гай Попилий Ленат встретил царя в Элевсине и вручил ему требование сената немедленно уйти. Когда Антиох попросил время посоветоваться со своими приближёнными, Попилий обвёл его тростью круг на песке и потребовал ответа, не выходя из круга. Антиох, не желая рисковать войной с Римом, тут же согласился и увёл войско домой — с этого дня безоговорочная власть Рима над эллинистическим миром уже никем всерьёз не оспаривалась.",
+      "era": "BC",
+      "latitude": 31.15,
+      "longitude": 29.95,
+      "name": "Rome's Ultimatum to the Seleucids at Eleusis",
+      "name_ru": "Ультиматум Рима Селевкидам в Элевсине",
+      "source": "https://en.wikipedia.org/wiki/Gaius_Popillius_Laenas",
+      "tags": [
+        "Greek",
+        "Roman",
+        "Egypt",
+        "Ptolemaic",
+        "Seleucid",
+        "Crisis",
+        "War",
+        "Diplomacy",
+        "Retreat",
+        "Syrian Wars"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0163",
+      "description": "The uneasy three-way rule of Ptolemy VI, his brother Ptolemy VIII, and their sister-wife Cleopatra II collapsed within a year of the Seleucid withdrawal, as Ptolemy VIII tried to seize sole power in Alexandria. Both brothers sailed to Rome to plead their case before the Senate, which settled the quarrel by splitting the dynasty's territory in two: Ptolemy VI kept Egypt and Cyprus, while Ptolemy VIII was granted Cyrenaica to the west. The arrangement satisfied no one and set the pattern for decades of Ptolemaic civil war still to come.",
+      "description_ru": "Непрочное тройное правление Птолемея VI, его брата Птолемея VIII и их сестры-жены Клеопатры II рухнуло уже через год после ухода Селевкидов, когда Птолемей VIII попытался захватить единоличную власть в Александрии. \n\nОба брата отплыли в Рим, чтобы изложить свой спор сенату, который уладил ссору, разделив владения династии надвое: Птолемей VI сохранил Египет и Кипр, а Птолемею VIII досталась Киренаика на западе. Решение не устроило никого и заложило образец десятилетий последующих птолемеевских гражданских войн.",
+      "era": "BC",
+      "latitude": 41.89318911,
+      "longitude": 12.48506606,
+      "name": "Rome Divides the Ptolemaic Kingdom",
+      "name_ru": "Рим разделяет царство Птолемеев",
+      "source": "https://en.wikipedia.org/wiki/Ptolemy_VIII_Physcon",
+      "tags": [
+        "Greek",
+        "Roman",
+        "Egypt",
+        "Ptolemaic",
+        "Crisis",
+        "Diplomacy",
+        "Political",
+        "Fragmentation"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.0150",
@@ -808,6 +921,48 @@
       "type": "political"
     },
     {
+      "date": "01.01.0145",
+      "description": "Drawn into yet another Seleucid succession war, Ptolemy VI marched into Syria in support of his son-in-law Alexander Balas, then switched sides when Balas turned against him, backing the rival claimant Demetrius II instead and even accepting the Syrian crown for himself. \n\nAt the Battle of Antioch, his combined army crushed Balas's forces, but Ptolemy was thrown from his horse during the fighting and died days later from his injuries. His death opened the Egyptian throne to his brother Ptolemy VIII, who returned from Cyrenaica to claim it within weeks.",
+      "description_ru": "Втянутый в очередную войну за селевкидский престол, Птолемей VI вторгся в Сирию на стороне своего зятя Александра Балы, но затем перешёл на сторону его соперника Деметрия II, когда Бала выступил против него, и даже принял для себя сирийскую корону. \n\nВ битве при Антиохии его объединённое войско разгромило силы Балы, но сам Птолемей упал с коня в разгар сражения и через несколько дней скончался от полученных ран. Его смерть открыла египетский престол его брату Птолемею VIII, который вернулся из Киренаики и заявил на него права уже через несколько недель.",
+      "era": "BC",
+      "latitude": 36.20257,
+      "longitude": 36.160152,
+      "name": "Death of Ptolemy VI at the Battle of Antioch",
+      "name_ru": "Смерть Птолемея VI в битве при Антиохии",
+      "source": "https://en.wikipedia.org/wiki/Ptolemy_VI_Philometor",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Ptolemaic",
+        "Seleucid",
+        "War",
+        "Battle",
+        "Death"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0130",
+      "description": "Driven out of Alexandria by his own sister-wife Cleopatra II during a fresh round of civil war, Ptolemy VIII fled to Cyprus — taking with him their teenage son, Ptolemy Memphites, the boy Cleopatra had named co-king in his absence. \n\nTo punish her, Ptolemy VIII had the boy killed, dismembered, and the pieces packed into a chest, which he sent to Alexandria to arrive on Cleopatra's birthday. The atrocity, recorded by the historian Justin, shocked even a dynasty accustomed to fratricide and became the defining image of Ptolemy VIII's reign for later generations.",
+      "description_ru": "Изгнанный из Александрии собственной сестрой-женой Клеопатрой II в ходе очередной гражданской войны, Птолемей VIII бежал на Кипр, забрав с собой их сына-подростка Птолемея Мемфита, которого Клеопатра в его отсутствие провозгласила соправителем. \n\nЧтобы отомстить ей, Птолемей VIII приказал убить мальчика, расчленить тело и уложить части в сундук, который отправил в Александрию так, чтобы он прибыл в день рождения Клеопатры. Это злодеяние, описанное историком Юстином, потрясло даже династию, привычную к братоубийству, и стало главным символом правления Птолемея VIII в памяти потомков.",
+      "era": "BC",
+      "latitude": 35.17,
+      "longitude": 33.36,
+      "name": "Ptolemy VIII Murders His Son and Sends the Body to Cleopatra II",
+      "name_ru": "Птолемей VIII убивает сына и отправляет тело Клеопатре II",
+      "source": "https://en.wikipedia.org/wiki/Ptolemy_VIII_Physcon",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Ptolemaic",
+        "Civil War",
+        "Cruelty",
+        "Cyprus",
+        "Murder"
+      ],
+      "type": "political"
+    },
+    {
       "date": "01.01.0129",
       "description": "Hipparchus of Nicaea creates the first comprehensive star catalog in his laboratory on the island of Rhodes, recording the positions of over 850 stars; he discovers the precession of the equinoxes and develops trigonometry",
       "description_ru": "Гиппарх Никейский создаёт первый всеобъемлющий звёздный каталог в своей лаборатории на острове Родос, фиксируя положения более 850 звёзд; он открывает прецессию равноденствий и развивает тригонометрию",
@@ -828,9 +983,29 @@
       "type": "scientific"
     },
     {
+      "date": "01.01.0118",
+      "description": "After nearly a decade of civil war between Ptolemy VIII and his sister-wife Cleopatra II, the two reconciled and, together with Cleopatra II's daughter Cleopatra III — who was also Ptolemy VIII's second wife — jointly issued the Amnesty Decree of 118 BC. The decree pardoned crimes committed during the fighting, cancelled unpaid taxes, and reorganized the administration of temple lands, restoring a fragile stability. It stands as one of the best-preserved sources on daily Ptolemaic bureaucracy, since copies of its exact legal terms survive on papyrus to this day.",
+      "description_ru": "После почти десяти лет гражданской войны между Птолемеем VIII и его сестрой-женой Клеопатрой II оба помирились и вместе с дочерью Клеопатры II — Клеопатрой III, которая была также второй женой Птолемея VIII, — совместно издали Указ об амнистии. Указ прощал преступления, совершённые во время войны, списывал недоимки по налогам и реорганизовывал управление храмовыми землями, восстановив хрупкую стабильность. Он остаётся одним из наиболее полно сохранившихся источников о повседневной птолемеевской бюрократии, поскольку его точный текст дошёл до нас на папирусах.",
+      "era": "BC",
+      "latitude": 31.206667,
+      "longitude": 29.900278,
+      "name": "The Amnesty Decree Ends the Ptolemaic Civil War",
+      "name_ru": "Завершение гражданской войны Птолемеев",
+      "source": "https://en.wikipedia.org/wiki/Ptolemy_VIII_Physcon",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Ptolemaic",
+        "Civil War",
+        "Diplomacy",
+        "Peace"
+      ],
+      "type": "political"
+    },
+    {
       "date": "01.01.0116",
-      "description": "Ptolemy VIII dies after a turbulent reign; his will divides the kingdom, beginning a pattern of succession crises and civil wars that will plague the dynasty for the next century",
-      "description_ru": "Птолемей VIII умирает после бурного правления; его завещание дробит царство, начиная череду кризисов наследования и гражданских войн, которые будут терзать династию следующее столетие",
+      "description": "Ptolemy VIII dies after a tumultuous reign. Dying, he left a unique will: he transferred power to Cleopatra III and allowed her to choose which of her two sons would become her co-ruler; The queen herself adored the obedient younger Ptolemy X (Alexander) and hated the older IX (Latyre).\n\nIn total, Cleopatra III took the status of queen, and her sons (first Ptolemy IX, and then Ptolemy X) held the post of co-kings.",
+      "description_ru": "Птолемей VIII умирает после бурного правления. Умирая, он оставил уникальное завещание: он передал власть Клеопатре III и разрешил ей самой выбрать, кто из двух сыновей станет её соправителем; Сама царица обожала послушного младшего Птолемея X (Александра) и ненавидела старшего IX (Латира). \n\nИтого Клеопатра III заняла статус царицы, а её сыновья (сначала Птолемей IX, а затем Птолемей X) занимали пост царей-соправителей.",
       "era": "BC",
       "latitude": 31.206667,
       "longitude": 29.900278,
@@ -841,15 +1016,17 @@
         "Greek",
         "Egypt",
         "Ptolemaic",
+        "Crisis",
         "Dynasty",
+        "Queen",
         "Death"
       ],
       "type": "political"
     },
     {
       "date": "01.01.0107",
-      "description": "Ptolemy IX is expelled from Egypt by his mother Cleopatra III and brother Ptolemy X; he flees to Cyprus, beginning decades of fratricidal conflict that weakens the dynasty",
-      "description_ru": "Птолемей IX изгнан из Египта своей матерью Клеопатрой III и братом Птолемеем X; он бежит на Кипр, начиная десятилетия братоубийственного конфликта, ослабляющего династию",
+      "description": "Cleopatra III, who hated her eldest son and dreamed of seeing the obedient younger son (Ptolemy X) on the throne, staged a true spectacle for the people of Alexandria. She ordered several of her eunuch servants to be brutally beaten and wounded, and then declared that her eldest son had tried to kill her.\n\nThe enraged crowd believed the queen. A terrible riot broke out in the city. Ptolemy IX was forced to abandon his wife (Cleopatra Selene) and young sons in the palace and flee Egypt in haste to avoid being torn to pieces. He sailed to Egyptian-controlled Cyprus.",
+      "description_ru": "Клеопатра III, ненавидевшая старшего сына и мечтавшая видеть на троне послушного младшего (Птолемея X), разыграла перед жителями Александрии настоящий спектакль. Она приказала жестоко избить и ранить нескольких своих слуг-евнухов, а затем объявила, что старший сын пытался её убить.\n\nРазъяренная толпа поверила царице. В городе вспыхнул страшный бунт. Птолемею IX пришлось бросить во дворце жену (Клеопатру Селену) и маленьких сыновей и в спешке бежать из Египта, чтобы не быть растерзанным. Он уплыл на подконтрольный Египту Кипр.",
       "era": "BC",
       "latitude": 35.17,
       "longitude": 33.36,
@@ -867,33 +1044,112 @@
       "type": "political"
     },
     {
-      "date": "15.01.0080",
-      "description": "Ptolemy XII Auletes ('Flute-Player') becomes king; an illegitimate son, he spends his reign seeking Roman recognition while Egypt's power continues to decline amid debt and instability",
-      "description_ru": "Птолемей XII Авлет ('Флейтист') становится царём; незаконнорождённый сын, он проводит своё правление в поисках римского признания, в то время как могущество Египта продолжает угасать на фоне долгов и нестабильности",
+      "date": "01.01.0103",
+      "description": "In the midst of yet another family war in Egypt, grandmother Cleopatra III sent her young grandson, the son of Ptolemy X, to the Greek island of Kos for his safety, along with a huge portion of the royal treasury.",
+      "description_ru": "В разгар очередной семейной войны в Египте, бабушка Клеопатра III отправила маленького внука, сына Птолемея X, ради его безопасности на греческий остров Кос вместе с огромной частью царской казны.",
+      "era": "BC",
+      "latitude": 36.8947,
+      "longitude": 27.2862,
+      "name": "Ptolemy XI is sheltered from civil war in Egypt",
+      "name_ru": "Птолемей XI укрыт от гражданской войны в Египте",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Ptolemaic",
+        "Civil War",
+        "Dynasty"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0101",
+      "description": "After several years of co-ruling with his mother, Cleopatra III, and becoming increasingly burdened by her power over the throne and his own position as his mother's puppet, Ptolemy X arranged for her murder. \n\nThe murder shocked Alexandria, which had already watched the queen expel one son, Ptolemy IX, to Cyprus in favor of Ptolemy X a few years earlier. Matricide bought him only thirteen more years on the throne: unpopular and chronically short of funds, he would soon be forced to plunder Egypt's most sacred relic simply to survive.",
+      "description_ru": "После нескольких лет совместного правления с матерью, Клеопатрой III, всё сильнее тяготясь её властью над престолом и собственным положением марионетки матери, Птолемей X организовал её убийство. \n\nЭто убийство потрясло Александрию, которая видела, как царица изгнала на Кипр своего другого сына, Птолемея IX, ради Птолемея X. Матереубийство подарило ему лишь тринадцать лет на престоле: непопулярный и постоянно нуждавшийся в деньгах, вскоре он будет вынужден разграбить самую священную реликвию Египта, просто чтобы удержаться у власти.",
+      "era": "BC",
+      "latitude": 31.206667,
+      "longitude": 29.900278,
+      "name": "Ptolemy X Murders His Mother Cleopatra III",
+      "name_ru": "Птолемей X убивает свою мать Клеопатру III",
+      "source": "https://en.wikipedia.org/wiki/Cleopatra_III",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Ptolemaic",
+        "Crisis",
+        "Dynasty",
+        "Murder"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0088",
+      "description": "Facing a mercenary mutiny he could not afford to pay and an Alexandrian population that despised him for his mother's murder, Ptolemy X broke open the golden sarcophagus of Alexander the Great and melted it down for coin — a desecration that finally turned the city against him for good. Driven from Egypt, he tried to reclaim Cyprus with a hired fleet, but was defeated and killed at sea. His exiled brother, Ptolemy IX, sailed home from Cyprus to reclaim the throne he had lost nineteen years earlier.",
+      "description_ru": "Не имея денег на выплату жалованья взбунтовавшимся наёмникам и ненавидимый александрийцами за убийство собственной матери, Птолемей X вскрывает золотой саркофаг Александра Македонского и переплавяет его на монету — святотатство, которое окончательно настраивает город против него. \n\nИзгнанный из Египта, он пытается силой наёмного флота вернуть себе Кипр, но терпит поражение и гибнет в морском бою. Его брат-изгнанник Птолемей IX возвращается с Кипра, чтобы вновь занять престол, потерянный девятнадцать лет назад.",
+      "era": "BC",
+      "latitude": 31.206667,
+      "longitude": 29.900278,
+      "name": "Ptolemy X Loots Alexander's Tomb and Dies at Sea",
+      "name_ru": "Птолемей X грабит гробницу Александра и гибнет в море",
+      "source": "https://en.wikipedia.org/wiki/Ptolemy_X_Alexander_I",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Ptolemaic",
+        "Blasphemy",
+        "Crisis",
+        "Debt",
+        "Death"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.12.0081",
+      "description": "After the death of Ptolemy IX, his daughter Berenice III ascends the throne of Alexandria. She reigns alone for about six months. The people adore her. However, the Roman dictator Sulla realizes that the wealthiest Egypt is left without a male ruler. He decides this is the perfect opportunity to install his puppet on the throne. Ptolemy XI is at the Roman court at the time. Sulla sends him from Rome to Alexandria, accompanied by Roman representatives.",
+      "description_ru": "После смерти Птолемея IX на трон Александрии восходит дочь Береника III. Она правит в одиночестве около 6 месяцев. Народ её обожает. Однако римский диктатор Сулла понимает, что богатейший Египет остался без правителя-мужчины. Он решает, что это идеальный шанс посадить на трон свою марионетку. Птолемей XI находится в это время при дворе Рима. Сулла отправляет его из Рима в Александрию в сопровождении римских представителей.",
+      "era": "BC",
+      "latitude": 31.206667,
+      "longitude": 29.900278,
+      "name": "Berenice III ascends the throne of Egypt",
+      "name_ru": "Береника III восходит на трон Египта",
+      "source": "https://en.wikipedia.org/wiki/Berenice_III",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Ptolemaic",
+        "Dynasty",
+        "Queen"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "15.08.0080",
+      "description": "Ptolemy XII Auletes ('Flute Player') becomes king. The illegitimate son of Ptolemy IX Latyrus, he spends his reign playing the aulos and competing in competitions with itinerant musicians, while Egypt's power continues to decline amid bribes to Rome, mounting debts, and instability.",
+      "description_ru": "Птолемей XII Авлет ('Флейтист') становится царём. Незаконнорождённый сын Птолемея IX Латира, он проводит своё правление, играя на авлосе и участвуя в состязаниях с бродячими музыкантами, в то время как могущество Египта продолжает угасать на фоне взяток Риму, растущих долгов и нестабильности",
       "era": "BC",
       "latitude": 31.206667,
       "longitude": 29.900278,
       "name": "Reign of Ptolemy XII Auletes",
-      "name_ru": "Правление Птолемея XII Авлета",
+      "name_ru": "Правление Птолемея XII Флейтиста",
       "source": "https://en.wikipedia.org/wiki/Ptolemy_XII_Auletes",
       "tags": [
         "Greek",
         "Egypt",
         "Ptolemaic",
+        "Crisis",
         "Dynasty",
         "King"
       ],
       "type": "political"
     },
     {
-      "date": "01.01.0080",
-      "description": "Ptolemy XI murders his stepmother Cleopatra Berenice III just 19 days after their marriage; an Alexandrian mob lynches him in retaliation, demonstrating the people's power over even the Ptolemaic kings",
-      "description_ru": "Птолемей XI убивает свою мачеху Клеопатру Беренику III всего через 19 дней после свадьбы; александрийская толпа линчует его в отместку, демонстрируя власть народа над даже птолемеевскими царями",
+      "date": "19.07.0080",
+      "description": "Ptolemy XI, raised in Rome, refuses to be a mere window-dresser for the queen. On his orders, Berenice III is assassinated right in the palace. Upon learning of their beloved queen's death, the people of Alexandria are enraged. Citizens and guards storm the palace, drag Ptolemy XI into the stadium, and tear him to pieces. With this, the legitimate male branch of the Ptolemaic dynasty is forever extinguished.",
+      "description_ru": "Птолемей XI, воспитанный в Риме, не желает быть ширмой при царице. По его приказу Беренику III убивают прямо во дворце. Узнав о смерти любимой царицы, жители Александрии приходят в ярость. Горожане и гвардия штурмуют дворец, выволакивают Птолемея XI на стадион и разрывают его на части. На этом законная мужская ветвь династии Птолемеев прерывается навсегда.",
       "era": "BC",
       "latitude": 31.206667,
       "longitude": 29.900278,
       "name": "Murder of Cleopatra Berenice III and Lynching of Ptolemy XI",
-      "name_ru": "Линчевание Птолемея XI",
+      "name_ru": "Убийство Береники III и линчевание Птолемея XI",
       "source": "https://en.wikipedia.org/wiki/Ptolemy_XI_Alexander_II",
       "tags": [
         "Greek",
@@ -903,6 +1159,28 @@
         "Dynasty",
         "Lynching",
         "Murder"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.07.0080",
+      "description": "Sulla dispatched Ptolemy XI from Rome to Alexandria as his claimant to the Egyptian throne. A compromise was reached: Ptolemy XI would marry Berenice III. Berenice was both his cousin (or aunt) and stepmother (she had previously been married to his father, Ptolemy X).",
+      "description_ru": "Сулла отправляет Птолемея XI из Рима в Александрию, как своего претендента на трон Египта. Достигается компромисс: Птолемей XI женится на Беренике III. Береника при этом была ему и двоюродной сестрой (или тетей) и одновременно мачехой (ранее она была замужем за его отцом, Птолемеем X).",
+      "era": "BC",
+      "latitude": 31.206667,
+      "longitude": 29.900278,
+      "name": "The marriage of Berenice III and Ptolemy XI",
+      "name_ru": "Женитьба Береники III и Птолемея XI",
+      "source": "https://en.wikipedia.org/wiki/Berenice_III",
+      "tags": [
+        "Greek",
+        "Roman",
+        "Egypt",
+        "Ptolemaic",
+        "Diplomacy",
+        "Marriage",
+        "Dynasty",
+        "Political"
       ],
       "type": "political"
     },
@@ -921,8 +1199,8 @@
         "Roman",
         "Egypt",
         "Ptolemaic",
-        "Bribe",
         "Debt",
+        "Bribe",
         "Julius Caesar 👤",
         "Pompey the Great 👤"
       ],
@@ -1008,8 +1286,8 @@
         "Ptolemaic",
         "Dynasty",
         "Queen",
-        "Cleopatra VII 👑",
-        "Debt"
+        "Debt",
+        "Cleopatra VII 👑"
       ],
       "type": "political"
     },
@@ -1286,8 +1564,8 @@
       "era": "BC",
       "latitude": 38.92469486,
       "longitude": 20.69858551,
-      "name": "Battle of Actium",
-      "name_ru": "Битва при Акциуме",
+      "name": "Octavian defeats Antony and Cleopatra at Actium",
+      "name_ru": "Октавиан разбивает Антония и Клеопатру при Акциуме",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Actium",
       "tags": [
         "Roman",
@@ -1360,210 +1638,6 @@
         "Conquest",
         "Octavian 👑",
         "Suicide"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "22.06.0217",
-      "description": "At Raphia, near the Egypt-Judaea frontier, Ptolemy IV Philopator won the largest battle fought by any of Alexander's successor kingdoms, turning back Antiochus III's invasion of Coele-Syria with roughly seventy thousand infantry on each side. For the first time, Ptolemy armed and trained twenty thousand native Egyptians as phalangites alongside his Greek and Macedonian troops, and their discipline helped decide the day. The victory secured Egypt's southern Levant for another generation, but it also taught native Egyptians they could fight and win as soldiers — a lesson that would return to haunt the dynasty within a decade.",
-      "description_ru": "У Рафии, близ границы Египта с Иудеей, Птолемей IV Филопатор выиграл крупнейшее сражение среди всех эллинистических царств-преемников Александра, остановив вторжение Антиоха III в Келесирию силами примерно по семьдесят тысяч пехотинцев с каждой стороны. Впервые Птолемей вооружил и обучил двадцать тысяч коренных египтян как фалангитов наравне с греческими и македонскими войсками, и их выучка во многом решила исход битвы. Победа закрепила за Египтом южный Левант ещё на поколение вперёд, но заодно показала коренным египтянам, что они способны сражаться и побеждать как воины, — урок, который аукнется династии уже через десять лет.",
-      "era": "BC",
-      "latitude": 31.29,
-      "longitude": 34.24,
-      "name": "Battle of Raphia",
-      "name_ru": "Битва при Рафии",
-      "source": "https://en.wikipedia.org/wiki/Battle_of_Raphia",
-      "tags": [
-        "Greek",
-        "Egypt",
-        "Ptolemaic",
-        "Seleucid",
-        "War",
-        "Battle",
-        "Syrian Wars"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.01.0204",
-      "description": "When Ptolemy IV died in 204 BC, his chief minister Sosibius and the royal favorite Agathocles concealed the king's death for weeks while they secured the palace and the treasury. To eliminate any rival claim to the regency, they had Ptolemy's sister-wife, Queen Arsinoe III, murdered, then presented the six-year-old Ptolemy V to the army as sole heir once their position was safe. The cover-up briefly worked, but Alexandria's mob eventually turned on the conspirators: Agathocles and his family were torn apart in the streets once the truth of the queen's death became known.",
-      "description_ru": "Когда в 204 году до н. э. умер Птолемей IV, его первый министр Сосибий и царский фаворит Агафокл несколько недель скрывали смерть царя, пока укрепляли свою власть над дворцом и казной. Чтобы устранить любого соперника в борьбе за регентство, они убили сестру-жену Птолемея, царицу Арсиною III, а затем, обезопасив своё положение, представили армии шестилетнего Птолемея V как единственного наследника. Какое-то время заговор скрывали успешно, но александрийская толпа в итоге обратилась против заговорщиков: когда правда о смерти царицы вышла наружу, Агафокла и его семью растерзали прямо на улицах.",
-      "era": "BC",
-      "latitude": 31.206667,
-      "longitude": 29.900278,
-      "name": "The Regicide of Arsinoe III",
-      "name_ru": "Убийство Арсинои III",
-      "source": "https://en.wikipedia.org/wiki/Arsinoe_III",
-      "tags": [
-        "Greek",
-        "Egypt",
-        "Ptolemaic",
-        "Crisis",
-        "Dynasty",
-        "Murder",
-        "Conspiracy"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.0169",
-      "description": "Exploiting Egypt's plans to reclaim Coele-Syria, Antiochus IV Epiphanes struck first, crushing the Ptolemaic army near Pelusium and marching unopposed to Memphis, where he captured the young King Ptolemy VI and had himself crowned as the boy's protector. Rather than accept a Seleucid puppet, the Alexandrians proclaimed Ptolemy VI's younger brother, Ptolemy VIII, and sister Cleopatra II as new co-rulers in his place, leaving Egypt with two rival kings — one a Seleucid captive, the other besieged in his own capital — until Rome intervened the following year.",
-      "description_ru": "Пользуясь тем, что Египет готовился вернуть себе Келесирию, Антиох IV Эпифан нанёс удар первым: разгромил птолемеевскую армию у Пелусия и беспрепятственно дошёл до Мемфиса, где захватил юного царя Птолемея VI и провозгласил себя его опекуном. Не желая мириться с селевкидской марионеткой, александрийцы провозгласили новыми соправителями младшего брата Птолемея VI — Птолемея VIII — и сестру Клеопатру II, оставив Египет с двумя соперничающими царями: одним — пленником Селевкидов, другим — осаждённым в собственной столице, — пока год спустя не вмешался Рим.",
-      "era": "BC",
-      "latitude": 29.844,
-      "longitude": 31.25,
-      "name": "Antiochus IV Invades Egypt and Captures Ptolemy VI",
-      "name_ru": "Антиох IV вторгается в Египет и захватывает Птолемея VI",
-      "source": "https://en.wikipedia.org/wiki/Antiochus_IV_Epiphanes",
-      "tags": [
-        "Greek",
-        "Egypt",
-        "Ptolemaic",
-        "Seleucid",
-        "War",
-        "Crisis",
-        "Syrian Wars"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.01.0168",
-      "description": "With Antiochus IV's army camped outside Alexandria and Egypt on the verge of Seleucid conquest, a lone Roman envoy, Gaius Popillius Laenas, met the king at Eleusis and handed him the Senate's demand to withdraw immediately. When Antiochus asked for time to consult his advisers, Popillius drew a circle in the sand around him with his walking stick and told him to answer before stepping out of it. Antiochus, unwilling to risk war with Rome, agreed on the spot and marched his army home, and Rome's authority over the Hellenistic world was never seriously challenged again.",
-      "description_ru": "Когда армия Антиоха IV стояла лагерем под стенами Александрии и Египет был на грани селевкидского завоевания, одинокий римский посол Гай Попилий Ленат встретил царя в Элевсине и вручил ему требование сената немедленно уйти. Когда Антиох попросил время посоветоваться со своими приближёнными, Попилий обвёл его тростью круг на песке и потребовал ответа, не выходя из круга. Антиох, не желая рисковать войной с Римом, тут же согласился и увёл войско домой — с этого дня безоговорочная власть Рима над эллинистическим миром уже никем всерьёз не оспаривалась.",
-      "era": "BC",
-      "latitude": 31.15,
-      "longitude": 29.95,
-      "name": "The Day of Eleusis",
-      "name_ru": "День в Элевсине",
-      "source": "https://en.wikipedia.org/wiki/Gaius_Popillius_Laenas",
-      "tags": [
-        "Greek",
-        "Egypt",
-        "Ptolemaic",
-        "Roman",
-        "Seleucid",
-        "Diplomacy",
-        "Crisis"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.0163",
-      "description": "The uneasy three-way rule of Ptolemy VI, his brother Ptolemy VIII, and their sister-wife Cleopatra II collapsed within a year of the Seleucid withdrawal, as Ptolemy VIII tried to seize sole power in Alexandria. Both brothers sailed to Rome to plead their case before the Senate, which settled the quarrel by splitting the dynasty's territory in two: Ptolemy VI kept Egypt and Cyprus, while Ptolemy VIII was granted Cyrenaica to the west. The arrangement satisfied no one and set the pattern for decades of Ptolemaic civil war still to come.",
-      "description_ru": "Непрочное тройное правление Птолемея VI, его брата Птолемея VIII и их сестры-жены Клеопатры II рухнуло уже через год после ухода Селевкидов, когда Птолемей VIII попытался захватить единоличную власть в Александрии. Оба брата отплыли в Рим, чтобы изложить свой спор сенату, который уладил ссору, разделив владения династии надвое: Птолемей VI сохранил Египет и Кипр, а Птолемею VIII досталась Киренаика на западе. Решение не устроило никого и заложило образец десятилетий последующих птолемеевских гражданских войн.",
-      "era": "BC",
-      "latitude": 41.89318911,
-      "longitude": 12.48506606,
-      "name": "Rome Divides the Ptolemaic Kingdom",
-      "name_ru": "Рим разделяет царство Птолемеев",
-      "source": "https://en.wikipedia.org/wiki/Ptolemy_VIII_Physcon",
-      "tags": [
-        "Greek",
-        "Egypt",
-        "Ptolemaic",
-        "Roman",
-        "Civil War",
-        "Diplomacy"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.0145",
-      "description": "Drawn into yet another Seleucid succession war, Ptolemy VI marched into Syria in support of his son-in-law Alexander Balas, then switched sides when Balas turned against him, backing the rival claimant Demetrius II instead and even accepting the Syrian crown for himself. At the Battle of Antioch, his combined army crushed Balas's forces, but Ptolemy was thrown from his horse during the fighting and died days later from his injuries. His death opened the Egyptian throne to his brother Ptolemy VIII, who returned from Cyrenaica to claim it within weeks.",
-      "description_ru": "Втянутый в очередную войну за селевкидский престол, Птолемей VI вторгся в Сирию на стороне своего зятя Александра Балы, но затем перешёл на сторону его соперника Деметрия II, когда Бала выступил против него, и даже принял для себя сирийскую корону. В битве при Антиохии его объединённое войско разгромило силы Балы, но сам Птолемей упал с коня в разгар сражения и через несколько дней скончался от полученных ран. Его смерть открыла египетский престол его брату Птолемею VIII, который вернулся из Киренаики и заявил на него права уже через несколько недель.",
-      "era": "BC",
-      "latitude": 36.20257,
-      "longitude": 36.160152,
-      "name": "Death of Ptolemy VI at the Battle of Antioch",
-      "name_ru": "Смерть Птолемея VI в битве при Антиохии",
-      "source": "https://en.wikipedia.org/wiki/Ptolemy_VI_Philometor",
-      "tags": [
-        "Greek",
-        "Egypt",
-        "Ptolemaic",
-        "Seleucid",
-        "War",
-        "Battle",
-        "Death"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.01.0130",
-      "description": "Driven out of Alexandria by his own sister-wife Cleopatra II during a fresh round of civil war, Ptolemy VIII fled to Cyprus — taking with him their teenage son, Ptolemy Memphites, the boy Cleopatra had named co-king in his absence. To punish her, Ptolemy VIII had the boy killed, dismembered, and the pieces packed into a chest, which he sent to Alexandria to arrive on Cleopatra's birthday. The atrocity, recorded by the historian Justin, shocked even a dynasty accustomed to fratricide and became the defining image of Ptolemy VIII's reign for later generations.",
-      "description_ru": "Изгнанный из Александрии собственной сестрой-женой Клеопатрой II в ходе очередной гражданской войны, Птолемей VIII бежал на Кипр, забрав с собой их сына-подростка Птолемея Мемфита, которого Клеопатра в его отсутствие провозгласила соправителем. Чтобы отомстить ей, Птолемей VIII приказал убить мальчика, расчленить тело и уложить части в сундук, который отправил в Александрию так, чтобы он прибыл в день рождения Клеопатры. Это злодеяние, описанное историком Юстином, потрясло даже династию, привычную к братоубийству, и стало главным символом правления Птолемея VIII в памяти потомков.",
-      "era": "BC",
-      "latitude": 35.17,
-      "longitude": 33.36,
-      "name": "Ptolemy VIII Murders His Son and Sends the Body to Cleopatra II",
-      "name_ru": "Птолемей VIII убивает сына и отправляет тело Клеопатре II",
-      "source": "https://en.wikipedia.org/wiki/Ptolemy_VIII_Physcon",
-      "tags": [
-        "Greek",
-        "Egypt",
-        "Ptolemaic",
-        "Civil War",
-        "Murder",
-        "Cyprus"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.0118",
-      "description": "After nearly a decade of civil war between Ptolemy VIII and his sister-wife Cleopatra II, the two reconciled and, together with Cleopatra II's daughter Cleopatra III — who was also Ptolemy VIII's second wife — jointly issued the Amnesty Decree of 118 BC. The decree pardoned crimes committed during the fighting, cancelled unpaid taxes, and reorganized the administration of temple lands, restoring a fragile stability. It stands as one of the best-preserved sources on daily Ptolemaic bureaucracy, since copies of its exact legal terms survive on papyrus to this day.",
-      "description_ru": "После почти десяти лет гражданской войны между Птолемеем VIII и его сестрой-женой Клеопатрой II оба помирились и вместе с дочерью Клеопатры II — Клеопатрой III, которая была также второй женой Птолемея VIII, — совместно издали Указ об амнистии 118 года до н. э. Указ прощал преступления, совершённые во время войны, списывал недоимки по налогам и реорганизовывал управление храмовыми землями, восстановив хрупкую стабильность. Он остаётся одним из наиболее полно сохранившихся источников о повседневной птолемеевской бюрократии, поскольку его точный текст дошёл до нас на папирусах.",
-      "era": "BC",
-      "latitude": 31.206667,
-      "longitude": 29.900278,
-      "name": "The Amnesty Decree Ends the Ptolemaic Civil War",
-      "name_ru": "Указ об амнистии завершает гражданскую войну Птолемеев",
-      "source": "https://en.wikipedia.org/wiki/Ptolemy_VIII_Physcon",
-      "tags": [
-        "Greek",
-        "Egypt",
-        "Ptolemaic",
-        "Civil War",
-        "Diplomacy"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.0101",
-      "description": "After years of ruling jointly with his mother, Cleopatra III, and increasingly resenting her control over the throne, Ptolemy X had her assassinated in 101 BC to rule alone. The murder shocked Alexandria, which had already watched the queen expel one son, Ptolemy IX, to Cyprus in favor of Ptolemy X a few years earlier. Matricide bought him only thirteen more years on the throne: unpopular and chronically short of funds, he would soon be forced to plunder Egypt's most sacred relic simply to survive.",
-      "description_ru": "После нескольких лет совместного правления с матерью, Клеопатрой III, всё сильнее тяготясь её властью над престолом, Птолемей X в 101 году до н. э. организовал её убийство, чтобы царствовать в одиночку. Это убийство потрясло Александрию, которая незадолго до того уже видела, как царица изгнала на Кипр своего другого сына, Птолемея IX, ради Птолемея X. Матереубийство подарило ему лишь тринадцать лет на престоле: непопулярный и постоянно нуждавшийся в деньгах, вскоре он будет вынужден разграбить самую священную реликвию Египта, просто чтобы удержаться у власти.",
-      "era": "BC",
-      "latitude": 31.206667,
-      "longitude": 29.900278,
-      "name": "Ptolemy X Murders His Mother Cleopatra III",
-      "name_ru": "Птолемей X убивает свою мать Клеопатру III",
-      "source": "https://en.wikipedia.org/wiki/Cleopatra_III",
-      "tags": [
-        "Greek",
-        "Egypt",
-        "Ptolemaic",
-        "Crisis",
-        "Murder",
-        "Dynasty"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.0088",
-      "description": "Facing a mercenary mutiny he could not afford to pay and an Alexandrian population that despised him for his mother's murder, Ptolemy X broke open the golden sarcophagus of Alexander the Great and melted it down for coin — a desecration that finally turned the city against him for good. Driven from Egypt, he tried to reclaim Cyprus with a hired fleet, but was defeated and killed at sea. His exiled brother, Ptolemy IX, sailed home from Cyprus to reclaim the throne he had lost nineteen years earlier.",
-      "description_ru": "Не имея денег на выплату жалованья взбунтовавшимся наёмникам и ненавидимый александрийцами за убийство собственной матери, Птолемей X вскрыл золотой саркофаг Александра Македонского и переплавил его на монету — святотатство, которое окончательно настроило город против него. Изгнанный из Египта, он попытался силой наёмного флота вернуть себе Кипр, но потерпел поражение и погиб в морском бою. Его брат-изгнанник Птолемей IX отплыл с Кипра домой, чтобы вновь занять престол, потерянный девятнадцать лет назад.",
-      "era": "BC",
-      "latitude": 31.206667,
-      "longitude": 29.900278,
-      "name": "Ptolemy X Loots Alexander's Tomb and Dies at Sea",
-      "name_ru": "Птолемей X грабит гробницу Александра и гибнет в море",
-      "source": "https://en.wikipedia.org/wiki/Ptolemy_X_Alexander_I",
-      "tags": [
-        "Greek",
-        "Egypt",
-        "Ptolemaic",
-        "Crisis",
-        "Death",
-        "Naval"
       ],
       "type": "military"
     }

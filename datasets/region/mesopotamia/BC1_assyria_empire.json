@@ -3,8 +3,8 @@
   "events": [
     {
       "date": "01.01.2600",
-      "description": "Foundation of Assur as small Mesopotamian city on Tigris River, establishing religious and political center that would become heart of Assyrian civilization",
-      "description_ru": "Основание Ашшура как небольшого месопотамского города на реке Тигр, создание религиозного и политического центра, который станет сердцем ассирийской цивилизации",
+      "description": "The founding of Ashur as a small Mesopotamian city on the Tigris River, the creation of a religious and political center that would become the heart of Assyrian civilization. The city also gave birth to a deity of the same name, considered the only true king of Ashur.",
+      "description_ru": "Основание Ашшура как небольшого месопотамского города на реке Тигр, создание религиозного и политического центра, который станет сердцем ассирийской цивилизации. Вместе с городом родилось одноименное божество, которое считалось единственным истинным царем в Ашшуре.",
       "era": "BC",
       "latitude": 35.4583,
       "longitude": 43.2611,
@@ -14,7 +14,9 @@
       "tags": [
         "Assyrian",
         "City",
-        "Foundation"
+        "Foundation",
+        "Religious",
+        "Divination"
       ],
       "type": "historic"
     },
@@ -47,9 +49,9 @@
       "source": "https://en.wikipedia.org/wiki/Erishum_I",
       "tags": [
         "Assyrian",
+        "Trade",
         "Economic",
-        "Innovation",
-        "Trade"
+        "Innovation"
       ],
       "type": "historic"
     },
@@ -66,10 +68,10 @@
       "tags": [
         "Assyrian",
         "City",
+        "Trade",
         "Anatolia",
         "Colonization",
-        "Emporium",
-        "Trade"
+        "Emporium"
       ],
       "type": "historic"
     },
@@ -85,9 +87,9 @@
       "source": "https://en.wikipedia.org/wiki/Old_Assyrian_period",
       "tags": [
         "Assyrian",
-        "Economic",
         "Silver",
-        "Trade"
+        "Trade",
+        "Economic"
       ],
       "type": "historic"
     },
@@ -104,25 +106,27 @@
       "tags": [
         "Assyrian",
         "War",
-        "Amorite",
-        "Conquest"
+        "Conquest",
+        "Amorite"
       ],
       "type": "military"
     },
     {
       "date": "01.01.1792",
-      "description": "Hammurabi of Babylon subjugates Assyrian lands; Assyrian trading colonies in Anatolia cease operations, ending Old Assyrian commercial empire",
-      "description_ru": "Хаммурапи Вавилонский покоряет ассирийские земли; ассирийские торговые колонии в Анатолии прекращают деятельность, завершая староассирийскую торговую империю",
+      "description": "After the death of the Assyrian king Shamshi-Adad I, his empire began to disintegrate. The throne of Assur was taken by his son Ishme-Dagan I, who proved to be a much weaker ruler. The neighboring kingdom of Mari immediately broke away from Assyria, and Hammurabi began to subjugate Mesopotamia piece by piece.\n\nWhen Assyria was left without allies, and Babylonian troops approached its borders, Hammurabi launched a campaign in the north against the Subareans (the people of Assyria) and the mountaineers. He captured key Assyrian centers, including Assur and Nineveh. Hammurabi did not completely destroy the Assyrian state, but turned it into a vassal state. Assyria was subjected to heavy tribute, and Babylonian garrisons were stationed in Assyrian cities",
+      "description_ru": "После смерти ассирийского царя Шамши-Адада I его держава начала распадаться. Трон в Ашшуре занял его сын Ишме-Даган I, который оказался гораздо более слабым правителем. Соседнее царство Мари сразу же откололось от Ассирии, и Хаммурапи начал по кусочкам подминать Месопотамию под себя.\n\nКогда Ассирия осталась без союзников, а вавилонские войска подошли к её границам, Хаммурапи начал кампанию на севере против субарейцев (населения Ассирии) и горцев. Он захватил ключевые ассирийские центры, включая Ашшур и Ниневию. Хаммурапи не стал полностью уничтожать Ассирийское государство, а превратил его в своего вассала. Ассирия была обложена тяжелой данью, а в ассирийских городах расположились вавилонские гарнизоны",
       "era": "BC",
       "latitude": 35.4583,
       "longitude": 43.2611,
-      "name": "End of Old Assyrian Trade Empire",
+      "name": "Babylon conquers the Old Assyrian Empire",
       "name_ru": "Вавилон покоряет староассирийскую империю",
       "source": "https://en.wikipedia.org/wiki/Old_Assyrian_period",
       "tags": [
         "Assyrian",
         "Babylonian",
-        "Conquest"
+        "War",
+        "Conquest",
+        "Vassalage"
       ],
       "type": "historic"
     },
@@ -140,8 +144,8 @@
         "Mitanni",
         "Assyrian",
         "Empire",
-        "Independence",
         "Political",
+        "Independence",
         "Rise"
       ],
       "type": "political"
@@ -151,16 +155,16 @@
       "description": "Ashur-uballit I conquers fertile regions between Tigris and Upper Zab rivers, establishing territorial foundation for future Assyrian expansion",
       "description_ru": "Ашшур-убаллит I завоевывает плодородные регионы между Тигром и Верхним Забом, закладывая территориальную основу для будущей ассирийской экспансии",
       "era": "BC",
-      "latitude": 36.35,
-      "longitude": 43.15,
+      "latitude": 36.3661,
+      "longitude": 43.1528,
       "name": "Conquest of Northern Mesopotamia",
       "name_ru": "Завоевание ассирийцами Северной Месопотамии",
       "source": "https://en.wikipedia.org/wiki/Ashur-uballit_I",
       "tags": [
         "Assyrian",
         "War",
-        "Agriculture",
         "Conquest",
+        "Agriculture",
         "Expansion"
       ],
       "type": "military"
@@ -246,9 +250,9 @@
       "source": "https://en.wikipedia.org/wiki/Kar-Tukulti-Ninurta",
       "tags": [
         "Assyrian",
+        "Capital",
         "City",
-        "Architecture",
-        "Capital"
+        "Architecture"
       ],
       "type": "historic"
     },
@@ -266,8 +270,7 @@
         "Assyrian",
         "Civil War",
         "Assassination",
-        "Regicide",
-        "Son Kills Father"
+        "Regicide"
       ],
       "type": "political"
     },
@@ -319,8 +322,8 @@
       "tags": [
         "Assyrian",
         "Battle",
-        "Arameans",
-        "Defense"
+        "Defense",
+        "Arameans"
       ],
       "type": "military"
     },
@@ -388,9 +391,9 @@
       "source": "https://en.wikipedia.org/wiki/Ashurnasirpal_II",
       "tags": [
         "Assyrian",
+        "Capital",
         "City",
-        "Architecture",
-        "Capital"
+        "Architecture"
       ],
       "type": "historic"
     },
@@ -424,8 +427,8 @@
       "source": "https://en.wikipedia.org/wiki/Battle_of_Qarqar",
       "tags": [
         "Assyrian",
-        "Judaic",
         "Israel",
+        "Judaic",
         "War",
         "Battle",
         "Syria"
@@ -444,10 +447,10 @@
       "source": "https://en.wikipedia.org/wiki/Tiglath-Pileser_III",
       "tags": [
         "Assyrian",
-        "Reform",
         "Dynasty",
         "King",
         "Political",
+        "Reform",
         "Tiglath-Pileser III 👑"
       ],
       "type": "political"
@@ -522,8 +525,8 @@
       "source": "https://en.wikipedia.org/wiki/Tiglath-Pileser_III",
       "tags": [
         "Assyrian",
-        "Judaic",
         "Israel",
+        "Judaic",
         "War",
         "Conquest",
         "Tiglath-Pileser III 👑"
@@ -543,8 +546,8 @@
       "tags": [
         "Assyrian",
         "War",
-        "Arameans",
         "Conquest",
+        "Arameans",
         "Syria",
         "Tiglath-Pileser III 👑"
       ],
@@ -564,8 +567,8 @@
         "Assyrian",
         "Babylonian",
         "War",
-        "Annexation",
         "Conquest",
+        "Annexation",
         "Tiglath-Pileser III 👑"
       ],
       "type": "political"
@@ -582,8 +585,8 @@
       "source": "https://en.wikipedia.org/wiki/Sargon_II",
       "tags": [
         "Assyrian",
-        "Judaic",
         "Israel",
+        "Judaic",
         "War",
         "Conquest",
         "Sargon II 👑",
@@ -643,9 +646,9 @@
       "tags": [
         "Assyrian",
         "Urartu",
+        "Holy Site",
         "War",
         "Battle",
-        "Holy Site",
         "Pillage",
         "Sargon II 👑"
       ],
@@ -664,8 +667,8 @@
       "tags": [
         "Assyrian",
         "Babylonian",
-        "War",
         "Empire",
+        "War",
         "Expansion",
         "Sargon II 👑"
       ],
@@ -673,30 +676,31 @@
     },
     {
       "date": "01.01.0707",
-      "description": "Sargon II founds magnificent new capital Dur-Sharrukin (Khorsabad) with colossal palace featuring extraordinarily large stone relief sculptures",
-      "description_ru": "Саргон II основывает великолепную новую столицу Дур-Шаррукин (Хорсабад) с колоссальным дворцом с чрезвычайно большими каменными рельефными скульптурами",
+      "description": "Nimrud was the capital of Assyria, but remaining there was dangerous for Sargon: he had come to power through a bloody palace coup. Relying on the local elites was impossible — they remembered who he was and how he had risen to power. He needed to prove his legitimacy and greatness, and preferably away from the old elites.\n\nThe city was built by tens of thousands of captives from all corners of the empire. It was an international project, symbolizing that the entire inhabited world had united under Sargon's rule. Bas-reliefs in the palace depicted Phoenicians carrying cedar, Jews, and Babylonians — all building a monument to the greatness of one man.",
+      "description_ru": "Столицей Ассирии был город Нимруд, но оставаться там для Саргона было опасно: он пришел к власти в результате кровавого дворцового переворота. Опираться на местные элиты было нельзя - они помнили, кто он и как пришел к власти. Ему нужно было доказать свою легитимность и величие, и желательно подальше от старых элит.\n\nГород строился силами десятков тысяч пленных со всех концов империи. Это был интернациональный проект, который символизировал, что под властью Саргона объединился весь обитаемый мир. На барельефах дворца были изображены финикийцы, везущие кедр, иудеи, вавилоняне — все они строили памятник величию одного человека.",
       "era": "BC",
-      "latitude": 36.4917,
-      "longitude": 43.2383,
-      "name": "Foundation of Dur-Sharrukin",
-      "name_ru": "Дур-Шаррукин - новая столица Ассирии",
+      "latitude": 36.51001558,
+      "longitude": 43.22871208,
+      "name": "Dur-Sharrukin — the new capital of Assyria",
+      "name_ru": "Дур-Шаррукин — новая столица Ассирии",
       "source": "https://en.wikipedia.org/wiki/Dur-Sharrukin",
       "tags": [
         "Assyrian",
+        "Capital",
         "City",
         "Architecture",
-        "Capital",
+        "Building 🏠",
         "Sargon II 👑"
       ],
       "type": "historic"
     },
     {
       "date": "01.01.0705",
-      "description": "Sargon II killed in battle against Cimmerians; his son Sennacherib abandons Dur-Sharrukin and moves capital to Nineveh",
-      "description_ru": "Саргон II убит в битве с киммерийцами; его сын Синаххериб оставляет Дур-Шаррукин и переносит столицу в Ниневию",
+      "description": "Sargon II marched into the mountainous region of Tabal to defend one of his vassal kingdoms, where he was killed, likely during a Cimmerian raid. The mountaineers employed guerrilla tactics. Enemy forces launched a daring night attack directly on the royal fortified camp, slaughtering the guards and killing the king. In the confusion, the king's body was unable to be retrieved from the battlefield, a very ominous sign.",
+      "description_ru": "Саргон II двинулся в горную область Табал, чтобы защитить одно из своих вассальных царств, где был убит, вероятно, во время киммерийского набега. Горцы использовали партизанскую тактику. Вражеские отряды совершили дерзкое ночное нападение прямо на укрепленный царский лагерь, перебили гвардию и убили царя. В суматохе тело царя не смогли забрать с поля боя, что было крайне дурным знаком.",
       "era": "BC",
-      "latitude": 36.3661,
-      "longitude": 43.1528,
+      "latitude": 38.71980474,
+      "longitude": 39.4519043,
       "name": "Death of Sargon II",
       "name_ru": "Смерть Саргона II",
       "source": "https://en.wikipedia.org/wiki/Sargon_II",
@@ -707,23 +711,23 @@
         "Death",
         "Sargon II 👑"
       ],
-      "type": "political"
+      "type": "military"
     },
     {
       "date": "01.01.0704",
-      "description": "Sennacherib establishes Nineveh as new Assyrian capital, beginning construction of 'Palace Without Rival' with colossal guardian figures and magnificent gardens",
-      "description_ru": "Синаххериб, сын Саргона II, объявляет Ниневию новой столицей и строит там 'Дворец без соперников' с колоссальными фигурами-стражами и великолепными садами",
+      "description": "Sennacherib's father, Sargon II, spent years of his reign and colossal resources building a \"dream city\"—a grand new capital named Dur-Sharrukin (\"Sargon's Fortress\"). However, barely the city was completed, Sargon II died in battle far from his homeland, and his body was never found. For the people of the Ancient East, this was a terrible omen. It was believed that if a king remained unburied, the gods had cursed him and his creations.\n\nSennacherib, Sargon II's son, chose Nineveh as his new capital—one of the oldest, most sacred, and most revered cities in Assyria, which had existed for thousands of years and was associated with the cult of the goddess Ishtar.\n\nWanting to erase the memory of his father's greatness, Sennacherib decided to build a city that would eclipse everything humanity had created before. From a provincial center, he transformed Nineveh into the largest metropolis in the world of his time: he erected a colossal royal palace there, covering more than 10 hectares with hundreds of rooms and magnificent bas-reliefs; surrounded the city with a powerful double wall; widened and straightened the streets; and built a powerful water supply system.",
+      "description_ru": "Отец Синаххериба, Саргон II, потратил годы правления и колоссальные ресурсы на постройку «города мечты» — новой грандиозной столицы под названием Дур-Шаррукин («Крепость Саргона»). Однако едва город был достроен, Саргон II погиб в бою вдали от родины, а его тело так и не нашли. Для людей Древнего Востока это был кошмарный знак. Считалось, что если царь остался без погребения, значит, боги прокляли его и его творения.\n\nСинаххериб, сын Саргона II, выбрал новой столицей Ниневию — один из древнейших, священных и наиболее почитаемых городов Ассирии, который существовал тысячи лет и ассоциировался с культом богини Иштар. \n\nЖелая стереть из памяти величие отца, Синаххериб решил построить город, который затмит всё, что было создано человечеством до него. Из провинциального центра он превратил Ниневию в крупнейший мегаполис мира своего времени: воздвиг там колоссальный царский дворец площадью более 10 гектаров с сотнями комнат и великолепными барельефами; окружил город мощной двойной стеной; расширил и выпрямил улицы; построил мощную систему водоснабжения.",
       "era": "BC",
       "latitude": 36.3661,
       "longitude": 43.1528,
-      "name": "Nineveh Becomes Capital",
-      "name_ru": "Ниневия - новая столица Ассирии",
+      "name": "Nineveh Becomes Capital of Assyria",
+      "name_ru": "Ниневия — новая столица Ассирии",
       "source": "https://en.wikipedia.org/wiki/Sennacherib",
       "tags": [
         "Assyrian",
+        "Capital",
         "City",
-        "Architecture",
-        "Capital"
+        "Architecture"
       ],
       "type": "historic"
     },
@@ -739,11 +743,11 @@
       "source": "https://en.wikipedia.org/wiki/Siege_of_Lachish",
       "tags": [
         "Assyrian",
-        "Judaic",
         "Israel",
+        "Judaic",
         "War",
-        "Battle",
         "Conquest",
+        "Battle",
         "Siege"
       ],
       "type": "military"
@@ -760,9 +764,9 @@
       "source": "https://en.wikipedia.org/wiki/Sennacherib%27s_Annals",
       "tags": [
         "Assyrian",
-        "Judaic",
         "Israel",
         "Jerusalem",
+        "Judaic",
         "War",
         "Conquest",
         "Invasion",
@@ -771,9 +775,45 @@
       "type": "military"
     },
     {
+      "date": "01.01.0700",
+      "description": "To pacify Babylon, Sennacherib makes the ultimate gesture of trust: he appoints his eldest and most beloved son, Ashur-nadin-shumi, as king of Babylon, making him the official heir to the entire empire.",
+      "description_ru": "Чтобы умиротворить Вавилон, Синаххериб идет на высший знак доверия: он назначает царем Вавилона своего старшего и самого любимого сына — Ашур-надин-шуми, сделав его официальным наследником всей империи.",
+      "era": "BC",
+      "latitude": 32.543,
+      "longitude": 44.421,
+      "name": "Sennacherib makes his eldest son king of Babylon",
+      "name_ru": "Синаххериб ставит старшего сына царем Вавилона",
+      "source": "https://en.wikipedia.org/wiki/A%C5%A1%C5%A1ur-n%C4%81din-%C5%A1umi",
+      "tags": [
+        "Assyrian",
+        "Babylonian",
+        "King"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0694",
+      "description": "The Babylonian nobility entered into a secret conspiracy with Assyria's eternal enemy, the state of Elam. The Babylonians seized the king, Sennacherib's son, right in his palace and handed him over to the Elamites. The prince was taken to Elam, where he was most likely brutally executed. A new rebellious king ascended the throne of Babylon in his place.\n\nFor Sennacherib, this became a personal tragedy. The Assyrian king was driven mad by grief and rage. The geopolitical conflict turned into a blood feud.",
+      "description_ru": "Вавилонская знать вступила в тайный заговор с извечным врагом Ассирии — государством Элам. Вавилоняне схватили царя, сына Синаххериба, прямо в его дворце и выдали его эламитам. Принца увезли в Элам, где, скорее всего, жестоко казнили. Вместо него на престол Вавилона сел новый мятежный царь.\n\nДля Синаххериба это стало личной трагедией. Ассирийский царь обезумел от горя и ярости. Геополитический конфликт превратился в кровную месть",
+      "era": "BC",
+      "latitude": 32.543,
+      "longitude": 44.421,
+      "name": "The Babylonians conspire with Elam",
+      "name_ru": "Вавилоняне вступают в сговор с Эламом",
+      "tags": [
+        "Assyrian",
+        "Babylonian",
+        "Elamites",
+        "Betrayal",
+        "Conspiracy",
+        "Overthrow"
+      ],
+      "type": "political"
+    },
+    {
       "date": "01.01.0689",
-      "description": "Sennacherib brutally sacks Babylon after persistent rebellions, destroying temples and flooding city, committing sacrilege that shocks ancient world",
-      "description_ru": "Синаххериб жестоко грабит бунтующий Вавилон, разрушает храмы и затапливает город, совершая святотатство, потрясшее древний мир",
+      "description": "Sennacherib initially did not want to destroy Babylon. It was a sacred cultural and religious center, deeply revered by the Assyrians (they venerated the same gods). However, personal tragedy turned Sennacherib cruel.\n\nThe Assyrian army laid siege to Babylon for 15 months. When the starved city fell, Sennacherib ordered the massacre of most of the population, sparing neither women nor children. The Assyrians stormed the temples and smashed the most sacred relic of Mesopotamia—the statue of the god Marduk. For the people of that time, this was an unthinkable sacrilege.\n\nUltimately, the city was razed to the ground and the waters of the Euphrates River were allowed to flow through it, turning the site into a swamp.",
+      "description_ru": "Синаххериб изначально не хотел разрушать Вавилон. Это был священный культурный и религиозный центр, который ассирийцы глубоко уважали (они почитали тех же богов). Однако личная трагедия сделала Синаххериба жестоким.\n\nАссирийская армия взяла Вавилон в глухую осаду, которая длилась 15 месяцев. Когда измученный голодом город пал, Синаххериб приказал вырезать большую часть населения, не щадя ни женщин, ни детей. Ассирийцы ворвались в храмы и разбили главную святыню Месопотамии — статую бога Мардука. Для людей того времени это было немыслимым святотатством.\n\nВ итоге, город сравняли с землей и пустили по нему воды реки Евфрат, чтобы превратить это место в болото.",
       "era": "BC",
       "latitude": 32.543,
       "longitude": 44.421,
@@ -783,8 +823,8 @@
       "tags": [
         "Assyrian",
         "Babylonian",
-        "War",
         "Blasphemy",
+        "War",
         "Destruction"
       ],
       "type": "military"
@@ -801,10 +841,9 @@
       "source": "https://en.wikipedia.org/wiki/Sennacherib",
       "tags": [
         "Assyrian",
-        "Assassination",
         "Political",
-        "Regicide",
-        "Son Kills Father"
+        "Assassination",
+        "Regicide"
       ],
       "type": "political"
     },
@@ -833,14 +872,14 @@
       "era": "BC",
       "latitude": 36.3661,
       "longitude": 43.1528,
-      "name": "Reign of Ashurbanipal Begins",
-      "name_ru": " Ашшурбанипал - последний царь Ассирии",
+      "name": "Reign of Ashurbanipal Begins in Assyria",
+      "name_ru": " Ашшурбанипал — последний царь Ассирии",
       "source": "https://en.wikipedia.org/wiki/Ashurbanipal",
       "tags": [
         "Assyrian",
+        "Empire",
         "King",
         "Ashurbanipal 👑",
-        "Empire",
         "Golden Age"
       ],
       "type": "political"
@@ -859,8 +898,8 @@
         "Egypt",
         "Assyrian",
         "War",
-        "Ashurbanipal 👑",
-        "Conquest"
+        "Conquest",
+        "Ashurbanipal 👑"
       ],
       "type": "military"
     },
@@ -894,10 +933,10 @@
       "source": "https://en.wikipedia.org/wiki/Library_of_Ashurbanipal",
       "tags": [
         "Assyrian",
-        "Ashurbanipal 👑",
         "Culture",
-        "Library",
-        "Literature"
+        "Literature",
+        "Ashurbanipal 👑",
+        "Library"
       ],
       "type": "cultural"
     },
@@ -933,10 +972,10 @@
         "Assyrian",
         "Elamites",
         "War",
-        "Ashurbanipal 👑",
         "Destruction",
-        "Fall",
-        "Pillage"
+        "Pillage",
+        "Ashurbanipal 👑",
+        "Fall"
       ],
       "type": "military"
     },
@@ -952,9 +991,9 @@
       "source": "https://en.wikipedia.org/wiki/Ashurbanipal",
       "tags": [
         "Assyrian",
+        "Death",
         "Ashurbanipal 👑",
-        "Collapse",
-        "Death"
+        "Collapse"
       ],
       "type": "political"
     },
@@ -971,9 +1010,9 @@
       "tags": [
         "Assyrian",
         "Babylonian",
+        "Rebellion",
         "Chaldean",
-        "Independence",
-        "Rebellion"
+        "Independence"
       ],
       "type": "political"
     },
@@ -991,11 +1030,11 @@
         "Assyrian",
         "Babylonian",
         "Medes",
-        "Chaldean",
         "Scythian",
-        "War",
         "City",
+        "War",
         "Destruction",
+        "Chaldean",
         "Fall"
       ],
       "type": "military"

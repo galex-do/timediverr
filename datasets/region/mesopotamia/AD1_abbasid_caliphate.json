@@ -421,13 +421,13 @@
         "Arabian",
         "Turkic",
         "Oguz",
+        "Seljuk Empire",
         "Abbasid",
         "Islamic",
         "War",
         "Conquest",
         "Buyid",
-        "Caliph",
-        "Seljuk Empire"
+        "Caliph"
       ],
       "type": "political"
     },
@@ -444,6 +444,7 @@
       "tags": [
         "Persian",
         "Arabian",
+        "Seljuk Empire",
         "Abbasid",
         "Foundation",
         "Islamic",
@@ -451,8 +452,7 @@
         "Sect",
         "Shia",
         "War",
-        "Nizari",
-        "Seljuk Empire"
+        "Nizari"
       ],
       "type": "political"
     },
@@ -592,6 +592,7 @@
       "tags": [
         "Persian",
         "Arabian",
+        "Ilkhanate",
         "Mongolian",
         "Abbasid",
         "Islamic",
@@ -615,6 +616,7 @@
       "source": "https://en.wikipedia.org/wiki/Siege_of_Baghdad_(1258)",
       "tags": [
         "Arabian",
+        "Ilkhanate",
         "Mongolian",
         "Abbasid",
         "Islamic",
@@ -641,6 +643,7 @@
       "tags": [
         "Arabian",
         "Chinese",
+        "Ilkhanate",
         "Mongolian",
         "Chemistry",
         "Gunpowder",
@@ -661,11 +664,13 @@
       "tags": [
         "Arabian",
         "Egypt",
+        "Ilkhanate",
         "Mongolian",
         "Mamluk",
         "Islamic",
         "War",
         "Battle",
+        "Baybars of Egypt 👤",
         "Nomads"
       ],
       "type": "military"
@@ -689,6 +694,7 @@
         "Islamic",
         "Dynasty",
         "Political",
+        "Baybars of Egypt 👤",
         "Caliph"
       ],
       "type": "political"

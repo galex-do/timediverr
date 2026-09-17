@@ -82,6 +82,28 @@
       "type": "cultural"
     },
     {
+      "date": "01.01.0060",
+      "description": "According to the legend preserved by the monk Nestor, the Apostle Andrew, preaching along the Black Sea coast, sailed up the Dnieper and halted beneath a range of wooded hills on its western bank. He raised a cross there and told his companions that God's grace would shine upon these heights and a great city, filled with churches, would one day rise — a prophecy the chroniclers later read as foretelling Kyiv itself. \n\nContinuing north to the land of the Ilmen Slavs, where Novgorod would eventually stand, Andrew reportedly witnessed a custom that startled him: the Slavs built wooden bathhouses, heated them to a scorching temperature, then beat their own bare bodies with bundles of branches until they were half-senseless, before dousing themselves with icy water and returning, unharmed, to daily life. He is said to have marveled that a people would inflict such suffering on themselves for pleasure rather than punishment.",
+      "description_ru": "Согласно преданию, сохранённому монахом Нестором, апостол Андрей, проповедуя вдоль черноморского побережья, поднялся вверх по Днепру и остановился у поросших лесом холмов на его западном берегу. Он водрузил там крест и сказал спутникам, что на этих высотах воссияет благодать Божья и однажды поднимется великий город со множеством церквей — пророчество, которое летописцы позже читали как предсказание самого Киева. \n\nПозднее на севере, у ильменских словен, где впоследствии встанет Новгород, Андрей, по преданию, стал свидетелем обычая, поразившего его: славяне строили деревянные бани, раскаляли их до нестерпимого жара, а затем хлестали собственные обнажённые тела связками ветвей до полуобморочного состояния, после чего обливались ледяной водой и как ни в чём не бывало возвращались к повседневным делам. Апостол, по преданию, изумлялся, что люди причиняют себе подобные страдания ради удовольствия, а не в наказание.",
+      "era": "AD",
+      "latitude": 50.45826903,
+      "longitude": 30.5160284,
+      "name": "Apostle Andrew's Prophecy about Kyiv",
+      "name_ru": "Пророчество апостола Андрея о Киеве",
+      "source": "https://en.wikipedia.org/wiki/Andrew_the_Apostle",
+      "tags": [
+        "Slavic",
+        "Kyiv",
+        "Novgorod",
+        "Christian",
+        "Apostle",
+        "Culture",
+        "Customs",
+        "Legend"
+      ],
+      "type": "religious"
+    },
+    {
       "date": "01.01.0200",
       "description": "Between roughly the second and fourth centuries AD, the zone between the Carpathians and the Dnieper was dominated by the Chernyakhov culture — named for the village near Kyiv where its distinctive pottery was first identified in the nineteenth century. Modern archaeology has established that the Chernyakhov culture was multi-ethnic: it included Goths (Germanic tribes who had migrated south from the Baltic coast, probably arriving in two waves in the first and third centuries AD), Sarmatians, and settled agrarian peoples (probably ancestral Slavs and Dacians). The Gothic element provided the political framework: the Chernyakhov culture corresponds roughly to the Gothic kingdom of Ermanaric, whom later Gothic tradition celebrated as the greatest of their kings and whose realm Roman sources describe as stretching from the Baltic to the Black Sea.\n\nThe Chernyakhov culture was a genuinely sophisticated agricultural and craft civilization: its pottery is wheel-turned and fired at high temperatures; its metal-working shows familiarity with Roman provincial techniques; its settlements are large and planned. The dramatic end came with the arrival of the Huns from the east around 375 AD: Ermanaric, according to the Gothic historian Jordanes, killed himself rather than submit to the Huns; his successor Vithimir fought and was killed; and the Gothic kingdom shattered, its people fleeing or being absorbed. The fragments of the Gothic nation — the Visigoths west across the Danube, the Ostrogoths eventually to Italy — became the immediate cause of the Roman Empire's political disintegration in the west.",
       "description_ru": "Между примерно II и IV веками зона между Карпатами и Днепром находилась под властью черняховской культуры — названной по деревне близ Киева, где её характерная керамика была впервые определена в XIX веке. Современная археология установила, что черняховская культура была многоэтнической: в неё входили готы (германские племена, мигрировавшие с берегов Балтики), сарматы и оседлые земледельческие народы (вероятно, предки славян и даки). Черняховская культура была подлинно развитой земледельческой и ремесленной цивилизацией.",
@@ -141,6 +163,23 @@
     },
     {
       "date": "01.01.0650",
+      "description": "The forested banks of the Oka River were originally inhabited by the Finno-Ugric tribe of Muroma. They were hunters, fishermen, farmers, and skilled artisans skilled in metalworking.\n\nFrom the late 9th century onward, Slavs (Krivichi and Vyatichi) began migrating en masse to the Oka lands. They settled alongside the Finno-Ugrians. Conflicts between them were virtually nonexistent, as there was ample land and forest resources for everyone. The Slavs brought more advanced arable farming, and the Muroma taught them how to survive in the harsh local forests.",
+      "description_ru": "Изначально лесные берега Оки заселяло финно-угорское племя мурома. Ближайшими родственниками муромы были соседние племена: меря (жили севернее, в районе Ростова и Суздаля) и мордва (жили южнее и восточнее). Это были охотники, рыболовы, земледельцы и отличные ремесленники, которые умели искусно обрабатывать металл.\n\nС конца IX века на земли Оки стали массово переселяться славяне (кривичи и вятичи). Они селились рядом с финно-уграми. Конфликтов между ними практически не было, так как земли и лесных ресурсов хватало всем. Славяне принесли более развитое пашенное земледелие, а мурома научила их выживать в суровых местных лесах.",
+      "era": "AD",
+      "latitude": 55.57947271,
+      "longitude": 42.05924749,
+      "name": "Murom settlement",
+      "name_ru": "Муромское городище",
+      "source": "https://en.wikipedia.org/wiki/Murom",
+      "tags": [
+        "Finno-Ugric",
+        "Settlement",
+        "Tribal"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0650",
       "description": "The Primary Chronicle (written around 1113 AD) provides the most systematic account, listing twelve to fifteen Eastern Slavic 'tribes' (in Russian: племена or колена): the Polane ('people of the fields') around the Kyiv hills on the right bank of the Dnieper; the Drevliane ('forest people') in the wooded territory northwest of Kyiv; the Ilmen Slavs (Slovene) around Lake Ilmen in the far north; the Krivichi at the upper Dnieper and upper Volga (future Smolensk); the Severiane on the left bank of the Dnieper (future Chernigov); the Radimichi on the Sozh River; the Vyatichi on the upper Oka, deepest in the forest, most resistant to outside authority; the Dulebi/Volhynians, Tivertsy, and Uliche on the Dniester and lower Dnieper; and smaller groups in the northwest.\n\nThese \"tribes\" were not homogeneous ethnic units, but represented political confederations - unions of villages that had a common meeting place (fortified settlement), common military service and common tribute agreements.",
       "description_ru": "«Повесть временных лет» описывает 12–15 восточнославянских племён: поляне («люди полей»), проживавшие вокруг Киевских холмов на правом берегу Днепра; древляне («лесные люди»), жившие в лесистой местности к северо-западу от Киева; ильменские славяне (словенцы), жившие вокруг озера Ильмень на севере; кривичи у верхнего Днепра и верхней Волги (будущий Смоленск); северяне у левого берега Днепра (будущий Чернигов); радимичи у реки Сож; вятичи в верховьях Оки, глубоко в лесу, наиболее сопротивлявшиеся внешней власти; Дулебы/Волыны, тиверцы и уличе на Днестре и нижнем Днепре; и более мелкие группы на северо-западе.\n\nЭти «племена» не были однородными этническими единицами, а представляли собой политические конфедерации — союзы деревень, имевших общее место собраний (городище), общую военную службу и общие договоры о дани.",
       "era": "AD",
@@ -157,23 +196,6 @@
         "Tribal"
       ],
       "type": "cultural"
-    },
-    {
-      "date": "01.01.0650",
-      "description": "The forested banks of the Oka River were originally inhabited by the Finno-Ugric tribe of Muroma. They were hunters, fishermen, farmers, and skilled artisans skilled in metalworking.\n\nFrom the late 9th century onward, Slavs (Krivichi and Vyatichi) began migrating en masse to the Oka lands. They settled alongside the Finno-Ugrians. Conflicts between them were virtually nonexistent, as there was ample land and forest resources for everyone. The Slavs brought more advanced arable farming, and the Muroma taught them how to survive in the harsh local forests.",
-      "description_ru": "Изначально лесные берега Оки заселяло финно-угорское племя мурома. Ближайшими родственниками муромы были соседние племена: меря (жили севернее, в районе Ростова и Суздаля) и мордва (жили южнее и восточнее). Это были охотники, рыболовы, земледельцы и отличные ремесленники, которые умели искусно обрабатывать металл.\n\nС конца IX века на земли Оки стали массово переселяться славяне (кривичи и вятичи). Они селились рядом с финно-уграми. Конфликтов между ними практически не было, так как земли и лесных ресурсов хватало всем. Славяне принесли более развитое пашенное земледелие, а мурома научила их выживать в суровых местных лесах.",
-      "era": "AD",
-      "latitude": 55.57947271,
-      "longitude": 42.05924749,
-      "name": "Murom settlement",
-      "name_ru": "Муромское городище",
-      "source": "https://en.wikipedia.org/wiki/Murom",
-      "tags": [
-        "Finno-Ugric",
-        "Settlement",
-        "Tribal"
-      ],
-      "type": "historic"
     },
     {
       "date": "01.01.0700",
@@ -505,6 +527,28 @@
       "type": "cultural"
     },
     {
+      "date": "01.01.0922",
+      "description": "In 922, the Baghdad envoy Ahmad ibn Fadlan reached the Volga Bulgar capital and there encountered Rus merchants trading furs and slaves along the same river route that had linked the Rus to the Islamic world for nearly a century. His account of a chieftain's funeral is the most detailed eyewitness description of Rus death customs to survive. The dead man's ship was hauled ashore and filled with grave goods, food, weapons, and sacrificed animals; his household then asked which of his slave girls would volunteer to die with him. One agreed, and for ten days lived in a state of ritual celebration, visiting each tent of the encampment before being killed aboard the ship, which was then set ablaze. A bystander told Ibn Fadlan the Arabs were foolish to bury their most honored dead in the ground to be eaten by worms, when fire returned them to paradise at once.",
+      "description_ru": "В 922 году багдадский посол Ахмад ибн Фадлан достиг столицы Волжской Булгарии и встретил там купцов-русов, торговавших мехами и рабами по тому же волжскому пути, который почти столетие связывал русов с исламским миром. Его рассказ о похоронах знатного руса — самое подробное свидетельство очевидца о погребальных обычаях русов, дошедшее до наших дней. \n\nКорабль умершего вытащили на берег и наполнили погребальными дарами, едой, оружием и жертвенными животными; затем его домочадцы спросили, кто из рабынь согласится умереть вместе с ним. Одна согласилась и десять дней провела в состоянии ритуального празднества, посещая каждый шатёр становища, прежде чем её убили на борту корабля, который затем подожгли. Один из присутствующих сказал Ибн Фадлану, что арабы поступают глупо, закапывая самых почитаемых мертвецов в землю на съедение червям, тогда как огонь сразу же переносит их в рай.",
+      "era": "AD",
+      "latitude": 55.8,
+      "longitude": 49.1,
+      "name": "Ibn Fadlan Witnesses a Rus Ship Funeral on the Volga",
+      "name_ru": "Похороны русов на Волге",
+      "source": "https://en.wikipedia.org/wiki/Ahmad_ibn_Fadlan",
+      "tags": [
+        "Bulgarian",
+        "Slavic",
+        "Rus",
+        "Islamic",
+        "Culture",
+        "Burial",
+        "Customs",
+        "Trade"
+      ],
+      "type": "cultural"
+    },
+    {
       "date": "01.01.0941",
       "description": "Igor, Rurik's son and Oleg's protégé, came to power after Oleg's death and ruled as Grand Prince of Kiev from approximately 912 to 945. His foreign policy continued the aggressive practices of his predecessor: raids on the Caspian coast and attempts to obtain trade concessions from Constantinople. In 941, Igor arrived at Constantinople with a fleet, which Byzantine sources described as 10,000 ships (most likely an exaggeration), and began ravaging the Thracian and Bithynian coasts.\n\nThe patrician Theophanes met the Russian fleet with ships equipped with Greek fire—an incendiary weapon that was one of the most carefully guarded military secrets of the Byzantine Empire. The consequences for the Rus' were catastrophic: \"The Rus', seeing the flames, threw themselves into the sea, preferring to drown rather than burn,\" wrote the chronicler Liudprand of Cremona. Those who survived returned home with burnt ships and broken pride.",
       "description_ru": "Игорь, сын Рюрика и подопечный Олега, пришел к власти после смерти Олега и правил как великий князь Киевский приблизительно с 912 по 945. Его внешняя политика продолжала агрессивную практику предшественника: набеги на Каспийское побережье; попытки получить торговые концессии от Константинополя. В 941 Игорь прибыл к Константинополю с флотом, который византийские источники описывали как 10 000 судов (скорее преувеличение) и начал опустошать фракийское и вифинское побережья.\n\nПатриций Феофан встретил русский флот на кораблях, оснащенных греческим огнем — зажигательным оружием, которое было одним из самых тщательно охраняемых военных секретов Византии.  Последствия для русов были катастрофическими: «Русы, увидев пламя, бросились в море, предпочитая утонуть, а не сгореть», — писал летописец Людпранд из Кремоны. Те, кто выжил, вернулись домой с обгоревшими кораблями и сломленной гордостью.",
@@ -686,6 +730,27 @@
     },
     {
       "date": "01.01.0967",
+      "description": "Svyatoslav's military campaign ended in the Azov region, where he took control of the Khazar trading port of Samkerts and renamed it Tmutarakan. By capturing Samkerts, Rus' gained direct control of the Kerch Strait. Slavic merchants gained safe, duty-free access to the Caucasus, the Caspian Sea, and the rich markets of the Middle East. Along with the city, Rus' inherited influence over the North Caucasian tribes. The local peoples—the Yases (Alans) and Kasogs (Circassians)—recognized the supreme authority of the Kievan prince and began paying him tribute.\n\nThanks to the mild Taman climate, Tmutarakan became the only region of Rus' where industrial winemaking developed. Expensive wine from here reached the tables of the princes of Kyiv and Novgorod, who no longer had to overpay the Byzantines for it.",
+      "description_ru": "Военный поход Святослава завершился в Приазовье, где он взял под контроль хазарский торговый порт Самкерц и переименовал его в Тмутаракань. Взяв Самкерц, Русь получила прямой контроль над Керченским проливом. Славянские купцы получили безопасный, беспошлинный выход на Кавказ, в Каспийское море и к богатейшим рынкам Ближнего Востока. Вместе с городом Русь унаследовала влияние на северокавказские племена. Местные народы — ясы (аланы) и касоги (черкесы) — признали верховную власть киевского князя и стали платить ему дань.\n\nБлагодаря мягкому таманскому климату, Тмутаракань стала единственным регионом Руси, где развивалось промышленное виноделие. Дорогое вино отсюда шло на столы киевских и новгородских князей, которым больше не нужно было переплачивать за него византийцам",
+      "era": "AD",
+      "latitude": 45.21901199,
+      "longitude": 36.71380877,
+      "name": "Kievan Rus' captures Khazar Samkerts",
+      "name_ru": "Киевская Русь захватывает хазарский Самкерц",
+      "tags": [
+        "Khazar",
+        "Norman",
+        "Slavic",
+        "Turkic",
+        "Kyiv",
+        "Rus",
+        "War",
+        "Conquest"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0967",
       "description": "Between 967 and 972, Svyatoslav conducted two campaigns in the Balkans, which nearly resulted in the establishment of a Russian empire on the Danube. Byzantium used the Rus' to weaken the Bulgarian Empire. Svyatoslav achieved great success: he routed the Bulgarian army, occupied the Danube Delta, including the city of Pereyaslavets, and declared his intention to make the Danube his new capital: \"All wealth is concentrated there: gold from the Greeks, silk, wine, and fruit; silver and horses from the Czechs and Hungarians; furs, wax, honey, and slaves from Russia.\"\n\nThe Byzantines, now alarmed by the appearance of a Russian power on the northern border instead of the Bulgarians, completely reversed their policy and supported the Pechenegs in their raids on Kyiv, in order to weaken the Rus'.",
       "description_ru": "В период с 967 по 972 год Святослав совершил два похода на Балканы, которые едва не закончились созданием русской империи на Дунае. Византия использовала русов для ослабления Болгарского царства. Святослав добился большого успеха: он разгромил болгарскую армию, оккупировал дельту Дуная, включая город Переяславец, и заявил о своем намерении сделать Дунай своей новой столицей: «Там сосредоточены все богатства: золото от греков, шелк, вино и фрукты; серебро и лошади от чехов и венгров; меха, воск, мед и рабы из России».\n\nВизантийцы, теперь встревоженные появлением на северной границе русской державы вместо болгар, полностью изменили свою политику и поддержали печенегов в набегах на Киев, чтобы ослабить уже Русь.",
       "era": "AD",
@@ -704,27 +769,6 @@
         "War",
         "Expansion",
         "Expedition"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.01.0967",
-      "description": "Svyatoslav's military campaign ended in the Azov region, where he took control of the Khazar trading port of Samkerts and renamed it Tmutarakan. By capturing Samkerts, Rus' gained direct control of the Kerch Strait. Slavic merchants gained safe, duty-free access to the Caucasus, the Caspian Sea, and the rich markets of the Middle East. Along with the city, Rus' inherited influence over the North Caucasian tribes. The local peoples—the Yases (Alans) and Kasogs (Circassians)—recognized the supreme authority of the Kievan prince and began paying him tribute.\n\nThanks to the mild Taman climate, Tmutarakan became the only region of Rus' where industrial winemaking developed. Expensive wine from here reached the tables of the princes of Kyiv and Novgorod, who no longer had to overpay the Byzantines for it.",
-      "description_ru": "Военный поход Святослава завершился в Приазовье, где он взял под контроль хазарский торговый порт Самкерц и переименовал его в Тмутаракань. Взяв Самкерц, Русь получила прямой контроль над Керченским проливом. Славянские купцы получили безопасный, беспошлинный выход на Кавказ, в Каспийское море и к богатейшим рынкам Ближнего Востока. Вместе с городом Русь унаследовала влияние на северокавказские племена. Местные народы — ясы (аланы) и касоги (черкесы) — признали верховную власть киевского князя и стали платить ему дань.\n\nБлагодаря мягкому таманскому климату, Тмутаракань стала единственным регионом Руси, где развивалось промышленное виноделие. Дорогое вино отсюда шло на столы киевских и новгородских князей, которым больше не нужно было переплачивать за него византийцам",
-      "era": "AD",
-      "latitude": 45.21901199,
-      "longitude": 36.71380877,
-      "name": "Kievan Rus' captures Khazar Samkerts",
-      "name_ru": "Киевская Русь захватывает хазарский Самкерц",
-      "tags": [
-        "Khazar",
-        "Norman",
-        "Slavic",
-        "Turkic",
-        "Kyiv",
-        "Rus",
-        "War",
-        "Conquest"
       ],
       "type": "military"
     },
@@ -906,6 +950,30 @@
     },
     {
       "date": "01.01.0983",
+      "description": "The Yotvingians lived just north of Cherven Rus', between the Western Bug and Neman rivers (present-day Grodno Oblast in Belarus and Podlasie in Poland). They were renowned as fierce and mobile warriors who regularly carried out plundering raids. By subjugating the Yatvingians, Vladimir took complete control of the Neman trade route, which led directly to the Baltic Sea.\n\nTo secure these borders, a powerful fortress, Brest, was founded in the Yotvingians lands. The city became the main Rus' outpost in the northwest, blocking the passage of the Western Bug River to enemies.",
+      "description_ru": "Ятвяги жили чуть севернее Червенской Руси — между реками Западный Буг и Неман (территория современной Гродненской области Беларуси и Подляшья в Польше). Они славились как жестокие и мобильные воины, регулярно совершавшие грабительские набеги. Подчинив ятвягов, Владимир взял под полный контроль Неманский торговый путь, который вел напрямую к Балтийскому морю. \n\nДля закрепления на этих рубежах в ятвяжских землях была основана мощная крепость — Берестье. Город стал главным форпостом Руси на северо-западе, заперев проход для врагов по реке Западный Буг",
+      "era": "AD",
+      "latitude": 52.08047525,
+      "longitude": 23.6546427,
+      "name": "The Kyivan Prince's Campaign Against the Yotvingians",
+      "name_ru": "Поход киевского князя против ятвягов",
+      "source": "https://en.wikipedia.org/wiki/Yotvingians",
+      "tags": [
+        "Slavic",
+        "Baltic",
+        "Kyiv",
+        "Rus",
+        "City",
+        "War",
+        "Conquest",
+        "Expansion",
+        "Tribal",
+        "Vladimir 👑"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0983",
       "description": "After his military victory over the Baltic Yatvingians, Prince Vladimir held a sacrifice to the pagan gods in Kyiv. The lot fell on the Christian youth John, son of the Varangian Feodor. A crowd came to Feodor's house to demand John. Feodor's response was a theological argument: \"Your gods are not gods, but trees. There is only one God—the Greeks serve him. He created heaven and earth.\" The enraged crowd killed both father and son. The Tale of Bygone Years honors them as the first Christian martyrs of the Russian land.",
       "description_ru": "После военной победы над балтийскими ятвягами, князь Владимир устроил в Киеве жертвоприношение языческим богам. Жребий пал на христианского юношу Иоанна, сына варяга Фёдора. Толпа пришла к дому Фёдора требовать Иоанна. Ответ Фёдора — богословский аргумент: «Ваши боги — не боги, но дерево. Бог один — греки служат ему. Он создал небо и землю». Разъярённая толпа убила и отца, и сына. «Повесть временных лет» чтит их как первых христианских мучеников Русской земли. ",
       "era": "AD",
@@ -924,30 +992,6 @@
         "Vladimir 👑"
       ],
       "type": "religious"
-    },
-    {
-      "date": "01.01.0983",
-      "description": "The Yotvingians lived just north of Cherven Rus', between the Western Bug and Neman rivers (present-day Grodno Oblast in Belarus and Podlasie in Poland). They were renowned as fierce and mobile warriors who regularly carried out plundering raids. By subjugating the Yatvingians, Vladimir took complete control of the Neman trade route, which led directly to the Baltic Sea.\n\nTo secure these borders, a powerful fortress, Brest, was founded in the Yotvingians lands. The city became the main Rus' outpost in the northwest, blocking the passage of the Western Bug River to enemies.",
-      "description_ru": "Ятвяги жили чуть севернее Червенской Руси — между реками Западный Буг и Неман (территория современной Гродненской области Беларуси и Подляшья в Польше). Они славились как жестокие и мобильные воины, регулярно совершавшие грабительские набеги. Подчинив ятвягов, Владимир взял под полный контроль Неманский торговый путь, который вел напрямую к Балтийскому морю. \n\nДля закрепления на этих рубежах в ятвяжских землях была основана мощная крепость — Берестье. Город стал главным форпостом Руси на северо-западе, заперев проход для врагов по реке Западный Буг",
-      "era": "AD",
-      "latitude": 52.08047525,
-      "longitude": 23.6546427,
-      "name": "The Kyivan Prince's Campaign Against the Yotvingians",
-      "name_ru": "Поход киевского князя против ятвягов",
-      "source": "https://en.wikipedia.org/wiki/Yotvingians",
-      "tags": [
-        "Slavic",
-        "Kyiv",
-        "Rus",
-        "City",
-        "War",
-        "Conquest",
-        "Baltic",
-        "Expansion",
-        "Tribal",
-        "Vladimir 👑"
-      ],
-      "type": "military"
     },
     {
       "date": "01.01.0986",
@@ -1101,6 +1145,27 @@
         "Building 🏠",
         "Temple",
         "Innovation",
+        "Vladimir 👑"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0996",
+      "description": "After completing the Church of the Tithes in Kyiv in 996, Vladimir marked the occasion the way a Rus prince was expected to: with a feast so large it became legend. The Primary Chronicle describes him holding great banquets for his boyars, his retinue, and ordinary townspeople alike, and sending carts loaded with bread, meat, fish, and honeyed drink through the streets for the sick and the poor who could not come to him. According to the story, when his warriors grumbled that they had to eat with wooden spoons instead of silver ones, Vladimir had silver spoons forged for them at once, reasoning that silver and gold could never buy a loyal retinue, while a loyal retinue would always win him silver and gold, just as it had for his father and grandfather before him. The anecdote captures how thoroughly a prince's authority in Rus rested on generosity, not just conquest.",
+      "description_ru": "Завершив строительство Десятинной церкви в Киеве, Владимир отметил это событие так, как и подобало князю Руси, — пиром, ставшим легендой. Повесть временных лет описывает, как он устраивал огромные застолья для бояр, дружины и простых горожан, а по улицам развозили телеги с хлебом, мясом, рыбой и медовым питьём для больных и бедных, которые не могли явиться к нему сами. \n\nСогласно преданию, когда его воины стали роптать, что едят деревянными ложками вместо серебряных, Владимир немедленно велел выковать для них серебряные ложки, рассудив, что серебром и золотом верную дружину не купить, зато верная дружина всегда добудет ему серебро и золото — как это было при его отце и деде.",
+      "era": "AD",
+      "latitude": 50.45782847,
+      "longitude": 30.5174607,
+      "name": "Vladimir's Feast and the Silver Spoons",
+      "name_ru": "Пир Владимира и серебряные ложки",
+      "source": "https://en.wikipedia.org/wiki/Vladimir_the_Great",
+      "tags": [
+        "Slavic",
+        "Kyiv",
+        "Rus",
+        "Culture",
+        "Customs",
+        "Legend",
         "Vladimir 👑"
       ],
       "type": "cultural"
@@ -1489,10 +1554,10 @@
         "Rus",
         "Culture",
         "Political",
+        "Law",
         "Administration",
         "Code",
         "Justice",
-        "Law",
         "Text",
         "Yaroslav the Wise 👑"
       ],
@@ -1916,6 +1981,26 @@
       "type": "political"
     },
     {
+      "date": "01.01.1071",
+      "description": "Eighty-two years after Novgorod's forced conversion, a famine-stricken crowd gathered around a volkhv — a pagan priest and diviner — who claimed he could see which women were secretly hoarding grain through witchcraft. He began naming names, and mobs dragged the accused from their homes to be killed, while the volkhv's following grew into open defiance of the Christian prince's authority in the city. Prince Gleb Svyatoslavich confronted him directly, asking whether he truly knew the future; when the volkhv boasted that he could perform miracles, Gleb hid an axe beneath his cloak and struck him dead on the spot, ending the uprising instantly. The episode, recorded in the Primary Chronicle a full century after Vladimir's baptism of Rus, shows how shallow that conversion still ran outside the princely court, and how readily crisis could summon the old gods back to the surface.",
+      "description_ru": "Спустя восемьдесят два года после насильственного крещения Новгорода, во время голода, вокруг волхва — языческого жреца и провидца — собралась толпа; он утверждал, что колдовством способен распознать женщин, тайно припрятавших зерно. Он принялся называть имена, и толпы вытаскивали обвинённых из домов и убивали их, а число сторонников волхва росло, превращаясь в открытый вызов власти христианского князя в городе. Князь Глеб Святославич лично вышел к нему и спросил, действительно ли тот знает будущее; когда волхв похвастался, что способен творить чудеса, Глеб спрятал под плащом топор и зарубил его на месте, мгновенно положив конец восстанию. Этот эпизод, записанный в Повести временных лет спустя целый век после крещения Руси Владимиром, показывает, насколько поверхностно оно всё ещё укоренилось за пределами княжеского двора и как легко кризис мог вернуть на поверхность старых богов.",
+      "era": "AD",
+      "latitude": 58.52129089,
+      "longitude": 31.27528667,
+      "name": "The Novgorod Volkhv Uprising",
+      "name_ru": "Восстание волхвов в Новгороде",
+      "source": "https://en.wikipedia.org/wiki/Volkhv",
+      "tags": [
+        "Novgorod",
+        "Christian",
+        "Pagan",
+        "Crisis",
+        "Rebellion",
+        "Legend"
+      ],
+      "type": "religious"
+    },
+    {
       "date": "01.01.1072",
       "description": "During the Vyshgorod Congress of Princes, the three eldest sons of Yaroslav the Wise—Izyaslav, Svyatoslav, and Vsevolod—gathered in Vyshgorod along with the metropolitan, governors, and boyars for the ceremonial translation of the relics of the first Russian saints, Boris and Gleb. At this meeting, the Truth of the Yaroslavichi—a new code of laws—was written. The powerful popular uprisings of 1068–1071 served as the pretext for the creation of this new code. To protect princely property and pacify society, the princes approved this code, the most significant historical decision of which was the complete abolition of blood feuds and their replacement with monetary fines (virs).",
       "description_ru": "Во время Вышгородского съезда князей трое старших сыновей Ярослава Мудрого — Изяслав, Святослав и Всеволод — собрались в Вышгороде вместе с митрополитом, воеводами и боярами по случаю торжественного перенесения мощей первых русских святых, Бориса и Глеба. На собрании была написана Правда Ярославичей - новый свод законов. Поводом для создания нового свода законов стали мощные народные восстания 1068–1071 годов. Чтобы защитить княжеское имущество и утихомирить общество, князья утвердили этот кодекс, главным историческим решением которого стала полная отмена кровной мести и её замена денежными штрафами (вирами)",
@@ -1929,9 +2014,9 @@
         "Slavic",
         "Rus",
         "Culture",
+        "Law",
         "Code",
         "Justice",
-        "Law",
         "Text"
       ],
       "type": "political"
@@ -2093,26 +2178,6 @@
     },
     {
       "date": "01.05.1113",
-      "description": "His father, Vladimir Monomakh, sent Yuri to rule in the Rostov-Suzdal land. Rostov was the main, oldest, and wealthiest city in the region at the time. Yuri persistently, against the wishes of the local nobility, intervened in the affairs of Southern Rus', organizing military campaigns against Kyiv, attempting to subjugate Novgorod, and actively expanding his borders eastward, fighting the Volga Bulgaria and establishing new strongholds. For his vast ambitions, he later earned the name \"Dolgoruky.\"",
-      "description_ru": "Отец, Владимир Мономах, отправил Юрия княжить именно в Ростово-Суздальскую землю. Ростов в то время был главным, самым старым и богатым городом этого края. Юрий настойчиво, вопреки воле местной знати, вмешивался в дела Южной Руси и организовывал военные походы на Киев, пытался подчинить Новгород, активно расширял границы на восток, воюя с Волжской Булгарией и основывая новые опорные крепости. За свои обширные амбиции позднее в истории получил имя \"Долгорукий\".",
-      "era": "AD",
-      "latitude": 57.1846461,
-      "longitude": 39.41631138,
-      "name": "Yuri Dolgoruky becomes Prince of Rostov",
-      "name_ru": "Юрий Долгорукий — князь Ростова",
-      "source": "https://en.wikipedia.org/wiki/Yuri_Dolgorukiy",
-      "tags": [
-        "Slavic",
-        "Rostov-Suzdal",
-        "Rus",
-        "Rurikid",
-        "Governor",
-        "Yury Dolgoruky 👑"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.05.1113",
       "description": "Vladimir Monomakh (1113-1125 AD) was the last Grand Prince of Kyiv who can be considered to have exercised effective authority over the whole of Rus, and the circumstances of his coming to power illuminate the social tensions of early twelfth century Rus society. After the death of Sviatopolk II in April 1113, the Kyiv population rose in a riot directed primarily against moneylenders and the Jewish community, which was associated in the popular mind with usury. The city's leading citizens sent an urgent message to Vladimir Monomakh (then prince of Pereyaslavl, not the next in the rota succession for Kyiv) asking him to come immediately before the city was destroyed. Vladimir initially refused, citing the rota order. The riots intensified. He came.\n\nOne of his first acts was to promulgate an addition to the Russkaya Pravda (the 'Charter of Vladimir Monomakh') that limited interest rates on loans to prevent the most abusive lending practices that had provoked the uprising. His reign was celebrated in the chronicle tradition and his own literary works as a model of Christian kingship: piety, personal courage, physical endurance, and justice toward the poor. His 'Instruction' (Pouchenie), written for his sons, is one of the most remarkable personal documents of the medieval world — a prince's memoir interweaving moral philosophy with practical advice with autobiographical accounts of hunting adventures (he killed 130 stags, caught wild horses with his bare hands, had a bison toss him on his horns and a lynx leap at his thigh) and diplomatic letters.",
       "description_ru": "После смерти Святополка II в апреле 1113 года киевское население подняло бунт, направленный прежде всего против ростовщиков и еврейской общины, которая в народном сознании ассоциировалась с ростовщичеством. Ведущие горожане направили Владимиру Мономаху (тогдашнему князю Переяславля) срочное послание с просьбой немедленно приехать до разрушения города. Владимир сначала отказался, сославшись на ротационный порядок. Бунты усилились. Он приехал.\n\nОдним из его первых действий стало внесение поправки в «Русскую правду» («Хартию Владимира Мономаха»), ограничивающей процентные ставки по кредитам, чтобы предотвратить наиболее злоупотребления в сфере кредитования, которые спровоцировали восстание. Его правление вошло в летописную традицию и его собственные литературные произведения как образец христианского царствования: благочестие, личная храбрость, физическая выносливость и справедливость по отношению к бедным. \n\nЕго «Наставление», написанное для сыновей, является замечательным личным документом средневекового мира — княжеские мемуары, в которых моральная философия переплетается с практическими советами, автобиографическими рассказами об охотничьих приключениях (он убил 130 оленей, ловил диких лошадей голыми руками, бизон бросил его на рога, а рысь прыгнула ему на бедро) и дипломатическими письмами",
       "era": "AD",
@@ -2134,6 +2199,46 @@
         "Vladimir Monomakh 👑"
       ],
       "type": "political"
+    },
+    {
+      "date": "01.05.1113",
+      "description": "His father, Vladimir Monomakh, sent Yuri to rule in the Rostov-Suzdal land. Rostov was the main, oldest, and wealthiest city in the region at the time. Yuri persistently, against the wishes of the local nobility, intervened in the affairs of Southern Rus', organizing military campaigns against Kyiv, attempting to subjugate Novgorod, and actively expanding his borders eastward, fighting the Volga Bulgaria and establishing new strongholds. For his vast ambitions, he later earned the name \"Dolgoruky.\"",
+      "description_ru": "Отец, Владимир Мономах, отправил Юрия княжить именно в Ростово-Суздальскую землю. Ростов в то время был главным, самым старым и богатым городом этого края. Юрий настойчиво, вопреки воле местной знати, вмешивался в дела Южной Руси и организовывал военные походы на Киев, пытался подчинить Новгород, активно расширял границы на восток, воюя с Волжской Булгарией и основывая новые опорные крепости. За свои обширные амбиции позднее в истории получил имя \"Долгорукий\".",
+      "era": "AD",
+      "latitude": 57.1846461,
+      "longitude": 39.41631138,
+      "name": "Yuri Dolgoruky becomes Prince of Rostov",
+      "name_ru": "Юрий Долгорукий — князь Ростова",
+      "source": "https://en.wikipedia.org/wiki/Yuri_Dolgorukiy",
+      "tags": [
+        "Slavic",
+        "Rostov-Suzdal",
+        "Rus",
+        "Rurikid",
+        "Governor",
+        "Yury Dolgoruky 👑"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1125",
+      "description": "Rostov was an old city with a powerful local boyar class and a strong veche (public) government. The local nobility hindered the activities of Prince Yuri Dolgoruky; for this reason, after the death of his father, Vladimir Monomakh, Yuri moved the capital of the principality to Suzdal. Suzdal was located in the center of a fertile opolye (country land) and had excellent river routes. This allowed the prince to better control trade, collect taxes, and quickly assemble troops.",
+      "description_ru": "Ростов был старым городом с мощным местным боярством и сильным вечевым (народным) управлением. Местная знать препятствовала активности князя Юрия Долгорукого; по этой причине, после смерти отца, Владимира Мономаха, Юрий перенес столицу княжества в Суздаль. Суздаль находился в центре плодородного ополья и имел отличные речные пути. Это позволяло князю лучше контролировать торговлю, собирать налоги и оперативно собирать войска.",
+      "era": "AD",
+      "latitude": 56.41603226,
+      "longitude": 40.44209003,
+      "name": "Suzdal — the capital of the Rostov-Suzdal Principality",
+      "name_ru": "Суздаль — столица Ростовско-Суздальского княжества",
+      "source": "https://en.wikipedia.org/wiki/Suzdal",
+      "tags": [
+        "Slavic",
+        "Rostov-Suzdal",
+        "Rus",
+        "Capital",
+        "Kingdom",
+        "Yury Dolgoruky 👑"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.1125",
@@ -2158,26 +2263,6 @@
         "Decline"
       ],
       "type": "political"
-    },
-    {
-      "date": "01.01.1125",
-      "description": "Rostov was an old city with a powerful local boyar class and a strong veche (public) government. The local nobility hindered the activities of Prince Yuri Dolgoruky; for this reason, after the death of his father, Vladimir Monomakh, Yuri moved the capital of the principality to Suzdal. Suzdal was located in the center of a fertile opolye (country land) and had excellent river routes. This allowed the prince to better control trade, collect taxes, and quickly assemble troops.",
-      "description_ru": "Ростов был старым городом с мощным местным боярством и сильным вечевым (народным) управлением. Местная знать препятствовала активности князя Юрия Долгорукого; по этой причине, после смерти отца, Владимира Мономаха, Юрий перенес столицу княжества в Суздаль. Суздаль находился в центре плодородного ополья и имел отличные речные пути. Это позволяло князю лучше контролировать торговлю, собирать налоги и оперативно собирать войска.",
-      "era": "AD",
-      "latitude": 56.41603226,
-      "longitude": 40.44209003,
-      "name": "Suzdal — the capital of the Rostov-Suzdal Principality",
-      "name_ru": "Суздаль — столица Ростовско-Суздальского княжества",
-      "source": "https://en.wikipedia.org/wiki/Suzdal",
-      "tags": [
-        "Slavic",
-        "Rostov-Suzdal",
-        "Rus",
-        "Capital",
-        "Kingdom",
-        "Yury Dolgoruky 👑"
-      ],
-      "type": "historic"
     },
     {
       "date": "01.01.1129",
@@ -2824,16 +2909,16 @@
       "tags": [
         "Slavic",
         "Germanic",
+        "Teuton",
         "Novgorod",
         "Rus",
         "Christian",
         "Catholic",
+        "Order",
         "Crusade",
         "War",
         "Battle",
-        "Alexander Nevsky 👤",
-        "Livonian",
-        "Teutons"
+        "Alexander Nevsky 👤"
       ],
       "type": "military"
     },
@@ -2890,7 +2975,6 @@
       "name_ru": "Владимирский князь отравлен в Каракоруме",
       "source": "https://en.wikipedia.org/wiki/Yaroslav_II_of_Vladimir#Death",
       "tags": [
-        "Slavic",
         "Golden Horde",
         "Mongolian",
         "Vladimir-Suzdal",
@@ -3002,6 +3086,7 @@
         "Galicia",
         "Papacy",
         "Kingdom",
+        "Christian",
         "Catholic",
         "Alliance",
         "Political"
@@ -3027,6 +3112,27 @@
         "Rebellion",
         "Political",
         "Alexander Nevsky 👤"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1261",
+      "description": "Baskaki (from the Turkic bas-qaq, 'overseer') were Mongol officials stationed in the major Rus cities, responsible for conducting the periodic census, assessing and collecting the tribute (vykhod), and monitoring the political loyalty of the local princes. They were backed by military detachments that could enforce compliance; a prince who failed to deliver the tribute on time risked a punitive raid (the Russian word pogrom, 'devastation,' originally referred to Mongol punitive expeditions).\n\nThe economic burden of the tribute was substantial: the vykhod has been estimated at one-tenth of annual income from agriculture, trade, and crafts — a figure consistent with medieval taxation in other contexts but representing a permanent outflow of silver from the Rus economy to the Horde. The Mongols taxed craftsmen, merchants, clergy (initially exempt, later taxed), and peasants. Cities that failed to pay or rebelled were sacked. The baskak system was gradually replaced by a system in which the Rus princes themselves collected the tribute and delivered it to the Horde — which gave the princes (especially the Moscow princes) the financial and administrative machinery that would eventually power the Russian unification.",
+      "description_ru": "Баскаки (от тюркского bas-qaq, «надзиратель») были монгольскими чиновниками, размещенными в крупных русских городах, ответственными за проведение периодической переписи населения, оценку и сбор дани (выхода), а также за контроль политической лояльности местных князей. Их поддерживали военные отряды, которые могли обеспечить соблюдение налогового законодательства; князь, не сдавший дань вовремя, рисковал подвергнуться карательному набегу (русское слово «погром», «опустошение», первоначально относилось к монгольским карательным экспедициям).\n\nЭкономическое бремя дани было значительным: выход оценивается в одну десятую часть годового дохода от сельского хозяйства, торговли и ремесел — цифра, соответствующая средневековому налогообложению в других контекстах, но представляющая собой постоянный отток серебра из русской экономики в Орду. Монголы облагали налогом ремесленников, торговцев, духовенство (первоначально освобожденное от налогов, позже облагаемое налогом) и крестьян. Города, которые не платили налоги или поднимали восстания, разграблялись. Система баскак постепенно была заменена системой, при которой русские князья сами собирали дань и доставляли ее Орде, что обеспечило князьям (особенно московским князьям) финансовый и административный механизм, который в конечном итоге привел к объединению России.",
+      "era": "AD",
+      "latitude": 47.23816056,
+      "longitude": 47.37414122,
+      "name": "The Baskak System of Golden Horde",
+      "name_ru": "Система сбора налогов в Золотой Орде",
+      "source": "https://en.wikipedia.org/wiki/Baskak",
+      "tags": [
+        "Golden Horde",
+        "Mongolian",
+        "Rus",
+        "Political",
+        "Administration",
+        "Taxes",
+        "Tribute"
       ],
       "type": "political"
     },
@@ -3079,9 +3185,31 @@
       "type": "religious"
     },
     {
-      "date": "01.01.1270",
+      "date": "01.07.1328",
+      "description": "One of the most consequential institutional decisions of the Mongol period was the transfer of the Russian Orthodox Church's metropolitan see from Kyiv to Vladimir (1299) and then, definitively, to Moscow. The Metropolitan Maxim moved to Vladimir in 1299, citing the desolation of Kyiv (still barely recovering from the 1240 sack) and the practical necessity of residing where the political power was. His successor Peter, a Galician by birth, was the first Metropolitan to prefer Moscow: he became close to Prince Ivan I Kalita ('Moneybag') of Moscow and died in Moscow in 1326, having consecrated the site of the future Dormition Cathedral of the Moscow Kremlin with his own burial.\n\nThe transfer of the metropolitan see to Moscow had enormous practical and symbolic consequences. Practically: wherever the metropolitan resided, that city attracted pilgrims, charitable donations, church construction, and the intellectual life associated with ecclesiastical centers. Symbolically: Moscow could now claim to be the spiritual capital of Rus, inheriting the religious prestige of Kyiv. The idea of Moscow as the 'Third Rome' — the spiritual successor to Constantinople (fallen to the Ottoman Turks in 1453) after Kyiv — was developed by the monk Filofei of Pskov in the early sixteenth century and became the foundational ideology of the Muscovite state: 'Two Romes have fallen, the third stands, and a fourth there shall not be.' This ideology shaped Russian imperial self-conception from Ivan III to the present.",
+      "description_ru": "Одним из наиболее значимых институциональных решений монгольского периода был перенос митрополичьей кафедры Русской православной церкви из Киева во Владимир (1299), а затем окончательно в Москву (1326). Митрополит Максим переехал во Владимир в 1299 году, ссылаясь на запустение Киева. Его преемник Пётр приблизился к московскому князю Ивану I Калите и умер в Москве в 1326 году, освятив своим погребением место будущего Успенского собора Московского Кремля.\n\nПеренос митрополичьей кафедры в Москву имел огромные практические и символические последствия. Символически Москва могла теперь претендовать на звание духовной столицы Руси. Идея Москвы как «Третьего Рима» — духовной преемницы Константинополя — была развита монахом Филофеем Псковским в начале XVI века: «Два Рима пали, третий стоит, четвёртому не быть».",
+      "era": "AD",
+      "latitude": 55.75156575,
+      "longitude": 37.61805654,
+      "name": "The Russian Metropolitan Moves to Moscow",
+      "name_ru": "Русский митрополит переезжает в Москву",
+      "source": "https://en.wikipedia.org/wiki/Third_Rome",
+      "tags": [
+        "Slavic",
+        "Golden Horde",
+        "Moscow",
+        "Rus",
+        "Religious",
+        "Christian",
+        "Orthodox",
+        "Political"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.1503",
       "description": "Two and a half centuries of Mongolian political domination over the Russian principalities left a profound imprint on the Russian language, material culture, administrative practice, and political culture. Hundreds of Russian words of Turkic (primarily Mongolian or Tatar) origin are grouped into specific semantic fields that reveal areas of Mongolian cultural influence. Administrative vocabulary: kazan (treasury, from the Turkic hazine), tamoznya (customs, from tamga \"seal/sign\"), yarlyk (a document of authority, still used in Russian to designate a product label). Military vocabulary: bogatyr (hero, originally a Turkic military title), ataman (Cossack leader), esaul (Cossack officer). Commercial vocabulary: bazaar (market), almaz (diamond), buza (fermented beverage).\n\nMongol administrative solutions inherited by the Russian principalities include: a postal delivery system (from the Mongol jam \"road/station\"), a network of staging posts where horses and riders were kept for rapid communication over long distances—the precursor to the Russian postal system; a population census as a mechanism of state power; the concept of absolute sovereignty concentrated in the hands of a single ruler; and a tribute system, which implied that the prince collected tribute from the people, rather than served them.",
-      "description_ru": "Два с половиной века политического господства Монголии над русскими княжествами оставили глубокий след в русском языке, материальной культуре, административной практике и политической культуре. Сотни русских слов тюркского (преимущественно монгольского или татарского) происхождения группируются в специфических семантических полях, которые раскрывают области монгольского культурного влияния. Административная лексика: казан (казначейство, от тюркского hazine), тамозня (таможня, от tamga «печать/знак»), ярлык (документ власти, до сих пор используется в русском языке для обозначения этикетки товара). Военная лексика: богатырь (герой, первоначально тюркский военный титул), атаман (казачий вожак), есаул (казачий офицер). Торговая лексика: базар (рынок), алмаз (алмаз), буза (ферментированный напиток).\n\nК монгольским административным решениям, унаследованным русскими княжествами, относятся: система почтовой пересылки (от монгольского jam «дорога/станция»), сеть перевалочных пунктов, где держали лошадей и всадников для быстрой связи на больших расстояниях — предшественница русской почтовой системы; перепись населения как механизм государственной власти; концепция абсолютного суверенитета, сосредоточенного в руках одного правителя; и система дани, предполагающая, что князь собирает дань с народа, а не служит ему.",
+      "description_ru": "Два с половиной века политического господства Монголии над русскими княжествами оставили глубокий след в русском языке, материальной культуре, административной практике и политической культуре. Сотни русских слов тюркского (преимущественно монгольского или татарского) происхождения группируются в специфических семантических полях, которые раскрывают области монгольского культурного влияния. Административная лексика: казан (казначейство, от тюркского hazine), тамозня (таможня, от tamga «печать/знак»), ярлык (документ власти, до сих пор используется в русском языке для обозначения этикетки товара). Военная лексика: богатырь (герой, первоначально тюркский военный титул), атаман (казачий вожак), есаул (казачий офицер). Торговая лексика: базар (рынок), алмаз (алмаз), буза (ферментированный напиток).\n\nК монгольским административным решениям, унаследованным русскими княжествами, относятся: ям, система почтовой пересылки (от монгольского jam «дорога/станция»), сеть перевалочных пунктов, где держали лошадей и всадников для быстрой связи на больших расстояниях — предшественница русской почтовой системы; перепись населения как механизм государственной власти; концепция абсолютного суверенитета, сосредоточенного в руках одного правителя; и система дани, предполагающая, что князь собирает дань с народа, а не служит ему.",
       "era": "AD",
       "latitude": 55.75156575,
       "longitude": 37.61805654,
@@ -3100,169 +3228,6 @@
         "Administration"
       ],
       "type": "cultural"
-    },
-    {
-      "date": "01.01.1290",
-      "description": "Baskaki (from the Turkic bas-qaq, 'overseer') were Mongol officials stationed in the major Rus cities, responsible for conducting the periodic census, assessing and collecting the tribute (vykhod), and monitoring the political loyalty of the local princes. They were backed by military detachments that could enforce compliance; a prince who failed to deliver the tribute on time risked a punitive raid (the Russian word pogrom, 'devastation,' originally referred to Mongol punitive expeditions).\n\nThe economic burden of the tribute was substantial: the vykhod has been estimated at one-tenth of annual income from agriculture, trade, and crafts — a figure consistent with medieval taxation in other contexts but representing a permanent outflow of silver from the Rus economy to the Horde. The Mongols taxed craftsmen, merchants, clergy (initially exempt, later taxed), and peasants. Cities that failed to pay or rebelled were sacked. The baskak system was gradually replaced by a system in which the Rus princes themselves collected the tribute and delivered it to the Horde — which gave the princes (especially the Moscow princes) the financial and administrative machinery that would eventually power the Russian unification.",
-      "description_ru": "Баскаки (от тюркского bas-qaq, «надзиратель») были монгольскими чиновниками, размещенными в крупных русских городах, ответственными за проведение периодической переписи населения, оценку и сбор дани (выхода), а также за контроль политической лояльности местных князей. Их поддерживали военные отряды, которые могли обеспечить соблюдение налогового законодательства; князь, не сдавший дань вовремя, рисковал подвергнуться карательному набегу (русское слово «погром», «опустошение», первоначально относилось к монгольским карательным экспедициям).\n\nЭкономическое бремя дани было значительным: выход оценивается в одну десятую часть годового дохода от сельского хозяйства, торговли и ремесел — цифра, соответствующая средневековому налогообложению в других контекстах, но представляющая собой постоянный отток серебра из русской экономики в Орду. Монголы облагали налогом ремесленников, торговцев, духовенство (первоначально освобожденное от налогов, позже облагаемое налогом) и крестьян. Города, которые не платили налоги или поднимали восстания, разграблялись. Система баскак постепенно была заменена системой, при которой русские князья сами собирали дань и доставляли ее Орде, что обеспечило князьям (особенно московским князьям) финансовый и административный механизм, который в конечном итоге привел к объединению России.",
-      "era": "AD",
-      "latitude": 47.23816056,
-      "longitude": 47.37414122,
-      "name": "The Baskak System of Golden Horde",
-      "name_ru": "Система сбора налогов в Золотой Орде",
-      "source": "https://en.wikipedia.org/wiki/Baskak",
-      "tags": [
-        "Golden Horde",
-        "Mongolian",
-        "Rus",
-        "Political",
-        "Administration",
-        "Taxes",
-        "Tribute"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.1326",
-      "description": "One of the most consequential institutional decisions of the Mongol period was the transfer of the Russian Orthodox Church's metropolitan see from Kyiv to Vladimir (1299) and then, definitively, to Moscow (1326). The Metropolitan Maxim moved to Vladimir in 1299, citing the desolation of Kyiv (still barely recovering from the 1240 sack) and the practical necessity of residing where the political power was. His successor Peter, a Galician by birth, was the first Metropolitan to prefer Moscow: he became close to Prince Ivan I Kalita ('Moneybag') of Moscow and died in Moscow in 1326, having consecrated the site of the future Dormition Cathedral of the Moscow Kremlin with his own burial.\n\nThe transfer of the metropolitan see to Moscow had enormous practical and symbolic consequences. Practically: wherever the metropolitan resided, that city attracted pilgrims, charitable donations, church construction, and the intellectual life associated with ecclesiastical centers. Symbolically: Moscow could now claim to be the spiritual capital of Rus, inheriting the religious prestige of Kyiv. The idea of Moscow as the 'Third Rome' — the spiritual successor to Constantinople (fallen to the Ottoman Turks in 1453) after Kyiv — was developed by the monk Filofei of Pskov in the early sixteenth century and became the foundational ideology of the Muscovite state: 'Two Romes have fallen, the third stands, and a fourth there shall not be.' This ideology shaped Russian imperial self-conception from Ivan III to the present.",
-      "description_ru": "Одним из наиболее значимых институциональных решений монгольского периода был перенос митрополичьей кафедры Русской православной церкви из Киева во Владимир (1299), а затем окончательно в Москву (1326). Митрополит Максим переехал во Владимир в 1299 году, ссылаясь на запустение Киева. Его преемник Пётр приблизился к московскому князю Ивану I Калите и умер в Москве в 1326 году, освятив своим погребением место будущего Успенского собора Московского Кремля.\n\nПеренос митрополичьей кафедры в Москву имел огромные практические и символические последствия. Символически Москва могла теперь претендовать на звание духовной столицы Руси. Идея Москвы как «Третьего Рима» — духовной преемницы Константинополя — была развита монахом Филофеем Псковским в начале XVI века: «Два Рима пали, третий стоит, четвёртому не быть».",
-      "era": "AD",
-      "latitude": 55.75156575,
-      "longitude": 37.61805654,
-      "name": "The Russian Metropolitan Moves to Moscow",
-      "name_ru": "Русский митрополит переезжает в Москву",
-      "source": "https://en.wikipedia.org/wiki/Third_Rome",
-      "tags": [
-        "Slavic",
-        "Moscow",
-        "Rus",
-        "Religious",
-        "Christian",
-        "Orthodox",
-        "Political"
-      ],
-      "type": "religious"
-    },
-    {
-      "date": "01.01.0060",
-      "description": "According to the legend preserved by the monk Nestor, the Apostle Andrew, preaching along the Black Sea coast, sailed up the Dnieper and halted beneath a range of wooded hills on its western bank. He raised a cross there and told his companions that God's grace would shine upon these heights and a great city, filled with churches, would one day rise — a prophecy the chroniclers later read as foretelling Kyiv itself. Continuing north to the land of the Ilmen Slavs, where Novgorod would eventually stand, Andrew reportedly witnessed a custom that startled him: the Slavs built wooden bathhouses, heated them to a scorching temperature, then beat their own bare bodies with bundles of branches until they were half-senseless, before dousing themselves with icy water and returning, unharmed, to daily life. He is said to have marveled that a people would inflict such suffering on themselves for pleasure rather than punishment.",
-      "description_ru": "Согласно преданию, сохранённому монахом Нестором, апостол Андрей, проповедуя вдоль черноморского побережья, поднялся вверх по Днепру и остановился у поросших лесом холмов на его западном берегу. Он водрузил там крест и сказал спутникам, что на этих высотах воссияет благодать Божья и однажды поднимется великий город со множеством церквей — пророчество, которое летописцы позже читали как предсказание самого Киева. Продвинувшись на север, к землям ильменских словен, где впоследствии встанет Новгород, Андрей, по преданию, стал свидетелем обычая, поразившего его: славяне строили деревянные бани, раскаляли их до нестерпимого жара, а затем хлестали собственные обнажённые тела связками ветвей до полуобморочного состояния, после чего обливались ледяной водой и как ни в чём не бывало возвращались к повседневным делам. Апостол, как гласит предание, изумлялся, что люди причиняют себе подобные страдания ради удовольствия, а не в наказание.",
-      "era": "AD",
-      "latitude": 50.45826903,
-      "longitude": 30.5160284,
-      "name": "Apostle Andrew's Prophecy over the Kyiv Hills",
-      "name_ru": "Пророчество апостола Андрея над киевскими холмами",
-      "source": "https://en.wikipedia.org/wiki/Andrew_the_Apostle",
-      "tags": [
-        "Legend",
-        "Christian",
-        "Kyiv",
-        "Novgorod",
-        "Customs",
-        "Culture"
-      ],
-      "type": "religious"
-    },
-    {
-      "date": "01.01.0650",
-      "description": "The Primary Chronicle's account of pre-Christian Slavic tribes reads like an ethnographer's field notes, filtered through a monk's disapproval. The Polyanians around Kyiv, the chronicler insists, kept a gentle and civilized custom: a groom's family formally asked for the bride, who was brought to him the following day along with her dowry. The Drevlyans, Radimichs, Vyatichs, and Severians, by contrast, are described as living 'in bestial fashion': marriages were not arranged between families but seized at village gatherings and river games, where a man would carry off a woman he had already privately agreed to marry. All four tribes were said to share the same funeral rite — cremating their dead on a pyre, then placing the ashes in a small urn and setting it on a post beside the public roads, a practice the chronicler treats as one more mark of their backwardness beside the pious Polyanians.",
-      "description_ru": "Рассказ «Повести временных лет» о догосударственных славянских племенах читается как полевые заметки этнографа, пропущенные через неодобрение монаха. Поляне вокруг Киева, настаивает летописец, придерживались кроткого и цивилизованного обычая: семья жениха формально сватала невесту, которую на следующий день приводили к нему вместе с приданым. Древляне, радимичи, вятичи и северяне, напротив, описаны как жившие «зверинским образом»: браки заключались не между семьями, а похищением на сельских сборищах и играх у рек, где мужчина уводил женщину, с которой заранее тайно сговорился. Все четыре племени, по словам летописца, разделяли один и тот же погребальный обряд — сжигали умерших на костре, а затем помещали прах в небольшую урну и выставляли её на столбе у обочины дороги; эту практику летописец приводит как ещё одно свидетельство их отсталости на фоне благочестивых полян.",
-      "era": "AD",
-      "latitude": 50.45826903,
-      "longitude": 30.5160284,
-      "name": "How the Slavic Tribes Married and Buried Their Dead",
-      "name_ru": "Как славянские племена женились и хоронили своих умерших",
-      "source": "https://en.wikipedia.org/wiki/Radimichs",
-      "tags": [
-        "Marriage",
-        "Burial",
-        "Customs",
-        "Tribal",
-        "Culture",
-        "Slavic"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.0907",
-      "description": "When Oleg's fleet forced Constantinople to terms in 907, the closing of the treaty exposed two entirely different worlds of belief standing side by side. The Byzantine negotiators sealed their word in the Christian manner, kissing the cross before the assembled witnesses. Oleg's Varangian and Slavic retinue, still overwhelmingly pagan, swore in their own fashion: each warrior laid his sword, shield, and other weapons on the ground and invoked Perun, the thunder-god who presided over war and oaths, and Veles, the horned lord of cattle, wealth, and the underworld. The Primary Chronicle records the scene almost as an aside, but it is one of the earliest datable descriptions of Slavic pagan religion in practice — proof that, a full eighty years before Vladimir's baptism, the ruling elite of Rus governed itself, made war, and kept its promises under gods far removed from Constantinople's.",
-      "description_ru": "Когда в 907 году флот Олега вынудил Константинополь пойти на уступки, заключение договора обнажило два совершенно разных мира веры, стоявших бок о бок. Византийские послы скрепили слово на христианский манер, поцеловав крест перед собравшимися свидетелями. Дружина Олега — варяги и славяне, всё ещё в массе своей язычники — клялась иначе: каждый воин складывал на землю меч, щит и прочее оружие и призывал в свидетели Перуна, бога-громовержца, покровителя войны и клятв, и Велеса, рогатого владыку скота, богатства и подземного мира. Повесть временных лет упоминает эту сцену почти мимоходом, но это одно из самых ранних датированных описаний славянского язычества в действии — доказательство того, что за целых восемьдесят лет до крещения Владимира правящая верхушка Руси управляла страной, вела войны и держала слово перед богами, весьма далёкими от Константинополя.",
-      "era": "AD",
-      "latitude": 41.01915336,
-      "longitude": 28.92399788,
-      "name": "Sworn by Sword and Thunder-God: The Rus Oath of 907",
-      "name_ru": "Клятва мечом и Перуном: клятва руси 907 года",
-      "source": "https://en.wikipedia.org/wiki/Rus%27%E2%80%93Byzantine_Treaty_(907)",
-      "tags": [
-        "Byzantine",
-        "Norman",
-        "Rus",
-        "Kyiv",
-        "Pagan",
-        "Customs"
-      ],
-      "type": "religious"
-    },
-    {
-      "date": "01.01.0922",
-      "description": "In 922, the Baghdad envoy Ahmad ibn Fadlan reached the Volga Bulgar capital and there encountered Rus merchants trading furs and slaves along the same river route that had linked the Rus to the Islamic world for nearly a century. His account of a chieftain's funeral is the most detailed eyewitness description of Rus death customs to survive. The dead man's ship was hauled ashore and filled with grave goods, food, weapons, and sacrificed animals; his household then asked which of his slave girls would volunteer to die with him. One agreed, and for ten days lived in a state of ritual celebration, visiting each tent of the encampment before being killed aboard the ship, which was then set ablaze. A bystander told Ibn Fadlan the Arabs were foolish to bury their most honored dead in the ground to be eaten by worms, when fire returned them to paradise at once.",
-      "description_ru": "В 922 году багдадский посол Ахмад ибн Фадлан достиг столицы Волжской Булгарии и встретил там купцов-русов, торговавших мехами и рабами по тому же волжскому пути, который почти столетие связывал русов с исламским миром. Его рассказ о похоронах знатного руса — самое подробное свидетельство очевидца о погребальных обычаях русов, дошедшее до наших дней. Корабль умершего вытащили на берег и наполнили погребальными дарами, едой, оружием и жертвенными животными; затем его домочадцы спросили, кто из рабынь согласится умереть вместе с ним. Одна согласилась и десять дней провела в состоянии ритуального празднества, посещая каждый шатёр становища, прежде чем её убили на борту корабля, который затем подожгли. Один из присутствующих сказал Ибн Фадлану, что арабы поступают глупо, закапывая самых почитаемых мертвецов в землю на съедение червям, тогда как огонь сразу же переносит их в рай.",
-      "era": "AD",
-      "latitude": 55.8,
-      "longitude": 49.1,
-      "name": "Ibn Fadlan Witnesses a Rus Ship Funeral on the Volga",
-      "name_ru": "Ибн Фадлан становится свидетелем похорон руса на Волге",
-      "source": "https://en.wikipedia.org/wiki/Ahmad_ibn_Fadlan",
-      "tags": [
-        "Rus",
-        "Trade",
-        "Burial",
-        "Customs",
-        "Culture",
-        "Arabian",
-        "Islamic",
-        "Bulgarian"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.0996",
-      "description": "After completing the Church of the Tithes in Kyiv in 996, Vladimir marked the occasion the way a Rus prince was expected to: with a feast so large it became legend. The Primary Chronicle describes him holding great banquets for his boyars, his retinue, and ordinary townspeople alike, and sending carts loaded with bread, meat, fish, and honeyed drink through the streets for the sick and the poor who could not come to him. According to the story, when his warriors grumbled that they had to eat with wooden spoons instead of silver ones, Vladimir had silver spoons forged for them at once, reasoning that silver and gold could never buy a loyal retinue, while a loyal retinue would always win him silver and gold, just as it had for his father and grandfather before him. The anecdote captures how thoroughly a prince's authority in Rus rested on generosity, not just conquest.",
-      "description_ru": "Завершив в 996 году строительство Десятинной церкви в Киеве, Владимир отметил это событие так, как и подобало князю Руси, — пиром, ставшим легендой. Повесть временных лет описывает, как он устраивал огромные застолья для бояр, дружины и простых горожан, а по улицам развозили телеги с хлебом, мясом, рыбой и медовым питьём для больных и бедных, которые не могли явиться к нему сами. Согласно преданию, когда его воины стали роптать, что едят деревянными ложками вместо серебряных, Владимир немедленно велел выковать для них серебряные ложки, рассудив, что серебром и золотом верную дружину не купить, зато верная дружина всегда добудет ему серебро и золото — как это было при его отце и деде. Этот эпизод показывает, насколько власть князя на Руси держалась на щедрости, а не только на завоеваниях.",
-      "era": "AD",
-      "latitude": 50.45782847,
-      "longitude": 30.5174607,
-      "name": "Vladimir's Feast and the Silver Spoons",
-      "name_ru": "Пир Владимира и серебряные ложки",
-      "source": "https://en.wikipedia.org/wiki/Vladimir_the_Great",
-      "tags": [
-        "Customs",
-        "Culture",
-        "Vladimir 👑",
-        "Kyiv",
-        "Rus"
-      ],
-      "type": "cultural"
-    },
-    {
-      "date": "01.01.1071",
-      "description": "Eighty-two years after Novgorod's forced conversion, a famine-stricken crowd gathered around a volkhv — a pagan priest and diviner — who claimed he could see which women were secretly hoarding grain through witchcraft. He began naming names, and mobs dragged the accused from their homes to be killed, while the volkhv's following grew into open defiance of the Christian prince's authority in the city. Prince Gleb Svyatoslavich confronted him directly, asking whether he truly knew the future; when the volkhv boasted that he could perform miracles, Gleb hid an axe beneath his cloak and struck him dead on the spot, ending the uprising instantly. The episode, recorded in the Primary Chronicle a full century after Vladimir's baptism of Rus, shows how shallow that conversion still ran outside the princely court, and how readily crisis could summon the old gods back to the surface.",
-      "description_ru": "Спустя восемьдесят два года после насильственного крещения Новгорода, во время голода, вокруг волхва — языческого жреца и провидца — собралась толпа; он утверждал, что колдовством способен распознать женщин, тайно припрятавших зерно. Он принялся называть имена, и толпы вытаскивали обвинённых из домов и убивали их, а число сторонников волхва росло, превращаясь в открытый вызов власти христианского князя в городе. Князь Глеб Святославич лично вышел к нему и спросил, действительно ли тот знает будущее; когда волхв похвастался, что способен творить чудеса, Глеб спрятал под плащом топор и зарубил его на месте, мгновенно положив конец восстанию. Этот эпизод, записанный в Повести временных лет спустя целый век после крещения Руси Владимиром, показывает, насколько поверхностно оно всё ещё укоренилось за пределами княжеского двора и как легко кризис мог вернуть на поверхность старых богов.",
-      "era": "AD",
-      "latitude": 58.52129089,
-      "longitude": 31.27528667,
-      "name": "The Novgorod Volkhv Uprising",
-      "name_ru": "Восстание волхвов в Новгороде",
-      "source": "https://en.wikipedia.org/wiki/Volkhv",
-      "tags": [
-        "Rebellion",
-        "Pagan",
-        "Novgorod",
-        "Crisis",
-        "Legend",
-        "Christian"
-      ],
-      "type": "religious"
     }
   ],
   "filename": "BC7_rus_history.json"

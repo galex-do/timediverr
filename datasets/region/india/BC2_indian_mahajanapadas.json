@@ -14,8 +14,8 @@
       "tags": [
         "Indian",
         "Hinduism",
-        "Medicine",
         "Oral Tradition",
+        "Medicine",
         "Science",
         "Vedic"
       ],
@@ -33,11 +33,11 @@
       "source": "https://en.wikipedia.org/wiki/Vajjian_Confederacy",
       "tags": [
         "Indian",
+        "Vaishali",
         "City-State",
-        "Democracy",
         "Political",
-        "Republic",
-        "Vaishali"
+        "Democracy",
+        "Republic"
       ],
       "type": "political"
     },
@@ -53,8 +53,8 @@
       "source": "https://en.wikipedia.org/wiki/Mahavira",
       "tags": [
         "Indian",
-        "Jainism",
-        "Religious"
+        "Religious",
+        "Jainism"
       ],
       "type": "religious"
     },
@@ -70,9 +70,9 @@
       "source": "https://en.wikipedia.org/wiki/Kevala_Jnana",
       "tags": [
         "Indian",
+        "Religious",
         "Jainism",
-        "Philosophy",
-        "Religious"
+        "Philosophy"
       ],
       "type": "religious"
     },
@@ -88,10 +88,10 @@
       "source": "https://en.wikipedia.org/wiki/Ahimsa_in_Jainism",
       "tags": [
         "Indian",
-        "Customs",
+        "Religious",
         "Jainism",
         "Philosophy",
-        "Religious"
+        "Customs"
       ],
       "type": "religious"
     },
@@ -107,11 +107,11 @@
       "source": "https://en.wikipedia.org/wiki/Ajivika",
       "tags": [
         "Indian",
-        "Determinism",
-        "Fatalism",
-        "Philosophy",
         "Religious",
-        "Sect"
+        "Sect",
+        "Philosophy",
+        "Determinism",
+        "Fatalism"
       ],
       "type": "religious"
     },
@@ -127,10 +127,10 @@
       "source": "https://en.wikipedia.org/wiki/Bimbisara",
       "tags": [
         "Indian",
-        "King",
-        "Expansion",
+        "Magadha",
         "Kingdom",
-        "Magadha"
+        "King",
+        "Expansion"
       ],
       "type": "political"
     },
@@ -145,12 +145,12 @@
       "name_ru": "Великое отречение Сиддхартхи",
       "source": "https://en.wikipedia.org/wiki/Gautama_Buddha",
       "tags": [
-        "Indian",
-        "Legend",
-        "Buddha 👤",
         "Milestone ⭐️",
+        "Indian",
         "Religious",
-        "Buddhism"
+        "Buddhism",
+        "Legend",
+        "Buddha 👤"
       ],
       "type": "religious"
     },
@@ -166,11 +166,11 @@
       "source": "https://en.wikipedia.org/wiki/Bodh_Gaya",
       "tags": [
         "Indian",
-        "Legend",
-        "Buddha 👤",
-        "Holy Site",
         "Religious",
-        "Buddhism"
+        "Buddhism",
+        "Holy Site",
+        "Legend",
+        "Buddha 👤"
       ],
       "type": "religious"
     },
@@ -186,11 +186,11 @@
       "source": "https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta",
       "tags": [
         "Indian",
-        "Buddha 👤",
+        "Religious",
+        "Buddhism",
         "Holy Site",
         "Philosophy",
-        "Religious",
-        "Buddhism"
+        "Buddha 👤"
       ],
       "type": "religious"
     },
@@ -229,9 +229,9 @@
         "Greek",
         "Persian",
         "Indian",
+        "Trade",
         "Exploration",
-        "Indus Valley",
-        "Trade"
+        "Indus Valley"
       ],
       "type": "historic"
     },
@@ -248,10 +248,10 @@
       "tags": [
         "Indian",
         "City",
-        "Education",
-        "Hinduism",
         "Religious",
-        "Trade"
+        "Hinduism",
+        "Trade",
+        "Education"
       ],
       "type": "cultural"
     },
@@ -267,11 +267,11 @@
       "source": "https://en.wikipedia.org/wiki/Samkhya",
       "tags": [
         "Indian",
-        "Cosmology",
-        "Dualism",
-        "Literature",
         "Magadha",
-        "Philosophy"
+        "Literature",
+        "Philosophy",
+        "Cosmology",
+        "Dualism"
       ],
       "type": "scientific"
     },
@@ -287,12 +287,13 @@
       "source": "https://en.wikipedia.org/wiki/Ajatashatru",
       "tags": [
         "Indian",
-        "King",
-        "Expansion",
-        "Kingdom",
         "Magadha",
+        "Kingdom",
+        "King",
+        "Assassination",
+        "Expansion",
         "Overthrow",
-        "Son Kills Father"
+        "Regicide"
       ],
       "type": "political"
     },
@@ -308,9 +309,9 @@
       "source": "https://en.wikipedia.org/wiki/Pataliputra",
       "tags": [
         "Indian",
+        "Magadha",
         "Capital",
-        "Kingdom",
-        "Magadha"
+        "Kingdom"
       ],
       "type": "political"
     },
@@ -326,10 +327,10 @@
       "source": "https://en.wikipedia.org/wiki/First_Buddhist_council",
       "tags": [
         "Indian",
-        "Council",
         "Magadha",
         "Religious",
-        "Buddhism"
+        "Buddhism",
+        "Council"
       ],
       "type": "religious"
     },
@@ -345,11 +346,11 @@
       "source": "https://en.wikipedia.org/wiki/Parinirvana",
       "tags": [
         "Indian",
-        "Buddha 👤",
-        "Death",
-        "Holy Site",
         "Religious",
-        "Buddhism"
+        "Buddhism",
+        "Holy Site",
+        "Death",
+        "Buddha 👤"
       ],
       "type": "religious"
     },
@@ -365,9 +366,9 @@
       "source": "https://en.wikipedia.org/wiki/Three_marks_of_existence",
       "tags": [
         "Indian",
-        "Philosophy",
         "Religious",
-        "Buddhism"
+        "Buddhism",
+        "Philosophy"
       ],
       "type": "religious"
     },
@@ -383,10 +384,10 @@
       "source": "https://en.wikipedia.org/wiki/Ajatashatru",
       "tags": [
         "Indian",
+        "Magadha",
         "War",
         "Battle",
         "Engineering ⚙️",
-        "Magadha",
         "Military",
         "Science",
         "Siege",
@@ -406,12 +407,12 @@
       "source": "https://en.wikipedia.org/wiki/Vajjian_Confederacy",
       "tags": [
         "Indian",
+        "Magadha",
+        "Vaishali",
+        "Kingdom",
         "War",
         "Battle",
-        "Kingdom",
-        "Magadha",
-        "Siege",
-        "Vaishali"
+        "Siege"
       ],
       "type": "military"
     },
@@ -428,8 +429,8 @@
       "tags": [
         "Indian",
         "Culture",
-        "Materialism",
-        "Philosophy"
+        "Philosophy",
+        "Materialism"
       ],
       "type": "cultural"
     },
@@ -445,8 +446,8 @@
       "source": "https://en.wikipedia.org/wiki/Shishunaga_dynasty",
       "tags": [
         "Indian",
-        "Kingdom",
         "Magadha",
+        "Kingdom",
         "Overthrow"
       ],
       "type": "political"
@@ -463,10 +464,10 @@
       "source": "https://en.wikipedia.org/wiki/Bhagavatism",
       "tags": [
         "Indian",
-        "Culture",
-        "Hinduism",
-        "Philosophy",
         "Religious",
+        "Hinduism",
+        "Culture",
+        "Philosophy",
         "Vaishnavism"
       ],
       "type": "religious"
@@ -502,11 +503,11 @@
       "source": "https://en.wikipedia.org/wiki/Second_Buddhist_council",
       "tags": [
         "Indian",
-        "Council",
         "Religious",
-        "Schism",
         "Buddhism",
         "Mahayana",
+        "Council",
+        "Schism",
         "Theravada"
       ],
       "type": "religious"
@@ -523,9 +524,9 @@
       "source": "https://en.wikipedia.org/wiki/Anekantavada",
       "tags": [
         "Indian",
+        "Religious",
         "Jainism",
         "Philosophy",
-        "Religious",
         "Tolerance"
       ],
       "type": "religious"
@@ -542,9 +543,9 @@
       "source": "https://en.wikipedia.org/wiki/Nanda_Empire",
       "tags": [
         "Indian",
-        "Expansion",
-        "Kingdom",
         "Magadha",
+        "Kingdom",
+        "Expansion",
         "Overthrow"
       ],
       "type": "political"
@@ -562,8 +563,8 @@
       "tags": [
         "Greek",
         "Indian",
-        "Alexander the Great 👤",
         "Conquest",
+        "Alexander the Great 👤",
         "Expansion"
       ],
       "type": "military"
@@ -583,8 +584,8 @@
         "Indian",
         "Diadochi",
         "Crisis",
-        "Political",
-        "Rebellion"
+        "Rebellion",
+        "Political"
       ],
       "type": "historic"
     }

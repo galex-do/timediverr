@@ -72,8 +72,8 @@
         "Islamic",
         "Culture",
         "Political",
-        "Reform",
-        "Law"
+        "Law",
+        "Reform"
       ],
       "type": "political"
     },
@@ -265,6 +265,8 @@
       "source": "https://en.wikipedia.org/wiki/Caliphate_of_C%C3%B3rdoba#Society",
       "tags": [
         "Iberia",
+        "Arabian",
+        "Berber",
         "Cordoba",
         "Umayyad",
         "Islamic",

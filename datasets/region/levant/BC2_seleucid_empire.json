@@ -15,10 +15,10 @@
         "Greek",
         "Macedonian",
         "Seleucid",
+        "Foundation",
         "Diadochi",
         "War",
         "Conquest",
-        "Foundation",
         "Seleucus I 👑"
       ],
       "type": "political"
@@ -36,9 +36,9 @@
       "tags": [
         "Greek",
         "Seleucid",
+        "Capital",
         "City",
         "Administration",
-        "Capital",
         "Seleucus I 👑"
       ],
       "type": "historic"
@@ -60,9 +60,9 @@
         "War",
         "Diplomacy",
         "Marriage",
+        "Mauryan",
         "Chandragupta 👑",
         "Elephants",
-        "Mauryan",
         "Peace",
         "Seleucus I 👑"
       ],
@@ -85,8 +85,8 @@
         "Diadochi",
         "War",
         "Battle",
-        "Anatolia",
         "Death",
+        "Anatolia",
         "Elephants",
         "Seleucus I 👑",
         "Syria"
@@ -106,8 +106,8 @@
       "tags": [
         "Greek",
         "Seleucid",
-        "City",
         "Capital",
+        "City",
         "Seleucus I 👑"
       ],
       "type": "historic"
@@ -146,8 +146,8 @@
         "Seleucid",
         "Diadochi",
         "War",
-        "Assassination",
         "Death",
+        "Assassination",
         "Seleucus I 👑"
       ],
       "type": "political"
@@ -159,8 +159,8 @@
       "era": "BC",
       "latitude": 38.54695,
       "longitude": 27.61293,
-      "name": "Battle of Corupedium",
-      "name_ru": "Битва при Курупедионе",
+      "name": "Seleucid Triumph at Corupedium",
+      "name_ru": "Триумф Селевкидов при Курупедионе",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Corupedium",
       "tags": [
         "Greek",
@@ -168,8 +168,8 @@
         "Seleucid",
         "Diadochi",
         "War",
-        "Battle",
         "Conquest",
+        "Battle",
         "Death",
         "Seleucus I 👑"
       ],
@@ -261,8 +261,8 @@
       "era": "BC",
       "latitude": 36.2034,
       "longitude": 36.1639,
-      "name": "Reign of Antiochus II Theos",
-      "name_ru": "Антиох II Теос - царь Селевкидов",
+      "name": "Reign of Antiochus II Theos in Seleucid Empire",
+      "name_ru": "Антиох II Теос — царь Селевкидов",
       "source": "https://en.wikipedia.org/wiki/Antiochus_II_Theos",
       "tags": [
         "Greek",
@@ -328,10 +328,10 @@
       "tags": [
         "Greek",
         "Seleucid",
+        "Rebellion",
         "Decline",
         "Greco-Bactria",
-        "Independence",
-        "Rebellion"
+        "Independence"
       ],
       "type": "political"
     },
@@ -347,12 +347,12 @@
       "source": "https://en.wikipedia.org/wiki/Arsaces_I_of_Parthia",
       "tags": [
         "Parthian",
-        "Arsacid",
         "Seleucid",
         "War",
-        "Dynasty",
         "Conquest",
-        "Rebellion"
+        "Rebellion",
+        "Arsacid",
+        "Dynasty"
       ],
       "type": "political"
     },
@@ -409,9 +409,9 @@
       "tags": [
         "Greek",
         "Seleucid",
-        "Assassination",
         "Crisis",
-        "Death"
+        "Death",
+        "Assassination"
       ],
       "type": "political"
     },
@@ -486,8 +486,8 @@
       "tags": [
         "Greek",
         "Seleucid",
-        "Antiochus III 👑",
-        "Rebellion"
+        "Rebellion",
+        "Antiochus III 👑"
       ],
       "type": "military"
     },
@@ -515,8 +515,8 @@
     },
     {
       "date": "22.06.0217",
-      "description": "Battle of Raphia in Gaza; Ptolemy IV Philopator defeats Antiochus III's larger army using newly trained native Egyptian phalanx - the first time Egyptians fought as hoplites. This ends Antiochus's first attempt to conquer Coele-Syria",
-      "description_ru": "Битва при Рафии в Газе; Птолемей IV Филопатор побеждает более крупную армию Антиоха III, используя недавно обученную местную египетскую фалангу - впервые египтяне сражаются как гоплиты. Это поражение срывает первую попытку Антиоха завоевать Келесирию (Палестину)",
+      "description": "At Raphia, near the Egypt-Judaea frontier, Ptolemy IV Philopator won the largest battle fought by any of Alexander's successor kingdoms, turning back Antiochus III's invasion of Coele-Syria with roughly seventy thousand infantry on each side. For the first time, Ptolemy armed and trained twenty thousand native Egyptians as phalangites alongside his Greek and Macedonian troops, and their discipline helped decide the day. \n\nThe victory secured Egypt's southern Levant for another generation, but it also taught native Egyptians they could fight and win as soldiers — a lesson that would return to haunt the dynasty within a decade.",
+      "description_ru": "У Рафии, близ границы Египта с Иудеей, Птолемей IV Филопатор выиграл крупнейшее сражение среди всех эллинистических царств-преемников Александра, остановив вторжение Антиоха III в Келесирию силами примерно по семьдесят тысяч пехотинцев с каждой стороны. Впервые Птолемей вооружил и обучил двадцать тысяч коренных египтян как фалангитов наравне с греческими и македонскими войсками, и их выучка во многом решила исход битвы. \n\nПобеда закрепила за Египтом южный Левант ещё на поколение вперёд, но заодно показала коренным египтянам, что они способны сражаться и побеждать как воины, — урок, который аукнется династии уже через десять лет.",
       "era": "BC",
       "latitude": 31.29,
       "longitude": 34.25,
@@ -549,8 +549,8 @@
       "tags": [
         "Greek",
         "Seleucid",
-        "Antiochus III 👑",
         "Conquest",
+        "Antiochus III 👑",
         "Expedition"
       ],
       "type": "military"
@@ -570,8 +570,8 @@
         "Parthian",
         "Seleucid",
         "War",
-        "Antiochus III 👑",
         "Conquest",
+        "Antiochus III 👑",
         "Vassalage"
       ],
       "type": "military"
@@ -590,9 +590,9 @@
         "Greek",
         "Seleucid",
         "War",
+        "Conquest",
         "Battle",
         "Antiochus III 👑",
-        "Conquest",
         "Greco-Bactria",
         "Tactics"
       ],
@@ -654,8 +654,8 @@
         "Macedonian",
         "Ptolemaic",
         "Seleucid",
-        "War",
         "Alliance",
+        "War",
         "Antiochus III 👑",
         "Conspiracy",
         "Syrian Wars"
@@ -678,9 +678,9 @@
         "Ptolemaic",
         "Seleucid",
         "War",
+        "Conquest",
         "Battle",
         "Antiochus III 👑",
-        "Conquest",
         "Palestine",
         "Syrian Wars"
       ],
@@ -715,16 +715,16 @@
       "era": "BC",
       "latitude": 38.9,
       "longitude": 22.4,
-      "name": "Antiochus III Invades Greece",
-      "name_ru": "Антиох III вторгается в Грецию",
+      "name": "Antiochus III Seleucid Invades Greece",
+      "name_ru": "Антиох III Селевкид вторгается в Грецию",
       "source": "https://en.wikipedia.org/wiki/Roman%E2%80%93Seleucid_War",
       "tags": [
         "Greek",
         "Roman",
         "Macedonian",
         "Seleucid",
-        "War",
         "Alliance",
+        "War",
         "Antiochus III 👑"
       ],
       "type": "military"
@@ -736,8 +736,8 @@
       "era": "BC",
       "latitude": 38.8,
       "longitude": 22.55,
-      "name": "Battle of Thermopylae (191 BC)",
-      "name_ru": "Битва при Фермопилах (191 до н.э.)",
+      "name": "Rome defeats the Seleucids at Thermopylae",
+      "name_ru": "Рим побеждает Селевкидов при Фермопилах",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Thermopylae_(191_BC)",
       "tags": [
         "Greek",
@@ -808,10 +808,10 @@
       "tags": [
         "Greek",
         "Seleucid",
-        "Antiochus III 👑",
+        "Pillage",
         "Death",
-        "Murder",
-        "Pillage"
+        "Antiochus III 👑",
+        "Murder"
       ],
       "type": "political"
     },
@@ -833,49 +833,6 @@
       "type": "political"
     },
     {
-      "date": "01.01.0170",
-      "description": "Sixth Syrian War begins; Antiochus IV invades Egypt, defeating Ptolemaic forces and capturing young Ptolemy VI. He comes close to conquering all Egypt, the first Seleucid to do so since the empire's founding",
-      "description_ru": "Начинается Шестая Сирийская война; Антиох IV вторгается в Египет, побеждая птолемеевские силы и захватывая молодого Птолемея VI. Он близок к завоеванию всего Египта - первый Селевкид со времён основания империи, достигший этого",
-      "era": "BC",
-      "latitude": 31.206667,
-      "longitude": 29.900278,
-      "name": "Sixth Syrian War - Invasion of Egypt",
-      "name_ru": "Вторжение Селевкидов в Египет",
-      "source": "https://en.wikipedia.org/wiki/Sixth_Syrian_War",
-      "tags": [
-        "Greek",
-        "Egypt",
-        "Ptolemaic",
-        "Seleucid",
-        "War",
-        "Invasion",
-        "Syrian Wars"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.01.0168",
-      "description": "Eleusis Day. The army of the legate Gaius Popillius Laenas surrounded the army of Antiochus IV near Alexandria. Laenas draws a circle in the sand around Antiochus and demands that Antiochus decide to retreat from Egypt before leaving the circle. Antiochus suffers humiliation at the hands of the Romans and leaves Egypt with his army.",
-      "description_ru": "День Элевсиса. Войско легата Гая Попиллия Лената окружает войско Антиоха IV под Александрией. Ленат чертит круг на песке вокруг Антиоха и требует, чтобы Антиох принял решение об отступлении из Египта, прежде чем покинет круг. Антиох терпит унижение от римлян и покидает Египет с армией",
-      "era": "BC",
-      "latitude": 31.2,
-      "longitude": 30,
-      "name": "Day of Eleusis",
-      "name_ru": "Ультиматум Рима Селевкидам в Египте",
-      "source": "https://en.wikipedia.org/wiki/Syrian_Wars#Sixth_War",
-      "tags": [
-        "Greek",
-        "Roman",
-        "Egypt",
-        "Seleucid",
-        "War",
-        "Diplomacy",
-        "Retreat",
-        "Syrian Wars"
-      ],
-      "type": "political"
-    },
-    {
       "date": "01.12.0167",
       "description": "Antiochus IV desecrates the Jerusalem Temple, erecting altar to Zeus Olympios and banning Jewish religious practices including circumcision and Sabbath observance; this 'Abomination of Desolation' triggers the Maccabean Revolt",
       "description_ru": "Антиох IV оскверняет Иерусалимский храм, воздвигая алтарь Зевсу Олимпийскому и запрещая иудейские религиозные практики, включая обрезание и соблюдение субботы; эта 'мерзость запустения' вызывает Маккавейское восстание",
@@ -887,14 +844,14 @@
       "source": "https://en.wikipedia.org/wiki/Antiochus_IV_Epiphanes",
       "tags": [
         "Greek",
-        "Judaic",
         "Israel",
         "Jerusalem",
+        "Judaic",
         "Seleucid",
+        "Religious",
+        "Blasphemy",
         "Maccabean",
         "War",
-        "Blasphemy",
-        "Religious",
         "Temple"
       ],
       "type": "religious"
@@ -911,13 +868,13 @@
       "source": "https://en.wikipedia.org/wiki/Maccabean_Revolt",
       "tags": [
         "Greek",
-        "Judaic",
         "Israel",
+        "Judaic",
         "Seleucid",
+        "Religious",
         "Maccabean",
         "War",
-        "Rebellion",
-        "Religious"
+        "Rebellion"
       ],
       "type": "military"
     },
@@ -933,8 +890,8 @@
       "source": "https://en.wikipedia.org/wiki/Battle_of_Beth_Horon_(166_BC)",
       "tags": [
         "Greek",
-        "Judaic",
         "Israel",
+        "Judaic",
         "Seleucid",
         "Maccabean",
         "War",
@@ -955,15 +912,15 @@
       "source": "https://en.wikipedia.org/wiki/Hanukkah",
       "tags": [
         "Greek",
-        "Judaic",
         "Israel",
         "Jerusalem",
+        "Judaic",
         "Seleucid",
+        "Religious",
         "Maccabean",
         "War",
-        "Holidays",
-        "Religious",
-        "Temple"
+        "Temple",
+        "Holidays"
       ],
       "type": "religious"
     },
@@ -980,8 +937,8 @@
       "tags": [
         "Greek",
         "Seleucid",
-        "King",
         "Crisis",
+        "King",
         "Death",
         "Decline",
         "Disease"
@@ -1021,10 +978,10 @@
       "source": "https://en.wikipedia.org/wiki/Mithridates_I_of_Parthia",
       "tags": [
         "Parthian",
-        "Arsacid",
         "Seleucid",
         "War",
         "Conquest",
+        "Arsacid",
         "Mithridates I 👑"
       ],
       "type": "military"
@@ -1062,11 +1019,11 @@
       "tags": [
         "Greek",
         "Parthian",
-        "Arsacid",
         "Seleucid",
-        "War",
         "Capital",
+        "War",
         "Conquest",
+        "Arsacid",
         "Fall",
         "Mithridates I 👑"
       ],
@@ -1123,10 +1080,10 @@
       "tags": [
         "Greek",
         "Parthian",
-        "Arsacid",
         "Seleucid",
         "War",
         "Battle",
+        "Arsacid",
         "Death",
         "End"
       ],
@@ -1187,8 +1144,8 @@
         "Armenian",
         "Seleucid",
         "Civil War",
-        "War",
-        "Crisis"
+        "Crisis",
+        "War"
       ],
       "type": "political"
     },
@@ -1206,10 +1163,10 @@
         "Greek",
         "Roman",
         "Seleucid",
-        "War",
-        "Annexation",
         "Capital",
+        "War",
         "Conquest",
+        "Annexation",
         "Pompey the Great 👤",
         "Syria"
       ],

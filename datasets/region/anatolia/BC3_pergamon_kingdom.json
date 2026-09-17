@@ -54,12 +54,12 @@
       "tags": [
         "Greek",
         "Pergamon",
-        "Building 🏠",
-        "Anatolia",
-        "Architecture",
-        "Pagan",
         "Religious",
-        "Temple"
+        "Pagan",
+        "Architecture",
+        "Building 🏠",
+        "Temple",
+        "Anatolia"
       ],
       "type": "cultural"
     },
@@ -78,8 +78,8 @@
         "Pergamon",
         "Dynasty",
         "King",
-        "Attalid",
-        "Death"
+        "Death",
+        "Attalid"
       ],
       "type": "political"
     },
@@ -90,8 +90,8 @@
       "era": "BC",
       "latitude": 38.4852,
       "longitude": 28.0428,
-      "name": "Pergamon becomes independent",
-      "name_ru": "Пергам становится независимым",
+      "name": "Pergamum gains independence from the Seleucids",
+      "name_ru": "Пергам обретает независимость от Селевкидов",
       "source": "https://en.wikipedia.org/wiki/Eumenes_I",
       "tags": [
         "Greek",
@@ -137,11 +137,11 @@
         "Greek",
         "Celtic",
         "Pergamon",
+        "Thrace",
         "War",
         "Battle",
         "King",
-        "Attalid",
-        "Thrace"
+        "Attalid"
       ],
       "type": "military"
     },
@@ -152,14 +152,14 @@
       "era": "BC",
       "latitude": 39.13175,
       "longitude": 27.18411,
-      "name": "Dying Gaul",
-      "name_ru": "«Умирающий галл»",
+      "name": "Dying Gaul in Pergamon",
+      "name_ru": "«Умирающий галл» в Пергаме",
       "source": "https://en.wikipedia.org/wiki/Dying_Gaul",
       "tags": [
         "Greek",
         "Pergamon",
-        "Art",
         "Culture",
+        "Art",
         "Sculpture"
       ],
       "type": "cultural"
@@ -219,9 +219,9 @@
         "Roman",
         "Macedonian",
         "Pergamon",
+        "Alliance",
         "War",
-        "Diplomacy",
-        "Alliance"
+        "Diplomacy"
       ],
       "type": "political"
     },
@@ -258,10 +258,29 @@
         "Pergamon",
         "Dynasty",
         "King",
-        "Attalid",
-        "Death"
+        "Death",
+        "Attalid"
       ],
       "type": "political"
+    },
+    {
+      "date": "01.01.0190",
+      "description": "The city was founded by King Eumenes II. The name \"Hierapolis\" is purely Greek (Ἱεράπολις) and translates as \"Holy City.\" According to one theory, it was named for its abundance of temples; another suggests it was named in honor of Hiera, the mythical Amazon queen and wife of the founder of Pergamon. Greek physicians quickly recognized the healing properties of the local hot mineral springs — with temperatures around 35–36°C — and began actively using them to treat their patients.\n\nIn 60 AD, the city was virtually destroyed by a massive earthquake. The Romans rebuilt it, but did so according to their own scale and standards.",
+      "description_ru": "Город был основан царем Эвменом II. Слово «Иераполис» — чисто греческое (Ἱεράπολις) и переводится как «Священный город». По одной из версий, его назвали так из-за обилия храмов, по другой — в честь Гиеры, мифической королевы амазонок и жены основателя Пергама. Греческие врачи быстро оценили целебные свойства местных горячих минеральных источников (температурой около 35–36 °C) и начали активно использовать их для лечения своих пациентов.\n\nВ 60 году н. э. город был практически до основания разрушен мощнейшим землетрясением. Римляне отстроили его заново, но уже по своим масштабам и стандартам.",
+      "era": "BC",
+      "latitude": 37.9267999,
+      "longitude": 29.12902594,
+      "name": "Hierapolis — health resort of Pergamon",
+      "name_ru": "Иераполь — курорт-здравница Пергама",
+      "source": "https://en.wikipedia.org/wiki/Hierapolis",
+      "tags": [
+        "Greek",
+        "Pergamon",
+        "City",
+        "Recreation",
+        "Healthcare"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.0188",
@@ -299,9 +318,9 @@
       "tags": [
         "Greek",
         "Pergamon",
+        "Culture",
         "Building 🏠",
         "Anatolia",
-        "Culture",
         "Library"
       ],
       "type": "cultural"
@@ -341,11 +360,11 @@
       "tags": [
         "Greek",
         "Pergamon",
-        "Building 🏠",
-        "Anatolia",
-        "Architecture",
         "Art",
-        "Temple"
+        "Architecture",
+        "Building 🏠",
+        "Temple",
+        "Anatolia"
       ],
       "type": "cultural"
     },
@@ -362,9 +381,9 @@
       "tags": [
         "Greek",
         "Pergamon",
+        "Architecture",
         "Building 🏠",
         "Anatolia",
-        "Architecture",
         "Healthcare",
         "Medicine"
       ],
@@ -444,11 +463,30 @@
         "Greek",
         "Pergamon",
         "Athens",
-        "Building 🏠",
+        "Culture",
         "Architecture",
-        "Culture"
+        "Building 🏠"
       ],
       "type": "cultural"
+    },
+    {
+      "date": "01.01.0159",
+      "description": "Antalya was founded by the Pergamon King Attalos II and was originally called Attaleia. King Attalos II commanded the search for \"paradise on earth,\" and his subjects chose the picturesque coastline. The establishment of a powerful fortress and port in Pamphylia (the ancient region where Antalya is located) allowed Pergamon to establish itself on the southern coast of Anatolia. The city became a naval base, protecting merchant ships and helping control the sea routes between the Aegean Sea, the Levant, and Egypt.",
+      "description_ru": "Анталья была основана пергамским царем Атталом II и изначально называлась Атталея. Царь Аттал II приказал найти «рай на земле», и его подданные выбрали живописное побережье. Основание мощной крепости и порта в Памфилии (древний регион, где находится Анталья) позволило Пергаму закрепиться на южном побережье Анатолии. Город стал военно-морской базой, которая защищала торговые корабли и помогала контролировать морские пути между Эгейским морем, Левантом и Египтом",
+      "era": "BC",
+      "latitude": 36.88131982,
+      "longitude": 30.70363283,
+      "name": "Pergamum founds Attaleia",
+      "name_ru": "Пергам основывает Атталею",
+      "source": "https://en.wikipedia.org/wiki/Antalya",
+      "tags": [
+        "Greek",
+        "Pergamon",
+        "City",
+        "Expansion",
+        "Maritime"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.0159",
@@ -482,12 +520,12 @@
       "tags": [
         "Greek",
         "Pergamon",
-        "Building 🏠",
-        "Architecture",
-        "Attalid",
-        "Commerce",
         "Culture",
-        "Trade"
+        "Architecture",
+        "Building 🏠",
+        "Trade",
+        "Attalid",
+        "Commerce"
       ],
       "type": "cultural"
     },

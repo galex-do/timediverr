@@ -104,8 +104,8 @@
       "tags": [
         "Phrygian",
         "City",
-        "Art",
-        "Culture"
+        "Culture",
+        "Art"
       ],
       "type": "cultural"
     },
@@ -121,11 +121,11 @@
       "source": "https://en.wikipedia.org/wiki/Aulos",
       "tags": [
         "Phrygian",
+        "Religious",
         "Culture",
-        "Innovation",
         "Music",
         "Mystery",
-        "Religious"
+        "Innovation"
       ],
       "type": "cultural"
     },
@@ -140,9 +140,9 @@
       "name_ru": "Миляс становится центром Карии",
       "source": "https://en.wikipedia.org/wiki/Mylasa",
       "tags": [
-        "City",
-        "Capital",
         "Carian",
+        "Capital",
+        "City",
         "Religious",
         "Temple"
       ],
@@ -160,10 +160,10 @@
       "source": "https://en.wikipedia.org/wiki/Sardis",
       "tags": [
         "Lydia",
-        "City",
-        "Anatolia",
         "Capital",
-        "Trade"
+        "City",
+        "Trade",
+        "Anatolia"
       ],
       "type": "historic"
     },
@@ -179,12 +179,12 @@
       "source": "https://en.wikipedia.org/wiki/Cybele",
       "tags": [
         "Phrygian",
-        "Celestial",
-        "Culture",
+        "Religious",
+        "Pagan",
         "Divination",
         "Mother of God",
-        "Pagan",
-        "Religious"
+        "Culture",
+        "Celestial"
       ],
       "type": "religious"
     },
@@ -200,9 +200,9 @@
       "source": "https://en.wikipedia.org/wiki/Phrygia",
       "tags": [
         "Phrygian",
-        "Dynasty",
-        "Foundation",
         "Kingdom",
+        "Foundation",
+        "Dynasty",
         "Trade"
       ],
       "type": "political"
@@ -220,9 +220,9 @@
       "tags": [
         "Greek",
         "Lydia",
+        "Kingdom",
         "Dynasty",
-        "Heraclid",
-        "Kingdom"
+        "Heraclid"
       ],
       "type": "political"
     },
@@ -239,8 +239,8 @@
       "tags": [
         "Lydia",
         "Gold",
-        "Innovation",
         "Metallurgy",
+        "Innovation",
         "Science",
         "Technology"
       ],
@@ -260,8 +260,8 @@
         "Phrygian",
         "Art",
         "Craft",
-        "Technology",
-        "Wood"
+        "Wood",
+        "Technology"
       ],
       "type": "cultural"
     },
@@ -278,9 +278,9 @@
       "tags": [
         "Phrygian",
         "Art",
-        "Bronze",
         "Craft",
         "Metallurgy",
+        "Bronze",
         "Science",
         "Technology"
       ],
@@ -315,11 +315,11 @@
       "source": "https://en.wikipedia.org/wiki/Lydia",
       "tags": [
         "Greek",
+        "Ionian",
         "Lydia",
         "Conquest",
         "Expansion",
         "Heraclid",
-        "Ionian",
         "Tribute"
       ],
       "type": "military"
@@ -336,9 +336,9 @@
       "source": "https://en.wikipedia.org/wiki/Gordion",
       "tags": [
         "Phrygian",
+        "Capital",
         "City",
         "Architecture",
-        "Capital",
         "Palace",
         "Wealth"
       ],
@@ -357,9 +357,9 @@
       "tags": [
         "Greek",
         "Lydia",
+        "Trade",
         "Economic",
-        "Heraclid",
-        "Trade"
+        "Heraclid"
       ],
       "type": "historic"
     },
@@ -396,8 +396,8 @@
         "Greek",
         "Lydia",
         "Culture",
-        "Innovation",
-        "Music"
+        "Music",
+        "Innovation"
       ],
       "type": "cultural"
     },
@@ -413,10 +413,10 @@
       "source": "https://en.wikipedia.org/wiki/Gordian_Knot",
       "tags": [
         "Phrygian",
+        "Culture",
         "Dynasty",
         "King",
-        "Legend",
-        "Culture"
+        "Legend"
       ],
       "type": "cultural"
     },
@@ -434,8 +434,8 @@
         "Phrygian",
         "Dynasty",
         "Legend",
-        "King Midas 👑",
-        "Wealth"
+        "Wealth",
+        "King Midas 👑"
       ],
       "type": "political"
     },
@@ -452,11 +452,11 @@
       "tags": [
         "Greek",
         "Phrygian",
+        "Religious",
+        "Pagan",
         "Diplomacy",
         "King Midas 👑",
-        "Oracle",
-        "Pagan",
-        "Religious"
+        "Oracle"
       ],
       "type": "political"
     },
@@ -491,11 +491,11 @@
       "source": "https://en.wikipedia.org/wiki/Midas",
       "tags": [
         "Phrygian",
-        "Expansion",
         "Fortification",
-        "King Midas 👑",
         "Trade",
-        "Wealth"
+        "Wealth",
+        "Expansion",
+        "King Midas 👑"
       ],
       "type": "military"
     },
@@ -511,13 +511,13 @@
       "source": "https://en.wikipedia.org/wiki/Tumulus_MM",
       "tags": [
         "Phrygian",
-        "Building 🏠",
-        "Anatolia",
         "Architecture",
-        "Engineering ⚙️",
-        "King Midas 👑",
+        "Building 🏠",
         "Tomb",
-        "Wood"
+        "Wood",
+        "Engineering ⚙️",
+        "Anatolia",
+        "King Midas 👑"
       ],
       "type": "historic"
     },
@@ -645,10 +645,10 @@
       "tags": [
         "Cimmerian",
         "Phrygian",
-        "Death",
         "Destruction",
-        "Fall",
         "Invasion",
+        "Death",
+        "Fall",
         "King Midas 👑"
       ],
       "type": "military"
@@ -682,8 +682,8 @@
       "source": "https://en.wikipedia.org/wiki/Gyges_of_Lydia",
       "tags": [
         "Greek",
-        "Lydia",
         "Mermnad",
+        "Lydia",
         "Dynasty",
         "Oracle",
         "Overthrow"
@@ -702,8 +702,8 @@
       "source": "https://en.wikipedia.org/wiki/Gyges_of_Lydia",
       "tags": [
         "Greek",
-        "Lydia",
         "Mermnad",
+        "Lydia",
         "War",
         "Conquest",
         "Expansion"
@@ -722,12 +722,12 @@
       "source": "https://en.wikipedia.org/wiki/Gyges_of_Lydia",
       "tags": [
         "Greek",
-        "Lydia",
         "Mermnad",
-        "Diplomacy",
-        "Oracle",
+        "Lydia",
+        "Religious",
         "Pagan",
-        "Religious"
+        "Diplomacy",
+        "Oracle"
       ],
       "type": "political"
     },
@@ -743,8 +743,8 @@
       "source": "https://en.wikipedia.org/wiki/Gyges_of_Lydia",
       "tags": [
         "Cimmerian",
-        "Lydia",
         "Mermnad",
+        "Lydia",
         "Invasion"
       ],
       "type": "military"
@@ -761,10 +761,10 @@
       "source": "https://en.wikipedia.org/wiki/Gyges_of_Lydia",
       "tags": [
         "Assyrian",
-        "Lydia",
         "Mermnad",
-        "Diplomacy",
-        "Alliance"
+        "Lydia",
+        "Alliance",
+        "Diplomacy"
       ],
       "type": "political"
     },
@@ -780,12 +780,12 @@
       "source": "https://en.wikipedia.org/wiki/Gyges_of_Lydia",
       "tags": [
         "Cimmerian",
-        "Lydia",
         "Mermnad",
+        "Lydia",
         "Battle",
-        "Death",
         "Invasion",
-        "Pillage"
+        "Pillage",
+        "Death"
       ],
       "type": "military"
     },
@@ -800,8 +800,8 @@
       "name_ru": "Ардис — царь Лидии",
       "source": "https://en.wikipedia.org/wiki/Ardys_of_Lydia",
       "tags": [
-        "Lydia",
         "Mermnad",
+        "Lydia",
         "Dynasty",
         "King"
       ],
@@ -820,11 +820,11 @@
       "tags": [
         "Greek",
         "Phrygian",
-        "Culture",
-        "Mother of God",
-        "Mystery",
+        "Religious",
         "Pagan",
-        "Religious"
+        "Mother of God",
+        "Culture",
+        "Mystery"
       ],
       "type": "religious"
     },
@@ -840,8 +840,8 @@
       "source": "https://en.wikipedia.org/wiki/Ardys_of_Lydia",
       "tags": [
         "Cimmerian",
-        "Lydia",
         "Mermnad",
+        "Lydia",
         "War",
         "Invasion"
       ],
@@ -859,8 +859,8 @@
       "source": "https://en.wikipedia.org/wiki/Ardys_of_Lydia",
       "tags": [
         "Greek",
-        "Lydia",
         "Mermnad",
+        "Lydia",
         "War",
         "Conquest"
       ],
@@ -878,9 +878,9 @@
       "source": "https://en.wikipedia.org/wiki/Sadyattes",
       "tags": [
         "Greek",
-        "Lydia",
         "Mermnad",
         "Milesian",
+        "Lydia",
         "War"
       ],
       "type": "military"
@@ -898,8 +898,8 @@
       "tags": [
         "Assyrian",
         "Cimmerian",
-        "Lydia",
-        "Mermnad"
+        "Mermnad",
+        "Lydia"
       ],
       "type": "military"
     },
@@ -914,9 +914,9 @@
       "name_ru": "Лидийское господство над Фригией",
       "source": "https://en.wikipedia.org/wiki/Phrygia",
       "tags": [
-        "Lydia",
         "Phrygian",
         "Mermnad",
+        "Lydia",
         "Vassalage"
       ],
       "type": "political"
@@ -932,8 +932,8 @@
       "name_ru": "Алиатт — царь Лидии",
       "source": "https://en.wikipedia.org/wiki/Alyattes_of_Lydia",
       "tags": [
-        "Lydia",
         "Mermnad",
+        "Lydia",
         "Dynasty",
         "King"
       ],
@@ -951,14 +951,14 @@
       "source": "https://en.wikipedia.org/wiki/Alyattes_of_Lydia",
       "tags": [
         "Greek",
-        "Lydia",
         "Mermnad",
+        "Lydia",
+        "Religious",
+        "Pagan",
         "War",
         "Destruction",
-        "Oracle",
-        "Pagan",
-        "Religious",
-        "Temple"
+        "Temple",
+        "Oracle"
       ],
       "type": "military"
     },
@@ -974,12 +974,12 @@
       "source": "https://en.wikipedia.org/wiki/Alyattes_of_Lydia",
       "tags": [
         "Greek",
-        "Lydia",
         "Mermnad",
+        "Lydia",
         "War",
+        "Temple",
         "Oracle",
         "Peace",
-        "Temple",
         "Treaty"
       ],
       "type": "political"
@@ -995,12 +995,12 @@
       "name_ru": "Изобретение лидийской монеты",
       "source": "https://en.wikipedia.org/wiki/Lydia#Coinage",
       "tags": [
-        "Lydia",
         "Mermnad",
-        "Currency",
+        "Lydia",
+        "Trade",
+        "Currency 🪙",
         "Economic",
-        "Innovation",
-        "Trade"
+        "Innovation"
       ],
       "type": "historic"
     },
@@ -1015,11 +1015,11 @@
       "name_ru": "Учреждение царского монетного двора Лидии",
       "source": "https://en.wikipedia.org/wiki/Lydia",
       "tags": [
-        "Lydia",
         "Mermnad",
-        "Administration",
-        "Currency",
+        "Lydia",
+        "Currency 🪙",
         "Economic",
+        "Administration",
         "Innovation"
       ],
       "type": "historic"
@@ -1037,9 +1037,9 @@
       "tags": [
         "Greek",
         "Lydia",
-        "Currency",
-        "Economic",
-        "Trade"
+        "Trade",
+        "Currency 🪙",
+        "Economic"
       ],
       "type": "historic"
     },
@@ -1054,9 +1054,9 @@
       "name_ru": "Экспансия Лидии на восток",
       "source": "https://en.wikipedia.org/wiki/Alyattes_of_Lydia",
       "tags": [
-        "Lydia",
         "Medes",
         "Mermnad",
+        "Lydia",
         "War",
         "Expansion"
       ],
@@ -1073,13 +1073,13 @@
       "name_ru": "Строительство гробницы Алиатта",
       "source": "https://en.wikipedia.org/wiki/Bin_Tepe",
       "tags": [
-        "Lydia",
         "Mermnad",
-        "Building 🏠",
+        "Lydia",
         "Architecture",
+        "Building 🏠",
+        "Tomb",
         "Earthwork",
-        "Mound Builders",
-        "Tomb"
+        "Mound Builders"
       ],
       "type": "historic"
     },
@@ -1094,8 +1094,8 @@
       "name_ru": "Смерть Алиатта",
       "source": "https://en.wikipedia.org/wiki/Alyattes_of_Lydia",
       "tags": [
-        "Lydia",
         "Mermnad",
+        "Lydia",
         "Dynasty",
         "Death"
       ],
@@ -1112,8 +1112,8 @@
       "name_ru": "Крез — последний царь Лидии",
       "source": "https://en.wikipedia.org/wiki/Croesus",
       "tags": [
-        "Lydia",
         "Mermnad",
+        "Lydia",
         "Dynasty",
         "King",
         "Wealth"
@@ -1152,9 +1152,9 @@
       "tags": [
         "Greek",
         "Lydia",
-        "Oracle",
+        "Religious",
         "Pagan",
-        "Religious"
+        "Oracle"
       ],
       "type": "political"
     },
@@ -1169,9 +1169,9 @@
       "name_ru": "Золотая и серебряная лидийская монета",
       "source": "https://en.wikipedia.org/wiki/Croesus",
       "tags": [
-        "Lydia",
         "Mermnad",
-        "Currency",
+        "Lydia",
+        "Currency 🪙",
         "Economic",
         "Innovation"
       ],
@@ -1191,15 +1191,15 @@
         "Greek",
         "Lydia",
         "Culture",
-        "Golden Age",
-        "Philosophy"
+        "Philosophy",
+        "Golden Age"
       ],
       "type": "cultural"
     },
     {
       "date": "01.01.0548",
-      "description": "Herodotus records famous meeting between Croesus and Athenian lawgiver Solon; when Croesus asks if he is happiest man alive, Solon replies 'Count no man happy until he is dead' - prophetic warning Croesus will later recall",
-      "description_ru": "Геродот записывает знаменитую встречу между Крезом и афинским законодателем Солоном; когда Крез спросил, является ли он самым счастливым человеком в мире, Солон отвечает 'Никого не называй счастливым, пока он не умер' - пророческое предупреждение, которое Крез позже вспомнит",
+      "description": "Herodotus records the famous meeting between Croesus and the Athenian lawmaker Solon. When Croesus asked if he was the happiest man in the world, Solon replied, \"Call no one happy until he is dead\"—a prophetic warning that Croesus would later recall.\n\nModern historians have proven that this meeting was chronologically impossible: Solon left Athens for 10 years immediately after enacting his laws (c. 594 BC). Croesus, however, became king of Lydia much later—c. 560 BC, by which time Solon was likely no longer alive. Herodotus likely simply conflated the classical sage and the Eastern tyrant in the same era to create a poetic parable.",
+      "description_ru": "Геродот записывает знаменитую встречу между Крезом и афинским законодателем Солоном; когда Крез спросил, является ли он самым счастливым человеком в мире, Солон отвечает: \"Никого не называй счастливым, пока он не умер\" - пророческое предупреждение, которое Крез позже вспомнит.\n\nСовременные историки доказали, что эта встреча хронологически была невозможна: Солон покинул Афины на 10 лет сразу после принятия своих законов (около 594 года до н. э.). Крез же стал царем Лидии гораздо позже — около 560 года до н. э., когда Солона, скорее всего, уже не было в живых. Геродот скорее всего просто объединил в одном времени классического мудреца и восточного тирана, чтобы создать поэтичную притчу.",
       "era": "BC",
       "latitude": 38.4852,
       "longitude": 28.0428,
@@ -1210,9 +1210,10 @@
         "Greek",
         "Lydia",
         "Culture",
-        "Herodotus 👤",
+        "Philosophy",
         "History",
-        "Philosophy"
+        "Legend",
+        "Herodotus 👤"
       ],
       "type": "cultural"
     },
@@ -1229,11 +1230,11 @@
       "tags": [
         "Greek",
         "Lydia",
-        "Mystery",
-        "Oracle",
+        "Religious",
         "Pagan",
         "Philosophy",
-        "Religious"
+        "Mystery",
+        "Oracle"
       ],
       "type": "political"
     },
@@ -1251,8 +1252,8 @@
         "Greek",
         "Egypt",
         "Lydia",
-        "Diplomacy",
-        "Alliance"
+        "Alliance",
+        "Diplomacy"
       ],
       "type": "political"
     },
@@ -1269,9 +1270,9 @@
       "tags": [
         "Persian",
         "Lydia",
-        "Currency",
-        "Economic",
-        "Legacy"
+        "Legacy",
+        "Currency 🪙",
+        "Economic"
       ],
       "type": "historic"
     },
@@ -1305,8 +1306,8 @@
       "source": "https://en.wikipedia.org/wiki/Caria",
       "tags": [
         "Persian",
-        "War",
         "Carian",
+        "War",
         "Conquest"
       ],
       "type": "military"
@@ -1324,8 +1325,8 @@
       "tags": [
         "Greek",
         "Persian",
-        "Dynasty",
-        "Carian"
+        "Carian",
+        "Dynasty"
       ],
       "type": "political"
     },
@@ -1341,11 +1342,11 @@
       "source": "https://en.wikipedia.org/wiki/Herodotus",
       "tags": [
         "Greek",
-        "Birth",
         "Carian",
         "Culture",
-        "Herodotus 👤",
-        "History"
+        "History",
+        "Birth",
+        "Herodotus 👤"
       ],
       "type": "cultural"
     },
@@ -1361,9 +1362,9 @@
       "source": "https://en.wikipedia.org/wiki/Hecatomnus",
       "tags": [
         "Persian",
-        "Dynasty",
+        "Carian",
         "Capital",
-        "Carian"
+        "Dynasty"
       ],
       "type": "political"
     },
@@ -1379,9 +1380,9 @@
       "source": "https://en.wikipedia.org/wiki/Mausolus",
       "tags": [
         "Persian",
+        "Carian",
         "Dynasty",
-        "King",
-        "Carian"
+        "King"
       ],
       "type": "political"
     },
@@ -1396,11 +1397,11 @@
       "name_ru": "Галикарнас - столица Карии",
       "source": "https://en.wikipedia.org/wiki/Halicarnassus",
       "tags": [
-        "Building 🏠",
+        "Carian",
+        "Capital",
         "City",
         "Architecture",
-        "Capital",
-        "Carian"
+        "Building 🏠"
       ],
       "type": "historic"
     },
@@ -1416,11 +1417,11 @@
       "source": "https://en.wikipedia.org/wiki/Mausolus",
       "tags": [
         "Persian",
+        "Carian",
         "Achaemenid",
         "Civil War",
-        "Carian",
-        "Independence",
-        "Rebellion"
+        "Rebellion",
+        "Independence"
       ],
       "type": "political"
     },
@@ -1435,9 +1436,9 @@
       "name_ru": "Мавсол женится на Артемисии II",
       "source": "https://en.wikipedia.org/wiki/Mausolus",
       "tags": [
+        "Carian",
         "Marriage",
-        "Dynasty",
-        "Carian"
+        "Dynasty"
       ],
       "type": "political"
     },
@@ -1453,10 +1454,10 @@
       "source": "https://en.wikipedia.org/wiki/Mausoleum_at_Halicarnassus",
       "tags": [
         "Greek",
-        "Building 🏠",
-        "Architecture",
-        "Art",
         "Carian",
+        "Art",
+        "Architecture",
+        "Building 🏠",
         "Tomb"
       ],
       "type": "historic"
@@ -1472,9 +1473,9 @@
       "name_ru": "Смерть карийского сатрапа Мавсола",
       "source": "https://en.wikipedia.org/wiki/Mausolus",
       "tags": [
+        "Carian",
         "Dynasty",
         "King",
-        "Carian",
         "Death"
       ],
       "type": "political"
@@ -1490,8 +1491,8 @@
       "name_ru": "Смерть карийской царицы Артемисии II",
       "source": "https://en.wikipedia.org/wiki/Artemisia_II_of_Caria",
       "tags": [
-        "Dynasty",
         "Carian",
+        "Dynasty",
         "Death"
       ],
       "type": "political"
@@ -1508,14 +1509,14 @@
       "source": "https://en.wikipedia.org/wiki/Mausoleum_at_Halicarnassus",
       "tags": [
         "Greek",
-        "Building 🏠",
-        "Anatolia",
-        "Ancient",
-        "Architecture",
-        "Art",
         "Carian",
+        "Art",
+        "Architecture",
+        "Building 🏠",
         "Tomb",
-        "Wonders"
+        "Ancient",
+        "Wonders",
+        "Anatolia"
       ],
       "type": "historic"
     },
@@ -1533,11 +1534,11 @@
         "Greek",
         "Persian",
         "Macedonian",
+        "Carian",
         "War",
+        "Conquest",
         "Battle",
         "Alexander the Great 👤",
-        "Carian",
-        "Conquest",
         "Siege"
       ],
       "type": "military"
@@ -1555,9 +1556,9 @@
       "tags": [
         "Greek",
         "Macedonian",
-        "Alexander the Great 👤",
-        "Alliance",
         "Carian",
+        "Alliance",
+        "Alexander the Great 👤",
         "Vassalage"
       ],
       "type": "political"

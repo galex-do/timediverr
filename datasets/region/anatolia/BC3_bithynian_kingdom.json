@@ -15,8 +15,8 @@
         "Greek",
         "Macedonian",
         "Bithynian",
-        "War",
-        "Thrace"
+        "Thrace",
+        "War"
       ],
       "type": "military"
     },
@@ -25,16 +25,16 @@
       "description": "Antigonus the One-Eyed founds the city of Antigoneia on the shores of Lake Ascanius in Bithynia. After the Battle of Ipsus (301 BC) and Antigonus' death, Lysimachus renames the city Nicaea (modern İznik) in honor of his wife.",
       "description_ru": "Антигон Одноглазый основывает город Антигонею на берегах Асканийского озера в Вифинии. После битвы при Ипсе (301 до н.э.) и гибели Антигона, Лисимах переименовывает город в Никею (современный Изник) в честь своей жены. ",
       "era": "BC",
-      "latitude": 40.4286,
-      "longitude": 29.7211,
+      "latitude": 40.42676084,
+      "longitude": 29.71692324,
       "name": "Foundation of Nicaea",
       "name_ru": "Основание македонцами Никеи",
       "source": "https://en.wikipedia.org/wiki/Nicaea",
       "tags": [
         "Greek",
         "Macedonian",
-        "Diadochi",
         "City",
+        "Diadochi",
         "Anatolia"
       ],
       "type": "cultural"
@@ -51,11 +51,11 @@
       "source": "https://en.wikipedia.org/wiki/Zipoetes_I",
       "tags": [
         "Bithynian",
-        "King",
-        "Calendar",
-        "Foundation",
+        "Thrace",
         "Kingdom",
-        "Thrace"
+        "Foundation",
+        "King",
+        "Calendar"
       ],
       "type": "political"
     },
@@ -64,16 +64,16 @@
       "description": "After Lysimachus' death, his empire in Asia Minor disintegrated. The Bithynian rulers take advantage of the opportunity and begin to capture Greek cities on the coast and inland. The Bithynian kings made Nicaea one of their residences. Before the founding of Nicomedia, Nicaea was in fact the main center of the region.",
       "description_ru": "После гибели Лисимаха его государство в Малой Азии распадается. Вифинские правители пользуются случаем и начинают захватывать греческие полисы на побережье и в глубине страны. Никею вифинские цари сделали одной из своих резиденций. До основания Никомедии Никея фактически была главным центром региона.",
       "era": "BC",
-      "latitude": 40.4286,
-      "longitude": 29.7211,
+      "latitude": 40.42676084,
+      "longitude": 29.71692324,
       "name": "Bithynia captures Greek cities",
       "name_ru": "Вифины захватывают греческие города",
       "tags": [
         "Greek",
         "Bithynian",
+        "Thrace",
         "Conquest",
-        "Expansion",
-        "Thrace"
+        "Expansion"
       ],
       "type": "military"
     },
@@ -90,10 +90,10 @@
       "tags": [
         "Celtic",
         "Bithynian",
+        "Thrace",
         "Civil War",
         "Mercenaries",
-        "Settlement",
-        "Thrace"
+        "Settlement"
       ],
       "type": "political"
     },
@@ -109,9 +109,9 @@
       "source": "https://en.wikipedia.org/wiki/Nicomedia",
       "tags": [
         "Bithynian",
-        "City",
+        "Thrace",
         "Capital",
-        "Thrace"
+        "City"
       ],
       "type": "cultural"
     },
@@ -127,8 +127,8 @@
       "source": "https://en.wikipedia.org/wiki/Nicomedes_I_of_Bithynia",
       "tags": [
         "Bithynian",
-        "Dynasty",
         "Crisis",
+        "Dynasty",
         "Death"
       ],
       "type": "political"
@@ -146,10 +146,10 @@
       "tags": [
         "Celtic",
         "Bithynian",
-        "Dynasty",
-        "Assassination",
         "Crisis",
-        "Death"
+        "Dynasty",
+        "Death",
+        "Assassination"
       ],
       "type": "political"
     },
@@ -164,10 +164,10 @@
       "name_ru": "Вифиния захватывает владения Византия",
       "source": "https://en.wikipedia.org/wiki/Prusias_I_of_Bithynia",
       "tags": [
+        "Byzantine",
         "Greek",
         "Bithynian",
         "War",
-        "Byzantine",
         "Conquest"
       ],
       "type": "military"
@@ -296,10 +296,10 @@
       "source": "https://en.wikipedia.org/wiki/Prusias_I_of_Bithynia",
       "tags": [
         "Bithynian",
-        "King",
         "Crisis",
-        "Overthrow",
-        "Political"
+        "King",
+        "Political",
+        "Overthrow"
       ],
       "type": "political"
     },
@@ -334,8 +334,8 @@
         "Roman",
         "Pergamon",
         "Bithynian",
-        "War",
         "Blasphemy",
+        "War",
         "Contribution"
       ],
       "type": "military"
@@ -407,10 +407,10 @@
       "source": "https://en.wikipedia.org/wiki/Nicomedes_III_of_Bithynia",
       "tags": [
         "Roman",
+        "Senate",
         "Bithynian",
         "Diplomacy",
         "Marius 👤",
-        "Senate",
         "Slavery"
       ],
       "type": "political"
@@ -422,13 +422,14 @@
       "era": "BC",
       "latitude": 40.7667,
       "longitude": 29.9167,
-      "name": "Nicomedes IV - King of Bithynia",
-      "name_ru": "Никомед IV - царь Вифинии",
+      "name": "Nicomedes IV — King of Bithynia",
+      "name_ru": "Никомед IV — царь Вифинии",
       "source": "https://en.wikipedia.org/wiki/Nicomedes_IV_of_Bithynia",
       "tags": [
-        "Pontus",
         "Bithynian",
+        "Pontus",
         "Crisis",
+        "King",
         "Political"
       ],
       "type": "political"
@@ -443,11 +444,11 @@
       "name": "Propontic revolution in Bithynia",
       "name_ru": "Пропонтийский переворот в Вифинии",
       "tags": [
-        "Pontus",
         "Bithynian",
+        "Pontus",
         "Crisis",
-        "Overthrow",
-        "Political"
+        "Political",
+        "Overthrow"
       ],
       "type": "political"
     },
@@ -462,9 +463,10 @@
       "name_ru": "Ультиматум Рима Митридату",
       "tags": [
         "Roman",
-        "Pontus",
         "Bithynian",
+        "Pontus",
         "Crisis",
+        "Diplomacy",
         "Debt",
         "Political"
       ],
@@ -516,8 +518,8 @@
       "source": "https://en.wikipedia.org/wiki/Nicomedes_IV_of_Bithynia",
       "tags": [
         "Roman",
-        "Pontus",
         "Bithynian",
+        "Pontus",
         "Annexation",
         "End"
       ],

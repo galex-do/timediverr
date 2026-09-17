@@ -13,8 +13,8 @@
       "source": "https://en.wikipedia.org/wiki/Caucasian_Albania",
       "tags": [
         "Caucasian Albania",
-        "Foundation",
         "Kingdom",
+        "Foundation",
         "Monarchy",
         "Unification"
       ],
@@ -52,11 +52,11 @@
       "source": "https://en.wikipedia.org/wiki/Caucasian_Albanian_church",
       "tags": [
         "Armenian",
-        "Adoption",
         "Caucasian Albania",
+        "Religious",
         "Christian",
-        "Culture",
-        "Religious"
+        "Adoption",
+        "Culture"
       ],
       "type": "religious"
     },
@@ -73,11 +73,11 @@
       "tags": [
         "Armenian",
         "Caucasian Albania",
-        "Christian",
-        "Holy Site",
-        "Martyr",
         "Religious",
+        "Christian",
+        "Martyr",
         "Saint",
+        "Holy Site",
         "Self-sacrifice"
       ],
       "type": "religious"
@@ -114,9 +114,10 @@
       "tags": [
         "Armenian",
         "Caucasian Albania",
+        "Religious",
         "Christian",
-        "Education",
         "Holy Site",
+        "Education",
         "Monastery"
       ],
       "type": "cultural"
@@ -133,15 +134,15 @@
       "source": "https://en.wikipedia.org/wiki/Vache_II_of_Albania",
       "tags": [
         "Persian",
+        "Sassanid",
+        "Caucasian Albania",
+        "Religious",
+        "Christian",
+        "Zoroastrian",
         "Arsacid",
         "Dynasty",
         "King",
-        "Caucasian Albania",
-        "Christian",
-        "Persecution",
-        "Religious",
-        "Sassanid",
-        "Zoroastrian"
+        "Persecution"
       ],
       "type": "political"
     },
@@ -156,11 +157,12 @@
       "name_ru": "Восстановление христианства в Кавказской Албании",
       "source": "https://en.wikipedia.org/wiki/Vachagan_III",
       "tags": [
+        "Caucasian Albania",
+        "Religious",
+        "Christian",
         "Arsacid",
         "Dynasty",
         "King",
-        "Caucasian Albania",
-        "Christian",
         "Restoration"
       ],
       "type": "political"
@@ -177,6 +179,7 @@
       "source": "https://en.wikipedia.org/wiki/Caucasian_Albanian_church",
       "tags": [
         "Caucasian Albania",
+        "Religious",
         "Christian",
         "Council",
         "Law"
@@ -195,11 +198,11 @@
       "source": "https://en.wikipedia.org/wiki/Barda,_Azerbaijan",
       "tags": [
         "Persian",
-        "Administration",
+        "Sassanid",
         "Caucasian Albania",
         "Culture",
-        "Sassanid",
-        "Trade"
+        "Trade",
+        "Administration"
       ],
       "type": "historic"
     },
@@ -215,12 +218,12 @@
       "source": "https://en.wikipedia.org/wiki/Mihranids",
       "tags": [
         "Persian",
-        "Dynasty",
-        "King",
+        "Sassanid",
         "Caucasian Albania",
         "Christian",
         "Mihranid",
-        "Sassanid"
+        "Dynasty",
+        "King"
       ],
       "type": "political"
     },
@@ -236,13 +239,14 @@
       "source": "https://en.wikipedia.org/wiki/Javanshir",
       "tags": [
         "Arabian",
-        "War",
-        "Battle",
         "Caucasian Albania",
+        "Rashidun",
+        "Religious",
         "Christian",
         "Islamic",
-        "Mihranid",
-        "Rashidun"
+        "War",
+        "Battle",
+        "Mihranid"
       ],
       "type": "military"
     },
@@ -257,12 +261,12 @@
       "name_ru": "Посольство Кавказской Албании в Византию",
       "source": "https://en.wikipedia.org/wiki/Juansher",
       "tags": [
-        "Roman",
-        "Diplomacy",
-        "Alliance",
         "Byzantine",
+        "Roman",
         "Caucasian Albania",
-        "Christian"
+        "Christian",
+        "Alliance",
+        "Diplomacy"
       ],
       "type": "political"
     },
@@ -278,10 +282,10 @@
       "source": "https://en.wikipedia.org/wiki/Juansher",
       "tags": [
         "Armenian",
-        "Assassination",
         "Caucasian Albania",
+        "Mihranid",
         "Death",
-        "Mihranid"
+        "Assassination"
       ],
       "type": "historic"
     },
@@ -297,9 +301,9 @@
       "source": "https://en.wikipedia.org/wiki/Caucasian_Albania",
       "tags": [
         "Arabian",
+        "Caucasian Albania",
         "Umayyad",
         "Annexation",
-        "Caucasian Albania",
         "End"
       ],
       "type": "political"

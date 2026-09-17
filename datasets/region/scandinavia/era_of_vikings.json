@@ -12,15 +12,16 @@
       "name_ru": "Норманнский тинг — древний парламент",
       "source": "https://en.wikipedia.org/wiki/Thing_(assembly)",
       "tags": [
+        "Norman",
+        "Danish",
+        "Norse",
+        "Swedish",
         "Culture",
         "Customs",
-        "Danish",
+        "Political",
         "Democracy",
-        "Elections",
         "Law",
-        "Norman",
-        "Norse",
-        "Swedish"
+        "Elections"
       ],
       "type": "political"
     },
@@ -35,13 +36,13 @@
       "name_ru": "Основание Уппсалы",
       "source": "https://en.wikipedia.org/wiki/Uppsala",
       "tags": [
-        "City",
-        "Legend",
-        "Capital",
-        "Holy Site",
         "Norman",
+        "Swedish",
+        "Capital",
+        "City",
         "Pagan",
-        "Swedish"
+        "Holy Site",
+        "Legend"
       ],
       "type": "historic"
     },
@@ -56,15 +57,15 @@
       "name_ru": "Скандинавский пантеон — Один, Тор, Вальхалла",
       "source": "https://en.wikipedia.org/wiki/Norse_mythology",
       "tags": [
-        "Legend",
-        "Cosmology",
-        "Culture",
-        "Danish",
         "Norman",
+        "Danish",
         "Norse",
-        "Pagan",
+        "Swedish",
         "Religious",
-        "Swedish"
+        "Pagan",
+        "Culture",
+        "Cosmology",
+        "Legend"
       ],
       "type": "religious"
     },
@@ -79,10 +80,10 @@
       "name_ru": "Норманнское кораблестроение",
       "source": "https://en.wikipedia.org/wiki/Viking_ships",
       "tags": [
+        "Norman",
         "Engineering ⚙️",
         "Innovation",
         "Naval",
-        "Norman",
         "Seamen",
         "Technology"
       ],
@@ -99,11 +100,11 @@
       "name_ru": "Формирование торгового центра в Рибе",
       "source": "https://en.wikipedia.org/wiki/Ribe",
       "tags": [
-        "Danish",
         "Norman",
+        "Danish",
+        "Trade",
         "Seamen",
-        "Settlement",
-        "Trade"
+        "Settlement"
       ],
       "type": "historic"
     },
@@ -117,8 +118,9 @@
       "name": "Norman naval tactics",
       "name_ru": "Норманнские морские тактики",
       "tags": [
-        "Naval",
         "Norman",
+        "Naval",
+        "Navigation",
         "Seamen",
         "Tactics"
       ],
@@ -131,14 +133,16 @@
       "era": "AD",
       "latitude": 59.35473206,
       "longitude": 5.29227734,
-      "name": "Norse navigation — sun stone, stars, and reading the North Atlantic",
+      "name": "Norse seafaring and navigation",
       "name_ru": "Норманнское мореходство и навигация",
       "source": "https://en.wikipedia.org/wiki/Norse_navigation",
       "tags": [
+        "Norman",
+        "Norse",
         "Astronomy",
+        "Compass",
         "Innovation",
         "Navigation",
-        "Norman",
         "Seamen"
       ],
       "type": "scientific"
@@ -154,12 +158,12 @@
       "name_ru": "Бирка — скандинавский торговый город",
       "source": "https://en.wikipedia.org/wiki/Birka",
       "tags": [
-        "City",
-        "Emporium",
-        "Expansion",
         "Norman",
         "Swedish",
-        "Trade"
+        "City",
+        "Trade",
+        "Emporium",
+        "Expansion"
       ],
       "type": "historic"
     },
@@ -175,12 +179,12 @@
       "source": "https://en.wikipedia.org/wiki/Raid_on_Lindisfarne",
       "tags": [
         "Britain",
-        "Christian",
-        "English",
-        "Expansion",
-        "Monastery",
         "Norman",
+        "English",
+        "Religious",
+        "Christian",
         "Pillage",
+        "Monastery",
         "Seamen"
       ],
       "type": "military"
@@ -196,12 +200,13 @@
       "name_ru": "Викинги разграбляют монастырь Иона",
       "source": "https://en.wikipedia.org/wiki/Viking_raids_on_Ireland",
       "tags": [
-        "Christian",
-        "Expansion",
         "Irish",
-        "Monastery",
         "Norman",
+        "Religious",
+        "Christian",
+        "Blasphemy",
         "Pillage",
+        "Monastery",
         "Seamen"
       ],
       "type": "military"
@@ -217,12 +222,12 @@
       "name_ru": "Норманнские набеги на франкское побережье",
       "source": "https://en.wikipedia.org/wiki/Noirmoutier",
       "tags": [
+        "Norman",
+        "Frankish",
+        "Pillage",
         "Carolingian",
         "Monastery",
-        "Norman",
-        "Pillage",
-        "Seamen",
-        "Frankish"
+        "Seamen"
       ],
       "type": "military"
     },
@@ -237,13 +242,13 @@
       "name_ru": "Скальдическая поэзия норманнов",
       "source": "https://en.wikipedia.org/wiki/Skaldic_poetry",
       "tags": [
-        "Culture",
-        "Danish",
-        "Literature",
         "Norman",
+        "Danish",
         "Norse",
-        "Poetry",
-        "Swedish"
+        "Swedish",
+        "Culture",
+        "Literature",
+        "Poetry"
       ],
       "type": "cultural"
     },
@@ -258,9 +263,9 @@
       "name_ru": "Рунические камни Скандинавии",
       "source": "https://en.wikipedia.org/wiki/Runestone",
       "tags": [
-        "Culture",
         "Norman",
         "Swedish",
+        "Culture",
         "Writing"
       ],
       "type": "cultural"
@@ -276,15 +281,15 @@
       "name_ru": "Берсерки — воины Одина",
       "source": "https://en.wikipedia.org/wiki/Berserker",
       "tags": [
-        "Culture",
+        "Norman",
         "Danish",
+        "Norse",
+        "Swedish",
+        "Culture",
         "Elite",
         "Hypnosis",
         "Military",
-        "Norman",
-        "Norse",
-        "Psychology",
-        "Swedish"
+        "Psychology"
       ],
       "type": "cultural"
     },
@@ -299,14 +304,14 @@
       "name_ru": "Каупанг — торговый центр Норвегии",
       "source": "https://en.wikipedia.org/wiki/Kaupang",
       "tags": [
-        "City",
-        "Emporium",
-        "Expansion",
-        "Iron",
         "Norman",
         "Norse",
+        "City",
+        "Iron",
+        "Wood",
         "Trade",
-        "Wood"
+        "Emporium",
+        "Expansion"
       ],
       "type": "historic"
     },
@@ -321,12 +326,12 @@
       "name_ru": "Хедебю — норманнский торговый центр",
       "source": "https://en.wikipedia.org/wiki/Hedeby",
       "tags": [
+        "Norman",
         "Danish",
+        "Trade",
         "Emporium",
         "Expansion",
-        "Norman",
-        "Settlement",
-        "Trade"
+        "Settlement"
       ],
       "type": "historic"
     },
@@ -341,9 +346,9 @@
       "name_ru": "Нуармутье — первый лонгпорт викингов в Европе",
       "source": "https://en.wikipedia.org/wiki/Norse_activity_in_the_British_Isles",
       "tags": [
-        "Expansion",
         "Norman",
         "Salt",
+        "Expansion",
         "Seamen",
         "Settlement"
       ],
@@ -360,10 +365,10 @@
       "name_ru": "Заселение викингами Фарерских островов",
       "source": "https://en.wikipedia.org/wiki/History_of_the_Faroe_Islands",
       "tags": [
+        "Norman",
         "Colonization",
         "Expansion",
         "Migration",
-        "Norman",
         "Seamen",
         "Settlement"
       ],
@@ -380,10 +385,10 @@
       "name_ru": "Корабельное захоронение в Усеберге",
       "source": "https://en.wikipedia.org/wiki/Oseberg_ship",
       "tags": [
-        "Burial",
-        "Culture",
         "Norman",
         "Norse",
+        "Culture",
+        "Burial",
         "Seamen"
       ],
       "type": "cultural"
@@ -399,11 +404,11 @@
       "name_ru": "Рагнар Лодброк — датский конунг морей",
       "source": "https://en.wikipedia.org/wiki/Ragnar_Lodbrok",
       "tags": [
-        "King",
-        "Legend",
+        "Norman",
         "Danish",
         "Holy Site",
-        "Norman",
+        "King",
+        "Legend",
         "Ragnar Lothbrok 👤",
         "Seamen"
       ],
@@ -420,9 +425,9 @@
       "name_ru": "Дублин — норманнский лонгпорт в Ирландии",
       "source": "https://en.wikipedia.org/wiki/History_of_Dublin",
       "tags": [
-        "Expansion",
         "Irish",
         "Norman",
+        "Expansion",
         "Seamen",
         "Settlement",
         "Slavery"
@@ -440,15 +445,15 @@
       "name_ru": "Набеги викингов на Иберию",
       "source": "https://en.wikipedia.org/wiki/Viking_raids_on_the_Iberian_Peninsula",
       "tags": [
+        "Iberia",
         "Arabian",
+        "Norman",
+        "Cordoba",
         "Umayyad",
         "Battle",
-        "Björn Ironside 👤",
-        "Cordoba",
-        "Hasteinn 👤",
-        "Iberia",
-        "Norman",
         "Pillage",
+        "Björn Ironside 👤",
+        "Hasteinn 👤",
         "Seamen"
       ],
       "type": "military"
@@ -458,20 +463,21 @@
       "description": "In 845, a Norman fleet of 120 ships, commanded by a leader identified in Frankish sources as Ragnar, marched toward Paris along the Seine. The Frankish king, Charles the Bald, divided his army and stationed it on the banks of the Seine to defend both banks. Lodbrok and his army landed with all their forces on one bank and, before the eyes of half the army, destroyed the other half, after which he hanged 111 captives on an island in the river as a ritual sacrifice to Odin. The Frankish army was demoralized and fled. Ragnar sacked Paris but retreated, receiving a ransom of 7,000 pounds of silver from Charles the Bald.",
       "description_ru": "В 845 году норманнский флот из 120 кораблей под командованием вождя, которого франкские источники называют Рагнаром, двинулся к Парижу по Сене. Франкский король Карл Лысый разделил армию пополам и разместил на берегах Сены, чтобы защитить оба берега. Лодброк с войском высадился всеми силами на один из берегов и на глазах у половины армии уничтожил вторую половину, после чего повесил 111 пленников на речном острове как ритуальное жертвоприношение Одину. Франкское войско было деморализовано и бежало. Рагнар разграбил Париж, но отступил, получив 7 тысяч фунтов серебра откупа от короля Карла Лысого.",
       "era": "AD",
-      "latitude": 48.86,
-      "longitude": 2.35,
+      "latitude": 48.8566,
+      "longitude": 2.3522,
       "name": "Ragnar Lothbrok besieges Paris",
       "name_ru": "Рагнар Лодброк осаждает Париж",
       "source": "https://en.wikipedia.org/wiki/Siege_of_Paris_(845)",
       "tags": [
+        "Norman",
+        "France",
+        "Frankish",
+        "Pillage",
         "Legend",
         "Charles the Bald 👑",
-        "Norman",
-        "Pillage",
         "Ragnar Lothbrok 👤",
         "Siege",
-        "Western",
-        "Frankish"
+        "Western"
       ],
       "type": "military"
     },
@@ -486,13 +492,13 @@
       "name_ru": "Набеги викингов на Балеарские острова",
       "tags": [
         "Arabian",
+        "Norman",
+        "Cordoba",
         "Umayyad",
         "Battle",
-        "Björn Ironside 👤",
-        "Cordoba",
-        "Hasteinn 👤",
-        "Norman",
         "Pillage",
+        "Björn Ironside 👤",
+        "Hasteinn 👤",
         "Seamen"
       ],
       "type": "military"
@@ -508,10 +514,10 @@
       "name_ru": "Открытие викингами Исландии",
       "source": "https://en.wikipedia.org/wiki/Settlement_of_Iceland",
       "tags": [
+        "Norman",
+        "Icelandic",
         "Expansion",
         "Exploration",
-        "Icelandic",
-        "Norman",
         "Seamen"
       ],
       "type": "cultural"
@@ -527,13 +533,13 @@
       "name_ru": "Набеги викингов в Марокко",
       "tags": [
         "Arabian",
-        "Battle",
         "Berber",
+        "Norman",
+        "Battle",
+        "Pillage",
         "Björn Ironside 👤",
         "Expedition",
         "Hasteinn 👤",
-        "Norman",
-        "Pillage",
         "Seamen"
       ],
       "type": "military"
@@ -550,14 +556,14 @@
       "source": "https://en.wikipedia.org/wiki/Bj%C3%B6rn_Ironside",
       "tags": [
         "Italian",
+        "Norman",
+        "Frankish",
+        "Pisa",
         "Battle",
+        "Pillage",
         "Björn Ironside 👤",
         "Hasteinn 👤",
-        "Norman",
-        "Pillage",
-        "Pisa",
-        "Seamen",
-        "Frankish"
+        "Seamen"
       ],
       "type": "military"
     },
@@ -573,11 +579,11 @@
       "source": "https://en.wikipedia.org/wiki/Hastein",
       "tags": [
         "Italian",
+        "Norman",
         "Battle",
+        "Pillage",
         "Björn Ironside 👤",
         "Hasteinn 👤",
-        "Norman",
-        "Pillage",
         "Seamen",
         "Trick"
       ],
@@ -594,13 +600,13 @@
       "name_ru": "Начало норманнского завоевания Англии",
       "source": "https://en.wikipedia.org/wiki/Great_Heathen_Army",
       "tags": [
-        "War",
         "Britain",
-        "Conquest",
+        "Norman",
         "Danish",
         "English",
-        "Invasion",
-        "Norman"
+        "War",
+        "Conquest",
+        "Invasion"
       ],
       "type": "military"
     },
@@ -615,14 +621,14 @@
       "name_ru": "Первое норманнское королевство в Англии",
       "source": "https://en.wikipedia.org/wiki/Kingdom_of_Northumbria",
       "tags": [
-        "War",
         "Britain",
-        "Conquest",
+        "Norman",
         "Danish",
         "English",
-        "Invasion",
         "Kingdom",
-        "Norman",
+        "War",
+        "Conquest",
+        "Invasion",
         "Northumbria"
       ],
       "type": "political"
@@ -638,16 +644,16 @@
       "name_ru": "Мученичество английского короля Эдмунда",
       "source": "https://en.wikipedia.org/wiki/Edmund_the_Martyr",
       "tags": [
-        "War",
-        "Christian",
+        "Norman",
         "Danish",
         "English",
-        "Invasion",
+        "Christian",
         "Martyr",
-        "Murder",
-        "Norman",
         "Patron",
-        "Saint"
+        "Saint",
+        "War",
+        "Invasion",
+        "Murder"
       ],
       "type": "military"
     },
@@ -662,14 +668,15 @@
       "name_ru": "Король Альфред побеждает датчан при Эшдауне",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Ashdown",
       "tags": [
-        "War",
-        "Battle",
-        "Alfred the Great 👑",
+        "Norman",
         "Danish",
         "English",
+        "Wessex",
+        "War",
+        "Battle",
         "Invasion",
-        "Norman",
-        "Wessex"
+        "Underdog",
+        "Alfred the Great 👑"
       ],
       "type": "military"
     },
@@ -684,11 +691,11 @@
       "name_ru": "Битва при Хаврсфьорде",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Hafrsfjord",
       "tags": [
+        "Norman",
+        "Norse",
         "Civil War",
         "Battle",
-        "Naval",
-        "Norman",
-        "Norse"
+        "Naval"
       ],
       "type": "military"
     },
@@ -703,11 +710,11 @@
       "name_ru": "Становление Норвежского королевства",
       "source": "https://en.wikipedia.org/wiki/Kingdom_of_Norway_(872%E2%80%931397)",
       "tags": [
-        "King",
-        "Foundation",
-        "Kingdom",
         "Norman",
         "Norse",
+        "Kingdom",
+        "Foundation",
+        "King",
         "Unification"
       ],
       "type": "political"
@@ -723,11 +730,11 @@
       "name_ru": "Заселение викингами Исландии",
       "source": "https://en.wikipedia.org/wiki/Ing%C3%B3lfr_Arnarson",
       "tags": [
+        "Norman",
+        "Icelandic",
         "Colonization",
         "Expansion",
-        "Icelandic",
         "Migration",
-        "Norman",
         "Seamen",
         "Settlement"
       ],
@@ -744,37 +751,38 @@
       "name_ru": "Уэдморский договор — раздел Англии на восток и запад",
       "source": "https://en.wikipedia.org/wiki/Treaty_of_Wedmore",
       "tags": [
+        "Norman",
+        "Danish",
+        "English",
+        "Wessex",
         "War",
         "Dynasty",
         "Alfred the Great 👑",
-        "Danish",
-        "English",
-        "Norman",
         "Peace",
-        "Treaty",
-        "Wessex"
+        "Treaty"
       ],
       "type": "political"
     },
     {
       "date": "01.09.0885",
-      "description": "In autumn 885, a Norse fleet besieged Paris for nearly a year. Count Odo of Paris and Bishop Goslin defended the bridges across the Seine with roughly 200 men — the bridges were the strategic target, blocking Norse access upstream. The garrison held. Emperor Charles the Fat eventually paid 700 pounds of silver and allowed the Norse to pass upstream to raid Burgundy. Charles was deposed in 888; Odo of Paris was elected king of France in his place. Odo's descendant Hugh Capet founded the Capetian dynasty — the men who held the bridges became the progenitors of French royalty.",
-      "description_ru": "С осени 885 года норманнский флот осаждал Париж почти год. Граф Одо Парижский и епископ Гозлен защищали мосты через Сену примерно с 200 людьми — мосты были стратегической целью, блокировавшей норманнский доступ вверх по реке. Гарнизон их удержал. Император Карл Толстый выплатил 700 фунтов серебра и позволил норманнам пройти грабить Бургундию. Карл был свергнут в 888 году; Одо Парижский избран королём Франции вместо него. Потомок Одо Гуго Капет основал династию Капетингов — защитники мостов стали родоначальниками французской королевской власти.",
+      "description": "In autumn 885, a Norse fleet besieged Paris for nearly a year. Count Odo of Paris and Bishop Goslin defended the bridges across the Seine with roughly 200 men — the bridges were the strategic target, blocking Norse access upstream. The garrison held. \n\nEmperor Charles the Fat eventually paid 700 pounds of silver and allowed the Norse to pass upstream to raid Burgundy. Charles was deposed in 888; Odo of Paris was elected king of France in his place. Odo's descendant Hugh Capet founded the Capetian dynasty — the men who held the bridges became the progenitors of French royalty.",
+      "description_ru": "С осени 885 года норманнский флот осаждал Париж почти год. Граф Эд Парижский и епископ Гозлен защищали мосты через Сену примерно с 200 людьми — мосты были стратегической целью, блокировавшей норманнский доступ вверх по реке. Гарнизон их удержал. \n\nИмператор Карл Толстый выплатил 700 фунтов серебра и позволил норманнам пройти грабить Бургундию. Карл был свергнут в 888 году; Одо Парижский избран королём Франции вместо него. Потомок Эда Гуго Капет основал династию Капетингов — защитники мостов стали родоначальниками французской королевской власти.",
       "era": "AD",
-      "latitude": 48.86,
-      "longitude": 2.35,
+      "latitude": 48.8566,
+      "longitude": 2.3522,
       "name": "The Normans besiege Paris",
       "name_ru": "Норманны осаждают Париж",
       "source": "https://en.wikipedia.org/wiki/Siege_of_Paris_(885%E2%80%93886)",
       "tags": [
+        "Norman",
+        "Frankish",
         "War",
         "Battle",
+        "Carolingian",
+        "Robertian",
         "Dynasty",
         "Capetian",
-        "Carolingian",
-        "Norman",
-        "Siege",
-        "Frankish"
+        "Siege"
       ],
       "type": "military"
     },
@@ -789,18 +797,19 @@
       "name_ru": "Эгиль Скаллагримссон — исландский скальд",
       "source": "https://en.wikipedia.org/wiki/Egill_Skallagr%C3%ADmsson",
       "tags": [
-        "Birth",
-        "Culture",
-        "Icelandic",
         "Norman",
-        "Poetry"
+        "Icelandic",
+        "Culture",
+        "Literature",
+        "Poetry",
+        "Birth"
       ],
       "type": "cultural"
     },
     {
-      "date": "01.01.0911",
-      "description": "In 911, the Frankish king Charles the Simple granted the Norman leader Rollo the territory around Rouen—the future Normandy—in exchange for baptism, homage, and protection of the Seine from other Norman raiders. Within two generations, the Norman settlers adopted the French language, preserving Norman legal traditions and warrior culture. Normandy's Norman origins laid the foundation for the events of the 11th century: William the Conqueror—a descendant of Rollo—conquered England in 1066; other Normans took southern Italy, Sicily, and the Crusader states.",
-      "description_ru": "В 911 году франкский король Карл Простоватый пожаловал норманнскому вождю Роллону территорию вокруг Руана — будущую Нормандию — в обмен на крещение, оммаж и защиту Сены от других норманнских налётчиков. В течение двух поколений норманнские поселенцы приняли французский язык, сохранив норманнские правовые традиции и воинскую культуру. Норманнское происхождение Нормандии стало основой для событий XI века: Вильгельм Завоеватель — потомок Роллона — завоевал Англию в 1066-м; другие нормандцы взяли Южную Италию, Сицилию и государства крестоносцев.",
+      "date": "01.10.0911",
+      "description": "The Frankish king Charles the Simple granted the Norman leader Rollo the territory around Rouen — the future Normandy — in exchange for baptism, homage, and protection of the Seine from other Norman raiders. Within two generations, the Norman settlers adopted the French language, preserving Norman legal traditions and warrior culture. Normandy's Norman origins laid the foundation for the events of the 11th century: William the Conqueror — a descendant of Rollo — conquered England in 1066; other Normans took southern Italy, Sicily, and the Crusader states.",
+      "description_ru": "Франкский король Карл Простоватый пожаловал норманнскому вождю Роллону территорию вокруг Руана — будущую Нормандию — в обмен на крещение, оммаж и защиту Сены от других норманнских налётчиков. В течение двух поколений норманнские поселенцы приняли французский язык, сохранив норманнские правовые традиции и воинскую культуру. Норманнское происхождение Нормандии стало основой для событий XI века: Вильгельм Завоеватель — потомок Роллона — завоевал Англию в 1066-м; другие нормандцы взяли Южную Италию, Сицилию и государства крестоносцев.",
       "era": "AD",
       "latitude": 49.4403139,
       "longitude": 1.09481871,
@@ -808,12 +817,13 @@
       "name_ru": "Основание герцогства Нормандия",
       "source": "https://en.wikipedia.org/wiki/Treaty_of_Saint-Clair-sur-Epte",
       "tags": [
-        "Duchy",
         "Norman",
+        "France",
+        "Frankish",
         "Normandy",
+        "Duchy",
         "Treaty",
-        "Vassalage",
-        "Frankish"
+        "Vassalage"
       ],
       "type": "political"
     },
@@ -828,12 +838,12 @@
       "name_ru": "Альтинг учрежден в Тингведлире",
       "source": "https://en.wikipedia.org/wiki/Althing",
       "tags": [
-        "Democracy",
-        "Holy Site",
-        "Icelandic",
-        "Law",
         "Norman",
-        "Parliament"
+        "Icelandic",
+        "Holy Site",
+        "Parliament",
+        "Democracy",
+        "Law"
       ],
       "type": "political"
     },
@@ -848,10 +858,10 @@
       "name_ru": "Горм Старый — первый король Дании",
       "source": "https://en.wikipedia.org/wiki/Gorm_the_Old",
       "tags": [
-        "King",
+        "Norman",
         "Danish",
         "Kingdom",
-        "Norman",
+        "King",
         "Unification"
       ],
       "type": "historic"
@@ -867,13 +877,13 @@
       "name_ru": "Харальд Синезубый крестит Данию",
       "source": "https://en.wikipedia.org/wiki/Harald_Bluetooth",
       "tags": [
-        "King",
-        "Adoption",
-        "Christian",
-        "Danish",
         "Norman",
-        "Political",
-        "Religious"
+        "Danish",
+        "Religious",
+        "Christian",
+        "Adoption",
+        "King",
+        "Political"
       ],
       "type": "religious"
     },
@@ -888,9 +898,10 @@
       "name_ru": "Эйрик Рыжий открывает и называет Гренландию",
       "source": "https://en.wikipedia.org/wiki/Erik_the_Red",
       "tags": [
+        "Norman",
+        "Icelandic",
         "Expansion",
         "Exploration",
-        "Norman",
         "Seamen"
       ],
       "type": "cultural"
@@ -906,12 +917,12 @@
       "name_ru": "Колонии викингов в Гренландии",
       "source": "https://en.wikipedia.org/wiki/Norse_colonization_of_the_Americas",
       "tags": [
-        "Colonization",
-        "Erik the Red",
-        "Ivory",
         "Norman",
-        "Settlement",
-        "Trade"
+        "Icelandic",
+        "Trade",
+        "Colonization",
+        "Ivory",
+        "Settlement"
       ],
       "type": "historic"
     },
@@ -926,14 +937,14 @@
       "name_ru": "Свен Вилобородый захватывает власть в Дании",
       "source": "https://en.wikipedia.org/wiki/Swein_Forkbeard",
       "tags": [
-        "Civil War",
-        "King",
-        "Danish",
         "Norman",
-        "Overthrow",
+        "Danish",
+        "Religious",
         "Pagan",
+        "Civil War",
         "Rebellion",
-        "Religious"
+        "King",
+        "Overthrow"
       ],
       "type": "military"
     },
@@ -948,13 +959,13 @@
       "name_ru": "Олаф Трюггвасон — король Норвегии",
       "source": "https://en.wikipedia.org/wiki/Olaf_Tryggvason",
       "tags": [
-        "King",
-        "Adoption",
-        "Christian",
         "Norman",
         "Norse",
-        "Olaf Tryggvason 👑",
-        "Religious"
+        "Religious",
+        "Christian",
+        "Adoption",
+        "King",
+        "Olaf Tryggvason 👑"
       ],
       "type": "religious"
     },
@@ -969,13 +980,12 @@
       "name_ru": "Олаф Трюггвасон основывает Нидарос",
       "source": "https://en.wikipedia.org/wiki/Nidaros",
       "tags": [
-        "City",
-        "Agriculture",
-        "Capital",
         "Norman",
         "Norse",
-        "Olaf Tryggvason 👑",
-        "Rus"
+        "Capital",
+        "City",
+        "Agriculture",
+        "Olaf Tryggvason 👑"
       ],
       "type": "historic"
     },
@@ -990,12 +1000,12 @@
       "name_ru": "Исландия принимает христианство",
       "source": "https://en.wikipedia.org/wiki/Christianization_of_Iceland",
       "tags": [
-        "Adoption",
-        "Christian",
-        "Icelandic",
-        "Law",
         "Norman",
-        "Religious"
+        "Icelandic",
+        "Religious",
+        "Christian",
+        "Adoption",
+        "Law"
       ],
       "type": "religious"
     },
@@ -1010,14 +1020,14 @@
       "name_ru": "Олаф Трюггвасон гибнет в битве при Свёльде",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Svolder",
       "tags": [
+        "Norman",
+        "Danish",
+        "Norse",
+        "Swedish",
         "War",
         "Battle",
-        "Danish",
         "Naval",
-        "Norman",
-        "Norse",
-        "Olaf Tryggvason 👑",
-        "Swedish"
+        "Olaf Tryggvason 👑"
       ],
       "type": "military"
     },
@@ -1032,9 +1042,9 @@
       "name_ru": "Лейф Эрикссон достигает Винланда (Северной Америки)",
       "source": "https://en.wikipedia.org/wiki/Leif_Erikson",
       "tags": [
+        "Norman",
         "Expansion",
         "Exploration",
-        "Norman",
         "Seamen"
       ],
       "type": "cultural"
@@ -1050,13 +1060,13 @@
       "name_ru": "Резня в день святого Брикция в Англии",
       "source": "https://en.wikipedia.org/wiki/St._Brice%27s_Day_massacre",
       "tags": [
-        "War",
-        "Crisis",
+        "Norman",
         "Danish",
         "English",
-        "Massacre",
-        "Norman",
-        "Political"
+        "Crisis",
+        "War",
+        "Political",
+        "Massacre"
       ],
       "type": "military"
     },
@@ -1071,9 +1081,9 @@
       "name_ru": "Торвальд Эрикссон убит в Винланде",
       "source": "https://en.wikipedia.org/wiki/Thorvald_Eiriksson",
       "tags": [
+        "Norman",
         "Battle",
         "Expedition",
-        "Norman",
         "Seamen"
       ],
       "type": "cultural"
@@ -1089,10 +1099,10 @@
       "name_ru": "Винландская колония Торфинна Карлсефни",
       "source": "https://en.wikipedia.org/wiki/Thorfinn_Karlsefni",
       "tags": [
+        "Norman",
         "Colonization",
         "Expansion",
         "Exploration",
-        "Norman",
         "Seamen"
       ],
       "type": "cultural"
@@ -1108,12 +1118,12 @@
       "name_ru": "Свен Вилобородый завоёвывает Англию",
       "source": "https://en.wikipedia.org/wiki/Swein_Forkbeard",
       "tags": [
-        "War",
         "Britain",
-        "Conquest",
+        "Norman",
         "Danish",
         "English",
-        "Norman",
+        "War",
+        "Conquest",
         "Vassalage"
       ],
       "type": "military"
@@ -1130,14 +1140,14 @@
       "source": "https://en.wikipedia.org/wiki/Battle_of_Clontarf",
       "tags": [
         "Celtic",
+        "Irish",
+        "Norman",
+        "Gaelic",
         "War",
         "Battle",
         "King",
         "Death",
-        "Gaelic",
-        "Independence",
-        "Irish",
-        "Norman"
+        "Independence"
       ],
       "type": "military"
     },
@@ -1152,14 +1162,14 @@
       "name_ru": "Олаф Харальдссон — король Норвегии",
       "source": "https://en.wikipedia.org/wiki/Olaf_II_of_Norway",
       "tags": [
-        "King",
-        "Christian",
-        "Holidays",
-        "Holy Site",
         "Norman",
         "Norse",
+        "Christian",
         "Patron",
-        "Saint"
+        "Saint",
+        "Holy Site",
+        "King",
+        "Holidays"
       ],
       "type": "religious"
     },
@@ -1174,13 +1184,13 @@
       "name_ru": "Кнут Великий — король Англии",
       "source": "https://en.wikipedia.org/wiki/Cnut_the_Great",
       "tags": [
-        "King",
-        "Cnut the Great 👑",
+        "Norman",
         "Danish",
         "England",
         "English",
         "Kingdom",
-        "Norman"
+        "King",
+        "Cnut the Great 👑"
       ],
       "type": "political"
     },
@@ -1191,19 +1201,20 @@
       "era": "AD",
       "latitude": 41.90216525,
       "longitude": 12.45367348,
-      "name": "Cnut's pilgrimage to Rome",
-      "name_ru": "Паломничество Кнута в Рим",
+      "name": "Cnut the Great's pilgrimage to Rome",
+      "name_ru": "Паломничество Кнута Великого в Рим",
       "source": "https://en.wikipedia.org/wiki/Cnut_the_Great",
       "tags": [
-        "Holy Roman Empire",
-        "Diplomacy",
-        "Christian",
-        "Cnut the Great 👑",
+        "Norman",
         "Danish",
         "English",
-        "Norman",
+        "Holy Roman Empire",
         "Papacy",
-        "Pilgrimage"
+        "Religious",
+        "Christian",
+        "Pilgrimage",
+        "Diplomacy",
+        "Cnut the Great 👑"
       ],
       "type": "religious"
     },
@@ -1218,12 +1229,12 @@
       "name_ru": "Пик норманнской империи",
       "source": "https://en.wikipedia.org/wiki/Cnut_the_Great",
       "tags": [
-        "Cnut the Great 👑",
-        "Danish",
-        "Empire",
-        "Golden Age",
         "Norman",
-        "Norse"
+        "Danish",
+        "Norse",
+        "Empire",
+        "Cnut the Great 👑",
+        "Golden Age"
       ],
       "type": "political"
     },
@@ -1238,12 +1249,12 @@
       "name_ru": "Гибель святого Олафа при Стикластадире",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Stiklestad",
       "tags": [
+        "Norman",
+        "Norse",
+        "Christian",
         "Civil War",
         "Battle",
-        "Christian",
-        "Death",
-        "Norman",
-        "Norse"
+        "Death"
       ],
       "type": "military"
     },
@@ -1258,14 +1269,14 @@
       "name_ru": "Смерть короля Кнута в Англии",
       "source": "https://en.wikipedia.org/wiki/Cnut_the_Great",
       "tags": [
-        "King",
-        "Cnut the Great 👑",
+        "Norman",
         "Danish",
-        "Death",
-        "Decline",
-        "Disease",
         "English",
-        "Norman"
+        "King",
+        "Death",
+        "Cnut the Great 👑",
+        "Decline",
+        "Disease"
       ],
       "type": "political"
     },
@@ -1280,13 +1291,13 @@
       "name_ru": "Последнее вторжение викингов в Англию отражено",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Stamford_Bridge",
       "tags": [
+        "Britain",
+        "Norman",
+        "Norse",
+        "English",
         "War",
         "Battle",
-        "Britain",
-        "English",
-        "Invasion",
-        "Norman",
-        "Norse"
+        "Invasion"
       ],
       "type": "military"
     },
@@ -1301,15 +1312,15 @@
       "name_ru": "Вильгельм Завоеватель подчиняет Англию",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Hastings",
       "tags": [
-        "War",
-        "Battle",
-        "Conquest",
+        "Norman",
+        "French",
         "England",
         "English",
-        "Norman",
         "Normandy",
-        "William the Conqueror 👤",
-        "Frankish"
+        "War",
+        "Conquest",
+        "Battle",
+        "William the Conqueror 👤"
       ],
       "type": "military"
     }

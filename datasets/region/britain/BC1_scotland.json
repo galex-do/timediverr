@@ -290,8 +290,8 @@
         "Foundation",
         "Christian",
         "King",
-        "Reform",
-        "Law"
+        "Law",
+        "Reform"
       ],
       "type": "political"
     },
@@ -335,9 +335,9 @@
         "Papacy",
         "Religious",
         "Christian",
+        "Law",
         "Reform",
-        "Independence",
-        "Law"
+        "Independence"
       ],
       "type": "religious"
     },
@@ -620,9 +620,9 @@
       "tags": [
         "Scottish",
         "Scotland",
+        "Law",
         "Holidays",
         "Independence",
-        "Law",
         "Resistance",
         "Text"
       ],
@@ -683,6 +683,7 @@
       "name_ru": "Сражение у Тебы в Андалусии",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Teba",
       "tags": [
+        "Arabian",
         "Scottish",
         "Castile",
         "Emirate of Granada",

@@ -13,15 +13,15 @@
       "source": "https://en.wikipedia.org/wiki/Ardashir_I",
       "tags": [
         "Persian",
-        "Dynasty",
-        "Ardashir I 👑",
-        "Emperor",
+        "Sassanid",
         "Empire",
         "Foundation",
-        "Political",
         "Religious",
-        "Sassanid",
-        "Zoroastrian"
+        "Zoroastrian",
+        "Dynasty",
+        "Emperor",
+        "Political",
+        "Ardashir I 👑"
       ],
       "type": "political"
     },
@@ -37,12 +37,12 @@
       "source": "https://en.wikipedia.org/wiki/Zoroastrianism",
       "tags": [
         "Persian",
-        "Reform",
-        "Adoption",
-        "Ardashir I 👑",
-        "Religious",
         "Sassanid",
-        "Zoroastrian"
+        "Religious",
+        "Zoroastrian",
+        "Adoption",
+        "Reform",
+        "Ardashir I 👑"
       ],
       "type": "religious"
     },
@@ -58,13 +58,13 @@
       "source": "https://en.wikipedia.org/wiki/Sasanian_architecture",
       "tags": [
         "Persian",
-        "Building 🏠",
+        "Sassanid",
         "Architecture",
-        "Ardashir I 👑",
-        "Construction",
-        "Engineering ⚙️",
+        "Building 🏠",
         "Palace",
-        "Sassanid"
+        "Engineering ⚙️",
+        "Ardashir I 👑",
+        "Construction"
       ],
       "type": "cultural"
     },
@@ -80,15 +80,15 @@
       "source": "https://en.wikipedia.org/wiki/Mani_(prophet)",
       "tags": [
         "Persian",
-        "Judaic",
-        "Christian",
-        "Dualism",
-        "Foundation",
-        "Manichaean",
-        "Religious",
         "Sassanid",
+        "Judaic",
+        "Foundation",
+        "Religious",
+        "Buddhism",
+        "Christian",
+        "Manichaean",
         "Zoroastrian",
-        "Buddhism"
+        "Dualism"
       ],
       "type": "religious"
     },
@@ -104,11 +104,11 @@
       "source": "https://en.wikipedia.org/wiki/Shapur_I",
       "tags": [
         "Persian",
+        "Sassanid",
         "Dynasty",
         "Emperor",
-        "Golden Age",
         "Political",
-        "Sassanid",
+        "Golden Age",
         "Shapur I 👑"
       ],
       "type": "political"
@@ -126,9 +126,9 @@
       "tags": [
         "Persian",
         "Roman",
+        "Sassanid",
         "War",
         "Battle",
-        "Sassanid",
         "Shapur I 👑"
       ],
       "type": "military"
@@ -145,13 +145,13 @@
       "source": "https://en.wikipedia.org/wiki/Taq_Kasra",
       "tags": [
         "Persian",
-        "Building 🏠",
+        "Sassanid",
         "Architecture",
-        "Construction",
-        "Engineering ⚙️",
-        "Innovation",
+        "Building 🏠",
         "Palace",
-        "Sassanid"
+        "Engineering ⚙️",
+        "Construction",
+        "Innovation"
       ],
       "type": "cultural"
     },
@@ -167,14 +167,14 @@
       "source": "https://en.wikipedia.org/wiki/Ka%27ba-ye_Zartosht",
       "tags": [
         "Persian",
-        "Manichaean",
-        "Political",
-        "Religious",
         "Sassanid",
-        "Shapur I 👑",
-        "Text",
+        "Religious",
+        "Manichaean",
+        "Zoroastrian",
         "Tolerance",
-        "Zoroastrian"
+        "Political",
+        "Shapur I 👑",
+        "Text"
       ],
       "type": "historic"
     },
@@ -191,13 +191,13 @@
       "tags": [
         "Persian",
         "Roman",
-        "City",
-        "Architecture",
-        "Art",
-        "Capital",
-        "Cultural Continuity",
-        "Engineering ⚙️",
         "Sassanid",
+        "Capital",
+        "City",
+        "Art",
+        "Cultural Continuity",
+        "Architecture",
+        "Engineering ⚙️",
         "Shapur I 👑"
       ],
       "type": "cultural"
@@ -215,14 +215,14 @@
       "tags": [
         "Persian",
         "Roman",
-        "City",
+        "Sassanid",
         "Capital",
+        "City",
         "Culture",
-        "Education",
         "Engineering ⚙️",
+        "Education",
         "Healthcare",
         "Medicine",
-        "Sassanid",
         "Shapur I 👑"
       ],
       "type": "cultural"
@@ -239,13 +239,13 @@
       "source": "https://en.wikipedia.org/wiki/Mani_(prophet)",
       "tags": [
         "Persian",
+        "Sassanid",
+        "Religious",
+        "Manichaean",
+        "Zoroastrian",
         "Death",
         "Execution",
-        "Manichaean",
-        "Persecution",
-        "Religious",
-        "Sassanid",
-        "Zoroastrian"
+        "Persecution"
       ],
       "type": "religious"
     },
@@ -261,12 +261,12 @@
       "source": "https://en.wikipedia.org/wiki/Kartir",
       "tags": [
         "Persian",
+        "Sassanid",
+        "Religious",
+        "Zoroastrian",
         "Political",
         "Radicalism",
-        "Religious",
-        "Sassanid",
-        "Text",
-        "Zoroastrian"
+        "Text"
       ],
       "type": "religious"
     },
@@ -282,10 +282,10 @@
       "source": "https://en.wikipedia.org/wiki/Shapur_II",
       "tags": [
         "Persian",
+        "Sassanid",
         "Dynasty",
         "Emperor",
         "Political",
-        "Sassanid",
         "Shapur II 👑"
       ],
       "type": "political"
@@ -303,8 +303,8 @@
       "tags": [
         "Persian",
         "Roman",
-        "War",
         "Sassanid",
+        "War",
         "Shapur II 👑",
         "Siege"
       ],
@@ -322,13 +322,13 @@
       "source": "https://en.wikipedia.org/wiki/Persecution_of_Christians_in_the_Sasanian_Empire",
       "tags": [
         "Persian",
+        "Sassanid",
+        "Religious",
         "Christian",
+        "Zoroastrian",
         "Crisis",
         "Persecution",
-        "Religious",
-        "Sassanid",
-        "Shapur II 👑",
-        "Zoroastrian"
+        "Shapur II 👑"
       ],
       "type": "religious"
     },
@@ -344,13 +344,13 @@
       "source": "https://en.wikipedia.org/wiki/Avesta",
       "tags": [
         "Persian",
-        "Code",
-        "Culture",
-        "Religious",
         "Sassanid",
-        "Text",
+        "Religious",
+        "Zoroastrian",
+        "Culture",
         "Writing",
-        "Zoroastrian"
+        "Code",
+        "Text"
       ],
       "type": "cultural"
     },
@@ -366,12 +366,12 @@
       "source": "https://en.wikipedia.org/wiki/Fire_temple",
       "tags": [
         "Persian",
-        "Architecture",
-        "Culture",
-        "Religious",
         "Sassanid",
-        "Temple",
-        "Zoroastrian"
+        "Religious",
+        "Zoroastrian",
+        "Culture",
+        "Architecture",
+        "Temple"
       ],
       "type": "religious"
     },
@@ -387,11 +387,11 @@
       "source": "https://en.wikipedia.org/wiki/Shapur_II",
       "tags": [
         "Persian",
+        "Sassanid",
         "Dynasty",
-        "Death",
         "Emperor",
         "Political",
-        "Sassanid",
+        "Death",
         "Shapur II 👑"
       ],
       "type": "historic"
@@ -408,12 +408,12 @@
       "source": "https://en.wikipedia.org/wiki/Yazdegerd_I",
       "tags": [
         "Persian",
+        "Sassanid",
+        "Religious",
+        "Tolerance",
         "Dynasty",
         "Emperor",
-        "Political",
-        "Religious",
-        "Sassanid",
-        "Tolerance"
+        "Political"
       ],
       "type": "political"
     },
@@ -429,10 +429,10 @@
       "source": "https://en.wikipedia.org/wiki/Babylonian_Talmud",
       "tags": [
         "Persian",
-        "Judaic",
-        "Culture",
-        "Religious",
         "Sassanid",
+        "Judaic",
+        "Religious",
+        "Culture",
         "Text"
       ],
       "type": "cultural"
@@ -449,12 +449,12 @@
       "source": "https://en.wikipedia.org/wiki/Bahram_V",
       "tags": [
         "Persian",
-        "Dynasty",
-        "Legend",
+        "Sassanid",
         "Culture",
+        "Dynasty",
         "Emperor",
-        "Political",
-        "Sassanid"
+        "Legend",
+        "Political"
       ],
       "type": "cultural"
     },
@@ -470,12 +470,12 @@
       "source": "https://en.wikipedia.org/wiki/Yazdegerd_II",
       "tags": [
         "Persian",
-        "Christian",
-        "Crisis",
-        "Persecution",
-        "Religious",
         "Sassanid",
-        "Zoroastrian"
+        "Religious",
+        "Christian",
+        "Zoroastrian",
+        "Crisis",
+        "Persecution"
       ],
       "type": "religious"
     },
@@ -491,14 +491,14 @@
       "source": "https://en.wikipedia.org/wiki/Peroz_I",
       "tags": [
         "Persian",
-        "War",
-        "Battle",
-        "Crisis",
-        "Death",
-        "Failure",
         "Hephthalites",
         "Huns",
         "Sassanid",
+        "Crisis",
+        "War",
+        "Battle",
+        "Death",
+        "Failure",
         "Tribute"
       ],
       "type": "military"
@@ -515,15 +515,15 @@
       "source": "https://en.wikipedia.org/wiki/Mazdak",
       "tags": [
         "Persian",
-        "Reform",
-        "Communism",
-        "Manichaean",
-        "Political",
-        "Redistribution",
-        "Religious",
-        "Revolution",
         "Sassanid",
-        "Zoroastrian"
+        "Religious",
+        "Manichaean",
+        "Zoroastrian",
+        "Political",
+        "Reform",
+        "Revolution",
+        "Communism",
+        "Redistribution"
       ],
       "type": "political"
     },
@@ -539,13 +539,13 @@
       "source": "https://en.wikipedia.org/wiki/Kavad_I",
       "tags": [
         "Persian",
-        "Crisis",
-        "Emperor",
         "Hephthalites",
         "Huns",
-        "Overthrow",
+        "Sassanid",
+        "Crisis",
+        "Emperor",
         "Political",
-        "Sassanid"
+        "Overthrow"
       ],
       "type": "political"
     },
@@ -560,12 +560,12 @@
       "name_ru": "Вторжение Сасанидов в Византию ",
       "source": "https://en.wikipedia.org/wiki/Anastasian_War",
       "tags": [
+        "Byzantine",
         "Persian",
         "Roman",
-        "War",
-        "Byzantine",
-        "Debt",
         "Sassanid",
+        "War",
+        "Debt",
         "Siege",
         "Tribute"
       ],
@@ -583,15 +583,15 @@
       "source": "https://en.wikipedia.org/wiki/Mazdak",
       "tags": [
         "Persian",
+        "Sassanid",
+        "Religious",
+        "Zoroastrian",
+        "Political",
+        "Death",
         "Reform",
         "Administration",
-        "Death",
         "Execution",
-        "Khosrov I 👑",
-        "Political",
-        "Religious",
-        "Sassanid",
-        "Zoroastrian"
+        "Khosrov I 👑"
       ],
       "type": "political"
     },
@@ -607,15 +607,15 @@
       "source": "https://en.wikipedia.org/wiki/Khosrow_I",
       "tags": [
         "Persian",
-        "Reform",
-        "Dynasty",
-        "Administration",
+        "Sassanid",
         "Culture",
+        "Dynasty",
         "Emperor",
-        "Golden Age",
-        "Khosrov I 👑",
         "Political",
-        "Sassanid"
+        "Reform",
+        "Administration",
+        "Golden Age",
+        "Khosrov I 👑"
       ],
       "type": "political"
     },
@@ -630,13 +630,13 @@
       "name_ru": "«Вечный мир» Византии и Персии",
       "source": "https://en.wikipedia.org/wiki/Eternal_Peace_(532)",
       "tags": [
+        "Byzantine",
         "Persian",
         "Roman",
-        "Diplomacy",
-        "Byzantine",
-        "Khosrov I 👑",
-        "Political",
         "Sassanid",
+        "Diplomacy",
+        "Political",
+        "Khosrov I 👑",
         "Treaty",
         "Tribute"
       ],
@@ -647,19 +647,19 @@
       "description": "Khosrow I tears up the 'Endless Peace', sweeps through Syria, and takes Antioch — the third largest city of the Byzantine world and ancient capital of the Roman east — sacking it comprehensively and carrying off its entire population to a new city built near Ctesiphon and named 'Veh Antiok Khusro' ('Better-than-Antioch, Khosrow's'). He reportedly attends the chariot races in Antioch's famous hippodrome before ordering the burning of the city, acting as emperor of his conquest.\n\nKhosrow's treatment of the Antiochene captives reveals a consistent Sassanid approach: rather than enslaving them, he resettles them as a functioning urban community with their own local government, churches, and customs — using Byzantine skilled artisans exactly as Shapur I had used Roman prisoners at Bishapur three centuries before. The new city near Ctesiphon becomes a centre of Greek scholarship and Syrian Christianity within the Sassanid heartland, a living library of captured civilisation.",
       "description_ru": "Хосров I разрывает «Вечный мир», стремительно проходит через Сирию и берёт Антиохию — третий по величине город Византийский мира и древнюю столицу римского Востока, — основательно разграбив её и уведя всё население в новый город, построенный близ Ктесифона и названный «Вех Антиок Хусро» («Лучший-чем-Антиохия, Хосрова»). По преданию, он присутствует на состязаниях колесниц на знаменитом ипподроме Антиохии перед тем, как приказать сжечь город, выступая как государь своего завоевания.\n\nОбращение Хосрова с антиохийскими пленниками раскрывает устойчивый сасанидский подход: вместо того чтобы обратить их в рабство, он переселяет их как функционирующую городскую общину с собственным местным самоуправлением, церквами и обычаями — используя Византийских мастеров точно так же, как Шапур I использовал римских пленников в Бишапуре три столетия назад.",
       "era": "AD",
-      "latitude": 36.2,
-      "longitude": 36.16,
+      "latitude": 36.2034,
+      "longitude": 36.1639,
       "name": "Sasanian Persia sacks Antioch",
       "name_ru": "Сасанидская Персия разоряет Антиохию",
       "source": "https://en.wikipedia.org/wiki/Khosrow_I",
       "tags": [
+        "Byzantine",
         "Persian",
         "Roman",
+        "Sassanid",
         "War",
-        "Byzantine",
         "Conquest",
         "Khosrov I 👑",
-        "Sassanid",
         "Siege"
       ],
       "type": "military"
@@ -677,10 +677,10 @@
       "tags": [
         "Persian",
         "Indian",
-        "Chess",
+        "Sassanid",
         "Culture",
-        "Games",
-        "Sassanid"
+        "Chess",
+        "Games"
       ],
       "type": "cultural"
     },
@@ -696,13 +696,13 @@
       "source": "https://en.wikipedia.org/wiki/Khosrow_I",
       "tags": [
         "Persian",
+        "Sassanid",
+        "Standardization",
+        "Political",
         "Reform",
         "Administration",
         "Army",
         "Khosrov I 👑",
-        "Political",
-        "Sassanid",
-        "Standardization",
         "Taxes"
       ],
       "type": "historic"
@@ -719,15 +719,15 @@
       "source": "https://en.wikipedia.org/wiki/Hephthalite",
       "tags": [
         "Persian",
-        "War",
-        "Battle",
-        "Conquest",
-        "Expansion",
         "Hephthalites",
+        "Turkic",
         "Huns",
-        "Khosrov I 👑",
         "Sassanid",
-        "Turkic"
+        "War",
+        "Conquest",
+        "Battle",
+        "Expansion",
+        "Khosrov I 👑"
       ],
       "type": "military"
     },
@@ -742,13 +742,13 @@
       "name_ru": "Пятидесятилетний мир Византии и Персии",
       "source": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Sasanian_War_of_572%E2%80%93591",
       "tags": [
+        "Byzantine",
         "Persian",
         "Roman",
-        "Diplomacy",
-        "Byzantine",
-        "Khosrov I 👑",
-        "Political",
         "Sassanid",
+        "Diplomacy",
+        "Political",
+        "Khosrov I 👑",
         "Treaty",
         "Tribute"
       ],
@@ -766,10 +766,10 @@
       "source": "https://en.wikipedia.org/wiki/Derbent",
       "tags": [
         "Persian",
+        "Sassanid",
         "City",
         "Defense",
-        "Fortification",
-        "Sassanid"
+        "Fortification"
       ],
       "type": "historic"
     },
@@ -785,11 +785,11 @@
       "source": "https://en.wikipedia.org/wiki/Khosrow_I",
       "tags": [
         "Persian",
-        "Dynasty",
+        "Sassanid",
         "Culture",
-        "Death",
+        "Dynasty",
         "Emperor",
-        "Sassanid"
+        "Death"
       ],
       "type": "historic"
     },
@@ -805,14 +805,14 @@
       "source": "https://en.wikipedia.org/wiki/Bahram_Chobin",
       "tags": [
         "Persian",
-        "Arsacid",
+        "Sassanid",
         "Civil War",
         "Crisis",
+        "Arsacid",
         "Emperor",
-        "Mutiny",
-        "Overthrow",
         "Political",
-        "Sassanid"
+        "Mutiny",
+        "Overthrow"
       ],
       "type": "political"
     },
@@ -827,14 +827,14 @@
       "name_ru": "Хосров II восстановлен с помощью Византии ",
       "source": "https://en.wikipedia.org/wiki/Khosrow_II",
       "tags": [
+        "Byzantine",
         "Persian",
         "Roman",
+        "Sassanid",
         "Civil War",
         "Dynasty",
-        "Byzantine",
         "Emperor",
-        "Political",
-        "Sassanid"
+        "Political"
       ],
       "type": "political"
     },
@@ -850,11 +850,11 @@
       "source": "https://en.wikipedia.org/wiki/Chovgan",
       "tags": [
         "Persian",
-        "Aristocracy",
-        "Cavalry",
-        "Culture",
         "Sassanid",
-        "Sport"
+        "Culture",
+        "Sport",
+        "Aristocracy",
+        "Cavalry"
       ],
       "type": "cultural"
     },
@@ -869,12 +869,12 @@
       "name_ru": "Хосров II начинает Великую войну с Византией",
       "source": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Sasanian_War_of_602%E2%80%93628",
       "tags": [
+        "Byzantine",
         "Persian",
         "Roman",
+        "Sassanid",
         "War",
-        "Byzantine",
-        "Expansion",
-        "Sassanid"
+        "Expansion"
       ],
       "type": "military"
     },
@@ -883,18 +883,18 @@
       "description": "Sassanid armies under Shahrbaraz sweep through Syria in a lightning campaign, capturing Antioch, Apamea, and Emesa in rapid succession — cities falling in weeks rather than the months or years that previous Sassanid campaigns had required. The Byzantine eastern field army is shattered and withdraws to Anatolia. The Miaphysite Christian populations of Syria — alienated by Chalcedonian Byzantine religious enforcement — offer limited resistance and in some cases active assistance to the Sassanid advance.\n\nThe loss of Syria is more than territorial: it removes the recruiting ground for the Byzantine eastern army, the tax base for eastern defence, and the religious legitimacy of the patriarchates of Antioch and Jerusalem. For the first time since the Roman conquest of the Seleucid Empire in 63 BC, the entire Levant is under Iranian control — and the Iranian power holding it is at its maximum territorial extent, administrative sophistication, and military reach.",
       "description_ru": "Сасанидские армии под командованием Шахрбараза стремительно проходят через Сирию, захватывая Антиохию, Апамею и Эмесу (Хомс) — города падают за недели. Византийская восточная полевая армия разбита и отступает в Анатолию. Миафизитское христианское население Сирии — отчуждённое халкидонским Византийским религиозным принуждением — сопротивляется слабо, а в некоторых случаях  содействует сасанидскому продвижению.\n\nПотеря Сирии — нечто большее, чем территориальная: она лишает Византию рекрутской базы для восточной армии и налоговой базы для восточной обороны. Впервые со времён Римского завоевания государства Селевкидов весь Левант находится под иранским контролем — и иранская держава, удерживающая его, достигла максимальной территориальной протяжённости, административного совершенства и военного могущества.",
       "era": "AD",
-      "latitude": 36.2,
-      "longitude": 36.16,
+      "latitude": 36.2034,
+      "longitude": 36.1639,
       "name": "Sassanids Take Syria and Antioch — the Roman East Collapses",
       "name_ru": "Сасаниды берут Сирию и Антиохию",
       "source": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Sasanian_War_of_602%E2%80%93628",
       "tags": [
+        "Byzantine",
         "Persian",
         "Roman",
-        "War",
-        "Byzantine",
-        "Conquest",
         "Sassanid",
+        "War",
+        "Conquest",
         "Syria"
       ],
       "type": "military"
@@ -911,11 +911,11 @@
       "source": "https://en.wikipedia.org/wiki/Barbad_the_Poet-Musician",
       "tags": [
         "Persian",
-        "Ceremonial",
+        "Sassanid",
         "Culture",
+        "Ceremonial",
         "Music",
-        "Poetry",
-        "Sassanid"
+        "Poetry"
       ],
       "type": "cultural"
     },
@@ -933,10 +933,10 @@
         "Persian",
         "Roman",
         "Egypt",
+        "Sassanid",
         "War",
         "Conquest",
-        "Expansion",
-        "Sassanid"
+        "Expansion"
       ],
       "type": "military"
     },
@@ -952,14 +952,14 @@
       "source": "https://en.wikipedia.org/wiki/Khosrow_II",
       "tags": [
         "Persian",
+        "Sassanid",
         "Civil War",
-        "Dynasty",
         "Crisis",
-        "Death",
+        "Dynasty",
         "Emperor",
+        "Death",
         "Execution",
-        "Overthrow",
-        "Sassanid"
+        "Overthrow"
       ],
       "type": "historic"
     },
@@ -975,11 +975,11 @@
       "source": "https://en.wikipedia.org/wiki/Purandokht",
       "tags": [
         "Persian",
+        "Sassanid",
         "Crisis",
         "Emperor",
-        "Political",
         "Queen",
-        "Sassanid"
+        "Political"
       ],
       "type": "political"
     },
@@ -994,13 +994,13 @@
       "name_ru": "Арабы сокрушают сасанидов при Кадисии",
       "source": "https://en.wikipedia.org/wiki/Battle_of_al-Qadisiyya",
       "tags": [
-        "Arabian",
         "Persian",
-        "War",
-        "Battle",
-        "Islamic",
+        "Arabian",
+        "Sassanid",
         "Rashidun",
-        "Sassanid"
+        "Islamic",
+        "War",
+        "Battle"
       ],
       "type": "military"
     },
@@ -1015,13 +1015,13 @@
       "name_ru": "Арабы захватывают столицу Сасанидской Персии",
       "source": "https://en.wikipedia.org/wiki/Ctesiphon",
       "tags": [
-        "Arabian",
         "Persian",
-        "War",
-        "Fall",
-        "Islamic",
+        "Arabian",
+        "Sassanid",
         "Rashidun",
-        "Sassanid"
+        "Islamic",
+        "War",
+        "Fall"
       ],
       "type": "military"
     },
@@ -1036,13 +1036,13 @@
       "name_ru": "Разгром Сасанидов при Нихавенде",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Nahavand",
       "tags": [
-        "Arabian",
         "Persian",
-        "War",
-        "Battle",
-        "Islamic",
+        "Arabian",
+        "Sassanid",
         "Rashidun",
-        "Sassanid"
+        "Islamic",
+        "War",
+        "Battle"
       ],
       "type": "military"
     },
@@ -1058,13 +1058,13 @@
       "source": "https://en.wikipedia.org/wiki/Yazdegerd_III",
       "tags": [
         "Persian",
+        "Sassanid",
         "Dynasty",
+        "Emperor",
         "Death",
         "Decline",
-        "Emperor",
         "End",
-        "Fall",
-        "Sassanid"
+        "Fall"
       ],
       "type": "historic"
     },
@@ -1079,12 +1079,12 @@
       "name_ru": "Персидское сопротивление исламскому завоеванию",
       "source": "https://en.wikipedia.org/wiki/Muslim_conquest_of_Persia",
       "tags": [
-        "Arabian",
         "Persian",
-        "War",
-        "Islamic",
-        "Rashidun",
+        "Arabian",
         "Sassanid",
+        "Rashidun",
+        "Islamic",
+        "War",
         "Resistance"
       ],
       "type": "military"

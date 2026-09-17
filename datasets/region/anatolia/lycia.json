@@ -1,351 +1,410 @@
 {
   "description": "Dataset imported with 19 events",
-  "filename": "lycia.json",
   "events": [
     {
       "date": "01.01.1400",
+      "description": "Long before the name \"Lycia\" itself emerged, Hittite and Egyptian scribes recorded the rugged mountainous region of southwestern Anatolia as Lukka — the homeland of seafaring raiders whom the Hittites struggled to control. Hittite treaties and annals describe the lands of Lukka as a loose cluster of cities, not a unified kingdom, often allied with the Hittites' enemies and even mentioned among the \"Sea Peoples\" who harassed the shores of Egypt. This penchant for decentralization remained a unique feature of the region for thousands of years.",
+      "description_ru": "Задолго до появления самого имени «Ликия» хеттские и египетские писцы фиксировали суровый горный край юго-западной Анатолии под названием Лукка — родину мореходов-налётчиков, которых хеттам с трудом удавалось контролировать. Хеттские договоры и анналы описывают земли Лукка как рыхлое скопление городов, а не единое царство, часто выступавшее заодно с врагами хеттов и упоминаемое даже среди «народов моря», тревоживших берега Египта. Эта склонность к децентрализации оставалась уникальной чертой региона тысячи лет.",
       "era": "BC",
-      "type": "historic",
+      "latitude": 36.3567,
+      "longitude": 29.3181,
       "name": "The Lukka Lands Appear in Hittite Records",
       "name_ru": "Земли Лукка упоминаются в хеттских записях",
-      "description": "Long before the name \"Lycia\" existed, Hittite and Egyptian scribes recorded a rugged mountainous region of southwestern Anatolia called Lukka, home to seafaring raiders the Hittites struggled to control. Hittite treaties and annals describe the Lukka lands as a loose patchwork of towns rather than a unified kingdom, frequently allied with the Hittites' enemies and even named among the sea peoples who harassed Egypt's coasts. This fierce independence from centralized rule would remain the region's defining trait for the next two thousand years, long after the Hittite Empire itself had collapsed. The name Lukka survived, in only slightly altered form, as the root of the later Greek name Lycia, preserving in language what the mountains had always protected in fact: a people who answered to outside empires reluctantly, if at all, and reorganized on their own terms whenever imperial pressure eased.",
-      "description_ru": "Задолго до появления самого имени «Ликия» хеттские и египетские писцы фиксировали суровый горный край юго-западной Анатолии под названием Лукка — родину мореходов-налётчиков, которых хеттам с трудом удавалось контролировать. Хеттские договоры и анналы описывают земли Лукка как рыхлое скопление городов, а не единое царство, часто выступавшее заодно с врагами хеттов и упоминаемое даже среди «народов моря», тревоживших берега Египта. Эта яростная независимость от централизованной власти оставалась главной чертой региона ещё две тысячи лет — задолго до крушения самой Хеттской империи. Имя Лукка сохранилось, лишь слегка изменившись, как корень позднейшего греческого названия Ликия, сберегая в языке то, что горы всегда берегли на деле: народ, неохотно подчинявшийся чужим державам и перестраивавшийся по-своему, стоило имперскому давлению ослабнуть.",
-      "latitude": 36.3567,
-      "longitude": 29.3181,
       "source": "https://en.wikipedia.org/wiki/Lukka",
       "tags": [
-        "Lycia",
+        "Hittite",
+        "Lycian",
         "Anatolia",
-        "Historic",
-        "Foundation"
-      ]
+        "Maritime"
+      ],
+      "type": "historic"
     },
     {
-      "date": "01.01.1250",
+      "date": "01.01.1179",
+      "description": "In Homer's Iliad, the Lycians appear as Troy's most valorous foreign allies, led by two cousins: Sarpedon, a son of Zeus, and Glaucus, grandson of the hero Bellerophon. Sarpedon delivers some of the poem's most quoted lines on the duty of nobility to fight in the front ranks precisely because privilege is earned through risk, and his death at the hands of Patroclus, followed by a divine struggle over his body, is treated as one of the epic's great tragedies. \n\nWhatever the historical reality behind these Bronze Age warriors, the legend fixed Lycia permanently in the Greek imagination as a distant, honorable land whose heroes matched Troy's own in courage and lineage. Centuries later, real Lycian cities would still name their citizen groups after Sarpedon and Bellerophon, treating Homer's verses not as foreign poetry but as their own inherited family history.",
+      "description_ru": "В «Илиаде» Гомера ликийцы предстают самыми доблестными иноземными союзниками Трои во главе с двумя двоюродными братьями: Сарпедоном, сыном Зевса, и Главком, внуком героя Беллерофонта. Сарпедону принадлежат одни из самых цитируемых строк поэмы о долге знатного мужа сражаться в первых рядах именно потому, что привилегия заслуживается риском, а его гибель от руки Патрокла и последующая борьба богов за его тело считаются одной из главных трагедий эпоса. \n\nКакой бы ни была историческая реальность, легенда навсегда закрепила за Ликией место далёкой, благородной земли, чьи герои не уступали троянцам ни доблестью, ни родословной. Спустя века реальные ликийские города по-прежнему называли свои гражданские общины именами Сарпедона и Беллерофонта, воспринимая стихи Гомера не как чужую поэзию, а как собственную родовую историю.",
       "era": "BC",
-      "type": "cultural",
+      "latitude": 39.9575,
+      "longitude": 26.2381,
       "name": "Lycians Fight for Troy as Homer's Iliad Remembers Them",
-      "name_ru": "Ликийцы сражаются за Трою, как их помнит «Илиада» Гомера",
-      "description": "In Homer's Iliad, the Lycians appear as Troy's most valorous foreign allies, led by two cousins: Sarpedon, a son of Zeus, and Glaucus, grandson of the hero Bellerophon. Sarpedon delivers some of the poem's most quoted lines on the duty of nobility to fight in the front ranks precisely because privilege is earned through risk, and his death at the hands of Patroclus, followed by a divine struggle over his body, is treated as one of the epic's great tragedies. Whatever the historical reality behind these Bronze Age warriors, the legend fixed Lycia permanently in the Greek imagination as a distant, honorable land whose heroes matched Troy's own in courage and lineage. Centuries later, real Lycian cities would still name their citizen groups after Sarpedon and Bellerophon, treating Homer's verses not as foreign poetry but as their own inherited family history.",
-      "description_ru": "В «Илиаде» Гомера ликийцы предстают самыми доблестными иноземными союзниками Трои во главе с двумя двоюродными братьями: Сарпедоном, сыном Зевса, и Главком, внуком героя Беллерофонта. Сарпедону принадлежат одни из самых цитируемых строк поэмы о долге знатного мужа сражаться в первых рядах именно потому, что привилегия заслуживается риском, а его гибель от руки Патрокла и последующая борьба богов за его тело считаются одной из главных трагедий эпоса. Какой бы ни была историческая реальность за этими воинами бронзового века, легенда навсегда закрепила за Ликией место далёкой, благородной земли, чьи герои не уступали троянцам ни доблестью, ни родословной. Спустя века реальные ликийские города по-прежнему называли свои гражданские общины именами Сарпедона и Беллерофонта, воспринимая стихи Гомера не как чужую поэзию, а как собственную родовую историю.",
-      "latitude": 36.3567,
-      "longitude": 29.3181,
+      "name_ru": "Ликийцы в «Илиаде» Гомера",
       "source": "https://en.wikipedia.org/wiki/Sarpedon",
       "tags": [
-        "Lycia",
-        "Anatolia",
+        "Lycian",
         "Culture",
-        "Mythology"
-      ]
+        "Legend",
+        "Anatolia"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0600",
+      "description": "Around the 7th-6th centuries BCE, the Lycians began carving a language found nowhere else in the world on tombs, coins, and monuments, using a script borrowed from the Greeks but supplemented with new letters for sounds not found in Greek. Lycian belonged to the Luwian branch of the Anatolian languages — a distant relative of Hittite, rather than a Greek dialect — and its unique alphabet of approximately twenty-nine characters markedly distinguished the Lycians from all their neighbors who wrote in Greek or Aramaic.\n\nBecause the Lycian dynasts carved extensive funerary and dedicatory texts in their own language, rather than borrowing Greek entirely, a vast corpus of genuine Lycian stone inscriptions has survived throughout the region. Although the language was later supplanted by Greek, its legacy has been well preserved.",
+      "description_ru": "Примерно в VII-VI веке до н. э. ликийцы начали высекать на гробницах, монетах и памятниках язык, не встречающийся больше нигде в мире, используя письмо, заимствованное у греков, но дополненное новыми буквами для звуков, которых в греческом не было. Ликийский принадлежал к лувийской ветви анатолийских языков — дальнему родственнику хеттского, а не греческому диалекту, и его уникальный алфавит примерно из двадцати девяти знаков заметно отличал ликийцев от всех соседей, писавших по-гречески или по-арамейски. \n\nПоскольку ликийские династы высекали пространные погребальные и посвятительные тексты на собственном языке, а не заимствовали греческий целиком, по всему региону сохранился огромный массив подлинно ликийских надписей на камне. Хотя позднее язык был вытеснен греческим, его наследие хорошо сохранилось.",
       "era": "BC",
-      "type": "cultural",
-      "name": "The Lycians Write Their Own Language in Their Own Alphabet",
-      "name_ru": "Ликийцы записывают свой язык собственным алфавитом",
-      "description": "Sometime around the seventh or sixth century BC, the Lycians began carving a language found nowhere else in the world onto their tombs, coins, and monuments, using a script adapted from Greek but expanded with extra letters to capture sounds Greek could not represent. Lycian belonged to the Luwic branch of Anatolian languages, a distant cousin of Hittite rather than a Greek dialect, and its unique alphabet of roughly twenty-nine characters set the Lycians visibly apart from every neighboring people who wrote in standard Greek or Aramaic. Because Lycian dynasts inscribed lengthy funerary and dedicatory texts in their own tongue rather than borrowing Greek wholesale, an enormous body of genuinely Lycian writing survives on stone across the region today. The language would ultimately die out under Hellenistic pressure a few centuries later, but for as long as it lasted it gave Lycia something almost no other Anatolian people retained: a written voice entirely its own.",
-      "description_ru": "Примерно в седьмом-шестом веке до н. э. ликийцы начали высекать на гробницах, монетах и памятниках язык, не встречающийся больше нигде в мире, используя письмо, заимствованное у греков, но дополненное новыми буквами для звуков, которых в греческом не было. Ликийский принадлежал к лувийской ветви анатолийских языков — дальнему родственнику хеттского, а не греческому диалекту, и его уникальный алфавит примерно из двадцати девяти знаков заметно отличал ликийцев от всех соседей, писавших по-гречески или по-арамейски. Поскольку ликийские династы высекали пространные погребальные и посвятительные тексты на собственном языке, а не заимствовали греческий целиком, сегодня по всему региону сохранился огромный массив подлинно ликийских надписей на камне. В итоге язык вымер под эллинистическим давлением несколько веков спустя, но пока он существовал, он давал Ликии то, чем почти ни один другой анатолийский народ похвастаться не мог, — собственный письменный голос.",
       "latitude": 36.3567,
       "longitude": 29.3181,
+      "name": "The Lycians Write Their Own Language in Their Own Alphabet",
+      "name_ru": "Ликийцы создают свой алфавит",
       "source": "https://en.wikipedia.org/wiki/Lycian_language",
       "tags": [
-        "Lycia",
-        "Anatolia",
+        "Lycian",
         "Culture",
-        "Language"
-      ]
+        "Language",
+        "Writing",
+        "Anatolia"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0540",
-      "era": "BC",
-      "type": "military",
-      "name": "Harpagus Conquers Xanthos; Its People Choose Mass Suicide Over Surrender",
-      "name_ru": "Гарпаг покоряет Ксанф; его жители выбирают массовое самоубийство вместо сдачи",
       "description": "When the Persian general Harpagus marched into Lycia on behalf of Cyrus the Great, he first defeated a small Xanthian army on the plain north of the city, then pressed the survivors back inside its walls for a siege. According to Herodotus and Appian, the defenders concluded the city could not hold, gathered their wives, children, slaves, and valuables onto the acropolis, and burned them there before charging out to die fighting rather than accept Persian rule. The near-total destruction reportedly left only a handful of Xanthian families to carry on the city's line, yet Xanthos rebuilt and endured as Lycia's leading city for another five centuries. The episode became the defining story Lycians told about themselves: a small people who would rather annihilate everything they had than submit, a self-image so deeply rooted that a nearly identical mass suicide would recur at Xanthos under different conquerors half a millennium later.",
-      "description_ru": "Когда персидский полководец Гарпаг вторгся в Ликию от имени Кира Великого, он сначала разбил небольшое ксанфское войско на равнине к северу от города, а затем оттеснил уцелевших за стены, начав осаду. По свидетельству Геродота и Аппиана, защитники, поняв, что города не удержать, собрали жён, детей, рабов и ценности на акрополе, сожгли их там и бросились в последнюю атаку, предпочтя гибель в бою персидскому владычеству. Почти полное истребление, как сообщается, оставило в живых лишь горстку ксанфских семей, продолживших родовую линию города, однако Ксанф отстроился заново и оставался ведущим городом Ликии ещё пять столетий. Этот эпизод стал главным сказанием, которое ликийцы рассказывали о самих себе: небольшой народ, готовый уничтожить всё нажитое, лишь бы не покориться, — самоощущение настолько укоренившееся, что почти тождественное массовое самоубийство повторится в Ксанфе при иных завоевателях полтысячелетия спустя.",
+      "description_ru": "Когда персидский полководец Гарпаг вторгся в Ликию от имени Кира Великого, он сначала разбил небольшое ксанфское войско на равнине к северу, а затем оттеснил уцелевших за стены, начав осаду. По свидетельству Геродота и Аппиана, защитники, поняв, что города не удержать, собрали жён, детей, рабов и ценности на акрополе, сожгли их там и бросились в последнюю атаку, предпочтя гибель в бою персидскому владычеству. \n\nПочти полное истребление, как сообщается, оставило в живых лишь горстку семей, продолживших родовую линию города, однако Ксанф отстроился заново и оставался ведущим городом Ликии ещё пять веков. Этот эпизод стал главным сказанием, которое ликийцы рассказывали о самих себе: небольшой народ, готовый уничтожить всё нажитое, лишь бы не покориться.",
+      "era": "BC",
       "latitude": 36.3567,
       "longitude": 29.3181,
+      "name": "Persian conquest of Lycia and the self-destruction of Xanthos",
+      "name_ru": "Персидское завоевание Ликии и самоуничтожение Ксанфа",
       "source": "https://en.wikipedia.org/wiki/Xanthos",
       "tags": [
-        "Lycia",
-        "Anatolia",
+        "Persian",
+        "Achaemenid",
+        "Lycian",
         "War",
-        "Persia",
-        "Defeat"
-      ]
+        "Conquest",
+        "Legend",
+        "Anatolia",
+        "Suicide"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0500",
+      "description": "Myra (or Myra in Lycia) was an ancient and one of the most influential cities in Lycia on the Andracus River.\n\nThe Lycians had a cult of the dead, closely linked to their religious beliefs: they believed that the souls of the dead were carried to heaven by winged sirens or bird-like creatures. The higher the tomb was carved into the rock, the wealthier, more noble, and more important the person buried therein. It was believed that the deceased in high places had a much easier and faster access to the higher worlds.\n\nThe uniqueness of Myra tombs is their architectural style, which completely imitates the wooden dwellings of the Lycians. The tomb facades are carved as if they were constructed from wooden beams, logs, and pillars with characteristic corbels and ceilings.",
+      "description_ru": "Мира (или Миры Ликийские) — древний и один из влиятельнейших городов Ликии на реке Андрак.\n\nУ ликийцев существовал культ мертвых, тесно связанный с их религиозными верованиями: они верили, что души умерших уносятся на небо крылатыми сиренами или птицеподобными существами. Чем выше гробница была вырублена в скале, тем более богатый, знатный и важный человек в ней покоился. Считалось, что высоко расположенным покойникам гораздо проще и быстрее добраться до высших миров.\n\nУникальность мирийских гробниц — их архитектурный стиль, полностью имитирующий деревянное жилище ликийцев. Фасады усыпальниц высечены так, будто они построены из деревянных балок, бревен и столбов с характерными выступами и перекрытиями.",
+      "era": "BC",
+      "latitude": 36.26126553,
+      "longitude": 29.98578787,
+      "name": "Rock Tombs of Myra in Lycia",
+      "name_ru": "Скальные гробницы Миры Ликийской",
+      "source": "https://en.wikipedia.org/wiki/Myra",
+      "tags": [
+        "Lycian",
+        "City",
+        "Religious",
+        "Pagan",
+        "Culture",
+        "Burial",
+        "Architecture",
+        "Tomb"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0470",
+      "description": "In 480 BC, Lycian ships fought on the Persian side against the Greeks, part of the same fleet that helped destroy the Athenian Acropolis. Athens did not forget: around 470 BC the Athenian commander Cimon struck back at Xanthos's sacred citadel, burning the wooden tombs and temples the Lycians had built there for generations. \n\nThe Xanthian dynast Kuprlli, ruling under Persian overlordship, used the disaster as an opportunity rather than a defeat, rebuilding the destroyed structures in carved stone instead of timber. That rebuilding produced the earliest of Xanthos's famous stone tombs, monuments that still stand today and became the model for the elaborate pillar tombs and house-shaped rock-cut graves that would make Lycian funerary architecture instantly recognizable across the ancient Mediterranean. Kuprlli also minted some of Lycia's earliest known coinage, giving the dynasty a durable material record of a reign that turned an act of Greek revenge into Lycia's first golden age of stone.",
+      "description_ru": "В 480 году до н. э. ликийские корабли сражались на стороне персов против греков — в составе того же флота, что помог разрушить афинский Акрополь. Через 10 лет афинский военачальник Кимон нанёс ответный удар по священному акрополю Ксанфа, сжёг деревянные гробницы и храмы, которые ликийцы возводили там из поколения в поколение. \n\nКсанфский династ Купрлли, правивший под персидским владычеством, обратил бедствие не в поражение, а в возможность, отстроив разрушенное уже не из дерева, а из тёсаного камня. Это восстановление породило древнейшие из знаменитых каменных гробниц Ксанфа — памятники, стоящие и поныне и ставшие образцом для пышных столбовых гробниц и вырубленных в скале домов-усыпальниц, сделавших ликийскую погребальную архитектуру мгновенно узнаваемой во всём древнем Средиземноморье. Купрлли также чеканил одни из первых известных ликийских монет, оставив прочный вещественный след правления, обратившего греческую месть в первый золотой век Ликии в камне.",
       "era": "BC",
-      "type": "cultural",
-      "name": "Kuprlli Rebuilds Xanthos in Stone After Athenian Retaliation",
-      "name_ru": "Купрлли отстраивает Ксанф в камне после афинского возмездия",
-      "description": "In 480 BC, Lycian ships fought on the Persian side against the Greeks, part of the same fleet that helped destroy the Athenian Acropolis. Athens did not forget: around 470 BC the Athenian commander Cimon struck back at Xanthos's sacred citadel, burning the wooden tombs and temples the Lycians had built there for generations. The Xanthian dynast Kuprlli, ruling under Persian overlordship, used the disaster as an opportunity rather than a defeat, rebuilding the destroyed structures in carved stone instead of timber. That rebuilding produced the earliest of Xanthos's famous stone tombs, monuments that still stand today and became the model for the elaborate pillar tombs and house-shaped rock-cut graves that would make Lycian funerary architecture instantly recognizable across the ancient Mediterranean. Kuprlli also minted some of Lycia's earliest known coinage, giving the dynasty a durable material record of a reign that turned an act of Greek revenge into Lycia's first golden age of stone.",
-      "description_ru": "В 480 году до н. э. ликийские корабли сражались на стороне персов против греков — в составе того же флота, что помог разрушить афинский Акрополь. Афины не забыли: около 470 года до н. э. афинский военачальник Кимон нанёс ответный удар по священному акрополю Ксанфа, сжёг деревянные гробницы и храмы, которые ликийцы возводили там из поколения в поколение. Ксанфский династ Купрлли, правивший под персидским владычеством, обратил бедствие не в поражение, а в возможность, отстроив разрушенное уже не из дерева, а из тёсаного камня. Это восстановление породило древнейшие из знаменитых каменных гробниц Ксанфа — памятники, стоящие и поныне и ставшие образцом для пышных столбовых гробниц и вырубленных в скале домов-усыпальниц, сделавших ликийскую погребальную архитектуру мгновенно узнаваемой во всём древнем Средиземноморье. Купрлли также чеканил одни из первых известных ликийских монет, оставив прочный вещественный след правления, обратившего греческую месть в первый золотой век Ликии в камне.",
       "latitude": 36.3567,
       "longitude": 29.3181,
+      "name": "Kuprlli rebuilds Xanthos after its destruction by Athens",
+      "name_ru": "Купрлли восстанавливает Ксанф после разорения Афинами",
       "source": "https://en.wikipedia.org/wiki/Kuprlli",
       "tags": [
-        "Lycia",
-        "Anatolia",
+        "Greek",
+        "Persian",
+        "Achaemenid",
+        "Athens",
+        "Lycian",
+        "War",
         "Culture",
-        "Persia"
-      ]
+        "Anatolia",
+        "Restoration"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0450",
+      "description": "Perched on cliffs above the Xanthos valley, Tlos ranked among the six great cities of Lycia and claimed a mythic pedigree few rivals could match: ancient tradition held that it was the home of the hero Bellerophon, tamer of the winged horse Pegasus, and inscriptions confirm that the city's citizens organized themselves into civic groups literally named Bellerophon, Iobates, and Sarpedon after their legendary ancestors. \n\nTlos carved elaborate tombs directly into its cliff faces, façades imitating wooden house fronts complete with beams and doorframes, one of which was popularly identified with Bellerophon himself. This fusion of monumental rock-cut architecture with inherited Greek myth captured something distinctive about Lycian identity: a people who treated legendary heroes not as distant literary figures but as the literal namesakes of the neighborhoods they lived in and the cliffs they were buried beneath.",
+      "description_ru": "Расположенный на скалах над долиной Ксанфа, Тлос входил в число шести великих городов Ликии и обладал мифической родословной, которой могли похвастаться немногие: древнее предание называло его родиной героя Беллерофонта, укротителя крылатого коня Пегаса, а надписи подтверждают, что горожане объединялись в гражданские группы, буквально названные Беллерофонтом, Иобатом и Сарпедоном в честь легендарных предков. \n\nТлос высекал в отвесных скалах пышные гробницы с фасадами, имитирующими деревянные дома с балками и дверными проёмами, — одну из них молва связывала с самим Беллерофонтом. Это слияние монументальной скальной архитектуры с унаследованным греческим мифом отражало нечто характерное для ликийской идентичности: народ, воспринимавший легендарных героев не как далёкие литературные фигуры, а как буквальных тёзок кварталов, где они жили, и скал, под которыми их хоронили.",
       "era": "BC",
-      "type": "cultural",
-      "name": "Tlos Carves Its Rock Tombs Beside the Legend of Bellerophon",
-      "name_ru": "Тлос высекает скальные гробницы рядом с преданием о Беллерофонте",
-      "description": "Perched on cliffs above the Xanthos valley, Tlos ranked among the six great cities of Lycia and claimed a mythic pedigree few rivals could match: ancient tradition held that it was the home of the hero Bellerophon, tamer of the winged horse Pegasus, and inscriptions confirm that the city's citizens organized themselves into civic groups literally named Bellerophon, Iobates, and Sarpedon after their legendary ancestors. From the fifth century BC onward, Tlos carved elaborate tombs directly into its cliff faces, façades imitating wooden house fronts complete with beams and doorframes, one of which was popularly identified with Bellerophon himself. This fusion of monumental rock-cut architecture with inherited Greek myth captured something distinctive about Lycian identity: a people who treated legendary heroes not as distant literary figures but as the literal namesakes of the neighborhoods they lived in and the cliffs they were buried beneath.",
-      "description_ru": "Расположенный на скалах над долиной Ксанфа, Тлос входил в число шести великих городов Ликии и обладал мифической родословной, которой могли похвастаться немногие: древнее предание называло его родиной героя Беллерофонта, укротителя крылатого коня Пегаса, а надписи подтверждают, что горожане объединялись в гражданские группы, буквально названные Беллерофонтом, Иобатом и Сарпедоном в честь легендарных предков. С пятого века до н. э. Тлос высекал в отвесных скалах пышные гробницы с фасадами, имитирующими деревянные дома с балками и дверными проёмами, — одну из них молва связывала с самим Беллерофонтом. Это слияние монументальной скальной архитектуры с унаследованным греческим мифом отражало нечто характерное для ликийской идентичности: народ, воспринимавший легендарных героев не как далёкие литературные фигуры, а как буквальных тёзок кварталов, где они жили, и скал, под которыми их хоронили.",
-      "latitude": 36.5525,
-      "longitude": 29.4208,
+      "latitude": 36.55493873,
+      "longitude": 29.4190371,
+      "name": "Rock Tombs of Tlos in Lycia",
+      "name_ru": "Cкальные гробницы Тлоса в Ликии",
       "source": "https://en.wikipedia.org/wiki/Tlos",
       "tags": [
-        "Lycia",
-        "Anatolia",
+        "Lycian",
+        "City",
         "Culture",
-        "Mythology"
-      ]
+        "Architecture",
+        "Tomb",
+        "Anatolia"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0440",
+      "description": "While writing his History, Herodotus paused in his account of the Persian conquests to note something he found truly odd about the Lycians: unlike all other peoples he knew, they called themselves by their mother's name, not their father's, and traced descent and status through the matrilineal line. Herodotus reports that if asked who a Lycian was, he would name his mother and her mother, not his paternal lineage, and that the child of a Lycian woman and a slave was considered completely free and legitimate, while the reverse did not guarantee such a guarantee.\n\nModern historians debate how consistently this matrilineal system worked in practice, but its very appearance in Herodotus' History cemented Lycia's reputation as a society whose family law was at odds with almost all others.",
+      "description_ru": "Работая над своей «Историей», Геродот прервал рассказ о персидских завоеваниях, чтобы отметить нечто, показавшееся ему по-настоящему странным в ликийцах: в отличие от всех известных ему народов, они называли себя по имени матери, а не отца, и вели происхождение и статус по материнской линии. Геродот сообщает, что если спросить ликийца, кто он, тот назовёт свою мать и её мать, а не отцовский род, и что ребёнок ликийской женщины и раба считался полностью свободным и законным, тогда как обратное сочетание такой гарантии не давало. \n\nСовременные историки спорят, насколько последовательно эта матрилинейная система действовала на практике, но само её появление в «Истории» Геродота закрепило за Ликией репутацию общества, чьё семейное право шло вразрез почти со всеми остальными.",
       "era": "BC",
-      "type": "cultural",
-      "name": "Herodotus Records Lycia's Matrilineal Customs",
-      "name_ru": "Геродот описывает матрилинейные обычаи Ликии",
-      "description": "Writing in the mid-fifth century BC, the historian Herodotus paused his account of Persian conquests to note something he found genuinely strange about the Lycians: unlike every other people he knew, they identified themselves by their mother's name rather than their father's, and traced descent and status through the maternal line. Herodotus records that if anyone asked a Lycian who he was, the answer would name his mother and her mother in turn rather than a paternal lineage, and that the child of a Lycian woman and an enslaved man was considered fully free and legitimate, while the reverse arrangement carried no such guarantee. Modern historians debate how thoroughgoing this matrilineal system actually was in practice, but its mere presence in Herodotus's Histories fixed Lycia in the classical imagination as a society whose family law ran backward from nearly everyone else's, a detail as memorable to ancient readers as it is to modern ones.",
-      "description_ru": "Работая над своим трудом в середине пятого века до н. э., историк Геродот прервал рассказ о персидских завоеваниях, чтобы отметить нечто, показавшееся ему по-настоящему странным в ликийцах: в отличие от всех известных ему народов, они называли себя по имени матери, а не отца, и вели происхождение и статус по материнской линии. Геродот сообщает, что если спросить ликийца, кто он, тот назовёт свою мать и её мать, а не отцовский род, и что ребёнок ликийской женщины и раба считался полностью свободным и законным, тогда как обратное сочетание такой гарантии не давало. Современные историки спорят, насколько последовательно эта матрилинейная система действовала на практике, но само её появление в «Истории» Геродота закрепило за Ликией репутацию общества, чьё семейное право шло вразрез почти со всеми остальными, — деталь, столь же памятная древним читателям, сколь и нынешним.",
       "latitude": 36.3567,
       "longitude": 29.3181,
+      "name": "Herodotus describes the matrilineal customs of Lycia",
+      "name_ru": "Геродот описывает матрилинейные обычаи Ликии",
       "source": "https://en.wikipedia.org/wiki/Lycia",
       "tags": [
-        "Lycia",
-        "Anatolia",
+        "Lycian",
         "Culture",
-        "Political"
-      ]
+        "Customs",
+        "History",
+        "Uncertain",
+        "Political",
+        "Anatolia",
+        "Herodotus 👤"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0400",
+      "description": "South of Xanthos, a sanctuary dedicated to Leto, the mythical mother of Apollo and Artemis, grew from a local altar into a religious center for the entire Lycian people. Lycian tradition held that Leto herself passed through these lands fleeing the jealous Hera, directly linking the native landscape with the story of the birth of the twin gods.\n\nBy 400 BCE, three temples dedicated to Leto and her children, as well as a theater and nymphaeum, stood nearby. The sanctuary later served as the official federal center of the Lycian League, where city representatives gathered for both religious and political affairs. The fusion of local myth, indigenous cult, and Greek architectural form made Letoon a place for the Lycians comparable to Delphi for the rest of the Greek world.",
+      "description_ru": "К югу от Ксанфа святилище, посвящённое Лето, мифической матери Аполлона и Артемиды, выросло из местного алтаря в религиозный центр всего ликийского народа. Ликийское предание гласило, что сама Лето прошла через эти земли, спасаясь от ревнивой Геры, что напрямую связывало родной ландшафт с историей рождения близнецов-богов. \n\nК 400 году до н. э. на месте стояли рядом три храма, посвящённые Лето и её детям, а также театр и нимфей, и позднее святилище служило официальным федеральным центром Ликийского союза, где представители городов собирались как для религиозных, так и для политических дел. Слияние местного мифа, коренного культа и греческой архитектурной формы сделало Летоон для ликийцев местом сопоставимым с Дельфами для остального греческого мира.",
       "era": "BC",
-      "type": "religious",
-      "name": "The Sanctuary of Leto at Letoon Becomes Lycia's Sacred Heart",
-      "name_ru": "Святилище Лето в Летооне становится священным сердцем Ликии",
-      "description": "Four kilometers south of Xanthos, a sanctuary dedicated to Leto, mythic mother of Apollo and Artemis, grew from a local shrine into the religious center of the entire Lycian people. Lycian tradition held that Leto herself had passed through the region while fleeing the jealous goddess Hera, tying the national landscape directly to the twin gods' birth story in a way no neighboring people could claim. By around 400 BC the site held three temples side by side, dedicated to Leto and her two children, alongside a theater and a nymphaeum, and it would later serve as the Lycian League's official federal sanctuary where representatives gathered for religious and political business alike. Letoon's fusion of local myth, indigenous cult, and Greek architectural form made it the closest thing Lycia had to a national shrine, comparable in local importance to Delphi for the wider Greek world.",
-      "description_ru": "В четырёх километрах к югу от Ксанфа святилище, посвящённое Лето, мифической матери Аполлона и Артемиды, выросло из местного алтаря в религиозный центр всего ликийского народа. Ликийское предание гласило, что сама Лето прошла через эти земли, спасаясь от ревнивой Геры, что напрямую связывало родной ландшафт с историей рождения близнецов-богов так, как не мог претендовать ни один сосед. Примерно к 400 году до н. э. на месте стояли рядом три храма, посвящённые Лето и её детям, а также театр и нимфей, и позднее святилище служило официальным федеральным центром Ликийского союза, где представители городов собирались как для религиозных, так и для политических дел. Слияние местного мифа, коренного культа и греческой архитектурной формы сделало Летоон ближайшим подобием общенационального святилища Ликии, по местному значению сопоставимым с Дельфами для остального греческого мира.",
-      "latitude": 36.3167,
-      "longitude": 29.2833,
+      "latitude": 36.33155755,
+      "longitude": 29.28952932,
+      "name": "The Sanctuary of Leto in Letoon – the sacred heart of Lycia",
+      "name_ru": "Святилище Лето в Летооне — священное сердце Ликии",
       "source": "https://en.wikipedia.org/wiki/Letoon",
       "tags": [
-        "Lycia",
-        "Anatolia",
+        "Lycian",
         "Religious",
-        "Culture"
-      ]
+        "Pagan",
+        "Holy Site",
+        "Culture",
+        "Architecture",
+        "Temple",
+        "Anatolia"
+      ],
+      "type": "religious"
     },
     {
       "date": "01.01.0390",
-      "era": "BC",
-      "type": "cultural",
-      "name": "The Nereid Monument Fuses Greek, Persian, and Lycian Traditions",
-      "name_ru": "Гробница Нереид объединяет греческие, персидские и ликийские традиции",
       "description": "For the Xanthian dynast Arbinas, Lycian craftsmen built a tomb unlike anything in the Greek or Persian world separately: a full Greek temple, complete with columns and pediments, mounted atop a tall base carved with battle friezes and set between statues of sea nymphs, all built to house the body of a local ruler in the distinctly Lycian tradition of monumental dynastic tombs. The result, later named the Nereid Monument after its sculpted sea-nymph figures, married the temple architecture of the Greek world with the raised, house-like burial tradition native to Lycia, all under the political reality of Persian imperial rule, without fully belonging to any single one of those traditions. Its influence outlived Lycia itself: the design directly inspired the Mausoleum at Halicarnassus in neighboring Caria, one of the Seven Wonders of the ancient world, meaning a Lycian tomb helped shape the most famous funerary monument the Greek world ever built.",
-      "description_ru": "Для ксанфского династа Арбинаса ликийские мастера построили гробницу, не похожую в отдельности ни на что греческое, ни на что персидское: полноценный греческий храм с колоннами и фронтонами, поставленный на высоком основании с батальными фризами и статуями морских нимф, — и всё это ради того, чтобы поместить тело местного правителя в русле сугубо ликийской традиции монументальных династических гробниц. Получившееся сооружение, позже названное гробницей Нереид по скульптурам морских нимф, соединило храмовую архитектуру греческого мира с исконно ликийской традицией приподнятого, похожего на дом погребения — и всё это под политической реальностью персидского владычества, не принадлежа целиком ни одной из этих традиций. Её влияние пережило саму Ликию: этот замысел напрямую вдохновил Галикарнасский мавзолей в соседней Карии, одно из семи чудес древнего мира, а значит, ликийская гробница помогла сформировать облик самого знаменитого погребального памятника греческого мира.",
-      "latitude": 36.3561,
-      "longitude": 29.3186,
+      "description_ru": "Для ксанфского династа Арбинаса ликийские мастера построили гробницу, не похожую в отдельности ни на что греческое, ни на что персидское: полноценный греческий храм с колоннами и фронтонами, поставленный на высоком основании с батальными фризами и статуями морских нимф, — и всё это ради того, чтобы поместить тело местного правителя в русле сугубо ликийской традиции монументальных династических гробниц. \n\nПолучившееся сооружение, позже названное гробницей Нереид по скульптурам морских нимф, соединило храмовую архитектуру греческого мира с исконно ликийской традицией приподнятого, похожего на дом погребения — и всё это под политической реальностью персидского владычества, не принадлежа целиком ни одной из этих традиций. Её влияние пережило саму Ликию: замысел напрямую вдохновил Галикарнасский мавзолей в соседней Карии.",
+      "era": "BC",
+      "latitude": 36.35472202,
+      "longitude": 29.32003677,
+      "name": "Tomb of the Nereids in Lycia",
+      "name_ru": "Гробница Нереид в Ликии",
       "source": "https://en.wikipedia.org/wiki/Nereid_Monument",
       "tags": [
-        "Lycia",
-        "Anatolia",
+        "Greek",
+        "Lycian",
         "Culture",
-        "Persia"
-      ]
+        "Cultural Continuity",
+        "Architecture",
+        "Building 🏠",
+        "Tomb",
+        "Anatolia"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0370",
+      "description": "The Lycian port city of Patara possessed a religious quality rarely found elsewhere in the ancient world: an oracle of Apollo, comparable in prestige to that of Delphi, but active only during the winter half of the year. Tradition held that Apollo divided his residence between Delos, where he reigned during the summer, and Patara, where the god retired during the winter months to deliver prophecies through the priestess who lived there — a seasonal pattern documented by Herodotus and later by the Roman commentator Servius.\n\nThe city's founding was attributed to Patara, Apollo's son, reinforcing the idea that Lycia and the god shared a special bond unmatched by other Greek-speaking regions.",
+      "description_ru": "Ликийский портовый город Патара обладал религиозным качеством, почти не встречавшимся больше нигде в древнем мире: оракулом Аполлона, по престижу сравнимым с Дельфийским, но действовавшим лишь в зимнюю половину года. Предание гласило, что Аполлон делил своё пребывание между Делосом, где он царил летом, и Патарой, куда бог удалялся на зимние месяцы, чтобы через жившую там жрицу изрекать пророчества, — сезонный порядок, зафиксированный Геродотом и позднее римским комментатором Сервием. \n\nОснование города приписывалось Патару, сыну Аполлона, укрепляя идею, что Ликию и бога связывали особые узы, недоступные другим грекоязычным областям.",
       "era": "BC",
-      "type": "religious",
-      "name": "Patara Hosts the Winter Oracle of Apollo",
-      "name_ru": "Патара принимает зимний оракул Аполлона",
-      "description": "The port city of Patara claimed a religious distinction found almost nowhere else in the ancient world: an oracle of Apollo said to rival Delphi in prestige, but active only during the winter half of the year. Ancient tradition held that Apollo divided his residence between Delos, where he presided in summer, and Patara, where the god withdrew for the winter months to deliver prophecies through a resident priestess, a seasonal arrangement recorded by Herodotus and later by the Roman commentator Servius. The city traced its own founding to Patarus, a son of Apollo, reinforcing the sense that Lycia and the god shared an especially close bond unavailable to other Greek-speaking regions. For a religious landscape otherwise dominated by a handful of famous year-round sanctuaries, Patara's dual-season oracle gave Lycia something genuinely rare: a claim to host Apollo's own prophetic voice for half of every year.",
-      "description_ru": "Портовый город Патара обладал религиозным отличием, почти не встречавшимся больше нигде в древнем мире: оракулом Аполлона, по престижу сравнимым с Дельфийским, но действовавшим лишь в зимнюю половину года. Древнее предание гласило, что Аполлон делил своё пребывание между Делосом, где он царил летом, и Патарой, куда бог удалялся на зимние месяцы, чтобы через жившую там жрицу изрекать пророчества, — сезонный порядок, зафиксированный Геродотом и позднее римским комментатором Сервием. Город возводил собственное основание к Патару, сыну Аполлона, укрепляя ощущение, что Ликию и бога связывали особые узы, недоступные другим грекоязычным областям. На фоне религиозного ландшафта, в остальном определяемого горсткой знаменитых круглогодичных святилищ, зимний оракул Патары давал Ликии по-настоящему редкое отличие — право принимать собственный пророческий голос Аполлона на половину каждого года.",
       "latitude": 36.26,
       "longitude": 29.3167,
+      "name": "Patara — the Winter host for Oracle of Apollo",
+      "name_ru": "Патара — зимний дом оракула Аполлона",
       "source": "https://en.wikipedia.org/wiki/Patara,_Lycia",
       "tags": [
-        "Lycia",
-        "Anatolia",
+        "Greek",
+        "Lycian",
         "Religious",
-        "Culture"
-      ]
+        "Pagan",
+        "Holy Site",
+        "Culture",
+        "Customs",
+        "Legend",
+        "Anatolia",
+        "Oracle"
+      ],
+      "type": "religious"
     },
     {
       "date": "01.01.0337",
+      "description": "At the height of Persian administrative control over Lycia, the inhabitants of Xanthos carved an official decree in the sanctuary of Letoon establishing a new cult, appointing a hereditary priest, and determining temple lands and revenues. The entire text was inscribed three times: in Lycian, Greek, and Aramaic—the language of the Persian imperial chancery. Dated to the reign of the Carian satrap Pixodaros, circa 337 BCE, the trilingual stele reflects the multilayered political reality of Lycia under the Hecatomnid and Persian rule.",
+      "description_ru": "В разгар персидского административного контроля над Ликией жители Ксанфа высекли в святилище Летоон официальный указ об учреждении нового культа, назначении наследственного жреца и определении храмовых земель и доходов, записав весь текст трижды: на ликийском, на греческом и на арамейском — языке персидской имперской канцелярии. Датированная временем правления карийского сатрапа Пиксодара, около 337 года до н. э., трёхъязычная стела отражает многослойную политическую реальность Ликии под властью Гекатомнидов и персов.",
       "era": "BC",
-      "type": "cultural",
-      "name": "The Letoon Trilingual Records a Decree in Three Scripts",
-      "name_ru": "Летоонская трёхъязычная стела фиксирует указ на трёх языках",
-      "description": "At the height of Persian administrative control over Lycia, the citizens of Xanthos inscribed an official decree at the Letoon sanctuary establishing a new cult, appointing a hereditary priest, and defining the temple's lands and tax revenues, and they recorded the entire text three times over: once in Lycian, once in Greek, and once in Aramaic, the Persian imperial chancery language. Dated to the reign of the Carian satrap Pixodaros, around 337 BC, the trilingual stele reflects Lycia's layered political reality under Hecatomnid and Persian overlordship while giving modern scholars their single most valuable tool for understanding the Lycian language, since the Greek and Aramaic versions allow words and grammar in the far less familiar Lycian text to be checked against known languages. Discovered only in 1973, the inscription remains one of the most important trilingual documents to survive from the ancient Near East and Mediterranean.",
-      "description_ru": "В разгар персидского административного контроля над Ликией жители Ксанфа высекли в святилище Летоон официальный указ об учреждении нового культа, назначении наследственного жреца и определении храмовых земель и доходов, записав весь текст трижды: на ликийском, на греческом и на арамейском — языке персидской имперской канцелярии. Датированная временем правления карийского сатрапа Пиксодара, около 337 года до н. э., трёхъязычная стела отражает многослойную политическую реальность Ликии под властью Гекатомнидов и персов, одновременно давая современным учёным самый ценный инструмент для понимания ликийского языка, поскольку греческий и арамейский варианты позволяют сверять слова и грамматику куда менее знакомого ликийского текста с известными языками. Обнаруженная лишь в 1973 году, надпись остаётся одним из важнейших трёхъязычных документов, дошедших от древнего Ближнего Востока и Средиземноморья.",
-      "latitude": 36.3167,
-      "longitude": 29.2833,
+      "latitude": 36.33155755,
+      "longitude": 29.28952932,
+      "name": "The Lycian Trilingual Records a Decree in Three Scripts",
+      "name_ru": "Ликийская трёхъязычная стела",
       "source": "https://en.wikipedia.org/wiki/Letoon_trilingual",
       "tags": [
-        "Lycia",
-        "Anatolia",
+        "Greek",
+        "Persian",
+        "Lycian",
         "Culture",
-        "Language"
-      ]
+        "Language",
+        "Writing",
+        "Anatolia"
+      ],
+      "type": "cultural"
     },
     {
       "date": "01.01.0333",
+      "description": "Having crushed Persian resistance at Halicarnassus, Alexander the Great moved south into Lycia, expecting more fighting. However, the cities of the region were surprisingly willing to negotiate rather than fight. Telmessus, Xanthus, Patara, and some thirty smaller cities opened their gates without resistance—a striking contrast to the fierce tenacity the Lycians had shown during their previous conquests.\n\nThe peaceful transfer of power allowed Alexander to secure the coastline and harbors of Lycia, depriving the Persian fleet of safe bases on the southern Anatolian coast. For Lycia, this episode signified more a change in strategy than a change in spirit: having learned that empires eventually pass while local customs endure, the Lycian cities increasingly chose prudent adaptation to the next conqueror rather than costly resistance to the bitter end.",
+      "description_ru": "Сломив персидское сопротивление при Галикарнасе, Александр Македонский двинулся на юг, в Ликию, ожидая новых сражений, однако города региона на удивление охотно пошли на переговоры, а не на бой. Тельмесс, Ксанф, Патара и около тридцати меньших городов открыли ворота без сопротивления — разительный контраст с яростным упорством, которое ликийцы показывали ранее при завоеваниях. \n\nМирная передача власти позволила Александру закрепить за собой побережье и гавани Ликии, лишив персидский флот безопасных баз на южном анатолийском побережье. Для Ликии этот эпизод означал скорее смену стратегии, чем духа: усвоив, что империи рано или поздно уходят, а местные порядки остаются, ликийские города всё чаще выбирали расчётливое приспособление к очередному завоевателю вместо дорогостоящего сопротивления до конца.",
       "era": "BC",
-      "type": "political",
-      "name": "Lycia Submits Peacefully to Alexander the Great",
-      "name_ru": "Ликия мирно покоряется Александру Македонскому",
-      "description": "After breaking Persian resistance at Halicarnassus, Alexander the Great marched south into Lycia expecting further sieges, but found the region's cities remarkably willing to negotiate rather than fight. Telmessos, Xanthos, Patara, and roughly thirty smaller towns opened their gates without resistance, a stark contrast to the fierce defiance Lycians had shown the Persians two centuries earlier at the same city of Xanthos. The peaceful transfer let Alexander secure Lycia's coastline and harbors, denying the Persian navy safe bases along the southern Anatolian coast, without diverting troops or time from his broader campaign. For Lycia, the episode marked a shift in strategy rather than spirit: having learned that empires eventually moved on while local institutions endured, Lycian cities increasingly chose calculated accommodation with each new conqueror over the costly last stands of their earlier history, a pattern of pragmatic self-preservation that would define the region's politics for the next three centuries.",
-      "description_ru": "Сломив персидское сопротивление при Галикарнасе, Александр Македонский двинулся на юг, в Ликию, ожидая новых осад, но обнаружил, что города региона на удивление охотно идут на переговоры, а не на бой. Тельмесс, Ксанф, Патара и около тридцати меньших городов открыли ворота без сопротивления — разительный контраст с яростным упорством, которое ликийцы показали персам двумя веками ранее в том же Ксанфе. Мирная передача власти позволила Александру закрепить за собой побережье и гавани Ликии, лишив персидский флот безопасных баз на южном анатолийском побережье, не отвлекая войск и времени от более широкой кампании. Для Ликии этот эпизод означал скорее смену стратегии, чем духа: усвоив, что империи рано или поздно уходят, а местные порядки остаются, ликийские города всё чаще выбирали расчётливое приспособление к очередному завоевателю вместо дорогостоящего сопротивления до конца, свойственного их более ранней истории, — модель прагматичного самосохранения, определившую политику региона на следующие три столетия.",
       "latitude": 36.6217,
       "longitude": 29.1164,
+      "name": "Lycia Submits Peacefully to Alexander the Great",
+      "name_ru": "Ликия мирно покоряется Александру Македонскому",
       "source": "https://en.wikipedia.org/wiki/Lycia",
       "tags": [
-        "Lycia",
-        "Anatolia",
+        "Greek",
+        "Macedonian",
+        "Lycian",
+        "Conquest",
         "Political",
-        "Conquest"
-      ]
+        "Alexander the Great 👤",
+        "Anatolia",
+        "Vassalage"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.0188",
+      "description": "Rome's victory over the Seleucid king Antiochus III reshaped the political map of Asia Minor, and in the peace settlement that followed, the Roman Republic rewarded its ally Rhodes by handing it control of Lycia in 188 BC. The arrangement proved deeply unpopular on the ground: the Lycians, accustomed to a measure of local self-governance even under Persian and Hellenistic overlords, resented Rhodian administration and rose in repeated revolts over the following two decades, refusing to accept a Greek island city as their master rather than a distant empire. \n\nTheir persistence eventually reached Rome's ears, and the Senate came to view Rhodes's grip on Lycia as a source of regional instability rather than a stabilizing reward. The stage was set for Rome to reverse its own decision less than twenty years later, a rare instance of a subject people's sustained resistance actually reshaping a Roman client arrangement rather than simply being crushed by it.",
+      "description_ru": "Победа Рима над селевкидским царём Антиохом III изменила политическую карту Малой Азии, и по итогам последовавшего мирного урегулирования Римская республика в 188 году до н. э. наградила своего союзника Родос, передав ему власть над Ликией. На месте это устройство оказалось глубоко непопулярным: ликийцы, привыкшие к самоуправлению даже при персидских и эллинистических владыках, невзлюбили родосскую администрацию и на протяжении двух десятилетий поднимали восстания, отказываясь признавать своим господином греческий островной город вместо далёкой империи. \n\nИх упорство в конце концов дошло до Рима, и сенат стал видеть в родосском господстве над Ликией не стабилизирующую награду, а источник региональной нестабильности. Это подготовило почву для того, чтобы Рим менее чем через двадцать лет отменил собственное решение, — редкий случай, когда упорное сопротивление подвластного народа действительно изменило римское устройство, а не было попросту подавлено.",
       "era": "BC",
-      "type": "political",
-      "name": "Rome Hands Lycia to Rhodes After Defeating Antiochus III",
-      "name_ru": "Рим передаёт Ликию Родосу после разгрома Антиоха III",
-      "description": "Rome's victory over the Seleucid king Antiochus III in 190 BC reshaped the political map of Asia Minor, and in the peace settlement that followed, the Roman Republic rewarded its ally Rhodes by handing it control of Lycia in 188 BC. The arrangement proved deeply unpopular on the ground: the Lycians, accustomed to a measure of local self-governance even under Persian and Hellenistic overlords, resented Rhodian administration and rose in repeated revolts over the following two decades, refusing to accept a Greek island city as their master rather than a distant empire. Their persistence eventually reached Rome's ears, and the Senate came to view Rhodes's grip on Lycia as a source of regional instability rather than a stabilizing reward. The stage was set for Rome to reverse its own decision less than twenty years later, a rare instance of a subject people's sustained resistance actually reshaping a Roman client arrangement rather than simply being crushed by it.",
-      "description_ru": "Победа Рима над селевкидским царём Антиохом III в 190 году до н. э. изменила политическую карту Малой Азии, и по итогам последовавшего мирного урегулирования Римская республика в 188 году до н. э. наградила своего союзника Родос, передав ему власть над Ликией. На месте это устройство оказалось глубоко непопулярным: ликийцы, привыкшие к определённой доле самоуправления даже при персидских и эллинистических владыках, невзлюбили родосскую администрацию и на протяжении следующих двух десятилетий поднимали повторные восстания, отказываясь признавать своим господином греческий островной город вместо далёкой империи. Их упорство в конце концов дошло до Рима, и сенат стал видеть в родосском господстве над Ликией не стабилизирующую награду, а источник региональной нестабильности. Это подготовило почву для того, чтобы Рим менее чем через двадцать лет отменил собственное решение, — редкий случай, когда упорное сопротивление подвластного народа действительно изменило римское устройство, а не было попросту подавлено.",
       "latitude": 36.26,
       "longitude": 29.3167,
+      "name": "Rome Hands Lycia to Rhodes",
+      "name_ru": "Рим передаёт Ликию Родосу",
       "source": "https://en.wikipedia.org/wiki/Lycia",
       "tags": [
-        "Lycia",
-        "Anatolia",
+        "Greek",
+        "Roman",
+        "Lycian",
+        "Rebellion",
         "Political",
+        "Anatolia",
         "Rivalry"
-      ]
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.0168",
-      "era": "BC",
-      "type": "political",
-      "name": "Rome Validates the Lycian League as a Self-Governing Federation",
-      "name_ru": "Рим утверждает Ликийский союз как самоуправляющуюся федерацию",
       "description": "In 168 BC, Rome formally revoked Rhodes's control over Lycia and instead recognized home rule under the Lycian League, an existing native federation of roughly two dozen cities that Rome now elevated into an officially sanctioned republic. Each city's voting power in the federal assembly scaled with its size: the six largest, including Xanthos, Patara, Myra, Pinara, Olympos, and Tlos, received three votes each, while smaller towns received one or two, an unusually sophisticated proportional system for the ancient world. The League elected a chief magistrate called the Lyciarch and maintained its own federal courts, all while Rome retained final say only over war, peace, and foreign alliances. Roughly two thousand years later, the framers of the United States Constitution, James Madison among them, studied the Lycian League's republican structure as a historical example of federated self-government, making this Anatolian confederation an unlikely direct influence on the design of American federalism itself.",
-      "description_ru": "В 168 году до н. э. Рим официально отменил власть Родоса над Ликией и вместо этого признал самоуправление Ликийского союза — уже существующей местной федерации примерно двух десятков городов, которую Рим теперь возвёл в статус официально признанной республики. Число голосов каждого города в федеральном собрании зависело от его величины: шесть крупнейших, включая Ксанф, Патару, Миру, Пинару, Олимп и Тлос, получали по три голоса каждый, тогда как меньшие города — один или два, что было необычно продуманной пропорциональной системой для древнего мира. Союз избирал верховного магистрата — ликиарха — и содержал собственные федеральные суды, при этом Рим сохранял последнее слово лишь в вопросах войны, мира и внешних союзов. Спустя почти две тысячи лет создатели Конституции США, включая Джеймса Мэдисона, изучали республиканское устройство Ликийского союза как исторический пример федеративного самоуправления, сделав эту анатолийскую конфедерацию неожиданным прямым источником влияния на сам замысел американского федерализма.",
+      "description_ru": "Рим официально отменил власть Родоса над Ликией и вместо этого признал самоуправление Ликийского союза — уже существующей местной федерации примерно двух десятков городов, которую Рим теперь возвёл в статус официально признанной республики. Число голосов каждого города в федеральном собрании зависело от его величины: шесть крупнейших, включая Ксанф, Патару, Миру, Пинару, Олимп и Тлос, получали по три голоса каждый, тогда как меньшие города — один или два, что было необычно продуманной пропорциональной системой для древнего мира. \n\nСоюз избирал верховного магистрата — ликиарха — и содержал собственные федеральные суды, при этом Рим сохранял последнее слово лишь в вопросах войны, мира и внешних союзов. Cоздатели Конституции США, включая Джеймса Мэдисона, изучали республиканское устройство Ликийского союза как исторический пример федеративного самоуправления.",
+      "era": "BC",
       "latitude": 36.26,
       "longitude": 29.3167,
+      "name": "Rome Validates the Lycian League as a Self-Governing Federation",
+      "name_ru": "Рим утверждает Ликию как самоуправляющуюся федерацию",
       "source": "https://en.wikipedia.org/wiki/Lycia",
       "tags": [
-        "Lycia",
-        "Anatolia",
+        "Roman",
+        "Lycian",
+        "Culture",
         "Political",
-        "Foundation"
-      ]
+        "Administration",
+        "Anatolia",
+        "Federation",
+        "Independence",
+        "Innovation"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.0042",
+      "description": "In preparation for the Battle of Philippi against Mark Antony and Octavian, Marcus Junius Brutus toured the eastern provinces, demanding funds for the war. When the Lycian League refused to pay, he marched directly on Xanthus. The city resisted the siege, and when its fall became inevitable, the inhabitants, according to legend, set fire to Xanthus and committed suicide rather than submit — deliberately echoing their ancestors' steadfastness before Harpagus five centuries earlier.\n\nPlutarch reports that Brutus and his soldiers, more in terror than triumph, tried to save at least some of their number, but only about 150 Xanthus men survived the massacre. That a Roman general on the winning side of the siege attempted to stop Xanthus from committing suicide again demonstrates how deeply the legend of the Lycian city's unyielding power held sway in the eyes of both the Lycians and the Romans.",
+      "description_ru": "Готовясь встретить Марка Антония и Октавиана в битве при Филиппах, Марк Юний Брут объезжал восточные провинции, требуя средств на войну; когда Ликийский союз отказался платить, он двинулся прямо на Ксанф. Город сопротивлялся осаде, а когда падение стало неизбежным, жители, по преданию, подожгли Ксанф и покончили с собой, лишь бы не покориться, — намеренно повторяя стойкость предков перед Гарпагом пятью веками ранее. \n\nПлутарх сообщает, что Брут и его солдаты, скорее в ужасе, чем в торжестве, пытались спасти хоть кого-то, но из истребления уцелело лишь около полутора сотен ксанфских мужчин. То, что римский полководец на выигрывающей стороне осады пытался остановить повторный суицид Ксанфа, показывает, насколько глубоко легенда ликийского непреклонного города была сильна в глазах самих ликийцев и в глазах римлян.",
       "era": "BC",
-      "type": "military",
-      "name": "Brutus Destroys Xanthos in a Second Mass Suicide",
-      "name_ru": "Брут уничтожает Ксанф во второй раз ценой массового самоубийства",
-      "description": "Preparing to face Mark Antony and Octavian at the Battle of Philippi, Marcus Junius Brutus toured the eastern provinces demanding funds for his war, and when the Lycian League refused to contribute, he marched on Xanthos itself. The city resisted the siege, and when its fall became inevitable, the population reportedly set fire to Xanthos and killed themselves rather than submit, deliberately echoing their ancestors' defiance of Harpagus five centuries earlier. Plutarch records that Brutus and his soldiers, horrified rather than triumphant, tried to save what lives they could, but only about a hundred and fifty Xanthian men survived the destruction. That a Roman general on the winning side of the siege would try to stop the very outcome he had caused reveals how deeply the memory of 540 BC had permeated Mediterranean culture: Xanthos's earlier catastrophe had become so famous that even its destroyer recognized it happening again and wanted no part in it.",
-      "description_ru": "Готовясь встретить Марка Антония и Октавиана в битве при Филиппах, Марк Юний Брут объезжал восточные провинции, требуя средств на войну, и когда Ликийский союз отказался платить, он двинулся прямо на Ксанф. Город сопротивлялся осаде, а когда падение стало неизбежным, жители, по преданию, подожгли Ксанф и покончили с собой, лишь бы не покориться, — намеренно повторяя стойкость предков перед Гарпагом пятью веками ранее. Плутарх сообщает, что Брут и его солдаты, скорее в ужасе, чем в торжестве, пытались спасти хоть кого-то, но из истребления уцелело лишь около полутора сотен ксанфских мужчин. То, что римский полководец на выигрывающей стороне осады пытался остановить исход, который сам же вызвал, показывает, насколько глубоко память о 540 годе до н. э. проникла в средиземноморскую культуру: прежняя катастрофа Ксанфа стала настолько известной, что даже его новый разрушитель узнал повторение и не желал в нём участвовать.",
       "latitude": 36.3567,
       "longitude": 29.3181,
+      "name": "Brutus sieges Lycian Xanthos",
+      "name_ru": "Брут осаждает ликийский Ксанф",
       "source": "https://en.wikipedia.org/wiki/Xanthos",
       "tags": [
-        "Lycia",
-        "Anatolia",
+        "Roman",
+        "Lycian",
+        "Civil War",
         "War",
-        "Rome",
-        "Defeat"
-      ]
+        "Destruction",
+        "Legend",
+        "Anatolia",
+        "Massacre",
+        "Siege",
+        "Suicide"
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.0041",
+      "description": "After the Battle of Philippi, Mark Antony took control of Rome's eastern provinces and hastened to repair the damage inflicted on Lycia by his rival Brutus. He financed the restoration of Xanthus on the ruined acropolis and reaffirmed the traditional privileges and autonomy of the Lycian League, viewing the region's loyalty against Brutus, no matter how high the cost, as grounds for favor rather than suspicion.\n\nThis move fit into Antony's broader strategy of attracting client states and allied cities in the Greek East with generosity rather than garrison rule. Lycia responded with steadfast loyalty to Rome for the following decades. Xanthus was reborn again, this time under Roman rather than Persian patronage, and the city, which had twice chosen self-destruction over surrender, entered its longest period of peace and prosperity.",
+      "description_ru": "После битвы при Филиппах Марк Антоний взял под контроль восточные провинции Рима и поспешил устранить ущерб, нанесённый Ликии его соперником Брутом. Он профинансировал восстановление Ксанфа на разрушенном акрополе и подтвердил традиционные привилегии и автономию Ликийского союза, расценив проявленную регионом верность против Брута, какой бы дорогой ценой она ни далась, как повод для милости, а не подозрения. \n\nЭтот шаг вписывался в более широкую стратегию Антония — привлекать зависимые государства и союзные города греческого Востока щедростью, а не гарнизонным правлением, — и Ликия ответила устойчивой верностью Риму на следующие десятилетия. Ксанф вновь возродился, на этот раз под римским, а не персидским покровительством, и город, дважды выбравший самоуничтожение вместо сдачи, вступил в самый долгий период мира и процветания.",
       "era": "BC",
-      "type": "political",
-      "name": "Mark Antony Rebuilds Xanthos and Restores Lycian Privileges",
-      "name_ru": "Марк Антоний отстраивает Ксанф и восстанавливает привилегии Ликии",
-      "description": "In the aftermath of Philippi, Mark Antony took control of Rome's eastern provinces and moved quickly to repair the damage his rival Brutus had inflicted on Lycia. He funded the reconstruction of Xanthos on its ruined acropolis and confirmed the Lycian League's traditional privileges and autonomy, treating the region's demonstrated loyalty against Brutus, however costly, as grounds for favor rather than suspicion. The gesture fit Antony's broader strategy of cultivating client states and allied cities across the Greek east through generosity rather than garrison rule, and Lycia responded by remaining a reliably loyal Roman ally for the following decades. Xanthos rose again from its second destruction within five centuries, this time under Roman rather than Persian-era patronage, and the city that had twice chosen self-annihilation over surrender now entered its longest period of uninterrupted peace, prosperity, and monumental building under the security Roman rule provided.",
-      "description_ru": "После битвы при Филиппах Марк Антоний взял под контроль восточные провинции Рима и поспешил устранить ущерб, нанесённый Ликии его соперником Брутом. Он профинансировал восстановление Ксанфа на разрушенном акрополе и подтвердил традиционные привилегии и автономию Ликийского союза, расценив проявленную регионом верность против Брута, какой бы дорогой ценой она ни далась, как повод для милости, а не подозрения. Этот шаг вписывался в более широкую стратегию Антония — привлекать зависимые государства и союзные города греческого Востока щедростью, а не гарнизонным правлением, — и Ликия ответила устойчивой верностью Риму на следующие десятилетия. Ксанф вновь поднялся из второго за пять столетий разрушения, на этот раз под римским, а не персидским покровительством, и город, дважды выбравший самоуничтожение вместо сдачи, вступил в самый долгий период непрерывного мира, процветания и монументального строительства, какой обеспечила ему безопасность римского владычества.",
       "latitude": 36.3567,
       "longitude": 29.3181,
+      "name": "Mark Antony restores Xanthus and Lycia",
+      "name_ru": "Марк Антоний восстанавливает Ксанф и Ликию",
       "source": "https://en.wikipedia.org/wiki/Xanthos",
       "tags": [
-        "Lycia",
-        "Anatolia",
+        "Roman",
+        "Lycian",
         "Political",
-        "Rome"
-      ]
+        "Anatolia",
+        "Mark Antony 👤",
+        "Restoration"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.0043",
+      "description": "For over two centuries, the Lycian League governed itself as a Roman protectorate, retaining a federal assembly, an elected Lycian archbishop, and its paternal laws, while recognizing Rome's supremacy in foreign affairs. In 43 CE, Emperor Claudius dissolved the League—according to some sources, in response to unrest that cost the lives of Roman citizens—and incorporated Lycia directly into the Roman Empire, administratively uniting it with neighboring Pamphylia into the new province of Lycia et Pamphylia. The Lycian cities remained prosperous and culturally distinctive for many centuries, but never again became a self-governing political union.",
+      "description_ru": "Более двух веков Ликийский союз управлял собой как римский протекторат, сохраняя федеральное собрание, избираемого ликиарха и отеческие законы, признавая при этом верховенство Рима во внешних делах. В 43 году император Клавдий распустил Союз — по некоторым сведениям, в ответ на беспорядки, стоившие жизни римским гражданам, — и включил Ликию напрямую в состав Римской империи, административно объединив её с соседней Памфилией в новую провинцию Ликия и Памфилия. Ликийские города оставались процветающими и культурно самобытными ещё многие века, но уже никогда не были самоуправляющимся политическим союзом.",
       "era": "AD",
-      "type": "political",
-      "name": "Emperor Claudius Dissolves the Lycian League",
-      "name_ru": "Император Клавдий распускает Ликийский союз",
-      "description": "For over two centuries the Lycian League had governed itself as a Roman protectorate, retaining its federal assembly, elected Lyciarch, and ancestral laws even while acknowledging Roman supremacy in foreign affairs. That arrangement ended in 43 AD, when the emperor Claudius dissolved the League, reportedly in response to civil disorder that had cost Roman citizens their lives, and absorbed Lycia directly into the Roman Empire, merging it administratively with the neighboring region of Pamphylia into the new province of Lycia et Pamphylia. The dissolution closed the longest sustained period of genuine self-government Lycia had ever known, a home-grown federal system that had survived Persian, Hellenistic, and Rhodian overlordship intact only to be extinguished by the very Roman patrons who had once protected and praised it. Lycian cities would remain prosperous and culturally distinct within the empire for centuries afterward, but never again as a self-governing political union in their own right.",
-      "description_ru": "Более двух столетий Ликийский союз управлял собой как римский протекторат, сохраняя федеральное собрание, избираемого ликиарха и отеческие законы, признавая при этом верховенство Рима во внешних делах. Это устройство прекратилось в 43 году н. э., когда император Клавдий распустил Союз — по некоторым сведениям, в ответ на беспорядки, стоившие жизни римским гражданам, — и включил Ликию напрямую в состав Римской империи, административно объединив её с соседней Памфилией в новую провинцию Ликия и Памфилия. Роспуск завершил самый долгий период подлинного самоуправления, какой когда-либо знала Ликия, — доморощенную федеративную систему, пережившую нетронутой персидское, эллинистическое и родосское владычество лишь для того, чтобы быть упразднённой теми самыми римскими покровителями, что некогда её защищали и хвалили. Ликийские города оставались процветающими и культурно самобытными в составе империи ещё многие века, но уже никогда — самоуправляющимся политическим союзом по собственному праву.",
       "latitude": 36.26,
       "longitude": 29.3167,
+      "name": "Emperor Claudius Dissolves the Lycian League",
+      "name_ru": "Император Клавдий распускает Ликийский союз",
       "source": "https://en.wikipedia.org/wiki/Lycia",
       "tags": [
-        "Lycia",
-        "Anatolia",
+        "Roman",
+        "Lycian",
         "Political",
-        "Rome",
-        "Decline"
-      ]
-    },
-    {
-      "date": "01.01.0060",
-      "era": "AD",
-      "type": "religious",
-      "name": "Paul the Apostle Changes Ships at Patara and Myra",
-      "name_ru": "Апостол Павел пересаживается на корабли в Патаре и Мире",
-      "description": "The Acts of the Apostles records that Paul, traveling toward Jerusalem near the end of his third missionary journey, changed ships at the Lycian port of Patara, boarding a vessel bound for Phoenicia. Some years later, as a prisoner being transported to Rome to stand trial before the emperor, he passed through Lycia again, this time transferring at Myra onto an Alexandrian grain ship making the long voyage to Italy. Neither stop involved preaching or conversion; both were simply the ordinary logistics of a busy Mediterranean sailor's route, which is itself the point. Lycia's ports sat squarely on the era's major sea lanes between Egypt, the Levant, and Rome, well-equipped harbors capable of servicing large grain freighters, and it was precisely that unglamorous infrastructure, built over centuries of Lycian maritime activity, that put Patara and Myra into the biblical record at all.",
-      "description_ru": "Деяния апостолов сообщают, что Павел, направляясь к концу своего третьего миссионерского путешествия в Иерусалим, пересел на корабль в ликийском порту Патара, чтобы отплыть в Финикию. Несколько лет спустя, уже как узник, которого везли в Рим на суд перед императором, он снова проходил через Ликию, на этот раз пересев в Мире на александрийское зерновое судно, отправлявшееся в долгое плавание до Италии. Ни одна из этих остановок не была связана с проповедью или обращением — обе были лишь обычной логистикой оживлённого средиземноморского морского маршрута, и именно в этом суть. Ликийские порты лежали прямо на главных морских путях эпохи между Египтом, Левантом и Римом, располагая гаванями, способными принимать крупные зерновые суда, и именно эта неброская инфраструктура, выстроенная веками ликийской морской деятельности, привела Патару и Миру на страницы Библии.",
-      "latitude": 36.2448,
-      "longitude": 29.9854,
-      "source": "https://en.wikipedia.org/wiki/Acts_of_the_Apostles",
-      "tags": [
-        "Lycia",
+        "Reform",
         "Anatolia",
-        "Religious",
-        "Rome"
-      ]
+        "Annexation",
+        "Decline"
+      ],
+      "type": "political"
     },
     {
       "date": "01.01.0141",
+      "description": "A catastrophic earthquake struck Lycia in 141 AD, tearing through the region's cities and toppling monuments that had stood for centuries at Xanthos, Tlos, Patara, and elsewhere. The recovery fell largely to Opramoas of Rhodiapolis, one of the wealthiest citizens in the Roman province, who personally funded reconstruction across roughly three dozen Lycian cities, an act of civic philanthropy so extensive that the grateful communities honored him with a vast inscribed dossier of decrees at his home city, today one of the longest surviving inscriptions from the ancient world. ",
+      "description_ru": "В 141 году н. э. Ликию поразило катастрофическое землетрясение, разрушившее города региона и обрушившее памятники, простоявшие столетиями в Ксанфе, Тлосе, Патаре и других местах. Восстановление легло в основном на плечи Опрамоаса Родиапольского, одного из богатейших граждан римской провинции, лично профинансировавшего восстановление примерно трёх десятков ликийских городов, — акт гражданской щедрости настолько масштабный, что благодарные общины почтили его обширным собранием почётных постановлений в его родном городе, сегодня одной из самых длинных сохранившихся надписей древнего мира.",
       "era": "AD",
-      "type": "cultural",
-      "name": "An Earthquake Devastates Lycia; Opramoas Funds Its Rebirth",
-      "name_ru": "Землетрясение опустошает Ликию; Опрамоас финансирует её возрождение",
-      "description": "A catastrophic earthquake struck Lycia in 141 AD, tearing through the region's cities and toppling monuments that had stood for centuries at Xanthos, Tlos, Patara, and elsewhere. The recovery fell largely to Opramoas of Rhodiapolis, one of the wealthiest citizens in the Roman province, who personally funded reconstruction across roughly three dozen Lycian cities, an act of civic philanthropy so extensive that the grateful communities honored him with a vast inscribed dossier of decrees at his home city, today one of the longest surviving inscriptions from the ancient world. Opramoas's generosity reflected a well-established pattern of the Greek East under Roman rule, where wealthy local benefactors financed public works in exchange for lasting civic honor rather than relying solely on distant imperial funds. Through his rebuilding, Lycia's cities recovered their monumental character within a generation, ensuring that the tombs, temples, and theaters modern visitors still walk through today survived the disaster largely intact.",
-      "description_ru": "В 141 году н. э. Ликию поразило катастрофическое землетрясение, разрушившее города региона и обрушившее памятники, простоявшие столетиями в Ксанфе, Тлосе, Патаре и других местах. Восстановление легло в основном на плечи Опрамоаса Родиапольского, одного из богатейших граждан римской провинции, лично профинансировавшего восстановление примерно трёх десятков ликийских городов, — акт гражданской щедрости настолько масштабный, что благодарные общины почтили его обширным собранием почётных постановлений в его родном городе, сегодня одной из самых длинных сохранившихся надписей древнего мира. Щедрость Опрамоаса отражала устоявшуюся практику греческого Востока при римском владычестве, где богатые местные благотворители финансировали общественные постройки в обмен на прочный гражданский почёт, а не полагались лишь на далёкую имперскую казну. Благодаря его восстановительным работам ликийские города вернули монументальный облик уже в течение жизни одного поколения, обеспечив сохранность гробниц, храмов и театров, по которым современные путешественники ходят и поныне.",
       "latitude": 36.3346,
       "longitude": 30.3628,
+      "name": "An Earthquake Devastates Lycia",
+      "name_ru": "Землетрясение опустошает Ликию",
       "source": "https://en.wikipedia.org/wiki/Opramoas",
       "tags": [
-        "Lycia",
-        "Anatolia",
+        "Roman",
+        "Lycian",
         "Culture",
-        "Rome"
-      ]
+        "Anatolia",
+        "Disaster",
+        "Earthquake"
+      ],
+      "type": "cultural"
     }
-  ]
+  ],
+  "filename": "lycia.json"
 }

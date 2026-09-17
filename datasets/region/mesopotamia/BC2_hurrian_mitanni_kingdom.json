@@ -33,10 +33,10 @@
       "tags": [
         "Mitanni",
         "Hurrian",
+        "Capital",
         "City",
         "Dynasty",
-        "King",
-        "Capital"
+        "King"
       ],
       "type": "political"
     },
@@ -90,8 +90,8 @@
       "source": "https://www.britannica.com/place/Mitanni",
       "tags": [
         "Mitanni",
-        "Amorite",
         "Conquest",
+        "Amorite",
         "Expansion",
         "Mediterranean",
         "Vassalage"
@@ -199,10 +199,10 @@
       "source": "https://www.britannica.com/place/Mitanni",
       "tags": [
         "Mitanni",
-        "Diplomacy",
+        "Cilicia",
         "Alliance",
-        "Anatolia",
-        "Cilicia"
+        "Diplomacy",
+        "Anatolia"
       ],
       "type": "political"
     },
@@ -218,8 +218,8 @@
       "source": "https://www.worldhistory.org/Hurrians/",
       "tags": [
         "Hurrian",
-        "Pagan",
         "Religious",
+        "Pagan",
         "Text"
       ],
       "type": "religious"
@@ -274,9 +274,9 @@
       "tags": [
         "Mitanni",
         "Egypt",
+        "Alliance",
         "Diplomacy",
-        "Marriage",
-        "Alliance"
+        "Marriage"
       ],
       "type": "political"
     },
@@ -310,9 +310,9 @@
       "tags": [
         "Mitanni",
         "Egypt",
+        "Alliance",
         "Diplomacy",
-        "Marriage",
-        "Alliance"
+        "Marriage"
       ],
       "type": "political"
     },
@@ -419,8 +419,8 @@
       "tags": [
         "Mitanni",
         "Civil War",
-        "Assassination",
         "Death",
+        "Assassination",
         "Regicide",
         "Usurpation"
       ],
@@ -489,7 +489,7 @@
       "latitude": 36.85,
       "longitude": 40.5,
       "name": "Mattiwaza Installed as Hittite Vassal",
-      "name_ru": "Митанни - вассал хеттского царства",
+      "name_ru": "Митанни — вассал хеттского царства",
       "source": "https://www.britannica.com/place/Mitanni",
       "tags": [
         "Mitanni",
@@ -655,8 +655,8 @@
       "tags": [
         "Assyrian",
         "Hurrian",
-        "Assimilation",
-        "Culture"
+        "Culture",
+        "Assimilation"
       ],
       "type": "cultural"
     },
@@ -726,8 +726,8 @@
       "tags": [
         "Hurrian",
         "Culture",
-        "Decline",
-        "Language"
+        "Language",
+        "Decline"
       ],
       "type": "cultural"
     },
@@ -745,8 +745,8 @@
         "Assyrian",
         "Hittite",
         "Hurrian",
-        "Pagan",
         "Religious",
+        "Pagan",
         "Syncretism"
       ],
       "type": "religious"

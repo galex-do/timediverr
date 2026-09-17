@@ -13,9 +13,9 @@
       "source": "https://en.wikipedia.org/wiki/Elam",
       "tags": [
         "Elamites",
+        "Kingdom",
         "Dynasty",
-        "Administration",
-        "Kingdom"
+        "Administration"
       ],
       "type": "political"
     },
@@ -48,10 +48,10 @@
       "name_ru": "Эламиты разграбляют Ур",
       "source": "https://en.wikipedia.org/wiki/Elam",
       "tags": [
+        "Mesopotamian",
         "Elamites",
         "Conquest",
         "Destruction",
-        "Mesopotamian",
         "Pillage"
       ],
       "type": "military"
@@ -86,11 +86,11 @@
       "source": "https://en.wikipedia.org/wiki/Chogha_Zanbil",
       "tags": [
         "Elamites",
-        "Building 🏠",
         "City",
-        "Architecture",
-        "Patron",
         "Religious",
+        "Patron",
+        "Architecture",
+        "Building 🏠",
         "Temple"
       ],
       "type": "religious"
@@ -143,7 +143,8 @@
       "name_ru": "Миграция иранцев на плато",
       "source": "https://en.wikipedia.org/wiki/Iranian_peoples",
       "tags": [
-        "Demographics",
+        "Persian",
+        "Medes",
         "Migration",
         "Settlement"
       ],
@@ -161,9 +162,9 @@
       "source": "https://en.wikipedia.org/wiki/Mannaea",
       "tags": [
         "Mannai",
+        "Kingdom",
         "Foundation",
-        "Independence",
-        "Kingdom"
+        "Independence"
       ],
       "type": "political"
     },
@@ -253,10 +254,10 @@
       "source": "https://en.wikipedia.org/wiki/Elam",
       "tags": [
         "Elamites",
-        "Art",
-        "Bronze",
         "Culture",
-        "Metallurgy"
+        "Art",
+        "Metallurgy",
+        "Bronze"
       ],
       "type": "cultural"
     },
@@ -272,8 +273,8 @@
       "source": "https://en.wikipedia.org/wiki/Mannaea",
       "tags": [
         "Mannai",
-        "Economic",
-        "Trade"
+        "Trade",
+        "Economic"
       ],
       "type": "historic"
     },
@@ -308,11 +309,11 @@
       "source": "https://en.wikipedia.org/wiki/Magi",
       "tags": [
         "Medes",
-        "Building 🏠",
+        "Religious",
+        "Pagan",
         "Customs",
         "Dualism",
-        "Pagan",
-        "Religious",
+        "Building 🏠",
         "Temple"
       ],
       "type": "religious"
@@ -348,8 +349,8 @@
       "source": "https://en.wikipedia.org/wiki/Parsua",
       "tags": [
         "Persian",
-        "Foundation",
         "Kingdom",
+        "Foundation",
         "Migration"
       ],
       "type": "political"
@@ -365,13 +366,13 @@
       "name_ru": "Заратуштра и Гаты",
       "source": "https://en.wikipedia.org/wiki/Zoroaster",
       "tags": [
+        "Foundation",
+        "Religious",
+        "Zoroastrian",
         "Legend",
         "Uncertain",
         "Bactria",
-        "Foundation",
-        "Religious",
-        "Text",
-        "Zoroastrian"
+        "Text"
       ],
       "type": "religious"
     },
@@ -386,10 +387,10 @@
       "name_ru": "Хваррахоманд - место огня Жрецов",
       "source": "https://uz.wikipedia.org/wiki/Chilpiq",
       "tags": [
-        "Legend",
-        "Holy Site",
         "Religious",
-        "Zoroastrian"
+        "Zoroastrian",
+        "Holy Site",
+        "Legend"
       ],
       "type": "religious"
     },
@@ -422,10 +423,10 @@
       "source": "https://en.wikipedia.org/wiki/Scythians",
       "tags": [
         "Scythian",
-        "Cavalry",
-        "Cultural Continuity",
         "Culture",
-        "Invasion"
+        "Invasion",
+        "Cultural Continuity",
+        "Cavalry"
       ],
       "type": "military"
     },
@@ -512,12 +513,12 @@
       "name_ru": "Царь Виштаспа принимает зороастризм",
       "source": "https://en.wikipedia.org/wiki/Vishtaspa",
       "tags": [
+        "Religious",
+        "Zoroastrian",
+        "Adoption",
         "King",
         "Legend",
-        "Adoption",
-        "Bactria",
-        "Religious",
-        "Zoroastrian"
+        "Bactria"
       ],
       "type": "religious"
     },
@@ -551,10 +552,10 @@
       "name_ru": "Адур Гушнасп, Великий огонь воинов",
       "source": "https://en.wikipedia.org/wiki/Adur_Gushnasp",
       "tags": [
-        "Legend",
-        "Holy Site",
         "Religious",
-        "Zoroastrian"
+        "Zoroastrian",
+        "Holy Site",
+        "Legend"
       ],
       "type": "religious"
     },
@@ -568,11 +569,11 @@
       "name": "Vishtaspa transfers the fire of the priests to Kabulistan",
       "name_ru": "Виштаспа переносит огонь жрецов в Кабулистан",
       "tags": [
-        "Legend",
-        "Bactria",
-        "Holy Site",
         "Religious",
-        "Zoroastrian"
+        "Zoroastrian",
+        "Holy Site",
+        "Legend",
+        "Bactria"
       ],
       "type": "religious"
     },
@@ -610,8 +611,7 @@
         "Army",
         "Innovation",
         "Military",
-        "Science",
-        "Specialization"
+        "Science"
       ],
       "type": "political"
     },
@@ -646,10 +646,10 @@
       "tags": [
         "Babylonian",
         "Medes",
-        "Chaldean",
+        "Alliance",
         "Diplomacy",
         "Marriage",
-        "Alliance"
+        "Chaldean"
       ],
       "type": "political"
     },
@@ -667,8 +667,8 @@
         "Mannai",
         "Medes",
         "War",
-        "Annexation",
-        "Conquest"
+        "Conquest",
+        "Annexation"
       ],
       "type": "military"
     },
@@ -761,9 +761,9 @@
         "Persian",
         "Medes",
         "Achaemenid",
+        "Rebellion",
         "Cyrus the Great 👑",
-        "Independence",
-        "Rebellion"
+        "Independence"
       ],
       "type": "military"
     },
@@ -772,8 +772,8 @@
       "description": "Cyrus defeats Astyages at Battle of Pasargadae as Median nobles defect to Persian side; Media absorbed into Persian Empire, marking end of Median independence and rise of Persian dominance",
       "description_ru": "Кир побеждает Астиага в битве при Пасаргадах, когда мидийские вельможи переходят на персидскую сторону; Мидия поглощена Персидской империей, знаменуя конец мидийской независимости и подъем персидского господства",
       "era": "BC",
-      "latitude": 30.2026,
-      "longitude": 53.1678,
+      "latitude": 30.20235476,
+      "longitude": 53.17715406,
       "name": "Fall of Median Empire",
       "name_ru": "Падение Мидийской империи",
       "source": "https://en.wikipedia.org/wiki/Cyrus_the_Great",
@@ -781,8 +781,8 @@
         "Persian",
         "Medes",
         "War",
-        "Battle",
         "Conquest",
+        "Battle",
         "Cyrus the Great 👑",
         "Fall"
       ],

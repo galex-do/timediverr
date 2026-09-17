@@ -99,7 +99,8 @@
         "Religious",
         "Islamic",
         "Alliance",
-        "Political"
+        "Political",
+        "Baybars of Egypt 👤"
       ],
       "type": "political"
     },
@@ -120,9 +121,96 @@
         "Alliance",
         "Marriage",
         "Borjigid",
+        "Palaiologos",
+        "Dynasty",
         "Political"
       ],
       "type": "political"
+    },
+    {
+      "date": "01.01.1276",
+      "description": "When the last of Dmitry's older uncles, Grand Duke Vasily Yaroslavich of Kostroma, died, Dmitry, as the second son of Alexander Nevsky, remained the \"eldest\" in the family. He inherited the throne according to Russian customs, so he traveled to Sarai and received a charter for the throne from the legitimate Khan Mengu-Timur.",
+      "description_ru": "Когда умер последний из старших дядей Дмитрия — великий князь Василий Ярославич Костромской, Дмитрий, будучи вторым сыном Александра Невского, остался «старейшим» в роду. Он наследовал престол по русским обычаям, поэтому поехал в Сарай и получил ярлык на княжение у легитимного хана Менгу-Тимура.",
+      "era": "AD",
+      "latitude": 56.1290169,
+      "longitude": 40.40785432,
+      "name": "Dmitry of Pereslavl - Prince of Vladimir",
+      "name_ru": "Дмитрий Переяславльский — князь Владимира",
+      "source": "https://en.wikipedia.org/wiki/Dmitry_of_Pereslavl",
+      "tags": [
+        "Slavic",
+        "Golden Horde",
+        "Vladimir-Suzdal",
+        "Rus",
+        "King",
+        "Succession"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1281",
+      "description": "Andrei Alexandrovich, the younger brother of Dmitry, Prince of Vladimir, managed to obtain the title of Grand Prince of Vladimir from Mengu-Timur, Khan of the Golden Horde, by skillfully exploiting political circumstances, personal loyalty, and traditional Horde diplomatic methods.\n\nAndrei arrived before the Khan with rich gifts during a bitter conflict between Vladimir and Novgorod over the fortress of Koporye. Andrei presented his brother to the Khan as a ruler who was unable to maintain order in the Russian lands and was provoking discord. At that time, dual power was emerging in the Horde: alongside Mengu-Timur, the Temnik Nogai was gaining immense power. Andrei positioned himself as a loyal vassal of the Khan of Sarai, hinting that his brother Dmitry was leaning toward an alliance with Nogai. For Sarai, this became the decisive argument: they issued a label to Andrei and supplied him with a punitive army to remove Dmitry.",
+      "description_ru": "Андрей Александрович, младший брат Дмитрия, князя Владимирского, смог получить ярлык на великое княжение Владимирское у хана Золотой Орды Менгу-Тимура, умело сыграв на политических обстоятельствах, личной лояльности и традиционных ордынских методах дипломатии. \n\nАндрей прибыл к хану с богатыми дарами в момент жесткого конфликта между Владимиром и Новгородом из-за крепости Копорье. Андрей выставил брата перед ханом как правителя, который не может удержать порядок на русских землях и провоцирует распри. В Орде в то время наметилось двоевластие: параллельно с сарайским ханом Менгу-Тимуром огромную силу набирал темник Ногай. Андрей позиционировал себя как верного вассала именно сарайского хана, намекая, что его брат Дмитрий склоняется к союзу с Ногаем. Для Сарая это стало решающим аргументом: они выдали ярлык Андрею и снабдили его карательным войском, чтобы сместить Дмитрия.",
+      "era": "AD",
+      "latitude": 56.1290169,
+      "longitude": 40.40785432,
+      "name": "Prince Gorodetsky seizes power in Vladimir",
+      "name_ru": "Князь Городецкий захватывает власть во Владимире",
+      "source": "https://en.wikipedia.org/wiki/Andrey_of_Gorodets",
+      "tags": [
+        "Slavic",
+        "Turkic",
+        "Golden Horde",
+        "Vladimir-Suzdal",
+        "Rus",
+        "Crisis",
+        "Overthrow"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1283",
+      "description": "When Andrei Gorodetsky led the Horde troops into Rus', almost all the appanage princes sided with him out of fear. Dmitry realized that Sarai was against him and fled to Pskov. From there, he headed to the shores of the Black Sea, directly to the headquarters of the beklarbek Nogai, whose independent ulus often played against the interests of the Golden Horde.\n\nNogai, wishing to annoy Sarai and strengthen his influence in Rus', recognized Dmitry as the legitimate Grand Prince and lent him his troops. Andrei Gorodetsky, terrified by Nogai's power, returned Dmitry's yarlyk to the Grand Princeship and fled to his appanage. Having regained power, Dmitry harshly punished his brother's former allies. In the winter of 1283–1284, he and Andrei, who had submitted, launched a punitive campaign against Novgorod, ravaging their lands for their defection to their brother.",
+      "description_ru": "Когда Андрей Городецкий привел на Русь ордынские войска (первую «Андрееву рать»), к нему от страха примкнули почти все удельные князья. Дмитрий понял, что Сарай настроен против него, и бежал в Псков. Оттуда он отправился к берегам Чёрного моря, прямиком в ставку беклярбека Ногая, чей независимый улус часто играл против интересов Золотой Орды.\n\nНогай, желая насолить Сараю и укрепить свое влияние на Руси, признал Дмитрия законным великим князем и дал ему в помощь свои войска. Андрей Городецкий испугался мощи Ногая, вернул Дмитрию ярлык на великое княжение и бежал в свой удел. Вернув власть, Дмитрий жестко наказал вчерашних союзников брата. Зимой 1283–1284 годов он вместе с подчинившимся Андреем совершил карательный поход на Новгород, разорив их земли за то, что они переметнулись к брату.\n",
+      "era": "AD",
+      "latitude": 56.1290169,
+      "longitude": 40.40785432,
+      "name": "Dmitry Pereyaslavsky returns to Vladimir with Nogai's army",
+      "name_ru": "Дмитрий Переяславльский возвращается во Владимир с войском Ногая",
+      "source": "https://en.wikipedia.org/wiki/Dmitry_of_Pereslavl",
+      "tags": [
+        "Slavic",
+        "Turkic",
+        "Golden Horde",
+        "Vladimir-Suzdal",
+        "Rus",
+        "Civil War",
+        "Crisis"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1285",
+      "description": "Andrei Gorodetsky did not accept defeat. In 1285, he secretly traveled to Sarai again and brought a new Horde army to Rus', led by the prince (the khan's son). Dmitry Pereyaslavsky gathered loyal regiments, united with a coalition of Russian princes (supported by the princes of Moscow and Tver), and utterly defeated the Tatar army. The prince fled to the steppe, and many of Andrei's boyars were taken prisoner.\n\nAfter this victory, Dmitry effectively removed the Baskaks from Sarai from collecting tribute, and began collecting the tax himself, sending it to Nogai as the guarantor of his throne.",
+      "description_ru": "Андрей Городецкий не смирился с поражением. В 1285 году он снова тайно поехал в Сарай и привел на Русь новую ордынскую рать во главе с царевичем (сыном хана). Дмитрий Переяславский собрал верные полки, объединился с коалицией русских князей (его поддержали Московский и Тверской князья) и наголову разбил татарское войско. Царевич бежал в степь, а многие бояре Андрея были взяты в плен.\n\nПосле этой победы Дмитрий фактически отстранил от сбора дани баскаков из Сарая, и стал собирать налог сам, отправляя его Ногаю, как гаранту своего трона.",
+      "era": "AD",
+      "latitude": 56.1290169,
+      "longitude": 40.40785432,
+      "name": "The Russian principalities repel the Horde's punitive expedition",
+      "name_ru": "Русские княжества отражают карательную экспедицию Орды",
+      "source": "https://en.wikipedia.org/wiki/Dmitry_of_Pereslavl",
+      "tags": [
+        "Slavic",
+        "Turkic",
+        "Golden Horde",
+        "Moscow",
+        "Tver",
+        "Vladimir-Suzdal",
+        "Rus",
+        "Civil War",
+        "Battle"
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.1287",
@@ -168,40 +256,44 @@
     },
     {
       "date": "01.01.1293",
-      "description": "Decades before Moscow perfected the tactic, Grand Prince Andrei of Gorodets showed how it worked: when his brother Dmitry refused to give up the grand princely throne, Andrei went to Khan Tokhta and came back with an army. Tokhta's brother Dyuden led the campaign, sacking Vladimir, Moscow, and a dozen other towns before Dmitry finally abdicated. Only Tver held out, forcing Tokhta to send a second army against it alone. The lesson every Rus' prince took from 1293 was the same one Yury of Moscow would apply against Tver a generation later: a domestic rival was easier to beat with Horde soldiers than with your own.",
-      "description_ru": "За десятилетия до того, как Москва довела этот приём до совершенства, великий князь Андрей Городецкий показал, как он работает: когда брат Дмитрий отказался уступить великокняжеский престол, Андрей отправился к хану Тохте и вернулся с войском. Поход возглавил ханский брат Дюдень, разоривший Владимир, Москву и ещё десяток городов, пока Дмитрий наконец не отрёкся. Устояла только Тверь, из-за чего Тохте пришлось посылать против неё отдельное войско. Урок 1293 года усвоил каждый русский князь — тот же самый, что через поколение применит против Твери Юрий Московский: домашнего соперника проще одолеть ордынским войском, чем собственным.",
+      "description": "Grand Prince Andrei Gorodetsky, the third son of Alexander Nevsky, relied on subordination to the Horde for the sake of personal power. When his brother Dmitry refused to cede the grand princely throne in 1293, Andrei went to Khan Tokhta in Sarai and returned with an army.\n\nThe campaign was led by the Khan's brother, Duden, who ravaged Vladimir, Moscow, and a dozen other cities until Dmitry finally abdicated. Only Tver held out, forcing Tokhta to send a separate army against it. Every Russian prince learned the lesson of 1293: it is easier to defeat an opponent with the Horde's army than with one's own.",
+      "description_ru": "В 1291 году на сарайский престол взошел новый законный хан — Тохта. В отличие от своих предшественников, он не собирался мириться с тем, что темник Ногай контролирует половину государства и единолично распоряжается русскими князьями.\n\nМежду Сараем (хан Тохта) и Причерноморьем (беклярбек Ногай) началась полномасштабная война. Русь автоматически стала ареной этого столкновения: Сарай хотел ликвидировать ставленника Ногая (Дмитрия) и посадить своего верного вассала (Андрея)\n\nПоход возглавил ханский брат Дюдень, разоривший Владимир, Москву и ещё десяток городов, пока Дмитрий наконец не отрёкся. Устояла только Тверь, из-за чего Тохте пришлось посылать против неё отдельное войско. Уроки этих лет усвоил каждый русский князь — соперника проще одолеть ордынским войском, чем собственным.",
       "era": "AD",
-      "latitude": 56.129,
-      "longitude": 40.407,
-      "name": "Prince Andrei Uses a Mongol Army to Crush His Own Brother",
-      "name_ru": "Князь Андрей руками ордынцев громит родного брата",
-      "source": "https://en.wikipedia.org/wiki/Golden_Horde",
+      "latitude": 56.1290169,
+      "longitude": 40.40785432,
+      "name": "Prince Gorodetsky leads the Horde army to Vladimir",
+      "name_ru": "Дюденева рать разоряет русские города",
+      "source": "https://en.wikipedia.org/wiki/Andrey_of_Gorodets",
       "tags": [
+        "Slavic",
+        "Turkic",
         "Golden Horde",
-        "Moscow",
-        "Tver",
+        "Vladimir-Suzdal",
         "Rus",
-        "Rivalry",
-        "War",
-        "Political"
+        "Civil War",
+        "Political",
+        "Rivalry"
       ],
-      "type": "political"
+      "type": "military"
     },
     {
       "date": "01.01.1299",
-      "description": "Kyiv had been the seat of the Rus' Orthodox Church for over three centuries, but by 1299 it was a ruined backwater — sacked by the Mongols in 1240 and repeatedly raided since. Metropolitan Maximus, acting on the khan's instructions, abandoned the city and moved the metropolitan chair north to Vladimir, the seat of the grand princes and safely inside the Horde's tributary heartland. It was a quiet admission that the center of Rus' political and religious life had shifted away from Kyiv for good. The move also set a precedent: a generation later, in 1326, Maximus's successors would relocate the seat again, this time to Moscow — cementing the young principality's claim to be the moral capital of all Rus', not just its wealthiest city.",
-      "description_ru": "Киев более трёх веков оставался кафедрой русской церкви, но к 1299 году превратился в разорённую окраину — разграбленный монголами в 1240 году и с тех пор неоднократно опустошавшийся набегами. Митрополит Максим, действуя по указанию хана, покинул город и перенёс митрополичью кафедру на север, во Владимир — резиденцию великих князей, надёжно укрытую в податном сердце Орды. Это было молчаливым признанием того, что центр политической и церковной жизни Руси окончательно сместился от Киева. Перенос создал прецедент: поколением позже, в 1326 году, преемники Максима перенесут кафедру снова — на этот раз в Москву, — закрепив за молодым княжеством статус духовной столицы всей Руси, а не просто самого богатого города.",
+      "description": "Kyiv had been the seat of the Rus' Orthodox Church for over three centuries, but by 1299 it was a ruined backwater — sacked by the Mongols in 1240 and repeatedly raided since. Metropolitan Maximus, acting on the khan's instructions, abandoned the city and moved the metropolitan chair north to Vladimir, the seat of the grand princes and safely inside the Horde's tributary heartland. It was a quiet admission that the center of Rus' political and religious life had shifted away from Kyiv for good.",
+      "description_ru": "Киев более трёх веков оставался кафедрой русской церкви, но к 1299 году превратился в разорённую окраину — разграбленный монголами в 1240 году и с тех пор неоднократно опустошавшийся набегами. Митрополит Максим, действуя по указанию хана, покинул город и перенёс митрополичью кафедру на север, во Владимир — резиденцию великих князей, надёжно укрытую в податном сердце Орды. Это было молчаливым признанием того, что центр политической и церковной жизни Руси окончательно сместился от Киева.",
       "era": "AD",
-      "latitude": 56.129,
-      "longitude": 40.407,
+      "latitude": 56.1290169,
+      "longitude": 40.40785432,
       "name": "The Metropolitan's Seat Moves From Kyiv to Vladimir",
-      "name_ru": "Митрополичья кафедра переезжает из Киева во Владимир",
+      "name_ru": "Русский митрополит переезжает из Киева во Владимир",
       "source": "https://en.wikipedia.org/wiki/Maximos,_Metropolitan_of_Kiev",
       "tags": [
+        "Slavic",
         "Golden Horde",
-        "Moscow",
+        "Vladimir-Suzdal",
         "Rus",
         "Religious",
+        "Christian",
+        "Orthodox",
         "Political"
       ],
       "type": "religious"
@@ -250,33 +342,35 @@
     {
       "date": "01.01.1317",
       "description": "Yury of Moscow had already allied with Novgorod against Tver, but he needed the Horde to actually win. In 1317, after two years at Sarai, he married Khan Uzbeg's sister Konchaka, who converted to Orthodoxy as Agafya, and used the marriage to get Mikhail of Tver stripped of the grand princely title. Yury marched home with a Tatar army to enforce it, but Mikhail defeated him at Bortenevo and captured Konchaka along with Yury's brother. Held hostage in Tver, Konchaka died in captivity soon after, probably of natural causes — but Yury told the khan she had been poisoned on Mikhail's orders. The marriage had failed on the battlefield, yet it still worked: her death gave Yury the accusation that would destroy Tver's prince at Sarai the following year.",
-      "description_ru": "Юрий Московский уже заключил союз с Новгородом против Твери, но для настоящей победы ему была нужна Орда. В 1317 году, после двух лет при дворе в Сарае, он женился на сестре хана Узбека Кончаке, принявшей православие под именем Агафья, и с помощью этого брака добился, чтобы Михаила Тверского лишили титула великого князя. Юрий вернулся домой с татарским войском, чтобы закрепить это решение, но Михаил разбил его при Бортеневе и взял в плен Кончаку вместе с братом Юрия. Пленённая в Твери, Кончака вскоре умерла — вероятно, от естественных причин, — но Юрий заявил хану, что её отравили по приказу Михаила. Брак, проигранный на поле боя, всё же сработал: её смерть дала Юрию обвинение, которое год спустя погубит тверского князя в Сарае.",
+      "description_ru": "Юрий Московский заключил союз с Новгородом против Твери, но для настоящей победы ему была нужна Орда. В 1317 году, после двух лет при дворе в Сарае, он женился на сестре хана Узбека Кончаке, принявшей православие под именем Агафья, и с помощью этого брака добился, чтобы Михаила Тверского лишили титула великого князя. \n\nЮрий вернулся домой с татарским войском, чтобы закрепить это решение, но Михаил разбил его при Бортеневе и взял в плен Кончаку вместе с братом Юрия. Пленённая в Твери, Кончака умерла. Брак, проигранный на поле боя, всё же сработал: смерть Кончаки дала Юрию обвинение, которое год спустя погубит тверского князя в Сарае.",
       "era": "AD",
-      "latitude": 56.62,
-      "longitude": 34.83,
-      "name": "Yury of Moscow Marries Khan Uzbeg's Sister to Outflank Tver",
-      "name_ru": "Юрий Московский женится на сестре хана Узбека, чтобы обойти Тверь",
+      "latitude": 47.23816056,
+      "longitude": 47.37414122,
+      "name": "Yury of Moscow Marries Khan Uzbeg's Sister",
+      "name_ru": "Юрий Московский женится на сестре хана Узбека",
       "source": "https://en.wikipedia.org/wiki/Yury_of_Moscow",
       "tags": [
+        "Slavic",
         "Golden Horde",
+        "Mongolian",
         "Moscow",
         "Tver",
         "Rus",
         "Marriage",
-        "Rivalry",
-        "Political"
+        "Political",
+        "Rivalry"
       ],
       "type": "political"
     },
     {
       "date": "22.11.1318",
-      "description": "Under the Horde's yarlyk system, Russian princes had to travel to Sarai in person for the khan to confirm their right to rule. In 1318 Mikhail of Tver did so to answer charges pressed by his rival, the prince of Moscow, after a war between their cities. Khan Uzbeg held him for weeks, had him publicly humiliated, and ordered his execution, leaving the body exposed as a warning.",
-      "description_ru": "По ярлычной системе Орды русские князья были обязаны лично являться в Сарай, чтобы хан подтвердил их право на власть. В 1318 году так поступил тверской князь Михаил, чтобы ответить на обвинения своего соперника, московского князя, после войны между их городами. Хан Узбек продержал его несколько недель, публично унизил и приказал казнить, оставив тело непогребённым в назидание.",
+      "description": "After the Tverians defeated the Muscovites, Konchaka, Khan Uzbek's sister and Yuri of Moscow's wife, unexpectedly died in captivity in Tver. The Moscow prince took advantage of this and accused Mikhail of Tver of poisoning her. The enraged khan summoned the Tver prince to the Horde. The prince knew this was a death sentence, but to avoid the city's destruction, he went.\n\nMikhail was accused of poisoning and rebellion against the Horde. The court at Majar headquarters pronounced the death sentence. Assassins led by Kavgadi and Yuri's men burst into Mikhail's tent. The prince was brutally beaten, after which one of the attackers cut out his heart. The prince was later canonized and recognized as the patron saint of Tver.",
+      "description_ru": "После победы тверчан над москвичами в тверском плену неожиданно умерла Кончака, сестра хана Узбека и супруга Юрия Московского. Московский князь воспользовался этим и обвинил Михаила Тверского в ее отравлении. Разгневанный хан вызвал тверского князя в Орду. Князь знал, что это приговор, но, чтобы город не подвергся разорению, поехал.\n\nМихаил был обвинен в отравлении и бунте против орды. В Маджарской ставке суд вынес смертный приговор. В палатку к Михаилу ворвались убийцы, руководимые Кавгадыем и людьми Юрия. Князя жестоко избили, после чего один из нападавших вырезал ему сердце. Позднее князь был канонизирован и признан небесным покровителем Твери.",
       "era": "AD",
-      "latitude": 47.23816056,
-      "longitude": 47.37414122,
-      "name": "Khan Uzbeg Executes Grand Prince Mikhail of Tver",
-      "name_ru": "Хан Узбек казнит великого князя тверского Михаила",
+      "latitude": 44.78905386,
+      "longitude": 44.20387745,
+      "name": "Khan Ozbeg Executes Grand Prince of Tver",
+      "name_ru": "Хан Узбек казнит Тверского князя",
       "source": "https://en.wikipedia.org/wiki/Mikhail_of_Tver",
       "tags": [
         "Golden Horde",
@@ -284,6 +378,10 @@
         "Moscow",
         "Tver",
         "Rus",
+        "Christian",
+        "Martyr",
+        "Orthodox",
+        "Saint",
         "Crisis",
         "Execution",
         "Rivalry"
@@ -313,22 +411,23 @@
     {
       "date": "21.11.1325",
       "description": "Seven years after Yury of Moscow's accusations got his father executed, Dmitry of Tver got his revenge in person. In 1325 Yury finally traveled to Sarai to answer a new round of charges, and Dmitry — who had spent years building his own case against him — confronted and killed him there, in the middle of the Horde's own capital. Khan Uzbeg had Dmitry arrested on the spot but, for reasons no chronicle explains, waited a full year before ordering his execution on 15 September 1326. Killing a rival without the khan's permission, even in a blood feud the khan himself had provoked, was treated as a crime against Horde authority — not an acceptable way to settle a Russian succession dispute.",
-      "description_ru": "Спустя семь лет после того, как обвинения Юрия Московского привели к казни его отца, Дмитрий Тверской отомстил лично. В 1325 году Юрий наконец прибыл в Сарай, чтобы ответить на новые обвинения, и Дмитрий, годами готовивший против него собственное дело, настиг и убил его прямо в ордынской столице. Хан Узбек немедленно арестовал Дмитрия, но зачем-то выждал целый год — летописи не объясняют почему, — прежде чем казнить его 15 сентября 1326 года. Убийство соперника без ханского разрешения, пусть даже в кровной вражде, которую сам хан и спровоцировал, было расценено как преступление против власти Орды, а не как допустимый способ решать русский династический спор.",
+      "description_ru": "Спустя семь лет после того, как обвинения Юрия Московского привели к казни его отца, Дмитрий Тверской отомстил лично. В 1325 году Юрий наконец прибыл в Сарай, чтобы ответить на новые обвинения, и Дмитрий, годами готовивший против него собственное дело, настиг и убил его прямо в ордынской столице. \n\nХан Узбек немедленно арестовал Дмитрия, но зачем-то выждал целый год — летописи не объясняют почему, — прежде чем казнить его 15 сентября 1326 года. Убийство соперника без ханского разрешения, пусть даже в кровной вражде, которую сам хан и спровоцировал, было расценено как преступление против власти Орды, а не как допустимый способ решать русский династический спор.",
       "era": "AD",
       "latitude": 47.23816056,
       "longitude": 47.37414122,
-      "name": "Dmitry of Tver Avenges His Father by Killing Yury of Moscow",
-      "name_ru": "Дмитрий Тверской мстит за отца, убив Юрия Московского",
+      "name": "Dmitry Tverskoy kills the Moscow prince in Sarai",
+      "name_ru": "Дмитрий Тверской убивает московского князя в Сарае",
       "source": "https://en.wikipedia.org/wiki/Dmitry_of_Tver",
       "tags": [
+        "Slavic",
         "Golden Horde",
         "Moscow",
         "Tver",
         "Rus",
-        "Revenge",
+        "Political",
         "Murder",
-        "Rivalry",
-        "Political"
+        "Revenge",
+        "Rivalry"
       ],
       "type": "political"
     },
@@ -373,6 +472,7 @@
         "War",
         "Destruction",
         "Pillage",
+        "Ivan Kalita 👑",
         "Rivalry"
       ],
       "type": "military"
@@ -417,6 +517,29 @@
       "type": "cultural"
     },
     {
+      "date": "01.01.1337",
+      "description": "The Trinity Lavra of St. Sergius was founded by St. Sergius of Radonezh (born Bartholomew) and his older brother, Stefan. The brothers sought a place for austere ascetic life, far from the bustle of the world. They retreated to a dense, dense forest on Makovets Hill to devote themselves entirely to God, prayer, and fasting.\n\nFor the first few years, Sergius lived completely alone in the forest, as his brother Stefan could not withstand the harsh conditions and left for a monastery in Moscow. Gradually, rumors of him brought other monks there, eager to become his disciples. Initially, each monk lived alone, but later Sergius introduced a cenobitic rule. This was a true reform: monks were forbidden to own personal property, all clothing and food were communal, and every member of the community (including Sergius himself) was required to work for the benefit of the monastery.\n\nSergius of Radonezh is considered the spiritual leader of the Russian people, who was able to unite and inspire them during the most difficult period of the Tatar-Mongol yoke.",
+      "description_ru": "Троице-Сергиеву лавру основал преподобный Сергий Радонежский (в миру Варфоломей) вместе со своим старшим братом Стефаном. Братья искали место для суровой подвижнической жизни вдали от мирской суеты. Они ушли в глухой, дремучий лес на холм Маковец, чтобы полностью посвятить себя Богу, молитве и посту. \n\nПервые годы Сергий жил в лесу абсолютно один, так как его брат Стефан не выдержал суровых условий и уехал в московский монастырь. Постепенно слухи о нем привели сюда других монахов, желавших стать его учениками. Изначально каждый монах жил сам по себе, но позже Сергий ввёл общежительный устав. Это была настоящая реформа: монахам запрещалось иметь личную собственность, вся одежда и еда стали общими, и каждый член общины (включая самого Сергия) должен был трудиться на благо монастыря.\n\nСергия Радонежского считают духовным собирателем русского народа, который смог объединить и вдохновить людей в тяжелейший период татаро-монгольского ига.",
+      "era": "AD",
+      "latitude": 56.31049078,
+      "longitude": 38.13065886,
+      "name": "The founding of the Trinity Lavra of St. Sergius",
+      "name_ru": "Основание Троице-Сергиевой Лавры",
+      "source": "https://en.wikipedia.org/wiki/Trinity_Lavra_of_St._Sergius",
+      "tags": [
+        "Slavic",
+        "Golden Horde",
+        "Rus",
+        "Religious",
+        "Christian",
+        "Orthodox",
+        "Saint",
+        "Architecture",
+        "Monastery"
+      ],
+      "type": "religious"
+    },
+    {
       "date": "01.01.1340",
       "description": "Genghis Khan's grandsons conquered the Kipchak steppe speaking Mongolian; a century later, their descendants, who ruled the same steppe, spoke Kipchak Turkic. The Mongol nobility of the Horde was always a small minority over the much larger Turkic-speaking population, and the Mongols gradually assimilated into the culture of the conquered, making Kipchak the language of the court and the chancery.\n\nBy the time of the empire's collapse, its successor khanates in Kazan, Crimea, and Central Asia were essentially Turkic states with a thinned layer of Mongol descent at the top.",
       "description_ru": "Внуки Чингисхана завоёвывали кипчакскую степь, говоря по-монгольски; спустя век их потомки, правившие той же степью, говорили уже на кипчакском тюркском. Монгольская знать Орды всегда была немногочисленным меньшинством над гораздо более многочисленным тюркоязычным населением, и монголы постепенно растворились в культуре завоёванных, сделав кипчакский языком двора и канцелярии. \n\nК моменту распада империи её ханства-преемники в Казани, Крыму и Средней Азии были по сути тюркскими государствами с истончившимся слоем монгольского происхождения наверху.",
@@ -451,7 +574,8 @@
         "Golden Horde",
         "Rus",
         "Religious",
-        "Political"
+        "Political",
+        "Reform"
       ],
       "type": "political"
     },
@@ -474,38 +598,43 @@
     },
     {
       "date": "01.01.1352",
-      "description": "The plague had been burning through the Golden Horde's own cities since 1346 — it broke out among the Mongols besieging Genoese Caffa in Crimea, then spread to Sarai and Astrakhan — but it never reached Rus' from that direction. The border between Christian Rus' and the Muslim Horde stayed closed for religious reasons, and the disease instead traveled the long way around: west across Europe, then east again from the Baltic. It reached Pskov in the spring of 1352, killing large numbers of the population before spreading on to Novgorod and south into the rest of the Rus' lands. Chroniclers described it as divine punishment for sin, comparing it to the Plagues of Egypt. The Horde's own trade network had helped launch the epidemic in Crimea; the Horde's own closed frontier was, for once, what kept it out of Rus' the longest.",
-      "description_ru": "Чума бушевала в городах самой Золотой Орды с 1346 года — она вспыхнула среди монголов, осаждавших генуэзскую Каффу в Крыму, а затем перекинулась на Сарай и Астрахань, — но с этой стороны так и не пришла на Русь. Граница между христианской Русью и мусульманской Ордой оставалась закрытой по религиозным причинам, и болезнь пошла в обход: на запад через всю Европу, а затем снова на восток со стороны Балтики. Весной 1352 года она достигла Пскова, унеся множество жизней, а затем распространилась на Новгород и дальше на юг, в остальные русские земли. Летописцы описывали её как божью кару за грехи, сравнивая с египетскими казнями. Собственная торговая сеть Орды помогла запустить эпидемию в Крыму, а собственная закрытая граница Орды, как ни странно, дольше всего удерживала её от Руси.",
+      "description": "The plague had been burning through the Golden Horde's own cities since 1346 — it broke out among the Mongols besieging Genoese Caffa in Crimea, then spread to Sarai and Astrakhan — but it never reached Rus' from that direction. The border between Christian Rus' and the Muslim Horde stayed closed for religious reasons, and the disease instead traveled the long way around: west across Europe, then east again from the Baltic. \n\nIt reached Pskov in the spring of 1352, killing large numbers of the population before spreading on to Novgorod and south into the rest of the Rus' lands. Chroniclers described it as divine punishment for sin, comparing it to the Plagues of Egypt.",
+      "description_ru": "Чума бушевала в городах самой Золотой Орды с 1346 года — она вспыхнула среди монголов, осаждавших генуэзскую Каффу в Крыму, а затем перекинулась на Сарай и Астрахань, — но с юга так и не пришла на Русь. Граница между христианской Русью и мусульманской Ордой оставалась закрытой по религиозным причинам, и болезнь пошла в обход: на запад через всю Европу, а затем снова на восток со стороны Балтики. \n\nВесной 1352 года она достигла Пскова, унеся множество жизней, а затем распространилась на Новгород и дальше на юг, в остальные русские земли. Летописцы описывали её как божью кару за грехи, сравнивая с египетскими казнями.",
       "era": "AD",
-      "latitude": 57.8194,
-      "longitude": 28.3319,
+      "latitude": 57.82142931,
+      "longitude": 28.32926631,
       "name": "The Black Death Reaches Rus' Through Pskov",
       "name_ru": "Чёрная смерть приходит на Русь через Псков",
       "source": "https://en.wikipedia.org/wiki/Black_Death_in_Russia",
       "tags": [
+        "Slavic",
         "Golden Horde",
         "Novgorod",
         "Rus",
-        "Crisis"
+        "Crisis",
+        "Black Death",
+        "Plague 🦠"
       ],
       "type": "historic"
     },
     {
-      "date": "01.09.1357",
-      "description": "When Taidula, the influential mother of Khan Jani Beg, went blind, the Horde's court reportedly summoned Metropolitan Alexius of Moscow, who traveled to Sarai and, according to accounts later celebrated in Russian hagiography, restored her sight through prayer. Whatever happened medically, the political effect was lasting: a grateful Taidula protected the Russian Orthodox Church's tax exemptions and privileges at court for years afterward. ",
-      "description_ru": "Когда Тайдула, влиятельная мать хана Джанибека, ослепла, ордынский двор, по преданию, обратился к митрополиту Московскому Алексию, который отправился в Сарай и, согласно рассказам, позднее прославленным в русской агиографии, вернул ей зрение молитвой. Что бы ни произошло на самом деле, политический эффект оказался долгим: благодарная Тайдула на годы вперёд стала покровительницей налоговых льгот и привилегий Русской церкви при дворе. ",
+      "date": "06.09.1357",
+      "description": "When Taidula, the influential mother of Khan Janibek, went blind, the Horde court, according to legend, appealed to Metropolitan Alexy of Moscow, who traveled to Sarai and, according to stories later celebrated in Russian hagiography, restored her sight through prayer.\n\nAs a sign of profound gratitude for her restored health, Taidula presented the Metropolitan with a gift and issued the Russian Church a charter, which confirmed the clergy's exemption from extortion, taxes, and tribute. She also gifted the Church a plot of land in the Moscow Kremlin (the Horde courtyard). By leaving the Church its wealth and exempting it from tribute, the Horde rulers ensured the loyalty of the Metropolitans. The Church, in turn, called upon the Russian princes to obey the Khan and quelled internal strife.",
+      "description_ru": "Когда Тайдула, влиятельная мать хана Джанибека, ослепла, ордынский двор, по преданию, обратился к митрополиту Московскому Алексию, который отправился в Сарай и, согласно рассказам, позднее прославленным в русской агиографии, вернул ей зрение молитвой.\n\nВ знак глубокой благодарности за возвращенное здоровье Тайдула одарила митрополита и выдала Русской церкви жалованный ярлык, который подтверждал освобождение духовенства от поборов, налогов и даней. Кроме того, она подарила церкви участок земли в Московском Кремле (ордынское подворье). Оставляя церкви её богатства и освобождая от дани, ордынские правители обеспечивали лояльность митрополитов. Церковь, в свою очередь, призывала русских князей к повиновению хану и гасила внутренние усобицы",
       "era": "AD",
       "latitude": 48.66999236,
       "longitude": 45.38040161,
       "name": "Metropolitan of Moscow Is Said to Cure Khatun Taidula's Blindness",
       "name_ru": "Митрополит Московский исцеляет от слепоты ханшу Тайдулу",
-      "source": "https://en.wikipedia.org/wiki/Alexius,_Metropolitan_of_Kiev",
+      "source": "https://en.wikipedia.org/wiki/Taydula_Khatun",
       "tags": [
         "Golden Horde",
         "Mongolian",
         "Moscow",
         "Rus",
-        "Religious"
+        "Religious",
+        "Christian",
+        "Orthodox"
       ],
       "type": "religious"
     },
@@ -531,20 +660,23 @@
     },
     {
       "date": "01.01.1360",
-      "description": "When Ivan II of Moscow died in 1359, his heir Dmitry — the future Donskoy — was nine years old, too young for the khan to trust with the grand princely title. Khan Nawruz gave it instead to Dmitry of Suzdal, ruler of the rival Nizhny Novgorod-Suzdal principality and head of a third Rus' power center outside the Tver-Moscow rivalry. Moscow's boyars and Metropolitan Alexei refused to accept it: they raised an army, marched on Vladimir, and by 1363 had forced Suzdal's Dmitry to give up the title for good. He made peace three years later by marrying his daughter Eudoxia to the boy he had tried to displace. It would not be the last time the two men's fates crossed: in 1382 Dmitry of Suzdal sided with Khan Tokhtamysh against his own son-in-law, sending his sons to help take Moscow.",
-      "description_ru": "Когда в 1359 году умер Иван II Московский, его наследнику Дмитрию — будущему Донскому — было девять лет, и хан не доверил ребёнку великокняжеский титул. Хан Наврус отдал его Дмитрию Суздальскому, правителю соперничающего Нижегородско-Суздальского княжества — третьего русского центра силы вне тверско-московского противостояния. Московские бояре и митрополит Алексий не смирились: они собрали войско, выступили на Владимир и к 1363 году окончательно вынудили суздальского Дмитрия отказаться от титула. Три года спустя он помирился, выдав свою дочь Евдокию замуж за мальчика, которого пытался отстранить от власти. Их судьбы пересекутся снова: в 1382 году Дмитрий Суздальский встанет на сторону хана Тохтамыша против собственного зятя, отправив сыновей помогать брать Москву.",
+      "description": "When Ivan II of Moscow died in 1359, his heir Dmitry — the future Donskoy — was nine years old, too young for the khan to trust with the grand princely title. Khan Nawruz gave it instead to Dmitry of Suzdal, ruler of the rival Nizhny Novgorod-Suzdal principality and head of a third Rus' power center outside the Tver-Moscow rivalry. \n\nMoscow's boyars and Metropolitan Alexei refused to accept it: they raised an army, marched on Vladimir, and by 1363 had forced Suzdal's Dmitry to give up the title for good. He made peace three years later by marrying his daughter Eudoxia to the boy he had tried to displace. \n\nIt would not be the last time the two men's fates crossed: in 1382 Dmitry of Suzdal sided with Khan Tokhtamysh against his own son-in-law, sending his sons to help take Moscow.",
+      "description_ru": "Когда в 1359 году умер Иван II Московский, его наследнику Дмитрию — будущему Донскому — было девять лет, и хан не доверил ребёнку великокняжеский титул. Хан Наврус отдал его Дмитрию Суздальскому, правителю соперничающего Нижегородско-Суздальского княжества — третьего русского центра силы вне тверско-московского противостояния. \n\nМосковские бояре и митрополит Алексий не смирились: они собрали войско, выступили на Владимир и к 1363 году окончательно вынудили суздальского Дмитрия отказаться от титула. Три года спустя он помирился, выдав свою дочь Евдокию замуж за мальчика, которого пытался отстранить от власти. \n\nИх судьбы пересекутся снова: в 1382 году Дмитрий Суздальский встанет на сторону хана Тохтамыша против собственного зятя, отправив сыновей помогать брать Москву.",
       "era": "AD",
       "latitude": 56.3269,
       "longitude": 44.0059,
-      "name": "Dmitry of Suzdal Takes the Grand Princely Throne From a Child",
-      "name_ru": "Дмитрий Суздальский отбирает великокняжеский престол у ребёнка",
+      "name": "Dmitry of Suzdal - Grand Prince of Vladimir",
+      "name_ru": "Дмитрий Суздальский — Великий князь Владимира",
       "source": "https://en.wikipedia.org/wiki/Dmitry_of_Suzdal",
       "tags": [
+        "Slavic",
         "Golden Horde",
         "Moscow",
+        "Vladimir-Suzdal",
         "Rus",
-        "Rivalry",
-        "Political"
+        "King",
+        "Political",
+        "Rivalry"
       ],
       "type": "political"
     },
@@ -593,6 +725,50 @@
       "type": "military"
     },
     {
+      "date": "21.11.1365",
+      "description": "The Chudov Monastery was founded in the Moscow Kremlin by Metropolitan Alexy of Moscow. According to legend, Metropolitan Alexy traveled to the Horde, where he healed Khan Janibek's wife, Taydula, from a serious eye ailment through prayer. In gratitude, she granted him a Horde courtyard within the Kremlin walls. The foundation of the main stone cathedral dedicated to the Miracle of Archangel Michael in Khonekh was laid at this courtyard, from which the monastery received its name, Chudov.",
+      "description_ru": "Чудов монастырь был основан в Московском Кремле митрополитом Московским Алексием. Согласно преданию, митрополит Алексий ездил в Орду, где молитвой исцелил от тяжелой глазной болезни Тайдулу — жену хана Джанибека, за что та в благодарность даровала ему ордынское подворье в стенах Кремля. На этом подворье заложили главный каменный собор во имя Чуда архистратига Михаила в Хонех, от которого обитель и получила свое название «Чудов».",
+      "era": "AD",
+      "latitude": 55.75168033,
+      "longitude": 37.61892557,
+      "name": "The founding of the Chudov Monastery in Moscow",
+      "name_ru": "Основание Чудова монастыря в Москве",
+      "source": "https://en.wikipedia.org/wiki/Chudov_Monastery",
+      "tags": [
+        "Slavic",
+        "Golden Horde",
+        "Moscow",
+        "Rus",
+        "Religious",
+        "Christian",
+        "Orthodox",
+        "Building 🏠",
+        "Monastery"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.1367",
+      "description": "Taking advantage of the Horde's power crisis and the threat posed by Lithuania, the young Moscow Prince Dmitry decided to restore the Kremlin and replace the wood with durable white stone. This was the first stone fortress in northeastern Rus'. The fortress was built incredibly quickly—in just one year.\n\nFrom that time on, the capital acquired the poetic name \"White-Stone Moscow.\" However, the white-stone walls lasted only a little over a century—over time, the limestone began to crumble and disintegrate.",
+      "description_ru": "Воспользовавшись кризисом власти в Орде и наличием угроз со стороны Литвы, молодой московский князь Дмитрий решил восстановить кремль и заменить дерево прочным белым камнем. Это была первая каменная крепость на территории Северо-Восточной Руси.  Крепость возвели невероятно быстро — всего за один год.\n\nС этого времени за столицей закрепилось поэтичное название «Москва белокаменная». Однако белокаменные стены продержались чуть больше века — известняк со временем начал крошиться и разрушаться.",
+      "era": "AD",
+      "latitude": 55.74893899,
+      "longitude": 37.61252046,
+      "name": "Construction of the white-stone Kremlin in Moscow",
+      "name_ru": "Строительство белокаменного кремля в Москве",
+      "source": "https://en.wikipedia.org/wiki/Kremlin#History",
+      "tags": [
+        "Slavic",
+        "Golden Horde",
+        "Moscow",
+        "Rus",
+        "Architecture",
+        "Building 🏠",
+        "Fortification"
+      ],
+      "type": "historic"
+    },
+    {
       "date": "11.08.1378",
       "description": "Two years before Kulikovo made him famous, Prince Dmitry of Moscow had already beaten a Golden Horde army once. Mamai, ruling the western Horde through puppet khans, sent his general Begich to punish Moscow for withholding tribute; Dmitry met the invading force directly, encircled it, and won decisively, killing Begich in the process. It was the first clear field victory by a united Russian army over Horde forces in over a century of vassalage — an unglamorous rehearsal for the battle history would remember instead.",
       "description_ru": "За два года до того, как Куликово прославило московского князя Дмитрия, он уже однажды побеждал войско Золотой Орды. Мамай, правивший западной Ордой через марионеточных ханов, отправил военачальника Бегича наказать Москву за невыплату дани; Дмитрий встретил вторгшееся войско в лоб, окружил его и одержал решительную победу, убив Бегича в бою. Это была первая ясная полевая победа объединённого русского войска над ордынскими силами больше чем за столетие вассальной зависимости.",
@@ -613,25 +789,6 @@
         "Dmitry Donskoy 👑"
       ],
       "type": "military"
-    },
-    {
-      "date": "01.09.1380",
-      "description": "Before marching to face Mamai's army, Dmitry of Moscow stopped at the Trinity Monastery to ask its founder, Sergius of Radonezh, for a blessing — but only after making sure he had exhausted every peaceful option first. Sergius gave it, and sent two of his monks, Alexander Peresvet and Rodion Oslyabya, to fight alongside the army. It was one of the only times the ascetic Sergius involved himself in politics at all, and later generations read it as the moment the Orthodox Church openly backed Moscow's claim to lead a unified Rus' against the Horde. Peresvet died in the battle's opening duel; Sergius's monastery, meanwhile, kept growing — its monks would go on to found roughly forty more monasteries across Rus' by the century's end.",
-      "description_ru": "Прежде чем выступить против войска Мамая, Дмитрий Московский заехал в Троицкий монастырь попросить благословения у его основателя, Сергия Радонежского, — но лишь убедившись, что исчерпал все мирные пути. Сергий благословил его и отправил с войском двух своих монахов, Александра Пересвета и Родиона Ослябю. Это был едва ли не единственный случай, когда аскет Сергий вообще вмешался в политику, и позднейшие поколения увидели в этом момент, когда церковь открыто поддержала притязания Москвы на роль объединителя Руси против Орды. Пересвет погиб в поединке, открывшем битву; монастырь же Сергия продолжал расти — к концу века его ученики основали ещё около сорока обителей по всей Руси.",
-      "era": "AD",
-      "latitude": 56.3084,
-      "longitude": 38.133,
-      "name": "Sergius of Radonezh Blesses Dmitry Before Kulikovo",
-      "name_ru": "Сергий Радонежский благословляет Дмитрия перед Куликовской битвой",
-      "source": "https://en.wikipedia.org/wiki/Sergius_of_Radonezh",
-      "tags": [
-        "Golden Horde",
-        "Moscow",
-        "Rus",
-        "Religious",
-        "War"
-      ],
-      "type": "religious"
     },
     {
       "date": "01.10.1380",
@@ -702,25 +859,6 @@
       "type": "military"
     },
     {
-      "date": "01.09.1382",
-      "description": "No Rus' principality was more exposed to the Horde than Ryazan, sitting directly on the steppe frontier, and its prince Oleg had to survive accordingly. In 1380 he sided with Mamai against Dmitry of Moscow ahead of Kulikovo, then found himself on the losing side once Dmitry won. Two years later, when Tokhtamysh sacked Moscow, Ryazan's exposed position pulled Oleg back toward the Horde again — until Dmitry, freshly humbled but still standing, forced him to publicly submit as his vassal once more. Ryazan never had the luxury of picking a permanent side the way Moscow or Tver could: it flipped with whichever power stood closest to its undefended border, a survival strategy its neighbors called betrayal and its own princes saw as the only realistic one available.",
-      "description_ru": "Ни одно русское княжество не было так открыто для Орды, как Рязань, стоявшая прямо на степной границе, и его князю Олегу приходилось выживать соответственно. В 1380 году он встал на сторону Мамая против Дмитрия Московского накануне Куликовской битвы, а затем оказался на стороне проигравших после победы Дмитрия. Два года спустя, когда Тохтамыш разграбил Москву, уязвимое положение Рязани снова потянуло Олега к Орде — пока Дмитрий, недавно униженный, но всё ещё стоявший на ногах, не заставил его вновь публично признать себя вассалом. У Рязани никогда не было роскоши раз и навсегда выбрать сторону, как у Москвы или Твери: она склонялась к той силе, что оказывалась ближе к её незащищённой границе, — стратегия выживания, которую соседи называли предательством, а собственные князья считали единственно реалистичной.",
-      "era": "AD",
-      "latitude": 54.6269,
-      "longitude": 39.6916,
-      "name": "Oleg of Ryazan Switches Sides Between Moscow and the Horde",
-      "name_ru": "Олег Рязанский мечется между Москвой и Ордой",
-      "source": "https://en.wikipedia.org/wiki/Grand_Principality_of_Moscow",
-      "tags": [
-        "Golden Horde",
-        "Moscow",
-        "Rus",
-        "Rivalry",
-        "Political"
-      ],
-      "type": "political"
-    },
-    {
       "date": "14.04.1395",
       "description": "Tokhtamysh owed his throne to Timur, the Central Asian conqueror who had backed him against Mamai — then, once secure, raided Timurid territory himself. Timur's response was systematic: after crushing Tokhtamysh's army at the Terek River in 1395, his forces marched into Golden Horde territory and razed Sarai and other major trading cities, severing the trade routes that had made the Horde rich. Timur had no interest in ruling the Volga steppe; he simply wanted his former protégé humbled, and left. The Horde survived the war, but its economy and unity did not.",
       "description_ru": "Тохтамыш был обязан своим троном Тимуру, среднеазиатскому завоевателю, поддержавшему его против Мамая, — а затем, укрепившись у власти, сам совершил набег на тимуридские земли. Ответ Тимура был суровым: разбив армию Тохтамыша на реке Терек в 1395 году, его войска вторглись вглубь территории Золотой Орды и разрушили Сарай и другие крупные торговые города, перерезав пути, некогда обогатившие Орду. Тимур не стремился править волжской степью — он лишь хотел окончательно унизить бывшего протеже и ушёл. Орда пережила войну, но её экономика и единство — нет.",
@@ -743,20 +881,25 @@
     },
     {
       "date": "01.01.1404",
-      "description": "Smolensk was another Rus' principality the Mongols never sacked, and like Novgorod it simply paid tribute from a distance for over a century. But unlike Novgorod, it sat on Lithuania's border, and Grand Duke Vytautas wanted it outright. He seized the city in 1395, lost it to a local uprising, and took it back for good in 1404, ending Smolensk's own line of princes within a few more years of mopping-up fighting. It was an exit from the Horde's orbit that Novgorod and the northeastern principalities never had: from then on Smolensk paid no tribute to Sarai at all — it simply belonged to Lithuania, and its fate would be decided in wars between Vilnius and Moscow instead, until Moscow finally retook it in 1514.",
-      "description_ru": "Смоленск был ещё одним русским княжеством, которое монголы так и не разорили, и, как и Новгород, веками платил дань на расстоянии. Но, в отличие от Новгорода, он граничил с Литвой, а великий князь Витовт хотел заполучить его целиком. Он взял город в 1395 году, потерял его из-за местного восстания и окончательно вернул в 1404 году, положив конец собственной смоленской княжеской династии в последующие годы. Это был выход из орбиты Орды, которого никогда не было у Новгорода и северо-восточных княжеств: с тех пор Смоленск вовсе не платил дань в Сарай — он просто принадлежал Литве, и его судьбу отныне решали войны между Вильно и Москвой, пока Москва не отвоевала его в 1514 году.",
+      "description": "Smolensk was another Rus' principality the Mongols never sacked, and like Novgorod it simply paid tribute from a distance for over a century. But unlike Novgorod, it sat on Lithuania's border, and Grand Duke Vytautas wanted it outright. He seized the city in 1395, lost it to a local uprising, and took it back for good in 1404, ending Smolensk's own line of princes within a few more years of mopping-up fighting.\n\nFrom then on Smolensk paid no tribute to Sarai at all — it simply belonged to Lithuania, and its fate would be decided in wars between Vilnius and Moscow instead, until Moscow finally retook it in 1514.",
+      "description_ru": "Смоленск был ещё одним русским княжеством, которое монголы так и не разорили, и, как и Новгород, веками платил дань на расстоянии. Но, в отличие от Новгорода, он граничил с Литвой, а великий князь Витовт хотел заполучить его целиком. Он взял город в 1395 году, потерял его из-за местного восстания и окончательно вернул в 1404 году, положив конец собственной смоленской княжеской династии в последующие годы. \n\nС тех пор Смоленск вовсе не платил дань в Сарай — он просто принадлежал Литве, и его судьбу отныне решали войны между Вильно и Москвой, пока Москва не отвоевала его в 1514 году.",
       "era": "AD",
       "latitude": 54.7818,
       "longitude": 32.0401,
-      "name": "Smolensk Falls to Lithuania, Escaping Horde Tribute for Good",
-      "name_ru": "Смоленск переходит под власть Литвы, навсегда покинув данников Орды",
+      "name": "Smolensk Falls to Lithuania",
+      "name_ru": "Смоленск переходит под власть Литвы",
       "source": "https://en.wikipedia.org/wiki/Smolensk",
       "tags": [
+        "Slavic",
+        "Baltic",
         "Golden Horde",
+        "Lithuanian",
+        "Smolensk",
         "Rus",
+        "Conquest",
         "Political"
       ],
-      "type": "political"
+      "type": "military"
     },
     {
       "date": "01.01.1406",

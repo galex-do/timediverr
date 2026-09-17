@@ -158,6 +158,9 @@
       "tags": [
         "Byzantine",
         "Roman",
+        "Turkic",
+        "Seljuk Empire",
+        "Sultanate of Rum",
         "French",
         "Religious",
         "Christian",
@@ -166,8 +169,7 @@
         "War",
         "Battle",
         "Adventure",
-        "Failure",
-        "Seljuk Empire"
+        "Failure"
       ],
       "type": "military"
     },
@@ -319,9 +321,9 @@
         "French",
         "Foundation",
         "Culture",
+        "Law",
         "Capetian",
         "Education",
-        "Law",
         "Philip Augustus 👑"
       ],
       "type": "cultural"
@@ -580,10 +582,10 @@
       "tags": [
         "French",
         "Political",
+        "Law",
         "Reform",
         "Administration",
         "Capetian",
-        "Law",
         "Louis IX 👑",
         "Taxes"
       ],

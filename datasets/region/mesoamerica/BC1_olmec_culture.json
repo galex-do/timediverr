@@ -11,10 +11,11 @@
       "name": "Creation of the world in Mesoamerica",
       "name_ru": "Сотворение мира в Мезоамерике",
       "tags": [
-        "Cosmology",
+        "Mesoamerican",
         "Olmec",
+        "Religious",
         "Pagan",
-        "Religious"
+        "Cosmology"
       ],
       "type": "historic"
     },
@@ -29,10 +30,10 @@
       "name_ru": "Ранние ольмекские поселения",
       "source": "https://en.wikipedia.org/wiki/Olmec",
       "tags": [
-        "Civilization",
-        "Culture",
-        "Mesoamerica",
+        "Mesoamerican",
         "Olmec",
+        "Culture",
+        "Civilization",
         "Settlement"
       ],
       "type": "historic"
@@ -48,12 +49,12 @@
       "name_ru": "Эль-Манати — священный источник ольмеков",
       "source": "https://en.wikipedia.org/wiki/El_Manat%C3%AD",
       "tags": [
-        "Culture",
-        "Holy Site",
-        "Mesoamerica",
+        "Mesoamerican",
         "Olmec",
+        "Religious",
         "Pagan",
-        "Religious"
+        "Holy Site",
+        "Culture"
       ],
       "type": "religious"
     },
@@ -68,19 +69,19 @@
       "name_ru": "Сан-Лоренсо — первый центр ольмеков",
       "source": "https://en.wikipedia.org/wiki/San_Lorenzo_Tenochtitl%C3%A1n",
       "tags": [
+        "Mesoamerican",
+        "Olmec",
+        "Capital",
         "City",
         "Architecture",
-        "Capital",
-        "Engineering ⚙️",
-        "Mesoamerica",
-        "Olmec"
+        "Engineering ⚙️"
       ],
       "type": "historic"
     },
     {
       "date": "01.01.1400",
-      "description": "The Mesoamerican ballgame is already practiced by the Olmec at this date, as confirmed by rubber balls at El Manatí and court remains at early Olmec sites. 'Olmec' itself means 'rubber people' in Nahuatl — reflecting how fundamental rubber technology was to Olmec identity. The game is played with a solid rubber ball (weighing several kilograms) in a stone-lined court; players use their hips, thighs, and arms to keep the ball in play. The game carries profound cosmological significance: the ball represents the sun or moon; the court represents the boundary between the living world and the underworld; the movement of the ball enacts cosmic cycles of death and rebirth. In some periods, the game ends in human sacrifice — winner or loser depending on interpretation — offered to sustain the cosmic order.",
-      "description_ru": "Древнейший известный командный вид спорта в истории человечества практикуется ольмеками в этот период, что подтверждают каучуковые мячи из Эль-Манати. Само слово «ольмек» на языке науатль означает «люди каучука» — свидетельство того, насколько фундаментальной была каучуковая технология для ольмекской идентичности. Игра проводится с помощью цельного каучукового мяча (весом несколько килограммов) на обрамлённой камнем площадке; игроки используют бёдра, ляжки и руки. Игра несёт глубокий космологический смысл: мяч олицетворяет Солнце или Луну; площадка — границу между миром живых и подземным миром. Движение мяча отражает космические циклы смерти и возрождения. В некоторые периоды игра заканчивается человеческими жертвоприношениями — победителя или проигравшего в зависимости от интерпретации игры",
+      "description": "The Mesoamerican ballgame is already practiced by the Olmec at this date, as confirmed by rubber balls at El Manatí and court remains at early Olmec sites. 'Olmec' itself means 'rubber people' in Nahuatl — reflecting how fundamental rubber technology was to Olmec identity. \n\nThe game is played with a solid rubber ball (weighing several kilograms) in a stone-lined court; players use their hips, thighs, and arms to keep the ball in play. The game carries profound cosmological significance: the ball represents the sun or moon; the court represents the boundary between the living world and the underworld; the movement of the ball enacts cosmic cycles of death and rebirth. In some periods, the game ends in human sacrifice — winner or loser depending on interpretation — offered to sustain the cosmic order.",
+      "description_ru": "Древнейший известный командный вид спорта в истории человечества практикуется ольмеками в этот период, что подтверждают каучуковые мячи из Эль-Манати. Само слово «ольмек» на языке науатль означает «люди каучука» — свидетельство того, насколько фундаментальной была каучуковая технология для ольмекской идентичности. \n\nИгра проводится с помощью цельного каучукового мяча (весом несколько килограммов) на обрамлённой камнем площадке; игроки используют бёдра, ляжки и руки. Игра несёт глубокий космологический смысл: мяч олицетворяет Солнце или Луну; площадка — границу между миром живых и подземным миром. Движение мяча отражает космические циклы смерти и возрождения. В некоторые периоды игра заканчивается человеческими жертвоприношениями — победителя или проигравшего в зависимости от интерпретации игры",
       "era": "BC",
       "latitude": 17.62602666,
       "longitude": -94.65099335,
@@ -88,14 +89,14 @@
       "name_ru": "Мезоамериканская игра в мяч",
       "source": "https://en.wikipedia.org/wiki/Mesoamerican_ballgame",
       "tags": [
-        "Culture",
-        "Customs",
-        "Mesoamerica",
+        "Mesoamerican",
         "Olmec",
-        "Pagan",
         "Religious",
-        "Rubber",
-        "Sport"
+        "Pagan",
+        "Culture",
+        "Sport",
+        "Customs",
+        "Rubber"
       ],
       "type": "cultural"
     },
@@ -110,11 +111,11 @@
       "name_ru": "Железнорудные зеркала ольмеков",
       "source": "https://en.wikipedia.org/wiki/Olmec",
       "tags": [
-        "Culture",
-        "Mesoamerica",
+        "Mesoamerican",
         "Olmec",
-        "Technology",
-        "Trade"
+        "Culture",
+        "Trade",
+        "Technology"
       ],
       "type": "scientific"
     },
@@ -129,10 +130,10 @@
       "name_ru": "Колоссальные головы ольмеков",
       "source": "https://en.wikipedia.org/wiki/Olmec_colossal_heads",
       "tags": [
-        "Art",
-        "Culture",
-        "Mesoamerica",
+        "Mesoamerican",
         "Olmec",
+        "Culture",
+        "Art",
         "Sculpture"
       ],
       "type": "cultural"
@@ -148,10 +149,10 @@
       "name_ru": "Транспортировка базальта в Сан-Лоренсо",
       "source": "https://en.wikipedia.org/wiki/Olmec_colossal_heads",
       "tags": [
-        "Administration",
-        "Mesoamerica",
+        "Mesoamerican",
         "Olmec",
-        "Transport"
+        "Administration",
+        "Logistics"
       ],
       "type": "historic"
     },
@@ -166,9 +167,11 @@
       "name_ru": "Ольмекская торговля нефритом и обсидианом",
       "source": "https://en.wikipedia.org/wiki/Olmec_influences_on_Mesoamerican_cultures",
       "tags": [
-        "Mesoamerica",
+        "Mesoamerican",
         "Olmec",
-        "Trade"
+        "Trade",
+        "Jade",
+        "Obsidian"
       ],
       "type": "historic"
     },
@@ -183,12 +186,12 @@
       "name_ru": "Ольмекский ягуар-оборотень",
       "source": "https://en.wikipedia.org/wiki/Were-jaguar",
       "tags": [
-        "Animalism",
-        "Culture",
-        "Mesoamerica",
+        "Mesoamerican",
         "Olmec",
+        "Religious",
         "Pagan",
-        "Religious"
+        "Animalism",
+        "Culture"
       ],
       "type": "religious"
     },
@@ -203,12 +206,12 @@
       "name_ru": "Ольмекский шаманизм",
       "source": "https://en.wikipedia.org/wiki/Olmec_religion",
       "tags": [
-        "Animalism",
-        "Culture",
-        "Mesoamerica",
+        "Mesoamerican",
         "Olmec",
+        "Religious",
         "Pagan",
-        "Religious"
+        "Animalism",
+        "Culture"
       ],
       "type": "religious"
     },
@@ -223,11 +226,11 @@
       "name_ru": "Каменные водоотводы Сан-Лоренсо",
       "source": "https://en.wikipedia.org/wiki/San_Lorenzo_Tenochtitl%C3%A1n",
       "tags": [
-        "Architecture",
-        "Engineering ⚙️",
-        "Mesoamerica",
+        "Mesoamerican",
         "Olmec",
-        "Water"
+        "Architecture",
+        "Water",
+        "Engineering ⚙️"
       ],
       "type": "scientific"
     },
@@ -242,12 +245,12 @@
       "name_ru": "Разрушение Сан-Лоренсо",
       "source": "https://en.wikipedia.org/wiki/San_Lorenzo_Tenochtitl%C3%A1n",
       "tags": [
+        "Mesoamerican",
+        "Olmec",
         "City",
-        "Uncertain",
-        "Abandonment",
         "Destruction",
-        "Mesoamerica",
-        "Olmec"
+        "Uncertain",
+        "Abandonment"
       ],
       "type": "historic"
     },
@@ -262,10 +265,10 @@
       "name_ru": "Ла-Вента — новая ольмекская столица",
       "source": "https://en.wikipedia.org/wiki/La_Venta",
       "tags": [
-        "City",
+        "Mesoamerican",
+        "Olmec",
         "Capital",
-        "Mesoamerica",
-        "Olmec"
+        "City"
       ],
       "type": "political"
     },
@@ -280,12 +283,12 @@
       "name_ru": "Великая пирамида Ла-Венты",
       "source": "https://en.wikipedia.org/wiki/La_Venta",
       "tags": [
+        "Mesoamerican",
+        "Olmec",
+        "Religious",
         "Architecture",
         "Earthwork",
-        "Mesoamerica",
-        "Mound Builders",
-        "Olmec",
-        "Religious"
+        "Mound Builders"
       ],
       "type": "cultural"
     },
@@ -300,12 +303,12 @@
       "name_ru": "Серпентиновые мостовые Ла-Венты",
       "source": "https://en.wikipedia.org/wiki/La_Venta",
       "tags": [
-        "Architecture",
-        "Mesoamerica",
-        "Mystery",
+        "Mesoamerican",
         "Olmec",
+        "Religious",
         "Pagan",
-        "Religious"
+        "Architecture",
+        "Mystery"
       ],
       "type": "religious"
     },
@@ -320,11 +323,11 @@
       "name_ru": "Ольмекское ритуальное кровопускание",
       "source": "https://en.wikipedia.org/wiki/Olmec_religion",
       "tags": [
-        "Cosmology",
-        "Mesoamerica",
+        "Mesoamerican",
         "Olmec",
-        "Pagan",
         "Religious",
+        "Pagan",
+        "Cosmology",
         "Sacrifice"
       ],
       "type": "religious"
@@ -340,13 +343,13 @@
       "name_ru": "Ольмекский культ нефрита",
       "source": "https://en.wikipedia.org/wiki/Olmec_influences_on_Mesoamerican_cultures",
       "tags": [
-        "Culture",
-        "Jade",
-        "Mesoamerica",
+        "Mesoamerican",
         "Olmec",
-        "Pagan",
         "Religious",
-        "Trade"
+        "Pagan",
+        "Culture",
+        "Trade",
+        "Jade"
       ],
       "type": "religious"
     },
@@ -361,11 +364,11 @@
       "name_ru": "Троны Ла-Венты",
       "source": "https://en.wikipedia.org/wiki/La_Venta",
       "tags": [
-        "Mesoamerica",
+        "Mesoamerican",
         "Olmec",
+        "Religious",
         "Pagan",
-        "Political",
-        "Religious"
+        "Political"
       ],
       "type": "political"
     },
@@ -380,11 +383,11 @@
       "name_ru": "Церемониальный комплекс Ла-Венты",
       "source": "https://en.wikipedia.org/wiki/La_Venta",
       "tags": [
-        "Architecture",
-        "Mesoamerica",
+        "Mesoamerican",
         "Olmec",
+        "Religious",
         "Pagan",
-        "Religious"
+        "Architecture"
       ],
       "type": "cultural"
     },
@@ -399,13 +402,13 @@
       "name_ru": "Ольмекский Бог Маиса",
       "source": "https://en.wikipedia.org/wiki/Olmec_religion",
       "tags": [
-        "Cosmology",
-        "Culture",
-        "Divination",
-        "Mesoamerica",
+        "Mesoamerican",
         "Olmec",
+        "Religious",
         "Pagan",
-        "Religious"
+        "Divination",
+        "Culture",
+        "Cosmology"
       ],
       "type": "religious"
     },
@@ -420,10 +423,10 @@
       "name_ru": "Влияние ольмеков в центральной Мексике",
       "source": "https://en.wikipedia.org/wiki/Olmec_influences_on_Mesoamerican_cultures",
       "tags": [
+        "Mesoamerican",
+        "Olmec",
         "Culture",
-        "Expansion",
-        "Mesoamerica",
-        "Olmec"
+        "Expansion"
       ],
       "type": "historic"
     },
@@ -438,12 +441,12 @@
       "name_ru": "Ольмеки почитают Пернатого Змея",
       "source": "https://en.wikipedia.org/wiki/La_Venta",
       "tags": [
-        "Animalism",
-        "Culture",
-        "Mesoamerica",
+        "Mesoamerican",
         "Olmec",
+        "Religious",
         "Pagan",
-        "Religious"
+        "Animalism",
+        "Culture"
       ],
       "type": "religious"
     },
@@ -458,12 +461,12 @@
       "name_ru": "Фигура из Лас-Лимас",
       "source": "https://en.wikipedia.org/wiki/Las_Limas_Monument_1",
       "tags": [
-        "Animalism",
-        "Culture",
-        "Mesoamerica",
+        "Mesoamerican",
         "Olmec",
+        "Religious",
         "Pagan",
-        "Religious"
+        "Animalism",
+        "Culture"
       ],
       "type": "religious"
     },
@@ -478,12 +481,12 @@
       "name_ru": "Разрушение Ла-Венты",
       "source": "https://en.wikipedia.org/wiki/La_Venta",
       "tags": [
+        "Mesoamerican",
+        "Olmec",
         "City",
-        "Uncertain",
-        "Abandonment",
         "Destruction",
-        "Mesoamerica",
-        "Olmec"
+        "Uncertain",
+        "Abandonment"
       ],
       "type": "historic"
     },
@@ -498,29 +501,30 @@
       "name_ru": "Трес-Сапотес — последний центр ольмеков",
       "source": "https://en.wikipedia.org/wiki/Tres_Zapotes",
       "tags": [
-        "City",
-        "Calendar",
+        "Mesoamerican",
+        "Olmec",
         "Capital",
-        "Mesoamerica",
-        "Olmec"
+        "City",
+        "Calendar"
       ],
       "type": "historic"
     },
     {
       "date": "01.01.0400",
       "description": "As the heartland Olmec civilisation ends, its contributions form the template for every subsequent Mesoamerican civilisation. The Maya inherit Olmec writing experiments, the Long Count calendar, the ballgame, the concept of divine kingship enacted through bloodletting and shamanic transformation, and core supernatural figures including the Maize God, the Feathered Serpent, and the Rain Deity. The Zapotec of Oaxaca develop their own writing system building on Olmec symbolic precedents. Teotihuacan — which will become Mesoamerica's largest city — adopts the Feathered Serpent, the pyramid as sacred mountain, and the planned ceremonial complex as its urban template. The Aztec, at the apex of Mesoamerican civilisation in the 15th century AD, worship Quetzalcoatl (Feathered Serpent), Tlaloc (Rain Deity), and the Maize God — all of whose iconographic ancestry leads directly back to the Gulf Coast lowlands of 1200 BC.",
-      "description_ru": "По мере завершения heartland-ольмекской цивилизации её вклады формируют шаблон для каждой последующей мезоамериканской цивилизации. Майя наследуют ольмекские эксперименты с письмом, долгий счёт, игру в мяч, концепцию божественного правления через кровопускание и шаманическое превращение, а также ключевые сверхъестественные фигуры — Бога Маиса, Пернатого Змея и Дождевое Божество. Теотиуакан принимает Пернатого Змея, пирамиду как священную гору и спланированный церемониальный комплекс. Ацтеки в XV веке н. э. поклоняются Кецалькоатлю, Тлалоку и Богу Маиса — иконографические корни которых ведут прямо к низменностям Мексиканского залива 1200 г. до н. э.",
+      "description_ru": "По мере исчезновения ольмекской цивилизации её вклады формируют шаблон для каждой последующей мезоамериканской цивилизации. Майя наследуют ольмекские эксперименты с письмом, долгий счёт, игру в мяч, концепцию божественного правления через кровопускание и шаманическое превращение, а также ключевые сверхъестественные фигуры — Бога Маиса, Пернатого Змея и Дождевое Божество. Теотиуакан принимает Пернатого Змея, пирамиду как священную гору и спланированный церемониальный комплекс. Ацтеки в XV веке н. э. поклоняются Кецалькоатлю, Тлалоку и Богу Маиса — иконографические корни которых ведут прямо к низменностям Мексиканского залива 1200 г. до н. э.",
       "era": "BC",
-      "latitude": 19.43,
-      "longitude": -99.13,
+      "latitude": 19.4326,
+      "longitude": -99.1332,
       "name": "The Olmec Legacy — Mesoamerica's Cultural Bedrock",
-      "name_ru": "Ольмекское наследие — культурный фундамент Мезоамерики",
+      "name_ru": "Ольмекское наследие в Мезоамерике",
       "source": "https://en.wikipedia.org/wiki/Olmec_influences_on_Mesoamerican_cultures",
       "tags": [
-        "Civilization",
+        "Mesoamerican",
+        "Olmec",
         "Culture",
-        "Mesoamerica",
-        "Olmec"
+        "Cultural Continuity",
+        "Civilization"
       ],
       "type": "cultural"
     },
@@ -535,9 +539,9 @@
       "name_ru": "Ольмекская система долгого счета",
       "source": "https://en.wikipedia.org/wiki/Tres_Zapotes",
       "tags": [
-        "Calendar",
-        "Mesoamerica",
-        "Olmec"
+        "Mesoamerican",
+        "Olmec",
+        "Calendar"
       ],
       "type": "scientific"
     }

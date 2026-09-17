@@ -201,7 +201,7 @@
       "latitude": 35.59539636,
       "longitude": 116.98446035,
       "name": "Confucius Born in the State of Lu",
-      "name_ru": "Конфуций родился в государстве Лу",
+      "name_ru": "Конфуций рождается в государстве Лу",
       "source": "https://en.wikipedia.org/wiki/Confucius",
       "tags": [
         "Milestone ⭐️",
@@ -439,10 +439,10 @@
         "Warring States",
         "Philosophy",
         "Dynasty",
+        "Law",
         "Reform",
         "Administration",
         "Bureaucracy",
-        "Law",
         "Legalism"
       ],
       "type": "political"

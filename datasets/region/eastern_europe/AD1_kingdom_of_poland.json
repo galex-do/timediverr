@@ -12,9 +12,9 @@
       "name_ru": "Поляне заселяют Великую Польшу",
       "source": "https://en.wikipedia.org/wiki/Polans_(western)",
       "tags": [
+        "Slavic",
         "Polish",
         "Settlement",
-        "Slavic",
         "Tribal"
       ],
       "type": "cultural"
@@ -30,11 +30,11 @@
       "name_ru": "Собутки — купальский обряд полян",
       "source": "https://en.wikipedia.org/wiki/Ivan_Kupala_Night",
       "tags": [
-        "Customs",
-        "Holidays",
-        "Pagan",
+        "Slavic",
         "Polish",
-        "Slavic"
+        "Pagan",
+        "Customs",
+        "Holidays"
       ],
       "type": "cultural"
     },
@@ -49,12 +49,12 @@
       "name_ru": "Пястовская династия",
       "source": "https://en.wikipedia.org/wiki/Piast_dynasty",
       "tags": [
+        "Slavic",
+        "Polish",
+        "Piast",
         "Dynasty",
         "Legend",
-        "Meritocracy",
-        "Piast",
-        "Polish",
-        "Slavic"
+        "Meritocracy"
       ],
       "type": "political"
     },
@@ -69,14 +69,14 @@
       "name_ru": "Мешко I — польский князь",
       "source": "https://en.wikipedia.org/wiki/Mieszko_I_of_Poland",
       "tags": [
-        "Dynasty",
-        "King",
+        "Slavic",
+        "Polish",
         "Capital",
         "Kingdom",
-        "Mieszko I 👑",
         "Piast",
-        "Polish",
-        "Slavic"
+        "Dynasty",
+        "King",
+        "Mieszko I 👑"
       ],
       "type": "political"
     },
@@ -91,13 +91,13 @@
       "name_ru": "Крещение Польши",
       "source": "https://en.wikipedia.org/wiki/Baptism_of_Poland",
       "tags": [
-        "Adoption",
-        "Christian",
-        "Mieszko I 👑",
-        "Piast",
+        "Slavic",
         "Polish",
         "Religious",
-        "Slavic"
+        "Christian",
+        "Adoption",
+        "Piast",
+        "Mieszko I 👑"
       ],
       "type": "religious"
     },
@@ -112,12 +112,12 @@
       "name_ru": "Романская каменная архитектура в Польше",
       "source": "https://en.wikipedia.org/wiki/Romanesque_architecture_in_Poland",
       "tags": [
-        "Building 🏠",
-        "Architecture",
+        "Slavic",
+        "Polish",
         "Culture",
         "Piast",
-        "Polish",
-        "Slavic"
+        "Architecture",
+        "Building 🏠"
       ],
       "type": "cultural"
     },
@@ -132,13 +132,14 @@
       "name_ru": "Dagome Iudex — Польша под покровительством Папы",
       "source": "https://en.wikipedia.org/wiki/Dagome_iudex",
       "tags": [
-        "Diplomacy",
-        "Christian",
-        "Mieszko I 👑",
-        "Papacy",
-        "Piast",
+        "Slavic",
         "Polish",
-        "Slavic"
+        "Papacy",
+        "Religious",
+        "Christian",
+        "Diplomacy",
+        "Piast",
+        "Mieszko I 👑"
       ],
       "type": "political"
     },
@@ -153,14 +154,14 @@
       "name_ru": "Первая польская серебряная монета при Мешко I",
       "source": "https://en.wikipedia.org/wiki/Polish_denar",
       "tags": [
-        "Currency",
-        "Economic",
-        "Mieszko I 👑",
-        "Piast",
-        "Polish",
-        "Silver",
         "Slavic",
-        "Trade"
+        "Polish",
+        "Piast",
+        "Silver",
+        "Trade",
+        "Currency 🪙",
+        "Economic",
+        "Mieszko I 👑"
       ],
       "type": "scientific"
     },
@@ -175,15 +176,16 @@
       "name_ru": "Гнезненский съезд",
       "source": "https://en.wikipedia.org/wiki/Congress_of_Gniezno",
       "tags": [
+        "Slavic",
+        "Polish",
         "Holy Roman Empire",
-        "Alliance",
-        "Bolesław I 👑",
+        "Religious",
         "Christian",
+        "Pilgrimage",
+        "Alliance",
         "Holy Site",
         "Piast",
-        "Pilgrimage",
-        "Polish",
-        "Slavic"
+        "Bolesław I 👑"
       ],
       "type": "political"
     },
@@ -199,13 +201,13 @@
       "source": "https://en.wikipedia.org/wiki/Five_Brothers_Martyrs",
       "tags": [
         "Italian",
-        "Bolesław I 👑",
-        "Christian",
-        "Martyr",
-        "Piast",
         "Polish",
         "Religious",
-        "Saint"
+        "Christian",
+        "Martyr",
+        "Saint",
+        "Piast",
+        "Bolesław I 👑"
       ],
       "type": "religious"
     },
@@ -220,15 +222,15 @@
       "name_ru": "Баутценский мир",
       "source": "https://en.wikipedia.org/wiki/Peace_of_Bautzen_(1018)",
       "tags": [
+        "Slavic",
+        "Germanic",
+        "Polish",
         "Holy Roman Empire",
         "War",
         "Diplomacy",
-        "Bolesław I 👑",
-        "Germanic",
-        "Peace",
         "Piast",
-        "Polish",
-        "Slavic",
+        "Bolesław I 👑",
+        "Peace",
         "Treaty"
       ],
       "type": "political"
@@ -244,12 +246,12 @@
       "name_ru": "Болеслав I коронован первым королём Польши",
       "source": "https://en.wikipedia.org/wiki/Boles%C5%82aw_I_the_Brave",
       "tags": [
+        "Slavic",
+        "Polish",
+        "Piast",
         "Dynasty",
         "King",
-        "Bolesław I 👑",
-        "Piast",
-        "Polish",
-        "Slavic"
+        "Bolesław I 👑"
       ],
       "type": "political"
     },
@@ -264,14 +266,14 @@
       "name_ru": "Языческая реакция в Польше",
       "source": "https://en.wikipedia.org/wiki/Pagan_reaction_in_Poland",
       "tags": [
-        "Civil War",
-        "Christian",
-        "Crisis",
-        "Pagan",
-        "Piast",
+        "Slavic",
         "Polish",
         "Religious",
-        "Slavic"
+        "Christian",
+        "Pagan",
+        "Civil War",
+        "Crisis",
+        "Piast"
       ],
       "type": "religious"
     },
@@ -286,11 +288,11 @@
       "name_ru": "Казимир I Восстановитель переносит столицу в Краков",
       "source": "https://en.wikipedia.org/wiki/Casimir_I_the_Restorer",
       "tags": [
-        "Dynasty",
+        "Slavic",
+        "Polish",
         "Capital",
         "Piast",
-        "Polish",
-        "Slavic"
+        "Dynasty"
       ],
       "type": "political"
     },
@@ -305,17 +307,19 @@
       "name_ru": "Основание Тынецкого аббатства",
       "source": "https://en.wikipedia.org/wiki/Tyniec_Abbey",
       "tags": [
-        "Architecture",
-        "Benedictine",
-        "Christian",
-        "Culture",
-        "Education",
-        "Holy Site",
-        "Medieval",
-        "Monastery",
-        "Piast",
         "Polish",
-        "Wonders"
+        "Religious",
+        "Christian",
+        "Benedictine",
+        "Catholic",
+        "Holy Site",
+        "Culture",
+        "Piast",
+        "Architecture",
+        "Medieval",
+        "Wonders",
+        "Education",
+        "Monastery"
       ],
       "type": "religious"
     },
@@ -330,13 +334,13 @@
       "name_ru": "Болеслав II — король Польши",
       "source": "https://en.wikipedia.org/wiki/Boles%C5%82aw_II_the_Bold",
       "tags": [
-        "Dynasty",
-        "King",
-        "Bolesław II 👑",
+        "Slavic",
+        "Polish",
         "Papacy",
         "Piast",
-        "Polish",
-        "Slavic"
+        "Dynasty",
+        "King",
+        "Bolesław II 👑"
       ],
       "type": "political"
     },
@@ -351,15 +355,15 @@
       "name_ru": "Убийство епископа Станислава в Польше",
       "source": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_of_Szczep%C3%B3w",
       "tags": [
-        "Bolesław II 👑",
-        "Christian",
-        "Crisis",
-        "Martyr",
-        "Murder",
-        "Piast",
         "Polish",
+        "Religious",
+        "Christian",
+        "Martyr",
+        "Crisis",
+        "Piast",
         "Political",
-        "Religious"
+        "Bolesław II 👑",
+        "Murder"
       ],
       "type": "religious"
     },
@@ -375,12 +379,12 @@
       "source": "https://en.wikipedia.org/wiki/Battle_of_Hundsfeld",
       "tags": [
         "German",
+        "Slavic",
+        "Polish",
         "Holy Roman Empire",
         "War",
         "Battle",
-        "Piast",
-        "Polish",
-        "Slavic"
+        "Piast"
       ],
       "type": "military"
     },
@@ -395,9 +399,9 @@
       "name_ru": "Галл Аноним пишет «Деяния польских князей»",
       "source": "https://en.wikipedia.org/wiki/Gesta_principum_Polonorum",
       "tags": [
+        "Polish",
         "History",
         "Piast",
-        "Polish",
         "Text"
       ],
       "type": "cultural"
@@ -413,12 +417,12 @@
       "name_ru": "Начало феодальной раздробленности в Польше",
       "source": "https://en.wikipedia.org/wiki/Testament_of_Boles%C5%82aw_III_Wrymouth",
       "tags": [
-        "Crisis",
-        "Fragmentation",
-        "Piast",
-        "Polish",
-        "Political",
         "Slavic",
+        "Polish",
+        "Crisis",
+        "Piast",
+        "Political",
+        "Fragmentation",
         "Succession"
       ],
       "type": "political"

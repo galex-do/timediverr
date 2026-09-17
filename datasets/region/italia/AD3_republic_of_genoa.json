@@ -48,10 +48,10 @@
     {
       "date": "14.07.1097",
       "description": "A Genoese fleet of twelve galleys and one sailing ship, commanded by Guglielmo Embriaco, arrived at Antioch to support the crusader army besieging the city. The Genoese dismantled their ships to use the wood in siege engines, including the key trebuchets that breached the walls of Antioch and, later, Jerusalem. In exchange for this material contribution, the Genoese obtained from the crusader leaders the right to a church, a market, and a court of law in every city they helped capture.",
-      "description_ru": "Генуэзский флот из двенадцати галер и одного парусного корабля под командованием Гульельмо Эмбриако прибыл к Антиохии на поддержку крестоносного войска, осаждавшего город. Генуэзцы разобрали свои суда ради использования древесины в осадных машинах — в том числе в тех ключевых требюше, которые пробили стены Антиохии, а впоследствии и Иерусалима. В обмен на этот материальный вклад генуэзцы добились от предводителей крестового похода права на церковь, рынок и суд в каждом городе, который им помогли взять.",
+      "description_ru": "Генуэзский флот из двенадцати галер и одного парусного корабля под командованием Гульельмо Эмбриако прибывает к Антиохии на поддержку крестоносного войска, осаждаюшего город. Генуэзцы разбирают свои суда ради использования древесины в осадных машинах — в том числе в тех ключевых требюше, которые пробили стены Антиохии, а впоследствии и Иерусалима. В обмен на этот материальный вклад генуэзцы добились от предводителей крестового похода права на церковь, рынок и суд в каждом городе, который им помогли взять.",
       "era": "AD",
-      "latitude": 36.2,
-      "longitude": 36.16,
+      "latitude": 36.2034,
+      "longitude": 36.1639,
       "name": "Genoese Fleet Joins the First Crusade at Antioch",
       "name_ru": "Генуэзцы присоединяются к Первому крестовому походу",
       "source": "https://en.wikipedia.org/wiki/Siege_of_Antioch",
@@ -647,6 +647,7 @@
       "tags": [
         "Italian",
         "Genoa",
+        "Venetian",
         "Venice",
         "War",
         "Battle",
@@ -737,6 +738,7 @@
       "tags": [
         "Italian",
         "Genoa",
+        "Trebizond",
         "Fortification",
         "Silk Road",
         "Trade",
@@ -757,6 +759,7 @@
       "source": "https://en.wikipedia.org/wiki/Siege_of_Caffa",
       "tags": [
         "Italian",
+        "Turkic",
         "Golden Horde",
         "Mongolian",
         "Genoa",
