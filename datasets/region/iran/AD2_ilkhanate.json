@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 16 events",
+  "description": "Dataset imported with 19 events",
   "filename": "AD2_ilkhanate.json",
   "events": [
     {
@@ -13,7 +13,17 @@
       "latitude": 37.3959,
       "longitude": 46.2411,
       "source": "https://en.wikipedia.org/wiki/Maragheh_observatory",
-      "tags": ["Ilkhanate", "Mongolian", "Persian", "Science", "Astronomy", "Library", "Foundation", "Hulagu 👑", "Nasir al-Din al-Tusi 👤"]
+      "tags": [
+        "Ilkhanate",
+        "Mongolian",
+        "Persian",
+        "Science",
+        "Astronomy",
+        "Library",
+        "Foundation",
+        "Hulagu 👑",
+        "Nasir al-Din al-Tusi 👤"
+      ]
     },
     {
       "date": "16.06.1265",
@@ -26,7 +36,15 @@
       "latitude": 37.3959,
       "longitude": 46.2411,
       "source": "https://en.wikipedia.org/wiki/Doquz_Khatun",
-      "tags": ["Ilkhanate", "Mongolian", "Christian", "Nestorian", "Religious", "Tolerance", "Doquz Khatun 👑"]
+      "tags": [
+        "Ilkhanate",
+        "Mongolian",
+        "Christian",
+        "Nestorian",
+        "Religious",
+        "Tolerance",
+        "Doquz Khatun 👑"
+      ]
     },
     {
       "date": "01.01.1271",
@@ -39,7 +57,14 @@
       "latitude": 38.08,
       "longitude": 46.2919,
       "source": "https://en.wikipedia.org/wiki/Marco_Polo",
-      "tags": ["Ilkhanate", "Mongolian", "Persian", "Trade", "Culture", "Marco Polo 👤"]
+      "tags": [
+        "Ilkhanate",
+        "Mongolian",
+        "Persian",
+        "Trade",
+        "Culture",
+        "Marco Polo 👤"
+      ]
     },
     {
       "date": "01.01.1272",
@@ -52,7 +77,13 @@
       "latitude": 37.3959,
       "longitude": 46.2411,
       "source": "https://en.wikipedia.org/wiki/Zij-i_Ilkhani",
-      "tags": ["Ilkhanate", "Persian", "Science", "Astronomy", "Nasir al-Din al-Tusi 👤"]
+      "tags": [
+        "Ilkhanate",
+        "Persian",
+        "Science",
+        "Astronomy",
+        "Nasir al-Din al-Tusi 👤"
+      ]
     },
     {
       "date": "01.01.1274",
@@ -65,7 +96,37 @@
       "latitude": 37.3959,
       "longitude": 46.2411,
       "source": "https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi",
-      "tags": ["Ilkhanate", "Persian", "Science", "Philosophy", "Religious", "Shia", "Nasir al-Din al-Tusi 👤"]
+      "tags": [
+        "Ilkhanate",
+        "Persian",
+        "Science",
+        "Philosophy",
+        "Religious",
+        "Shia",
+        "Nasir al-Din al-Tusi 👤"
+      ]
+    },
+    {
+      "date": "29.10.1281",
+      "era": "AD",
+      "type": "military",
+      "name": "The Second Battle of Homs Ends Abaqa's Bid for Syria",
+      "name_ru": "Вторая битва при Хомсе кладёт конец притязаниям Абаки на Сирию",
+      "description": "Ilkhan Abaqa sends his brother Mongke Temur into Syria at the head of an army of 40,000 to 50,000 Mongols, Armenians under King Leo II, and Georgians under Demetrius II, answering an appeal from a rebel Mamluk emir who had risen against the new Egyptian sultan Qalawun. After sacking Aleppo, the coalition meets the main Mamluk army south of Homs on 29 October 1281. The Mongol and allied left flank shatters the Mamluk line opposite it, but Qalawun personally leads the Mamluk center and right in a counterattack that breaks the Mongol center, wounding Mongke Temur and sending his army into flight. Qalawun declines to pursue, letting the Armenian and Georgian contingents withdraw intact. The defeat proves decisive: Abaqa dies the following year, and his successor Tekuder abandons the war entirely, converting to Islam and seeking peace with the very Mamluks the Ilkhanate had spent two decades fighting to dislodge from Syria.",
+      "description_ru": "Ильхан Абака направляет в Сирию своего брата Менгу-Тимура во главе войска из 40–50 тысяч монголов, армян короля Левона II и грузин Деметре II, отвечая на призыв мятежного мамлюкского эмира, восставшего против нового египетского султана Калауна. Разграбив Алеппо, коалиция встречает главные силы мамлюков южнее Хомса 29 октября 1281 года. Монгольский и союзный левый фланг разбивает противостоящую мамлюкскую линию, но Калаун лично ведёт мамлюкский центр и правый фланг в контратаку, ломающую монгольский центр: раненый Менгу-Тимур бежит, увлекая за собой расстроенное войско. Калаун не преследует разбитого противника, позволяя армянским и грузинским отрядам отойти невредимыми. Поражение оказывается решающим: год спустя Абака умирает, а его преемник Текудер вовсе отказывается от войны, принимает ислам и ищет мира с теми самыми мамлюками, которых Ильханат два десятилетия пытался вытеснить из Сирии.",
+      "latitude": 34.7333,
+      "longitude": 36.7167,
+      "source": "https://en.wikipedia.org/wiki/Second_Battle_of_Homs",
+      "tags": [
+        "Ilkhanate",
+        "Mongolian",
+        "Mamluk",
+        "Egypt",
+        "Armenian",
+        "Georgian",
+        "War",
+        "Battle"
+      ]
     },
     {
       "date": "01.01.1284",
@@ -78,7 +139,16 @@
       "latitude": 38.08,
       "longitude": 46.2919,
       "source": "https://en.wikipedia.org/wiki/Arghun",
-      "tags": ["Ilkhanate", "Mongolian", "Buddhist", "Christian", "Religious", "Diplomacy", "Tolerance", "Arghun 👑"]
+      "tags": [
+        "Ilkhanate",
+        "Mongolian",
+        "Buddhist",
+        "Christian",
+        "Religious",
+        "Diplomacy",
+        "Tolerance",
+        "Arghun 👑"
+      ]
     },
     {
       "date": "01.01.1287",
@@ -91,7 +161,15 @@
       "latitude": 33.3152,
       "longitude": 44.3661,
       "source": "https://en.wikipedia.org/wiki/Rabban_Bar_Sauma",
-      "tags": ["Ilkhanate", "Mongolian", "Christian", "Nestorian", "Religious", "Diplomacy", "Rabban Bar Sauma 👤"]
+      "tags": [
+        "Ilkhanate",
+        "Mongolian",
+        "Christian",
+        "Nestorian",
+        "Religious",
+        "Diplomacy",
+        "Rabban Bar Sauma 👤"
+      ]
     },
     {
       "date": "12.09.1294",
@@ -104,7 +182,37 @@
       "latitude": 38.08,
       "longitude": 46.2919,
       "source": "https://en.wikipedia.org/wiki/Gaykhatu",
-      "tags": ["Ilkhanate", "Mongolian", "Chinese", "Technology", "Trade", "Gaykhatu 👑"]
+      "tags": [
+        "Ilkhanate",
+        "Mongolian",
+        "Chinese",
+        "Technology",
+        "Trade",
+        "Gaykhatu 👑"
+      ]
+    },
+    {
+      "date": "22.12.1299",
+      "era": "AD",
+      "type": "military",
+      "name": "Ghazan Storms Syria and Takes Damascus at Wadi al-Khaznadar",
+      "name_ru": "Газан вторгается в Сирию и берёт Дамаск при Вади-эль-Хазандаре",
+      "description": "Nearly two decades after the Ilkhanate's defeat at Homs, Ghazan Khan crosses the Euphrates with an army of Mongols, Georgians, and Armenians, takes Aleppo, and pushes south to confront a Mamluk army under Sultan al-Nasir Muhammad near Homs. At Wadi al-Khaznadar, Mongol heavy cavalry and archers break the Mamluk right flank, and by afternoon the entire Mamluk line collapses and flees toward Damascus, harassed along the way by local Maronite and Druze bowmen. Ghazan's forces occupy Damascus and besiege its citadel while raiding parties push as far south as Gaza, and for a brief moment the Ilkhanate controls more of Syria than at any point since Hulagu's original conquest. The triumph proves fleeting: without reinforcement or a lasting garrison, Ghazan withdraws his main army north for the winter, and the Mamluks reoccupy the region within months, setting up another reckoning four years later.",
+      "description_ru": "Спустя почти два десятилетия после поражения при Хомсе Газан-хан переправляется через Евфрат с войском монголов, грузин и армян, берёт Алеппо и продвигается на юг, встречая мамлюкскую армию султана ан-Насира Мухаммада у Хомса. При Вади-эль-Хазандаре монгольская тяжёлая конница и лучники ломают правый фланг мамлюков, и к вечеру вся мамлюкская линия рушится и бежит к Дамаску, преследуемая по пути местными лучниками-маронитами и друзами. Войска Газана занимают Дамаск и осаждают его цитадель, а разъезды доходят до самой Газы — на короткое время Ильханат контролирует бóльшую часть Сирии, чем когда-либо со времён первого завоевания Хулагу. Триумф оказывается недолгим: не получив подкреплений и не оставив надёжного гарнизона, Газан уводит основные силы на север на зиму, и мамлюки за несколько месяцев отвоёвывают область, готовя почву для нового столкновения четыре года спустя.",
+      "latitude": 34.7333,
+      "longitude": 36.7167,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Wadi_al-Khazandar",
+      "tags": [
+        "Ilkhanate",
+        "Mongolian",
+        "Mamluk",
+        "Egypt",
+        "Armenian",
+        "Georgian",
+        "War",
+        "Battle",
+        "Conquest"
+      ]
     },
     {
       "date": "01.01.1301",
@@ -117,7 +225,35 @@
       "latitude": 38.08,
       "longitude": 46.2919,
       "source": "https://en.wikipedia.org/wiki/Jami_al-Tawarikh",
-      "tags": ["Ilkhanate", "Persian", "Culture", "Education", "Library", "Rashid al-Din Hamadani 👤"]
+      "tags": [
+        "Ilkhanate",
+        "Persian",
+        "Culture",
+        "Education",
+        "Library",
+        "Rashid al-Din Hamadani 👤"
+      ]
+    },
+    {
+      "date": "20.04.1303",
+      "era": "AD",
+      "type": "military",
+      "name": "Defeat at Marj al-Saffar Ends the Ilkhanate's Wars in Syria",
+      "name_ru": "Поражение при Мардж-эс-Суффаре кладёт конец войнам Ильханата в Сирии",
+      "description": "Ghazan sends his general Qutlugh-Shah back into Syria with an army that reaches the outskirts of Damascus, forcing its people to flee before Sultan al-Nasir Muhammad arrives with the main Mamluk army and both sides meet on the plain of Marj al-Saffar, south of the city. Qutlugh-Shah's cavalry batters the Mamluk right wing and appears close to victory, but when he climbs a nearby hill to watch the battle, Mamluk forces encircle it, inflicting heavy losses before the surrounded Mongols break for the river Wadi Arram. There the exhausted army pauses to water its horses, only for the Mamluks to strike from the rear in fighting that continues into the next day. The rout is total and ends, for good, the string of Mongol invasions of Syria and Palestine that had run intermittently since Hulagu's campaigns forty years earlier, leaving the Mamluks in undisputed control of the Levant for the rest of the Ilkhanate's existence.",
+      "description_ru": "Газан вновь направляет в Сирию своего военачальника Кутлуг-шаха, чьё войско доходит до окраин Дамаска, вынуждая жителей бежать, прежде чем к городу подходит султан ан-Насир Мухаммад с основными силами мамлюков — обе армии сходятся на равнине Мардж-эс-Суффар южнее города. Конница Кутлуг-шаха теснит правое крыло мамлюков и, кажется, близка к победе, но когда военачальник поднимается на соседний холм, чтобы наблюдать за битвой, мамлюки окружают холм, нанося тяжёлые потери, прежде чем окружённые монголы прорываются к реке Вади-Аррам. Там измождённое войско останавливается напоить коней, но мамлюки бьют с тыла, и бой продолжается до следующего дня. Разгром оказывается полным и окончательно завершает череду монгольских походов в Сирию и Палестину, длившуюся с перерывами со времён кампаний Хулагу сорок лет назад: до конца существования Ильханата Левант остаётся безраздельно за мамлюками.",
+      "latitude": 33.4167,
+      "longitude": 36.2333,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Marj_al-Saffar_(1303)",
+      "tags": [
+        "Ilkhanate",
+        "Mongolian",
+        "Mamluk",
+        "Egypt",
+        "War",
+        "Battle",
+        "Defeat"
+      ]
     },
     {
       "date": "01.08.1307",
@@ -130,7 +266,15 @@
       "latitude": 38.08,
       "longitude": 46.2919,
       "source": "https://en.wikipedia.org/wiki/Rab%27-e_Rashidi",
-      "tags": ["Ilkhanate", "Persian", "Science", "Education", "Library", "Architecture", "Rashid al-Din Hamadani 👤"]
+      "tags": [
+        "Ilkhanate",
+        "Persian",
+        "Science",
+        "Education",
+        "Library",
+        "Architecture",
+        "Rashid al-Din Hamadani 👤"
+      ]
     },
     {
       "date": "01.01.1309",
@@ -143,7 +287,13 @@
       "latitude": 38.08,
       "longitude": 46.2919,
       "source": "https://en.wikipedia.org/wiki/Kamal_al-Din_al-Farisi",
-      "tags": ["Ilkhanate", "Persian", "Science", "Philosophy", "Kamal al-Din al-Farisi 👤"]
+      "tags": [
+        "Ilkhanate",
+        "Persian",
+        "Science",
+        "Philosophy",
+        "Kamal al-Din al-Farisi 👤"
+      ]
     },
     {
       "date": "01.01.1310",
@@ -156,7 +306,15 @@
       "latitude": 36.43,
       "longitude": 48.79,
       "source": "https://en.wikipedia.org/wiki/Oljeitu",
-      "tags": ["Ilkhanate", "Mongolian", "Islamic", "Shia", "Sunni", "Religious", "Oljeitu 👑"]
+      "tags": [
+        "Ilkhanate",
+        "Mongolian",
+        "Islamic",
+        "Shia",
+        "Sunni",
+        "Religious",
+        "Oljeitu 👑"
+      ]
     },
     {
       "date": "01.01.1313",
@@ -169,7 +327,13 @@
       "latitude": 36.43,
       "longitude": 48.79,
       "source": "https://en.wikipedia.org/wiki/Dome_of_Soltaniyeh",
-      "tags": ["Ilkhanate", "Persian", "Architecture", "Culture", "Oljeitu 👑"]
+      "tags": [
+        "Ilkhanate",
+        "Persian",
+        "Architecture",
+        "Culture",
+        "Oljeitu 👑"
+      ]
     },
     {
       "date": "01.04.1318",
@@ -182,7 +346,14 @@
       "latitude": 36.43,
       "longitude": 48.79,
       "source": "https://en.wikipedia.org/wiki/Soltaniyeh",
-      "tags": ["Ilkhanate", "Persian", "Christian", "Religious", "Tolerance", "Diplomacy"]
+      "tags": [
+        "Ilkhanate",
+        "Persian",
+        "Christian",
+        "Religious",
+        "Tolerance",
+        "Diplomacy"
+      ]
     },
     {
       "date": "13.07.1318",
@@ -195,7 +366,14 @@
       "latitude": 38.08,
       "longitude": 46.2919,
       "source": "https://en.wikipedia.org/wiki/Rashid-al-Din_Hamadani",
-      "tags": ["Ilkhanate", "Persian", "Political", "Decline", "Rashid al-Din Hamadani 👤", "Oljeitu 👑"]
+      "tags": [
+        "Ilkhanate",
+        "Persian",
+        "Political",
+        "Decline",
+        "Rashid al-Din Hamadani 👤",
+        "Oljeitu 👑"
+      ]
     },
     {
       "date": "01.01.1330",
@@ -208,7 +386,14 @@
       "latitude": 38.08,
       "longitude": 46.2919,
       "source": "https://en.wikipedia.org/wiki/Great_Mongol_Shahnameh",
-      "tags": ["Ilkhanate", "Persian", "Chinese", "Art", "Culture", "Decline"]
+      "tags": [
+        "Ilkhanate",
+        "Persian",
+        "Chinese",
+        "Art",
+        "Culture",
+        "Decline"
+      ]
     }
   ]
 }
