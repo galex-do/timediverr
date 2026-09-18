@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 24 events",
+  "description": "Dataset imported with 30 events",
   "events": [
     {
       "date": "01.01.1077",
@@ -296,6 +296,111 @@
         "War",
         "Conquest",
         "Expansion"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1172",
+      "description": "Il-Arslan dies in 1172 without leaving an undisputed heir, and his widow Terken Khatun immediately moves to install her favored younger son, Soltan-Shah, as the new Khwarazmshah in the capital Gurganj. Tekish, Il-Arslan's elder son and governor of the frontier city of Jand on the Syr Darya, refuses to accept being passed over and looks for a power capable of putting him on the throne by force. He turns to the Qara Khitai, the same steppe empire that had crushed Khwarazm's Seljuk overlords at Qatwan three decades earlier and had been collecting tribute from Khwarazm itself ever since — the very power his family had spent a generation resenting is about to make him king instead of taxing him.",
+      "description_ru": "Иль-Арслан умирает в 1172 году, не оставив бесспорного наследника, и его вдова Теркен-хатун тут же начинает возводить на хорезмийский престол в столице Гургандже своего любимого младшего сына Солтан-шаха. Текеш, старший сын Иль-Арслана и наместник пограничного города Джента на Сырдарье, отказывается смириться с тем, что его обошли, и ищет силу, способную возвести его на трон оружием. Он обращается к кара-китаям — той самой степной державе, что тремя десятилетиями ранее разгромила сельджукских сюзеренов Хорезма при Катване и с тех пор собирала дань с самого Хорезма: власть, которую его семья десятилетиями ненавидела, вот-вот сделает его царём вместо того, чтобы облагать его данью.",
+      "era": "AD",
+      "latitude": 42.325,
+      "longitude": 59.161,
+      "name": "Il-Arslan's Death Splits the Khwarazmian Succession",
+      "name_ru": "Смерть Иль-Арслана раскалывает престолонаследие Хорезма",
+      "source": "https://en.wikipedia.org/wiki/Ala_al-Din_Tekish",
+      "tags": [
+        "Turkic",
+        "Khwarazm",
+        "Qara Khitai",
+        "Dynasty",
+        "Succession",
+        "Political",
+        "Tekish 👤"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "11.12.1172",
+      "description": "The Qara Khitai gurkhan agrees to back Tekish, sending a contingent under the commander Fuma in exchange for a pledge of increased tribute, turning a power Khwarazm had fought and paid off for thirty years into the guarantor of a rival claimant's throne. With Qara Khitai troops behind him, Tekish marches on the capital Gurganj, and Soltan-Shah and Terken Khatun flee to Khorasan, taking shelter with Mu'ayyid Ay-Aba, a former vassal of Il-Arslan who backs them for his own advantage. Tekish enters Gurganj unopposed and is crowned Khwarazmshah on 11 December 1172, owing his throne to the very steppe empire his father and grandfather had spent decades resisting.",
+      "description_ru": "Гурхан кара-китаев соглашается поддержать Текеша, направив отряд под командованием Фумы в обмен на обещание увеличенной дани, — держава, с которой Хорезм тридцать лет воевал и которой платил дань, вдруг становится гарантом трона соперничающего претендента. Имея за спиной войско кара-китаев, Текеш выступает на столицу Гургандж, а Солтан-шах и Теркен-хатун бегут в Хорасан, находя убежище у Муайид ад-Дина Ай-Абы, бывшего вассала Иль-Арслана, поддержавшего их ради собственной выгоды. Текеш входит в Гургандж, не встретив сопротивления, и коронуется хорезмшахом 11 декабря 1172 года, будучи обязан троном той самой степной державе, которой десятилетиями противостояли его отец и дед.",
+      "era": "AD",
+      "latitude": 42.325,
+      "longitude": 59.161,
+      "name": "Qara Khitai Troops Put Tekish on the Khwarazmian Throne",
+      "name_ru": "Войска кара-китаев возводят Текеша на хорезмийский престол",
+      "source": "https://en.wikipedia.org/wiki/Ala_al-Din_Tekish",
+      "tags": [
+        "Turkic",
+        "Mongolian",
+        "Qara Khitai",
+        "Khwarazm",
+        "War",
+        "Vassalage",
+        "Political",
+        "Tekish 👤"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "11.07.1174",
+      "description": "Having won his throne, Tekish no longer needs Qara Khitai muscle and sends his allies home, but Ay-Aba, Terken Khatun, and Soltan-Shah muster a force of their own to take the capital back. Tekish meets and routs the coalition at Suburni on 11 July 1174, capturing Ay-Aba and having him executed. He then pursues his fleeing brother to the fortress town of Dihistan on the Caspian steppe, where his mother Terken Khatun has taken refuge; Tekish captures the town and puts her to death, removing the figure who had backed his rival from the very start. Soltan-Shah escapes further east to Nishapur, but Ay-Aba's son Toghan-Shah, now loyal to Tekish, denies him shelter, forcing him to seek asylum with the Ghurids instead.",
+      "description_ru": "Заполучив трон, Текеш, не нуждаясь больше в кара-китайской силе, отсылает союзников домой, но Ай-Аба, Теркен-хатун и Солтан-шах собирают собственное войско, чтобы отбить столицу. Текеш встречает и разбивает эту коалицию при Субурни 11 июля 1174 года, берёт Ай-Абу в плен и казнит его. Затем он преследует бегущего брата до крепости Дихистан в прикаспийской степи, где укрылась его мать Теркен-хатун; Текеш берёт город и предаёт её смерти, устраняя ту, кто с самого начала поддерживала его соперника. Солтан-шах бежит дальше на восток, в Нишапур, но сын Ай-Абы Тоган-шах, теперь верный Текешу, отказывает ему в убежище, вынуждая искать защиты у Гуридов.",
+      "era": "AD",
+      "latitude": 38.27,
+      "longitude": 54.625,
+      "name": "Tekish Crushes His Rivals and Kills His Own Mother",
+      "name_ru": "Текеш громит соперников и казнит собственную мать",
+      "source": "https://en.wikipedia.org/wiki/Ala_al-Din_Tekish",
+      "tags": [
+        "Turkic",
+        "Khwarazm",
+        "War",
+        "Battle",
+        "Matricide",
+        "Tekish 👤"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1175",
+      "description": "Having used Qara Khitai spears to win his throne, Tekish stops paying the tribute he promised in return. The Qara Khitai gurkhan retaliates, invading Khwarazm with Soltan-Shah's support to collect the debt by force and install a more pliant claimant. Tekish floods the approaches to Gurganj with the waters of the Amu Darya, forcing the Qara Khitai army to withdraw rather than fight through the mud. The gurkhan gives up on direct enforcement and instead leaves several thousand cavalry with Soltan-Shah, who uses them to carve out his own principality in Khorasan, capturing Merv by 1180. Khwarazm's brief alliance with the Qara Khitai curdles back into open hostility, though the two empires never again fight a pitched battle on the scale of Qatwan.",
+      "description_ru": "Использовав кара-китайские копья, чтобы завоевать престол, Текеш перестаёт платить обещанную за это дань. Гурхан кара-китаев в ответ вторгается в Хорезм вместе с Солтан-шахом, намереваясь силой взыскать долг и посадить на трон более сговорчивого претендента. Текеш затопляет подступы к Гургенджу водами Амударьи, вынуждая войско кара-китаев отступить, не сумев пробиться через разлившуюся воду. Гурхан отказывается от прямого принуждения и вместо этого оставляет при Солтан-шахе несколько тысяч всадников, с помощью которых тот создаёт собственное княжество в Хорасане, захватив Мерв к 1180 году. Недолгий союз Хорезма с кара-китаями вновь оборачивается открытой враждой, хотя два государства больше никогда не сходятся в столь крупной битве, как при Катване.",
+      "era": "AD",
+      "latitude": 42.325,
+      "longitude": 59.161,
+      "name": "Tekish Breaks His Tribute Pact With the Qara Khitai",
+      "name_ru": "Текеш разрывает данническое соглашение с кара-китаями",
+      "source": "https://en.wikipedia.org/wiki/Ala_al-Din_Tekish",
+      "tags": [
+        "Turkic",
+        "Mongolian",
+        "Qara Khitai",
+        "Khwarazm",
+        "War",
+        "Tribute",
+        "Vassalage",
+        "Tekish 👤"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.12.1193",
+      "description": "For nearly two decades after Suburni, Tekish and Soltan-Shah fight an on-and-off civil war for control of Khorasan, with cities like Nishapur changing hands repeatedly until Tekish permanently absorbs it in 1187, ending the local Oghuz emirate there. Soltan-Shah, worn down and without an heir capable of holding his shrinking territory, dies in September 1193 still holding out in Merv. Tekish besieges and captures the city that December, seizing its treasury and installing his own son Malik-Shah as governor. With Khorasan finally reunified under his direct rule and no rival left to distract him, Tekish is free to commit his full strength to the war against the last Seljuk sultan already brewing to the west.",
+      "description_ru": "Почти два десятилетия после Субурни Текеш и Солтан-шах ведут то затихающую, то вспыхивающую гражданскую войну за Хорасан: города вроде Нишапура не раз переходят из рук в руки, пока Текеш окончательно не присоединяет его в 1187 году, положив конец местному огузскому эмирату. Солтан-шах, обессиленный и не имеющий наследника, способного удержать его сжимающиеся владения, умирает в сентябре 1193 года, всё ещё держась в Мерве. В декабре того же года Текеш осаждает и берёт город, захватывает его казну и ставит наместником собственного сына Малик-шаха. С окончательно воссоединённым под его прямой властью Хорасаном и без соперника, отвлекающего его силы, Текеш может бросить всю мощь державы на войну с последним сельджукским султаном, уже назревающую на западе.",
+      "era": "AD",
+      "latitude": 37.67016615,
+      "longitude": 62.19197273,
+      "name": "Tekish Captures Merv, Ending Two Decades of Civil War",
+      "name_ru": "Текеш захватывает Мерв, завершая два десятилетия гражданской войны",
+      "source": "https://en.wikipedia.org/wiki/Ala_al-Din_Tekish",
+      "tags": [
+        "Turkic",
+        "Khwarazm",
+        "War",
+        "Conquest",
+        "Civil War",
+        "Tekish 👤"
       ],
       "type": "military"
     },
