@@ -1,0 +1,472 @@
+{
+  "description": "Dataset imported with 25 events",
+  "events": [
+    {
+      "date": "01.01.1484",
+      "description": "Christopher Columbus, a Genoese-born mariner who had settled in Lisbon and studied navigation charts in Portuguese maritime circles, presents King João II with a plan to reach Asia by sailing west across the Atlantic rather than around Africa. He calculates the distance from the Canary Islands to Japan at roughly 2,400 miles — a serious underestimate that makes the voyage look far more feasible than it is. João refers the proposal to a royal commission of mathematicians and pilots, who reject it: their own estimate of the Earth's circumference, closer to the true figure, tells them Columbus's ships could never carry enough food and water for a crossing of the length he is ignoring. Portugal is also deep into its own successful program of exploration down the African coast, with real profits from Guinea to defend.",
+      "description_ru": "Христофор Колумб, мореплаватель родом из Генуи, обосновавшийся в Лиссабоне и изучавший навигационные карты в португальских морских кругах, представляет королю Жуану II план достичь Азии, плывя на запад через Атлантику, а не в обход Африки. Он оценивает расстояние от Канарских островов до Японии примерно в 2400 миль — серьёзное занижение, из-за которого плавание выглядит куда более осуществимым, чем есть на самом деле. Жуан передаёт предложение королевской комиссии математиков и лоцманов, которые его отклоняют: их собственная оценка окружности Земли, куда более близкая к истинной, говорит, что корабли Колумба никогда не смогут взять на борт достаточно еды и воды для перехода такой длины, какую он игнорирует. Португалия к тому же глубоко вовлечена в собственную успешную программу исследования африканского побережья, приносящую реальную прибыль из Гвинеи, которую нужно оберегать.",
+      "era": "AD",
+      "latitude": 38.7223,
+      "longitude": -9.1393,
+      "name": "Portugal's João II Rejects Columbus",
+      "name_ru": "Жуан II Португальский отвергает план Колумба",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Columbus",
+      "tags": [
+        "Portuguese",
+        "Italian",
+        "Columbus 👤",
+        "Exploration",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1486",
+      "description": "Rebuffed by Portugal, Columbus travels to Castile and secures an audience with Queen Isabella, who refers his proposal to a commission headed by her confessor, Hernando de Talavera. Rather than a quick verdict, the commission drags its inquiry out for years, questioning geographers and sailors while the war against Granada consumes the crown's money and attention. Columbus follows the itinerant Castilian court from city to city, pressing his case and growing increasingly frustrated, at one point sending his brother Bartholomew to seek backing from England and France instead. The commission eventually reports that Columbus's estimate of the distance to Asia is unrealistic — but Isabella, unwilling to close the door entirely, keeps him on a small royal stipend rather than dismissing him outright.",
+      "description_ru": "Получив отказ в Португалии, Колумб отправляется в Кастилию и добивается аудиенции у королевы Изабеллы, которая передаёт его предложение комиссии во главе со своим духовником Эрнандо де Талаверой. Вместо быстрого решения комиссия растягивает разбирательство на годы, опрашивая географов и моряков, пока война за Гранаду поглощает деньги и внимание короны. Колумб следует за странствующим кастильским двором из города в город, отстаивая своё дело и всё больше разочаровываясь, в какой-то момент отправив брата Бартоломео искать поддержки в Англии и Франции. В итоге комиссия сообщает, что оценка Колумбом расстояния до Азии нереалистична, — но Изабелла, не желая закрывать вопрос окончательно, оставляет ему небольшое королевское содержание вместо того, чтобы отказать напрямую.",
+      "era": "AD",
+      "latitude": 37.8882,
+      "longitude": -4.7794,
+      "name": "Castile's Talavera Commission Stalls for Years",
+      "name_ru": "Кастильская комиссия Талаверы годами тянет с решением",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Columbus",
+      "tags": [
+        "Spanish",
+        "Italian",
+        "Columbus 👤",
+        "Exploration",
+        "Political"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "17.04.1492",
+      "description": "With Granada's surrender in January 1492 freeing the crown's resources and Columbus on the verge of leaving for France, Isabella's treasurer Luis de Santángel intervenes, arguing the cost of the expedition is trivial next to its potential reward and offering to help finance it himself. Isabella recalls Columbus and signs the Capitulations of Santa Fe, granting him the titles of Admiral of the Ocean Sea and Viceroy over any lands he finds, along with a tenth of all revenues collected there in perpetuity, in exchange for asking for far less shipping and money than the crown feared. The demands, modest for the crown but extraordinary for a foreign commoner, take six years of negotiation to finally secure.",
+      "description_ru": "После капитуляции Гранады в январе 1492 года, освободившей средства короны, и когда Колумб уже был готов уехать во Францию, казначей Изабеллы Луис де Сантанхель вмешивается, доказывая, что стоимость экспедиции ничтожна по сравнению с возможной наградой, и предлагая помочь профинансировать её сам. Изабелла возвращает Колумба и подписывает Капитуляции Санта-Фе, жалуя ему титулы адмирала Моря-Океана и вице-короля всех земель, которые он найдёт, а также десятую часть всех доходов с них навечно — в обмен на куда меньшие требования по кораблям и деньгам, чем опасалась корона. Условия, скромные для короны, но неслыханные для чужеземного простолюдина, потребовали шести лет переговоров, прежде чем были наконец приняты.",
+      "era": "AD",
+      "latitude": 37.1773,
+      "longitude": -3.7223,
+      "name": "The Capitulations of Santa Fe",
+      "name_ru": "Капитуляции Санта-Фе",
+      "source": "https://en.wikipedia.org/wiki/Capitulations_of_Santa_Fe",
+      "tags": [
+        "Spanish",
+        "Italian",
+        "Columbus 👤",
+        "Political",
+        "Expedition"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "10.10.1492",
+      "description": "By early October 1492, Columbus's three ships have sailed over a month without sighting land, far longer than any of his sailors had ever spent on open ocean, and Columbus has been quietly falsifying the ships' logs to understate the distance traveled so the crew won't panic. Grumbling turns to open talk of turning back and possibly throwing Columbus overboard. On October 10, the Pinzón brothers, captains of the Pinta and Niña, back Columbus in persuading the crew to hold out for just a few more days — a promise that pays off within 48 hours when floating branches and birds signal land is near.",
+      "description_ru": "К началу октября 1492 года три корабля Колумба уже больше месяца идут по океану, не видя земли, — дольше, чем когда-либо прежде плавал в открытом море хоть один из его матросов, — и Колумб втайне занижает в судовых журналах пройденное расстояние, чтобы команда не впала в панику. Ропот перерастает в открытые разговоры о возвращении и даже о том, чтобы выбросить Колумба за борт. 10 октября братья Пинсон, капитаны «Пинты» и «Ниньи», поддерживают Колумба, убеждая команду продержаться ещё несколько дней, — и обещание сбывается меньше чем через двое суток, когда плавающие ветви и птицы возвещают близость земли.",
+      "era": "AD",
+      "latitude": 25,
+      "longitude": -60,
+      "name": "Crew Nears Mutiny Before Sighting Land",
+      "name_ru": "Команда на грани мятежа перед тем, как замечена земля",
+      "source": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus",
+      "tags": [
+        "Spanish",
+        "Columbus 👤",
+        "Seamen",
+        "Maritime",
+        "Expedition"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "12.10.1492",
+      "description": "In the early hours of October 12, 1492, a lookout aboard the Pinta sights land, and by dawn Columbus goes ashore on an island the local Lucayan people call Guanahani, which he renames San Salvador. He plants the Castilian banner and claims the island for Ferdinand and Isabella, believing he has reached islands off the coast of Asia. The Lucayan Taíno who greet the strange ships approach without weapons, and Columbus records in his journal that they seem gentle and would make good servants and converts — an assessment that sets the tone for the colonial relationship to come. He has no idea he has reached a continent entirely unknown to Europe.",
+      "description_ru": "Ранним утром 12 октября 1492 года впередсмотрящий на «Пинте» замечает землю, и на рассвете Колумб сходит на остров, который местные лукайо называют Гуанахани, а он переименовывает в Сан-Сальвадор. Он водружает кастильское знамя и объявляет остров владением Фердинанда и Изабеллы, полагая, что достиг островов у берегов Азии. Индейцы-таино, встречающие странные корабли, подходят безоружными, и Колумб записывает в дневнике, что они кажутся кроткими и станут хорошими слугами и новообращёнными, — оценка, задающая тон всем последующим колониальным отношениям. Он даже не подозревает, что достиг целого континента, полностью неизвестного Европе.",
+      "era": "AD",
+      "latitude": 24.027,
+      "longitude": -74.4762,
+      "name": "Landfall at Guanahani",
+      "name_ru": "Высадка на Гуанахани",
+      "source": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus",
+      "tags": [
+        "Spanish",
+        "Columbus 👤",
+        "New World",
+        "Exploration",
+        "Milestone ⭐️"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "25.12.1492",
+      "description": "On Christmas night, the flagship Santa María runs aground on a reef off the northern coast of Hispaniola after the helmsman, against orders, leaves a ship's boy at the wheel while the crew sleeps. The ship is beyond saving, but the local cacique Guacanagarí sends his people to help salvage its cargo and timbers. Unable to fit his entire expedition aboard the two remaining ships for the return voyage, Columbus orders a fort built from the wreck's wood, garrisoned by 39 volunteers who stay behind to search for gold and await his return — La Navidad, the first European settlement in the Americas since the Vikings.",
+      "description_ru": "В рождественскую ночь флагманская «Санта-Мария» садится на риф у северного побережья Эспаньолы после того, как рулевой, вопреки приказу, оставляет у штурвала юнгу, пока команда спит. Корабль спасти невозможно, но местный касик Гуаканагари посылает своих людей помочь спасти груз и брёвна обшивки. Не в силах разместить всю экспедицию на двух оставшихся кораблях для обратного плавания, Колумб приказывает построить из обломков форт, где остаются 39 добровольцев искать золото и ждать его возвращения, — Ла-Навидад, первое европейское поселение в Америке со времён викингов.",
+      "era": "AD",
+      "latitude": 19.7592,
+      "longitude": -72.2074,
+      "name": "Santa María Wrecks; La Navidad Is Founded",
+      "name_ru": "Крушение «Санта-Марии» и основание Ла-Навидада",
+      "source": "https://en.wikipedia.org/wiki/La_Navidad",
+      "tags": [
+        "Spanish",
+        "Columbus 👤",
+        "New World",
+        "Colonization",
+        "Foundation"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "18.02.1493",
+      "description": "Sailing home in February 1493, Columbus's two remaining ships are separated by a violent Atlantic storm. The Niña, with Columbus aboard, is battered so badly that the crew vows a pilgrimage if they survive, and is finally forced to take shelter in the Azores and then in Lisbon — Portuguese territory, and the court of the very king who had turned Columbus away nine years earlier. João II receives him courteously despite the sting of having rejected the voyage that succeeded, and lets him depart for Spain once repairs are complete.",
+      "description_ru": "Плывя домой в феврале 1493 года, два оставшихся корабля Колумба разлучает жестокий атлантический шторм. «Нинью» с Колумбом на борту треплет так сильно, что команда даёт обет паломничества, если выживет, и в итоге кораблю приходится искать убежища на Азорских островах, а затем в Лиссабоне — на португальской земле, при дворе того самого короля, что отказал Колумбу девятью годами ранее. Жуан II принимает его учтиво, несмотря на горечь от того, что отверг плавание, увенчавшееся успехом, и по завершении ремонта отпускает его в Испанию.",
+      "era": "AD",
+      "latitude": 38.7223,
+      "longitude": -9.1393,
+      "name": "Storm Forces an Unplanned Stop in Portugal",
+      "name_ru": "Шторм вынуждает зайти в Португалию",
+      "source": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus",
+      "tags": [
+        "Spanish",
+        "Portuguese",
+        "Columbus 👤",
+        "Seamen",
+        "Maritime"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "15.03.1493",
+      "description": "Columbus reaches Barcelona in March 1493, where Ferdinand and Isabella receive him with the ceremony due a returning conqueror, seating him in their presence — a rare honor for a commoner — as he presents the gold trinkets, parrots, and captured Taíno men he has brought back as proof of lands reached. News of his voyage spreads rapidly through printed pamphlets across Europe within months, and Columbus is confirmed in the titles promised at Santa Fe. The reception cements Spain's claim to have reached Asia by a new western route, a claim no one at court yet has reason to doubt.",
+      "description_ru": "Колумб прибывает в Барселону в марте 1493 года, где Фердинанд и Изабелла принимают его с почестями, подобающими победоносному завоевателю, усаживая в своём присутствии — редкая честь для простолюдина, — пока он представляет золотые безделушки, попугаев и пленённых таино как доказательство достигнутых земель. Весть о его плавании за считаные месяцы разлетается по Европе в печатных памфлетах, и Колумбу подтверждают титулы, обещанные в Санта-Фе. Приём закрепляет притязания Испании на то, что она достигла Азии новым западным путём, — притязания, в которых при дворе пока никто не видит повода сомневаться.",
+      "era": "AD",
+      "latitude": 41.3851,
+      "longitude": 2.1734,
+      "name": "Triumphant Reception in Barcelona",
+      "name_ru": "Триумфальный приём в Барселоне",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Columbus",
+      "tags": [
+        "Spanish",
+        "Columbus 👤",
+        "Political",
+        "New World"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "04.05.1493",
+      "description": "Anxious to secure Spain's claim to Columbus's discoveries before Portugal can contest it, Ferdinand and Isabella appeal to the Spanish-born Pope Alexander VI, who issues the bull Inter Caetera. It draws a line roughly 100 leagues west of the Azores and Cape Verde islands, granting Spain everything discovered west of it that no Christian ruler already possesses, while Portugal keeps its African and Indian Ocean routes to the east. Portugal, unhappy with a line drawn without its input, immediately begins pressing for it to be moved further west.",
+      "description_ru": "Стремясь закрепить притязания Испании на открытия Колумба прежде, чем их оспорит Португалия, Фердинанд и Изабелла обращаются к испанцу по происхождению папе римскому Александру VI, который издаёт буллу Inter Caetera. Она проводит линию примерно в 100 лигах западнее Азорских островов и островов Зелёного Мыса, отдавая Испании всё открытое к западу от неё, что ещё не принадлежит христианским правителям, тогда как Португалия сохраняет свои пути в Африку и Индийский океан на востоке. Недовольная линией, проведённой без её участия, Португалия сразу начинает добиваться её переноса дальше на запад.",
+      "era": "AD",
+      "latitude": 41.9029,
+      "longitude": 12.4534,
+      "name": "Inter Caetera Divides the New Lands",
+      "name_ru": "Булла Inter Caetera делит новые земли",
+      "source": "https://en.wikipedia.org/wiki/Inter_caetera",
+      "tags": [
+        "Spanish",
+        "Portuguese",
+        "Papacy",
+        "Treaty",
+        "Political"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "27.11.1493",
+      "description": "Columbus returns to Hispaniola in November 1493 with a much larger fleet of seventeen ships and over a thousand colonists, intending to build a permanent colony around the garrison left at La Navidad. He finds the fort burned to the ground and all 39 men dead. Guacanagarí, questioned through interpreters, blames a rival cacique and other Spaniards who had scattered from the fort to raid gold and women from neighboring villages, provoking a coordinated attack. Whatever the precise chain of events, the massacre reveals within a single year how quickly relations between the newcomers and the island's people have curdled into violence.",
+      "description_ru": "Колумб возвращается на Эспаньолу в ноябре 1493 года с гораздо более крупным флотом из семнадцати кораблей и более чем тысячи колонистов, намереваясь построить постоянную колонию вокруг гарнизона, оставленного в Ла-Навидаде. Он находит форт сожжённым дотла, а всех 39 человек — мёртвыми. Гуаканагари, допрошенный через переводчиков, обвиняет соперничавшего касика и других испанцев, которые, разбредясь из форта, грабили золото и женщин в соседних селениях, спровоцировав согласованное нападение. Какой бы ни была точная последовательность событий, резня всего за один год показывает, как быстро отношения между пришельцами и жителями острова скатились к насилию.",
+      "era": "AD",
+      "latitude": 19.7592,
+      "longitude": -72.2074,
+      "name": "Second Voyage Finds La Navidad Destroyed",
+      "name_ru": "Второе плавание застаёт Ла-Навидад разрушенным",
+      "source": "https://en.wikipedia.org/wiki/La_Navidad",
+      "tags": [
+        "Spanish",
+        "Columbus 👤",
+        "New World",
+        "Massacre",
+        "Colonization"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "07.06.1494",
+      "description": "Still unsatisfied with the pope's line, Portugal negotiates directly with Spain, and the two crowns sign the Treaty of Tordesillas, moving the boundary to 370 leagues west of the Cape Verde islands — far enough west that the still-undiscovered eastern bulge of South America will fall on Portugal's side, giving Portugal its later claim to Brazil. Neither crown consults any other European power, nor any of the peoples already living in the lands they are dividing on paper.",
+      "description_ru": "Всё ещё недовольная папской линией, Португалия ведёт прямые переговоры с Испанией, и обе короны подписывают Тордесильясский договор, перенося границу на 370 лиг западнее островов Зелёного Мыса — достаточно далеко на запад, чтобы ещё не открытый восточный выступ Южной Америки оказался на португальской стороне, дав Португалии её будущие права на Бразилию. Ни одна из корон не советуется ни с одной другой европейской державой, ни тем более с народами, уже населяющими земли, которые они делят на бумаге.",
+      "era": "AD",
+      "latitude": 41.5011,
+      "longitude": -5.0007,
+      "name": "Treaty of Tordesillas Redraws the Line",
+      "name_ru": "Тордесильясский договор переносит границу",
+      "source": "https://en.wikipedia.org/wiki/Treaty_of_Tordesillas",
+      "tags": [
+        "Spanish",
+        "Portuguese",
+        "Treaty",
+        "Political",
+        "New World"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.03.1495",
+      "description": "With gold proving far scarcer on Hispaniola than promised and the colony unable to feed itself, Columbus, now serving as governor, imposes a tribute system on the Taíno: every adult over fourteen in the gold-bearing regions must deliver a hawks' bell full of gold dust every three months or, in areas without gold, twenty-five pounds of spun cotton. Those who fail face mutilation or worse, and thousands who cannot meet the quota flee into the hills, disrupting the food supply for the entire island. The system, an early template for the encomienda later imposed across Spanish America, kills a large share of Hispaniola's Taíno population within a few years through violence, starvation, and disease.",
+      "description_ru": "Поскольку золота на Эспаньоле оказывается куда меньше обещанного, а колония не может прокормить себя, Колумб, теперь исполняющий обязанности губернатора, вводит для таино систему дани: каждый взрослый старше четырнадцати лет в золотоносных областях обязан раз в три месяца сдавать соколиный бубенец, полный золотого песка, а в областях без золота — двадцать пять фунтов прядёной хлопковой нити. Тем, кто не выполняет норму, грозят увечья или того хуже, и тысячи неспособных её выполнить бегут в горы, нарушая продовольственное снабжение всего острова. Эта система, ранний образец энкомьенды, впоследствии введённой по всей испанской Америке, за несколько лет убивает значительную часть населения таино на Эспаньоле — насилием, голодом и болезнями.",
+      "era": "AD",
+      "latitude": 19.8833,
+      "longitude": -71.05,
+      "name": "Columbus Imposes Tribute on Hispaniola",
+      "name_ru": "Колумб вводит систему дани на Эспаньоле",
+      "source": "https://en.wikipedia.org/wiki/Encomienda",
+      "tags": [
+        "Spanish",
+        "Columbus 👤",
+        "New World",
+        "Conquistadors",
+        "Colonization"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "24.06.1497",
+      "description": "Giovanni Caboto, a Venetian navigator sailing for England as John Cabot, crosses the North Atlantic on a route far shorter and colder than Columbus's, landing on the coast of Newfoundland with a single small ship and a crew of eighteen. Like Columbus, he believes he has reached the outer edge of Asia and claims the land for King Henry VII, though he finds no cities, gold, or spices — only rich fishing grounds that later prove far more valuable than the Northwest Passage to Asia he was actually seeking. Cabot returns to England to a hero's welcome and a royal pension, then vanishes on a second voyage the following year, his fate unknown.",
+      "description_ru": "Джованни Кабото, венецианский мореплаватель, идущий на английской службе под именем Джона Кабота, пересекает Северную Атлантику по маршруту, куда более короткому и холодному, чем путь Колумба, и высаживается на побережье Ньюфаундленда с единственным небольшим кораблём и командой из восемнадцати человек. Как и Колумб, он полагает, что достиг окраины Азии, и объявляет землю владением короля Генриха VII, хотя не находит ни городов, ни золота, ни пряностей — лишь богатые рыбные угодья, которые позднее окажутся куда ценнее северо-западного прохода в Азию, который он на самом деле искал. Кабот возвращается в Англию как герой и получает королевскую пенсию, но на следующий год пропадает без вести во втором плавании.",
+      "era": "AD",
+      "latitude": 48.6404,
+      "longitude": -53.1132,
+      "name": "Cabot Reaches Newfoundland for England",
+      "name_ru": "Кабот достигает Ньюфаундленда от имени Англии",
+      "source": "https://en.wikipedia.org/wiki/John_Cabot",
+      "tags": [
+        "English",
+        "Italian",
+        "Exploration",
+        "Expedition",
+        "Seamen"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.08.1498",
+      "description": "On his third voyage, sent partly to prove Hispaniola's troubles have not exhausted his usefulness, Columbus sails further south than before and sights the coast of what is now Venezuela near the Paria Peninsula. Struck by the sheer volume of fresh water pouring from the Orinoco River into the sea, he reasons in his journal that no island could produce such a flow — this must be the edge of a landmass \"of continental proportions,\" possibly Eden itself, according to his increasingly mystical later writings. He never explores further to confirm the idea before turning back to deal with a rebellion brewing on Hispaniola, leaving the full scale of the mainland for others to map.",
+      "description_ru": "В третьем плавании, отчасти призванном доказать, что неурядицы на Эспаньоле не исчерпали его полезности, Колумб заходит дальше на юг, чем прежде, и видит побережье нынешней Венесуэлы у полуострова Пария. Поражённый огромным объёмом пресной воды, изливающейся в море из реки Ориноко, он заключает в дневнике, что ни один остров не мог бы давать такой поток, — это должен быть край суши «континентальных размеров», возможно, сам Эдем, согласно его всё более мистическим поздним сочинениям. Он так и не исследует дальше, чтобы подтвердить догадку, и поворачивает назад разбираться с назревающим на Эспаньоле мятежом, оставляя истинный масштаб материка для карт других мореплавателей.",
+      "era": "AD",
+      "latitude": 10.7,
+      "longitude": -62.3,
+      "name": "Third Voyage Reaches the South American Mainland",
+      "name_ru": "Третье плавание достигает южноамериканского материка",
+      "source": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus",
+      "tags": [
+        "Spanish",
+        "Columbus 👤",
+        "New World",
+        "Exploration"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.09.1499",
+      "description": "Sailing along the same coast Columbus had only glimpsed, the Spanish captain Alonso de Ojeda, guided by charts Columbus had shared, and the Florentine navigator Amerigo Vespucci, serving as his pilot, explore the shoreline around the Gulf of Venezuela. They find a community of Añu houses built on stilts over the water, which reminds the Spanish of Venice, and the name Venezuela — \"little Venice\" — soon attaches itself to the whole region on European maps.",
+      "description_ru": "Плывя вдоль того же побережья, которое Колумб лишь мельком видел, испанский капитан Алонсо де Охеда, ведомый картами, которыми поделился с ним Колумб, и флорентийский штурман Америго Веспуччи, служащий у него лоцманом, исследуют берег вокруг залива Венесуэла. Они находят селение народа аньу, чьи дома стоят на сваях над водой, что напоминает испанцам Венецию, — и вскоре название Венесуэла, «маленькая Венеция», закрепляется на европейских картах за всем этим краем.",
+      "era": "AD",
+      "latitude": 10.65,
+      "longitude": -71.65,
+      "name": "Ojeda and Vespucci Name Venezuela",
+      "name_ru": "Охеда и Веспуччи дают имя Венесуэле",
+      "source": "https://en.wikipedia.org/wiki/Alonso_de_Ojeda",
+      "tags": [
+        "Spanish",
+        "Italian",
+        "New World",
+        "Exploration",
+        "Legend"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "22.04.1500",
+      "description": "Pedro Álvares Cabral commands a Portuguese fleet of thirteen ships bound for India by the route around Africa that Vasco da Gama had pioneered two years earlier, when a wide swing west into the Atlantic to catch favorable winds carries his ships far further west than intended. Land appears where none should be on any known map: the coast of what is now Brazil, squarely on Portugal's side of the Tordesillas line. Cabral claims it for the Portuguese crown, sends one ship home with the news, and continues on to India with the rest of his fleet, treating the discovery as a useful footnote to his real mission rather than the beginning of a Portuguese American empire.",
+      "description_ru": "Педру Алвариш Кабрал командует португальским флотом из тринадцати кораблей, идущим в Индию тем же путём вокруг Африки, который двумя годами ранее проложил Васко да Гама, когда широкий заход на запад в Атлантику ради попутных ветров уносит его корабли гораздо дальше на запад, чем предполагалось. Земля появляется там, где её не должно быть ни на одной известной карте, — берег нынешней Бразилии, точно на португальской стороне Тордесильясской линии. Кабрал объявляет её владением португальской короны, отправляет один корабль домой с новостью и продолжает путь в Индию с остальным флотом, считая находку полезной сноской к своей настоящей миссии, а не началом португальской американской империи.",
+      "era": "AD",
+      "latitude": -16.4498,
+      "longitude": -39.0648,
+      "name": "Cabral Reaches Brazil by Accident",
+      "name_ru": "Кабрал случайно достигает Бразилии",
+      "source": "https://en.wikipedia.org/wiki/Pedro_%C3%81lvares_Cabral",
+      "tags": [
+        "Portuguese",
+        "New World",
+        "Exploration",
+        "Colonization"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.10.1500",
+      "description": "Complaints from colonists about Columbus's harsh governance of Hispaniola — floggings, executions without trial, and favoritism toward his Genoese relatives — reach Ferdinand and Isabella in such volume that they dispatch Francisco de Bobadilla with full royal authority to investigate. Bobadilla arrives to find gallows still standing with the bodies of executed Spaniards, arrests Columbus and his two brothers, and ships all three back to Spain in irons. Columbus reportedly refuses an offer to remove the chains during the crossing, wanting Ferdinand and Isabella to see exactly how their Admiral of the Ocean Sea has been treated. The monarchs release him on arrival but strip him permanently of the governorship.",
+      "description_ru": "Жалобы колонистов на суровое правление Колумба на Эспаньоле — порки, казни без суда и покровительство генуэзским родственникам — доходят до Фердинанда и Изабеллы в таком количестве, что они направляют Франсиско де Бобадилью с полными королевскими полномочиями для расследования. Бобадилья застаёт виселицы, на которых ещё висят тела казнённых испанцев, арестовывает Колумба и обоих его братьев и отправляет всех троих обратно в Испанию в кандалах. Колумб, по свидетельствам, отказывается снять цепи во время перехода, желая, чтобы Фердинанд и Изабелла увидели своими глазами, как обошлись с их адмиралом Моря-Океана. По прибытии монархи освобождают его, но навсегда лишают губернаторского поста.",
+      "era": "AD",
+      "latitude": 18.4861,
+      "longitude": -69.9312,
+      "name": "Bobadilla Sends Columbus Home in Chains",
+      "name_ru": "Бобадилья отправляет Колумба домой в кандалах",
+      "source": "https://en.wikipedia.org/wiki/Francisco_de_Bobadilla",
+      "tags": [
+        "Spanish",
+        "Columbus 👤",
+        "Political",
+        "New World"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1502",
+      "description": "Sailing for Portugal along the Brazilian coast far south of anywhere Columbus reached, Amerigo Vespucci finds the coastline running on for thousands of miles without narrowing toward any strait to Asia that contemporary maps assumed must exist. Comparing what he has seen against the classical and medieval descriptions of Asia he knows from his education, Vespucci concludes in letters that circulate widely in print that this is not the edge of Asia at all but a \"Mundus Novus,\" a New World unknown to the ancients. The idea spreads through Europe's printing presses faster than any correction from Spain, and within a few years mapmakers begin labeling the new continent after Vespucci rather than Columbus, who never accepts the conclusion.",
+      "description_ru": "Плывя на португальской службе вдоль бразильского побережья далеко южнее всего, чего достигал Колумб, Америго Веспуччи обнаруживает, что береговая линия тянется на тысячи миль, не сужаясь ни к какому проливу в Азию, существование которого предполагали современные карты. Сравнивая увиденное с античными и средневековыми описаниями Азии, знакомыми ему по образованию, Веспуччи заключает в письмах, широко расходящихся в печати, что это вовсе не край Азии, а «Mundus Novus» — Новый Свет, неведомый древним. Эта мысль распространяется по европейским типографиям быстрее любого опровержения из Испании, и уже через несколько лет картографы начинают подписывать новый континент именем Веспуччи, а не Колумба, который так и не соглашается с этим выводом.",
+      "era": "AD",
+      "latitude": -8.05,
+      "longitude": -34.9,
+      "name": "Vespucci Concludes This Is a New World",
+      "name_ru": "Веспуччи заключает, что это Новый Свет",
+      "source": "https://en.wikipedia.org/wiki/Mundus_Novus",
+      "tags": [
+        "Italian",
+        "Portuguese",
+        "New World",
+        "Exploration"
+      ],
+      "type": "scientific"
+    },
+    {
+      "date": "09.05.1502",
+      "description": "On his fourth and final voyage, now barred from returning to Hispaniola, Columbus sails along the coast of Central America from Honduras to Panama, still convinced a strait must lead through to the Indian Ocean and the riches of Asia beyond. He finds gold in Veragua and briefly builds a settlement, but the local Guaymí people drive the Spanish out, and the ships, already ruined by shipworm, become unseaworthy. No strait exists to find; the true passage around South America lies thousands of miles further south.",
+      "description_ru": "В четвёртом и последнем плавании, отныне не имея права возвращаться на Эспаньолу, Колумб идёт вдоль побережья Центральной Америки от Гондураса до Панамы, всё ещё уверенный, что где-то здесь должен быть пролив в Индийский океан и богатства Азии за ним. Он находит золото в Верагуа и ненадолго основывает поселение, но местные гуайми изгоняют испанцев, а корабли, уже изъеденные корабельным червём, становятся непригодными для плавания. Пролива здесь нет; настоящий путь вокруг Южной Америки лежит на тысячи миль южнее.",
+      "era": "AD",
+      "latitude": 9.5,
+      "longitude": -82.5,
+      "name": "Fourth Voyage Hunts for a Strait to Asia",
+      "name_ru": "Четвёртое плавание в поисках пролива в Азию",
+      "source": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus",
+      "tags": [
+        "Spanish",
+        "Columbus 👤",
+        "New World",
+        "Expedition"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "29.02.1504",
+      "description": "Marooned in Jamaica for over a year after his worm-eaten ships can sail no further, Columbus and his crew depend entirely on the local Taíno for food, and by early 1504 the islanders, tired of trading for goods they no longer want, stop supplying them. Consulting an astronomical almanac he carries, Columbus calculates that a lunar eclipse is due on the night of February 29 and warns the Taíno chiefs that his God will turn the moon \"inflamed with wrath\" against them for withholding food. When the eclipse begins exactly as predicted, panicked islanders beg him to intercede, and Columbus, timing his prayers to the eclipse's known duration, \"restores\" the moon just as it clears — and food supplies resume until rescue finally arrives in June.",
+      "description_ru": "Застряв на Ямайке больше года после того, как источенные червём корабли уже не могут плыть дальше, Колумб и его команда полностью зависят от снабжения местными таино, а к началу 1504 года островитяне, уставшие обменивать еду на ненужные им больше товары, прекращают поставки. Сверившись с астрономическим альманахом, который он возит с собой, Колумб вычисляет, что в ночь на 29 февраля должно произойти лунное затмение, и предупреждает вождей таино, что его Бог обратит луну, «пылающую гневом», против них за отказ давать пищу. Когда затмение начинается точно в предсказанный срок, перепуганные островитяне умоляют его о заступничестве, и Колумб, рассчитав молитвы по известной продолжительности затмения, «возвращает» луну ровно к моменту его окончания, — и поставки еды возобновляются вплоть до прибытия спасения в июне.",
+      "era": "AD",
+      "latitude": 18.4394,
+      "longitude": -77.2,
+      "name": "Columbus Predicts an Eclipse to Save His Crew",
+      "name_ru": "Колумб предсказывает затмение, чтобы спасти команду",
+      "source": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus",
+      "tags": [
+        "Spanish",
+        "Columbus 👤",
+        "Astronomy",
+        "Legend",
+        "New World"
+      ],
+      "type": "scientific"
+    },
+    {
+      "date": "20.05.1506",
+      "description": "Columbus dies in Valladolid, in relative obscurity and still petitioning the crown for the titles and revenue share promised at Santa Fe, most of which Ferdinand has never fully honored. To the end, he insists in his writings that the lands he found lie off the coast of Asia, refusing to accept Vespucci's growing case for a separate continent. He is buried in Spain, though his remains are later moved across the Atlantic and back more than once as Spanish colonial fortunes shift.",
+      "description_ru": "Колумб умирает в Вальядолиде в относительной безвестности, всё ещё добиваясь от короны титулов и доли доходов, обещанных в Санта-Фе, большую часть которых Фердинанд так и не выплатил полностью. До конца своих дней он настаивает в своих сочинениях, что найденные им земли лежат у берегов Азии, отказываясь признавать растущие доводы Веспуччи в пользу отдельного континента. Его хоронят в Испании, хотя позднее его останки не раз перевозят через Атлантику и обратно по мере того, как меняется судьба испанских колоний.",
+      "era": "AD",
+      "latitude": 41.6523,
+      "longitude": -4.7245,
+      "name": "Columbus Dies Still Believing He Reached Asia",
+      "name_ru": "Колумб умирает, так и не усомнившись, что достиг Азии",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Columbus",
+      "tags": [
+        "Spanish",
+        "Italian",
+        "Columbus 👤",
+        "New World"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "25.04.1507",
+      "description": "In the small French town of Saint-Dié-des-Vosges, the German cartographer Martin Waldseemüller publishes a massive new world map incorporating the latest reports from Vespucci's voyages, and becomes the first to label the southern landmass \"America,\" a Latinized feminization of Amerigo, reasoning that Europe, Asia, and Africa are all named for women and this fourth part of the world deserves the same. He credits Vespucci as the discoverer of the new continent, still barely known to have Columbus's coastline attached to it at all. Waldseemüller later has doubts and drops the name from a subsequent map, but by then a thousand copies have already spread the label across Europe, and it never comes off again.",
+      "description_ru": "В небольшом французском городке Сен-Дье-де-Вож немецкий картограф Мартин Вальдземюллер публикует масштабную новую карту мира, включающую последние сведения из плаваний Веспуччи, и первым подписывает южный материк именем «Америка» — латинизированной женской формой имени Америго, рассуждая, что Европа, Азия и Африка носят женские имена, а значит, и эта четвёртая часть света заслуживает того же. Он называет Веспуччи первооткрывателем нового континента, к которому лишь смутно привязано побережье, найденное Колумбом. Позднее Вальдземюллер сам засомневается и уберёт это название с последующей карты, но к тому времени тысяча экземпляров уже разнесла его по всей Европе, и оно больше никогда не исчезает.",
+      "era": "AD",
+      "latitude": 48.2833,
+      "longitude": 6.95,
+      "name": "Waldseemüller Map Names the Continent America",
+      "name_ru": "Карта Вальдземюллера даёт материку имя Америка",
+      "source": "https://en.wikipedia.org/wiki/Waldseem%C3%BCller_map",
+      "tags": [
+        "French",
+        "Italian",
+        "Exploration",
+        "Legacy"
+      ],
+      "type": "scientific"
+    },
+    {
+      "date": "02.04.1513",
+      "description": "Juan Ponce de León, a former companion of Columbus who had gone on to conquer and govern Puerto Rico, sails north from the Caribbean in search of the island of Bimini, where indigenous accounts and Spanish legend both spoke of waters that could restore youth. He instead sights a lush, unfamiliar coastline he names La Florida, for the Easter season of its discovery, becoming the first documented European to set foot in what is now the continental United States. He finds no fountain, but claims the land for Spain and returns years later to found a colony, only to die of a wound from a native arrow.",
+      "description_ru": "Хуан Понсе де Леон, бывший спутник Колумба, впоследствии завоевавший и возглавивший Пуэрто-Рико, отплывает на север от Карибского моря на поиски острова Бимини, где, по индейским преданиям и испанским легендам, находятся воды, возвращающие молодость. Вместо этого он видит незнакомое пышное побережье, которое называет Ла-Флорида — в честь пасхального сезона открытия, — становясь первым документально подтверждённым европейцем, ступившим на землю нынешних континентальных Соединённых Штатов. Источника он не находит, но объявляет землю владением Испании и годы спустя возвращается основать колонию, где погибает от раны, нанесённой индейской стрелой.",
+      "era": "AD",
+      "latitude": 29.9012,
+      "longitude": -81.3124,
+      "name": "Ponce de León Searches Florida for the Fountain of Youth",
+      "name_ru": "Понсе де Леон ищет во Флориде источник молодости",
+      "source": "https://en.wikipedia.org/wiki/Juan_Ponce_de_Le%C3%B3n",
+      "tags": [
+        "Spanish",
+        "Conquistadors",
+        "New World",
+        "Legend",
+        "Exploration"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "25.09.1513",
+      "description": "Leading an expedition across the jungles and mountains of the Isthmus of Panama on the advice of local guides who describe another sea to the south, Vasco Núñez de Balboa climbs a final ridge and becomes the first European to see the Pacific Ocean from American soil. He wades into the water in full armor days later and claims the entire ocean and every shore it touches for the Spanish crown — a claim as impossible to enforce as it is vast. The sighting finally proves what Vespucci had argued a decade earlier: this is not a narrow strip of Asia but a separate landmass, with an entire ocean lying between it and the riches Columbus never stopped searching for.",
+      "description_ru": "Ведя экспедицию через джунгли и горы Панамского перешейка по совету местных проводников, рассказавших о другом море к югу, Васко Нуньес де Бальбоа поднимается на последний хребет и становится первым европейцем, увидевшим Тихий океан с американской земли. Несколько дней спустя он заходит в воду в полном вооружении и объявляет весь океан и все берега, которых он касается, владением испанской короны, — притязание столь же грандиозное, сколь и невозможное для исполнения. Это открытие наконец подтверждает то, о чём Веспуччи заявлял десятилетием раньше: перед ними не узкая полоска Азии, а отдельный материк, за которым лежит целый океан, отделяющий его от богатств, которые Колумб так и не переставал искать.",
+      "era": "AD",
+      "latitude": 8,
+      "longitude": -77.7,
+      "name": "Balboa Sights the Pacific from Panama",
+      "name_ru": "Бальбоа видит Тихий океан с Панамского перешейка",
+      "source": "https://en.wikipedia.org/wiki/Vasco_N%C3%BA%C3%B1ez_de_Balboa",
+      "tags": [
+        "Spanish",
+        "Conquistadors",
+        "New World",
+        "Exploration",
+        "Milestone ⭐️"
+      ],
+      "type": "scientific"
+    },
+    {
+      "date": "24.07.1534",
+      "description": "Commissioned by King Francis I to find a northern route to Asia and rival the wealth Spain has drawn from the south, Jacques Cartier sails into the Gulf of St. Lawrence and plants a thirty-foot cross at Gaspé, claiming the land for France in the presence of a wary Iroquoian delegation whose chief, Donnacona, he later persuades — or tricks — into sailing back to France with him. No route to Asia exists here either, but Cartier's voyage lays the first French claim to the territory that becomes Canada, extending the reach of the sixteenth century's scramble for the New World from the Caribbean to the Arctic fringe.",
+      "description_ru": "По поручению короля Франциска I найти северный путь в Азию и оспорить богатства, которые Испания получает с юга, Жак Картье входит в залив Святого Лаврентия и устанавливает девятиметровый крест у Гаспе, объявляя землю владением Франции в присутствии настороженной ирокезской делегации, чьего вождя Доннакону он позднее убеждает — или обманом заставляет — отплыть вместе с ним во Францию. Пути в Азию здесь тоже не существует, но плавание Картье кладёт первую французскую заявку на территорию, которая станет Канадой, продлевая охватившую XVI век гонку за Новый Свет от Карибского моря до арктических окраин.",
+      "era": "AD",
+      "latitude": 48.8333,
+      "longitude": -64.4833,
+      "name": "Cartier Claims Canada for France",
+      "name_ru": "Картье объявляет Канаду владением Франции",
+      "source": "https://en.wikipedia.org/wiki/Jacques_Cartier",
+      "tags": [
+        "French",
+        "New World",
+        "Exploration",
+        "Colonization"
+      ],
+      "type": "political"
+    }
+  ],
+  "filename": "discovery_of_america.json"
+}
