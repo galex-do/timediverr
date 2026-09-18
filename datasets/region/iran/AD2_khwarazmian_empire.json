@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 12 events",
+  "description": "Dataset imported with 24 events",
   "events": [
     {
       "date": "01.01.1077",
@@ -11,36 +11,33 @@
       "name": "Anushtegin Gharchai Becomes Governor of Khwarazm",
       "name_ru": "Ануштегин Гарчаи становится наместником Хорезма",
       "source": "https://en.wikipedia.org/wiki/Khwarazmian_Empire",
-      "tags": [
-        "Persian",
-        "Turkic",
-        "Seljuk Empire",
-        "Khwarazm",
-        "Foundation",
-        "Political",
-        "Governor"
-      ],
+      "tags": ["Persian", "Turkic", "Seljuk Empire", "Khwarazm", "Foundation", "Political", "Governor"],
       "type": "political"
     },
     {
       "date": "01.01.1097",
-      "description": "When the Turkic governor Ekinchi ibn Qochqar seizes Khwarazm and declares himself its independent shah, rebellious Seljuk emirs kill him within a short time, and Sultan Berkyaruq's court, seeking a more reliable arrangement, hands the province to Qutb al-Din Muhammad, son of the earlier governor Anushtegin Gharchai. Unlike his father's appointment, tied to a household office and revocable at will, Muhammad's investiture as Khwarazmshah becomes the first to pass down through his own bloodline, transforming a rotating governorship into a hereditary principality still nominally loyal to the Seljuk sultan. \n\nMuhammad rules long and carefully, expanding the administrative power of Khorezm along the lower Amu Darya without directly challenging Seljuk authority.",
-      "description_ru": "Когда тюркский наместник Экинчи ибн Кочкар захватывает Хорезм и провозглашает себя независимым шахом, восставшие сельджукские эмиры вскоре убивают его, и двор султана Беркиярука, стремясь к порядку, передаёт провинцию Кутб ад-Дину Мухаммаду, сыну прежнего наместника. В отличие от назначения отца, привязанного к придворной должности и отзываемого по воле султана, инвеститура Мухаммада как хорезмшаха передаётся по его собственной линии, превращая наместничество в наследственное княжество, пока подчинённое сельджукскому султану. \n\nМухаммад правит долго и осторожно, расширяя административную власть Хорезма вдоль нижней Амударьи, не бросая прямого вызова сельджукской власти.",
+      "description": "Following governor Anushtegin Gharchai's death, the post briefly passes to Ekinchi ibn Qochqar, a Turkic governor who immediately declares himself an independent Shah of Khwarazm rather than a Seljuk deputy, the first ruler to claim the title outright. His independence lasts only months: a group of Seljuk emirs, unwilling to tolerate a breakaway province on the empire's eastern frontier, track him down and kill him, ending his reign before it can build any lasting institutions.",
+      "description_ru": "После смерти наместника Ануштегина Гарчаи пост ненадолго переходит к Экинчи ибн Кочкару, тюркскому наместнику, который тут же провозглашает себя независимым шахом Хорезма, а не сельджукским наместником, — первым правителем, открыто принявшим этот титул. Его независимость длится лишь несколько месяцев: группа сельджукских эмиров, не желая мириться с отколовшейся провинцией на восточной границе империи, выслеживает и убивает его, обрывая правление, не успевшее создать никаких прочных институтов.",
       "era": "AD",
       "latitude": 42.325,
       "longitude": 59.161,
-      "name": "Qutb al-Din Muhammad succeeds Khwarazm",
-      "name_ru": "Кутб ад-Дин Мухаммад наследует Хорезм",
+      "name": "Ekinchi ibn Qochqar Declares Khwarazm Independent",
+      "name_ru": "Экинчи ибн Кочкар провозглашает независимость Хорезма",
       "source": "https://en.wikipedia.org/wiki/Khwarazmian_Empire",
-      "tags": [
-        "Persian",
-        "Turkic",
-        "Seljuk Empire",
-        "Khwarazm",
-        "Dynasty",
-        "Political",
-        "Governor"
-      ],
+      "tags": ["Persian", "Turkic", "Seljuk Empire", "Khwarazm", "Political", "Governor"],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1097",
+      "description": "With the governorship vacant after Ekinchi's death, Sultan Berkyaruq's court, seeking a more reliable arrangement than a rotating appointee, hands Khwarazm to Qutb al-Din Muhammad, son of the earlier governor Anushtegin Gharchai. Unlike his father's appointment, tied to a household office and revocable at will, Muhammad's investiture as Khwarazmshah becomes the first to pass down through his own bloodline, transforming a rotating governorship into a hereditary principality still nominally loyal to the Seljuk sultan. \n\nMuhammad rules long and carefully, expanding the administrative power of Khorezm along the lower Amu Darya without directly challenging Seljuk authority.",
+      "description_ru": "После того как пост наместника опустел после смерти Экинчи, двор султана Беркиярука, стремясь к более надёжному порядку, чем сменяемый назначенец, передаёт Хорезм Кутб ад-Дину Мухаммаду, сыну прежнего наместника Ануштегина Гарчаи. В отличие от назначения отца, привязанного к придворной должности и отзываемого по воле султана, инвеститура Мухаммада как хорезмшаха впервые передаётся по его собственной линии, превращая сменяемое наместничество в наследственное княжество, пока ещё подчинённое сельджукскому султану. \n\nМухаммад правит долго и осторожно, расширяя административную власть Хорезма вдоль нижней Амударьи, не бросая прямого вызова сельджукской власти.",
+      "era": "AD",
+      "latitude": 42.325,
+      "longitude": 59.161,
+      "name": "Qutb al-Din Muhammad Becomes First Hereditary Khwarazmshah",
+      "name_ru": "Кутб ад-Дин Мухаммад становится первым наследственным хорезмшахом",
+      "source": "https://en.wikipedia.org/wiki/Khwarazmian_Empire",
+      "tags": ["Persian", "Turkic", "Seljuk Empire", "Khwarazm", "Dynasty", "Political", "Governor"],
       "type": "political"
     },
     {
@@ -53,91 +50,189 @@
       "name": "Al-Zamakhshari Completes Al-Kashshaf",
       "name_ru": "Аз-Замахшари составляет «Аль-Кашшаф»",
       "source": "https://en.wikipedia.org/wiki/Al-Zamakhshari",
-      "tags": [
-        "Persian",
-        "Khwarazm",
-        "Islamic",
-        "Culture",
-        "Philosophy",
-        "Education",
-        "Text"
-      ],
+      "tags": ["Persian", "Khwarazm", "Islamic", "Culture", "Philosophy", "Education", "Text"],
       "type": "cultural"
     },
     {
-      "date": "01.01.1141",
-      "description": "Ala al-Din Atsiz has spent years maneuvering between submission and rebellion against his Seljuk overlord, Sultan Ahmad Sanjar, who pardoned him and restored his throne after crushing an earlier revolt. When the Qara Khitai, a Buddhist and Nestorian-tolerant dynasty of Khitan refugees from northern China, annihilate Sanjar's army at the Battle of Qatwan near Samarkand, Atsiz seizes the opening immediately, invading Khorasan and occupying the great cities of Merv and Nishapur before Sanjar can recover. The Qara Khitai gurkhan Yelü Dashi, unwilling to let Khwarazm grow too powerful in the vacuum his own victory created, sends a punitive force to plunder Khwarazm and forces Atsiz into paying annual tribute instead. Sanjar expels Atsiz from Khorasan the following year, but the Khwarazmshah's brief occupation of the region proves what a generation of his successors will exploit further: the Great Seljuk Empire's military supremacy no longer matches its territorial claims.",
-      "description_ru": "Ала ад-Дин Атсыз годами лавирует между покорностью и мятежом против своего сельджукского сюзерена, султана Ахмада Санджара, который прежде подавил его восстание, но простил и вернул ему трон. Когда кара-китаи — веротерпимая к буддизму и несторианству династия киданьских переселенцев из Северного Китая — уничтожают войско Санджара в битве при Катванской степи близ Самарканда, Атсыз немедленно пользуется случаем, вторгаясь в Хорасан и занимая крупные города Мерв и Нишапур, прежде чем Санджар успевает опомниться. Гурхан кара-китаев Елюй Даши, не желая, чтобы Хорезм чрезмерно усилился в вакууме, созданном его же победой, направляет карательный отряд разграбить Хорезм и вынуждает Атсыза платить ежегодную дань. На следующий год Санджар изгоняет Атсыза из Хорасана, но краткая оккупация региона хорезмшахом доказывает то, чем в полной мере воспользуются его преемники: военное превосходство Великих Сельджуков больше не соответствует их территориальным притязаниям.",
+      "date": "01.01.1138",
+      "description": "Ala al-Din Atsiz, who inherited Khwarazm from his father Qutb al-Din in 1127 and spent his early reign securing the province against nomadic raids, rebels against his Seljuk overlord Sultan Ahmad Sanjar. Sanjar marches on Khwarazm in person, defeats Atsiz's forces at Hazarasp, and drives him into flight. In his place, Sanjar installs his own nephew, Suleiman Shah, as ruler of Khwarazm before returning to his capital at Merv, confident the province is once again secure in loyal hands.",
+      "description_ru": "Ала ад-Дин Атсыз, унаследовавший Хорезм от отца Кутб ад-Дина в 1127 году и первые годы правления посвятивший защите провинции от кочевых набегов, поднимает мятеж против своего сельджукского сюзерена, султана Ахмада Санджара. Санджар лично выступает на Хорезм, разбивает войска Атсыза у Хазараспа и обращает его в бегство. На его место Санджар ставит собственного племянника Сулейман-шаха правителем Хорезма, прежде чем вернуться в свою столицу Мерв, уверенный, что провинция вновь в надёжных руках.",
       "era": "AD",
-      "latitude": 39.6542,
-      "longitude": 66.9597,
-      "name": "Atsiz Exploits the Seljuk Collapse at Qatwan",
-      "name_ru": "Атсыз использует разгром Сельджуков при Катванской степи",
+      "latitude": 41.3283,
+      "longitude": 61.0517,
+      "name": "Atsiz Rebels Against Sanjar and Is Crushed at Hazarasp",
+      "name_ru": "Атсыз восстаёт против Санджара и терпит поражение у Хазараспа",
       "source": "https://en.wikipedia.org/wiki/Khwarazmian_Empire",
-      "tags": [
-        "Turkic",
-        "Mongolian",
-        "Khwarazm",
-        "War",
-        "Battle",
-        "Political"
-      ],
+      "tags": ["Khwarazm", "Turkic", "Seljuk Empire", "War", "Battle"],
       "type": "military"
     },
     {
-      "date": "01.01.1157",
-      "description": "Il-Arslan succeeds his father Atsiz as Khwarazmshah and, like him, continues paying tribute to both the Seljuk sultan and the Qara Khitai gurkhan, the two overlapping powers that had kept Khwarazm in check for decades. Within months, Sultan Sanjar dies without a clear successor, plunging Seljuk-controlled Khorasan into a succession crisis and factional warfare that leaves no authority strong enough to enforce tribute demands on a distant vassal. Il-Arslan takes advantage of the disorder to stop acknowledging Seljuk overlordship in any practical sense, while carefully maintaining cordial relations with Sanjar's successor Mas'ud to avoid provoking a punitive campaign. He extends Khwarazmian influence deeper into Khorasan over the following years, intervening in a Karakhanid succession dispute and capturing Bukhara, all while continuing his tribute payments to the Qara Khitai as insurance against their own intervention. His reign marks the point at which Khwarazm behaves, in practice, as a sovereign power rather than a frontier province.",
-      "description_ru": "Иль-Арслан наследует отцу Атсызу как хорезмшах и, подобно ему, продолжает платить дань и сельджукскому султану, и гурхану кара-китаев — двум перекрывающимся силам, десятилетиями сдерживавшим Хорезм. Через несколько месяцев султан Санджар умирает, не оставив ясного преемника, что ввергает подвластный Сельджукам Хорасан в кризис престолонаследия и междоусобицы, не оставляя ни одной силы, способной принудить далёкого вассала к выплате дани. Иль-Арслан пользуется беспорядком, чтобы на деле перестать признавать сельджукский сюзеренитет, но осторожно сохраняет добрые отношения с преемником Санджара Масудом, чтобы не спровоцировать карательный поход. В последующие годы он глубже распространяет хорезмийское влияние на Хорасан, вмешиваясь в каракитайский престолонаследный спор и захватывая Бухару, продолжая при этом платить дань кара-китаям как страховку от их собственного вмешательства. Его правление становится моментом, когда Хорезм на деле начинает вести себя как суверенная держава, а не пограничная провинция.",
+      "date": "01.01.1141",
+      "description": "Sanjar's confidence proves premature: his appointee Suleiman Shah cannot hold Khwarazm without a permanent Seljuk garrison, and Atsiz soon returns from exile to reclaim the province by force. To show he remains a power to be reckoned with, Atsiz raids as far as Bukhara before offering Sanjar renewed submission. Rather than fund another costly campaign in the desert, Sanjar accepts, formally pardons Atsiz, and confirms him once again as Khwarazmshah.",
+      "description_ru": "Уверенность Санджара оказывается преждевременной: его ставленник Сулейман-шах не может удержать Хорезм без постоянного сельджукского гарнизона, и вскоре Атсыз возвращается из изгнания, чтобы силой вернуть провинцию. Чтобы показать, что с ним всё ещё нужно считаться, Атсыз совершает набег вплоть до Бухары, прежде чем вновь предложить Санджару покорность. Не желая финансировать ещё одну дорогостоящую кампанию в пустыне, Санджар принимает её, официально прощает Атсыза и вновь утверждает его хорезмшахом.",
       "era": "AD",
       "latitude": 42.325,
       "longitude": 59.161,
-      "name": "Il-Arslan Breaks Free of Seljuk Suzerainty",
-      "name_ru": "Иль-Арслан освобождается от сельджукского сюзеренитета",
-      "source": "https://en.wikipedia.org/wiki/Il-Arslan",
-      "tags": [
-        "Turkic",
-        "Khwarazm",
-        "Political"
-      ],
+      "name": "Sanjar Pardons Atsiz and Restores Him to Khwarazm",
+      "name_ru": "Санджар прощает Атсыза и возвращает ему Хорезм",
+      "source": "https://en.wikipedia.org/wiki/Khwarazmian_Empire",
+      "tags": ["Khwarazm", "Turkic", "Seljuk Empire", "Political"],
       "type": "political"
     },
     {
+      "date": "01.01.1141",
+      "description": "In the same year Sanjar pardons Atsiz, the Qara Khitai, a dynasty of Buddhist and Nestorian-tolerant Khitan refugees who had fled north China decades earlier, meet Sanjar's Great Seljuk army near Samarkand. The Qara Khitai gurkhan Yelu Dashi inflicts a catastrophic defeat on the Seljuks at the Battle of Qatwan, killing thousands of Sanjar's troops and shattering the myth of Seljuk invincibility that had underwritten the sultan's authority over his eastern vassals for decades. Sanjar himself barely escapes the battlefield alive.",
+      "description_ru": "В том же году, когда Санджар прощает Атсыза, кара-китаи — династия веротерпимых к буддизму и несторианству киданьских переселенцев, бежавших из Северного Китая десятилетиями ранее, — сходятся с великой сельджукской армией Санджара близ Самарканда. Гурхан кара-китаев Елюй Даши наносит Сельджукам сокрушительное поражение в битве при Катванской степи, убив тысячи воинов Санджара и разрушив миф о непобедимости Сельджуков, десятилетиями подкреплявший власть султана над его восточными вассалами. Сам Санджар едва спасается с поля боя живым.",
+      "era": "AD",
+      "latitude": 39.6542,
+      "longitude": 66.9597,
+      "name": "Qara Khitai Crush the Seljuks at Qatwan",
+      "name_ru": "Кара-китаи громят Сельджуков при Катване",
+      "source": "https://en.wikipedia.org/wiki/Khwarazmian_Empire",
+      "tags": ["Turkic", "Mongolian", "Seljuk Empire", "War", "Battle"],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1141",
+      "description": "Atsiz immediately exploits Sanjar's disaster at Qatwan, invading Khorasan while the Seljuk sultan's authority lies in ruins. He seizes Merv, one of the great cities of the Islamic world and Sanjar's own former capital, meeting little resistance from a garrison stripped of its best troops in the recent defeat.",
+      "description_ru": "Атсыз немедленно пользуется катастрофой Санджара при Катване, вторгаясь в Хорасан, пока власть сельджукского султана лежит в руинах. Он захватывает Мерв — один из великих городов исламского мира и бывшую столицу самого Санджара, — почти не встречая сопротивления гарнизона, лишившегося лучших войск в недавнем разгроме.",
+      "era": "AD",
+      "latitude": 37.6607,
+      "longitude": 62.1913,
+      "name": "Atsiz Occupies Merv",
+      "name_ru": "Атсыз занимает Мерв",
+      "source": "https://en.wikipedia.org/wiki/Khwarazmian_Empire",
+      "tags": ["Khwarazm", "Turkic", "War", "Conquest"],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1141",
+      "description": "Pressing his advantage further into Khorasan, Atsiz's forces take Nishapur, another of the region's principal cities and a center of Islamic scholarship, extending Khwarazmian control deep into territory the Seljuks had governed directly for over a century.",
+      "description_ru": "Развивая успех, войска Атсыза продвигаются вглубь Хорасана и занимают Нишапур — ещё один из главных городов региона и центр исламской учёности, — распространяя власть Хорезма далеко на территорию, которой Сельджуки более столетия правили напрямую.",
+      "era": "AD",
+      "latitude": 36.213,
+      "longitude": 58.7959,
+      "name": "Atsiz Occupies Nishapur",
+      "name_ru": "Атсыз занимает Нишапур",
+      "source": "https://en.wikipedia.org/wiki/Khwarazmian_Empire",
+      "tags": ["Khwarazm", "Turkic", "War", "Conquest"],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1141",
+      "description": "Yelu Dashi has no intention of letting his defeated rival's most opportunistic vassal grow too powerful in the vacuum his own victory created. He dispatches a Qara Khitai force to raid Khwarazm itself, plundering the province Atsiz left lightly defended while campaigning in Khorasan. Atsiz is forced to buy peace by agreeing to pay the Qara Khitai an annual tribute, trading Seljuk overlordship for a new and equally demanding one.",
+      "description_ru": "Елюй Даши не намерен позволять самому предприимчивому вассалу побеждённого соперника чрезмерно усилиться в вакууме, созданном его собственной победой. Он направляет отряд кара-китаев разграбить сам Хорезм, слабо защищённый, пока Атсыз воюет в Хорасане. Атсыз вынужден купить мир, согласившись платить кара-китаям ежегодную дань, — променяв сельджукский сюзеренитет на новый, столь же требовательный.",
+      "era": "AD",
+      "latitude": 42.325,
+      "longitude": 59.161,
+      "name": "Qara Khitai Plunder Khwarazm and Impose Tribute",
+      "name_ru": "Кара-китаи разоряют Хорезм и облагают его данью",
+      "source": "https://en.wikipedia.org/wiki/Khwarazmian_Empire",
+      "tags": ["Khwarazm", "Turkic", "Mongolian", "War"],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1142",
+      "description": "Having survived Qatwan, Sanjar rebuilds enough authority to strike back at the vassal who exploited his defeat. Seljuk forces drive Atsiz out of Merv and Nishapur, restoring Sanjar's direct rule over Khorasan and pushing Khwarazm back to its original borders, though Sanjar's grip on his eastern territories never fully recovers from the losses of the past four years.",
+      "description_ru": "Пережив Катван, Санджар восстанавливает достаточно власти, чтобы нанести ответный удар вассалу, воспользовавшемуся его поражением. Сельджукские войска изгоняют Атсыза из Мерва и Нишапура, восстанавливая прямое правление Санджара в Хорасане и оттесняя Хорезм к прежним границам, хотя власть Санджара над восточными землями уже никогда полностью не оправится от потерь последних четырёх лет.",
+      "era": "AD",
+      "latitude": 37.6607,
+      "longitude": 62.1913,
+      "name": "Sanjar Expels Atsiz from Khorasan",
+      "name_ru": "Санджар изгоняет Атсыза из Хорасана",
+      "source": "https://en.wikipedia.org/wiki/Khwarazmian_Empire",
+      "tags": ["Khwarazm", "Turkic", "Seljuk Empire", "War"],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1156",
+      "description": "Atsiz dies after a reign spent maneuvering between Seljuk and Qara Khitai overlords, and his son Il-Arslan succeeds him as Khwarazmshah. Like his father, Il-Arslan initially continues paying tribute to both powers, inheriting a Khwarazm that is de facto autonomous but still formally a vassal state twice over.",
+      "description_ru": "Атсыз умирает, окончив правление, проведённое в лавировании между сельджукским и кара-китайским сюзеренами, и его сын Иль-Арслан наследует ему как хорезмшах. Подобно отцу, Иль-Арслан поначалу продолжает платить дань обеим державам, наследуя Хорезм, фактически автономный, но формально дважды вассальный.",
+      "era": "AD",
+      "latitude": 42.325,
+      "longitude": 59.161,
+      "name": "Il-Arslan Succeeds Atsiz as Khwarazmshah",
+      "name_ru": "Иль-Арслан наследует Атсызу как хорезмшах",
+      "source": "https://en.wikipedia.org/wiki/Il-Arslan",
+      "tags": ["Khwarazm", "Turkic", "Political", "Dynasty"],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1157",
+      "description": "Sultan Sanjar dies only months after Il-Arslan's accession, without a clear successor, plunging Seljuk-controlled Khorasan into a succession crisis with no authority left strong enough to enforce tribute on a distant vassal. Il-Arslan quietly stops acknowledging Seljuk overlordship in any practical sense, while carefully maintaining cordial relations with Sanjar's eventual successor Mas'ud to avoid provoking a campaign he cannot yet afford to ignore.",
+      "description_ru": "Султан Санджар умирает всего через несколько месяцев после воцарения Иль-Арслана, не оставив ясного преемника, что ввергает подвластный Сельджукам Хорасан в кризис престолонаследия, не оставляя ни одной силы, способной принудить далёкого вассала к выплате дани. Иль-Арслан незаметно перестаёт на деле признавать сельджукский сюзеренитет, но осторожно сохраняет добрые отношения с будущим преемником Санджара Масудом, чтобы не спровоцировать поход, который пока не может себе позволить игнорировать.",
+      "era": "AD",
+      "latitude": 42.325,
+      "longitude": 59.161,
+      "name": "Sanjar's Death Frees Il-Arslan from Seljuk Suzerainty",
+      "name_ru": "Смерть Санджара освобождает Иль-Арслана от сельджукского сюзеренитета",
+      "source": "https://en.wikipedia.org/wiki/Khwarazmian_Empire",
+      "tags": ["Khwarazm", "Turkic", "Seljuk Empire", "Political"],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1158",
+      "description": "Il-Arslan extends Khwarazmian power directly into Transoxiana for the first time, intervening in a succession dispute among the Qara Khitai's own Karakhanid vassals after their ruler persecutes the Qarluk tribes of Samarkand. Backing the Qarluk exiles who appeal to him for help, Il-Arslan invades Karakhanid territory and captures Bukhara, besieging the Karakhanid khan in Samarkand itself before a hesitant Qara Khitai relief force arrives too late to save the city.",
+      "description_ru": "Иль-Арслан впервые напрямую распространяет хорезмийскую власть на Мавераннахр, вмешавшись в спор о престолонаследии среди караханидских вассалов самих кара-китаев после того, как их правитель начинает притеснять карлукские племена Самарканда. Поддержав карлукских изгнанников, обратившихся к нему за помощью, Иль-Арслан вторгается во владения караханидов и захватывает Бухару, осаждая караханидского хана в самом Самарканде, прежде чем нерешительное войско кара-китаев подходит на помощь — слишком поздно, чтобы спасти город.",
+      "era": "AD",
+      "latitude": 39.7747,
+      "longitude": 64.4286,
+      "name": "Il-Arslan Seizes Bukhara from the Karakhanids",
+      "name_ru": "Иль-Арслан отбирает Бухару у Караханидов",
+      "source": "https://en.wikipedia.org/wiki/Il-Arslan",
+      "tags": ["Khwarazm", "Turkic", "War", "Conquest"],
+      "type": "military"
+    },
+    {
       "date": "01.01.1194",
-      "description": "Ala al-Din Tekish, who took the Khwarazmian throne two decades earlier with Qara Khitai military backing before later throwing off their overlordship, allies with the Abbasid Caliph al-Nasir against Toghrul III, the last ruling sultan of the Great Seljuk Empire, now reduced to a rump state centered on Hamadan and Rey. Tekish's army, reinforced by Oghuz Turkmen and Kipchak horsemen recruited from the Aral Sea steppes, defeats and kills Toghrul III in battle, extinguishing the dynasty that had dominated Iran, Iraq, and Anatolia for over a century. Tekish absorbs Toghrul's former territories directly, transforming Khwarazm overnight from a Central Asian regional power into the paramount state of the Iranian plateau. The victory sours quickly: Tekish's own alliance with the Caliphate collapses within years over rival claims to the conquered lands, and the Khwarazmshah nearly goes to war with Baghdad himself before the Caliph, unable to field a match for Tekish's army, recognizes him as sultan of Iran, Khorasan, and Turkestan in 1198.",
-      "description_ru": "Ала ад-Дин Текеш, взошедший на хорезмийский престол двумя десятилетиями ранее при военной поддержке кара-китаев, а позднее сбросивший их сюзеренитет, заключает союз с аббасидским халифом ан-Насиром против Тогрула III, последнего правящего султана Великих Сельджуков, чьё государство к этому времени сжалось до владений вокруг Хамадана и Рея. Войско Текеша, усиленное огузскими туркменами и кипчакскими всадниками, набранными в приаральских степях, разбивает и убивает Тогрула III в бою, кладя конец династии, более столетия господствовавшей в Иране, Ираке и Анатолии. Текеш напрямую присоединяет прежние владения Тогрула, за одну кампанию превращая Хорезм из среднеазиатской региональной державы в главную силу Иранского нагорья. Победа быстро оборачивается разладом: союз Текеша с халифатом рушится через несколько лет из-за споров о завоёванных землях, и хорезмшах едва не начинает войну с Багдадом, прежде чем халиф, не имея сил тягаться с армией Текеша, в 1198 году признаёт его султаном Ирана, Хорасана и Туркестана.",
+      "description": "Ala al-Din Tekish, who took the Khwarazmian throne two decades earlier with Qara Khitai military backing before later throwing off their overlordship, allies with the Abbasid Caliph al-Nasir against Toghrul III, the last ruling sultan of the Great Seljuk Empire, now reduced to a rump state centered on Hamadan and Rey. Tekish's army, reinforced by Oghuz Turkmen and Kipchak horsemen recruited from the Aral Sea steppes, defeats and kills Toghrul III in battle, extinguishing the dynasty that had dominated Iran, Iraq, and Anatolia for over a century. Tekish absorbs Toghrul's former territories directly, transforming Khwarazm overnight from a Central Asian regional power into the paramount state of the Iranian plateau.",
+      "description_ru": "Ала ад-Дин Текеш, взошедший на хорезмийский престол двумя десятилетиями ранее при военной поддержке кара-китаев, а позднее сбросивший их сюзеренитет, заключает союз с аббасидским халифом ан-Насиром против Тогрула III, последнего правящего султана Великих Сельджуков, чьё государство к этому времени сжалось до владений вокруг Хамадана и Рея. Войско Текеша, усиленное огузскими туркменами и кипчакскими всадниками, набранными в приаральских степях, разбивает и убивает Тогрула III в бою, кладя конец династии, более столетия господствовавшей в Иране, Ираке и Анатолии. Текеш напрямую присоединяет прежние владения Тогрула, за одну кампанию превращая Хорезм из среднеазиатской региональной державы в главную силу Иранского нагорья.",
       "era": "AD",
       "latitude": 35.5989,
       "longitude": 51.4364,
       "name": "Tekish Kills the Last Great Seljuk Sultan at Rey",
       "name_ru": "Текеш убивает последнего великого сельджукского султана при Рее",
       "source": "https://en.wikipedia.org/wiki/Ala_al-Din_Tekish",
-      "tags": [
-        "Turkic",
-        "Khwarazm",
-        "Islamic",
-        "War",
-        "Battle",
-        "Political"
-      ],
+      "tags": ["Turkic", "Khwarazm", "Seljuk Empire", "Islamic", "War", "Battle", "Political"],
+      "type": "military"
+    },
+    {
+      "date": "01.01.1198",
+      "description": "Tekish's victory over the Seljuks sours his alliance with Caliph al-Nasir within a few years, as the two former partners clash over rival claims to the conquered lands, and Khwarazm comes to the brink of open war with the Caliphate itself. Unable to field an army capable of matching Tekish's forces, al-Nasir backs down and formally recognizes him as sultan of Iran, Khorasan, and Turkestan, granting religious legitimacy to a territorial dominance Tekish had already secured by the sword.",
+      "description_ru": "Победа Текеша над Сельджуками за несколько лет разрушает его союз с халифом ан-Насиром: бывшие партнёры сталкиваются из-за прав на завоёванные земли, и Хорезм оказывается на грани открытой войны с самим халифатом. Не имея войска, способного тягаться с силами Текеша, ан-Насир отступает и официально признаёт его султаном Ирана, Хорасана и Туркестана, придавая религиозную легитимность территориальному господству, которое Текеш уже утвердил мечом.",
+      "era": "AD",
+      "latitude": 33.3152,
+      "longitude": 44.3661,
+      "name": "Caliph al-Nasir Recognizes Tekish as Sultan",
+      "name_ru": "Халиф ан-Насир признаёт Текеша султаном",
+      "source": "https://en.wikipedia.org/wiki/Ala_al-Din_Tekish",
+      "tags": ["Khwarazm", "Turkic", "Islamic", "Political"],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1204",
+      "description": "Taking advantage of the succession disputes that followed Tekish's death in 1200, the Ghurid sultan Muhammad of Ghor invades Khorasan and lays siege to the Khwarazmian capital Gurganj itself, threatening to undo decades of Khwarazmian expansion in a single campaign. The new Khwarazmshah, Ala al-Din Muhammad, appeals for help to the Qara Khitai, still nominally his overlords, and a relief army led by the commander Tayangu arrives in time to break the siege and force the Ghurid army into retreat.",
+      "description_ru": "Пользуясь распрями о престолонаследии после смерти Текеша в 1200 году, гуридский султан Мухаммад Гури вторгается в Хорасан и осаждает саму хорезмийскую столицу Гургандж, грозя одной кампанией свести на нет десятилетия хорезмийской экспансии. Новый хорезмшах Ала ад-Дин Мухаммад обращается за помощью к кара-китаям, всё ещё числившимся его сюзеренами, и войско под командованием Таянгу подходит вовремя, чтобы снять осаду и вынудить гуридскую армию отступить.",
+      "era": "AD",
+      "latitude": 42.325,
+      "longitude": 59.161,
+      "name": "Ghurid Siege of Gurganj Broken by Qara Khitai Relief",
+      "name_ru": "Осада Гурганджа гуридами снята войском кара-китаев",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Andkhud",
+      "tags": ["Khwarazm", "Turkic", "War", "Battle"],
       "type": "military"
     },
     {
       "date": "01.01.1204",
-      "description": "Taking advantage of the succession disputes that followed Tekish's death, the Ghurid sultan Muhammad of Ghor invades Khorasan and besieges the Khwarazmian capital Gurganj, threatening to unravel decades of Khwarazmian expansion into a Ghurid conquest. The new Khwarazmshah Ala al-Din Muhammad appeals to the Qara Khitai, still nominally his overlords, and a relief force led by the commander Tayangu arrives in time to break the siege and pursue the retreating Ghurid army to the banks of the Oxus River near Andkhud. There the Qara Khitai catch and rout Muhammad of Ghor's forces so completely that only the intervention of a Karakhanid ally allows the Ghurid sultan to escape alive, and he is forced to pay a heavy ransom to Tayangu for safe passage back to Ghazna. The disaster ends any realistic Ghurid ambition to dominate Khorasan and, within a decade, the Khwarazmshahs absorb most of the Ghurid Empire's western territory themselves once its ruling family is extinguished.",
-      "description_ru": "Пользуясь распрями о престолонаследии после смерти Текеша, гуридский султан Мухаммад Гури вторгается в Хорасан и осаждает хорезмийскую столицу Гургандж, грозя обратить десятилетия хорезмийской экспансии в гуридское завоевание. Новый хорезмшах Ала ад-Дин Мухаммад обращается за помощью к кара-китаям, всё ещё числившимся его сюзеренами, и войско под командованием Таянгу подходит вовремя, чтобы снять осаду и преследовать отступающую гуридскую армию до берегов Амударьи близ Андхуда. Там кара-китаи настигают и наголову разбивают силы Мухаммада Гури — лишь вмешательство караханидского союзника позволяет гуридскому султану уйти живым, а сам он вынужден заплатить Таянгу тяжёлый выкуп за безопасное возвращение в Газну. Разгром окончательно хоронит гуридские притязания на господство в Хорасане, и уже в следующем десятилетии хорезмшахи сами присоединят большую часть западных владений гуридской державы после пресечения её правящего рода.",
+      "description": "Pursuing the retreating Ghurid army to the banks of the Oxus River near Andkhud, the Qara Khitai relief force catches and routs Muhammad of Ghor's troops so completely that only the intervention of a Karakhanid ally allows the Ghurid sultan to escape the battlefield alive. Muhammad of Ghor is forced to pay a heavy ransom to the Qara Khitai commander Tayangu for safe passage back to his own capital at Ghazna. The disaster ends any realistic Ghurid ambition to dominate Khorasan, and within a decade the Khwarazmshahs will absorb most of the Ghurid Empire's western territory once its ruling family is extinguished.",
+      "description_ru": "Преследуя отступающую гуридскую армию до берегов Амударьи близ Андхуда, войско кара-китаев настигает и наголову разбивает силы Мухаммада Гури — лишь вмешательство караханидского союзника позволяет гуридскому султану уйти с поля боя живым. Мухаммад Гури вынужден заплатить командующему кара-китаев Таянгу тяжёлый выкуп за безопасное возвращение в собственную столицу Газну. Разгром окончательно хоронит гуридские притязания на господство в Хорасане, и уже в следующем десятилетии хорезмшахи присоединят большую часть западных владений гуридской державы после пресечения её правящего рода.",
       "era": "AD",
       "latitude": 36.95,
       "longitude": 65.1,
-      "name": "Khwarazm and the Qara Khitai Rout the Ghurids at Andkhud",
-      "name_ru": "Хорезм и кара-китаи разбивают гуридов при Андхуде",
+      "name": "Qara Khitai Rout the Ghurids at Andkhud",
+      "name_ru": "Кара-китаи разбивают гуридов при Андхуде",
       "source": "https://en.wikipedia.org/wiki/Battle_of_Andkhud",
-      "tags": [
-        "Turkic",
-        "Mongolian",
-        "Khwarazm",
-        "War",
-        "Battle"
-      ],
+      "tags": ["Turkic", "Mongolian", "Khwarazm", "War", "Battle"],
       "type": "military"
     },
     {
@@ -150,13 +245,7 @@
       "name": "Muhammad II Extinguishes the Western Kara-Khanid Khanate",
       "name_ru": "Мухаммад II ликвидирует Западное Караханидское ханство",
       "source": "https://en.wikipedia.org/wiki/Khwarazmian_Empire",
-      "tags": [
-        "Turkic",
-        "Khwarazm",
-        "War",
-        "Conquest",
-        "Political"
-      ],
+      "tags": ["Turkic", "Khwarazm", "War", "Conquest", "Political"],
       "type": "military"
     },
     {
@@ -169,30 +258,33 @@
       "name": "Muhammad II's March on Baghdad Collapses in the Zagros Snow",
       "name_ru": "Поход Мухаммада II на Багдад гибнет в снегах Загроса",
       "source": "https://en.wikipedia.org/wiki/Muhammad_II_of_Khwarazm",
-      "tags": [
-        "Turkic",
-        "Khwarazm",
-        "Islamic",
-        "Political"
-      ],
+      "tags": ["Turkic", "Khwarazm", "Islamic", "Political"],
       "type": "political"
     },
     {
       "date": "01.01.1218",
-      "description": "Genghis Khan, having just secured his western border by defeating the fugitive Kuchlug Khan, sends a large trade caravan to Khwarazm along with envoys proposing peaceful commerce between the two empires. Inalchuq, the Khwarazmian governor of the border city of Otrar and an uncle of Muhammad II, accuses the caravan of espionage, seizes its goods, and has the merchants killed, whether on his own initiative or the Shah's is disputed by later chroniclers. When Genghis Khan sends a follow-up embassy demanding Inalchuq be handed over for punishment, Muhammad II instead has the chief envoy executed and the accompanying merchants put to death as well, a calculated insult to Mongol authority that leaves no room for a diplomatic resolution. Genghis Khan, who had reportedly hoped to avoid war with a fellow Muslim power to focus on unfinished business in China, now has the pretext and the fury needed to turn his full military machine against Khwarazm, ending any chance the empire had of a peaceful outcome.",
-      "description_ru": "Чингисхан, только что обезопасивший западную границу разгромом беглого хана Кучлука, отправляет в Хорезм крупный торговый караван вместе с послами, предлагающими мирную торговлю между двумя державами. Иналчук, хорезмийский наместник пограничного города Отрара и дядя Мухаммада II, обвиняет караван в шпионаже, захватывает товары и казнит купцов — было ли это его собственной инициативой или волей шаха, позднейшие летописцы расходятся во мнениях. Когда Чингисхан направляет новое посольство с требованием выдать Иналчука для наказания, Мухаммад II вместо этого казнит главного посла, а заодно и сопровождавших его купцов — расчётливое оскорбление монгольской власти, не оставляющее места для дипломатического решения. Чингисхан, по преданию, надеявшийся избежать войны с мусульманской державой ради незавершённых дел в Китае, теперь получает и повод, и ярость, необходимые, чтобы обратить всю военную машину против Хорезма, — лишая державу последнего шанса на мирный исход.",
+      "description": "Genghis Khan, having just secured his western border by defeating the fugitive Naiman prince Kuchlug, sends a large caravan of some 450 Muslim merchants to Khwarazm, hoping to open peaceful trade between the two empires. Inalchuq, the Khwarazmian governor of the border city of Otrar and an uncle of Muhammad II, accuses the caravan of espionage, seizes its goods, and has the merchants executed, whether on his own initiative or with the Shah's blessing remains disputed among later chroniclers.",
+      "description_ru": "Чингисхан, только что обезопасивший западную границу разгромом беглого найманского принца Кучлука, отправляет в Хорезм крупный караван из примерно 450 мусульманских купцов, надеясь наладить мирную торговлю между двумя державами. Иналчук, хорезмийский наместник пограничного города Отрара и дядя Мухаммада II, обвиняет караван в шпионаже, захватывает товары и казнит купцов — было ли это его собственной инициативой или с одобрения шаха, позднейшие летописцы расходятся во мнениях.",
       "era": "AD",
       "latitude": 42.85,
       "longitude": 68.33,
-      "name": "The Otrar Massacre Sets the Mongol Invasion in Motion",
-      "name_ru": "Резня в Отраре запускает монгольское вторжение",
+      "name": "Inalchuq Massacres the Mongol Trade Caravan at Otrar",
+      "name_ru": "Иналчук истребляет монгольский торговый караван в Отраре",
       "source": "https://en.wikipedia.org/wiki/Otrar",
-      "tags": [
-        "Mongolian",
-        "Khwarazm",
-        "Political",
-        "Temüjin 👤"
-      ],
+      "tags": ["Khwarazm", "Mongolian", "Political"],
+      "type": "political"
+    },
+    {
+      "date": "01.01.1218",
+      "description": "Genghis Khan, still hoping to avoid war, sends a follow-up embassy of three men to Muhammad II, offering the Shah a chance to disclaim the Otrar massacre and hand Inalchuq over for punishment. Muhammad II instead has the chief envoy executed and the other two sent back with their beards shaved off, a calculated and unmistakable insult under Mongol custom. The act closes off any path to a diplomatic resolution and leaves Genghis Khan, by his own account, praying alone on a hilltop for three days before announcing war on Khwarazm.",
+      "description_ru": "Чингисхан, всё ещё надеясь избежать войны, направляет новое посольство из трёх человек к Мухаммаду II, давая шаху возможность отмежеваться от резни в Отраре и выдать Иналчука для наказания. Мухаммад II вместо этого казнит главного посла, а двух остальных отсылает обратно с обритыми бородами — расчётливое и недвусмысленное по монгольским обычаям оскорбление. Этот поступок закрывает любой путь к дипломатическому решению и, по преданию, заставляет Чингисхана три дня в одиночестве молиться на вершине холма, прежде чем объявить войну Хорезму.",
+      "era": "AD",
+      "latitude": 42.325,
+      "longitude": 59.161,
+      "name": "Muhammad II Executes Genghis Khan's Envoys",
+      "name_ru": "Мухаммад II казнит послов Чингисхана",
+      "source": "https://en.wikipedia.org/wiki/Otrar",
+      "tags": ["Khwarazm", "Mongolian", "Political", "Temüjin 👤"],
       "type": "political"
     },
     {
@@ -205,12 +297,7 @@
       "name": "Muhammad II Dies a Fugitive on a Caspian Island",
       "name_ru": "Мухаммад II умирает беглецом на каспийском острове",
       "source": "https://en.wikipedia.org/wiki/Muhammad_II_of_Khwarazm",
-      "tags": [
-        "Turkic",
-        "Khwarazm",
-        "Political",
-        "Decline"
-      ],
+      "tags": ["Turkic", "Khwarazm", "Political", "Decline"],
       "type": "political"
     },
     {
@@ -223,14 +310,7 @@
       "name": "Najm al-Din Kubra Dies Defending Gurganj",
       "name_ru": "Наджм ад-Дин Кубра гибнет, защищая Гургандж",
       "source": "https://en.wikipedia.org/wiki/Najm_al-Din_Kubra",
-      "tags": [
-        "Mongolian",
-        "Khwarazm",
-        "Religious",
-        "Islamic",
-        "Tolerance",
-        "Sufi"
-      ],
+      "tags": ["Mongolian", "Khwarazm", "Religious", "Islamic", "Tolerance", "Sufi"],
       "type": "religious"
     }
   ],
