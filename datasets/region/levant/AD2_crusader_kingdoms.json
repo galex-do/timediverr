@@ -3,32 +3,6 @@
   "filename": "AD2_crusader_kingdoms.json",
   "events": [
     {
-      "date": "27.11.1095",
-      "era": "AD",
-      "type": "religious",
-      "name": "Urban II Preaches the First Crusade at Clermont",
-      "name_ru": "Урбан II призывает к Первому крестовому походу в Клермоне",
-      "description": "At a church council in Clermont, Pope Urban II called on the knights of Western Christendom to march east and aid the Byzantine Empire against the Seljuk Turks, and to seize Jerusalem for Christianity. He promised that anyone who died on the campaign would have their sins forgiven. The crowd reportedly interrupted him with cries of \"Deus vult\" — God wills it.\n\nUrban's appeal answered a request from Byzantine Emperor Alexios I Komnenos, who needed mercenaries after losing most of Anatolia to the Turks two decades earlier. Urban saw a chance to reunite the Eastern and Western churches, drain off Europe's feuding knights into a common cause, and extend papal authority. Word spread through preachers across France and Germany, and tens of thousands of nobles, knights, and commoners took a vow to march to Jerusalem.",
-      "description_ru": "На церковном соборе в Клермоне папа Урбан II призвал рыцарей Западного христианского мира выступить на Восток на помощь Византийской империи против турок-сельджуков и захватить Иерусалим для христианства. Он пообещал, что всем погибшим в этом походе простятся грехи. Толпа, по свидетельствам, прерывала его криками «Deus vult» — «Так хочет Бог».\n\nПризыв Урбана был ответом на просьбу византийского императора Алексея I Комнина, которому требовались наёмники после потери большей части Анатолии туркам два десятилетия назад. Урбан увидел в этом шанс воссоединить восточную и западную церкви, направить энергию враждующих европейских рыцарей на общее дело и расширить папскую власть. Проповедники разнесли весть по Франции и Германии, и десятки тысяч знати, рыцарей и простолюдинов дали обет идти на Иерусалим.",
-      "latitude": 45.7772,
-      "longitude": 3.0870,
-      "source": "https://en.wikipedia.org/wiki/Council_of_Clermont",
-      "tags": ["Crusades", "Levant", "Papacy", "Religious", "Political", "Foundation"]
-    },
-    {
-      "date": "21.10.1096",
-      "era": "AD",
-      "type": "military",
-      "name": "Kilij Arslan Destroys the People's Crusade at Civetot",
-      "name_ru": "Кылыч-Арслан уничтожает Крестьянский крестовый поход при Систе",
-      "description": "Months before the main crusader army reached the East, a ragged force of pilgrims, minor knights, and commoners under Peter the Hermit crossed into Anatolia and camped near Civetot. Ignoring orders to wait for reinforcements, thousands pushed inland toward Nicaea, plundering Byzantine and Muslim villages alike along the way.\n\nSultan Kilij Arslan of the Seljuk Sultanate of Rum ambushed the column in a narrow valley, killing most of the fighters and enslaving many of the women and children who had come with them. Only a small remnant, including Peter the Hermit himself, escaped to Byzantine protection. The disaster convinced Kilij Arslan that the crusading threat was no more dangerous than this undisciplined rabble, an assumption that left him unprepared when the far larger army of trained knights arrived the following spring.",
-      "description_ru": "Ещё до подхода основной армии крестоносцев на Восток, разношёрстный отряд паломников, мелких рыцарей и простолюдинов под началом Петра Пустынника переправился в Анатолию и встал лагерем близ Систа. Вопреки приказу дождаться подкреплений, тысячи людей двинулись вглубь страны к Никее, грабя по пути и византийские, и мусульманские деревни.\n\nСултан Румского султаната Кылыч-Арслан устроил засаду колонне в узкой долине, перебив большинство бойцов и обратив в рабство многих женщин и детей, шедших с ними. Спастись под защитой Византии удалось лишь немногим, включая самого Петра Пустынника. Эта катастрофа убедила Кылыч-Арслана, что угроза крестоносцев не опаснее этой недисциплинированной толпы — заблуждение, из-за которого он оказался не готов к прибытию весной куда более крупной армии обученных рыцарей.",
-      "latitude": 40.6472,
-      "longitude": 29.2664,
-      "source": "https://en.wikipedia.org/wiki/People%27s_Crusade",
-      "tags": ["Crusades", "Levant", "Military", "Seljuk", "Anatolia", "Massacre"]
-    },
-    {
       "date": "01.04.1097",
       "era": "AD",
       "type": "political",
@@ -39,7 +13,13 @@
       "latitude": 41.0082,
       "longitude": 28.9784,
       "source": "https://en.wikipedia.org/wiki/Alexios_I_Komnenos",
-      "tags": ["Crusades", "Levant", "Byzantine Empire", "Political", "Vassalage"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Byzantine Empire",
+        "Political",
+        "Vassalage"
+      ]
     },
     {
       "date": "01.07.1097",
@@ -52,7 +32,13 @@
       "latitude": 39.7767,
       "longitude": 30.5206,
       "source": "https://en.wikipedia.org/wiki/Battle_of_Dorylaeum",
-      "tags": ["Crusades", "Levant", "Military", "Seljuk", "Anatolia"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Military",
+        "Seljuk",
+        "Anatolia"
+      ]
     },
     {
       "date": "10.03.1098",
@@ -65,7 +51,13 @@
       "latitude": 37.1591,
       "longitude": 38.7969,
       "source": "https://en.wikipedia.org/wiki/County_of_Edessa",
-      "tags": ["Crusades", "Levant", "County of Edessa", "Political", "Foundation"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "County of Edessa",
+        "Political",
+        "Foundation"
+      ]
     },
     {
       "date": "03.06.1098",
@@ -78,7 +70,13 @@
       "latitude": 36.2023,
       "longitude": 36.1613,
       "source": "https://en.wikipedia.org/wiki/Siege_of_Antioch",
-      "tags": ["Crusades", "Levant", "Principality of Antioch", "Military", "Siege"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Principality of Antioch",
+        "Military",
+        "Siege"
+      ]
     },
     {
       "date": "14.06.1098",
@@ -91,7 +89,13 @@
       "latitude": 36.2023,
       "longitude": 36.1613,
       "source": "https://en.wikipedia.org/wiki/Holy_Lance",
-      "tags": ["Crusades", "Levant", "Religious", "Relic", "Principality of Antioch"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Religious",
+        "Relic",
+        "Principality of Antioch"
+      ]
     },
     {
       "date": "28.06.1098",
@@ -104,7 +108,13 @@
       "latitude": 36.2023,
       "longitude": 36.1613,
       "source": "https://en.wikipedia.org/wiki/Siege_of_Antioch",
-      "tags": ["Crusades", "Levant", "Principality of Antioch", "Military", "Battle"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Principality of Antioch",
+        "Military",
+        "Battle"
+      ]
     },
     {
       "date": "14.07.1098",
@@ -117,7 +127,14 @@
       "latitude": 36.2023,
       "longitude": 36.1613,
       "source": "https://en.wikipedia.org/wiki/Bohemond_I_of_Antioch",
-      "tags": ["Crusades", "Levant", "Principality of Antioch", "Political", "Foundation", "Byzantine Empire"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Principality of Antioch",
+        "Political",
+        "Foundation",
+        "Byzantine Empire"
+      ]
     },
     {
       "date": "11.12.1098",
@@ -130,7 +147,13 @@
       "latitude": 35.6428,
       "longitude": 36.6689,
       "source": "https://en.wikipedia.org/wiki/Siege_of_Ma%27arrat_al-Numan",
-      "tags": ["Crusades", "Levant", "Military", "Siege", "Massacre"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Military",
+        "Siege",
+        "Massacre"
+      ]
     },
     {
       "date": "08.04.1099",
@@ -143,20 +166,13 @@
       "latitude": 34.5333,
       "longitude": 36.1667,
       "source": "https://en.wikipedia.org/wiki/Peter_Bartholomew",
-      "tags": ["Crusades", "Levant", "Religious", "Relic", "Martyr"]
-    },
-    {
-      "date": "15.07.1099",
-      "era": "AD",
-      "type": "military",
-      "name": "Crusaders Storm Jerusalem",
-      "name_ru": "Крестоносцы штурмом берут Иерусалим",
-      "description": "After a five-week siege of Jerusalem's Fatimid garrison, crusader forces breached the walls using siege towers built from dismantled ships' timber brought up from Jaffa. Godfrey of Bouillon's men were the first over the walls near the northeastern corner, and other divisions broke through soon after.\n\nOnce inside, the crusaders killed most of the city's Muslim and Jewish inhabitants over the following two days, chroniclers describing streets running with blood and the Temple Mount strewn with bodies; some Muslims who took refuge in the al-Aqsa Mosque were massacred despite promises of safety. The scale of the killing shocked even contemporary observers and left a legacy of bitterness that shaped Muslim memory of the Crusades for centuries. The city, sacred to three faiths, had finally been taken after 460 years of Muslim rule.",
-      "description_ru": "После пятинедельной осады фатимидского гарнизона Иерусалима крестоносцы пробили стены с помощью осадных башен, построенных из брёвен разобранных кораблей, доставленных из Яффы. Первыми на стену у северо-восточного угла поднялись люди Готфрида Бульонского, вскоре прорвались и другие отряды.\n\nОказавшись внутри, крестоносцы в течение двух последующих дней перебили большую часть мусульманского и еврейского населения города — хронисты описывали улицы, залитые кровью, и Храмовую гору, усеянную телами; некоторые мусульмане, укрывшиеся в мечети аль-Акса, были убиты, несмотря на обещания пощады. Масштаб резни потряс даже современников и оставил наследие горечи, определявшее память мусульман о крестовых походах на века вперёд. Город, священный для трёх религий, был наконец взят после 460 лет мусульманского правления.",
-      "latitude": 31.7683,
-      "longitude": 35.2137,
-      "source": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1099)",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Military", "Siege", "Massacre"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Religious",
+        "Relic",
+        "Martyr"
+      ]
     },
     {
       "date": "22.07.1099",
@@ -164,12 +180,18 @@
       "type": "political",
       "name": "Godfrey of Bouillon Becomes Advocate of the Holy Sepulchre",
       "name_ru": "Готфрид Бульонский становится защитником Гроба Господня",
-      "description": "A week after Jerusalem's capture, the crusader leaders gathered to choose a ruler for the city. Raymond of Toulouse was offered the crown but refused, unwilling to see a rival hold the title; Godfrey of Bouillon, a duke of Lower Lorraine who had led one of the crusade's largest contingents, was chosen instead.\n\nGodfrey declined to be called king in the city where Christ had worn a crown of thorns, taking instead the title Advocate of the Holy Sepulchre. His rule was brief; he died less than a year later, but the state he founded became the Kingdom of Jerusalem, the political center of the Crusader presence in the Levant and the nominal overlord, in theory if rarely in practice, of Antioch, Edessa, and Tripoli.",
-      "description_ru": "Через неделю после взятия Иерусалима вожди крестоносцев собрались, чтобы выбрать правителя города. Корону предложили Раймунду Тулузскому, но тот отказался, не желая видеть титул у соперника; вместо него избрали Готфрида Бульонского, герцога Нижней Лотарингии, возглавлявшего один из крупнейших отрядов похода.\n\nГотфрид отказался называться королём в городе, где Христос носил терновый венец, приняв вместо этого титул защитника Гроба Господня. Его правление было недолгим — он умер меньше чем через год, но основанное им государство стало Иерусалимским королевством, политическим центром присутствия крестоносцев в Леванте и номинальным сюзереном — хотя на практике редко — Антиохии, Эдессы и Триполи.",
+      "description": "A week after the First Crusade stormed Jerusalem's walls on 15 July 1099, the crusader leaders gathered to choose a ruler for the city. Raymond of Toulouse was offered the crown but refused, unwilling to see a rival hold the title; Godfrey of Bouillon, a duke of Lower Lorraine who had led one of the crusade's largest contingents, was chosen instead.\n\nGodfrey declined to be called king in the city where Christ had worn a crown of thorns, taking instead the title Advocate of the Holy Sepulchre. His rule was brief; he died less than a year later, but the state he founded became the Kingdom of Jerusalem, the political center of the Crusader presence in the Levant and the nominal overlord, in theory if rarely in practice, of Antioch, Edessa, and Tripoli.",
+      "description_ru": "Через неделю после того, как воины Первого крестового похода взяли штурмом стены Иерусалима 15 июля 1099 года, вожди крестоносцев собрались, чтобы выбрать правителя города. Корону предложили Раймунду Тулузскому, но тот отказался, не желая видеть титул у соперника; вместо него избрали Готфрида Бульонского, герцога Нижней Лотарингии, возглавлявшего один из крупнейших отрядов похода.\n\nГотфрид отказался называться королём в городе, где Христос носил терновый венец, приняв вместо этого титул защитника Гроба Господня. Его правление было недолгим — он умер меньше чем через год, но основанное им государство стало Иерусалимским королевством, политическим центром присутствия крестоносцев в Леванте и номинальным сюзереном — хотя на практике редко — Антиохии, Эдессы и Триполи.",
       "latitude": 31.7683,
       "longitude": 35.2137,
       "source": "https://en.wikipedia.org/wiki/Godfrey_of_Bouillon",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Political", "Foundation"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Political",
+        "Foundation"
+      ]
     },
     {
       "date": "12.08.1099",
@@ -182,7 +204,14 @@
       "latitude": 31.6688,
       "longitude": 34.5742,
       "source": "https://en.wikipedia.org/wiki/Battle_of_Ascalon",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Military", "Fatimid", "Battle"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Military",
+        "Fatimid",
+        "Battle"
+      ]
     },
     {
       "date": "15.08.1100",
@@ -195,7 +224,13 @@
       "latitude": 38.3552,
       "longitude": 38.3095,
       "source": "https://en.wikipedia.org/wiki/Bohemond_I_of_Antioch",
-      "tags": ["Crusades", "Levant", "Principality of Antioch", "Military", "Byzantine Empire"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Principality of Antioch",
+        "Military",
+        "Byzantine Empire"
+      ]
     },
     {
       "date": "25.12.1100",
@@ -208,7 +243,13 @@
       "latitude": 31.7683,
       "longitude": 35.2137,
       "source": "https://en.wikipedia.org/wiki/Baldwin_I_of_Jerusalem",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Political", "Coronation"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Political",
+        "Coronation"
+      ]
     },
     {
       "date": "07.05.1104",
@@ -221,7 +262,14 @@
       "latitude": 36.8667,
       "longitude": 39.0333,
       "source": "https://en.wikipedia.org/wiki/Battle_of_Harran",
-      "tags": ["Crusades", "Levant", "County of Edessa", "Principality of Antioch", "Military", "Battle"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "County of Edessa",
+        "Principality of Antioch",
+        "Military",
+        "Battle"
+      ]
     },
     {
       "date": "09.10.1107",
@@ -234,7 +282,14 @@
       "latitude": 41.3231,
       "longitude": 19.4414,
       "source": "https://en.wikipedia.org/wiki/Siege_of_Dyrrhachium_(1107%E2%80%931108)",
-      "tags": ["Crusades", "Levant", "Byzantine Empire", "Principality of Antioch", "Military", "Siege"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Byzantine Empire",
+        "Principality of Antioch",
+        "Military",
+        "Siege"
+      ]
     },
     {
       "date": "17.09.1108",
@@ -244,10 +299,17 @@
       "name_ru": "Боэмунд признаёт власть Византии по договору в Девольской долине",
       "description": "Defeated and starving outside Dyrrachium, Bohemond of Antioch was forced to negotiate directly with Emperor Alexios I at a Byzantine camp near the fortress of Devol. The treaty he signed formally made him a vassal of the Byzantine emperor and, in principle, converted the Principality of Antioch into a Byzantine fief to be held after Bohemond's death by an imperial appointee.\n\nBohemond returned to Italy in disgrace and never set foot in Antioch again, dying there in 1111. His nephew Tancred, still ruling Antioch as regent, simply refused to recognize a treaty he had no part in negotiating, and the principality continued to function as an independent state for decades, though the unresolved question of Byzantine suzerainty over Antioch would resurface repeatedly under later Komnenian emperors.",
       "description_ru": "Разбитый и изголодавшийся под Диррахием, Боэмунд Антиохийский был вынужден вести переговоры напрямую с императором Алексеем I в византийском лагере близ крепости Девол. Подписанный им договор официально сделал его вассалом византийского императора и в принципе превращал княжество Антиохийское в византийский лен, который после смерти Боэмунда должен был перейти к императорскому наместнику.\n\nБоэмунд вернулся в Италию в бесчестье и больше никогда не появлялся в Антиохии, умерев там в Италии в 1111 году. Его племянник Танкред, по-прежнему правивший Антиохией как регент, просто отказался признавать договор, в переговорах о котором не участвовал, и княжество десятилетиями продолжало действовать как независимое государство, хотя неразрешённый вопрос о византийском сюзеренитете над Антиохией будет неоднократно всплывать при позднейших императорах из рода Комнинов.",
-      "latitude": 40.7500,
-      "longitude": 20.6500,
+      "latitude": 40.75,
+      "longitude": 20.65,
       "source": "https://en.wikipedia.org/wiki/Treaty_of_Devol",
-      "tags": ["Crusades", "Levant", "Byzantine Empire", "Principality of Antioch", "Political", "Vassalage"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Byzantine Empire",
+        "Principality of Antioch",
+        "Political",
+        "Vassalage"
+      ]
     },
     {
       "date": "12.07.1109",
@@ -260,7 +322,15 @@
       "latitude": 34.4346,
       "longitude": 35.8362,
       "source": "https://en.wikipedia.org/wiki/County_of_Tripoli",
-      "tags": ["Crusades", "Levant", "County of Tripoli", "Kingdom of Jerusalem", "Military", "Foundation", "Siege"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "County of Tripoli",
+        "Kingdom of Jerusalem",
+        "Military",
+        "Foundation",
+        "Siege"
+      ]
     },
     {
       "date": "01.01.1118",
@@ -270,10 +340,18 @@
       "name_ru": "Гуго де Пейн основывает орден тамплиеров",
       "description": "A French knight named Hugh de Payens and eight companions took monastic vows before the Patriarch of Jerusalem and pledged themselves to protecting Christian pilgrims traveling the dangerous roads from the coast to the Holy City, where bandits regularly robbed and killed unarmed travelers. King Baldwin II granted the small brotherhood quarters in his palace, built over the ruins of the Temple of Solomon on the Temple Mount, giving them their name: the Poor Fellow-Soldiers of Christ and of the Temple of Solomon.\n\nFor its first decade the order remained tiny and poorly funded, but the endorsement of the influential Cistercian abbot Bernard of Clairvaux and the papal bull Omne datum optimum transformed it into the wealthiest and most disciplined military order of the Crusader states, combining monastic vows with the profession of arms in a way that was entirely new to Western Christendom.",
       "description_ru": "Французский рыцарь Гуго де Пейн и восемь его товарищей принесли монашеские обеты перед патриархом Иерусалимским и посвятили себя защите христианских паломников, идущих опасными дорогами от побережья к Святому городу, где разбойники регулярно грабили и убивали безоружных путников. Король Балдуин II выделил небольшому братству покои в своём дворце, построенном на руинах Храма Соломона на Храмовой горе, что и дало им имя — «Бедные соратники Христа и Храма Соломонова».\n\nВ первое десятилетие орден оставался крошечным и почти без средств, но поддержка влиятельного цистерцианского аббата Бернара Клервоского и папская булла Omne datum optimum превратили его в самый богатый и дисциплинированный военный орден государств крестоносцев, соединив монашеские обеты с военным ремеслом совершенно новым для западного христианства способом.",
-      "latitude": 31.7780,
+      "latitude": 31.778,
       "longitude": 35.2354,
       "source": "https://en.wikipedia.org/wiki/Knights_Templar",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Religious", "Military Order", "Foundation", "Knights Templar"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Religious",
+        "Military Order",
+        "Foundation",
+        "Knights Templar"
+      ]
     },
     {
       "date": "28.06.1119",
@@ -286,7 +364,13 @@
       "latitude": 36.0333,
       "longitude": 36.7167,
       "source": "https://en.wikipedia.org/wiki/Battle_of_the_Field_of_Blood",
-      "tags": ["Crusades", "Levant", "Principality of Antioch", "Military", "Battle"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Principality of Antioch",
+        "Military",
+        "Battle"
+      ]
     },
     {
       "date": "16.01.1120",
@@ -299,7 +383,14 @@
       "latitude": 32.2211,
       "longitude": 35.2544,
       "source": "https://en.wikipedia.org/wiki/Council_of_Nablus",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Political", "Cultural", "Religious"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Political",
+        "Cultural",
+        "Religious"
+      ]
     },
     {
       "date": "14.09.1131",
@@ -312,7 +403,14 @@
       "latitude": 31.7683,
       "longitude": 35.2137,
       "source": "https://en.wikipedia.org/wiki/Fulk_V_of_Anjou",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Political", "Coronation", "Succession"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Political",
+        "Coronation",
+        "Succession"
+      ]
     },
     {
       "date": "01.01.1136",
@@ -325,7 +423,14 @@
       "latitude": 31.6167,
       "longitude": 34.8944,
       "source": "https://en.wikipedia.org/wiki/Knights_Hospitaller",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Religious", "Military Order", "Knights Hospitaller"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Religious",
+        "Military Order",
+        "Knights Hospitaller"
+      ]
     },
     {
       "date": "01.04.1136",
@@ -338,7 +443,13 @@
       "latitude": 36.2023,
       "longitude": 36.1613,
       "source": "https://en.wikipedia.org/wiki/Raymond_of_Poitiers",
-      "tags": ["Crusades", "Levant", "Principality of Antioch", "Political", "Succession"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Principality of Antioch",
+        "Political",
+        "Succession"
+      ]
     },
     {
       "date": "29.08.1137",
@@ -351,7 +462,14 @@
       "latitude": 36.2023,
       "longitude": 36.1613,
       "source": "https://en.wikipedia.org/wiki/John_II_Komnenos",
-      "tags": ["Crusades", "Levant", "Byzantine Empire", "Principality of Antioch", "Political", "Vassalage"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Byzantine Empire",
+        "Principality of Antioch",
+        "Political",
+        "Vassalage"
+      ]
     },
     {
       "date": "01.05.1138",
@@ -364,7 +482,15 @@
       "latitude": 35.2667,
       "longitude": 36.5833,
       "source": "https://en.wikipedia.org/wiki/Siege_of_Shaizar_(1138)",
-      "tags": ["Crusades", "Levant", "Byzantine Empire", "Principality of Antioch", "County of Edessa", "Military", "Siege"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Byzantine Empire",
+        "Principality of Antioch",
+        "County of Edessa",
+        "Military",
+        "Siege"
+      ]
     },
     {
       "date": "24.12.1144",
@@ -377,7 +503,14 @@
       "latitude": 37.1591,
       "longitude": 38.7969,
       "source": "https://en.wikipedia.org/wiki/Siege_of_Edessa",
-      "tags": ["Crusades", "Levant", "County of Edessa", "Zengid", "Military", "Siege"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "County of Edessa",
+        "Zengid",
+        "Military",
+        "Siege"
+      ]
     },
     {
       "date": "01.12.1145",
@@ -390,7 +523,13 @@
       "latitude": 41.9028,
       "longitude": 12.4964,
       "source": "https://en.wikipedia.org/wiki/Second_Crusade",
-      "tags": ["Crusades", "Levant", "Papacy", "Religious", "Political"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Papacy",
+        "Religious",
+        "Political"
+      ]
     },
     {
       "date": "28.07.1148",
@@ -403,7 +542,14 @@
       "latitude": 33.5138,
       "longitude": 36.2765,
       "source": "https://en.wikipedia.org/wiki/Siege_of_Damascus_(1148)",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Zengid", "Military", "Siege"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Zengid",
+        "Military",
+        "Siege"
+      ]
     },
     {
       "date": "29.06.1149",
@@ -413,10 +559,17 @@
       "name_ru": "Нур ад-Дин убивает Раймунда де Пуатье при Инабе",
       "description": "Nur ad-Din, consolidating his father's conquests and pressing the advantage from the Second Crusade's failure at Damascus, besieged the Antiochene fortress of Inab. Raymond of Poitiers marched to relieve it with a small force, allied with a contingent of Nizari Ismaili fighters, but refused to wait for reinforcements from Jerusalem or Tripoli, confident in his own generalship.\n\nNur ad-Din's much larger army surrounded Raymond's camp at night and destroyed it at dawn. Raymond himself was killed in the fighting, and his skull, according to Muslim chroniclers, was sent to the Abbasid caliph in Baghdad as a trophy. The defeat left the Principality of Antioch leaderless and stripped of its eastern territories, which Nur ad-Din annexed outright, permanently reducing Antioch to a fraction of its earlier size.",
       "description_ru": "Нур ад-Дин, закрепляя завоевания отца и пользуясь провалом Второго крестового похода под Дамаском, осадил антиохийскую крепость Инаб. Раймунд де Пуатье выступил на выручку с небольшим отрядом, при поддержке отряда низаритов-исмаилитов, но отказался дожидаться подкреплений из Иерусалима или Триполи, полагаясь на собственное полководческое искусство.\n\nЗначительно превосходящая армия Нур ад-Дина окружила лагерь Раймунда ночью и уничтожила его на рассвете. Сам Раймунд погиб в бою, и его череп, по свидетельствам мусульманских хронистов, был отправлен как трофей аббасидскому халифу в Багдад. Поражение оставило княжество Антиохийское без правителя и лишило его восточных земель, которые Нур ад-Дин присоединил напрямую, навсегда сократив Антиохию до малой доли прежних размеров.",
-      "latitude": 35.7000,
-      "longitude": 36.5500,
+      "latitude": 35.7,
+      "longitude": 36.55,
       "source": "https://en.wikipedia.org/wiki/Battle_of_Inab",
-      "tags": ["Crusades", "Levant", "Principality of Antioch", "Zengid", "Military", "Battle"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Principality of Antioch",
+        "Zengid",
+        "Military",
+        "Battle"
+      ]
     },
     {
       "date": "01.04.1150",
@@ -429,7 +582,14 @@
       "latitude": 37.1591,
       "longitude": 38.7969,
       "source": "https://en.wikipedia.org/wiki/County_of_Edessa",
-      "tags": ["Crusades", "Levant", "County of Edessa", "Zengid", "Byzantine Empire", "Political"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "County of Edessa",
+        "Zengid",
+        "Byzantine Empire",
+        "Political"
+      ]
     },
     {
       "date": "01.01.1153",
@@ -442,7 +602,13 @@
       "latitude": 36.2023,
       "longitude": 36.1613,
       "source": "https://en.wikipedia.org/wiki/Raynald_of_Ch%C3%A2tillon",
-      "tags": ["Crusades", "Levant", "Principality of Antioch", "Political", "Succession"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Principality of Antioch",
+        "Political",
+        "Succession"
+      ]
     },
     {
       "date": "01.04.1154",
@@ -455,7 +621,13 @@
       "latitude": 33.5138,
       "longitude": 36.2765,
       "source": "https://en.wikipedia.org/wiki/Nur_al-Din_Zengi",
-      "tags": ["Crusades", "Levant", "Zengid", "Kingdom of Jerusalem", "Political"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Zengid",
+        "Kingdom of Jerusalem",
+        "Political"
+      ]
     },
     {
       "date": "01.01.1156",
@@ -468,7 +640,13 @@
       "latitude": 35.1264,
       "longitude": 33.4299,
       "source": "https://en.wikipedia.org/wiki/Raynald_of_Ch%C3%A2tillon",
-      "tags": ["Crusades", "Levant", "Principality of Antioch", "Byzantine Empire", "Military"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Principality of Antioch",
+        "Byzantine Empire",
+        "Military"
+      ]
     },
     {
       "date": "01.04.1159",
@@ -481,7 +659,14 @@
       "latitude": 36.2023,
       "longitude": 36.1613,
       "source": "https://en.wikipedia.org/wiki/Manuel_I_Komnenos",
-      "tags": ["Crusades", "Levant", "Byzantine Empire", "Principality of Antioch", "Political", "Vassalage"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Byzantine Empire",
+        "Principality of Antioch",
+        "Political",
+        "Vassalage"
+      ]
     },
     {
       "date": "12.08.1164",
@@ -494,7 +679,15 @@
       "latitude": 36.2167,
       "longitude": 36.5333,
       "source": "https://en.wikipedia.org/wiki/Battle_of_Harim_(1164)",
-      "tags": ["Crusades", "Levant", "Principality of Antioch", "County of Tripoli", "Zengid", "Military", "Battle"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Principality of Antioch",
+        "County of Tripoli",
+        "Zengid",
+        "Military",
+        "Battle"
+      ]
     },
     {
       "date": "01.03.1169",
@@ -507,7 +700,13 @@
       "latitude": 30.0444,
       "longitude": 31.2357,
       "source": "https://en.wikipedia.org/wiki/Saladin",
-      "tags": ["Crusades", "Levant", "Fatimid", "Ayyubid", "Political"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Fatimid",
+        "Ayyubid",
+        "Political"
+      ]
     },
     {
       "date": "01.09.1171",
@@ -520,7 +719,14 @@
       "latitude": 30.0444,
       "longitude": 31.2357,
       "source": "https://en.wikipedia.org/wiki/Fatimid_Caliphate",
-      "tags": ["Crusades", "Levant", "Fatimid", "Ayyubid", "Political", "Religious"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Fatimid",
+        "Ayyubid",
+        "Political",
+        "Religious"
+      ]
     },
     {
       "date": "28.10.1174",
@@ -533,7 +739,13 @@
       "latitude": 33.5138,
       "longitude": 36.2765,
       "source": "https://en.wikipedia.org/wiki/Nur_al-Din_Zengi",
-      "tags": ["Crusades", "Levant", "Ayyubid", "Zengid", "Political"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Ayyubid",
+        "Zengid",
+        "Political"
+      ]
     },
     {
       "date": "25.11.1177",
@@ -546,7 +758,14 @@
       "latitude": 31.8656,
       "longitude": 34.9214,
       "source": "https://en.wikipedia.org/wiki/Battle_of_Montgisard",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Ayyubid", "Military", "Battle"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Ayyubid",
+        "Military",
+        "Battle"
+      ]
     },
     {
       "date": "01.01.1183",
@@ -559,7 +778,12 @@
       "latitude": 33.5138,
       "longitude": 36.2765,
       "source": "https://en.wikipedia.org/wiki/Usama_ibn_Munqidh",
-      "tags": ["Crusades", "Levant", "Cultural", "Ayyubid"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Cultural",
+        "Ayyubid"
+      ]
     },
     {
       "date": "01.01.1184",
@@ -572,7 +796,12 @@
       "latitude": 33.2704,
       "longitude": 35.2038,
       "source": "https://en.wikipedia.org/wiki/William_of_Tyre",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Cultural"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Cultural"
+      ]
     },
     {
       "date": "01.12.1186",
@@ -585,7 +814,13 @@
       "latitude": 31.1837,
       "longitude": 35.7048,
       "source": "https://en.wikipedia.org/wiki/Raynald_of_Ch%C3%A2tillon",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Ayyubid", "Military"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Ayyubid",
+        "Military"
+      ]
     },
     {
       "date": "04.07.1187",
@@ -598,20 +833,14 @@
       "latitude": 32.8181,
       "longitude": 35.4453,
       "source": "https://en.wikipedia.org/wiki/Battle_of_Hattin",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Ayyubid", "Military", "Battle"]
-    },
-    {
-      "date": "02.10.1187",
-      "era": "AD",
-      "type": "military",
-      "name": "Saladin Retakes Jerusalem",
-      "name_ru": "Салах ад-Дин отвоёвывает Иерусалим",
-      "description": "With the kingdom's army destroyed at Hattin, Saladin swept through the coastal cities and inland fortresses of the kingdom almost unopposed, and by autumn only Jerusalem itself, defended by knight Balian of Ibelin and a hastily armed population of refugees, still held out. After a short siege, Balian negotiated a surrender that avoided the massacre of 1099, ransoming most of the Christian inhabitants for a fixed price per person and allowing many to leave for the coast.\n\nSaladin entered the city peacefully, restored the al-Aqsa Mosque and Dome of the Rock to Islamic use after 88 years of Christian control, and permitted the Latin population's departure with a degree of mercy that contemporary chroniclers on both sides noted as deliberately contrasting with the crusaders' own conduct nearly a century earlier. The loss of Jerusalem, the entire purpose of the crusading movement, shocked Western Christendom and directly triggered the Third Crusade.",
-      "description_ru": "После разгрома королевской армии при Хаттине Салах ад-Дин почти без сопротивления прошёл через прибрежные города и внутренние крепости королевства, и к осени лишь сам Иерусалим, обороняемый рыцарем Балианом Ибелинским и наспех вооружённым населением беженцев, всё ещё держался. После недолгой осады Балиан договорился о капитуляции, избежавшей резни 1099 года: большинство христианских жителей выкупались за фиксированную плату с человека, многим позволили уйти на побережье.\n\nСалах ад-Дин мирно вступил в город, вернул мечеть аль-Акса и Купол Скалы исламскому использованию после 88 лет христианского владычества и позволил латинскому населению уйти с милосердием, которое современные хронисты обеих сторон отмечали как намеренный контраст поведению самих крестоносцев столетием ранее. Потеря Иерусалима — самой цели крестоносного движения — потрясла западный христианский мир и напрямую вызвала Третий крестовый поход.",
-      "latitude": 31.7683,
-      "longitude": 35.2137,
-      "source": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1187)",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Ayyubid", "Military", "Siege"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Ayyubid",
+        "Military",
+        "Battle"
+      ]
     },
     {
       "date": "14.11.1187",
@@ -624,7 +853,14 @@
       "latitude": 33.2704,
       "longitude": 35.2038,
       "source": "https://en.wikipedia.org/wiki/Conrad_of_Montferrat",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Ayyubid", "Military", "Siege"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Ayyubid",
+        "Military",
+        "Siege"
+      ]
     },
     {
       "date": "28.08.1189",
@@ -637,7 +873,14 @@
       "latitude": 32.9281,
       "longitude": 35.0818,
       "source": "https://en.wikipedia.org/wiki/Siege_of_Acre_(1189%E2%80%931191)",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Ayyubid", "Political", "Siege"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Ayyubid",
+        "Political",
+        "Siege"
+      ]
     },
     {
       "date": "01.01.1190",
@@ -650,7 +893,14 @@
       "latitude": 32.9281,
       "longitude": 35.0818,
       "source": "https://en.wikipedia.org/wiki/Teutonic_Order",
-      "tags": ["Crusades", "Levant", "Religious", "Military Order", "Foundation", "Teutonic Order"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Religious",
+        "Military Order",
+        "Foundation",
+        "Teutonic Order"
+      ]
     },
     {
       "date": "20.08.1191",
@@ -663,7 +913,14 @@
       "latitude": 32.9281,
       "longitude": 35.0818,
       "source": "https://en.wikipedia.org/wiki/Massacre_at_Ayyadieh",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Ayyubid", "Military", "Massacre"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Ayyubid",
+        "Military",
+        "Massacre"
+      ]
     },
     {
       "date": "07.09.1191",
@@ -676,7 +933,14 @@
       "latitude": 32.1947,
       "longitude": 34.8083,
       "source": "https://en.wikipedia.org/wiki/Battle_of_Arsuf",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Ayyubid", "Military", "Battle"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Ayyubid",
+        "Military",
+        "Battle"
+      ]
     },
     {
       "date": "28.04.1192",
@@ -689,7 +953,13 @@
       "latitude": 33.2704,
       "longitude": 35.2038,
       "source": "https://en.wikipedia.org/wiki/Conrad_of_Montferrat",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Political", "Assassination"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Political",
+        "Assassination"
+      ]
     },
     {
       "date": "01.05.1192",
@@ -702,7 +972,13 @@
       "latitude": 35.1856,
       "longitude": 33.3823,
       "source": "https://en.wikipedia.org/wiki/Kingdom_of_Cyprus",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Political", "Foundation"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Political",
+        "Foundation"
+      ]
     },
     {
       "date": "02.09.1192",
@@ -715,7 +991,14 @@
       "latitude": 32.0523,
       "longitude": 34.7519,
       "source": "https://en.wikipedia.org/wiki/Treaty_of_Jaffa_(1192)",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Ayyubid", "Political", "Treaty"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Ayyubid",
+        "Political",
+        "Treaty"
+      ]
     },
     {
       "date": "29.08.1221",
@@ -728,20 +1011,14 @@
       "latitude": 31.4165,
       "longitude": 31.8133,
       "source": "https://en.wikipedia.org/wiki/Fifth_Crusade",
-      "tags": ["Crusades", "Levant", "Ayyubid", "Papacy", "Military", "Siege"]
-    },
-    {
-      "date": "18.02.1229",
-      "era": "AD",
-      "type": "political",
-      "name": "Frederick II Recovers Jerusalem by Treaty",
-      "name_ru": "Фридрих II возвращает Иерусалим по договору",
-      "description": "Holy Roman Emperor Frederick II, excommunicated by Pope Gregory IX for repeatedly delaying his promised crusade and then leading it anyway while under the ban, arrived in Acre with a small force insufficient for any major military campaign. He turned instead to diplomacy, negotiating directly with the Ayyubid sultan al-Kamil, who needed a free hand against his own rival relatives and had no desire for a costly war over a city with limited strategic value.\n\nThe resulting treaty returned Jerusalem to Christian control along with a corridor connecting it to the coast, but left the Temple Mount's Muslim holy sites under Islamic administration in an unusual arrangement of shared religious authority. Frederick, still excommunicated, crowned himself King of Jerusalem in a ceremony boycotted by the local clergy and Patriarch, having recovered the crusading movement's central goal through negotiation rather than the holy war it was meant to be.",
-      "description_ru": "Император Священной Римской империи Фридрих II, отлучённый папой Григорием IX за неоднократные проволочки с обещанным крестовым походом, а затем всё же возглавивший его, находясь под отлучением, прибыл в Акру с небольшим войском, недостаточным для сколько-нибудь крупной военной кампании. Вместо этого он обратился к дипломатии, ведя переговоры напрямую с айюбидским султаном аль-Камилем, которому требовались развязанные руки против собственных родственников-соперников и вовсе не нужна была дорогостоящая война за город с ограниченным стратегическим значением.\n\nИтоговый договор вернул Иерусалим под христианский контроль вместе с коридором, соединяющим его с побережьем, но оставил мусульманские святыни Храмовой горы под исламским управлением — необычное соглашение о разделённой религиозной власти. Фридрих, всё ещё отлучённый от церкви, короновал себя королём Иерусалима на церемонии, бойкотированной местным духовенством и патриархом, добившись центральной цели крестоносного движения путём переговоров, а не той священной войны, ради которой оно задумывалось.",
-      "latitude": 31.7683,
-      "longitude": 35.2137,
-      "source": "https://en.wikipedia.org/wiki/Sixth_Crusade",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Ayyubid", "Political", "Treaty"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Ayyubid",
+        "Papacy",
+        "Military",
+        "Siege"
+      ]
     },
     {
       "date": "23.08.1244",
@@ -754,7 +1031,14 @@
       "latitude": 31.7683,
       "longitude": 35.2137,
       "source": "https://en.wikipedia.org/wiki/Seventh_Crusade",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Ayyubid", "Military", "Massacre"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Ayyubid",
+        "Military",
+        "Massacre"
+      ]
     },
     {
       "date": "17.10.1244",
@@ -764,23 +1048,17 @@
       "name_ru": "Полевая армия крестоносцев уничтожена при Ла-Форбии",
       "description": "In response to the sack of Jerusalem, the Kingdom of Jerusalem allied with the breakaway Ayyubid rulers of Damascus, Homs, and Kerak, who feared as-Salih Ayyub's growing power as much as the Franks did, and marched out to confront the Egyptian sultan's army near the village of La Forbie. As-Salih's forces, reinforced by the same Khwarezmian mercenaries who had just sacked Jerusalem, met the combined Christian-Ayyubid coalition in open battle.\n\nThe coalition army was almost completely destroyed, with the Templars and Hospitallers losing the overwhelming majority of their knights present, a blow from which the military orders never fully recovered their previous numbers. La Forbie, though far less famous than Hattin, was in some respects an even more complete military disaster, ending the Kingdom of Jerusalem's ability to field a meaningful army of its own and directly prompting Louis IX of France to organize the Seventh Crusade.",
       "description_ru": "В ответ на разорение Иерусалима Иерусалимское королевство заключило союз с отколовшимися айюбидскими правителями Дамаска, Хомса и Керака, опасавшимися растущей мощи ас-Салиха Айюба не меньше, чем сами франки, и выступило навстречу армии египетского султана близ деревни Ла-Форбия. Силы ас-Салиха, усиленные теми же хорезмийскими наёмниками, что только что разорили Иерусалим, встретили объединённую христианско-айюбидскую коалицию в открытом бою.\n\nВойско коалиции было почти полностью уничтожено: тамплиеры и госпитальеры потеряли подавляющее большинство присутствовавших рыцарей — удар, после которого военные ордена так и не восстановили прежнюю численность. Ла-Форбия, хотя и куда менее известная, чем Хаттин, в некоторых отношениях стала ещё более полной военной катастрофой, покончив со способностью Иерусалимского королевства выставлять сколько-нибудь значимое войско и напрямую подтолкнув Людовика IX Французского к организации Седьмого крестового похода.",
-      "latitude": 31.3500,
-      "longitude": 34.3500,
+      "latitude": 31.35,
+      "longitude": 34.35,
       "source": "https://en.wikipedia.org/wiki/Battle_of_La_Forbie",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Ayyubid", "Military", "Battle"]
-    },
-    {
-      "date": "06.04.1250",
-      "era": "AD",
-      "type": "military",
-      "name": "Louis IX Is Captured During the Retreat from Mansura",
-      "name_ru": "Людовик IX попадает в плен во время отступления от Мансуры",
-      "description": "Following the model of the Fifth Crusade, King Louis IX of France landed his army in Egypt and marched on Cairo, defeating an Ayyubid force outside the town of Mansura in February 1250. His brother Robert of Artois, however, pressed the pursuit recklessly into the town itself against orders and was killed there along with most of the Templar knights present, when Mamluk soldiers under Baibars trapped and destroyed the overextended vanguard in the narrow streets.\n\nWith the crusader army weakened and disease spreading through its camp, Louis attempted to retreat toward Damietta along the Nile, but Egyptian forces harried the column continuously and finally surrounded it near Fariskur. Louis himself, too sick to ride, was captured along with most of his surviving nobles, and the crusade's fate was settled: he was ransomed the following month for an enormous sum and the return of Damietta, ending the Seventh Crusade's Egyptian campaign in humiliating failure.",
-      "description_ru": "Следуя примеру Пятого крестового похода, король Франции Людовик IX высадил войско в Египте и двинулся на Каир, разбив айюбидские силы у города Мансура в феврале 1250 года. Однако его брат Робер д'Артуа, вопреки приказу, безрассудно продолжил преследование прямо в город и погиб там вместе с большинством присутствовавших рыцарей-тамплиеров, когда мамлюкские воины под началом Бейбарса заперли и уничтожили оторвавшийся авангард на узких улицах.\n\nОслабленное войско крестоносцев, охваченное к тому же болезнями, попыталось отступить к Дамиетте вдоль Нила, но египетские силы непрерывно теснили колонну и наконец окружили её у Фарискура. Сам Людовик, слишком больной, чтобы ехать верхом, попал в плен вместе с большинством уцелевшей знати, и судьба похода была решена: месяц спустя его выкупили за огромную сумму и возврат Дамиетты, завершив египетскую кампанию Седьмого крестового похода унизительным провалом.",
-      "latitude": 31.0409,
-      "longitude": 31.3785,
-      "source": "https://en.wikipedia.org/wiki/Battle_of_Mansurah_(1250)",
-      "tags": ["Crusades", "Levant", "Ayyubid", "Military", "Battle"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Ayyubid",
+        "Military",
+        "Battle"
+      ]
     },
     {
       "date": "02.05.1250",
@@ -788,12 +1066,18 @@
       "type": "political",
       "name": "Mamluks Seize Power in Egypt",
       "name_ru": "Мамлюки захватывают власть в Египте",
-      "description": "As-Salih Ayyub had died during the Seventh Crusade's campaign, and his death was concealed by his widow, Shajar al-Durr, until his son Turanshah could be brought from Syria to take the throne. Turanshah, once installed, moved quickly to sideline the Mamluk officers, elite slave-soldiers who had actually won the victories over Louis IX's army, threatening the men who had just captured a King of France.\n\nThe Mamluk commanders assassinated Turanshah at a banquet, and Shajar al-Durr, herself a former slave concubine, was proclaimed sultana in his place before Mamluk officers, including Aybak and later Qutuz and Baibars, consolidated direct military rule. The coup ended nearly eighty years of Ayyubid rule founded by Saladin and established the Mamluk Sultanate, a state ruled by former slave-soldiers rather than a hereditary dynasty, which would soon prove the most formidable military power the Crusader states had yet faced.",
-      "description_ru": "Ас-Салих Айюб скончался во время кампании Седьмого крестового похода, и его вдова Шаджар ад-Дурр скрывала смерть, пока сына Туран-шаха не доставили из Сирии, чтобы возвести на престол. Едва утвердившись у власти, Туран-шах поспешил оттеснить мамлюкских военачальников — элитных воинов-рабов, фактически одержавших победы над войском Людовика IX, — угрожая людям, только что пленившим короля Франции.\n\nМамлюкские командиры убили Туран-шаха на пиру, и Шаджар ад-Дурр, сама бывшая рабыня-наложница, была провозглашена султаншей вместо него, прежде чем мамлюкские офицеры, включая Айбека, а затем Кутуза и Бейбарса, утвердили прямое военное правление. Переворот положил конец почти восьмидесятилетнему правлению основанной Салах ад-Дином династии Айюбидов и учредил мамлюкский султанат — государство, управляемое бывшими воинами-рабами, а не наследственной династией, — которому вскоре предстояло стать самой грозной военной силой, с какой сталкивались государства крестоносцев.",
+      "description": "As-Salih Ayyub had died during the Seventh Crusade's campaign, and his death was concealed by his widow, Shajar al-Durr, until his son Turanshah could be brought from Syria to take the throne. Turanshah, once installed, moved quickly to sideline the Mamluk officers, elite slave-soldiers who had actually won the victories over Louis IX's army and captured the French king himself during the retreat from Mansura on 6 April, threatening the very men responsible for that triumph.\n\nThe Mamluk commanders assassinated Turanshah at a banquet, and Shajar al-Durr, herself a former slave concubine, was proclaimed sultana in his place before Mamluk officers, including Aybak and later Qutuz and Baibars, consolidated direct military rule. The coup ended nearly eighty years of Ayyubid rule founded by Saladin and established the Mamluk Sultanate, a state ruled by former slave-soldiers rather than a hereditary dynasty, which would soon prove the most formidable military power the Crusader states had yet faced.",
+      "description_ru": "Ас-Салих Айюб скончался во время кампании Седьмого крестового похода, и его вдова Шаджар ад-Дурр скрывала смерть, пока сына Туран-шаха не доставили из Сирии, чтобы возвести на престол. Едва утвердившись у власти, Туран-шах поспешил оттеснить мамлюкских военачальников — элитных воинов-рабов, фактически одержавших победы над войском Людовика IX и пленивших самого французского короля во время отступления от Мансуры 6 апреля, — угрожая людям, ответственным за этот триумф.\n\nМамлюкские командиры убили Туран-шаха на пиру, и Шаджар ад-Дурр, сама бывшая рабыня-наложница, была провозглашена султаншей вместо него, прежде чем мамлюкские офицеры, включая Айбека, а затем Кутуза и Бейбарса, утвердили прямое военное правление. Переворот положил конец почти восьмидесятилетнему правлению основанной Салах ад-Дином династии Айюбидов и учредил мамлюкский султанат — государство, управляемое бывшими воинами-рабами, а не наследственной династией, — которому вскоре предстояло стать самой грозной военной силой, с какой сталкивались государства крестоносцев.",
       "latitude": 30.0444,
       "longitude": 31.2357,
       "source": "https://en.wikipedia.org/wiki/Mamluk_Sultanate_(Cairo)",
-      "tags": ["Crusades", "Levant", "Ayyubid", "Mamluk", "Political"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Ayyubid",
+        "Mamluk",
+        "Political"
+      ]
     },
     {
       "date": "10.02.1258",
@@ -806,7 +1090,13 @@
       "latitude": 33.3152,
       "longitude": 44.3661,
       "source": "https://en.wikipedia.org/wiki/Siege_of_Baghdad_(1258)",
-      "tags": ["Crusades", "Levant", "Mongol", "Military", "Siege"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Mongol",
+        "Military",
+        "Siege"
+      ]
     },
     {
       "date": "01.01.1260",
@@ -819,7 +1109,14 @@
       "latitude": 36.2023,
       "longitude": 36.1613,
       "source": "https://en.wikipedia.org/wiki/Bohemond_VI_of_Antioch",
-      "tags": ["Crusades", "Levant", "Principality of Antioch", "Mongol", "Political", "Vassalage"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Principality of Antioch",
+        "Mongol",
+        "Political",
+        "Vassalage"
+      ]
     },
     {
       "date": "03.09.1260",
@@ -832,7 +1129,14 @@
       "latitude": 32.5386,
       "longitude": 35.3919,
       "source": "https://en.wikipedia.org/wiki/Battle_of_Ain_Jalut",
-      "tags": ["Crusades", "Levant", "Mongol", "Mamluk", "Military", "Battle"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Mongol",
+        "Mamluk",
+        "Military",
+        "Battle"
+      ]
     },
     {
       "date": "24.10.1260",
@@ -845,7 +1149,12 @@
       "latitude": 30.0444,
       "longitude": 31.2357,
       "source": "https://en.wikipedia.org/wiki/Baibars",
-      "tags": ["Crusades", "Levant", "Mamluk", "Political"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Mamluk",
+        "Political"
+      ]
     },
     {
       "date": "18.05.1268",
@@ -858,20 +1167,15 @@
       "latitude": 36.2023,
       "longitude": 36.1613,
       "source": "https://en.wikipedia.org/wiki/Siege_of_Antioch_(1268)",
-      "tags": ["Crusades", "Levant", "Principality of Antioch", "Mamluk", "Military", "Siege", "Massacre"]
-    },
-    {
-      "date": "25.08.1270",
-      "era": "AD",
-      "type": "political",
-      "name": "Louis IX Dies at Tunis, Ending the Eighth Crusade",
-      "name_ru": "Людовик IX умирает в Тунисе, обрывая Восьмой крестовый поход",
-      "description": "Twenty years after his humiliating capture in Egypt, Louis IX of France organized a new crusade, but rather than sailing directly for the Holy Land or Egypt, he was persuaded, possibly by his brother Charles of Anjou's ambitions in the central Mediterranean, to land the army first at Tunis in North Africa, hoping to convert its Hafsid ruler to Christianity and use the region as a base.\n\nThe crusader army, encamped in the ruins of ancient Carthage through the height of summer with poor water and no clear military objective, was devastated by dysentery and other disease before a single significant battle was fought. Louis himself sickened and died in his camp outside Tunis, and the surviving army, under his son and heir Philip III, abandoned the campaign entirely and sailed home without ever reaching the Levant, leaving the beleaguered remnants of the Crusader states without the reinforcement they desperately needed.",
-      "description_ru": "Спустя двадцать лет после унизительного пленения в Египте Людовик IX Французский организовал новый поход, но вместо того, чтобы плыть прямиком к Святой земле или в Египет, его убедили — возможно, из-за амбиций его брата Карла Анжуйского в центральном Средиземноморье — высадить войско сначала в Тунисе в Северной Африке, надеясь обратить в христианство его хафсидского правителя и использовать регион как базу.\n\nВойско крестоносцев, разбившее лагерь среди руин древнего Карфагена в разгар лета, страдая от нехватки воды и не имея ясной военной цели, было опустошено дизентерией и другими болезнями ещё до какого-либо значимого сражения. Сам Людовик заболел и умер в своём лагере под Тунисом, а уцелевшее войско под началом его сына и наследника Филиппа III полностью отказалось от похода и отплыло домой, так и не достигнув Леванта, оставив осаждённые остатки государств крестоносцев без столь отчаянно нужного им подкрепления.",
-      "latitude": 36.8065,
-      "longitude": 10.1815,
-      "source": "https://en.wikipedia.org/wiki/Louis_IX_of_France",
-      "tags": ["Crusades", "Levant", "Political"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "Principality of Antioch",
+        "Mamluk",
+        "Military",
+        "Siege",
+        "Massacre"
+      ]
     },
     {
       "date": "08.04.1271",
@@ -884,7 +1188,15 @@
       "latitude": 34.7572,
       "longitude": 36.2925,
       "source": "https://en.wikipedia.org/wiki/Krak_des_Chevaliers",
-      "tags": ["Crusades", "Levant", "County of Tripoli", "Mamluk", "Military", "Knights Hospitaller", "Siege"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "County of Tripoli",
+        "Mamluk",
+        "Military",
+        "Knights Hospitaller",
+        "Siege"
+      ]
     },
     {
       "date": "27.04.1289",
@@ -892,25 +1204,19 @@
       "type": "military",
       "name": "Qalawun Conquers Tripoli, Ending the County",
       "name_ru": "Калаун завоёвывает Триполи, кладя конец графству",
-      "description": "Mamluk Sultan Qalawun, who had already forced most of the remaining Crusader coastal towns into tributary submission through a series of truces broken whenever convenient, moved against Tripoli itself after Countess Lucia's government appealed to Genoa for protection in a way that alarmed him as a potential foreign foothold. Qalawun's army bombarded the city's walls with siege engines while a Mamluk fleet blocked any escape or reinforcement by sea.\n\nWhen the walls finally collapsed, Mamluk troops stormed the city and killed or enslaved much of the population; those who could reach the harbor in time fled by ship, including to the small island of Saint Thomas just offshore, which the Mamluks also stormed soon after. Qalawun then ordered Tripoli's fortifications razed and had a new inland settlement built to replace it, ensuring the coastal city could never again serve as a Crusader or Genoese stronghold. Only Acre and a handful of minor outposts remained of the Crusader states.",
-      "description_ru": "Мамлюкский султан Калаун, уже принудивший большинство оставшихся прибрежных крестоносных городов к данническому подчинению через череду перемирий, нарушавшихся при удобном случае, двинулся против самого Триполи после того, как правительство графини Лючии обратилось за защитой к Генуе — что встревожило его как возможный иностранный плацдарм. Войско Калауна обстреливало стены города осадными машинами, пока мамлюкский флот блокировал любое бегство или подкрепление с моря.\n\nКогда стены наконец рухнули, мамлюкские войска ворвались в город и убили или обратили в рабство большую часть населения; те, кто успел добраться до гавани, бежали на кораблях, в том числе на небольшой островок Святого Фомы неподалёку от берега, который мамлюки вскоре тоже взяли штурмом. Затем Калаун приказал сравнять укрепления Триполи с землёй и построить новое поселение вглубь суши взамен, обеспечив, что прибрежный город уже никогда не станет опорным пунктом крестоносцев или генуэзцев. От государств крестоносцев остались лишь Акра и горстка второстепенных форпостов.",
+      "description": "Mamluk Sultan Qalawun, who had already forced most of the remaining Crusader coastal towns into tributary submission through a series of truces broken whenever convenient, moved against Tripoli itself after Countess Lucia's government appealed to Genoa for protection in a way that alarmed him as a potential foreign foothold. Qalawun's army bombarded the city's walls with siege engines while a Mamluk fleet blocked any escape or reinforcement by sea.\n\nWhen the walls finally collapsed, Mamluk troops stormed the city and killed or enslaved much of the population; those who could reach the harbor in time fled by ship, including to the small island of Saint Thomas just offshore, which the Mamluks also stormed soon after. Qalawun then ordered Tripoli's fortifications razed and had a new inland settlement built to replace it, ensuring the coastal city could never again serve as a Crusader or Genoese stronghold. Only Acre and a handful of minor outposts remained of the Crusader states, and Acre's own fall was barely two years away.",
+      "description_ru": "Мамлюкский султан Калаун, уже принудивший большинство оставшихся прибрежных крестоносных городов к данническому подчинению через череду перемирий, нарушавшихся при удобном случае, двинулся против самого Триполи после того, как правительство графини Лючии обратилось за защитой к Генуе — что встревожило его как возможный иностранный плацдарм. Войско Калауна обстреливало стены города осадными машинами, пока мамлюкский флот блокировал любое бегство или подкрепление с моря.\n\nКогда стены наконец рухнули, мамлюкские войска ворвались в город и убили или обратили в рабство большую часть населения; те, кто успел добраться до гавани, бежали на кораблях, в том числе на небольшой островок Святого Фомы неподалёку от берега, который мамлюки вскоре тоже взяли штурмом. Затем Калаун приказал сравнять укрепления Триполи с землёй и построить новое поселение вглубь суши взамен, обеспечив, что прибрежный город уже никогда не станет опорным пунктом крестоносцев или генуэзцев. От государств крестоносцев остались лишь Акра и горстка второстепенных форпостов, и до падения самой Акры оставалось едва ли два года.",
       "latitude": 34.4346,
       "longitude": 35.8362,
       "source": "https://en.wikipedia.org/wiki/Fall_of_Tripoli_(1289)",
-      "tags": ["Crusades", "Levant", "County of Tripoli", "Mamluk", "Military", "Siege"]
-    },
-    {
-      "date": "18.05.1291",
-      "era": "AD",
-      "type": "military",
-      "name": "Sultan Khalil Conquers Acre, Ending the Crusader States",
-      "name_ru": "Султан аль-Ашраф Халиль завоёвывает Акру, кладя конец государствам крестоносцев",
-      "description": "Mamluk Sultan al-Ashraf Khalil, son of Qalawun, gathered an enormous army and a full siege train to finish what his father had begun, besieging Acre, the last significant Crusader capital, after Frankish knights had massacred Muslim merchants in the city and given him a pretext for war. Despite reinforcements from Cyprus and desperate resistance by the Templars, Hospitallers, and Teutonic Knights, the sheer scale of the Mamluk siege engines and repeated assaults gradually wore down the walls and the defenders.\n\nWhen the main city finally fell, the last Templar knights held out for days longer in their fortified compound by the harbor before it too collapsed, killing most of the defenders and many refugees sheltering inside. Survivors who reached ships in the harbor escaped to Cyprus, but the vast majority of Acre's population was killed or enslaved. With Acre's fall, the last mainland Crusader state ceased to exist, 196 years after Urban II's sermon at Clermont had set the whole enterprise in motion.",
-      "description_ru": "Мамлюкский султан аль-Ашраф Халиль, сын Калауна, собрал огромное войско и полный осадный парк, чтобы завершить дело отца, осадив Акру — последнюю значимую столицу крестоносцев, — после того как франкские рыцари устроили резню мусульманских купцов в городе, дав ему повод для войны. Несмотря на подкрепления с Кипра и отчаянное сопротивление тамплиеров, госпитальеров и тевтонских рыцарей, огромный масштаб мамлюкских осадных машин и непрестанные штурмы постепенно измотали стены и защитников.\n\nКогда основной город наконец пал, последние рыцари-тамплиеры продержались ещё несколько дней в укреплённом комплексе у гавани, прежде чем и он рухнул, погубив большинство защитников и множество укрывшихся внутри беженцев. Уцелевшие, добравшиеся до кораблей в гавани, спаслись на Кипр, но подавляющее большинство населения Акры было убито или обращено в рабство. С падением Акры последнее материковое государство крестоносцев прекратило существование — спустя 196 лет после проповеди Урбана II в Клермоне, положившей начало всему предприятию.",
-      "latitude": 32.9281,
-      "longitude": 35.0818,
-      "source": "https://en.wikipedia.org/wiki/Siege_of_Acre_(1291)",
-      "tags": ["Crusades", "Levant", "Kingdom of Jerusalem", "Mamluk", "Military", "Siege"]
+      "tags": [
+        "Crusades",
+        "Levant",
+        "County of Tripoli",
+        "Mamluk",
+        "Military",
+        "Siege"
+      ]
     }
   ]
 }
