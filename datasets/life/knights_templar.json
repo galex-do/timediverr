@@ -1,0 +1,223 @@
+{
+  "description": "Alongside their sister order the Hospitallers, the Knights Templar embodied the Crusades' fusion of monk and soldier for nearly two centuries: founded to guard pilgrim roads to Jerusalem, endowed by grateful kings and popes with sweeping independence and vast wealth, and eventually operating one of medieval Europe's first true international banking networks from their commanderies. This dataset traces the milestones between the order's foundational privileges — the Council of Troyes, the papal bull Omne datum optimum, and its pioneering role as banker to the French crown — and its final decades: the loss of its Levantine fortresses at Safed, Acre, and Ruad, its dissolution under Philip IV of France and Pope Clement V, and its surprising afterlife as the Order of Christ in Portugal.",
+  "filename": "knights_templar.json",
+  "events": [
+    {
+      "date": "13.01.1129",
+      "era": "AD",
+      "type": "religious",
+      "name": "The Council of Troyes Grants the Templars Their Rule",
+      "name_ru": "Собор в Труа даёт тамплиерам устав",
+      "description": "Ten years after Hugues de Payens and eight companions took vows to protect pilgrims on the roads to Jerusalem, Bernard of Clairvaux convened a council of French bishops and abbots at Troyes to formalize the fledgling order's status. Hugues travelled from the Holy Land to petition the assembly in person, presenting an order that, according to the chronicler William of Tyre, still numbered only nine knights after a full decade of existence. With Bernard's considerable influence behind it, the council approved a Latin Rule modeled on the Rule of Saint Benedict, binding the Templars to poverty, chastity, and obedience while explicitly permitting them to bear arms in defense of pilgrims.\n\nBernard followed the council with a widely circulated tract, In Praise of the New Knighthood, defending the unprecedented fusion of monk and soldier against critics who saw it as a contradiction in terms. The Rule gave the Templars their first formal identity as a religious order rather than a loose band of pious knights, and Bernard's advocacy opened the door to the recruits, land grants, and noble patronage that transformed the tiny brotherhood into medieval Europe's most formidable military order within a generation.",
+      "description_ru": "Через десять лет после того, как Гуго де Пейн и восемь его товарищей дали обеты защищать паломников на дорогах к Иерусалиму, Бернард Клервоский созвал в Труа собор французских епископов и аббатов, чтобы официально определить статус молодого ордена. Гуго лично прибыл из Святой земли, чтобы обратиться к собранию с прошением, представляя орден, который, по свидетельству хрониста Вильгельма Тирского, спустя целое десятилетие существования по-прежнему насчитывал всего девять рыцарей. Благодаря значительному влиянию Бернарда собор утвердил латинский устав, составленный по образцу устава святого Бенедикта, обязывавший тамплиеров к бедности, целомудрию и послушанию, но при этом прямо разрешавший им носить оружие для защиты паломников.\n\nВслед за собором Бернард выпустил широко разошедшийся трактат «Похвала новому рыцарству», отстаивая невиданное прежде соединение монаха и воина перед критиками, видевшими в этом внутреннее противоречие. Устав впервые дал тамплиерам официальный статус религиозного ордена, а не просто объединения благочестивых рыцарей, и поддержка Бернарда открыла дорогу притоку новобранцев, земельным пожалованиям и покровительству знати, за одно поколение превратившим крошечное братство в самый грозный военный орден средневековой Европы.",
+      "latitude": 48.2973,
+      "longitude": 4.0744,
+      "source": "https://en.wikipedia.org/wiki/Council_of_Troyes_(1129)",
+      "tags": [
+        "Knights Templar",
+        "Religious",
+        "Foundation",
+        "Military Order",
+        "French",
+        "Crusades"
+      ]
+    },
+    {
+      "date": "29.03.1139",
+      "era": "AD",
+      "type": "religious",
+      "name": "Pope Innocent II Frees the Templars from Outside Authority",
+      "name_ru": "Папа Иннокентий II освобождает тамплиеров от внешней власти",
+      "description": "By the late 1130s, the Templars' growing wealth and privileges had drawn resentment from bishops who saw tithes and donations flowing to the order instead of their own dioceses, and Grand Master Robert de Craon judged that only direct papal protection could secure the young order's future. Pope Innocent II answered with the bull Omne datum optimum, placing the Templars beyond the authority of any bishop or secular king and subjecting them to the pope alone. The bull let the Templars build their own churches and cemeteries, keep chaplains empowered to hear confession and grant absolution, and claim as their own whatever spoils they captured from Muslim forces — an extraordinary bundle of privileges for a still-young military order.\n\nInnocent's successors reinforced the grant within a few years, with Celestine II's Milites Templi in 1144 and Eugene III's Militia Dei in 1145 adding further exemptions and inviting bishops across Christendom to grant the order indulgences and donations. Together these bulls freed the Templars from local ecclesiastical control in every kingdom where they held property, giving them the legal independence to build the international network of estates, castles, and financial operations that made the order a power in its own right.",
+      "description_ru": "К концу 1130-х годов растущее богатство и привилегии тамплиеров вызывали недовольство епископов, видевших, что десятины и пожертвования уходят ордену вместо их собственных епархий, и великий магистр Робер де Краон рассудил, что обеспечить будущее молодого ордена способно лишь прямое папское покровительство. Папа Иннокентий II ответил буллой Omne datum optimum, выведя тамплиеров из-под власти любого епископа или светского короля и подчинив их только папе. Булла разрешала тамплиерам строить собственные церкви и кладбища, держать капелланов, уполномоченных принимать исповедь и отпускать грехи, и оставлять себе всю добычу, захваченную у мусульманских сил, — необычайный набор привилегий для всё ещё молодого военного ордена.\n\nПреемники Иннокентия закрепили этот дар в последующие годы: булла Milites Templi Целестина II в 1144 году и Militia Dei Евгения III в 1145 году добавили новые льготы и призвали епископов по всему христианскому миру жаловать ордену индульгенции и пожертвования. Вместе эти буллы освободили тамплиеров от местного церковного контроля в каждом королевстве, где они владели имуществом, дав им юридическую самостоятельность для построения международной сети владений, замков и финансовых операций, превративших орден в самостоятельную силу.",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "source": "https://en.wikipedia.org/wiki/Omne_datum_optimum",
+      "tags": [
+        "Knights Templar",
+        "Papal",
+        "Religious",
+        "Political"
+      ]
+    },
+    {
+      "date": "01.05.1148",
+      "era": "AD",
+      "type": "historic",
+      "name": "Louis VII Borrows from the Templars to Save the Second Crusade",
+      "name_ru": "Людовик VII занимает деньги у тамплиеров, чтобы спасти Второй крестовый поход",
+      "description": "By the spring of 1148, King Louis VII of France had led the remnants of his army to the Holy Land after a disastrous march across Anatolia had cost him most of his men and nearly all of his money. Facing the prospect of abandoning the crusade for want of funds, Louis turned to Everard des Barres, the Templars' master in France who had accompanied him from the start, and asked for a loan to keep the campaign alive. Everard arranged for the order to advance the sum from its own reserves and against the credit of Templar houses back in France, a service so consequential that he himself was elected Grand Master of the whole order the following year, largely on the strength of his ties to the French crown.\n\nThe arrangement was one of the first times a European monarch relied on the Templars' network of houses and transportable wealth as a de facto bank rather than as mere soldiers, foreshadowing the order's later role holding royal treasuries and issuing letters of credit for travelers across Christendom. Though the Second Crusade itself collapsed later that year at the failed siege of Damascus, the loan cemented a financial relationship between the Capetian monarchy and the Temple that endured until Philip IV's arrests in 1307.",
+      "description_ru": "К весне 1148 года король Франции Людовик VII привёл остатки своего войска в Святую землю после катастрофического перехода через Анатолию, стоившего ему большей части людей и почти всех денег. Столкнувшись с перспективой прервать поход из-за нехватки средств, Людовик обратился к Эврару де Барру, магистру тамплиеров во Франции, сопровождавшему его с самого начала похода, с просьбой о займе, чтобы продолжить кампанию. Эврар устроил так, что орден выделил эту сумму из собственных резервов и под залог владений тамплиеров во Франции — услуга оказалась настолько значимой, что уже в следующем году он был избран великим магистром всего ордена во многом благодаря своим связям с французской короной.\n\nЭта сделка стала одним из первых случаев, когда европейский монарх обратился к сети домов и переводимого богатства тамплиеров как к фактическому банку, а не просто к военной силе, — предвестием будущей роли ордена как хранителя королевских казн и эмитента кредитных писем для путешественников по всему христианскому миру. Хотя сам Второй крестовый поход провалился в том же году после неудачной осады Дамаска, этот заём скрепил финансовые отношения между династией Капетингов и Храмом, продлившиеся вплоть до арестов Филиппа IV в 1307 году.",
+      "latitude": 32.9281,
+      "longitude": 35.0818,
+      "source": "https://en.wikipedia.org/wiki/Everard_des_Barres",
+      "tags": [
+        "Knights Templar",
+        "Crusades",
+        "Banking",
+        "French",
+        "Levant"
+      ]
+    },
+    {
+      "date": "16.08.1153",
+      "era": "AD",
+      "type": "military",
+      "name": "Grand Master Bernard de Tremelay's Fatal Charge at Ascalon",
+      "name_ru": "Роковой штурм великого магистра Бернара де Тремеле у Аскалона",
+      "description": "By 1153 Ascalon was the last stretch of Mediterranean coastline still in Fatimid Egyptian hands, a fortified springboard the Fatimids used to raid the Kingdom of Jerusalem, and King Baldwin III had kept it under siege since January without much success. On 16 August a fire meant to destroy a Crusader siege tower blew back against Ascalon's own wall instead, collapsing a section of it, and Grand Master Bernard de Tremelay led a party of about forty Templars through the breach before the rest of the army could follow. The garrison sealed the gap behind them and killed every Templar who had entered, including Bernard himself, hanging their bodies from the walls the next morning as a warning to the besiegers.\n\nRather than breaking the siege, the massacre only hardened the Crusaders' resolve, and after three more days of fighting Ascalon's population negotiated a surrender, leaving the city to Baldwin III on 22 August. Bernard's death was one of the few times a Templar Grand Master fell in battle before the order's final destruction, and the episode became an early example of the reckless individual bravado — and rigid order discipline — for which Templar knights were both celebrated and criticized throughout the Crusades.",
+      "description_ru": "К 1153 году Аскалон оставался последним участком средиземноморского побережья в руках фатимидского Египта — укреплённым плацдармом, откуда фатимиды совершали набеги на Иерусалимское королевство, — и король Балдуин III с января безуспешно держал его в осаде. 16 августа огонь, предназначенный для уничтожения осадной башни крестоносцев, отнесло ветром обратно на стену самого Аскалона, обрушив её часть, и великий магистр Бернар де Тремеле повёл около сорока тамплиеров в пролом, прежде чем остальное войско успело последовать за ними. Гарнизон закрыл проход за их спинами и перебил всех вошедших тамплиеров, включая самого Бернара, а на следующее утро вывесил их тела на стенах в назидание осаждающим.\n\nВместо того чтобы сломить осаду, эта резня лишь укрепила решимость крестоносцев, и после ещё трёх дней боёв жители Аскалона договорились о капитуляции, сдав город Балдуину III 22 августа. Гибель Бернара стала одним из немногих случаев, когда великий магистр тамплиеров пал в бою до окончательного разгрома ордена, и этот эпизод стал ранним примером той безрассудной личной отваги — и жёсткой орденской дисциплины, — за которые рыцарей-тамплиеров на протяжении всех крестовых походов одновременно превозносили и порицали.",
+      "latitude": 31.6699,
+      "longitude": 34.5738,
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Ascalon",
+      "tags": [
+        "Knights Templar",
+        "Crusades",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Military Order",
+        "War",
+        "Death"
+      ]
+    },
+    {
+      "date": "01.06.1191",
+      "era": "AD",
+      "type": "political",
+      "name": "Richard the Lionheart Sells Cyprus to the Templars",
+      "name_ru": "Ричард Львиное Сердце продаёт Кипр тамплиерам",
+      "description": "While sailing to join the Third Crusade in the spring of 1191, Richard I of England was drawn into a war with Isaac Komnenos, the self-proclaimed ruler of Cyprus, after Isaac mistreated shipwrecked crusaders and refused Richard hospitality; within days Richard had conquered the entire island by force. Needing cash to continue on to the siege of Acre and with no interest in governing a Mediterranean island himself, Richard sold Cyprus to the Knights Templar for 100,000 Byzantine gold bezants, with 40,000 paid immediately and the rest owed in installments.\n\nThe Templars' small garrison proved unable to control a population still resentful of Richard's conquest, and on Easter 1192 the Cypriots rose up and tried to massacre their new rulers; the Templars survived only by barricading themselves inside Nicosia and then breaking out in a pre-dawn sortie that crushed the revolt with a massacre of its own. Shaken by how costly the island was proving to hold, the Templars asked Richard to take Cyprus back, and within months he resold it to the deposed king of Jerusalem, Guy of Lusignan, whose descendants would rule Cyprus for the next three centuries — a brief, bloody episode showing that the Templars' military strength lay in disciplined garrisons and fortresses, not in policing a hostile island population.",
+      "description_ru": "Плывя на соединение с Третьим крестовым походом весной 1191 года, Ричард I Английский оказался втянут в войну с Исааком Комнином, самопровозглашённым правителем Кипра, после того как тот дурно обошёлся с потерпевшими кораблекрушение крестоносцами и отказал Ричарду в гостеприимстве; уже через несколько дней Ричард завоевал весь остров силой. Нуждаясь в деньгах для продолжения похода к осаде Акры и не имея желания самому управлять средиземноморским островом, Ричард продал Кипр ордену тамплиеров за 100 000 византийских золотых безантов — 40 000 немедленно, а остальное в рассрочку.\n\nНебольшой гарнизон тамплиеров не смог удержать под контролем население, всё ещё озлобленное завоеванием Ричарда, и на Пасху 1192 года киприоты восстали, пытаясь перебить своих новых правителей; тамплиеры уцелели, лишь забаррикадировавшись в Никосии, а затем подавили восстание внезапной вылазкой на рассвете, устроив ответную резню. Потрясённые тем, насколько дорого обходится удержание острова, тамплиеры попросили Ричарда забрать Кипр обратно, и уже через несколько месяцев он перепродал его свергнутому королю Иерусалима Ги де Лузиньяну, чьи потомки правили Кипром следующие три века, — короткий и кровавый эпизод, показавший, что сила тамплиеров заключалась в дисциплинированных гарнизонах и крепостях, а не в усмирении враждебного островного населения.",
+      "latitude": 35.1856,
+      "longitude": 33.3823,
+      "source": "https://en.wikipedia.org/wiki/Kingdom_of_Cyprus",
+      "tags": [
+        "Knights Templar",
+        "Crusades",
+        "Cyprus",
+        "Political",
+        "Military Order"
+      ]
+    },
+    {
+      "date": "01.01.1240",
+      "era": "AD",
+      "type": "military",
+      "name": "The Templars Rebuild Safed into a Galilean Mega-Fortress",
+      "name_ru": "Тамплиеры отстраивают Сафед в гигантскую крепость Галилеи",
+      "description": "Safed's hilltop fortress overlooking the Sea of Galilee had been built by the Templars in 1168 only to be captured by Saladin two decades later and demolished in 1219 so it could never again shelter a Crusader garrison. A 1240 treaty between the Crusaders and the Ayyubid rulers of Damascus, struck during the Barons' Crusade, returned Galilee to Christian control, and the Templars used the opportunity to rebuild Safed on a far grander scale than before. A near-contemporary account, De constructione castri Saphet, describes a peacetime garrison of some 1,700 people — including only fifty Templar knights but hundreds of crossbowmen, sergeants, and laborers — making it one of the largest and most expensive fortifications the order ever built.\n\nSafed's massive concentric walls and deep ditches were designed explicitly to check Muslim raids into the Galilee from Damascene territory, and the castle anchored Templar power across the northern half of the Crusader kingdom for the following generation. Its very scale reflected how thoroughly the military orders had come to dominate Crusader defense by the mid-thirteenth century, since neither the kingdom's remaining nobility nor its kings could any longer afford to garrison frontier fortresses of this size on their own.",
+      "description_ru": "Крепость Сафед на холме над Тивериадским озером тамплиеры построили ещё в 1168 году, но два десятилетия спустя её захватил Саладин, а в 1219 году разрушил, чтобы она больше никогда не могла укрыть гарнизон крестоносцев. Договор 1240 года между крестоносцами и айюбидскими правителями Дамаска, заключённый в ходе Крестового похода баронов, вернул Галилею под христианский контроль, и тамплиеры воспользовались этим, чтобы отстроить Сафед в гораздо большем масштабе, чем прежде. Почти современное событию описание De constructione castri Saphet упоминает мирный гарнизон около 1700 человек — включая лишь пятьдесят рыцарей-тамплиеров, но сотни арбалетчиков, сержантов и работников, — что делает эту крепость одним из крупнейших и самых дорогостоящих укреплений, когда-либо построенных орденом.\n\nМощные концентрические стены и глубокие рвы Сафеда были рассчитаны прежде всего на то, чтобы сдерживать мусульманские набеги на Галилею со стороны дамасских земель, и замок на следующее поколение стал опорой власти тамплиеров во всей северной части Иерусалимского королевства. Сам масштаб крепости отражал, насколько прочно военные ордена к середине XIII века взяли на себя оборону крестоносных земель, поскольку ни оставшаяся знать королевства, ни его короли уже не могли позволить себе содержать пограничные крепости такого размера самостоятельно.",
+      "latitude": 32.9646,
+      "longitude": 35.4960,
+      "source": "https://en.wikipedia.org/wiki/Safed",
+      "tags": [
+        "Knights Templar",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Building 🏠",
+        "Architecture",
+        "Military Order"
+      ]
+    },
+    {
+      "date": "23.07.1266",
+      "era": "AD",
+      "type": "military",
+      "name": "Baibars Captures Safed and Massacres the Templar Garrison",
+      "name_ru": "Бейбарс захватывает Сафед и уничтожает гарнизон тамплиеров",
+      "description": "In June 1266 the Mamluk sultan Baibars laid siege to Safed as part of his campaign to strip the Crusader states of their remaining strongholds, deploying mining teams, siege engines, and psychological pressure against a garrison built to the peacetime strength of close to two thousand set decades earlier. After five weeks of resistance, Baibars's forces tricked the Templars into surrendering under a false promise of safe passage: terms offered to a Syrian Christian sergeant sent out to negotiate were misrepresented to the garrison as applying to everyone inside.\n\nWhen the Templars emerged from the castle expecting to leave freely, Baibars presented them with an ultimatum to convert to Islam or die; nearly the entire garrison refused and was executed on 23 July 1266, in one of the single largest losses of Templar lives the order suffered outside its final battles at Acre and Ruad. Baibars then repaired Safed's fortifications for his own garrison and rebuilt it into the capital of a new Mamluk province spanning the Galilee, permanently ending Templar control of the region north of Acre.",
+      "description_ru": "В июне 1266 года мамлюкский султан Бейбарс осадил Сафед в рамках своей кампании по лишению государств крестоносцев оставшихся опорных пунктов, применив против гарнизона, рассчитанного мирным штатом ещё десятилетиями ранее почти на две тысячи человек, минные подкопы, осадные машины и психологическое давление. После пяти недель сопротивления войска Бейбарса обманом вынудили тамплиеров сдаться под ложным обещанием свободного прохода: условия, предложенные сирийскому христианскому сержанту, отправленному на переговоры, были представлены гарнизону так, будто относятся ко всем находившимся внутри.\n\nКогда тамплиеры вышли из крепости, рассчитывая уйти свободно, Бейбарс поставил их перед выбором — принять ислам или умереть; почти весь гарнизон отказался и был казнён 23 июля 1266 года, что стало одной из крупнейших единовременных потерь тамплиеров за всю историю ордена, уступающей лишь финальным сражениям при Акре и Руаде. Затем Бейбарс восстановил укрепления Сафеда для собственного гарнизона и превратил его в столицу новой мамлюкской провинции, охватывавшей всю Галилею, окончательно положив конец власти тамплиеров в землях к северу от Акры.",
+      "latitude": 32.9646,
+      "longitude": 35.4960,
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Safed_(1266)",
+      "tags": [
+        "Knights Templar",
+        "Levant",
+        "Kingdom of Jerusalem",
+        "Mamluk",
+        "War",
+        "Siege",
+        "Death"
+      ]
+    },
+    {
+      "date": "28.05.1291",
+      "era": "AD",
+      "type": "military",
+      "name": "The Temple Fortress at Acre Falls in the Order's Last Levantine Battle",
+      "name_ru": "Крепость тамплиеров в Акре пала в последнем сражении ордена в Леванте",
+      "description": "When the Mamluk sultan al-Ashraf Khalil's army broke through Acre's walls on 18 May 1291, Grand Master Guillaume de Beaujeu was mortally wounded rallying the defense at the Gate of St. Anthony, and organized resistance across the city collapsed within hours. The last holdouts — Templars, Hospitallers, and civilians who could not reach the harbor — barricaded themselves inside the massive seaside Temple fortress at the western edge of the city, which held out for ten more days after the rest of Acre had fallen.\n\nSultan Khalil offered the defenders safe passage if they surrendered, but when Templar marshal Peter de Severy led a delegation out to finalize the terms, Mamluk soldiers killed them, an act of apparent treachery that convinced the remaining Templars to fight on rather than trust another offer. On 28 May, with the fortress's foundations undermined and collapse imminent, the last defenders tried to evacuate what they could before the tower came down that day, ending nearly two centuries of Crusader presence in Acre and marking the effective end of the Knights Templar's role as a fighting garrison in the Holy Land, though remnants of the order would cling to the nearby island of Ruad for another decade.",
+      "description_ru": "Когда 18 мая 1291 года войско мамлюкского султана аль-Ашрафа Халиля пробило стены Акры, великий магистр Гийом де Боже был смертельно ранен, возглавляя оборону у ворот Святого Антония, и организованное сопротивление в городе рухнуло в считаные часы. Последние защитники — тамплиеры, госпитальеры и мирные жители, не успевшие добраться до гавани, — забаррикадировались в мощной приморской крепости тамплиеров на западной окраине города, продержавшейся ещё десять дней после падения остальной Акры.\n\nСултан Халиль предложил защитникам свободный проход в случае сдачи, но когда маршал тамплиеров Пьер де Севри вывел делегацию для окончательного согласования условий, мамлюкские воины убили её членов — этот явный акт вероломства убедил оставшихся тамплиеров сражаться дальше, не доверяя больше никаким предложениям. 28 мая, когда основания крепости были подорваны подкопом и обрушение стало неминуемым, последние защитники попытались эвакуировать всё, что могли, прежде чем башня рухнула в тот же день, положив конец почти двум векам присутствия крестоносцев в Акре и фактически завершив роль тамплиеров как боевого гарнизона в Святой земле, хотя остатки ордена ещё десятилетие удерживались на соседнем острове Руад.",
+      "latitude": 32.9281,
+      "longitude": 35.0818,
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Acre_(1291)",
+      "tags": [
+        "Knights Templar",
+        "Crusades",
+        "Levant",
+        "Mamluk",
+        "War",
+        "Siege",
+        "Death"
+      ]
+    },
+    {
+      "date": "26.09.1302",
+      "era": "AD",
+      "type": "military",
+      "name": "The Fall of Ruad Ends the Crusader Presence in the Levant",
+      "name_ru": "Падение Руада завершает присутствие крестоносцев в Леванте",
+      "description": "After losing Acre, Tortosa, and their last mainland strongholds by the end of 1291, the Templars staged a final gamble on the tiny island of Ruad, just off the Syrian coast near Tortosa, hoping to hold a bridgehead there until a planned joint offensive with the Mongol Ilkhanate could retake the mainland. The Templars garrisoned Ruad permanently from 1300, but the promised Mongol army never arrived in force, and in 1302 the Mamluks landed sixteen ships' worth of troops on the island and settled in to starve the garrison out rather than storm it directly.\n\nA relief fleet from Cyprus set out too late to break the siege, and on 26 September 1302 the Templar commander Hugh of Dampierre negotiated a surrender on the promise of safe passage to Christian territory. The Mamluks broke that promise almost immediately: the native Syrian Christian soldiers and archers were executed on the spot, and the surviving Templar knights were taken to Cairo, where dozens reportedly died in prison years later rather than convert to Islam. Ruad's fall closed the door on any realistic hope of retaking the Holy Land and left the Templars, still headquartered on Cyprus, without the purpose that had defined their existence for nearly two centuries.",
+      "description_ru": "Потеряв к концу 1291 года Акру, Тортосу и последние опорные пункты на материке, тамплиеры сделали последнюю ставку на крошечном острове Руад у сирийского побережья близ Тортосы, надеясь удержать там плацдарм до совместного наступления с монгольским Ильханатом, которое должно было отвоевать материк. Тамплиеры разместили на Руаде постоянный гарнизон с 1300 года, но обещанное монгольское войско так и не явилось в достаточной силе, а в 1302 году мамлюки высадили на острове войска с шестнадцати кораблей и вместо штурма взяли курс на то, чтобы взять гарнизон измором.\n\nФлот подкрепления с Кипра вышел слишком поздно, чтобы снять осаду, и 26 сентября 1302 года командир тамплиеров Гуго де Дампьер договорился о капитуляции в обмен на обещание свободного прохода на христианскую территорию. Мамлюки нарушили это обещание почти сразу: местных сирийских христианских солдат и лучников казнили на месте, а уцелевших рыцарей-тамплиеров увезли в Каир, где, по свидетельствам, десятки из них спустя годы умерли в тюрьме, отказавшись принять ислам. Падение Руада закрыло всякую реальную надежду на отвоевание Святой земли и оставило тамплиеров, по-прежнему базировавшихся на Кипре, без той цели, что определяла их существование на протяжении почти двух веков.",
+      "latitude": 34.8508,
+      "longitude": 35.8597,
+      "source": "https://en.wikipedia.org/wiki/Fall_of_Ruad",
+      "tags": [
+        "Knights Templar",
+        "Crusades",
+        "Levant",
+        "Mamluk",
+        "War",
+        "Siege",
+        "Death"
+      ]
+    },
+    {
+      "date": "22.03.1312",
+      "era": "AD",
+      "type": "political",
+      "name": "Pope Clement V Dissolves the Knights Templar at the Council of Vienne",
+      "name_ru": "Папа Климент V распускает орден тамплиеров на Вьеннском соборе",
+      "description": "Five years after Philip IV's mass arrests, the Council of Vienne had still failed to establish through ordinary legal process that the Templar order as a whole was guilty of the heresy Philip's ministers had accused it of. In February 1312 Philip's envoys negotiated directly with Clement V outside the council's proceedings, and that March Philip travelled to Vienne in person to press the pope further, leaving Clement to conclude he could not resist the French crown's demands any longer.\n\nRather than formally convicting the Templars, Clement suppressed the order by papal decree alone, issuing the bull Vox in excelso on 22 March 1312 on the grounds of the Church's general welfare rather than proven guilt. Companion bulls that followed within weeks, Ad providam and Considerantes dudum, transferred most of the order's vast European properties to the rival Knights Hospitaller and left the fate of individual Templar brothers to local church councils — formally ending an institution that had stood for nearly two centuries, even though Clement's own bull stopped short of declaring its members guilty of the charges that destroyed them.",
+      "description_ru": "Спустя пять лет после массовых арестов Филиппа IV Вьеннскому собору так и не удалось в обычном судебном порядке доказать виновность ордена тамплиеров в целом в ереси, в которой его обвиняли министры Филиппа. В феврале 1312 года посланцы Филиппа вели переговоры с Климентом V напрямую, в обход работы собора, а в марте того же года Филипп сам прибыл в Вьенн, чтобы усилить давление на папу, и Клименту пришлось признать, что дальше противиться требованиям французской короны он не в силах.\n\nВместо того чтобы официально осудить тамплиеров, Климент распустил орден единоличным папским указом, издав 22 марта 1312 года буллу Vox in excelso, обосновав это не доказанной виной, а общим благом Церкви. Последовавшие в течение нескольких недель сопутствующие буллы Ad providam и Considerantes dudum передали большую часть обширных европейских владений ордена конкурировавшим с ним госпитальерам, а судьбу отдельных братьев-тамплиеров оставили на усмотрение местных церковных советов — так формально завершилось существование института, простоявшего почти два века, хотя сама булла Климента так и не объявила его членов виновными в обвинениях, которые их погубили.",
+      "latitude": 45.5259,
+      "longitude": 4.8763,
+      "source": "https://en.wikipedia.org/wiki/Council_of_Vienne",
+      "tags": [
+        "Knights Templar",
+        "Papal",
+        "Religious",
+        "Political",
+        "French"
+      ]
+    },
+    {
+      "date": "14.03.1319",
+      "era": "AD",
+      "type": "religious",
+      "name": "Portugal Refounds the Templars as the Order of Christ",
+      "name_ru": "Португалия возрождает тамплиеров как орден Христа",
+      "description": "Unlike Philip IV of France, King Denis of Portugal refused to hunt down or execute the Templars within his realm after Clement V's 1312 dissolution, and instead worked to preserve the order's wealth and manpower under a new name loyal directly to the Portuguese crown. Denis founded the Order of Christ in 1318 explicitly as a successor institution to the Temple, recruiting surviving Portuguese Templars and other knights into its ranks, then spent months negotiating with the papacy to formally inherit the dissolved order's Portuguese properties.\n\nPope John XXII confirmed the arrangement in the bull Ad ea ex quibus on 14 March 1319, recognizing the Order of Christ as the Temple's legal heir in Portugal and granting it the former Templar estates, with its first headquarters established at the church of Santa Maria do Castelo in Castro Marim before later moving to the Templars' old stronghold at Tomar. The new order kept much of the Temple's original character — a religious order of knights under vows of poverty, chastity, and obedience — and its wealth and military structure would later fund and staff Portugal's maritime expeditions, most famously providing the base from which Prince Henry the Navigator organized the voyages that opened the Age of Discovery.",
+      "description_ru": "В отличие от Филиппа IV Французского, король Португалии Диниш отказался преследовать или казнить тамплиеров в своём королевстве после роспуска ордена Климентом V в 1312 году и вместо этого добивался сохранения его богатства и людей под новым именем, напрямую подчинённым португальской короне. В 1318 году Диниш основал орден Христа как прямого преемника Храма, приняв в его ряды уцелевших португальских тамплиеров и других рыцарей, а затем месяцами вёл переговоры с папством о формальном наследовании португальских владений распущенного ордена.\n\nПапа Иоанн XXII утвердил эту договорённость буллой Ad ea ex quibus от 14 марта 1319 года, признав орден Христа законным наследником Храма в Португалии и передав ему бывшие владения тамплиеров; первой резиденцией ордена стала церковь Санта-Мария-ду-Каштелу в Каштру-Марине, прежде чем позднее он перебрался в старую крепость тамплиеров Томар. Новый орден сохранил многое от изначального характера Храма — религиозное братство рыцарей, связанных обетами бедности, целомудрия и послушания, — а его богатство и военная структура впоследствии финансировали и обеспечивали кадрами морские экспедиции Португалии, в первую очередь послужив базой, с которой принц Генрих Мореплаватель организовал плавания, открывшие эпоху Великих географических открытий.",
+      "latitude": 37.2192,
+      "longitude": -7.4463,
+      "source": "https://en.wikipedia.org/wiki/Order_of_Christ_(Portugal)",
+      "tags": [
+        "Knights Templar",
+        "Religious",
+        "Political",
+        "Portugal"
+      ]
+    }
+  ]
+}
