@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 12 events",
+  "description": "The Teutonic Knights and their Livonian branch built a military-religious state around a network of castles, river routes, commanderies, and towns. This dataset follows their expansion from the Holy Land and Transylvania to Prussia and Livonia, with separate entries for major castle foundations and the establishment of the headquarters at Marienburg. It also traces the uneven decline after Grunwald: indemnities, the settlement with Lithuania, resistance by Prussian towns and nobles, and the Thirteen Years' War, followed by the secularization of the Baltic branches and the loss of the Order's German territories.",
   "events": [
     {
       "date": "01.01.1202",
@@ -61,6 +61,19 @@
         "Exile"
       ],
       "type": "political"
+    },
+    {
+      "date": "01.01.1229",
+      "era": "AD",
+      "type": "military",
+      "name": "The Teutonic Knights establish their headquarters at Montfort",
+      "name_ru": "Тевтонские рыцари размещают свою резиденцию в Монфоре",
+      "description": "The Teutonic Knights establish their headquarters, treasury, and archives at Montfort, a castle on a narrow ridge above the Kziv valley in Upper Galilee. They had purchased the surrounding estate from the de Milly family in 1220, with the castle's main building campaign beginning around 1228; papal appeals helped finance the work. The move provides an administrative base outside Acre, where the Order competed with the Templars and Hospitallers.\n\nMontfort is not primarily a frontier fortress guarding a major road: its isolated position protects the Order's records and wealth. The narrow ridge dictates a linear arrangement of buildings, with a strong keep and ditches defending the exposed eastern approach. Construction and enlargement continue after the headquarters move, so this entry marks the castle's administrative establishment rather than the completion of every surviving structure.",
+      "description_ru": "Тевтонские рыцари размещают резиденцию, казну и архив в Монфоре — замке на узком хребте над долиной Кзив в Верхней Галилее. Они приобрели окружающее поместье у семьи де Милли в 1220 году, а основная строительная кампания началась примерно в 1228-м; папские обращения помогли собрать средства на работы. Переезд даёт ордену административную базу вне Акры, где он соперничал с тамплиерами и госпитальерами.\n\nМонфор служит не столько пограничной крепостью, охраняющей важную дорогу, сколько уединённым хранилищем орденских документов и богатства. Узкий хребет определяет вытянутую цепочку зданий, а мощная главная башня и рвы защищают наиболее уязвимый восточный подход. Строительство и расширение продолжаются после переноса резиденции, поэтому эта запись отмечает начало административной роли замка, а не завершение всех сохранившихся сооружений.",
+      "latitude": 33.04472,
+      "longitude": 35.22611,
+      "source": "https://en.wikipedia.org/wiki/Montfort_Castle",
+      "tags": ["German", "Teuton", "Levant", "Order", "Building 🏠", "Architecture"]
     },
     {
       "date": "01.01.1230",
@@ -131,6 +144,32 @@
       "type": "religious"
     },
     {
+      "date": "01.01.1239",
+      "era": "AD",
+      "type": "military",
+      "name": "The Teutonic Order begins building Balga Castle",
+      "name_ru": "Тевтонский орден начинает строительство замка Бальга",
+      "description": "The Teutonic Order captures the Old Prussian fortress of Honeda and begins building Balga on its site, overlooking the Vistula Lagoon. The conquest is led by Marshal Dietrich von Bernheim, after an earlier crusading expedition had failed to take the stronghold. Construction starts in the recorded year, but no exact foundation day is established.\n\nBalga gives the Knights a fortified position from which to control traffic on the lagoon and support operations along the coasts of Warmia and Natangia. Its position connects military conquest with movement by water, essential in a region where rivers and lagoons carry troops and supplies. The castle subsequently becomes the seat of a commander and a territorial commandery, making it an administrative centre as well as a garrison; later commanders include future grand masters Winrich von Kniprode and Ulrich von Jungingen.",
+      "description_ru": "Тевтонский орден захватывает древнепрусскую крепость Хонеда и начинает строить на её месте замок Бальга над Вислинским заливом. Захватом руководит маршал Дитрих фон Бернгейм; более ранний поход крестоносцев не сумел взять это укрепление. Начало строительства относится к указанному году, но точный день основания неизвестен.\n\nБальга даёт рыцарям укреплённую позицию для контроля судоходства по заливу и поддержки военных действий вдоль берегов Вармии и Натангии. Её расположение соединяет завоевание с водными перевозками, необходимыми в регионе, где реки и заливы обеспечивают доставку войск и припасов. Позднее замок становится резиденцией комтура и центром территориального командорства, выполняя не только гарнизонные, но и административные функции; среди его последующих командиров — будущие великие магистры Винрих фон Книпроде и Ульрих фон Юнгинген.",
+      "latitude": 54.5525,
+      "longitude": 19.96944,
+      "source": "https://en.wikipedia.org/wiki/Balga",
+      "tags": ["German", "Baltic", "Prussian", "Teuton", "Building 🏠", "Architecture", "Conquest"]
+    },
+    {
+      "date": "01.01.1255",
+      "era": "AD",
+      "type": "military",
+      "name": "The Teutonic Knights found Königsberg Castle",
+      "name_ru": "Тевтонские рыцари основывают Кёнигсбергский замок",
+      "description": "The Teutonic Knights establish a wooden and earthwork fortress at Königsberg after conquering the surrounding Prussian territory. The stronghold stands above the Pregel River, on the site of the Prussian settlement of Tuwangste, in present-day Kaliningrad. Its foundation belongs to the recorded year, not to a known day or month.\n\nThe first fort is a provisional military installation rather than the monumental castle familiar from later images. Construction of a stone replacement is underway by 1257, and successive enlargements transform the site over several centuries. This distinction matters because the surviving descriptions of the grand masters' and Prussian rulers' residence combine medieval and much later work. The foundation marks the creation of an eastern stronghold around which the town develops, not the immediate appearance of the completed palace complex.",
+      "description_ru": "Тевтонские рыцари возводят деревянно-земляную крепость Кёнигсберг после завоевания окружающей прусской территории. Укрепление располагается над рекой Прегель, на месте прусского поселения Тувангсте, в пределах нынешнего Калининграда. Его основание относится к указанному году, но конкретные день и месяц неизвестны.\n\nПервый форт — временная военная постройка, а не монументальный замок, знакомый по поздним изображениям. К 1257 году уже строится каменная замена, а последующие расширения преобразуют комплекс на протяжении нескольких столетий. Это различие важно: описания резиденции великих магистров и прусских правителей объединяют средневековые сооружения с гораздо более поздними постройками. Основание отмечает появление восточного опорного пункта, вокруг которого развивается город, а не мгновенное возникновение завершённого дворцового комплекса.",
+      "latitude": 54.7102167,
+      "longitude": 20.5107889,
+      "source": "https://en.wikipedia.org/wiki/K%C3%B6nigsberg_Castle",
+      "tags": ["German", "Baltic", "Prussian", "Teuton", "Building 🏠", "Architecture", "Foundation"]
+    },
+    {
       "date": "13.07.1260",
       "description": "The combined army of the Livonian Order, the Teutonic Order from Prussia, and secular crusading knights from Germany engaged the forces of the Samogitians in battle. The crusaders were exhausted from a long march in heavy armor under the July sun. Local warriors from the Curonian tribe, who were fighting on the Order's side, pleaded for the release of their wives and children held captive by the Samogitians; however, the crusaders ignored these requests, insisting that all spoils of war belonged to them.\n\nWhen the battle began, the Curonians turned their weapons against the Germans in the heat of the fight, striking them from the rear. The Estonians allied with the Order fled the battlefield. The crusaders found themselves caught between the Samogitians and the Curonians simultaneously. Both Grand Masters and 150 German knights perished in the battle. Following the Order's catastrophic defeat, the Great Prussian Uprising erupted across the Baltic region.",
       "description_ru": "Объединенная армия Ливонского ордена, Тевтонского ордена из Пруссии и светские рыцари-крестоносцы из Германии вступили в бой с войском жейматов. Крестоносцы были измотаны долгим маршем в тяжелых доспехах под июльским солнцем. Местные из племени куршей, воевавшие на стороне ордена, просили освободить их жен и детей, которых жемайтов держали в плену; однако крестоносцы проигнорировали просьбы, утверждая, что вся добыча принадлежит им.\n\nКогда битва началась, курши прямо в разгар сражения развернули оружие и ударили немцам в спину. Союзные ордену эсты бежали с поля боя. Крестоносцы оказались зажаты между жемайтами и куршами одновременно. Оба магистра и 150 германских рыцарей погибло в сражении. После катастрофического поражения ордена по всей Прибалтике вспыхнуло Великое прусское восстание.",
@@ -176,6 +215,19 @@
       "type": "military"
     },
     {
+      "date": "01.01.1274",
+      "era": "AD",
+      "type": "military",
+      "name": "The Teutonic Order begins building Marienburg Castle",
+      "name_ru": "Тевтонский орден начинает строительство Мариенбургского замка",
+      "description": "The Teutonic Order begins constructing Marienburg, present-day Malbork, on the southeastern bank of the Nogat River. The foundation is conventionally dated to around 1274, but no contemporary construction documents survive, and the early phases are reconstructed from architecture and later records. The castle is named for Mary, the Order's patron, and strengthens its hold on territory secured during the Prussian conquest.\n\nThe initial conventual castle is not yet the enormous three-part complex visible today. Its river position provides access to the Vistula delta, while brick construction supplies substantial fortifications in a landscape where suitable building stone is limited. The early work establishes a fortified house for the brothers and a commandery centre. Subsequent enlargement into a headquarters and palace belongs to a separate stage of the site's history.",
+      "description_ru": "Тевтонский орден начинает строить Мариенбург, нынешний Мальборк, на юго-восточном берегу реки Ногат. Основание традиционно относят примерно к 1274 году, однако современных строительству документов не сохранилось, и ранние этапы восстанавливают по архитектуре и позднейшим сведениям. Замок назван в честь Девы Марии, покровительницы ордена, и укрепляет его власть на землях, захваченных при завоевании Пруссии.\n\nПервоначальный монастырский замок ещё не представляет собой огромный трёхчастный комплекс, видимый сегодня. Положение на реке обеспечивает доступ к дельте Вислы, а кирпичное строительство позволяет возводить мощные укрепления в местности, где подходящего строительного камня мало. Ранние работы создают укреплённый дом для орденских братьев и центр командорства. Последующее превращение в главную резиденцию с дворцом относится к отдельному этапу истории этого места.",
+      "latitude": 54.03972,
+      "longitude": 19.02778,
+      "source": "https://en.wikipedia.org/wiki/Malbork_Castle",
+      "tags": ["German", "Baltic", "Prussian", "Teuton", "Building 🏠", "Architecture", "Foundation"]
+    },
+    {
       "date": "13.11.1308",
       "description": "The Teutonic Knights entered the Pomeranian port of Danzig as allies of the Polish Crown, summoned to help defend the disputed city against the rival Margraviate of Brandenburg, which laid claim to the wealthy Baltic trading hub. Once the immediate military threat had passed, a dispute arose between the Knights and local Polish representatives over who would exercise actual control over the city and its garrison; instead of returning Danzig, the Teutonic Knights turned their weapons against their recent allies.\n\nOn November 13, the Order’s soldiers slaughtered many of the city’s inhabitants in an event that became known as the Gdańsk Massacre, subsequently seizing full control of the city and ousting Polish authority. The following year, the Knights consolidated their success by purchasing Brandenburg’s claims to the territory under the Treaty of Soldin; this gave the Order undisputed control over the Baltic coast between Prussia and the Holy Roman Empire — and sowed the seeds of a resentment that would poison relations between Poland and the Teutonic Order for the next century and a half.",
       "description_ru": "Тевтонские рыцари вошли в поморский порт Данциг, как союзники польской короны, призванные помочь защитить спорный город от соперничавшей бранденбургской марки, претендовавшей на богатый балтийский торговый центр. Как только непосредственная военная угроза миновала, между рыцарями и местными польскими представителями возник спор о том, кто будет реально контролировать город и гарнизон, и вместо того чтобы вернуть Данциг, тевтонские рыцари обратили оружие против своих недавних союзников.\n\n13 ноября солдаты ордена убили множество жителей города в событии, получившем известность как Гданьская резня, а затем полностью заняли город, вытеснив польскую власть. На следующий год рыцари закрепили успех, выкупив у Бранденбурга его претензии на эту территорию по Зольдинскому договору, что дало ордену безраздельный контроль над балтийским побережьем между Пруссией и Священной Римской империей — и посеяло обиду, отравлявшую отношения Польши и Тевтонского ордена на полтора следующих века.",
@@ -199,6 +251,32 @@
         "Betrayal"
       ],
       "type": "military"
+    },
+    {
+      "date": "14.09.1309",
+      "era": "AD",
+      "type": "political",
+      "name": "Grand Master Siegfried von Feuchtwangen moves to Marienburg",
+      "name_ru": "Великий магистр Зигфрид фон Фейхтванген переезжает в Мариенбург",
+      "description": "Grand Master Siegfried von Feuchtwangen transfers the Teutonic Order's headquarters from Venice to Marienburg Castle in Prussia. The move follows the acquisition of Gdańsk and Eastern Pomerania and places the Order's central leadership inside the Baltic state it governs. Marienburg's position on the Nogat provides water transport through the Vistula delta rather than isolating the leadership in a remote frontier post.\n\nThe transfer prompts a major expansion of the existing commandery castle to accommodate the grand master and central administration. Over the following decades, the monastery, residential quarters, ceremonial rooms, and service buildings grow into the High, Middle, and Lower Castle complex. Marienburg therefore functions simultaneously as a religious house, fortified residence, and seat of government. This entry dates the headquarters transfer; the associated construction is a prolonged programme, not a single completed building.",
+      "description_ru": "Великий магистр Зигфрид фон Фейхтванген переносит главную резиденцию Тевтонского ордена из Венеции в Мариенбургский замок в Пруссии. Переезд следует за приобретением Гданьска и Восточного Поморья и размещает центральное руководство внутри управляемого им балтийского государства. Положение Мариенбурга на Ногате обеспечивает водное сообщение через дельту Вислы, а не изолирует руководство в отдалённом пограничном укреплении.\n\nПеренос резиденции вызывает масштабное расширение существующего комтурского замка для размещения великого магистра и центральной администрации. В последующие десятилетия монастырь, жилые помещения, парадные залы и хозяйственные постройки разрастаются в комплекс Верхнего, Среднего и Нижнего замков. Мариенбург одновременно служит религиозной общиной, укреплённой резиденцией и местом управления государством. Эта запись датирует переезд руководства; связанное с ним строительство представляет собой длительную программу, а не единовременное завершение одного здания.",
+      "latitude": 54.03972,
+      "longitude": 19.02778,
+      "source": "https://en.wikipedia.org/wiki/Malbork_Castle",
+      "tags": ["German", "Prussian", "Teuton", "Order", "Political", "Architecture"]
+    },
+    {
+      "date": "01.01.1330",
+      "era": "AD",
+      "type": "military",
+      "name": "The Livonian Order founds a new castle at Riga",
+      "name_ru": "Ливонский орден основывает новый замок в Риге",
+      "description": "The Livonian Order founds a new castle beside the Daugava River following its conflict with the citizens of Riga. The townspeople had destroyed the Order's earlier castle in the city centre, and the settlement between them requires a replacement. Rather than rebuild on the old site, the Order chooses a position outside the existing town, occupied by the Convent of the Holy Spirit; the convent moves to the former castle site.\n\nThe new fortress becomes a residence of the Livonian master and a physical assertion of the Order's authority beside an important trading city. Its enclosed courtyard and corner towers combine residential and defensive functions, but the separation from the town also reflects distrust between the two powers. The foundation is medieval; substantial rebuilding in later centuries means that the present Riga Castle should not be treated as an unchanged structure from 1330.",
+      "description_ru": "Ливонский орден основывает новый замок на берегу Даугавы после конфликта с жителями Риги. Горожане разрушили прежний орденский замок в центре города, а соглашение между сторонами предусматривает его замену. Вместо восстановления на старом месте орден выбирает участок за пределами существующего города, занятый обителью Святого Духа; обитель переселяется на место прежнего замка.\n\nНовая крепость становится резиденцией ливонского магистра и зримым утверждением орденской власти рядом с важным торговым городом. Замкнутый двор и угловые башни объединяют жилые и оборонительные функции, но обособленность от города также отражает недоверие между двумя сторонами. Основание относится к Средневековью; значительные перестройки в последующие столетия означают, что нынешний Рижский замок нельзя считать сооружением, неизменно сохранившимся с 1330 года.",
+      "latitude": 56.95095,
+      "longitude": 24.1006361,
+      "source": "https://en.wikipedia.org/wiki/Riga_Castle",
+      "tags": ["German", "Baltic", "Livonian", "Teuton", "Building 🏠", "Architecture", "Foundation"]
     },
     {
       "date": "14.08.1385",
@@ -227,6 +305,19 @@
       "type": "political"
     },
     {
+      "date": "01.01.1397",
+      "era": "AD",
+      "type": "military",
+      "name": "The Teutonic Order begins rebuilding Ragnit Castle",
+      "name_ru": "Тевтонский орден начинает перестройку замка Рагнит",
+      "description": "The Teutonic Order begins the major building campaign that produces the surviving castle at Ragnit, present-day Neman, near the Memel River and the Lithuanian frontier. The Order had occupied Ragnit much earlier, in 1289, so this is not the foundation of a new settlement or the first arrival of the Knights. The substantial replacement is constructed between 1397 and 1409, with work supervised by the master builder Konrad Fellenstein.\n\nRagnit serves as the seat of a commander in a contested border region rather than as the grand master's central residence. Its scale reflects the resources committed to maintaining a permanent fortified presence on the eastern edge of Prussia. Dating the start of this campaign separately from the earlier occupation distinguishes the castle's surviving fabric from the first frontier stronghold, and shows that major construction continued even late in the Order's wars with Lithuania.",
+      "description_ru": "Тевтонский орден начинает крупную строительную кампанию, в результате которой возникает сохранившийся замок Рагнит, в нынешнем Немане, близ реки Мемель и литовской границы. Орден занял Рагнит значительно раньше, в 1289 году, поэтому речь не идёт об основании нового поселения или первом появлении рыцарей. Масштабная замена прежнего укрепления строится между 1397 и 1409 годами; работами руководит мастер-строитель Конрад Фелленштейн.\n\nРагнит служит резиденцией комтура в спорном пограничном регионе, а не центральной резиденцией великого магистра. Его размеры отражают ресурсы, выделяемые на постоянное укреплённое присутствие у восточного края Пруссии. Отдельная датировка начала этих работ позволяет отличить сохранившиеся стены от первоначального пограничного укрепления и показывает, что масштабное строительство продолжалось даже на позднем этапе орденских войн с Литвой.",
+      "latitude": 55.0389,
+      "longitude": 22.0264,
+      "source": "https://en.wikipedia.org/wiki/Neman,_Russia",
+      "tags": ["German", "Baltic", "Prussian", "Teuton", "Building 🏠", "Architecture", "Defense"]
+    },
+    {
       "date": "15.07.1410",
       "description": "Following the Union of Krewo, Poland and Lithuania settled their remaining disputes with the Teutonic Order over Samogitia in alliance rather than separately, and when war broke out again in 1409 King Władysław II Jagiełło and Grand Duke Vytautas combined their armies into the largest force either kingdom had ever fielded. The two armies met the Teutonic Knights, led by Grand Master Ulrich von Jungingen, on the fields near the villages of Grunwald and Tannenberg on 15 July 1410 in what became the largest battle of medieval Europe.\n\nThe Polish-Lithuanian army surrounded and destroyed the Teutonic army, killing Grand Master von Jungingen along with much of the Order's senior leadership and taking hundreds of knights prisoner. However, the Order's fortified capital, Marienburg, withstood the ensuing siege, saving the Order from immediate collapse, and the territorial losses under the subsequent First Peace of Thorn (1411) proved modest. The cost of Grunwald was primarily political: ransoms, war indemnities, and internal disputes over who should pay them triggered decades of economic decline and unrest within the Teutonic state.",
       "description_ru": "После Кревской унии Польша и Литва стали решать оставшиеся споры с Тевтонским орденом из-за Жемайтии совместно, и когда в 1409 году вновь вспыхнула война, король Владислав II Ягайло и великий князь Витовт объединили свои войска в крупнейшую армию, какую когда-либо выставляло любое из двух королевств. Оба войска встретились с тевтонскими рыцарями под началом великого магистра Ульриха фон Юнгингена на полях у деревень Грюнвальд и Танненберг в крупнейшем сражении средневековой Европы.\n\nПольско-литовское войско окружило и уничтожило тевтонскую армию, убив великого магистра фон Юнгингена вместе с большей частью высшего руководства ордена и взяв в плен сотни рыцарей. Однако укреплённая столица ордена Мариенбург выдержала последовавшую осаду, избавив орден от немедленного краха, а территориальные потери по последовавшему Первому Торуньскому миру 1411 года оказались скромными. Цена Грюнвальда была скорее политической: выкупы, военные контрибуции и внутренние споры о том, кто должен за них платить, спровоцировали десятилетия экономического упадка и волнений в тевтонском государстве.",
@@ -247,6 +338,123 @@
         "Battle"
       ],
       "type": "military"
+    },
+    {
+      "date": "19.09.1410",
+      "era": "AD",
+      "type": "military",
+      "name": "Heinrich von Plauen holds Marienburg as the siege is lifted",
+      "name_ru": "Генрих фон Плауэн удерживает Мариенбург до снятия осады",
+      "description": "Heinrich von Plauen holds Marienburg Castle until the Polish-Lithuanian besiegers withdraw, preventing the capture of the Teutonic capital after Grunwald. The commander had brought reserve troops from Schwetz and organized the defence while the victorious allied army advanced slowly. Before the main siege began, he burned the town outside the castle to clear the approaches and deprive the attackers of shelter.\n\nThe besiegers lack the supplies and ammunition for a prolonged operation, while disease, unpaid troops, and the withdrawal of Lithuanian forces weaken their position. The castle's resistance gives the Order time to seek assistance and organize forces elsewhere in Prussia. Lifting the siege does not reverse the defeat at Grunwald, but it preserves a functioning centre of government and allows the Knights to recover many surrendered fortresses.",
+      "description_ru": "Генрих фон Плауэн удерживает Мариенбургский замок до отступления польско-литовских осаждающих, не допуская захвата тевтонской столицы после Грюнвальда. Комтур привёл резервные войска из Швеца и организовал оборону, пока победившая союзная армия медленно продвигалась к крепости. Перед началом основной осады он сжёг город за замковыми стенами, расчистив подходы и лишив противника укрытий.\n\nОсаждающим не хватает припасов и боеприпасов для длительной операции; болезни, невыплаченное жалованье и уход литовских войск ослабляют их положение. Сопротивление замка даёт ордену время запросить помощь и организовать войска в других частях Пруссии. Снятие осады не отменяет поражения при Грюнвальде, но сохраняет действующий центр управления и позволяет рыцарям вернуть многие ранее сдавшиеся крепости.",
+      "latitude": 54.03972,
+      "longitude": 19.02778,
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Marienburg_(1410)",
+      "tags": ["German", "Polish", "Lithuanian", "Teuton", "War", "Siege", "Defense"]
+    },
+    {
+      "date": "01.02.1411",
+      "era": "AD",
+      "type": "political",
+      "name": "The First Peace of Thorn imposes a heavy ransom on the Order",
+      "name_ru": "Первый Торуньский мир обязывает орден выплатить огромный выкуп",
+      "description": "The Teutonic Order signs the First Peace of Thorn with Poland and Lithuania, retaining most of its territory despite the defeat at Grunwald. Dobrzyń Land returns to Poland, while the Knights relinquish Samogitia only for the lifetimes of Jogaila and Vytautas. That temporary arrangement leaves a central territorial dispute unresolved rather than creating a durable peace.\n\nThe treaty also requires a collective ransom of 100,000 kopas of Prague groschen for prisoners, payable in four instalments. To raise the money, the Order borrows, confiscates church silver, and imposes heavier taxation on its subjects. Prussian towns and nobles consequently bear much of the cost of a war directed by the Knights. This financial burden explains how a settlement with limited territorial losses can nevertheless deepen internal opposition and weaken the Order's capacity to finance further warfare.",
+      "description_ru": "Тевтонский орден заключает Первый Торуньский мир с Польшей и Литвой, сохраняя большую часть территории несмотря на поражение при Грюнвальде. Добжиньская земля возвращается Польше, а от Жемайтии рыцари отказываются лишь на время жизни Ягайло и Витовта. Это временное решение оставляет важнейший территориальный спор открытым, а не устанавливает прочный мир.\n\nДоговор также предусматривает общий выкуп за пленных в размере 100 000 коп пражских грошей, выплачиваемый четырьмя взносами. Чтобы собрать деньги, орден занимает средства, изымает церковное серебро и увеличивает налоги для подданных. Поэтому значительная часть расходов войны, которой руководили рыцари, ложится на прусские города и дворянство. Эта финансовая нагрузка объясняет, почему соглашение с небольшими территориальными потерями всё же усиливает внутреннюю оппозицию и ослабляет способность ордена оплачивать новые военные действия.",
+      "latitude": 53.0103,
+      "longitude": 18.6048,
+      "source": "https://en.wikipedia.org/wiki/Peace_of_Thorn_(1411)",
+      "tags": ["German", "Polish", "Lithuanian", "Prussian", "Teuton", "Political", "War"]
+    },
+    {
+      "date": "27.09.1422",
+      "era": "AD",
+      "type": "political",
+      "name": "The Treaty of Melno ends the Order's claim to Samogitia",
+      "name_ru": "Мельнский мир прекращает претензии ордена на Жемайтию",
+      "description": "Grand Master Paul von Rusdorf concludes peace with Poland and Lithuania at Lake Melno after the Gollub War. Unlike the temporary settlement at Thorn, the treaty permanently recognizes Lithuania's possession of Samogitia. The Order retains Memel, while Lithuania keeps access to the Baltic around Palanga, separating the Prussian and Livonian territories along the coast.\n\nThe agreement establishes a Prussian-Lithuanian frontier that remains remarkably stable for centuries. It removes the territorial objective that had sustained repeated campaigns to link the Order's two Baltic branches through Samogitia. The end of this crusading frontier also reduces the supply of foreign volunteers, increasing dependence on the Order's own forces and paid soldiers. Relations with Poland remain contentious, so the settlement with Lithuania does not resolve the wider political and financial problems within the Teutonic state.",
+      "description_ru": "Великий магистр Пауль фон Русдорф заключает мир с Польшей и Литвой у озера Мельно после Голлубской войны. В отличие от временного Торуньского соглашения договор окончательно признаёт принадлежность Жемайтии Литве. Орден сохраняет Мемель, а Литва удерживает выход к Балтике около Паланги, разделяя прусские и ливонские владения вдоль побережья.\n\nСоглашение устанавливает прусско-литовскую границу, которая остаётся исключительно устойчивой на протяжении столетий. Оно устраняет территориальную цель многократных походов, призванных соединить две балтийские ветви ордена через Жемайтию. Закрытие этого крестоносного фронтира также сокращает приток иностранных добровольцев, усиливая зависимость от собственных сил и оплачиваемых солдат. Отношения с Польшей остаются спорными, поэтому урегулирование с Литвой не разрешает более широких политических и финансовых проблем внутри тевтонского государства.",
+      "latitude": 53.43222,
+      "longitude": 18.9875,
+      "source": "https://en.wikipedia.org/wiki/Treaty_of_Melno",
+      "tags": ["German", "Baltic", "Polish", "Lithuanian", "Teuton", "Political"]
+    },
+    {
+      "date": "01.09.1435",
+      "era": "AD",
+      "type": "military",
+      "name": "The Livonian Order suffers a major defeat at Wiłkomierz",
+      "name_ru": "Ливонский орден терпит тяжёлое поражение под Вилькомиром",
+      "description": "The Livonian Order's army is defeated near Wiłkomierz, present-day Ukmergė, while supporting Švitrigaila in the Lithuanian civil war. Lithuanian forces led by Michael, son of Sigismund Kęstutaitis, fight alongside Polish troops commanded by Jakub Kobylański. They attack while Švitrigaila and Livonian Master Franco Kerskorff are changing position, with their forces divided by a stream.\n\nThe interrupted manoeuvre turns into a rout, and Kerskorff is killed along with many senior officers; others are captured. Švitrigaila escapes with only a small following. The losses severely weaken the northern branch of the Teutonic Order, which had not shared the Prussian army's destruction at Grunwald. The battle is a distinct Livonian disaster, rooted in intervention in Lithuania's succession struggle rather than a renewed campaign against pagan communities.",
+      "description_ru": "Армия Ливонского ордена терпит поражение возле Вилькомира, нынешнего Укмерге, поддерживая Свидригайло в литовской междоусобной войне. Литовские силы под началом Михаила, сына Сигизмунда Кейстутовича, действуют вместе с польскими отрядами Якуба Кобылянского. Они атакуют в момент, когда Свидригайло и ливонский магистр Франко Керскорф меняют позицию, а их войска разделены ручьём.\n\nПрерванный манёвр превращается в разгром; Керскорф погибает вместе со многими старшими командирами, другие попадают в плен. Свидригайло спасается лишь с небольшим отрядом. Потери резко ослабляют северную ветвь Тевтонского ордена, которая не разделила уничтожения прусской армии при Грюнвальде. Это самостоятельная ливонская катастрофа, вызванная вмешательством в борьбу за литовский престол, а не возобновлением похода против языческих общин.",
+      "latitude": 55.16583,
+      "longitude": 24.77139,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Wi%C5%82komierz",
+      "tags": ["German", "Baltic", "Livonian", "Lithuanian", "Polish", "Teuton", "War", "Battle"]
+    },
+    {
+      "date": "14.03.1440",
+      "era": "AD",
+      "type": "political",
+      "name": "Prussian towns and nobles form a confederation against the Order",
+      "name_ru": "Прусские города и дворяне создают союз против ордена",
+      "description": "Representatives of Prussian towns and nobles establish the Prussian Confederation at Marienwerder, present-day Kwidzyn. The founding alliance includes nineteen cities and fifty-three nobles and clergy, with major commercial centres such as Danzig, Elbing, Thorn, and Königsberg taking leading roles. It gives organized expression to grievances over taxation, legal insecurity, and the Order's exercise of authority.\n\nThe opposition comes from subjects of the Teutonic state, not simply from an invading Polish army. Town councils and landowners seek to defend their privileges and coordinate resistance to a government that has repeatedly demanded money for wars and indemnities. The confederation provides a common institution through which these groups can negotiate and act together. Its foundation is therefore a separate political development between Grunwald and the later armed rebellion.",
+      "description_ru": "Представители прусских городов и дворянства учреждают Прусский союз в Мариенвердере, нынешнем Квидзыне. В первоначальное объединение входят девятнадцать городов и пятьдесят три представителя дворянства и духовенства; ведущую роль играют крупные торговые центры Данциг, Эльбинг, Торунь и Кёнигсберг. Союз придаёт организованную форму недовольству налогами, правовой незащищённостью и осуществлением орденской власти.\n\nОппозицию создают подданные тевтонского государства, а не просто вторгшаяся польская армия. Городские советы и землевладельцы стремятся защитить свои привилегии и согласовать сопротивление правительству, неоднократно требовавшему средства на войны и контрибуции. Союз даёт этим группам общий институт для переговоров и совместных действий. Поэтому его основание представляет собой самостоятельное политическое событие между Грюнвальдом и последующим вооружённым восстанием.",
+      "latitude": 53.7358,
+      "longitude": 18.9308,
+      "source": "https://en.wikipedia.org/wiki/Prussian_Confederation",
+      "tags": ["German", "Prussian", "Teuton", "Political", "Unification", "Rebellion"]
+    },
+    {
+      "date": "04.02.1454",
+      "era": "AD",
+      "type": "political",
+      "name": "The Prussian Confederation renounces obedience to the grand master",
+      "name_ru": "Прусский союз отказывается подчиняться великому магистру",
+      "description": "The secret council of the Prussian Confederation sends Grand Master Ludwig von Erlichshausen a formal declaration withdrawing obedience to the Teutonic Order. The act turns the alliance of towns and nobles from an organized opposition into an open challenge to the government's legitimacy. Thorn is one of the principal centres of the confederation's leadership and resistance.\n\nArmed revolt follows two days later, with towns attacking local garrisons and many captured castles being demolished rather than preserved for another ruler. The rebels also seek protection from King Casimir IV of Poland, bringing an internal Prussian conflict into a wider struggle between states. The declaration marks the political break that opens the Thirteen Years' War; the later Polish incorporation and military campaigns are consequences, not the same happening.",
+      "description_ru": "Тайный совет Прусского союза отправляет великому магистру Людвигу фон Эрлихсхаузену официальное заявление об отказе подчиняться Тевтонскому ордену. Этот акт превращает объединение городов и дворянства из организованной оппозиции в открытый вызов законности действующей власти. Торунь служит одним из главных центров руководства союзом и сопротивления.\n\nЧерез два дня начинается вооружённое восстание: города атакуют местные гарнизоны, а многие захваченные замки сносят, вместо того чтобы сохранить для другого правителя. Повстанцы также ищут защиты у польского короля Казимира IV, превращая внутренний прусский конфликт в более широкую межгосударственную борьбу. Заявление отмечает политический разрыв, открывающий Тринадцатилетнюю войну; последующее присоединение к Польше и военные кампании являются его последствиями, а не тем же самым событием.",
+      "latitude": 53.0103,
+      "longitude": 18.6048,
+      "source": "https://en.wikipedia.org/wiki/Thirteen_Years%27_War_(1454%E2%80%931466)",
+      "tags": ["German", "Prussian", "Polish", "Teuton", "Political", "Rebellion", "War"]
+    },
+    {
+      "date": "18.09.1454",
+      "era": "AD",
+      "type": "military",
+      "name": "The Teutonic army defeats Casimir IV at Chojnice",
+      "name_ru": "Тевтонская армия разбивает Казимира IV под Хойнице",
+      "description": "The Teutonic army defeats King Casimir IV's forces outside Chojnice, overturning Polish expectations of a quick victory in the Thirteen Years' War. The Polish cavalry initially breaks the enemy's mounted formations, kills Duke Rudolf of Żagań, and captures the commander Bernhard von Zinnenberg. However, the Order's infantry holds out behind its fortified wagon camp instead of collapsing with the cavalry.\n\nA sortie by the Teutonic garrison inside Chojnice attacks the Polish forces from behind and helps turn the engagement into a rout. Casimir escapes, but his army loses its camp and the initiative. The victory demonstrates that Grunwald had not made the Order incapable of winning major battles: experienced paid troops and a surviving fortress network remain effective. It also exposes the limitations of relying on a noble cavalry levy without coordinated infantry support.",
+      "description_ru": "Тевтонская армия разбивает войска короля Казимира IV у Хойнице, опровергая польские ожидания быстрой победы в Тринадцатилетней войне. Польская конница сначала прорывает вражеские конные порядки, убивает князя Рудольфа Жаганьского и берёт в плен командира Бернхарда фон Цинненберга. Однако орденская пехота удерживает укреплённый лагерь из повозок, не повторяя поражения конницы.\n\nВылазка тевтонского гарнизона из Хойнице наносит польским силам удар с тыла и помогает превратить сражение в разгром. Казимир спасается, но его войско теряет лагерь и инициативу. Победа показывает, что Грюнвальд не лишил орден способности выигрывать крупные сражения: опытные оплачиваемые войска и сохранившаяся сеть крепостей остаются действенными. Она также обнаруживает ограничения дворянского конного ополчения, действующего без согласованной поддержки пехоты.",
+      "latitude": 53.6955,
+      "longitude": 17.557,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Chojnice_(1454)",
+      "tags": ["German", "Polish", "Teuton", "War", "Battle"]
+    },
+    {
+      "date": "01.06.1457",
+      "era": "AD",
+      "type": "political",
+      "name": "Unpaid mercenaries sell Marienburg Castle to Poland",
+      "name_ru": "Неоплаченные наёмники продают Мариенбургский замок Польше",
+      "description": "Bohemian mercenaries holding Marienburg Castle sell the fortress to King Casimir IV of Poland because the Teutonic Order cannot pay their wages. The Knights had pledged the castle to their soldiers as security, giving creditors control of the very stronghold that had survived the siege after Grunwald. Polish negotiators arrange payment with substantial financial help from Danzig.\n\nThe transfer deprives the Order of its principal residence without a successful storming of the castle walls. Casimir enters the fortress, while the grand master's government relocates to Königsberg. Control of the castle and control of the surrounding town do not change as one uninterrupted event: the town subsequently becomes contested again. The sale shows how the cost of maintaining mercenary armies can undo a defensive system that remains formidable in purely military terms.",
+      "description_ru": "Богемские наёмники, удерживающие Мариенбургский замок, продают крепость польскому королю Казимиру IV, поскольку Тевтонский орден не может выплатить им жалованье. Рыцари заложили замок своим солдатам в обеспечение долга, отдав кредиторам контроль над тем самым укреплением, которое выдержало осаду после Грюнвальда. Польские переговорщики организуют выплату при значительной финансовой помощи Данцига.\n\nПередача лишает орден главной резиденции без успешного штурма замковых стен. Казимир входит в крепость, а управление великого магистра перемещается в Кёнигсберг. Контроль над замком и окружающим городом меняется не в рамках одного непрерывного события: город впоследствии вновь становится предметом борьбы. Продажа показывает, как расходы на содержание наёмных армий способны разрушить оборонительную систему, которая с чисто военной точки зрения остаётся грозной.",
+      "latitude": 54.03972,
+      "longitude": 19.02778,
+      "source": "https://en.wikipedia.org/wiki/Malbork_Castle",
+      "tags": ["German", "Prussian", "Polish", "Teuton", "Political", "War"]
+    },
+    {
+      "date": "17.09.1462",
+      "era": "AD",
+      "type": "military",
+      "name": "Piotr Dunin defeats the Teutonic army at Świecino",
+      "name_ru": "Пётр Дунин разбивает тевтонскую армию при Свецине",
+      "description": "Piotr Dunin's Polish army defeats the larger Teutonic force near Świecino in northern Pomerelia. Both sides use fortified wagon camps, but Dunin combines cavalry attacks with infantry armed with crossbows rather than relying on a single mounted charge. Teutonic commander Fritz Raweneck is wounded and then killed while attempting to renew the attack.\n\nPolish crossbow fire disrupts the opposing cavalry, and the collapse of that force exposes the infantry defending the Teutonic camp. The victory restores confidence after earlier Polish failures and is widely regarded as a turning point in the Thirteen Years' War. It reflects a change in the conduct of the campaign: paid troops, coordinated infantry, and sustained operations prove more effective than the noble levy defeated at Chojnice. The Order remains in the war, but its position in Pomerelia is substantially weakened.",
+      "description_ru": "Польская армия Петра Дунина разбивает более многочисленные тевтонские силы возле Свецина в северном Гданьском Поморье. Обе стороны используют укреплённые лагеря из повозок, но Дунин сочетает атаки конницы с действиями пехоты, вооружённой арбалетами, вместо расчёта на один конный удар. Тевтонский командир Фриц Равенек получает ранение, а затем погибает при попытке возобновить атаку.\n\nОгонь польских арбалетчиков расстраивает неприятельскую конницу, и её разгром оставляет без прикрытия пехоту, защищающую тевтонский лагерь. Победа восстанавливает уверенность после прежних польских неудач и обычно считается переломом в Тринадцатилетней войне. Она отражает изменение способов ведения кампании: оплачиваемые войска, согласованные действия пехоты и продолжительные операции оказываются действеннее дворянского ополчения, разбитого под Хойнице. Орден продолжает войну, но его положение в Поморье значительно ослабевает.",
+      "latitude": 54.787222,
+      "longitude": 18.087778,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_%C5%9Awiecino",
+      "tags": ["German", "Polish", "Teuton", "War", "Battle"]
     },
     {
       "date": "19.10.1466",
