@@ -1,0 +1,16 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "4y3kCT5RSOJVairMKBN-a"
+uri = "file://datasets/life/catharism.json"
+type = "unspecified"
+title = "Catharism and the Albigensian Crusade"
+description = "Validated JSON dataset: 20 bilingual events, 1143–1321. Complements the existing Béziers, Muret, and Treaty of Paris events."
+logical_id = "70bf0ca9-40f7-4acf-9733-cdd3c71de98c"
+content_hash = "sha256:a1429649201da1a413e5bb5d91d5f3ae947717dd1a7231733ee9263f05c1d0f6"
+size = 42706
+mtime_ms = 1790946392669
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:1ee5e2ed-81c0-4ef2-81d2-d89d9d85947c/70bf0ca9-40f7-4acf-9733-cdd3c71de98c/d3d34d64-b753-4c64-9cea-c621d59a7a83"
+storage_version_token = "1790946431581512"
+content_type = "application/octet-stream"
