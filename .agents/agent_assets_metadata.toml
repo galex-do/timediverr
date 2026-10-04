@@ -42,3 +42,17 @@ mtime_ms = 1791122571960
 storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:1ee5e2ed-81c0-4ef2-81d2-d89d9d85947c/1279f9ba-c0ce-4cf7-ad9e-b2acbe3f02ad/7f7cafa5-1ce6-45e0-a14c-dc0d11a47aa1"
 storage_version_token = "1791122683361425"
 content_type = "application/octet-stream"
+
+[[outputs]]
+id = "7TaHH8pvs_wgd9tjNtKDt"
+uri = "file://datasets/region/greece/hellenistic_macedonia.json"
+type = "unspecified"
+title = "Hellenistic Macedonia — 44 bilingual events"
+description = "323–148 BC: succession crises, Antigonid rulers, cities and architecture, mosaics, astronomy and Stoicism, local religion, naval engineering and weapons, and the Roman conquest. Validated JSON for dataset import."
+logical_id = "e7a577f1-9cd6-4f86-8c55-3ccc4a082793"
+content_hash = "sha256:da271b41a2a8897ba767eb028905e4588566674e6602c69c2910cca4c8dc2dea"
+size = 104322
+mtime_ms = 1791124321480
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:1ee5e2ed-81c0-4ef2-81d2-d89d9d85947c/e7a577f1-9cd6-4f86-8c55-3ccc4a082793/dd6ef714-d6a0-4fc7-ab87-29d750e89f46"
+storage_version_token = "1791124367284344"
+content_type = "application/octet-stream"

@@ -19,3 +19,11 @@ Do not copy Wikipedia infobox coordinates without checking that they match the p
 **Why:** The Aornos article displayed coordinates near Lahore while its prose discussed proposed sites near the upper Indus, including Pir Sar near Thakot. A real source page can still contain an unrelated or erroneous map coordinate.
 
 **How to apply:** Cross-check the named region and nearby settlements before assigning a dataset marker. Where the ancient site is disputed, use a representative proposed-site marker with appropriate precision and explicitly qualify the location in both languages; do not imply that the marker is an excavated or securely identified site.
+
+## Compare infobox dates with the narrative
+
+Do not treat a source's infobox as resolving a disputed chronology. Read the narrative's explanation of the date before assigning a timeline event, especially for provincial establishment, reigns, and archaeological phases.
+
+**Why:** A provincial-history article used one foundation year in its infobox but explained a different provincial-era starting year and a gradual administrative transition in its body.
+
+**How to apply:** Distinguish a military conquest, an administrative change, and the start of a dating era. If the source cannot establish a single formal founding act, identify the representative date and the competing chronology in both languages rather than presenting the infobox year as exact.
