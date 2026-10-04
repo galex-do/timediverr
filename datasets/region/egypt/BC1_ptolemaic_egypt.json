@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 77 events",
+  "description": "Dataset imported with 79 events",
   "events": [
     {
       "date": "01.01.0322",
@@ -146,25 +146,6 @@
         "Science"
       ],
       "type": "cultural"
-    },
-    {
-      "date": "01.01.0300",
-      "description": "Alexander's body is moved from Memphis to Alexandria and placed in a magnificent mausoleum called the Soma; the tomb becomes a pilgrimage site visited by Roman emperors for centuries",
-      "description_ru": "Тело Александра перемещено из Мемфиса в Александрию и помещено в великолепный мавзолей, называемый Сома; гробница становится местом паломничества, которое посещают римские императоры на протяжении веков",
-      "era": "BC",
-      "latitude": 31.2,
-      "longitude": 29.9,
-      "name": "Alexander's Tomb Moved to Alexandria",
-      "name_ru": "Мавзолей Александра",
-      "source": "https://en.wikipedia.org/wiki/Tomb_of_Alexander_the_Great",
-      "tags": [
-        "Greek",
-        "Egypt",
-        "Ptolemaic",
-        "Tomb",
-        "Alexander the Great 👤"
-      ],
-      "type": "historic"
     },
     {
       "date": "01.01.0297",

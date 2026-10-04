@@ -14,3 +14,17 @@ mtime_ms = 1790946392669
 storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:1ee5e2ed-81c0-4ef2-81d2-d89d9d85947c/70bf0ca9-40f7-4acf-9733-cdd3c71de98c/d3d34d64-b753-4c64-9cea-c621d59a7a83"
 storage_version_token = "1790946431581512"
 content_type = "application/octet-stream"
+
+[[outputs]]
+id = "6LiMWD0T8OHt3AGEO5hzH"
+uri = "file://datasets/life/alexander_the_great.json"
+type = "unspecified"
+title = "Alexander the Great dataset"
+description = "49 original bilingual historical events, chronologically ordered from 356 to 300 BC and moved out of seven regional datasets."
+logical_id = "be8c4f74-2be8-4140-ba66-2383c3620eba"
+content_hash = "sha256:76fd98a5976fc57c30c4856a2786cf7c17ba3fd96d7525537c9b0067086fe8da"
+size = 59224
+mtime_ms = 1791099567149
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:1ee5e2ed-81c0-4ef2-81d2-d89d9d85947c/be8c4f74-2be8-4140-ba66-2383c3620eba/b9780659-14b6-4459-bd9a-43fc58afd499"
+storage_version_token = "1791099640732858"
+content_type = "application/octet-stream"

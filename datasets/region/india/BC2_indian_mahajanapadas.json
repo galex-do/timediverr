@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 30 events",
+  "description": "Dataset imported with 29 events",
   "events": [
     {
       "date": "01.01.0700",
@@ -549,25 +549,6 @@
         "Overthrow"
       ],
       "type": "political"
-    },
-    {
-      "date": "01.09.0327",
-      "description": "Alexander III of Macedon crosses the Hindu Kush through the Khawak Pass and enters the Indian subcontinent for his eastern campaign, having already conquered the Achaemenid Persian Empire. He encounters fierce resistance from hill tribes and city-states in Bactria and Sogdiana before descending into Gandhara.",
-      "description_ru": "Александр Македонский переходит Гиндукуш через перевал Хавак и вступает в Индийский субконтинент в своём восточном походе. Он встречает ожесточённое сопротивление горных племён и городов-государств Бактрии и Согдианы.",
-      "era": "BC",
-      "latitude": 35.2,
-      "longitude": 69.5,
-      "name": "Alexander the Great Crosses the Hindu Kush",
-      "name_ru": "Александр Великий переходит Гиндукуш",
-      "source": "https://en.wikipedia.org/wiki/Indian_campaign_of_Alexander_the_Great",
-      "tags": [
-        "Greek",
-        "Indian",
-        "Conquest",
-        "Alexander the Great 👤",
-        "Expansion"
-      ],
-      "type": "military"
     },
     {
       "date": "01.10.0323",

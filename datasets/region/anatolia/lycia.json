@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 19 events",
+  "description": "Dataset imported with 18 events",
   "events": [
     {
       "date": "01.01.1400",
@@ -253,28 +253,6 @@
         "Anatolia"
       ],
       "type": "cultural"
-    },
-    {
-      "date": "01.01.0333",
-      "description": "Having crushed Persian resistance at Halicarnassus, Alexander the Great moved south into Lycia, expecting more fighting. However, the cities of the region were surprisingly willing to negotiate rather than fight. Telmessus, Xanthus, Patara, and some thirty smaller cities opened their gates without resistance—a striking contrast to the fierce tenacity the Lycians had shown during their previous conquests.\n\nThe peaceful transfer of power allowed Alexander to secure the coastline and harbors of Lycia, depriving the Persian fleet of safe bases on the southern Anatolian coast. For Lycia, this episode signified more a change in strategy than a change in spirit: having learned that empires eventually pass while local customs endure, the Lycian cities increasingly chose prudent adaptation to the next conqueror rather than costly resistance to the bitter end.",
-      "description_ru": "Сломив персидское сопротивление при Галикарнасе, Александр Македонский двинулся на юг, в Ликию, ожидая новых сражений, однако города региона на удивление охотно пошли на переговоры, а не на бой. Тельмесс, Ксанф, Патара и около тридцати меньших городов открыли ворота без сопротивления — разительный контраст с яростным упорством, которое ликийцы показывали ранее при завоеваниях. \n\nМирная передача власти позволила Александру закрепить за собой побережье и гавани Ликии, лишив персидский флот безопасных баз на южном анатолийском побережье. Для Ликии этот эпизод означал скорее смену стратегии, чем духа: усвоив, что империи рано или поздно уходят, а местные порядки остаются, ликийские города всё чаще выбирали расчётливое приспособление к очередному завоевателю вместо дорогостоящего сопротивления до конца.",
-      "era": "BC",
-      "latitude": 36.6217,
-      "longitude": 29.1164,
-      "name": "Lycia Submits Peacefully to Alexander the Great",
-      "name_ru": "Ликия мирно покоряется Александру Македонскому",
-      "source": "https://en.wikipedia.org/wiki/Lycia",
-      "tags": [
-        "Greek",
-        "Macedonian",
-        "Lycian",
-        "Conquest",
-        "Political",
-        "Alexander the Great 👤",
-        "Anatolia",
-        "Vassalage"
-      ],
-      "type": "political"
     },
     {
       "date": "01.01.0188",

@@ -1,0 +1,1003 @@
+{
+  "description": "Alexander the Great: his life, campaigns, foundations, relationships, and the immediate succession and movement of his remains. Consolidated from the regional historical datasets, preserving the original bilingual event records.",
+  "filename": "alexander_the_great.json",
+  "events": [
+    {
+      "date": "20.07.0356",
+      "description": "Alexander the Great born in Pella to Philip II and Olympias; legend claims Temple of Artemis at Ephesus burns same night because goddess was attending his birth",
+      "description_ru": "Александр Великий рождается в Пелле у Филиппа II и Олимпиады; легенда гласит, что Храм Артемиды в Эфесе горит в ту же ночь, потому что богиня присутствовала при его рождении",
+      "era": "BC",
+      "latitude": 40.7569,
+      "longitude": 22.5214,
+      "name": "Birth of Alexander the Great",
+      "name_ru": "Рождение Александра Великого",
+      "source": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+      "tags": [
+        "Milestone ⭐️",
+        "Greek",
+        "Macedonian",
+        "Dynasty",
+        "Legend",
+        "Alexander the Great 👤",
+        "Birth"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0344",
+      "description": "Young Alexander tames wild horse Bucephalus that no one else could ride, after noticing the horse feared its own shadow; Philip reportedly says 'My son, seek out a kingdom worthy of yourself, for Macedonia is too small for you'",
+      "description_ru": "Юный Александр укрощает дикого коня Буцефала, которого никто не мог оседлать, заметив, что конь боится своей тени; по преданию, Филипп сказал: 'Сын мой, ищи царство, достойное тебя, ибо Македония для тебя слишком мала'",
+      "era": "BC",
+      "latitude": 40.5167,
+      "longitude": 22.5167,
+      "name": "Alexander Tames Bucephalus",
+      "name_ru": "Александр укрощает Буцефала",
+      "source": "https://en.wikipedia.org/wiki/Bucephalus",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Legend",
+        "Alexander the Great 👤",
+        "Horse"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0343",
+      "description": "Aristotle becomes tutor to 13-year-old Alexander at Mieza; teaches philosophy, medicine, and science for 3 years, instilling in future conqueror love of Homer and Greek culture",
+      "description_ru": "Аристотель становится наставником 13-летнего Александра в Миезе; преподает философию, медицину и науку 3 года, прививая будущему завоевателю любовь к Гомеру и греческой культуре",
+      "era": "BC",
+      "latitude": 40.65,
+      "longitude": 22.15,
+      "name": "Aristotle Tutors Alexander",
+      "name_ru": "Аристотель обучает Александра",
+      "source": "https://en.wikipedia.org/wiki/Aristotle",
+      "tags": [
+        "Greek",
+        "Philosophy",
+        "Alexander the Great 👤",
+        "Aristotle 👤",
+        "Education"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "01.01.0340",
+      "description": "16-year-old Alexander left as regent of Macedonia while Philip campaigns; defeats Maedi rebellion and founds first city Alexandropolis, demonstrating precocious military and administrative ability",
+      "description_ru": "16-летний Александр оставлен регентом Македонии, пока Филипп ведет кампании; подавляет восстание медов и основывает первый город Александрополь, демонстрируя не по годам развитые военные и административные способности",
+      "era": "BC",
+      "latitude": 40.5167,
+      "longitude": 22.5167,
+      "name": "Alexander as Regent",
+      "name_ru": "Александр как регент",
+      "source": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Alexander the Great 👤",
+        "Regency"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "02.08.0338",
+      "description": "Philip II defeats combined Athenian-Theban army; 18-year-old Alexander leads decisive cavalry charge destroying Sacred Band of Thebes - Greek independence ends",
+      "description_ru": "Филипп II громит объединенную афино-фиванскую армию, представляющую независимые греческие города; 18-летний Александр возглавляет решающую кавалерийскую атаку, уничтожающую Священный отряд Фив. После этого сражения Македония становится гегемоном Греции",
+      "era": "BC",
+      "latitude": 38.4942,
+      "longitude": 22.8436,
+      "name": "Battle of Chaeronea",
+      "name_ru": "Битва при Херонее",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Chaeronea_(338_BC)",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Athens",
+        "Battle",
+        "Alexander the Great 👤",
+        "Philip II 👑",
+        "Thebes"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.10.0336",
+      "description": "Philip II assassinated at daughter's wedding by bodyguard Pausanias; Alexander becomes king at 20, immediately executes rivals and suppresses rebellions in Thrace and Thebes",
+      "description_ru": "Филипп II убит на свадьбе дочери телохранителем Павсанием; Александр становится царем в 20 лет, немедленно казня соперников, борясь со слухами и подавляя восстания во Фракии и Фивах",
+      "era": "BC",
+      "latitude": 40.3,
+      "longitude": 21.7833,
+      "name": "Assassination of Philip II",
+      "name_ru": "Убийство Филиппа II",
+      "source": "https://en.wikipedia.org/wiki/Philip_II_of_Macedon",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Death",
+        "Alexander the Great 👤",
+        "Assassination",
+        "Philip II 👑",
+        "Regicide"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0335",
+      "description": "Alexander destroys Thebes as warning to Greeks; city razed except for temples and house of poet Pindar, 30,000 inhabitants sold into slavery - rebellion against Macedon unthinkable",
+      "description_ru": "Александр разрушает восставшие против Македонии Фивы как предупреждение грекам; город стерт с лица земли, кроме храмов и дома поэта Пиндара, 30 000 жителей проданы в рабство - восстание против Македонии недопустимо",
+      "era": "BC",
+      "latitude": 38.3192,
+      "longitude": 23.3178,
+      "name": "Destruction of Thebes",
+      "name_ru": "Александр разрушает Фивы",
+      "source": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "War",
+        "Destruction",
+        "Alexander the Great 👤",
+        "Slavery",
+        "Thebes"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0334",
+      "description": "Alexander crosses Hellespont into Asia with 35,000 troops, beginning conquest of Persian Empire; visits Troy and pays homage to Achilles",
+      "description_ru": "Александр переправляется через Геллеспонт в Азию с 35 000 воинов, начиная завоевание Персидской империи; посещает Трою и отдает дань уважения Ахиллу",
+      "era": "BC",
+      "latitude": 40.19667529,
+      "longitude": 26.40971661,
+      "name": "Alexander Invades Persian Empire",
+      "name_ru": "Александр вторгается в Персидскую империю",
+      "source": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Macedonian",
+        "Achaemenid",
+        "War",
+        "Invasion",
+        "Alexander the Great 👤"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.05.0334",
+      "description": "Alexander defeats Persian satrapal army at Battle of Granicus River, opening Asia Minor to Macedonian conquest and revealing Persian tactical weakness",
+      "description_ru": "Александр побеждает персидскую армию в битве при реке Граник, открывая Малую Азию для македонского завоевания",
+      "era": "BC",
+      "latitude": 40.29406071,
+      "longitude": 27.2347641,
+      "name": "Battle of Granicus",
+      "name_ru": "Битва при Гранике",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_the_Granicus",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Macedonian",
+        "Achaemenid",
+        "War",
+        "Battle",
+        "Alexander the Great 👤"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "11.06.0334",
+      "description": "Alexander, having won at Granicus, enters the city without a fight. Alexander showed mercy to the inhabitants: he permitted the Lydians to live according to their ancient laws and customs, which had been in effect before the Persian conquest. He also ordered the construction of a temple to Artemis, patroness of Asia Minor, in Sardis on the site of an older sanctuary.",
+      "description_ru": "Александр, победив при Гранике, входит в город без боя. Александр проявил милость к жителям: он разрешил лидийцам жить по их древним законам и обычаям, которые действовали до персидского завоевания. Также он велел заложить в Сардах храм Артемиды, покровительницы Малой Азии, на месте старого святилища.",
+      "era": "BC",
+      "latitude": 38.4799196,
+      "longitude": 28.030774,
+      "name": "Sardis surrenders to Alexander the Great",
+      "name_ru": "Сарды сдаются Александру Македонскому",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Macedonian",
+        "Ionian",
+        "Lydia",
+        "Religious",
+        "War",
+        "Conquest",
+        "Temple",
+        "Alexander the Great 👤"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "21.06.0334",
+      "description": "In the 7th century BC, Smyrna was razed to the ground by the Lydian king Alyattes. For nearly 300 years, the city lay dormant, its inhabitants living in scattered villages. In 334, Alexander the Great arrived. According to legend, after hunting on Mount Pagos (today's Kadifekale Hill), the king fell asleep under a plane tree near the sanctuary of the goddesses Nemesis. In a dream, the goddesses commanded him to found a new great city on this site and resettle the Smyrnaeans there. Thus, the new city was founded on the southern shore of the bay. Like many Greek cities, it was laid out according to the Hippodamian grid. The main street, the Golden Road, crossed the city from the Temple of Zeus to the Temple of Cybele. It was designed so that the sea breeze blew through it, saving residents from the summer heat.",
+      "description_ru": "В VII веке до н. э. Смирну стер с лица земли лидийский царь Алиатт. Почти 300 лет города не существовало — жители жили разрозненными деревнями. В 334 году сюда прибыл Александр Македонский. По легенде, после охоты на горе Пагос (сегодня это холм Кадифекале) царь уснул под платаном у святилища богинь Немезид. Во сне богини приказали ему основать на этом месте новый великий город и переселить туда смирнцев. Таким образом, новый город был заложен на южном берегу залива. Он, как и многие греческие города, был построен по сетке Гипподама. Главная улица — Золотая дорога — пересекала город от храма Зевса до храма Кибелы. Она была спроектирована так, что морской бриз продувал её насквозь, спасая жителей от летнего зноя.",
+      "era": "BC",
+      "latitude": 38.41916639,
+      "longitude": 27.13700294,
+      "name": "Alexander refounds Smyrna",
+      "name_ru": "Александр переосновывает Смирну",
+      "source": "https://en.wikipedia.org/wiki/Smyrna",
+      "tags": [
+        "Greek",
+        "City",
+        "Architecture",
+        "Alexander the Great 👤",
+        "Restoration"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.07.0334",
+      "description": "As Ionia was liberated from the Persians, Alexander arrived in Clazomenae. Recognizing the city's unique location (a wealthy port divided into two parts), the king decided to unite the island and the mainland. He approved the dam project, allocated vast sums of money from the captured Persian treasury of Sardis, and left a team of engineers and governors in the city. He and his army immediately moved further south—to Miletus and Halicarnassus.",
+      "description_ru": "По мере освобождения Ионии от персов, Александр прибыл в Клазомены. Оценив уникальное положение города (богатый порт, разделенный на две части), царь принял решение объединить остров и материк. Царь утвердил проект дамбы, выделил на него огромные деньги из захваченной персидской казны Сард и оставил в городе команду инженеров и наместников, а сам со своей армией сразу же двинулся дальше на юг — к Милету и Галикарнасу.",
+      "era": "BC",
+      "latitude": 38.36622353,
+      "longitude": 26.78179264,
+      "name": "Alexander the Great lays the dam at Klazomenai",
+      "name_ru": "Александр Великий закладывает дамбу в Клазоменах",
+      "source": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+      "tags": [
+        "Greek",
+        "Engineering ⚙️",
+        "Alexander the Great 👤"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "20.08.0334",
+      "description": "Ada, last Hecatomnid ruler, surrenders fortress of Alinda to Alexander and adopts him as her son; Alexander restores her rule over Caria as reward, ending Persian period and beginning Hellenistic era",
+      "description_ru": "Ада, последний правитель Гекатомнидов, сдает крепость Алинда Александру и усыновляет его; Александр восстанавливает ее правление над Карией в награду, завершая персидский период и начиная эллинистическую эру",
+      "era": "BC",
+      "latitude": 37.5333,
+      "longitude": 27.8833,
+      "name": "Ada Allies with Alexander",
+      "name_ru": "Ада союзничает с Александром",
+      "source": "https://en.wikipedia.org/wiki/Ada_of_Caria",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Carian",
+        "Alliance",
+        "Alexander the Great 👤",
+        "Vassalage"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.09.0334",
+      "description": "Alexander the Great besieges Halicarnassus during conquest of Asia; despite fierce resistance led by Persian commanders Memnon and Orontobates, city falls after prolonged siege, partially destroying Mausoleum's precinct",
+      "description_ru": "Александр Великий осаждает Галикарнас во время завоевания Азии, чтобы лишить Персию морской базы; несмотря на ожесточенное сопротивление под руководством персидских командиров Мемнона и Оронтобата, город сдается после длительной осады. Мавзолей подвергается частичному разрушению",
+      "era": "BC",
+      "latitude": 37.0379,
+      "longitude": 27.4241,
+      "name": "Alexander Conquers Halicarnassus",
+      "name_ru": "Александр завоевывает Галикарнас",
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Halicarnassus",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Macedonian",
+        "Carian",
+        "War",
+        "Conquest",
+        "Battle",
+        "Alexander the Great 👤",
+        "Siege"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0333",
+      "description": "Having crushed Persian resistance at Halicarnassus, Alexander the Great moved south into Lycia, expecting more fighting. However, the cities of the region were surprisingly willing to negotiate rather than fight. Telmessus, Xanthus, Patara, and some thirty smaller cities opened their gates without resistance—a striking contrast to the fierce tenacity the Lycians had shown during their previous conquests.\n\nThe peaceful transfer of power allowed Alexander to secure the coastline and harbors of Lycia, depriving the Persian fleet of safe bases on the southern Anatolian coast. For Lycia, this episode signified more a change in strategy than a change in spirit: having learned that empires eventually pass while local customs endure, the Lycian cities increasingly chose prudent adaptation to the next conqueror rather than costly resistance to the bitter end.",
+      "description_ru": "Сломив персидское сопротивление при Галикарнасе, Александр Македонский двинулся на юг, в Ликию, ожидая новых сражений, однако города региона на удивление охотно пошли на переговоры, а не на бой. Тельмесс, Ксанф, Патара и около тридцати меньших городов открыли ворота без сопротивления — разительный контраст с яростным упорством, которое ликийцы показывали ранее при завоеваниях. \n\nМирная передача власти позволила Александру закрепить за собой побережье и гавани Ликии, лишив персидский флот безопасных баз на южном анатолийском побережье. Для Ликии этот эпизод означал скорее смену стратегии, чем духа: усвоив, что империи рано или поздно уходят, а местные порядки остаются, ликийские города всё чаще выбирали расчётливое приспособление к очередному завоевателю вместо дорогостоящего сопротивления до конца.",
+      "era": "BC",
+      "latitude": 36.6217,
+      "longitude": 29.1164,
+      "name": "Lycia Submits Peacefully to Alexander the Great",
+      "name_ru": "Ликия мирно покоряется Александру Македонскому",
+      "source": "https://en.wikipedia.org/wiki/Lycia",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Lycian",
+        "Conquest",
+        "Political",
+        "Alexander the Great 👤",
+        "Anatolia",
+        "Vassalage"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.04.0333",
+      "description": "Alexander cuts Gordian Knot at Gordium according to legend, symbolically claiming destiny to rule Asia as prophesied",
+      "description_ru": "Александр разрубает Гордиев узел в Гордионе согласно легенде, символически заявляя о судьбе править Азией, как предсказано",
+      "era": "BC",
+      "latitude": 39.6511,
+      "longitude": 31.9958,
+      "name": "Gordian Knot",
+      "name_ru": "Александр разрубает Гордиев узел",
+      "source": "https://en.wikipedia.org/wiki/Gordian_Knot",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Culture",
+        "Legend",
+        "Alexander the Great 👤"
+      ],
+      "type": "cultural"
+    },
+    {
+      "date": "05.11.0333",
+      "description": "Alexander crushes Darius III's main army at Battle of Issus; Darius flees, abandoning his family and treasury to Macedonians in humiliating defeat",
+      "description_ru": "Александр разбивает главную армию Дария III в битве при Иссе; Дарий бежит, бросая свою семью и казну македонцам в унизительном поражении",
+      "era": "BC",
+      "latitude": 36.75965352,
+      "longitude": 36.19977951,
+      "name": "Battle of Issus",
+      "name_ru": "Битва при Иссе",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Issus",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Macedonian",
+        "Achaemenid",
+        "War",
+        "Battle",
+        "Alexander the Great 👤"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0332",
+      "description": "Alexander the Great conducts seven-month siege of island fortress of Tyre, building causeway to city and ending Phoenician independence with brutal conquest",
+      "description_ru": "Александр Македонский проводит семимесячную осаду островной крепости Тир, строя дамбу к городу и завершая финикийскую независимость жестоким завоеванием",
+      "era": "BC",
+      "latitude": 33.271,
+      "longitude": 35.204,
+      "name": "Siege of Tyre by Alexander",
+      "name_ru": "Осада Тира Александром",
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Tyre_%28332_BC%29",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Macedonian",
+        "Phoenician",
+        "Tyre",
+        "War",
+        "Alexander the Great 👤",
+        "Siege"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.08.0332",
+      "description": "After heroic resistance, Tyre falls to Alexander; 8,000 defenders killed, 30,000 enslaved, 2,000 leading citizens crucified, marking end of Phoenician political independence",
+      "description_ru": "После героического сопротивления Тир пал перед Александром; 8 тыс. защитников убито, 30 тыс. порабощены, тысячи казнены. Тир лишился независимости, хотя формально Александр оставил элиты править Тиром.",
+      "era": "BC",
+      "latitude": 33.271,
+      "longitude": 35.204,
+      "name": "Fall of Tyre",
+      "name_ru": "Падение Тира",
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Tyre_%28332_BC%29",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Phoenician",
+        "Tyre",
+        "War",
+        "Conquest",
+        "Alexander the Great 👤",
+        "Fall"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.11.0332",
+      "description": "Egypt surrenders to Alexander without resistance; Egyptians welcome him as liberator from Persian rule, crowning him pharaoh",
+      "description_ru": "Египет сдается Александру без сопротивления; египтяне приветствуют его как освободителя от персидского правления, коронуя фараоном",
+      "era": "BC",
+      "latitude": 29.850278,
+      "longitude": 31.250833,
+      "name": "Alexander Conquers Egypt",
+      "name_ru": "Александр подчиняет Египет",
+      "source": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Egypt",
+        "Macedonian",
+        "Achaemenid",
+        "War",
+        "Conquest",
+        "Alexander the Great 👤"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0331",
+      "description": "Alexander visits Oracle of Amun at Siwa Oasis in Libyan Desert; priests allegedly greet him as 'son of Amun' (son of Zeus), reinforcing his divine status and claim to Egyptian throne",
+      "description_ru": "Александр посещает Оракул Амона в оазисе Сива в Ливийской пустыне; жрецы якобы приветствуют его как 'сына Амона' (сына Зевса), укрепляя его божественный статус и претензию на египетский трон",
+      "era": "BC",
+      "latitude": 29.2032,
+      "longitude": 25.5199,
+      "name": "Oracle of Siwa - Son of Amun",
+      "name_ru": "Оракул Сивы - Сын Амона",
+      "source": "https://en.wikipedia.org/wiki/Siwa_Oasis",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Macedonian",
+        "Religious",
+        "Pagan",
+        "Alexander the Great 👤",
+        "Oracle"
+      ],
+      "type": "religious"
+    },
+    {
+      "date": "01.01.0331",
+      "description": "Alexander founds Alexandria in Egypt at strategic location on Mediterranean coast; city becomes greatest center of learning and commerce in ancient world, housing famous Library and Lighthouse",
+      "description_ru": "Александр основывает Александрию в Египте в стратегическом месте на побережье Средиземного моря; город станет величайшим центром учености и торговли древнего мира с знаменитой Библиотекой и Маяком",
+      "era": "BC",
+      "latitude": 31.206667,
+      "longitude": 29.900278,
+      "name": "Foundation of Alexandria in Egypt",
+      "name_ru": "Основание Александрии Египетской",
+      "source": "https://en.wikipedia.org/wiki/Alexandria",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Macedonian",
+        "City",
+        "Alexander the Great 👤",
+        "Vanity"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.10.0331",
+      "description": "Alexander decisively defeats Darius III and his satraps (Armenia, Bactria, Syria) at the Battle of Gaugamela; Darius flees again. Organized Persian resistance is almost exhausted.",
+      "description_ru": "Александр решительно побеждает Дария III и его сатрапов (Армения, Бактрия, Сирия) в битве при Гавгамелах; Дарий снова бежит. Организованное персидское сопротивление на этом почти исчерпано",
+      "era": "BC",
+      "latitude": 36.56053182,
+      "longitude": 43.39342117,
+      "name": "Battle of Gaugamela",
+      "name_ru": "Битва при Гавгамелах",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Gaugamela",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Armenian",
+        "Macedonian",
+        "Achaemenid",
+        "War",
+        "Battle",
+        "Alexander the Great 👤",
+        "Bactria"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.12.0331",
+      "description": "Alexander enters Babylon peacefully; Babylonians celebrate liberation from Persian rule, welcoming Alexander as legitimate successor",
+      "description_ru": "Александр мирно входит в Вавилон; вавилоняне празднуют освобождение от персидского правления, приветствуя Александра как законного преемника",
+      "era": "BC",
+      "latitude": 32.5422,
+      "longitude": 44.4215,
+      "name": "Alexander Enters Babylon",
+      "name_ru": "Александр входит в Вавилон",
+      "source": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Babylonian",
+        "Macedonian",
+        "Achaemenid",
+        "War",
+        "Conquest",
+        "Alexander the Great 👤"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.02.0330",
+      "description": "Fall of Achaemenid Persian Empire after 220 years; Alexander inherits vast territories from Egypt to Central Asia, transforming world political order",
+      "description_ru": "Падение Ахеменидской Персидской империи после 220 лет; Александр наследует огромные территории от Египта до Центральной Азии, трансформируя мировой политический порядок",
+      "era": "BC",
+      "latitude": 32.1897,
+      "longitude": 48.2583,
+      "name": "Fall of Achaemenid Empire",
+      "name_ru": "Падение династии Ахеменидов",
+      "source": "https://en.wikipedia.org/wiki/Achaemenid_Empire",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Macedonian",
+        "Achaemenid",
+        "Empire",
+        "War",
+        "Alexander the Great 👤",
+        "End",
+        "Fall"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.03.0330",
+      "description": "Alexander captures Persepolis; allows troops to plunder ceremonial capital for several days, seizing immense wealth accumulated over 200 years",
+      "description_ru": "Александр захватывает Персеполь; позволяет войскам грабить церемониальную столицу несколько дней, овладевая огромным богатством, накопленным за 200 лет",
+      "era": "BC",
+      "latitude": 29.9342,
+      "longitude": 52.8906,
+      "name": "Capture of Persepolis",
+      "name_ru": "Александр захватывает Персеполь",
+      "source": "https://en.wikipedia.org/wiki/Persepolis",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Macedonian",
+        "War",
+        "Conquest",
+        "Pillage",
+        "Alexander the Great 👤"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.05.0330",
+      "description": "Alexander burns Persepolis palace complex, destroying architectural masterpiece and symbol of Persian imperial power; act marks symbolic end of Achaemenid Empire",
+      "description_ru": "Александр сжигает дворцовый комплекс Персеполя, уничтожая архитектурный шедевр и символ персидской имперской мощи; акт знаменует символический конец династии Ахеменидов",
+      "era": "BC",
+      "latitude": 29.9342,
+      "longitude": 52.8906,
+      "name": "Burning of Persepolis",
+      "name_ru": "Александр сжигает Персеполь",
+      "source": "https://en.wikipedia.org/wiki/Persepolis",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Macedonian",
+        "War",
+        "Destruction",
+        "Alexander the Great 👤"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.09.0330",
+      "description": "The local Achaemenid satrap, Satibarzanes, rebelled against Macedonian rule, and Alexander stormed the city. To crush the spirit of resistance and consolidate his authority, he declared the city's rebuilding in the Greek style. Several thousand Macedonian veterans and mercenaries remained in the city, becoming its new elite.",
+      "description_ru": "Местный ахеменидский сатрап Сатибарзан восстал против власти Македонии, и Александр взял город штурмом. Чтобы подавить дух сопротивления и утвердить свою власть, он объявил о перестройке города на греческий лад. В городе оставались несколько тысяч македонских ветеранов и наемников, которые становились новой элитой.",
+      "era": "BC",
+      "latitude": 34.34583668,
+      "longitude": 62.18842149,
+      "name": "The founding of Alexandria Ariana",
+      "name_ru": "Основание Александрии Арии",
+      "source": "https://en.wikipedia.org/wiki/Herat#History",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Macedonian",
+        "Achaemenid",
+        "City",
+        "Conquest",
+        "Alexander the Great 👤",
+        "Vanity"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.10.0330",
+      "description": "Alexander executes general Philotas for alleged conspiracy, then sends assassins to kill Philotas's father Parmenion, his most experienced commander; first major purge of Macedonian nobility",
+      "description_ru": "Александр казнит полководца Филоту за предполагаемый заговор, затем отправляет убийц к отцу Филоты Пармениону, его самому опытному командиру; первая крупная чистка македонской знати",
+      "era": "BC",
+      "latitude": 32.54449791,
+      "longitude": 63.56414795,
+      "name": "Execution of Philotas and Parmenion",
+      "name_ru": "Александр казнит полководцев",
+      "source": "https://en.wikipedia.org/wiki/Philotas",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Alexander the Great 👤",
+        "Conspiracy",
+        "Purge"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.12.0330",
+      "description": "Alexander the Great, advancing eastward, chose a point at the intersection of the most important trade routes connecting India, Persia, and Central Asia. The city was built not simply as a fortress, but as a full-fledged Greek center. It housed veterans of the Macedonian army (often wounded or elderly) and local residents. It boasted theaters, gymnasiums, and temples typical of Greek culture.",
+      "description_ru": "Александр Македонский, продвигаясь на восток, выбрал точку на пересечении важнейших торговых путей, соединявших Индию, Персию и Центральную Азию. Город строился не просто как крепость, а как полноценный греческий центр. Сюда заселяли ветеранов македонской армии (часто раненых или пожилых) и местных жителей. Там были типичные для греков театры, гимнасии и храмы.",
+      "era": "BC",
+      "latitude": 31.59886089,
+      "longitude": 65.6577301,
+      "name": "The foundation of Alexandria in Arachosia",
+      "name_ru": "Основание Александрии в Арахозии",
+      "source": "https://en.wikipedia.org/wiki/Kandahar",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "City",
+        "Alexander the Great 👤",
+        "Vanity"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0329",
+      "description": "Alexander pursues Bessus into Bactria and Sogdiana (modern Afghanistan/Central Asia); captures and executes Darius's murderer, beginning three years of difficult guerrilla warfare in mountains",
+      "description_ru": "Александр преследует последнего царя Ахеменидов Бесса в Бактрии и Согдиане (современный Афганистан/Центральная Азия); захватывает и казнит убийцу Дария. Тяжелая партизанская война в горах длится три года",
+      "era": "BC",
+      "latitude": 36.7,
+      "longitude": 66.9,
+      "name": "Bactrian Campaign Begins",
+      "name_ru": "Поход Александра в Бактрию",
+      "source": "https://en.wikipedia.org/wiki/Bactria",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Achaemenid",
+        "War",
+        "Alexander the Great 👤",
+        "Bactria",
+        "Expedition"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.07.0329",
+      "description": "Cyropolis desperately resisted the Greek invasion, defending the name of its founder. While the main forces distracted the defenders at the walls, Alexander the Great and a small force sneaked inside through a dry riverbed that ran beneath the city walls. During the battle, Alexander was hit on the head by a stone and temporarily lost his sight. The city's resistance and the wound enraged Alexander, who ordered the city completely razed and the population enslaved.",
+      "description_ru": "Кирополь отчаянно сопротивлялся вторжению греков, отстаивая имя своего основателя. Пока основные силы отвлекали защитников у стен, Александр Македонский с небольшим отрядом прокрался внутрь через высохшее русло реки, которое проходило под городской стеной. Александр во время боя получил по голове камнем и на время лишился зрения. Сопротивление города и ранение ввели Александра в ярость, он велел разорить город полностью, а население поработить.",
+      "era": "BC",
+      "latitude": 39.91625378,
+      "longitude": 69.00729418,
+      "name": "Alexander ravages Cyropolis",
+      "name_ru": "Александр разоряет Кирополь",
+      "source": "https://en.wikipedia.org/wiki/Cyropolis",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Macedonian",
+        "Achaemenid",
+        "Conquest",
+        "Destruction",
+        "Alexander the Great 👤"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.08.0329",
+      "description": "The city was built in record time—just 20 days, sweltering in the August heat. The mudbrick walls stretched for approximately 10 kilometers. Soldiers and slaves from Cyropolis worked to the point of exhaustion, as the Massagetae were already looming on the other bank of the Syr Darya. Arrian writes that Alexander personally oversaw the work, despite his injury.",
+      "description_ru": "Город возвели в рекордные сроки — всего за 20 дней, изнемогая от августовской жары. Стены из сырцового кирпича растянулись примерно на 10 км. Солдаты и рабы из Кирополя работали на износ, потому что на другом берегу Сырдарьи уже маячили массагеты. Арриан пишет, что Александр лично следил за работами, несмотря на ранение. ",
+      "era": "BC",
+      "latitude": 40.28610611,
+      "longitude": 69.61664915,
+      "name": "The founding of Alexandria Eschate",
+      "name_ru": "Основание Александрии Эсхаты",
+      "source": "https://en.wikipedia.org/wiki/Alexandria_Eschate",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "City",
+        "Fortification",
+        "Alexander the Great 👤"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0328",
+      "description": "Alexander attempts to introduce proskynesis (Persian ritual prostration) at court; Greek companions refuse to bow as to a god, led by Callisthenes who is later arrested for conspiracy",
+      "description_ru": "Александр пытается ввести при дворе проскинезис (персидский ритуал поклонения) при дворе; греческие соратники отказываются кланяться ему как богу",
+      "era": "BC",
+      "latitude": 39.65,
+      "longitude": 66.96,
+      "name": "Proskynesis Controversy",
+      "name_ru": "Греки не принимают проскинезис",
+      "source": "https://en.wikipedia.org/wiki/Proskynesis",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Macedonian",
+        "Blasphemy",
+        "Cultural Continuity",
+        "Alexander the Great 👤"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.09.0328",
+      "description": "Alexander kills his friend and general Cleitus the Black in drunken rage at banquet when Cleitus criticizes his Persian customs adoption; Alexander is consumed by remorse for days",
+      "description_ru": "Александр убивает своего друга и полководца Клита Черного в пьяной ярости на пиру, когда Клит критикует принятие им персидских обычаев; Александр охвачен раскаянием несколько дней",
+      "era": "BC",
+      "latitude": 39.65,
+      "longitude": 66.96,
+      "name": "Murder of Cleitus the Black",
+      "name_ru": "Убийство Клита Черного",
+      "source": "https://en.wikipedia.org/wiki/Cleitus_the_Black",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Alexander the Great 👤",
+        "Murder"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.04.0327",
+      "description": "Alexander marries Roxana, Bactrian princess captured at Sogdian Rock fortress; first and most beloved of his wives, she will bear his only legitimate heir after his death",
+      "description_ru": "Александр женится на Роксане, бактрийской принцессе, захваченной в крепости Согдийская Скала; первая и самая любимая из его жен, она родит его единственного законного наследника после его смерти",
+      "era": "BC",
+      "latitude": 39.1,
+      "longitude": 67.3,
+      "name": "Marriage to Roxana",
+      "name_ru": "Женитьба Александра на Роксане",
+      "source": "https://en.wikipedia.org/wiki/Roxana",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Marriage",
+        "Alexander the Great 👤",
+        "Bactria"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.09.0327",
+      "description": "Alexander III of Macedon crosses the Hindu Kush through the Khawak Pass and enters the Indian subcontinent for his eastern campaign, having already conquered the Achaemenid Persian Empire. He encounters fierce resistance from hill tribes and city-states in Bactria and Sogdiana before descending into Gandhara.",
+      "description_ru": "Александр Македонский переходит Гиндукуш через перевал Хавак и вступает в Индийский субконтинент в своём восточном походе. Он встречает ожесточённое сопротивление горных племён и городов-государств Бактрии и Согдианы.",
+      "era": "BC",
+      "latitude": 35.2,
+      "longitude": 69.5,
+      "name": "Alexander the Great Crosses the Hindu Kush",
+      "name_ru": "Александр Великий переходит Гиндукуш",
+      "source": "https://en.wikipedia.org/wiki/Indian_campaign_of_Alexander_the_Great",
+      "tags": [
+        "Greek",
+        "Indian",
+        "Conquest",
+        "Alexander the Great 👤",
+        "Expansion"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.05.0326",
+      "description": "Alexander defeats Indian King Porus at Battle of Hydaspes despite facing war elephants for first time; impressed by Porus's valor, Alexander restores his kingdom and makes him ally",
+      "description_ru": "Александр побеждает индийского царя Пора в битве при Гидаспе, несмотря на то что впервые встречается с боевыми слонами; впечатленный доблестью Пора, Александр возвращает ему царство и делает союзником",
+      "era": "BC",
+      "latitude": 32.93,
+      "longitude": 73.82,
+      "name": "Battle of Hydaspes",
+      "name_ru": "Битва при Гидаспе",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_the_Hydaspes",
+      "tags": [
+        "Greek",
+        "Indian",
+        "Macedonian",
+        "War",
+        "Battle",
+        "Alexander the Great 👤",
+        "Elephants"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.06.0326",
+      "description": "Alexander's beloved horse Bucephalus dies after Battle of Hydaspes, either from wounds or old age at 30; Alexander founds city of Bucephala in his honor near modern Jhelum, Pakistan",
+      "description_ru": "Любимый конь Александра Буцефал умирает после битвы при Гидаспе, то ли от ран, то ли от старости в 30 лет; Александр основывает город Букефала в его честь близ современного Джелама, Пакистан",
+      "era": "BC",
+      "latitude": 32.93,
+      "longitude": 73.73,
+      "name": "Death of Bucephalus",
+      "name_ru": "Смерть Буцефала",
+      "source": "https://en.wikipedia.org/wiki/Bucephalus",
+      "tags": [
+        "Greek",
+        "Indian",
+        "Macedonian",
+        "City",
+        "Death",
+        "Alexander the Great 👤",
+        "Horse"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.07.0326",
+      "description": "Alexander's army mutinies at Hyphasis River, refusing to march further into India; exhausted troops weep and beg to return home after 8 years of continuous campaigning - Alexander reluctantly agrees",
+      "description_ru": "Армия Александра бунтует у реки Гифасис, отказываясь идти дальше в Индию; измученные войска плачут и умоляют вернуться домой после 8 лет непрерывных походов - Александр неохотно соглашается",
+      "era": "BC",
+      "latitude": 31.5,
+      "longitude": 75.9,
+      "name": "Mutiny at Hyphasis River",
+      "name_ru": "Мятеж армии Александра",
+      "source": "https://en.wikipedia.org/wiki/Hyphasis",
+      "tags": [
+        "Greek",
+        "Indian",
+        "Macedonian",
+        "War",
+        "Alexander the Great 👤",
+        "Expedition",
+        "Mutiny"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.11.0326",
+      "description": "Alexander wounded nearly fatally by arrow during assault on Mallian citadel in India; arrow pierces his lung, and he is carried out apparently dead, causing panic among his troops",
+      "description_ru": "Александр почти смертельно ранен стрелой во время штурма маллийской цитадели в Индии; стрела пронзает его легкое, и его выносят из боя без сознания, что вводит войско в панику",
+      "era": "BC",
+      "latitude": 30.2,
+      "longitude": 71.4,
+      "name": "Alexander Wounded at Multan",
+      "name_ru": "Ранение Александра у Мултана",
+      "source": "https://en.wikipedia.org/wiki/Siege_of_the_Malli_citadel",
+      "tags": [
+        "Greek",
+        "Indian",
+        "Macedonian",
+        "War",
+        "Alexander the Great 👤",
+        "Expedition"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0325",
+      "description": "Alexander leads army through Gedrosian Desert (Makran) in catastrophic march; thousands die from heat, thirst, and flash floods - some say more troops died here than in all his battles combined",
+      "description_ru": "Александр ведет армию через пустыню Гедросии (Макран) в катастрофическом марше; тысячи гибнут от жары, жажды и внезапных наводнений - некоторые говорят, что здесь погибло больше воинов, чем во всех его сражениях вместе взятых",
+      "era": "BC",
+      "latitude": 26,
+      "longitude": 63,
+      "name": "Gedrosian Desert March",
+      "name_ru": "Марш Александра через пустыню",
+      "source": "https://en.wikipedia.org/wiki/Gedrosia",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Alexander the Great 👤",
+        "Expedition"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0324",
+      "description": "Mass wedding at Susa where Alexander and 80 officers marry Persian noblewomen to unite Greek and Persian aristocracy; Alexander takes Darius's daughter Stateira II as second wife",
+      "description_ru": "Массовая свадьба в Сузах, где Александр и его диадохи женятся на знатных женщинах Персии (дочерях императоров и сатрапов) для объединения греческой и персидской аристократии; Александр берет дочь Дария Статиру II как вторую жену",
+      "era": "BC",
+      "latitude": 32.1897,
+      "longitude": 48.2583,
+      "name": "Greek Weddings at Susa",
+      "name_ru": "Греческие свадьбы в Сузах",
+      "source": "https://en.wikipedia.org/wiki/Susa_weddings",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Macedonian",
+        "Diadochi",
+        "Diplomacy",
+        "Marriage",
+        "Alexander the Great 👤"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.07.0324",
+      "description": "Macedonian veterans mutiny at Opis against integration of Persian soldiers into army; Alexander dismisses entire army, recruits Persians instead - veterans beg forgiveness and reconciliation follows",
+      "description_ru": "Македонские ветераны бунтуют в Описе против \"ориентализации\" Александра и включения персов в армию; Александр распускает войско и начинает назначать персидских командиров на высшие посты. Македонцы понимают, что мятеж не удался, и идут к Александру с покаянием. В итоге Александр устраивает масштабный пир с македонянами и персами.",
+      "era": "BC",
+      "latitude": 33.15,
+      "longitude": 44.35,
+      "name": "Mutiny at Opis",
+      "name_ru": "Мятеж войск Александра в Описе",
+      "source": "https://www.worldhistory.org/article/1630/the-hyphasis-mutiny/#:~:text=The%20Opis%20Mutiny&text=At%20Opis%20in%20324%20BCE,between%20the%20Macedonians%20and%20Asians.",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Alexander the Great 👤",
+        "Mutiny"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.10.0324",
+      "description": "Hephaestion, Alexander's closest friend and second-in-command, dies of fever at Ecbatana; Alexander's grief is extreme - he crucifies the physician, orders extravagant funeral, and himself dies 8 months later",
+      "description_ru": "Гефестион, первая рука Александра, умирает от лихорадки в Экбатане; горе Александра безмерно - он распинает врача, приказывает устроить роскошные похороны своему другу",
+      "era": "BC",
+      "latitude": 34.7982,
+      "longitude": 48.5148,
+      "name": "Death of Hephaestion",
+      "name_ru": "Смерть Гефестиона",
+      "source": "https://en.wikipedia.org/wiki/Hephaestion",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Alexander the Great 👤",
+        "Disease"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "10.06.0323",
+      "description": "Alexander the Great dies in Babylon at age 32 after 10-day fever, possibly from typhoid, poison, or excessive drinking; when asked who should succeed him, reportedly replies 'the strongest'",
+      "description_ru": "Александр Великий умирает в Вавилоне в возрасте 32 лет после 10-дневной лихорадки, возможно от тифа, отравления ядом или алкоголем; на вопрос, кто должен стать преемником, по преданию, отвечает: 'сильнейший'",
+      "era": "BC",
+      "latitude": 32.543,
+      "longitude": 44.421,
+      "name": "Death of Alexander the Great",
+      "name_ru": "Смерть Александра Великого",
+      "source": "https://en.wikipedia.org/wiki/Death_of_Alexander_the_Great",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Death",
+        "Alexander the Great 👤",
+        "Disease",
+        "End"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0322",
+      "description": "Wars of the Diadochi begin as Alexander's generals fight over his empire; Perdiccas, Ptolemy, Seleucus, Antigonus, and Lysimachus carve up territories, destroying Alexander's unified legacy",
+      "description_ru": "Начинаются войны диадохов - полководцы Александра сражаются за его империю; Пердикка, Птолемей, Селевк, Антигон и Лисимах делят территории, разрушая единое наследие Александра",
+      "era": "BC",
+      "latitude": 32.543,
+      "longitude": 44.421,
+      "name": "Wars of the Diadochi Begin",
+      "name_ru": "Начало войн диадохов",
+      "source": "https://en.wikipedia.org/wiki/Wars_of_the_Diadochi",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Diadochi",
+        "War",
+        "Alexander the Great 👤"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0321",
+      "description": "Ptolemy hijacks Alexander's funeral cortege en route to Macedonia, diverting it to Egypt; Alexander's body eventually displayed in magnificent tomb in Alexandria, becoming pilgrimage site for centuries",
+      "description_ru": "Птолемей перехватывает похоронную процессию Александра по пути в Македонию, направляя ее в Египет, в Мемфис; тело Александра в конечном итоге выставлено в великолепной гробнице в Александрии, став местом паломничества на века",
+      "era": "BC",
+      "latitude": 31.206667,
+      "longitude": 29.900278,
+      "name": "Alexander's Body Taken to Egypt",
+      "name_ru": "Птолемей похищает тело Александра Македонского",
+      "source": "https://en.wikipedia.org/wiki/Tomb_of_Alexander_the_Great",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Macedonian",
+        "Ptolemaic",
+        "Diadochi",
+        "War",
+        "Burial",
+        "Alexander the Great 👤"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0300",
+      "description": "Alexander's body is moved from Memphis to Alexandria and placed in a magnificent mausoleum called the Soma; the tomb becomes a pilgrimage site visited by Roman emperors for centuries",
+      "description_ru": "Тело Александра перемещено из Мемфиса в Александрию и помещено в великолепный мавзолей, называемый Сома; гробница становится местом паломничества, которое посещают римские императоры на протяжении веков",
+      "era": "BC",
+      "latitude": 31.2,
+      "longitude": 29.9,
+      "name": "Alexander's Tomb Moved to Alexandria",
+      "name_ru": "Мавзолей Александра",
+      "source": "https://en.wikipedia.org/wiki/Tomb_of_Alexander_the_Great",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Ptolemaic",
+        "Tomb",
+        "Alexander the Great 👤"
+      ],
+      "type": "historic"
+    }
+  ]
+}

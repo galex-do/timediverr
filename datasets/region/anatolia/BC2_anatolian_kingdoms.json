@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 81 events",
+  "description": "Dataset imported with 79 events",
   "events": [
     {
       "date": "01.01.1300",
@@ -1519,49 +1519,6 @@
         "Anatolia"
       ],
       "type": "historic"
-    },
-    {
-      "date": "01.09.0334",
-      "description": "Alexander the Great besieges Halicarnassus during conquest of Asia; despite fierce resistance led by Persian commanders Memnon and Orontobates, city falls after prolonged siege, partially destroying Mausoleum's precinct",
-      "description_ru": "Александр Великий осаждает Галикарнас во время завоевания Азии, чтобы лишить Персию морской базы; несмотря на ожесточенное сопротивление под руководством персидских командиров Мемнона и Оронтобата, город сдается после длительной осады. Мавзолей подвергается частичному разрушению",
-      "era": "BC",
-      "latitude": 37.0379,
-      "longitude": 27.4241,
-      "name": "Alexander Conquers Halicarnassus",
-      "name_ru": "Александр завоевывает Галикарнас",
-      "source": "https://en.wikipedia.org/wiki/Siege_of_Halicarnassus",
-      "tags": [
-        "Greek",
-        "Persian",
-        "Macedonian",
-        "Carian",
-        "War",
-        "Conquest",
-        "Battle",
-        "Alexander the Great 👤",
-        "Siege"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "20.08.0334",
-      "description": "Ada, last Hecatomnid ruler, surrenders fortress of Alinda to Alexander and adopts him as her son; Alexander restores her rule over Caria as reward, ending Persian period and beginning Hellenistic era",
-      "description_ru": "Ада, последний правитель Гекатомнидов, сдает крепость Алинда Александру и усыновляет его; Александр восстанавливает ее правление над Карией в награду, завершая персидский период и начиная эллинистическую эру",
-      "era": "BC",
-      "latitude": 37.5333,
-      "longitude": 27.8833,
-      "name": "Ada Allies with Alexander",
-      "name_ru": "Ада союзничает с Александром",
-      "source": "https://en.wikipedia.org/wiki/Ada_of_Caria",
-      "tags": [
-        "Greek",
-        "Macedonian",
-        "Carian",
-        "Alliance",
-        "Alexander the Great 👤",
-        "Vassalage"
-      ],
-      "type": "political"
     }
   ],
   "filename": "BC2_anatolian_kingdoms.json"

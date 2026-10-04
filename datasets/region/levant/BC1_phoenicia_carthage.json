@@ -1,5 +1,5 @@
 {
-  "description": "Dataset imported with 68 events",
+  "description": "Dataset imported with 70 events",
   "events": [
     {
       "date": "01.01.1500",
@@ -793,50 +793,6 @@
         "War",
         "Rebellion",
         "Destruction",
-        "Siege"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.08.0332",
-      "description": "After heroic resistance, Tyre falls to Alexander; 8,000 defenders killed, 30,000 enslaved, 2,000 leading citizens crucified, marking end of Phoenician political independence",
-      "description_ru": "После героического сопротивления Тир пал перед Александром; 8 тыс. защитников убито, 30 тыс. порабощены, тысячи казнены. Тир лишился независимости, хотя формально Александр оставил элиты править Тиром.",
-      "era": "BC",
-      "latitude": 33.271,
-      "longitude": 35.204,
-      "name": "Fall of Tyre",
-      "name_ru": "Падение Тира",
-      "source": "https://en.wikipedia.org/wiki/Siege_of_Tyre_%28332_BC%29",
-      "tags": [
-        "Greek",
-        "Macedonian",
-        "Phoenician",
-        "Tyre",
-        "War",
-        "Conquest",
-        "Alexander the Great 👤",
-        "Fall"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.01.0332",
-      "description": "Alexander the Great conducts seven-month siege of island fortress of Tyre, building causeway to city and ending Phoenician independence with brutal conquest",
-      "description_ru": "Александр Македонский проводит семимесячную осаду островной крепости Тир, строя дамбу к городу и завершая финикийскую независимость жестоким завоеванием",
-      "era": "BC",
-      "latitude": 33.271,
-      "longitude": 35.204,
-      "name": "Siege of Tyre by Alexander",
-      "name_ru": "Осада Тира Александром",
-      "source": "https://en.wikipedia.org/wiki/Siege_of_Tyre_%28332_BC%29",
-      "tags": [
-        "Greek",
-        "Persian",
-        "Macedonian",
-        "Phoenician",
-        "Tyre",
-        "War",
-        "Alexander the Great 👤",
         "Siege"
       ],
       "type": "military"
