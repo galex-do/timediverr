@@ -688,26 +688,6 @@
     },
     {
       "date": "01.01.0200",
-      "description": "The Greek Bactrian king Demetrius I invades northwestern India and captures Taxila and parts of the Punjab as Maurya power wanes. A series of Indo-Greek kingdoms establish control over Gandhara and the Indus Valley — producing a remarkable cultural fusion of Hellenistic and Indian artistic traditions. Indo-Greek coinage introduces realistic royal portraiture to Indian numismatics, and Gandharan Buddhist sculpture begins blending Greek figurative style with Indian religious iconography — a tradition that will shape all subsequent depictions of the Buddha.",
-      "description_ru": "Греко-бактрийский царь Деметрий I вторгается в северо-западную Индию и захватывает Таксилу и часть Пенджаба по мере ослабления власти Маурьев. Ряд индо-греческих царств устанавливает контроль над Гандхарой и долиной Инда, порождая замечательный синтез эллинистической и индийской художественных традиций. Гандхарская буддийская скульптура соединяет греческий фигуративный стиль с индийской религиозной иконографией.",
-      "era": "BC",
-      "latitude": 33.74,
-      "longitude": 72.83,
-      "name": "Greco-Bactria conquers northern India",
-      "name_ru": "Греко-Бактрия завоевывает север Индии",
-      "source": "https://en.wikipedia.org/wiki/Indo-Greek_Kingdom",
-      "tags": [
-        "Greek",
-        "Indian",
-        "War",
-        "Culture",
-        "Cultural Continuity",
-        "Greco-Bactria"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.01.0200",
       "description": "The Brahmasutra (Vedantasutra) — attributed to the sage Badarayana — is composed in its early form, synthesizing the diverse and sometimes contradictory teachings of the Upanishads into a systematic philosophical framework. Its 555 terse aphorisms cover: the nature of Brahman (the Absolute), the relationship between individual souls and Brahman, the nature of the world, and the path to liberation. The text is deliberately brief — each sutra requires commentary to make sense — which is precisely why it becomes the foundational text of Vedanta: all subsequent Hindu philosophical traditions must write a commentary on it to establish their legitimacy. The three most influential commentaries — by Shankaracharya (non-dual Advaita), Ramanujacharya (qualified non-dual Vishishtadvaita), and Madhvacharya (dual Dvaita) — define the three great streams of Hindu philosophy that continue to the present day.",
       "description_ru": "Брахмасутра (Ведантасутра), приписываемая мудрецу Бадараяне, синтезирует разнообразные учения Упанишад в систематическую философскую структуру. 555 кратких сутр охватывают природу Брахмана, отношения индивидуальных душ с Брахманом и путь к освобождению. Текст намеренно краток — каждая сутра требует комментария — что делает его фундаментальным текстом Веданты: все последующие индуистские философские традиции должны написать к нему комментарий. Три наиболее влиятельных комментария — Шанкарачарьи (Адвайта), Рамануджачарьи (Вишиштадвайта) и Мадхвачарьи (Двайта) — определяют три великих потока индуистской философии, существующих по сей день.",
       "era": "BC",

@@ -316,26 +316,6 @@
       "type": "political"
     },
     {
-      "date": "01.01.0250",
-      "description": "Diodotus I declares independence of Bactria from Seleucid rule, founding the Greco-Bactrian Kingdom; this marks the beginning of major territorial losses in the eastern satrapies that would never be fully recovered",
-      "description_ru": "Диодот I провозглашает независимость Бактрии от Селевкидов, основывая Греко-Бактрийское царство; это знаменует начало крупных территориальных потерь в восточных сатрапиях, которые так и не будут полностью возвращены",
-      "era": "BC",
-      "latitude": 36.75808913,
-      "longitude": 66.89787626,
-      "name": "Bactrian Independence",
-      "name_ru": "Независимость Бактрии от Селевкидов",
-      "source": "https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom",
-      "tags": [
-        "Greek",
-        "Seleucid",
-        "Rebellion",
-        "Decline",
-        "Greco-Bactria",
-        "Independence"
-      ],
-      "type": "political"
-    },
-    {
       "date": "01.01.0247",
       "description": "Arsaces I leads the Parni nomads to conquer Parthia, founding the Arsacid dynasty; this begins the rise of the Parthian Empire that would eventually destroy Seleucid power in the east and become Rome's great rival",
       "description_ru": "Аршак I ведёт кочевников парнов на завоевание Парфии, основывая династию Аршакидов; так начинается возвышение Парфянской империи, которая в итоге уничтожит власть Селевкидов на востоке и станет великим соперником Рима. Аршак делает поселение Асаак в долине Атрек церемониальной столицей нового царства.",
@@ -575,50 +555,6 @@
         "Vassalage"
       ],
       "type": "military"
-    },
-    {
-      "date": "01.01.0208",
-      "description": "Battle of the Arius River; Antiochus III surprises and defeats Bactrian cavalry of Euthydemus I through a daring night march, demonstrating tactical brilliance. He then besieges the fortress city of Bactra",
-      "description_ru": "Битва на реке Арий; Антиох III внезапно атакует и побеждает бактрийскую конницу Эвтидема I благодаря дерзкому ночному маршу, демонстрируя тактический гений. Затем он осаждает крепость Бактры",
-      "era": "BC",
-      "latitude": 34.33386836,
-      "longitude": 62.19111443,
-      "name": "Battle of the Arius River",
-      "name_ru": "Битва на реке Арий",
-      "source": "https://en.wikipedia.org/wiki/Battle_of_the_Arius",
-      "tags": [
-        "Greek",
-        "Seleucid",
-        "War",
-        "Conquest",
-        "Battle",
-        "Antiochus III 👑",
-        "Greco-Bactria",
-        "Tactics"
-      ],
-      "type": "military"
-    },
-    {
-      "date": "01.01.0206",
-      "description": "Peace with Bactria; after lengthy siege of Bactra, Antiochus III negotiates with Euthydemus, allowing him to retain his throne in exchange for nominal vassalage and a marriage alliance. Euthydemus supplies war elephants for future campaigns",
-      "description_ru": "Мир с Бактрией; после длительной осады Бактр Антиох III договаривается с Эвтидемом, позволяя ему сохранить трон в обмен на номинальную вассальную зависимость и брачный союз. Эвтидем предоставляет боевых слонов для будущих кампаний",
-      "era": "BC",
-      "latitude": 36.75808913,
-      "longitude": 66.89787626,
-      "name": "Seleucid-Bactrian Peace",
-      "name_ru": "Селевко-бактрийский мир",
-      "source": "https://en.wikipedia.org/wiki/Antiochus_III_the_Great",
-      "tags": [
-        "Greek",
-        "Seleucid",
-        "War",
-        "Diplomacy",
-        "Marriage",
-        "Greco-Bactria",
-        "Peace",
-        "Vassalage"
-      ],
-      "type": "political"
     },
     {
       "date": "01.01.0204",

@@ -28,3 +28,17 @@ mtime_ms = 1791099567149
 storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:1ee5e2ed-81c0-4ef2-81d2-d89d9d85947c/be8c4f74-2be8-4140-ba66-2383c3620eba/b9780659-14b6-4459-bd9a-43fc58afd499"
 storage_version_token = "1791099640732858"
 content_type = "application/octet-stream"
+
+[[outputs]]
+id = "kJidVFAHrMrWvAYDlFjF3"
+uri = "file://datasets/region/central_asia/greco_bactrian_kingdom.json"
+type = "unspecified"
+title = "Greco-Bactria — 32 bilingual historical events"
+description = "Validated JSON dataset with English and Russian descriptions, researched Wikipedia sources, political history, distinctive urban culture, religion, administration, metallurgy, and clearly labeled Indo-Greek/Kushan Buddhist connections. File only; not imported into the app database."
+logical_id = "1279f9ba-c0ce-4cf7-ad9e-b2acbe3f02ad"
+content_hash = "sha256:87336784cc5877f1569dd73454a7a459c81cfb6c277922ec2df5dcb50f5faf1d"
+size = 75791
+mtime_ms = 1791122571960
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:1ee5e2ed-81c0-4ef2-81d2-d89d9d85947c/1279f9ba-c0ce-4cf7-ad9e-b2acbe3f02ad/7f7cafa5-1ce6-45e0-a14c-dc0d11a47aa1"
+storage_version_token = "1791122683361425"
+content_type = "application/octet-stream"
