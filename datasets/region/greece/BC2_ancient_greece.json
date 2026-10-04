@@ -10,12 +10,14 @@
       "longitude": 22.34945297,
       "name": "Formation of the Greek pantheon",
       "name_ru": "Формирование греческого пантеона",
+      "source": "https://whc.unesco.org/en/list/1719/",
       "tags": [
         "Greek",
         "Religious",
         "Pagan",
         "Holy Site",
-        "Legend"
+        "Legend",
+        "Mountain"
       ],
       "type": "religious"
     },
@@ -1645,8 +1647,8 @@
       "tags": [
         "Greek",
         "Megarian",
-        "City",
         "Bosporan",
+        "City",
         "Colonization",
         "Expansion",
         "Seamen"
@@ -1850,8 +1852,8 @@
         "Scythian",
         "City",
         "Trade",
-        "Colonization",
         "Emporium",
+        "Colonization",
         "Expansion",
         "Seamen"
       ],
@@ -1932,8 +1934,8 @@
         "Egypt",
         "City",
         "Trade",
-        "Colonization",
         "Emporium",
+        "Colonization",
         "Expansion"
       ],
       "type": "historic"
@@ -2035,9 +2037,9 @@
         "Greek",
         "Milesian",
         "City",
+        "Emporium",
         "Colonization",
         "Crimea",
-        "Emporium",
         "Expansion",
         "Seamen"
       ],
@@ -2221,8 +2223,8 @@
         "Phocaean",
         "City",
         "Trade",
-        "Colonization",
         "Emporium",
+        "Colonization",
         "Expansion",
         "Spain"
       ],
@@ -3942,7 +3944,9 @@
         "Sparta",
         "Peloponnesian",
         "War",
-        "Fall"
+        "Blockade",
+        "Fall",
+        "Famine"
       ],
       "type": "military"
     },
@@ -4057,9 +4061,11 @@
       "longitude": 27.375,
       "name": "Battle of Cnidus",
       "name_ru": "Битва при Книде",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Cnidus",
       "tags": [
         "Greek",
         "Persian",
+        "Achaemenid",
         "Athens",
         "Sparta",
         "War",
@@ -4256,8 +4262,8 @@
     },
     {
       "date": "01.01.0375",
-      "description": "Theban general Epaminondas develops revolutionary oblique order tactics; concentrates 50-deep column on one wing while refusing battle on other, breaking traditional phalanx symmetry",
-      "description_ru": "Фиванский полководец Эпаминонд разрабатывает революционную тактику косого строя; концентрирует колонну глубиной 50 рядов на одном фланге, избегая боя на другом, ломая традиционную симметрию фаланги",
+      "description": "The Theban general Epaminondas devised the revolutionary tactic of the oblique order. In traditional Greek warfare, the right flank was considered the position of greatest honor and strength, and it was there that the Spartans stationed their finest warriors. Epaminondas broke with convention: he radically reinforced the left flank, arranging it in a formation 50 ranks deep rather than the usual 12. The phalanx advanced diagonally, meaning the center and right flank might not even engage in combat, serving merely as a screen.",
+      "description_ru": "Фиванский полководец Эпаминонд разрабатывает революционную тактику косого строя. В традиционной греческой тактике правый фланг считался самым почетным и сильным, туда спартанцы ставили своих лучших бойцов. Эпаминонд пошел против правил: он радикально усилил левый фланг, выстроив его в глубину не в 12 рядов (как обычно), а в 50 рядов. Фаланга наступала диагонально, и центр с правым флангом в такой расстановке могли даже не вступить в бой, служа просто в качестве прикрытия.",
       "era": "BC",
       "latitude": 38.3192,
       "longitude": 23.3178,
@@ -5344,8 +5350,8 @@
         "Greek",
         "Diadochi",
         "War",
+        "Innovation",
         "Military",
-        "Science",
         "Siege",
         "Technology"
       ],

@@ -40,10 +40,10 @@
         "Fortification",
         "Currency 🪙",
         "Political",
+        "Law",
         "Administration",
         "Cavalry",
-        "Charles the Bald 👑",
-        "Law"
+        "Charles the Bald 👑"
       ],
       "type": "political"
     },
@@ -106,9 +106,9 @@
         "Frankish",
         "Dynasty",
         "Political",
+        "Law",
         "Charles the Bald 👑",
         "Feudalism",
-        "Law",
         "Succession"
       ],
       "type": "political"
@@ -213,6 +213,8 @@
       "source": "https://en.wikipedia.org/wiki/Siege_of_Chartres_(911)",
       "tags": [
         "Norman",
+        "Danish",
+        "Norse",
         "France",
         "Frankish",
         "War",

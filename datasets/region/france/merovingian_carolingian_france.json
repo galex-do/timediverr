@@ -144,9 +144,9 @@
         "Foundation",
         "Merovingian",
         "Political",
+        "Law",
         "Code",
-        "Justice",
-        "Law"
+        "Justice"
       ],
       "type": "political"
     },
@@ -155,8 +155,8 @@
       "description": "Clovis died in Paris in November 511 at around 45, having united the Frankish tribes, conquered northern and southwestern Gaul, driven the Visigoths across the Pyrenees, and forged an alliance with the church that made the Franks Rome's heirs in the West. He had also established the fatal Merovingian custom of treating the kingdom as personal property, to be divided equally among surviving sons — a provision that guaranteed perpetual civil war.\n\nHis four sons split the kingdom into four shares centred on Rheims, Orléans, Paris, and Soissons. Within a generation these shares were recombining, splitting again, and fought over by increasingly violent succession disputes. The unity Clovis built was real but fragile; the machinery he left for maintaining it — personal loyalty, military force, no bureaucratic permanence — was adequate for one exceptional man and disastrous in the hands of mediocre successors.",
       "description_ru": "Хлодвиг умер в Париже в возрасте около 45 лет, объединив франкские племена, завоевав северную и юго-западную Галлию, вытеснив вестготов за Пиренеи и сковав союз с церковью, сделавший франков наследниками Рима на Западе. Он также закрепил роковой меровингский обычай рассматривать королевство как личную собственность, подлежащую равному разделу между выжившими сыновьями, — условие, гарантировавшее бесконечную гражданскую войну.\n\nЧетыре его сына разделили королевство на четыре части с центрами в Реймсе, Орлеане, Париже и Суассоне. В течение поколения эти части воссоединялись, снова дробились и оспаривались во всё более жестоких распрях о престолонаследии.",
       "era": "AD",
-      "latitude": 48.8566,
-      "longitude": 2.3522,
+      "latitude": 48.85508693,
+      "longitude": 2.34683096,
       "name": "Death of Clovis — the kingdom divided, the conflicts begin",
       "name_ru": "Смерть Хлодвига и раздел королевства",
       "source": "https://en.wikipedia.org/wiki/Clovis_I",
@@ -260,8 +260,8 @@
       "description": "After Dagobert's death in 639, the Merovingian kings were typically children or teenagers, controlled by aristocratic factions competing for the office of maior domus — mayor of the palace — the royal household official who became the real power behind the throne. The kings retained their sacred Merovingian hair (the dynasty's symbol of legitimacy), were paraded at assemblies, and issued charters, but policy was made by whoever held the mayorship. Einhard's later portrait of these kings being carted to assemblies in ox-drawn wagons — too feeble even to ride — is probably exaggerated, but captures a real condition.\n\nThe mayoralty was itself contested between Austrasian and Neustrian factions. Three great aristocratic families — the Arnulfings in Austrasia, the Neustrian nobility around the Ebroins — fought a sustained civil conflict, sometimes open war.",
       "description_ru": "После смерти Дагоберта в 639 году меровингские короли, как правило, были детьми или подростками, контролируемыми аристократическими фракциями, соперничавшими за должность maior domus — майордома, чиновника королевского двора, ставшего реальной силой за троном. Короли сохраняли свои священные меровингские волосы (символ легитимности династии), участвовали в торжественных собраниях и выдавали грамоты, но политику определял тот, кто держал майорство. Позднейший портрет Эйнхарда, изображающий этих королей, которых везут на собрания в повозках, запряжённых волами, вероятно преувеличен, но передаёт реальное положение дел.\n\nСама майорская должность оспаривалась между австразийскими и нейстрийскими фракциями. Три великих аристократических семьи вели затяжной гражданский конфликт, иногда переходивший в открытую войну.",
       "era": "AD",
-      "latitude": 48.8566,
-      "longitude": 2.3522,
+      "latitude": 48.85508693,
+      "longitude": 2.34683096,
       "name": "The Rois Fainéants — do-nothing kings and the rise of the mayors of the palace",
       "name_ru": "Rois fainéants — «ленивые короли» и возвышение майордомов",
       "source": "https://en.wikipedia.org/wiki/Do-nothing_kings",
@@ -316,8 +316,8 @@
       "description": "In 751, Pepin III — son of Charles Martel, inheritor of the mayoralty — took the decisive step his father had never dared. With papal approval obtained through a carefully worded query to Pope Zachary ('Is it right that a man who has no power should bear the name of king?'), Pepin deposed the last Merovingian Childeric III, had him tonsured and sent to a monastery, and was elected king by the Frankish assembly. He was then anointed by bishop Boniface — the English missionary who was reforming the Frankish church — in a ceremony modelled on the Old Testament anointing of kings.\n\nThe consecration by anointing was new to Frankish practice and deeply significant: it gave the Carolingian dynasty a sacral legitimacy independent of Merovingian bloodline, rooting royal authority in divine appointment rather than ancestry. Pepin was anointed again by Pope Stephen II in person in 754, the first time a pope had crossed the Alps to anoint a Frankish king — an act that created mutual obligations between papacy and Carolingians that would define European politics for centuries.",
       "description_ru": "В 751 году Пипин III — сын Карла Мартелла, наследник майорства — сделал решительный шаг, на который его отец не решался. С папского одобрения, полученного через тщательно сформулированный вопрос папе Захарию («Правильно ли, что человек, не имеющий власти, носит имя короля?»), Пипин низложил последнего Меровинга Хильдерика III, велел его постричь и отправить в монастырь и был избран королём Франкским собранием. \n\nЗатем его помазал епископ Бонифаций — английский миссионер, реформировавший франкскую церковь, — в церемонии, смоделированной по образцу ветхозаветного помазания царей. Помазание было новшеством для франкской практики: оно давало Каролингской династии сакральную легитимность, независимую от меровингской крови, укореняя королевскую власть в Божественном избрании, а не в родословной.",
       "era": "AD",
-      "latitude": 48.8566,
-      "longitude": 2.3522,
+      "latitude": 48.85508693,
+      "longitude": 2.34683096,
       "name": "Pepin the Short deposes the last Merovingian",
       "name_ru": "Пипин Короткий свергает последнего Меровинга",
       "source": "https://en.wikipedia.org/wiki/Pepin_the_Short",
@@ -416,10 +416,10 @@
         "Frankish",
         "Religious",
         "Political",
+        "Law",
         "Administration",
         "Charlemagne 👑",
-        "Justice",
-        "Law"
+        "Justice"
       ],
       "type": "political"
     },
@@ -480,9 +480,9 @@
         "Culture",
         "Carolingian",
         "Political",
+        "Law",
         "Charlemagne 👑",
-        "Code",
-        "Law"
+        "Code"
       ],
       "type": "religious"
     },
@@ -536,8 +536,8 @@
       "description": "Louis I, sole emperor from 814, was more devout, more literate, and more interested in church reform than his father, but catastrophically less able to manage the Frankish aristocracy. His Ordinatio Imperii of 817 — a careful plan to keep the empire undivided by designating his eldest son Lothar as co-emperor and sole heir while giving younger sons Pepin and Louis subkingdoms without succession rights — was immediately undermined by the birth of a fourth son, Charles, by his second wife Judith in 823.\n\nLouis's attempts to rearrange the succession in favour of the infant Charles provoked his older sons into rebellion. He was publicly humiliated, deposed briefly, and forced through a dramatic penance at Soissons in 833 in what contemporaries called the 'Field of Lies' — where his army deserted to his sons without a battle being fought. He was restored but never recovered real authority. The empire he inherited intact he would bequeath in fragments, the process of fragmentation determined not by grand policy but by a second marriage and the love of a father for a younger son.",
       "description_ru": "Людовик I, единовластный император с 814 года, был более набожным, более образованным и более заинтересованным в церковной реформе, чем его отец, но катастрофически менее способным управлять франкской аристократией. Его Ordinatio Imperii 817 года — тщательный план сохранения неразделённой империи путём назначения старшего сына Лотаря соимператором и единственным наследником при наделении младших сыновей Пипина и Людовика субкоролевствами без прав престолонаследия — был немедленно подорван рождением четвёртого сына, Карла, от второй жены Юдифи в 823 году.\n\nПопытки Людовика пересмотреть порядок престолонаследия в пользу младенца Карла спровоцировали старших сыновей на восстание. Он был публично унижён, кратко низложен и принуждён к драматическому публичному покаянию в Суассоне в 833 году, которое современники называли «Полем лжи» — где его армия перешла к сыновьям без единого сражения. Он был восстановлен, но так и не вернул реальную власть.",
       "era": "AD",
-      "latitude": 48.8566,
-      "longitude": 2.3522,
+      "latitude": 48.85508693,
+      "longitude": 2.34683096,
       "name": "Louis the Pious — Emperor of the Franks ",
       "name_ru": "Людовик Благочестивый — император франков",
       "source": "https://en.wikipedia.org/wiki/Louis_the_Pious",

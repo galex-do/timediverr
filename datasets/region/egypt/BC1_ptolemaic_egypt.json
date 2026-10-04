@@ -518,34 +518,14 @@
       "era": "BC",
       "latitude": 31.2,
       "longitude": 29.9,
-      "name": "Eratosthenes Becomes Chief Librarian",
-      "name_ru": "Эратосфен становится главным библиотекарем",
+      "name": "Eratosthenes Becomes Chief Librarian in Alexandria",
+      "name_ru": "Эратосфен становится главным библиотекарем Александрии",
       "source": "https://en.wikipedia.org/wiki/Eratosthenes",
       "tags": [
         "Greek",
         "Egypt",
         "Ptolemaic",
         "Library",
-        "Science"
-      ],
-      "type": "scientific"
-    },
-    {
-      "date": "01.01.0240",
-      "description": "Eratosthenes calculates Earth's circumference at approximately 40,000 km (actual: 40,075 km) by comparing shadow angles at Alexandria and Syene; this is one of the greatest scientific achievements of antiquity",
-      "description_ru": "Эратосфен вычисляет окружность Земли примерно в 40 000 км (фактически: 40 075 км), сравнивая углы теней в Александрии и Сиене; это одно из величайших научных достижений античности",
-      "era": "BC",
-      "latitude": 31.2,
-      "longitude": 29.9,
-      "name": "Eratosthenes Measures Earth's Circumference",
-      "name_ru": "Эратосфен измеряет окружность Земли",
-      "source": "https://en.wikipedia.org/wiki/Eratosthenes",
-      "tags": [
-        "Greek",
-        "Egypt",
-        "Ptolemaic",
-        "Geography",
-        "Mathematics",
         "Science"
       ],
       "type": "scientific"
@@ -590,6 +570,26 @@
         "Temple"
       ],
       "type": "cultural"
+    },
+    {
+      "date": "01.01.0230",
+      "description": "Eratosthenes calculates Earth's circumference at approximately 40,000 km (actual: 40,075 km) by comparing shadow angles at Alexandria and Syene; this is one of the greatest scientific achievements of antiquity",
+      "description_ru": "Эратосфен вычисляет окружность Земли примерно в 40 000 км (фактически: 40 075 км), сравнивая углы теней в Александрии и Сиене; это одно из величайших научных достижений античности",
+      "era": "BC",
+      "latitude": 31.2,
+      "longitude": 29.9,
+      "name": "Eratosthenes Measures Earth's Circumference",
+      "name_ru": "Эратосфен измеряет окружность Земли",
+      "source": "https://en.wikipedia.org/wiki/Eratosthenes",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Ptolemaic",
+        "Geography",
+        "Mathematics",
+        "Science"
+      ],
+      "type": "scientific"
     },
     {
       "date": "01.01.0230",
@@ -650,26 +650,6 @@
     },
     {
       "date": "01.01.0204",
-      "description": "Ptolemy IV dies under mysterious circumstances; his six-year-old son Ptolemy V Epiphanes becomes king, with the empire governed by corrupt regents who mismanage affairs and lose territories",
-      "description_ru": "Птолемей IV умирает при загадочных обстоятельствах; его шестилетний сын Птолемей V Эпифан становится царём, а империей управляют коррумпированные регенты, которые плохо ведут дела и теряют территории",
-      "era": "BC",
-      "latitude": 31.206667,
-      "longitude": 29.900278,
-      "name": "Ptolemy V Becomes Child-King",
-      "name_ru": "Птолемей V становится царём-ребёнком",
-      "source": "https://en.wikipedia.org/wiki/Ptolemy_V_Epiphanes",
-      "tags": [
-        "Greek",
-        "Egypt",
-        "Ptolemaic",
-        "Crisis",
-        "Dynasty",
-        "King"
-      ],
-      "type": "political"
-    },
-    {
-      "date": "01.01.0204",
       "description": "When Ptolemy IV died in 204 BC, his chief minister Sosibius and the royal favorite Agathocles concealed the king's death for weeks while they secured the palace and the treasury. To eliminate any rival claim to the regency, they had Ptolemy's sister-wife, Queen Arsinoe III, murdered, then presented the six-year-old Ptolemy V to the army as sole heir once their position was safe. The cover-up briefly worked, but Alexandria's mob eventually turned on the conspirators: Agathocles and his family were torn apart in the streets once the truth of the queen's death became known.",
       "description_ru": "Когда умер Птолемей IV, его первый министр Сосибий и царский фаворит Агафокл несколько недель скрывали смерть царя, пока укрепляли свою власть над дворцом и казной. Чтобы устранить любого соперника в борьбе за регентство, они убили сестру-жену Птолемея, царицу Арсиною III, а затем, обезопасив своё положение, представили армии шестилетнего Птолемея V как единственного наследника. \n\nКакое-то время заговор скрывали успешно, но александрийская толпа в итоге обратилась против заговорщиков: когда правда о смерти царицы вышла наружу, Агафокла и его семью растерзали прямо на улицах.",
       "era": "BC",
@@ -687,6 +667,26 @@
         "Conspiracy",
         "Lynching",
         "Murder"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0204",
+      "description": "Ptolemy IV dies under mysterious circumstances; his six-year-old son Ptolemy V Epiphanes becomes king, with the empire governed by corrupt regents who mismanage affairs and lose territories",
+      "description_ru": "Птолемей IV умирает при загадочных обстоятельствах; его шестилетний сын Птолемей V Эпифан становится царём, а империей управляют коррумпированные регенты, которые плохо ведут дела и теряют территории",
+      "era": "BC",
+      "latitude": 31.206667,
+      "longitude": 29.900278,
+      "name": "Ptolemy V Becomes Child-King",
+      "name_ru": "Птолемей V становится царём-ребёнком",
+      "source": "https://en.wikipedia.org/wiki/Ptolemy_V_Epiphanes",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Ptolemaic",
+        "Crisis",
+        "Dynasty",
+        "King"
       ],
       "type": "political"
     },
@@ -772,6 +772,27 @@
     },
     {
       "date": "01.01.0180",
+      "description": "Ptolemy V dies, possibly by poison; his wife Cleopatra I serves as regent for their young son Ptolemy VI, maintaining peace with the Seleucids and stable government",
+      "description_ru": "Птолемей V умирает, возможно, от яда; его жена Клеопатра I становится регентом при их малолетнем сыне Птолемее VI, поддерживая мир с Селевкидами и стабильное правительство",
+      "era": "BC",
+      "latitude": 31.206667,
+      "longitude": 29.900278,
+      "name": "Death of Ptolemy V",
+      "name_ru": "Смерть Птолемея V",
+      "source": "https://en.wikipedia.org/wiki/Ptolemy_V_Epiphanes",
+      "tags": [
+        "Greek",
+        "Egypt",
+        "Ptolemaic",
+        "Seleucid",
+        "Dynasty",
+        "Death",
+        "Regency"
+      ],
+      "type": "political"
+    },
+    {
+      "date": "01.01.0180",
       "description": "The cult of Isis spread throughout the Mediterranean from Egypt; temples to Isis were built in Greece, Rome, and throughout the Hellenistic world. Isis protects women, mothers, and sailors, offering her followers a hope of immortality and personal protection that is unusual among Greek gods.",
       "description_ru": "Культ Исиды распространяется по всему Средиземноморью из Египта; храмы Исиды строятся в Греции, Риме и по всему эллинистическому миру. Исида защищает женщин, матерей и мореходов, предлагает своим последователям нетипичную для греческих богов надежду на бессмертие и личную защиту.",
       "era": "BC",
@@ -791,27 +812,6 @@
         "Culture"
       ],
       "type": "religious"
-    },
-    {
-      "date": "01.01.0180",
-      "description": "Ptolemy V dies, possibly by poison; his wife Cleopatra I serves as regent for their young son Ptolemy VI, maintaining peace with the Seleucids and stable government",
-      "description_ru": "Птолемей V умирает, возможно, от яда; его жена Клеопатра I становится регентом при их малолетнем сыне Птолемее VI, поддерживая мир с Селевкидами и стабильное правительство",
-      "era": "BC",
-      "latitude": 31.206667,
-      "longitude": 29.900278,
-      "name": "Death of Ptolemy V",
-      "name_ru": "Смерть Птолемея V",
-      "source": "https://en.wikipedia.org/wiki/Ptolemy_V_Epiphanes",
-      "tags": [
-        "Greek",
-        "Egypt",
-        "Ptolemaic",
-        "Seleucid",
-        "Dynasty",
-        "Death",
-        "Regency"
-      ],
-      "type": "political"
     },
     {
       "date": "01.01.0169",
@@ -946,8 +946,8 @@
       "description": "Driven out of Alexandria by his own sister-wife Cleopatra II during a fresh round of civil war, Ptolemy VIII fled to Cyprus — taking with him their teenage son, Ptolemy Memphites, the boy Cleopatra had named co-king in his absence. \n\nTo punish her, Ptolemy VIII had the boy killed, dismembered, and the pieces packed into a chest, which he sent to Alexandria to arrive on Cleopatra's birthday. The atrocity, recorded by the historian Justin, shocked even a dynasty accustomed to fratricide and became the defining image of Ptolemy VIII's reign for later generations.",
       "description_ru": "Изгнанный из Александрии собственной сестрой-женой Клеопатрой II в ходе очередной гражданской войны, Птолемей VIII бежал на Кипр, забрав с собой их сына-подростка Птолемея Мемфита, которого Клеопатра в его отсутствие провозгласила соправителем. \n\nЧтобы отомстить ей, Птолемей VIII приказал убить мальчика, расчленить тело и уложить части в сундук, который отправил в Александрию так, чтобы он прибыл в день рождения Клеопатры. Это злодеяние, описанное историком Юстином, потрясло даже династию, привычную к братоубийству, и стало главным символом правления Птолемея VIII в памяти потомков.",
       "era": "BC",
-      "latitude": 35.17,
-      "longitude": 33.36,
+      "latitude": 35.17607091,
+      "longitude": 33.36378336,
       "name": "Ptolemy VIII Murders His Son and Sends the Body to Cleopatra II",
       "name_ru": "Птолемей VIII убивает сына и отправляет тело Клеопатре II",
       "source": "https://en.wikipedia.org/wiki/Ptolemy_VIII_Physcon",
@@ -1028,8 +1028,8 @@
       "description": "Cleopatra III, who hated her eldest son and dreamed of seeing the obedient younger son (Ptolemy X) on the throne, staged a true spectacle for the people of Alexandria. She ordered several of her eunuch servants to be brutally beaten and wounded, and then declared that her eldest son had tried to kill her.\n\nThe enraged crowd believed the queen. A terrible riot broke out in the city. Ptolemy IX was forced to abandon his wife (Cleopatra Selene) and young sons in the palace and flee Egypt in haste to avoid being torn to pieces. He sailed to Egyptian-controlled Cyprus.",
       "description_ru": "Клеопатра III, ненавидевшая старшего сына и мечтавшая видеть на троне послушного младшего (Птолемея X), разыграла перед жителями Александрии настоящий спектакль. Она приказала жестоко избить и ранить нескольких своих слуг-евнухов, а затем объявила, что старший сын пытался её убить.\n\nРазъяренная толпа поверила царице. В городе вспыхнул страшный бунт. Птолемею IX пришлось бросить во дворце жену (Клеопатру Селену) и маленьких сыновей и в спешке бежать из Египта, чтобы не быть растерзанным. Он уплыл на подконтрольный Египту Кипр.",
       "era": "BC",
-      "latitude": 35.17,
-      "longitude": 33.36,
+      "latitude": 35.17607091,
+      "longitude": 33.36378336,
       "name": "Ptolemy IX Exiled to Cyprus",
       "name_ru": "Птолемей IX изгнан на Кипр",
       "source": "https://en.wikipedia.org/wiki/Ptolemy_IX_Lathyros",
@@ -1211,8 +1211,8 @@
       "description": "Rome annexes Cyprus from Ptolemaic control; Ptolemy XII fails to protest, causing outrage in Alexandria. A popular revolt expels him from Egypt, and his daughter Berenice IV becomes queen",
       "description_ru": "Рим забирает Кипр у Птолемеев; Птолемей XII молчит, вызывая возмущение в Александрии. Народное восстание изгоняет его из Египта, и его дочь Береника IV становится царицей",
       "era": "BC",
-      "latitude": 35.17,
-      "longitude": 33.36,
+      "latitude": 35.17607091,
+      "longitude": 33.36378336,
       "name": "Rome Annexes Cyprus",
       "name_ru": "Рим аннексирует Кипр",
       "source": "https://en.wikipedia.org/wiki/Roman_annexation_of_Cyprus",
