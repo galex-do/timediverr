@@ -1,5 +1,5 @@
 {
-  "description": "Alexander the Great: his life, campaigns, foundations, relationships, and the immediate succession and movement of his remains. Consolidated from the regional historical datasets, preserving the original bilingual event records.",
+  "description": "Alexander the Great: his life, campaigns, foundations, relationships, and the immediate succession and movement of his remains. Consolidated from regional historical datasets and supplemented with sourced campaign and city-foundation events.",
   "filename": "alexander_the_great.json",
   "events": [
     {
@@ -120,6 +120,48 @@
         "Regicide"
       ],
       "type": "political"
+    },
+    {
+      "date": "01.01.0335",
+      "description": "Alexander crossed the lower Danube with infantry and cavalry during his northern campaign against the Triballi and Getae. His men used local boats and improvised floats made from their leather tents to reach the opposite bank at night. The Getae withdrew after the Macedonian advance, abandoning a nearby settlement that Alexander's troops occupied.\n\nArrian described a force of about 4,000 infantry and 1,500 cavalry crossing the river, although these figures come from ancient testimony rather than a surviving military register. The operation followed unsuccessful attempts to attack the Triballi sheltering on Peuce Island. The precise crossing point and calendar date are uncertain; the map marker represents the lower-Danube region near modern Svishtov, not an identified battlefield.",
+      "description_ru": "Александр переправился через нижний Дунай с пехотой и конницей во время северного похода против трибаллов и гетов. Его воины использовали местные лодки и импровизированные поплавки из кожаных палаток, чтобы ночью достичь противоположного берега. Геты отступили при приближении македонян, оставив расположенное поблизости поселение, которое заняли войска Александра.\n\nАрриан описал переправу примерно 4 000 пехотинцев и 1 500 всадников, однако эти числа известны из античного рассказа, а не из сохранившихся военных списков. Операции предшествовали неудачные попытки атаковать трибаллов, укрывшихся на острове Певка. Точное место переправы и календарная дата неизвестны; отметка на карте обозначает район нижнего Дуная около современного Свиштова, а не установленное место сражения.",
+      "era": "BC",
+      "latitude": 43.619,
+      "longitude": 25.353,
+      "name": "Alexander crossed the Danube against the Getae",
+      "name_ru": "Александр переправился через Дунай против гетов",
+      "source": "https://en.wikipedia.org/wiki/Balkan_campaign_of_Alexander_the_Great",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Thracian",
+        "War",
+        "Battle",
+        "Expedition",
+        "Alexander the Great 👤"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0335",
+      "description": "Alexander attacked Pelium after the Illyrian leaders Cleitus and Glaucias challenged Macedonian control of the border region. Cleitus held the fortified settlement, while the arrival of Glaucias's reinforcements left the Macedonians exposed between the town and the surrounding heights. Alexander used a disciplined demonstration by his phalanx and cavalry to dislodge opposing troops and secure a route across the river.\n\nHe subsequently returned in a surprise night attack against the Illyrian camp, and Cleitus abandoned and burned Pelium before withdrawing. Control of the passage allowed the Macedonian army to leave the Illyrian frontier and march toward Greece. Pelium's precise location and the siege's calendar date remain uncertain; the map marker represents the proposed Korçë–Devoll area in modern Albania.",
+      "description_ru": "Александр атаковал Пелий после того, как иллирийские вожди Клит и Главкий оспорили македонский контроль над пограничной областью. Клит удерживал укреплённое поселение, а прибытие подкреплений Главкия поставило македонян в опасное положение между городом и окружающими высотами. Александр использовал согласованные манёвры фаланги и конницы, чтобы вытеснить противника и обеспечить путь через реку.\n\nЗатем он вернулся и внезапно атаковал иллирийский лагерь ночью; Клит оставил Пелий, сжёг его и отступил. Контроль над проходом позволил македонской армии покинуть иллирийскую границу и направиться в Грецию. Точное местоположение Пелия и календарная дата осады остаются неизвестными; отметка на карте обозначает предполагаемый район Корчи и реки Девол в современной Албании.",
+      "era": "BC",
+      "latitude": 40.65,
+      "longitude": 20.85,
+      "name": "Alexander defeated the Illyrians at Pelium",
+      "name_ru": "Александр разбил иллирийцев у Пелия",
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Pelium",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Illyrian",
+        "War",
+        "Battle",
+        "Siege",
+        "Alexander the Great 👤"
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.0335",
@@ -393,6 +435,28 @@
       "type": "military"
     },
     {
+      "date": "01.10.0332",
+      "description": "Alexander besieged Gaza when its commander Batis refused to surrender the fortified city on the coastal route to Egypt. Gaza stood on elevated ground, so the Macedonians built earthworks to bring their siege engines within reach of its walls. Equipment previously used at Tyre was brought south, and Alexander suffered a shoulder wound while repelling a sortie by the defenders.\n\nThe Macedonians eventually breached the walls and captured the city after repeated unsuccessful assaults. Ancient accounts describe the killing of many male inhabitants and the enslavement of women and children; Curtius also relates that Batis was dragged behind a chariot, a detail not independently established by all the surviving narratives. The capture removed the remaining major fortified obstacle on Alexander's approach to Egypt.",
+      "description_ru": "Александр осадил Газу после того, как её комендант Батис отказался сдать укреплённый город на прибрежном пути в Египет. Газа находилась на возвышенности, поэтому македоняне сооружали насыпи, чтобы приблизить осадные машины к стенам. Оборудование, ранее использованное у Тира, доставили на юг, а Александр получил ранение в плечо, отражая вылазку защитников.\n\nПосле нескольких неудачных штурмов македоняне пробили стены и захватили город. Античные рассказы сообщают об убийстве многих мужчин и обращении женщин и детей в рабство; Курций также описывает, как Батиса протащили за колесницей, но эту подробность независимо подтверждают не все сохранившиеся повествования. Взятие Газы устранило последний крупный укреплённый пункт, преграждавший Александру дорогу в Египет.",
+      "era": "BC",
+      "latitude": 31.5,
+      "longitude": 34.4667,
+      "name": "Alexander captured Gaza after a siege",
+      "name_ru": "Александр взял Газу после осады",
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Gaza_(332_BCE)",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Achaemenid",
+        "War",
+        "Siege",
+        "Conquest",
+        "Slavery",
+        "Alexander the Great 👤"
+      ],
+      "type": "military"
+    },
+    {
       "date": "01.11.0332",
       "description": "Egypt surrenders to Alexander without resistance; Egyptians welcome him as liberator from Persian rule, crowning him pharaoh",
       "description_ru": "Египет сдается Александру без сопротивления; египтяне приветствуют его как освободителя от персидского правления, коронуя фараоном",
@@ -499,6 +563,27 @@
         "Alexander the Great 👤"
       ],
       "type": "political"
+    },
+    {
+      "date": "01.01.0330",
+      "description": "Alexander encountered Persian resistance at the mountain passage known as the Persian Gate while advancing from Susa toward Persepolis. Ariobarzanes occupied the narrow approach with troops positioned above the road, where missiles and rocks disrupted the Macedonian advance. Alexander withdrew from the initial attack rather than continue through the defended defile.\n\nWith assistance from guides, he led a force along a mountain route to approach the Persian position from behind while troops under Craterus remained facing the pass. The coordinated attack broke the defence and opened the route into Persis and the royal treasury at Persepolis. Ancient narratives disagree about the defenders' numbers, the duration of the fighting, and Ariobarzanes's fate; the event is conventionally placed in the winter of the Macedonian advance.",
+      "description_ru": "Александр встретил персидское сопротивление в горном проходе, известном как Персидские ворота, продвигаясь из Суз к Персеполю. Ариобарзан занял узкий подход войсками, расположенными над дорогой, откуда стрелы и камни нарушили наступление македонян. Александр отступил после первой атаки, вместо того чтобы продолжать движение через обороняемое ущелье.\n\nС помощью проводников он провёл отряд по горной тропе в тыл персидской позиции, пока войска Кратера оставались перед проходом. Согласованная атака сломила оборону и открыла дорогу в Персиду, к царской казне в Персеполе. Античные повествования расходятся в оценках численности защитников, продолжительности боёв и судьбы Ариобарзана; сражение обычно относят к зимнему этапу македонского наступления.",
+      "era": "BC",
+      "latitude": 30.70833,
+      "longitude": 51.59861,
+      "name": "Alexander broke through the Persian Gate",
+      "name_ru": "Александр прорвался через Персидские ворота",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_the_Persian_Gate",
+      "tags": [
+        "Greek",
+        "Persian",
+        "Macedonian",
+        "Achaemenid",
+        "War",
+        "Battle",
+        "Alexander the Great 👤"
+      ],
+      "type": "military"
     },
     {
       "date": "01.02.0330",
@@ -646,6 +731,47 @@
       "type": "military"
     },
     {
+      "date": "01.01.0329",
+      "description": "Spitamenes raised a revolt against Macedonian rule in Sogdiana and besieged Alexander's garrison at Maracanda, modern Samarkand. He had helped surrender Bessus to the Macedonians, but subsequently opposed their occupation of the region. Alexander was engaged around the Jaxartes and Alexandria Eschate when he received news of the siege, so he sent a relief force rather than lead it himself.\n\nThe detachment, whose commanders included the interpreter Pharnuches, pursued Spitamenes and suffered a severe defeat near the Polytimetus River, modern Zarafshan. Alexander then marched toward Maracanda and found that the rebel force had withdrawn. The revolt's precise starting day and month are unknown; the map marker identifies the besieged garrison at Samarkand, not the separate battlefield where the relief force was defeated.",
+      "description_ru": "Спитамен поднял восстание против македонской власти в Согдиане и осадил гарнизон Александра в Мараканде, современном Самарканде. Он участвовал в выдаче Бесса македонянам, но затем выступил против их присутствия в области. Получив известие об осаде, Александр находился у Яксарта и Александрии Эсхаты, поэтому отправил подкрепления, а не возглавил их лично.\n\nОтряд, среди командиров которого был переводчик Фарнух, преследовал Спитамена и потерпел тяжёлое поражение у реки Политимет, современного Зарафшана. После этого Александр выступил к Мараканде и обнаружил, что повстанцы отступили. Точные день и месяц начала восстания неизвестны; отметка на карте обозначает осаждённый гарнизон в Самарканде, а не отдельное место сражения, где был разбит отправленный на помощь отряд.",
+      "era": "BC",
+      "latitude": 39.6547,
+      "longitude": 66.9758,
+      "name": "Spitamenes besieged Alexander's garrison at Maracanda",
+      "name_ru": "Спитамен осадил гарнизон Александра в Мараканде",
+      "source": "https://en.wikipedia.org/wiki/Spitamenes",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Sogdian",
+        "War",
+        "Revolt",
+        "Siege",
+        "Alexander the Great 👤"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.03.0329",
+      "description": "Alexander established Alexandria in the Caucasus at the southern approaches to the Hindu Kush, in the territory known to Greek writers as the Paropamisadae. The settlement controlled routes between the Kabul basin and the passes leading toward Bactria. Ancient accounts describe a population assembled from local inhabitants, mercenaries, and people accompanying the Macedonian army, but disagree about their numbers and composition.\n\nThe name referred to the Hindu Kush, which Greek geographical traditions connected with the Caucasus, rather than to the mountain range between the Black and Caspian seas. The foundation is usually associated with the Begram–Charikar area in modern Afghanistan, although its exact site remains debated. The map marker follows the proposed Begram location and does not establish continuous occupation of a single city from Alexander's time to the present.",
+      "description_ru": "Александр основал Александрию Кавказскую у южных подступов к Гиндукушу, в области, которую греческие авторы называли землёй паропамисадов. Поселение контролировало пути между Кабульской котловиной и перевалами, ведущими в Бактрию. Античные рассказы описывают население, набранное из местных жителей, наёмников и людей, сопровождавших македонскую армию, но расходятся в его численности и составе.\n\nНазвание относилось к Гиндукушу, который греческая географическая традиция связывала с Кавказом, а не к горной цепи между Чёрным и Каспийским морями. Основание обычно связывают с районом Беграма и Чарикара в современном Афганистане, хотя точное место остаётся спорным. Отметка на карте соответствует предполагаемому месту у Беграма и не доказывает непрерывного существования одного города от эпохи Александра до наших дней.",
+      "era": "BC",
+      "latitude": 34.99583,
+      "longitude": 69.31083,
+      "name": "Foundation of Alexandria in the Caucasus",
+      "name_ru": "Основание Александрии Кавказской",
+      "source": "https://en.wikipedia.org/wiki/Alexandria_in_the_Caucasus",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "City",
+        "Settlement",
+        "Expedition",
+        "Alexander the Great 👤"
+      ],
+      "type": "historic"
+    },
+    {
       "date": "01.07.0329",
       "description": "Cyropolis desperately resisted the Greek invasion, defending the name of its founder. While the main forces distracted the defenders at the walls, Alexander the Great and a small force sneaked inside through a dry riverbed that ran beneath the city walls. During the battle, Alexander was hit on the head by a stone and temporarily lost his sight. The city's resistance and the wound enraged Alexander, who ordered the city completely razed and the population enslaved.",
       "description_ru": "Кирополь отчаянно сопротивлялся вторжению греков, отстаивая имя своего основателя. Пока основные силы отвлекали защитников у стен, Александр Македонский с небольшим отрядом прокрался внутрь через высохшее русло реки, которое проходило под городской стеной. Александр во время боя получил по голове камнем и на время лишился зрения. Сопротивление города и ранение ввели Александра в ярость, он велел разорить город полностью, а население поработить.",
@@ -684,6 +810,27 @@
         "Alexander the Great 👤"
       ],
       "type": "historic"
+    },
+    {
+      "date": "01.10.0329",
+      "description": "Alexander crossed the Jaxartes, modern Syr Darya, to attack Saka horsemen threatening the Macedonian position near Alexandria Eschate. Missile fire from the southern bank covered the crossing, allowing infantry and cavalry to establish themselves beyond the river. The Macedonians then used successive mounted attacks to draw the nomadic cavalry into a fight where supporting troops could engage them.\n\nThe Saka withdrew, and Alexander's forces pursued them before returning to the river frontier. The battle took place near modern Khujand, but the precise crossing and battlefield have not been securely identified. Alexander's operations on the Jaxartes coincided with resistance farther south in Sogdiana, where Spitamenes had attacked the Macedonian garrison at Maracanda.",
+      "description_ru": "Александр переправился через Яксарт, современную Сырдарью, чтобы атаковать сакских всадников, угрожавших македонским позициям у Александрии Эсхаты. Обстрел с южного берега прикрыл переправу и позволил пехоте и коннице закрепиться за рекой. Затем македоняне последовательными конными атаками втянули кочевую конницу в бой, в котором смогли участвовать поддерживающие подразделения.\n\nСаки отступили, а войска Александра преследовали их, прежде чем вернуться к речной границе. Битва произошла около современного Худжанда, но точные места переправы и сражения достоверно не установлены. Действия Александра на Яксарте совпали с сопротивлением южнее, в Согдиане, где Спитамен атаковал македонский гарнизон в Мараканде.",
+      "era": "BC",
+      "latitude": 40.28333,
+      "longitude": 69.61667,
+      "name": "Alexander defeated the Saka at the Jaxartes",
+      "name_ru": "Александр разбил саков на Яксарте",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Jaxartes",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Scythian",
+        "War",
+        "Battle",
+        "Expedition",
+        "Alexander the Great 👤"
+      ],
+      "type": "military"
     },
     {
       "date": "01.01.0328",
@@ -762,6 +909,27 @@
       "type": "military"
     },
     {
+      "date": "01.04.0326",
+      "description": "Alexander attacked the mountain stronghold called Aornos during his advance toward the Indus. The defenders occupied a high plateau with water and land suitable for cultivation, making a prolonged blockade difficult. Guided by local people, Macedonian troops secured a neighbouring height and built an embankment across the intervening gap to bring their weapons closer to the defended position.\n\nThe defenders attempted to withdraw, and Alexander's troops occupied the stronghold after fighting at its approaches. Arrian associated the attack with a story that Heracles had failed to take the same place, while expressing doubt about that tradition. Aornos is often identified with Pir Sar near the upper Indus in modern Pakistan, but other locations have been proposed; the map marker represents the Pir Sar–Thakot area rather than a conclusively identified fortress.",
+      "description_ru": "Александр атаковал горную крепость Аорн во время продвижения к Инду. Защитники занимали высокое плато с источниками воды и землёй, пригодной для выращивания продовольствия, поэтому длительная блокада была затруднительна. Следуя указаниям местных проводников, македоняне заняли соседнюю высоту и построили насыпь через разделявшую позиции впадину, чтобы приблизить оружие к укреплению.\n\nЗащитники попытались отступить, и после боёв на подступах войска Александра заняли крепость. Арриан связал нападение с рассказом о том, что Геракл не смог взять это место, одновременно выразив сомнение в самом предании. Аорн часто отождествляют с Пир-Саром у верхнего Инда в современном Пакистане, но предложены и другие места; отметка на карте обозначает район Пир-Сара и Такота, а не достоверно установленную крепость.",
+      "era": "BC",
+      "latitude": 34.8,
+      "longitude": 72.85,
+      "name": "Alexander captured the mountain stronghold of Aornos",
+      "name_ru": "Александр взял горную крепость Аорн",
+      "source": "https://en.wikipedia.org/wiki/Aornos",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "War",
+        "Siege",
+        "Conquest",
+        "Legend",
+        "Alexander the Great 👤"
+      ],
+      "type": "military"
+    },
+    {
       "date": "01.05.0326",
       "description": "Alexander defeats Indian King Porus at Battle of Hydaspes despite facing war elephants for first time; impressed by Porus's valor, Alexander restores his kingdom and makes him ally",
       "description_ru": "Александр побеждает индийского царя Пора в битве при Гидаспе, несмотря на то что впервые встречается с боевыми слонами; впечатленный доблестью Пора, Александр возвращает ему царство и делает союзником",
@@ -781,6 +949,26 @@
         "Elephants"
       ],
       "type": "military"
+    },
+    {
+      "date": "01.05.0326",
+      "description": "Alexander ordered the foundation of Nicaea beside the Hydaspes, modern Jhelum River, after defeating Porus. Its name derived from the Greek word for victory, and it formed a pair with Bucephala, named for Alexander's horse on the opposite bank. Craterus supervised construction of the settlements, while Alexander celebrated the victory and foundations with athletic and equestrian contests.\n\nAncient accounts agree that two cities were founded but are less clear about which bank carried each name, although Nicaea is usually placed on the eastern side. Modern proposals include Mong, across the river from the proposed Bucephala site at Jalalpur Sharif, and other nearby locations. The map marker follows the Mong hypothesis, not a secure identification; shifting river channels and monsoon damage complicate attempts to locate the ancient settlement.",
+      "description_ru": "Александр приказал основать Никею у Гидаспа, современной реки Джелам, после победы над Пором. Её название происходило от греческого слова «победа», а на противоположном берегу находился парный город Букефала, названный в честь коня Александра. Кратер руководил строительством поселений, пока Александр отмечал победу и основания городов атлетическими и конными состязаниями.\n\nАнтичные рассказы согласны в том, что были основаны два города, но менее определённо указывают, какое название относилось к какому берегу, хотя Никею обычно помещают на восточной стороне. Среди современных предположений — Монг, через реку от предполагаемого места Букефалы у Джалалпур-Шарифа, и другие соседние места. Отметка на карте следует гипотезе о Монге, а не достоверному отождествлению; изменения русла и муссонные разрушения осложняют поиски древнего поселения.",
+      "era": "BC",
+      "latitude": 32.64667,
+      "longitude": 73.51,
+      "name": "Foundation of Nicaea on the Hydaspes",
+      "name_ru": "Основание Никеи на Гидаспе",
+      "source": "https://en.wikipedia.org/wiki/Boukephala_and_Nikaia",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "City",
+        "Settlement",
+        "Victory",
+        "Alexander the Great 👤"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.06.0326",
@@ -861,6 +1049,68 @@
         "Expedition"
       ],
       "type": "military"
+    },
+    {
+      "date": "01.01.0325",
+      "description": "Alexander ordered a city to be established near the confluence of the Indus and the Acesines, modern Chenab, during his army's descent through Punjab. The settlement is known as Alexandria on the Indus, and Arrian describes colonists drawn from local inhabitants and Thracian troops. He also records Alexander's instructions to his commander Philip to construct a city and dockyards at the meeting of the rivers.\n\nThe foundation provided a settlement and river base on the route used by the Macedonian army and fleet moving toward the Indus delta. Its precise ancient site has not been securely established, and the channels of both rivers have changed considerably. Modern Uch in Pakistan is a commonly proposed identification; the map marker follows that hypothesis rather than proving that Uch occupies the original foundation or survived continuously from Alexander's time.",
+      "description_ru": "Александр приказал заложить город около слияния Инда и Акесина, современного Ченаба, во время спуска своей армии через Пенджаб. Поселение известно как Александрия на Инде, а Арриан описывает поселенцев, набранных из местных жителей и фракийских воинов. Он также передаёт распоряжение Александра своему военачальнику Филиппу построить город и верфи у слияния рек.\n\nОснование создавало поселение и речную базу на пути македонской армии и флота, двигавшихся к дельте Инда. Точное древнее место достоверно не установлено, а русла обеих рек значительно изменились. Современный Уч в Пакистане часто предлагается как возможное отождествление; отметка на карте следует этой гипотезе, но не доказывает, что Уч занимает место первоначального основания или непрерывно существовал со времён Александра.",
+      "era": "BC",
+      "latitude": 29.2408,
+      "longitude": 71.0523,
+      "name": "Foundation of Alexandria on the Indus",
+      "name_ru": "Основание Александрии на Инде",
+      "source": "https://en.wikipedia.org/wiki/Alexandria_on_the_Indus",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Thracian",
+        "City",
+        "Settlement",
+        "Expedition",
+        "Alexander the Great 👤"
+      ],
+      "type": "historic"
+    },
+    {
+      "date": "01.01.0325",
+      "description": "Nearchus took Alexander's fleet from the lower Indus toward the Arabian Sea on an expedition intended to reach the Persian Gulf. Alexander assigned the naval command to him while leading the main army overland through Gedrosia. Strong winds and adverse sea conditions delayed the ships near the river mouth, where the crews built a protected camp and gathered shellfish for food.\n\nArrian's account describes an extended halt before the fleet continued along the coast toward the harbour called Morontobara, usually associated with the Karachi area. The expedition's starting point belonged to the ancient Indus delta, whose channels and coastline differ from those of the present day. The map marker represents that delta region, not an excavated departure harbour; Nearchus's lost narrative survives indirectly through authors including Arrian and Strabo.",
+      "description_ru": "Неарх вывел флот Александра из нижнего Инда к Аравийскому морю, начав экспедицию, целью которой было достичь Персидского залива. Александр поручил ему морское командование, а сам повёл главную армию по суше через Гедросию. Сильные ветры и неблагоприятные условия задержали корабли у речного устья, где экипажи построили защищённый лагерь и собирали моллюсков для пропитания.\n\nВ рассказе Арриана описана продолжительная остановка перед дальнейшим движением вдоль берега к гавани Моронтобы, которую обычно связывают с районом Карачи. Исходный пункт экспедиции находился в древней дельте Инда, русла и береговая линия которой отличались от современных. Отметка на карте обозначает район дельты, а не раскопанную гавань отправления; утраченный рассказ Неарха сохранился косвенно благодаря таким авторам, как Арриан и Страбон.",
+      "era": "BC",
+      "latitude": 24.1,
+      "longitude": 67.4,
+      "name": "Nearchus began the voyage from the Indus to the Persian Gulf",
+      "name_ru": "Неарх начал плавание от Инда к Персидскому заливу",
+      "source": "https://en.wikipedia.org/wiki/Nearchus",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Naval",
+        "Expedition",
+        "Exploration",
+        "Alexander the Great 👤"
+      ],
+      "type": "military"
+    },
+    {
+      "date": "01.01.0324",
+      "description": "Alexander established a settlement called Alexandria in Susiana near the meeting of the Tigris and Eulaios, close to the ancient head of the Persian Gulf. Pliny's account associates the foundation with an older settlement called Durine and describes a quarter named Pella, after Alexander's Macedonian birthplace. Macedonian veterans were settled there, providing a Greek-speaking community at a junction of river and maritime routes.\n\nThe foundation is generally identified with the site later known as Charax Spasinu, at Naysan in southern Iraq. Modern surveys and excavations have examined its surviving city walls and settlement remains, while changes in the rivers and coastline complicate reconstruction of the original harbour. The map marker represents the archaeological site, not a surviving modern city; its later names and rebuilding belong to subsequent rulers rather than to Alexander's original foundation.",
+      "description_ru": "Александр основал поселение под названием Александрия в Сусиане около слияния Тигра и Эвлея, недалеко от древней вершины Персидского залива. Рассказ Плиния связывает основание с более ранним поселением Дурина и описывает квартал Пелла, названный в честь родного македонского города Александра. Здесь поселили македонских ветеранов, создав грекоязычную общину на пересечении речных и морских путей.\n\nОснование обычно отождествляют с местом, позднее известным как Харакс Спасину, у Найсана в южном Ираке. Современные обследования и раскопки изучают сохранившиеся городские стены и остатки поселения, а изменения рек и береговой линии осложняют реконструкцию первоначальной гавани. Отметка на карте обозначает археологический памятник, а не сохранившийся современный город; последующие названия и перестройки относятся к другим правителям, а не к первоначальному основанию Александра.",
+      "era": "BC",
+      "latitude": 30.894692,
+      "longitude": 47.578031,
+      "name": "Foundation of Alexandria in Susiana",
+      "name_ru": "Основание Александрии в Сусиане",
+      "source": "https://en.wikipedia.org/wiki/Charax_Spasinu",
+      "tags": [
+        "Greek",
+        "Macedonian",
+        "Mesopotamian",
+        "City",
+        "Settlement",
+        "Trade",
+        "Alexander the Great 👤"
+      ],
+      "type": "historic"
     },
     {
       "date": "01.01.0324",
