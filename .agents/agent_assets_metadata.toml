@@ -56,3 +56,17 @@ mtime_ms = 1791124321480
 storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:1ee5e2ed-81c0-4ef2-81d2-d89d9d85947c/e7a577f1-9cd6-4f86-8c55-3ccc4a082793/dd6ef714-d6a0-4fc7-ab87-29d750e89f46"
 storage_version_token = "1791124367284344"
 content_type = "application/octet-stream"
+
+[[outputs]]
+id = "c3c8SdX8jiMRIvN3WLWS4"
+uri = "file://datasets/craft/mathematics.json"
+type = "unspecified"
+title = "Worldwide history of mathematics"
+description = "71 bilingual milestones, from prehistoric clay counters around 6500 BC to the three-dimensional Kakeya proof in 2025. Validated JSON with dates, coordinates, Wikipedia sources, and Mathematics tags; existing regional events remain unchanged."
+logical_id = "5ccb0a2d-442c-4d15-823f-e1b62e5b496f"
+content_hash = "sha256:76e528ffa67869dfad3f01e6d21a92a8b2172485b3aa91b434d30a49f00cb574"
+size = 181265
+mtime_ms = 1791195298021
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:1ee5e2ed-81c0-4ef2-81d2-d89d9d85947c/5ccb0a2d-442c-4d15-823f-e1b62e5b496f/b78eed99-26ef-4ba1-a547-31ba9d231346"
+storage_version_token = "1791195413297874"
+content_type = "application/octet-stream"
