@@ -10,3 +10,4 @@
 - [Lean payload refactors silently drop implied ordering](lean-payload-order-loss.md) — slimming a bulk API payload to bare IDs loses any ordering (e.g. weight) the embedded objects used to carry; resolvers must re-sort explicitly.
 - [Atomic dataset events & cross-file duplicates](atomic-dataset-events.md) — one date/place/happening per event, tag-chain a person's arc across entries instead of one multi-year summary; grep sibling files for duplicate events before finalizing.
 - [Mathematics collection scope](mathematics-collection-scope.md) — a worldwide supplement, not a consolidation; preserve mathematical events in their original regional datasets.
+- [Scientific dataset style](scientific-dataset-style.md) — the user's refined mathematics.json is the key reference: explain historical value, mechanisms, applications, and curious facts, not marker/date bookkeeping.
