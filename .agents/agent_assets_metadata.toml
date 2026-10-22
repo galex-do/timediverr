@@ -70,3 +70,17 @@ mtime_ms = 1791195298021
 storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:1ee5e2ed-81c0-4ef2-81d2-d89d9d85947c/5ccb0a2d-442c-4d15-823f-e1b62e5b496f/b78eed99-26ef-4ba1-a547-31ba9d231346"
 storage_version_token = "1791195413297874"
 content_type = "application/octet-stream"
+
+[[outputs]]
+id = "ZabMkBDBvGwtsYtyMr-g_"
+uri = "file://datasets/craft/physics.json"
+type = "unspecified"
+title = "Physics: 100 historical events — English and Russian"
+description = "400 BC–2022: discoveries, experiments, instruments, and regional scientific developments. Includes Wikipedia sources, coordinates, and tags. Dataset file only; not imported into the app database."
+logical_id = "e24fb6f2-83af-4149-8ca5-7a1d8d314ebc"
+content_hash = "sha256:73e69d964fd234efb25ef058e747cf05dba0ebc0fa55772a3b92cfbdf4a0dd28"
+size = 238357
+mtime_ms = 1792677927383
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:1ee5e2ed-81c0-4ef2-81d2-d89d9d85947c/e24fb6f2-83af-4149-8ca5-7a1d8d314ebc/257b5c98-def0-4091-997e-ed457f01e288"
+storage_version_token = "1792677952389979"
+content_type = "application/octet-stream"

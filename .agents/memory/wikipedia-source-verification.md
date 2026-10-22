@@ -12,6 +12,14 @@ Guessing a Wikipedia URL from an event's topic often produces a 404 or lands on 
 
 A general web search snippet on a contested "hard to believe" claim (name origins, ethnonym derivations, "X invented Y" trivia) is often a simplified or one-sided paraphrase. Before writing it into a dataset, fetch the specific Wikipedia article's own "Etymology"/"Name"/"Origins" section directly — it usually states the actual scholarly disagreement (e.g. multiple competing theories) that the search snippet flattened, letting you write an accurate, appropriately hedged sentence instead of an overclaim.
 
+## Keep large source audits compact
+
+Retain short evidence excerpts and source URLs rather than accumulating complete fetch response objects in the persistent notebook.
+
+**Why:** A large multi-page scientific source audit exceeded the notebook's approximately 32 MiB memory limit, which reset its variables even though the fetches had succeeded.
+
+**How to apply:** Extract relevant facts within each fetch batch, discard the raw response, and save compact research notes outside notebook memory when the audit is long.
+
 ## Check coordinates against the article's geography
 
 Do not copy Wikipedia infobox coordinates without checking that they match the place described in the article.

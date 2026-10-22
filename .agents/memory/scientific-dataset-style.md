@@ -20,3 +20,11 @@ The user designated their refined `datasets/craft/mathematics.json` as the **key
 - Continue checking factual claims, especially priority claims, comparisons with earlier traditions, and assertions about later applications. The reference establishes the desired editorial approach, not an exemption from source verification.
 
 The user-refined Kalman, al-Uqlidisi, Hamilton, Newton calculus, al-Kashi, and FFT entries are useful calibration examples. Reopen the current file before writing; do not rely on remembered wording.
+
+## Regional significance belongs in scientific history
+
+Include events that changed a regional scientific or practical context, not only inventions with worldwide priority or worldwide influence.
+
+**Why:** The user pointed to Japanese mathematics developing independently and asked for physics events “if they changed worldwide or even regional context.”
+
+**How to apply:** Look for independent approaches, locally consequential experiments and instruments, and adaptations that enabled a scientific tradition to work in its own conditions. Explain what changed for that community. Distinguish a local introduction from a worldwide invention without repeatedly apologizing that it was not a world first.
