@@ -84,3 +84,17 @@ mtime_ms = 1792677927383
 storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:1ee5e2ed-81c0-4ef2-81d2-d89d9d85947c/e24fb6f2-83af-4149-8ca5-7a1d8d314ebc/257b5c98-def0-4091-997e-ed457f01e288"
 storage_version_token = "1792677952389979"
 content_type = "application/octet-stream"
+
+[[outputs]]
+id = "qWH_ufehwQH7f_7FUtcov"
+uri = "file://datasets/craft/philosophy.json"
+type = "unspecified"
+title = "Philosophy dataset — 83 bilingual events"
+description = "A worldwide EN/RU collection of new philosophical milestones, supplementing existing events with problem-led explanations and historical consequences."
+logical_id = "22623a00-0493-4cdf-81cc-f11dc91b2158"
+content_hash = "sha256:c1028dccfccbf6137d8cb4f6cf09159cb0b0bb12223a2a26784c0bc1333863ea"
+size = 223610
+mtime_ms = 1793445983596
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:1ee5e2ed-81c0-4ef2-81d2-d89d9d85947c/22623a00-0493-4cdf-81cc-f11dc91b2158/b537e415-44c2-4d11-b9d8-435543b1eaf3"
+storage_version_token = "1793446025548942"
+content_type = "application/octet-stream"
